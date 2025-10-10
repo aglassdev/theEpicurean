@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Backup and test files
+src/App-backup.jsx
+src/App-new.jsx
+src/App-optimized.jsx
+src/test-routes.js
+*-backup.jsx
+*-optimized.jsx

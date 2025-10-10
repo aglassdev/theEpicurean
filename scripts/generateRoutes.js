@@ -1,10 +1,25 @@
 import { readdir } from 'fs/promises';
-import { join, dirname, relative } from 'path';
+import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { writeFile } from 'fs/promises';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const srcDir = join(__dirname, '../src');
+
+const EXCLUDED_FILES = [
+  'App.jsx', 
+  'App-backup.jsx', 
+  'App-new.jsx', 
+  'App-optimized.jsx',
+  'main.jsx', 
+  'Home.jsx', 
+  'Destinations.jsx', 
+  'Methodology.jsx',
+  'InteractiveMap.jsx',
+  'test-routes.js',
+  'index.css',
+  'App.css'
+];
 
 async function findAllComponents(dir, base = '') {
   const components = [];
@@ -20,10 +35,8 @@ async function findAllComponents(dir, base = '') {
         entry.name !== 'pictures') {
       components.push(...await findAllComponents(fullPath, relativePath));
     } else if (entry.isFile() && entry.name.endsWith('.jsx')) {
-      // Skip main app files
-      if (['App.jsx', 'App-backup.jsx', 'App-new.jsx', 'App-optimized.jsx', 
-           'main.jsx', 'Home.jsx', 'Destinations.jsx', 'Methodology.jsx', 
-           'InteractiveMap.jsx', 'test-routes.js'].includes(entry.name)) {
+      // Skip excluded files
+      if (EXCLUDED_FILES.includes(entry.name)) {
         continue;
       }
       
@@ -53,9 +66,5 @@ await writeFile(
   JSON.stringify(components, null, 2)
 );
 
-console.log('✓ routes.json generated');
-
-// Also generate a list of imports for debugging
-const sampleImports = components.slice(0, 10).map(c => c.import).join('\n');
-console.log('\nSample import paths:');
-console.log(sampleImports);
+console.log('✓ routes.json generated successfully');
+console.log(`✓ Total routes: ${components.length}`);
