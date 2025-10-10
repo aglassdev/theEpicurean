@@ -1,15 +1,5 @@
 [
   {
-    "path": "/app-backup",
-    "component": "App-backup",
-    "import": "./App-backup.jsx"
-  },
-  {
-    "path": "/app-new",
-    "component": "App-new",
-    "import": "./App-new.jsx"
-  },
-  {
     "path": "/argentina/buenos-aires/buenos-aires/4tapared",
     "component": "4taPared",
     "import": "./argentina/buenos-aires/buenos-aires/4taPared.jsx"
