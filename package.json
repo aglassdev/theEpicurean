@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/generateRoutes.js && vite build",
+    "build": "vite build",
+    "build-with-routes": "node scripts/generateRoutes.js && vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "generate": "node scripts/generateRestaurants.js",

@@ -17,51 +17,84 @@ const LoadingSpinner = () => (
   </div>
 );
 
-// Get all component modules
+// Get all component modules - this is compiled at build time
 const modules = import.meta.glob('./**/*.jsx');
 
-// Debug: Log available modules on load
-console.log('Available modules:', Object.keys(modules).length);
-console.log('Sample modules:', Object.keys(modules).slice(0, 5));
+// Create a normalized path map for faster lookups
+const pathMap = Object.keys(modules).reduce((acc, path) => {
+  // Normalize the path: remove ./, convert to lowercase, handle spaces
+  const normalized = path
+    .replace(/^\.\//, '')
+    .replace(/\.jsx$/, '')
+    .toLowerCase()
+    .replace(/\s+/g, '-');
+  acc[normalized] = path;
+  return acc;
+}, {});
 
-const LazyComponent = ({ importPath }) => {
+console.log('Available components:', Object.keys(modules).length);
+
+const DynamicComponent = () => {
   const [Component, setComponent] = React.useState(null);
   const [error, setError] = React.useState(null);
+  const [loading, setLoading] = React.useState(true);
 
   React.useEffect(() => {
     const loadComponent = async () => {
       try {
-        console.log('Attempting to load:', importPath);
+        // Get the current path without leading slash
+        const currentPath = window.location.pathname.slice(1);
         
-        const module = modules[importPath];
+        console.log('Loading component for path:', currentPath);
+
+        // Try to find the module
+        let modulePath = pathMap[currentPath];
         
-        if (!module) {
-          // Try to find similar paths
-          const similarPaths = Object.keys(modules).filter(p => 
-            p.toLowerCase().includes(importPath.toLowerCase().split('/').pop().replace('.jsx', ''))
-          );
+        // If not found, try with ./ prefix
+        if (!modulePath) {
+          modulePath = `./${currentPath}.jsx`;
+          if (!modules[modulePath]) {
+            modulePath = null;
+          }
+        }
+
+        if (!modulePath) {
+          // Search for similar paths
+          const searchTerm = currentPath.split('/').pop();
+          const similarPaths = Object.keys(pathMap)
+            .filter(p => p.includes(searchTerm))
+            .slice(0, 5);
           
-          console.error('Module not found:', importPath);
-          console.log('Similar paths found:', similarPaths);
+          console.error('Component not found:', currentPath);
+          console.log('Similar paths:', similarPaths);
           
           setError({
-            message: `Component not found: ${importPath}`,
-            similarPaths: similarPaths.slice(0, 3)
+            message: `Component not found: /${currentPath}`,
+            similarPaths: similarPaths.map(p => `/${p}`)
           });
+          setLoading(false);
           return;
         }
 
-        const loaded = await module();
-        console.log('Successfully loaded:', importPath);
-        setComponent(() => loaded.default);
+        console.log('Loading module:', modulePath);
+        const module = await modules[modulePath]();
+        console.log('Successfully loaded:', modulePath);
+        
+        setComponent(() => module.default);
+        setLoading(false);
       } catch (err) {
-        console.error('Error loading component:', importPath, err);
+        console.error('Error loading component:', err);
         setError({ message: err.message });
+        setLoading(false);
       }
     };
 
     loadComponent();
-  }, [importPath]);
+  }, []);
+
+  if (loading) {
+    return <LoadingSpinner />;
+  }
 
   if (error) {
     return (
@@ -78,18 +111,26 @@ const LazyComponent = ({ importPath }) => {
         textAlign: 'center'
       }}>
         <div style={{ fontSize: '32px', marginBottom: '20px', color: '#999' }}>404</div>
-        <div style={{ fontSize: '20px', marginBottom: '10px' }}>Component Not Found</div>
+        <div style={{ fontSize: '20px', marginBottom: '10px' }}>Page Not Found</div>
         <div style={{ fontSize: '14px', color: '#999', marginBottom: '20px', maxWidth: '600px' }}>
-          {importPath}
-        </div>
-        <div style={{ fontSize: '12px', color: '#ccc', marginTop: '10px' }}>
           {error.message}
         </div>
         {error.similarPaths && error.similarPaths.length > 0 && (
           <div style={{ fontSize: '12px', color: '#aaa', marginTop: '20px' }}>
-            <div>Similar paths found:</div>
+            <div>Did you mean:</div>
             {error.similarPaths.map(p => (
-              <div key={p} style={{ fontFamily: 'monospace', marginTop: '5px' }}>{p}</div>
+              <a 
+                key={p} 
+                href={p}
+                style={{ 
+                  display: 'block',
+                  fontFamily: 'monospace', 
+                  marginTop: '5px',
+                  color: '#0066cc'
+                }}
+              >
+                {p}
+              </a>
             ))}
           </div>
         )}
@@ -118,29 +159,6 @@ const LazyComponent = ({ importPath }) => {
 };
 
 function App() {
-  const [routes, setRoutes] = React.useState([]);
-  const [loading, setLoading] = React.useState(true);
-
-  React.useEffect(() => {
-    // Try to load routes.json
-    import('./routes.json')
-      .then(module => {
-        const data = module.default || module;
-        console.log('Loaded routes:', data.length);
-        setRoutes(data);
-        setLoading(false);
-      })
-      .catch(err => {
-        console.error('Failed to load routes.json:', err);
-        setRoutes([]);
-        setLoading(false);
-      });
-  }, []);
-
-  if (loading) {
-    return <LoadingSpinner />;
-  }
-
   return (
     <BrowserRouter>
       <Suspense fallback={<LoadingSpinner />}>
@@ -149,26 +167,8 @@ function App() {
           <Route path="/destinations" element={<Destinations />} />
           <Route path="/methodology" element={<Methodology />} />
           
-          {routes.map((route, idx) => {
-            // Skip main app components
-            const skipComponents = [
-              './Home.jsx', './Destinations.jsx', './Methodology.jsx',
-              './App.jsx', './App-backup.jsx', './App-new.jsx', './App-optimized.jsx',
-              './InteractiveMap.jsx', './main.jsx'
-            ];
-            
-            if (skipComponents.includes(route.import)) {
-              return null;
-            }
-
-            return (
-              <Route 
-                key={route.path || `route-${idx}`}
-                path={route.path} 
-                element={<LazyComponent importPath={route.import} />} 
-              />
-            );
-          })}
+          {/* Catch-all route for dynamic components */}
+          <Route path="*" element={<DynamicComponent />} />
         </Routes>
       </Suspense>
     </BrowserRouter>
