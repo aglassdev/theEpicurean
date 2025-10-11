@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Signum",
+  "address": "via Scalo 15, Malfa, 98050, Italy",
+  "cuisine": "Sicilian, Contemporary",
+  "priceRange": "€€€€",
+  "phoneNumber": "+390909844222",
+  "website": "https://www.hotelsignum.it",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "A modern and welcoming restaurant, its cuisine is best described by the slogan “Tradition & Innovation.” The menu, available both à la carte and as a tasting experience, features classic dishes such as Smoked Risotto with minced sheep meat and bay leaf, alongside more creative offerings such as Lettuce, almond tamari, and smoked kefir. Each creation is presented with contemporary flair and meticulous attention to detail, often enriched by oriental techniques and Nordic preservation methods such as fermentation, marination, and fish aging. The wine list is updated to match the seasonality of the menu and is complemented by a selection of homemade juices and kombucha, conceived for a refined non-alcoholic pairing....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=via%20Scalo%2015%2C%20Malfa%2C%2098050%2C%20Italy",
+  "pageTitle": "Signum"
+}

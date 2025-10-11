@@ -1,0 +1,72 @@
+{
+  "headerImages": [
+    "/images/rania1.png",
+    "/images/rania2.png"
+  ],
+  "restaurantName": "Rania",
+  "address": "427 11th St NW, Washington, DC 20004, USA",
+  "cuisine": "Contemporary Indian",
+  "priceRange": "$$$ · Set Menu",
+  "phoneNumber": "+1 202 804 6434",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Sunday": {
+      "lunch": "11:00 - 13:45",
+      "dinner": "17:00 - 21:00"
+    }
+  },
+  "website": "https://www.raniadc.com/",
+  "reservationProviders": "[\n      { type: \"opentable\", name: \"OpenTable\", url: \"https://www.opentable.com/r/rania-dc-washington\", logo: \"/images/opentable.png\" }\n    ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Diner's Choice Award",
+      "count": "Service Excellence",
+      "year": "2024",
+      "image": "/images/dinersChoice.png",
+      "organization": "OpenTable"
+    }
+  ],
+  "bio": "Rania, a Michelin-starred restaurant in downtown Washington, D.C., reimagines Indian cuisine through a bold, contemporary lens. Opened in 2021 and led by Chef Chetan Shetty, Rania—which means “queen” in Hindi—offers an experience that blends the vibrancy of Indian flavors with refined modern technique. Before taking the helm at Rania, Shetty served as executive chef at Rasika, one of D.C.’s most acclaimed Indian restaurants, where he honed his ability to balance tradition with innovation and built a reputation for precision and creativity. At Rania, that expertise is brought to new heights through a tasting menu that highlights traditional spices and regional influences while incorporating seasonal and local ingredients. Guests might encounter delicately spiced seafood, inventive vegetarian preparations, or rich curries presented with striking artistry and unexpected pairings, each plate reflecting both Shetty’s heritage and his modern approach. The dramatic, jewel-toned dining room creates an atmosphere of luxury and warmth, while inventive cocktails and a curated wine program enhance the journey. With its immersive style, deep cultural roots, and forward-looking vision, Rania has established itself as one of Washington’s most distinctive and exciting fine dining destinations.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.157361271246!2d-77.02941562406335!3d38.89564107172446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b770cad60981%3A0x5a377f0f2a46da0!2sRania!5e1!3m2!1sen!2sus!4v1755548576051!5m2!1sen!2sus",
+  "pageTitle": "Rania"
+}

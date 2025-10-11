@@ -1,0 +1,20 @@
+{
+  "restaurantName": "Zia",
+  "address": "via Goffredo Mameli 45, Rome, 00153, Italy",
+  "cuisine": "Innovative",
+  "priceRange": "€€€",
+  "phoneNumber": "+390623488093",
+  "website": "https://ziarestaurant.com/",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "A young chef of undoubted talent is at the helm of this restaurant situated behind the busier, more tourist-frequented streets of Trastevere. The chef in question is Antonio Ziantoni (hence the name of the restaurant), who creates imaginative cuisine that is nonetheless based on solid classic foundations – this gives his dishes structure, solidity and real appeal, as well as full and rounded flavours. One of the most interesting Michelin-starred restaurants in Rome....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=via%20Goffredo%20Mameli%2045%2C%20Rome%2C%2000153%2C%20Italy",
+  "pageTitle": "Zia"
+}

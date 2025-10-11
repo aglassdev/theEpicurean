@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Anona",
+  "address": "80 boulevard des Batignolles, Paris, 75017, France",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€€€",
+  "phoneNumber": "+33184790115",
+  "website": "https://www.anona.fr/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "In a lively, working-class enclave, this place serves good contemporary cuisine. Talented chef Thibaut Spiwack, whose CV includes Michelin-starred kitchens, finds original ways to showcase produce from the Paris region. The emphasis is on sustainable development and a desire to challenge the codes of gastronomy. Attractive set menu plus a few à la carte options at lunchtime; in the evening, a single set menu with several courses. A moment of gastronomic pleasure....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=80%20boulevard%20des%20Batignolles%2C%20Paris%2C%2075017%2C%20France",
+  "pageTitle": "Anona"
+}

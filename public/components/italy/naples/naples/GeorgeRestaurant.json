@@ -1,0 +1,20 @@
+{
+  "restaurantName": "George Restaurant",
+  "address": "corso Vittorio Emanuele 135, Naples, 80121, Italy",
+  "cuisine": "Contemporary",
+  "priceRange": "€€€€",
+  "phoneNumber": "+390817612474",
+  "website": "https://www.georgerestaurant.it/",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 2,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "This roof-garden restaurant in one of Naples’ most luxurious hotels (Grand Hotel Parker’s) boasts an open-view kitchen facing a breathtaking panorama that takes in Vesuvius, the Bay of Naples and the city itself, which extends below the hotel in an evocative display of sparkling lights. It’s a challenge for the cuisine to compete with so much beauty but young chef Domenico Candela is more than equal to the task. His cuisine showcases the culinary specialities of the city and further afield with extraordinary skill, combining superb produce and recipes from Campania with techniques learnt in France to produce truly remarkable reinterpretations of regional dishes....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=corso%20Vittorio%20Emanuele%20135%2C%20Naples%2C%2080121%2C%20Italy",
+  "pageTitle": "George Restaurant"
+}

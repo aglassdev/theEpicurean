@@ -1,0 +1,70 @@
+{
+  "headerImages": [
+    "/images/jacquesbrasserie1.png",
+    "/images/jacquesbrasserie2.png"
+  ],
+  "restaurantName": "Jacques' Brasserie at L’Auberge Chez François",
+  "address": "332 Springvale Rd, Great Falls, VA 22066, USA",
+  "cuisine": "Classic French",
+  "priceRange": "$$$ · À La Carte",
+  "phoneNumber": "+1 703 759 3800",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Wednesday": {
+      "lunch": "11:30 - 13:30",
+      "dinner": "16:30 - 21:00"
+    },
+    "Thursday": {
+      "lunch": "11:30 - 13:30",
+      "dinner": "16:30 - 21:00"
+    },
+    "Friday": {
+      "lunch": "11:30 - 13:30",
+      "dinner": "16:30 - 21:00"
+    },
+    "Saturday": {
+      "lunch": "11:30 - 13:30",
+      "dinner": "16:30 - 21:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "11:30 - 20:00"
+    }
+  },
+  "website": "https://www.laubergechezfrancois.com/jacques-brasserie/",
+  "reservationProviders": "[\n        { type: \"opentable\", name: \"OpenTable\", url: \"https://www.opentable.com/lauberge-chez-francois?corrid=ae42af54-d879-4150-bad7-5c247a8c9b94&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-05-27T19%3A00%3A00\", logo: \"/images/opentable.png\" }\n      ]",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Four Diamond Award",
+      "count": "Service Excellence",
+      "year": "2024",
+      "image": "/images/fourdiamondaward.png",
+      "organization": "AAA Travel"
+    },
+    {
+      "name": "Award of Excellence",
+      "count": "sustainabilty",
+      "year": "2025",
+      "image": "/images/dirona.png",
+      "organization": "DiRōNA"
+    },
+    {
+      "name": "Diner's Choice Award",
+      "count": "Service Excellence",
+      "year": "2024",
+      "image": "/images/dinersChoice.png",
+      "organization": "OpenTable"
+    }
+  ],
+  "bio": "Jacques’ Brasserie, located beneath the renowned L’Auberge Chez François in Great Falls, Virginia, brings a more relaxed yet equally authentic expression of French dining to the Washington, D.C. area. Opened by Chef Jacques Haeringer as a tribute to his father’s Alsatian heritage, the brasserie offers an atmosphere that balances rustic charm with elegance, featuring hand-painted ceramics, copper accents, and a cozy wood-beamed interior that transports guests to the French countryside. The menu focuses on hearty, comforting French bistro classics, from bubbling onion soup and tarte flambée to cassoulet and the restaurant’s famed soufflés, all prepared with seasonal ingredients and meticulous attention to detail. Fine wines from France and beyond complement the fare, with a thoughtful list curated to pair perfectly with the brasserie’s signature dishes. While L’Auberge Chez François upstairs offers a formal fine dining experience, Jacques’ Brasserie has become beloved in its own right for its warmth, accessibility, and ability to deliver French tradition in a more casual setting. With its combination of soulful cuisine, inviting atmosphere, and deep culinary lineage, Jacques’ Brasserie has secured its place as a destination for those seeking both comfort and authenticity just outside the nation’s capital.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2998.4972492304373!2d-77.30801952432975!3d39.02925353891376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b636b75d7fd461%3A0xa652f879ad41c843!2sJacques&#39;%20Brasserie!5e1!3m2!1sen!2sus!4v1756532370373!5m2!1sen!2sus",
+  "pageTitle": "Jacques' Brasserie at L’Auberge Chez François"
+}

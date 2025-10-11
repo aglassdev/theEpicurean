@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Tri",
+  "address": "Vesterhavsvej 5A, Agger, 7770, Denmark",
+  "cuisine": "Creative",
+  "priceRange": "€€€€",
+  "phoneNumber": "+4522707999",
+  "website": "https://www.restaurant-tri.com/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "In a small coastal town by the North Sea you'll find this contemporary greenhouse-like building. Made from wood and glass, it is a bright and airy space that is filled with customers enjoying quality cooking. Chef Nicolas Min Jørgensen has created a menu themed around seasonal and local produce, which is used with a nose-to-tail, low waste ethos. Dishes provide pure, natural flavours and are prepared with care and precision....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Vesterhavsvej%205A%2C%20Agger%2C%207770%2C%20Denmark",
+  "pageTitle": "Tri"
+}

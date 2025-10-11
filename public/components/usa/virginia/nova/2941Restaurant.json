@@ -1,0 +1,70 @@
+{
+  "headerImages": [
+    "/images/2941restaurant1.png",
+    "/images/2941restaurant2.png"
+  ],
+  "restaurantName": "2941 Restaurant",
+  "address": "2941 Fairview Park Dr, Falls Church, VA 22042, USA",
+  "cuisine": "French-Influenced American",
+  "priceRange": "$$$ · Prix Fixe · À La Carte",
+  "phoneNumber": "+1 703 270 1500",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:30"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:30"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:30"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:30"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "16:00 - 23:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://www.2941.com/",
+  "reservationProviders": "[\n        { type: \"opentable\", name: \"OpenTable\", url: \"https://www.opentable.com/r/2941-restaurant-falls-church\", logo: \"/images/opentable.png\" }\n      ]",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Four Diamond Award",
+      "count": "Service Excellence",
+      "year": "2024",
+      "image": "/images/fourdiamondaward.png",
+      "organization": "AAA Travel"
+    },
+    {
+      "name": "Award of Excellence",
+      "count": "sustainabilty",
+      "year": "2025",
+      "image": "/images/dirona.png",
+      "organization": "DiRōNA"
+    },
+    {
+      "name": "Pastry Chef of the Year",
+      "count": "Sustainability",
+      "year": "2014",
+      "image": "/images/ramw.png",
+      "organization": "RAMW"
+    }
+  ],
+  "bio": "2941 Restaurant, located in Falls Church, Virginia, is one of the region’s most elegant dining destinations, blending contemporary American cuisine with French and Mediterranean influences under the leadership of Executive Chef Bertrand Chemel. Set against a serene backdrop of lush gardens, waterfalls, and a private lake, the restaurant offers one of the most striking settings in the D.C. area, combining natural beauty with modern, art-filled interiors. Chemel, a veteran of Michelin-starred kitchens, brings refined technique and a passion for seasonal ingredients to every plate, creating a menu that balances sophistication with approachability. Signature dishes often highlight local produce, sustainably sourced seafood, and premium meats, presented with an eye for color, texture, and harmony. The wine program, overseen by an expert sommelier team, features an extensive global list with a particular strength in French and Californian vintages, offering pairings that elevate the dining experience. Known for its impeccable service and attention to detail, 2941 has earned critical acclaim and a loyal following among those seeking both everyday luxury and celebratory dining. With its fusion of world-class cuisine, breathtaking ambiance, and polished hospitality, 2941 stands as one of the most memorable and distinctive restaurants in the greater Washington area.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.258659295329!2d-77.2177617240645!3d38.86959897173006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64ca011f7d65b%3A0x724193a34a68631!2s2941%20Restaurant!5e1!3m2!1sen!2sus!4v1756585889965!5m2!1sen!2sus",
+  "pageTitle": "2941 Restaurant"
+}

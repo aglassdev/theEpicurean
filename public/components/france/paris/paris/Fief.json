@@ -1,0 +1,24 @@
+{
+  "restaurantName": "FIEF",
+  "address": "44 rue de la Folie-Méricourt, Paris, 75011, France",
+  "cuisine": "Modern Cuisine, Creative",
+  "priceRange": "€€€€",
+  "phoneNumber": "+33147000322",
+  "website": "https://www.fiefrestaurant.fr/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "FIEF is a play on words, meaning Fait Ici En France (Made Here In France) and HQ, because its chef, Victor Mercier, who rose to fame in the French Top Chef TV show in 2018, ONLY uses 100% French produce. Sichuan pepper from Gers, Soustons peanuts, Poitou pigeon, Brittany fish, Montpellier yuzu, French satay, Burgundy miso, even the ice cream is flavoured with sweet clover instead of vanilla. On the basis of this culinary ethos, the virtuoso chef flawlessly crafts flavoursome dishes flanked by gutsy sauces rich in character and personality. Take a seat at the counter to enjoy the experience close up and chat with the chef and his team who explain the ins and outs of each dish in real time for a truly fascinating insight into the culinary mindset of Victor and his talented troupe....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=44%20rue%20de%20la%20Folie-M%C3%A9ricourt%2C%20Paris%2C%2075011%2C%20France",
+  "pageTitle": "FIEF"
+}

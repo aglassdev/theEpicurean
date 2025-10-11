@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Alimentum",
+  "address": "Løkkegade 23, Aalborg, 9000, Denmark",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€€",
+  "phoneNumber": "+4593913767",
+  "website": "https://www.alimentum.dk",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "The foliage-covered walls are the first clue as to Alimentum’s nature-focused ethos. Both plants and animals come from their farm, Lille Østergaard, and are used with a seasonal approach – with the winter menus featuring a host of ingredients that have been preserved throughout the summer. Most courses come with a side dish – a variation of the main ingredient that often includes lesser-used cuts – and the superbly executed combinations feature the likes of lobster tail and carrots or parsnip, chocolate and hazelnuts. For a special occasion, book the ‘Foodlab’ counter for a menu of around 30 courses....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=L%C3%B8kkegade%2023%2C%20Aalborg%2C%209000%2C%20Denmark",
+  "pageTitle": "Alimentum"
+}

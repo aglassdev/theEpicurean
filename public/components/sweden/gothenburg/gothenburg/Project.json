@@ -1,0 +1,20 @@
+{
+  "restaurantName": "Project",
+  "address": "Södra Vägen 45, Gothenburg, 412 54, Sweden",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€€",
+  "phoneNumber": "+4631181858",
+  "website": "https://www.projectgbg.com/",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "This cosy restaurant is personally run by a husband and wife team, whose balanced, seasonal tasting menu sees seafood and local game lead the way. The cooking is refined, original and intensely flavoured, while the eloquent team proudly explain the components of each dish with a smile. There are a number of Japanese influences on the menu too, like in the turbot with yuzu kosho and shiitake. The delicious bread takes five days to make....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=S%C3%B6dra%20V%C3%A4gen%2045%2C%20Gothenburg%2C%20412%2054%2C%20Sweden",
+  "pageTitle": "Project"
+}

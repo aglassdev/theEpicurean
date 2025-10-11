@@ -1,0 +1,67 @@
+{
+  "headerImages": [
+    "/images/imperfecto3.png",
+    "/images/imperfecto2.png"
+  ],
+  "restaurantName": "Imperfecto by Enrique Limardo: The Chef's Table",
+  "address": "1124 23rd St NW, Washington, 20037, USA",
+  "cuisine": "Latin American Mediterranean Fusion",
+  "priceRange": "$$$$ · Prix Fixe",
+  "phoneNumber": "+1 202 964-1012",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "19:00 - 22:30"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "19:00 - 22:30"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "19:00 - 22:30"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "19:00 - 22:30"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://www.sevenreasonsgroup.com/imperfecto",
+  "reservationProviders": "[\n      { type: \"opentable\", name: \"OpenTable\", url: \"https://www.opentable.com/booking/experiences-availability?rid=1282447&restref=1282447&experienceId=458715&utm_source=external&utm_medium=referral&utm_campaign=shared\", logo: \"/images/opentable.png\" }\n    ]",
+  "tags": [
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Four Diamond Award",
+      "year": "2024",
+      "image": "/images/fourdiamondaward.png",
+      "organization": "AAA"
+    }
+  ],
+  "bio": "The Chef’s Table at Imperfecto is one of Washington, D.C.’s most exclusive dining experiences, hidden within the broader Imperfecto restaurant but operating as its own Michelin-starred world. Seating only a handful of guests, this intimate counter allows diners to watch Chef Enrique Limardo and his team craft an elaborate tasting menu that blends his Latin American roots with Mediterranean and Middle Eastern influences. Each course is a precise and imaginative creation, transforming seasonal ingredients into dishes that are as artful as they are flavorful, from delicately composed seafood to richly layered meats and inventive vegetable preparations. Unlike the à la carte menu in the main dining room, the Chef’s Table is highly choreographed, offering a progression of flavors and textures designed as a full culinary journey. Its exclusivity, creativity, and immersive presentation have quickly established it as one of the most sought-after reservations in the city, earning recognition as a unique Michelin-starred gem within an already celebrated restaurant.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.8333338359116!2d-77.05288308861913!3d38.904311771604746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b745384fc5dd%3A0xa2802aa4cca531a0!2sImperfecto!5e1!3m2!1sen!2sus!4v1755645766961!5m2!1sen!2sus",
+  "pageTitle": "Imperfecto by Enrique Limardo: The Chef's Table"
+}

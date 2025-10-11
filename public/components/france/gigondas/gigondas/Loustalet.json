@@ -1,0 +1,24 @@
+{
+  "restaurantName": "L'Oustalet",
+  "address": "5 place Gabrielle-Andéol, Gigondas, 84190, France",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€€",
+  "phoneNumber": "+33490658530",
+  "website": "https://www.loustalet-gigondas.fr/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "In a wine-producing village, this pretty stone house, whose terrace overlooks a small square shaded by ancient plane trees, is the quintessence of rural France. Supremely fresh ingredients that celebrate Provence are deftly crafted into well-thought out recipes: Mediterranean gilt-head bream, grilled aubergine and girolle mushrooms; Aveyron-reared veal, chard and marjoram; fig, rosemary and balsamic vinegar… The wine cellar is a treasure trove of surprises, including the wines by the glass....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=5%20place%20Gabrielle-And%C3%A9ol%2C%20Gigondas%2C%2084190%2C%20France",
+  "pageTitle": "L'Oustalet"
+}

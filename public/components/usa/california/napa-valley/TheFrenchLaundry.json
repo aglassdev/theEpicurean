@@ -1,0 +1,167 @@
+{
+  "headerImages": [
+    "/images/thefrenchlaundry1.png",
+    "/images/thefrenchlaundry2.png"
+  ],
+  "restaurantName": "The French Laundry",
+  "address": "6640 Washington St, Yountville, CA 94599, United States",
+  "cuisine": "Contemporary French",
+  "priceRange": "$$$$$ · Prix Fixe",
+  "phoneNumber": "+1 707 944 2380",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "16:00 - 22:00"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "16:00 - 22:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "16:00 - 22:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "16:00 - 22:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "16:00 - 22:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "16:00 - 22:00"
+    }
+  },
+  "website": "https://thomaskeller.com/tfl/",
+  "reservationProviders": "[\n        { type: \"tock\", name: \"Tock\", url: \"https://www.exploretock.com/tfl/\", logo: \"/images/tock.png\" }\n      ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Farm-to-Table",
+      "iconUrl": "/images/farmtotable.png"
+    },
+    {
+      "name": "Sustainable",
+      "iconUrl": "/images/sustainable.png"
+    },
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Three Michelin Stars",
+      "count": 3,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Michelin Green Star",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/greenstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "#1 World's Best Restaurant",
+      "count": "Sustainaiblity",
+      "year": "2004",
+      "image": "/images/worlds50best.png",
+      "organization": "The World's 50 Best Restaurants"
+    },
+    {
+      "name": "97.00 La Liste Score",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/laliste.png",
+      "organization": "La Liste"
+    },
+    {
+      "name": "Member Restaurant",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/relaischateaux.png",
+      "organization": "Relais & Châteaux"
+    },
+    {
+      "name": "Member Restaurant",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/lesgrandestablesdumonde.png",
+      "organization": "Les Grandes Tables du Monde"
+    },
+    {
+      "name": "Five Diamond Award",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/fivediamondaward.png",
+      "organization": "AAA Travel"
+    },
+    {
+      "name": "Five Star Award",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/fivestaraward.png",
+      "organization": "Forbes Travel Guide"
+    },
+    {
+      "name": "Grand Award - Three Glasses",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/threeglasses.png",
+      "organization": "Wine Spectator"
+    },
+    {
+      "name": "North America's Best Restaurant",
+      "count": "Sustainability",
+      "year": "2023",
+      "image": "/images/worldculinaryawards.png",
+      "organization": "World Culinary Awards"
+    },
+    {
+      "name": "Outstanding Restaurant",
+      "count": "Sustainability",
+      "year": "2006",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Outstanding Chef",
+      "count": "Sustainability",
+      "year": "1997",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Best Chef, California",
+      "count": "Sustainability",
+      "year": "1995",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Outstanding Service",
+      "count": "Sustainability",
+      "year": "2003",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Outstanding Wine Service",
+      "count": "Sustainability",
+      "year": "2001",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    }
+  ],
+  "bio": "The French Laundry, located in the picturesque Napa Valley town of Yountville, California, is a three-Michelin-star restaurant that has long stood as a cornerstone of American fine dining. Founded and led by Chef Thomas Keller, one of the most influential figures in modern gastronomy, the restaurant has earned worldwide acclaim for its meticulous attention to detail, impeccable service, and devotion to culinary excellence. Housed in a charming stone building dating back to the early 1900s, The French Laundry seamlessly blends rustic charm with refined sophistication. Its daily-changing tasting menus—one centered on vegetables and another on chef-selected classics—celebrate the finest seasonal ingredients sourced from local farms, including Keller’s own nearby gardens. Signature dishes such as Oysters and Pearls and Coffee and Doughnuts showcase Keller’s precision and playful creativity, transforming comfort food into haute cuisine. Every element, from the choreography of service to the presentation of each plate, reflects a philosophy of perfectionism and grace. More than just a restaurant, The French Laundry remains an enduring symbol of culinary artistry and an essential pilgrimage for gourmands around the world.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.28841765666!2d-122.36696969678125!3d38.404110534693935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8084554400000000%3A0x1b03f3b6bdcbe461!2sThe%20French%20Laundry!5e1!3m2!1sen!2sus!4v1759689862924!5m2!1sen!2sus",
+  "pageTitle": "The French Laundry"
+}

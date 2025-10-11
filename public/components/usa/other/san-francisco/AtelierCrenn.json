@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Atelier Crenn",
+  "address": "3127 Fillmore St., San Francisco, 94123, USA",
+  "cuisine": "Contemporary, French",
+  "priceRange": "$$$$",
+  "phoneNumber": "+14154400460",
+  "website": "https://www.ateliercrenn.com/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 3,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "This singular atelier is where Chef Dominique Crenn established her lofty reputation, creating an inspired culinary style that combines her upbringing in Brittany with her present-day evolution in California. The pescatarian menu skillfully weds a panoply of delectable sauces and impeccably prepared seafood, a true testament to Crenn’s mastery of French cuisine—and a loaf of exquisite brioche from her grandmother’s recipe drives the point home. But a thoughtfully modern sensibility is also evident; produce sourced from partner Bleu Belle Farm in Sonoma lends lightness and balance, resulting in cuisine that is both indulgent and nourishing. A procession of desserts from Chef/partner Juan Contreras concludes the meal with a final flourish of imagination....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=3127%20Fillmore%20St.%2C%20San%20Francisco%2C%2094123%2C%20USA",
+  "pageTitle": "Atelier Crenn"
+}

@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Wilsons",
+  "address": "24 Chandos Road, City of Bristol, BS6 6PF, United Kingdom",
+  "cuisine": "Modern British",
+  "priceRange": "£££",
+  "phoneNumber": "+441179734157",
+  "website": "https://www.wilsonsbristol.co.uk/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "There is so much to enjoy, and so much to admire, when dining at Wilsons. It’s one of those appealing neighbourhood operations that works in pure harmony, with everyone from the chefs to the service team sharing the same ethos. Sustainability and careful sourcing of superb ingredients are at the forefront, with the restaurant’s own smallholding providing much of the produce on the tasting menu of expertly crafted dishes. Each one is exquisitely balanced and full of understated originality, like dry-aged trout with pickled mushrooms and sweet onion broth....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=24%20Chandos%20Road%2C%20City%20of%20Bristol%2C%20BS6%206PF%2C%20United%20Kingdom",
+  "pageTitle": "Wilsons"
+}

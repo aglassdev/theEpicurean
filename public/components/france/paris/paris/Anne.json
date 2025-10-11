@@ -1,0 +1,20 @@
+{
+  "restaurantName": "Anne",
+  "address": "28 place des Vosges, Paris, 75003, France",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€€€",
+  "phoneNumber": "+33140291919",
+  "website": "https://www.pavillon-de-la-reine.com/restaurant-bar",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "The Pavillon de la Reine, a magnificent residence in Place des Vosges, is named after Anne of Austria, Queen of France and wife of Louis XIII, who once lived here. In the restaurant, overseen by Mathieu Pacaud, the chef reinterprets classic dishes with skill and real talent, using top-quality ingredients which are full of flavour. An excellent dining experience awaits, whether you choose the intimate and romantic setting of the library lounge or, in fine weather, the lovely verdant courtyard garden....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=28%20place%20des%20Vosges%2C%20Paris%2C%2075003%2C%20France",
+  "pageTitle": "Anne"
+}

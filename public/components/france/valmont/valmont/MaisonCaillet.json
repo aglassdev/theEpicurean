@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Maison Caillet",
+  "address": "22 rue André-Fiquet, Valmont, 76540, France",
+  "cuisine": "Creative",
+  "priceRange": "€€€€",
+  "phoneNumber": "+33235297756",
+  "website": "https://www.maisoncaillet.com/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Chef Pierre Caillet, awarded the title of Meilleur Ouvrier de France in 2011, not only boasts faultless culinary technique, but also wins us over with his feeling for the ingredients and contagious energy. Original creations (his exuberant scallops in a passion fruit crust are a perfect example), interplay of textures and flavours, fine produce from the Normandy terroir… and let's not forget the judicious use of herbs and vegetables from the extensive kitchen garden: a winning formula. Last but not least, this 19C inn also has inviting, cosy guestrooms with private terraces overlooking the lake....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=22%20rue%20Andr%C3%A9-Fiquet%2C%20Valmont%2C%2076540%2C%20France",
+  "pageTitle": "Maison Caillet"
+}

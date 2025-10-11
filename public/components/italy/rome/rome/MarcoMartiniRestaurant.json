@@ -1,0 +1,20 @@
+{
+  "restaurantName": "Marco Martini Restaurant",
+  "address": "viale Aventino 121, Rome, 00153, Italy",
+  "cuisine": "Creative, Contemporary",
+  "priceRange": "€€€",
+  "phoneNumber": "+390645597350",
+  "website": "https://www.marcomartinichef.com/",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Situated on the first floor of a beautiful period palazzo, this restaurant recalls the style of a winter garden, where natural daylight, greenery and pretty floor tiles all contribute to the attractive setting. Here, Marco Martini creates imaginative cuisine (with occasionally surprising combinations) that nonetheless remains influenced by the gastronomic traditions of Rome, not so much in the recipes used but in the chef’s love for intense flavours that leave the palate completely satisfied....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=viale%20Aventino%20121%2C%20Rome%2C%2000153%2C%20Italy",
+  "pageTitle": "Marco Martini Restaurant"
+}

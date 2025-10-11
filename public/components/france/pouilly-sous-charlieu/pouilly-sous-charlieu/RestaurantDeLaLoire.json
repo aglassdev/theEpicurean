@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Restaurant de la Loire",
+  "address": "30 rue de la Berge, Pouilly-sous-Charlieu, 42720, France",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€€",
+  "phoneNumber": "+33477608136",
+  "website": "https://www.restaurantdelaloire.fr/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Set on the banks of the Loire, this inn, refurbished in a tasteful modern vein, is the bolthole of Marie and Fabien Raux (born in northern France, the chef’s eclectic career has taken him to fine establishments from Morocco to Alsace). The chef crafts dishes in the zeitgeist, curated into a single set menu and starring seasonal produce. The vegetables come straight from the nearly 5 acres of garden and orchard that supply 90% of the restaurant’s needs, even in winter! The remainder is sourced from a handful of local producers: Loire zander, lamb, rabbit… Everything tastes of something in this gutsy lineup of flavours served in a warm jovial vibe. In summer, alfresco dining on the lovely terrace shaded by linden trees in the garden is heavenly....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=30%20rue%20de%20la%20Berge%2C%20Pouilly-sous-Charlieu%2C%2042720%2C%20France",
+  "pageTitle": "Restaurant de la Loire"
+}

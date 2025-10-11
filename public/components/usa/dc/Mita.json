@@ -1,0 +1,68 @@
+{
+  "headerImages": [
+    "/images/mita1.png",
+    "/images/mita2.png"
+  ],
+  "restaurantName": "Mita",
+  "address": "804 V St. NW, Washington, 20037, USA",
+  "cuisine": "Vegetarian Latin American",
+  "priceRange": "$$$ · Prix Fixe",
+  "phoneNumber": "+1 301 818-1177",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://www.mitadc.com/",
+  "reservationProviders": "[\n      { type: \"opentable\", name: \"OpenTable\", url: \"https://www.opentable.com/r/mita-washington-dc\", logo: \"/images/opentable.png\" }\n    ]",
+  "tags": [
+    {
+      "name": "Vegan Friendly",
+      "iconUrl": "/images/vegan.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Formal Fine Dining Restaurant of the Year",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/ramw.png",
+      "organization": "RAMW"
+    }
+  ],
+  "bio": "Mita is a bold plant-based Latin American tasting room in Washington, D.C., founded by Venezuelan chefs Miguel Guerra and Tatiana Mora. Opened in late 2023 as a pop-up turned brick-and-mortar, it earned its first Michelin star in the 2024 guide—an astonishing feat in under a year. The restaurant offers exclusively vegetarian tasting menus that elevate Latin American flavors with creativity and sophistication. Standout dishes include an arepa basket with plantain, yuca, and smoked potato served with guasacaca, cashew cream, and chontaduro butter, along with watermelon crudo in cucumber leche de tigre and a mushroom terrine layered with potatoes. The intimate, immersive experience highlights vegetables as the stars of the plate while celebrating regional traditions. Guerra, the youngest Venezuelan chef to earn a Michelin star, and Mora, the first Venezuelan woman to do so, infuse the menu with heritage, innovation, and artistry. Each course tells a story of culture reimagined through a modern plant-based lens, and the tasting room’s success has quickly placed it at the forefront of D.C.’s dining scene for refined vegetarian cuisine and sustainability.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.268035646404!2d-77.02580078861847!3d38.91765307160182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7dfbec588e3%3A0xeaacf80bd972a56!2sMITA!5e1!3m2!1sen!2sus!4v1755647428946!5m2!1sen!2sus",
+  "pageTitle": "Mita"
+}

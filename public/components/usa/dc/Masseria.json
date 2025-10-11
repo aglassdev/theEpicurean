@@ -1,0 +1,86 @@
+{
+  "headerImages": [
+    "/images/masseria1.png",
+    "/images/masseria2.png"
+  ],
+  "restaurantName": "Masseria by Nicholas Stefanelli",
+  "address": "1340 4th St. NE, Washington, 20002, USA",
+  "cuisine": "Modern Italian",
+  "priceRange": "$$$$ · Prix Fixe · À La Carte",
+  "phoneNumber": "+1 202 608 1330",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "18:00 - 21:30"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "18:00 - 21:30"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "18:00 - 21:30"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "18:00 - 21:30"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:00 - 21:30"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://www.masseria-dc.com/",
+  "reservationProviders": "[\n      { \n        type: \"tock\", \n        name: \"Tock\", \n        url: \"https://www.exploretock.com/masseria\", \n        logo: \"/images/tock.png\" \n      }\n    ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Two Forks Award",
+      "count": "2",
+      "year": "2025",
+      "image": "/images/twoforks.png",
+      "organization": "Gambero Rosso"
+    },
+    {
+      "name": "#24 Best Italian Restaurant in the World",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/50topItaly.png",
+      "organization": "50 Top Italy"
+    },
+    {
+      "name": "Best of Award of Excellence - Two Glasses",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/twoglasses.png",
+      "organization": "Wine Spectator"
+    }
+  ],
+  "bio": "Masseria, a Michelin-starred restaurant in Washington, D.C., is the flagship of Chef Nicholas Stefanelli and a celebration of his Italian heritage expressed through modern fine dining. Opened in 2015, the restaurant draws inspiration from the rustic farmhouses of Puglia, known as “masserie,” where family and tradition shape every meal. Stefanelli, a James Beard Award winner and one of the city’s most respected chefs, offers a tasting menu that highlights the richness of Italian cuisine while incorporating seasonal Mid-Atlantic ingredients. Handmade pastas, pristine seafood, and wood-fired meats often take center stage, elevated with contemporary technique and artistic presentation. The dining experience begins the moment guests enter through an unmarked door into a stylish courtyard, leading into a sleek, elegant space that contrasts industrial edges with warm, welcoming touches. With its focus on storytelling, seasonality, and tradition reimagined, Masseria offers a dining journey that feels both luxurious and deeply personal, securing its place as one of Washington’s most essential culinary destinations.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.6049977947782!2d-77.00179888861894!3d38.909701071603415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b81a7c1c50a7%3A0xd1c661c09e61bdf0!2sMasseria!5e1!3m2!1sen!2sus!4v1755636145792!5m2!1sen!2sus",
+  "pageTitle": "Masseria by Nicholas Stefanelli"
+}

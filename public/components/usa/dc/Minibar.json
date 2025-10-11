@@ -1,0 +1,97 @@
+{
+  "headerImages": [
+    "/images/minibar1.png",
+    "/images/minibar2.png"
+  ],
+  "restaurantName": "minibar by José Andrés",
+  "address": "855 E St. NW, Washington, 20004, USA",
+  "cuisine": "Spanish-Influenced Contemporary",
+  "priceRange": "$$$$ · Prix Fixe",
+  "phoneNumber": "+1 202 393 0812",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://www.minibarbyjoseandres.com/",
+  "reservationProviders": "[\n      { \n        type: \"opentable\", \n        name: \"OpenTable\", \n        url: \"https://www.opentable.com/minibar-by-jose-andres?ref=18490\", \n        logo: \"/images/opentable.png\" \n      }\n    ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Vegan Friendly",
+      "iconUrl": "/images/vegan.png"
+    },
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Two Michelin Stars",
+      "count": 2,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "92.00 La Liste Score",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/laliste.png",
+      "organization": "La Liste"
+    },
+    {
+      "name": "Outstanding Chef Award",
+      "count": "Sustainability",
+      "year": "2011",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Five Diamond Award",
+      "count": "Sustainability",
+      "year": "2024",
+      "image": "/images/fivediamondaward.png",
+      "organization": "AAA"
+    },
+    {
+      "name": "Award of Excellence - One Glass",
+      "count": "Sustainability",
+      "year": "2014",
+      "image": "/images/oneglass.png",
+      "organization": "Wine Spectator"
+    }
+  ],
+  "bio": "minibar by José Andrés, one of Washington, D.C.'s most iconic dining destinations, is a two-Michelin-starred restaurant that has redefined the boundaries of modern gastronomy since opening in 2003. Conceived by world-renowned chef and humanitarian José Andrés, the restaurant serves as both a stage and a laboratory for avant-garde cooking, where culinary innovation meets artistry. The experience is highly intimate, with just a few seats at a sleek counter that overlooks the chefs at work, allowing guests to watch as each meticulously crafted dish comes to life. The ever-evolving tasting menu, often stretching over 20 courses, is a playful and thought-provoking journey that transforms familiar ingredients into surprising new forms—foams, spheres, and whimsical reinterpretations that challenge expectations while delighting the senses. Dishes often highlight seasonal and local elements but are presented with global inspiration and cutting-edge technique, embodying Andrés' reputation for creativity and boldness. More than just a meal, dining at minibar is a theatrical, immersive encounter with the future of cuisine, one that continues to cement José Andrés' place as a pioneer of culinary innovation in America.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.125831820506!2d-77.02552585017635!3d38.89638642416384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b790438a8e31%3A0x6ba3d6ca82113510!2sminibar!5e1!3m2!1sen!2sus!4v1755499856264!5m2!1sen!2sus",
+  "pageTitle": "minibar by José Andrés"
+}

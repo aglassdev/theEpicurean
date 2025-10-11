@@ -1,0 +1,132 @@
+{
+  "headerImages": [
+    "/images/osteriafrancescana1.png",
+    "/images/osteriafrancescana2.png"
+  ],
+  "restaurantName": "Osteria Francescana",
+  "address": "Via Stella 22, Modena, 41121, Italy",
+  "cuisine": "Contemporary Italian",
+  "priceRange": "€€€€€ · Prix Fix · À La Carte",
+  "phoneNumber": "+39 059 223912",
+  "hours": {
+    "Monday": {
+      "lunch": "12:30 - 15:00",
+      "dinner": "20:00 - 22:30"
+    },
+    "Tuesday": {
+      "lunch": "12:30 - 15:00",
+      "dinner": "20:00 - 22:30"
+    },
+    "Thursday": {
+      "lunch": "12:30 - 15:00",
+      "dinner": "20:00 - 22:30"
+    },
+    "Friday": {
+      "lunch": "12:30 - 15:00",
+      "dinner": "20:00 - 22:30"
+    },
+    "Saturday": {
+      "lunch": "12:30 - 15:00",
+      "dinner": "20:00 - 22:30"
+    },
+    "Sunday": {
+      "lunch": "12:30 - 15:00",
+      "dinner": "20:00 - 22:30"
+    }
+  },
+  "website": "https://osteriafrancescana.it/",
+  "reservationProviders": "[\n        { type: \"direct\", name: \"Direct\", url: \"https://reservations.osteriafrancescana.it/\", logo: \"/images/osteriafrancescanabook.png\" }\n      ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    },
+    {
+      "name": "Farm-to-Table",
+      "iconUrl": "/images/farmtotable.png"
+    },
+    {
+      "name": "Sustainable",
+      "iconUrl": "/images/sustainable.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Three Michelin Stars",
+      "count": 3,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Michelin Green Star",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/greenstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "#1 World's Best Restaurant",
+      "count": "Sustainaiblity",
+      "year": "2018",
+      "image": "/images/worlds50best.png",
+      "organization": "The World's 50 Best Restaurants"
+    },
+    {
+      "name": "97.00 La Liste Score",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/laliste.png",
+      "organization": "La Liste"
+    },
+    {
+      "name": "#1 Best Italian Restaurant in Italy",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/50topItaly.png",
+      "organization": "50 Top Italy"
+    },
+    {
+      "name": "Member Restaurant",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/lesgrandestablesdumonde.png",
+      "organization": "Les Grandes Tables du Monde"
+    },
+    {
+      "name": "Five Hats",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/fivehats.png",
+      "organization": "Le Guide de L'Espresso"
+    },
+    {
+      "name": "Three Forks Award",
+      "count": "3",
+      "year": "2025",
+      "image": "/images/threeforks.png",
+      "organization": "Gambero Rosso"
+    },
+    {
+      "name": "Italy's Best Restaurant",
+      "count": "Sustainability",
+      "year": "2024",
+      "image": "/images/worldculinaryawards.png",
+      "organization": "World Culinary Awards"
+    },
+    {
+      "name": "Global Recognition Award",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/globalrecognitionawards.png",
+      "organization": "Global Recognition Awards"
+    }
+  ],
+  "bio": "Osteria Francescana, nestled in the heart of Modena, Italy, is a three-Michelin-star restaurant that has repeatedly been named the best in the world, first earning global acclaim after topping *The World’s 50 Best Restaurants* list in 2016 and 2018. Helmed by visionary Chef Massimo Bottura, the restaurant reimagines traditional Italian cuisine through the lens of art, culture, and memory, turning humble regional dishes into thought-provoking culinary masterpieces. Bottura, celebrated for his playful creativity and profound respect for heritage, crafts tasting menus that blur the line between storytelling and dining, weaving narratives of Emilia-Romagna’s rich gastronomic history with avant-garde technique. Signature creations such as *Five Ages of Parmigiano Reggiano* and the iconic *Oops! I Dropped the Lemon Tart* embody his philosophy of finding beauty in imperfection and innovation in tradition. Set within an intimate, elegant dining room adorned with contemporary art, Osteria Francescana offers more than a meal—it delivers an intellectual and emotional experience, where each course reflects Bottura’s passion for pushing boundaries while honoring the deep roots of Italian cuisine.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.2191240500015!2d10.916701986571438!3d44.644830113158726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fef12d42cf17f%3A0x19607398f8f8e95d!2sOsteria%20Francescana!5e1!3m2!1sen!2sus!4v1759430856153!5m2!1sen!2sus",
+  "pageTitle": "Osteria Francescana"
+}

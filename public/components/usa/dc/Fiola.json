@@ -1,0 +1,93 @@
+{
+  "headerImages": [
+    "/images/fiola1.png",
+    "/images/fiola2.png"
+  ],
+  "restaurantName": "fiola",
+  "address": "601 Pennsylvania Ave. NW, Washington, 20004, USA",
+  "cuisine": "Contemporary Italian",
+  "priceRange": "$$$$ · Prix Fixe · À La Carte",
+  "phoneNumber": "+1 202 628 2888",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "17:00 - 21:00"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:00 - 21:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:00 - 21:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:00 - 21:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:00 - 21:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://www.fioladc.com/",
+  "reservationProviders": "[\n      { type: \"resy\", name: \"Resy\", url: \"https://resy.com/cities/washington-dc/venues/fiola-dc\", logo: \"/images/resy.png\" }\n    ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Three Forks Award",
+      "count": "3",
+      "year": "2025",
+      "image": "/images/threeforks.png",
+      "organization": "Gambero Rosso"
+    },
+    {
+      "name": "#6 Best Italian Restaurant in the World",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/50topItaly.png",
+      "organization": "50 Top Italy"
+    },
+    {
+      "name": "Four Diamond Award",
+      "count": "Sustainability",
+      "year": "2024",
+      "image": "/images/fourdiamondaward.png",
+      "organization": "AAA"
+    },
+    {
+      "name": "Grand Award - Three Glasses",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/threeglasses.png",
+      "organization": "Wine Spectator"
+    }
+  ],
+  "bio": "Fiola, the flagship restaurant of acclaimed chef Fabio Trabocchi, has been a cornerstone of Washington, D.C.’s fine dining scene since opening in 2011. Awarded a Michelin star, Fiola reflects Trabocchi’s Italian heritage while embracing seasonal ingredients sourced from both local farms and international purveyors. The dining experience is defined by elegance and sophistication, with guests offered a choice between an à la carte menu and an ever-evolving tasting menu that showcases the chef’s artistry. Signature dishes often highlight handmade pastas, pristine seafood, and luxurious ingredients such as truffles and caviar, each prepared with meticulous technique and contemporary flair. The restaurant’s refined yet welcoming atmosphere, with its warm tones and polished service, enhances the sense of occasion, while a world-class wine program curated by expert sommeliers provides thoughtful pairings that elevate every course. Fiola has become a destination for both celebratory evenings and memorable culinary journeys, embodying Chef Trabocchi’s philosophy of blending Italian tradition with modern creativity, and securing its reputation as one of the premier dining experiences in the nation’s capital.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6008.460861293007!2d-77.0255535512575!3d38.8939136742421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7856a7a3d25%3A0x56300f0cb7f8faba!2sFiola!5e1!3m2!1sen!2sus!4v1755552756206!5m2!1sen!2sus",
+  "pageTitle": "fiola"
+}

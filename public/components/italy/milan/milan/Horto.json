@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Horto",
+  "address": "via San Protaso 5, Milan, 20121, Italy",
+  "cuisine": "Modern Cuisine, Organic",
+  "priceRange": "€€€€",
+  "phoneNumber": "+390236517496",
+  "website": "https://hortorestaurant.com/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Norbert Niederkofler’s arrival in Milan is accompanied by his strong commitment to the environment. The cuisine here is in the capable hands of Alberto Toè, who offers two tasting menus with a focus on locally sourced ingredients (all from within an hour of the city). The outdoor terraces are an added attraction, boasting fine views which extend from the Duomo to the Castello Sforzesco, and are the perfect setting for an aperitif from the restaurant’s extensive cocktail list. The interior dining room has a simple yet elegant feel thanks to its natural-wood tables, making it a good choice for a gourmet supper or a simpler and more casual lunch....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=via%20San%20Protaso%205%2C%20Milan%2C%2020121%2C%20Italy",
+  "pageTitle": "Horto"
+}

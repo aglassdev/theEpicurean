@@ -1,0 +1,154 @@
+{
+  "headerImages": [
+    "/images/ialw.png",
+    "/images/ialw2.png"
+  ],
+  "restaurantName": "The Inn at Little Washington",
+  "address": "309 Middle St., Washington, VA, 22747, USA",
+  "cuisine": "Contemporary French",
+  "priceRange": "$$$$$ · Prix Fixe",
+  "phoneNumber": "+1 540 675 3800",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:00 - 23:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:00 - 23:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:00 - 23:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:00 - 23:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "17:00 - 23:00"
+    }
+  },
+  "website": "https://www.theinnatlittlewashington.com/michelin-three-starred-dining-room",
+  "reservationProviders": "[\n        { type: \"tock\", name: \"Tock\", url: \"https://www.exploretock.com/theinnatlittlewashington\", logo: \"/images/tock.png\" }\n      ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Vegan Friendly",
+      "iconUrl": "/images/vegan.png"
+    },
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    },
+    {
+      "name": "Sustainable",
+      "iconUrl": "/images/sustainable.png"
+    },
+    {
+      "name": "Farm-to-Table",
+      "iconUrl": "/images/farmtotable.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Three Michelin Stars",
+      "count": 3,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "96.50 La Liste Score",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/laliste.png",
+      "organization": "La Liste"
+    },
+    {
+      "name": "Five Diamond Award",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/fivediamondaward.png",
+      "organization": "AAA Travel"
+    },
+    {
+      "name": "Grand Award - Three Glasses",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/threeglasses.png",
+      "organization": "Wine Spectator"
+    },
+    {
+      "name": "Green Star",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/greenstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Five Star Award",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/fivestaraward.png",
+      "organization": "Forbes Travel Guide"
+    },
+    {
+      "name": "Member Restaurant",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/relaischateaux.png",
+      "organization": "Relais & Châteaux"
+    },
+    {
+      "name": "Outstanding Restaurant",
+      "count": "Sustainability",
+      "year": "1993",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Lifetime Achievement",
+      "count": "Sustainability",
+      "year": "2019",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Outstanding Chef",
+      "count": "Sustainability",
+      "year": "2001",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Best Chef, Mid-Atlantic",
+      "count": "Sustainability",
+      "year": "1992",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Outstanding Service",
+      "count": "Sustainability",
+      "year": "1997",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    }
+  ],
+  "bio": "The Inn at Little Washington, a three-Michelin-starred institution nestled in Virginia’s countryside, is one of the most famous and celebrated restaurants in America, often regarded as a culinary destination on par with the great dining rooms of Europe. Founded in 1978 by Chef Patrick O’Connell, the “Pope of American Cuisine,” the restaurant has become legendary for its whimsical yet refined approach to fine dining, blending French techniques with regional flavors and local ingredients. O’Connell’s tasting menus highlight the bounty of the surrounding farmland, with dishes that are both luxurious and deeply rooted in a sense of place, from perfectly roasted lamb to playful reimaginings of American classics. Beyond its culinary acclaim, The Inn has long championed sustainability, sourcing much of its produce from its own gardens and working closely with local farmers to ensure ethical and seasonal cooking. The dining room itself, designed with theatrical flair, mirrors the artistry of the plates, making every visit an immersive and unforgettable experience. Renowned for its balance of tradition, creativity, and environmental consciousness, The Inn at Little Washington remains a benchmark of American fine dining.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6023.667577383977!2d-78.16212282434434!3d38.71381185751623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b4332bc45127f7%3A0xbc0d3a97b9f2f938!2sThe%20Inn%20at%20Little%20Washington!5e1!3m2!1sen!2sus!4v1756272005373!5m2!1sen!2sus",
+  "pageTitle": "The Inn At Little Washington"
+}

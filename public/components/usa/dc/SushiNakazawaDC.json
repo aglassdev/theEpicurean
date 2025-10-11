@@ -1,0 +1,68 @@
+{
+  "headerImages": [
+    "/images/sushi1.png",
+    "/images/sushi2.png"
+  ],
+  "restaurantName": "Sushi Nakazawa",
+  "address": "1100 Pennsylvania Ave. NW, Washington, DC 20003, USA",
+  "cuisine": "Sushi",
+  "priceRange": "$$$$ · Prix Fixe",
+  "phoneNumber": "+1 202 289 3515",
+  "hours": {
+    "Monday": {
+      "lunch": "11:45 - 14:00",
+      "dinner": "17:00 - 21:30"
+    },
+    "Tuesday": {
+      "lunch": "11:45 - 14:00",
+      "dinner": "17:00 - 21:30"
+    },
+    "Wednesday": {
+      "lunch": "11:45 - 14:00",
+      "dinner": "17:00 - 21:30"
+    },
+    "Thursday": {
+      "lunch": "11:45 - 14:00",
+      "dinner": "17:00 - 21:30"
+    },
+    "Friday": {
+      "lunch": "11:45 - 14:00",
+      "dinner": "17:00 - 22:30"
+    },
+    "Saturday": {
+      "lunch": "11:45 - 14:00",
+      "dinner": "17:00 - 22:30"
+    },
+    "Sunday": {
+      "lunch": "11:45 - 14:00",
+      "dinner": "17:00 - 21:30"
+    }
+  },
+  "website": "https://sushinakazawa.com/washington-dc/",
+  "reservationProviders": "[\n      { \n        type: \"resy\", \n        name: \"Resy\", \n        url: \"https://resy.com/cities/washington-dc/venues/sushi-nakazawa-dc\", \n        logo: \"/images/resy.png\" \n      }\n    ]",
+  "tags": [
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Best of Award of Excellence - Two Glasses",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/twoglasses.png",
+      "organization": "Wine Spectator"
+    }
+  ],
+  "bio": "Sushi Nakazawa, the Washington, D.C. outpost of the acclaimed New York restaurant, brings the artistry of Edomae-style sushi to the heart of the nation's capital. Opened in 2018, the restaurant is led by Chef Daisuke Nakazawa, who trained under the legendary Jiro Ono in Tokyo and was featured in the award-winning documentary 'Jiro Dreams of Sushi'. His background as one of Jiro's apprentices informs a philosophy of discipline, precision, and respect for tradition, which is expressed in every course of the omakase. The dining experience is centered around an intimate counter where guests watch Nakazawa and his team prepare each piece of sushi by hand, showcasing the perfect balance of rice, seasoning, and impeccably sourced fish flown in daily from around the world. The menu changes with the market, offering a progression that highlights the delicate nuances of each ingredient, from buttery toro to pristine uni and seasonal specialties. With its minimalist design, attentive service, and Chef Nakazawa's signature blend of humility and mastery, the D.C. location delivers an immersive experience that feels both reverent and inviting, establishing itself as one of the city's premier destinations for Japanese fine dining.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.2391698053784!2d-77.03019642406339!3d38.89370707172488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b79a1cfffff9%3A0xb9baf3204649fb9a!2sSushi%20Nakazawa!5e1!3m2!1sen!2sus!4v1755551752029!5m2!1sen!2sus",
+  "pageTitle": "Sushi Nakazawa"
+}

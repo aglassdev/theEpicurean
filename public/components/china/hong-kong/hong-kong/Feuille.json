@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Feuille",
+  "address": "5F, The Wellington, 198 Wellington Street, Central, Hong Kong, Hong Kong SAR China",
+  "cuisine": "French Contemporary",
+  "priceRange": "$$$",
+  "phoneNumber": "+85228811848",
+  "website": "https://feuille.hk",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Renowned French chef David Toutain’s first venture outside France advocates an eco-friendly ethos, using locally sourced, organic produce with minimal impact on the environment. The multicourse veggie-heavy tasting menu, just like the restaurant’s name, is inspired by nature and the life cycle of plants. Dishes take a root-to-shoot approach, finessed by French techniques. Highlights include cumin-egg-sweet corn, and the photogenic spiny lobster....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=5F%2C%20The%20Wellington%2C%20198%20Wellington%20Street%2C%20Central%2C%20Hong%20Kong%2C%20Hong%20Kong%20SAR%20China",
+  "pageTitle": "Feuille"
+}

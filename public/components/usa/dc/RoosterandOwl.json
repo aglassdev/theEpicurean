@@ -1,0 +1,65 @@
+{
+  "headerImages": [
+    "/images/roosterandowl1.png",
+    "/images/roosterandowl2.png"
+  ],
+  "restaurantName": "Rooster and Owl",
+  "address": "2436 14th St. NW, Washington, 20009, USA",
+  "cuisine": "New American",
+  "priceRange": "$$$ · Prix Fixe",
+  "phoneNumber": "+1 202 813 3976",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://www.roosterowl.com/",
+  "reservationProviders": "[\n      { type: \"resy\", name: \"Resy\", url: \"https://resy.com/cities/washington-dc/venues/rooster-and-owl\", logo: \"/images/resy.png\" }\n    ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Rooster & Owl is a Michelin-starred restaurant in Washington, D.C., opened in 2019 by husband-and-wife duo Yuan and Carey Tang. It quickly earned acclaim, receiving its first Michelin star in 2021, a recognition it has continued to hold. The restaurant is known for its inventive four-course tasting menu, where diners choose from several options in each course, creating a balance between structure and flexibility. This format encourages sharing, allowing guests to experience a wide range of flavors in a single meal. The dishes highlight American cuisine with global influences, often blending unexpected elements such as foie gras banh mi or melon paired with Calabrian chili. Rooster & Owl’s casual yet polished dining room reflects the Tangs’ welcoming philosophy, designed to make fine dining approachable while still refined. Its playful creativity and warm atmosphere have made it one of D.C.’s most beloved contemporary restaurants.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3003.0646905874783!2d-77.03472562406212!3d38.92146467171894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b72a4ab71815%3A0x22ee939712f17ea0!2sRooster%20%26%20Owl!5e1!3m2!1sen!2sus!4v1756530567517!5m2!1sen!2sus",
+  "pageTitle": "Rooster & Owl"
+}

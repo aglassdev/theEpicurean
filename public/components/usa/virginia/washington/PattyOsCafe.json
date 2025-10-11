@@ -1,0 +1,90 @@
+{
+  "headerImages": [
+    "/images/pattyoscafe1.png",
+    "/images/pattyoscafe2.png"
+  ],
+  "restaurantName": "Patty O's Cafe & Bakery",
+  "address": "389 Main St., Washington, VA, 22747, USA",
+  "cuisine": "French-Influenced American",
+  "priceRange": "$$$ · À La Carte",
+  "phoneNumber": "+1 540 675 3801",
+  "hours": {
+    "Monday": {
+      "lunch": "11:00 - 16:00",
+      "dinner": "17:00 - 21:00"
+    },
+    "Tuesday": {
+      "lunch": "11:00 - 16:00",
+      "dinner": "17:00 - 21:00"
+    },
+    "Wednesday": {
+      "lunch": "11:00 - 16:00",
+      "dinner": "Closed"
+    },
+    "Thursday": {
+      "lunch": "11:00 - 16:00",
+      "dinner": "17:00 - 21:00"
+    },
+    "Friday": {
+      "lunch": "11:00 - 16:00",
+      "dinner": "17:00 - 21:00"
+    },
+    "Saturday": {
+      "lunch": "11:00 - 16:00",
+      "dinner": "17:00 - 21:00"
+    },
+    "Sunday": {
+      "lunch": "10:00 - 15:00",
+      "dinner": "16:30 - 20:00"
+    }
+  },
+  "website": "https://www.theinnatlittlewashington.com/patty-os-cafe",
+  "reservationProviders": "[\n        { type: \"tock\", name: \"Tock\", url: \"https://www.exploretock.com/pattyoscafe?utm_source=michelin\", logo: \"/images/tock.png\" }\n      ]",
+  "tags": [
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    },
+    {
+      "name": "Sustainable",
+      "iconUrl": "/images/sustainable.png"
+    },
+    {
+      "name": "Farm-to-Table",
+      "iconUrl": "/images/farmtotable.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selection",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/michelin.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Lifetime Achievement",
+      "count": "Sustainability",
+      "year": "2019",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Outstanding Chef",
+      "count": "Sustainability",
+      "year": "2001",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Best Chef, Mid-Atlantic",
+      "count": "Sustainability",
+      "year": "1992",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    }
+  ],
+  "bio": "Patty O’s Cafe & Bakery, nestled just across the street from the legendary Inn at Little Washington, is Chef Patrick O’Connell’s warmly approachable celebration of classic American comfort — reimagined. Housed in a converted 1950s gas station, this charming cafe blends sidewalk charm with thoughtful elegance, featuring a cozy dining room, inviting marble bar counter, beamed ceilings, and a wood-burning fireplace. The adjacent bakery showcases European-style pastries, croissants (crafted via a four-day process), artisan breads, and sweets like carrot cake, lemon-tart, bittersweet chocolate mousse, and the Inn’s famous butter-pecan ice cream, all baked fresh daily. The menu embraces casual yet refined fare—think a perfectly balanced half-pound burger with tomato jam and Comté, a Champagne-brined ham and Comté sandwich on a pillowy roll, classic French onion soup, or Julia Child–inspired beef bourguignon, drawing on ingredients from the Inn’s own gardens and local farms. Designed by a team inspired by Parisian cafés, the space features charming details like a barn-dance mural, friendly gingham-clad staff, and outdoor patio seating under striped awnings. More than a sister café, Patty O’s is a deliciously relaxed extension of O’Connell’s culinary world—where exceptional technique meets heartwarming simplicity.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.8499345447954!2d-78.16263332434437!3d38.71342865753862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b433bf513f20dd%3A0xf89b92dfaf9b2d63!2sPatty%20O%E2%80%99s%20Cafe!5e1!3m2!1sen!2sus!4v1756430361553!5m2!1sen!2sus",
+  "pageTitle": "Patty O's Bakery & Cafe"
+}

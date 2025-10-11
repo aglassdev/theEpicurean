@@ -1,0 +1,24 @@
+{
+  "restaurantName": "La Table de La Butte",
+  "address": "12 rue de la Mer, Plouider, 29260, France",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€€€",
+  "phoneNumber": "+33298254054",
+  "website": "https://www.labutte.fr",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Nicolas and Solenne Conraux are the third generation at the head of this establishment, a pioneer in the field of sustainable development and cookery. Local produce reigns supreme in this gourmet map of Finistère: oysters, lobster, pork, abalone, but also seaweed, vegetables and even the 100% Brittany cheeses. Just as Brittany takes the limelight in the plate, it is also celebrated in the décor and the tableware which is the work of local craftspeople. What’s more, the service team is always happy to explain the ingredients and different fermentation and maceration techniques used by the kitchen staff. The bread (baked in the chef’s own bakery) is fiendishly delicious, as are the various Made in Brittany butters (seaweed, fleur de sel, etc). The wine list errs towards small, organic wineri...",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=12%20rue%20de%20la%20Mer%2C%20Plouider%2C%2029260%2C%20France",
+  "pageTitle": "La Table de La Butte"
+}

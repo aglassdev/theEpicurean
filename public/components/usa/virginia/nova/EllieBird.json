@@ -1,0 +1,68 @@
+{
+  "headerImages": [
+    "/images/elliebird1.png",
+    "/images/elliebird2.png"
+  ],
+  "restaurantName": "ELlie Bird",
+  "address": "125 Founders Ave, Falls Church, VA 22046, USA",
+  "cuisine": "New American",
+  "priceRange": "$$$ · Prix Fixe · À La Carte",
+  "phoneNumber": "+1 703 454 8894",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "17:00 - 21:30"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:00 - 21:30"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:00 - 21:30"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:00 - 21:30"
+    },
+    "Saturday": {
+      "lunch": "09:30 - 14:00",
+      "dinner": "17:00 - 21:30"
+    },
+    "Sunday": {
+      "lunch": "09:30 - 14:00",
+      "dinner": "17:00 - 21:30"
+    }
+  },
+  "website": "https://www.elliebirdva.com/",
+  "reservationProviders": "[\n        { type: \"resy\", name: \"Resy\", url: \"https://resy.com/cities/falls-church-va/venues/ellie-bird?\", logo: \"/images/resy.png\" }\n      ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "50 Best Restaurants in America",
+      "count": "Service Excellence",
+      "year": "2023",
+      "image": "/images/nyt.png",
+      "organization": "New York Times Food"
+    },
+    {
+      "name": "New Restaurant of the Year",
+      "count": "Sustainability",
+      "year": "2024",
+      "image": "/images/ramw.png",
+      "organization": "RAMW"
+    }
+  ],
+  "bio": "Ellie Bird is the highly anticipated sister restaurant to the Michelin Starred Rooster & Owl in Washington, D.C. Opened in 2023 by husband-and-wife team Yuan and Carey Tang, Ellie Bird carries forward the couple’s celebrated approach to inventive, globally influenced cuisine while tailoring it to a more casual and family-friendly neighborhood setting. The menu reflects the same spirit of creativity and balance found at Rooster & Owl, with dishes that showcase seasonal ingredients prepared with refined technique and playful twists. Guests will find comforting yet elevated options such as crispy chicken with yuzu kosho ranch, delicate seafood preparations, and vibrant vegetable-forward plates, all designed to appeal to a wide range of diners. The restaurant’s bright, welcoming atmosphere emphasizes accessibility while maintaining the polished standards that earned Rooster & Owl a Michelin star. Named after the Tangs’ daughter, Ellie Bird also represents a more personal chapter in their culinary journey, blending innovation with a sense of home. In a short time, it has become a beloved neighborhood fixture while drawing broader recognition as one of the most exciting new openings in Northern Virginia.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.3523943077844!2d-77.18587328877653!3d38.89103024696244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b589882a0a45%3A0xc22db375ba5b6da8!2sEllie%20Bird!5e1!3m2!1sen!2sus!4v1756590439012!5m2!1sen!2sus",
+  "pageTitle": "Ellie Bird"
+}

@@ -1,0 +1,82 @@
+{
+  "headerImages": [
+    "/images/causa1.png",
+    "/images/causa2.png"
+  ],
+  "restaurantName": "Causa",
+  "address": "920 Blagden Alley NW, Washington, 20001, USA",
+  "cuisine": "Peruvian Japanese Fusion",
+  "priceRange": "$$$ · Prix Fixe",
+  "phoneNumber": "+1 202 629 3942",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:00 - 23:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:00 - 23:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:00 - 23:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:00 - 23:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://www.causadc.com/",
+  "reservationProviders": "[\n      { type: \"opentable\", name: \"OpenTable\", url: \"https://www.opentable.com/r/causa-washington\", logo: \"/images/opentable.png\" }\n    ]",
+  "tags": [
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Chef of the Year",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/ramw.png",
+      "organization": "RAMW"
+    },
+    {
+      "name": "Best Chef, Mid-Atlantic",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Young Chef Award",
+      "count": "Sustainability",
+      "year": "2024",
+      "image": "/images/sommelier.png",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Causa, a Michelin-starred restaurant in Washington, D.C., brings the bold flavors and traditions of Peru to the forefront through an elegant and contemporary lens. Opened in 2021 by Chef Carlos Delgado, the restaurant highlights Peru’s diverse culinary heritage, from the vibrant freshness of coastal ceviches to the smoky depth of Andean and Amazonian ingredients. The tasting menu takes guests on a journey across Peru’s distinct regions, showcasing pristine seafood, wood-fired meats, native tubers, and exotic fruits, all prepared with modern technique while honoring cultural authenticity. Delgado, celebrated for his expertise in Peruvian cuisine, crafts each dish with balance and artistry, offering flavors that are at once vibrant, comforting, and unexpected. The intimate setting enhances the immersive experience, while a beverage program featuring pisco-based cocktails and thoughtfully selected wines complements the bold, layered flavors. With its fusion of tradition, innovation, and storytelling, Causa has quickly become one of the capital’s most exciting dining destinations, transporting guests to Peru with every course.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.7232004912066!2d-77.02737598861906!3d38.9069112716041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7a7e1a3573f%3A0xfccf93c64edb6366!2sCausa!5e1!3m2!1sen!2sus!4v1755584148380!5m2!1sen!2sus",
+  "pageTitle": "Causa"
+}

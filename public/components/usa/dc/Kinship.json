@@ -1,0 +1,76 @@
+{
+  "headerImages": [
+    "/images/kinship1.png",
+    "/images/kinship2.png"
+  ],
+  "restaurantName": "Kinship",
+  "address": "1015 7th St. NW, Washington, 20001, USA",
+  "cuisine": "Contemporary American",
+  "priceRange": "$$$ · À La Carte",
+  "phoneNumber": "+1 202 737 7700",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:30 - 22:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:30 - 22:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:30 - 22:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:30 - 22:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    }
+  },
+  "website": "https://www.kinshipdc.com/",
+  "reservationProviders": "[\n      { type: \"tock\", name: \"Tock\", url: \"https://www.exploretock.com/kinship/\", logo: \"/images/tock.png\" },\n    ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Vegan Friendly",
+      "iconUrl": "/images/vegan.png"
+    },
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Best of Award of Excellence - Two Glasses",
+      "count": "Sustainability",
+      "year": "2024",
+      "image": "/images/twoglasses.png",
+      "organization": "Wine Spectator"
+    }
+  ],
+  "bio": "Kinship, a Michelin-starred restaurant in Washington, D.C.’s Mount Vernon Triangle, is the creation of Chef Eric Ziebold and his wife and partner Célia Laurent. Opened in 2016, the restaurant reflects Ziebold’s philosophy of offering a menu that celebrates the many ways food connects people, organized into categories such as “Craft,” “History,” “Ingredients,” “Indulgence,” and “For the Table.” This unique structure allows guests to shape their dining experience according to mood or occasion, whether through refined classics, innovative seasonal creations, or shareable family-style dishes. Chef Ziebold, a James Beard Award winner and former protégé of Thomas Keller at The French Laundry and Per Se, brings a depth of technique and a thoughtful, personal approach to every plate. The menu often highlights pristine seafood, carefully sourced meats, and imaginative vegetable preparations, all executed with understated elegance. With its warm, modern design and intimate atmosphere, Kinship offers a dining experience that feels both sophisticated and deeply personal, cementing its reputation as one of Washington’s most distinctive and beloved fine dining destinations.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.870276578234!2d-77.02421332406297!3d38.90343977172276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b78d5e646e45%3A0x438df5091b556e14!2sKinship!5e1!3m2!1sen!2sus!4v1755556593085!5m2!1sen!2sus",
+  "pageTitle": "Kinship"
+}

@@ -1,0 +1,24 @@
+{
+  "restaurantName": "La Galinette",
+  "address": "23 rue Jean-Payra, Perpignan, 66000, France",
+  "cuisine": "Creative",
+  "priceRange": "€€€",
+  "phoneNumber": "+33468350090",
+  "website": "https://www.restaurant-galinette.com",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Chef Christophe Comes is passionate about plants! He is genuinely committed to his two vegetable gardens and his collection of citrus-fruit and olive trees (endemic varieties from which he produces his own olive oils). Plant-based notes permeate his cuisine from starter to dessert with finesse and intensity. In his medley of spiny cucumbers, white tuna sashimi and shiso, a thousand and one ways to enjoy this vegetable are showcased, as the seasonings build in intensity; sea bream is served on a fennel-infused bouillabaisse jus with wild fennel, accompanied by courgettes, basil and a garlic rouille aioli. Garden strawberries on an almond joconde sponge are topped with a strawberry smoothie and sorbet, jelly, vanilla-white chocolate ganache and a serving of sweet grass ice cream on crumble....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=23%20rue%20Jean-Payra%2C%20Perpignan%2C%2066000%2C%20France",
+  "pageTitle": "La Galinette"
+}

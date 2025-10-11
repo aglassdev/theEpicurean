@@ -1,0 +1,20 @@
+{
+  "restaurantName": "Les Amis",
+  "address": "Shaw Centre, #01-16, 1 Scotts Road, 228208, Singapore",
+  "cuisine": "French",
+  "priceRange": "$$$$",
+  "phoneNumber": "+6567332225",
+  "website": "https://www.lesamis.com.sg/",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 3,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Haute cuisine is increasingly about the chef embracing creative freedom and dictating the whole experience. At the longstanding, singularly sophisticated and world-renowned Les Amis, the choice is yours. The prix-fixe menus present a wide range of modern French classics with occasional Asian twists, in which simple ingredient combinations and seasoning highlight the natural flavours. Consider booking the chef's table for an intimate experience....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Shaw%20Centre%2C%20%2301-16%2C%201%20Scotts%20Road%2C%20228208%2C%20Singapore",
+  "pageTitle": "Les Amis"
+}

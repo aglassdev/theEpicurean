@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Kadeau Copenhagen",
+  "address": "Wildersgade 10B, Copenhagen, 1408, Denmark",
+  "cuisine": "Creative",
+  "priceRange": "€€€€",
+  "phoneNumber": "+4533252223",
+  "website": "https://kadeau.dk/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 2,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "This beautiful restaurant offers a memorable, multi-course dining experience; the chefs are on display in the open kitchen and often serve and explain dishes themselves. The chef-owner hails from Bornholm and he and his team are passionate about the island’s ingredients, which are dried, cured, preserved, smoked and pickled to maximum effect in complex, skilfully crafted dishes. You might find last summer's tomatoes with razor clams and figs, raw shrimps with mahogany clams and magnolia or warm walnut pie. Serene, well-paced service and a warm atmosphere help to make this an occasion to remember....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Wildersgade%2010B%2C%20Copenhagen%2C%201408%2C%20Denmark",
+  "pageTitle": "Kadeau Copenhagen"
+}

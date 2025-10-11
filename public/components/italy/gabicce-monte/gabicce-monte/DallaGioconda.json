@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Dalla Gioconda",
+  "address": "via dell'Orizzonte 2, Gabicce Monte, 61011, Italy",
+  "cuisine": "Country cooking, Creative",
+  "priceRange": "€€€",
+  "phoneNumber": "+390541962295",
+  "website": "https://www.dallagioconda.it/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Between the blue sky and the Adriatic Sea, at the highest point of Gabicce Monte, Dalla Gioconda is the gourmet rebirth of a renowned dancing venue in the town. The design is warm, conceived and created with sustainability in mind. Thanks to a long experience at the Osteria Francescana of Massimo Bottura, the talented chef Davide Di Fabio creates precise and beautiful dishes, cooked with the best ingredients of the territory and of their own garden. The cellar hides real gems, and the summer terrace offers moments of sheer beauty....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=via%20dell'Orizzonte%202%2C%20Gabicce%20Monte%2C%2061011%2C%20Italy",
+  "pageTitle": "Dalla Gioconda"
+}

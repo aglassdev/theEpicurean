@@ -1,0 +1,72 @@
+{
+  "headerImages": [
+    "/images/littlepearl1.png",
+    "/images/littlepearl2.png"
+  ],
+  "restaurantName": "Little Pearl",
+  "address": "717 8th St. SE, Washington, 20003, USA",
+  "cuisine": "New American",
+  "priceRange": "$$$ · Prix Fixe",
+  "phoneNumber": "+1 202 742 3570",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:30 - 21:30"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:30 - 21:30"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://www.littlepearldc.com/",
+  "reservationProviders": "[\n      { \n        type: \"resy\", \n        name: \"Resy\", \n        url: \"https://resy.com/cities/washington-dc/venues/little-pearl\", \n        logo: \"/images/resy.png\" \n      }\n    ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Vegan Friendly",
+      "iconUrl": "/images/vegan.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Best Chef, Mid-Atlantic",
+      "count": "Sustainability",
+      "year": "2016",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    }
+  ],
+  "bio": "Little Pearl, the more casual sister restaurant to Rose’s Luxury and Pineapple and Pearls, has carved out its own place in Washington, D.C.’s dining scene with its approachable yet refined take on contemporary cuisine. Opened by Chef Aaron Silverman in 2017, the restaurant earned a Michelin star within just a year of operation, a testament to its thoughtful cooking and unique style. Housed in a charming converted carriage house, Little Pearl offers a warm and inviting atmosphere that balances neighborhood comfort with fine-dining sensibilities. Its menu is designed to be playful and accessible, often featuring inventive small plates, seasonal dishes, and a carefully curated beverage program with standout wines and creative cocktails. By combining Silverman’s signature creativity with a more relaxed setting, Little Pearl delivers an experience that feels both elevated and easygoing, making it a destination for everything from an intimate dinner to a casual night out, and further extending the influence of the Rose’s Restaurant Group across the capital’s culinary landscape.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.7293124003577!2d-76.99615278862024!3d38.88315837160919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b8337d86a965%3A0xa31216fc9f13319e!2sLittle%20Pearl!5e1!3m2!1sen!2sus!4v1755634176121!5m2!1sen!2sus",
+  "pageTitle": "Little Pearl"
+}

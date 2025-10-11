@@ -1,0 +1,24 @@
+{
+  "restaurantName": "L'Ostal",
+  "address": "16 rue Claussmann, Clermont-Ferrand, 63000, France",
+  "cuisine": "Modern Cuisine, Creative",
+  "priceRange": "€€€€",
+  "phoneNumber": "+33473277786",
+  "website": "https://www.lostal-restaurant.fr/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "A true-blue local lad, Emmanuel Hébrard was trained by the best (Anne-Sophie Pic and Stéphane Raimbault, among others) and has vowed to defend his homeland (‘ostal’ means ‘house’ in the local dialect). His single set menu is thus deeply ‘local’ and seeks to shine the spotlight on regional ingredients: meat from the local butcher, veg from neighbouring cottage gardeners and cheese and eggs from surrounding farms. Respect for nature and farmers is the backbone of this establishment. The snug dining room (seating for twenty or so) sports a smart, contemporary look and makes ample use of natural materials (wood and stone), in keeping with the establishment’s culinary identity....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=16%20rue%20Claussmann%2C%20Clermont-Ferrand%2C%2063000%2C%20France",
+  "pageTitle": "L'Ostal"
+}

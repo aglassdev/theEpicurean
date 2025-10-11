@@ -1,0 +1,86 @@
+{
+  "headerImages": [
+    "/images/jont1.png",
+    "/images/jont2.png"
+  ],
+  "restaurantName": "Jônt",
+  "address": "1904 14th St NW, Washington, DC 20009, USA",
+  "cuisine": "French Japanese Fusion",
+  "priceRange": "$$$$ · Prix Fixe",
+  "phoneNumber": "+1 202 773 9989",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:30 - 22:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:30 - 22:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:30 - 22:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "16:00 - 22:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "17:30 - 22:00"
+    }
+  },
+  "website": "https://www.jontdc.com/",
+  "reservationProviders": "[\n      { type: \"opentable\", name: \"OpenTable\", url: \"https://www.opentable.com/r/jont-washington?ref=18490\", logo: \"/images/opentable.png\" }\n    ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Two Michelin Stars",
+      "count": 2,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "92.00 La Liste Score",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/laliste.png",
+      "organization": "La Liste"
+    },
+    {
+      "name": "Best of Award of Excellence - Two Glasses",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/twoglasses.png",
+      "organization": "Wine Spectator"
+    },
+    {
+      "name": "Member Restaurant",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/relaischateaux.png",
+      "organization": "Relais & Châteaux"
+    }
+  ],
+  "bio": "Jônt, a two-Michelin-starred restaurant in Washington, D.C., has quickly risen to prominence since opening in 2020 under the leadership of Chef Ryan Ratino, who also oversees the acclaimed Bresca just below it. Designed as an intimate chef's counter, the restaurant offers only a handful of seats, placing guests directly in front of the open kitchen where each dish is crafted with meticulous attention to detail. Ratino, a James Beard semifinalist known for his adventurous approach to fine dining, has shaped Jônt into one of the most innovative restaurants in the city, blending French technique with global influences, particularly Japanese. The multi-course tasting menu is an immersive journey, featuring luxurious ingredients such as wagyu beef, caviar, and uni, alongside seasonal produce prepared in unexpected and precise ways. Every course is presented with an emphasis on artistry and storytelling, making the experience as theatrical as it is flavorful. With its combination of culinary innovation, rare ingredients, and intimate atmosphere, Jônt has secured its place as a destination for diners seeking one of the most refined and memorable meals in the capital.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3003.304367877282!2d-77.0322171!3d38.91580150000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b74b7b5cf323%3A0xcd1ea75fd6fe128c!2zSsO0bnQ!5e1!3m2!1sen!2sus!4v1755495980553!5m2!1sen!2sus",
+  "pageTitle": "Jônt"
+}

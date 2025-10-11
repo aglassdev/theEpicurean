@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Alchemist",
+  "address": "Refshalevej 173C, Copenhagen, 1432 K, Denmark",
+  "cuisine": "Creative",
+  "priceRange": "€€€€",
+  "phoneNumber": "+4531716161",
+  "website": "https://www.alchemist.dk/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 2,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "There’s no restaurant in the world quite like Alchemist, so you’ll have to invest plenty of time securing a reservation months in advance. An immersive and perfectly choreographed six-hour-plus experience, eating here is a highly theatrical affair divided into ‘Acts’ and set across several locations, including a spectacular planetarium-like dome. Dishes are technically complex and highly creative with dramatic, provocative and sometimes even startling visuals. Every course is a social commentary from the chef: dip into a cod-eye jelly pupil modelled on the chef’s own eye to reveal a core of caviar, blue mussels and razor clams (surveillance) or break open a confectionery bar in the shape of a coffin (child labour)....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Refshalevej%20173C%2C%20Copenhagen%2C%201432%20K%2C%20Denmark",
+  "pageTitle": "Alchemist"
+}

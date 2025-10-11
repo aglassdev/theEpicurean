@@ -1,0 +1,65 @@
+{
+  "headerImages": [
+    "/images/joon1.png",
+    "/images/joon2.png"
+  ],
+  "restaurantName": "Joon",
+  "address": "8045 Leesburg Pike suite 120, Vienna, VA 22182, USA",
+  "cuisine": "Persian",
+  "priceRange": "$$$ · Prix Fixe · À La Carte",
+  "phoneNumber": "+1 571 378 1390",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "11:30 - 16:00",
+      "dinner": "16:00 - 22:00"
+    },
+    "Wednesday": {
+      "lunch": "11:30 - 16:00",
+      "dinner": "16:00 - 22:00"
+    },
+    "Thursday": {
+      "lunch": "11:30 - 16:00",
+      "dinner": "16:00 - 22:00"
+    },
+    "Friday": {
+      "lunch": "11:30 - 16:00",
+      "dinner": "16:00 - 23:00"
+    },
+    "Saturday": {
+      "lunch": "11:00 - 16:00",
+      "dinner": "16:30 - 23:00"
+    },
+    "Sunday": {
+      "lunch": "11:00 - 16:00",
+      "dinner": "16:30 - 21:30"
+    }
+  },
+  "website": "https://www.eatjoon.com/",
+  "reservationProviders": "[\n        { type: \"resy\", name: \"Resy\", url: \"https://resy.com/cities/vienna-va/venues/joon?\", logo: \"/images/resy.png\" }\n      ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Farm-to-Table",
+      "iconUrl": "/images/farmtotable.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "50 Best Restaurants in America",
+      "count": "Service Excellence",
+      "year": "2024",
+      "image": "/images/nyt.png",
+      "organization": "New York Times Food"
+    }
+  ],
+  "bio": "Joon, located in Tysons, Virginia, brings modern Persian cuisine into the spotlight under the leadership of Chef Chris Morgan, who previously earned a Michelin star at Washington, D.C.’s acclaimed Maydan. Opened in 2023, Joon reimagines traditional Persian flavors through a contemporary lens, presenting bold dishes that highlight the richness and diversity of the cuisine while remaining approachable to a wide audience. The menu features an artful mix of grilled meats, fragrant rice preparations, seasonal vegetables, and vibrant spreads, each infused with authentic spices and modern technique. Designed with a sleek, welcoming atmosphere, the restaurant balances refinement with warmth, making it both a destination for adventurous diners and a comfortable neighborhood gathering spot. With Morgan’s pedigree and dedication to celebrating Persian culinary traditions, Joon has quickly established itself as one of the most exciting and distinctive restaurants in Northern Virginia’s growing fine dining scene.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6006.845364638655!2d-77.22911131574843!3d38.913005672882115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64b672c44b26d%3A0x3f63bf1a5e8c7779!2sJoon!5e1!3m2!1sen!2sus!4v1756587663465!5m2!1sen!2sus",
+  "pageTitle": "Joon"
+}

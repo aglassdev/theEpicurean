@@ -1,0 +1,24 @@
+{
+  "restaurantName": "PM & Vänner Restaurant",
+  "address": "Storgatan 22, Växjö, 352 31, Sweden",
+  "cuisine": "Creative",
+  "priceRange": "€€€€",
+  "phoneNumber": "+46470759710",
+  "website": "https://pmrestauranger.se",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Their philosophy is based on ‘forest, lake and meadow’, with much of the produce coming from their own garden and bakery. The tasting menu is explained with infectious passion, and cooking is ambitious, elaborate and sophisticated. An extraordinary wine list offers a huge array of vintages from top producers....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Storgatan%2022%2C%20V%C3%A4xj%C3%B6%2C%20352%2031%2C%20Sweden",
+  "pageTitle": "PM & Vänner Restaurant"
+}

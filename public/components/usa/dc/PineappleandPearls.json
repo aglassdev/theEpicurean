@@ -1,0 +1,86 @@
+{
+  "headerImages": [
+    "/images/pineapple3.png",
+    "/images/pineapple2.png"
+  ],
+  "restaurantName": "Pineapple & Pearls",
+  "address": "715 8th St. SE, Washington, 20003, USA",
+  "cuisine": "Creative",
+  "priceRange": "$$$$  Prix Fixe",
+  "phoneNumber": "+1 202 595 7375",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "18:00 - 21:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "18:00 - 21:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:45 - 21:30"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:45 - 21:30"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://www.pineappleandpearls.com/",
+  "reservationProviders": "[\n      { \n        type: \"resy\", \n        name: \"Resy\", \n        url: \"https://resy.com/cities/washington-dc/venues/pineapple-and-pearls\", \n        logo: \"/images/resy.png\" \n      }\n    ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Vegan Friendly",
+      "iconUrl": "/images/vegan.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star (Previously Two Stars, 2023)",
+      "count": 3,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "90.50 La Liste Score",
+      "count": "Sustainability",
+      "year": "2025",
+      "image": "/images/laliste.png",
+      "organization": "La Liste"
+    },
+    {
+      "name": "Five Diamond Award",
+      "count": "Sustainability",
+      "year": "2018",
+      "image": "/images/fivediamondaward.png",
+      "organization": "AAA"
+    },
+    {
+      "name": "Best Chef, Mid-Atlantic",
+      "count": "Sustainability",
+      "year": "2016",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    }
+  ],
+  "bio": "Pineapple & Pearls, a Michelin-starred restaurant in Washington, D.C., has been celebrated for its daring creativity and refined approach to modern fine dining. Opened in 2016 by Chef Aaron Silverman, the restaurant quickly garnered national attention, earning two Michelin stars and solidifying its reputation as one of the most ambitious dining experiences in the country. Known for its intimate setting and meticulously choreographed tasting menu, Pineapple and Pearls offered a culinary journey that blended playful innovation with luxury, often featuring unexpected flavor combinations, whimsical presentations, and a seamless flow of courses that felt as much like theater as dining. Silverman, also the chef behind the beloved Rose’s Luxury, used Pineapple and Pearls to push boundaries while maintaining a spirit of hospitality and warmth, creating an experience that was both polished and deeply personal. Though it closed during the pandemic and has since reopened in a more reimagined form, its legacy as a two-star Michelin destination continues to define it, reminding diners of its pivotal role in shaping the capital’s modern culinary identity.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.833359344018!2d-76.99790578862037!3d38.880701271609595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b9ccd1cf7c61%3A0x1df3bcb579160808!2sPineapple%20and%20Pearls!5e1!3m2!1sen!2sus!4v1755622537797!5m2!1sen!2sus",
+  "pageTitle": "Pineapple & Pearls"
+}

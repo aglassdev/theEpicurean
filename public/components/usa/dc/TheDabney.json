@@ -1,0 +1,63 @@
+{
+  "headerImages": [
+    "/images/dabney1.png",
+    "/images/dabney2.png"
+  ],
+  "restaurantName": "The Dabney",
+  "address": "122 Blagden Alley NW, Washington, 20001, USA",
+  "cuisine": "Contemporary American",
+  "priceRange": "$$$ · Prix Fixe · À La Carte",
+  "phoneNumber": "+1 202 240 2660",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "17:30 - 21:30"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:30 - 21:30"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:30 - 21:30"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:30 - 22:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:30 - 22:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://thedabney.com/",
+  "reservationProviders": "[\n      { \n        type: \"opentable\", \n        name: \"OpenTable\", \n        url: \"https://www.opentable.com/r/the-dabney?corrid=0502c38e-40de-474f-9762-c7ede69f78a2&p=2\", \n        logo: \"/images/opentable.png\" \n      }\n    ]",
+  "tags": [],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Best Chef, Mid-Atlantic",
+      "count": "Sustainability",
+      "year": "2018",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    }
+  ],
+  "bio": "The Dabney, a Michelin-starred restaurant in Washington, D.C., is celebrated for its devotion to Mid-Atlantic cuisine and its embrace of seasonal, locally sourced ingredients. Opened in 2015 by Chef Jeremiah Langhorne, a James Beard Award winner for Best Chef: Mid-Atlantic, the restaurant is centered around a massive wood-burning hearth that infuses each dish with rustic depth and character. The ever-evolving tasting menu highlights the region's rich agricultural traditions, with ingredients drawn from small farms, fisheries, and foragers, often reimagined through a modern lens while maintaining a sense of authenticity. Guests may encounter dishes such as ember-roasted vegetables, heritage meats, or fresh seafood, each prepared with precision and a respect for its origins. The intimate, brick-walled dining room, housed in a converted rowhouse, adds to the sense of place, combining warmth and refinement in equal measure. By weaving together history, seasonality, and craft, The Dabney offers an experience that is both rooted in tradition and distinctly contemporary, making it one of the capital's most defining culinary destinations.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6015.494420938788!2d-77.027105088619!3d38.906344571604215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7ed1f803bad%3A0xc249cf1582afed52!2sThe%20Dabney!5e1!3m2!1sen!2sus!4v1755564007067!5m2!1sen!2sus",
+  "pageTitle": "The Dabney"
+}

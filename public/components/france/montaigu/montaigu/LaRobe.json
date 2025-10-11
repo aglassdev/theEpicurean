@@ -1,0 +1,20 @@
+{
+  "restaurantName": "La Robe",
+  "address": "2 rue Neuve, Montaigu, 85600, France",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€",
+  "phoneNumber": "+33251477927",
+  "website": "https://www.restaurant-la-robe.com",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "In his contemporary and elegant restaurant laid out around a lovely patio, Xavier Giraudet creates top-drawer modern cuisine with a focus on vegetables. The various set menus feature local and seasonal produce (sometimes even from the family vegetable garden), expertly cooked and full of flavour. In season, don't miss their exemplary rendition of hare à la royale à la Antonin Carême, a classic dish! A bravura performance....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=2%20rue%20Neuve%2C%20Montaigu%2C%2085600%2C%20France",
+  "pageTitle": "La Robe"
+}

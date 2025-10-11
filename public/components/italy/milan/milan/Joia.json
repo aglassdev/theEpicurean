@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Joia",
+  "address": "via Panfilo Castaldi 18, Milan, 20124, Italy",
+  "cuisine": "Vegetarian, Seasonal Cuisine",
+  "priceRange": "€€€€",
+  "phoneNumber": "+39022049244",
+  "website": "https://joia.it",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "This restaurant in one of Milan’s historic districts is home to the chef who first introduced the concept of natural, vegetarian cuisine to the world of Italian fine dining. Pietro Leemann is the man (and great philosopher) behind this “vegetarian restaurant” where the menu is 80% vegan and gluten free. This chef’s imaginative and dream-like dishes bear witness to the philosophical and spiritual transformation he has undergone over many years, with recipes that showcase the essence of their ingredients in colour, flavour, texture and presentation. The restaurant is minimalist and elegant in style, while its Joia Academy aims to introduce participants to all aspects of the chef’s philosophy....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=via%20Panfilo%20Castaldi%2018%2C%20Milan%2C%2020124%2C%20Italy",
+  "pageTitle": "Joia"
+}

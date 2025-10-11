@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Etoile",
+  "address": "Norra Stationsgatan 51, Stockholm, 113 44, Sweden",
+  "cuisine": "Creative, International",
+  "priceRange": "€€€€",
+  "phoneNumber": "+468101070",
+  "website": "https://www.restaurantetoile.se/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "After travelling the world, two friends opened this restaurant to showcase their experiences through food, yet with a decidedly imaginative streak. The cooking is characterised by bold, surprising flavours and creativity – what appears to be savoury may in fact be sweet, and vice versa. The chefs delight in subverting expectations with their playfully named dishes that reference global food traditions, like 'Surf and Turf' and 'Afternoon Tea Party'....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Norra%20Stationsgatan%2051%2C%20Stockholm%2C%20113%2044%2C%20Sweden",
+  "pageTitle": "Etoile"
+}

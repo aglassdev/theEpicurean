@@ -1,0 +1,20 @@
+{
+  "restaurantName": "Mavrommatis",
+  "address": "42 rue Daubenton, Paris, 75005, France",
+  "cuisine": "Greek, Mediterranean Cuisine",
+  "priceRange": "€€€€",
+  "phoneNumber": "+33143311717",
+  "website": "https://www.mavrommatis.com/",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Cypriot chef Andreas Mavrommatis and his team create colourful, well-crafted dishes based on classic French techniques blended with the best of Greek flavours: grilled octopus, phyllo pastry, confit onions with Xinomavro; Lozère lamb, the shoulder slow-cooked, the saddle roasted with halloumi cheese, chard dolmades and Volos olive condiment.... A culinary voyage in a stylish, minimalist setting that is the perfect foil to food that varies according to the season and the chef’s inspiration....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=42%20rue%20Daubenton%2C%20Paris%2C%2075005%2C%20France",
+  "pageTitle": "Mavrommatis"
+}

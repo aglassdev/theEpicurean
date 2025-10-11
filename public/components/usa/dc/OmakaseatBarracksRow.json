@@ -1,0 +1,56 @@
+{
+  "headerImages": [
+    "/images/omakaseatbarracks1.png",
+    "/images/omakaseatbarracks2.png"
+  ],
+  "restaurantName": "Omakase at Barracks Row",
+  "address": "522 8th St. SE, Washington, 20003, USA",
+  "cuisine": "Sushi",
+  "priceRange": "$$$$ · Omakase",
+  "phoneNumber": "+1 202 481 1640",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    }
+  },
+  "website": "https://www.omakasedc.com/",
+  "reservationProviders": "[\n      { \n        type: \"resy\", \n        name: \"Resy\", \n        url: \"https://resy.com/cities/washington-dc/venues/omakase-barracks-row\", \n        logo: \"/images/resy.png\" \n      }\n    ]",
+  "tags": [],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Omakase at Barracks Row, opened in November 2023, has quickly risen to prominence in Washington, D.C.’s dining scene, earning its first Michelin star in the 2024 guide after less than a year of operation. Led by Chef Yi “Ricky” Wang, a seasoned alum of Sushi Nakazawa, the intimate counter experience offers a meticulously crafted omakase that showcases the elegance and precision of Japanese sushi tradition. With only a handful of seats, guests are immersed in a multi-course progression featuring pristine fish flown in from Japan’s markets, balanced perfectly with expertly seasoned rice and inventive touches such as hay-smoked mackerel or surf clam with kumquat kosho. The minimalist design keeps the focus on the chefs’ artistry, while the personal interaction creates a dining experience that is both refined and inviting. With its remarkable quality and swift recognition, Omakase at Barracks Row has firmly established itself as one of the capital’s premier destinations for sushi and fine dining.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.7830155592333!2d-76.9973664886203!3d38.88189017160956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b92300bc9315%3A0xce4ea1367792f064!2sOmakase%20%40%20Barracks%20Row!5e1!3m2!1sen!2sus!4v1755636797173!5m2!1sen!2sus",
+  "pageTitle": "Omakase at Barracks Row"
+}

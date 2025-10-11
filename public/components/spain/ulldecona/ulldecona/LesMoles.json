@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Les Moles",
+  "address": "Carretera de La Sénia, Ulldecona, 43550, Spain",
+  "cuisine": "Modern Cuisine, Creative",
+  "priceRange": "€€€",
+  "phoneNumber": "+34977573224",
+  "website": "https://lesmoles.com/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "This family-run business, occupying an old farm with rustic charm and contemporary decorative detail, is firmly steeped in its surroundings and their natural bounty, as well as the history of Ulldecona. This is also demonstrated by its name, which refers to the millstones carved out of the local quarry. Chef Jeroni Castell does everything possible to bring a sustainable approach to his dishes, which are based around the perfect balance that should exist between local provenance, technique and fun, showcasing those products that encapsulate the Terres de l’Ebre region’s coastal and mountain landscapes. Standout dishes here include the “armónica” of grilled Balfegó red tuna with cured egg yolk, and a purée of mashed potato and butter, and El Delta del Ebro, a steamed seafood dish with Ostras...",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Carretera%20de%20La%20S%C3%A9nia%2C%20Ulldecona%2C%2043550%2C%20Spain",
+  "pageTitle": "Les Moles"
+}

@@ -1,0 +1,20 @@
+{
+  "restaurantName": "Georges Blanc",
+  "address": "Place du Marché, Vonnas, 01540, France",
+  "cuisine": "Classic Cuisine",
+  "priceRange": "€€€€",
+  "phoneNumber": "+33474509090",
+  "website": "https://www.georgesblanc.com/fr/",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 2,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "In his Vonnas stronghold, Georges Blanc has embodied a certain idea of tradition for several decades. From a 100-square-metre building, he has created an estate spanning several hectares: in the evening, the atmospheric lighting of the village gardens and houses is magical. At the head of a small empire, Monsieur Blanc takes the time each day to meet his guests and dedicate the menus with obvious pleasure. In the plate, you’ll find the emblematic Bresse chicken, the famous crêpes Vonnassiennes, and rich sauces with deep flavours... to be paired with one of the myriad wines from a particularly impressive list....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Place%20du%20March%C3%A9%2C%20Vonnas%2C%2001540%2C%20France",
+  "pageTitle": "Georges Blanc"
+}

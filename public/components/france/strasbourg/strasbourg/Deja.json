@@ -1,0 +1,24 @@
+{
+  "restaurantName": "de:ja",
+  "address": "1 rue Schimper, Strasbourg, 67000, France",
+  "cuisine": "Creative",
+  "priceRange": "€€€€",
+  "phoneNumber": "+33388611457",
+  "website": "https://www.deja-restaurant.com",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "The Scandi-inspired decor hints at the culinary ethos: creativity, extractions, fermentations, plants to the fore, a concern for animal welfare, a natural wine list and haikus instead of the titles of dishes. The textbook technique features precise cooking times, intensely flavoured sauces and jus, and bold combinations that work well. Online bookings only....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=1%20rue%20Schimper%2C%20Strasbourg%2C%2067000%2C%20France",
+  "pageTitle": "de:ja"
+}

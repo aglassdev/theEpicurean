@@ -1,0 +1,79 @@
+{
+  "headerImages": [
+    "/images/albi1.png",
+    "/images/albi2.png"
+  ],
+  "restaurantName": "Albi",
+  "address": "1346 4th St. SE, Washington, DC 20003, USA",
+  "cuisine": "Middle Eastern",
+  "priceRange": "$$$$ · Prix Fixe · À La Carte",
+  "phoneNumber": "+1 202 921 9592",
+  "hours": {
+    "Monday": {
+      "lunch": "",
+      "dinner": "Closed"
+    },
+    "Tuesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Wednesday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Thursday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Friday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Saturday": {
+      "lunch": "",
+      "dinner": "17:00 - 22:00"
+    },
+    "Sunday": {
+      "lunch": "",
+      "dinner": "Closed"
+    }
+  },
+  "website": "https://www.albidc.com/",
+  "reservationProviders": "[\n      { type: \"resy\", name: \"Resy\", url: \"https://resy.com/cities/washington-dc/venues/albi\", logo: \"/images/resy.png\" }\n    ]",
+  "tags": [
+    {
+      "name": "Vegetarian Friendly",
+      "iconUrl": "/images/vegetarian.png"
+    },
+    {
+      "name": "Extensive Wine List",
+      "iconUrl": "/images/extensive-wineglass.png"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "count": 1,
+      "year": "2025",
+      "image": "/images/michelinstar.png",
+      "organization": "Guide Michelin"
+    },
+    {
+      "name": "Outstanding Chef Award",
+      "count": "Sustainability",
+      "year": "2011",
+      "image": "/images/jamesbeard.png",
+      "organization": "James Beard Foundation"
+    },
+    {
+      "name": "Sommelier of the Year Award",
+      "count": "Sustainability",
+      "year": "2024",
+      "image": "/images/sommelier.png",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Albi, a Michelin-starred restaurant in Washington, D.C.’s Navy Yard, has become one of the city’s most celebrated dining experiences since opening in 2020. Created by chef and owner Michael Rafidi, Albi—meaning “my heart” in Arabic—pays homage to his Palestinian heritage while blending it with modern culinary techniques and a focus on seasonal Mid-Atlantic ingredients. The restaurant centers around a wood-burning hearth, which imparts a signature smokiness to many of the dishes, from fire-kissed meats and seafood to vegetables elevated with depth and warmth. Guests are offered a choice between an à la carte menu filled with inventive mezze and shareable plates or a multi-course chef’s tasting menu known as Sofra, which highlights Rafidi’s most refined creations. Standout dishes often include rich spreads like hummus with lamb, coal-roasted fish, and inventive desserts infused with Middle Eastern flavors, all paired with a carefully curated wine list emphasizing natural and regional producers. With its sleek, contemporary design and a menu that bridges tradition and innovation, Albi delivers a dining experience that is deeply personal, soulful, and unforgettable, securing its place as a cornerstone of Washington’s modern culinary scene.",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.0689606424594!2d-77.00294492406434!3d38.87408577172902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b9ddf00b8ddb%3A0xb2d5b66f43a2810a!2sAlbi!5e1!3m2!1sen!2sus!4v1755542314946!5m2!1sen!2sus",
+  "pageTitle": "Albi"
+}

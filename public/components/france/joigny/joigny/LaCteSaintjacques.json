@@ -1,0 +1,24 @@
+{
+  "restaurantName": "La Côte Saint-Jacques",
+  "address": "14 faubourg de Paris, Joigny, 89300, France",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€€€",
+  "phoneNumber": "+33386620970",
+  "website": "https://www.cotesaintjacques.com/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 2,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "This edifice on the banks of the Yonne is truly superlative! Founded by Marie Lorain in 1945, the establishment rose to fame in the hands of her son, Michel, and then later, when her modest, conscientious grandson, Jean-Michel, took over. The latter has entrusted his nephew, Alexandre Bondoux, with the task of composing the menu. Regulars can rest assured that the original, iconic dishes remain (lobster stew; calf sweetbread in ginger), now flanked by flashes of inspiration (skate wing à la meunière in green butter, lovage and morels; suckling lamb from the Pyrenees, gambero rosso and Arabica-laced sabayon). A symphony of flavours, high-flying craftsmanship and an exquisite repertory, underscored by slick attentive service....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=14%20faubourg%20de%20Paris%2C%20Joigny%2C%2089300%2C%20France",
+  "pageTitle": "La Côte Saint-Jacques"
+}
