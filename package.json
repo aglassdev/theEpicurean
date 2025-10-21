@@ -11,7 +11,8 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "generate": "node scripts/generateRestaurants.js",
-    "generate-routes": "node scripts/generateRoutes.js"
+    "generate-routes": "node scripts/generateRoutes.js",
+    "cleanup": "node scripts/cleanup.js"
   },
   "dependencies": {
     "@visx/geo": "^3.12.0",

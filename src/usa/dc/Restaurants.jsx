@@ -24,161 +24,161 @@ const restaurants = [
     name: 'Albi',
     cuisine: 'Middle Eastern',
     price: '$$$$',
-    path: '/usa/dc/albi',
+    path: '/usa/dc/Albi',
     image: '/images/albi1.png'
   },
   {
     name: 'Bresca',
     cuisine: 'Contemporary French',
     price: '$$$',
-    path: '/usa/dc/bresca',
+    path: '/usa/dc/Bresca',
     image: '/images/bresca1.png'
   },
   {
     name: 'Causa',
     cuisine: 'Peruvian Japanese Fusion',
     price: '$$$',
-    path: '/usa/dc/causa',
+    path: '/usa/dc/Causa',
     image: '/images/causa1.png'
   },
   {
     name: 'Elcielo',
     cuisine: 'Contemporary Colombian',
     price: '$$$$',
-    path: '/usa/dc/elcielowashington',
+    path: '/usa/dc/ElcieloWashington',
     image: '/images/elcielowashington1.png'
   },
   {
     name: 'fiola',
     cuisine: 'Contemporary Italian',
     price: '$$$$',
-    path: '/usa/dc/fiola',
+    path: '/usa/dc/Fiola',
     image: '/images/fiola1.png'
   },
   {
     name: 'Gravitas',
     cuisine: 'Contemporary American',
     price: '$$$',
-    path: '/usa/dc/gravitas',
+    path: '/usa/dc/Gravitas',
     image: '/images/gravitas1.png'
   },
   {
     name: 'Imperfecto by Enrique Limardo: The Chef\'s Table',
     cuisine: 'Latin American Mediterranean Fusion',
     price: '$$$$',
-    path: '/usa/dc/imperfectothechefstable',
+    path: '/usa/dc/ImperfectoTheChefsTable',
     image: '/images/imperfecto3.png'
   },
   {
     name: 'Jônt',
     cuisine: 'French Japanese Fusion',
     price: '$$$$',
-    path: '/usa/dc/jônt',
+    path: '/usa/dc/Jônt',
     image: '/images/jont1.png'
   },
   {
     name: 'Kinship',
     cuisine: 'Contemporary American',
     price: '$$$',
-    path: '/usa/dc/kinship',
+    path: '/usa/dc/Kinship',
     image: '/images/kinship1.png'
   },
   {
     name: 'Little Pearl',
     cuisine: 'New American',
     price: '$$$',
-    path: '/usa/dc/littlepearl',
+    path: '/usa/dc/LittlePearl',
     image: '/images/littlepearl1.png'
   },
   {
     name: 'Masseria by Nicholas Stefanelli',
     cuisine: 'Modern Italian',
     price: '$$$$',
-    path: '/usa/dc/masseria',
+    path: '/usa/dc/Masseria',
     image: '/images/masseria1.png'
   },
   {
     name: 'Métier',
     cuisine: 'Contemporary French',
     price: '$$$$',
-    path: '/usa/dc/métier',
+    path: '/usa/dc/Métier',
     image: '/images/metier1.png'
   },
   {
     name: 'minibar by José Andrés',
     cuisine: 'Spanish-Influenced Contemporary',
     price: '$$$$',
-    path: '/usa/dc/minibar',
+    path: '/usa/dc/Minibar',
     image: '/images/minibar1.png'
   },
   {
     name: 'Mita',
     cuisine: 'Vegetarian Latin American',
     price: '$$$',
-    path: '/usa/dc/mita',
+    path: '/usa/dc/Mita',
     image: '/images/mita1.png'
   },
   {
     name: 'Omakase at Barracks Row',
     cuisine: 'Sushi',
     price: '$$$$',
-    path: '/usa/dc/omakaseatbarracksrow',
+    path: '/usa/dc/OmakaseatBarracksRow',
     image: '/images/omakaseatbarracks1.png'
   },
   {
     name: 'Oyster Oyster',
     cuisine: 'Vegetarian',
     price: '$$$',
-    path: '/usa/dc/oysteroyster',
+    path: '/usa/dc/OysterOyster',
     image: '/images/oyster1.png'
   },
   {
     name: 'Pineapple & Pearls',
     cuisine: 'Creative',
     price: '$$$$',
-    path: '/usa/dc/pineappleandpearls',
+    path: '/usa/dc/PineappleandPearls',
     image: '/images/pineapple3.png'
   },
   {
     name: 'Rania',
     cuisine: 'Contemporary Indian',
     price: '$$$',
-    path: '/usa/dc/rania',
+    path: '/usa/dc/Rania',
     image: '/images/rania1.png'
   },
   {
     name: 'Rooster & Owl',
     cuisine: 'New American',
     price: '$$$',
-    path: '/usa/dc/roosterandowl',
+    path: '/usa/dc/RoosterandOwl',
     image: '/images/roosterandowl1.png'
   },
   {
     name: 'Rose\'s Luxury',
     cuisine: 'American',
     price: '$$$',
-    path: '/usa/dc/rosesluxury',
+    path: '/usa/dc/RosesLuxury',
     image: '/images/roseslux1.png'
   },
   {
     name: 'Sushi Nakazawa',
     cuisine: 'Sushi',
     price: '$$$$',
-    path: '/usa/dc/sushinakazawadc',
+    path: '/usa/dc/SushiNakazawaDC',
     image: '/images/sushi1.png'
   },
   {
     name: 'The Dabney',
     cuisine: 'Contemporary American',
     price: '$$$',
-    path: '/usa/dc/thedabney',
+    path: '/usa/dc/TheDabney',
     image: '/images/dabney1.png'
   },
   {
     name: 'Xiquet by Danny Lledó',
     cuisine: 'Contemporary Spanish',
     price: '$$$$',
-    path: '/usa/dc/xiquet',
+    path: '/usa/dc/Xiquet',
     image: '/images/xiquet1.png'
   }
 ];

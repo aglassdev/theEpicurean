@@ -19,14 +19,14 @@ const restaurants = [
     name: 'The Inn at Little Washington',
     cuisine: 'Contemporary French',
     price: '$$$$$',
-    path: '/usa/virginia/washington/innatlittlewashington',
+    path: '/usa/virginia/washington/InnAtLittleWashington',
     image: '/images/ialw.png'
   },
   {
     name: 'Patty O\'s Cafe & Bakery',
     cuisine: 'French-Influenced American',
     price: '$$$',
-    path: '/usa/virginia/washington/pattyoscafe',
+    path: '/usa/virginia/washington/PattyOsCafe',
     image: '/images/pattyoscafe1.png'
   },
   

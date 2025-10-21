@@ -1,284 +1,149 @@
-# The Epicurean
+# The Epicurean - Restaurant Guide
 
-> A comprehensive global guide to fine dining destinations and culinary experiences worldwide
+A modern React-based restaurant guide with dynamic routing for restaurant listings and individual restaurant pages.
 
-## 📊 Project Scale
-
-- **98+ Countries** - Global coverage across all major culinary destinations
-- **500+ Cities** - From metropolitan capitals to hidden culinary gems  
-- **18,000+ Restaurants** - Carefully curated dining experiences
-- **18,500+ Total Pages** - Dynamically generated routes and content
-- **Automated Generation** - Scripts manage thousands of pages efficiently
-
-## 🚀 Features
-
-- **Interactive World Map** - Explore culinary destinations visually with dynamic geographic navigation
-- **Detailed Restaurant Profiles** - In-depth information about each dining establishment
-- **City-Specific Guides** - Curated collections organized by location
-- **Responsive Design** - Optimized experience across all devices
-- **Fast Navigation** - Code-split architecture for optimal performance
-- **Global Coverage** - Restaurants across 6 continents
-
-## 🛠️ Technology Stack
-
-- **React 18** - Modern UI framework
-- **React Router v6** - Client-side routing
-- **Vite 7** - Next-generation build tool
-- **Visx** - Data visualization for interactive maps
-- **TopojSON** - Geographic data processing
-- **Code Splitting** - Lazy-loaded routes for performance
-
-## 📁 Project Structure
+## 🏗️ Project Structure
 
 ```
 theEpicurean/
+├── public/
+│   ├── components/          # JSON data for individual restaurants
+│   │   └── [country]/[region]/[city]/[RestaurantName].json
+│   └── images/              # Restaurant images
 ├── src/
-│   ├── [country]/              # 98+ country directories
-│   │   ├── [region]/           # Regional subdivisions
-│   │   │   ├── [city]/         # City-level organization
-│   │   │   │   ├── Restaurants.jsx      # City guide page
-│   │   │   │   └── [RestaurantName].jsx # Individual restaurant pages
-│   ├── App.jsx                 # Main app with lazy-loaded routes
-│   ├── Home.jsx                # Landing page
-│   ├── Destinations.jsx        # Browse all destinations
-│   ├── InteractiveMap.jsx      # Visual geographic explorer
-│   └── Methodology.jsx         # About the curation process
-├── scripts/
-│   ├── generateRoutes.js       # Auto-generates routes from file structure
-│   └── generateRestaurants.js  # Processes restaurant data
-├── public/                     # Static assets
-└── dist/                       # Production build output
+│   ├── [country]/[region]/[city]/
+│   │   ├── Restaurants.jsx  # Listing page for a location
+│   │   └── [RestaurantName].jsx  # Individual restaurant components (legacy)
+│   ├── App.jsx              # Main app with routing logic
+│   ├── Home.jsx             # Homepage
+│   ├── Destinations.jsx     # Destinations overview
+│   ├── Methodology.jsx      # About the methodology
+│   └── RestaurantTemplate.jsx  # Template for rendering restaurant JSON data
+└── scripts/
+    └── convertToJSON.js     # Converts JSX components to JSON
 ```
 
-## 🤖 Automated Page Generation
+## 🚀 How It Works
 
-This project uses automated scripts to generate and maintain **18,500+ pages**:
+### Routing System
 
-### Route Generation Script
-```bash
-npm run generate-routes
-```
+The app uses a dynamic routing system that handles two types of pages:
 
-**What it does:**
-- Scans entire `src/` directory structure
-- Finds all restaurant and city page components
-- Generates `routes.json` with 18,500+ route definitions
-- Enables dynamic lazy loading for optimal performance
+1. **Listing Pages** (`/country/region/city/restaurants`)
+   - Shows all restaurants in a specific location
+   - Rendered from `Restaurants.jsx` components
+   - Explicitly imported in `App.jsx`
 
-**Result:** Each restaurant gets its own route without manually defining 18,500 routes in code.
+2. **Individual Restaurant Pages** (`/country/region/city/restaurant-name`)
+   - Shows details for a specific restaurant
+   - Data loaded from JSON files in `public/components/`
+   - Rendered using `RestaurantTemplate.jsx`
 
-### Restaurant Data Processing
-```bash
-npm run generate
-```
+### Dynamic Page Loading
 
-**What it does:**
-- Processes restaurant database/spreadsheet
-- Creates individual React component files
-- Organizes by country → region → city hierarchy
-- Generates standardized page templates with:
-  - Restaurant name and location
-  - Detailed descriptions
-  - Cuisine type and price range
-  - Contact information and links
-  - Images and atmosphere details
+When a user visits a URL, the `DynamicPage` component in `App.jsx`:
 
-**Why automation?**
-Managing 18,000+ restaurant pages manually would be impossible. Scripts ensure:
-- Consistent formatting across all pages
-- Easy bulk updates and data corrections
-- Scalable architecture as more restaurants are added
-- Reduced human error in data entry
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18+
-- npm or yarn
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd theEpicurean
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Generate routes**
-   ```bash
-   npm run generate-routes
-   ```
-
-4. **Start development server**
-   ```bash
-   npm run dev
-   ```
-
-5. **Open browser**
-   Navigate to `http://localhost:5173`
-
-## 📦 Build & Deploy
-
-### Local Build
-```bash
-npm run build
-npm run preview
-```
-
-The build process:
-1. Runs `generateRoutes.js` to create routes.json
-2. Vite builds and optimizes all code
-3. Code splits by country/region into chunks
-4. Outputs optimized production files to `dist/`
-
-### Production Deployment (Vercel)
-
-The project is optimized for Vercel deployment:
-- **Automatic route generation** during build
-- **Code splitting** by country/region reduces initial load
-- **Lazy loading** ensures fast page loads
-- **Build time:** ~5-15 minutes (down from 45+ with optimization)
-
-```bash
-git push  # Triggers automatic Vercel deployment
-```
-
-**Deployment Optimization:**
-See `DEPLOYMENT_FIX.md` for details on how we reduced build time by 70%+ through code splitting and lazy loading.
-
-## 🔧 Scripts
-
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server with hot module replacement |
-| `npm run build` | Generate routes and build for production |
-| `npm run preview` | Preview production build locally |
-| `npm run generate-routes` | Generate routes.json from 18,500+ files |
-| `npm run generate` | Process and generate restaurant pages |
-| `npm run lint` | Run ESLint code quality checks |
-
-## ⚡ Performance Optimizations
-
-- **Lazy Loading**: Only loads routes when visited (not all 18,500 upfront)
-- **Code Splitting**: Automatically splits by country/region into separate chunks
-- **Tree Shaking**: Removes unused code during build
-- **Route Generation**: Dynamic routes prevent massive route definition files
-- **Caching Strategy**: Efficient browser caching for repeat visits
-- **Optimized Bundle**: Initial bundle ~200KB, additional chunks load on demand
-
-**Before optimization:** 2.66MB App.jsx, 45+ minute builds  
-**After optimization:** 2KB App.jsx, 5-15 minute builds
-
-## 🗺️ Coverage by Region
-
-- **Europe**: 44 countries (France, Italy, Spain, UK, Germany, Netherlands, Belgium, Switzerland, Austria, Portugal, and more)
-- **North America**: 3 countries (USA, Canada, Mexico)
-- **South America**: 10 countries (Argentina, Brazil, Chile, Colombia, Peru, and more)
-- **Asia**: 26 countries (Japan, China, Thailand, Singapore, South Korea, India, and more)
-- **Oceania**: 3 countries (Australia, New Zealand, Kiribati)
-- **Caribbean**: 4 countries (Bahamas, Barbados, Dominican Republic, Jamaica)
-- **Africa**: 4 countries (Egypt, Morocco, South Africa, Tunisia)
-- **Middle East**: Integrated within Asia count (UAE, Israel, Jordan, Lebanon, and more)
+1. Checks if the path matches a listing page (imported components)
+2. If not, attempts to load restaurant JSON with multiple filename variations
+3. Displays a 404 error if neither is found
 
 ## 📝 Development
 
-### Adding New Restaurants
+### Running the Development Server
 
-1. Create a new `.jsx` file in the appropriate location:
+```bash
+npm run dev
+```
+
+### Building for Production
+
+```bash
+npm run build
+```
+
+This will:
+1. Run `convertToJSON.js` to generate JSON files from JSX components
+2. Build the optimized production bundle
+
+### Adding a New Restaurant
+
+1. Create the JSX component in the appropriate location:
    ```
    src/[country]/[region]/[city]/RestaurantName.jsx
    ```
 
-2. Run route generation:
+2. Run the conversion script:
    ```bash
-   npm run generate-routes
+   npm run convert
    ```
 
-3. The route will be automatically available at:
+3. The JSON file will be created in:
    ```
-   /[country]/[region]/[city]/restaurantname
+   public/components/[country]/[region]/[city]/RestaurantName.json
    ```
 
-### Project Guidelines
+### Adding a New Listing Page
 
-- **File naming**: Restaurant components use PascalCase (e.g., `TheFrenchLaundry.jsx`)
-- **URL format**: Automatically converted to lowercase with hyphens (`/the-french-laundry`)
-- **City overviews**: Each city should have a `Restaurants.jsx` page
-- **Organization**: Country → Region → City → Restaurant hierarchy
-- **Consistency**: Use generation scripts to maintain formatting standards
+1. Create `Restaurants.jsx` in the location folder:
+   ```
+   src/[country]/[region]/[city]/Restaurants.jsx
+   ```
 
-## 🌐 Countries Covered
+2. Import it in `App.jsx` and add to `listingComponents` map:
+   ```javascript
+   import NewLocationRestaurants from './country/region/city/Restaurants.jsx';
+   
+   const listingComponents = {
+     '/country/region/city/restaurants': NewLocationRestaurants,
+     // ... other listings
+   };
+   ```
 
-<details>
-<summary>View all 98+ countries (click to expand)</summary>
+## 🧹 Project Cleanup
 
-**Europe:**
-Albania, Andorra, Austria, Azerbaijan, Belgium, Bosnia and Herzegovina, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, UK
+Unnecessary files have been removed:
+- Backup files (`*-backup.jsx`, `*-old*.jsx`)
+- Deployment fix documentation
+- Test files
+- Legacy fix scripts
 
-**North America:**
-Canada, Mexico, USA
+## 📦 Key Dependencies
 
-**South America:**
-Argentina, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, Panama, Paraguay, Peru, Uruguay, Venezuela
+- **React** 18.2.0 - UI library
+- **React Router** 6.20.1 - Client-side routing
+- **Vite** 7.1.2 - Build tool and dev server
+- **@visx** - Interactive map visualization
 
-**Asia:**
-Bahrain, Cambodia, China, Hong Kong, India, Indonesia, Israel, Japan, Jordan, Kuwait, Laos, Lebanon, Macau, Malaysia, Oman, Philippines, Qatar, Saudi Arabia, Singapore, South Korea, Sri Lanka, Taiwan, Thailand, UAE, Vietnam
+## 🔧 Scripts
 
-**Oceania:**
-Australia, Kiribati, New Zealand
+- `npm run dev` - Start development server
+- `npm run build` - Build for production (includes JSON conversion)
+- `npm run build-fast` - Build without JSON conversion
+- `npm run convert` - Convert JSX to JSON only
+- `npm run preview` - Preview production build locally
 
-**Caribbean:**
-Bahamas, Barbados, Jamaica
+## ⚠️ Important Notes
 
-**Africa:**
-Egypt, Morocco, South Africa, Tunisia
+- Restaurant listing URLs must end with `/restaurants`
+- Individual restaurant URLs use lowercase with hyphens
+- JSON files support multiple filename variations (PascalCase, kebab-case, etc.)
+- All images should be placed in `public/images/`
 
-</details>
+## 🐛 Troubleshooting
 
-## 📊 Statistics
+### 404 Error on Restaurant Page
 
-- **Average restaurants per country**: ~184
-- **Total routes generated**: 18,500+
-- **Build optimization**: 95% reduction in initial bundle size
-- **Page load time**: <1s for initial load, <200ms for subsequent routes
-- **Deployment time**: 5-15 minutes (optimized from 45+)
+1. Check if the JSON file exists in `public/components/`
+2. Run `npm run convert` to regenerate JSON files
+3. Check browser console for attempted file paths
+4. Verify the URL matches the file structure
 
-## 🎯 Architecture Highlights
+### Listing Page Not Loading
 
-### Why This Structure Works
-
-**Challenge:** Managing 18,500 pages efficiently
-
-**Solutions:**
-1. **Automated Generation**: Scripts handle page creation from data sources
-2. **Dynamic Routing**: Routes generated at build time, loaded at runtime
-3. **Code Splitting**: Each country/region loads independently
-4. **Lazy Loading**: Components load only when routes are visited
-5. **Hierarchical Organization**: Country → Region → City keeps files organized
-
-### Key Files
-
-- **`src/App.jsx`** - Main app with dynamic route loader (only 2KB!)
-- **`scripts/generateRoutes.js`** - Scans file structure, builds routes.json
-- **`scripts/generateRestaurants.js`** - Processes data into component files
-- **`src/routes.json`** - Generated file with all 18,500+ route definitions
-- **`vite.config.js`** - Build optimization and code splitting configuration
+1. Ensure `Restaurants.jsx` is imported in `App.jsx`
+2. Check that the path in `listingComponents` matches the URL
+3. Verify the component exports a default export
 
 ## 📄 License
 
-Private - All rights reserved
-
-## 🔗 Links
-
-- **Documentation**: 
-  - `/scripts/` - Generation scripts documentation
-
----
-
-*Last updated: October 2025*  
-*18,500+ pages | 98+ countries | 500+ cities*
+Private project - All rights reserved

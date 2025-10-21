@@ -19,28 +19,28 @@ const restaurants = [
     name: '2941 Restaurant',
     cuisine: 'French-influenced American',
     price: '$$$',
-    path: '/usa/virginia/nova/2941restaurant',
+    path: '/usa/virginia/nova/2941Restaurant',
     image: '/images/2941restaurant1.png'
   },
     {
     name: 'Ellie Bird',
     cuisine: 'New American',
     price: '$$$',
-    path: '/usa/virginia/nova/elliebird',
+    path: '/usa/virginia/nova/EllieBird',
     image: '/images/elliebird1.png'
   },
     {
     name: 'Jacques\' Brasserie at L’Auberge Chez François',
     cuisine: 'Classic French',
     price: '$$$',
-    path: '/usa/virginia/nova/jacquesbrasserie',
+    path: '/usa/virginia/nova/JacquesBrasserie',
     image: '/images/jacquesbrasserie1.png'
   },
   {
     name: 'Joon',
     cuisine: 'Persian',
     price: '$$$',
-    path: '/usa/virginia/nova/joon',
+    path: '/usa/virginia/nova/Joon',
     image: '/images/joon1.png'
   },
 
@@ -48,7 +48,7 @@ const restaurants = [
     name: 'L’Auberge Chez François',
     cuisine: 'Classic French',
     price: '$$$',
-    path: '/usa/virginia/nova/laubergechezfrancois',
+    path: '/usa/virginia/nova/LAubergeChezFrancois',
     image: '/images/laubergechezfrancois1.png'
   },
 ];

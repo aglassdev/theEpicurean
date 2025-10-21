@@ -51,7 +51,7 @@ const HomePage = ({ navigateToPage }) => {
         "/images/michelinstar.png",
         "/images/greenstar.png"
       ],
-      route: "/italy/emilia-romagna/modena/osteriafrancescana"
+      route: "/italy/emilia-romagna/modena/OsteriaFrancescana"
     },
     {
       image: "/images/thefrenchlaundry.png",
@@ -65,7 +65,7 @@ const HomePage = ({ navigateToPage }) => {
         "/images/michelinstar.png",
         "/images/greenstar.png"
       ],
-      route: "/usa/california/napa-valley/thefrenchlaundry"
+      route: "/usa/california/napa-valley/TheFrenchLaundry"
     },
     {
       image: "/images/thefatduck.png",
@@ -78,7 +78,7 @@ const HomePage = ({ navigateToPage }) => {
         "/images/michelinstar.png",
         "/images/michelinstar.png"
       ],
-      route: "/uk/england/south-east/bray/thefatduck"
+      route: "/uk/england/south-east/bray/TheFatDuck"
     },
     {
       image: "/images/elcellerdesanrosa.png",
@@ -92,7 +92,7 @@ const HomePage = ({ navigateToPage }) => {
         "/images/michelinstar.png",
           "/images/greenstar.png"
       ],
-      route: "/spain/catalonia/girona/elcellerdecanroca"
+      route: "/spain/catalonia/girona/ElCellerdeCanRoca"
     },
     {
       image: "/images/mirazur.png",
@@ -106,7 +106,7 @@ const HomePage = ({ navigateToPage }) => {
         "/images/michelinstar.png",
         "/images/greenstar.png"
       ],
-      route: "/france/provence-alpes-cote-dazur/menton/lemirazur"
+      route: "/france/provence-alpes-cote-dazur/menton/LeMirazur"
     },
     {
       image: "/images/noma.png",
@@ -120,7 +120,7 @@ const HomePage = ({ navigateToPage }) => {
         "/images/michelinstar.png",
         "/images/greenstar.png"
       ],
-      route: "/denmark/copenhagen/noma"
+      route: "/denmark/copenhagen/Noma"
     },
     {
       image: "/images/disfrutar.png",
@@ -133,7 +133,7 @@ const HomePage = ({ navigateToPage }) => {
         "/images/michelinstar.png",
         "/images/michelinstar.png"
       ],
-      route: "/spain/catalonia/barcelona/disfrutar"
+      route: "/spain/catalonia/barcelona/Disfrutar"
     },
     {
       image: "/images/alainducasse.png",
@@ -146,7 +146,7 @@ const HomePage = ({ navigateToPage }) => {
         "/images/michelinstar.png",
         "/images/michelinstar.png",
       ],
-      route: "/uk/england/london/alainducasseatthedorchester"
+      route: "/uk/england/london/AlainDucasseatTheDorchester"
     },
     {
       image: "/images/elevenmadisonpark.png",
@@ -159,7 +159,7 @@ const HomePage = ({ navigateToPage }) => {
         "/images/michelinstar.png",
         "/images/michelinstar.png"
       ],
-      route: "/usa/newyork/newyorkcity/elevenmadisonpark"
+      route: "/usa/newyork/newyorkcity/ElevenMadisonPark"
     },
   ];
 
