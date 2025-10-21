@@ -85,45 +85,52 @@ const DynamicPage = () => {
           ).join('');
         };
         
-        // Generate name variations
+        const basePath = pathParts.slice(0, -1).join('/');
+        
+        // Generate name variations - try PascalCase first as that's most common
         const nameVariations = [
-          // PascalCase (most common for JSON files)
-          toPascalCase(lastPart),
-          // First letter capitalized only
-          lastPart.charAt(0).toUpperCase() + lastPart.slice(1).toLowerCase(),
-          // Each word capitalized with dash
+          toPascalCase(lastPart),                    // PineappleandPearls
           lastPart.split('-').map(word => 
             word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
-          ).join('-'),
-          // Original
-          lastPart,
-          // Lowercase
-          lastPart.toLowerCase(),
-          // All uppercase
-          lastPart.toUpperCase(),
+          ).join('-'),                                // Pineapple-And-Pearls
+          lastPart,                                    // pineapple-and-pearls
+          lastPart.toLowerCase(),                      // pineapple-and-pearls
+          lastPart.charAt(0).toUpperCase() + lastPart.slice(1).toLowerCase(), // Pineappleandpearls
         ];
         
-        const pathVariations = nameVariations.map(name => {
-          const basePath = pathParts.slice(0, -1).join('/');
-          return `/components/${basePath}/${name}.json`;
-        });
+        const pathVariations = nameVariations.map(name => 
+          `/components/${basePath}/${name}.json`
+        );
         
         console.log('Trying JSON paths:', pathVariations);
         
         let data = null;
+        let lastError = null;
         
         for (const tryPath of pathVariations) {
           try {
             const response = await fetch(tryPath);
-            const contentType = response.headers.get('content-type');
             
-            if (response.ok && contentType && contentType.includes('application/json')) {
-              data = await response.json();
-              console.log('✓ Loaded JSON from:', tryPath);
-              break;
+            if (response.ok) {
+              const contentType = response.headers.get('content-type');
+              
+              // Try to parse as JSON regardless of content-type header
+              // (some servers don't set it correctly)
+              try {
+                data = await response.json();
+                console.log('✓ Loaded JSON from:', tryPath);
+                break;
+              } catch (jsonErr) {
+                console.log('✗ Invalid JSON at:', tryPath);
+                lastError = `Invalid JSON: ${jsonErr.message}`;
+              }
+            } else {
+              console.log(`✗ ${response.status} for:`, tryPath);
+              lastError = `HTTP ${response.status}: ${response.statusText}`;
             }
           } catch (err) {
-            console.log('✗ Failed:', tryPath);
+            console.log('✗ Fetch failed:', tryPath, err.message);
+            lastError = err.message;
             continue;
           }
         }
@@ -132,7 +139,10 @@ const DynamicPage = () => {
           setContent({ type: 'restaurant', data });
           setLoading(false);
         } else {
-          throw new Error(`Could not find page at: ${path}`);
+          const errorMsg = `Restaurant not found: ${lastPart}. Last error: ${lastError || 'No matching files'}`;
+          console.error(errorMsg);
+          console.error('Tried paths:', pathVariations);
+          throw new Error(errorMsg);
         }
         
       } catch (err) {
