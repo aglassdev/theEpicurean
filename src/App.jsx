@@ -1,23 +1,23 @@
 import React, { Suspense } from 'react';
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
-import Home from './Home.jsx';
-import Destinations from './Destinations.jsx';
-import Methodology from './Methodology.jsx';
-import RestaurantTemplate from './RestaurantTemplate.jsx';
+import Home from './Home';
+import Destinations from './Destinations';
+import Methodology from './Methodology';
+import RestaurantTemplate from './RestaurantTemplate';
 
 // Import all listing pages
-import DenmarkCopenhagenRestaurants from './denmark/copenhagen/Restaurants.jsx';
-import FranceProvenceMentonRestaurants from './france/provence-alpes-cote-dazur/menton/Restaurants.jsx';
-import ItalyEmiliaRomagnaModenaRestaurants from './italy/emilia-romagna/modena/Restaurants.jsx';
-import SpainCataloniaBarcelonaRestaurants from './spain/catalonia/barcelona/Restaurants.jsx';
-import SpainCataloniaGironaRestaurants from './spain/catalonia/girona/Restaurants.jsx';
-import UKEnglandLondonRestaurants from './uk/england/london/Restaurants.jsx';
-import UKEnglandSouthEastBrayRestaurants from './uk/england/south-east/bray/Restaurants.jsx';
-import USACaliforniaNapaValleyRestaurants from './usa/california/napa-valley/Restaurants.jsx';
-import USADCRestaurants from './usa/dc/Restaurants.jsx';
-import USANewYorkNewYorkCityRestaurants from './usa/newyork/newyorkcity/Restaurants.jsx';
-import USAVirginiaNovaRestaurants from './usa/virginia/nova/Restaurants.jsx';
-import USAVirginiaWashingtonRestaurants from './usa/virginia/washington/Restaurants.jsx';
+import DenmarkCopenhagenRestaurants from './denmark/copenhagen/Restaurants';
+import FranceProvenceMentonRestaurants from './france/provence-alpes-cote-dazur/menton/Restaurants';
+import ItalyEmiliaRomagnaModenaRestaurants from './italy/emilia-romagna/modena/Restaurants';
+import SpainCataloniaBarcelonaRestaurants from './spain/catalonia/barcelona/Restaurants';
+import SpainCataloniaGironaRestaurants from './spain/catalonia/girona/Restaurants';
+import UKEnglandLondonRestaurants from './uk/england/london/Restaurants';
+import UKEnglandSouthEastBrayRestaurants from './uk/england/south-east/bray/Restaurants';
+import USACaliforniaNapaValleyRestaurants from './usa/california/napa-valley/Restaurants';
+import USADCRestaurants from './usa/dc/Restaurants';
+import USANewYorkNewYorkCityRestaurants from './usa/newyork/newyorkcity/Restaurants';
+import USAVirginiaNovaRestaurants from './usa/virginia/nova/Restaurants';
+import USAVirginiaWashingtonRestaurants from './usa/virginia/washington/Restaurants';
 
 // Map of paths to components
 const listingComponents = {
