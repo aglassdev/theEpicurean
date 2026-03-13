@@ -1,0 +1,44 @@
+{
+  "title": "Oostende",
+  "country": "belgium",
+  "region": "oostende",
+  "city": "oostende",
+  "restaurants": [
+    {
+      "name": "Bistro Mathilda",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/belgium/oostende/oostende/bistro-mathilda"
+    },
+    {
+      "name": "Brasserie David",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/belgium/oostende/oostende/brasserie-david"
+    },
+    {
+      "name": "Eaust",
+      "cuisine": "Belgian",
+      "price": "€€",
+      "path": "/belgium/oostende/oostende/eaust"
+    },
+    {
+      "name": "Frenchette",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/belgium/oostende/oostende/frenchette"
+    },
+    {
+      "name": "HAUT",
+      "cuisine": "Modern French, Asian Influences",
+      "price": "€€€€",
+      "path": "/belgium/oostende/oostende/haut"
+    },
+    {
+      "name": "Storm",
+      "cuisine": "Modern French, Seafood",
+      "price": "€€€",
+      "path": "/belgium/oostende/oostende/storm"
+    }
+  ]
+}

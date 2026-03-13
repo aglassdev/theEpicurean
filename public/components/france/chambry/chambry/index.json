@@ -1,0 +1,32 @@
+{
+  "title": "Chambry",
+  "country": "france",
+  "region": "chambry",
+  "city": "chambry",
+  "restaurants": [
+    {
+      "name": "Carré des Sens",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/chambry/chambry/carr-des-sens"
+    },
+    {
+      "name": "Folie Cuisine d'Émotions",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/chambry/chambry/folie-cuisine-dmotions"
+    },
+    {
+      "name": "Le Bistrot",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/chambry/chambry/le-bistrot"
+    },
+    {
+      "name": "Pinson",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/chambry/chambry/pinson"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Lucinges",
+  "country": "france",
+  "region": "lucinges",
+  "city": "lucinges",
+  "restaurants": [
+    {
+      "name": "L'Auberge de Lucinges",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/lucinges/lucinges/lauberge-de-lucinges"
+    },
+    {
+      "name": "Le Bistrot de Madeleine",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/lucinges/lucinges/le-bistrot-de-madeleine"
+    },
+    {
+      "name": "Le Bonheur dans Le Pré",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/france/lucinges/lucinges/le-bonheur-dans-le-pr"
+    }
+  ]
+}

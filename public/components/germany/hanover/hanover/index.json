@@ -1,0 +1,50 @@
+{
+  "title": "Hanover",
+  "country": "germany",
+  "region": "hanover",
+  "city": "hanover",
+  "restaurants": [
+    {
+      "name": "Beckers",
+      "cuisine": "French",
+      "price": "€€",
+      "path": "/germany/hanover/hanover/beckers"
+    },
+    {
+      "name": "Handwerk",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/germany/hanover/hanover/handwerk"
+    },
+    {
+      "name": "Jante",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/hanover/hanover/jante"
+    },
+    {
+      "name": "Marie",
+      "cuisine": "French, Creative",
+      "price": "€€€",
+      "path": "/germany/hanover/hanover/marie"
+    },
+    {
+      "name": "Schorse im Leineschloss",
+      "cuisine": "International, Regional Cuisine",
+      "price": "€€",
+      "path": "/germany/hanover/hanover/schorse-im-leineschloss"
+    },
+    {
+      "name": "The Wild Duck",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/germany/hanover/hanover/the-wild-duck"
+    },
+    {
+      "name": "Votum",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/hanover/hanover/votum"
+    }
+  ]
+}

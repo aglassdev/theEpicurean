@@ -1,0 +1,26 @@
+{
+  "title": "Locarno",
+  "country": "switzerland",
+  "region": "locarno",
+  "city": "locarno",
+  "restaurants": [
+    {
+      "name": "Da Valentino",
+      "cuisine": "Mediterranean Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/switzerland/locarno/locarno/da-valentino"
+    },
+    {
+      "name": "La Fontana Restaurant & Bar",
+      "cuisine": "Mediterranean Cuisine, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/locarno/locarno/la-fontana-restaurant-bar"
+    },
+    {
+      "name": "Locanda Locarnese",
+      "cuisine": "Mediterranean Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/switzerland/locarno/locarno/locanda-locarnese"
+    }
+  ]
+}

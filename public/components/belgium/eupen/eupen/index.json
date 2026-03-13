@@ -1,0 +1,32 @@
+{
+  "title": "Eupen",
+  "country": "belgium",
+  "region": "eupen",
+  "city": "eupen",
+  "restaurants": [
+    {
+      "name": "Antoine",
+      "cuisine": "Modern Cuisine, French Contemporary",
+      "price": "€€€",
+      "path": "/belgium/eupen/eupen/antoine"
+    },
+    {
+      "name": "Arti'Choc",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/belgium/eupen/eupen/artichoc"
+    },
+    {
+      "name": "Couleur Rouge",
+      "cuisine": "Fusion, Asian Influences",
+      "price": "€€",
+      "path": "/belgium/eupen/eupen/couleur-rouge"
+    },
+    {
+      "name": "La Bottega",
+      "cuisine": "Italian",
+      "price": "€€",
+      "path": "/belgium/eupen/eupen/la-bottega"
+    }
+  ]
+}

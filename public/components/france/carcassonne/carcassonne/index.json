@@ -1,0 +1,44 @@
+{
+  "title": "Carcassonne",
+  "country": "france",
+  "region": "carcassonne",
+  "city": "carcassonne",
+  "restaurants": [
+    {
+      "name": "Brasserie à 4 Temps",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/carcassonne/carcassonne/brasserie-4-temps"
+    },
+    {
+      "name": "Comte Roger",
+      "cuisine": "Traditional Cuisine, Modern Cuisine",
+      "price": "€€",
+      "path": "/france/carcassonne/carcassonne/comte-roger"
+    },
+    {
+      "name": "Domaine d'Auriac",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/france/carcassonne/carcassonne/domaine-dauriac"
+    },
+    {
+      "name": "La Barbacane",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/france/carcassonne/carcassonne/la-barbacane"
+    },
+    {
+      "name": "La Table d'Alaïs",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/carcassonne/carcassonne/la-table-dalas"
+    },
+    {
+      "name": "La Table de Franck Putelat",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/carcassonne/carcassonne/la-table-de-franck-putelat"
+    }
+  ]
+}

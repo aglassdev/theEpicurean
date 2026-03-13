@@ -1,0 +1,26 @@
+{
+  "title": "Noto",
+  "country": "italy",
+  "region": "noto",
+  "city": "noto",
+  "restaurants": [
+    {
+      "name": "Crocifisso",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/italy/noto/noto/crocifisso"
+    },
+    {
+      "name": "Orti Villadorata",
+      "cuisine": "Country cooking, Creative",
+      "price": "€€€",
+      "path": "/italy/noto/noto/orti-villadorata"
+    },
+    {
+      "name": "Principe di Belludia",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/italy/noto/noto/principe-di-belludia"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Kaunas",
+  "country": "lithuania",
+  "region": "kaunas",
+  "city": "kaunas",
+  "restaurants": [
+    {
+      "name": "Arrivée",
+      "cuisine": "French",
+      "price": "€€€",
+      "path": "/lithuania/kaunas/kaunas/arrive"
+    },
+    {
+      "name": "DIA",
+      "cuisine": "International, Creative",
+      "price": "€€€",
+      "path": "/lithuania/kaunas/kaunas/dia"
+    },
+    {
+      "name": "Monte Pacis",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€",
+      "path": "/lithuania/kaunas/kaunas/monte-pacis"
+    },
+    {
+      "name": "Nüman",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/lithuania/kaunas/kaunas/nman"
+    },
+    {
+      "name": "Uoksas",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/lithuania/kaunas/kaunas/uoksas"
+    }
+  ]
+}

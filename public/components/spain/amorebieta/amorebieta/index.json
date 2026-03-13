@@ -1,0 +1,26 @@
+{
+  "title": "Amorebieta",
+  "country": "spain",
+  "region": "amorebieta",
+  "city": "amorebieta",
+  "restaurants": [
+    {
+      "name": "Boroa",
+      "cuisine": "Traditional Cuisine, Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/amorebieta/amorebieta/boroa"
+    },
+    {
+      "name": "Jauregibarria",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/amorebieta/amorebieta/jauregibarria"
+    },
+    {
+      "name": "La Revelía",
+      "cuisine": "Regional Cuisine, Contemporary",
+      "price": "€€",
+      "path": "/spain/amorebieta/amorebieta/la-revela"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Balatonfred",
+  "country": "hungary",
+  "region": "balatonfred",
+  "city": "balatonfred",
+  "restaurants": [
+    {
+      "name": "NOON",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/hungary/balatonfred/balatonfred/noon"
+    },
+    {
+      "name": "Sparhelt",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/hungary/balatonfred/balatonfred/sparhelt"
+    },
+    {
+      "name": "Zelna Borbisztró",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/hungary/balatonfred/balatonfred/zelna-borbisztr"
+    }
+  ]
+}

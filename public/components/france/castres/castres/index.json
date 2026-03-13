@@ -1,0 +1,26 @@
+{
+  "title": "Castres",
+  "country": "france",
+  "region": "castres",
+  "city": "castres",
+  "restaurants": [
+    {
+      "name": "Bistrot Saveurs",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/castres/castres/bistrot-saveurs"
+    },
+    {
+      "name": "La Part des Anges",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/castres/castres/la-part-des-anges"
+    },
+    {
+      "name": "Les Mets d'Adélaïde",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/castres/castres/les-mets-dadlade"
+    }
+  ]
+}

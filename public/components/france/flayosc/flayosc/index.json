@@ -1,0 +1,26 @@
+{
+  "title": "Flayosc",
+  "country": "france",
+  "region": "flayosc",
+  "city": "flayosc",
+  "restaurants": [
+    {
+      "name": "Le Bistrot du Château de Berne",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/flayosc/flayosc/le-bistrot-du-chteau-de-berne"
+    },
+    {
+      "name": "Le Jardin de Berne",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/flayosc/flayosc/le-jardin-de-berne"
+    },
+    {
+      "name": "Le Nid",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/flayosc/flayosc/le-nid"
+    }
+  ]
+}

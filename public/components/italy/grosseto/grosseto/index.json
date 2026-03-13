@@ -1,0 +1,26 @@
+{
+  "title": "Grosseto",
+  "country": "italy",
+  "region": "grosseto",
+  "city": "grosseto",
+  "restaurants": [
+    {
+      "name": "Canapone",
+      "cuisine": "Classic Cuisine, Seafood",
+      "price": "€€",
+      "path": "/italy/grosseto/grosseto/canapone"
+    },
+    {
+      "name": "Grantosco",
+      "cuisine": "Tuscan, Country cooking",
+      "price": "€€",
+      "path": "/italy/grosseto/grosseto/grantosco"
+    },
+    {
+      "name": "L'Uva e il Malto",
+      "cuisine": "Seafood, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/grosseto/grosseto/luva-e-il-malto"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Mribel",
+  "country": "france",
+  "region": "mribel",
+  "city": "mribel",
+  "restaurants": [
+    {
+      "name": "La Coursive des Alpes",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/mribel/mribel/la-coursive-des-alpes"
+    },
+    {
+      "name": "Le 80",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/mribel/mribel/le-80"
+    },
+    {
+      "name": "Le Cèpe",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/mribel/mribel/le-cpe"
+    },
+    {
+      "name": "L'Ekrin by Laurent Azoulay",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/mribel/mribel/lekrin-by-laurent-azoulay"
+    }
+  ]
+}

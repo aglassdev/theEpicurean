@@ -1,0 +1,32 @@
+{
+  "title": "Lichfield",
+  "country": "uk",
+  "region": "lichfield",
+  "city": "lichfield",
+  "restaurants": [
+    {
+      "name": "Larder",
+      "cuisine": "Modern Cuisine",
+      "price": "££",
+      "path": "/uk/lichfield/lichfield/larder"
+    },
+    {
+      "name": "Larder Brasserie and GrilL",
+      "cuisine": "Modern Cuisine",
+      "price": "££",
+      "path": "/uk/lichfield/lichfield/larder-brasserie-and-grill"
+    },
+    {
+      "name": "The Boat",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/lichfield/lichfield/the-boat"
+    },
+    {
+      "name": "Upstairs by Tom Shepherd",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/lichfield/lichfield/upstairs-by-tom-shepherd"
+    }
+  ]
+}

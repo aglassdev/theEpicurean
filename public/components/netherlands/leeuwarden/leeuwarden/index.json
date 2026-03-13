@@ -1,0 +1,26 @@
+{
+  "title": "Leeuwarden",
+  "country": "netherlands",
+  "region": "leeuwarden",
+  "city": "leeuwarden",
+  "restaurants": [
+    {
+      "name": "Bistro Aragosta",
+      "cuisine": "French",
+      "price": "€€",
+      "path": "/netherlands/leeuwarden/leeuwarden/bistro-aragosta"
+    },
+    {
+      "name": "Restaurant Eindeloos",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€",
+      "path": "/netherlands/leeuwarden/leeuwarden/restaurant-eindeloos"
+    },
+    {
+      "name": "Restaurant élevé",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/netherlands/leeuwarden/leeuwarden/restaurant-lev"
+    }
+  ]
+}

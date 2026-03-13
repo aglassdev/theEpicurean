@@ -1,0 +1,32 @@
+{
+  "title": "Cuenca",
+  "country": "spain",
+  "region": "cuenca",
+  "city": "cuenca",
+  "restaurants": [
+    {
+      "name": "Casa de La Sirena",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/cuenca/cuenca/casa-de-la-sirena"
+    },
+    {
+      "name": "Casas Colgadas Restaurante",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/cuenca/cuenca/casas-colgadas-restaurante"
+    },
+    {
+      "name": "Olea Comedor",
+      "cuisine": "Modern Cuisine, Fusion",
+      "price": "€",
+      "path": "/spain/cuenca/cuenca/olea-comedor"
+    },
+    {
+      "name": "Raff San Pedro",
+      "cuisine": "Traditional Cuisine, Modern Cuisine",
+      "price": "€€",
+      "path": "/spain/cuenca/cuenca/raff-san-pedro"
+    }
+  ]
+}

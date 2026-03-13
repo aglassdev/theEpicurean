@@ -1,0 +1,26 @@
+{
+  "title": "Albenga",
+  "country": "italy",
+  "region": "albenga",
+  "city": "albenga",
+  "restaurants": [
+    {
+      "name": "Babette",
+      "cuisine": "Mediterranean Cuisine, Ligurian",
+      "price": "€€",
+      "path": "/italy/albenga/albenga/babette"
+    },
+    {
+      "name": "Il Posticino",
+      "cuisine": "Seafood, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/italy/albenga/albenga/il-posticino"
+    },
+    {
+      "name": "Pernambucco",
+      "cuisine": "Seafood, Classic Cuisine",
+      "price": "€€€",
+      "path": "/italy/albenga/albenga/pernambucco"
+    }
+  ]
+}

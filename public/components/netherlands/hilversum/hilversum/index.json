@@ -1,0 +1,26 @@
+{
+  "title": "Hilversum",
+  "country": "netherlands",
+  "region": "hilversum",
+  "city": "hilversum",
+  "restaurants": [
+    {
+      "name": "Chef aan de Werf",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/netherlands/hilversum/hilversum/chef-aan-de-werf"
+    },
+    {
+      "name": "Dudockx Bar & Kitchen",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/netherlands/hilversum/hilversum/dudockx-bar-kitchen"
+    },
+    {
+      "name": "Spandershoeve",
+      "cuisine": "Indonesian",
+      "price": "€€",
+      "path": "/netherlands/hilversum/hilversum/spandershoeve"
+    }
+  ]
+}

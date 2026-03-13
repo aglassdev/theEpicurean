@@ -1,0 +1,20 @@
+{
+  "title": "Aups",
+  "country": "france",
+  "region": "aups",
+  "city": "aups",
+  "restaurants": [
+    {
+      "name": "Le Saint Marc",
+      "cuisine": "Provençal",
+      "price": "€",
+      "path": "/france/aups/aups/le-saint-marc"
+    },
+    {
+      "name": "Solea",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/aups/aups/solea"
+    }
+  ]
+}

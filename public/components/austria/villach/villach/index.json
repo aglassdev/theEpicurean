@@ -1,0 +1,26 @@
+{
+  "title": "Villach",
+  "country": "austria",
+  "region": "villach",
+  "city": "villach",
+  "restaurants": [
+    {
+      "name": "Aurea",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€",
+      "path": "/austria/villach/villach/aurea"
+    },
+    {
+      "name": "Frierss Feines Haus",
+      "cuisine": "Regional Cuisine, Fusion",
+      "price": "€€€",
+      "path": "/austria/villach/villach/frierss-feines-haus"
+    },
+    {
+      "name": "LAGANA",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/austria/villach/villach/lagana"
+    }
+  ]
+}

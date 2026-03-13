@@ -1,0 +1,26 @@
+{
+  "title": "Korcula",
+  "country": "croatia",
+  "region": "korcula",
+  "city": "korcula",
+  "restaurants": [
+    {
+      "name": "Filippi",
+      "cuisine": "Mediterranean Cuisine, Regional Cuisine",
+      "price": "€€€",
+      "path": "/croatia/korcula/korcula/filippi"
+    },
+    {
+      "name": "Konoba Mate",
+      "cuisine": "Country cooking, Regional Cuisine",
+      "price": "€€",
+      "path": "/croatia/korcula/korcula/konoba-mate"
+    },
+    {
+      "name": "LD Restaurant",
+      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/croatia/korcula/korcula/ld-restaurant"
+    }
+  ]
+}

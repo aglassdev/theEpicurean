@@ -1,0 +1,38 @@
+{
+  "title": "Cuneo",
+  "country": "italy",
+  "region": "cuneo",
+  "city": "cuneo",
+  "restaurants": [
+    {
+      "name": "4 Ciance",
+      "cuisine": "Piedmontese, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/cuneo/cuneo/4-ciance"
+    },
+    {
+      "name": "Bove's",
+      "cuisine": "Meats and Grills",
+      "price": "€€",
+      "path": "/italy/cuneo/cuneo/boves"
+    },
+    {
+      "name": "I 5 Sensi",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/cuneo/cuneo/i-5-sensi"
+    },
+    {
+      "name": "Osteria della Chiocciola",
+      "cuisine": "Piedmontese, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/cuneo/cuneo/osteria-della-chiocciola"
+    },
+    {
+      "name": "Osteria Vecchio Borgo",
+      "cuisine": "Country cooking",
+      "price": "€€",
+      "path": "/italy/cuneo/cuneo/osteria-vecchio-borgo"
+    }
+  ]
+}

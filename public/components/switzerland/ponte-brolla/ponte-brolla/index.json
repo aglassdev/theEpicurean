@@ -1,0 +1,26 @@
+{
+  "title": "Ponte Brolla",
+  "country": "switzerland",
+  "region": "ponte-brolla",
+  "city": "ponte-brolla",
+  "restaurants": [
+    {
+      "name": "Centovalli",
+      "cuisine": "Regional Cuisine",
+      "price": "€€",
+      "path": "/switzerland/ponte-brolla/ponte-brolla/centovalli"
+    },
+    {
+      "name": "Da Enzo",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/ponte-brolla/ponte-brolla/da-enzo"
+    },
+    {
+      "name": "t3e terre",
+      "cuisine": "Mediterranean Cuisine, Regional Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/ponte-brolla/ponte-brolla/t3e-terre"
+    }
+  ]
+}

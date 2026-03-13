@@ -1,0 +1,26 @@
+{
+  "title": "Vailly",
+  "country": "france",
+  "region": "vailly",
+  "city": "vailly",
+  "restaurants": [
+    {
+      "name": "Auberge du Moulin de Léré",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/vailly/vailly/auberge-du-moulin-de-lr"
+    },
+    {
+      "name": "Frédéric Molina au Moulin de Léré",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/vailly/vailly/frdric-molina-au-moulin-de-lr"
+    },
+    {
+      "name": "Frédéric Molina à Forêt Ivre",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/vailly/vailly/frdric-molina-fort-ivre"
+    }
+  ]
+}

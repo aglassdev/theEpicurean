@@ -1,0 +1,458 @@
+{
+  "title": "Ho Chi Minh City",
+  "country": "vietnam",
+  "region": "ho-chi-minh-city",
+  "city": "ho-chi-minh-city",
+  "restaurants": [
+    {
+      "name": "3G Trois Gourmands",
+      "cuisine": "French",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/3g-trois-gourmands"
+    },
+    {
+      "name": "Akuna",
+      "cuisine": "Innovative",
+      "price": "₫₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/akuna"
+    },
+    {
+      "name": "An's Saigon",
+      "cuisine": "Innovative",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ans-saigon"
+    },
+    {
+      "name": "Bà Cô Lốc Cốc",
+      "cuisine": "Seafood",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/b-c-lc-cc"
+    },
+    {
+      "name": "Bò Kho Gánh",
+      "cuisine": "Street Food",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/b-kho-gnh"
+    },
+    {
+      "name": "Bờm",
+      "cuisine": "Vietnamese Contemporary",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/bm"
+    },
+    {
+      "name": "Bún Bò Huế 14B",
+      "cuisine": "Street Food",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/bn-b-hu-14b"
+    },
+    {
+      "name": "Bún Bò Huế Cô Như",
+      "cuisine": "Noodles",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/bn-b-hu-c-nh"
+    },
+    {
+      "name": "Bún Thịt Nướng Hoàng Văn",
+      "cuisine": "Street Food",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/bn-tht-nng-hong-vn"
+    },
+    {
+      "name": "Bánh Xèo 46A",
+      "cuisine": "Vietnamese",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/bnh-xo-46a"
+    },
+    {
+      "name": "Béo Ơi",
+      "cuisine": "Vietnamese",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/bo-i"
+    },
+    {
+      "name": "Bếp Mẹ ỉn (Le Thanh Ton Street)",
+      "cuisine": "Vietnamese",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/bp-m-n-le-thanh-ton-street"
+    },
+    {
+      "name": "Bếp Người Hội An",
+      "cuisine": "Vietnamese",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/bp-ngi-hi-an"
+    },
+    {
+      "name": "Å by T.U.N.G",
+      "cuisine": "Innovative",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/by-tung"
+    },
+    {
+      "name": "Cô Liêng",
+      "cuisine": "Street Food",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/c-ling"
+    },
+    {
+      "name": "Ốc Đào (District 1)",
+      "cuisine": "Seafood",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/c-o-district-1"
+    },
+    {
+      "name": "Ốc Oanh",
+      "cuisine": "Street Food",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/c-oanh"
+    },
+    {
+      "name": "Cục Gạch Quán",
+      "cuisine": "Vietnamese",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/cc-gch-qun"
+    },
+    {
+      "name": "Chay Garden (District 3)",
+      "cuisine": "Vegetarian",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/chay-garden-district-3"
+    },
+    {
+      "name": "CieL",
+      "cuisine": "Innovative",
+      "price": "₫₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ciel"
+    },
+    {
+      "name": "Cơm Tấm Ba Ghiền",
+      "cuisine": "Street Food",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/cm-tm-ba-ghin"
+    },
+    {
+      "name": "Coco Dining",
+      "cuisine": "Innovative",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/coco-dining"
+    },
+    {
+      "name": "Du Yên",
+      "cuisine": "Vegetarian",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/du-yn"
+    },
+    {
+      "name": "Elgin",
+      "cuisine": "European",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/elgin"
+    },
+    {
+      "name": "Esta",
+      "cuisine": "Asian Contemporary",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/esta"
+    },
+    {
+      "name": "Fashionista Café",
+      "cuisine": "European Contemporary",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/fashionista-caf"
+    },
+    {
+      "name": "Hồng Phát (District 3)",
+      "cuisine": "Noodles",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/hng-pht-district-3"
+    },
+    {
+      "name": "Hoa Túc (District 1)",
+      "cuisine": "Vietnamese",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/hoa-tc-district-1"
+    },
+    {
+      "name": "Hoi An Sense",
+      "cuisine": "Vietnamese",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/hoi-an-sense"
+    },
+    {
+      "name": "Hum Garden",
+      "cuisine": "Vegetarian",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/hum-garden"
+    },
+    {
+      "name": "Kobe Bistro",
+      "cuisine": "French Contemporary",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/kobe-bistro"
+    },
+    {
+      "name": "Lửa",
+      "cuisine": "European Contemporary",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/la"
+    },
+    {
+      "name": "La Fontaine",
+      "cuisine": "French",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/la-fontaine"
+    },
+    {
+      "name": "La Villa",
+      "cuisine": "French",
+      "price": "₫₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/la-villa"
+    },
+    {
+      "name": "Lai",
+      "cuisine": "Cantonese",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/lai"
+    },
+    {
+      "name": "Little Bear",
+      "cuisine": "Vietnamese Contemporary",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/little-bear"
+    },
+    {
+      "name": "Lüne",
+      "cuisine": "French",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/lne"
+    },
+    {
+      "name": "Long Trieu",
+      "cuisine": "Cantonese",
+      "price": "₫₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/long-trieu"
+    },
+    {
+      "name": "Mía Dining",
+      "cuisine": "European Contemporary",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ma-dining"
+    },
+    {
+      "name": "Madame Lam",
+      "cuisine": "Vietnamese Contemporary",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/madame-lam"
+    },
+    {
+      "name": "Miên Saigon",
+      "cuisine": "Vietnamese Contemporary",
+      "price": "₫₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/min-saigon"
+    },
+    {
+      "name": "Mặn Mòi (Thu Duc City)",
+      "cuisine": "Vietnamese",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/mn-mi-thu-duc-city"
+    },
+    {
+      "name": "Nephele",
+      "cuisine": "Asian Contemporary",
+      "price": "₫₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/nephele"
+    },
+    {
+      "name": "Đông Phố",
+      "cuisine": "Vietnamese",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ng-ph"
+    },
+    {
+      "name": "Nhà Tú",
+      "cuisine": "Vietnamese",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/nh-t"
+    },
+    {
+      "name": "Nén Light",
+      "cuisine": "Innovative",
+      "price": "₫₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/nn-light"
+    },
+    {
+      "name": "Ănăn Saigon",
+      "cuisine": "Vietnamese Contemporary",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/nn-saigon"
+    },
+    {
+      "name": "Octo",
+      "cuisine": "Spanish",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/octo"
+    },
+    {
+      "name": "Okra FoodBar",
+      "cuisine": "European Contemporary",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/okra-foodbar"
+    },
+    {
+      "name": "Olivia",
+      "cuisine": "European Contemporary",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/olivia"
+    },
+    {
+      "name": "Oryz",
+      "cuisine": "Asian Contemporary",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/oryz"
+    },
+    {
+      "name": "Phở Bò Phú Gia (District 3)",
+      "cuisine": "Noodles",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ph-b-ph-gia-district-3"
+    },
+    {
+      "name": "Phở Chào",
+      "cuisine": "Noodles",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ph-cho"
+    },
+    {
+      "name": "Phở Hương Bình",
+      "cuisine": "Noodles",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ph-hng-bnh"
+    },
+    {
+      "name": "Phở Hùng (District 1)",
+      "cuisine": "Noodles",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ph-hng-district-1"
+    },
+    {
+      "name": "Phở Hoàng (Nguyen Tri Phuong Street)",
+      "cuisine": "Noodles",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ph-hong-nguyen-tri-phuong-street"
+    },
+    {
+      "name": "Phở Lệ (District 5)",
+      "cuisine": "Noodles",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ph-l-district-5"
+    },
+    {
+      "name": "Phở Miến Gà Kỳ Đồng",
+      "cuisine": "Street Food",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ph-min-g-k-ng"
+    },
+    {
+      "name": "Phở Minh",
+      "cuisine": "Noodles",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ph-minh"
+    },
+    {
+      "name": "Phở Phượng",
+      "cuisine": "Street Food",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ph-phng"
+    },
+    {
+      "name": "Phở Việt Nam (District 1)",
+      "cuisine": "Noodles",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/ph-vit-nam-district-1"
+    },
+    {
+      "name": "Quince Eatery",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/quince-eatery"
+    },
+    {
+      "name": "Rice Field",
+      "cuisine": "Vietnamese",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/rice-field"
+    },
+    {
+      "name": "Sol Kitchen & Bar (District 1)",
+      "cuisine": "Latin American",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/sol-kitchen-bar-district-1"
+    },
+    {
+      "name": "Square One",
+      "cuisine": "International",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/square-one"
+    },
+    {
+      "name": "ST25 by KOTO",
+      "cuisine": "Vietnamese Contemporary",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/st25-by-koto"
+    },
+    {
+      "name": "Stoker (District 1)",
+      "cuisine": "Steakhouse",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/stoker-district-1"
+    },
+    {
+      "name": "The Albion by Kirk Westaway",
+      "cuisine": "British Contemporary",
+      "price": "₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/the-albion-by-kirk-westaway"
+    },
+    {
+      "name": "The Monkey Gallery Dining",
+      "cuisine": "Vietnamese Contemporary",
+      "price": "₫₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/the-monkey-gallery-dining"
+    },
+    {
+      "name": "Thúy 94 Cũ",
+      "cuisine": "Seafood",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/thy-94-c"
+    },
+    {
+      "name": "Tiệm Cơm Thố Chuyên Ký",
+      "cuisine": "Cantonese",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/tim-cm-th-chuyn-k"
+    },
+    {
+      "name": "Truffle",
+      "cuisine": "French Contemporary",
+      "price": "₫₫₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/truffle"
+    },
+    {
+      "name": "Vị Quê Kitchen",
+      "cuisine": "Vegan",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/v-qu-kitchen"
+    },
+    {
+      "name": "Vietnam House",
+      "cuisine": "Vietnamese",
+      "price": "₫₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/vietnam-house"
+    },
+    {
+      "name": "Xôi Gà Number One",
+      "cuisine": "Street Food",
+      "price": "₫",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/xi-g-number-one"
+    }
+  ]
+}

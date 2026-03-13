@@ -1,0 +1,26 @@
+{
+  "title": "Epernay",
+  "country": "france",
+  "region": "epernay",
+  "city": "epernay",
+  "restaurants": [
+    {
+      "name": "Cook'in",
+      "cuisine": "Thai",
+      "price": "€€",
+      "path": "/france/epernay/epernay/cookin"
+    },
+    {
+      "name": "La Grillade Gourmande",
+      "cuisine": "Grills",
+      "price": "€€",
+      "path": "/france/epernay/epernay/la-grillade-gourmande"
+    },
+    {
+      "name": "Symbiose",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/epernay/epernay/symbiose"
+    }
+  ]
+}

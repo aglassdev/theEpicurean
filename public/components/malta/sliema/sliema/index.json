@@ -1,0 +1,26 @@
+{
+  "title": "Sliema",
+  "country": "malta",
+  "region": "sliema",
+  "city": "sliema",
+  "restaurants": [
+    {
+      "name": "Chophouse",
+      "cuisine": "Grills, Classic Cuisine",
+      "price": "€€",
+      "path": "/malta/sliema/sliema/chophouse"
+    },
+    {
+      "name": "Fernandõ Gastrotheque",
+      "cuisine": "Mediterranean Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/malta/sliema/sliema/fernand-gastrotheque"
+    },
+    {
+      "name": "Le GV",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/malta/sliema/sliema/le-gv"
+    }
+  ]
+}

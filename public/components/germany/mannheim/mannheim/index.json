@@ -1,0 +1,32 @@
+{
+  "title": "Mannheim",
+  "country": "germany",
+  "region": "mannheim",
+  "city": "mannheim",
+  "restaurants": [
+    {
+      "name": "Dobler's",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/mannheim/mannheim/doblers"
+    },
+    {
+      "name": "Le comptoir 17",
+      "cuisine": "French, Farm to table",
+      "price": "€€",
+      "path": "/germany/mannheim/mannheim/le-comptoir-17"
+    },
+    {
+      "name": "Marly Privé",
+      "cuisine": "French, International",
+      "price": "€€€€",
+      "path": "/germany/mannheim/mannheim/marly-priv"
+    },
+    {
+      "name": "OPUS V",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/mannheim/mannheim/opus-v"
+    }
+  ]
+}

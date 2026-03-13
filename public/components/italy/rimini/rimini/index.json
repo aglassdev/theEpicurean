@@ -1,0 +1,50 @@
+{
+  "title": "Rimini",
+  "country": "italy",
+  "region": "rimini",
+  "city": "rimini",
+  "restaurants": [
+    {
+      "name": "Abocar Due Cucine",
+      "cuisine": "Creative, International",
+      "price": "€€€",
+      "path": "/italy/rimini/rimini/abocar-due-cucine"
+    },
+    {
+      "name": "Da Lucio",
+      "cuisine": "Seafood, Contemporary",
+      "price": "€€€",
+      "path": "/italy/rimini/rimini/da-lucio"
+    },
+    {
+      "name": "Dallo Zio",
+      "cuisine": "Seafood, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/rimini/rimini/dallo-zio"
+    },
+    {
+      "name": "Guido",
+      "cuisine": "Seafood, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/rimini/rimini/guido"
+    },
+    {
+      "name": "i-Fame",
+      "cuisine": "Italian Contemporary, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/rimini/rimini/i-fame"
+    },
+    {
+      "name": "Osteria de Börg",
+      "cuisine": "Cuisine from Romagna, Traditional Cuisine",
+      "price": "€",
+      "path": "/italy/rimini/rimini/osteria-de-brg"
+    },
+    {
+      "name": "Quartopiano",
+      "cuisine": "Creative, Seafood",
+      "price": "€€",
+      "path": "/italy/rimini/rimini/quartopiano"
+    }
+  ]
+}

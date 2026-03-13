@@ -1,0 +1,26 @@
+{
+  "title": "Embourg",
+  "country": "belgium",
+  "region": "embourg",
+  "city": "embourg",
+  "restaurants": [
+    {
+      "name": "Bonheur Simple",
+      "cuisine": "Thai, Asian",
+      "price": "€€",
+      "path": "/belgium/embourg/embourg/bonheur-simple"
+    },
+    {
+      "name": "La Villa des Bégards",
+      "cuisine": "Creative, Italian",
+      "price": "€€€",
+      "path": "/belgium/embourg/embourg/la-villa-des-bgards"
+    },
+    {
+      "name": "Robertissimo",
+      "cuisine": "Italian",
+      "price": "€€",
+      "path": "/belgium/embourg/embourg/robertissimo"
+    }
+  ]
+}

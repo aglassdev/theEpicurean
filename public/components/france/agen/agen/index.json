@@ -1,0 +1,20 @@
+{
+  "title": "Agen",
+  "country": "france",
+  "region": "agen",
+  "city": "agen",
+  "restaurants": [
+    {
+      "name": "La Table de Michel Dussau",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/agen/agen/la-table-de-michel-dussau"
+    },
+    {
+      "name": "Maison K",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/agen/agen/maison-k"
+    }
+  ]
+}

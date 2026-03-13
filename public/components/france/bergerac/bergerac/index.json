@@ -1,0 +1,20 @@
+{
+  "title": "Bergerac",
+  "country": "france",
+  "region": "bergerac",
+  "city": "bergerac",
+  "restaurants": [
+    {
+      "name": "La Table du Marché",
+      "cuisine": "Creative",
+      "price": "€€",
+      "path": "/france/bergerac/bergerac/la-table-du-march"
+    },
+    {
+      "name": "L'Imparfait",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/bergerac/bergerac/limparfait"
+    }
+  ]
+}

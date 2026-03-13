@@ -1,0 +1,38 @@
+{
+  "title": "Mnster",
+  "country": "germany",
+  "region": "mnster",
+  "city": "mnster",
+  "restaurants": [
+    {
+      "name": "BOK Restaurant Brust oder Keule",
+      "cuisine": "Farm to table, Creative",
+      "price": "€€€",
+      "path": "/germany/mnster/mnster/bok-restaurant-brust-oder-keule"
+    },
+    {
+      "name": "Coeur D'Artichaut",
+      "cuisine": "Modern French, Creative",
+      "price": "€€€€",
+      "path": "/germany/mnster/mnster/coeur-dartichaut"
+    },
+    {
+      "name": "Spitzner",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/germany/mnster/mnster/spitzner"
+    },
+    {
+      "name": "Villa Medici",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/germany/mnster/mnster/villa-medici"
+    },
+    {
+      "name": "von Rhemen",
+      "cuisine": "Classic French",
+      "price": "€€€",
+      "path": "/germany/mnster/mnster/von-rhemen"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Olomouc",
+  "country": "czechia",
+  "region": "olomouc",
+  "city": "olomouc",
+  "restaurants": [
+    {
+      "name": "Entrée",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€",
+      "path": "/czechia/olomouc/olomouc/entre"
+    },
+    {
+      "name": "Long Story Short Eatery & Bakery",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/czechia/olomouc/olomouc/long-story-short-eatery-bakery"
+    },
+    {
+      "name": "STeaK Restaurant",
+      "cuisine": "Grills",
+      "price": "€€€€",
+      "path": "/czechia/olomouc/olomouc/steak-restaurant"
+    }
+  ]
+}

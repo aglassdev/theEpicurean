@@ -1,0 +1,26 @@
+{
+  "title": "Lescala",
+  "country": "spain",
+  "region": "lescala",
+  "city": "lescala",
+  "restaurants": [
+    {
+      "name": "El Roser 2",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/spain/lescala/lescala/el-roser-2"
+    },
+    {
+      "name": "La Gruta",
+      "cuisine": "International",
+      "price": "€€",
+      "path": "/spain/lescala/lescala/la-gruta"
+    },
+    {
+      "name": "Mas Concas",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€",
+      "path": "/spain/lescala/lescala/mas-concas"
+    }
+  ]
+}

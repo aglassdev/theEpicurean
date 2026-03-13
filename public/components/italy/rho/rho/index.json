@@ -1,0 +1,26 @@
+{
+  "title": "Rho",
+  "country": "italy",
+  "region": "rho",
+  "city": "rho",
+  "restaurants": [
+    {
+      "name": "La Barca",
+      "cuisine": "Seafood, Apulian",
+      "price": "€€",
+      "path": "/italy/rho/rho/la-barca"
+    },
+    {
+      "name": "Mezzolitro Vini e Cucina",
+      "cuisine": "Cuisine from Abruzzo",
+      "price": "€€",
+      "path": "/italy/rho/rho/mezzolitro-vini-e-cucina"
+    },
+    {
+      "name": "Trattoria La Barca",
+      "cuisine": "Seafood, Apulian",
+      "price": "€€",
+      "path": "/italy/rho/rho/trattoria-la-barca"
+    }
+  ]
+}

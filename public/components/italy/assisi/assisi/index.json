@@ -1,0 +1,26 @@
+{
+  "title": "Assisi",
+  "country": "italy",
+  "region": "assisi",
+  "city": "assisi",
+  "restaurants": [
+    {
+      "name": "Benedikto",
+      "cuisine": "Modern Cuisine, Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/assisi/assisi/benedikto"
+    },
+    {
+      "name": "Il Frantoio",
+      "cuisine": "Modern Cuisine, Umbrian",
+      "price": "€€€",
+      "path": "/italy/assisi/assisi/il-frantoio"
+    },
+    {
+      "name": "La Locanda del Cardinale",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/italy/assisi/assisi/la-locanda-del-cardinale"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Blaricum",
+  "country": "netherlands",
+  "region": "blaricum",
+  "city": "blaricum",
+  "restaurants": [
+    {
+      "name": "Bistrôt Chapeau",
+      "cuisine": "French",
+      "price": "€€",
+      "path": "/netherlands/blaricum/blaricum/bistrt-chapeau"
+    },
+    {
+      "name": "De Goede Gooier",
+      "cuisine": "French, Modern Cuisine",
+      "price": "€€",
+      "path": "/netherlands/blaricum/blaricum/de-goede-gooier"
+    },
+    {
+      "name": "Rust Wat by Sidney Schutte",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/netherlands/blaricum/blaricum/rust-wat-by-sidney-schutte"
+    }
+  ]
+}

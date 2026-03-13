@@ -1,0 +1,26 @@
+{
+  "title": "Frstenau",
+  "country": "switzerland",
+  "region": "frstenau",
+  "city": "frstenau",
+  "restaurants": [
+    {
+      "name": "Casa Caminada",
+      "cuisine": "Country cooking, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/switzerland/frstenau/frstenau/casa-caminada"
+    },
+    {
+      "name": "OZ",
+      "cuisine": "Vegetarian, Creative",
+      "price": "€€€€",
+      "path": "/switzerland/frstenau/frstenau/oz"
+    },
+    {
+      "name": "Schloss Schauenstein",
+      "cuisine": "Creative, Country cooking",
+      "price": "€€€€",
+      "path": "/switzerland/frstenau/frstenau/schloss-schauenstein"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Kaysersberg",
+  "country": "france",
+  "region": "kaysersberg",
+  "city": "kaysersberg",
+  "restaurants": [
+    {
+      "name": "Alchémille",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/kaysersberg/kaysersberg/alchmille"
+    },
+    {
+      "name": "La Table d'Olivier Nasti",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/kaysersberg/kaysersberg/la-table-dolivier-nasti"
+    },
+    {
+      "name": "La Vieille Forge",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/kaysersberg/kaysersberg/la-vieille-forge"
+    },
+    {
+      "name": "Winstub du Chambard",
+      "cuisine": "Alsatian, Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/kaysersberg/kaysersberg/winstub-du-chambard"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Cholet",
+  "country": "france",
+  "region": "cholet",
+  "city": "cholet",
+  "restaurants": [
+    {
+      "name": "La Grange",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/cholet/cholet/la-grange"
+    },
+    {
+      "name": "La P’tite Patte",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/cholet/cholet/la-ptite-patte"
+    },
+    {
+      "name": "Le Patte Noire",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/cholet/cholet/le-patte-noire"
+    },
+    {
+      "name": "L'Ourdissoir",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/cholet/cholet/lourdissoir"
+    }
+  ]
+}

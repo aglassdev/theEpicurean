@@ -1,0 +1,38 @@
+{
+  "title": "Ferrara",
+  "country": "italy",
+  "region": "ferrara",
+  "city": "ferrara",
+  "restaurants": [
+    {
+      "name": "Ca' d'Frara",
+      "cuisine": "Emilian",
+      "price": "€€",
+      "path": "/italy/ferrara/ferrara/ca-dfrara"
+    },
+    {
+      "name": "Cucina Bacilieri",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/ferrara/ferrara/cucina-bacilieri"
+    },
+    {
+      "name": "Da Noemi",
+      "cuisine": "Emilian",
+      "price": "€",
+      "path": "/italy/ferrara/ferrara/da-noemi"
+    },
+    {
+      "name": "Makorè",
+      "cuisine": "Italian Contemporary, Seafood",
+      "price": "€€€",
+      "path": "/italy/ferrara/ferrara/makor"
+    },
+    {
+      "name": "Quel Fantastico Giovedì",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/ferrara/ferrara/quel-fantastico-gioved"
+    }
+  ]
+}

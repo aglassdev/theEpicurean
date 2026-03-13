@@ -1,0 +1,20 @@
+{
+  "title": "Llan",
+  "country": "spain",
+  "region": "llan",
+  "city": "llan",
+  "restaurants": [
+    {
+      "name": "El Vaixell",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/llan/llan/el-vaixell"
+    },
+    {
+      "name": "Miramar",
+      "cuisine": "Creative, Seafood",
+      "price": "€€€€",
+      "path": "/spain/llan/llan/miramar"
+    }
+  ]
+}

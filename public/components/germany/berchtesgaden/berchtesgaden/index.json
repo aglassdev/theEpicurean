@@ -1,0 +1,32 @@
+{
+  "title": "Berchtesgaden",
+  "country": "germany",
+  "region": "berchtesgaden",
+  "city": "berchtesgaden",
+  "restaurants": [
+    {
+      "name": "Berchtesgadener Esszimmer",
+      "cuisine": "Country cooking, Farm to table",
+      "price": "€€€",
+      "path": "/germany/berchtesgaden/berchtesgaden/berchtesgadener-esszimmer"
+    },
+    {
+      "name": "Johann Grill",
+      "cuisine": "Classic Cuisine, Farm to table",
+      "price": "€€€",
+      "path": "/germany/berchtesgaden/berchtesgaden/johann-grill"
+    },
+    {
+      "name": "Lockstein 1",
+      "cuisine": "Vegetarian, Farm to table",
+      "price": "€€",
+      "path": "/germany/berchtesgaden/berchtesgaden/lockstein-1"
+    },
+    {
+      "name": "PUR",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/germany/berchtesgaden/berchtesgaden/pur"
+    }
+  ]
+}

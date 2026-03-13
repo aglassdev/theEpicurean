@@ -1,0 +1,20 @@
+{
+  "title": "Baden",
+  "country": "france",
+  "region": "baden",
+  "city": "baden",
+  "restaurants": [
+    {
+      "name": "La Chaumière de Pomper",
+      "cuisine": "Breton, Crêpe",
+      "price": "€",
+      "path": "/france/baden/baden/la-chaumire-de-pomper"
+    },
+    {
+      "name": "Le Gavrinis",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/baden/baden/le-gavrinis"
+    }
+  ]
+}

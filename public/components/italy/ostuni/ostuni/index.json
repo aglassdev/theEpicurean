@@ -1,0 +1,38 @@
+{
+  "title": "Ostuni",
+  "country": "italy",
+  "region": "ostuni",
+  "city": "ostuni",
+  "restaurants": [
+    {
+      "name": "Cielo",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/ostuni/ostuni/cielo"
+    },
+    {
+      "name": "Masseria Moroseta",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/ostuni/ostuni/masseria-moroseta"
+    },
+    {
+      "name": "Osteria Piazzetta Cattedrale",
+      "cuisine": "Apulian, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/ostuni/ostuni/osteria-piazzetta-cattedrale"
+    },
+    {
+      "name": "Osteria Ricanatti",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/ostuni/ostuni/osteria-ricanatti"
+    },
+    {
+      "name": "Restaurant 700",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/italy/ostuni/ostuni/restaurant-700"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Le Lavandou",
+  "country": "france",
+  "region": "le-lavandou",
+  "city": "le-lavandou",
+  "restaurants": [
+    {
+      "name": "L'Arbre au Soleil",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/le-lavandou/le-lavandou/larbre-au-soleil"
+    },
+    {
+      "name": "Le Mazet",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/france/le-lavandou/le-lavandou/le-mazet"
+    },
+    {
+      "name": "Les Tamaris - Chez Raymond",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/france/le-lavandou/le-lavandou/les-tamaris-chez-raymond"
+    }
+  ]
+}

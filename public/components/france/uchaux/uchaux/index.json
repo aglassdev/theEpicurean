@@ -1,0 +1,26 @@
+{
+  "title": "Uchaux",
+  "country": "france",
+  "region": "uchaux",
+  "city": "uchaux",
+  "restaurants": [
+    {
+      "name": "Côté Sud",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/uchaux/uchaux/ct-sud"
+    },
+    {
+      "name": "Le M - Château de Massillan",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/uchaux/uchaux/le-m-chteau-de-massillan"
+    },
+    {
+      "name": "Le Temps de Vivre",
+      "cuisine": "Provençal",
+      "price": "€€",
+      "path": "/france/uchaux/uchaux/le-temps-de-vivre"
+    }
+  ]
+}

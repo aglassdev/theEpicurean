@@ -1,0 +1,44 @@
+{
+  "title": "Sopot",
+  "country": "poland",
+  "region": "sopot",
+  "city": "sopot",
+  "restaurants": [
+    {
+      "name": "1911 Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/poland/sopot/sopot/1911-restaurant"
+    },
+    {
+      "name": "Café Xander",
+      "cuisine": "International",
+      "price": "€€",
+      "path": "/poland/sopot/sopot/caf-xander"
+    },
+    {
+      "name": "Fisherman",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/poland/sopot/sopot/fisherman"
+    },
+    {
+      "name": "L’Entre Villes",
+      "cuisine": "Traditional Cuisine, French",
+      "price": "€€€",
+      "path": "/poland/sopot/sopot/lentre-villes"
+    },
+    {
+      "name": "Petit Paris",
+      "cuisine": "French",
+      "price": "€€",
+      "path": "/poland/sopot/sopot/petit-paris"
+    },
+    {
+      "name": "Vinissimo",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/poland/sopot/sopot/vinissimo"
+    }
+  ]
+}

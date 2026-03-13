@@ -1,0 +1,32 @@
+{
+  "title": "Alghero",
+  "country": "italy",
+  "region": "alghero",
+  "city": "alghero",
+  "restaurants": [
+    {
+      "name": "Il Pavone",
+      "cuisine": "Seafood, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/alghero/alghero/il-pavone"
+    },
+    {
+      "name": "La Saletta",
+      "cuisine": "Sardinian, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/alghero/alghero/la-saletta"
+    },
+    {
+      "name": "Musciora",
+      "cuisine": "Sardinian, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/alghero/alghero/musciora"
+    },
+    {
+      "name": "Sa Mandra",
+      "cuisine": "Sardinian, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/alghero/alghero/sa-mandra"
+    }
+  ]
+}

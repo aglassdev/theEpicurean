@@ -1,0 +1,26 @@
+{
+  "title": "Laval",
+  "country": "france",
+  "region": "laval",
+  "city": "laval",
+  "restaurants": [
+    {
+      "name": "L'Antiquaire",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/laval/laval/lantiquaire"
+    },
+    {
+      "name": "L'effet Papilles",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/laval/laval/leffet-papilles"
+    },
+    {
+      "name": "Racines",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/laval/laval/racines"
+    }
+  ]
+}

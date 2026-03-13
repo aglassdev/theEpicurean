@@ -1,0 +1,26 @@
+{
+  "title": "Hellerup",
+  "country": "denmark",
+  "region": "hellerup",
+  "city": "hellerup",
+  "restaurants": [
+    {
+      "name": "Parsley Salon",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/denmark/hellerup/hellerup/parsley-salon"
+    },
+    {
+      "name": "The Samuel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/denmark/hellerup/hellerup/the-samuel"
+    },
+    {
+      "name": "Yves at Park Lane",
+      "cuisine": "French",
+      "price": "€",
+      "path": "/denmark/hellerup/hellerup/yves-at-park-lane"
+    }
+  ]
+}

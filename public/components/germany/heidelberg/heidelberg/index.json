@@ -1,0 +1,50 @@
+{
+  "title": "Heidelberg",
+  "country": "germany",
+  "region": "heidelberg",
+  "city": "heidelberg",
+  "restaurants": [
+    {
+      "name": "959",
+      "cuisine": "Contemporary, Classic Cuisine",
+      "price": "€€€",
+      "path": "/germany/heidelberg/heidelberg/959"
+    },
+    {
+      "name": "Chambao",
+      "cuisine": "International, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/germany/heidelberg/heidelberg/chambao"
+    },
+    {
+      "name": "Die Kurfürstenstube",
+      "cuisine": "Classic French, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/germany/heidelberg/heidelberg/die-kurfrstenstube"
+    },
+    {
+      "name": "Grenzhof",
+      "cuisine": "Seasonal Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/germany/heidelberg/heidelberg/grenzhof"
+    },
+    {
+      "name": "Oben",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/heidelberg/heidelberg/oben"
+    },
+    {
+      "name": "Traube",
+      "cuisine": "Regional Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/heidelberg/heidelberg/traube"
+    },
+    {
+      "name": "Weisser Bock",
+      "cuisine": "International",
+      "price": "€€€",
+      "path": "/germany/heidelberg/heidelberg/weisser-bock"
+    }
+  ]
+}

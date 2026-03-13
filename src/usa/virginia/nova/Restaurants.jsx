@@ -1,56 +1,44 @@
-import React, { useEffect} from 'react';
+import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
-const localImage = (name) => {
-  const base = name
-    .toLowerCase()
-    .replace(/[^a-z0-9]/g, '')
-    .replace(/thechefstable/, 'thechefsTable');
-  const pngPath = `/images/${base}1.png`;
-  const jpgPath = `/images/${base}1.jpg`;
-  return pngPath;
-};
-
-const pageTitle = "Northern Virginia";
-
+const pageTitle = "Nova";
 
 const restaurants = [
-    {
-    name: '2941 Restaurant',
-    cuisine: 'French-influenced American',
-    price: '$$$',
-    path: '/usa/virginia/nova/2941Restaurant',
-    image: '/images/2941restaurant1.png'
-  },
-    {
-    name: 'Ellie Bird',
-    cuisine: 'New American',
-    price: '$$$',
-    path: '/usa/virginia/nova/EllieBird',
-    image: '/images/elliebird1.png'
-  },
-    {
-    name: 'Jacques\' Brasserie at L’Auberge Chez François',
-    cuisine: 'Classic French',
-    price: '$$$',
-    path: '/usa/virginia/nova/JacquesBrasserie',
-    image: '/images/jacquesbrasserie1.png'
+  {
+    name: "2941 Restaurant",
+    cuisine: "French-Influenced American",
+    price: "$$$ · Prix Fixe · À La Carte",
+    path: "/usa/virginia/nova/2941-restaurant",
+    image: '/images/2941-restaurant1.png'
   },
   {
-    name: 'Joon',
-    cuisine: 'Persian',
-    price: '$$$',
-    path: '/usa/virginia/nova/Joon',
+    name: "ELlie Bird",
+    cuisine: "New American",
+    price: "$$$ · Prix Fixe · À La Carte",
+    path: "/usa/virginia/nova/ellie-bird",
+    image: '/images/ellie-bird1.png'
+  },
+  {
+    name: "Jacques' Brasserie at L’Auberge Chez François",
+    cuisine: "Classic French",
+    price: "$$$ · À La Carte",
+    path: "/usa/virginia/nova/jacques-brasserie-at-lauberge-chez-franois",
+    image: '/images/jacques-brasserie-at-lauberge-chez-franois1.png'
+  },
+  {
+    name: "Joon",
+    cuisine: "Persian",
+    price: "$$$ · Prix Fixe · À La Carte",
+    path: "/usa/virginia/nova/joon",
     image: '/images/joon1.png'
   },
-
   {
-    name: 'L’Auberge Chez François',
-    cuisine: 'Classic French',
-    price: '$$$',
-    path: '/usa/virginia/nova/LAubergeChezFrancois',
-    image: '/images/laubergechezfrancois1.png'
-  },
+    name: "L’Auberge Chez François",
+    cuisine: "Classic French",
+    price: "$$$ · Prix Fixe · À La Carte",
+    path: "/usa/virginia/nova/lauberge-chez-franois",
+    image: '/images/lauberge-chez-franois1.png'
+  }
 ];
 
 const Restaurants = () => {
@@ -75,7 +63,6 @@ const Restaurants = () => {
       overflowX: 'hidden',
       boxSizing: 'border-box'
     }}>
-      {/* Navigation Bar */}
       <nav style={{
         display: 'flex',
         justifyContent: 'space-between',
@@ -92,8 +79,8 @@ const Restaurants = () => {
         boxSizing: 'border-box',
         margin: 0
       }}>
-        <a 
-          href="/" 
+        <a
+          href="/"
           style={{ textDecoration: 'none' }}
           onClick={(e) => {
             e.preventDefault();
@@ -107,8 +94,8 @@ const Restaurants = () => {
             gap: '10px',
             cursor: 'pointer'
           }}>
-            <img 
-              src="/images/theepicurean.png" 
+            <img
+              src="/images/theepicurean.png"
               alt="The Epicurean"
               style={{
                 width: '150px',
@@ -120,20 +107,12 @@ const Restaurants = () => {
           </div>
         </a>
 
-        <div style={{
-          display: 'flex',
-          gap: '2rem'
-        }}>
-          <button 
-            style={{ 
-              background: 'none',
-              border: 'none',
-              fontSize: '18px',
-              fontWeight: '500',
-              cursor: 'pointer',
-              color: '#333',
-              padding: '0.5rem 1rem',
-              borderRadius: '4px',
+        <div style={{ display: 'flex', gap: '2rem' }}>
+          <button
+            style={{
+              background: 'none', border: 'none', fontSize: '18px',
+              fontWeight: '500', cursor: 'pointer', color: '#333',
+              padding: '0.5rem 1rem', borderRadius: '4px',
               transition: 'background-color 0.3s'
             }}
             onMouseEnter={(e) => e.target.style.backgroundColor = '#f5f5f5'}
@@ -142,92 +121,26 @@ const Restaurants = () => {
           >
             Destinations
           </button>
-          <button style={{
-            background: 'none',
-            border: 'none',
-            fontSize: '18px',
-            fontWeight: '500',
-            cursor: 'pointer',
-            color: '#333',
-            padding: '0.5rem 1rem',
-            borderRadius: '4px',
-            transition: 'background-color 0.3s'
-          }}
-          onMouseEnter={(e) => e.target.style.backgroundColor = '#f5f5f5'}
-          onMouseLeave={(e) => e.target.style.backgroundColor = 'transparent'}
-          >
-            Articles
-          </button>
-          <button style={{
-            background: 'none',
-            border: 'none',
-            fontSize: '18px',
-            fontWeight: '500',
-            cursor: 'pointer',
-            color: '#333',
-            padding: '0.5rem 1rem',
-            borderRadius: '4px',
-            transition: 'background-color 0.3s'
-          }}
-          onMouseEnter={(e) => e.target.style.backgroundColor = '#f5f5f5'}
-          onMouseLeave={(e) => e.target.style.backgroundColor = 'transparent'}
-          onClick={() => {
-              window.location.href = '/methodology';
+          <button
+            style={{
+              background: 'none', border: 'none', fontSize: '18px',
+              fontWeight: '500', cursor: 'pointer', color: '#333',
+              padding: '0.5rem 1rem', borderRadius: '4px',
+              transition: 'background-color 0.3s'
             }}
+            onMouseEnter={(e) => e.target.style.backgroundColor = '#f5f5f5'}
+            onMouseLeave={(e) => e.target.style.backgroundColor = 'transparent'}
+            onClick={() => navigate('/methodology')}
           >
             Methodology
-          </button>
-          <button style={{
-            background: 'none',
-            border: 'none',
-            fontSize: '18px',
-            fontWeight: '500',
-            cursor: 'pointer',
-            color: '#333',
-            padding: '0.5rem 1rem',
-            borderRadius: '4px',
-            transition: 'background-color 0.3s',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center'
-          }}
-          onMouseEnter={(e) => e.target.style.backgroundColor = '#f5f5f5'}
-          onMouseLeave={(e) => e.target.style.backgroundColor = 'transparent'}
-          >
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <circle cx="11" cy="11" r="8"></circle>
-              <path d="m21 21-4.35-4.35"></path>
-            </svg>
           </button>
         </div>
       </nav>
 
-      {/* Header Image */}
-      <div style={{
-        width: '100vw',
-        height: '400px',
-        marginTop: '92px',
-        position: 'relative',
-        overflow: 'hidden',
-        backgroundImage: 'url(/images/hovaheader1.png)',
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
-        backgroundRepeat: 'no-repeat'
-      }}>
-        <div style={{
-          position: 'absolute',
-          top: 0,
-          left: 0,
-          right: 0,
-          bottom: 0,
-        }} />
-      </div>
-
-      {/* Title and Restaurant Count */}
       <div style={{
         maxWidth: '1400px',
         margin: '0 auto',
-        padding: '2rem 2rem 0 2rem'
+        padding: '7rem 2rem 0 2rem'
       }}>
         <h1 style={{
           fontSize: '3rem',
@@ -236,20 +149,18 @@ const Restaurants = () => {
           margin: '0 0 1rem 0',
           fontFamily: 'Times New Roman, serif'
         }}>
-          Northern Virginia
+          {pageTitle}
         </h1>
-        
         <p style={{
           fontSize: '1.1rem',
           color: '#666',
           margin: '0 0 2rem 0',
           fontFamily: 'Times New Roman, serif'
         }}>
-          {restaurants.length} restaurants
+          {restaurants.length} restaurant{restaurants.length !== 1 ? 's' : ''}
         </p>
       </div>
 
-      {/* Restaurant Cards Grid */}
       <div style={{
         padding: '0 2rem 4rem 2rem',
         width: '100vw',
@@ -260,7 +171,7 @@ const Restaurants = () => {
           maxWidth: '1400px',
           margin: '0 auto',
           display: 'grid',
-          gridTemplateColumns: 'repeat(4, 300px)',
+          gridTemplateColumns: 'repeat(auto-fill, 300px)',
           gap: '2rem',
           justifyContent: 'start'
         }}>
@@ -286,7 +197,6 @@ const Restaurants = () => {
                 e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.15)';
               }}
             >
-              {/* Restaurant Image */}
               <div style={{
                 height: '200px',
                 backgroundColor: '#f8f9fa',
@@ -297,66 +207,42 @@ const Restaurants = () => {
                   src={restaurant.image}
                   alt={restaurant.name}
                   style={{
-                    width: '100%',
-                    height: '100%',
-                    objectFit: 'cover',
-                    display: 'block'
+                    width: '100%', height: '100%',
+                    objectFit: 'cover', display: 'block'
                   }}
                   onError={(e) => {
                     e.target.style.display = 'none';
                     e.target.nextSibling.style.display = 'flex';
                   }}
                 />
-                <div 
-                  style={{
-                    position: 'absolute',
-                    top: 0,
-                    left: 0,
-                    right: 0,
-                    bottom: 0,
-                    backgroundColor: '#f8f9fa',
-                    display: 'none',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    color: '#666',
-                    fontSize: '14px',
-                    fontWeight: '500'
-                  }}
-                >
+                <div style={{
+                  position: 'absolute', top: 0, left: 0, right: 0, bottom: 0,
+                  backgroundColor: '#f8f9fa', display: 'none',
+                  alignItems: 'center', justifyContent: 'center',
+                  color: '#666', fontSize: '14px', fontWeight: '500'
+                }}>
                   {restaurant.name}
                 </div>
               </div>
 
-              {/* Restaurant Info */}
-              <div style={{
-                padding: '1.5rem',
-                backgroundColor: 'white'
-              }}>
+              <div style={{ padding: '1.5rem', backgroundColor: 'white' }}>
                 <h3 style={{
-                  fontSize: '1.25rem',
-                  fontWeight: '600',
-                  color: '#333',
-                  margin: '0 0 0.5rem 0',
-                  fontFamily: 'Times New Roman, serif'
+                  fontSize: '1.25rem', fontWeight: '600', color: '#333',
+                  margin: '0 0 0.5rem 0', fontFamily: 'Times New Roman, serif'
                 }}>
                   {restaurant.name}
                 </h3>
                 <div style={{
-                  display: 'flex',
-                  justifyContent: 'space-between',
-                  alignItems: 'center'
+                  display: 'flex', justifyContent: 'space-between', alignItems: 'center'
                 }}>
                   <span style={{
-                    fontSize: '0.9rem',
-                    color: '#666',
+                    fontSize: '0.9rem', color: '#666',
                     fontFamily: 'Times New Roman, serif'
                   }}>
                     {restaurant.cuisine}
                   </span>
                   <span style={{
-                    fontSize: '0.9rem',
-                    fontWeight: '600',
-                    color: '#333',
+                    fontSize: '0.9rem', fontWeight: '600', color: '#333',
                     fontFamily: 'Times New Roman, serif'
                   }}>
                     {restaurant.price}
@@ -368,7 +254,6 @@ const Restaurants = () => {
         </div>
       </div>
 
-      {/* Footer */}
       <footer style={{
         backgroundColor: '#f8f9fa',
         padding: '2rem',
@@ -379,9 +264,7 @@ const Restaurants = () => {
         margin: 0
       }}>
         <p style={{
-          fontSize: '14px',
-          color: '#666',
-          margin: 0,
+          fontSize: '14px', color: '#666', margin: 0,
           fontFamily: 'Times New Roman, serif'
         }}>
           a Glass production

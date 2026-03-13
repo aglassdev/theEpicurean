@@ -1,0 +1,32 @@
+{
+  "title": "Trogir",
+  "country": "croatia",
+  "region": "trogir",
+  "city": "trogir",
+  "restaurants": [
+    {
+      "name": "Franka",
+      "cuisine": "Mediterranean Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/croatia/trogir/trogir/franka"
+    },
+    {
+      "name": "Il Ponte",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/croatia/trogir/trogir/il-ponte"
+    },
+    {
+      "name": "Konoba TRS",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/croatia/trogir/trogir/konoba-trs"
+    },
+    {
+      "name": "Restaurant Mare",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/croatia/trogir/trogir/restaurant-mare"
+    }
+  ]
+}

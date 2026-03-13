@@ -1,0 +1,26 @@
+{
+  "title": "Chablis",
+  "country": "france",
+  "region": "chablis",
+  "city": "chablis",
+  "restaurants": [
+    {
+      "name": "Au Fil du Zinc",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/chablis/chablis/au-fil-du-zinc"
+    },
+    {
+      "name": "Chablis Wine Not",
+      "cuisine": "Meats and Grills, Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/chablis/chablis/chablis-wine-not"
+    },
+    {
+      "name": "Les Trois Bourgeons",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/chablis/chablis/les-trois-bourgeons"
+    }
+  ]
+}

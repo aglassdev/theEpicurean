@@ -1,0 +1,26 @@
+{
+  "title": "Albi",
+  "country": "france",
+  "region": "albi",
+  "city": "albi",
+  "restaurants": [
+    {
+      "name": "Alchimy",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/albi/albi/alchimy"
+    },
+    {
+      "name": "Amapola Kitchen",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/albi/albi/amapola-kitchen"
+    },
+    {
+      "name": "L'Épicurien",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/albi/albi/lpicurien"
+    }
+  ]
+}

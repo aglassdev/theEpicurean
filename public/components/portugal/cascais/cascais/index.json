@@ -1,0 +1,38 @@
+{
+  "title": "Cascais",
+  "country": "portugal",
+  "region": "cascais",
+  "city": "cascais",
+  "restaurants": [
+    {
+      "name": "Conceito",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/portugal/cascais/cascais/conceito"
+    },
+    {
+      "name": "Fortaleza do Guincho",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/cascais/cascais/fortaleza-do-guincho"
+    },
+    {
+      "name": "Izakaya",
+      "cuisine": "Izakaya, Japanese",
+      "price": "€€€",
+      "path": "/portugal/cascais/cascais/izakaya"
+    },
+    {
+      "name": "Kappo",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/portugal/cascais/cascais/kappo"
+    },
+    {
+      "name": "Porto Santa Maria",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/portugal/cascais/cascais/porto-santa-maria"
+    }
+  ]
+}

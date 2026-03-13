@@ -1,0 +1,20 @@
+{
+  "title": "Poole",
+  "country": "uk",
+  "region": "poole",
+  "city": "poole",
+  "restaurants": [
+    {
+      "name": "Guildhall Tavern",
+      "cuisine": "Seafood",
+      "price": "£££",
+      "path": "/uk/poole/poole/guildhall-tavern"
+    },
+    {
+      "name": "Thirteen",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/poole/poole/thirteen"
+    }
+  ]
+}

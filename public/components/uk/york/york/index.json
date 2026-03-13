@@ -1,0 +1,56 @@
+{
+  "title": "York",
+  "country": "uk",
+  "region": "york",
+  "city": "york",
+  "restaurants": [
+    {
+      "name": "Arras",
+      "cuisine": "Modern Cuisine",
+      "price": "£££",
+      "path": "/uk/york/york/arras"
+    },
+    {
+      "name": "Fish & Forest",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/york/york/fish-forest"
+    },
+    {
+      "name": "Legacy",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/york/york/legacy"
+    },
+    {
+      "name": "Melton's",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/york/york/meltons"
+    },
+    {
+      "name": "Roots",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/york/york/roots"
+    },
+    {
+      "name": "Skosh",
+      "cuisine": "Modern British",
+      "price": "££",
+      "path": "/uk/york/york/skosh"
+    },
+    {
+      "name": "The Bow Room at Grays Court",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/york/york/the-bow-room-at-grays-court"
+    },
+    {
+      "name": "The Star Inn The City",
+      "cuisine": "Modern British",
+      "price": "££",
+      "path": "/uk/york/york/the-star-inn-the-city"
+    }
+  ]
+}

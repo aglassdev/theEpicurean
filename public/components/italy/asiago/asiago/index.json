@@ -1,0 +1,32 @@
+{
+  "title": "Asiago",
+  "country": "italy",
+  "region": "asiago",
+  "city": "asiago",
+  "restaurants": [
+    {
+      "name": "La Tana Gourmet",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/asiago/asiago/la-tana-gourmet"
+    },
+    {
+      "name": "Osteria della Tana",
+      "cuisine": "Venetian, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/italy/asiago/asiago/osteria-della-tana"
+    },
+    {
+      "name": "Osteria Europa",
+      "cuisine": "Venetian, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/italy/asiago/asiago/osteria-europa"
+    },
+    {
+      "name": "Stube Gourmet",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/asiago/asiago/stube-gourmet"
+    }
+  ]
+}

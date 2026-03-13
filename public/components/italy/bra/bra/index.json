@@ -1,0 +1,26 @@
+{
+  "title": "Bra",
+  "country": "italy",
+  "region": "bra",
+  "city": "bra",
+  "restaurants": [
+    {
+      "name": "Battaglino",
+      "cuisine": "Piedmontese, Traditional Cuisine",
+      "price": "€",
+      "path": "/italy/bra/bra/battaglino"
+    },
+    {
+      "name": "Osteria del Boccondivino",
+      "cuisine": "Piedmontese, Traditional Cuisine",
+      "price": "€",
+      "path": "/italy/bra/bra/osteria-del-boccondivino"
+    },
+    {
+      "name": "Osteria La Pimpinella",
+      "cuisine": "Contemporary, Regional Cuisine",
+      "price": "€€",
+      "path": "/italy/bra/bra/osteria-la-pimpinella"
+    }
+  ]
+}

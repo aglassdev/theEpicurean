@@ -1,0 +1,26 @@
+{
+  "title": "Heemstede",
+  "country": "netherlands",
+  "region": "heemstede",
+  "city": "heemstede",
+  "restaurants": [
+    {
+      "name": "Cheval Blanc",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/netherlands/heemstede/heemstede/cheval-blanc"
+    },
+    {
+      "name": "Landgoed Groenendaal",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/netherlands/heemstede/heemstede/landgoed-groenendaal"
+    },
+    {
+      "name": "Red Orchids",
+      "cuisine": "Asian, Fusion",
+      "price": "€€€",
+      "path": "/netherlands/heemstede/heemstede/red-orchids"
+    }
+  ]
+}

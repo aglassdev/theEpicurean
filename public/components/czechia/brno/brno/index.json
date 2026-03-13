@@ -1,0 +1,50 @@
+{
+  "title": "Brno",
+  "country": "czechia",
+  "region": "brno",
+  "city": "brno",
+  "restaurants": [
+    {
+      "name": "ATELIER bar & bistro",
+      "cuisine": "Farm to table, Contemporary",
+      "price": "€€",
+      "path": "/czechia/brno/brno/atelier-bar-bistro"
+    },
+    {
+      "name": "Borgo Agnese",
+      "cuisine": "Mediterranean Cuisine, Italian Contemporary",
+      "price": "€€€",
+      "path": "/czechia/brno/brno/borgo-agnese"
+    },
+    {
+      "name": "ELEMENT",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/czechia/brno/brno/element"
+    },
+    {
+      "name": "Kohout NA VÍNĚ",
+      "cuisine": "Seasonal Cuisine",
+      "price": "€€",
+      "path": "/czechia/brno/brno/kohout-na-vn"
+    },
+    {
+      "name": "Pavillon Steak House",
+      "cuisine": "Steakhouse",
+      "price": "€€€",
+      "path": "/czechia/brno/brno/pavillon-steak-house"
+    },
+    {
+      "name": "PRIME STEAK",
+      "cuisine": "Meats and Grills, Steakhouse",
+      "price": "€€€",
+      "path": "/czechia/brno/brno/prime-steak"
+    },
+    {
+      "name": "Valoria",
+      "cuisine": "International, Traditional Cuisine",
+      "price": "€€",
+      "path": "/czechia/brno/brno/valoria"
+    }
+  ]
+}

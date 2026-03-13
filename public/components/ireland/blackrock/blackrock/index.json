@@ -1,0 +1,20 @@
+{
+  "title": "Blackrock",
+  "country": "ireland",
+  "region": "blackrock",
+  "city": "blackrock",
+  "restaurants": [
+    {
+      "name": "Liath",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/ireland/blackrock/blackrock/liath"
+    },
+    {
+      "name": "Volpe Nera",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/ireland/blackrock/blackrock/volpe-nera"
+    }
+  ]
+}

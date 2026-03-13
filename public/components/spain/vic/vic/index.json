@@ -1,0 +1,26 @@
+{
+  "title": "Vic",
+  "country": "spain",
+  "region": "vic",
+  "city": "vic",
+  "restaurants": [
+    {
+      "name": "Barmutet",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/vic/vic/barmutet"
+    },
+    {
+      "name": "Boccatti",
+      "cuisine": "Seafood, Catalan",
+      "price": "€€€",
+      "path": "/spain/vic/vic/boccatti"
+    },
+    {
+      "name": "VIA",
+      "cuisine": "Regional Cuisine",
+      "price": "€€",
+      "path": "/spain/vic/vic/via"
+    }
+  ]
+}

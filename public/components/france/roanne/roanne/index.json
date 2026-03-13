@@ -1,0 +1,26 @@
+{
+  "title": "Roanne",
+  "country": "france",
+  "region": "roanne",
+  "city": "roanne",
+  "restaurants": [
+    {
+      "name": "Le Central",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/roanne/roanne/le-central"
+    },
+    {
+      "name": "Maison Bouquet",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/roanne/roanne/maison-bouquet"
+    },
+    {
+      "name": "Oma",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/france/roanne/roanne/oma"
+    }
+  ]
+}

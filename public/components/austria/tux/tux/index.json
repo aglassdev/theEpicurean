@@ -1,0 +1,20 @@
+{
+  "title": "Tux",
+  "country": "austria",
+  "region": "tux",
+  "city": "tux",
+  "restaurants": [
+    {
+      "name": "Bergfried - Chefs Table",
+      "cuisine": "Modern Cuisine, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/austria/tux/tux/bergfried-chefs-table"
+    },
+    {
+      "name": "Die Geniesserstube im Alpenhof",
+      "cuisine": "Alpine, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/austria/tux/tux/die-geniesserstube-im-alpenhof"
+    }
+  ]
+}

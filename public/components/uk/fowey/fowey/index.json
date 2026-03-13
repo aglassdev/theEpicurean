@@ -1,0 +1,20 @@
+{
+  "title": "Fowey",
+  "country": "uk",
+  "region": "fowey",
+  "city": "fowey",
+  "restaurants": [
+    {
+      "name": "Narla",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/fowey/fowey/narla"
+    },
+    {
+      "name": "North Street Kitchen",
+      "cuisine": "Seafood",
+      "price": "£",
+      "path": "/uk/fowey/fowey/north-street-kitchen"
+    }
+  ]
+}

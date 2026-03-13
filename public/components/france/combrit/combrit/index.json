@@ -1,0 +1,20 @@
+{
+  "title": "Combrit",
+  "country": "france",
+  "region": "combrit",
+  "city": "combrit",
+  "restaurants": [
+    {
+      "name": "Bistrot du Bac",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/france/combrit/combrit/bistrot-du-bac"
+    },
+    {
+      "name": "Les Trois Rochers",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/combrit/combrit/les-trois-rochers"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Essen",
+  "country": "germany",
+  "region": "essen",
+  "city": "essen",
+  "restaurants": [
+    {
+      "name": "Chefs Atelier",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/essen/essen/chefs-atelier"
+    },
+    {
+      "name": "Hannappel",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/essen/essen/hannappel"
+    },
+    {
+      "name": "Kettner's Kamota",
+      "cuisine": "Creative, Alsatian",
+      "price": "€€€€",
+      "path": "/germany/essen/essen/kettners-kamota"
+    },
+    {
+      "name": "Lucente",
+      "cuisine": "Italian, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/germany/essen/essen/lucente"
+    },
+    {
+      "name": "Müllers auf der Rü",
+      "cuisine": "Seasonal Cuisine, Farm to table",
+      "price": "€€€",
+      "path": "/germany/essen/essen/mllers-auf-der-r"
+    },
+    {
+      "name": "Pierburg - Erika Bergheim",
+      "cuisine": "Farm to table, International",
+      "price": "€€€",
+      "path": "/germany/essen/essen/pierburg-erika-bergheim"
+    },
+    {
+      "name": "Restaurant 1831",
+      "cuisine": "French Contemporary, Modern French",
+      "price": "€€€",
+      "path": "/germany/essen/essen/restaurant-1831"
+    },
+    {
+      "name": "Teko by Lange Rodriguez",
+      "cuisine": "International, South American",
+      "price": "€€€€",
+      "path": "/germany/essen/essen/teko-by-lange-rodriguez"
+    }
+  ]
+}

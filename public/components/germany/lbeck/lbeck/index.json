@@ -1,0 +1,32 @@
+{
+  "title": "Lbeck",
+  "country": "germany",
+  "region": "lbeck",
+  "city": "lbeck",
+  "restaurants": [
+    {
+      "name": "Fangfrisch",
+      "cuisine": "Regional Cuisine, Seafood",
+      "price": "€€",
+      "path": "/germany/lbeck/lbeck/fangfrisch"
+    },
+    {
+      "name": "Johanna Berger",
+      "cuisine": "International, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/germany/lbeck/lbeck/johanna-berger"
+    },
+    {
+      "name": "Meilenstein",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/germany/lbeck/lbeck/meilenstein"
+    },
+    {
+      "name": "Wullenwever",
+      "cuisine": "Classic Cuisine, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/germany/lbeck/lbeck/wullenwever"
+    }
+  ]
+}

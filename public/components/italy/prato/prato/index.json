@@ -1,0 +1,26 @@
+{
+  "title": "Prato",
+  "country": "italy",
+  "region": "prato",
+  "city": "prato",
+  "restaurants": [
+    {
+      "name": "Il Piraña",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/italy/prato/prato/il-piraa"
+    },
+    {
+      "name": "MOI Omakase",
+      "cuisine": "Sushi",
+      "price": "€€€€",
+      "path": "/italy/prato/prato/moi-omakase"
+    },
+    {
+      "name": "Paca",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/prato/prato/paca"
+    }
+  ]
+}

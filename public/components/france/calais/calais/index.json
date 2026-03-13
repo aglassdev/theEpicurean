@@ -1,0 +1,32 @@
+{
+  "title": "Calais",
+  "country": "france",
+  "region": "calais",
+  "city": "calais",
+  "restaurants": [
+    {
+      "name": "Aquar'aile",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/france/calais/calais/aquaraile"
+    },
+    {
+      "name": "Histoire Ancienne",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/calais/calais/histoire-ancienne"
+    },
+    {
+      "name": "Le Channel",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/france/calais/calais/le-channel"
+    },
+    {
+      "name": "Le Grand Bleu",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/calais/calais/le-grand-bleu"
+    }
+  ]
+}

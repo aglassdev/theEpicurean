@@ -1,0 +1,38 @@
+{
+  "title": "Pescara",
+  "country": "italy",
+  "region": "pescara",
+  "city": "pescara",
+  "restaurants": [
+    {
+      "name": "Café Les Paillotes",
+      "cuisine": "Modern Cuisine, Seafood",
+      "price": "€€€",
+      "path": "/italy/pescara/pescara/caf-les-paillotes"
+    },
+    {
+      "name": "Estrò",
+      "cuisine": "Contemporary, Country cooking",
+      "price": "€",
+      "path": "/italy/pescara/pescara/estr"
+    },
+    {
+      "name": "Nole",
+      "cuisine": "Italian Contemporary, Italian",
+      "price": "€€",
+      "path": "/italy/pescara/pescara/nole"
+    },
+    {
+      "name": "SOMS",
+      "cuisine": "Cuisine from Abruzzo, Contemporary",
+      "price": "€€",
+      "path": "/italy/pescara/pescara/soms"
+    },
+    {
+      "name": "Taverna 58",
+      "cuisine": "Cuisine from Abruzzo, Traditional Cuisine",
+      "price": "€",
+      "path": "/italy/pescara/pescara/taverna-58"
+    }
+  ]
+}

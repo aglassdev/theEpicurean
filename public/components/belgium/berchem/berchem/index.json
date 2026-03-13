@@ -1,0 +1,26 @@
+{
+  "title": "Berchem",
+  "country": "belgium",
+  "region": "berchem",
+  "city": "berchem",
+  "restaurants": [
+    {
+      "name": "Decan",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/belgium/berchem/berchem/decan"
+    },
+    {
+      "name": "eppo",
+      "cuisine": "Farm to table, Contemporary",
+      "price": "€€",
+      "path": "/belgium/berchem/berchem/eppo"
+    },
+    {
+      "name": "Soixante",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/belgium/berchem/berchem/soixante"
+    }
+  ]
+}

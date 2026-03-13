@@ -1,0 +1,26 @@
+{
+  "title": "Chinon",
+  "country": "france",
+  "region": "chinon",
+  "city": "chinon",
+  "restaurants": [
+    {
+      "name": "Les Années 30",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/chinon/chinon/les-annes-30"
+    },
+    {
+      "name": "L'Océanic",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/france/chinon/chinon/locanic"
+    },
+    {
+      "name": "Nemrod",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/chinon/chinon/nemrod"
+    }
+  ]
+}

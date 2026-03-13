@@ -1,0 +1,44 @@
+{
+  "title": "Saarbrcken",
+  "country": "germany",
+  "region": "saarbrcken",
+  "city": "saarbrcken",
+  "restaurants": [
+    {
+      "name": "Esplanade",
+      "cuisine": "Classic Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/saarbrcken/saarbrcken/esplanade"
+    },
+    {
+      "name": "GästeHaus Klaus Erfort",
+      "cuisine": "Classic French",
+      "price": "€€€€",
+      "path": "/germany/saarbrcken/saarbrcken/gstehaus-klaus-erfort"
+    },
+    {
+      "name": "Le Comptoir",
+      "cuisine": "Creative, Farm to table",
+      "price": "€€€",
+      "path": "/germany/saarbrcken/saarbrcken/le-comptoir"
+    },
+    {
+      "name": "Le petit CINQ",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€€",
+      "path": "/germany/saarbrcken/saarbrcken/le-petit-cinq"
+    },
+    {
+      "name": "Le Schloss Halberg",
+      "cuisine": "Classic French",
+      "price": "€€",
+      "path": "/germany/saarbrcken/saarbrcken/le-schloss-halberg"
+    },
+    {
+      "name": "Restaurant Quack in der Villa Weismüller",
+      "cuisine": "Mediterranean Cuisine, Farm to table",
+      "price": "€€",
+      "path": "/germany/saarbrcken/saarbrcken/restaurant-quack-in-der-villa-weismller"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "title": "Buenos Aires",
+  "country": "argentina",
+  "region": "buenos-aires",
+  "city": "buenos-aires",
+  "restaurants": [
+    {
+      "name": "4ta Pared",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/4ta-pared"
+    },
+    {
+      "name": "A Fuego Fuerte",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/a-fuego-fuerte"
+    },
+    {
+      "name": "Ajo Negro - Mar de Tapas",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/ajo-negro-mar-de-tapas"
+    },
+    {
+      "name": "Alcanfor",
+      "cuisine": "Contemporary, Farm to table",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/alcanfor"
+    },
+    {
+      "name": "Anafe",
+      "cuisine": "Contemporary",
+      "price": "$",
+      "path": "/argentina/buenos-aires/buenos-aires/anafe"
+    },
+    {
+      "name": "Anchoíta",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/anchota"
+    },
+    {
+      "name": "Aramburu",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/aramburu"
+    },
+    {
+      "name": "Bis Bistró",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/bis-bistr"
+    },
+    {
+      "name": "Buri Omakase",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/buri-omakase"
+    },
+    {
+      "name": "Cabaña Las Lilas",
+      "cuisine": "Meats and Grills, Barbecue",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/cabaa-las-lilas"
+    },
+    {
+      "name": "Casa Cavia",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/casa-cavia"
+    },
+    {
+      "name": "Caseros",
+      "cuisine": "Traditional Cuisine, Home Cooking",
+      "price": "$",
+      "path": "/argentina/buenos-aires/buenos-aires/caseros"
+    },
+    {
+      "name": "Chuí",
+      "cuisine": "Vegetarian, Vegan",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/chu"
+    },
+    {
+      "name": "Ácido",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/cido"
+    },
+    {
+      "name": "Corte Comedor",
+      "cuisine": "Meats and Grills",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/corte-comedor"
+    },
+    {
+      "name": "Crizia",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/crizia"
+    },
+    {
+      "name": "Don Julio",
+      "cuisine": "Grills",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/don-julio"
+    },
+    {
+      "name": "Duhau Restaurant & Vinoteca",
+      "cuisine": "Grills",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/duhau-restaurant-vinoteca"
+    },
+    {
+      "name": "El Preferido de Palermo",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/el-preferido-de-palermo"
+    },
+    {
+      "name": "Elena",
+      "cuisine": "Steakhouse",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/elena"
+    },
+    {
+      "name": "Evelia",
+      "cuisine": "Italian, Argentinian",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/evelia"
+    },
+    {
+      "name": "Fervor",
+      "cuisine": "Meats and Seafood, Grills",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/fervor"
+    },
+    {
+      "name": "Fico",
+      "cuisine": "Farm to table, Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/fico"
+    },
+    {
+      "name": "Fogón Asado",
+      "cuisine": "Meats and Grills",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/fogn-asado"
+    },
+    {
+      "name": "Gioia Cocina Botánica",
+      "cuisine": "Vegan",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/gioia-cocina-botnica"
+    },
+    {
+      "name": "Han",
+      "cuisine": "Korean",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/han"
+    },
+    {
+      "name": "Horta",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/horta"
+    },
+    {
+      "name": "Julia",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/julia"
+    },
+    {
+      "name": "Kōnā",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/kn"
+    },
+    {
+      "name": "La Alacena Trattoria",
+      "cuisine": "Italian",
+      "price": "$",
+      "path": "/argentina/buenos-aires/buenos-aires/la-alacena-trattoria"
+    },
+    {
+      "name": "La Cabaña",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/la-cabaa"
+    },
+    {
+      "name": "Marti",
+      "cuisine": "Vegetarian, Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/marti"
+    },
+    {
+      "name": "Mengano",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/mengano"
+    },
+    {
+      "name": "Mercado de Liniers",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/mercado-de-liniers"
+    },
+    {
+      "name": "Michel Rolland Grill & Wine",
+      "cuisine": "Argentinian",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/michel-rolland-grill-wine"
+    },
+    {
+      "name": "Mishiguene",
+      "cuisine": "Israeli",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/mishiguene"
+    },
+    {
+      "name": "MN Santa Inés",
+      "cuisine": "Fusion, Contemporary",
+      "price": "$",
+      "path": "/argentina/buenos-aires/buenos-aires/mn-santa-ins"
+    },
+    {
+      "name": "Narda Comedor",
+      "cuisine": "Country cooking",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/narda-comedor"
+    },
+    {
+      "name": "Niño Gordo",
+      "cuisine": "Asian",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/nio-gordo"
+    },
+    {
+      "name": "Osaka Concepción",
+      "cuisine": "Fusion",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/osaka-concepcin"
+    },
+    {
+      "name": "Picarón",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/picarn"
+    },
+    {
+      "name": "Piedra Pasillo Al Fondo",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/piedra-pasillo-al-fondo"
+    },
+    {
+      "name": "Raggio Osteria",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/raggio-osteria"
+    },
+    {
+      "name": "Raíx",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/rax"
+    },
+    {
+      "name": "Reliquia",
+      "cuisine": "Argentinian",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/reliquia"
+    },
+    {
+      "name": "República del Fuego",
+      "cuisine": "Grills, Argentinian",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/repblica-del-fuego"
+    },
+    {
+      "name": "Restó SCA",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/rest-sca"
+    },
+    {
+      "name": "Roux",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/roux"
+    },
+    {
+      "name": "Sacro",
+      "cuisine": "Vegetarian",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/sacro"
+    },
+    {
+      "name": "Sottovoce",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/sottovoce"
+    },
+    {
+      "name": "Sucre",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/sucre"
+    },
+    {
+      "name": "Trescha",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/trescha"
+    },
+    {
+      "name": "Ultramarinos",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/ultramarinos"
+    },
+    {
+      "name": "Uni Omakase",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/uni-omakase"
+    }
+  ]
+}

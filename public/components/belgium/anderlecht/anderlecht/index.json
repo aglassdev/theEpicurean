@@ -1,0 +1,38 @@
+{
+  "title": "Anderlecht",
+  "country": "belgium",
+  "region": "anderlecht",
+  "city": "anderlecht",
+  "restaurants": [
+    {
+      "name": "Appel Thaï",
+      "cuisine": "Thai",
+      "price": "€",
+      "path": "/belgium/anderlecht/anderlecht/appel-tha"
+    },
+    {
+      "name": "Cinq",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/belgium/anderlecht/anderlecht/cinq"
+    },
+    {
+      "name": "La Brouette",
+      "cuisine": "French",
+      "price": "€€",
+      "path": "/belgium/anderlecht/anderlecht/la-brouette"
+    },
+    {
+      "name": "La Paix",
+      "cuisine": "Asian Influences, Creative",
+      "price": "€€€€",
+      "path": "/belgium/anderlecht/anderlecht/la-paix"
+    },
+    {
+      "name": "René",
+      "cuisine": "Belgian, Classic Cuisine",
+      "price": "€€",
+      "path": "/belgium/anderlecht/anderlecht/ren"
+    }
+  ]
+}

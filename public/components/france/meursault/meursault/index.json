@@ -1,0 +1,26 @@
+{
+  "title": "Meursault",
+  "country": "france",
+  "region": "meursault",
+  "city": "meursault",
+  "restaurants": [
+    {
+      "name": "Au Fil du Clos",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/meursault/meursault/au-fil-du-clos"
+    },
+    {
+      "name": "Le Soufflot",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/meursault/meursault/le-soufflot"
+    },
+    {
+      "name": "Les Murisaltiens",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/meursault/meursault/les-murisaltiens"
+    }
+  ]
+}

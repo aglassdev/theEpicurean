@@ -1,0 +1,32 @@
+{
+  "title": "Rougemont",
+  "country": "switzerland",
+  "region": "rougemont",
+  "city": "rougemont",
+  "restaurants": [
+    {
+      "name": "La Table du Valrose",
+      "cuisine": "Modern French, Farm to table",
+      "price": "€€€€",
+      "path": "/switzerland/rougemont/rougemont/la-table-du-valrose"
+    },
+    {
+      "name": "Le Café Valrose",
+      "cuisine": "Traditional Cuisine, Swiss",
+      "price": "€€",
+      "path": "/switzerland/rougemont/rougemont/le-caf-valrose"
+    },
+    {
+      "name": "Le Cerf",
+      "cuisine": "Regional Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/switzerland/rougemont/rougemont/le-cerf"
+    },
+    {
+      "name": "Le Roc",
+      "cuisine": "Swiss, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/rougemont/rougemont/le-roc"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Turnhout",
+  "country": "belgium",
+  "region": "turnhout",
+  "city": "turnhout",
+  "restaurants": [
+    {
+      "name": "Amu",
+      "cuisine": "Modern Cuisine, French Contemporary",
+      "price": "€€",
+      "path": "/belgium/turnhout/turnhout/amu"
+    },
+    {
+      "name": "Bink",
+      "cuisine": "Modern French, Creative French",
+      "price": "€€€",
+      "path": "/belgium/turnhout/turnhout/bink"
+    },
+    {
+      "name": "CucinaMarangon",
+      "cuisine": "Italian",
+      "price": "€€",
+      "path": "/belgium/turnhout/turnhout/cucinamarangon"
+    },
+    {
+      "name": "Hert",
+      "cuisine": "Modern French, Creative",
+      "price": "€€€€",
+      "path": "/belgium/turnhout/turnhout/hert"
+    },
+    {
+      "name": "Savoury",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/belgium/turnhout/turnhout/savoury"
+    }
+  ]
+}

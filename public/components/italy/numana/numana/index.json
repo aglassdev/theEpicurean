@@ -1,0 +1,26 @@
+{
+  "title": "Numana",
+  "country": "italy",
+  "region": "numana",
+  "city": "numana",
+  "restaurants": [
+    {
+      "name": "Casa Rapisarda",
+      "cuisine": "Italian Contemporary, Seafood",
+      "price": "€€€",
+      "path": "/italy/numana/numana/casa-rapisarda"
+    },
+    {
+      "name": "In Riva a Numana",
+      "cuisine": "Mediterranean Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/italy/numana/numana/in-riva-a-numana"
+    },
+    {
+      "name": "Riva",
+      "cuisine": "Mediterranean Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/italy/numana/numana/riva"
+    }
+  ]
+}

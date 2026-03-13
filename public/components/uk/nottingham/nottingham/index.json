@@ -1,0 +1,44 @@
+{
+  "title": "Nottingham",
+  "country": "uk",
+  "region": "nottingham",
+  "city": "nottingham",
+  "restaurants": [
+    {
+      "name": "alchemilla",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/nottingham/nottingham/alchemilla"
+    },
+    {
+      "name": "Ibérico World Tapas",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "££",
+      "path": "/uk/nottingham/nottingham/ibrico-world-tapas"
+    },
+    {
+      "name": "Kushi-Ya",
+      "cuisine": "Japanese",
+      "price": "££",
+      "path": "/uk/nottingham/nottingham/kushi-ya"
+    },
+    {
+      "name": "Piccalilli",
+      "cuisine": "Modern British",
+      "price": "££",
+      "path": "/uk/nottingham/nottingham/piccalilli"
+    },
+    {
+      "name": "Raymond's",
+      "cuisine": "Modern British, Sharing",
+      "price": "££",
+      "path": "/uk/nottingham/nottingham/raymonds"
+    },
+    {
+      "name": "Restaurant Sat Bains",
+      "cuisine": "Creative",
+      "price": "££££",
+      "path": "/uk/nottingham/nottingham/restaurant-sat-bains"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Trondheim",
+  "country": "norway",
+  "region": "trondheim",
+  "city": "trondheim",
+  "restaurants": [
+    {
+      "name": "FAGN",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/norway/trondheim/trondheim/fagn"
+    },
+    {
+      "name": "FAGN-Bistro",
+      "cuisine": "Norwegian, Modern Cuisine",
+      "price": "€€",
+      "path": "/norway/trondheim/trondheim/fagn-bistro"
+    },
+    {
+      "name": "Restaurant Saga",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/norway/trondheim/trondheim/restaurant-saga"
+    },
+    {
+      "name": "Speilsalen",
+      "cuisine": "Contemporary, Seafood",
+      "price": "€€€€",
+      "path": "/norway/trondheim/trondheim/speilsalen"
+    },
+    {
+      "name": "Tollbua",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/norway/trondheim/trondheim/tollbua"
+    }
+  ]
+}

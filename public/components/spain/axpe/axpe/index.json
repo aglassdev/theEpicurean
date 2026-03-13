@@ -1,0 +1,26 @@
+{
+  "title": "Axpe",
+  "country": "spain",
+  "region": "axpe",
+  "city": "axpe",
+  "restaurants": [
+    {
+      "name": "Etxebarri",
+      "cuisine": "Grills",
+      "price": "€€€€",
+      "path": "/spain/axpe/axpe/etxebarri"
+    },
+    {
+      "name": "Mendi Goikoa Bekoa",
+      "cuisine": "Basque",
+      "price": "€€",
+      "path": "/spain/axpe/axpe/mendi-goikoa-bekoa"
+    },
+    {
+      "name": "Txispa",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/spain/axpe/axpe/txispa"
+    }
+  ]
+}

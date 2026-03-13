@@ -1,0 +1,26 @@
+{
+  "title": "Orvieto",
+  "country": "italy",
+  "region": "orvieto",
+  "city": "orvieto",
+  "restaurants": [
+    {
+      "name": "Coro",
+      "cuisine": "Contemporary, Creative",
+      "price": "€€€",
+      "path": "/italy/orvieto/orvieto/coro"
+    },
+    {
+      "name": "I Sette Consoli",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/italy/orvieto/orvieto/i-sette-consoli"
+    },
+    {
+      "name": "La Palomba",
+      "cuisine": "Umbrian, Traditional Cuisine",
+      "price": "€",
+      "path": "/italy/orvieto/orvieto/la-palomba"
+    }
+  ]
+}

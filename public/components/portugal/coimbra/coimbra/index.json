@@ -1,0 +1,32 @@
+{
+  "title": "Coimbra",
+  "country": "portugal",
+  "region": "coimbra",
+  "city": "coimbra",
+  "restaurants": [
+    {
+      "name": "MA",
+      "cuisine": "Japanese",
+      "price": "€€€",
+      "path": "/portugal/coimbra/coimbra/ma"
+    },
+    {
+      "name": "O Palco",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/portugal/coimbra/coimbra/o-palco"
+    },
+    {
+      "name": "SAFRA_",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/portugal/coimbra/coimbra/safra_"
+    },
+    {
+      "name": "Solar do Bacalhau",
+      "cuisine": "Portuguese",
+      "price": "€",
+      "path": "/portugal/coimbra/coimbra/solar-do-bacalhau"
+    }
+  ]
+}

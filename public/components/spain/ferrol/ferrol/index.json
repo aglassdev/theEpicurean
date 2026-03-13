@@ -1,0 +1,32 @@
+{
+  "title": "Ferrol",
+  "country": "spain",
+  "region": "ferrol",
+  "city": "ferrol",
+  "restaurants": [
+    {
+      "name": "A Gabeira",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/ferrol/ferrol/a-gabeira"
+    },
+    {
+      "name": "BaceLo",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/ferrol/ferrol/bacelo"
+    },
+    {
+      "name": "Modesto",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/spain/ferrol/ferrol/modesto"
+    },
+    {
+      "name": "O Camiño do Inglés",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/ferrol/ferrol/o-camio-do-ingls"
+    }
+  ]
+}

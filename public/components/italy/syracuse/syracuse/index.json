@@ -1,0 +1,32 @@
+{
+  "title": "Syracuse",
+  "country": "italy",
+  "region": "syracuse",
+  "city": "syracuse",
+  "restaurants": [
+    {
+      "name": "Cortile Spirito Santo",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/syracuse/syracuse/cortile-spirito-santo"
+    },
+    {
+      "name": "Don Camillo",
+      "cuisine": "Sicilian, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/syracuse/syracuse/don-camillo"
+    },
+    {
+      "name": "Ostaria",
+      "cuisine": "Meats and Grills, Sicilian",
+      "price": "€€€",
+      "path": "/italy/syracuse/syracuse/ostaria"
+    },
+    {
+      "name": "Regina Lucia",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/syracuse/syracuse/regina-lucia"
+    }
+  ]
+}

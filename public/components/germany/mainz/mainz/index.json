@@ -1,0 +1,32 @@
+{
+  "title": "Mainz",
+  "country": "germany",
+  "region": "mainz",
+  "city": "mainz",
+  "restaurants": [
+    {
+      "name": "FAVORITE restaurant",
+      "cuisine": "Modern French, Creative",
+      "price": "€€€€",
+      "path": "/germany/mainz/mainz/favorite-restaurant"
+    },
+    {
+      "name": "Geberts Weinstuben",
+      "cuisine": "Classic Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/germany/mainz/mainz/geberts-weinstuben"
+    },
+    {
+      "name": "Steins Traube",
+      "cuisine": "Farm to table, Classic Cuisine",
+      "price": "€€€",
+      "path": "/germany/mainz/mainz/steins-traube"
+    },
+    {
+      "name": "sushi Lounge",
+      "cuisine": "Sushi",
+      "price": "€€€",
+      "path": "/germany/mainz/mainz/sushi-lounge"
+    }
+  ]
+}

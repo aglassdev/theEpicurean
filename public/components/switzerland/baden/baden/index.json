@@ -1,0 +1,20 @@
+{
+  "title": "Baden",
+  "country": "switzerland",
+  "region": "baden",
+  "city": "baden",
+  "restaurants": [
+    {
+      "name": "Paradies",
+      "cuisine": "Seasonal Cuisine, Regional Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/baden/baden/paradies"
+    },
+    {
+      "name": "Pinte",
+      "cuisine": "Classic Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/switzerland/baden/baden/pinte"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Trier",
+  "country": "germany",
+  "region": "trier",
+  "city": "trier",
+  "restaurants": [
+    {
+      "name": "Bagatelle",
+      "cuisine": "French Contemporary, Creative",
+      "price": "€€€",
+      "path": "/germany/trier/trier/bagatelle"
+    },
+    {
+      "name": "BECKER'S",
+      "cuisine": "Creative, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/trier/trier/beckers"
+    },
+    {
+      "name": "BECKER'S Weinhaus",
+      "cuisine": "Classic Cuisine, International",
+      "price": "€€",
+      "path": "/germany/trier/trier/beckers-weinhaus"
+    },
+    {
+      "name": "Gastraum",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/germany/trier/trier/gastraum"
+    },
+    {
+      "name": "Schloss Monaise",
+      "cuisine": "Classic French",
+      "price": "€€€",
+      "path": "/germany/trier/trier/schloss-monaise"
+    }
+  ]
+}

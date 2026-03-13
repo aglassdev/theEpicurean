@@ -1,0 +1,20 @@
+{
+  "title": "Brantme",
+  "country": "france",
+  "region": "brantme",
+  "city": "brantme",
+  "restaurants": [
+    {
+      "name": "Charbonnel",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/brantme/brantme/charbonnel"
+    },
+    {
+      "name": "Le Moulin de l'Abbaye",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/brantme/brantme/le-moulin-de-labbaye"
+    }
+  ]
+}

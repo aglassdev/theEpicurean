@@ -1,0 +1,26 @@
+{
+  "title": "Bled",
+  "country": "slovenia",
+  "region": "bled",
+  "city": "bled",
+  "restaurants": [
+    {
+      "name": "Julijana",
+      "cuisine": "International",
+      "price": "€€€",
+      "path": "/slovenia/bled/bled/julijana"
+    },
+    {
+      "name": "Old Cellar Bled",
+      "cuisine": "Regional Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/slovenia/bled/bled/old-cellar-bled"
+    },
+    {
+      "name": "Restavracija 1906",
+      "cuisine": "Contemporary, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/slovenia/bled/bled/restavracija-1906"
+    }
+  ]
+}

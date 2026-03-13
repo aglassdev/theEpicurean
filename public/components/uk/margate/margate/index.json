@@ -1,0 +1,32 @@
+{
+  "title": "Margate",
+  "country": "uk",
+  "region": "margate",
+  "city": "margate",
+  "restaurants": [
+    {
+      "name": "Angela's",
+      "cuisine": "Seafood",
+      "price": "££",
+      "path": "/uk/margate/margate/angelas"
+    },
+    {
+      "name": "Bottega Caruso",
+      "cuisine": "Italian",
+      "price": "££",
+      "path": "/uk/margate/margate/bottega-caruso"
+    },
+    {
+      "name": "Sargasso",
+      "cuisine": "Modern Cuisine",
+      "price": "££",
+      "path": "/uk/margate/margate/sargasso"
+    },
+    {
+      "name": "Sète",
+      "cuisine": "Modern British",
+      "price": "££",
+      "path": "/uk/margate/margate/ste"
+    }
+  ]
+}

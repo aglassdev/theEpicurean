@@ -1,0 +1,20 @@
+{
+  "title": "Ashburton",
+  "country": "uk",
+  "region": "ashburton",
+  "city": "ashburton",
+  "restaurants": [
+    {
+      "name": "Emilia",
+      "cuisine": "Italian",
+      "price": "££",
+      "path": "/uk/ashburton/ashburton/emilia"
+    },
+    {
+      "name": "Le Vin Perdu",
+      "cuisine": "French",
+      "price": "££",
+      "path": "/uk/ashburton/ashburton/le-vin-perdu"
+    }
+  ]
+}

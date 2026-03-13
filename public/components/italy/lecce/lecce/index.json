@@ -1,0 +1,26 @@
+{
+  "title": "Lecce",
+  "country": "italy",
+  "region": "lecce",
+  "city": "lecce",
+  "restaurants": [
+    {
+      "name": "Duo Ristorante",
+      "cuisine": "Contemporary, Creative",
+      "price": "€€€",
+      "path": "/italy/lecce/lecce/duo-ristorante"
+    },
+    {
+      "name": "Gimmi Restaurant",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/italy/lecce/lecce/gimmi-restaurant"
+    },
+    {
+      "name": "Primo Restaurant",
+      "cuisine": "Mediterranean Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/lecce/lecce/primo-restaurant"
+    }
+  ]
+}

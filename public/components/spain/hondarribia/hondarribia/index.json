@@ -1,0 +1,32 @@
+{
+  "title": "Hondarribia",
+  "country": "spain",
+  "region": "hondarribia",
+  "city": "hondarribia",
+  "restaurants": [
+    {
+      "name": "Alameda",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/hondarribia/hondarribia/alameda"
+    },
+    {
+      "name": "Gran Sol",
+      "cuisine": "Traditional Cuisine",
+      "price": "€",
+      "path": "/spain/hondarribia/hondarribia/gran-sol"
+    },
+    {
+      "name": "Laia Erretegia",
+      "cuisine": "Grills",
+      "price": "€€€",
+      "path": "/spain/hondarribia/hondarribia/laia-erretegia"
+    },
+    {
+      "name": "Sutan",
+      "cuisine": "Traditional Cuisine, Grills",
+      "price": "€€€",
+      "path": "/spain/hondarribia/hondarribia/sutan"
+    }
+  ]
+}

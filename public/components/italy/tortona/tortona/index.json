@@ -1,0 +1,26 @@
+{
+  "title": "Tortona",
+  "country": "italy",
+  "region": "tortona",
+  "city": "tortona",
+  "restaurants": [
+    {
+      "name": "Cavallino",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/tortona/tortona/cavallino"
+    },
+    {
+      "name": "Osteria Billis",
+      "cuisine": "Contemporary, Regional Cuisine",
+      "price": "€€€",
+      "path": "/italy/tortona/tortona/osteria-billis"
+    },
+    {
+      "name": "Vineria Derthona",
+      "cuisine": "Piedmontese, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/tortona/tortona/vineria-derthona"
+    }
+  ]
+}

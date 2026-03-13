@@ -1,0 +1,38 @@
+{
+  "title": "El Porvenir",
+  "country": "mexico",
+  "region": "el-porvenir",
+  "city": "el-porvenir",
+  "restaurants": [
+    {
+      "name": "Corazón D'Petra",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/mexico/el-porvenir/el-porvenir/corazn-dpetra"
+    },
+    {
+      "name": "Envero en el Valle",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/el-porvenir/el-porvenir/envero-en-el-valle"
+    },
+    {
+      "name": "La Cocina de Doña Esthela",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/mexico/el-porvenir/el-porvenir/la-cocina-de-doa-esthela"
+    },
+    {
+      "name": "Latitud 32",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/mexico/el-porvenir/el-porvenir/latitud-32"
+    },
+    {
+      "name": "Lunario",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$$",
+      "path": "/mexico/el-porvenir/el-porvenir/lunario"
+    }
+  ]
+}

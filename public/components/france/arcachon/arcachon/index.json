@@ -1,0 +1,32 @@
+{
+  "title": "Arcachon",
+  "country": "france",
+  "region": "arcachon",
+  "city": "arcachon",
+  "restaurants": [
+    {
+      "name": "Acacia",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/arcachon/arcachon/acacia"
+    },
+    {
+      "name": "Fleur des Pins",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/arcachon/arcachon/fleur-des-pins"
+    },
+    {
+      "name": "Ko-sometsuke 2K",
+      "cuisine": "Asian",
+      "price": "€€",
+      "path": "/france/arcachon/arcachon/ko-sometsuke-2k"
+    },
+    {
+      "name": "Le Patio",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/arcachon/arcachon/le-patio"
+    }
+  ]
+}

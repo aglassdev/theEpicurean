@@ -1,0 +1,32 @@
+{
+  "title": "Dartmouth",
+  "country": "uk",
+  "region": "dartmouth",
+  "city": "dartmouth",
+  "restaurants": [
+    {
+      "name": "Andria",
+      "cuisine": "Modern Cuisine, European",
+      "price": "££",
+      "path": "/uk/dartmouth/dartmouth/andria"
+    },
+    {
+      "name": "Seahorse",
+      "cuisine": "Seafood",
+      "price": "£££",
+      "path": "/uk/dartmouth/dartmouth/seahorse"
+    },
+    {
+      "name": "The Angel",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/dartmouth/dartmouth/the-angel"
+    },
+    {
+      "name": "The Seahorse",
+      "cuisine": "Seafood",
+      "price": "£££",
+      "path": "/uk/dartmouth/dartmouth/the-seahorse"
+    }
+  ]
+}

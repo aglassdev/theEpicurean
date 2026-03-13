@@ -1,0 +1,818 @@
+{
+  "title": "Copenhagen",
+  "country": "denmark",
+  "region": "copenhagen",
+  "city": "copenhagen",
+  "restaurants": [
+    {
+      "name": "Aamanns 1921",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/aamanns-1921"
+    },
+    {
+      "name": "Abigail & Co",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/abigail-co"
+    },
+    {
+      "name": "Admiralgade 26",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/admiralgade-26"
+    },
+    {
+      "name": "akmē",
+      "cuisine": "Fusion, Japanese Contemporary",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/akm"
+    },
+    {
+      "name": "Alchemist",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/alchemist"
+    },
+    {
+      "name": "Alouette",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/alouette"
+    },
+    {
+      "name": "Amalie",
+      "cuisine": "Traditional Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/amalie"
+    },
+    {
+      "name": "Anarki",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/anarki"
+    },
+    {
+      "name": "a|o|c",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/aoc"
+    },
+    {
+      "name": "Ark",
+      "cuisine": "Vegan",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/ark"
+    },
+    {
+      "name": "Aure",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/aure"
+    },
+    {
+      "name": "Barr",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/barr"
+    },
+    {
+      "name": "Bistro Lupa",
+      "cuisine": "Vegan",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/bistro-lupa"
+    },
+    {
+      "name": "Bjørnekælderen",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/bjrneklderen"
+    },
+    {
+      "name": "Bobe",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/bobe"
+    },
+    {
+      "name": "Calma",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/calma"
+    },
+    {
+      "name": "démodé",
+      "cuisine": "French",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/dmod"
+    },
+    {
+      "name": "Enomania",
+      "cuisine": "Italian",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/enomania"
+    },
+    {
+      "name": "Fasangården",
+      "cuisine": "Danish",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/fasangrden"
+    },
+    {
+      "name": "formel B",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/formel-b"
+    },
+    {
+      "name": "Gabrielle",
+      "cuisine": "French",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/gabrielle"
+    },
+    {
+      "name": "Geranium",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/geranium"
+    },
+    {
+      "name": "Høst",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/hst"
+    },
+    {
+      "name": "Jatak",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/jatak"
+    },
+    {
+      "name": "Kadeau Copenhagen",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/kadeau-copenhagen"
+    },
+    {
+      "name": "Kanalen",
+      "cuisine": "Danish, Seasonal Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/kanalen"
+    },
+    {
+      "name": "Kappo Andō",
+      "cuisine": "Japanese",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/kappo-and"
+    },
+    {
+      "name": "Kødbyens Fiskebar",
+      "cuisine": "Seafood",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/kdbyens-fiskebar"
+    },
+    {
+      "name": "Kiin Kiin",
+      "cuisine": "Thai, Contemporary",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/kiin-kiin"
+    },
+    {
+      "name": "Kiin Kiin VeVe",
+      "cuisine": "Vegetarian, Creative",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/kiin-kiin-veve"
+    },
+    {
+      "name": "Koan",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/koan"
+    },
+    {
+      "name": "Koefoed",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/koefoed"
+    },
+    {
+      "name": "Kong Hans Kælder",
+      "cuisine": "Modern French, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/kong-hans-klder"
+    },
+    {
+      "name": "Levi",
+      "cuisine": "Italian and Japanese",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/levi"
+    },
+    {
+      "name": "Marchal",
+      "cuisine": "Modern Cuisine, French Contemporary",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/marchal"
+    },
+    {
+      "name": "Mark",
+      "cuisine": "Danish, Country cooking",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/mark"
+    },
+    {
+      "name": "Marv & Ben",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/marv-ben"
+    },
+    {
+      "name": "Mielcke & Hurtigkarl",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/mielcke-hurtigkarl"
+    },
+    {
+      "name": "Mêlée",
+      "cuisine": "French",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/mle"
+    },
+    {
+      "name": "Møntergade",
+      "cuisine": "Smørrebrød",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/mntergade"
+    },
+    {
+      "name": "no.2",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/no2"
+    },
+    {
+      "name": "Norrlyst",
+      "cuisine": "Danish",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/norrlyst"
+    },
+    {
+      "name": "Paesàno",
+      "cuisine": "Italian",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/paesno"
+    },
+    {
+      "name": "Pluto",
+      "cuisine": "Classic Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/pluto"
+    },
+    {
+      "name": "Aamanns 1921",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/aamanns-1921"
+    },
+    {
+      "name": "Abigail & Co",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/abigail-co"
+    },
+    {
+      "name": "Radio",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/radio"
+    },
+    {
+      "name": "Admiralgade 26",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/admiralgade-26"
+    },
+    {
+      "name": "akmē",
+      "cuisine": "Fusion, Japanese Contemporary",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/akm"
+    },
+    {
+      "name": "Alchemist",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/alchemist"
+    },
+    {
+      "name": "Alouette",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/alouette"
+    },
+    {
+      "name": "Amalie",
+      "cuisine": "Traditional Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/amalie"
+    },
+    {
+      "name": "Anarki",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/anarki"
+    },
+    {
+      "name": "a|o|c",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/aoc"
+    },
+    {
+      "name": "Ark",
+      "cuisine": "Vegan",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/ark"
+    },
+    {
+      "name": "Aure",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/aure"
+    },
+    {
+      "name": "Barr",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/barr"
+    },
+    {
+      "name": "Bistro Lupa",
+      "cuisine": "Vegan",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/bistro-lupa"
+    },
+    {
+      "name": "Bjørnekælderen",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/bjrneklderen"
+    },
+    {
+      "name": "Bobe",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/bobe"
+    },
+    {
+      "name": "Calma",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/calma"
+    },
+    {
+      "name": "démodé",
+      "cuisine": "French",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/dmod"
+    },
+    {
+      "name": "Rebel",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/rebel"
+    },
+    {
+      "name": "Enomania",
+      "cuisine": "Italian",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/enomania"
+    },
+    {
+      "name": "Restaurant Anton",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-anton"
+    },
+    {
+      "name": "Restaurant Frank",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-frank"
+    },
+    {
+      "name": "Restaurant Glassalen",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-glassalen"
+    },
+    {
+      "name": "Restaurant Kanalen",
+      "cuisine": "Danish, Seasonal Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-kanalen"
+    },
+    {
+      "name": "Restaurant Palægade",
+      "cuisine": "Smørrebrød, Danish",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-palgade"
+    },
+    {
+      "name": "Restaurant VIE",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-vie"
+    },
+    {
+      "name": "Fasangården",
+      "cuisine": "Danish",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/fasangrden"
+    },
+    {
+      "name": "formel B",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/formel-b"
+    },
+    {
+      "name": "Gabrielle",
+      "cuisine": "French",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/gabrielle"
+    },
+    {
+      "name": "Geranium",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/geranium"
+    },
+    {
+      "name": "Høst",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/hst"
+    },
+    {
+      "name": "Jatak",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/jatak"
+    },
+    {
+      "name": "Kadeau Copenhagen",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/kadeau-copenhagen"
+    },
+    {
+      "name": "Kanalen",
+      "cuisine": "Danish, Seasonal Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/kanalen"
+    },
+    {
+      "name": "Kappo Andō",
+      "cuisine": "Japanese",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/kappo-and"
+    },
+    {
+      "name": "Kødbyens Fiskebar",
+      "cuisine": "Seafood",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/kdbyens-fiskebar"
+    },
+    {
+      "name": "Kiin Kiin",
+      "cuisine": "Thai, Contemporary",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/kiin-kiin"
+    },
+    {
+      "name": "Kiin Kiin VeVe",
+      "cuisine": "Vegetarian, Creative",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/kiin-kiin-veve"
+    },
+    {
+      "name": "Koan",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/koan"
+    },
+    {
+      "name": "Koefoed",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/koefoed"
+    },
+    {
+      "name": "Kong Hans Kælder",
+      "cuisine": "Modern French, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/kong-hans-klder"
+    },
+    {
+      "name": "Levi",
+      "cuisine": "Italian and Japanese",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/levi"
+    },
+    {
+      "name": "Marchal",
+      "cuisine": "Modern Cuisine, French Contemporary",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/marchal"
+    },
+    {
+      "name": "Mark",
+      "cuisine": "Danish, Country cooking",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/mark"
+    },
+    {
+      "name": "Marv & Ben",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/marv-ben"
+    },
+    {
+      "name": "Mielcke & Hurtigkarl",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/mielcke-hurtigkarl"
+    },
+    {
+      "name": "Mêlée",
+      "cuisine": "French",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/mle"
+    },
+    {
+      "name": "Møntergade",
+      "cuisine": "Smørrebrød",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/mntergade"
+    },
+    {
+      "name": "no.2",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/no2"
+    },
+    {
+      "name": "noma",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/noma"
+    },
+    {
+      "name": "Norrlyst",
+      "cuisine": "Danish",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/norrlyst"
+    },
+    {
+      "name": "Paesàno",
+      "cuisine": "Italian",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/paesno"
+    },
+    {
+      "name": "Pluto",
+      "cuisine": "Classic Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/pluto"
+    },
+    {
+      "name": "Radio",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/radio"
+    },
+    {
+      "name": "Rebel",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/rebel"
+    },
+    {
+      "name": "Restaurant Anton",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-anton"
+    },
+    {
+      "name": "Restaurant Frank",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-frank"
+    },
+    {
+      "name": "Restaurant Glassalen",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-glassalen"
+    },
+    {
+      "name": "Restaurant Palægade",
+      "cuisine": "Smørrebrød, Danish",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-palgade"
+    },
+    {
+      "name": "Restaurant VIE",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-vie"
+    },
+    {
+      "name": "Sanchez",
+      "cuisine": "Mexican",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/sanchez"
+    },
+    {
+      "name": "Sankt Annæ",
+      "cuisine": "Smørrebrød",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/sankt-ann"
+    },
+    {
+      "name": "Selma",
+      "cuisine": "Smørrebrød, Seasonal Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/selma"
+    },
+    {
+      "name": "Silberbauers Bistro",
+      "cuisine": "French",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/silberbauers-bistro"
+    },
+    {
+      "name": "Søllerød Kro",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/sllerd-kro"
+    },
+    {
+      "name": "Sushi Anaba",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/sushi-anaba"
+    },
+    {
+      "name": "à terre",
+      "cuisine": "French",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/terre"
+    },
+    {
+      "name": "texture",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/texture"
+    },
+    {
+      "name": "Theo",
+      "cuisine": "Contemporary, European Contemporary",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/theo"
+    },
+    {
+      "name": "The Pescatarian",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/the-pescatarian"
+    },
+    {
+      "name": "Trio",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/trio"
+    },
+    {
+      "name": "Tèrra",
+      "cuisine": "Modern Cuisine, Organic",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/trra"
+    },
+    {
+      "name": "Udtryk",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/udtryk"
+    },
+    {
+      "name": "Uformel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/uformel"
+    },
+    {
+      "name": "Vækst",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/vkst"
+    },
+    {
+      "name": "Sanchez",
+      "cuisine": "Mexican",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/sanchez"
+    },
+    {
+      "name": "Sankt Annæ",
+      "cuisine": "Smørrebrød",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/sankt-ann"
+    },
+    {
+      "name": "Selma",
+      "cuisine": "Smørrebrød, Seasonal Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/selma"
+    },
+    {
+      "name": "Silberbauers Bistro",
+      "cuisine": "French",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/silberbauers-bistro"
+    },
+    {
+      "name": "Søllerød Kro",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/sllerd-kro"
+    },
+    {
+      "name": "Sushi Anaba",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/sushi-anaba"
+    },
+    {
+      "name": "à terre",
+      "cuisine": "French",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/terre"
+    },
+    {
+      "name": "à terre",
+      "cuisine": "French",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/terre"
+    },
+    {
+      "name": "texture",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/denmark/copenhagen/copenhagen/texture"
+    },
+    {
+      "name": "The Pescatarian",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/the-pescatarian"
+    },
+    {
+      "name": "Theo",
+      "cuisine": "Contemporary, European Contemporary",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/theo"
+    },
+    {
+      "name": "Trio",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/trio"
+    },
+    {
+      "name": "Tèrra",
+      "cuisine": "Modern Cuisine, Organic",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/trra"
+    },
+    {
+      "name": "Udtryk",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/denmark/copenhagen/copenhagen/udtryk"
+    },
+    {
+      "name": "Uformel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/denmark/copenhagen/copenhagen/uformel"
+    },
+    {
+      "name": "Vækst",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/denmark/copenhagen/copenhagen/vkst"
+    }
+  ]
+}

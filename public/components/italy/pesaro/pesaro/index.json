@@ -1,0 +1,32 @@
+{
+  "title": "Pesaro",
+  "country": "italy",
+  "region": "pesaro",
+  "city": "pesaro",
+  "restaurants": [
+    {
+      "name": "Gibas",
+      "cuisine": "Seafood, Italian",
+      "price": "€€",
+      "path": "/italy/pesaro/pesaro/gibas"
+    },
+    {
+      "name": "Lo Scudiero",
+      "cuisine": "Country cooking, Creative",
+      "price": "€€€",
+      "path": "/italy/pesaro/pesaro/lo-scudiero"
+    },
+    {
+      "name": "Marino",
+      "cuisine": "Contemporary, Fusion",
+      "price": "€€€",
+      "path": "/italy/pesaro/pesaro/marino"
+    },
+    {
+      "name": "Nostrano",
+      "cuisine": "Country cooking, Creative",
+      "price": "€€€",
+      "path": "/italy/pesaro/pesaro/nostrano"
+    }
+  ]
+}

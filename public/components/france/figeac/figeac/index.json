@@ -1,0 +1,26 @@
+{
+  "title": "Figeac",
+  "country": "france",
+  "region": "figeac",
+  "city": "figeac",
+  "restaurants": [
+    {
+      "name": "La Cuisine du Marché",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/figeac/figeac/la-cuisine-du-march"
+    },
+    {
+      "name": "La Dînée du Viguier",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/figeac/figeac/la-dne-du-viguier"
+    },
+    {
+      "name": "La Racine et la Moelle",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/figeac/figeac/la-racine-et-la-moelle"
+    }
+  ]
+}

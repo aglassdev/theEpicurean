@@ -1,0 +1,32 @@
+{
+  "title": "Vora",
+  "country": "portugal",
+  "region": "vora",
+  "city": "vora",
+  "restaurants": [
+    {
+      "name": "Cavalariça Évora",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/portugal/vora/vora/cavalaria-vora"
+    },
+    {
+      "name": "Dom Joaquim",
+      "cuisine": "Regional Cuisine",
+      "price": "€€",
+      "path": "/portugal/vora/vora/dom-joaquim"
+    },
+    {
+      "name": "Hibrido",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/portugal/vora/vora/hibrido"
+    },
+    {
+      "name": "Origens",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/portugal/vora/vora/origens"
+    }
+  ]
+}

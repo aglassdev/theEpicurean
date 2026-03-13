@@ -1,0 +1,26 @@
+{
+  "title": "Leibnitz",
+  "country": "austria",
+  "region": "leibnitz",
+  "city": "leibnitz",
+  "restaurants": [
+    {
+      "name": "Schlosskeller Gourmetstube",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/austria/leibnitz/leibnitz/schlosskeller-gourmetstube"
+    },
+    {
+      "name": "Schlosskeller Wirtshaus",
+      "cuisine": "Farm to table, Regional Cuisine",
+      "price": "€€",
+      "path": "/austria/leibnitz/leibnitz/schlosskeller-wirtshaus"
+    },
+    {
+      "name": "Wirtshaus Kogel 3",
+      "cuisine": "Farm to table, International",
+      "price": "€€",
+      "path": "/austria/leibnitz/leibnitz/wirtshaus-kogel-3"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Monza",
+  "country": "italy",
+  "region": "monza",
+  "city": "monza",
+  "restaurants": [
+    {
+      "name": "Derby Grill",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/monza/monza/derby-grill"
+    },
+    {
+      "name": "Il Circolino",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€",
+      "path": "/italy/monza/monza/il-circolino"
+    },
+    {
+      "name": "Punto G",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/italy/monza/monza/punto-g"
+    },
+    {
+      "name": "Saint Georges Premier",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/monza/monza/saint-georges-premier"
+    },
+    {
+      "name": "Silvestro",
+      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/italy/monza/monza/silvestro"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Osteria Francescana",
+  "address": "via Stella 22, Modena, 41121, Italy",
+  "cuisine": "Creative, Italian Contemporary",
+  "priceRange": "€€€€",
+  "phoneNumber": "+39059223912",
+  "website": "https://osteriafrancescana.it/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 3,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Upon arriving at Via Stella, the restaurant sheds many trappings and accolades in favor of a sober, contemporary elegance, highlighted by the impressive artworks that Massimo Bottura, a passionate collector, displays. This sense of understatement is also reflected in the cuisine, where greatness translates into restraint, control, and mastery, alongside a grand vision that starts from Modena and Emilia – featuring essentials such as Parmigiano Reggiano, balsamic vinegar, tagliatelle, and tortellini – and reaches international classics, which the chef playfully reinterprets to remind diners that food is not a boring ritual but fun, memory, and culture. The most innovative tasting menu, Miseria e Nobiltà, inspired by Eduardo De Filippo’s famous work, offers a journey through essential resour...",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=via%20Stella%2022%2C%20Modena%2C%2041121%2C%20Italy",
+  "pageTitle": "Osteria Francescana"
+}

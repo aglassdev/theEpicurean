@@ -1,0 +1,26 @@
+{
+  "title": "Ste",
+  "country": "france",
+  "region": "ste",
+  "city": "ste",
+  "restaurants": [
+    {
+      "name": "La Coquerie",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/ste/ste/la-coquerie"
+    },
+    {
+      "name": "Paris Méditerranée",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/ste/ste/paris-mditerrane"
+    },
+    {
+      "name": "Quai 17",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/france/ste/ste/quai-17"
+    }
+  ]
+}

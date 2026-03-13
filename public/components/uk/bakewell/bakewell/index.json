@@ -1,0 +1,20 @@
+{
+  "title": "Bakewell",
+  "country": "uk",
+  "region": "bakewell",
+  "city": "bakewell",
+  "restaurants": [
+    {
+      "name": "Lovage",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/bakewell/bakewell/lovage"
+    },
+    {
+      "name": "Lovage",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/bakewell/bakewell/lovage"
+    }
+  ]
+}

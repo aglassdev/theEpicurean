@@ -1,0 +1,26 @@
+{
+  "title": "Fontainebleau",
+  "country": "france",
+  "region": "fontainebleau",
+  "city": "fontainebleau",
+  "restaurants": [
+    {
+      "name": "Fuumi",
+      "cuisine": "Japanese",
+      "price": "€€",
+      "path": "/france/fontainebleau/fontainebleau/fuumi"
+    },
+    {
+      "name": "L'Axel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/fontainebleau/fontainebleau/laxel"
+    },
+    {
+      "name": "L'Orée des Sablons",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/fontainebleau/fontainebleau/lore-des-sablons"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Tijuana",
+  "country": "mexico",
+  "region": "tijuana",
+  "city": "tijuana",
+  "restaurants": [
+    {
+      "name": "Carmelita Molino y Cocina",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/mexico/tijuana/tijuana/carmelita-molino-y-cocina"
+    },
+    {
+      "name": "Mision 19",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/mexico/tijuana/tijuana/mision-19"
+    },
+    {
+      "name": "Oryx",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$",
+      "path": "/mexico/tijuana/tijuana/oryx"
+    },
+    {
+      "name": "Tacos El Franc",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/mexico/tijuana/tijuana/tacos-el-franc"
+    }
+  ]
+}

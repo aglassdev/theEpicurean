@@ -1,0 +1,32 @@
+{
+  "title": "Fribourg",
+  "country": "switzerland",
+  "region": "fribourg",
+  "city": "fribourg",
+  "restaurants": [
+    {
+      "name": "Des Trois Tours",
+      "cuisine": "French Contemporary, Innovative",
+      "price": "€€€€",
+      "path": "/switzerland/fribourg/fribourg/des-trois-tours"
+    },
+    {
+      "name": "La Cène",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/fribourg/fribourg/la-cne"
+    },
+    {
+      "name": "Le Pérolles",
+      "cuisine": "Classic French, Contemporary",
+      "price": "€€€€",
+      "path": "/switzerland/fribourg/fribourg/le-prolles"
+    },
+    {
+      "name": "Restaurant Hôtel de Ville",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/fribourg/fribourg/restaurant-htel-de-ville"
+    }
+  ]
+}

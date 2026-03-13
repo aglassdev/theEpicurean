@@ -1,0 +1,32 @@
+{
+  "title": "Weissensee",
+  "country": "austria",
+  "region": "weissensee",
+  "city": "weissensee",
+  "restaurants": [
+    {
+      "name": "Das Loewenzahn",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/austria/weissensee/weissensee/das-loewenzahn"
+    },
+    {
+      "name": "Die Forelle",
+      "cuisine": "Creative, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/austria/weissensee/weissensee/die-forelle"
+    },
+    {
+      "name": "Rouge Noir",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/austria/weissensee/weissensee/rouge-noir"
+    },
+    {
+      "name": "Wirtshaus by Stefan Glantschnig",
+      "cuisine": "Regional Cuisine",
+      "price": "€€",
+      "path": "/austria/weissensee/weissensee/wirtshaus-by-stefan-glantschnig"
+    }
+  ]
+}

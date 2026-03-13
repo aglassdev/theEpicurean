@@ -1,0 +1,20 @@
+{
+  "title": "Gorey",
+  "country": "uk",
+  "region": "gorey",
+  "city": "gorey",
+  "restaurants": [
+    {
+      "name": "Bass and Lobster",
+      "cuisine": "Traditional Cuisine",
+      "price": "££",
+      "path": "/uk/gorey/gorey/bass-and-lobster"
+    },
+    {
+      "name": "Sumas",
+      "cuisine": "Modern Cuisine",
+      "price": "£££",
+      "path": "/uk/gorey/gorey/sumas"
+    }
+  ]
+}

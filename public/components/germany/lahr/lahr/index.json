@@ -1,0 +1,26 @@
+{
+  "title": "Lahr",
+  "country": "germany",
+  "region": "lahr",
+  "city": "lahr",
+  "restaurants": [
+    {
+      "name": "Adler",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/germany/lahr/lahr/adler"
+    },
+    {
+      "name": "Fegers Grüner Baum",
+      "cuisine": "Country cooking, Traditional Cuisine",
+      "price": "€€",
+      "path": "/germany/lahr/lahr/fegers-grner-baum"
+    },
+    {
+      "name": "Gasthaus",
+      "cuisine": "Country cooking, Farm to table",
+      "price": "€€",
+      "path": "/germany/lahr/lahr/gasthaus"
+    }
+  ]
+}

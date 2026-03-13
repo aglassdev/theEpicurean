@@ -1,0 +1,26 @@
+{
+  "title": "Newbury",
+  "country": "uk",
+  "region": "newbury",
+  "city": "newbury",
+  "restaurants": [
+    {
+      "name": "Goat On The Roof",
+      "cuisine": "Regional Cuisine",
+      "price": "££",
+      "path": "/uk/newbury/newbury/goat-on-the-roof"
+    },
+    {
+      "name": "The Vineyard",
+      "cuisine": "Modern Cuisine",
+      "price": "£££",
+      "path": "/uk/newbury/newbury/the-vineyard"
+    },
+    {
+      "name": "The Woodspeen",
+      "cuisine": "Modern Cuisine",
+      "price": "£££",
+      "path": "/uk/newbury/newbury/the-woodspeen"
+    }
+  ]
+}

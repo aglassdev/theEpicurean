@@ -1,0 +1,20 @@
+{
+  "title": "Padrn",
+  "country": "spain",
+  "region": "padrn",
+  "city": "padrn",
+  "restaurants": [
+    {
+      "name": "Brandal",
+      "cuisine": "Galician",
+      "price": "€€€",
+      "path": "/spain/padrn/padrn/brandal"
+    },
+    {
+      "name": "O'Pazo",
+      "cuisine": "Grills",
+      "price": "€€€€",
+      "path": "/spain/padrn/padrn/opazo"
+    }
+  ]
+}

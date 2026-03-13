@@ -1,0 +1,26 @@
+{
+  "title": "Winterthur",
+  "country": "switzerland",
+  "region": "winterthur",
+  "city": "winterthur",
+  "restaurants": [
+    {
+      "name": "Menoir",
+      "cuisine": "Seasonal Cuisine, Classic French",
+      "price": "€€€",
+      "path": "/switzerland/winterthur/winterthur/menoir"
+    },
+    {
+      "name": "Rosa Pulver",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/winterthur/winterthur/rosa-pulver"
+    },
+    {
+      "name": "Trübli",
+      "cuisine": "Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/winterthur/winterthur/trbli"
+    }
+  ]
+}

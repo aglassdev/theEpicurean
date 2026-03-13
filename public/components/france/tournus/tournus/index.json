@@ -1,0 +1,38 @@
+{
+  "title": "Tournus",
+  "country": "france",
+  "region": "tournus",
+  "city": "tournus",
+  "restaurants": [
+    {
+      "name": "Aux Terrasses",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/tournus/tournus/aux-terrasses"
+    },
+    {
+      "name": "L'Écrin de Yohann Chapuis",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/tournus/tournus/lcrin-de-yohann-chapuis"
+    },
+    {
+      "name": "Le Bouchon Bourguignon",
+      "cuisine": "Regional Cuisine",
+      "price": "€€",
+      "path": "/france/tournus/tournus/le-bouchon-bourguignon"
+    },
+    {
+      "name": "Le Quai",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/tournus/tournus/le-quai"
+    },
+    {
+      "name": "Le Terminus",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/tournus/tournus/le-terminus"
+    }
+  ]
+}

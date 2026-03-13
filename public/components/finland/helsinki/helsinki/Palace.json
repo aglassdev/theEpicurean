@@ -1,0 +1,20 @@
+{
+  "restaurantName": "Palace",
+  "address": "Eteläranta 10, Helsinki, 00130, Finland",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€€€",
+  "phoneNumber": "+358505020718",
+  "website": "https://palacerestaurant.fi/",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 2,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Take in magical views over the harbour from the 10th floor of this modernist building, constructed in 1952 for the Olympic Games. Beautifully delicate modern dishes feature on a multi-course tasting menu packed with well-balanced flavours. These are presented both by the chefs and the top-notch serving team....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Etel%C3%A4ranta%2010%2C%20Helsinki%2C%2000130%2C%20Finland",
+  "pageTitle": "Palace"
+}

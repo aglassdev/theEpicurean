@@ -1,0 +1,20 @@
+{
+  "title": "Ascot",
+  "country": "uk",
+  "region": "ascot",
+  "city": "ascot",
+  "restaurants": [
+    {
+      "name": "Bluebells Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "££",
+      "path": "/uk/ascot/ascot/bluebells-restaurant"
+    },
+    {
+      "name": "Woven by Adam Smith",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/ascot/ascot/woven-by-adam-smith"
+    }
+  ]
+}

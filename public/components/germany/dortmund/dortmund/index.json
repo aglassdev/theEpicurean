@@ -1,0 +1,38 @@
+{
+  "title": "Dortmund",
+  "country": "germany",
+  "region": "dortmund",
+  "city": "dortmund",
+  "restaurants": [
+    {
+      "name": "La Cuisine Mario Kalweit",
+      "cuisine": "Classic French",
+      "price": "€€€",
+      "path": "/germany/dortmund/dortmund/la-cuisine-mario-kalweit"
+    },
+    {
+      "name": "SchwarzGold",
+      "cuisine": "Regional Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/dortmund/dortmund/schwarzgold"
+    },
+    {
+      "name": "The Stage",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/dortmund/dortmund/the-stage"
+    },
+    {
+      "name": "VIDA",
+      "cuisine": "Creative, International",
+      "price": "€€€",
+      "path": "/germany/dortmund/dortmund/vida"
+    },
+    {
+      "name": "Wibbelings Hof",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/germany/dortmund/dortmund/wibbelings-hof"
+    }
+  ]
+}

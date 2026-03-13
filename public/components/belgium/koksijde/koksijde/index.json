@@ -1,0 +1,32 @@
+{
+  "title": "Koksijde",
+  "country": "belgium",
+  "region": "koksijde",
+  "city": "koksijde",
+  "restaurants": [
+    {
+      "name": "De Huifkar",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/belgium/koksijde/koksijde/de-huifkar"
+    },
+    {
+      "name": "De Normandie",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/belgium/koksijde/koksijde/de-normandie"
+    },
+    {
+      "name": "Mondieu",
+      "cuisine": "Belgian, French",
+      "price": "€€€",
+      "path": "/belgium/koksijde/koksijde/mondieu"
+    },
+    {
+      "name": "Nils",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€",
+      "path": "/belgium/koksijde/koksijde/nils"
+    }
+  ]
+}

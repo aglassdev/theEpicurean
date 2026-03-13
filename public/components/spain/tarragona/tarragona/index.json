@@ -1,0 +1,26 @@
+{
+  "title": "Tarragona",
+  "country": "spain",
+  "region": "tarragona",
+  "city": "tarragona",
+  "restaurants": [
+    {
+      "name": "Barquet Tarragona",
+      "cuisine": "Regional Cuisine, Rice Dishes",
+      "price": "€€",
+      "path": "/spain/tarragona/tarragona/barquet-tarragona"
+    },
+    {
+      "name": "El Terrat",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/tarragona/tarragona/el-terrat"
+    },
+    {
+      "name": "La Xarxa",
+      "cuisine": "Rice Dishes, Contemporary",
+      "price": "€€",
+      "path": "/spain/tarragona/tarragona/la-xarxa"
+    }
+  ]
+}

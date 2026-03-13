@@ -1,0 +1,26 @@
+{
+  "title": "Olten",
+  "country": "switzerland",
+  "region": "olten",
+  "city": "olten",
+  "restaurants": [
+    {
+      "name": "National da Sergio",
+      "cuisine": "Italian, Classic Cuisine",
+      "price": "€€",
+      "path": "/switzerland/olten/olten/national-da-sergio"
+    },
+    {
+      "name": "Salmen",
+      "cuisine": "Classic Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/switzerland/olten/olten/salmen"
+    },
+    {
+      "name": "Verena",
+      "cuisine": "Contemporary, Farm to table",
+      "price": "€€€",
+      "path": "/switzerland/olten/olten/verena"
+    }
+  ]
+}

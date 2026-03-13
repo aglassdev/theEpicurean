@@ -1,0 +1,26 @@
+{
+  "title": "Le Mans",
+  "country": "france",
+  "region": "le-mans",
+  "city": "le-mans",
+  "restaurants": [
+    {
+      "name": "L'Auberge de Bagatelle",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/le-mans/le-mans/lauberge-de-bagatelle"
+    },
+    {
+      "name": "Le Grenier à Sel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/le-mans/le-mans/le-grenier-sel"
+    },
+    {
+      "name": "L'insouciant",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/le-mans/le-mans/linsouciant"
+    }
+  ]
+}

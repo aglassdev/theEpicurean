@@ -1,0 +1,20 @@
+{
+  "title": "Boylestone",
+  "country": "uk",
+  "region": "boylestone",
+  "city": "boylestone",
+  "restaurants": [
+    {
+      "name": "Lighthouse",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/boylestone/boylestone/lighthouse"
+    },
+    {
+      "name": "Lighthouse Restaurant",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/boylestone/boylestone/lighthouse-restaurant"
+    }
+  ]
+}

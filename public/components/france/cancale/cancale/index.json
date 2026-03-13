@@ -1,0 +1,44 @@
+{
+  "title": "Cancale",
+  "country": "france",
+  "region": "cancale",
+  "city": "cancale",
+  "restaurants": [
+    {
+      "name": "Breizh Café Cancale",
+      "cuisine": "Breton",
+      "price": "€€",
+      "path": "/france/cancale/cancale/breizh-caf-cancale"
+    },
+    {
+      "name": "Côté Mer",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/cancale/cancale/ct-mer"
+    },
+    {
+      "name": "La Table Breizh Café",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/cancale/cancale/la-table-breizh-caf"
+    },
+    {
+      "name": "Le Bistrot de Cancale",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/france/cancale/cancale/le-bistrot-de-cancale"
+    },
+    {
+      "name": "Le Bout du Quai",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/cancale/cancale/le-bout-du-quai"
+    },
+    {
+      "name": "L'Ormeau",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/france/cancale/cancale/lormeau"
+    }
+  ]
+}

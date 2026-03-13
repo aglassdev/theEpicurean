@@ -1,0 +1,50 @@
+{
+  "title": "Leon",
+  "country": "spain",
+  "region": "leon",
+  "city": "leon",
+  "restaurants": [
+    {
+      "name": "Becook",
+      "cuisine": "Fusion, Modern Cuisine",
+      "price": "€",
+      "path": "/spain/leon/leon/becook"
+    },
+    {
+      "name": "Carea Bistró",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/leon/leon/carea-bistr"
+    },
+    {
+      "name": "Cocinandos",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/leon/leon/cocinandos"
+    },
+    {
+      "name": "ConMimo",
+      "cuisine": "International, Contemporary",
+      "price": "€",
+      "path": "/spain/leon/leon/conmimo"
+    },
+    {
+      "name": "Kamín",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/leon/leon/kamn"
+    },
+    {
+      "name": "Marcela",
+      "cuisine": "Farm to table, Meats and Seafood",
+      "price": "€€",
+      "path": "/spain/leon/leon/marcela"
+    },
+    {
+      "name": "Pablo",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/leon/leon/pablo"
+    }
+  ]
+}

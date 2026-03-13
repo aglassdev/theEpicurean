@@ -1,0 +1,26 @@
+{
+  "title": "Norwich",
+  "country": "uk",
+  "region": "norwich",
+  "city": "norwich",
+  "restaurants": [
+    {
+      "name": "Bar Cerdita",
+      "cuisine": "Spanish",
+      "price": "££",
+      "path": "/uk/norwich/norwich/bar-cerdita"
+    },
+    {
+      "name": "Benedicts",
+      "cuisine": "Modern Cuisine",
+      "price": "£££",
+      "path": "/uk/norwich/norwich/benedicts"
+    },
+    {
+      "name": "Benoli",
+      "cuisine": "Italian",
+      "price": "££",
+      "path": "/uk/norwich/norwich/benoli"
+    }
+  ]
+}

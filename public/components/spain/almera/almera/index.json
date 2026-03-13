@@ -1,0 +1,38 @@
+{
+  "title": "Almera",
+  "country": "spain",
+  "region": "almera",
+  "city": "almera",
+  "restaurants": [
+    {
+      "name": "Asador Marino Tinta Negra",
+      "cuisine": "Grills",
+      "price": "€€",
+      "path": "/spain/almera/almera/asador-marino-tinta-negra"
+    },
+    {
+      "name": "Ginés Peregrín",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/almera/almera/gins-peregrn"
+    },
+    {
+      "name": "Tony García Espacio Gastronómico",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/almera/almera/tony-garca-espacio-gastronmico"
+    },
+    {
+      "name": "Travieso",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/spain/almera/almera/travieso"
+    },
+    {
+      "name": "VIVO Gourmet",
+      "cuisine": "Meats and Grills, Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/almera/almera/vivo-gourmet"
+    }
+  ]
+}

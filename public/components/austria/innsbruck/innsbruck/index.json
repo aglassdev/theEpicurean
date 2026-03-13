@@ -1,0 +1,32 @@
+{
+  "title": "Innsbruck",
+  "country": "austria",
+  "region": "innsbruck",
+  "city": "innsbruck",
+  "restaurants": [
+    {
+      "name": "Das Schindler",
+      "cuisine": "Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/austria/innsbruck/innsbruck/das-schindler"
+    },
+    {
+      "name": "lichtblick",
+      "cuisine": "International, Contemporary",
+      "price": "€€",
+      "path": "/austria/innsbruck/innsbruck/lichtblick"
+    },
+    {
+      "name": "Oniriq",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/austria/innsbruck/innsbruck/oniriq"
+    },
+    {
+      "name": "Sitzwohl",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/austria/innsbruck/innsbruck/sitzwohl"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Goult",
+  "country": "france",
+  "region": "goult",
+  "city": "goult",
+  "restaurants": [
+    {
+      "name": "La Bartavelle",
+      "cuisine": "Provençal",
+      "price": "€€",
+      "path": "/france/goult/goult/la-bartavelle"
+    },
+    {
+      "name": "Le Carillon",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/goult/goult/le-carillon"
+    }
+  ]
+}

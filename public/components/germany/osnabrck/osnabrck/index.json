@@ -1,0 +1,26 @@
+{
+  "title": "Osnabrck",
+  "country": "germany",
+  "region": "osnabrck",
+  "city": "osnabrck",
+  "restaurants": [
+    {
+      "name": "IKO",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/osnabrck/osnabrck/iko"
+    },
+    {
+      "name": "Kesselhaus",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/osnabrck/osnabrck/kesselhaus"
+    },
+    {
+      "name": "Wilde Triebe",
+      "cuisine": "Country cooking, Farm to table",
+      "price": "€€",
+      "path": "/germany/osnabrck/osnabrck/wilde-triebe"
+    }
+  ]
+}

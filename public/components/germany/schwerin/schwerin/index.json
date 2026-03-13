@@ -1,0 +1,38 @@
+{
+  "title": "Schwerin",
+  "country": "germany",
+  "region": "schwerin",
+  "city": "schwerin",
+  "restaurants": [
+    {
+      "name": "Cube by Mika",
+      "cuisine": "Izakaya, Sharing",
+      "price": "€€",
+      "path": "/germany/schwerin/schwerin/cube-by-mika"
+    },
+    {
+      "name": "Gourmetfabrik",
+      "cuisine": "International",
+      "price": "€€",
+      "path": "/germany/schwerin/schwerin/gourmetfabrik"
+    },
+    {
+      "name": "Gourmetrestaurant 1751",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/schwerin/schwerin/gourmetrestaurant-1751"
+    },
+    {
+      "name": "La Bouche et El Pato",
+      "cuisine": "International, Mediterranean Cuisine",
+      "price": "€",
+      "path": "/germany/schwerin/schwerin/la-bouche-et-el-pato"
+    },
+    {
+      "name": "Weinbistro George",
+      "cuisine": "Farm to table, Regional Cuisine",
+      "price": "€€",
+      "path": "/germany/schwerin/schwerin/weinbistro-george"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Vendme",
+  "country": "france",
+  "region": "vendme",
+  "city": "vendme",
+  "restaurants": [
+    {
+      "name": "Le Malu",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/vendme/vendme/le-malu"
+    },
+    {
+      "name": "Moris",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/vendme/vendme/moris"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Pietrasanta",
+  "country": "italy",
+  "region": "pietrasanta",
+  "city": "pietrasanta",
+  "restaurants": [
+    {
+      "name": "Filippo",
+      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/italy/pietrasanta/pietrasanta/filippo"
+    },
+    {
+      "name": "La Martinatica",
+      "cuisine": "Italian, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/pietrasanta/pietrasanta/la-martinatica"
+    },
+    {
+      "name": "Vesta Versilia",
+      "cuisine": "Seafood, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/italy/pietrasanta/pietrasanta/vesta-versilia"
+    }
+  ]
+}

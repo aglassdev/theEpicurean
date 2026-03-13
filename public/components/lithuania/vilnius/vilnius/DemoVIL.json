@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Demo",
+  "address": "T. Ševčenkos Gatvė 16A, Vilnius, 03111, Lithuania",
+  "cuisine": "Innovative",
+  "priceRange": "€€€€",
+  "phoneNumber": "+37066688668",
+  "website": "https://demoloftas.lt",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "This deliciously different eatery starts out as a café during the day and then morphs into a restaurant on certain evenings near the end of the week. The monochrome décor takes in black ash units, black candles and tiny black & white portraits on the walls – an echo of the equal measures of boldness and restraint in the cooking. Chef-Owner Tadas is wise beyond his years and looks at food in a different way to most. His two imaginative set menus create excitement at every course and are well-matched by interesting wine pairings. The suckling lamb is a highlight, as are desserts like kogel mogel....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=T.%20%C5%A0ev%C4%8Denkos%20Gatv%C4%97%2016A%2C%20Vilnius%2C%2003111%2C%20Lithuania",
+  "pageTitle": "Demo"
+}

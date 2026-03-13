@@ -1,0 +1,32 @@
+{
+  "title": "Broadway",
+  "country": "uk",
+  "region": "broadway",
+  "city": "broadway",
+  "restaurants": [
+    {
+      "name": "MO",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/broadway/broadway/mo"
+    },
+    {
+      "name": "MO",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/broadway/broadway/mo"
+    },
+    {
+      "name": "Moda",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/broadway/broadway/moda"
+    },
+    {
+      "name": "The Back Garden",
+      "cuisine": "Modern British",
+      "price": "££",
+      "path": "/uk/broadway/broadway/the-back-garden"
+    }
+  ]
+}

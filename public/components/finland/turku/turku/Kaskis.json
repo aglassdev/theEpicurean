@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Kaskis",
+  "address": "Kaskenkatu 6A, Turku, 20700, Finland",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€€€",
+  "phoneNumber": "+358447230200",
+  "website": "https://www.kaskis.fi",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Following the short walk up the hill, it’s time to sit back and enjoy the jovial atmosphere at this intimate restaurant. From the chefs preparing the dishes in front of your eyes to the sommelier’s well-selected pairings, everything runs like clockwork here. Chef Eric Mansikka’s surprise tasting menu features powerful flavours and colours, yet a delicate, very detailed touch, with the ingredients either foraged (such as the herbs, mushrooms and flowers) or sourced from local farmers, fishermen and hunters. In a fun touch, their empty beer bottles are blown into uniquely designed water glasses....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Kaskenkatu%206A%2C%20Turku%2C%2020700%2C%20Finland",
+  "pageTitle": "Kaskis"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Sal",
+  "country": "italy",
+  "region": "sal",
+  "city": "sal",
+  "restaurants": [
+    {
+      "name": "Felter alle Rose",
+      "cuisine": "Seasonal Cuisine",
+      "price": "€€",
+      "path": "/italy/sal/sal/felter-alle-rose"
+    },
+    {
+      "name": "QB DuePuntoZero",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/italy/sal/sal/qb-duepuntozero"
+    },
+    {
+      "name": "Villa Arcadio",
+      "cuisine": "Mediterranean Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/italy/sal/sal/villa-arcadio"
+    }
+  ]
+}

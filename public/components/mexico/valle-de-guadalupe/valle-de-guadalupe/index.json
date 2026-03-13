@@ -1,0 +1,50 @@
+{
+  "title": "Valle De Guadalupe",
+  "country": "mexico",
+  "region": "valle-de-guadalupe",
+  "city": "valle-de-guadalupe",
+  "restaurants": [
+    {
+      "name": "Animalón",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$$",
+      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/animaln"
+    },
+    {
+      "name": "Conchas de Piedra",
+      "cuisine": "Seafood, Mexican",
+      "price": "$$$",
+      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/conchas-de-piedra"
+    },
+    {
+      "name": "Damiana",
+      "cuisine": "Mexican, Fusion",
+      "price": "$$$$",
+      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/damiana"
+    },
+    {
+      "name": "Deckman's En El Mogor",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/deckmans-en-el-mogor"
+    },
+    {
+      "name": "Kous Kous",
+      "cuisine": "Moroccan",
+      "price": "$$",
+      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/kous-kous"
+    },
+    {
+      "name": "Primitivo",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/primitivo"
+    },
+    {
+      "name": "Taqueria La Principal",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/taqueria-la-principal"
+    }
+  ]
+}

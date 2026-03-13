@@ -1,0 +1,26 @@
+{
+  "title": "Propriano",
+  "country": "france",
+  "region": "propriano",
+  "city": "propriano",
+  "restaurants": [
+    {
+      "name": "Chez Parenti",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/france/propriano/propriano/chez-parenti"
+    },
+    {
+      "name": "Tempi Fà",
+      "cuisine": "Country cooking",
+      "price": "€€",
+      "path": "/france/propriano/propriano/tempi-f"
+    },
+    {
+      "name": "Terra Cotta",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/france/propriano/propriano/terra-cotta"
+    }
+  ]
+}

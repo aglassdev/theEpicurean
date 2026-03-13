@@ -1,0 +1,32 @@
+{
+  "title": "Etterbeek",
+  "country": "belgium",
+  "region": "etterbeek",
+  "city": "etterbeek",
+  "restaurants": [
+    {
+      "name": "Le Buone Maniere",
+      "cuisine": "Italian",
+      "price": "€€€€",
+      "path": "/belgium/etterbeek/etterbeek/le-buone-maniere"
+    },
+    {
+      "name": "Le Monde est Petit",
+      "cuisine": "Creative French",
+      "price": "€€€",
+      "path": "/belgium/etterbeek/etterbeek/le-monde-est-petit"
+    },
+    {
+      "name": "Origine",
+      "cuisine": "Modern French, World Cuisine",
+      "price": "€€",
+      "path": "/belgium/etterbeek/etterbeek/origine"
+    },
+    {
+      "name": "Stirwen",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/belgium/etterbeek/etterbeek/stirwen"
+    }
+  ]
+}

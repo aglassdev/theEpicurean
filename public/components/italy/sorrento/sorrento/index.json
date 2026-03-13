@@ -1,0 +1,44 @@
+{
+  "title": "Sorrento",
+  "country": "italy",
+  "region": "sorrento",
+  "city": "sorrento",
+  "restaurants": [
+    {
+      "name": "Da Bob Cook Fish",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/italy/sorrento/sorrento/da-bob-cook-fish"
+    },
+    {
+      "name": "Il Buco",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/sorrento/sorrento/il-buco"
+    },
+    {
+      "name": "Lorelei",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/italy/sorrento/sorrento/lorelei"
+    },
+    {
+      "name": "Soul & Fish",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/italy/sorrento/sorrento/soul-fish"
+    },
+    {
+      "name": "Terrazza Bosquet",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/italy/sorrento/sorrento/terrazza-bosquet"
+    },
+    {
+      "name": "Zest",
+      "cuisine": "Creative, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/italy/sorrento/sorrento/zest"
+    }
+  ]
+}

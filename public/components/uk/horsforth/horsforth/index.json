@@ -1,0 +1,20 @@
+{
+  "title": "Horsforth",
+  "country": "uk",
+  "region": "horsforth",
+  "city": "horsforth",
+  "restaurants": [
+    {
+      "name": "Bavette",
+      "cuisine": "French",
+      "price": "££",
+      "path": "/uk/horsforth/horsforth/bavette"
+    },
+    {
+      "name": "Forde",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "£",
+      "path": "/uk/horsforth/horsforth/forde"
+    }
+  ]
+}

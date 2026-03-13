@@ -1,0 +1,38 @@
+{
+  "title": "Paestum",
+  "country": "italy",
+  "region": "paestum",
+  "city": "paestum",
+  "restaurants": [
+    {
+      "name": "Casa Coloni",
+      "cuisine": "Contemporary, Campanian",
+      "price": "€€€",
+      "path": "/italy/paestum/paestum/casa-coloni"
+    },
+    {
+      "name": "Da Nonna Sceppa",
+      "cuisine": "Campanian, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/paestum/paestum/da-nonna-sceppa"
+    },
+    {
+      "name": "Le Trabe",
+      "cuisine": "Campanian, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/paestum/paestum/le-trabe"
+    },
+    {
+      "name": "Osteria Arbustico",
+      "cuisine": "Modern Cuisine, Campanian",
+      "price": "€€€",
+      "path": "/italy/paestum/paestum/osteria-arbustico"
+    },
+    {
+      "name": "Tre Olivi",
+      "cuisine": "Creative, Campanian",
+      "price": "€€€€",
+      "path": "/italy/paestum/paestum/tre-olivi"
+    }
+  ]
+}

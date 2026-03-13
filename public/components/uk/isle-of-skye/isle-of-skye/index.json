@@ -1,0 +1,38 @@
+{
+  "title": "Isle Of Skye",
+  "country": "uk",
+  "region": "isle-of-skye",
+  "city": "isle-of-skye",
+  "restaurants": [
+    {
+      "name": "Edinbane Lodge",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/isle-of-skye/isle-of-skye/edinbane-lodge"
+    },
+    {
+      "name": "Loch Bay",
+      "cuisine": "Modern Cuisine, Seafood",
+      "price": "££££",
+      "path": "/uk/isle-of-skye/isle-of-skye/loch-bay"
+    },
+    {
+      "name": "Scorrybreac",
+      "cuisine": "Modern Cuisine",
+      "price": "£££",
+      "path": "/uk/isle-of-skye/isle-of-skye/scorrybreac"
+    },
+    {
+      "name": "The Three Chimneys at Talisker",
+      "cuisine": "Modern Cuisine",
+      "price": "££",
+      "path": "/uk/isle-of-skye/isle-of-skye/the-three-chimneys-at-talisker"
+    },
+    {
+      "name": "Three Chimneys & The House Over-By",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/isle-of-skye/isle-of-skye/three-chimneys-the-house-over-by"
+    }
+  ]
+}

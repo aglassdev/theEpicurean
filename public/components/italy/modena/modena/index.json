@@ -1,0 +1,56 @@
+{
+  "title": "Modena",
+  "country": "italy",
+  "region": "modena",
+  "city": "modena",
+  "restaurants": [
+    {
+      "name": "Al Gatto Verde",
+      "cuisine": "Contemporary, Creative",
+      "price": "€€€€",
+      "path": "/italy/modena/modena/al-gatto-verde"
+    },
+    {
+      "name": "Antica Moka",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/modena/modena/antica-moka"
+    },
+    {
+      "name": "Franceschetta 58",
+      "cuisine": "Emilian, Regional Cuisine",
+      "price": "€€",
+      "path": "/italy/modena/modena/franceschetta-58"
+    },
+    {
+      "name": "Hosteria Giusti",
+      "cuisine": "Emilian",
+      "price": "€€€",
+      "path": "/italy/modena/modena/hosteria-giusti"
+    },
+    {
+      "name": "La Masseria",
+      "cuisine": "Apulian, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/modena/modena/la-masseria"
+    },
+    {
+      "name": "L'Erba del Re",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/modena/modena/lerba-del-re"
+    },
+    {
+      "name": "Osteria Francescana",
+      "cuisine": "Creative, Italian Contemporary",
+      "price": "€€€€",
+      "path": "/italy/modena/modena/osteria-francescana"
+    },
+    {
+      "name": "Trattoria Pomposa - Al Re gras",
+      "cuisine": "Emilian, Country cooking",
+      "price": "€",
+      "path": "/italy/modena/modena/trattoria-pomposa-al-re-gras"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Tours",
+  "country": "france",
+  "region": "tours",
+  "city": "tours",
+  "restaurants": [
+    {
+      "name": "Case.",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/tours/tours/case"
+    },
+    {
+      "name": "Casse-Cailloux",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/tours/tours/casse-cailloux"
+    },
+    {
+      "name": "La Deuvalière",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/tours/tours/la-deuvalire"
+    },
+    {
+      "name": "La Rissole",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/tours/tours/la-rissole"
+    },
+    {
+      "name": "La Roche Le Roy",
+      "cuisine": "Modern Cuisine, Classic Cuisine",
+      "price": "€€€",
+      "path": "/france/tours/tours/la-roche-le-roy"
+    },
+    {
+      "name": "Les Bartavelles",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/tours/tours/les-bartavelles"
+    },
+    {
+      "name": "Nobuki",
+      "cuisine": "Japanese",
+      "price": "€€",
+      "path": "/france/tours/tours/nobuki"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Pals",
+  "country": "spain",
+  "region": "pals",
+  "city": "pals",
+  "restaurants": [
+    {
+      "name": "Es Portal",
+      "cuisine": "Catalan, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/spain/pals/pals/es-portal"
+    },
+    {
+      "name": "Pahissa del Mas ...",
+      "cuisine": "Seasonal Cuisine, Rice Dishes",
+      "price": "€€€",
+      "path": "/spain/pals/pals/pahissa-del-mas"
+    },
+    {
+      "name": "Sol Blanc",
+      "cuisine": "Catalan, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/spain/pals/pals/sol-blanc"
+    },
+    {
+      "name": "Vicus",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/spain/pals/pals/vicus"
+    }
+  ]
+}

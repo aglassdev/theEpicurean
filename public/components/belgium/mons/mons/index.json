@@ -1,0 +1,38 @@
+{
+  "title": "Mons",
+  "country": "belgium",
+  "region": "mons",
+  "city": "mons",
+  "restaurants": [
+    {
+      "name": "La Maadeleine by Benoît Neusy",
+      "cuisine": "Modern Cuisine, Seafood",
+      "price": "€€€",
+      "path": "/belgium/mons/mons/la-maadeleine-by-benot-neusy"
+    },
+    {
+      "name": "La Table du Boucher",
+      "cuisine": "Meats and Grills, Classic French",
+      "price": "€€",
+      "path": "/belgium/mons/mons/la-table-du-boucher"
+    },
+    {
+      "name": "Les Gribaumonts",
+      "cuisine": "Creative French, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/belgium/mons/mons/les-gribaumonts"
+    },
+    {
+      "name": "Masu",
+      "cuisine": "Seasonal Cuisine, World Cuisine",
+      "price": "€€",
+      "path": "/belgium/mons/mons/masu"
+    },
+    {
+      "name": "Origines",
+      "cuisine": "Farm to table, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/belgium/mons/mons/origines"
+    }
+  ]
+}

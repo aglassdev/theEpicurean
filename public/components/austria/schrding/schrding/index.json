@@ -1,0 +1,26 @@
+{
+  "title": "Schrding",
+  "country": "austria",
+  "region": "schrding",
+  "city": "schrding",
+  "restaurants": [
+    {
+      "name": "Lukas Izakaya",
+      "cuisine": "Asian Contemporary, Contemporary",
+      "price": "€€",
+      "path": "/austria/schrding/schrding/lukas-izakaya"
+    },
+    {
+      "name": "Lukas Restaurant",
+      "cuisine": "Creative, Asian Influences",
+      "price": "€€€€",
+      "path": "/austria/schrding/schrding/lukas-restaurant"
+    },
+    {
+      "name": "Lukas Steak",
+      "cuisine": "Meats and Grills, International",
+      "price": "€€€",
+      "path": "/austria/schrding/schrding/lukas-steak"
+    }
+  ]
+}

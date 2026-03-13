@@ -1,0 +1,26 @@
+{
+  "title": "Le Touquet Paris Plage",
+  "country": "france",
+  "region": "le-touquet-paris-plage",
+  "city": "le-touquet-paris-plage",
+  "restaurants": [
+    {
+      "name": "Le Mezquité",
+      "cuisine": "Fusion, Mexican",
+      "price": "€€",
+      "path": "/france/le-touquet-paris-plage/le-touquet-paris-plage/le-mezquit"
+    },
+    {
+      "name": "Le Paris",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/le-touquet-paris-plage/le-touquet-paris-plage/le-paris"
+    },
+    {
+      "name": "Le Pavillon - Hôtel Westminster",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/le-touquet-paris-plage/le-touquet-paris-plage/le-pavillon-htel-westminster"
+    }
+  ]
+}

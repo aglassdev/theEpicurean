@@ -1,0 +1,26 @@
+{
+  "title": "Gordes",
+  "country": "france",
+  "region": "gordes",
+  "city": "gordes",
+  "restaurants": [
+    {
+      "name": "La Table de la Bastide",
+      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/gordes/gordes/la-table-de-la-bastide"
+    },
+    {
+      "name": "Le Mas - Alexis Osmont",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/france/gordes/gordes/le-mas-alexis-osmont"
+    },
+    {
+      "name": "Les Bories",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/gordes/gordes/les-bories"
+    }
+  ]
+}

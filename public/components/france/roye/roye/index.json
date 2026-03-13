@@ -1,0 +1,20 @@
+{
+  "title": "Roye",
+  "country": "france",
+  "region": "roye",
+  "city": "roye",
+  "restaurants": [
+    {
+      "name": "La Flamiche",
+      "cuisine": "Classic Cuisine",
+      "price": "€€",
+      "path": "/france/roye/roye/la-flamiche"
+    },
+    {
+      "name": "Le Saisonnier",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/roye/roye/le-saisonnier"
+    }
+  ]
+}

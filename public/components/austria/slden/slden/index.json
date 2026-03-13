@@ -1,0 +1,32 @@
+{
+  "title": "Slden",
+  "country": "austria",
+  "region": "slden",
+  "city": "slden",
+  "restaurants": [
+    {
+      "name": "AD VINUM",
+      "cuisine": "Regional Cuisine",
+      "price": "€€€€",
+      "path": "/austria/slden/slden/ad-vinum"
+    },
+    {
+      "name": "Black Sheep",
+      "cuisine": "Regional Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/austria/slden/slden/black-sheep"
+    },
+    {
+      "name": "ice Q",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/austria/slden/slden/ice-q"
+    },
+    {
+      "name": "Ötztaler Stube",
+      "cuisine": "Modern Cuisine, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/austria/slden/slden/tztaler-stube"
+    }
+  ]
+}

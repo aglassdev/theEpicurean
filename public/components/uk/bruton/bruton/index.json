@@ -1,0 +1,32 @@
+{
+  "title": "Bruton",
+  "country": "uk",
+  "region": "bruton",
+  "city": "bruton",
+  "restaurants": [
+    {
+      "name": "Botanical Rooms",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/bruton/bruton/botanical-rooms"
+    },
+    {
+      "name": "Briar",
+      "cuisine": "Contemporary, Sharing",
+      "price": "££",
+      "path": "/uk/bruton/bruton/briar"
+    },
+    {
+      "name": "DA COSTA",
+      "cuisine": "Italian",
+      "price": "£££",
+      "path": "/uk/bruton/bruton/da-costa"
+    },
+    {
+      "name": "Osip",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/bruton/bruton/osip"
+    }
+  ]
+}

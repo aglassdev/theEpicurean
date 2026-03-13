@@ -1,0 +1,26 @@
+{
+  "title": "Chester",
+  "country": "uk",
+  "region": "chester",
+  "city": "chester",
+  "restaurants": [
+    {
+      "name": "Arkle",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/chester/chester/arkle"
+    },
+    {
+      "name": "Covino",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "££",
+      "path": "/uk/chester/chester/covino"
+    },
+    {
+      "name": "Upstairs at the Grill",
+      "cuisine": "Meats and Grills",
+      "price": "£££",
+      "path": "/uk/chester/chester/upstairs-at-the-grill"
+    }
+  ]
+}

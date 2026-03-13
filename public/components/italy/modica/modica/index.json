@@ -1,0 +1,32 @@
+{
+  "title": "Modica",
+  "country": "italy",
+  "region": "modica",
+  "city": "modica",
+  "restaurants": [
+    {
+      "name": "Dabbanna",
+      "cuisine": "Sicilian, Contemporary",
+      "price": "€€",
+      "path": "/italy/modica/modica/dabbanna"
+    },
+    {
+      "name": "Fattoria delle Torri",
+      "cuisine": "Sicilian, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/modica/modica/fattoria-delle-torri"
+    },
+    {
+      "name": "Lorenzo Ruta",
+      "cuisine": "Contemporary, Sicilian",
+      "price": "€€€",
+      "path": "/italy/modica/modica/lorenzo-ruta"
+    },
+    {
+      "name": "Radici",
+      "cuisine": "Sicilian, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/modica/modica/radici"
+    }
+  ]
+}

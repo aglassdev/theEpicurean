@@ -1,0 +1,26 @@
+{
+  "title": "Savona",
+  "country": "italy",
+  "region": "savona",
+  "city": "savona",
+  "restaurants": [
+    {
+      "name": "A Spurcacciun-a",
+      "cuisine": "Seafood, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/savona/savona/a-spurcacciun-a"
+    },
+    {
+      "name": "Bino",
+      "cuisine": "Country cooking, Contemporary",
+      "price": "€€",
+      "path": "/italy/savona/savona/bino"
+    },
+    {
+      "name": "Quintogusto",
+      "cuisine": "Contemporary, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/italy/savona/savona/quintogusto"
+    }
+  ]
+}

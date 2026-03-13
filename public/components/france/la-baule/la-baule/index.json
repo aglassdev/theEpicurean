@@ -1,0 +1,44 @@
+{
+  "title": "La Baule",
+  "country": "france",
+  "region": "la-baule",
+  "city": "la-baule",
+  "restaurants": [
+    {
+      "name": "14 Avenue",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/france/la-baule/la-baule/14-avenue"
+    },
+    {
+      "name": "Bris'Art Culinaire",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€",
+      "path": "/france/la-baule/la-baule/brisart-culinaire"
+    },
+    {
+      "name": "Fouquet's",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/la-baule/la-baule/fouquets"
+    },
+    {
+      "name": "La Table du Castel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/la-baule/la-baule/la-table-du-castel"
+    },
+    {
+      "name": "La Table du Saint-Christophe",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/la-baule/la-baule/la-table-du-saint-christophe"
+    },
+    {
+      "name": "Le Castel Marie-Louise",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/la-baule/la-baule/le-castel-marie-louise"
+    }
+  ]
+}

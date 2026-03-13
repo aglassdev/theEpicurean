@@ -1,0 +1,26 @@
+{
+  "title": "De Panne",
+  "country": "belgium",
+  "region": "de-panne",
+  "city": "de-panne",
+  "restaurants": [
+    {
+      "name": "La Coupole",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/belgium/de-panne/de-panne/la-coupole"
+    },
+    {
+      "name": "Octopus",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/belgium/de-panne/de-panne/octopus"
+    },
+    {
+      "name": "Subtiel",
+      "cuisine": "Classic Cuisine, Seafood",
+      "price": "€€€€",
+      "path": "/belgium/de-panne/de-panne/subtiel"
+    }
+  ]
+}

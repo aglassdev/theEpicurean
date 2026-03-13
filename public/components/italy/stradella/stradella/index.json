@@ -1,0 +1,26 @@
+{
+  "title": "Stradella",
+  "country": "italy",
+  "region": "stradella",
+  "city": "stradella",
+  "restaurants": [
+    {
+      "name": "GioEle",
+      "cuisine": "Classic Cuisine, Contemporary",
+      "price": "€€",
+      "path": "/italy/stradella/stradella/gioele"
+    },
+    {
+      "name": "Osteria Numero 2",
+      "cuisine": "Italian, Classic Cuisine",
+      "price": "€",
+      "path": "/italy/stradella/stradella/osteria-numero-2"
+    },
+    {
+      "name": "Villa Naj",
+      "cuisine": "Modern Cuisine, Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/stradella/stradella/villa-naj"
+    }
+  ]
+}

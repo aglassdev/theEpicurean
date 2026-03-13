@@ -1,0 +1,38 @@
+{
+  "title": "Oberstdorf",
+  "country": "germany",
+  "region": "oberstdorf",
+  "city": "oberstdorf",
+  "restaurants": [
+    {
+      "name": "Das Fetzwerk",
+      "cuisine": "International, Country cooking",
+      "price": "€€",
+      "path": "/germany/oberstdorf/oberstdorf/das-fetzwerk"
+    },
+    {
+      "name": "Das Jagdhaus",
+      "cuisine": "Regional Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/germany/oberstdorf/oberstdorf/das-jagdhaus"
+    },
+    {
+      "name": "DAS MAXI - GENUSSREICH",
+      "cuisine": "Seasonal Cuisine, International",
+      "price": "€€€",
+      "path": "/germany/oberstdorf/oberstdorf/das-maxi-genussreich"
+    },
+    {
+      "name": "ESS ATELIER STRAUSS",
+      "cuisine": "Classic Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/oberstdorf/oberstdorf/ess-atelier-strauss"
+    },
+    {
+      "name": "Ondersch Genusswirtschaft",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€",
+      "path": "/germany/oberstdorf/oberstdorf/ondersch-genusswirtschaft"
+    }
+  ]
+}

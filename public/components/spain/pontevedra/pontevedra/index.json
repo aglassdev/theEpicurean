@@ -1,0 +1,32 @@
+{
+  "title": "Pontevedra",
+  "country": "spain",
+  "region": "pontevedra",
+  "city": "pontevedra",
+  "restaurants": [
+    {
+      "name": "Eirado",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/pontevedra/pontevedra/eirado"
+    },
+    {
+      "name": "La Ultramar",
+      "cuisine": "Fusion",
+      "price": "€",
+      "path": "/spain/pontevedra/pontevedra/la-ultramar"
+    },
+    {
+      "name": "Loaira Xantar",
+      "cuisine": "Regional Cuisine",
+      "price": "€",
+      "path": "/spain/pontevedra/pontevedra/loaira-xantar"
+    },
+    {
+      "name": "Trasmallo",
+      "cuisine": "Contemporary, International",
+      "price": "€",
+      "path": "/spain/pontevedra/pontevedra/trasmallo"
+    }
+  ]
+}

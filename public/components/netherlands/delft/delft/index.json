@@ -1,0 +1,26 @@
+{
+  "title": "Delft",
+  "country": "netherlands",
+  "region": "delft",
+  "city": "delft",
+  "restaurants": [
+    {
+      "name": "Lalou",
+      "cuisine": "French",
+      "price": "€€€",
+      "path": "/netherlands/delft/delft/lalou"
+    },
+    {
+      "name": "Le Vieux Jean",
+      "cuisine": "Classic French",
+      "price": "€€",
+      "path": "/netherlands/delft/delft/le-vieux-jean"
+    },
+    {
+      "name": "Novaela",
+      "cuisine": "Creative French",
+      "price": "€€€€",
+      "path": "/netherlands/delft/delft/novaela"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Cambridge",
+  "country": "uk",
+  "region": "cambridge",
+  "city": "cambridge",
+  "restaurants": [
+    {
+      "name": "Fancett's",
+      "cuisine": "Classic French",
+      "price": "£££",
+      "path": "/uk/cambridge/cambridge/fancetts"
+    },
+    {
+      "name": "Margaret's",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/cambridge/cambridge/margarets"
+    },
+    {
+      "name": "Mercado Central",
+      "cuisine": "Spanish",
+      "price": "£££",
+      "path": "/uk/cambridge/cambridge/mercado-central"
+    },
+    {
+      "name": "Midsummer House",
+      "cuisine": "Creative",
+      "price": "££££",
+      "path": "/uk/cambridge/cambridge/midsummer-house"
+    },
+    {
+      "name": "Restaurant Twenty-Two",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/cambridge/cambridge/restaurant-twenty-two"
+    },
+    {
+      "name": "Vanderlyle",
+      "cuisine": "Vegetarian",
+      "price": "£££",
+      "path": "/uk/cambridge/cambridge/vanderlyle"
+    }
+  ]
+}

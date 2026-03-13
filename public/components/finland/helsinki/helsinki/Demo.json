@@ -1,0 +1,20 @@
+{
+  "restaurantName": "Demo",
+  "address": "Itämerenkatu 25, Helsinki, 00180, Finland",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "€€€€",
+  "phoneNumber": "+358922890840",
+  "website": "https://www.restaurantdemo.fi/",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "It might be slightly more challenging than usual to reach the entrance – you receive a code to open the side door before taking the lift up to the 14th floor – but once you’re safely ensconced, the view from this modern office building is worth it. The modern open-plan interior allows you to see into the kitchen where the chefs prepare the interesting set menu. Top quality local and international ingredients come together in flavoursome dishes crafted using classical techniques, with the breads in particular being a highlight....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=It%C3%A4merenkatu%2025%2C%20Helsinki%2C%2000180%2C%20Finland",
+  "pageTitle": "Demo"
+}

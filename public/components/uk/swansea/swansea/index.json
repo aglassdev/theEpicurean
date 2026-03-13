@@ -1,0 +1,20 @@
+{
+  "title": "Swansea",
+  "country": "uk",
+  "region": "swansea",
+  "city": "swansea",
+  "restaurants": [
+    {
+      "name": "Slice",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/swansea/swansea/slice"
+    },
+    {
+      "name": "The Shed",
+      "cuisine": "Traditional British",
+      "price": "££",
+      "path": "/uk/swansea/swansea/the-shed"
+    }
+  ]
+}

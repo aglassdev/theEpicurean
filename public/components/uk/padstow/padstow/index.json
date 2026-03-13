@@ -1,0 +1,38 @@
+{
+  "title": "Padstow",
+  "country": "uk",
+  "region": "padstow",
+  "city": "padstow",
+  "restaurants": [
+    {
+      "name": "Caffè Rojano",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "££",
+      "path": "/uk/padstow/padstow/caff-rojano"
+    },
+    {
+      "name": "Paul Ainsworth at No.6",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/padstow/padstow/paul-ainsworth-at-no6"
+    },
+    {
+      "name": "Prawn on the Lawn",
+      "cuisine": "Seafood",
+      "price": "££",
+      "path": "/uk/padstow/padstow/prawn-on-the-lawn"
+    },
+    {
+      "name": "Rick Stein's Café",
+      "cuisine": "Seafood, Asian Influences",
+      "price": "££",
+      "path": "/uk/padstow/padstow/rick-steins-caf"
+    },
+    {
+      "name": "The Seafood Restaurant",
+      "cuisine": "Seafood",
+      "price": "£££",
+      "path": "/uk/padstow/padstow/the-seafood-restaurant"
+    }
+  ]
+}

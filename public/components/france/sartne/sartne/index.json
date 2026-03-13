@@ -1,0 +1,32 @@
+{
+  "title": "Sartne",
+  "country": "france",
+  "region": "sartne",
+  "city": "sartne",
+  "restaurants": [
+    {
+      "name": "La Table de la Ferme",
+      "cuisine": "Modern Cuisine, Corsican",
+      "price": "€€€€",
+      "path": "/france/sartne/sartne/la-table-de-la-ferme"
+    },
+    {
+      "name": "La Table de la Grotte",
+      "cuisine": "Corsican",
+      "price": "€€€",
+      "path": "/france/sartne/sartne/la-table-de-la-grotte"
+    },
+    {
+      "name": "La Table de la Plage",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/sartne/sartne/la-table-de-la-plage"
+    },
+    {
+      "name": "Santu Pultru",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/sartne/sartne/santu-pultru"
+    }
+  ]
+}

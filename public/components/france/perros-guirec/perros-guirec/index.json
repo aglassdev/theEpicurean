@@ -1,0 +1,32 @@
+{
+  "title": "Perros Guirec",
+  "country": "france",
+  "region": "perros-guirec",
+  "city": "perros-guirec",
+  "restaurants": [
+    {
+      "name": "Balafenn",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/perros-guirec/perros-guirec/balafenn"
+    },
+    {
+      "name": "Gwinizh Du",
+      "cuisine": "Breton, Crêpe",
+      "price": "€",
+      "path": "/france/perros-guirec/perros-guirec/gwinizh-du"
+    },
+    {
+      "name": "Le Bélouga",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/perros-guirec/perros-guirec/le-blouga"
+    },
+    {
+      "name": "Les Bassans",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/perros-guirec/perros-guirec/les-bassans"
+    }
+  ]
+}

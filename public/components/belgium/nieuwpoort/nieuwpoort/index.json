@@ -1,0 +1,32 @@
+{
+  "title": "Nieuwpoort",
+  "country": "belgium",
+  "region": "nieuwpoort",
+  "city": "nieuwpoort",
+  "restaurants": [
+    {
+      "name": "Ander",
+      "cuisine": "Creative French",
+      "price": "€€€",
+      "path": "/belgium/nieuwpoort/nieuwpoort/ander"
+    },
+    {
+      "name": "Brasserie Nieuwpoort",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/belgium/nieuwpoort/nieuwpoort/brasserie-nieuwpoort"
+    },
+    {
+      "name": "M Bistro",
+      "cuisine": "Modern Cuisine, French Contemporary",
+      "price": "€€€€",
+      "path": "/belgium/nieuwpoort/nieuwpoort/m-bistro"
+    },
+    {
+      "name": "Wasserette",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€",
+      "path": "/belgium/nieuwpoort/nieuwpoort/wasserette"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Freshwater",
+  "country": "uk",
+  "region": "freshwater",
+  "city": "freshwater",
+  "restaurants": [
+    {
+      "name": "The Hut",
+      "cuisine": "Modern Cuisine, Seafood",
+      "price": "£££",
+      "path": "/uk/freshwater/freshwater/the-hut"
+    },
+    {
+      "name": "The Red Lion",
+      "cuisine": "Traditional British",
+      "price": "£",
+      "path": "/uk/freshwater/freshwater/the-red-lion"
+    }
+  ]
+}

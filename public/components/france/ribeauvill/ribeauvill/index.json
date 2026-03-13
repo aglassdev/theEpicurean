@@ -1,0 +1,26 @@
+{
+  "title": "Ribeauvill",
+  "country": "france",
+  "region": "ribeauvill",
+  "city": "ribeauvill",
+  "restaurants": [
+    {
+      "name": "Au Relais des Ménétriers",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/ribeauvill/ribeauvill/au-relais-des-mntriers"
+    },
+    {
+      "name": "Auberge du Parc Carola",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/ribeauvill/ribeauvill/auberge-du-parc-carola"
+    },
+    {
+      "name": "Le Cammissar",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/ribeauvill/ribeauvill/le-cammissar"
+    }
+  ]
+}

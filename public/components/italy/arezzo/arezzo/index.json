@@ -1,0 +1,32 @@
+{
+  "title": "Arezzo",
+  "country": "italy",
+  "region": "arezzo",
+  "city": "arezzo",
+  "restaurants": [
+    {
+      "name": "Le Chiavi d'Oro",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/arezzo/arezzo/le-chiavi-doro"
+    },
+    {
+      "name": "Octavin",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/arezzo/arezzo/octavin"
+    },
+    {
+      "name": "Osteria Grande",
+      "cuisine": "Italian Contemporary, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/italy/arezzo/arezzo/osteria-grande"
+    },
+    {
+      "name": "Saffron",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/italy/arezzo/arezzo/saffron"
+    }
+  ]
+}

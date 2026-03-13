@@ -1,0 +1,50 @@
+{
+  "title": "Leith",
+  "country": "uk",
+  "region": "leith",
+  "city": "leith",
+  "restaurants": [
+    {
+      "name": "Ardfern",
+      "cuisine": "International",
+      "price": "££",
+      "path": "/uk/leith/leith/ardfern"
+    },
+    {
+      "name": "Barry Fish",
+      "cuisine": "Seafood",
+      "price": "£££",
+      "path": "/uk/leith/leith/barry-fish"
+    },
+    {
+      "name": "Dùthchas",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/leith/leith/dthchas"
+    },
+    {
+      "name": "Heron",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/leith/leith/heron"
+    },
+    {
+      "name": "Martin Wishart",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "££££",
+      "path": "/uk/leith/leith/martin-wishart"
+    },
+    {
+      "name": "The Kitchin",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/leith/leith/the-kitchin"
+    },
+    {
+      "name": "The Little Chartroom",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/leith/leith/the-little-chartroom"
+    }
+  ]
+}

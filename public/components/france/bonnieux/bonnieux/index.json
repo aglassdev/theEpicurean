@@ -1,0 +1,32 @@
+{
+  "title": "Bonnieux",
+  "country": "france",
+  "region": "bonnieux",
+  "city": "bonnieux",
+  "restaurants": [
+    {
+      "name": "JU - Maison de Cuisine",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/bonnieux/bonnieux/ju-maison-de-cuisine"
+    },
+    {
+      "name": "La Bastide",
+      "cuisine": "Modern Cuisine, Provençal",
+      "price": "€€€€",
+      "path": "/france/bonnieux/bonnieux/la-bastide"
+    },
+    {
+      "name": "La Bergerie",
+      "cuisine": "Grills, Provençal",
+      "price": "€€",
+      "path": "/france/bonnieux/bonnieux/la-bergerie"
+    },
+    {
+      "name": "La Table des Amis",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/bonnieux/bonnieux/la-table-des-amis"
+    }
+  ]
+}

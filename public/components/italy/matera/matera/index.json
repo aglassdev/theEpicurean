@@ -1,0 +1,32 @@
+{
+  "title": "Matera",
+  "country": "italy",
+  "region": "matera",
+  "city": "matera",
+  "restaurants": [
+    {
+      "name": "Baccanti",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/matera/matera/baccanti"
+    },
+    {
+      "name": "DA MÓ",
+      "cuisine": "Regional Cuisine, Contemporary",
+      "price": "€€",
+      "path": "/italy/matera/matera/da-m"
+    },
+    {
+      "name": "Dimora Ulmo",
+      "cuisine": "Cuisine from Basilicata, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/matera/matera/dimora-ulmo"
+    },
+    {
+      "name": "Vitantonio Lombardo",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/italy/matera/matera/vitantonio-lombardo"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Ciboure",
+  "country": "france",
+  "region": "ciboure",
+  "city": "ciboure",
+  "restaurants": [
+    {
+      "name": "Chez Mattin",
+      "cuisine": "Basque",
+      "price": "€€",
+      "path": "/france/ciboure/ciboure/chez-mattin"
+    },
+    {
+      "name": "Crocodiles",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/france/ciboure/ciboure/crocodiles"
+    },
+    {
+      "name": "Ekaitza",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/ciboure/ciboure/ekaitza"
+    }
+  ]
+}

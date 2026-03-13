@@ -1,0 +1,32 @@
+{
+  "title": "Heverlee",
+  "country": "belgium",
+  "region": "heverlee",
+  "city": "heverlee",
+  "restaurants": [
+    {
+      "name": "Couvert Couvert",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/belgium/heverlee/heverlee/couvert-couvert"
+    },
+    {
+      "name": "EST",
+      "cuisine": "French",
+      "price": "€€€€",
+      "path": "/belgium/heverlee/heverlee/est"
+    },
+    {
+      "name": "Furbetto",
+      "cuisine": "Mediterranean Cuisine, Farm to table",
+      "price": "€€",
+      "path": "/belgium/heverlee/heverlee/furbetto"
+    },
+    {
+      "name": "Het land aan de Overkant",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/belgium/heverlee/heverlee/het-land-aan-de-overkant"
+    }
+  ]
+}

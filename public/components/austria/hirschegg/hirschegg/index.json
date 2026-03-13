@@ -1,0 +1,26 @@
+{
+  "title": "Hirschegg",
+  "country": "austria",
+  "region": "hirschegg",
+  "city": "hirschegg",
+  "restaurants": [
+    {
+      "name": "Carnozet",
+      "cuisine": "Country cooking, Regional Cuisine",
+      "price": "€€",
+      "path": "/austria/hirschegg/hirschegg/carnozet"
+    },
+    {
+      "name": "Kilian Stuba",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/austria/hirschegg/hirschegg/kilian-stuba"
+    },
+    {
+      "name": "Sonnenstüble",
+      "cuisine": "French, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/austria/hirschegg/hirschegg/sonnenstble"
+    }
+  ]
+}

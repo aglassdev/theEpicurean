@@ -1,0 +1,26 @@
+{
+  "title": "Suresnes",
+  "country": "france",
+  "region": "suresnes",
+  "city": "suresnes",
+  "restaurants": [
+    {
+      "name": "Bistro Là-Haut",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/suresnes/suresnes/bistro-l-haut"
+    },
+    {
+      "name": "Et Toque !",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/suresnes/suresnes/et-toque"
+    },
+    {
+      "name": "Les Petits Princes",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/suresnes/suresnes/les-petits-princes"
+    }
+  ]
+}

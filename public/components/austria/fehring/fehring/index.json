@@ -1,0 +1,26 @@
+{
+  "title": "Fehring",
+  "country": "austria",
+  "region": "fehring",
+  "city": "fehring",
+  "restaurants": [
+    {
+      "name": "Lilli Fine Dining",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/austria/fehring/fehring/lilli-fine-dining"
+    },
+    {
+      "name": "Lilli Wirtshaus",
+      "cuisine": "Regional Cuisine",
+      "price": "€€",
+      "path": "/austria/fehring/fehring/lilli-wirtshaus"
+    },
+    {
+      "name": "Malerwinkl",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/austria/fehring/fehring/malerwinkl"
+    }
+  ]
+}

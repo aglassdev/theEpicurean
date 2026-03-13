@@ -1,0 +1,32 @@
+{
+  "title": "Brunswick",
+  "country": "germany",
+  "region": "brunswick",
+  "city": "brunswick",
+  "restaurants": [
+    {
+      "name": "Überland",
+      "cuisine": "Contemporary, International",
+      "price": "€€€",
+      "path": "/germany/brunswick/brunswick/berland"
+    },
+    {
+      "name": "Das Alte Haus",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/brunswick/brunswick/das-alte-haus"
+    },
+    {
+      "name": "die kleine Linde",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/brunswick/brunswick/die-kleine-linde"
+    },
+    {
+      "name": "Zucker",
+      "cuisine": "Farm to table, Contemporary",
+      "price": "€€",
+      "path": "/germany/brunswick/brunswick/zucker"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Rust",
+  "country": "austria",
+  "region": "rust",
+  "city": "rust",
+  "restaurants": [
+    {
+      "name": "Im Hofgassl",
+      "cuisine": "Regional Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/austria/rust/rust/im-hofgassl"
+    },
+    {
+      "name": "Kirchenwirt",
+      "cuisine": "Regional Cuisine, Austrian",
+      "price": "€€",
+      "path": "/austria/rust/rust/kirchenwirt"
+    }
+  ]
+}

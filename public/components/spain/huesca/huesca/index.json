@@ -1,0 +1,32 @@
+{
+  "title": "Huesca",
+  "country": "spain",
+  "region": "huesca",
+  "city": "huesca",
+  "restaurants": [
+    {
+      "name": "El Origen",
+      "cuisine": "Traditional Cuisine",
+      "price": "€",
+      "path": "/spain/huesca/huesca/el-origen"
+    },
+    {
+      "name": "Las Torres",
+      "cuisine": "Contemporary, Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/huesca/huesca/las-torres"
+    },
+    {
+      "name": "Lillas Pastia",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€",
+      "path": "/spain/huesca/huesca/lillas-pastia"
+    },
+    {
+      "name": "Tatau",
+      "cuisine": "Creative, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/huesca/huesca/tatau"
+    }
+  ]
+}

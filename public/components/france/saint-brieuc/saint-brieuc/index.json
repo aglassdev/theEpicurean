@@ -1,0 +1,44 @@
+{
+  "title": "Saint Brieuc",
+  "country": "france",
+  "region": "saint-brieuc",
+  "city": "saint-brieuc",
+  "restaurants": [
+    {
+      "name": "Aux Pesked",
+      "cuisine": "Seafood, Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/saint-brieuc/saint-brieuc/aux-pesked"
+    },
+    {
+      "name": "La Croix Blanche",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/saint-brieuc/saint-brieuc/la-croix-blanche"
+    },
+    {
+      "name": "La Table d'Edgar",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/saint-brieuc/saint-brieuc/la-table-dedgar"
+    },
+    {
+      "name": "L'Air du Temps",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/france/saint-brieuc/saint-brieuc/lair-du-temps"
+    },
+    {
+      "name": "Le Monde des Chimères",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€",
+      "path": "/france/saint-brieuc/saint-brieuc/le-monde-des-chimres"
+    },
+    {
+      "name": "Ô Saveurs",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/saint-brieuc/saint-brieuc/saveurs"
+    }
+  ]
+}

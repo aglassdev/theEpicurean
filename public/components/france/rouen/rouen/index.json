@@ -1,0 +1,44 @@
+{
+  "title": "Rouen",
+  "country": "france",
+  "region": "rouen",
+  "city": "rouen",
+  "restaurants": [
+    {
+      "name": "Au Flaméron",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/rouen/rouen/au-flamron"
+    },
+    {
+      "name": "L'epicurius",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/rouen/rouen/lepicurius"
+    },
+    {
+      "name": "L'Odas",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/rouen/rouen/lodas"
+    },
+    {
+      "name": "OKTO",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/rouen/rouen/okto"
+    },
+    {
+      "name": "Paul-Arthur",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/rouen/rouen/paul-arthur"
+    },
+    {
+      "name": "Tempo",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/rouen/rouen/tempo"
+    }
+  ]
+}

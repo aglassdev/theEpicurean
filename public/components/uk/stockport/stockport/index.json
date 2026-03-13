@@ -1,0 +1,20 @@
+{
+  "title": "Stockport",
+  "country": "uk",
+  "region": "stockport",
+  "city": "stockport",
+  "restaurants": [
+    {
+      "name": "Cantaloupe",
+      "cuisine": "Modern Cuisine",
+      "price": "££",
+      "path": "/uk/stockport/stockport/cantaloupe"
+    },
+    {
+      "name": "Where The Light Gets In",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/stockport/stockport/where-the-light-gets-in"
+    }
+  ]
+}

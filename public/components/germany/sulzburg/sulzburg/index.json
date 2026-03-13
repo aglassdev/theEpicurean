@@ -1,0 +1,26 @@
+{
+  "title": "Sulzburg",
+  "country": "germany",
+  "region": "sulzburg",
+  "city": "sulzburg",
+  "restaurants": [
+    {
+      "name": "Hirschen",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/sulzburg/sulzburg/hirschen"
+    },
+    {
+      "name": "La Maison Eric",
+      "cuisine": "Classic Cuisine",
+      "price": "€€",
+      "path": "/germany/sulzburg/sulzburg/la-maison-eric"
+    },
+    {
+      "name": "Landgasthof Rebstock",
+      "cuisine": "Country cooking, Farm to table",
+      "price": "€€",
+      "path": "/germany/sulzburg/sulzburg/landgasthof-rebstock"
+    }
+  ]
+}

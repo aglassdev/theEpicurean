@@ -1,0 +1,44 @@
+{
+  "title": "Toulon",
+  "country": "france",
+  "region": "toulon",
+  "city": "toulon",
+  "restaurants": [
+    {
+      "name": "Au Sourd",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/france/toulon/toulon/au-sourd"
+    },
+    {
+      "name": "Beam !",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/toulon/toulon/beam"
+    },
+    {
+      "name": "Le Pastel",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/france/toulon/toulon/le-pastel"
+    },
+    {
+      "name": "Le Saint Gabriel",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/toulon/toulon/le-saint-gabriel"
+    },
+    {
+      "name": "Racines",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/toulon/toulon/racines"
+    },
+    {
+      "name": "Shanael",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/toulon/toulon/shanael"
+    }
+  ]
+}

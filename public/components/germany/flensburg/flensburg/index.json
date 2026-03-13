@@ -1,0 +1,26 @@
+{
+  "title": "Flensburg",
+  "country": "germany",
+  "region": "flensburg",
+  "city": "flensburg",
+  "restaurants": [
+    {
+      "name": "Das Grace",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/flensburg/flensburg/das-grace"
+    },
+    {
+      "name": "James Farmhouse",
+      "cuisine": "Regional Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/germany/flensburg/flensburg/james-farmhouse"
+    },
+    {
+      "name": "Minato",
+      "cuisine": "Sushi, Japanese",
+      "price": "€€",
+      "path": "/germany/flensburg/flensburg/minato"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Bazel",
+  "country": "belgium",
+  "region": "bazel",
+  "city": "bazel",
+  "restaurants": [
+    {
+      "name": "Hofke van Bazel",
+      "cuisine": "French Contemporary, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/belgium/bazel/bazel/hofke-van-bazel"
+    },
+    {
+      "name": "Trattoria Bazalia",
+      "cuisine": "Italian",
+      "price": "€€",
+      "path": "/belgium/bazel/bazel/trattoria-bazalia"
+    }
+  ]
+}

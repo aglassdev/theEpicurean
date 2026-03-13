@@ -1,0 +1,38 @@
+{
+  "title": "Celle",
+  "country": "germany",
+  "region": "celle",
+  "city": "celle",
+  "restaurants": [
+    {
+      "name": "Das Esszimmer",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/germany/celle/celle/das-esszimmer"
+    },
+    {
+      "name": "der allerKrug",
+      "cuisine": "Country cooking, International",
+      "price": "€€",
+      "path": "/germany/celle/celle/der-allerkrug"
+    },
+    {
+      "name": "Köllner's Landhaus",
+      "cuisine": "Seasonal Cuisine, International",
+      "price": "€€",
+      "path": "/germany/celle/celle/kllners-landhaus"
+    },
+    {
+      "name": "Schapers",
+      "cuisine": "Farm to table, Classic Cuisine",
+      "price": "€€€",
+      "path": "/germany/celle/celle/schapers"
+    },
+    {
+      "name": "Taverna & Trattoria Palio",
+      "cuisine": "Italian",
+      "price": "€€",
+      "path": "/germany/celle/celle/taverna-trattoria-palio"
+    }
+  ]
+}

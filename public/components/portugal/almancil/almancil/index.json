@@ -1,0 +1,26 @@
+{
+  "title": "Almancil",
+  "country": "portugal",
+  "region": "almancil",
+  "city": "almancil",
+  "restaurants": [
+    {
+      "name": "2 Passos",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/portugal/almancil/almancil/2-passos"
+    },
+    {
+      "name": "Gusto by Heinz Beck",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/almancil/almancil/gusto-by-heinz-beck"
+    },
+    {
+      "name": "Pequeno Mundo",
+      "cuisine": "International",
+      "price": "€€",
+      "path": "/portugal/almancil/almancil/pequeno-mundo"
+    }
+  ]
+}

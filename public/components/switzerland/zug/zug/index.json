@@ -1,0 +1,20 @@
+{
+  "title": "Zug",
+  "country": "switzerland",
+  "region": "zug",
+  "city": "zug",
+  "restaurants": [
+    {
+      "name": "Rathauskeller Bistro",
+      "cuisine": "Classic Cuisine",
+      "price": "€€",
+      "path": "/switzerland/zug/zug/rathauskeller-bistro"
+    },
+    {
+      "name": "Zum Kaiser Franz",
+      "cuisine": "Austrian, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/switzerland/zug/zug/zum-kaiser-franz"
+    }
+  ]
+}

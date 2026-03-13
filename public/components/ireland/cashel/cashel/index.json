@@ -1,0 +1,20 @@
+{
+  "title": "Cashel",
+  "country": "ireland",
+  "region": "cashel",
+  "city": "cashel",
+  "restaurants": [
+    {
+      "name": "Chez Hans",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/ireland/cashel/cashel/chez-hans"
+    },
+    {
+      "name": "The Bishop's Buttery",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/ireland/cashel/cashel/the-bishops-buttery"
+    }
+  ]
+}

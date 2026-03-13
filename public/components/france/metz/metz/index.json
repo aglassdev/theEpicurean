@@ -1,0 +1,50 @@
+{
+  "title": "Metz",
+  "country": "france",
+  "region": "metz",
+  "city": "metz",
+  "restaurants": [
+    {
+      "name": "83 Restaurant",
+      "cuisine": "Italian, Provençal",
+      "price": "€€",
+      "path": "/france/metz/metz/83-restaurant"
+    },
+    {
+      "name": "Derrière",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/metz/metz/derrire"
+    },
+    {
+      "name": "La Lanterne",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/metz/metz/la-lanterne"
+    },
+    {
+      "name": "La Réserve",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/metz/metz/la-rserve"
+    },
+    {
+      "name": "Le Jardin de Bellevue",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/metz/metz/le-jardin-de-bellevue"
+    },
+    {
+      "name": "Timilìa",
+      "cuisine": "Italian",
+      "price": "€€€",
+      "path": "/france/metz/metz/timila"
+    },
+    {
+      "name": "Yozora",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/metz/metz/yozora"
+    }
+  ]
+}

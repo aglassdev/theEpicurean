@@ -1,0 +1,32 @@
+{
+  "title": "Arosa",
+  "country": "switzerland",
+  "region": "arosa",
+  "city": "arosa",
+  "restaurants": [
+    {
+      "name": "Ahaan Thai",
+      "cuisine": "Thai",
+      "price": "€€",
+      "path": "/switzerland/arosa/arosa/ahaan-thai"
+    },
+    {
+      "name": "Artis by Tristan Brandt",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/switzerland/arosa/arosa/artis-by-tristan-brandt"
+    },
+    {
+      "name": "La Brezza",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/switzerland/arosa/arosa/la-brezza"
+    },
+    {
+      "name": "Muntanella",
+      "cuisine": "Regional Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/switzerland/arosa/arosa/muntanella"
+    }
+  ]
+}

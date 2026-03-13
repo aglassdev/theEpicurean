@@ -1,0 +1,26 @@
+{
+  "title": "Heist",
+  "country": "belgium",
+  "region": "heist",
+  "city": "heist",
+  "restaurants": [
+    {
+      "name": "Bartholomeus",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/belgium/heist/heist/bartholomeus"
+    },
+    {
+      "name": "Bristol",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/belgium/heist/heist/bristol"
+    },
+    {
+      "name": "Caillou",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/belgium/heist/heist/caillou"
+    }
+  ]
+}

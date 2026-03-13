@@ -1,0 +1,44 @@
+{
+  "title": "Aosta",
+  "country": "italy",
+  "region": "aosta",
+  "city": "aosta",
+  "restaurants": [
+    {
+      "name": "Gina",
+      "cuisine": "Modern Cuisine, Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/aosta/aosta/gina"
+    },
+    {
+      "name": "Gina casa con cucina",
+      "cuisine": "Modern Cuisine, Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/aosta/aosta/gina-casa-con-cucina"
+    },
+    {
+      "name": "Osteria da Nando",
+      "cuisine": "Cuisine from the Aosta Valley, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/aosta/aosta/osteria-da-nando"
+    },
+    {
+      "name": "Paolo Griffa al Caffè Nazionale",
+      "cuisine": "Creative, Italian Contemporary",
+      "price": "€€€€",
+      "path": "/italy/aosta/aosta/paolo-griffa-al-caff-nazionale"
+    },
+    {
+      "name": "Stefenelli Desk",
+      "cuisine": "Italian Contemporary, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/aosta/aosta/stefenelli-desk"
+    },
+    {
+      "name": "Vecchio Ristoro",
+      "cuisine": "Cuisine from the Aosta Valley, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/aosta/aosta/vecchio-ristoro"
+    }
+  ]
+}

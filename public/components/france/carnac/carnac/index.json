@@ -1,0 +1,32 @@
+{
+  "title": "Carnac",
+  "country": "france",
+  "region": "carnac",
+  "city": "carnac",
+  "restaurants": [
+    {
+      "name": "Côté Cuisine",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/carnac/carnac/ct-cuisine"
+    },
+    {
+      "name": "Itsasoa",
+      "cuisine": "Creative, Farm to table",
+      "price": "€€",
+      "path": "/france/carnac/carnac/itsasoa"
+    },
+    {
+      "name": "La Calypso",
+      "cuisine": "Seafood, Grills",
+      "price": "€€€",
+      "path": "/france/carnac/carnac/la-calypso"
+    },
+    {
+      "name": "Le Cairn - Hôtel le Celtique",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/france/carnac/carnac/le-cairn-htel-le-celtique"
+    }
+  ]
+}

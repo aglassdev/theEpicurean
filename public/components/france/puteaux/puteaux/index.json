@@ -1,0 +1,26 @@
+{
+  "title": "Puteaux",
+  "country": "france",
+  "region": "puteaux",
+  "city": "puteaux",
+  "restaurants": [
+    {
+      "name": "L'Andouille",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/puteaux/puteaux/landouille"
+    },
+    {
+      "name": "L'Escargot 1903 par Yannick Tranchant",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/puteaux/puteaux/lescargot-1903-par-yannick-tranchant"
+    },
+    {
+      "name": "Saperlipopette !",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/puteaux/puteaux/saperlipopette"
+    }
+  ]
+}

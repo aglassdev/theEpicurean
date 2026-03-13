@@ -1,0 +1,44 @@
+{
+  "title": "Arnhem",
+  "country": "netherlands",
+  "region": "arnhem",
+  "city": "arnhem",
+  "restaurants": [
+    {
+      "name": "Konijnenvoer",
+      "cuisine": "Vegetarian, Creative",
+      "price": "€€€",
+      "path": "/netherlands/arnhem/arnhem/konijnenvoer"
+    },
+    {
+      "name": "Loca",
+      "cuisine": "French Contemporary",
+      "price": "€€",
+      "path": "/netherlands/arnhem/arnhem/loca"
+    },
+    {
+      "name": "Locals",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/netherlands/arnhem/arnhem/locals"
+    },
+    {
+      "name": "The Church",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/netherlands/arnhem/arnhem/the-church"
+    },
+    {
+      "name": "The Green Rose",
+      "cuisine": "Organic, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/netherlands/arnhem/arnhem/the-green-rose"
+    },
+    {
+      "name": "Trattoria Da Giulio",
+      "cuisine": "Italian",
+      "price": "€€",
+      "path": "/netherlands/arnhem/arnhem/trattoria-da-giulio"
+    }
+  ]
+}

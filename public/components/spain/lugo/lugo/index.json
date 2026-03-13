@@ -1,0 +1,26 @@
+{
+  "title": "Lugo",
+  "country": "spain",
+  "region": "lugo",
+  "city": "lugo",
+  "restaurants": [
+    {
+      "name": "Os Cachivaches",
+      "cuisine": "Traditional Cuisine, Rice Dishes",
+      "price": "€€",
+      "path": "/spain/lugo/lugo/os-cachivaches"
+    },
+    {
+      "name": "Paprica",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/lugo/lugo/paprica"
+    },
+    {
+      "name": "Prebe by Bret",
+      "cuisine": "Farm to table, Meats and Grills",
+      "price": "€€€",
+      "path": "/spain/lugo/lugo/prebe-by-bret"
+    }
+  ]
+}

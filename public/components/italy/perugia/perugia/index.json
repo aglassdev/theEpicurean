@@ -1,0 +1,32 @@
+{
+  "title": "Perugia",
+  "country": "italy",
+  "region": "perugia",
+  "city": "perugia",
+  "restaurants": [
+    {
+      "name": "Ada",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/perugia/perugia/ada"
+    },
+    {
+      "name": "Il Giurista",
+      "cuisine": "Regional Cuisine, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/perugia/perugia/il-giurista"
+    },
+    {
+      "name": "L'Acciuga",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/perugia/perugia/lacciuga"
+    },
+    {
+      "name": "L'Officina",
+      "cuisine": "Contemporary, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/perugia/perugia/lofficina"
+    }
+  ]
+}

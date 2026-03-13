@@ -1,0 +1,32 @@
+{
+  "title": "Cognac",
+  "country": "france",
+  "region": "cognac",
+  "city": "cognac",
+  "restaurants": [
+    {
+      "name": "La Maison",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/cognac/cognac/la-maison"
+    },
+    {
+      "name": "Les Foudres",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/cognac/cognac/les-foudres"
+    },
+    {
+      "name": "Notes",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/cognac/cognac/notes"
+    },
+    {
+      "name": "Poulpette",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€",
+      "path": "/france/cognac/cognac/poulpette"
+    }
+  ]
+}

@@ -478,6 +478,12 @@ export default ${componentName};
 `;
 }
 
+// --skip-existing flag: only generate JSX files that don't already exist
+const skipExisting = process.argv.includes('--skip-existing');
+if (skipExisting) {
+  console.log('🔄  --skip-existing mode: skipping restaurants that already have a JSX file.\n');
+}
+
 // Parse all restaurants
 const allRestaurants = parseCSV(csvContent);
 
@@ -488,44 +494,49 @@ const componentNameTracker = new Map();
 const countryStats = {};
 const routesByCountry = {};
 let totalFilesCreated = 0;
+let totalFilesSkipped = 0;
 
 // Process each restaurant
 allRestaurants.forEach((restaurant, index) => {
   try {
     const country = getCountryFromLocation(restaurant.Location);
-    
+
     if (country === 'other') {
       return; // Skip countries we haven't mapped
     }
-    
+
     const { region, city } = getLocationInfo(restaurant.Location, restaurant.Address, country);
     const restaurantSlug = slugify(restaurant.Name);
-    
+
     // Create base component name
     let componentName = createComponentName(restaurant.Name);
-    
+
     // Check for duplicates and add city acronym if needed
     if (componentNameTracker.has(componentName)) {
       const cityAcronym = getCityAcronym(city);
       componentName = createComponentName(restaurant.Name, cityAcronym);
     }
-    
+
     componentNameTracker.set(componentName, {
       name: restaurant.Name,
       city,
       country
     });
-    
+
     // Create directory structure: src/{country}/{region}/{city}/
     const dir = path.join(__dirname, '../src', country, region, city);
     fs.mkdirSync(dir, { recursive: true });
-    
-    // Write component file
+
+    // Write component file (skip if already exists and --skip-existing flag is set)
     const filePath = path.join(dir, `${componentName}.jsx`);
-    const component = generateRestaurantComponent(restaurant, componentName);
-    fs.writeFileSync(filePath, component);
-    
-    totalFilesCreated++;
+    if (skipExisting && fs.existsSync(filePath)) {
+      totalFilesSkipped++;
+      // Still track in routesByCountry so generated-routes.txt stays complete
+    } else {
+      const component = generateRestaurantComponent(restaurant, componentName);
+      fs.writeFileSync(filePath, component);
+      totalFilesCreated++;
+    }
     
     // Track for routes
     const routePath = `/${country}/${region}/${city}/${restaurantSlug}`;
@@ -556,6 +567,9 @@ allRestaurants.forEach((restaurant, index) => {
   }
 });
 
+if (skipExisting && totalFilesSkipped > 0) {
+  console.log(`\n⏭️  Skipped ${totalFilesSkipped} existing restaurant files (--skip-existing).`);
+}
 console.log(`\n✅ Successfully created ${totalFilesCreated} restaurant files!\n`);
 
 // Display statistics

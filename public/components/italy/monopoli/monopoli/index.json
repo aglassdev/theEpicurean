@@ -1,0 +1,20 @@
+{
+  "title": "Monopoli",
+  "country": "italy",
+  "region": "monopoli",
+  "city": "monopoli",
+  "restaurants": [
+    {
+      "name": "Orto",
+      "cuisine": "Contemporary, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/italy/monopoli/monopoli/orto"
+    },
+    {
+      "name": "Radimare",
+      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/italy/monopoli/monopoli/radimare"
+    }
+  ]
+}

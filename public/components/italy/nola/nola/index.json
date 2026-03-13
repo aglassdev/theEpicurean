@@ -1,0 +1,26 @@
+{
+  "title": "Nola",
+  "country": "italy",
+  "region": "nola",
+  "city": "nola",
+  "restaurants": [
+    {
+      "name": "Le Baccanti",
+      "cuisine": "Campanian, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/nola/nola/le-baccanti"
+    },
+    {
+      "name": "Re Santi e Leoni",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/italy/nola/nola/re-santi-e-leoni"
+    },
+    {
+      "name": "Rear Restaurant",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/nola/nola/rear-restaurant"
+    }
+  ]
+}

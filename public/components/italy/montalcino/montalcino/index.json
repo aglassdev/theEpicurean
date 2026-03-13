@@ -1,0 +1,32 @@
+{
+  "title": "Montalcino",
+  "country": "italy",
+  "region": "montalcino",
+  "city": "montalcino",
+  "restaurants": [
+    {
+      "name": "Boccon DiVino",
+      "cuisine": "Tuscan, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/montalcino/montalcino/boccon-divino"
+    },
+    {
+      "name": "Campo del Drago",
+      "cuisine": "Contemporary, Tuscan",
+      "price": "€€€€",
+      "path": "/italy/montalcino/montalcino/campo-del-drago"
+    },
+    {
+      "name": "La Sala dei Grappoli",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/montalcino/montalcino/la-sala-dei-grappoli"
+    },
+    {
+      "name": "Taverna del Grappolo Blu",
+      "cuisine": "Tuscan",
+      "price": "€",
+      "path": "/italy/montalcino/montalcino/taverna-del-grappolo-blu"
+    }
+  ]
+}

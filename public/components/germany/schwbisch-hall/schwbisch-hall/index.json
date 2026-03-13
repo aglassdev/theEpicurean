@@ -1,0 +1,26 @@
+{
+  "title": "Schwbisch Hall",
+  "country": "germany",
+  "region": "schwbisch-hall",
+  "city": "schwbisch-hall",
+  "restaurants": [
+    {
+      "name": "Eisenbahn",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/germany/schwbisch-hall/schwbisch-hall/eisenbahn"
+    },
+    {
+      "name": "Landhaus Zum Rössle",
+      "cuisine": "Farm to table, Regional Cuisine",
+      "price": "€€",
+      "path": "/germany/schwbisch-hall/schwbisch-hall/landhaus-zum-rssle"
+    },
+    {
+      "name": "Rebers Pflug",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/germany/schwbisch-hall/schwbisch-hall/rebers-pflug"
+    }
+  ]
+}

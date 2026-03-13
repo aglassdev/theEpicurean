@@ -1,0 +1,26 @@
+{
+  "title": "Le Cannet",
+  "country": "france",
+  "region": "le-cannet",
+  "city": "le-cannet",
+  "restaurants": [
+    {
+      "name": "Bistrot des Anges",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/le-cannet/le-cannet/bistrot-des-anges"
+    },
+    {
+      "name": "Kashiwa",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/france/le-cannet/le-cannet/kashiwa"
+    },
+    {
+      "name": "La Villa Archange",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/le-cannet/le-cannet/la-villa-archange"
+    }
+  ]
+}

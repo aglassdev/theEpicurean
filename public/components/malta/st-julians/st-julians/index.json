@@ -1,0 +1,38 @@
+{
+  "title": "St Julians",
+  "country": "malta",
+  "region": "st-julians",
+  "city": "st-julians",
+  "restaurants": [
+    {
+      "name": "Anima",
+      "cuisine": "Italian, Sicilian",
+      "price": "€€€",
+      "path": "/malta/st-julians/st-julians/anima"
+    },
+    {
+      "name": "Caviar & Bull",
+      "cuisine": "Beef",
+      "price": "€€€",
+      "path": "/malta/st-julians/st-julians/caviar-bull"
+    },
+    {
+      "name": "Le Majoliche",
+      "cuisine": "Mediterranean Cuisine, Sicilian",
+      "price": "€€",
+      "path": "/malta/st-julians/st-julians/le-majoliche"
+    },
+    {
+      "name": "Rosamì",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€",
+      "path": "/malta/st-julians/st-julians/rosam"
+    },
+    {
+      "name": "Zest",
+      "cuisine": "Asian",
+      "price": "€€",
+      "path": "/malta/st-julians/st-julians/zest"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "La Morra",
+  "country": "italy",
+  "region": "la-morra",
+  "city": "la-morra",
+  "restaurants": [
+    {
+      "name": "Coltivare",
+      "cuisine": "Piedmontese, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/italy/la-morra/la-morra/coltivare"
+    },
+    {
+      "name": "Massimo Camia",
+      "cuisine": "Piedmontese, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/la-morra/la-morra/massimo-camia"
+    },
+    {
+      "name": "Osteria Arborina",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/italy/la-morra/la-morra/osteria-arborina"
+    },
+    {
+      "name": "Osteria Veglio",
+      "cuisine": "Piedmontese",
+      "price": "€",
+      "path": "/italy/la-morra/la-morra/osteria-veglio"
+    }
+  ]
+}

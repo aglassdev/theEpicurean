@@ -1,0 +1,26 @@
+{
+  "title": "Issoire",
+  "country": "france",
+  "region": "issoire",
+  "city": "issoire",
+  "restaurants": [
+    {
+      "name": "Agastache",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/issoire/issoire/agastache"
+    },
+    {
+      "name": "L'Atelier Yssoirien",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/issoire/issoire/latelier-yssoirien"
+    },
+    {
+      "name": "Le P'tit Roseau",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/issoire/issoire/le-ptit-roseau"
+    }
+  ]
+}

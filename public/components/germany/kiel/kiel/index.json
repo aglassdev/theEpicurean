@@ -1,0 +1,32 @@
+{
+  "title": "Kiel",
+  "country": "germany",
+  "region": "kiel",
+  "city": "kiel",
+  "restaurants": [
+    {
+      "name": "Ahlmanns",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/kiel/kiel/ahlmanns"
+    },
+    {
+      "name": "FLYGGE",
+      "cuisine": "Regional Cuisine, Modern Cuisine",
+      "price": "€€",
+      "path": "/germany/kiel/kiel/flygge"
+    },
+    {
+      "name": "ICHI",
+      "cuisine": "Japanese Contemporary",
+      "price": "€€",
+      "path": "/germany/kiel/kiel/ichi"
+    },
+    {
+      "name": "Kaufmannsladen",
+      "cuisine": "Regional Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/germany/kiel/kiel/kaufmannsladen"
+    }
+  ]
+}

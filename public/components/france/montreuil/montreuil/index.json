@@ -1,0 +1,44 @@
+{
+  "title": "Montreuil",
+  "country": "france",
+  "region": "montreuil",
+  "city": "montreuil",
+  "restaurants": [
+    {
+      "name": "Anecdote",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/montreuil/montreuil/anecdote"
+    },
+    {
+      "name": "Isolé",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/montreuil/montreuil/isol"
+    },
+    {
+      "name": "La Table du Château",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/montreuil/montreuil/la-table-du-chteau"
+    },
+    {
+      "name": "Là-bas",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/montreuil/montreuil/l-bas"
+    },
+    {
+      "name": "Le Bistrot du Château",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/montreuil/montreuil/le-bistrot-du-chteau"
+    },
+    {
+      "name": "Villa9Trois",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/montreuil/montreuil/villa9trois"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Salerno",
+  "country": "italy",
+  "region": "salerno",
+  "city": "salerno",
+  "restaurants": [
+    {
+      "name": "Bistrot di Pescheria",
+      "cuisine": "Seafood, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/italy/salerno/salerno/bistrot-di-pescheria"
+    },
+    {
+      "name": "Casamare",
+      "cuisine": "Seafood, Contemporary",
+      "price": "€€€",
+      "path": "/italy/salerno/salerno/casamare"
+    },
+    {
+      "name": "Hydra",
+      "cuisine": "Campanian, Contemporary",
+      "price": "€€",
+      "path": "/italy/salerno/salerno/hydra"
+    },
+    {
+      "name": "Pescheria",
+      "cuisine": "Seafood, Italian",
+      "price": "€€€",
+      "path": "/italy/salerno/salerno/pescheria"
+    },
+    {
+      "name": "Re Maurì",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/italy/salerno/salerno/re-maur"
+    },
+    {
+      "name": "Suscettibile Salerno",
+      "cuisine": "Country cooking, Contemporary",
+      "price": "€€€",
+      "path": "/italy/salerno/salerno/suscettibile-salerno"
+    }
+  ]
+}

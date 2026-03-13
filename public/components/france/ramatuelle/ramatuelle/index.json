@@ -1,0 +1,32 @@
+{
+  "title": "Ramatuelle",
+  "country": "france",
+  "region": "ramatuelle",
+  "city": "ramatuelle",
+  "restaurants": [
+    {
+      "name": "Byblos Beach",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/france/ramatuelle/ramatuelle/byblos-beach"
+    },
+    {
+      "name": "Jardin Tropezina",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/ramatuelle/ramatuelle/jardin-tropezina"
+    },
+    {
+      "name": "La Réserve à la Plage",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/ramatuelle/ramatuelle/la-rserve-la-plage"
+    },
+    {
+      "name": "La Voile - La Réserve Ramatuelle",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/ramatuelle/ramatuelle/la-voile-la-rserve-ramatuelle"
+    }
+  ]
+}

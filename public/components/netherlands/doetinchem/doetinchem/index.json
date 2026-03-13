@@ -1,0 +1,32 @@
+{
+  "title": "Doetinchem",
+  "country": "netherlands",
+  "region": "doetinchem",
+  "city": "doetinchem",
+  "restaurants": [
+    {
+      "name": "LEV Foodbar",
+      "cuisine": "Modern French, International",
+      "price": "€€",
+      "path": "/netherlands/doetinchem/doetinchem/lev-foodbar"
+    },
+    {
+      "name": "Lokaal",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/netherlands/doetinchem/doetinchem/lokaal"
+    },
+    {
+      "name": "Orangerie De Pol",
+      "cuisine": "Farm to table, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/netherlands/doetinchem/doetinchem/orangerie-de-pol"
+    },
+    {
+      "name": "Raedthuys",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/netherlands/doetinchem/doetinchem/raedthuys"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Segovia",
+  "country": "spain",
+  "region": "segovia",
+  "city": "segovia",
+  "restaurants": [
+    {
+      "name": "Casa Silvano-Maracaibo",
+      "cuisine": "Contemporary, Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/segovia/segovia/casa-silvano-maracaibo"
+    },
+    {
+      "name": "José María",
+      "cuisine": "Traditional Cuisine, Regional Cuisine",
+      "price": "€€",
+      "path": "/spain/segovia/segovia/jos-mara"
+    },
+    {
+      "name": "Villena",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/segovia/segovia/villena"
+    }
+  ]
+}

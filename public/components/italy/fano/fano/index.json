@@ -1,0 +1,32 @@
+{
+  "title": "Fano",
+  "country": "italy",
+  "region": "fano",
+  "city": "fano",
+  "restaurants": [
+    {
+      "name": "Alla Lanterna",
+      "cuisine": "Seafood, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/fano/fano/alla-lanterna"
+    },
+    {
+      "name": "Cile's",
+      "cuisine": "Seafood, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/fano/fano/ciles"
+    },
+    {
+      "name": "Il Galeone",
+      "cuisine": "Seafood, Italian",
+      "price": "€€",
+      "path": "/italy/fano/fano/il-galeone"
+    },
+    {
+      "name": "Osteria dalla Peppa",
+      "cuisine": "Cuisine from the Marches, Traditional Cuisine",
+      "price": "€",
+      "path": "/italy/fano/fano/osteria-dalla-peppa"
+    }
+  ]
+}

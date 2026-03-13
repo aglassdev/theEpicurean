@@ -1,0 +1,32 @@
+{
+  "title": "Durbuy",
+  "country": "belgium",
+  "region": "durbuy",
+  "city": "durbuy",
+  "restaurants": [
+    {
+      "name": "Durbuy Ô",
+      "cuisine": "Traditional Cuisine, Country cooking",
+      "price": "€€",
+      "path": "/belgium/durbuy/durbuy/durbuy"
+    },
+    {
+      "name": "La Bru'sserie",
+      "cuisine": "World Cuisine, International",
+      "price": "€€€",
+      "path": "/belgium/durbuy/durbuy/la-brusserie"
+    },
+    {
+      "name": "Le Grand Verre",
+      "cuisine": "Modern French, International",
+      "price": "€€€€",
+      "path": "/belgium/durbuy/durbuy/le-grand-verre"
+    },
+    {
+      "name": "Wagyu",
+      "cuisine": "Meats and Grills, Grills",
+      "price": "€€€",
+      "path": "/belgium/durbuy/durbuy/wagyu"
+    }
+  ]
+}

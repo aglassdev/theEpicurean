@@ -1,0 +1,20 @@
+{
+  "title": "Holywood",
+  "country": "uk",
+  "region": "holywood",
+  "city": "holywood",
+  "restaurants": [
+    {
+      "name": "Fontana",
+      "cuisine": "Modern British",
+      "price": "££",
+      "path": "/uk/holywood/holywood/fontana"
+    },
+    {
+      "name": "Noble",
+      "cuisine": "Modern Cuisine",
+      "price": "££",
+      "path": "/uk/holywood/holywood/noble"
+    }
+  ]
+}

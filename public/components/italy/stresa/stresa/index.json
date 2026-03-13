@@ -1,0 +1,44 @@
+{
+  "title": "Stresa",
+  "country": "italy",
+  "region": "stresa",
+  "city": "stresa",
+  "restaurants": [
+    {
+      "name": "La Botte",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/stresa/stresa/la-botte"
+    },
+    {
+      "name": "LeBolle",
+      "cuisine": "Italian Contemporary, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/stresa/stresa/lebolle"
+    },
+    {
+      "name": "Lo Stornello",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/stresa/stresa/lo-stornello"
+    },
+    {
+      "name": "Osteria Mercato",
+      "cuisine": "Italian Contemporary, Contemporary",
+      "price": "€€",
+      "path": "/italy/stresa/stresa/osteria-mercato"
+    },
+    {
+      "name": "Verbano",
+      "cuisine": "Italian, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/italy/stresa/stresa/verbano"
+    },
+    {
+      "name": "Villa Pizzini",
+      "cuisine": "Country cooking, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/stresa/stresa/villa-pizzini"
+    }
+  ]
+}

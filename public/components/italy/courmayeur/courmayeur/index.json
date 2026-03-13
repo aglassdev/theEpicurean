@@ -1,0 +1,26 @@
+{
+  "title": "Courmayeur",
+  "country": "italy",
+  "region": "courmayeur",
+  "city": "courmayeur",
+  "restaurants": [
+    {
+      "name": "Bistrot Royal",
+      "cuisine": "Alpine, Regional Cuisine",
+      "price": "€€€",
+      "path": "/italy/courmayeur/courmayeur/bistrot-royal"
+    },
+    {
+      "name": "Enoteca L'Armadillo",
+      "cuisine": "Fusion, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/courmayeur/courmayeur/enoteca-larmadillo"
+    },
+    {
+      "name": "Pierre Alexis 1877",
+      "cuisine": "Traditional Cuisine, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/courmayeur/courmayeur/pierre-alexis-1877"
+    }
+  ]
+}

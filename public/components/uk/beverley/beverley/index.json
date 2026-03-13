@@ -1,0 +1,20 @@
+{
+  "title": "Beverley",
+  "country": "uk",
+  "region": "beverley",
+  "city": "beverley",
+  "restaurants": [
+    {
+      "name": "Westwood",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/beverley/beverley/westwood"
+    },
+    {
+      "name": "Whites",
+      "cuisine": "Modern Cuisine",
+      "price": "£££",
+      "path": "/uk/beverley/beverley/whites"
+    }
+  ]
+}

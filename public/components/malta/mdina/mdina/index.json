@@ -1,0 +1,32 @@
+{
+  "title": "Mdina",
+  "country": "malta",
+  "region": "mdina",
+  "city": "mdina",
+  "restaurants": [
+    {
+      "name": "De Mondion",
+      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/malta/mdina/mdina/de-mondion"
+    },
+    {
+      "name": "Scala",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/malta/mdina/mdina/scala"
+    },
+    {
+      "name": "The Fork and Cork",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€",
+      "path": "/malta/mdina/mdina/the-fork-and-cork"
+    },
+    {
+      "name": "The Medina",
+      "cuisine": "Mediterranean Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/malta/mdina/mdina/the-medina"
+    }
+  ]
+}

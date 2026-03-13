@@ -1,0 +1,38 @@
+{
+  "title": "Cahors",
+  "country": "france",
+  "region": "cahors",
+  "city": "cahors",
+  "restaurants": [
+    {
+      "name": "Bonnie",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/france/cahors/cahors/bonnie"
+    },
+    {
+      "name": "Chez Suzanne",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/cahors/cahors/chez-suzanne"
+    },
+    {
+      "name": "L'Ô à la Bouche",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/cahors/cahors/l-la-bouche"
+    },
+    {
+      "name": "Le Bistro 1911",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/france/cahors/cahors/le-bistro-1911"
+    },
+    {
+      "name": "Tandem",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/cahors/cahors/tandem"
+    }
+  ]
+}

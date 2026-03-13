@@ -1,0 +1,32 @@
+{
+  "title": "Dole",
+  "country": "france",
+  "region": "dole",
+  "city": "dole",
+  "restaurants": [
+    {
+      "name": "Grain de Sel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/dole/dole/grain-de-sel"
+    },
+    {
+      "name": "Iida-Ya",
+      "cuisine": "Japanese",
+      "price": "€€",
+      "path": "/france/dole/dole/iida-ya"
+    },
+    {
+      "name": "La Bagatelle",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/dole/dole/la-bagatelle"
+    },
+    {
+      "name": "La Chaumière",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/dole/dole/la-chaumire"
+    }
+  ]
+}

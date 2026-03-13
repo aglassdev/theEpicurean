@@ -1,0 +1,32 @@
+{
+  "title": "Olbia",
+  "country": "italy",
+  "region": "olbia",
+  "city": "olbia",
+  "restaurants": [
+    {
+      "name": "Bacchus",
+      "cuisine": "Sardinian",
+      "price": "€€",
+      "path": "/italy/olbia/olbia/bacchus"
+    },
+    {
+      "name": "Bacchus",
+      "cuisine": "Sardinian, Italian",
+      "price": "€€",
+      "path": "/italy/olbia/olbia/bacchus"
+    },
+    {
+      "name": "Dulchemente",
+      "cuisine": "Seafood, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/olbia/olbia/dulchemente"
+    },
+    {
+      "name": "Essenza Bistrot",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/olbia/olbia/essenza-bistrot"
+    }
+  ]
+}

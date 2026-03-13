@@ -1,0 +1,32 @@
+{
+  "title": "Glottertal",
+  "country": "germany",
+  "region": "glottertal",
+  "city": "glottertal",
+  "restaurants": [
+    {
+      "name": "Gasthaus Adler",
+      "cuisine": "Country cooking, Traditional Cuisine",
+      "price": "€€",
+      "path": "/germany/glottertal/glottertal/gasthaus-adler"
+    },
+    {
+      "name": "Hirschen",
+      "cuisine": "Classic Cuisine",
+      "price": "€€",
+      "path": "/germany/glottertal/glottertal/hirschen"
+    },
+    {
+      "name": "Wirtshaus zur Sonne",
+      "cuisine": "Country cooking, Classic Cuisine",
+      "price": "€€",
+      "path": "/germany/glottertal/glottertal/wirtshaus-zur-sonne"
+    },
+    {
+      "name": "Zum Goldenen Engel",
+      "cuisine": "Country cooking, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/germany/glottertal/glottertal/zum-goldenen-engel"
+    }
+  ]
+}

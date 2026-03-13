@@ -1,0 +1,26 @@
+{
+  "title": "Capbreton",
+  "country": "france",
+  "region": "capbreton",
+  "city": "capbreton",
+  "restaurants": [
+    {
+      "name": "Goustut",
+      "cuisine": "Modern Cuisine, Seafood",
+      "price": "€€",
+      "path": "/france/capbreton/capbreton/goustut"
+    },
+    {
+      "name": "La Cuisine",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/capbreton/capbreton/la-cuisine"
+    },
+    {
+      "name": "La Petite Table",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/capbreton/capbreton/la-petite-table"
+    }
+  ]
+}

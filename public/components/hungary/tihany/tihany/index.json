@@ -1,0 +1,26 @@
+{
+  "title": "Tihany",
+  "country": "hungary",
+  "region": "tihany",
+  "city": "tihany",
+  "restaurants": [
+    {
+      "name": "füge",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/hungary/tihany/tihany/fge"
+    },
+    {
+      "name": "SHO TIHANY",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/hungary/tihany/tihany/sho-tihany"
+    },
+    {
+      "name": "Tihanyi Vinarius",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/hungary/tihany/tihany/tihanyi-vinarius"
+    }
+  ]
+}

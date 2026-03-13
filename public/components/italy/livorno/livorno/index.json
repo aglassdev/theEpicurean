@@ -1,0 +1,26 @@
+{
+  "title": "Livorno",
+  "country": "italy",
+  "region": "livorno",
+  "city": "livorno",
+  "restaurants": [
+    {
+      "name": "Azzighe",
+      "cuisine": "Tuscan, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/livorno/livorno/azzighe"
+    },
+    {
+      "name": "Azzighe • Osteria a metà",
+      "cuisine": "Tuscan, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/livorno/livorno/azzighe-osteria-a-met"
+    },
+    {
+      "name": "Nannini",
+      "cuisine": "Seafood, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/livorno/livorno/nannini"
+    }
+  ]
+}

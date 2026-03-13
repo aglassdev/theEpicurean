@@ -1,0 +1,32 @@
+{
+  "title": "Terrassa",
+  "country": "spain",
+  "region": "terrassa",
+  "city": "terrassa",
+  "restaurants": [
+    {
+      "name": "Casa Nita",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/spain/terrassa/terrassa/casa-nita"
+    },
+    {
+      "name": "El Cel de les Oques",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/spain/terrassa/terrassa/el-cel-de-les-oques"
+    },
+    {
+      "name": "La Bodeguilla",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/terrassa/terrassa/la-bodeguilla"
+    },
+    {
+      "name": "Vapor Gastronòmic",
+      "cuisine": "Regional Cuisine",
+      "price": "€",
+      "path": "/spain/terrassa/terrassa/vapor-gastronmic"
+    }
+  ]
+}

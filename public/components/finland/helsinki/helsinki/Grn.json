@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Grön",
+  "address": "Albertinkatu 36, Helsinki, 00180, Finland",
+  "cuisine": "Creative, Regional Cuisine",
+  "priceRange": "€€€€",
+  "phoneNumber": "+358503289181",
+  "website": "https://www.restaurantgron.com/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "A seasonal and sustainable ethos runs throughout this cosy, passionately run restaurant – neatly demonstrated by its shelves filled with jars of fermenting foodstuffs. The all-Scandinavian ingredients – like glistening Norwegian cod – are at the heart of the cooking, with a real purity to the best of the dishes. Vegetables get a chance to shine too, and there’s a vegan menu available if you want to experience this to the full. Dishes are brought to the table by the chefs, and the natural wine flights are well-chosen....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Albertinkatu%2036%2C%20Helsinki%2C%2000180%2C%20Finland",
+  "pageTitle": "Grön"
+}

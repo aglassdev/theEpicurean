@@ -1,0 +1,32 @@
+{
+  "title": "Bremen",
+  "country": "germany",
+  "region": "bremen",
+  "city": "bremen",
+  "restaurants": [
+    {
+      "name": "Al Pappagallo",
+      "cuisine": "Italian",
+      "price": "€€€",
+      "path": "/germany/bremen/bremen/al-pappagallo"
+    },
+    {
+      "name": "alto",
+      "cuisine": "Contemporary, Farm to table",
+      "price": "€€€",
+      "path": "/germany/bremen/bremen/alto"
+    },
+    {
+      "name": "Chapeau La Vache",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/germany/bremen/bremen/chapeau-la-vache"
+    },
+    {
+      "name": "Park Restaurant",
+      "cuisine": "Contemporary, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/bremen/bremen/park-restaurant"
+    }
+  ]
+}

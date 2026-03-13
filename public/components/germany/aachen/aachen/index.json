@@ -1,0 +1,44 @@
+{
+  "title": "Aachen",
+  "country": "germany",
+  "region": "aachen",
+  "city": "aachen",
+  "restaurants": [
+    {
+      "name": "Bistro",
+      "cuisine": "Classic Cuisine",
+      "price": "€€",
+      "path": "/germany/aachen/aachen/bistro"
+    },
+    {
+      "name": "Bistro",
+      "cuisine": "Classic French, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/germany/aachen/aachen/bistro"
+    },
+    {
+      "name": "dario&",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€",
+      "path": "/germany/aachen/aachen/dario"
+    },
+    {
+      "name": "La Bécasse",
+      "cuisine": "Classic French",
+      "price": "€€€€",
+      "path": "/germany/aachen/aachen/la-bcasse"
+    },
+    {
+      "name": "plaisir by Hamid Heidarzadeh",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/germany/aachen/aachen/plaisir-by-hamid-heidarzadeh"
+    },
+    {
+      "name": "Sankt Benedikt",
+      "cuisine": "Creative, Modern French",
+      "price": "€€€€",
+      "path": "/germany/aachen/aachen/sankt-benedikt"
+    }
+  ]
+}

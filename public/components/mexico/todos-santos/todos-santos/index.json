@@ -1,0 +1,32 @@
+{
+  "title": "Todos Santos",
+  "country": "mexico",
+  "region": "todos-santos",
+  "city": "todos-santos",
+  "restaurants": [
+    {
+      "name": "Benno",
+      "cuisine": "Mexican, Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/mexico/todos-santos/todos-santos/benno"
+    },
+    {
+      "name": "DŪM",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/todos-santos/todos-santos/dm"
+    },
+    {
+      "name": "Oystera",
+      "cuisine": "Seafood, Mexican",
+      "price": "$$$$",
+      "path": "/mexico/todos-santos/todos-santos/oystera"
+    },
+    {
+      "name": "TENOCH by Paradero Todos Santos",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$$",
+      "path": "/mexico/todos-santos/todos-santos/tenoch-by-paradero-todos-santos"
+    }
+  ]
+}

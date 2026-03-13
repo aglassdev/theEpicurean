@@ -1,0 +1,26 @@
+{
+  "title": "Borgerhout",
+  "country": "belgium",
+  "region": "borgerhout",
+  "city": "borgerhout",
+  "restaurants": [
+    {
+      "name": "Atelier Maple",
+      "cuisine": "Creative, Farm to table",
+      "price": "€€€€",
+      "path": "/belgium/borgerhout/borgerhout/atelier-maple"
+    },
+    {
+      "name": "Bloesem",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/belgium/borgerhout/borgerhout/bloesem"
+    },
+    {
+      "name": "Glou Glou",
+      "cuisine": "Creative French, Fusion",
+      "price": "€€",
+      "path": "/belgium/borgerhout/borgerhout/glou-glou"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Le Havre",
+  "country": "france",
+  "region": "le-havre",
+  "city": "le-havre",
+  "restaurants": [
+    {
+      "name": "Jean-Luc Tartarin",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/le-havre/le-havre/jean-luc-tartarin"
+    },
+    {
+      "name": "Le Bouche à Oreille",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/le-havre/le-havre/le-bouche-oreille"
+    },
+    {
+      "name": "Le Margote",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€",
+      "path": "/france/le-havre/le-havre/le-margote"
+    }
+  ]
+}

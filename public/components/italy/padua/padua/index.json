@@ -1,0 +1,44 @@
+{
+  "title": "Padua",
+  "country": "italy",
+  "region": "padua",
+  "city": "padua",
+  "restaurants": [
+    {
+      "name": "Ai Porteghi Bistrot",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/italy/padua/padua/ai-porteghi-bistrot"
+    },
+    {
+      "name": "Belle Parti",
+      "cuisine": "Classic Cuisine, Seafood",
+      "price": "€€",
+      "path": "/italy/padua/padua/belle-parti"
+    },
+    {
+      "name": "Enotavola Pino",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/italy/padua/padua/enotavola-pino"
+    },
+    {
+      "name": "Exforo",
+      "cuisine": "Contemporary, Italian",
+      "price": "€€€",
+      "path": "/italy/padua/padua/exforo"
+    },
+    {
+      "name": "Stefano Mocellin al Padovanino",
+      "cuisine": "Creative, Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/padua/padua/stefano-mocellin-al-padovanino"
+    },
+    {
+      "name": "Tola Rasa",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/italy/padua/padua/tola-rasa"
+    }
+  ]
+}

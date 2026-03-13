@@ -1,0 +1,20 @@
+{
+  "title": "Tournemire",
+  "country": "france",
+  "region": "tournemire",
+  "city": "tournemire",
+  "restaurants": [
+    {
+      "name": "La Petite Grange",
+      "cuisine": "Regional Cuisine",
+      "price": "€€",
+      "path": "/france/tournemire/tournemire/la-petite-grange"
+    },
+    {
+      "name": "Le Puy Tilleul",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/tournemire/tournemire/le-puy-tilleul"
+    }
+  ]
+}

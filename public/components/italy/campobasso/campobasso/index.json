@@ -1,0 +1,26 @@
+{
+  "title": "Campobasso",
+  "country": "italy",
+  "region": "campobasso",
+  "city": "campobasso",
+  "restaurants": [
+    {
+      "name": "Aciniello",
+      "cuisine": "Traditional Cuisine, Regional Cuisine",
+      "price": "€",
+      "path": "/italy/campobasso/campobasso/aciniello"
+    },
+    {
+      "name": "Emozioni",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/campobasso/campobasso/emozioni"
+    },
+    {
+      "name": "Miseria e Nobiltà",
+      "cuisine": "Regional Cuisine",
+      "price": "€",
+      "path": "/italy/campobasso/campobasso/miseria-e-nobilt"
+    }
+  ]
+}

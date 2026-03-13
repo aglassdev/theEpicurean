@@ -1,0 +1,26 @@
+{
+  "title": "Tain Lhermitage",
+  "country": "france",
+  "region": "tain-lhermitage",
+  "city": "tain-lhermitage",
+  "restaurants": [
+    {
+      "name": "La Cage aux Fleurs",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/tain-lhermitage/tain-lhermitage/la-cage-aux-fleurs"
+    },
+    {
+      "name": "Le Mangevins",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/tain-lhermitage/tain-lhermitage/le-mangevins"
+    },
+    {
+      "name": "Le Quai",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/tain-lhermitage/tain-lhermitage/le-quai"
+    }
+  ]
+}

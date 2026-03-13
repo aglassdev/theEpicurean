@@ -1,0 +1,44 @@
+{
+  "title": "Trento",
+  "country": "italy",
+  "region": "trento",
+  "city": "trento",
+  "restaurants": [
+    {
+      "name": "Augurio",
+      "cuisine": "Country cooking, Contemporary",
+      "price": "€€€",
+      "path": "/italy/trento/trento/augurio"
+    },
+    {
+      "name": "Il Sommelier",
+      "cuisine": "Italian Contemporary, Seafood",
+      "price": "€€€",
+      "path": "/italy/trento/trento/il-sommelier"
+    },
+    {
+      "name": "La Maison de Filip",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/trento/trento/la-maison-de-filip"
+    },
+    {
+      "name": "Osteria a Le Due Spade",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€",
+      "path": "/italy/trento/trento/osteria-a-le-due-spade"
+    },
+    {
+      "name": "Osteria Il Cappello",
+      "cuisine": "Classic Cuisine, Italian",
+      "price": "€€",
+      "path": "/italy/trento/trento/osteria-il-cappello"
+    },
+    {
+      "name": "Scrigno del Duomo",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/trento/trento/scrigno-del-duomo"
+    }
+  ]
+}

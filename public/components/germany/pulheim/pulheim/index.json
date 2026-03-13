@@ -1,0 +1,20 @@
+{
+  "title": "Pulheim",
+  "country": "germany",
+  "region": "pulheim",
+  "city": "pulheim",
+  "restaurants": [
+    {
+      "name": "Bistro",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/germany/pulheim/pulheim/bistro"
+    },
+    {
+      "name": "Gut Lärchenhof",
+      "cuisine": "Modern French, Creative",
+      "price": "€€€€",
+      "path": "/germany/pulheim/pulheim/gut-lrchenhof"
+    }
+  ]
+}

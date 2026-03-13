@@ -1,0 +1,32 @@
+{
+  "title": "Ettlingen",
+  "country": "germany",
+  "region": "ettlingen",
+  "city": "ettlingen",
+  "restaurants": [
+    {
+      "name": "Die Ratsstuben",
+      "cuisine": "International",
+      "price": "€€€",
+      "path": "/germany/ettlingen/ettlingen/die-ratsstuben"
+    },
+    {
+      "name": "Erbprinz",
+      "cuisine": "Classic Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/ettlingen/ettlingen/erbprinz"
+    },
+    {
+      "name": "Hartmaier's Villa",
+      "cuisine": "International, Farm to table",
+      "price": "€€€",
+      "path": "/germany/ettlingen/ettlingen/hartmaiers-villa"
+    },
+    {
+      "name": "Weinstube Sibylla",
+      "cuisine": "Country cooking, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/germany/ettlingen/ettlingen/weinstube-sibylla"
+    }
+  ]
+}

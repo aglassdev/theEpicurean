@@ -1,0 +1,26 @@
+{
+  "title": "Gmenos",
+  "country": "france",
+  "region": "gmenos",
+  "city": "gmenos",
+  "restaurants": [
+    {
+      "name": "La Magdeleine - Mathias Dandine",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/gmenos/gmenos/la-magdeleine-mathias-dandine"
+    },
+    {
+      "name": "Le Grand Café",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/gmenos/gmenos/le-grand-caf"
+    },
+    {
+      "name": "Les Arômes",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/france/gmenos/gmenos/les-armes"
+    }
+  ]
+}

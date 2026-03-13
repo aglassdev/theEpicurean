@@ -1,0 +1,44 @@
+{
+  "title": "Cannes",
+  "country": "france",
+  "region": "cannes",
+  "city": "cannes",
+  "restaurants": [
+    {
+      "name": "Aux Bons Enfants",
+      "cuisine": "Provençal",
+      "price": "€€",
+      "path": "/france/cannes/cannes/aux-bons-enfants"
+    },
+    {
+      "name": "La Palme d'Or",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/cannes/cannes/la-palme-dor"
+    },
+    {
+      "name": "La Table du Chef",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/cannes/cannes/la-table-du-chef"
+    },
+    {
+      "name": "L'Affable",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/cannes/cannes/laffable"
+    },
+    {
+      "name": "Riviera",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/cannes/cannes/riviera"
+    },
+    {
+      "name": "Table 22 par Noël Mantel",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/cannes/cannes/table-22-par-nol-mantel"
+    }
+  ]
+}

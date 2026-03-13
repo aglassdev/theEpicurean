@@ -1,0 +1,32 @@
+{
+  "title": "Gamlitz",
+  "country": "austria",
+  "region": "gamlitz",
+  "city": "gamlitz",
+  "restaurants": [
+    {
+      "name": "Lilli & Jojo",
+      "cuisine": "Farm to table, Classic Cuisine",
+      "price": "€€",
+      "path": "/austria/gamlitz/gamlitz/lilli-jojo"
+    },
+    {
+      "name": "Sattlerhof",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/austria/gamlitz/gamlitz/sattlerhof"
+    },
+    {
+      "name": "Sattlerhof - Wirtshaus",
+      "cuisine": "Seasonal Cuisine, Classic Cuisine",
+      "price": "€€",
+      "path": "/austria/gamlitz/gamlitz/sattlerhof-wirtshaus"
+    },
+    {
+      "name": "Weinkehr",
+      "cuisine": "Austrian",
+      "price": "€€",
+      "path": "/austria/gamlitz/gamlitz/weinkehr"
+    }
+  ]
+}

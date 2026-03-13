@@ -1,0 +1,26 @@
+{
+  "title": "Wolfsburg",
+  "country": "germany",
+  "region": "wolfsburg",
+  "city": "wolfsburg",
+  "restaurants": [
+    {
+      "name": "Aqua",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/wolfsburg/wolfsburg/aqua"
+    },
+    {
+      "name": "Lang is her",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/wolfsburg/wolfsburg/lang-is-her"
+    },
+    {
+      "name": "Terra",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/germany/wolfsburg/wolfsburg/terra"
+    }
+  ]
+}

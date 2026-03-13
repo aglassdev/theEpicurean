@@ -1,0 +1,20 @@
+{
+  "title": "Leeds",
+  "country": "uk",
+  "region": "leeds",
+  "city": "leeds",
+  "restaurants": [
+    {
+      "name": "emba",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/leeds/leeds/emba"
+    },
+    {
+      "name": "Ox Club",
+      "cuisine": "Meats and Grills, Barbecue",
+      "price": "£££",
+      "path": "/uk/leeds/leeds/ox-club"
+    }
+  ]
+}

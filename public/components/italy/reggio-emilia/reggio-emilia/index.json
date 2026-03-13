@@ -1,0 +1,26 @@
+{
+  "title": "Reggio Emilia",
+  "country": "italy",
+  "region": "reggio-emilia",
+  "city": "reggio-emilia",
+  "restaurants": [
+    {
+      "name": "A Mangiare",
+      "cuisine": "Regional Cuisine, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/reggio-emilia/reggio-emilia/a-mangiare"
+    },
+    {
+      "name": "Enigma Restaurant",
+      "cuisine": "Regional Cuisine, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/italy/reggio-emilia/reggio-emilia/enigma-restaurant"
+    },
+    {
+      "name": "Il Pozzo",
+      "cuisine": "Traditional Cuisine, Country cooking",
+      "price": "€€",
+      "path": "/italy/reggio-emilia/reggio-emilia/il-pozzo"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Csopak",
+  "country": "hungary",
+  "region": "csopak",
+  "city": "csopak",
+  "restaurants": [
+    {
+      "name": "Csopaki Resti",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/hungary/csopak/csopak/csopaki-resti"
+    },
+    {
+      "name": "Petrányi Csopak",
+      "cuisine": "Traditional Cuisine, Hungarian",
+      "price": "€€",
+      "path": "/hungary/csopak/csopak/petrnyi-csopak"
+    },
+    {
+      "name": "Víg Molnár Csárda",
+      "cuisine": "Traditional Cuisine",
+      "price": "€",
+      "path": "/hungary/csopak/csopak/vg-molnr-csrda"
+    }
+  ]
+}

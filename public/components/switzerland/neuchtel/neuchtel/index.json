@@ -1,0 +1,26 @@
+{
+  "title": "Neuchtel",
+  "country": "switzerland",
+  "region": "neuchtel",
+  "city": "neuchtel",
+  "restaurants": [
+    {
+      "name": "La Dispensa",
+      "cuisine": "Italian, Contemporary",
+      "price": "€€",
+      "path": "/switzerland/neuchtel/neuchtel/la-dispensa"
+    },
+    {
+      "name": "La Table du Palafitte",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/neuchtel/neuchtel/la-table-du-palafitte"
+    },
+    {
+      "name": "Restaurant de l'Hôtel DuPeyrou",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/neuchtel/neuchtel/restaurant-de-lhtel-dupeyrou"
+    }
+  ]
+}

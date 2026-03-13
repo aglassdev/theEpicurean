@@ -1,0 +1,20 @@
+{
+  "title": "Montlimar",
+  "country": "france",
+  "region": "montlimar",
+  "city": "montlimar",
+  "restaurants": [
+    {
+      "name": "La Petite France",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/montlimar/montlimar/la-petite-france"
+    },
+    {
+      "name": "Le Moderne",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/montlimar/montlimar/le-moderne"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Porto Cervo",
+  "country": "italy",
+  "region": "porto-cervo",
+  "city": "porto-cervo",
+  "restaurants": [
+    {
+      "name": "Belvedere",
+      "cuisine": "Seafood, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/italy/porto-cervo/porto-cervo/belvedere"
+    },
+    {
+      "name": "Frades La Terrazza",
+      "cuisine": "Mediterranean Cuisine, Sardinian",
+      "price": "€€€",
+      "path": "/italy/porto-cervo/porto-cervo/frades-la-terrazza"
+    },
+    {
+      "name": "Italo Bassi Confusion Restaurant",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/porto-cervo/porto-cervo/italo-bassi-confusion-restaurant"
+    },
+    {
+      "name": "Lu Pisantinu",
+      "cuisine": "Seafood, Classic Cuisine",
+      "price": "€€€",
+      "path": "/italy/porto-cervo/porto-cervo/lu-pisantinu"
+    }
+  ]
+}

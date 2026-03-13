@@ -1,0 +1,26 @@
+{
+  "title": "Le Beausset",
+  "country": "france",
+  "region": "le-beausset",
+  "city": "le-beausset",
+  "restaurants": [
+    {
+      "name": "Auberge La Cauquière",
+      "cuisine": "Regional Cuisine",
+      "price": "€€",
+      "path": "/france/le-beausset/le-beausset/auberge-la-cauquire"
+    },
+    {
+      "name": "La Ferme Auberge - Domaine de La Font des Pères",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/le-beausset/le-beausset/la-ferme-auberge-domaine-de-la-font-des-pres"
+    },
+    {
+      "name": "La Table de la Font des Pères",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/le-beausset/le-beausset/la-table-de-la-font-des-pres"
+    }
+  ]
+}

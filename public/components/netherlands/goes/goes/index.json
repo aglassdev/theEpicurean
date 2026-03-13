@@ -1,0 +1,44 @@
+{
+  "title": "Goes",
+  "country": "netherlands",
+  "region": "goes",
+  "city": "goes",
+  "restaurants": [
+    {
+      "name": "Codium",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/netherlands/goes/goes/codium"
+    },
+    {
+      "name": "De Kluizenaer",
+      "cuisine": "Modern French",
+      "price": "€€",
+      "path": "/netherlands/goes/goes/de-kluizenaer"
+    },
+    {
+      "name": "Het Binnenhof",
+      "cuisine": "Modern French",
+      "price": "€€",
+      "path": "/netherlands/goes/goes/het-binnenhof"
+    },
+    {
+      "name": "Kale & de Bril",
+      "cuisine": "Farm to table, Country cooking",
+      "price": "€€€",
+      "path": "/netherlands/goes/goes/kale-de-bril"
+    },
+    {
+      "name": "Karel V",
+      "cuisine": "French",
+      "price": "€€",
+      "path": "/netherlands/goes/goes/karel-v"
+    },
+    {
+      "name": "Lilou",
+      "cuisine": "French",
+      "price": "€€",
+      "path": "/netherlands/goes/goes/lilou"
+    }
+  ]
+}

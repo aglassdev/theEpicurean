@@ -1,0 +1,38 @@
+{
+  "title": "Xbia",
+  "country": "spain",
+  "region": "xbia",
+  "city": "xbia",
+  "restaurants": [
+    {
+      "name": "BonAmb",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/xbia/xbia/bonamb"
+    },
+    {
+      "name": "La Perla de Jávea",
+      "cuisine": "Traditional Cuisine, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/spain/xbia/xbia/la-perla-de-jvea"
+    },
+    {
+      "name": "Tosca",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/xbia/xbia/tosca"
+    },
+    {
+      "name": "Tula",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€",
+      "path": "/spain/xbia/xbia/tula"
+    },
+    {
+      "name": "Volta i Volta",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€",
+      "path": "/spain/xbia/xbia/volta-i-volta"
+    }
+  ]
+}

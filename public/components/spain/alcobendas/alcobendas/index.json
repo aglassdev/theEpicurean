@@ -1,0 +1,26 @@
+{
+  "title": "Alcobendas",
+  "country": "spain",
+  "region": "alcobendas",
+  "city": "alcobendas",
+  "restaurants": [
+    {
+      "name": "99 sushi bar",
+      "cuisine": "Japanese",
+      "price": "€€€",
+      "path": "/spain/alcobendas/alcobendas/99-sushi-bar"
+    },
+    {
+      "name": "A'Kangas by Urrechu",
+      "cuisine": "Meats and Grills",
+      "price": "€€",
+      "path": "/spain/alcobendas/alcobendas/akangas-by-urrechu"
+    },
+    {
+      "name": "El Barril de La Moraleja",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/spain/alcobendas/alcobendas/el-barril-de-la-moraleja"
+    }
+  ]
+}

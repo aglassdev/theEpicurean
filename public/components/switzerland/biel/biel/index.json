@@ -1,0 +1,32 @@
+{
+  "title": "Biel",
+  "country": "switzerland",
+  "region": "biel",
+  "city": "biel",
+  "restaurants": [
+    {
+      "name": "Du Bourg",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/biel/biel/du-bourg"
+    },
+    {
+      "name": "Lokal",
+      "cuisine": "Seasonal Cuisine, Modern Cuisine",
+      "price": "€€",
+      "path": "/switzerland/biel/biel/lokal"
+    },
+    {
+      "name": "Perroquet Vert",
+      "cuisine": "French, Traditional Cuisine",
+      "price": "€€",
+      "path": "/switzerland/biel/biel/perroquet-vert"
+    },
+    {
+      "name": "Repas",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/switzerland/biel/biel/repas"
+    }
+  ]
+}

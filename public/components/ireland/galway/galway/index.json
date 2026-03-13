@@ -1,0 +1,32 @@
+{
+  "title": "Galway",
+  "country": "ireland",
+  "region": "galway",
+  "city": "galway",
+  "restaurants": [
+    {
+      "name": "Aniar",
+      "cuisine": "Modern Cuisine, Irish",
+      "price": "€€€€",
+      "path": "/ireland/galway/galway/aniar"
+    },
+    {
+      "name": "daróg",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/ireland/galway/galway/darg"
+    },
+    {
+      "name": "Kai Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/ireland/galway/galway/kai-restaurant"
+    },
+    {
+      "name": "The Pullman",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/ireland/galway/galway/the-pullman"
+    }
+  ]
+}

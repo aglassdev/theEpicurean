@@ -1,0 +1,32 @@
+{
+  "title": "Cagnes Sur Mer",
+  "country": "france",
+  "region": "cagnes-sur-mer",
+  "city": "cagnes-sur-mer",
+  "restaurants": [
+    {
+      "name": "Château Le Cagnard",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/cagnes-sur-mer/cagnes-sur-mer/chteau-le-cagnard"
+    },
+    {
+      "name": "Fleur de Sel",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/cagnes-sur-mer/cagnes-sur-mer/fleur-de-sel"
+    },
+    {
+      "name": "La Table de Kamiya",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/cagnes-sur-mer/cagnes-sur-mer/la-table-de-kamiya"
+    },
+    {
+      "name": "L'Agapè",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/cagnes-sur-mer/cagnes-sur-mer/lagap"
+    }
+  ]
+}

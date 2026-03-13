@@ -1,0 +1,26 @@
+{
+  "title": "Maribor",
+  "country": "slovenia",
+  "region": "maribor",
+  "city": "maribor",
+  "restaurants": [
+    {
+      "name": "City Terasa",
+      "cuisine": "Mediterranean Cuisine, Grills",
+      "price": "€€",
+      "path": "/slovenia/maribor/maribor/city-terasa"
+    },
+    {
+      "name": "MAK",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/slovenia/maribor/maribor/mak"
+    },
+    {
+      "name": "Restavracija Sedem",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/slovenia/maribor/maribor/restavracija-sedem"
+    }
+  ]
+}

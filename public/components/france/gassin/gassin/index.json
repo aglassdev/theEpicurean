@@ -1,0 +1,26 @@
+{
+  "title": "Gassin",
+  "country": "france",
+  "region": "gassin",
+  "city": "gassin",
+  "restaurants": [
+    {
+      "name": "Bello Visto",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/gassin/gassin/bello-visto"
+    },
+    {
+      "name": "La Verdoyante",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/gassin/gassin/la-verdoyante"
+    },
+    {
+      "name": "Le Belrose",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/gassin/gassin/le-belrose"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Troyes",
+  "country": "france",
+  "region": "troyes",
+  "city": "troyes",
+  "restaurants": [
+    {
+      "name": "Aux Crieurs de Vin",
+      "cuisine": "Traditional Cuisine",
+      "price": "€",
+      "path": "/france/troyes/troyes/aux-crieurs-de-vin"
+    },
+    {
+      "name": "Caffè Cosi - La trattoria de Bruno Caironi",
+      "cuisine": "Italian",
+      "price": "€€",
+      "path": "/france/troyes/troyes/caff-cosi-la-trattoria-de-bruno-caironi"
+    },
+    {
+      "name": "Claire et Hugo",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/france/troyes/troyes/claire-et-hugo"
+    },
+    {
+      "name": "Le Petit Basson",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/troyes/troyes/le-petit-basson"
+    },
+    {
+      "name": "Le Quai de Champagne",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/troyes/troyes/le-quai-de-champagne"
+    }
+  ]
+}

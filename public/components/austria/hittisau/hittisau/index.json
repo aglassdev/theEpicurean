@@ -1,0 +1,26 @@
+{
+  "title": "Hittisau",
+  "country": "austria",
+  "region": "hittisau",
+  "city": "hittisau",
+  "restaurants": [
+    {
+      "name": "Ernele",
+      "cuisine": "Regional Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/austria/hittisau/hittisau/ernele"
+    },
+    {
+      "name": "Krone Hittisau",
+      "cuisine": "Regional Cuisine",
+      "price": "€€",
+      "path": "/austria/hittisau/hittisau/krone-hittisau"
+    },
+    {
+      "name": "Wälder Stube 1840",
+      "cuisine": "Contemporary, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/austria/hittisau/hittisau/wlder-stube-1840"
+    }
+  ]
+}

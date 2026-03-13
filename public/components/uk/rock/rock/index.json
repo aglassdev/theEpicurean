@@ -1,0 +1,20 @@
+{
+  "title": "Rock",
+  "country": "uk",
+  "region": "rock",
+  "city": "rock",
+  "restaurants": [
+    {
+      "name": "FOUR BOYS",
+      "cuisine": "Seafood",
+      "price": "££",
+      "path": "/uk/rock/rock/four-boys"
+    },
+    {
+      "name": "The Mariners",
+      "cuisine": "Traditional British",
+      "price": "££",
+      "path": "/uk/rock/rock/the-mariners"
+    }
+  ]
+}

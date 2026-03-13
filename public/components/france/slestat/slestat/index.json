@@ -1,0 +1,20 @@
+{
+  "title": "Slestat",
+  "country": "france",
+  "region": "slestat",
+  "city": "slestat",
+  "restaurants": [
+    {
+      "name": "Acolytes",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/slestat/slestat/acolytes"
+    },
+    {
+      "name": "Au Bon Pichet",
+      "cuisine": "Traditional Cuisine, Country cooking",
+      "price": "€€",
+      "path": "/france/slestat/slestat/au-bon-pichet"
+    }
+  ]
+}

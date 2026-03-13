@@ -1,0 +1,32 @@
+{
+  "title": "Manosque",
+  "country": "france",
+  "region": "manosque",
+  "city": "manosque",
+  "restaurants": [
+    {
+      "name": "Chez Bastien",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/manosque/manosque/chez-bastien"
+    },
+    {
+      "name": "Le Bistrot du Chef",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/manosque/manosque/le-bistrot-du-chef"
+    },
+    {
+      "name": "Les Incontournables",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/manosque/manosque/les-incontournables"
+    },
+    {
+      "name": "Restaurant Pierre Grein",
+      "cuisine": "Modern Cuisine, Provençal",
+      "price": "€€€€",
+      "path": "/france/manosque/manosque/restaurant-pierre-grein"
+    }
+  ]
+}

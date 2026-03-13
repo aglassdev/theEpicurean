@@ -1,0 +1,26 @@
+{
+  "title": "Rabat",
+  "country": "malta",
+  "region": "rabat",
+  "city": "rabat",
+  "restaurants": [
+    {
+      "name": "Grotto Tavern",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/malta/rabat/rabat/grotto-tavern"
+    },
+    {
+      "name": "Root 81",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/malta/rabat/rabat/root-81"
+    },
+    {
+      "name": "The Golden Fork",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€",
+      "path": "/malta/rabat/rabat/the-golden-fork"
+    }
+  ]
+}

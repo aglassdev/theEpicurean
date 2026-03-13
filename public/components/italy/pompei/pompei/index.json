@@ -1,0 +1,38 @@
+{
+  "title": "Pompei",
+  "country": "italy",
+  "region": "pompei",
+  "city": "pompei",
+  "restaurants": [
+    {
+      "name": "Capasanta",
+      "cuisine": "Seafood, Contemporary",
+      "price": "€€",
+      "path": "/italy/pompei/pompei/capasanta"
+    },
+    {
+      "name": "CENERE - Museum & Bistrot",
+      "cuisine": "Campanian",
+      "price": "€€",
+      "path": "/italy/pompei/pompei/cenere-museum-bistrot"
+    },
+    {
+      "name": "Cosmo Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/italy/pompei/pompei/cosmo-restaurant"
+    },
+    {
+      "name": "Il Principe",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€",
+      "path": "/italy/pompei/pompei/il-principe"
+    },
+    {
+      "name": "President",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/italy/pompei/pompei/president"
+    }
+  ]
+}

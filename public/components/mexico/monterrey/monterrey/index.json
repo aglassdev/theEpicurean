@@ -1,0 +1,44 @@
+{
+  "title": "Monterrey",
+  "country": "mexico",
+  "region": "monterrey",
+  "city": "monterrey",
+  "restaurants": [
+    {
+      "name": "Fonda San Francisco",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/mexico/monterrey/monterrey/fonda-san-francisco"
+    },
+    {
+      "name": "Jabalina",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/mexico/monterrey/monterrey/jabalina"
+    },
+    {
+      "name": "KOLI Cocina de Origen",
+      "cuisine": "Mexican, Creative",
+      "price": "$$$$",
+      "path": "/mexico/monterrey/monterrey/koli-cocina-de-origen"
+    },
+    {
+      "name": "Tacos Doña Mary La Gritona",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/mexico/monterrey/monterrey/tacos-doa-mary-la-gritona"
+    },
+    {
+      "name": "Tacos El Compadre",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/mexico/monterrey/monterrey/tacos-el-compadre"
+    },
+    {
+      "name": "Tacos Piedra 1",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/mexico/monterrey/monterrey/tacos-piedra-1"
+    }
+  ]
+}

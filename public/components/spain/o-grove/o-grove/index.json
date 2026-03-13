@@ -1,0 +1,38 @@
+{
+  "title": "O Grove",
+  "country": "spain",
+  "region": "o-grove",
+  "city": "o-grove",
+  "restaurants": [
+    {
+      "name": "Beiramar",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/spain/o-grove/o-grove/beiramar"
+    },
+    {
+      "name": "Brasería Sansibar",
+      "cuisine": "Grills",
+      "price": "€€€",
+      "path": "/spain/o-grove/o-grove/brasera-sansibar"
+    },
+    {
+      "name": "Culler de Pau",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/o-grove/o-grove/culler-de-pau"
+    },
+    {
+      "name": "D'Berto",
+      "cuisine": "Seafood, Galician",
+      "price": "€€€€",
+      "path": "/spain/o-grove/o-grove/dberto"
+    },
+    {
+      "name": "Meloxeira Praia",
+      "cuisine": "Contemporary, Regional Cuisine",
+      "price": "€€",
+      "path": "/spain/o-grove/o-grove/meloxeira-praia"
+    }
+  ]
+}

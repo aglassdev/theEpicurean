@@ -1,0 +1,32 @@
+{
+  "title": "Braga",
+  "country": "portugal",
+  "region": "braga",
+  "city": "braga",
+  "restaurants": [
+    {
+      "name": "Esperança Verde",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/portugal/braga/braga/esperana-verde"
+    },
+    {
+      "name": "Inato Bistrô",
+      "cuisine": "Creative, Contemporary",
+      "price": "€",
+      "path": "/portugal/braga/braga/inato-bistr"
+    },
+    {
+      "name": "O Filho da Mãe",
+      "cuisine": "South American",
+      "price": "€",
+      "path": "/portugal/braga/braga/o-filho-da-me"
+    },
+    {
+      "name": "Palatial",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€€",
+      "path": "/portugal/braga/braga/palatial"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Saint Emilion",
+  "country": "france",
+  "region": "saint-emilion",
+  "city": "saint-emilion",
+  "restaurants": [
+    {
+      "name": "Château Grand Barrail",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/saint-emilion/saint-emilion/chteau-grand-barrail"
+    },
+    {
+      "name": "La Table de Pavie",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/saint-emilion/saint-emilion/la-table-de-pavie"
+    },
+    {
+      "name": "Le Tertre",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€",
+      "path": "/france/saint-emilion/saint-emilion/le-tertre"
+    },
+    {
+      "name": "L'Envers du Décor",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/saint-emilion/saint-emilion/lenvers-du-dcor"
+    },
+    {
+      "name": "Les Belles Perdrix de Troplong Mondot",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/saint-emilion/saint-emilion/les-belles-perdrix-de-troplong-mondot"
+    },
+    {
+      "name": "L'Huitrier Pie",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/saint-emilion/saint-emilion/lhuitrier-pie"
+    },
+    {
+      "name": "Logis de la Cadène",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/saint-emilion/saint-emilion/logis-de-la-cadne"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Kervignac",
+  "country": "france",
+  "region": "kervignac",
+  "city": "kervignac",
+  "restaurants": [
+    {
+      "name": "Chai l'amère Kolette",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/kervignac/kervignac/chai-lamre-kolette"
+    },
+    {
+      "name": "La Maison Alyette - Domaine de Locguénolé",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/kervignac/kervignac/la-maison-alyette-domaine-de-locgunol"
+    },
+    {
+      "name": "L'Inattendu - Domaine de Locguénolé",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/kervignac/kervignac/linattendu-domaine-de-locgunol"
+    }
+  ]
+}

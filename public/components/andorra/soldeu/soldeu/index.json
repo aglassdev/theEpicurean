@@ -1,0 +1,26 @@
+{
+  "title": "Soldeu",
+  "country": "andorra",
+  "region": "soldeu",
+  "city": "soldeu",
+  "restaurants": [
+    {
+      "name": "Ibaya",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/andorra/soldeu/soldeu/ibaya"
+    },
+    {
+      "name": "Koy Hermitage",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/andorra/soldeu/soldeu/koy-hermitage"
+    },
+    {
+      "name": "Sol i Neu",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/andorra/soldeu/soldeu/sol-i-neu"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Montaigu",
+  "country": "france",
+  "region": "montaigu",
+  "city": "montaigu",
+  "restaurants": [
+    {
+      "name": "La Robe",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/montaigu/montaigu/la-robe"
+    },
+    {
+      "name": "L'Atelier",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/montaigu/montaigu/latelier"
+    }
+  ]
+}

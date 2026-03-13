@@ -1,0 +1,20 @@
+{
+  "title": "Grardmer",
+  "country": "france",
+  "region": "grardmer",
+  "city": "grardmer",
+  "restaurants": [
+    {
+      "name": "La Table du Rouan",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/grardmer/grardmer/la-table-du-rouan"
+    },
+    {
+      "name": "Les Bas-Rupts",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/france/grardmer/grardmer/les-bas-rupts"
+    }
+  ]
+}

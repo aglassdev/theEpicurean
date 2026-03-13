@@ -1,0 +1,32 @@
+{
+  "title": "Cogne",
+  "country": "italy",
+  "region": "cogne",
+  "city": "cogne",
+  "restaurants": [
+    {
+      "name": "Bar à Fromage",
+      "cuisine": "Cuisine from the Aosta Valley, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/cogne/cogne/bar-fromage"
+    },
+    {
+      "name": "Coeur de Bois",
+      "cuisine": "Cuisine from the Aosta Valley, Classic Cuisine",
+      "price": "€€€",
+      "path": "/italy/cogne/cogne/coeur-de-bois"
+    },
+    {
+      "name": "Le Petit Bellevue",
+      "cuisine": "Italian Contemporary, Cuisine from the Aosta Valley",
+      "price": "€€€€",
+      "path": "/italy/cogne/cogne/le-petit-bellevue"
+    },
+    {
+      "name": "Lou Ressignon",
+      "cuisine": "Cuisine from the Aosta Valley, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/cogne/cogne/lou-ressignon"
+    }
+  ]
+}

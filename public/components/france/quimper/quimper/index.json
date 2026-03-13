@@ -1,0 +1,44 @@
+{
+  "title": "Quimper",
+  "country": "france",
+  "region": "quimper",
+  "city": "quimper",
+  "restaurants": [
+    {
+      "name": "Allium",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/quimper/quimper/allium"
+    },
+    {
+      "name": "Éclosion",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/quimper/quimper/closion"
+    },
+    {
+      "name": "Eskemm",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/quimper/quimper/eskemm"
+    },
+    {
+      "name": "Nous Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/quimper/quimper/nous-restaurant"
+    },
+    {
+      "name": "Sao",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/quimper/quimper/sao"
+    },
+    {
+      "name": "Ti-Coz",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/quimper/quimper/ti-coz"
+    }
+  ]
+}

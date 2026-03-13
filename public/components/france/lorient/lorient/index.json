@@ -1,0 +1,38 @@
+{
+  "title": "Lorient",
+  "country": "france",
+  "region": "lorient",
+  "city": "lorient",
+  "restaurants": [
+    {
+      "name": "Gare aux Goûts",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/lorient/lorient/gare-aux-gots"
+    },
+    {
+      "name": "Le 26-28",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/lorient/lorient/le-26-28"
+    },
+    {
+      "name": "Le Tire Bouchon",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/lorient/lorient/le-tire-bouchon"
+    },
+    {
+      "name": "Le Yachtman",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/france/lorient/lorient/le-yachtman"
+    },
+    {
+      "name": "Louise",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/lorient/lorient/louise"
+    }
+  ]
+}

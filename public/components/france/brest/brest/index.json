@@ -1,0 +1,38 @@
+{
+  "title": "Brest",
+  "country": "france",
+  "region": "brest",
+  "city": "brest",
+  "restaurants": [
+    {
+      "name": "Hinoki",
+      "cuisine": "Japanese, Sushi",
+      "price": "€€€€",
+      "path": "/france/brest/brest/hinoki"
+    },
+    {
+      "name": "La Tentation des Mets",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/brest/brest/la-tentation-des-mets"
+    },
+    {
+      "name": "Le M",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/brest/brest/le-m"
+    },
+    {
+      "name": "L'Embrun",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/brest/brest/lembrun"
+    },
+    {
+      "name": "Peck & Co",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€",
+      "path": "/france/brest/brest/peck-co"
+    }
+  ]
+}

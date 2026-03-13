@@ -1,0 +1,38 @@
+{
+  "title": "Orlans",
+  "country": "france",
+  "region": "orlans",
+  "city": "orlans",
+  "restaurants": [
+    {
+      "name": "Eugène",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/orlans/orlans/eugne"
+    },
+    {
+      "name": "Gric",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/orlans/orlans/gric"
+    },
+    {
+      "name": "La Dariole",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/orlans/orlans/la-dariole"
+    },
+    {
+      "name": "Le Lièvre Gourmand",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/orlans/orlans/le-livre-gourmand"
+    },
+    {
+      "name": "L'Hibiscus",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/orlans/orlans/lhibiscus"
+    }
+  ]
+}

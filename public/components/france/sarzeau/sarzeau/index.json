@@ -1,0 +1,32 @@
+{
+  "title": "Sarzeau",
+  "country": "france",
+  "region": "sarzeau",
+  "city": "sarzeau",
+  "restaurants": [
+    {
+      "name": "Le Kermer",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/sarzeau/sarzeau/le-kermer"
+    },
+    {
+      "name": "Le Manoir de Kerbot",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/sarzeau/sarzeau/le-manoir-de-kerbot"
+    },
+    {
+      "name": "Les Jardins de Kerstéphanie",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/sarzeau/sarzeau/les-jardins-de-kerstphanie"
+    },
+    {
+      "name": "Lesage",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€",
+      "path": "/france/sarzeau/sarzeau/lesage"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Toledo",
+  "country": "spain",
+  "region": "toledo",
+  "city": "toledo",
+  "restaurants": [
+    {
+      "name": "Adolfo",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/toledo/toledo/adolfo"
+    },
+    {
+      "name": "El Albero",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/toledo/toledo/el-albero"
+    },
+    {
+      "name": "Iván Cerdeño",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/toledo/toledo/ivn-cerdeo"
+    },
+    {
+      "name": "La Cábala",
+      "cuisine": "Contemporary, Regional Cuisine",
+      "price": "€€",
+      "path": "/spain/toledo/toledo/la-cbala"
+    },
+    {
+      "name": "Tobiko",
+      "cuisine": "Creative, Fusion",
+      "price": "€€",
+      "path": "/spain/toledo/toledo/tobiko"
+    },
+    {
+      "name": "Víctor Sánchez-Beato",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/spain/toledo/toledo/vctor-snchez-beato"
+    }
+  ]
+}

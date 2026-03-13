@@ -1,0 +1,56 @@
+{
+  "title": "Honfleur",
+  "country": "france",
+  "region": "honfleur",
+  "city": "honfleur",
+  "restaurants": [
+    {
+      "name": "Entre Terre et Mer",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/honfleur/honfleur/entre-terre-et-mer"
+    },
+    {
+      "name": "Huître Brûlée",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€",
+      "path": "/france/honfleur/honfleur/hutre-brle"
+    },
+    {
+      "name": "La Fleur de Sel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/honfleur/honfleur/la-fleur-de-sel"
+    },
+    {
+      "name": "Le Lingot",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/honfleur/honfleur/le-lingot"
+    },
+    {
+      "name": "Le Manoir des Impressionnistes",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/honfleur/honfleur/le-manoir-des-impressionnistes"
+    },
+    {
+      "name": "Les Impressionnistes - La Ferme Saint-Siméon",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/honfleur/honfleur/les-impressionnistes-la-ferme-saint-simon"
+    },
+    {
+      "name": "L'Âtre",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/honfleur/honfleur/ltre"
+    },
+    {
+      "name": "SaQuaNa",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€",
+      "path": "/france/honfleur/honfleur/saquana"
+    }
+  ]
+}

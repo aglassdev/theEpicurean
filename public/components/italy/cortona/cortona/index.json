@@ -1,0 +1,32 @@
+{
+  "title": "Cortona",
+  "country": "italy",
+  "region": "cortona",
+  "city": "cortona",
+  "restaurants": [
+    {
+      "name": "Enoteca Meucci",
+      "cuisine": "Tuscan, Contemporary",
+      "price": "€€",
+      "path": "/italy/cortona/cortona/enoteca-meucci"
+    },
+    {
+      "name": "La Bucaccia",
+      "cuisine": "Tuscan",
+      "price": "€",
+      "path": "/italy/cortona/cortona/la-bucaccia"
+    },
+    {
+      "name": "Locanda del Molino",
+      "cuisine": "Tuscan, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/cortona/cortona/locanda-del-molino"
+    },
+    {
+      "name": "Osteria del Teatro",
+      "cuisine": "Tuscan, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/cortona/cortona/osteria-del-teatro"
+    }
+  ]
+}

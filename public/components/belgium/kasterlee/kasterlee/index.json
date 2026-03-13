@@ -1,0 +1,26 @@
+{
+  "title": "Kasterlee",
+  "country": "belgium",
+  "region": "kasterlee",
+  "city": "kasterlee",
+  "restaurants": [
+    {
+      "name": "KAN10",
+      "cuisine": "World Cuisine, Farm to table",
+      "price": "€€",
+      "path": "/belgium/kasterlee/kasterlee/kan10"
+    },
+    {
+      "name": "Potiron",
+      "cuisine": "Farm to table, Modern Cuisine",
+      "price": "€€€",
+      "path": "/belgium/kasterlee/kasterlee/potiron"
+    },
+    {
+      "name": "Seir",
+      "cuisine": "Creative French, Modern French",
+      "price": "€€€€",
+      "path": "/belgium/kasterlee/kasterlee/seir"
+    }
+  ]
+}

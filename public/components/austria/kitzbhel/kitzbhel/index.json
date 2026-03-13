@@ -1,0 +1,44 @@
+{
+  "title": "Kitzbhel",
+  "country": "austria",
+  "region": "kitzbhel",
+  "city": "kitzbhel",
+  "restaurants": [
+    {
+      "name": "Berggericht",
+      "cuisine": "Modern Cuisine, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/austria/kitzbhel/kitzbhel/berggericht"
+    },
+    {
+      "name": "Les Deux Kitzbühel - Brasserie & Bar",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/austria/kitzbhel/kitzbhel/les-deux-kitzbhel-brasserie-bar"
+    },
+    {
+      "name": "Lois Stern",
+      "cuisine": "Fusion, Asian and Western",
+      "price": "€€",
+      "path": "/austria/kitzbhel/kitzbhel/lois-stern"
+    },
+    {
+      "name": "Mocking das Wirtshaus",
+      "cuisine": "Regional Cuisine, Modern Cuisine",
+      "price": "€€",
+      "path": "/austria/kitzbhel/kitzbhel/mocking-das-wirtshaus"
+    },
+    {
+      "name": "Neuwirt",
+      "cuisine": "International, Regional Cuisine",
+      "price": "€€€",
+      "path": "/austria/kitzbhel/kitzbhel/neuwirt"
+    },
+    {
+      "name": "Zuma",
+      "cuisine": "International, Sushi",
+      "price": "€€€€",
+      "path": "/austria/kitzbhel/kitzbhel/zuma"
+    }
+  ]
+}

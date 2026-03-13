@@ -1,0 +1,44 @@
+{
+  "title": "Oviedo",
+  "country": "spain",
+  "region": "oviedo",
+  "city": "oviedo",
+  "restaurants": [
+    {
+      "name": "Casa Fermín",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/oviedo/oviedo/casa-fermn"
+    },
+    {
+      "name": "Ca'Suso",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/oviedo/oviedo/casuso"
+    },
+    {
+      "name": "Cocina Cabal",
+      "cuisine": "Traditional Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/spain/oviedo/oviedo/cocina-cabal"
+    },
+    {
+      "name": "Gloria",
+      "cuisine": "Regional Cuisine, Asian Influences",
+      "price": "€€",
+      "path": "/spain/oviedo/oviedo/gloria"
+    },
+    {
+      "name": "Gloria",
+      "cuisine": "Regional Cuisine, Asian Influences",
+      "price": "€€",
+      "path": "/spain/oviedo/oviedo/gloria"
+    },
+    {
+      "name": "NM",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/oviedo/oviedo/nm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "St Andrews",
+  "country": "uk",
+  "region": "st-andrews",
+  "city": "st-andrews",
+  "restaurants": [
+    {
+      "name": "Haar",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/st-andrews/st-andrews/haar"
+    },
+    {
+      "name": "Ondine",
+      "cuisine": "Seafood",
+      "price": "£££",
+      "path": "/uk/st-andrews/st-andrews/ondine"
+    },
+    {
+      "name": "Seafood Ristorante",
+      "cuisine": "Seafood",
+      "price": "££££",
+      "path": "/uk/st-andrews/st-andrews/seafood-ristorante"
+    }
+  ]
+}

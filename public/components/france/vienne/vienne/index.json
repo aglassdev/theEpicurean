@@ -1,0 +1,26 @@
+{
+  "title": "Vienne",
+  "country": "france",
+  "region": "vienne",
+  "city": "vienne",
+  "restaurants": [
+    {
+      "name": "Alquimia",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/vienne/vienne/alquimia"
+    },
+    {
+      "name": "La Pyramide - Maison Henriroux",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/vienne/vienne/la-pyramide-maison-henriroux"
+    },
+    {
+      "name": "L'Espace PH3",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/vienne/vienne/lespace-ph3"
+    }
+  ]
+}

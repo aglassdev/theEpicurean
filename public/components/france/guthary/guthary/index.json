@@ -1,0 +1,26 @@
+{
+  "title": "Guthary",
+  "country": "france",
+  "region": "guthary",
+  "city": "guthary",
+  "restaurants": [
+    {
+      "name": "Briket' Bistrot",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/guthary/guthary/briket-bistrot"
+    },
+    {
+      "name": "Briketenia",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/guthary/guthary/briketenia"
+    },
+    {
+      "name": "Getaria",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/guthary/guthary/getaria"
+    }
+  ]
+}

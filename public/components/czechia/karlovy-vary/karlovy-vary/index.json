@@ -1,0 +1,26 @@
+{
+  "title": "Karlovy Vary",
+  "country": "czechia",
+  "region": "karlovy-vary",
+  "city": "karlovy-vary",
+  "restaurants": [
+    {
+      "name": "Grandrestaurant Pupp",
+      "cuisine": "Classic French, Regional Cuisine",
+      "price": "€€€",
+      "path": "/czechia/karlovy-vary/karlovy-vary/grandrestaurant-pupp"
+    },
+    {
+      "name": "Le Marché",
+      "cuisine": "Seasonal Cuisine, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/czechia/karlovy-vary/karlovy-vary/le-march"
+    },
+    {
+      "name": "Malá Dvorana",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/czechia/karlovy-vary/karlovy-vary/mal-dvorana"
+    }
+  ]
+}

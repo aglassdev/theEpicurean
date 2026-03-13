@@ -1,0 +1,26 @@
+{
+  "title": "Saint Cr",
+  "country": "france",
+  "region": "saint-cr",
+  "city": "saint-cr",
+  "restaurants": [
+    {
+      "name": "Les Trois Soleils de Montal",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/saint-cr/saint-cr/les-trois-soleils-de-montal"
+    },
+    {
+      "name": "L'Informel",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/saint-cr/saint-cr/linformel"
+    },
+    {
+      "name": "Philia",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/saint-cr/saint-cr/philia"
+    }
+  ]
+}

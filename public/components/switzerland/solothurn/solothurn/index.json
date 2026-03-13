@@ -1,0 +1,32 @@
+{
+  "title": "Solothurn",
+  "country": "switzerland",
+  "region": "solothurn",
+  "city": "solothurn",
+  "restaurants": [
+    {
+      "name": "Le Restaurant",
+      "cuisine": "Classic French, Traditional Cuisine",
+      "price": "€€",
+      "path": "/switzerland/solothurn/solothurn/le-restaurant"
+    },
+    {
+      "name": "Le Restaurant",
+      "cuisine": "Classic French, Traditional Cuisine",
+      "price": "€€",
+      "path": "/switzerland/solothurn/solothurn/le-restaurant"
+    },
+    {
+      "name": "SALZHAUS",
+      "cuisine": "Contemporary, International",
+      "price": "€€",
+      "path": "/switzerland/solothurn/solothurn/salzhaus"
+    },
+    {
+      "name": "Zum Alten Stephan",
+      "cuisine": "Farm to table, Traditional Cuisine",
+      "price": "€€",
+      "path": "/switzerland/solothurn/solothurn/zum-alten-stephan"
+    }
+  ]
+}

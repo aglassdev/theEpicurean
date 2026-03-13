@@ -1,0 +1,26 @@
+{
+  "title": "Saint Lgier",
+  "country": "switzerland",
+  "region": "saint-lgier",
+  "city": "saint-lgier",
+  "restaurants": [
+    {
+      "name": "Auberge Communale",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/switzerland/saint-lgier/saint-lgier/auberge-communale"
+    },
+    {
+      "name": "Auberge de la Veveyse - Brasserie",
+      "cuisine": "Classic French, International",
+      "price": "€€€",
+      "path": "/switzerland/saint-lgier/saint-lgier/auberge-de-la-veveyse-brasserie"
+    },
+    {
+      "name": "Auberge de la Veveyse - Salle grise",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/switzerland/saint-lgier/saint-lgier/auberge-de-la-veveyse-salle-grise"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Barbaresco",
+  "country": "italy",
+  "region": "barbaresco",
+  "city": "barbaresco",
+  "restaurants": [
+    {
+      "name": "Antinè",
+      "cuisine": "Piedmontese",
+      "price": "€€",
+      "path": "/italy/barbaresco/barbaresco/antin"
+    },
+    {
+      "name": "Campamac",
+      "cuisine": "Piedmontese, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/italy/barbaresco/barbaresco/campamac"
+    },
+    {
+      "name": "Visione Restaurant and Living",
+      "cuisine": "Contemporary, Piedmontese",
+      "price": "€€€",
+      "path": "/italy/barbaresco/barbaresco/visione-restaurant-and-living"
+    }
+  ]
+}

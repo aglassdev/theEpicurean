@@ -1,0 +1,32 @@
+{
+  "title": "Sienna",
+  "country": "italy",
+  "region": "sienna",
+  "city": "sienna",
+  "restaurants": [
+    {
+      "name": "Campo Cedro",
+      "cuisine": "Italian Contemporary, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/italy/sienna/sienna/campo-cedro"
+    },
+    {
+      "name": "Gallo Nero",
+      "cuisine": "Regional Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/italy/sienna/sienna/gallo-nero"
+    },
+    {
+      "name": "Osteria le Logge",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/italy/sienna/sienna/osteria-le-logge"
+    },
+    {
+      "name": "Particolare di Siena",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/sienna/sienna/particolare-di-siena"
+    }
+  ]
+}

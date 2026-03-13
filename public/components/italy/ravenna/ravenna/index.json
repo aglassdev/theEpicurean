@@ -1,0 +1,26 @@
+{
+  "title": "Ravenna",
+  "country": "italy",
+  "region": "ravenna",
+  "city": "ravenna",
+  "restaurants": [
+    {
+      "name": "Antica Trattoria al Gallo 1909",
+      "cuisine": "Italian, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/ravenna/ravenna/antica-trattoria-al-gallo-1909"
+    },
+    {
+      "name": "L'Acciuga",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/italy/ravenna/ravenna/lacciuga"
+    },
+    {
+      "name": "Osteria del Tempo Perso",
+      "cuisine": "Italian Contemporary, Italian",
+      "price": "€€",
+      "path": "/italy/ravenna/ravenna/osteria-del-tempo-perso"
+    }
+  ]
+}

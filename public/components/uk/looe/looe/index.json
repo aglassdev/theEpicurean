@@ -1,0 +1,20 @@
+{
+  "title": "Looe",
+  "country": "uk",
+  "region": "looe",
+  "city": "looe",
+  "restaurants": [
+    {
+      "name": "Sardine Factory",
+      "cuisine": "Seafood",
+      "price": "££",
+      "path": "/uk/looe/looe/sardine-factory"
+    },
+    {
+      "name": "Yamas",
+      "cuisine": "Greek",
+      "price": "££",
+      "path": "/uk/looe/looe/yamas"
+    }
+  ]
+}

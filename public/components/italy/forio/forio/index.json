@@ -1,0 +1,26 @@
+{
+  "title": "Forio",
+  "country": "italy",
+  "region": "forio",
+  "city": "forio",
+  "restaurants": [
+    {
+      "name": "Il Mirto",
+      "cuisine": "Vegetarian, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/forio/forio/il-mirto"
+    },
+    {
+      "name": "Il Saturnino",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/italy/forio/forio/il-saturnino"
+    },
+    {
+      "name": "Umberto a Mare",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/italy/forio/forio/umberto-a-mare"
+    }
+  ]
+}

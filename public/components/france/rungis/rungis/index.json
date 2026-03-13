@@ -1,0 +1,20 @@
+{
+  "title": "Rungis",
+  "country": "france",
+  "region": "rungis",
+  "city": "rungis",
+  "restaurants": [
+    {
+      "name": "Au Cœur du Marché",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/rungis/rungis/au-cur-du-march"
+    },
+    {
+      "name": "La Grange des Halles",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/rungis/rungis/la-grange-des-halles"
+    }
+  ]
+}

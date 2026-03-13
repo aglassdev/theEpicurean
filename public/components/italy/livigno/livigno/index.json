@@ -1,0 +1,38 @@
+{
+  "title": "Livigno",
+  "country": "italy",
+  "region": "livigno",
+  "city": "livigno",
+  "restaurants": [
+    {
+      "name": "Al Persef",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/livigno/livigno/al-persef"
+    },
+    {
+      "name": "Camana Veglia",
+      "cuisine": "Modern Cuisine, Country cooking",
+      "price": "€€€",
+      "path": "/italy/livigno/livigno/camana-veglia"
+    },
+    {
+      "name": "Kosmo Taste the Mountain",
+      "cuisine": "Alpine, Contemporary",
+      "price": "€€",
+      "path": "/italy/livigno/livigno/kosmo-taste-the-mountain"
+    },
+    {
+      "name": "Stua Noa Fine Dining",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/italy/livigno/livigno/stua-noa-fine-dining"
+    },
+    {
+      "name": "Téa del Kosmo",
+      "cuisine": "Creative, Alpine",
+      "price": "€€€€",
+      "path": "/italy/livigno/livigno/ta-del-kosmo"
+    }
+  ]
+}

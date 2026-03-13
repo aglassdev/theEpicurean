@@ -1,0 +1,38 @@
+{
+  "title": "Bonifacio",
+  "country": "france",
+  "region": "bonifacio",
+  "city": "bonifacio",
+  "restaurants": [
+    {
+      "name": "Da Passano",
+      "cuisine": "Corsican",
+      "price": "€€",
+      "path": "/france/bonifacio/bonifacio/da-passano"
+    },
+    {
+      "name": "D'Amore by Italo Bassi",
+      "cuisine": "Italian",
+      "price": "€€€",
+      "path": "/france/bonifacio/bonifacio/damore-by-italo-bassi"
+    },
+    {
+      "name": "Finestra by Italo Bassi",
+      "cuisine": "Italian, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/bonifacio/bonifacio/finestra-by-italo-bassi"
+    },
+    {
+      "name": "L'A Cheda",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/bonifacio/bonifacio/la-cheda"
+    },
+    {
+      "name": "Le Voilier",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/bonifacio/bonifacio/le-voilier"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Collioure",
+  "country": "france",
+  "region": "collioure",
+  "city": "collioure",
+  "restaurants": [
+    {
+      "name": "La Balette",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/collioure/collioure/la-balette"
+    },
+    {
+      "name": "Le 5ème Péché",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/collioure/collioure/le-5me-pch"
+    },
+    {
+      "name": "Mamma - Les Roches Brunes",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/collioure/collioure/mamma-les-roches-brunes"
+    }
+  ]
+}

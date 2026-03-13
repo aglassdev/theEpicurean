@@ -1,0 +1,26 @@
+{
+  "title": "Lier",
+  "country": "belgium",
+  "region": "lier",
+  "city": "lier",
+  "restaurants": [
+    {
+      "name": "Neon",
+      "cuisine": "Country cooking, Creative French",
+      "price": "€€€",
+      "path": "/belgium/lier/lier/neon"
+    },
+    {
+      "name": "Numerus Clausus",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/belgium/lier/lier/numerus-clausus"
+    },
+    {
+      "name": "Salto!",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/belgium/lier/lier/salto"
+    }
+  ]
+}

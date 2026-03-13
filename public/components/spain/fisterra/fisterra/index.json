@@ -1,0 +1,26 @@
+{
+  "title": "Fisterra",
+  "country": "spain",
+  "region": "fisterra",
+  "city": "fisterra",
+  "restaurants": [
+    {
+      "name": "Ó Fragón",
+      "cuisine": "Galician",
+      "price": "€€",
+      "path": "/spain/fisterra/fisterra/fragn"
+    },
+    {
+      "name": "Terra",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/fisterra/fisterra/terra"
+    },
+    {
+      "name": "Tira do Cordel",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/spain/fisterra/fisterra/tira-do-cordel"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Grenoble",
+  "country": "france",
+  "region": "grenoble",
+  "city": "grenoble",
+  "restaurants": [
+    {
+      "name": "Brasserie Chavant",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/grenoble/grenoble/brasserie-chavant"
+    },
+    {
+      "name": "L'Amélyss",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/grenoble/grenoble/lamlyss"
+    },
+    {
+      "name": "Le Fantin Latour - Stéphane Froidevaux",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/grenoble/grenoble/le-fantin-latour-stphane-froidevaux"
+    },
+    {
+      "name": "Maison Fantin Latour - Stéphane Froidevaux",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/grenoble/grenoble/maison-fantin-latour-stphane-froidevaux"
+    },
+    {
+      "name": "Tohu Bohu",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/grenoble/grenoble/tohu-bohu"
+    }
+  ]
+}

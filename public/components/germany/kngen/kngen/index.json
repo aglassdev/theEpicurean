@@ -1,0 +1,20 @@
+{
+  "title": "Kngen",
+  "country": "germany",
+  "region": "kngen",
+  "city": "kngen",
+  "restaurants": [
+    {
+      "name": "Schwanen",
+      "cuisine": "Country cooking, Farm to table",
+      "price": "€",
+      "path": "/germany/kngen/kngen/schwanen"
+    },
+    {
+      "name": "Tafelhaus",
+      "cuisine": "Country cooking, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/germany/kngen/kngen/tafelhaus"
+    }
+  ]
+}

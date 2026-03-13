@@ -1,0 +1,32 @@
+{
+  "title": "Egham",
+  "country": "uk",
+  "region": "egham",
+  "city": "egham",
+  "restaurants": [
+    {
+      "name": "1215",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/egham/egham/1215"
+    },
+    {
+      "name": "The Bailiwick",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/egham/egham/the-bailiwick"
+    },
+    {
+      "name": "The Bailiwick Freehouse",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/egham/egham/the-bailiwick-freehouse"
+    },
+    {
+      "name": "The Tudor Pass",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/egham/egham/the-tudor-pass"
+    }
+  ]
+}

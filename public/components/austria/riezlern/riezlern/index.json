@@ -1,0 +1,26 @@
+{
+  "title": "Riezlern",
+  "country": "austria",
+  "region": "riezlern",
+  "city": "riezlern",
+  "restaurants": [
+    {
+      "name": "Humbachstube",
+      "cuisine": "Classic Cuisine, Modern Cuisine",
+      "price": "€€€",
+      "path": "/austria/riezlern/riezlern/humbachstube"
+    },
+    {
+      "name": "La Vallée - Das Bistro im Casino",
+      "cuisine": "French, Classic French",
+      "price": "€€",
+      "path": "/austria/riezlern/riezlern/la-valle-das-bistro-im-casino"
+    },
+    {
+      "name": "Walserstuba",
+      "cuisine": "Regional Cuisine",
+      "price": "€€€€",
+      "path": "/austria/riezlern/riezlern/walserstuba"
+    }
+  ]
+}

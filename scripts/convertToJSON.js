@@ -80,28 +80,34 @@ function extractRestaurantData(content) {
   }
 }
 
-async function processDirectory(dir, relativePath = '') {
+async function processDirectory(dir, relativePath = '', skipExisting = false) {
   const entries = await readdir(dir, { withFileTypes: true });
-  let count = 0, failed = 0;
+  let count = 0, failed = 0, skipped = 0;
 
   for (const entry of entries) {
     const fullPath = join(dir, entry.name);
     const newRelativePath = relativePath ? `${relativePath}/${entry.name}` : entry.name;
 
     if (entry.isDirectory() && !entry.name.startsWith('.') && entry.name !== 'pictures' && entry.name !== 'node_modules') {
-      const result = await processDirectory(fullPath, newRelativePath);
+      const result = await processDirectory(fullPath, newRelativePath, skipExisting);
       count += result.count;
       failed += result.failed;
+      skipped += result.skipped || 0;
     } else if (entry.isFile() && entry.name.endsWith('.jsx')) {
       const skipFiles = ['Home.jsx', 'App.jsx', 'Destinations.jsx', 'Methodology.jsx', 'InteractiveMap.jsx', 'main.jsx', 'RestaurantTemplate.jsx'];
       if (skipFiles.some(f => entry.name.includes(f)) || entry.name.includes('backup') || entry.name.includes('test')) continue;
+
+      const jsonPath = join(publicDataDir, newRelativePath.replace('.jsx', '.json'));
+      if (skipExisting && existsSync(jsonPath)) {
+        skipped++;
+        continue;
+      }
 
       try {
         const content = await readFile(fullPath, 'utf-8');
         const data = extractRestaurantData(content);
 
         if (data && Object.keys(data).length > 3) {
-          const jsonPath = join(publicDataDir, newRelativePath.replace('.jsx', '.json'));
           const jsonDir = dirname(jsonPath);
           if (!existsSync(jsonDir)) await mkdir(jsonDir, { recursive: true });
           await writeFile(jsonPath, JSON.stringify(data, null, 2));
@@ -115,16 +121,20 @@ async function processDirectory(dir, relativePath = '') {
       }
     }
   }
-  return { count, failed };
+  return { count, failed, skipped };
 }
+
+const skipExisting = process.argv.includes('--skip-existing');
+if (skipExisting) console.log('🔄  --skip-existing mode: skipping JSX files that already have a JSON counterpart.\n');
 
 console.log('Converting JSX components to JSON data...\n');
 const startTime = Date.now();
-const result = await processDirectory(srcDir);
+const result = await processDirectory(srcDir, '', skipExisting);
 const endTime = Date.now();
 
 console.log(`\n========================================`);
 console.log(`✓ Successfully converted: ${result.count} files`);
+if (skipExisting) console.log(`⏭  Skipped existing:    ${result.skipped || 0} files`);
 console.log(`✗ Failed to convert: ${result.failed} files`);
 console.log(`⏱ Time taken: ${((endTime - startTime) / 1000).toFixed(2)} seconds`);
 console.log(`========================================\n`);

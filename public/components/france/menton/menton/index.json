@@ -1,0 +1,32 @@
+{
+  "title": "Menton",
+  "country": "france",
+  "region": "menton",
+  "city": "menton",
+  "restaurants": [
+    {
+      "name": "Casa Fuego",
+      "cuisine": "Grills, Argentinian",
+      "price": "€€",
+      "path": "/france/menton/menton/casa-fuego"
+    },
+    {
+      "name": "JR Bistronomie",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€",
+      "path": "/france/menton/menton/jr-bistronomie"
+    },
+    {
+      "name": "L'Orangerie",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/menton/menton/lorangerie"
+    },
+    {
+      "name": "Mirazur",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/menton/menton/mirazur"
+    }
+  ]
+}

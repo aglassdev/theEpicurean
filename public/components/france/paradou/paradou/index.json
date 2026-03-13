@@ -1,0 +1,26 @@
+{
+  "title": "Paradou",
+  "country": "france",
+  "region": "paradou",
+  "city": "paradou",
+  "restaurants": [
+    {
+      "name": "Allegria !",
+      "cuisine": "Provençal",
+      "price": "€€€",
+      "path": "/france/paradou/paradou/allegria"
+    },
+    {
+      "name": "Le Bistrot du Paradou",
+      "cuisine": "Provençal",
+      "price": "€€€",
+      "path": "/france/paradou/paradou/le-bistrot-du-paradou"
+    },
+    {
+      "name": "Nancy Bourguignon",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/paradou/paradou/nancy-bourguignon"
+    }
+  ]
+}

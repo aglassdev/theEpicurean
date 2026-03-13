@@ -1,0 +1,26 @@
+{
+  "title": "Saint Vith",
+  "country": "belgium",
+  "region": "saint-vith",
+  "city": "saint-vith",
+  "restaurants": [
+    {
+      "name": "Pip-Margraff",
+      "cuisine": "Classic Cuisine",
+      "price": "€€",
+      "path": "/belgium/saint-vith/saint-vith/pip-margraff"
+    },
+    {
+      "name": "Quadras",
+      "cuisine": "Creative, French Contemporary",
+      "price": "€€€",
+      "path": "/belgium/saint-vith/saint-vith/quadras"
+    },
+    {
+      "name": "Zur Post",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/belgium/saint-vith/saint-vith/zur-post"
+    }
+  ]
+}

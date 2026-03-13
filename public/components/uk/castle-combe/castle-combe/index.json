@@ -1,0 +1,20 @@
+{
+  "title": "Castle Combe",
+  "country": "uk",
+  "region": "castle-combe",
+  "city": "castle-combe",
+  "restaurants": [
+    {
+      "name": "Bybrook",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/castle-combe/castle-combe/bybrook"
+    },
+    {
+      "name": "Castle Inn",
+      "cuisine": "Regional Cuisine",
+      "price": "££",
+      "path": "/uk/castle-combe/castle-combe/castle-inn"
+    }
+  ]
+}

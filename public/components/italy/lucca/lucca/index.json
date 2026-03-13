@@ -1,0 +1,50 @@
+{
+  "title": "Lucca",
+  "country": "italy",
+  "region": "lucca",
+  "city": "lucca",
+  "restaurants": [
+    {
+      "name": "All'Olivo",
+      "cuisine": "Tuscan, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/lucca/lucca/allolivo"
+    },
+    {
+      "name": "Buca di Sant'Antonio",
+      "cuisine": "Tuscan, Classic Cuisine",
+      "price": "€€",
+      "path": "/italy/lucca/lucca/buca-di-santantonio"
+    },
+    {
+      "name": "Giglio",
+      "cuisine": "Classic Cuisine, Italian",
+      "price": "€€€",
+      "path": "/italy/lucca/lucca/giglio"
+    },
+    {
+      "name": "Il Mecenate",
+      "cuisine": "Tuscan, Country cooking",
+      "price": "€",
+      "path": "/italy/lucca/lucca/il-mecenate"
+    },
+    {
+      "name": "L'Imbuto",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/lucca/lucca/limbuto"
+    },
+    {
+      "name": "Nida",
+      "cuisine": "Japanese",
+      "price": "€€",
+      "path": "/italy/lucca/lucca/nida"
+    },
+    {
+      "name": "Peperosa",
+      "cuisine": "Modern Cuisine, Tuscan",
+      "price": "€€",
+      "path": "/italy/lucca/lucca/peperosa"
+    }
+  ]
+}

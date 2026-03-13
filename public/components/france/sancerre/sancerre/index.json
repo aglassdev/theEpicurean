@@ -1,0 +1,26 @@
+{
+  "title": "Sancerre",
+  "country": "france",
+  "region": "sancerre",
+  "city": "sancerre",
+  "restaurants": [
+    {
+      "name": "La Côte des Monts Damnés",
+      "cuisine": "Traditional Cuisine, Modern Cuisine",
+      "price": "€€",
+      "path": "/france/sancerre/sancerre/la-cte-des-monts-damns"
+    },
+    {
+      "name": "La Pomme d'Or",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/sancerre/sancerre/la-pomme-dor"
+    },
+    {
+      "name": "La Tour",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/sancerre/sancerre/la-tour"
+    }
+  ]
+}

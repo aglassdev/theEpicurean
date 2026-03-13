@@ -1,0 +1,44 @@
+{
+  "title": "Amersfoort",
+  "country": "netherlands",
+  "region": "amersfoort",
+  "city": "amersfoort",
+  "restaurants": [
+    {
+      "name": "Bergpaviljoen",
+      "cuisine": "Classic Cuisine",
+      "price": "€€",
+      "path": "/netherlands/amersfoort/amersfoort/bergpaviljoen"
+    },
+    {
+      "name": "De Aubergerie",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/netherlands/amersfoort/amersfoort/de-aubergerie"
+    },
+    {
+      "name": "De Monnikendam",
+      "cuisine": "French Contemporary, International",
+      "price": "€€",
+      "path": "/netherlands/amersfoort/amersfoort/de-monnikendam"
+    },
+    {
+      "name": "De Saffraan",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/netherlands/amersfoort/amersfoort/de-saffraan"
+    },
+    {
+      "name": "MEI",
+      "cuisine": "Organic, Farm to table",
+      "price": "€€€",
+      "path": "/netherlands/amersfoort/amersfoort/mei"
+    },
+    {
+      "name": "Tollius",
+      "cuisine": "Modern French",
+      "price": "€€",
+      "path": "/netherlands/amersfoort/amersfoort/tollius"
+    }
+  ]
+}

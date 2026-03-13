@@ -1,0 +1,32 @@
+{
+  "title": "Calp",
+  "country": "spain",
+  "region": "calp",
+  "city": "calp",
+  "restaurants": [
+    {
+      "name": "Audrey's",
+      "cuisine": "Creative, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/spain/calp/calp/audreys"
+    },
+    {
+      "name": "Beat",
+      "cuisine": "French Contemporary, International",
+      "price": "€€€€",
+      "path": "/spain/calp/calp/beat"
+    },
+    {
+      "name": "Komfort",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/calp/calp/komfort"
+    },
+    {
+      "name": "Orobianco",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€€",
+      "path": "/spain/calp/calp/orobianco"
+    }
+  ]
+}

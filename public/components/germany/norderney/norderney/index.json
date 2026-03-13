@@ -1,0 +1,32 @@
+{
+  "title": "Norderney",
+  "country": "germany",
+  "region": "norderney",
+  "city": "norderney",
+  "restaurants": [
+    {
+      "name": "La Mer",
+      "cuisine": "Classic French, French Contemporary",
+      "price": "€€€",
+      "path": "/germany/norderney/norderney/la-mer"
+    },
+    {
+      "name": "Müllers auf Norderney",
+      "cuisine": "Contemporary, Fusion",
+      "price": "€€€",
+      "path": "/germany/norderney/norderney/mllers-auf-norderney"
+    },
+    {
+      "name": "Oktopussy",
+      "cuisine": "Contemporary, Regional Cuisine",
+      "price": "€€€",
+      "path": "/germany/norderney/norderney/oktopussy"
+    },
+    {
+      "name": "Seesteg",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€",
+      "path": "/germany/norderney/norderney/seesteg"
+    }
+  ]
+}

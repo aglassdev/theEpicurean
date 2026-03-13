@@ -1,0 +1,26 @@
+{
+  "title": "Reus",
+  "country": "spain",
+  "region": "reus",
+  "city": "reus",
+  "restaurants": [
+    {
+      "name": "Ferran Cerro",
+      "cuisine": "Creative, Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/reus/reus/ferran-cerro"
+    },
+    {
+      "name": "L'Alkimista",
+      "cuisine": "Fusion, Contemporary",
+      "price": "€€€",
+      "path": "/spain/reus/reus/lalkimista"
+    },
+    {
+      "name": "VÍTRIC Taverna Gastronòmica",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/reus/reus/vtric-taverna-gastronmica"
+    }
+  ]
+}

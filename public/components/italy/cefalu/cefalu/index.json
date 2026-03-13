@@ -1,0 +1,32 @@
+{
+  "title": "Cefalu",
+  "country": "italy",
+  "region": "cefalu",
+  "city": "cefalu",
+  "restaurants": [
+    {
+      "name": "Cala Luna",
+      "cuisine": "Contemporary, Sicilian",
+      "price": "€€€€",
+      "path": "/italy/cefalu/cefalu/cala-luna"
+    },
+    {
+      "name": "Cortile Pepe",
+      "cuisine": "Modern Cuisine, Country cooking",
+      "price": "€€€",
+      "path": "/italy/cefalu/cefalu/cortile-pepe"
+    },
+    {
+      "name": "Locanda del Marinaio",
+      "cuisine": "Mediterranean Cuisine, Seafood",
+      "price": "€€",
+      "path": "/italy/cefalu/cefalu/locanda-del-marinaio"
+    },
+    {
+      "name": "Qualia",
+      "cuisine": "Italian, Sicilian",
+      "price": "€€€",
+      "path": "/italy/cefalu/cefalu/qualia"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Brive La Gaillarde",
+  "country": "france",
+  "region": "brive-la-gaillarde",
+  "city": "brive-la-gaillarde",
+  "restaurants": [
+    {
+      "name": "Chez Francis",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/brive-la-gaillarde/brive-la-gaillarde/chez-francis"
+    },
+    {
+      "name": "En Cuisine",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/brive-la-gaillarde/brive-la-gaillarde/en-cuisine"
+    },
+    {
+      "name": "Inspyration",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/brive-la-gaillarde/brive-la-gaillarde/inspyration"
+    },
+    {
+      "name": "La Table d'Olivier",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/brive-la-gaillarde/brive-la-gaillarde/la-table-dolivier"
+    },
+    {
+      "name": "Moon",
+      "cuisine": "Creative",
+      "price": "€€",
+      "path": "/france/brive-la-gaillarde/brive-la-gaillarde/moon"
+    }
+  ]
+}

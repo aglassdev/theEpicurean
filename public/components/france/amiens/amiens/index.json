@@ -1,0 +1,26 @@
+{
+  "title": "Amiens",
+  "country": "france",
+  "region": "amiens",
+  "city": "amiens",
+  "restaurants": [
+    {
+      "name": "Ail des Ours",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/amiens/amiens/ail-des-ours"
+    },
+    {
+      "name": "Hyacinthe",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/amiens/amiens/hyacinthe"
+    },
+    {
+      "name": "Les Orfèvres",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/amiens/amiens/les-orfvres"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Vevey",
+  "country": "switzerland",
+  "region": "vevey",
+  "city": "vevey",
+  "restaurants": [
+    {
+      "name": "EMOTIONS by Guy Ravet",
+      "cuisine": "Classic French",
+      "price": "€€€€",
+      "path": "/switzerland/vevey/vevey/emotions-by-guy-ravet"
+    },
+    {
+      "name": "Esprit par Guy Ravet",
+      "cuisine": "French",
+      "price": "€€€",
+      "path": "/switzerland/vevey/vevey/esprit-par-guy-ravet"
+    },
+    {
+      "name": "KAISEKI BY MANABU",
+      "cuisine": "Japanese Contemporary, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/vevey/vevey/kaiseki-by-manabu"
+    },
+    {
+      "name": "Les Ateliers",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/switzerland/vevey/vevey/les-ateliers"
+    },
+    {
+      "name": "Les Ateliers Brasserie",
+      "cuisine": "French",
+      "price": "€€",
+      "path": "/switzerland/vevey/vevey/les-ateliers-brasserie"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Lecci",
+  "country": "france",
+  "region": "lecci",
+  "city": "lecci",
+  "restaurants": [
+    {
+      "name": "Emporium",
+      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/france/lecci/lecci/emporium"
+    },
+    {
+      "name": "La Pinède",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/lecci/lecci/la-pinde"
+    }
+  ]
+}

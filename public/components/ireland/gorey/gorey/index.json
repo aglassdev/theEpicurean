@@ -1,0 +1,20 @@
+{
+  "title": "Gorey",
+  "country": "ireland",
+  "region": "gorey",
+  "city": "gorey",
+  "restaurants": [
+    {
+      "name": "Table Forty One",
+      "cuisine": "Classic Cuisine",
+      "price": "€€",
+      "path": "/ireland/gorey/gorey/table-forty-one"
+    },
+    {
+      "name": "The Duck Restaurant",
+      "cuisine": "International",
+      "price": "€€",
+      "path": "/ireland/gorey/gorey/the-duck-restaurant"
+    }
+  ]
+}

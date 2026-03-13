@@ -1,0 +1,20 @@
+{
+  "title": "Port Isaac",
+  "country": "uk",
+  "region": "port-isaac",
+  "city": "port-isaac",
+  "restaurants": [
+    {
+      "name": "Outlaw's Fish Kitchen",
+      "cuisine": "Seafood",
+      "price": "££££",
+      "path": "/uk/port-isaac/port-isaac/outlaws-fish-kitchen"
+    },
+    {
+      "name": "Outlaw's New Road",
+      "cuisine": "Seafood",
+      "price": "££££",
+      "path": "/uk/port-isaac/port-isaac/outlaws-new-road"
+    }
+  ]
+}

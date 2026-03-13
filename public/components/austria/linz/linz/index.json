@@ -1,0 +1,56 @@
+{
+  "title": "Linz",
+  "country": "austria",
+  "region": "linz",
+  "city": "linz",
+  "restaurants": [
+    {
+      "name": "Essig's",
+      "cuisine": "Contemporary, Classic Cuisine",
+      "price": "€€€",
+      "path": "/austria/linz/linz/essigs"
+    },
+    {
+      "name": "Göttfried",
+      "cuisine": "Regional Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/austria/linz/linz/gttfried"
+    },
+    {
+      "name": "Kliemstein Vino Vitis",
+      "cuisine": "Classic Cuisine, International",
+      "price": "€€€€",
+      "path": "/austria/linz/linz/kliemstein-vino-vitis"
+    },
+    {
+      "name": "muto",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/austria/linz/linz/muto"
+    },
+    {
+      "name": "Rossbarth",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/austria/linz/linz/rossbarth"
+    },
+    {
+      "name": "Rosso di Acqua e Sole",
+      "cuisine": "Italian, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/austria/linz/linz/rosso-di-acqua-e-sole"
+    },
+    {
+      "name": "Verdi",
+      "cuisine": "International, Creative",
+      "price": "€€€",
+      "path": "/austria/linz/linz/verdi"
+    },
+    {
+      "name": "Verdi-Einkehr",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/austria/linz/linz/verdi-einkehr"
+    }
+  ]
+}

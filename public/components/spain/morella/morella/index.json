@@ -1,0 +1,26 @@
+{
+  "title": "Morella",
+  "country": "spain",
+  "region": "morella",
+  "city": "morella",
+  "restaurants": [
+    {
+      "name": "Daluan",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/morella/morella/daluan"
+    },
+    {
+      "name": "Mesón del Pastor",
+      "cuisine": "Regional Cuisine, Traditional Cuisine",
+      "price": "€",
+      "path": "/spain/morella/morella/mesn-del-pastor"
+    },
+    {
+      "name": "Vinatea",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/morella/morella/vinatea"
+    }
+  ]
+}

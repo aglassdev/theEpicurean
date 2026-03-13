@@ -1,0 +1,26 @@
+{
+  "title": "Duisburg",
+  "country": "germany",
+  "region": "duisburg",
+  "city": "duisburg",
+  "restaurants": [
+    {
+      "name": "Frau Specht",
+      "cuisine": "Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/duisburg/duisburg/frau-specht"
+    },
+    {
+      "name": "Küppersmühle Restaurant",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€",
+      "path": "/germany/duisburg/duisburg/kppersmhle-restaurant"
+    },
+    {
+      "name": "Mod by Sven Nöthel",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/duisburg/duisburg/mod-by-sven-nthel"
+    }
+  ]
+}

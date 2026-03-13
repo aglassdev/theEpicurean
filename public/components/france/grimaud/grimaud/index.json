@@ -1,0 +1,20 @@
+{
+  "title": "Grimaud",
+  "country": "france",
+  "region": "grimaud",
+  "city": "grimaud",
+  "restaurants": [
+    {
+      "name": "Les Santons",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/france/grimaud/grimaud/les-santons"
+    },
+    {
+      "name": "Petit Jacques",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/grimaud/grimaud/petit-jacques"
+    }
+  ]
+}

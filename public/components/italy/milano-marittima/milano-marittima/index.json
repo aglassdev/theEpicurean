@@ -1,0 +1,26 @@
+{
+  "title": "Milano Marittima",
+  "country": "italy",
+  "region": "milano-marittima",
+  "city": "milano-marittima",
+  "restaurants": [
+    {
+      "name": "Osteria Bartolini",
+      "cuisine": "Seafood, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/italy/milano-marittima/milano-marittima/osteria-bartolini"
+    },
+    {
+      "name": "SaleGrosso",
+      "cuisine": "Seafood, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/italy/milano-marittima/milano-marittima/salegrosso"
+    },
+    {
+      "name": "Terrazza Bartolini",
+      "cuisine": "Seafood, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/milano-marittima/milano-marittima/terrazza-bartolini"
+    }
+  ]
+}

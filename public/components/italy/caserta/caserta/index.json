@@ -1,0 +1,26 @@
+{
+  "title": "Caserta",
+  "country": "italy",
+  "region": "caserta",
+  "city": "caserta",
+  "restaurants": [
+    {
+      "name": "Antica Locanda",
+      "cuisine": "Campanian, Seafood",
+      "price": "€",
+      "path": "/italy/caserta/caserta/antica-locanda"
+    },
+    {
+      "name": "Le Colonne",
+      "cuisine": "Campanian, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/caserta/caserta/le-colonne"
+    },
+    {
+      "name": "Sunrise",
+      "cuisine": "Seafood, Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/caserta/caserta/sunrise"
+    }
+  ]
+}

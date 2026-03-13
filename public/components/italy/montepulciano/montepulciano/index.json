@@ -1,0 +1,26 @@
+{
+  "title": "Montepulciano",
+  "country": "italy",
+  "region": "montepulciano",
+  "city": "montepulciano",
+  "restaurants": [
+    {
+      "name": "Indigeno",
+      "cuisine": "Traditional Cuisine, Tuscan",
+      "price": "€€",
+      "path": "/italy/montepulciano/montepulciano/indigeno"
+    },
+    {
+      "name": "Le Logge del Vignola",
+      "cuisine": "Tuscan",
+      "price": "€€",
+      "path": "/italy/montepulciano/montepulciano/le-logge-del-vignola"
+    },
+    {
+      "name": "Osmosi",
+      "cuisine": "Contemporary, Creative",
+      "price": "€€€",
+      "path": "/italy/montepulciano/montepulciano/osmosi"
+    }
+  ]
+}

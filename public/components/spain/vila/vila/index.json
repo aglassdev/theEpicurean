@@ -1,0 +1,26 @@
+{
+  "title": "Vila",
+  "country": "spain",
+  "region": "vila",
+  "city": "vila",
+  "restaurants": [
+    {
+      "name": "Barro",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/vila/vila/barro"
+    },
+    {
+      "name": "Caleña",
+      "cuisine": "Contemporary, Regional Cuisine",
+      "price": "€€€",
+      "path": "/spain/vila/vila/calea"
+    },
+    {
+      "name": "El Almacén",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/vila/vila/el-almacn"
+    }
+  ]
+}

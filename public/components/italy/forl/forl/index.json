@@ -1,0 +1,26 @@
+{
+  "title": "Forl",
+  "country": "italy",
+  "region": "forl",
+  "city": "forl",
+  "restaurants": [
+    {
+      "name": "Benso",
+      "cuisine": "Modern Cuisine, Italian Contemporary",
+      "price": "€€",
+      "path": "/italy/forl/forl/benso"
+    },
+    {
+      "name": "Casa Rusticale dei Cavalieri Templari",
+      "cuisine": "Modern Cuisine, Emilian",
+      "price": "€€",
+      "path": "/italy/forl/forl/casa-rusticale-dei-cavalieri-templari"
+    },
+    {
+      "name": "Trattoria 'petito",
+      "cuisine": "Cuisine from Romagna, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/italy/forl/forl/trattoria-petito"
+    }
+  ]
+}

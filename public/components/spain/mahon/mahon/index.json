@@ -1,0 +1,32 @@
+{
+  "title": "Mahon",
+  "country": "spain",
+  "region": "mahon",
+  "city": "mahon",
+  "restaurants": [
+    {
+      "name": "Candela",
+      "cuisine": "Mediterranean Cuisine, Farm to table",
+      "price": "€€",
+      "path": "/spain/mahon/mahon/candela"
+    },
+    {
+      "name": "El Rais",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/spain/mahon/mahon/el-rais"
+    },
+    {
+      "name": "El Romero",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/spain/mahon/mahon/el-romero"
+    },
+    {
+      "name": "La Cocina de Cristine",
+      "cuisine": "Regional Cuisine, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/spain/mahon/mahon/la-cocina-de-cristine"
+    }
+  ]
+}

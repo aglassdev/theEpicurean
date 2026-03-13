@@ -1,0 +1,38 @@
+{
+  "title": "Ieper",
+  "country": "belgium",
+  "region": "ieper",
+  "city": "ieper",
+  "restaurants": [
+    {
+      "name": "Bacon",
+      "cuisine": "Farm to table, Seasonal Cuisine",
+      "price": "€",
+      "path": "/belgium/ieper/ieper/bacon"
+    },
+    {
+      "name": "Découverte",
+      "cuisine": "Farm to table, Modern Cuisine",
+      "price": "€€",
+      "path": "/belgium/ieper/ieper/dcouverte"
+    },
+    {
+      "name": "Klaver",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/belgium/ieper/ieper/klaver"
+    },
+    {
+      "name": "Klei",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/belgium/ieper/ieper/klei"
+    },
+    {
+      "name": "VEST",
+      "cuisine": "Farm to table, Modern Cuisine",
+      "price": "€€",
+      "path": "/belgium/ieper/ieper/vest"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Port Vendres",
+  "country": "france",
+  "region": "port-vendres",
+  "city": "port-vendres",
+  "restaurants": [
+    {
+      "name": "La Côte Vermeille",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/france/port-vendres/port-vendres/la-cte-vermeille"
+    },
+    {
+      "name": "Le Cèdre",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/port-vendres/port-vendres/le-cdre"
+    },
+    {
+      "name": "Les Clos de Paulilles",
+      "cuisine": "Regional Cuisine",
+      "price": "€€",
+      "path": "/france/port-vendres/port-vendres/les-clos-de-paulilles"
+    },
+    {
+      "name": "Les Jardins du Cèdre",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/port-vendres/port-vendres/les-jardins-du-cdre"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Bourg En Bresse",
+  "country": "france",
+  "region": "bourg-en-bresse",
+  "city": "bourg-en-bresse",
+  "restaurants": [
+    {
+      "name": "Agave",
+      "cuisine": "Fusion",
+      "price": "€€",
+      "path": "/france/bourg-en-bresse/bourg-en-bresse/agave"
+    },
+    {
+      "name": "L'Auberge Bressane",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/france/bourg-en-bresse/bourg-en-bresse/lauberge-bressane"
+    },
+    {
+      "name": "Mets et Vins",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/bourg-en-bresse/bourg-en-bresse/mets-et-vins"
+    },
+    {
+      "name": "Place Bernard",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/bourg-en-bresse/bourg-en-bresse/place-bernard"
+    },
+    {
+      "name": "Scratch Restaurant",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€",
+      "path": "/france/bourg-en-bresse/bourg-en-bresse/scratch-restaurant"
+    }
+  ]
+}

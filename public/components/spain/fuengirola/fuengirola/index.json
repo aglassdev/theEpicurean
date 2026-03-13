@@ -1,0 +1,26 @@
+{
+  "title": "Fuengirola",
+  "country": "spain",
+  "region": "fuengirola",
+  "city": "fuengirola",
+  "restaurants": [
+    {
+      "name": "Charolais",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/fuengirola/fuengirola/charolais"
+    },
+    {
+      "name": "Los Marinos José",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/spain/fuengirola/fuengirola/los-marinos-jos"
+    },
+    {
+      "name": "Sollo",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/fuengirola/fuengirola/sollo"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Miskolc",
+  "country": "hungary",
+  "region": "miskolc",
+  "city": "miskolc",
+  "restaurants": [
+    {
+      "name": "Avalon Ristorante",
+      "cuisine": "Italian",
+      "price": "€€",
+      "path": "/hungary/miskolc/miskolc/avalon-ristorante"
+    },
+    {
+      "name": "Végállomás Bistro&Wine",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/hungary/miskolc/miskolc/vglloms-bistrowine"
+    },
+    {
+      "name": "Zip's",
+      "cuisine": "Meats and Grills",
+      "price": "€",
+      "path": "/hungary/miskolc/miskolc/zips"
+    }
+  ]
+}

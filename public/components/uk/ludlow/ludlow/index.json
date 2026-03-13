@@ -1,0 +1,26 @@
+{
+  "title": "Ludlow",
+  "country": "uk",
+  "region": "ludlow",
+  "city": "ludlow",
+  "restaurants": [
+    {
+      "name": "Charlton Arms",
+      "cuisine": "Traditional British",
+      "price": "££",
+      "path": "/uk/ludlow/ludlow/charlton-arms"
+    },
+    {
+      "name": "Forelles",
+      "cuisine": "Modern Cuisine",
+      "price": "£££",
+      "path": "/uk/ludlow/ludlow/forelles"
+    },
+    {
+      "name": "Mortimers",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/ludlow/ludlow/mortimers"
+    }
+  ]
+}

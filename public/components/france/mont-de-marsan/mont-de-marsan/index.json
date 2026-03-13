@@ -1,0 +1,26 @@
+{
+  "title": "Mont De Marsan",
+  "country": "france",
+  "region": "mont-de-marsan",
+  "city": "mont-de-marsan",
+  "restaurants": [
+    {
+      "name": "La Table Mirasol",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/mont-de-marsan/mont-de-marsan/la-table-mirasol"
+    },
+    {
+      "name": "Les Clefs d'Argent",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/mont-de-marsan/mont-de-marsan/les-clefs-dargent"
+    },
+    {
+      "name": "Villa Mirasol - Bistrot 1912",
+      "cuisine": "Seasonal Cuisine",
+      "price": "€€",
+      "path": "/france/mont-de-marsan/mont-de-marsan/villa-mirasol-bistrot-1912"
+    }
+  ]
+}

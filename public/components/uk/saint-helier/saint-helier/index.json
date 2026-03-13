@@ -1,0 +1,32 @@
+{
+  "title": "Saint Helier",
+  "country": "uk",
+  "region": "saint-helier",
+  "city": "saint-helier",
+  "restaurants": [
+    {
+      "name": "Awabi",
+      "cuisine": "Asian",
+      "price": "££",
+      "path": "/uk/saint-helier/saint-helier/awabi"
+    },
+    {
+      "name": "Bohemia",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/saint-helier/saint-helier/bohemia"
+    },
+    {
+      "name": "Samphire",
+      "cuisine": "Modern Cuisine",
+      "price": "£££",
+      "path": "/uk/saint-helier/saint-helier/samphire"
+    },
+    {
+      "name": "Tassili",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/saint-helier/saint-helier/tassili"
+    }
+  ]
+}

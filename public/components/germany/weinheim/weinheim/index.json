@@ -1,0 +1,32 @@
+{
+  "title": "Weinheim",
+  "country": "germany",
+  "region": "weinheim",
+  "city": "weinheim",
+  "restaurants": [
+    {
+      "name": "bistronauten",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/germany/weinheim/weinheim/bistronauten"
+    },
+    {
+      "name": "esszimmer das Restaurant",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/weinheim/weinheim/esszimmer-das-restaurant"
+    },
+    {
+      "name": "Schlosspark Restaurant by Tristan Brandt",
+      "cuisine": "International",
+      "price": "€€",
+      "path": "/germany/weinheim/weinheim/schlosspark-restaurant-by-tristan-brandt"
+    },
+    {
+      "name": "Ziegler",
+      "cuisine": "International, Contemporary",
+      "price": "€€",
+      "path": "/germany/weinheim/weinheim/ziegler"
+    }
+  ]
+}

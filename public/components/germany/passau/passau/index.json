@@ -1,0 +1,26 @@
+{
+  "title": "Passau",
+  "country": "germany",
+  "region": "passau",
+  "city": "passau",
+  "restaurants": [
+    {
+      "name": "Marcel von Winckelmann",
+      "cuisine": "International, Fusion",
+      "price": "€€€€",
+      "path": "/germany/passau/passau/marcel-von-winckelmann"
+    },
+    {
+      "name": "Weingut",
+      "cuisine": "International, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/germany/passau/passau/weingut"
+    },
+    {
+      "name": "Zwo20",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€",
+      "path": "/germany/passau/passau/zwo20"
+    }
+  ]
+}

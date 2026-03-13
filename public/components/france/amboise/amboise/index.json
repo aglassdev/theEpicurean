@@ -1,0 +1,26 @@
+{
+  "title": "Amboise",
+  "country": "france",
+  "region": "amboise",
+  "city": "amboise",
+  "restaurants": [
+    {
+      "name": "Château de Pray",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/amboise/amboise/chteau-de-pray"
+    },
+    {
+      "name": "L'Écluse",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/amboise/amboise/lcluse"
+    },
+    {
+      "name": "Les Arpents",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/amboise/amboise/les-arpents"
+    }
+  ]
+}
