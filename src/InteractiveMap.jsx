@@ -1,6 +1,153 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
+import { useNavigate } from 'react-router-dom';
+
+// Active US states that have restaurant pages
+const ACTIVE_STATES = new Set([
+  'California', 'New York', 'Florida', 'Illinois', 'Texas',
+  'Georgia', 'Colorado', 'Virginia', 'District of Columbia', 'Minnesota'
+]);
+
+// Map GeoJSON state names to our routing keys
+const STATE_NAME_TO_KEY = {
+  'California': 'california',
+  'New York': 'new-york',
+  'Florida': 'florida',
+  'Illinois': 'illinois',
+  'Texas': 'texas',
+  'Georgia': 'georgia',
+  'Colorado': 'colorado',
+  'Virginia': 'virginia',
+  'District of Columbia': 'dc',
+  'Minnesota': 'minnesota',
+};
+
+// City markers per state with lat/lng and routing paths
+const US_STATE_CITIES = {
+  'California': [
+    { name: 'Los Angeles', lat: 34.0522, lng: -118.2437, path: '/usa/california/los-angeles/restaurants', count: 89 },
+    { name: 'San Francisco', lat: 37.7749, lng: -122.4194, path: '/usa/california/san-francisco/restaurants', count: 71 },
+    { name: 'Napa Valley', lat: 38.2975, lng: -122.2869, path: '/usa/california/napa-valley/restaurants', count: 10 },
+    { name: 'San Diego', lat: 32.7157, lng: -117.1611, path: '/usa/california/san-diego/restaurants', count: 18 },
+    { name: 'Pasadena', lat: 34.1478, lng: -118.1445, path: '/usa/california/pasadena/restaurants', count: 8 },
+    { name: 'Berkeley', lat: 37.8716, lng: -122.2727, path: '/usa/california/berkeley/restaurants', count: 10 },
+    { name: 'Carmel-by-the-Sea', lat: 36.5552, lng: -121.9233, path: '/usa/california/carmel-by-the-sea/restaurants', count: 8 },
+    { name: 'Yountville', lat: 38.4027, lng: -122.3608, path: '/usa/california/yountville/restaurants', count: 5 },
+    { name: 'Santa Barbara', lat: 34.4208, lng: -119.6982, path: '/usa/california/santa-barbara/restaurants', count: 12 },
+    { name: 'Beverly Hills', lat: 34.0736, lng: -118.4004, path: '/usa/california/beverly-hills/restaurants', count: 8 },
+  ],
+  'New York': [
+    { name: 'New York City', lat: 40.7128, lng: -74.006, path: '/usa/newyork/new-york/restaurants', count: 264 },
+    { name: 'Brooklyn', lat: 40.6782, lng: -73.9442, path: '/usa/newyork/brooklyn/restaurants', count: 82 },
+    { name: 'Queens', lat: 40.7282, lng: -73.7949, path: '/usa/newyork/queens/restaurants', count: 18 },
+    { name: 'The Bronx', lat: 40.8448, lng: -73.8648, path: '/usa/newyork/bronx/restaurants', count: 6 },
+    { name: 'Tarrytown', lat: 41.0626, lng: -73.8585, path: '/usa/newyork/tarrytown/restaurants', count: 3 },
+  ],
+  'Florida': [
+    { name: 'Miami', lat: 25.7617, lng: -80.1918, path: '/usa/florida/miami/restaurants', count: 44 },
+    { name: 'Miami Beach', lat: 25.7907, lng: -80.13, path: '/usa/florida/miami-beach/restaurants', count: 12 },
+    { name: 'Fort Lauderdale', lat: 26.1224, lng: -80.1373, path: '/usa/florida/fort-lauderdale/restaurants', count: 5 },
+    { name: 'Orlando', lat: 28.5383, lng: -81.3792, path: '/usa/florida/orlando/restaurants', count: 52 },
+    { name: 'Tampa', lat: 27.9506, lng: -82.4572, path: '/usa/florida/tampa/restaurants', count: 29 },
+    { name: 'Winter Park', lat: 28.5997, lng: -81.3392, path: '/usa/florida/winter-park/restaurants', count: 7 },
+  ],
+  'Illinois': [
+    { name: 'Chicago', lat: 41.8781, lng: -87.6298, path: '/usa/illinois/chicago/restaurants', count: 116 },
+  ],
+  'Texas': [
+    { name: 'Houston', lat: 29.7604, lng: -95.3698, path: '/usa/texas/houston/restaurants', count: 35 },
+    { name: 'Dallas', lat: 32.7767, lng: -96.797, path: '/usa/texas/dallas/restaurants', count: 28 },
+    { name: 'Austin', lat: 30.2672, lng: -97.7431, path: '/usa/texas/austin/restaurants', count: 22 },
+    { name: 'Fort Worth', lat: 32.7555, lng: -97.3308, path: '/usa/texas/fort-worth/restaurants', count: 8 },
+    { name: 'San Antonio', lat: 29.4241, lng: -98.4936, path: '/usa/texas/san-antonio/restaurants', count: 6 },
+  ],
+  'Georgia': [
+    { name: 'Atlanta', lat: 33.749, lng: -84.388, path: '/usa/georgia/atlanta/restaurants', count: 42 },
+    { name: 'Savannah', lat: 32.0809, lng: -81.0912, path: '/usa/georgia/savannah/restaurants', count: 8 },
+  ],
+  'Colorado': [
+    { name: 'Denver', lat: 39.7392, lng: -104.9903, path: '/usa/colorado/denver/restaurants', count: 22 },
+    { name: 'Boulder', lat: 40.015, lng: -105.2705, path: '/usa/colorado/boulder/restaurants', count: 8 },
+    { name: 'Aspen', lat: 39.1911, lng: -106.8175, path: '/usa/colorado/aspen/restaurants', count: 6 },
+    { name: 'Vail', lat: 39.6433, lng: -106.3781, path: '/usa/colorado/vail/restaurants', count: 5 },
+  ],
+  'Virginia': [
+    { name: 'Northern Virginia', lat: 38.8816, lng: -77.1114, path: '/usa/virginia/nova/restaurants', count: 36 },
+    { name: 'Washington Metro', lat: 38.9072, lng: -77.0369, path: '/usa/dc/washington/restaurants', count: 87 },
+  ],
+  'District of Columbia': [
+    { name: 'Washington, D.C.', lat: 38.9072, lng: -77.0369, path: '/usa/dc/restaurants', count: 23 },
+  ],
+  'Minnesota': [
+    { name: 'Duluth', lat: 46.7867, lng: -92.1005, path: '/usa/minnesota/duluth/restaurants', count: 2 },
+  ],
+};
+
+// Approximate center points for each US state (for zoom targeting)
+const STATE_CENTERS = {
+  'Alabama': { lat: 32.806671, lng: -86.791130 },
+  'Alaska': { lat: 61.370716, lng: -152.404419 },
+  'Arizona': { lat: 33.729759, lng: -111.431221 },
+  'Arkansas': { lat: 34.969704, lng: -92.373123 },
+  'California': { lat: 36.116203, lng: -119.681564 },
+  'Colorado': { lat: 39.059811, lng: -105.311104 },
+  'Connecticut': { lat: 41.597782, lng: -72.755371 },
+  'Delaware': { lat: 39.318523, lng: -75.507141 },
+  'District of Columbia': { lat: 38.9072, lng: -77.0369 },
+  'Florida': { lat: 27.766279, lng: -81.686783 },
+  'Georgia': { lat: 33.040619, lng: -83.643074 },
+  'Hawaii': { lat: 21.094318, lng: -157.498337 },
+  'Idaho': { lat: 44.240459, lng: -114.478828 },
+  'Illinois': { lat: 40.349457, lng: -88.986137 },
+  'Indiana': { lat: 39.849426, lng: -86.258278 },
+  'Iowa': { lat: 42.011539, lng: -93.210526 },
+  'Kansas': { lat: 38.5266, lng: -96.726486 },
+  'Kentucky': { lat: 37.66814, lng: -84.670067 },
+  'Louisiana': { lat: 31.169960, lng: -91.867805 },
+  'Maine': { lat: 44.693947, lng: -69.381927 },
+  'Maryland': { lat: 39.063946, lng: -76.802101 },
+  'Massachusetts': { lat: 42.230171, lng: -71.530106 },
+  'Michigan': { lat: 43.326618, lng: -84.536095 },
+  'Minnesota': { lat: 45.694454, lng: -93.900192 },
+  'Mississippi': { lat: 32.741646, lng: -89.678696 },
+  'Missouri': { lat: 38.456085, lng: -92.288368 },
+  'Montana': { lat: 46.921925, lng: -110.454353 },
+  'Nebraska': { lat: 41.12537, lng: -98.268082 },
+  'Nevada': { lat: 38.313515, lng: -117.055374 },
+  'New Hampshire': { lat: 43.452492, lng: -71.563896 },
+  'New Jersey': { lat: 40.298904, lng: -74.521011 },
+  'New Mexico': { lat: 34.840515, lng: -106.248482 },
+  'New York': { lat: 42.165726, lng: -74.948051 },
+  'North Carolina': { lat: 35.630066, lng: -79.806419 },
+  'North Dakota': { lat: 47.528912, lng: -99.784012 },
+  'Ohio': { lat: 40.388783, lng: -82.764915 },
+  'Oklahoma': { lat: 35.565342, lng: -96.928917 },
+  'Oregon': { lat: 44.572021, lng: -122.070938 },
+  'Pennsylvania': { lat: 40.590752, lng: -77.209755 },
+  'Rhode Island': { lat: 41.680893, lng: -71.511780 },
+  'South Carolina': { lat: 33.856892, lng: -80.945007 },
+  'South Dakota': { lat: 44.299782, lng: -99.438828 },
+  'Tennessee': { lat: 35.747845, lng: -86.692345 },
+  'Texas': { lat: 31.054487, lng: -97.563461 },
+  'Utah': { lat: 40.150032, lng: -111.862434 },
+  'Vermont': { lat: 44.045876, lng: -72.710686 },
+  'Virginia': { lat: 37.769337, lng: -78.169968 },
+  'Washington': { lat: 47.400902, lng: -121.490494 },
+  'West Virginia': { lat: 38.491226, lng: -80.954453 },
+  'Wisconsin': { lat: 44.268543, lng: -89.616508 },
+  'Wyoming': { lat: 42.755966, lng: -107.302490 },
+};
+
+// Project lat/lng to SVG coordinates for the US map
+function projectToSVG(lat, lng, bounds, svgWidth, svgHeight) {
+  if (!bounds) return { x: 0, y: 0 };
+  const { minLng, maxLng, minLat, maxLat } = bounds;
+  const x = ((lng - minLng) / (maxLng - minLng)) * svgWidth;
+  const y = ((maxLat - lat) / (maxLat - minLat)) * svgHeight;
+  return { x, y };
+}
 
 const InteractiveMap = () => {
+  const navigate = useNavigate();
   const [hoveredCountry, setHoveredCountry] = useState(null);
   const [tooltipContent, setTooltipContent] = useState('');
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
@@ -12,783 +159,502 @@ const InteractiveMap = () => {
   const [zoomedState, setZoomedState] = useState(null);
   const [hoveredState, setHoveredState] = useState(null);
   const [hoveredCity, setHoveredCity] = useState(null);
-  const [mapScale, setMapScale] = useState(1);
-  const [mapCenter, setMapCenter] = useState({ x: 0, y: 0 });
-  const [showStateOutlines, setShowStateOutlines] = useState(false);
-  const [showCities, setShowCities] = useState(false);
+  const svgRef = useRef(null);
 
-  // Load world map data and US states data
+  const SVG_WIDTH = 960;
+  const SVG_HEIGHT = 500;
+
   useEffect(() => {
     const loadMapData = async () => {
       setLoading(true);
       setError(null);
-      
       try {
-        console.log('Fetching world and US states map data...');
-        
-        // Load world data
         const worldSources = [
           'https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson',
-          'https://cdn.jsdelivr.net/npm/world-atlas@1/world/50m.json',
           'https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson'
         ];
-        
-        // Load US states data
         const usSources = [
           'https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json',
           'https://eric.clst.org/assets/wiki/uploads/Stuff/gz_2010_us_040_00_500k.json',
-          'https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json'
         ];
-        
+
         let worldData = null;
         let usStatesData = null;
-        let lastError = null;
-        
-        // Try to load world data
+
         for (const source of worldSources) {
           try {
-            console.log(`Trying world source: ${source}`);
             const response = await fetch(source);
-            
-            if (!response.ok) {
-              throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+            if (response.ok) {
+              const data = await response.json();
+              if (data && (data.features || data.objects)) {
+                worldData = data;
+                break;
+              }
             }
-            
-            const jsonData = await response.json();
-            
-            if (jsonData.type === 'FeatureCollection') {
-              worldData = jsonData;
-              console.log('Loaded world GeoJSON format');
-              break;
-            } else if (jsonData.features) {
-              worldData = { type: 'FeatureCollection', features: jsonData.features };
-              console.log('Loaded world features array format');
-              break;
-            }
-          } catch (err) {
-            console.log(`Failed to load world data from ${source}:`, err.message);
-            lastError = err;
-            continue;
-          }
+          } catch (e) { /* try next */ }
         }
-        
-        // Try to load US states data
+
         for (const source of usSources) {
           try {
-            console.log(`Trying US states source: ${source}`);
             const response = await fetch(source);
-            
-            if (!response.ok) {
-              throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+            if (response.ok) {
+              const data = await response.json();
+              if (data && data.features) {
+                usStatesData = data;
+                break;
+              }
             }
-            
-            const jsonData = await response.json();
-            
-            if (jsonData.type === 'FeatureCollection') {
-              usStatesData = jsonData;
-              console.log('Loaded US states GeoJSON format');
-              break;
-            } else if (jsonData.features) {
-              usStatesData = { type: 'FeatureCollection', features: jsonData.features };
-              console.log('Loaded US states features array format');
-              break;
-            }
-          } catch (err) {
-            console.log(`Failed to load US states data from ${source}:`, err.message);
-            lastError = err;
-            continue;
-          }
+          } catch (e) { /* try next */ }
         }
-        
-        if (!worldData) {
-          throw lastError || new Error('All world data sources failed');
-        }
-        
-        // US states data is optional - we can still show the world map without it
-        if (!usStatesData) {
-          console.warn('Could not load US states data, will use fallback dots for states');
-        }
-        
+
         setWorldData(worldData);
         setUsStatesData(usStatesData);
-        console.log('Map data loaded successfully');
-        
       } catch (err) {
-        console.error('Failed to load map data:', err);
         setError(err.message);
       } finally {
         setLoading(false);
       }
     };
-    
     loadMapData();
   }, []);
 
-  // Active countries with pages
-  const activeCountries = [
-    'France', 'Japan', 'Italy', 'Germany', 'United States', 'Spain', 'United Kingdom',
-    'Switzerland', 'Belgium', 'Netherlands', 'Austria', 'Denmark', 'Sweden', 'Norway',
-    'South Korea', 'Singapore', 'Hong Kong', 'Taiwan', 'Thailand', 'China',
-    'Australia', 'Canada', 'Portugal', 'Luxembourg', 'Finland', 'Ireland', 'Iceland',
-    'Czech Republic', 'Poland', 'Hungary', 'Slovenia', 'Croatia', 'Greece', 'Turkey',
-    'Russia', 'Brazil', 'Argentina', 'Chile', 'Mexico', 'Peru', 'Colombia',
-    'South Africa', 'Morocco', 'Egypt', 'Israel', 'UAE', 'India', 'Malaysia',
-    'Indonesia', 'New Zealand'
-  ];
-
-  // US States data (excluding Arkansas, Idaho, North Dakota, South Dakota as requested)
-  const usStates = {
-    'Alabama': { lat: 32.806671, lng: -86.79113, active: true },
-    'Alaska': { lat: 61.370716, lng: -152.404419, active: true },
-    'Arizona': { lat: 33.729759, lng: -111.431221, active: true },
-    'Arkansas': { lat: 34.969704, lng: -92.373123, active: false },
-    'California': { lat: 36.116203, lng: -119.681564, active: true },
-    'Colorado': { lat: 39.059811, lng: -105.311104, active: true },
-    'Connecticut': { lat: 41.597782, lng: -72.755371, active: true },
-    'Delaware': { lat: 39.318523, lng: -75.507141, active: true },
-    'Florida': { lat: 27.766279, lng: -81.686783, active: true },
-    'Georgia': { lat: 33.040619, lng: -83.643074, active: true },
-    'Hawaii': { lat: 21.094318, lng: -157.498337, active: true },
-    'Idaho': { lat: 44.240459, lng: -114.478828, active: false },
-    'Illinois': { lat: 40.349457, lng: -88.986137, active: true },
-    'Indiana': { lat: 39.849426, lng: -86.258278, active: true },
-    'Iowa': { lat: 42.011539, lng: -93.210526, active: true },
-    'Kansas': { lat: 38.526600, lng: -96.726486, active: true },
-    'Kentucky': { lat: 37.668140, lng: -84.670067, active: true },
-    'Louisiana': { lat: 31.169546, lng: -91.867805, active: true },
-    'Maine': { lat: 44.693947, lng: -69.381927, active: true },
-    'Maryland': { lat: 39.063946, lng: -76.802101, active: true },
-    'Massachusetts': { lat: 42.230171, lng: -71.530106, active: true },
-    'Michigan': { lat: 43.326618, lng: -84.536095, active: true },
-    'Minnesota': { lat: 45.694454, lng: -93.900192, active: true },
-    'Mississippi': { lat: 32.741646, lng: -89.678696, active: true },
-    'Missouri': { lat: 38.572954, lng: -92.189283, active: true },
-    'Montana': { lat: 47.052952, lng: -109.633040, active: true },
-    'Nebraska': { lat: 41.12537, lng: -98.268082, active: true },
-    'Nevada': { lat: 38.313515, lng: -117.055374, active: true },
-    'New Hampshire': { lat: 43.452492, lng: -71.563896, active: true },
-    'New Jersey': { lat: 40.298904, lng: -74.521011, active: true },
-    'New Mexico': { lat: 34.840515, lng: -106.248482, active: true },
-    'New York': { lat: 42.165726, lng: -74.948051, active: true },
-    'North Carolina': { lat: 35.630066, lng: -79.806419, active: true },
-    'North Dakota': { lat: 47.528912, lng: -99.784012, active: false },
-    'Ohio': { lat: 40.388783, lng: -82.764915, active: true },
-    'Oklahoma': { lat: 35.565342, lng: -96.928917, active: true },
-    'Oregon': { lat: 44.931109, lng: -123.029159, active: true },
-    'Pennsylvania': { lat: 40.590752, lng: -77.209755, active: true },
-    'Rhode Island': { lat: 41.680893, lng: -71.51178, active: true },
-    'South Carolina': { lat: 33.856892, lng: -80.945007, active: true },
-    'South Dakota': { lat: 44.299782, lng: -99.438828, active: false },
-    'Tennessee': { lat: 35.747845, lng: -86.692345, active: true },
-    'Texas': { lat: 31.054487, lng: -97.563461, active: true },
-    'Utah': { lat: 40.150032, lng: -111.862434, active: true },
-    'Vermont': { lat: 44.045876, lng: -72.710686, active: true },
-    'Virginia': { lat: 37.769337, lng: -78.169968, active: true },
-    'Washington': { lat: 47.400902, lng: -121.490494, active: true },
-    'West Virginia': { lat: 38.491226, lng: -80.954453, active: true },
-    'Wisconsin': { lat: 44.268543, lng: -89.616508, active: true },
-    'Wyoming': { lat: 42.755966, lng: -107.302490, active: true }
+  // Project GeoJSON coordinates to SVG
+  const projectCoordinate = (coord, viewBox) => {
+    const [lng, lat] = coord;
+    const x = ((lng - viewBox.minLng) / (viewBox.maxLng - viewBox.minLng)) * SVG_WIDTH;
+    const y = ((viewBox.maxLat - lat) / (viewBox.maxLat - viewBox.minLat)) * SVG_HEIGHT;
+    return [x, y];
   };
 
-  // Virginia cities data
-  const virginiaCities = [
-    { name: 'Richmond', lat: 37.5407, lng: -77.4360, restaurants: 45 },
-    { name: 'Washington', lat: 38.7129, lng: -78.1594, restaurants: 25 }, // Little Washington, VA
-    { name: 'NOVA', lat: 38.7173, lng: -77.1968, restaurants: 65 } // Moved to Fairfax, VA area
-  ];
+  const coordsToPath = (coordinates, viewBox) => {
+    const pathParts = [];
+    for (const ring of coordinates) {
+      const points = ring.map(c => projectCoordinate(c, viewBox));
+      if (points.length > 0) {
+        pathParts.push(`M ${points[0][0]} ${points[0][1]} ` +
+          points.slice(1).map(p => `L ${p[0]} ${p[1]}`).join(' ') + ' Z');
+      }
+    }
+    return pathParts.join(' ');
+  };
 
-  // D.C. data (separate since it's not a state)
-  const dcData = { lat: 38.9072, lng: -77.0369, restaurants: 85 };
+  const featureToPath = (feature, viewBox) => {
+    if (!feature?.geometry) return '';
+    const { type, coordinates } = feature.geometry;
+    if (type === 'Polygon') return coordsToPath(coordinates, viewBox);
+    if (type === 'MultiPolygon') {
+      return coordinates.map(poly => coordsToPath(poly, viewBox)).join(' ');
+    }
+    return '';
+  };
 
-  const isCountryActive = (countryName) => {
-    if (!countryName) return false;
-    
-    // Direct name match
-    if (activeCountries.includes(countryName)) return true;
-    
-    // Check variations
-    const variations = {
-      'United States of America': 'United States',
-      'USA': 'United States',
-      'United Kingdom': 'United Kingdom',
-      'UK': 'United Kingdom',
-      'South Korea': 'South Korea',
-      'Korea': 'South Korea',
-      'Republic of Korea': 'South Korea',
-      'South Africa': 'South Africa',
-      'New Zealand': 'New Zealand',
-      'Czech Republic': 'Czech Republic',
-      'Czechia': 'Czech Republic',
-      'UAE': 'UAE',
-      'United Arab Emirates': 'UAE'
+  // Get name from feature properties
+  const getStateName = (feature) => {
+    return feature.properties?.NAME || feature.properties?.name ||
+      feature.properties?.NAME_1 || feature.properties?.state || '';
+  };
+
+  const getCountryName = (feature) => {
+    return feature.properties?.ADMIN || feature.properties?.name ||
+      feature.properties?.NAME || feature.properties?.sovereignt || '';
+  };
+
+  // World map viewbox
+  const worldViewBox = { minLng: -180, maxLng: 180, minLat: -85, maxLat: 85 };
+
+  // USA viewbox (continental US)
+  const usViewBox = { minLng: -125, maxLng: -66, minLat: 24, maxLat: 50 };
+
+  // Get viewbox for a specific state
+  const getStateViewBox = (stateName) => {
+    const center = STATE_CENTERS[stateName];
+    if (!center) return usViewBox;
+    const span = 4.5;
+    // Special cases for larger states
+    if (stateName === 'California') return { minLng: -124.5, maxLng: -114, minLat: 32.3, maxLat: 42.2 };
+    if (stateName === 'Texas') return { minLng: -107, maxLng: -93, minLat: 25.5, maxLat: 36.8 };
+    if (stateName === 'New York') return { minLng: -80, maxLng: -71.5, minLat: 40.3, maxLat: 45.2 };
+    if (stateName === 'Florida') return { minLng: -87.8, maxLng: -79.7, minLat: 24.3, maxLat: 31.2 };
+    if (stateName === 'Colorado') return { minLng: -109.2, maxLng: -102, minLat: 36.8, maxLat: 41.2 };
+    if (stateName === 'Georgia') return { minLng: -85.8, maxLng: -80.5, minLat: 30.2, maxLat: 35.1 };
+    if (stateName === 'Illinois') return { minLng: -91.8, maxLng: -87, minLat: 36.8, maxLat: 42.6 };
+    if (stateName === 'Minnesota') return { minLng: -97.5, maxLng: -89.4, minLat: 43.3, maxLat: 49.5 };
+    if (stateName === 'Virginia') return { minLng: -83.8, maxLng: -75.1, minLat: 36.4, maxLat: 39.5 };
+    if (stateName === 'District of Columbia') return { minLng: -77.2, maxLng: -76.8, minLat: 38.78, maxLat: 39.0 };
+    return {
+      minLng: center.lng - span,
+      maxLng: center.lng + span,
+      minLat: center.lat - span * 0.6,
+      maxLat: center.lat + span * 0.6,
     };
-    
-    return activeCountries.includes(variations[countryName]) || false;
   };
 
-  // Helper function to normalize state names from different data sources
-  const normalizeStateName = (stateName) => {
-    if (!stateName) return null;
-    
-    const stateNameMappings = {
-      'District of Columbia': 'Washington D.C.',
-      'D.C.': 'Washington D.C.',
-      'DC': 'Washington D.C.',
-    };
-    
-    return stateNameMappings[stateName] || stateName;
-  };
+  const currentViewBox = zoomedState
+    ? getStateViewBox(zoomedState)
+    : zoomedCountry === 'United States of America' || zoomedCountry === 'United States'
+    ? usViewBox
+    : worldViewBox;
 
   const handleCountryClick = (countryName) => {
-    if (isCountryActive(countryName)) {
-      if (countryName === 'United States') {
-        setZoomedCountry(countryName);
-        setMapScale(3);
-        const usaCenterX = ((-95 + 180) * (1600 / 360));
-        const usaCenterY = ((90 - 39) * (800 / 180));
-        const offsetX = 800 - usaCenterX;
-        const offsetY = 400 - usaCenterY;
-        setMapCenter({ x: offsetX, y: offsetY });
-        
-        setTimeout(() => {
-          setShowStateOutlines(true);
-        }, 800);
-      } else {
-        alert(`Opening ${countryName} restaurant guide...`);
-      }
+    if (countryName === 'United States of America' || countryName === 'United States') {
+      setZoomedCountry(countryName);
+      setZoomedState(null);
     }
   };
 
   const handleStateClick = (stateName) => {
-    if (usStates[stateName]?.active) {
-      if (stateName === 'Virginia') {
-        setZoomedState(stateName);
-        setMapScale(50);
-        const state = usStates[stateName];
-        const stateX = ((state.lng + 180) * (1600 / 360));
-        const stateY = ((90 - state.lat) * (800 / 180));
-        const offsetX = 800 - stateX;
-        const offsetY = 400 - stateY;
-        setMapCenter({ x: offsetX, y: offsetY });
-        
-        // Show cities after zoom animation completes
-        setTimeout(() => {
-          setShowCities(true);
-        }, 800);
-      } else {
-        alert(`Opening ${stateName} restaurant guide...`);
-      }
+    if (ACTIVE_STATES.has(stateName)) {
+      setZoomedState(stateName);
     }
   };
 
-  const handleCityClick = (cityName) => {
-    const cityRoutes = {
-      'Richmond': '/usa/virginia/richmond/restaurants',
-      'Washington': '/usa/virginia/washington/restaurants', 
-      'NOVA': '/usa/virginia/nova/restaurants'
-    };
-    
-    const route = cityRoutes[cityName];
-    if (route) {
-      window.location.href = route;
-    } else {
-      alert(`Opening ${cityName} restaurant guide...`);
-    }
-  };
-
-  const handleDCClick = () => {
-    window.location.href = '/usa/dc/restaurants';
+  const handleCityClick = (city) => {
+    navigate(city.path);
   };
 
   const handleBackToWorld = () => {
     setZoomedCountry(null);
     setZoomedState(null);
-    setHoveredCity(null);
     setHoveredState(null);
-    setShowStateOutlines(false);
-    setShowCities(false);
-    setMapScale(1);
-    setMapCenter({ x: 0, y: 0 });
   };
 
-  const handleBackToCountry = () => {
+  const handleBackToUSA = () => {
     setZoomedState(null);
-    setHoveredCity(null);
-    setShowCities(false);
-    setMapScale(3);
-    const usaCenterX = ((-95 + 180) * (1600 / 360));
-    const usaCenterY = ((90 - 39) * (800 / 180));
-    const offsetX = 800 - usaCenterX;
-    const offsetY = 400 - usaCenterY;
-    setMapCenter({ x: offsetX, y: offsetY });
+    setHoveredState(null);
   };
 
-  const handleMouseMove = (e) => {
-    setMousePosition({ x: e.clientX, y: e.clientY });
+  // Render world map
+  const renderWorldMap = () => {
+    if (!worldData?.features) return null;
+    return worldData.features.map((feature, i) => {
+      const name = getCountryName(feature);
+      const isUSA = name === 'United States of America' || name === 'United States';
+      const isHovered = hoveredCountry === name;
+      const d = featureToPath(feature, worldViewBox);
+      if (!d) return null;
+      return (
+        <path
+          key={i}
+          d={d}
+          fill={isUSA ? (isHovered ? '#c9a96e' : '#b8935a') : (isHovered ? '#d4c5b0' : '#e8e0d5')}
+          stroke="#fff"
+          strokeWidth="0.5"
+          style={{ cursor: isUSA ? 'pointer' : 'default', transition: 'fill 0.2s' }}
+          onMouseEnter={(e) => {
+            setHoveredCountry(name);
+            setTooltipContent(isUSA ? 'United States — Click to explore' : name);
+            setMousePosition({ x: e.clientX, y: e.clientY });
+          }}
+          onMouseLeave={() => { setHoveredCountry(null); setTooltipContent(''); }}
+          onMouseMove={(e) => setMousePosition({ x: e.clientX, y: e.clientY })}
+          onClick={() => handleCountryClick(name)}
+        />
+      );
+    });
   };
 
-  // Simple projection function
-  const projectPoint = (longitude, latitude) => {
-    const x = (longitude + 180) * (1600 / 360);
-    const y = (90 - latitude) * (800 / 180);
-    return [x, y];
+  // Render US states map
+  const renderUSMap = () => {
+    if (!usStatesData?.features) return null;
+    return usStatesData.features.map((feature, i) => {
+      const name = getStateName(feature);
+      const isActive = ACTIVE_STATES.has(name);
+      const isHovered = hoveredState === name;
+      const d = featureToPath(feature, usViewBox);
+      if (!d) return null;
+      return (
+        <path
+          key={i}
+          d={d}
+          fill={isActive ? (isHovered ? '#c9a96e' : '#b8935a') : (isHovered ? '#d4c5b0' : '#e8e0d5')}
+          stroke="#fff"
+          strokeWidth="0.8"
+          style={{ cursor: isActive ? 'pointer' : 'default', transition: 'fill 0.2s' }}
+          onMouseEnter={(e) => {
+            setHoveredState(name);
+            setTooltipContent(isActive ? `${name} — Click to explore` : name);
+            setMousePosition({ x: e.clientX, y: e.clientY });
+          }}
+          onMouseLeave={() => { setHoveredState(null); setTooltipContent(''); }}
+          onMouseMove={(e) => setMousePosition({ x: e.clientX, y: e.clientY })}
+          onClick={() => handleStateClick(name)}
+        />
+      );
+    });
   };
 
-  // Convert GeoJSON coordinates to SVG path
-  const geoJSONToPath = (coordinates, type) => {
-    let pathData = '';
-    
-    if (type === 'Polygon') {
-      coordinates.forEach((ring, ringIndex) => {
-        ring.forEach((coord, coordIndex) => {
-          const [x, y] = projectPoint(coord[0], coord[1]);
-          if (coordIndex === 0) {
-            pathData += `M ${x} ${y} `;
-          } else {
-            pathData += `L ${x} ${y} `;
-          }
-        });
-        pathData += 'Z ';
-      });
-    } else if (type === 'MultiPolygon') {
-      coordinates.forEach(polygon => {
-        polygon.forEach((ring, ringIndex) => {
-          ring.forEach((coord, coordIndex) => {
-            const [x, y] = projectPoint(coord[0], coord[1]);
-            if (coordIndex === 0) {
-              pathData += `M ${x} ${y} `;
-            } else {
-              pathData += `L ${x} ${y} `;
-            }
-          });
-          pathData += 'Z ';
-        });
-      });
-    }
-    
-    return pathData;
+  // Render state zoom map
+  const renderStateMap = () => {
+    if (!usStatesData?.features || !zoomedState) return null;
+    const vb = getStateViewBox(zoomedState);
+    return usStatesData.features.map((feature, i) => {
+      const name = getStateName(feature);
+      const isTargetState = name === zoomedState;
+      const d = featureToPath(feature, vb);
+      if (!d) return null;
+      return (
+        <path
+          key={i}
+          d={d}
+          fill={isTargetState ? '#d4b896' : '#f0ebe3'}
+          stroke="#fff"
+          strokeWidth="0.5"
+          style={{ pointerEvents: 'none' }}
+        />
+      );
+    });
   };
 
-  const renderMap = () => {
-    const transform = `scale(${mapScale}) translate(${mapCenter.x}px, ${mapCenter.y}px)`;
-    
+  // Render city markers on state zoom
+  const renderCityMarkers = () => {
+    if (!zoomedState) return null;
+    const cities = US_STATE_CITIES[zoomedState] || [];
+    const vb = getStateViewBox(zoomedState);
+
+    return cities.map((city, i) => {
+      const { x, y } = projectToSVG(city.lat, city.lng, {
+        minLng: vb.minLng, maxLng: vb.maxLng,
+        minLat: vb.minLat, maxLat: vb.maxLat,
+      }, SVG_WIDTH, SVG_HEIGHT);
+
+      const isHovered = hoveredCity === city.name;
+      const pinSize = isHovered ? 14 : 11;
+
+      return (
+        <g
+          key={i}
+          transform={`translate(${x}, ${y})`}
+          style={{ cursor: 'pointer' }}
+          onMouseEnter={(e) => {
+            setHoveredCity(city.name);
+            setTooltipContent(`${city.name} — ${city.count} restaurants`);
+            setMousePosition({ x: e.clientX, y: e.clientY });
+          }}
+          onMouseLeave={() => { setHoveredCity(null); setTooltipContent(''); }}
+          onMouseMove={(e) => setMousePosition({ x: e.clientX, y: e.clientY })}
+          onClick={() => handleCityClick(city)}
+        >
+          {/* Pin drop shape */}
+          <path
+            d={`M 0 ${-pinSize * 1.8}
+                C ${-pinSize * 0.7} ${-pinSize * 1.8}, ${-pinSize} ${-pinSize * 1.1}, ${-pinSize} ${-pinSize * 0.7}
+                C ${-pinSize} ${-pinSize * 0.1}, 0 0, 0 0
+                C 0 0, ${pinSize} ${-pinSize * 0.1}, ${pinSize} ${-pinSize * 0.7}
+                C ${pinSize} ${-pinSize * 1.1}, ${pinSize * 0.7} ${-pinSize * 1.8}, 0 ${-pinSize * 1.8} Z`}
+            fill={isHovered ? '#8B4513' : '#b8935a'}
+            stroke="#fff"
+            strokeWidth="1"
+            style={{ transition: 'all 0.15s' }}
+          />
+          {/* Pin dot */}
+          <circle cx="0" cy={-pinSize * 1.1} r={pinSize * 0.3} fill="#fff" opacity="0.9" />
+          {/* City label */}
+          <text
+            x="0"
+            y={pinSize * 0.7}
+            textAnchor="middle"
+            fontSize={isHovered ? "11" : "9.5"}
+            fontFamily="'Playfair Display', Georgia, serif"
+            fill={isHovered ? '#5a3010' : '#3d2208'}
+            fontWeight={isHovered ? "700" : "600"}
+            stroke="#fff"
+            strokeWidth="2.5"
+            paintOrder="stroke"
+            style={{ transition: 'all 0.15s', pointerEvents: 'none' }}
+          >
+            {city.name}
+          </text>
+        </g>
+      );
+    });
+  };
+
+  // Render state labels on US map
+  const renderStateLabels = () => {
+    if (zoomedState || !usStatesData?.features) return null;
+    return Array.from(ACTIVE_STATES).map((stateName) => {
+      const center = STATE_CENTERS[stateName];
+      if (!center) return null;
+      const { x, y } = projectToSVG(center.lat, center.lng, {
+        minLng: usViewBox.minLng, maxLng: usViewBox.maxLng,
+        minLat: usViewBox.minLat, maxLat: usViewBox.maxLat,
+      }, SVG_WIDTH, SVG_HEIGHT);
+
+      const shortName = stateName === 'District of Columbia' ? 'D.C.' :
+        stateName === 'Minnesota' ? 'MN' :
+        stateName.length > 10 ? stateName.substring(0, 2).toUpperCase() :
+        stateName.substring(0, 2).toUpperCase();
+
+      return (
+        <text
+          key={stateName}
+          x={x}
+          y={y}
+          textAnchor="middle"
+          dominantBaseline="middle"
+          fontSize="9"
+          fontFamily="'Playfair Display', Georgia, serif"
+          fill="#5a3010"
+          fontWeight="700"
+          stroke="#fff"
+          strokeWidth="2"
+          paintOrder="stroke"
+          style={{ pointerEvents: 'none' }}
+        >
+          {shortName}
+        </text>
+      );
+    });
+  };
+
+  if (loading) {
     return (
-      <div style={{ 
-        width: '100%', 
-        height: '60vh',
-        minHeight: '500px',
-        backgroundColor: '#ffffff',
-        border: '1px solid #e9ecef',
-        borderRadius: '8px',
-        overflow: 'hidden',
-        position: 'relative',
-        margin: '0 auto'
+      <div style={{
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+        height: '400px', color: '#b8935a', fontFamily: "'Playfair Display', Georgia, serif",
+        fontSize: '1.1rem'
       }}>
-        <svg width="100%" height="100%" viewBox="0 0 1600 800" style={{ display: 'block' }}>
-          <rect width="1600" height="800" fill="#ffffff" />
-          
-          {/* Countries */}
-          <g style={{ transform, transformOrigin: 'center', transition: 'transform 0.8s ease-in-out' }}>
-            {worldData && worldData.features.map((feature, i) => {
-              const countryName = feature.properties?.NAME || 
-                                feature.properties?.NAME_EN || 
-                                feature.properties?.name || 
-                                feature.properties?.ADMIN ||
-                                feature.properties?.NAME_LONG ||
-                                feature.properties?.COUNTRY;
-              
-              const variations = {
-                'United States of America': 'United States',
-                'USA': 'United States'
-              };
-              const normalizedCountryName = variations[countryName] || countryName;
-              
-              const isActive = isCountryActive(normalizedCountryName);
-              const isHovered = hoveredCountry === normalizedCountryName;
-              
-              const pathData = geoJSONToPath(
-                feature.geometry.coordinates, 
-                feature.geometry.type
-              );
-              
-              if (!pathData) return null;
-              
-              return (
-                <path
-                  key={`country-${i}`}
-                  d={pathData}
-                  fill={isActive ? '#d4a574' : '#f8f9fa'}
-                  stroke="#333333"
-                  strokeWidth={0.3 / mapScale}
-                  style={{
-                    cursor: isActive ? 'pointer' : 'default',
-                    opacity: isHovered ? 0.8 : 1,
-                    transition: 'all 0.2s ease'
-                  }}
-                  onMouseEnter={() => {
-                    if (normalizedCountryName && !zoomedCountry) {
-                      setHoveredCountry(normalizedCountryName);
-                      setTooltipContent(normalizedCountryName);
-                    }
-                  }}
-                  onMouseLeave={() => {
-                    if (!zoomedCountry) {
-                      setHoveredCountry(null);
-                      setTooltipContent('');
-                    }
-                  }}
-                  onClick={() => {
-                    if (normalizedCountryName && !zoomedCountry) {
-                      handleCountryClick(normalizedCountryName);
-                    }
-                  }}
-                />
-              );
-            })}
-          </g>
-
-          {/* US States when zoomed into USA */}
-          {zoomedCountry === 'United States' && showStateOutlines && (
-            <g style={{ transform, transformOrigin: 'center', transition: 'transform 0.8s ease-in-out' }}>
-              {usStatesData ? (
-                usStatesData.features.map((feature, i) => {
-                  const rawStateName = feature.properties?.NAME || 
-                                      feature.properties?.name || 
-                                      feature.properties?.NAME_1 ||
-                                      feature.properties?.STATE_NAME ||
-                                      feature.properties?.STUSPS;
-                  
-                  const stateName = normalizeStateName(rawStateName);
-                  const stateData = usStates[stateName];
-                  if (!stateData) return null;
-                  
-                  const isHovered = hoveredState === stateName;
-                  
-                  const pathData = geoJSONToPath(
-                    feature.geometry.coordinates, 
-                    feature.geometry.type
-                  );
-                  
-                  if (!pathData) return null;
-                  
-                  return (
-                    <path
-                      key={`state-${i}`}
-                      d={pathData}
-                      fill={stateData.active ? '#d4a574' : '#f8f9fa'}
-                      stroke="#333333"
-                      strokeWidth={0.5 / mapScale}
-                      style={{
-                        cursor: stateData.active ? 'pointer' : 'default',
-                        opacity: isHovered ? 0.8 : 1,
-                        transition: 'all 0.2s ease'
-                      }}
-                      onMouseEnter={() => {
-                        if (!zoomedState) {
-                          setHoveredState(stateName);
-                          setTooltipContent(stateName);
-                        }
-                      }}
-                      onMouseLeave={() => {
-                        if (!zoomedState) {
-                          setHoveredState(null);
-                          setTooltipContent('');
-                        }
-                      }}
-                      onClick={() => !zoomedState && handleStateClick(stateName)}
-                    />
-                  );
-                })
-              ) : (
-                Object.entries(usStates).map(([stateName, stateData]) => {
-                  const [x, y] = projectPoint(stateData.lng, stateData.lat);
-                  const isHovered = hoveredState === stateName;
-                  
-                  return (
-                    <circle
-                      key={stateName}
-                      cx={x}
-                      cy={y}
-                      r={8 / mapScale}
-                      fill={stateData.active ? '#d4a574' : '#cccccc'}
-                      stroke="#333333"
-                      strokeWidth={1 / mapScale}
-                      style={{
-                        cursor: stateData.active ? 'pointer' : 'default',
-                        opacity: isHovered ? 0.8 : 1,
-                        transition: 'all 0.2s ease'
-                      }}
-                      onMouseEnter={() => {
-                        setHoveredState(stateName);
-                        setTooltipContent(stateName);
-                      }}
-                      onMouseLeave={() => {
-                        setHoveredState(null);
-                        setTooltipContent('');
-                      }}
-                      onClick={() => handleStateClick(stateName)}
-                    />
-                  );
-                })
-              )}
-              
-              {/* D.C. callout - only show when not zoomed into a state */}
-              {!zoomedState && (
-                <g>
-                  <circle
-                    cx={projectPoint(dcData.lng, dcData.lat)[0]}
-                    cy={projectPoint(dcData.lng, dcData.lat)[1]}
-                    r={3 / mapScale}
-                    fill="#000000"
-                    style={{ cursor: 'pointer' }}
-                    onMouseEnter={() => {
-                      setTooltipContent(`Washington D.C. - ${dcData.restaurants} restaurants`);
-                    }}
-                    onMouseLeave={() => {
-                      setTooltipContent('');
-                    }}
-                    onClick={handleDCClick}
-                  />
-                  
-                  <line
-                    x1={projectPoint(dcData.lng, dcData.lat)[0]}
-                    y1={projectPoint(dcData.lng, dcData.lat)[1]}
-                    x2={projectPoint(dcData.lng + 8, dcData.lat - 2)[0]}
-                    y2={projectPoint(dcData.lng + 8, dcData.lat - 2)[1]}
-                    stroke="#333333"
-                    strokeWidth={1 / mapScale}
-                  />
-                  
-                  <text
-                    x={projectPoint(dcData.lng + 8, dcData.lat - 2)[0]}
-                    y={projectPoint(dcData.lng + 8, dcData.lat - 2)[1] + 15 / mapScale}
-                    textAnchor="middle"
-                    fontSize={12 / mapScale}
-                    fontWeight="600"
-                    fill="#333"
-                    style={{
-                      cursor: 'pointer',
-                      textShadow: '1px 1px 2px rgba(255,255,255,0.8)'
-                    }}
-                    onClick={handleDCClick}
-                  >
-                    Washington D.C.
-                  </text>
-                </g>
-              )}
-            </g>
-          )}
-
-          {/* Virginia cities when zoomed into Virginia */}
-          {zoomedState === 'Virginia' && showCities && (
-            <g style={{ transform, transformOrigin: 'center' }}>
-              {virginiaCities.map((city, i) => {
-                const [x, y] = projectPoint(city.lng, city.lat);
-                const isHovered = hoveredCity === city.name;
-                const iconSize = isHovered ? 32 / mapScale : 28 / mapScale;
-                
-                return (
-                  <g key={city.name}>
-                    {/* Map icon */}
-                    <image
-                      x={x - iconSize / 2}
-                      y={y - iconSize}
-                      width={iconSize}
-                      height={iconSize}
-                      href="/images/mapicon.png"
-                      style={{
-                        cursor: 'pointer',
-                        transition: 'all 0.2s ease'
-                      }}
-                      onMouseEnter={() => {
-                        setHoveredCity(city.name);
-                        setTooltipContent(city.name);
-                      }}
-                      onMouseLeave={() => {
-                        setHoveredCity(null);
-                        setTooltipContent('');
-                      }}
-                      onClick={() => handleCityClick(city.name)}
-                    />
-                    {/* City label */}
-                    <text
-                      x={x}
-                      y={y + 24 / mapScale}
-                      textAnchor="middle"
-                      fontSize={18 / mapScale}
-                      fontWeight="700"
-                      fill="#333333"
-                      style={{
-                        pointerEvents: 'none'
-                      }}
-                    >
-                      {city.name}
-                    </text>
-                  </g>
-                );
-              })}
-            </g>
-          )}
-
-          {/* Navigation buttons */}
-          {(zoomedCountry || zoomedState) && (
-            <g>
-              {zoomedState && (
-                <g transform="translate(50, 50)">
-                  <rect
-                    width="140"
-                    height="45"
-                    fill="#d4a574"
-                    stroke="#333"
-                    strokeWidth={1}
-                    rx="8"
-                    style={{ cursor: 'pointer' }}
-                    onClick={handleBackToCountry}
-                  />
-                  <text
-                    x="70"
-                    y="28"
-                    textAnchor="middle"
-                    fontSize="16"
-                    fontWeight="600"
-                    fill="white"
-                    style={{ cursor: 'pointer', pointerEvents: 'none' }}
-                  >
-                    ← Back to USA
-                  </text>
-                </g>
-              )}
-              <g transform={`translate(50, ${zoomedState ? 110 : 50})`}>
-                <rect
-                  width="140"
-                  height="45"
-                  fill="#666"
-                  stroke="#333"
-                  strokeWidth={1}
-                  rx="8"
-                  style={{ cursor: 'pointer' }}
-                  onClick={handleBackToWorld}
-                />
-                <text
-                  x="70"
-                  y="28"
-                  textAnchor="middle"
-                  fontSize="16"
-                  fontWeight="600"
-                  fill="white"
-                  style={{ cursor: 'pointer', pointerEvents: 'none' }}
-                >
-                  ← Back to World
-                </text>
-              </g>
-            </g>
-          )}
-        </svg>
+        Loading map...
       </div>
     );
-  };
+  }
+
+  if (error || !worldData) {
+    return (
+      <div style={{
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+        height: '400px', color: '#666', fontFamily: "'Playfair Display', Georgia, serif",
+        fontSize: '1rem', textAlign: 'center', padding: '2rem'
+      }}>
+        Map unavailable. Please explore destinations using the list below.
+      </div>
+    );
+  }
+
+  const isViewingUSA = zoomedCountry && !zoomedState;
+  const isViewingState = !!zoomedState;
 
   return (
-    <div style={{
-      display: 'flex',
-      justifyContent: 'center',
-      marginBottom: '4rem',
-      position: 'relative'
-    }} onMouseMove={handleMouseMove}>
-      {loading && (
-        <div style={{
-          width: '100%',
-          height: '60vh',
-          minHeight: '500px',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          color: '#666',
-          flexDirection: 'column',
-          border: '1px solid #e9ecef',
-          borderRadius: '8px'
+    <div style={{ position: 'relative', width: '100%' }}>
+      {/* Navigation Breadcrumb */}
+      <div style={{
+        display: 'flex', gap: '8px', alignItems: 'center', marginBottom: '12px',
+        fontFamily: "'Playfair Display', Georgia, serif", fontSize: '0.85rem', color: '#8a7560'
+      }}>
+        {(isViewingUSA || isViewingState) && (
+          <button
+            onClick={handleBackToWorld}
+            style={{
+              background: 'none', border: '1px solid #d4c5b0', borderRadius: '4px',
+              padding: '4px 10px', cursor: 'pointer', color: '#8a7560',
+              fontFamily: 'inherit', fontSize: 'inherit',
+              transition: 'all 0.2s'
+            }}
+            onMouseEnter={e => { e.target.style.background = '#f5efe8'; e.target.style.color = '#5a3010'; }}
+            onMouseLeave={e => { e.target.style.background = 'none'; e.target.style.color = '#8a7560'; }}
+          >
+            ← World Map
+          </button>
+        )}
+        {isViewingState && (
+          <button
+            onClick={handleBackToUSA}
+            style={{
+              background: 'none', border: '1px solid #d4c5b0', borderRadius: '4px',
+              padding: '4px 10px', cursor: 'pointer', color: '#8a7560',
+              fontFamily: 'inherit', fontSize: 'inherit',
+              transition: 'all 0.2s'
+            }}
+            onMouseEnter={e => { e.target.style.background = '#f5efe8'; e.target.style.color = '#5a3010'; }}
+            onMouseLeave={e => { e.target.style.background = 'none'; e.target.style.color = '#8a7560'; }}
+          >
+            ← United States
+          </button>
+        )}
+        <span style={{ color: '#b8935a' }}>
+          {isViewingState ? zoomedState : isViewingUSA ? 'United States' : 'World'}
+        </span>
+      </div>
+
+      {/* Map hint */}
+      {!isViewingUSA && !isViewingState && (
+        <p style={{
+          textAlign: 'center', fontFamily: "'Playfair Display', Georgia, serif",
+          fontSize: '0.85rem', color: '#9a8570', marginBottom: '8px', fontStyle: 'italic'
         }}>
-          <div style={{
-            width: '150px',
-            height: '40px',
-            border: '4px solid #f3f3f3',
-            borderTop: '4px solid #d4a574',
-            borderRadius: '50%',
-            animation: 'spin 1s linear infinite',
-            marginBottom: '1rem'
-          }} />
-          <h3 style={{ margin: '0 0 1rem 0' }}>Loading World Map...</h3>
-          <p style={{ margin: 0, textAlign: 'center', maxWidth: '300px' }}>
-            Fetching geographical data from remote servers...
-          </p>
-        </div>
+          Click on the United States to explore
+        </p>
       )}
-      
-      {error && (
-        <div style={{
-          width: '100%',
-          height: '60vh',
-          minHeight: '500px',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          color: '#666',
-          flexDirection: 'column',
-          border: '1px solid #e9ecef',
-          borderRadius: '8px'
+      {isViewingUSA && (
+        <p style={{
+          textAlign: 'center', fontFamily: "'Playfair Display', Georgia, serif",
+          fontSize: '0.85rem', color: '#9a8570', marginBottom: '8px', fontStyle: 'italic'
         }}>
-          <div style={{ textAlign: 'center', maxWidth: '400px' }}>
-            <h3 style={{ margin: '0 0 1rem 0', color: '#dc3545' }}>Map Loading Failed</h3>
-            <p style={{ margin: '0 0 1rem 0' }}>
-              Unable to load map data: {error}
-            </p>
-            <button 
-              onClick={() => window.location.reload()}
-              style={{
-                padding: '0.5rem 1rem',
-                backgroundColor: '#d4a574',
-                color: 'white',
-                border: 'none',
-                borderRadius: '4px',
-                cursor: 'pointer'
-              }}
-            >
-              Retry
-            </button>
-          </div>
-        </div>
+          Highlighted states have curated restaurant guides — click to explore
+        </p>
+      )}
+      {isViewingState && (
+        <p style={{
+          textAlign: 'center', fontFamily: "'Playfair Display', Georgia, serif",
+          fontSize: '0.85rem', color: '#9a8570', marginBottom: '8px', fontStyle: 'italic'
+        }}>
+          Click a city pin to browse restaurants
+        </p>
       )}
 
-      {worldData && !loading && !error && renderMap()}
+      {/* SVG Map */}
+      <svg
+        ref={svgRef}
+        viewBox={`0 0 ${SVG_WIDTH} ${SVG_HEIGHT}`}
+        style={{
+          width: '100%', height: 'auto', background: '#f0ebe3',
+          borderRadius: '8px', border: '1px solid #e0d5c5',
+          display: 'block'
+        }}
+        onMouseMove={(e) => setMousePosition({ x: e.clientX, y: e.clientY })}
+      >
+        {/* Ocean background */}
+        <rect width={SVG_WIDTH} height={SVG_HEIGHT} fill="#dce8f0" />
+
+        {isViewingState ? (
+          <g>
+            {renderStateMap()}
+            {renderCityMarkers()}
+          </g>
+        ) : isViewingUSA ? (
+          <g>
+            {renderUSMap()}
+            {renderStateLabels()}
+          </g>
+        ) : (
+          <g>
+            {renderWorldMap()}
+          </g>
+        )}
+      </svg>
 
       {/* Tooltip */}
       {tooltipContent && (
         <div
           style={{
             position: 'fixed',
-            left: mousePosition.x + 10,
+            left: mousePosition.x + 14,
             top: mousePosition.y - 30,
-            backgroundColor: 'rgba(0, 0, 0, 0.8)',
-            color: 'white',
-            padding: '0.5rem 1rem',
-            borderRadius: '4px',
-            fontSize: '14px',
-            fontWeight: '500',
+            background: 'rgba(45, 28, 12, 0.92)',
+            color: '#f5efe8',
+            padding: '6px 12px',
+            borderRadius: '5px',
+            fontSize: '0.82rem',
+            fontFamily: "'Playfair Display', Georgia, serif",
             pointerEvents: 'none',
-            zIndex: 1000,
-            whiteSpace: 'nowrap'
+            zIndex: 9999,
+            whiteSpace: 'nowrap',
+            boxShadow: '0 2px 8px rgba(0,0,0,0.3)',
           }}
         >
           {tooltipContent}
         </div>
       )}
-
-      <style>{`
-        @keyframes spin {
-          0% { transform: rotate(0deg); }
-          100% { transform: rotate(360deg); }
-        }
-      `}</style>
     </div>
   );
 };
