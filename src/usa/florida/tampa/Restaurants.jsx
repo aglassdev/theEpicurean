@@ -310,7 +310,7 @@ const Restaurants = () => {
                 e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.15)';
               }}>
               <div style={{ height: '200px', backgroundColor: '#f8f9fa', position: 'relative', overflow: 'hidden' }}>
-                <img src={restaurant.image} alt={restaurant.name}
+                <img src={restaurant.image} alt={restaurant.name} loading="lazy" decoding="async"
                   style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
                   onError={(e) => {
                     e.target.style.display = 'none';
