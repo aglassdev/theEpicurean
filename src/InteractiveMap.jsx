@@ -383,20 +383,16 @@ const InteractiveMap = () => {
             {/* DC callout — only in USA view */}
             {view === 'usa' && (
               <g>
-                {/* Dot on DC */}
-                <circle data-dc-dot r="5" fill={C.callout} style={{ pointerEvents:'none' }} />
-                {/* Leader line to Atlantic callout */}
-                <line data-dc-line stroke={C.callout} strokeWidth="1.2" strokeDasharray="5 3" style={{ pointerEvents:'none' }} />
-                {/* Callout bubble */}
+                {/* Leader line from DC to label */}
+                <line data-dc-line stroke={C.callout} strokeWidth="1" style={{ pointerEvents:'none' }} />
+                {/* Clickable label */}
                 <g data-dc-bubble style={{ cursor:'pointer' }}
                    onClick={() => setView('District of Columbia')}
                    onMouseEnter={() => showTip('Washington, D.C. — click to explore')}
                    onMouseLeave={hideTip}>
-                  <circle cx="0" cy="0" r="9" fill={C.callout} />
-                  <rect x="10" y="-10" width="120" height="20" rx="4" fill={C.callout} />
-                  <text x="70" y="4" textAnchor="middle"
+                  <text x="0" y="0" textAnchor="middle"
                     fontFamily="'Playfair Display',Georgia,serif"
-                    fontSize="10" fontWeight="700" fill="#fff"
+                    fontSize="10" fontWeight="700" fill={C.callout}
                     style={{ pointerEvents:'none' }}>
                     Washington, D.C.
                   </text>
@@ -427,7 +423,6 @@ const InteractiveMap = () => {
                     fontFamily="'Playfair Display',Georgia,serif"
                     fontSize={hov?'10':'8'} fontWeight={hov?'700':'600'}
                     fill={hov?'#000':'#222'}
-                    stroke="#fff" strokeWidth="2.5" paintOrder="stroke"
                     style={{ pointerEvents:'none', transition:'all 0.12s' }}>
                     {city.name}
                   </text>
@@ -435,7 +430,6 @@ const InteractiveMap = () => {
                     <text y="18" textAnchor="middle"
                       fontFamily="'Playfair Display',Georgia,serif"
                       fontSize="8" fill="#333"
-                      stroke="#fff" strokeWidth="1.5" paintOrder="stroke"
                       style={{ pointerEvents:'none' }}>
                       {city.count} restaurants
                     </text>
