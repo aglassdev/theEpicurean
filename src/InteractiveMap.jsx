@@ -135,7 +135,7 @@ const C = {
   usaFill:'#c4a882', usaHov:'#b8935a',
   active:'#c9a96e', activeHov:'#b8935a',
   inactive:'#ede5d8', stateBdr:'#fff', worldBdr:'#fff',
-  pin:'#8B4513', pinHov:'#5a2008', callout:'#7a5c3a',
+  pin:'#111111', pinHov:'#000000', callout:'#7a5c3a',
 };
 
 // ─── Screen-space overlay updater ─────────────────────────────────────────────
@@ -393,10 +393,10 @@ const InteractiveMap = () => {
                    onMouseEnter={() => showTip('Washington, D.C. — click to explore')}
                    onMouseLeave={hideTip}>
                   <circle cx="0" cy="0" r="9" fill={C.callout} />
-                  <rect x="10" y="-13" width="130" height="26" rx="5" fill={C.callout} />
-                  <text x="75" y="5" textAnchor="middle"
+                  <rect x="10" y="-10" width="120" height="20" rx="4" fill={C.callout} />
+                  <text x="70" y="4" textAnchor="middle"
                     fontFamily="'Playfair Display',Georgia,serif"
-                    fontSize="13" fontWeight="700" fill="#fff"
+                    fontSize="10" fontWeight="700" fill="#fff"
                     style={{ pointerEvents:'none' }}>
                     Washington, D.C.
                   </text>
@@ -425,8 +425,8 @@ const InteractiveMap = () => {
                   {/* City name */}
                   <text y="5" textAnchor="middle"
                     fontFamily="'Playfair Display',Georgia,serif"
-                    fontSize={hov?'13':'11'} fontWeight={hov?'700':'600'}
-                    fill={hov?'#3d1a00':'#4a2c10'}
+                    fontSize={hov?'10':'8'} fontWeight={hov?'700':'600'}
+                    fill={hov?'#000':'#222'}
                     stroke="#fff" strokeWidth="2.5" paintOrder="stroke"
                     style={{ pointerEvents:'none', transition:'all 0.12s' }}>
                     {city.name}
@@ -434,7 +434,7 @@ const InteractiveMap = () => {
                   {hov && (
                     <text y="18" textAnchor="middle"
                       fontFamily="'Playfair Display',Georgia,serif"
-                      fontSize="10" fill="#7a4a20"
+                      fontSize="8" fill="#333"
                       stroke="#fff" strokeWidth="1.5" paintOrder="stroke"
                       style={{ pointerEvents:'none' }}>
                       {city.count} restaurants

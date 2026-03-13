@@ -8,10 +8,13 @@ import RestaurantTemplate from './RestaurantTemplate';
 // USA listing pages: discovered by Vite at build time, code-split per city.
 // International cities: served via /components/{country}/{region}/{city}/index.json
 // fetched at runtime inside DynamicPage (see below) — no extra bundle cost.
-const listingModules = import.meta.glob('./usa/*/*/Restaurants.jsx');
+// Two globs: 3-deep (usa/state/city) covers most cities; 2-deep (usa/dc) covers
+// special top-level entries like Washington D.C.
+const listingModules3 = import.meta.glob('./usa/*/*/Restaurants.jsx');
+const listingModules2 = import.meta.glob('./usa/*/Restaurants.jsx');
 
 const listingComponents = Object.fromEntries(
-  Object.entries(listingModules).map(([filePath, loader]) => {
+  [...Object.entries(listingModules3), ...Object.entries(listingModules2)].map(([filePath, loader]) => {
     const routePath = filePath
       .replace(/^\.\//, '/')
       .replace(/\/Restaurants\.jsx$/, '/restaurants');
