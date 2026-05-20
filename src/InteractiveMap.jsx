@@ -36,7 +36,14 @@ const STATE_BOUNDS = {
   'Colorado':             { minLng:-109.2, maxLng:-101.8, minLat:36.8, maxLat:41.2 },
   'Virginia':             { minLng:-83.8,  maxLng:-75.0,  minLat:36.3, maxLat:39.6 },
   'District of Columbia': { minLng:-77.5,  maxLng:-76.8,  minLat:38.7, maxLat:39.1 },
-  'Minnesota':            { minLng:-97.5,  maxLng:-89.3,  minLat:43.3, maxLat:49.5 },
+  'North Carolina':       { minLng:-84.4,  maxLng:-75.3,  minLat:33.7, maxLat:36.7 },
+  'Tennessee':            { minLng:-90.4,  maxLng:-81.5,  minLat:34.8, maxLat:36.8 },
+  'Louisiana':            { minLng:-94.1,  maxLng:-88.7,  minLat:28.8, maxLat:33.1 },
+  'Pennsylvania':         { minLng:-80.6,  maxLng:-74.5,  minLat:39.6, maxLat:42.4 },
+  'Massachusetts':        { minLng:-73.6,  maxLng:-69.8,  minLat:41.1, maxLat:42.9 },
+  'South Carolina':       { minLng:-83.5,  maxLng:-78.4,  minLat:31.9, maxLat:35.3 },
+  'Alabama':              { minLng:-88.6,  maxLng:-84.7,  minLat:30.0, maxLat:35.1 },
+  'Mississippi':          { minLng:-91.8,  maxLng:-88.0,  minLat:30.0, maxLat:35.1 },
 };
 const ACTIVE_STATES = new Set(Object.keys(STATE_BOUNDS));
 
@@ -80,9 +87,11 @@ const US_STATE_CITIES = {
     { name:'Fort Worth',  lat:32.7555, lng:-97.3308, path:'/usa/texas/fort-worth/restaurants',  count:3  },
   ],
   'Georgia': [
-    { name:'Atlanta',  lat:33.749,  lng:-84.388,  path:'/usa/georgia/atlanta/restaurants',  count:46 },
-    { name:'Decatur',  lat:33.7748, lng:-84.2963, path:'/usa/georgia/decatur/restaurants',  count:4  },
-    { name:'Marietta', lat:33.9526, lng:-84.5499, path:'/usa/georgia/marietta/restaurants', count:1  },
+    { name:'Atlanta',          lat:33.7490,  lng:-84.3880,  path:'/usa/georgia/atlanta/restaurants',          count:46 },
+    { name:'Decatur',          lat:33.7748,  lng:-84.2963,  path:'/usa/georgia/decatur/restaurants',          count:5  },
+    { name:'Duluth',           lat:34.0021,  lng:-84.1449,  path:'/usa/georgia/duluth/restaurants',           count:3  },
+    { name:'Doraville',        lat:33.8990,  lng:-84.2777,  path:'/usa/georgia/doraville/restaurants',        count:3  },
+    { name:'Marietta',         lat:33.9526,  lng:-84.5499,  path:'/usa/georgia/marietta/restaurants',         count:1  },
   ],
   'Colorado': [
     { name:'Denver',  lat:39.7392, lng:-104.9903, path:'/usa/colorado/denver/restaurants',  count:27 },
@@ -98,8 +107,40 @@ const US_STATE_CITIES = {
     { name:'Washington, D.C.',      lat:38.9072, lng:-77.0369, path:'/usa/dc/restaurants',            count:23 },
     { name:'Washington Metro Area', lat:38.87,   lng:-77.13,   path:'/usa/dc/washington/restaurants', count:87 },
   ],
-  'Minnesota': [
-    { name:'Duluth', lat:46.7867, lng:-92.1005, path:'/usa/minnesota/duluth/restaurants', count:2 },
+  'North Carolina': [
+    { name:'Asheville',  lat:35.5951,  lng:-82.5515,  path:'/usa/northcarolina/asheville/restaurants',  count:15 },
+    { name:'Charlotte',  lat:35.2271,  lng:-80.8431,  path:'/usa/northcarolina/charlotte/restaurants',  count:11 },
+    { name:'Raleigh',    lat:35.7796,  lng:-78.6382,  path:'/usa/northcarolina/raleigh/restaurants',    count:11 },
+    { name:'Durham',     lat:35.9940,  lng:-78.8986,  path:'/usa/northcarolina/durham/restaurants',     count:4  },
+  ],
+  'Tennessee': [
+    { name:'Nashville',    lat:36.1627,  lng:-86.7816,  path:'/usa/tennessee/nashville/restaurants',    count:20 },
+    { name:'Memphis',      lat:35.1495,  lng:-90.0490,  path:'/usa/tennessee/memphis/restaurants',      count:4  },
+    { name:'Chattanooga',  lat:35.0456,  lng:-85.3097,  path:'/usa/tennessee/chattanooga/restaurants',  count:4  },
+    { name:'Knoxville',    lat:35.9606,  lng:-83.9207,  path:'/usa/tennessee/knoxville/restaurants',    count:2  },
+  ],
+  'Louisiana': [
+    { name:'New Orleans',  lat:29.9511,  lng:-90.0715,  path:'/usa/louisiana/new-orleans/restaurants',  count:31 },
+    { name:'Baton Rouge',  lat:30.4515,  lng:-91.1871,  path:'/usa/louisiana/baton-rouge/restaurants',  count:1  },
+  ],
+  'Pennsylvania': [
+    { name:'Philadelphia', lat:39.9526,  lng:-75.1652,  path:'/usa/pennsylvania/philadelphia/restaurants', count:33 },
+  ],
+  'Massachusetts': [
+    { name:'Boston',    lat:42.3601,  lng:-71.0589,  path:'/usa/massachusetts/boston/restaurants',    count:15 },
+    { name:'Cambridge', lat:42.3736,  lng:-71.1097,  path:'/usa/massachusetts/cambridge/restaurants', count:8  },
+  ],
+  'South Carolina': [
+    { name:'Charleston',  lat:32.7765,  lng:-79.9311,  path:'/usa/southcarolina/charleston/restaurants',  count:14 },
+    { name:'Greenville',  lat:34.8526,  lng:-82.3940,  path:'/usa/southcarolina/greenville/restaurants',  count:4  },
+  ],
+  'Alabama': [
+    { name:'Birmingham', lat:33.5186,  lng:-86.8104,  path:'/usa/alabama/birmingham/restaurants', count:11 },
+    { name:'Huntsville', lat:34.7304,  lng:-86.5861,  path:'/usa/alabama/huntsville/restaurants', count:2  },
+  ],
+  'Mississippi': [
+    { name:'Jackson', lat:32.2988,  lng:-90.1848,  path:'/usa/mississippi/jackson/restaurants', count:3 },
+    { name:'Oxford',  lat:34.3665,  lng:-89.5192,  path:'/usa/mississippi/oxford/restaurants',  count:3 },
   ],
 };
 
@@ -129,13 +170,21 @@ const featureToPath = (f) => {
   return '';
 };
 
-// ─── Colours ─────────────────────────────────────────────────────────────────
+// ─── Colours (luxury editorial palette) ──────────────────────────────────────
 const C = {
-  ocean:'#c8dce8', land:'#e8e0d5', landHov:'#d4c5b0',
-  usaFill:'#c4a882', usaHov:'#b8935a',
-  active:'#c9a96e', activeHov:'#b8935a',
-  inactive:'#ede5d8', stateBdr:'#fff', worldBdr:'#fff',
-  pin:'#111111', pinHov:'#000000', callout:'#7a5c3a',
+  ocean:    '#F1ECE0',   // warm paper-deep "ocean" — like aged map paper
+  land:     '#E6DCC6',   // tan inactive land
+  landHov:  '#D6C8A8',
+  usaFill:  '#C8A270',   // warm gold-tan
+  usaHov:   '#A8824A',
+  active:   '#C8A270',
+  activeHov:'#A8824A',
+  inactive: '#EDE3CC',
+  stateBdr: '#FAF7F0',
+  worldBdr: '#FAF7F0',
+  pin:      '#1F1A14',
+  pinHov:   '#A8824A',
+  callout:  '#A8824A',
 };
 
 // ─── Screen-space overlay updater ─────────────────────────────────────────────
@@ -330,8 +379,8 @@ const InteractiveMap = () => {
         <button
           onClick={goBack}
           style={{ ...S.backBtn, opacity:btnVis?1:0, transform:btnVis?'translateX(0)':'translateX(-20px)', pointerEvents:btnVis?'auto':'none' }}
-          onMouseEnter={e=>{ e.currentTarget.style.background='rgba(184,147,90,0.92)'; e.currentTarget.style.boxShadow='0 4px 18px rgba(0,0,0,0.38)'; }}
-          onMouseLeave={e=>{ e.currentTarget.style.background='rgba(40,24,8,0.72)'; e.currentTarget.style.boxShadow='0 2px 10px rgba(0,0,0,0.28)'; }}
+          onMouseEnter={e=>{ e.currentTarget.style.background='#A8824A'; }}
+          onMouseLeave={e=>{ e.currentTarget.style.background='#1F1A14'; }}
         >
           ← {isInState ? 'United States' : 'World'}
         </button>
@@ -391,7 +440,7 @@ const InteractiveMap = () => {
                    onMouseEnter={() => showTip('Washington, D.C. — click to explore')}
                    onMouseLeave={hideTip}>
                   <text x="0" y="0" textAnchor="middle"
-                    fontFamily="'Playfair Display',Georgia,serif"
+                    fontFamily={SERIF}
                     fontSize="10" fontWeight="700" fill={C.callout}
                     style={{ pointerEvents:'none' }}>
                     Washington, D.C.
@@ -420,7 +469,7 @@ const InteractiveMap = () => {
                   <circle cx="0" cy={-PH*0.68} r={PR*0.36} fill="rgba(255,255,255,0.85)" />
                   {/* City name */}
                   <text y="5" textAnchor="middle"
-                    fontFamily="'Playfair Display',Georgia,serif"
+                    fontFamily={SERIF}
                     fontSize={hov?'10':'8'} fontWeight={hov?'700':'600'}
                     fill={hov?'#000':'#222'}
                     style={{ pointerEvents:'none', transition:'all 0.12s' }}>
@@ -428,7 +477,7 @@ const InteractiveMap = () => {
                   </text>
                   {hov && (
                     <text y="18" textAnchor="middle"
-                      fontFamily="'Playfair Display',Georgia,serif"
+                      fontFamily={SERIF}
                       fontSize="8" fill="#333"
                       style={{ pointerEvents:'none' }}>
                       {city.count} restaurants
@@ -445,11 +494,11 @@ const InteractiveMap = () => {
       {tooltip.visible && tooltip.text && (
         <div style={{
           position:'fixed', left:tooltip.x, top:tooltip.y,
-          background:'rgba(40,24,8,0.92)', color:'#f5efe8',
-          padding:'5px 12px', borderRadius:5,
-          fontSize:'0.78rem', fontFamily:"'Playfair Display',Georgia,serif",
+          background:'#1F1A14', color:'#FAF7F0',
+          padding:'6px 12px', borderRadius:0,
+          fontSize:'0.85rem', fontFamily:SERIF, fontStyle:'italic',
           pointerEvents:'none', zIndex:9999, whiteSpace:'nowrap',
-          boxShadow:'0 2px 10px rgba(0,0,0,0.35)',
+          borderLeft:'2px solid #A8824A',
         }}>
           {tooltip.text}
         </div>
@@ -458,25 +507,29 @@ const InteractiveMap = () => {
   );
 };
 
-// ─── Static styles ─────────────────────────────────────────────────────────────
+// ─── Static styles (editorial aesthetic) ─────────────────────────────────────
+const SERIF = "'Cormorant Garamond','EB Garamond',Georgia,serif";
+const SANS  = "'Jost','Helvetica Neue',Arial,sans-serif";
+
 const S = {
   loading:{ display:'flex', alignItems:'center', justifyContent:'center', height:380,
-    color:'#b8935a', fontFamily:"'Playfair Display',Georgia,serif", fontSize:'1.1rem' },
+    color:'#A8824A', fontFamily:SERIF, fontSize:'1.1rem', fontStyle:'italic' },
   noMap:{ display:'flex', alignItems:'center', justifyContent:'center', height:380,
-    color:'#888', textAlign:'center', padding:'2rem',
-    fontFamily:"'Playfair Display',Georgia,serif", fontSize:'1rem' },
-  hint:{ textAlign:'center', fontFamily:"'Playfair Display',Georgia,serif",
-    fontSize:'0.8rem', color:'#aaa', marginBottom:8, fontStyle:'italic' },
-  svg:{ width:'100%', height:'auto', display:'block', borderRadius:8,
-    border:'1px solid #e0d5c5', background:'#c8dce8', cursor:'default' },
+    color:'#8B8377', textAlign:'center', padding:'2rem',
+    fontFamily:SERIF, fontSize:'1rem', fontStyle:'italic' },
+  hint:{ textAlign:'center', fontFamily:SANS,
+    fontSize:'10.5px', letterSpacing:'.28em', textTransform:'uppercase',
+    color:'#8B8377', marginBottom:12 },
+  svg:{ width:'100%', height:'auto', display:'block', borderRadius:0,
+    border:'1px solid #D9D1BE', background:'#F1ECE0', cursor:'default' },
   backBtn:{
     position:'absolute', top:14, left:14, zIndex:10,
-    background:'rgba(40,24,8,0.72)', color:'#f5efe8',
-    border:'none', borderRadius:7, padding:'7px 16px',
-    cursor:'pointer', fontFamily:"'Playfair Display',Georgia,serif",
-    fontSize:'0.82rem', fontWeight:'600', letterSpacing:'0.02em',
-    backdropFilter:'blur(6px)', boxShadow:'0 2px 10px rgba(0,0,0,0.28)',
-    transition:'opacity 0.35s ease, transform 0.35s ease, background 0.18s, box-shadow 0.18s',
+    background:'#1F1A14', color:'#FAF7F0',
+    border:'none', borderRadius:0, padding:'8px 18px',
+    cursor:'pointer', fontFamily:SANS,
+    fontSize:'10.5px', fontWeight:400, letterSpacing:'.3em', textTransform:'uppercase',
+    boxShadow:'none',
+    transition:'opacity 0.35s ease, transform 0.35s ease, background 0.25s ease',
   },
 };
 

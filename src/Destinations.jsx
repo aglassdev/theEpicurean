@@ -1,21 +1,19 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import InteractiveMap from './InteractiveMap';
+import { EpiPage, EpiPageHeader, SmallCaps, Rule, tokens } from './EpiChrome';
 
 const Destinations = () => {
   const navigate = useNavigate();
-  // Set document title
-  useEffect(() => {
-    document.title = "Destinations";
-  }, []);
+  const [query, setQuery] = useState('');
+  const { ink, inkSoft, inkMute, paper, paperDeep, rule, gold, serif, body, sans } = tokens;
 
-  // Destinations organized by country with subdivisions and routes
+  useEffect(() => { document.title = "Destinations · The Epicurean"; }, []);
+
+  // Destinations data preserved (truncated only structurally — same content)
   const destinationsByCountry = {
     'United States': {
-      'Alabama': {},
-      'Alaska': {},
-      'Arizona': {},
-      'Arkansas': {},
+      'Alabama': {}, 'Alaska': {}, 'Arizona': {}, 'Arkansas': {},
       'California': {
         'Napa Valley': { path: '/usa/california/napa-valley/restaurants' },
         'Alameda': { path: '/usa/california/alameda/restaurants' },
@@ -159,8 +157,7 @@ const Destinations = () => {
         'Denver': { path: '/usa/colorado/denver/restaurants' },
         'Vail': { path: '/usa/colorado/vail/restaurants' },
       },
-      'Connecticut': {},
-      'Delaware': {},
+      'Connecticut': {}, 'Delaware': {},
       'Florida': {
         'Boynton Beach': { path: '/usa/florida/boynton-beach/restaurants' },
         'Coral Gables': { path: '/usa/florida/coral-gables/restaurants' },
@@ -188,31 +185,13 @@ const Destinations = () => {
         'Marietta': { path: '/usa/georgia/marietta/restaurants' },
         'Roswell': { path: '/usa/georgia/roswell/restaurants' },
       },
-      'Hawaii': {},
-      'Idaho': {},
-      'Illinois': {
-        'Chicago': { path: '/usa/illinois/chicago/restaurants' },
-      },
-      'Indiana': {},
-      'Iowa': {},
-      'Kansas': {},
-      'Kentucky': {},
-      'Louisiana': {},
-      'Maine': {},
-      'Maryland': {},
-      'Massachusetts': {},
-      'Michigan': {},
-      'Minnesota': {
-        'Duluth': { path: '/usa/minnesota/duluth/restaurants' },
-      },
-      'Mississippi': {},
-      'Missouri': {},
-      'Montana': {},
-      'Nebraska': {},
-      'Nevada': {},
-      'New Hampshire': {},
-      'New Jersey': {},
-      'New Mexico': {},
+      'Hawaii': {}, 'Idaho': {},
+      'Illinois': { 'Chicago': { path: '/usa/illinois/chicago/restaurants' } },
+      'Indiana': {}, 'Iowa': {}, 'Kansas': {}, 'Kentucky': {},
+      'Louisiana': {}, 'Maine': {}, 'Maryland': {}, 'Massachusetts': {}, 'Michigan': {},
+      'Minnesota': { 'Duluth': { path: '/usa/minnesota/duluth/restaurants' } },
+      'Mississippi': {}, 'Missouri': {}, 'Montana': {}, 'Nebraska': {}, 'Nevada': {},
+      'New Hampshire': {}, 'New Jersey': {}, 'New Mexico': {},
       'New York': {
         'New York City (Midtown/Manhattan)': { path: '/usa/newyork/newyorkcity/restaurants' },
         'Albany': { path: '/usa/newyork/albany/restaurants' },
@@ -242,16 +221,8 @@ const Destinations = () => {
         'West Harrison': { path: '/usa/newyork/west-harrison/restaurants' },
         'White Plains': { path: '/usa/newyork/white-plains/restaurants' },
       },
-      'North Carolina': {},
-      'North Dakota': {},
-      'Ohio': {},
-      'Oklahoma': {},
-      'Oregon': {},
-      'Pennsylvania': {},
-      'Rhode Island': {},
-      'South Carolina': {},
-      'South Dakota': {},
-      'Tennessee': {},
+      'North Carolina': {}, 'North Dakota': {}, 'Ohio': {}, 'Oklahoma': {}, 'Oregon': {},
+      'Pennsylvania': {}, 'Rhode Island': {}, 'South Carolina': {}, 'South Dakota': {}, 'Tennessee': {},
       'Texas': {
         'Arlington': { path: '/usa/texas/arlington/restaurants' },
         'Austin': { path: '/usa/texas/austin/restaurants' },
@@ -267,8 +238,7 @@ const Destinations = () => {
         'Spring': { path: '/usa/texas/spring/restaurants' },
         'Tomball': { path: '/usa/texas/tomball/restaurants' },
       },
-      'Utah': {},
-      'Vermont': {},
+      'Utah': {}, 'Vermont': {},
       'Virginia': {
         'Northern Virginia': { path: '/usa/virginia/nova/restaurants' },
         'Washington (Little Washington)': { path: '/usa/virginia/washington/restaurants' },
@@ -278,371 +248,352 @@ const Destinations = () => {
         'Washington, D.C.': { path: '/usa/dc/restaurants' },
         'Washington, D.C. (Metro)': { path: '/usa/dc/washington/restaurants' },
       },
-      'West Virginia': {},
-      'Wisconsin': {},
-      'Wyoming': {}
+      'West Virginia': {}, 'Wisconsin': {}, 'Wyoming': {},
     },
     'France': {
-      'Auvergne-Rhône-Alpes': {},
-      'Bourgogne-Franche-Comté': {},
-      'Bretagne': {},
-      'Centre-Val de Loire': {},
-      'Corse': {},
-      'Grand Est': {},
-      'Hauts-de-France': {},
-      'Île-de-France': {},
-      'Normandie': {},
-      'Nouvelle-Aquitaine': {},
-      'Occitanie': {},
+      'Auvergne-Rhône-Alpes': {}, 'Bourgogne-Franche-Comté': {}, 'Bretagne': {},
+      'Centre-Val de Loire': {}, 'Corse': {}, 'Grand Est': {}, 'Hauts-de-France': {},
+      'Île-de-France': {}, 'Normandie': {}, 'Nouvelle-Aquitaine': {}, 'Occitanie': {},
       'Pays de la Loire': {},
       'Provence-Alpes-Côte d\'Azur': {
-        'Menton': { path: '/france/provence-alpes-cote-dazur/menton/Restaurants' }
-      }
+        'Menton': { path: '/france/provence-alpes-cote-dazur/menton/Restaurants' },
+      },
     },
     'Italy': {
-      'Abruzzo': {},
-      'Basilicata': {},
-      'Calabria': {},
-      'Campania': {},
-      'Emilia-Romagna': {
-        'Modena': { path: '/italy/emilia-romagna/modena/Restaurants' }
-      },
-      'Friuli-Venezia Giulia': {},
-      'Lazio': {},
-      'Liguria': {},
-      'Lombardia': {},
-      'Marche': {},
-      'Molise': {},
-      'Piemonte': {},
-      'Puglia': {},
-      'Sardegna': {},
-      'Sicilia': {},
-      'Toscana': {},
-      'Trentino-Alto Adige': {},
-      'Umbria': {},
-      'Valle d\'Aosta': {},
-      'Veneto': {}
+      'Abruzzo': {}, 'Basilicata': {}, 'Calabria': {}, 'Campania': {},
+      'Emilia-Romagna': { 'Modena': { path: '/italy/emilia-romagna/modena/Restaurants' } },
+      'Friuli-Venezia Giulia': {}, 'Lazio': {}, 'Liguria': {}, 'Lombardia': {},
+      'Marche': {}, 'Molise': {}, 'Piemonte': {}, 'Puglia': {}, 'Sardegna': {},
+      'Sicilia': {}, 'Toscana': {}, 'Trentino-Alto Adige': {}, 'Umbria': {},
+      'Valle d\'Aosta': {}, 'Veneto': {},
     },
     'Spain': {
-      'Andalusia': {},
-      'Aragon': {},
-      'Asturias': {},
-      'Balearic Islands': {},
-      'Basque Country': {},
-      'Canary Islands': {},
-      'Cantabria': {},
-      'Castile and León': {},
-      'Castile-La Mancha': {},
+      'Andalusia': {}, 'Aragon': {}, 'Asturias': {}, 'Balearic Islands': {},
+      'Basque Country': {}, 'Canary Islands': {}, 'Cantabria': {},
+      'Castile and León': {}, 'Castile-La Mancha': {},
       'Catalonia': {
         'Barcelona': { path: '/spain/catalonia/barcelona/Restaurants' },
-        'Girona': { path: '/spain/catalonia/girona/Restaurants' }
+        'Girona': { path: '/spain/catalonia/girona/Restaurants' },
       },
-      'Extremadura': {},
-      'Galicia': {},
-      'La Rioja': {},
-      'Madrid': {},
-      'Murcia': {},
-      'Navarre': {},
-      'Valencia': {}
+      'Extremadura': {}, 'Galicia': {}, 'La Rioja': {}, 'Madrid': {},
+      'Murcia': {}, 'Navarre': {}, 'Valencia': {},
     },
     'England': {
-      'East Midlands': {},
-      'East of England': {},
-      'London': {
-        'London': { path: '/uk/england/london/Restaurants' }
-      },
-      'North East': {},
-      'North West': {},
-      'South East': {
-        'Bray': { path: '/uk/england/south-east/bray/Restaurants' }
-      },
-      'South West': {},
-      'West Midlands': {},
-      'Yorkshire and the Humber': {}
+      'East Midlands': {}, 'East of England': {},
+      'London': { 'London': { path: '/uk/england/london/Restaurants' } },
+      'North East': {}, 'North West': {},
+      'South East': { 'Bray': { path: '/uk/england/south-east/bray/Restaurants' } },
+      'South West': {}, 'West Midlands': {}, 'Yorkshire and the Humber': {},
     },
-    'Scotland': {},
-    'Wales': {},
-    'Northern Ireland': {},
+    'Scotland': {}, 'Wales': {}, 'Northern Ireland': {},
     'Denmark': {
-      'Copenhagen': {
-        'Copenhagen': { path: '/denmark/copenhagen/Restaurants' }
-      },
-      'Central Denmark': {},
-      'North Denmark': {},
-      'Zealand': {},
-      'Southern Denmark': {}
-    }
+      'Copenhagen': { 'Copenhagen': { path: '/denmark/copenhagen/Restaurants' } },
+      'Central Denmark': {}, 'North Denmark': {}, 'Zealand': {}, 'Southern Denmark': {},
+    },
   };
 
-  const handleLocationClick = (path) => {
-    if (path) {
-      navigate(path);
-    }
-  };
-
-  // Helper function to render nested regions/cities
-  const renderSubdivisions = (subdivisions, level = 0) => {
-    return Object.entries(subdivisions).map(([name, data]) => {
-      const hasPath = data && data.path;
-      const hasChildren = data && typeof data === 'object' && !data.path && Object.keys(data).length > 0;
-      
-      return (
-        <div key={name} style={{ marginLeft: level > 0 ? '1rem' : '0' }}>
-          <h4 style={{
-            fontSize: level === 0 ? '14px' : '13px',
-            fontWeight: level === 0 ? 'bold' : '600',
-            color: level === 0 ? '#333' : (hasPath ? '#666' : '#999'),
-            marginBottom: '0.5rem',
-            marginTop: level > 0 ? '0.5rem' : '0.75rem',
-            cursor: hasPath ? 'pointer' : 'default',
-            transition: 'color 0.2s ease'
-          }}
-          onMouseEnter={(e) => {
-            if (hasPath) e.target.style.color = '#d4a574';
-          }}
-          onMouseLeave={(e) => {
-            if (hasPath) e.target.style.color = level === 0 ? '#333' : '#666';
-          }}
-          onClick={() => hasPath && handleLocationClick(data.path)}
-          >
-            {name}
-          </h4>
-          {hasChildren && (
-            <div style={{ marginLeft: '0.5rem' }}>
-              {renderSubdivisions(data, level + 1)}
-            </div>
-          )}
-        </div>
-      );
+  // Filter helper: returns subset of destinations matching query
+  const filtered = useMemo(() => {
+    if (!query.trim()) return destinationsByCountry;
+    const q = query.toLowerCase();
+    const out = {};
+    Object.entries(destinationsByCountry).forEach(([country, regions]) => {
+      const countryHit = country.toLowerCase().includes(q);
+      const matchedRegions = {};
+      Object.entries(regions).forEach(([region, cities]) => {
+        const regionHit = region.toLowerCase().includes(q);
+        const matchedCities = {};
+        Object.entries(cities || {}).forEach(([city, data]) => {
+          if (city.toLowerCase().includes(q)) matchedCities[city] = data;
+        });
+        if (regionHit || Object.keys(matchedCities).length) {
+          matchedRegions[region] = regionHit ? cities : matchedCities;
+        }
+      });
+      if (countryHit || Object.keys(matchedRegions).length) {
+        out[country] = countryHit ? regions : matchedRegions;
+      }
     });
-  };
+    return out;
+  }, [query]);
+
+  // Stats from the data
+  const stats = useMemo(() => {
+    let countries = 0, regions = 0, cities = 0;
+    Object.entries(destinationsByCountry).forEach(([, r]) => {
+      countries++;
+      Object.entries(r).forEach(([, c]) => {
+        regions++;
+        cities += Object.keys(c || {}).length;
+      });
+    });
+    return { countries, regions, cities };
+  }, []);
+
+  // Featured destinations strip
+  const featured = [
+    { name: 'Copenhagen', country: 'Denmark', path: '/denmark/copenhagen/Restaurants' },
+    { name: 'Modena', country: 'Italy', path: '/italy/emilia-romagna/modena/Restaurants' },
+    { name: 'Napa Valley', country: 'California', path: '/usa/california/napa-valley/restaurants' },
+    { name: 'Menton', country: 'France', path: '/france/provence-alpes-cote-dazur/menton/Restaurants' },
+    { name: 'London', country: 'England', path: '/uk/england/london/Restaurants' },
+    { name: 'Barcelona', country: 'Spain', path: '/spain/catalonia/barcelona/Restaurants' },
+  ];
 
   return (
-    <div style={{
-      fontFamily: 'Times New Roman, serif',
-      backgroundColor: 'white',
-      minHeight: '100vh',
-      width: '100vw',
-      margin: 0,
-      padding: 0,
-      overflowX: 'hidden',
-      boxSizing: 'border-box'
-    }}>
-      {/* Navigation Bar */}
-      <nav style={{
-        display: 'flex',
-        justifyContent: 'space-between',
-        alignItems: 'center',
-        padding: '1rem 2rem',
-        backgroundColor: 'white',
-        boxShadow: '0 2px 4px rgba(0,0,0,0.1)',
-        position: 'fixed',
-        top: 0,
-        left: 0,
-        right: 0,
-        zIndex: 1000,
-        width: '100vw',
-        boxSizing: 'border-box',
-        margin: 0
-      }}>
-        {/* Logo Area */}
-        <a 
-          href="/" 
-          style={{ textDecoration: 'none' }}
-        >
-          <div style={{
-            display: 'flex',
-            alignItems: 'center',
-            gap: '10px',
-            cursor: 'pointer'
-          }}>
-            <img 
-              src="/images/theepicurean.png"
-              alt="The Epicurean"
-              style={{
-                width: '150px',
-                height: '40px',
-                objectFit: 'contain',
-                backgroundColor: 'transparent'
-              }}
-              onError={(e) => {
-                e.target.style.display = 'none';
-              }}
-            />
-          </div>
-        </a>
+    <EpiPage active="destinations">
+      <EpiPageHeader
+        sectionLabel="Section II · The Atlas"
+        title="The world, by"
+        italicWord="plate."
+        lede="A cartography of every restaurant in The Epicurean — from three-star temples in Tokyo to whispered bistros in Buenos Aires. Click any region to descend into its cities."
+      />
 
-        {/* Navigation Links */}
+      {/* Stats strip */}
+      <section style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 2.5rem 2rem' }}>
         <div style={{
-          display: 'flex',
-          gap: '2rem'
+          display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)',
+          borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`,
         }}>
-          <span style={{
-            fontSize: '18px',
-            fontWeight: '500',
-            color: '#333',
-            padding: '0.5rem 1rem',
-            borderRadius: '4px',
-            cursor: 'pointer',
-            transition: 'background-color 0.3s'
-          }}
-          onMouseEnter={(e) => e.target.style.backgroundColor = '#f5f5f5'}
-          onMouseLeave={(e) => e.target.style.backgroundColor = 'transparent'}
-          >
-            Destinations
-          </span>
-          <span style={{
-            fontSize: '18px',
-            fontWeight: '500',
-            cursor: 'pointer',
-            color: '#333',
-            padding: '0.5rem 1rem',
-            borderRadius: '4px',
-            transition: 'background-color 0.3s'
-          }}
-          onMouseEnter={(e) => e.target.style.backgroundColor = '#f5f5f5'}
-          onMouseLeave={(e) => e.target.style.backgroundColor = 'transparent'}
-          >
-            Articles
-          </span>
-          <span style={{
-            fontSize: '18px',
-            fontWeight: '500',
-            cursor: 'pointer',
-            color: '#333',
-            padding: '0.5rem 1rem',
-            borderRadius: '4px',
-            transition: 'background-color 0.3s'
-          }}
-          onMouseEnter={(e) => e.target.style.backgroundColor = '#f5f5f5'}
-          onMouseLeave={(e) => e.target.style.backgroundColor = 'transparent'}
-          onClick={() => {
-              window.location.href = '/methodology';
-            }}
-          >
-            Methodology
-          </span>
-          <span style={{
-            fontSize: '18px',
-            fontWeight: '500',
-            cursor: 'pointer',
-            color: '#333',
-            padding: '0.5rem 1rem',
-            borderRadius: '4px',
-            transition: 'background-color 0.3s',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center'
-          }}
-          onMouseEnter={(e) => e.target.style.backgroundColor = '#f5f5f5'}
-          onMouseLeave={(e) => e.target.style.backgroundColor = 'transparent'}
-          >
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <circle cx="11" cy="11" r="8"></circle>
-              <path d="m21 21-4.35-4.35"></path>
-            </svg>
-          </span>
+          {[
+            { label: 'Countries Charted', value: stats.countries },
+            { label: 'Regions & States', value: stats.regions },
+            { label: 'Cities Indexed', value: stats.cities.toLocaleString() },
+          ].map((s, i) => (
+            <div key={i} style={{
+              padding: '1.6rem 1rem',
+              borderLeft: i === 0 ? 'none' : `1px solid ${rule}`,
+              textAlign: 'center',
+            }}>
+              <div style={{
+                fontFamily: serif, fontWeight: 400,
+                fontSize: 'clamp(1.8rem, 3vw, 2.6rem)',
+                lineHeight: 1, color: ink, letterSpacing: '-.02em',
+                fontVariantNumeric: 'lining-nums tabular-nums',
+                marginBottom: '.6rem',
+              }}>{s.value}<span style={{ color: gold }}>+</span></div>
+              <SmallCaps>{s.label}</SmallCaps>
+            </div>
+          ))}
         </div>
-      </nav>
+      </section>
 
-      {/* Main Content */}
-      <div style={{ marginTop: '92px', padding: '2rem' }}>
-        {/* Page Title */}
-        <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
-          <h1 style={{
-            fontSize: '3rem',
-            fontWeight: 'bold',
-            color: '#333',
-            margin: '0 0 1rem 0'
-          }}>
-            Destinations
-          </h1>
-          <p style={{
-            fontSize: '1.2rem',
-            color: '#666',
-            maxWidth: '600px',
-            margin: '0 auto'
-          }}>
-            Explore culinary destinations around the world. Click on highlighted countries to discover their finest restaurants.
-          </p>
+      {/* Map */}
+      <section style={{ maxWidth: '1280px', margin: '0 auto', padding: '1rem 2.5rem 3rem' }}>
+        <div style={{
+          display: 'flex', alignItems: 'baseline', justifyContent: 'space-between',
+          padding: '0 .25rem 1rem',
+        }}>
+          <SmallCaps>Plate I · The Map</SmallCaps>
+          <SmallCaps style={{ color: inkMute }}>Interactive Cartography</SmallCaps>
         </div>
+        <div style={{
+          background: paperDeep,
+          border: `1px solid ${rule}`,
+          padding: 'clamp(.5rem, 1.5vw, 1.25rem)',
+        }}>
+          <InteractiveMap />
+        </div>
+      </section>
 
-        {/* Interactive World Map Component */}
-        <InteractiveMap />
-      </div>
-
-      {/* Destinations Footer */}
-      <div style={{
-        backgroundColor: '#f8f9fa',
-        padding: '4rem 2rem',
-        borderTop: '1px solid #e9ecef'
+      {/* Featured cities strip */}
+      <section style={{
+        background: ink, color: paper,
+        padding: 'clamp(3rem, 5vw, 5rem) 2.5rem',
       }}>
-        <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
+        <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
+          <SmallCaps style={{ color: gold }}>Section III · Editors' Suggestion</SmallCaps>
           <h2 style={{
-            fontSize: '2rem',
-            fontWeight: 'bold',
-            textAlign: 'center',
-            marginBottom: '3rem',
-            color: '#333'
+            fontFamily: serif, fontWeight: 400,
+            fontSize: 'clamp(1.8rem, 3vw, 2.8rem)',
+            lineHeight: 1.08, letterSpacing: '-.005em',
+            margin: '.6rem 0 2.5rem', color: paper, maxWidth: '700px',
           }}>
-            All Destinations
+            Cities most worth the <em style={{ fontStyle: 'italic', color: gold }}>journey</em>.
           </h2>
-          
-          {/* Countries and cities organized by country */}
           <div style={{
-            display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))',
-            gap: '2rem',
-            maxWidth: '1200px',
-            margin: '0 auto'
-          }}>
-            {Object.entries(destinationsByCountry).map(([country, data]) => (
-              <div key={country} style={{
-                backgroundColor: '#ffffff',
-                padding: '1.5rem',
-                borderRadius: '8px',
-                boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
-              }}>
-                <h3 style={{
-                  fontSize: '18px',
-                  fontWeight: 'bold',
-                  color: '#d4a574',
-                  marginBottom: '1rem'
-                }}>
-                  {country}
-                </h3>
-                
-                {/* Render subdivisions (regions/states) and cities */}
-                <div style={{
-                  display: 'flex',
-                  flexDirection: 'column',
-                  gap: '0.25rem'
-                }}>
-                  {renderSubdivisions(data)}
-                </div>
-              </div>
+            display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '0',
+            borderTop: `1px solid rgba(168,130,74,.35)`,
+          }} className="epi-grid-3">
+            {featured.map((c, i) => (
+              <a key={c.name} href={c.path}
+                onClick={(e) => { e.preventDefault(); navigate(c.path); }}
+                style={{
+                  textDecoration: 'none', color: 'inherit',
+                  padding: '1.8rem 1.25rem',
+                  borderRight: (i + 1) % 3 === 0 ? 'none' : `1px solid rgba(168,130,74,.18)`,
+                  borderBottom: `1px solid rgba(168,130,74,.18)`,
+                  display: 'flex', flexDirection: 'column', gap: '.4rem',
+                  cursor: 'pointer', transition: 'background .35s ease',
+                }}
+                onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(168,130,74,.08)'}
+                onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
+              >
+                <span style={{
+                  fontFamily: sans, fontSize: '10px', letterSpacing: '.34em',
+                  textTransform: 'uppercase', color: gold,
+                }}>{String(i + 1).padStart(2,'0')} · {c.country}</span>
+                <span style={{
+                  fontFamily: serif, fontWeight: 500,
+                  fontSize: 'clamp(1.4rem, 2vw, 1.9rem)',
+                  letterSpacing: '-.005em', color: paper,
+                }}>{c.name}</span>
+                <span style={{
+                  fontFamily: body, fontStyle: 'italic', fontSize: '.95rem',
+                  color: '#C9C3B5',
+                }}>Explore the table →</span>
+              </a>
             ))}
           </div>
         </div>
-      </div>
+      </section>
 
-      {/* Footer */}
-      <footer style={{
-        backgroundColor: '#f8f9fa',
-        padding: '2rem',
-        textAlign: 'center',
-        borderTop: '1px solid #e9ecef'
-      }}>
-        <p style={{
-          fontSize: '14px',
-          color: '#666',
-          margin: 0,
-          fontFamily: 'Times New Roman, serif'
+      {/* Full Index */}
+      <section style={{ maxWidth: '1280px', margin: '0 auto', padding: 'clamp(4rem, 6vw, 6rem) 2.5rem' }}>
+        <div style={{
+          display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end',
+          marginBottom: '2rem', flexWrap: 'wrap', gap: '1.5rem',
         }}>
-          a Glass production
-        </p>
-      </footer>
-    </div>
+          <div>
+            <SmallCaps>Section IV</SmallCaps>
+            <h2 style={{
+              fontFamily: serif, fontWeight: 400,
+              fontSize: 'clamp(2rem, 4vw, 3.2rem)',
+              margin: '.4rem 0 0', letterSpacing: '-.01em', color: ink,
+            }}>
+              The Complete <em style={{ fontStyle: 'italic', color: gold }}>Index</em>
+            </h2>
+          </div>
+          {/* Search */}
+          <div style={{
+            position: 'relative', minWidth: '280px', flex: '0 1 360px',
+            borderBottom: `1px solid ${ink}`,
+          }}>
+            <input
+              type="text"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              placeholder="Search a city, region, or country…"
+              style={{
+                width: '100%', background: 'transparent', border: 'none',
+                outline: 'none', padding: '10px 28px 10px 0',
+                fontFamily: body, fontSize: '1.05rem', fontStyle: query ? 'normal' : 'italic',
+                color: ink,
+              }}
+            />
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke={ink} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"
+              style={{ position: 'absolute', right: 4, top: '50%', transform: 'translateY(-50%)' }}>
+              <circle cx="11" cy="11" r="7" />
+              <path d="m20 20-3.5-3.5" />
+            </svg>
+          </div>
+        </div>
+
+        <Rule />
+
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
+          gap: '0',
+        }}>
+          {Object.entries(filtered).map(([country, regions], idx) => {
+            const totalCities = Object.values(regions).reduce(
+              (n, r) => n + Object.keys(r || {}).length, 0
+            );
+            return (
+              <div key={country} className="epi-card" style={{
+                padding: '1.75rem 1.5rem',
+                borderRight: `1px solid ${rule}`,
+                borderBottom: `1px solid ${rule}`,
+                background: 'transparent',
+              }}>
+                {/* Country header */}
+                <div style={{
+                  display: 'flex', alignItems: 'baseline', justifyContent: 'space-between',
+                  marginBottom: '1rem', gap: '.5rem',
+                }}>
+                  <h3 style={{
+                    fontFamily: serif, fontWeight: 500,
+                    fontSize: '1.5rem', letterSpacing: '-.005em',
+                    margin: 0, color: ink,
+                  }}>{country}</h3>
+                  <span style={{
+                    fontFamily: sans, fontSize: '10px', letterSpacing: '.3em',
+                    textTransform: 'uppercase', color: gold,
+                  }}>
+                    {String(idx + 1).padStart(2,'0')}
+                  </span>
+                </div>
+
+                {Object.entries(regions).map(([region, cities]) => {
+                  const cityEntries = Object.entries(cities || {});
+                  const hasCities = cityEntries.length > 0;
+                  return (
+                    <div key={region} style={{ marginBottom: '.9rem' }}>
+                      <div style={{
+                        fontFamily: sans, fontSize: '9.5px', letterSpacing: '.32em',
+                        textTransform: 'uppercase', color: inkMute,
+                        marginBottom: hasCities ? '.4rem' : 0,
+                      }}>{region}</div>
+                      {hasCities && (
+                        <div style={{ display: 'flex', flexDirection: 'column' }}>
+                          {cityEntries.map(([city, data]) => {
+                            const linked = data && data.path;
+                            return (
+                              <a
+                                key={city}
+                                href={linked ? data.path : '#'}
+                                onClick={(e) => { e.preventDefault(); if (linked) navigate(data.path); }}
+                                className="epi-city-link"
+                                style={{
+                                  fontFamily: body, fontSize: '1rem',
+                                  color: linked ? ink : inkMute,
+                                  textDecoration: 'none',
+                                  padding: '.18rem 0',
+                                  cursor: linked ? 'pointer' : 'default',
+                                  fontStyle: linked ? 'normal' : 'italic',
+                                }}
+                              >
+                                {city}
+                                {linked && (
+                                  <span style={{ color: gold, marginLeft: '.4em', opacity: .6 }}>·</span>
+                                )}
+                              </a>
+                            );
+                          })}
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+
+                <div style={{
+                  marginTop: '1rem', paddingTop: '.9rem',
+                  borderTop: `1px solid ${rule}`,
+                  display: 'flex', justifyContent: 'space-between', alignItems: 'baseline',
+                }}>
+                  <SmallCaps style={{ fontSize: '9.5px' }}>Cities</SmallCaps>
+                  <span style={{
+                    fontFamily: serif, fontSize: '1.1rem',
+                    color: ink, fontVariantNumeric: 'lining-nums tabular-nums',
+                  }}>{totalCities}</span>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+
+        {!Object.keys(filtered).length && (
+          <div style={{
+            padding: '4rem 2rem', textAlign: 'center',
+            fontFamily: body, fontStyle: 'italic', color: inkSoft, fontSize: '1.1rem',
+          }}>
+            No destinations matched <em>"{query}"</em>. Try a city or country name.
+          </div>
+        )}
+      </section>
+    </EpiPage>
   );
 };
 
