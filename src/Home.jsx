@@ -347,8 +347,8 @@ const HomePage = () => {
           }}>
             An interactive cartography of every restaurant in the guide — from Tokyo to Tasmania, from Lima to Ljubljana.
           </p>
-          <a className="epi-cta" href="/destinations"
-            onClick={(e) => { e.preventDefault(); window.location.href = '/destinations'; }}
+          <a className="epi-cta" href="/map"
+            onClick={(e) => { e.preventDefault(); window.location.href = '/map'; }}
             style={{
               fontFamily: sans, fontSize: '12px', letterSpacing: '.35em',
               textTransform: 'uppercase', color: paper, textDecoration: 'none',

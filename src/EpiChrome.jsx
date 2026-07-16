@@ -174,7 +174,7 @@ export const EpiNav = ({ active }) => {
           display: 'flex', gap: '2.25rem', flex: 1,
           justifyContent: 'flex-end', alignItems: 'center',
         }}>
-          <button className={cls('atlas')} onClick={go('/destinations')} style={navBtn}>Atlas</button>
+          <button className={cls('atlas')} onClick={go('/map')} style={navBtn}>Atlas</button>
           <button className={cls('subscribe')} style={navBtn}>Subscribe</button>
           <button style={{
             background: 'none', border: `1px solid ${tokens.rule}`,
@@ -199,7 +199,7 @@ export const EpiNav = ({ active }) => {
 // ── Footer ────────────────────────────────────────────────────────
 export const EpiFooter = () => {
   const cols = [
-    { h: 'Sections', items: [['Destinations','/destinations'], ['Atlas','/destinations'], ['Journal','#'], ['Methodology','/methodology']] },
+    { h: 'Sections', items: [['Destinations','/destinations'], ['Atlas','/map'], ['Journal','#'], ['Methodology','/methodology']] },
     { h: 'Sources', items: [['Michelin Guide','#'], ["World's 50 Best",'#'], ['La Liste','#'], ['James Beard','#']] },
     { h: 'Correspondence', items: [['Newsletter','#'], ['Submissions','#'], ['Press','#'], ['Contact','#']] },
   ];

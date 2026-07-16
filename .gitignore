@@ -12,6 +12,14 @@ dist
 dist-ssr
 *.local
 
+# Environment — never commit your Mapbox token
+.env
+.env.*
+!.env.example
+
+# Geocoding resume state
+.geocode_progress.json
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

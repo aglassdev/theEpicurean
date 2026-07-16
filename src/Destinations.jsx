@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
-import InteractiveMap from './InteractiveMap';
+import WorldMap from './WorldMap';
 import { EpiPage, EpiPageHeader, SmallCaps, Rule, tokens } from './EpiChrome';
 
 const Destinations = () => {
@@ -382,17 +382,24 @@ const Destinations = () => {
       <section style={{ maxWidth: '1280px', margin: '0 auto', padding: '1rem 2.5rem 3rem' }}>
         <div style={{
           display: 'flex', alignItems: 'baseline', justifyContent: 'space-between',
-          padding: '0 .25rem 1rem',
+          padding: '0 .25rem 1rem', flexWrap: 'wrap', gap: '.75rem',
         }}>
           <SmallCaps>Plate I · The Map</SmallCaps>
-          <SmallCaps style={{ color: inkMute }}>Interactive Cartography</SmallCaps>
+          <a href="/map"
+            onClick={(e) => { e.preventDefault(); navigate('/map'); }}
+            style={{
+              fontFamily: sans, fontSize: '11px', letterSpacing: '.28em',
+              textTransform: 'uppercase', color: ink, textDecoration: 'none',
+              borderBottom: `1px solid ${gold}`, paddingBottom: '2px', cursor: 'pointer',
+            }}>
+            Open the full Atlas →
+          </a>
         </div>
         <div style={{
-          background: paperDeep,
           border: `1px solid ${rule}`,
-          padding: 'clamp(.5rem, 1.5vw, 1.25rem)',
+          background: paperDeep,
         }}>
-          <InteractiveMap />
+          <WorldMap height="640px" showSearch projection="mercator" />
         </div>
       </section>
 
