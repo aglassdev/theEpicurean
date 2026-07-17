@@ -213,6 +213,15 @@ function save() {
 }
 
 // ── Run (sequential to honour rate policy) ────────────────────────────────────
+// ANSI colours (auto-disabled when output isn't a terminal, e.g. piped to a file)
+const tty = process.stdout.isTTY;
+const c = (code) => (tty ? code : '');
+const DIM = c('\x1b[2m'), GRN = c('\x1b[32m'), GLD = c('\x1b[33m'), RST = c('\x1b[0m');
+
+const width = String(pending.length).length;
+const pad = (n) => String(n).padStart(width, ' ');
+const clip = (s, len) => (s.length > len ? s.slice(0, len - 1) + '…' : s);
+
 let processed = 0;
 const t0 = Date.now();
 process.on('SIGINT', () => { console.log('\n\n⏸  Interrupted — saving progress…'); save(); process.exit(0); });
@@ -221,14 +230,25 @@ for (const rec of pending) {
   const result = await geocodeOne(rec);
   if (result) done.set(keyOf(rec), result);
   else done.set(keyOf(rec), { ...rec, lng: null, lat: null, acc: 'failed' });
-
   processed++;
+
+  // Live per-restaurant line
+  const loc = [rec.c, rec.co].filter(Boolean).join(', ');
+  const name = clip(rec.n, 44);
+  const counter = `${DIM}[${pad(processed)}/${pending.length}]${RST}`;
+  if (result) {
+    console.log(`${counter} ${GRN}✓${RST} ${name}${DIM}${loc ? ' — ' + loc : ''}${RST}  ${GLD}${result.lat.toFixed(4)}, ${result.lng.toFixed(4)}${RST}`);
+  } else {
+    console.log(`${counter} ${DIM}✗ ${name}${loc ? ' — ' + loc : ''}  ·  not found${RST}`);
+  }
+
+  // Periodic checkpoint (save + running stats)
   if (processed % SAVE_EVERY === 0) {
     save();
     const rate = processed / ((Date.now() - t0) / 1000);
     const eta = Math.round((pending.length - processed) / rate / 60);
     const miss = [...done.values()].filter((r) => r.lng == null).length;
-    process.stdout.write(`\r  ${processed}/${pending.length}  ·  ${rate.toFixed(1)}/s  ·  ~${eta} min left  ·  ${miss} misses   `);
+    console.log(`${DIM}   ↳ saved · ${processed} done · ${miss} misses · ${rate.toFixed(1)} req/s · ~${eta} min left${RST}`);
   }
 }
 save();
