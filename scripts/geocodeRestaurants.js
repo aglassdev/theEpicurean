@@ -2,22 +2,22 @@
  * geocodeRestaurants.js
  * ─────────────────────────────────────────────────────────────────────────
  * One-time (resumable) batch that turns every address in restaurants.csv
- * into { lng, lat } coordinates using the Mapbox Geocoding API, and writes a
- * compact  public/data/restaurants-geo.json  that the interactive world map
- * loads at runtime.
+ * into { lng, lat } coordinates, and writes a compact
+ *   public/data/restaurants-geo.json
+ * that the interactive world map (MapLibre + OpenFreeMap) loads at runtime.
  *
- *   Setup:   cp .env.example .env   &&   paste your token into VITE_MAPBOX_TOKEN
- *   Run:     npm run geocode
+ * No Mapbox / Google account needed. Two providers, auto-selected:
  *
- * It is safe to stop (Ctrl-C) and re-run — already-geocoded rows are skipped,
- * so a run resumes where it left off. ~12,650 rows at ~8 req/s ≈ 25–30 min.
+ *   • LocationIQ (recommended) — free key, no credit card, better accuracy
+ *     and ~2 req/s (5,000/day free). Sign up at https://locationiq.com,
+ *     then put  LOCATIONIQ_KEY=pk.xxx  in your .env.
+ *     The script is resumable, so 12,650 rows spread over ~3 days stays free.
  *
- * ── Mapbox Terms note ──────────────────────────────────────────────────────
- * By default this uses the *temporary* geocoding endpoint (permanent=false).
- * Mapbox's terms technically disallow long-term storage of temporary results;
- * caching coordinates to disk is "storage." For a personal project this is the
- * norm, but if you want to be fully compliant, set MAPBOX_PERMANENT=true in
- * .env (this is a billable Mapbox feature). You decide.
+ *   • Nominatim (OpenStreetMap) — zero signup, used automatically if no key.
+ *     Capped at 1 req/second by OSM policy, so a full run takes ~4 hours, and
+ *     accuracy on messy addresses is a little lower. Please don't hammer it.
+ *
+ *   Run:  npm run geocode      (safe to Ctrl-C and re-run; it resumes)
  * ───────────────────────────────────────────────────────────────────────────
  */
 
@@ -29,16 +29,20 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 
 // ── Config ──────────────────────────────────────────────────────────────────
-const CSV_PATH     = path.join(ROOT, 'restaurants.csv');
-const OUT_DIR      = path.join(ROOT, 'public', 'data');
-const OUT_PATH     = path.join(OUT_DIR, 'restaurants-geo.json');
-const FAIL_PATH    = path.join(OUT_DIR, 'restaurants-geo.failures.json');
-const CONCURRENCY  = 6;        // parallel in-flight requests
-const MIN_INTERVAL = 120;      // ms between request starts (~8/s, under 600/min)
-const SAVE_EVERY   = 100;      // flush output to disk every N processed
-const MAX_RETRIES  = 3;
+const CSV_PATH  = path.join(ROOT, 'restaurants.csv');
+const OUT_DIR   = path.join(ROOT, 'public', 'data');
+const OUT_PATH  = path.join(OUT_DIR, 'restaurants-geo.json');
+const FAIL_PATH = path.join(OUT_DIR, 'restaurants-geo.failures.json');
+const SAVE_EVERY  = 50;
+const MAX_RETRIES = 3;
 
-// ── Read token + options from .env / process.env ──────────────────────────────
+// Per-provider rate limits (interval = ms between request starts)
+const RATE = {
+  locationiq: { interval: 600,  base: 'https://us1.locationiq.com/v1/search' }, // ~1.6/s (<2/s free)
+  nominatim:  { interval: 1100, base: 'https://nominatim.openstreetmap.org/search' }, // ≤1/s policy
+};
+
+// ── Read options from .env / process.env ──────────────────────────────────────
 function loadEnv() {
   const env = { ...process.env };
   const envPath = path.join(ROOT, '.env');
@@ -51,15 +55,10 @@ function loadEnv() {
   return env;
 }
 const ENV = loadEnv();
-const TOKEN = ENV.VITE_MAPBOX_TOKEN || ENV.MAPBOX_TOKEN || '';
-const PERMANENT = String(ENV.MAPBOX_PERMANENT || 'false').toLowerCase() === 'true';
-
-if (!TOKEN || TOKEN.includes('your_mapbox_token')) {
-  console.error('\n✗ No Mapbox token found.');
-  console.error('  Copy .env.example → .env and paste your token into VITE_MAPBOX_TOKEN.');
-  console.error('  Get one free at https://account.mapbox.com/access-tokens/\n');
-  process.exit(1);
-}
+const LOCATIONIQ_KEY = ENV.LOCATIONIQ_KEY || '';
+const PROVIDER = LOCATIONIQ_KEY ? 'locationiq' : 'nominatim';
+const { interval: MIN_INTERVAL, base: BASE_URL } = RATE[PROVIDER];
+const USER_AGENT = 'TheEpicurean-Geocoder/1.0 (personal restaurant atlas)';
 
 // ── Robust CSV parser (handles quoted fields with commas / newlines) ──────────
 function parseCSV(text) {
@@ -81,7 +80,7 @@ function parseCSV(text) {
   return rows;
 }
 
-// ── Country name → ISO 3166-1 alpha-2 (used only as an accuracy hint) ─────────
+// ── Country name → ISO 3166-1 alpha-2 (used as a `countrycodes` accuracy hint) ─
 const ISO = {
   'United States': 'us', 'Australia': 'au', 'France': 'fr', 'United Kingdom': 'gb',
   'England': 'gb', 'Scotland': 'gb', 'Wales': 'gb', 'Northern Ireland': 'gb',
@@ -131,7 +130,7 @@ const keyOf = (r) => `${r.n}||${r.a}`;
 
 // ── Resume from any existing output ───────────────────────────────────────────
 fs.mkdirSync(OUT_DIR, { recursive: true });
-const done = new Map();      // key -> geocoded record (with lng/lat)
+const done = new Map();
 const failures = [];
 if (fs.existsSync(OUT_PATH)) {
   try {
@@ -141,15 +140,25 @@ if (fs.existsSync(OUT_PATH)) {
   } catch { /* start fresh */ }
 }
 
-const pending = records.filter((r) => !done.has(keyOf(r)));
-console.log(`\nThe Epicurean · Geocoding`);
-console.log(`  total rows     ${records.length}`);
-console.log(`  already done   ${done.size}`);
-console.log(`  to geocode     ${pending.length}`);
-console.log(`  endpoint       Mapbox v6 forward (${PERMANENT ? 'permanent' : 'temporary'})\n`);
-if (!pending.length) { console.log('✓ Nothing to do — all rows geocoded.'); process.exit(0); }
+// Only rows we haven't successfully placed yet (retry previous misses too).
+const pending = records.filter((r) => {
+  const prev = done.get(keyOf(r));
+  return !prev || prev.lng == null;
+});
 
-// ── Rate-limited fetch ────────────────────────────────────────────────────────
+console.log(`\nThe Epicurean · Geocoding`);
+console.log(`  provider       ${PROVIDER}${PROVIDER === 'nominatim' ? '  (no key — set LOCATIONIQ_KEY in .env for faster, more accurate results)' : ''}`);
+console.log(`  total rows     ${records.length}`);
+console.log(`  already placed ${[...done.values()].filter((r) => r.lng != null).length}`);
+console.log(`  to geocode     ${pending.length}`);
+console.log(`  pace           ~${(1000 / MIN_INTERVAL).toFixed(1)} req/s  (~${Math.round(pending.length * MIN_INTERVAL / 1000 / 60)} min)\n`);
+if (!pending.length) { console.log('✓ Nothing to do — all rows geocoded.'); process.exit(0); }
+if (PROVIDER === 'nominatim') {
+  console.log('  ⚠ Using OpenStreetMap Nominatim. Please keep this to one run and');
+  console.log('    do not parallelise — bulk abuse can get your IP blocked.\n');
+}
+
+// ── Rate-limited fetch (sequential — respects per-second policy) ──────────────
 let lastStart = 0;
 const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
 async function gate() {
@@ -159,31 +168,32 @@ async function gate() {
   if (wait) await sleep(wait);
 }
 
-async function geocodeOne(rec) {
-  // Build the best query we can from the address; fall back to name + city.
+function buildURL(rec) {
   const q = (rec.a && rec.a.length > 4) ? rec.a : [rec.n, rec.c, rec.co].filter(Boolean).join(', ');
+  const p = new URLSearchParams({ q, format: PROVIDER === 'nominatim' ? 'jsonv2' : 'json', limit: '1' });
   const iso = ISO[rec.co];
-  const params = new URLSearchParams({
-    q, access_token: TOKEN, limit: '1', permanent: String(PERMANENT),
-  });
-  if (iso) params.set('country', iso);
-  const url = `https://api.mapbox.com/search/geocode/v6/forward?${params.toString()}`;
+  if (iso) p.set('countrycodes', iso);
+  if (PROVIDER === 'locationiq') p.set('key', LOCATIONIQ_KEY);
+  return `${BASE_URL}?${p.toString()}`;
+}
 
+async function geocodeOne(rec) {
+  const url = buildURL(rec);
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
     await gate();
     try {
-      const res = await fetch(url);
-      if (res.status === 429) { await sleep(2000 * (attempt + 1)); continue; }
-      if (!res.ok) { if (attempt === MAX_RETRIES) return null; await sleep(500); continue; }
+      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, 'Accept': 'application/json' } });
+      if (res.status === 429) { await sleep(3000 * (attempt + 1)); continue; }
+      if (!res.ok) { if (attempt === MAX_RETRIES) return null; await sleep(600); continue; }
       const data = await res.json();
-      const feat = data.features && data.features[0];
-      if (!feat) return null;
-      const [lng, lat] = feat.geometry.coordinates;
-      const acc = feat.properties?.feature_type || feat.properties?.match_code?.confidence || 'unknown';
-      return { ...rec, lng: +lng.toFixed(6), lat: +lat.toFixed(6), acc };
-    } catch (err) {
+      const hit = Array.isArray(data) ? data[0] : null;
+      if (!hit) return null;
+      const lng = parseFloat(hit.lon), lat = parseFloat(hit.lat);
+      if (Number.isNaN(lng) || Number.isNaN(lat)) return null;
+      return { ...rec, lng: +lng.toFixed(6), lat: +lat.toFixed(6), acc: hit.type || hit.class || 'osm' };
+    } catch {
       if (attempt === MAX_RETRIES) return null;
-      await sleep(500);
+      await sleep(600);
     }
   }
   return null;
@@ -192,46 +202,39 @@ async function geocodeOne(rec) {
 // ── Persist ───────────────────────────────────────────────────────────────────
 function save() {
   const restaurants = [...done.values()];
-  const payload = {
+  fs.writeFileSync(OUT_PATH, JSON.stringify({
     generated: new Date().toISOString(),
-    count: restaurants.length,
-    endpoint: PERMANENT ? 'permanent' : 'temporary',
+    count: restaurants.filter((r) => r.lng != null).length,
+    provider: PROVIDER,
     restaurants,
-  };
-  fs.writeFileSync(OUT_PATH, JSON.stringify(payload));
-  if (failures.length) fs.writeFileSync(FAIL_PATH, JSON.stringify(failures, null, 2));
+  }));
+  const misses = restaurants.filter((r) => r.lng == null);
+  if (misses.length) fs.writeFileSync(FAIL_PATH, JSON.stringify(misses, null, 2));
 }
 
-// ── Worker pool ────────────────────────────────────────────────────────────────
+// ── Run (sequential to honour rate policy) ────────────────────────────────────
 let processed = 0;
-let idx = 0;
 const t0 = Date.now();
-
-async function worker() {
-  while (idx < pending.length) {
-    const rec = pending[idx++];
-    const result = await geocodeOne(rec);
-    if (result) done.set(keyOf(rec), result);
-    else { failures.push(rec); done.set(keyOf(rec), { ...rec, lng: null, lat: null, acc: 'failed' }); }
-
-    processed++;
-    if (processed % SAVE_EVERY === 0) {
-      save();
-      const rate = processed / ((Date.now() - t0) / 1000);
-      const eta = Math.round((pending.length - processed) / rate / 60);
-      process.stdout.write(
-        `\r  ${processed}/${pending.length}  ·  ${rate.toFixed(1)}/s  ·  ~${eta} min left  ·  ${failures.length} misses   `
-      );
-    }
-  }
-}
-
 process.on('SIGINT', () => { console.log('\n\n⏸  Interrupted — saving progress…'); save(); process.exit(0); });
 
-await Promise.all(Array.from({ length: CONCURRENCY }, worker));
+for (const rec of pending) {
+  const result = await geocodeOne(rec);
+  if (result) done.set(keyOf(rec), result);
+  else done.set(keyOf(rec), { ...rec, lng: null, lat: null, acc: 'failed' });
+
+  processed++;
+  if (processed % SAVE_EVERY === 0) {
+    save();
+    const rate = processed / ((Date.now() - t0) / 1000);
+    const eta = Math.round((pending.length - processed) / rate / 60);
+    const miss = [...done.values()].filter((r) => r.lng == null).length;
+    process.stdout.write(`\r  ${processed}/${pending.length}  ·  ${rate.toFixed(1)}/s  ·  ~${eta} min left  ·  ${miss} misses   `);
+  }
+}
 save();
 
-const withCoords = [...done.values()].filter((r) => r.lng != null).length;
-console.log(`\n\n✓ Done. ${withCoords}/${records.length} geocoded, ${failures.length} misses.`);
+const placed = [...done.values()].filter((r) => r.lng != null).length;
+const missed = [...done.values()].filter((r) => r.lng == null).length;
+console.log(`\n\n✓ Done. ${placed}/${records.length} placed, ${missed} misses.`);
 console.log(`  → ${path.relative(ROOT, OUT_PATH)}`);
-if (failures.length) console.log(`  → misses logged to ${path.relative(ROOT, FAIL_PATH)} (re-run to retry them)`);
+if (missed) console.log(`  → misses in ${path.relative(ROOT, FAIL_PATH)} (re-run to retry them; a LocationIQ key helps)`);
