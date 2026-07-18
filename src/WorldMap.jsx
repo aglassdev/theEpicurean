@@ -187,6 +187,7 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
           map.on('mouseleave', layer, () => { map.getCanvas().style.cursor = ''; });
         });
 
+        map.resize(); // ensure canvas matches the container if it sized late
         if (!cancelled) setStatus('ready');
       });
 
@@ -239,8 +240,14 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
   }
 
   // ── Render ─────────────────────────────────────────────────────────
+  // Concrete minHeight guards against the flex/% chain collapsing the map
+  // container to 0px (which shows as a blank white page).
   return (
-    <div style={{ position: 'relative', width: '100%', height: fullPage ? '100%' : height }}>
+    <div style={{
+      position: 'relative', width: '100%',
+      height: fullPage ? '100%' : height,
+      minHeight: fullPage ? 'calc(100vh - 140px)' : height,
+    }}>
       <div ref={nodeRef} style={{ position: 'absolute', inset: 0, background: tokens.paperDeep }} />
 
       {(showSearch || fullPage) && (
