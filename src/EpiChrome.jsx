@@ -46,6 +46,10 @@ export const useEpiStyles = () => {
       .epi-source:hover { opacity: 1; filter: grayscale(0); transform: translateY(-2px); }
       .epi-cta { transition: letter-spacing .5s ease, color .4s ease; }
       .epi-cta:hover { letter-spacing: .42em; color: ${tokens.gold}; }
+      @keyframes epi-marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+      .epi-marquee { overflow: hidden; }
+      .epi-marquee-track { display: flex; width: max-content; animation: epi-marquee 55s linear infinite; }
+      .epi-marquee:hover .epi-marquee-track { animation-play-state: paused; }
       .epi-card { transition: transform .5s cubic-bezier(.2,.7,.2,1), background .35s ease, border-color .35s ease; }
       .epi-card:hover { transform: translateY(-3px); background: ${tokens.paper}; border-color: ${tokens.gold}; }
       .epi-city-link { transition: color .25s ease, padding-left .25s ease; }
@@ -119,7 +123,7 @@ export const EpiNav = ({ active }) => {
         transition: 'padding .4s ease',
       }}>
         <div className="epi-nav-links" style={{ display: 'flex', gap: '2.25rem', flex: 1 }}>
-          <button className={cls('journal')} style={navBtn}>Journal</button>
+          <button className={cls('news')} onClick={go('/news')} style={navBtn}>News</button>
           <button className={cls('methodology')} onClick={go('/methodology')} style={navBtn}>Methodology</button>
         </div>
 
@@ -155,7 +159,7 @@ export const EpiNav = ({ active }) => {
 // ── Footer ────────────────────────────────────────────────────────
 export const EpiFooter = () => {
   const cols = [
-    { h: 'Sections', items: [['Destinations','/destinations'], ['Atlas','/map'], ['Journal','#'], ['Methodology','/methodology']] },
+    { h: 'Sections', items: [['Destinations','/destinations'], ['Atlas','/map'], ['News','/news'], ['Methodology','/methodology']] },
   ];
   return (
     <footer style={{

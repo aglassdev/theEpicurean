@@ -2,6 +2,40 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { EpiPage, SmallCaps, Rule, tokens } from './EpiChrome';
 
+// Deduped publication logos from the Methodology sources (one per source —
+// e.g. a single Wine Spectator mark, not each glass variant).
+const SOURCE_LOGOS = [
+  { name: 'Michelin Guide', icon: '/images/michelin.png' },
+  { name: 'La Liste', icon: '/images/laliste.png' },
+  { name: "World's 50 Best", icon: '/images/worlds50best.png' },
+  { name: 'James Beard Foundation', icon: '/images/jamesbeard.png' },
+  { name: "Asia's 50 Best", icon: '/images/asias50best.png' },
+  { name: 'Forbes', icon: '/images/forbes.png' },
+  { name: "Latin America's 50 Best", icon: '/images/latams50best.png' },
+  { name: 'The Washington Post', icon: '/images/washingtonpost.png' },
+  { name: "North America's 50 Best", icon: '/images/nas50best.png' },
+  { name: 'Relais & Châteaux', icon: '/images/relaischateaux.png' },
+  { name: "MENA's 50 Best", icon: '/images/menas50best.png' },
+  { name: 'Slow Food', icon: '/images/slowfood.png' },
+  { name: "World's 50 Best Bars", icon: '/images/worlds50bestbars.png' },
+  { name: 'The New York Times', icon: '/images/nyt.png' },
+  { name: 'Gault & Millau', icon: '/images/gaultmillau.png' },
+  { name: 'AAA Travel', icon: '/images/aaatravel.png' },
+  { name: 'World Culinary Awards', icon: '/images/worldculinaryawards.png' },
+  { name: 'AA Hospitality Awards', icon: '/images/aahospitalityawards.png' },
+  { name: 'Opinionated About Dining', icon: '/images/oad.png' },
+  { name: 'Falstaff', icon: '/images/falstaff.png' },
+  { name: "We're Smart", icon: '/images/weresmart.png' },
+  { name: '50 Top Italy', icon: '/images/50topItaly.png' },
+  { name: 'Star Wine List', icon: '/images/starwinelist.png' },
+  { name: 'The World of Fine Wine', icon: '/images/worldoffinewine.png' },
+  { name: 'DiRoNA', icon: '/images/dirona.png' },
+  { name: 'Gambero Rosso', icon: '/images/gamberorosso.png' },
+  { name: 'Wine Spectator', icon: '/images/winespectator.png' },
+  { name: 'Food & Wine', icon: '/images/foodandwine.png' },
+  { name: 'Tales of the Cocktail', icon: '/images/cocktailfoundation.png' },
+];
+
 const HomePage = () => {
   const navigate = useNavigate();
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -66,7 +100,7 @@ const HomePage = () => {
   }, [countersVisible]);
 
   const animateCounters = () => {
-    const targetValues = { restaurants: 15000, cities: 1000, countries: 125 };
+    const targetValues = { restaurants: 12650, cities: 3397, countries: 163 };
     const duration = 3000;
     const steps = 60;
     const stepDuration = duration / steps;
@@ -106,7 +140,7 @@ const HomePage = () => {
         }}>
           A curated atlas of the world's
           <br />
-          <em style={{ fontFamily: serif, fontStyle: 'italic', color: gold }}>most extraordinary</em> restaurants.
+          most extraordinary restaurants.
         </h1>
         <p style={{
           fontFamily: body, fontSize: '1.15rem', fontStyle: 'italic',
@@ -118,11 +152,11 @@ const HomePage = () => {
         <div className="epi-line" style={{ width: '64px', height: '1px', background: gold, margin: '0 auto' }} />
       </section>
 
-      {/* Carousel (logic preserved) */}
-      <section style={{ width: '100%', padding: '1.5rem 2.5rem 0', boxSizing: 'border-box' }}>
+      {/* Carousel (logic preserved) — full-bleed, images fill the width */}
+      <section style={{ width: '100%', padding: '1.5rem 0 0', boxSizing: 'border-box' }}>
         <div style={{
           display: 'flex', alignItems: 'baseline', justifyContent: 'space-between',
-          padding: '0 .25rem 1rem',
+          padding: '0 2.5rem 1rem',
         }}>
           <SmallCaps>Plate I · The Featured</SmallCaps>
           <SmallCaps style={{ color: inkMute }}>
@@ -135,7 +169,6 @@ const HomePage = () => {
           width: '100%', height: '78vh',
           position: 'relative', overflow: 'hidden',
           background: paperDeep,
-          border: `1px solid ${rule}`,
         }}>
           <div style={{
             display: 'flex',
@@ -152,7 +185,7 @@ const HomePage = () => {
                   width: `${100 / extendedImages.length}%`,
                   height: '100%',
                   backgroundImage: `url(${slide.image})`,
-                  backgroundSize: 'contain',
+                  backgroundSize: 'cover',
                   backgroundRepeat: 'no-repeat',
                   backgroundPosition: 'center',
                   backgroundColor: paperDeep,
@@ -430,7 +463,7 @@ const HomePage = () => {
         padding: 'clamp(4rem, 6vw, 6rem) 2.5rem',
         borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`,
       }}>
-        <div style={{ maxWidth: '1200px', margin: '0 auto', textAlign: 'center' }}>
+        <div style={{ maxWidth: '1280px', margin: '0 auto', textAlign: 'center' }}>
           <SmallCaps style={{ color: gold }}>Section V</SmallCaps>
           <h3 style={{
             fontFamily: serif, fontWeight: 400,
@@ -438,25 +471,23 @@ const HomePage = () => {
             fontStyle: 'italic', color: ink,
             margin: '.7rem 0 3rem', letterSpacing: '.01em',
           }}>Curated from the journals of record.</h3>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '2.5rem' }}>
-            {[
-              { id: 1, name: 'Guide Michelin', image: '/images/michelin.png' },
-              { id: 2, name: "World's 50 Best", image: '/images/worlds50best.png' },
-              { id: 3, name: 'La Liste', image: '/images/laliste.png' },
-              { id: 4, name: 'James Beard', image: '/images/jamesbeard.png' },
-              { id: 5, name: 'New York Times', image: '/images/nyt.png' },
-            ].map((icon) => (
-              <a key={icon.id} href="#" className="epi-source"
-                onClick={(e) => e.preventDefault()}
-                style={{ display: 'block' }}>
-                <div style={{
-                  width: '110px', height: '70px',
-                  backgroundImage: `url(${icon.image})`,
-                  backgroundSize: 'contain', backgroundRepeat: 'no-repeat',
-                  backgroundPosition: 'center',
-                }} title={icon.name} />
-              </a>
-            ))}
+          <div className="epi-marquee" style={{
+            maskImage: 'linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent)',
+            WebkitMaskImage: 'linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent)',
+          }}>
+            <div className="epi-marquee-track">
+              {[...SOURCE_LOGOS, ...SOURCE_LOGOS].map((logo, i) => (
+                <div key={i} style={{ flex: '0 0 auto', padding: '0 2.25rem' }}>
+                  <div title={logo.name} style={{
+                    width: '116px', height: '58px',
+                    backgroundImage: `url(${logo.icon})`,
+                    backgroundSize: 'contain', backgroundRepeat: 'no-repeat',
+                    backgroundPosition: 'center',
+                    filter: 'grayscale(1)', opacity: .55,
+                  }} />
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </section>

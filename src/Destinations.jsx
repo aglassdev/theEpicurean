@@ -1,12 +1,11 @@
 import React, { useEffect, useState, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
-import WorldMap from './WorldMap';
 import { EpiPage, EpiPageHeader, SmallCaps, Rule, tokens } from './EpiChrome';
 
 const Destinations = () => {
   const navigate = useNavigate();
   const [query, setQuery] = useState('');
-  const { ink, inkSoft, inkMute, paper, paperDeep, rule, gold, serif, body, sans } = tokens;
+  const { ink, inkSoft, inkMute, paper, rule, gold, serif, body, sans } = tokens;
 
   useEffect(() => { document.title = "Destinations · The Epicurean"; }, []);
 
@@ -317,17 +316,22 @@ const Destinations = () => {
     return out;
   }, [query]);
 
-  // Stats from the data
-  const stats = useMemo(() => {
-    let countries = 0, regions = 0, cities = 0;
-    Object.entries(destinationsByCountry).forEach(([, r]) => {
-      countries++;
-      Object.entries(r).forEach(([, c]) => {
-        regions++;
-        cities += Object.keys(c || {}).length;
+  // Count-up stats (real dataset totals) — animate once on mount
+  const [stats, setStats] = useState({ countries: 0, cities: 0 });
+  useEffect(() => {
+    const targets = { countries: 163, cities: 3397 };
+    const steps = 60, dur = 1600;
+    let step = 0;
+    const t = setInterval(() => {
+      step++;
+      const p = 1 - Math.pow(1 - step / steps, 3); // ease-out
+      setStats({
+        countries: Math.floor(targets.countries * p),
+        cities: Math.floor(targets.cities * p),
       });
-    });
-    return { countries, regions, cities };
+      if (step >= steps) { clearInterval(t); setStats(targets); }
+    }, dur / steps);
+    return () => clearInterval(t);
   }, []);
 
   // Featured destinations strip
@@ -343,63 +347,37 @@ const Destinations = () => {
   return (
     <EpiPage active="destinations">
       <EpiPageHeader
-        sectionLabel="Section II · The Atlas"
-        title="The world, by"
-        italicWord="plate."
-        lede="A cartography of every restaurant in The Epicurean — from three-star temples in Tokyo to whispered bistros in Buenos Aires. Click any region to descend into its cities."
+        sectionLabel="Section I · The Index"
+        title="Every destination,"
+        italicWord="indexed."
+        lede="Browse the guide by country and city — every corner of the world where a remarkable table awaits. For the interactive map, visit the Atlas."
       />
 
-      {/* Stats strip */}
-      <section style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 2.5rem 2rem' }}>
+      {/* Stats strip — count up on load */}
+      <section style={{ maxWidth: '860px', margin: '0 auto', padding: '0 2.5rem 2rem' }}>
         <div style={{
-          display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)',
+          display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)',
           borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`,
         }}>
           {[
-            { label: 'Countries Charted', value: stats.countries },
-            { label: 'Regions & States', value: stats.regions },
-            { label: 'Cities Indexed', value: stats.cities.toLocaleString() },
+            { label: 'Countries', value: stats.countries.toLocaleString() },
+            { label: 'Cities', value: stats.cities.toLocaleString() },
           ].map((s, i) => (
             <div key={i} style={{
-              padding: '1.6rem 1rem',
+              padding: '1.8rem 1rem',
               borderLeft: i === 0 ? 'none' : `1px solid ${rule}`,
               textAlign: 'center',
             }}>
               <div style={{
                 fontFamily: serif, fontWeight: 400,
-                fontSize: 'clamp(1.8rem, 3vw, 2.6rem)',
+                fontSize: 'clamp(2.2rem, 4vw, 3.4rem)',
                 lineHeight: 1, color: ink, letterSpacing: '-.02em',
                 fontVariantNumeric: 'lining-nums tabular-nums',
-                marginBottom: '.6rem',
+                marginBottom: '.7rem',
               }}>{s.value}<span style={{ color: gold }}>+</span></div>
               <SmallCaps>{s.label}</SmallCaps>
             </div>
           ))}
-        </div>
-      </section>
-
-      {/* Map */}
-      <section style={{ maxWidth: '1280px', margin: '0 auto', padding: '1rem 2.5rem 3rem' }}>
-        <div style={{
-          display: 'flex', alignItems: 'baseline', justifyContent: 'space-between',
-          padding: '0 .25rem 1rem', flexWrap: 'wrap', gap: '.75rem',
-        }}>
-          <SmallCaps>Plate I · The Map</SmallCaps>
-          <a href="/map"
-            onClick={(e) => { e.preventDefault(); navigate('/map'); }}
-            style={{
-              fontFamily: sans, fontSize: '11px', letterSpacing: '.28em',
-              textTransform: 'uppercase', color: ink, textDecoration: 'none',
-              borderBottom: `1px solid ${gold}`, paddingBottom: '2px', cursor: 'pointer',
-            }}>
-            Open the full Atlas →
-          </a>
-        </div>
-        <div style={{
-          border: `1px solid ${rule}`,
-          background: paperDeep,
-        }}>
-          <WorldMap height="640px" showSearch projection="mercator" />
         </div>
       </section>
 
@@ -409,7 +387,7 @@ const Destinations = () => {
         padding: 'clamp(3rem, 5vw, 5rem) 2.5rem',
       }}>
         <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
-          <SmallCaps style={{ color: gold }}>Section III · Editors' Suggestion</SmallCaps>
+          <SmallCaps style={{ color: gold }}>Section II · Editors' Suggestion</SmallCaps>
           <h2 style={{
             fontFamily: serif, fontWeight: 400,
             fontSize: 'clamp(1.8rem, 3vw, 2.8rem)',
@@ -462,7 +440,7 @@ const Destinations = () => {
           marginBottom: '2rem', flexWrap: 'wrap', gap: '1.5rem',
         }}>
           <div>
-            <SmallCaps>Section IV</SmallCaps>
+            <SmallCaps>Section III</SmallCaps>
             <h2 style={{
               fontFamily: serif, fontWeight: 400,
               fontSize: 'clamp(2rem, 4vw, 3.2rem)',

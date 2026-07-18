@@ -4,6 +4,7 @@ import Home from './Home';
 import Destinations from './Destinations';
 import Methodology from './Methodology';
 import WorldMapPage from './WorldMapPage';
+import News from './News';
 import RestaurantTemplate from './RestaurantTemplate';
 
 // USA listing pages: discovered by Vite at build time, code-split per city.
@@ -257,6 +258,7 @@ function App() {
           <Route path="/destinations" element={<Destinations />} />
           <Route path="/map" element={<WorldMapPage />} />
           <Route path="/atlas" element={<WorldMapPage />} />
+          <Route path="/news" element={<News />} />
           <Route path="/methodology" element={<Methodology />} />
           <Route path="*" element={<DynamicPage />} />
         </Routes>

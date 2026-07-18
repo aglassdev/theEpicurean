@@ -10,6 +10,30 @@ const STYLE_URL = 'https://tiles.openfreemap.org/styles/positron';
 // ── Palette (editorial) ───────────────────────────────────────────
 const INK = '#1F1A14', GOLD = '#A8824A', GOLD_SOFT = '#C8A270', PAPER = '#FAF7F0';
 
+// ── Gold teardrop pin marker, drawn to a canvas for MapLibre addImage ──
+function makePin() {
+  const w = 28, h = 38, dpr = 2;
+  const cv = document.createElement('canvas');
+  cv.width = w * dpr; cv.height = h * dpr;
+  const ctx = cv.getContext('2d');
+  ctx.scale(dpr, dpr);
+  const cx = w / 2, cy = 12, r = 10.5, tipY = h - 1.5;
+  const tear = (rr) => {
+    ctx.beginPath();
+    ctx.moveTo(cx, tipY);
+    ctx.lineTo(cx + rr * 0.7071, cy + rr * 0.7071);
+    ctx.arc(cx, cy, rr, Math.PI / 4, (Math.PI * 3) / 4, true);
+    ctx.lineTo(cx, tipY);
+    ctx.closePath();
+  };
+  tear(r); ctx.fillStyle = INK; ctx.fill();          // ink outline
+  tear(r - 1.6); ctx.fillStyle = GOLD; ctx.fill();   // gold body
+  ctx.beginPath(); ctx.arc(cx, cy, r * 0.34, 0, Math.PI * 2);
+  ctx.fillStyle = PAPER; ctx.fill();                 // inner dot
+  const { data } = ctx.getImageData(0, 0, cv.width, cv.height);
+  return { width: cv.width, height: cv.height, data, pixelRatio: dpr };
+}
+
 // ── GeoJSON builder ───────────────────────────────────────────────
 const toGeo = (recs) => ({
   type: 'FeatureCollection',
@@ -147,22 +171,22 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
           paint: { 'text-color': INK },
         });
 
-        // Unclustered — precise: ink dot with gold halo; approximate (city-level,
-        // ap=1): fainter, smaller, no halo, so accuracy is visually honest.
+        // Unclustered — gold teardrop pin markers (approximate ones dimmed).
+        if (!map.hasImage('epi-pin')) {
+          const pin = makePin();
+          map.addImage('epi-pin', pin, { pixelRatio: pin.pixelRatio });
+        }
         map.addLayer({
-          id: 'point-halo', type: 'circle', source: 'r', filter: ['!', ['has', 'point_count']],
-          paint: {
-            'circle-radius': 7, 'circle-color': GOLD,
-            'circle-opacity': ['case', ['==', ['get', 'ap'], 1], 0, 0.28],
+          id: 'points', type: 'symbol', source: 'r', filter: ['!', ['has', 'point_count']],
+          layout: {
+            'icon-image': 'epi-pin',
+            'icon-size': 0.9,
+            'icon-anchor': 'bottom',
+            'icon-allow-overlap': true,
+            'icon-ignore-placement': true,
           },
-        });
-        map.addLayer({
-          id: 'points', type: 'circle', source: 'r', filter: ['!', ['has', 'point_count']],
           paint: {
-            'circle-radius': ['case', ['==', ['get', 'ap'], 1], 3, 4],
-            'circle-color': INK,
-            'circle-opacity': ['case', ['==', ['get', 'ap'], 1], 0.5, 1],
-            'circle-stroke-width': 1.4, 'circle-stroke-color': PAPER,
+            'icon-opacity': ['case', ['==', ['get', 'ap'], 1], 0.55, 1],
           },
         });
 
@@ -209,7 +233,7 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
     const q = raw.trim().toLowerCase();
     const recs = dataRef.current;
     const subset = q
-      ? recs.filter((r) => `${r.n} ${r.c} ${r.co}`.toLowerCase().includes(q))
+      ? recs.filter((r) => `${r.c} ${r.co}`.toLowerCase().includes(q))
       : recs;
     map.getSource('r').setData(toGeo(subset));
     setVisible(subset.length);
@@ -255,59 +279,29 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
           position: 'absolute', top: fullPage ? 24 : 16, left: fullPage ? 24 : 16,
           zIndex: 5, width: fullPage ? 340 : 300, maxWidth: 'calc(100% - 32px)',
           background: 'rgba(250,247,240,.94)', backdropFilter: 'blur(6px)',
-          border: `1px solid ${INK}`, padding: '1.4rem 1.4rem 1.25rem',
+          border: `1px solid ${INK}`, padding: '.7rem .9rem',
+          display: 'flex', alignItems: 'center', gap: '.6rem',
         }}>
-          <div style={{
-            fontFamily: tokens.sans, fontSize: '10px', letterSpacing: '.3em',
-            textTransform: 'uppercase', color: GOLD, marginBottom: '.5rem',
-          }}>The Atlas</div>
-          <h2 style={{
-            fontFamily: tokens.serif, fontWeight: 500,
-            fontSize: fullPage ? '2rem' : '1.6rem', lineHeight: 1.02,
-            letterSpacing: '-.01em', margin: '0 0 .9rem', color: INK,
-          }}>
-            Every table, <em style={{ fontStyle: 'italic', color: GOLD }}>charted</em>.
-          </h2>
-
-          <div style={{ position: 'relative', borderBottom: `1px solid ${INK}`, marginBottom: '.85rem' }}>
-            <input
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              placeholder="Search a restaurant, city, or country…"
-              style={{
-                width: '100%', background: 'transparent', border: 'none', outline: 'none',
-                padding: '8px 24px 8px 0', fontFamily: tokens.body,
-                fontSize: '1rem', color: INK, fontStyle: query ? 'normal' : 'italic',
-              }}
-            />
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke={INK}
-              strokeWidth="1.6" strokeLinecap="round"
-              style={{ position: 'absolute', right: 2, top: '50%', transform: 'translateY(-50%)' }}>
-              <circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" />
-            </svg>
-          </div>
-
-          <div style={{
-            display: 'flex', justifyContent: 'space-between', alignItems: 'baseline',
-            fontFamily: tokens.sans, fontSize: '10px', letterSpacing: '.24em',
-            textTransform: 'uppercase', color: tokens.inkSoft,
-          }}>
-            <span>
-              <span style={{
-                fontFamily: tokens.serif, fontSize: '1.25rem', color: INK,
-                letterSpacing: 0, marginRight: '.5em',
-                fontVariantNumeric: 'lining-nums tabular-nums',
-              }}>{visible.toLocaleString()}</span>
-              {query ? 'matches' : 'tables'}
-            </span>
-            {query && (
-              <button onClick={resetView} style={{
-                background: 'none', border: 'none', cursor: 'pointer',
-                fontFamily: tokens.sans, fontSize: '10px', letterSpacing: '.24em',
-                textTransform: 'uppercase', color: GOLD, padding: 0,
-              }}>Reset ×</button>
-            )}
-          </div>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={INK}
+            strokeWidth="1.6" strokeLinecap="round" style={{ flex: '0 0 auto' }}>
+            <circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" />
+          </svg>
+          <input
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder="Search a city or country…"
+            style={{
+              flex: 1, minWidth: 0, background: 'transparent', border: 'none', outline: 'none',
+              fontFamily: tokens.body, fontSize: '1rem', color: INK,
+              fontStyle: query ? 'normal' : 'italic',
+            }}
+          />
+          {query && (
+            <button onClick={resetView} aria-label="Clear search" style={{
+              flex: '0 0 auto', background: 'none', border: 'none', cursor: 'pointer',
+              color: GOLD, fontSize: '18px', lineHeight: 1, padding: 0,
+            }}>×</button>
+          )}
         </div>
       )}
 
@@ -335,7 +329,10 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
             Cluster
           </span>
           <span style={{ display: 'flex', alignItems: 'center', gap: '.5rem' }}>
-            <span style={{ width: 9, height: 9, borderRadius: '50%', background: INK, border: `2px solid ${PAPER}`, boxShadow: `0 0 0 1px ${GOLD}`, display: 'inline-block' }} />
+            <span style={{
+              width: 11, height: 11, background: GOLD, border: `1px solid ${INK}`,
+              borderRadius: '50% 50% 50% 0', transform: 'rotate(45deg)', display: 'inline-block',
+            }} />
             Restaurant
           </span>
         </div>
