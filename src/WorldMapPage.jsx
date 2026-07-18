@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { EpiNav, EpiUtilityBar, useEpiStyles, tokens } from './EpiChrome';
+import { EpiNav, useEpiStyles, tokens } from './EpiChrome';
 import WorldMap from './WorldMap';
 
 const WorldMapPage = () => {
@@ -13,10 +13,9 @@ const WorldMapPage = () => {
       margin: 0, overflowX: 'hidden', boxSizing: 'border-box',
       display: 'flex', flexDirection: 'column',
     }}>
-      <EpiUtilityBar />
       <EpiNav active="atlas" />
       {/* Full-bleed immersive map filling the remaining viewport */}
-      <div style={{ flex: 1, position: 'relative', minHeight: 'calc(100vh - 140px)' }}>
+      <div style={{ flex: 1, position: 'relative', minHeight: 'calc(100vh - 92px)' }}>
         <WorldMap fullPage showSearch projection="globe" />
       </div>
     </div>

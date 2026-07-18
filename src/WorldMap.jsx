@@ -246,7 +246,7 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
     <div style={{
       position: 'relative', width: '100%',
       height: fullPage ? '100%' : height,
-      minHeight: fullPage ? 'calc(100vh - 140px)' : height,
+      minHeight: fullPage ? 'calc(100vh - 92px)' : height,
     }}>
       <div ref={nodeRef} style={{ position: 'absolute', inset: 0, background: tokens.paperDeep }} />
 

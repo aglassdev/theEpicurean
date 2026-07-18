@@ -88,27 +88,6 @@ export const Rule = ({ color = tokens.rule, mt = 0, mb = 0, width = '100%' }) =>
   <div style={{ height: '1px', background: color, width, marginTop: mt, marginBottom: mb }} />
 );
 
-// ── Utility bar (top black strip) ─────────────────────────────────
-export const EpiUtilityBar = () => {
-  const issueDate = new Date().toLocaleDateString('en-GB', {
-    weekday: 'long', day: 'numeric', month: 'long', year: 'numeric',
-  });
-  return (
-    <div style={{
-      width: '100vw', boxSizing: 'border-box',
-      padding: '8px 2rem',
-      background: tokens.ink, color: tokens.paper,
-      display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-      fontFamily: tokens.sans, fontSize: '10.5px',
-      letterSpacing: '.32em', textTransform: 'uppercase',
-    }}>
-      <span style={{ opacity: .75 }}>Vol. MMXXVI</span>
-      <span style={{ opacity: .85 }}>The Epicurean — A Compendium of the World's Finest Tables</span>
-      <span style={{ opacity: .75 }}>{issueDate}</span>
-    </div>
-  );
-};
-
 // ── Sticky masthead nav ───────────────────────────────────────────
 const navBtn = {
   background: 'none', border: 'none',
@@ -140,7 +119,6 @@ export const EpiNav = ({ active }) => {
         transition: 'padding .4s ease',
       }}>
         <div className="epi-nav-links" style={{ display: 'flex', gap: '2.25rem', flex: 1 }}>
-          <button className={cls('destinations')} onClick={go('/destinations')} style={navBtn}>Destinations</button>
           <button className={cls('journal')} style={navBtn}>Journal</button>
           <button className={cls('methodology')} onClick={go('/methodology')} style={navBtn}>Methodology</button>
         </div>
@@ -150,7 +128,7 @@ export const EpiNav = ({ active }) => {
           onClick={(e) => { e.preventDefault(); window.location.href = '/'; }}
           style={{ textDecoration: 'none', flex: '0 0 auto', textAlign: 'center' }}
         >
-          <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '4px' }}>
+          <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <span style={{
               fontFamily: tokens.serif,
               fontSize: scrolled ? '24px' : '30px',
@@ -159,14 +137,6 @@ export const EpiNav = ({ active }) => {
             }}>
               The Epicurean
             </span>
-            {!scrolled && (
-              <span style={{
-                fontFamily: tokens.sans, fontSize: '9px', letterSpacing: '.5em',
-                textTransform: 'uppercase', color: tokens.gold, paddingLeft: '.5em',
-              }}>
-                Est. A Glass Production
-              </span>
-            )}
           </div>
         </a>
 
@@ -175,21 +145,7 @@ export const EpiNav = ({ active }) => {
           justifyContent: 'flex-end', alignItems: 'center',
         }}>
           <button className={cls('atlas')} onClick={go('/map')} style={navBtn}>Atlas</button>
-          <button className={cls('subscribe')} style={navBtn}>Subscribe</button>
-          <button style={{
-            background: 'none', border: `1px solid ${tokens.rule}`,
-            width: '34px', height: '34px', borderRadius: '50%',
-            cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center',
-            color: tokens.ink, transition: 'background .3s ease, color .3s ease',
-          }}
-          onMouseEnter={(e) => { e.currentTarget.style.background = tokens.ink; e.currentTarget.style.color = tokens.paper; }}
-          onMouseLeave={(e) => { e.currentTarget.style.background = 'transparent'; e.currentTarget.style.color = tokens.ink; }}
-          >
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
-              <circle cx="11" cy="11" r="7" />
-              <path d="m20 20-3.5-3.5" />
-            </svg>
-          </button>
+          <button className={cls('destinations')} onClick={go('/destinations')} style={navBtn}>Destinations</button>
         </div>
       </div>
     </nav>
@@ -200,8 +156,6 @@ export const EpiNav = ({ active }) => {
 export const EpiFooter = () => {
   const cols = [
     { h: 'Sections', items: [['Destinations','/destinations'], ['Atlas','/map'], ['Journal','#'], ['Methodology','/methodology']] },
-    { h: 'Sources', items: [['Michelin Guide','#'], ["World's 50 Best",'#'], ['La Liste','#'], ['James Beard','#']] },
-    { h: 'Correspondence', items: [['Newsletter','#'], ['Submissions','#'], ['Press','#'], ['Contact','#']] },
   ];
   return (
     <footer style={{
@@ -210,19 +164,15 @@ export const EpiFooter = () => {
     }}>
       <div className="epi-two-col" style={{
         maxWidth: '1280px', margin: '0 auto',
-        display: 'grid', gridTemplateColumns: '1.4fr 1fr 1fr 1fr',
+        display: 'grid', gridTemplateColumns: '1.4fr 1fr',
         gap: '3rem', alignItems: 'flex-start',
       }}>
         <div>
           <div style={{
             fontFamily: tokens.serif, fontSize: '28px', fontWeight: 500,
             letterSpacing: '.14em', textTransform: 'uppercase', color: tokens.paper,
-            marginBottom: '.5rem',
+            marginBottom: '1.25rem',
           }}>The Epicurean</div>
-          <div style={{
-            fontFamily: tokens.sans, fontSize: '10px', letterSpacing: '.4em',
-            textTransform: 'uppercase', color: tokens.gold, marginBottom: '1.5rem',
-          }}>A Glass Production</div>
           <p style={{
             fontFamily: tokens.body, fontStyle: 'italic', fontSize: '1rem',
             color: '#C9C3B5', lineHeight: 1.6, maxWidth: '320px', margin: 0,
@@ -258,13 +208,11 @@ export const EpiFooter = () => {
         maxWidth: '1280px', margin: '3.5rem auto 0',
         paddingTop: '1.5rem',
         borderTop: `1px solid rgba(250,247,240,.12)`,
-        display: 'flex', justifyContent: 'space-between', alignItems: 'center',
-        flexWrap: 'wrap', gap: '1rem',
-        fontFamily: tokens.sans, fontSize: '10.5px', letterSpacing: '.3em',
-        textTransform: 'uppercase', color: '#9C9586',
+        textAlign: 'center',
+        fontFamily: tokens.sans, fontSize: '11px', letterSpacing: '.22em',
+        color: '#9C9586',
       }}>
-        <span>© MMXXVI · The Epicurean Guide</span>
-        <span>All Rights Reserved · A Glass Production</span>
+        a glass production
       </div>
     </footer>
   );
@@ -281,7 +229,6 @@ export const EpiPage = ({ active, children }) => {
       overflowX: 'hidden', boxSizing: 'border-box',
       WebkitFontSmoothing: 'antialiased',
     }}>
-      <EpiUtilityBar />
       <EpiNav active={active} />
       {children}
       <EpiFooter />
