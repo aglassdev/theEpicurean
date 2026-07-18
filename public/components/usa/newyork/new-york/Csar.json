@@ -1,0 +1,20 @@
+{
+  "restaurantName": "César",
+  "address": "333 Hudson St., New York, 10013, USA",
+  "cuisine": "Contemporary, Seafood",
+  "priceRange": "$$$$",
+  "phoneNumber": "+12122205152",
+  "website": "https://www.cesar.restaurant/",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 2,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "César Ramirez is one of the few chefs who, night after night, has the difficult task of meeting his own standards of high-wire precision. His downtown restaurant brings a sleek, minimal look to a century-old address, and as might be expected, world-class seafood shipped from all over plays a large role in his tasting menu. Recent highlights include Norwegian langoustine with shiso and caviar, Japanese akami tuna with tomato water dashi, and sawara with yuzu kosho. A masterful hand with sauces and a sense for harmonious combinations demonstrate a refined sensibility. An eager service team oversees the spacious room where counter and table seating alike offer a prime vantage point for watching this kinetic kitchen....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=333%20Hudson%20St.%2C%20New%20York%2C%2010013%2C%20USA",
+  "pageTitle": "César"
+}

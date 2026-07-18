@@ -1,0 +1,24 @@
+{
+  "restaurantName": "Counter",
+  "address": "2001 W. Morehead St., Ste. D, Charlotte, NC, 28208, USA",
+  "cuisine": "Contemporary",
+  "priceRange": "$$$$",
+  "phoneNumber": "+19802922090",
+  "website": "https://www.counterclt.com/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "To say that Counter is an outlier in the Charlotte dining scene risks understatement: this ambitious, mercurial project from Chef Sam Hart is sui generis. The boldly immersive experience features shifting concepts fueled by Chef Hart’s multifarious passions and creativity, drawing on themes of nostalgia, music, personal history and more on a multicourse tasting menu. Local products are celebrated, including herbs and vegetables from nearby urban farms, combined with wide-ranging culinary influences that make for a truly memorable meal. The tight-knit team provides effortlessly gracious hospitality, and the beverage offerings are sure to impress....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=2001%20W.%20Morehead%20St.%2C%20Ste.%20D%2C%20Charlotte%2C%20NC%2C%2028208%2C%20USA",
+  "pageTitle": "Counter"
+}

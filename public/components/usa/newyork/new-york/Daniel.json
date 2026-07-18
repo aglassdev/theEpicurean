@@ -1,0 +1,20 @@
+{
+  "restaurantName": "Daniel",
+  "address": "60 E. 65th St., New York, 10065, USA",
+  "cuisine": "French",
+  "priceRange": "$$$$",
+  "phoneNumber": "+12122880033",
+  "website": "https://www.danielnyc.com/",
+  "tags": [],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Chef Daniel Boulud's eponymous restaurant is a classic New York restaurant. For over thirty years, this fine dining room has been the spot for brokering deals and celebrating special occasions. With art from James Rosenquist complementing the coffered ceilings capped with signature Bernardaud porcelain chandeliers, it remains an iconic Upper East Side spot.Executive Chef Eddy Leroux's multicourse tasting menus showcase high-quality ingredients and classic French cuisine. Recent highlights have included the kataifi-crusted Alaskan wild salmon topped with roe and crispy skin, followed by a half-moon of macadamia mousseline with praline, cookie ruse, and a cherry brandy anglaise. As might be expected, the wine list features an impressive collection of French wines....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=60%20E.%2065th%20St.%2C%20New%20York%2C%2010065%2C%20USA",
+  "pageTitle": "Daniel"
+}

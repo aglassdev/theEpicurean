@@ -1,0 +1,24 @@
+{
+  "restaurantName": "One White Street",
+  "address": "1 White St., New York, 10013, USA",
+  "cuisine": "Contemporary",
+  "priceRange": "$$$$",
+  "phoneNumber": "+16463987679",
+  "website": "https://www.onewhitestreetnyc.com/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "This 19th-century townhouse, once the downtown hangout for John Lennon and Yoko Ono, has been transformed into a destination of culinary excellence, thanks to Chef Austin Johnson. The lower level operates more like a wine bar with crowds aplenty, while the higher floors offer the same seasonal tasting menu, starring products sourced from their upstate farm. Bold and clever flavors come easily to this kitchen team, as seen in cheddar gougères garnished with caviar and lemon zest, followed by a melting square of braised lamb with black garlic purée and charred Chinese celery.Gorgeous marble, superb tile work and modern light fixtures decorate the intimate and attractive wood-clad space....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=1%20White%20St.%2C%20New%20York%2C%2010013%2C%20USA",
+  "pageTitle": "One White Street"
+}

@@ -1,0 +1,24 @@
+{
+  "restaurantName": "The French Laundry",
+  "address": "6640 Washington St., Yountville, CA, 94599, USA",
+  "cuisine": "Contemporary, French",
+  "priceRange": "$$$$",
+  "phoneNumber": "+17079442380",
+  "website": "https://www.thomaskeller.com/tfl",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 3,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Thomas Keller’s legendary destination still doesn’t miss a beat. In fact this may be known as the greatest cooking space in America, as every aspect is carefully determined—from the counter height to the flowing lines of the ceiling. Chef Keller continues to pair classic French techniques with wildly fresh ingredients in a setting that is a perfect storm of restaurant greatness—we should all be so lucky to score a reservation here. The cornet filled with crème fraîche and topped with Atlantic salmon tartare is an impressive start before moving on to dishes like Atlantic pompano amandine, sweet butter-poached spiny lobster, and the perfectly cooked herb-roasted Elysian Fields Farm lamb. The finale presents a series of desserts from a cheese course to a decadent chocolate gâteau....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=6640%20Washington%20St.%2C%20Yountville%2C%20CA%2C%2094599%2C%20USA",
+  "pageTitle": "The French Laundry"
+}
