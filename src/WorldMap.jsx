@@ -16,7 +16,7 @@ const toGeo = (recs) => ({
   features: recs.map((r) => ({
     type: 'Feature',
     geometry: { type: 'Point', coordinates: [r.lng, r.lat] },
-    properties: { n: r.n, a: r.a || '', c: r.c || '', co: r.co || '', w: r.w || '' },
+    properties: { n: r.n, a: r.a || '', c: r.c || '', co: r.co || '', w: r.w || '', ap: r.ap ? 1 : 0 },
   })),
 });
 
@@ -147,15 +147,21 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
           paint: { 'text-color': INK },
         });
 
-        // Unclustered — ink dot with gold halo
+        // Unclustered — precise: ink dot with gold halo; approximate (city-level,
+        // ap=1): fainter, smaller, no halo, so accuracy is visually honest.
         map.addLayer({
           id: 'point-halo', type: 'circle', source: 'r', filter: ['!', ['has', 'point_count']],
-          paint: { 'circle-radius': 7, 'circle-color': GOLD, 'circle-opacity': 0.28 },
+          paint: {
+            'circle-radius': 7, 'circle-color': GOLD,
+            'circle-opacity': ['case', ['==', ['get', 'ap'], 1], 0, 0.28],
+          },
         });
         map.addLayer({
           id: 'points', type: 'circle', source: 'r', filter: ['!', ['has', 'point_count']],
           paint: {
-            'circle-radius': 4, 'circle-color': INK,
+            'circle-radius': ['case', ['==', ['get', 'ap'], 1], 3, 4],
+            'circle-color': INK,
+            'circle-opacity': ['case', ['==', ['get', 'ap'], 1], 0.5, 1],
             'circle-stroke-width': 1.4, 'circle-stroke-color': PAPER,
           },
         });

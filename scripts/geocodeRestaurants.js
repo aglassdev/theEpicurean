@@ -168,33 +168,86 @@ async function gate() {
   if (wait) await sleep(wait);
 }
 
-function buildURL(rec) {
-  const q = (rec.a && rec.a.length > 4) ? rec.a : [rec.n, rec.c, rec.co].filter(Boolean).join(', ');
-  const p = new URLSearchParams({ q, format: PROVIDER === 'nominatim' ? 'jsonv2' : 'json', limit: '1' });
-  const iso = ISO[rec.co];
-  if (iso) p.set('countrycodes', iso);
-  if (PROVIDER === 'locationiq') p.set('key', LOCATIONIQ_KEY);
-  return `${BASE_URL}?${p.toString()}`;
-}
-
-async function geocodeOne(rec) {
-  const url = buildURL(rec);
+async function fetchJSON(url, headers) {
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
     await gate();
     try {
-      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, 'Accept': 'application/json' } });
+      const res = await fetch(url, { headers });
       if (res.status === 429) { await sleep(3000 * (attempt + 1)); continue; }
       if (!res.ok) { if (attempt === MAX_RETRIES) return null; await sleep(600); continue; }
-      const data = await res.json();
-      const hit = Array.isArray(data) ? data[0] : null;
-      if (!hit) return null;
-      const lng = parseFloat(hit.lon), lat = parseFloat(hit.lat);
-      if (Number.isNaN(lng) || Number.isNaN(lat)) return null;
-      return { ...rec, lng: +lng.toFixed(6), lat: +lat.toFixed(6), acc: hit.type || hit.class || 'osm' };
+      return await res.json();
     } catch {
       if (attempt === MAX_RETRIES) return null;
       await sleep(600);
     }
+  }
+  return null;
+}
+
+const NOMI_HEADERS = { 'User-Agent': USER_AGENT, 'Accept': 'application/json' };
+const parseOSM = (arr) => {
+  const h = Array.isArray(arr) ? arr[0] : null;
+  if (!h) return null;
+  const lng = parseFloat(h.lon), lat = parseFloat(h.lat);
+  if (Number.isNaN(lng) || Number.isNaN(lat)) return null;
+  return { lng: +lng.toFixed(6), lat: +lat.toFixed(6), acc: h.type || h.class || 'osm' };
+};
+
+async function viaNominatim(q, iso) {
+  const p = new URLSearchParams({ q, format: 'jsonv2', limit: '1' });
+  if (iso) p.set('countrycodes', iso);
+  return parseOSM(await fetchJSON(`https://nominatim.openstreetmap.org/search?${p}`, NOMI_HEADERS));
+}
+async function viaLocationIQ(q, iso) {
+  const p = new URLSearchParams({ key: LOCATIONIQ_KEY, q, format: 'json', limit: '1' });
+  if (iso) p.set('countrycodes', iso);
+  return parseOSM(await fetchJSON(`https://us1.locationiq.com/v1/search?${p}`, { Accept: 'application/json' }));
+}
+const viaPrimary = (q, iso) => (PROVIDER === 'locationiq' ? viaLocationIQ(q, iso) : viaNominatim(q, iso));
+
+// Photon (Komoot) — keyless, OSM-based, forgiving fuzzy matching. Catches many
+// messy addresses that Nominatim returns nothing for.
+async function viaPhoton(q) {
+  const p = new URLSearchParams({ q, limit: '1', lang: 'en' });
+  const d = await fetchJSON(`https://photon.komoot.io/api/?${p}`, { Accept: 'application/json' });
+  const f = d && d.features && d.features[0];
+  if (!f || !f.geometry) return null;
+  const [lng, lat] = f.geometry.coordinates;
+  if (Number.isNaN(lng) || Number.isNaN(lat)) return null;
+  return { lng: +(+lng).toFixed(6), lat: +(+lat).toFixed(6), acc: 'photon' };
+}
+
+// Strip unit/floor tokens and postal codes so the geocoder can match the street.
+function cleanAddress(a) {
+  if (!a) return '';
+  return a
+    .replace(/\b(?:suite|ste|unit|apt|apartment|floor|fl|level|lvl|room|rm|no|#)\.?\s*[\w-]+/ig, '')
+    .replace(/\b[A-Z]{0,2}\d{3,5}(?:-\d{3,4})?\b/g, '')
+    .replace(/\s{2,}/g, ' ')
+    .replace(/\s*,(?:\s*,)+/g, ', ')
+    .replace(/^[\s,]+|[\s,]+$/g, '')
+    .trim();
+}
+
+// Broadening ladder: precise → drop country filter → cleaned → fuzzy (Photon)
+// → city-level fallback (flagged approximate). Stops at the first hit.
+async function geocodeOne(rec) {
+  const iso = ISO[rec.co];
+  const full = (rec.a && rec.a.length > 4) ? rec.a : [rec.n, rec.c, rec.co].filter(Boolean).join(', ');
+  const cleaned = cleanAddress(rec.a);
+  const cityQ = [rec.c, rec.co].filter(Boolean).join(', ') || rec.co;
+  const prev = done.get(keyOf(rec));
+  const priorMiss = prev && prev.lng == null;
+
+  let r;
+  // Fresh row: try the precise query. Known miss: skip it (it already failed).
+  if (!priorMiss) { r = await viaPrimary(full, iso); if (r) return { ...rec, ...r }; }
+  r = await viaPrimary(full, null); if (r) return { ...rec, ...r };
+  if (cleaned && cleaned !== full) { r = await viaPrimary(cleaned, iso); if (r) return { ...rec, ...r }; }
+  r = await viaPhoton(full); if (r) return { ...rec, ...r };
+  if (cityQ) {
+    r = (await viaPrimary(cityQ, iso)) || (await viaPhoton(cityQ));
+    if (r) return { ...rec, ...r, acc: 'city', ap: 1 }; // approximate — city centre
   }
   return null;
 }
@@ -237,7 +290,9 @@ for (const rec of pending) {
   const name = clip(rec.n, 44);
   const counter = `${DIM}[${pad(processed)}/${pending.length}]${RST}`;
   if (result) {
-    console.log(`${counter} ${GRN}✓${RST} ${name}${DIM}${loc ? ' — ' + loc : ''}${RST}  ${GLD}${result.lat.toFixed(4)}, ${result.lng.toFixed(4)}${RST}`);
+    const glyph = result.ap ? `${DIM}≈${RST}` : `${GRN}✓${RST}`;
+    const tag = result.ap ? `${DIM}  ~city${RST}` : (result.acc === 'photon' ? `${DIM}  ~photon${RST}` : '');
+    console.log(`${counter} ${glyph} ${name}${DIM}${loc ? ' — ' + loc : ''}${RST}  ${GLD}${result.lat.toFixed(4)}, ${result.lng.toFixed(4)}${RST}${tag}`);
   } else {
     console.log(`${counter} ${DIM}✗ ${name}${loc ? ' — ' + loc : ''}  ·  not found${RST}`);
   }
@@ -253,8 +308,10 @@ for (const rec of pending) {
 }
 save();
 
-const placed = [...done.values()].filter((r) => r.lng != null).length;
-const missed = [...done.values()].filter((r) => r.lng == null).length;
-console.log(`\n\n✓ Done. ${placed}/${records.length} placed, ${missed} misses.`);
+const all = [...done.values()];
+const placed = all.filter((r) => r.lng != null).length;
+const approx = all.filter((r) => r.ap).length;
+const missed = all.filter((r) => r.lng == null).length;
+console.log(`\n\n✓ Done. ${placed}/${records.length} placed — ${placed - approx} precise, ${approx} approximate (city-level). ${missed} still missing.`);
 console.log(`  → ${path.relative(ROOT, OUT_PATH)}`);
-if (missed) console.log(`  → misses in ${path.relative(ROOT, FAIL_PATH)} (re-run to retry them; a LocationIQ key helps)`);
+if (missed) console.log(`  → remaining misses in ${path.relative(ROOT, FAIL_PATH)} (a free LocationIQ key in .env resolves more)`);
