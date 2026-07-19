@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState, useCallback } from 'react';
+import { useNavigate } from 'react-router-dom';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { tokens } from './EpiChrome';
@@ -40,7 +41,7 @@ const toGeo = (recs) => ({
   features: recs.map((r) => ({
     type: 'Feature',
     geometry: { type: 'Point', coordinates: [r.lng, r.lat] },
-    properties: { n: r.n, a: r.a || '', c: r.c || '', co: r.co || '', w: r.w || '', ap: r.ap ? 1 : 0 },
+    properties: { n: r.n, a: r.a || '', c: r.c || '', co: r.co || '', w: r.w || '', p: r.p || '', ap: r.ap ? 1 : 0 },
   })),
 });
 
@@ -79,19 +80,21 @@ const esc = (str) => String(str).replace(/[&<>"]/g, (c) => (
 
 const popupHTML = (p) => {
   const loc = [p.c, p.co].filter(Boolean).join(' · ');
-  const site = p.w
-    ? `<a class="epi-pop-link" href="${esc(p.w)}" target="_blank" rel="noopener noreferrer">Visit site →</a>`
-    : '';
+  // Prefer the in-guide detail page; fall back to the restaurant's own site.
+  const link = p.p
+    ? `<a class="epi-pop-link" data-guide href="${esc(p.p)}">View in the guide →</a>`
+    : (p.w ? `<a class="epi-pop-link" href="${esc(p.w)}" target="_blank" rel="noopener noreferrer">Visit site →</a>` : '');
   return `
     <div>
       ${loc ? `<div class="epi-kicker">${esc(loc)}</div>` : ''}
       <div class="epi-pop-name">${esc(p.n)}</div>
       ${p.a ? `<div class="epi-pop-addr">${esc(p.a)}</div>` : ''}
-      ${site}
+      ${link}
     </div>`;
 };
 
 const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', projection = 'mercator' }) => {
+  const navigate = useNavigate();
   const nodeRef = useRef(null);
   const mapRef = useRef(null);
   const dataRef = useRef([]);
@@ -205,6 +208,13 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
         map.on('click', 'points', (e) => {
           const f = e.features[0];
           popup.setLngLat(f.geometry.coordinates.slice()).setHTML(popupHTML(f.properties)).addTo(map);
+          // In-guide links navigate via the router (no full reload).
+          const guide = popup.getElement()?.querySelector('[data-guide]');
+          if (guide) guide.addEventListener('click', (ev) => {
+            ev.preventDefault();
+            popup.remove();
+            navigate(guide.getAttribute('href'));
+          });
         });
         ['clusters', 'points'].forEach((layer) => {
           map.on('mouseenter', layer, () => { map.getCanvas().style.cursor = 'pointer'; });
