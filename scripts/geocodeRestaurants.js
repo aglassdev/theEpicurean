@@ -140,17 +140,23 @@ if (fs.existsSync(OUT_PATH)) {
   } catch { /* start fresh */ }
 }
 
-// Only rows we haven't successfully placed yet (retry previous misses too).
+// Retry misses; also RE-REFINE prior city-level (approximate) results when a
+// better geocoder is available (a LocationIQ key, or REFINE=true) so they can be
+// upgraded from city-centre to a precise location. Precise rows are left alone.
+const REFINE = !!LOCATIONIQ_KEY || String(ENV.REFINE || '').toLowerCase() === 'true';
 const pending = records.filter((r) => {
   const prev = done.get(keyOf(r));
-  return !prev || prev.lng == null;
+  return !prev || prev.lng == null || (REFINE && prev.ap);
 });
 
+const placedSoFar = [...done.values()].filter((r) => r.lng != null);
+const approxSoFar = placedSoFar.filter((r) => r.ap).length;
 console.log(`\nThe Epicurean · Geocoding`);
 console.log(`  provider       ${PROVIDER}${PROVIDER === 'nominatim' ? '  (no key — set LOCATIONIQ_KEY in .env for faster, more accurate results)' : ''}`);
+console.log(`  US addresses   + US Census geocoder (free, rooftop-accurate)`);
 console.log(`  total rows     ${records.length}`);
-console.log(`  already placed ${[...done.values()].filter((r) => r.lng != null).length}`);
-console.log(`  to geocode     ${pending.length}`);
+console.log(`  already placed ${placedSoFar.length}  (${placedSoFar.length - approxSoFar} precise, ${approxSoFar} approximate)`);
+console.log(`  to geocode     ${pending.length}${REFINE ? '  · re-refining approximate + retrying misses' : ''}`);
 console.log(`  pace           ~${(1000 / MIN_INTERVAL).toFixed(1)} req/s  (~${Math.round(pending.length * MIN_INTERVAL / 1000 / 60)} min)\n`);
 if (!pending.length) { console.log('✓ Nothing to do — all rows geocoded.'); process.exit(0); }
 if (PROVIDER === 'nominatim') {
@@ -217,6 +223,18 @@ async function viaPhoton(q) {
   return { lng: +(+lng).toFixed(6), lat: +(+lat).toFixed(6), acc: 'photon' };
 }
 
+// US Census Bureau geocoder — free, keyless, authoritative for US street
+// addresses (rooftop-level). Only useful for US, so gated on isUS.
+async function viaCensus(q) {
+  const p = new URLSearchParams({ address: q, benchmark: 'Public_AR_Current', format: 'json' });
+  const d = await fetchJSON(`https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?${p}`, { Accept: 'application/json' });
+  const m = d && d.result && d.result.addressMatches && d.result.addressMatches[0];
+  if (!m || !m.coordinates) return null;
+  const lng = m.coordinates.x, lat = m.coordinates.y;
+  if (Number.isNaN(lng) || Number.isNaN(lat)) return null;
+  return { lng: +lng.toFixed(6), lat: +lat.toFixed(6), acc: 'census' };
+}
+
 // Strip unit/floor tokens and postal codes so the geocoder can match the street.
 function cleanAddress(a) {
   if (!a) return '';
@@ -233,17 +251,25 @@ function cleanAddress(a) {
 // → city-level fallback (flagged approximate). Stops at the first hit.
 async function geocodeOne(rec) {
   const iso = ISO[rec.co];
+  const isUS = iso === 'us';
   const full = (rec.a && rec.a.length > 4) ? rec.a : [rec.n, rec.c, rec.co].filter(Boolean).join(', ');
   const cleaned = cleanAddress(rec.a);
   const cityQ = [rec.c, rec.co].filter(Boolean).join(', ') || rec.co;
   const prev = done.get(keyOf(rec));
+  // A prior miss (no coords) skips the precise primary try; a prior *approximate*
+  // (city-level) result is worth re-attempting precisely, so it does not skip.
   const priorMiss = prev && prev.lng == null;
 
   let r;
   // Fresh row: try the precise query. Known miss: skip it (it already failed).
   if (!priorMiss) { r = await viaPrimary(full, iso); if (r) return { ...rec, ...r }; }
+  // US: Census is authoritative and rooftop-accurate for street addresses.
+  if (isUS) { r = await viaCensus(full); if (r) return { ...rec, ...r }; }
   r = await viaPrimary(full, null); if (r) return { ...rec, ...r };
-  if (cleaned && cleaned !== full) { r = await viaPrimary(cleaned, iso); if (r) return { ...rec, ...r }; }
+  if (cleaned && cleaned !== full) {
+    r = await viaPrimary(cleaned, iso); if (r) return { ...rec, ...r };
+    if (isUS) { r = await viaCensus(cleaned); if (r) return { ...rec, ...r }; }
+  }
   r = await viaPhoton(full); if (r) return { ...rec, ...r };
   if (cityQ) {
     r = (await viaPrimary(cityQ, iso)) || (await viaPhoton(cityQ));
