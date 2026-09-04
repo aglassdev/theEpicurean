@@ -1,0 +1,25 @@
+{
+  "restaurantName": "Oncle Lee Kăo",
+  "address": "112 rue McGill, Montréal, H2Y 2E5, Canada",
+  "cuisine": "Chinese",
+  "priceRange": "$$$",
+  "phoneNumber": "+15143031100",
+  "website": "https://www.restaurantonclelee.com/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Counter dining"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "From the team behind Oncle Lee, this restaurant with subdued lighting from red lanterns focuses on grilled dishes (kăo is Mandarin for \"grill\"): lamb skewers with cumin and shishito peppers, spicy or grilled beef tataki, five-spice duck, sea bream with Sichuan sauce, octopus with lap cheong. Served with wok-fried vegetables and glazed with soy sauce and maple syrup, the grilled Cornish hen is a particular treat. Generous, fragrant cuisine perfect for sharing in this lively atmosphere.",
+  "pageTitle": "Oncle Lee Kăo"
+}

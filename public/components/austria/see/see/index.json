@@ -1,14 +1,17 @@
 {
   "title": "See",
-  "country": "austria",
-  "region": "see",
-  "city": "see",
   "restaurants": [
     {
       "name": "Hermann's Jagdstube",
       "cuisine": "Regional Cuisine, Beef",
       "price": "€€€€",
       "path": "/austria/see/see/hermanns-jagdstube"
+    },
+    {
+      "name": "HERMANNS KITCHEN",
+      "cuisine": "Regional Cuisine",
+      "price": "$$$",
+      "path": "/austria/see/see/HermannsKitchen"
     }
   ]
 }

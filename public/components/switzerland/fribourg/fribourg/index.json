@@ -1,8 +1,5 @@
 {
   "title": "Fribourg",
-  "country": "switzerland",
-  "region": "fribourg",
-  "city": "fribourg",
   "restaurants": [
     {
       "name": "Des Trois Tours",
@@ -27,6 +24,12 @@
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€",
       "path": "/switzerland/fribourg/fribourg/restaurant-htel-de-ville"
+    },
+    {
+      "name": "Au Chasseur - Derrière",
+      "cuisine": "Seasonal Cuisine",
+      "price": "$$$",
+      "path": "/switzerland/fribourg/fribourg/AuChasseurDerrire"
     }
   ]
 }

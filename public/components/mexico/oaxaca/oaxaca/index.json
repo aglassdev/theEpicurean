@@ -1,8 +1,5 @@
 {
   "title": "Oaxaca",
-  "country": "mexico",
-  "region": "oaxaca",
-  "city": "oaxaca",
   "restaurants": [
     {
       "name": "Adamá",
@@ -129,6 +126,12 @@
       "cuisine": "Mexican, Regional Cuisine",
       "price": "$$",
       "path": "/mexico/oaxaca/oaxaca/zandunga"
+    },
+    {
+      "name": "Aguamarga",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/oaxaca/oaxaca/Aguamarga"
     }
   ]
 }

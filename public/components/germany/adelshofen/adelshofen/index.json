@@ -1,14 +1,17 @@
 {
   "title": "Adelshofen",
-  "country": "germany",
-  "region": "adelshofen",
-  "city": "adelshofen",
   "restaurants": [
     {
       "name": "Zum Falken",
       "cuisine": "Country cooking, Farm to table",
       "price": "€€",
       "path": "/germany/adelshofen/adelshofen/zum-falken"
+    },
+    {
+      "name": "Landhaus Zum Falken",
+      "cuisine": "Country cooking",
+      "price": "$$",
+      "path": "/germany/adelshofen/adelshofen/LandhausZumFalken"
     }
   ]
 }

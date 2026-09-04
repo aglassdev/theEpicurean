@@ -1,8 +1,5 @@
 {
   "title": "Sheffield",
-  "country": "uk",
-  "region": "sheffield",
-  "city": "sheffield",
   "restaurants": [
     {
       "name": "JÖRO",
@@ -21,6 +18,12 @@
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/sheffield/sheffield/tom-lawson-at-the-psalter"
+    },
+    {
+      "name": "Restaurant ELM",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/uk/sheffield/sheffield/RestaurantElm"
     }
   ]
 }

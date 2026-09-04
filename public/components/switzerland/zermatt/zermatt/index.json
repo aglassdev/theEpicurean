@@ -1,8 +1,5 @@
 {
   "title": "Zermatt",
-  "country": "switzerland",
-  "region": "zermatt",
-  "city": "zermatt",
   "restaurants": [
     {
       "name": "After Seven",
@@ -99,6 +96,18 @@
       "cuisine": "Swiss, International",
       "price": "€",
       "path": "/switzerland/zermatt/zermatt/zum-see"
+    },
+    {
+      "name": "ad lib",
+      "cuisine": "Seasonal Cuisine",
+      "price": "$$$$",
+      "path": "/switzerland/zermatt/zermatt/AdLib"
+    },
+    {
+      "name": "Chez Vroney",
+      "cuisine": "",
+      "price": "",
+      "path": "/switzerland/zermatt/zermatt/ChezVroney"
     }
   ]
 }

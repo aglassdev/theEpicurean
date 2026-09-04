@@ -1,8 +1,5 @@
 {
   "title": "Krakw",
-  "country": "poland",
-  "region": "krakw",
-  "city": "krakw",
   "restaurants": [
     {
       "name": "Amarylis",
@@ -141,6 +138,30 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
       "path": "/poland/krakw/krakw/vamos"
+    },
+    {
+      "name": "Nat Bistro",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/poland/krakw/krakw/NatBistro"
+    },
+    {
+      "name": "Artesse by Juanlu Fernández",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/poland/krakw/krakw/ArtesseByJuanluFernndez"
+    },
+    {
+      "name": "Huma",
+      "cuisine": "Meats and Grills",
+      "price": "$$$",
+      "path": "/poland/krakw/krakw/Huma"
+    },
+    {
+      "name": "Stradomska 12",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/krakw/krakw/Stradomska12"
     }
   ]
 }

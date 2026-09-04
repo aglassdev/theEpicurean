@@ -1,8 +1,5 @@
 {
   "title": "York",
-  "country": "uk",
-  "region": "york",
-  "city": "york",
   "restaurants": [
     {
       "name": "Arras",
@@ -51,6 +48,12 @@
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/york/york/the-star-inn-the-city"
+    },
+    {
+      "name": "INOS",
+      "cuisine": "Greek",
+      "price": "$$",
+      "path": "/uk/york/york/Inos"
     }
   ]
 }

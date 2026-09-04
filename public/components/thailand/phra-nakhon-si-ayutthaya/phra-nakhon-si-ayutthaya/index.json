@@ -1,8 +1,5 @@
 {
   "title": "Phra Nakhon Si Ayutthaya",
-  "country": "thailand",
-  "region": "phra-nakhon-si-ayutthaya",
-  "city": "phra-nakhon-si-ayutthaya",
   "restaurants": [
     {
       "name": "Angeum",
@@ -219,6 +216,12 @@
       "cuisine": "Thai",
       "price": "฿฿",
       "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/u-khao"
+    },
+    {
+      "name": "Rimsuan",
+      "cuisine": "Southern Thai",
+      "price": "$$",
+      "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/Rimsuan"
     }
   ]
 }

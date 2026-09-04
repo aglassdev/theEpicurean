@@ -1,8 +1,5 @@
 {
   "title": "Marbella",
-  "country": "spain",
-  "region": "marbella",
-  "city": "marbella",
   "restaurants": [
     {
       "name": "Areia",
@@ -75,6 +72,12 @@
       "cuisine": "Japanese",
       "price": "€€€",
       "path": "/spain/marbella/marbella/ta-kumi"
+    },
+    {
+      "name": "Purosushi",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/spain/marbella/marbella/Purosushi"
     }
   ]
 }

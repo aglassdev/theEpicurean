@@ -1,0 +1,34 @@
+{
+  "restaurantName": "The Seafood Ristorante",
+  "address": "Bruce Embankment, The Scores, St Andrews, KY16 9AB, United Kingdom",
+  "cuisine": "Seafood",
+  "priceRange": "$$$$",
+  "phoneNumber": "+441334479475",
+  "website": "https://www.theseafoodrestaurant.com",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Great view"
+    },
+    {
+      "name": "Pets allowed only in outdoor dining areas (patio/terrace)"
+    },
+    {
+      "name": "Terrace"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "The simple combination of great quality seafood and commanding bay views is a sure-fire winner at this smart restaurant housed in a striking glass cube. Perched over St Andrews Bay, locally landed seafood is very much at the heart of the menu, which has a subtle Italian slant. The kitchen team know not to mess around with super ingredients like day boat halibut, allowing the natural flavours to come to the fore. The friendly service is of a similarly high standard.",
+  "pageTitle": "The Seafood Ristorante"
+}

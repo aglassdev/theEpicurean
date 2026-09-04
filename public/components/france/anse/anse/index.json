@@ -1,14 +1,17 @@
 {
   "title": "Anse",
-  "country": "france",
-  "region": "anse",
-  "city": "anse",
   "restaurants": [
     {
       "name": "Au Colombier",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/anse/anse/au-colombier"
+    },
+    {
+      "name": "Café Terroir Chez Saint-Cyr",
+      "cuisine": "Country cooking",
+      "price": "$$",
+      "path": "/france/anse/anse/CafTerroirChezSaintcyr"
     }
   ]
 }

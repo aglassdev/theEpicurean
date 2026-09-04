@@ -1,0 +1,59 @@
+{
+  "title": "San Francisco",
+  "restaurants": [
+    {
+      "name": "Restaurant Naides",
+      "cuisine": "Filipino",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/RestaurantNaides"
+    },
+    {
+      "name": "Wolfsbane",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/Wolfsbane"
+    },
+    {
+      "name": "Dumpling Home",
+      "cuisine": "Chinese",
+      "price": "$",
+      "path": "/usa/california/san-francisco/DumplingHome"
+    },
+    {
+      "name": "Kitchen Istanbul",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/KitchenIstanbul"
+    },
+    {
+      "name": "Dingles Public House",
+      "cuisine": "Gastropub",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/DinglesPublicHouse"
+    },
+    {
+      "name": "La Cigale",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/LaCigale"
+    },
+    {
+      "name": "Maria Isabel",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/MariaIsabel"
+    },
+    {
+      "name": "Minnie Bell's Soul Movement",
+      "cuisine": "Southern",
+      "price": "$",
+      "path": "/usa/california/san-francisco/MinnieBellsSoulMovement"
+    },
+    {
+      "name": "Via Aurelia",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/ViaAurelia"
+    }
+  ]
+}

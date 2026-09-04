@@ -1,8 +1,5 @@
 {
   "title": "Coimbra",
-  "country": "portugal",
-  "region": "coimbra",
-  "city": "coimbra",
   "restaurants": [
     {
       "name": "MA",
@@ -27,6 +24,12 @@
       "cuisine": "Portuguese",
       "price": "€",
       "path": "/portugal/coimbra/coimbra/solar-do-bacalhau"
+    },
+    {
+      "name": "Refeitrº",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/coimbra/coimbra/Refeitr"
     }
   ]
 }

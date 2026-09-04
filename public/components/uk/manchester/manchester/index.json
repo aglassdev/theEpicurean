@@ -1,8 +1,5 @@
 {
   "title": "Manchester",
-  "country": "uk",
-  "region": "manchester",
-  "city": "manchester",
   "restaurants": [
     {
       "name": "Adam Reid at The French",
@@ -93,6 +90,24 @@
       "cuisine": "Traditional British",
       "price": "££",
       "path": "/uk/manchester/manchester/winsome"
+    },
+    {
+      "name": "10 Tib Lane",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/uk/manchester/manchester/10TibLane"
+    },
+    {
+      "name": "Sampa",
+      "cuisine": "Brazilian",
+      "price": "$$$",
+      "path": "/uk/manchester/manchester/Sampa"
+    },
+    {
+      "name": "posie",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/uk/manchester/manchester/Posie"
     }
   ]
 }

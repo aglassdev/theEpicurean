@@ -1,8 +1,5 @@
 {
   "title": "Eltville Am Rhein",
-  "country": "germany",
-  "region": "eltville-am-rhein",
-  "city": "eltville-am-rhein",
   "restaurants": [
     {
       "name": "Adler Wirtschaft",
@@ -33,6 +30,18 @@
       "cuisine": "Seasonal Cuisine, Farm to table",
       "price": "€€",
       "path": "/germany/eltville-am-rhein/eltville-am-rhein/zum-krug"
+    },
+    {
+      "name": "Ente Wiesbaden - Pfortenhaus Kloster Eberbach",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/germany/eltville-am-rhein/eltville-am-rhein/EnteWiesbadenPfortenhausKlosterEberbach"
+    },
+    {
+      "name": "Kronenschlösschen - Bistro",
+      "cuisine": "Classic Cuisine",
+      "price": "$$",
+      "path": "/germany/eltville-am-rhein/eltville-am-rhein/KronenschlsschenBistro"
     }
   ]
 }

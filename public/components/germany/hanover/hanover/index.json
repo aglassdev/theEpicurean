@@ -1,8 +1,5 @@
 {
   "title": "Hanover",
-  "country": "germany",
-  "region": "hanover",
-  "city": "hanover",
   "restaurants": [
     {
       "name": "Beckers",
@@ -45,6 +42,18 @@
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
       "path": "/germany/hanover/hanover/votum"
+    },
+    {
+      "name": "EssKultur",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/germany/hanover/hanover/Esskultur"
+    },
+    {
+      "name": "Rüpel",
+      "cuisine": "Vegan",
+      "price": "$$$",
+      "path": "/germany/hanover/hanover/Rpel"
     }
   ]
 }

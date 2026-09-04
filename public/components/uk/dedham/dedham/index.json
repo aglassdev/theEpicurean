@@ -1,8 +1,5 @@
 {
   "title": "Dedham",
-  "country": "uk",
-  "region": "dedham",
-  "city": "dedham",
   "restaurants": [
     {
       "name": "Sun Inn",
@@ -15,6 +12,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "£££",
       "path": "/uk/dedham/dedham/talbooth"
+    },
+    {
+      "name": "The Sun Inn",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/uk/dedham/dedham/TheSunInn"
     }
   ]
 }

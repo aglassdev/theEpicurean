@@ -1,14 +1,17 @@
 {
   "title": "Leiria",
-  "country": "portugal",
-  "region": "leiria",
-  "city": "leiria",
   "restaurants": [
     {
       "name": "Casinha Velha",
       "cuisine": "Portuguese",
       "price": "€€",
       "path": "/portugal/leiria/leiria/casinha-velha"
+    },
+    {
+      "name": "Mesa15",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/portugal/leiria/leiria/Mesa15"
     }
   ]
 }

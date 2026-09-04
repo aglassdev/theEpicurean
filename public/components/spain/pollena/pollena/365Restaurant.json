@@ -1,0 +1,34 @@
+{
+  "restaurantName": "365 Restaurant",
+  "address": "Carretera Palma-Pollença, Pollença, 07460, Spain",
+  "cuisine": "Creative",
+  "priceRange": "$$$",
+  "phoneNumber": "+34971535353",
+  "website": "https://www.sonbrull.com",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Garden or park"
+    },
+    {
+      "name": "Pets not allowed"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "A popular restaurant thanks to its creative cuisine showcased on several menus (including a vegetarian option) that champion sustainable ingredients produced on 365’s own farm estate (different oils, citrus fruit, vegetables, wine etc).",
+  "pageTitle": "365 Restaurant"
+}

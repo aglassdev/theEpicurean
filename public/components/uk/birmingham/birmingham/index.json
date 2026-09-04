@@ -1,8 +1,5 @@
 {
   "title": "Birmingham",
-  "country": "uk",
-  "region": "birmingham",
-  "city": "birmingham",
   "restaurants": [
     {
       "name": "670 Grams",
@@ -111,6 +108,12 @@
       "cuisine": "Italian",
       "price": "££",
       "path": "/uk/birmingham/birmingham/tropea"
+    },
+    {
+      "name": "Trillium",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/uk/birmingham/birmingham/Trillium"
     }
   ]
 }

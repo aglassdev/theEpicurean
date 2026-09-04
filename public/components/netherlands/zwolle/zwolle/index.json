@@ -1,8 +1,5 @@
 {
   "title": "Zwolle",
-  "country": "netherlands",
-  "region": "zwolle",
-  "city": "zwolle",
   "restaurants": [
     {
       "name": "Bar Senang",
@@ -63,6 +60,12 @@
       "cuisine": "Farm to table",
       "price": "€€€",
       "path": "/netherlands/zwolle/zwolle/t-pestengasthuys"
+    },
+    {
+      "name": "Restaurant L'église",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/netherlands/zwolle/zwolle/RestaurantLglise"
     }
   ]
 }

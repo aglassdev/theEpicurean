@@ -1,8 +1,5 @@
 {
   "title": "Buttrio",
-  "country": "italy",
-  "region": "buttrio",
-  "city": "buttrio",
   "restaurants": [
     {
       "name": "Enoteca di Buttrio",
@@ -15,6 +12,12 @@
       "cuisine": "Country cooking, Grills",
       "price": "€€",
       "path": "/italy/buttrio/buttrio/trattoria-al-parco"
+    },
+    {
+      "name": "Le Fucine Gourmet",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/italy/buttrio/buttrio/LeFucineGourmet"
     }
   ]
 }

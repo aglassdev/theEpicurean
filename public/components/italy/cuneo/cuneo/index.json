@@ -1,8 +1,5 @@
 {
   "title": "Cuneo",
-  "country": "italy",
-  "region": "cuneo",
-  "city": "cuneo",
   "restaurants": [
     {
       "name": "4 Ciance",
@@ -33,6 +30,12 @@
       "cuisine": "Country cooking",
       "price": "€€",
       "path": "/italy/cuneo/cuneo/osteria-vecchio-borgo"
+    },
+    {
+      "name": "Q.B. bistró",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/italy/cuneo/cuneo/QbBistr"
     }
   ]
 }

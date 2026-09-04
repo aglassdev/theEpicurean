@@ -1,8 +1,5 @@
 {
   "title": "Cologne",
-  "country": "germany",
-  "region": "cologne",
-  "city": "cologne",
   "restaurants": [
     {
       "name": "ACHT",
@@ -183,6 +180,18 @@
       "cuisine": "Classic Cuisine, Farm to table",
       "price": "€€€",
       "path": "/germany/cologne/cologne/zur-tant"
+    },
+    {
+      "name": "Kluth",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/germany/cologne/cologne/Kluth"
+    },
+    {
+      "name": "Yu*lia Mezze Bar",
+      "cuisine": "International",
+      "price": "$$",
+      "path": "/germany/cologne/cologne/YuliaMezzeBar"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Tavira",
-  "country": "portugal",
-  "region": "tavira",
-  "city": "tavira",
   "restaurants": [
     {
       "name": "A Ver Tavira",
@@ -15,6 +12,12 @@
       "cuisine": "Modern Cuisine, Traditional Cuisine",
       "price": "€€€",
       "path": "/portugal/tavira/tavira/mesa"
+    },
+    {
+      "name": "Mesa Farta",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/tavira/tavira/MesaFarta"
     }
   ]
 }

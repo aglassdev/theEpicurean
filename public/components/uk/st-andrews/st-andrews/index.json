@@ -1,8 +1,5 @@
 {
   "title": "St Andrews",
-  "country": "uk",
-  "region": "st-andrews",
-  "city": "st-andrews",
   "restaurants": [
     {
       "name": "Haar",
@@ -21,6 +18,12 @@
       "cuisine": "Seafood",
       "price": "££££",
       "path": "/uk/st-andrews/st-andrews/seafood-ristorante"
+    },
+    {
+      "name": "The Seafood Ristorante",
+      "cuisine": "Seafood",
+      "price": "$$$$",
+      "path": "/uk/st-andrews/st-andrews/TheSeafoodRistorante"
     }
   ]
 }

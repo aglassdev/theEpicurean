@@ -1,0 +1,31 @@
+{
+  "restaurantName": "Sails",
+  "address": "103-113 Westhaven Drive, Saint Marys Bay, Auckland, 1011, New Zealand",
+  "cuisine": "Seafood",
+  "priceRange": "$$",
+  "phoneNumber": "+6493789890",
+  "website": "https://sailsrestaurant.co.nz/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Great view"
+    },
+    {
+      "name": "Interesting wine list"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Now run by the third generation, this family business has been celebrated for its quality cooking and warm hospitality since 1991. Panoramic views of Westhaven Marina and Auckland Harbour Bridge are visual cues for the oceanic theme that permeates its menu. Regulars find comfort in the freshest seafood prepared consistently well by the kitchen. Be sure to check out the wine list: it includes some great Kiwi choices and rare vintages.",
+  "pageTitle": "Sails"
+}

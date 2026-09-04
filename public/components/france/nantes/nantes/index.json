@@ -1,8 +1,5 @@
 {
   "title": "Nantes",
-  "country": "france",
-  "region": "nantes",
-  "city": "nantes",
   "restaurants": [
     {
       "name": "Bairoz",
@@ -171,6 +168,12 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/france/nantes/nantes/vacarme"
+    },
+    {
+      "name": "Gwaien",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/nantes/nantes/Gwaien"
     }
   ]
 }

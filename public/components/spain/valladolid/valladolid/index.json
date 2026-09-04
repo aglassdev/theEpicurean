@@ -1,8 +1,5 @@
 {
   "title": "Valladolid",
-  "country": "spain",
-  "region": "valladolid",
-  "city": "valladolid",
   "restaurants": [
     {
       "name": "5 Gustos",
@@ -57,6 +54,12 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/valladolid/valladolid/villa-paramesa"
+    },
+    {
+      "name": "Azul Mediterráneo",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/spain/valladolid/valladolid/AzulMediterrneo"
     }
   ]
 }

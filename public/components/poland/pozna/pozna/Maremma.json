@@ -1,0 +1,25 @@
+{
+  "restaurantName": "Maremma",
+  "address": "ul. Wujka 9, Poznań, 61-581, Poland",
+  "cuisine": "Italian",
+  "priceRange": "$$",
+  "phoneNumber": "+48789809070",
+  "website": "https://maremma.pl/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Interesting wine list"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Stepping into this smartly dressed restaurant is like being transported directly to Italy. The Polish owners also have a farm in Tuscany and their true understanding of Italian cuisine is clear to see across dishes that are simple, ingredient-led and bursting with flavour – be sure to try the homemade pasta. The premises also operate as a wine shop, so it’s no surprise that the list is impressive, and it’s accompanied by caring, knowledgeable service from the sommelier.",
+  "pageTitle": "Maremma"
+}

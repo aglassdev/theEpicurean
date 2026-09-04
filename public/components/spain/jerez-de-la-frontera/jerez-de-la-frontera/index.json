@@ -1,8 +1,5 @@
 {
   "title": "Jerez De La Frontera",
-  "country": "spain",
-  "region": "jerez-de-la-frontera",
-  "city": "jerez-de-la-frontera",
   "restaurants": [
     {
       "name": "A Mar",
@@ -45,6 +42,12 @@
       "cuisine": "Japanese",
       "price": "€€€",
       "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/tsuro"
+    },
+    {
+      "name": "Bina Bar",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/BinaBar"
     }
   ]
 }

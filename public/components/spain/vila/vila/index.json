@@ -1,8 +1,5 @@
 {
   "title": "Vila",
-  "country": "spain",
-  "region": "vila",
-  "city": "vila",
   "restaurants": [
     {
       "name": "Barro",
@@ -21,6 +18,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/spain/vila/vila/el-almacn"
+    },
+    {
+      "name": "Surco",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/vila/vila/Surco"
     }
   ]
 }

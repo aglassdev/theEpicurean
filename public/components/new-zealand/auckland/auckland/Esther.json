@@ -1,0 +1,25 @@
+{
+  "restaurantName": "Esther",
+  "address": "QT Auckland, 4 Viaduct Harbour Avenue, Auckland Central, Auckland, 1010, New Zealand",
+  "cuisine": "Mediterranean Cuisine",
+  "priceRange": "$$$",
+  "phoneNumber": "+6493799123",
+  "website": "https://www.estherrestaurant.com",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "This lofty restaurant boasts a patio and bar, plus an open kitchen anchored by a striking pizza oven. On the menu, there are about 20 Mediterranean-inspired items crafted from locally sourced produce. Spectacle and drama make the signature beef tartare an unforgettable dish – mixed tableside, the ground grass-fed eye fillet is silky textured and perfectly seasoned. Served piping hot, the puff bread creates another not-to-be-missed moment.",
+  "pageTitle": "Esther"
+}

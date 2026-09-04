@@ -1,8 +1,5 @@
 {
   "title": "Aveiro",
-  "country": "portugal",
-  "region": "aveiro",
-  "city": "aveiro",
   "restaurants": [
     {
       "name": "Prosa",
@@ -15,6 +12,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/portugal/aveiro/aveiro/salpoente"
+    },
+    {
+      "name": "Mercantel",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/aveiro/aveiro/Mercantel"
     }
   ]
 }

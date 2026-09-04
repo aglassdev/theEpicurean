@@ -1,14 +1,17 @@
 {
   "title": "Pernes Les Fontaines",
-  "country": "france",
-  "region": "pernes-les-fontaines",
-  "city": "pernes-les-fontaines",
   "restaurants": [
     {
       "name": "Au Fil du Temps",
       "cuisine": "Farm to table",
       "price": "€€",
       "path": "/france/pernes-les-fontaines/pernes-les-fontaines/au-fil-du-temps"
+    },
+    {
+      "name": "L'Estevão",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/pernes-les-fontaines/pernes-les-fontaines/Lestevo"
     }
   ]
 }

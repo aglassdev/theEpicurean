@@ -1,8 +1,5 @@
 {
   "title": "Les Sables Dolonne",
-  "country": "france",
-  "region": "les-sables-dolonne",
-  "city": "les-sables-dolonne",
   "restaurants": [
     {
       "name": "Alice, le bistrot - Le Manoir de la Mortière",
@@ -69,6 +66,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/les-sables-dolonne/les-sables-dolonne/lestran"
+    },
+    {
+      "name": "GAIA - Manoir de la Mortière",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/les-sables-dolonne/les-sables-dolonne/GaiaManoirDeLaMortire"
     }
   ]
 }

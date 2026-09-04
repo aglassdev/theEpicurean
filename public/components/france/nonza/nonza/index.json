@@ -1,8 +1,5 @@
 {
   "title": "Nonza",
-  "country": "france",
-  "region": "nonza",
-  "city": "nonza",
   "restaurants": [
     {
       "name": "Boccafine",
@@ -15,6 +12,12 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
       "path": "/france/nonza/nonza/la-sassa"
+    },
+    {
+      "name": "Da Noi",
+      "cuisine": "Corsican",
+      "price": "$$",
+      "path": "/france/nonza/nonza/DaNoi"
     }
   ]
 }

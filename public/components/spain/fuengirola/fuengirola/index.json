@@ -1,8 +1,5 @@
 {
   "title": "Fuengirola",
-  "country": "spain",
-  "region": "fuengirola",
-  "city": "fuengirola",
   "restaurants": [
     {
       "name": "Charolais",
@@ -21,6 +18,12 @@
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
       "path": "/spain/fuengirola/fuengirola/sollo"
+    },
+    {
+      "name": "Lila",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/spain/fuengirola/fuengirola/Lila"
     }
   ]
 }

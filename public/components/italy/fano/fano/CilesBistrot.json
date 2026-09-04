@@ -1,0 +1,25 @@
+{
+  "restaurantName": "Cile's Bistrot",
+  "address": "viale Cesare Battisti 37/A, Fano, 61032, Italy",
+  "cuisine": "Seafood",
+  "priceRange": "$$",
+  "phoneNumber": "+390721803390",
+  "website": "https://www.ristoranteciles.it",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Bib Gourmand",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "A restaurant not to be missed if you are in the area. The moment you walk through the door, the rooms overflowing with decorations will surprise you, but then it will be time to sample the cuisine. The chef puts his own personal stamp on some of the classics of local and national seafood tradition. One dish after another, you won’t ever want to stop eating!",
+  "pageTitle": "Cile's Bistrot"
+}

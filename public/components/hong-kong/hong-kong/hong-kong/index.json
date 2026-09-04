@@ -1,0 +1,29 @@
+{
+  "title": "Hong Kong",
+  "restaurants": [
+    {
+      "name": "China Tang",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/hong-kong/hong-kong/hong-kong/ChinaTang"
+    },
+    {
+      "name": "Ju Xing Home",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/hong-kong/hong-kong/hong-kong/JuXingHome"
+    },
+    {
+      "name": "Prof Chan's (Western District)",
+      "cuisine": "Hunanese",
+      "price": "$$",
+      "path": "/hong-kong/hong-kong/hong-kong/ProfChansWesternDistrict"
+    },
+    {
+      "name": "Tak Kee Chiu Chou Restaurant",
+      "cuisine": "Chiu Chow",
+      "price": "$$",
+      "path": "/hong-kong/hong-kong/hong-kong/TakKeeChiuChouRestaurant"
+    }
+  ]
+}

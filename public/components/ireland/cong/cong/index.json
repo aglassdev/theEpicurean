@@ -1,14 +1,17 @@
 {
   "title": "Cong",
-  "country": "ireland",
-  "region": "cong",
-  "city": "cong",
   "restaurants": [
     {
       "name": "George V",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
       "path": "/ireland/cong/cong/george-v"
+    },
+    {
+      "name": "George V Restaurant",
+      "cuisine": "Classic Cuisine",
+      "price": "$$$$",
+      "path": "/ireland/cong/cong/GeorgeVRestaurant"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Shanghai",
-  "country": "china",
-  "region": "shanghai",
-  "city": "shanghai",
   "restaurants": [
     {
       "name": "102 House",
@@ -885,6 +882,18 @@
       "cuisine": "Shanghainese",
       "price": "¥¥¥",
       "path": "/china/shanghai/shanghai/zhou-she-minhang"
+    },
+    {
+      "name": "Mr and Mrs Bund",
+      "cuisine": "",
+      "price": "",
+      "path": "/china/shanghai/shanghai/MrAndMrsBund"
+    },
+    {
+      "name": "Ultraviolet by Paul Pairet",
+      "cuisine": "",
+      "price": "",
+      "path": "/china/shanghai/shanghai/UltravioletByPaulPairet"
     }
   ]
 }

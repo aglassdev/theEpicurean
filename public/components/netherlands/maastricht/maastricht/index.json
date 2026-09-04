@@ -1,8 +1,5 @@
 {
   "title": "Maastricht",
-  "country": "netherlands",
-  "region": "maastricht",
-  "city": "maastricht",
   "restaurants": [
     {
       "name": "Au Coin des Bons Enfants",
@@ -111,6 +108,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/netherlands/maastricht/maastricht/wy"
+    },
+    {
+      "name": "Restaurant Château Neercanne",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/netherlands/maastricht/maastricht/RestaurantChteauNeercanne"
     }
   ]
 }

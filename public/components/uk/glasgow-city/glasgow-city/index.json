@@ -1,8 +1,5 @@
 {
   "title": "Glasgow City",
-  "country": "uk",
-  "region": "glasgow-city",
-  "city": "glasgow-city",
   "restaurants": [
     {
       "name": "Brett",
@@ -99,6 +96,12 @@
       "cuisine": "Modern British",
       "price": "££££",
       "path": "/uk/glasgow-city/glasgow-city/unalome-by-graeme-cheevers"
+    },
+    {
+      "name": "Eleven Fifty Five",
+      "cuisine": "Modern British",
+      "price": "$$$",
+      "path": "/uk/glasgow-city/glasgow-city/ElevenFiftyFive"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Cassis",
-  "country": "france",
-  "region": "cassis",
-  "city": "cassis",
   "restaurants": [
     {
       "name": "La Brasserie du Corton",
@@ -21,6 +18,12 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
       "path": "/france/cassis/cassis/les-belles-canailles"
+    },
+    {
+      "name": "La Presqu'île",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/france/cassis/cassis/LaPresqule"
     }
   ]
 }

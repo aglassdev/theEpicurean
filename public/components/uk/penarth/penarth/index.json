@@ -1,14 +1,17 @@
 {
   "title": "Penarth",
-  "country": "uk",
-  "region": "penarth",
-  "city": "penarth",
   "restaurants": [
     {
       "name": "Touring Club",
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/penarth/penarth/touring-club"
+    },
+    {
+      "name": "Home",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/uk/penarth/penarth/Home"
     }
   ]
 }

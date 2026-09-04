@@ -1,8 +1,5 @@
 {
   "title": "Amsterdam",
-  "country": "netherlands",
-  "region": "amsterdam",
-  "city": "amsterdam",
   "restaurants": [
     {
       "name": "A-Fusion",
@@ -459,6 +456,24 @@
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/netherlands/amsterdam/amsterdam/zoldering"
+    },
+    {
+      "name": "Restaurant Showw",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/netherlands/amsterdam/amsterdam/RestaurantShoww"
+    },
+    {
+      "name": "Brasserie Marie",
+      "cuisine": "Classic Cuisine",
+      "price": "$$",
+      "path": "/netherlands/amsterdam/amsterdam/BrasserieMarie"
+    },
+    {
+      "name": "The Supper Club",
+      "cuisine": "",
+      "price": "",
+      "path": "/netherlands/amsterdam/amsterdam/TheSupperClub"
     }
   ]
 }

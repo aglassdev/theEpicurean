@@ -98,7 +98,7 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
   const nodeRef = useRef(null);
   const mapRef = useRef(null);
   const dataRef = useRef([]);
-  const homeRef = useRef({ center: [8, 25], zoom: fullPage ? 1.45 : 1.05 });
+  const homeRef = useRef({ center: [10, 28], zoom: fullPage ? 1.85 : 1.05 });
   const [status, setStatus] = useState('loading'); // loading | ready | no-data | error
   const [total, setTotal] = useState(0);
   const [visible, setVisible] = useState(0);

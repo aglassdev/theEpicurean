@@ -1,14 +1,17 @@
 {
   "title": "Magdeburg",
-  "country": "germany",
-  "region": "magdeburg",
-  "city": "magdeburg",
   "restaurants": [
     {
       "name": "Landhaus Hadrys",
       "cuisine": "Country cooking, Mediterranean Cuisine",
       "price": "€€",
       "path": "/germany/magdeburg/magdeburg/landhaus-hadrys"
+    },
+    {
+      "name": "The Bird",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/germany/magdeburg/magdeburg/TheBird"
     }
   ]
 }

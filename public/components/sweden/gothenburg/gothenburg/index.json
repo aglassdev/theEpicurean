@@ -1,8 +1,5 @@
 {
   "title": "Gothenburg",
-  "country": "sweden",
-  "region": "gothenburg",
-  "city": "gothenburg",
   "restaurants": [
     {
       "name": "28+",
@@ -99,6 +96,12 @@
       "cuisine": "Italian",
       "price": "€€",
       "path": "/sweden/gothenburg/gothenburg/trattoria-la-strega"
+    },
+    {
+      "name": "bhoga",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/sweden/gothenburg/gothenburg/Bhoga"
     }
   ]
 }

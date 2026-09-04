@@ -1,8 +1,5 @@
 {
   "title": "Palma",
-  "country": "spain",
-  "region": "palma",
-  "city": "palma",
   "restaurants": [
     {
       "name": "Adrián Quetglas",
@@ -105,6 +102,12 @@
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/spain/palma/palma/zaranda"
+    },
+    {
+      "name": "La Vieja by Jonay Hernández",
+      "cuisine": "Creative",
+      "price": "$$",
+      "path": "/spain/palma/palma/LaViejaByJonayHernndez"
     }
   ]
 }

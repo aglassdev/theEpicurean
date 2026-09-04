@@ -1,8 +1,5 @@
 {
   "title": "Ubon Ratchathani",
-  "country": "thailand",
-  "region": "ubon-ratchathani",
-  "city": "ubon-ratchathani",
   "restaurants": [
     {
       "name": "Agave",
@@ -75,6 +72,18 @@
       "cuisine": "Isan",
       "price": "฿฿",
       "path": "/thailand/ubon-ratchathani/ubon-ratchathani/view-mun"
+    },
+    {
+      "name": "Jae Nueang",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/JaeNueang"
+    },
+    {
+      "name": "Kor Lhai Toh",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/KorLhaiToh"
     }
   ]
 }

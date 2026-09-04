@@ -1,8 +1,5 @@
 {
   "title": "Loenen Aan De Vecht",
-  "country": "netherlands",
-  "region": "loenen-aan-de-vecht",
-  "city": "loenen-aan-de-vecht",
   "restaurants": [
     {
       "name": "'t Amsterdammertje",
@@ -15,6 +12,12 @@
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/netherlands/loenen-aan-de-vecht/loenen-aan-de-vecht/tante-koosje"
+    },
+    {
+      "name": "Bij Sidney",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/netherlands/loenen-aan-de-vecht/loenen-aan-de-vecht/BijSidney"
     }
   ]
 }

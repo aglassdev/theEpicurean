@@ -1,8 +1,5 @@
 {
   "title": "Rome",
-  "country": "italy",
-  "region": "rome",
-  "city": "rome",
   "restaurants": [
     {
       "name": "53 Untitled",
@@ -411,6 +408,42 @@
       "cuisine": "Innovative",
       "price": "€€€",
       "path": "/italy/rome/rome/zia"
+    },
+    {
+      "name": "Enoteca Cavour 313",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/italy/rome/rome/EnotecaCavour313"
+    },
+    {
+      "name": "Mamma Orso",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/italy/rome/rome/MammaOrso"
+    },
+    {
+      "name": "Nomos Ante",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/italy/rome/rome/NomosAnte"
+    },
+    {
+      "name": "Pirò",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/italy/rome/rome/Pir"
+    },
+    {
+      "name": "Taverna Trilussa",
+      "cuisine": "Roman",
+      "price": "$$$",
+      "path": "/italy/rome/rome/TavernaTrilussa"
+    },
+    {
+      "name": "Checchino Dal 1887",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/rome/rome/ChecchinoDal1887"
     }
   ]
 }

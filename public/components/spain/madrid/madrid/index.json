@@ -1,8 +1,5 @@
 {
   "title": "Madrid",
-  "country": "spain",
-  "region": "madrid",
-  "city": "madrid",
   "restaurants": [
     {
       "name": "99 sushi bar",
@@ -999,6 +996,66 @@
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
       "path": "/spain/madrid/madrid/zalacan"
+    },
+    {
+      "name": "Agarimo",
+      "cuisine": "Galician",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/Agarimo"
+    },
+    {
+      "name": "Fisgón",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/Fisgn"
+    },
+    {
+      "name": "GRANDUKE",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/Granduke"
+    },
+    {
+      "name": "Gianna Ristorante",
+      "cuisine": "Italian Contemporary",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/GiannaRistorante"
+    },
+    {
+      "name": "Goicolea",
+      "cuisine": "Basque",
+      "price": "$$$",
+      "path": "/spain/madrid/madrid/Goicolea"
+    },
+    {
+      "name": "Gurisa",
+      "cuisine": "Grills",
+      "price": "$$$",
+      "path": "/spain/madrid/madrid/Gurisa"
+    },
+    {
+      "name": "Nacha",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/Nacha"
+    },
+    {
+      "name": "Otoro Jukusei",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/spain/madrid/madrid/OtoroJukusei"
+    },
+    {
+      "name": "Qorte",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/spain/madrid/madrid/Qorte"
+    },
+    {
+      "name": "Quincé",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/Quinc"
     }
   ]
 }

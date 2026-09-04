@@ -1,8 +1,5 @@
 {
   "title": "San Pedro Garza Garca",
-  "country": "mexico",
-  "region": "san-pedro-garza-garca",
-  "city": "san-pedro-garza-garca",
   "restaurants": [
     {
       "name": "Fonda San Francisco",
@@ -21,6 +18,12 @@
       "cuisine": "Mexican",
       "price": "$$",
       "path": "/mexico/san-pedro-garza-garca/san-pedro-garza-garca/vernculo"
+    },
+    {
+      "name": "El Bambis Café",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/mexico/san-pedro-garza-garca/san-pedro-garza-garca/ElBambisCaf"
     }
   ]
 }

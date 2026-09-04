@@ -1,8 +1,5 @@
 {
   "title": "El Campello",
-  "country": "spain",
-  "region": "el-campello",
-  "city": "el-campello",
   "restaurants": [
     {
       "name": "Brel",
@@ -15,6 +12,12 @@
       "cuisine": "Traditional Cuisine, Grills",
       "price": "€€",
       "path": "/spain/el-campello/el-campello/la-vaquera-mediterrnea"
+    },
+    {
+      "name": "Borg, Raíces y Alas",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/spain/el-campello/el-campello/BorgRacesYAlas"
     }
   ]
 }

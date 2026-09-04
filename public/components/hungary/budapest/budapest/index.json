@@ -1,8 +1,5 @@
 {
   "title": "Budapest",
-  "country": "hungary",
-  "region": "budapest",
-  "city": "budapest",
   "restaurants": [
     {
       "name": "94' Konyha & Bar",
@@ -255,6 +252,30 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/hungary/budapest/budapest/zincenco-kitchen"
+    },
+    {
+      "name": "Costes Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/hungary/budapest/budapest/CostesRestaurant"
+    },
+    {
+      "name": "KOLLÁZS Brasserie & Bar",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/hungary/budapest/budapest/KollzsBrasserieBar"
+    },
+    {
+      "name": "MÁK by mizseijani",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/hungary/budapest/budapest/MkByMizseijani"
+    },
+    {
+      "name": "The Grundel",
+      "cuisine": "",
+      "price": "",
+      "path": "/hungary/budapest/budapest/TheGrundel"
     }
   ]
 }

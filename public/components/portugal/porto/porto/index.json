@@ -1,8 +1,5 @@
 {
   "title": "Porto",
-  "country": "portugal",
-  "region": "porto",
-  "city": "porto",
   "restaurants": [
     {
       "name": "Almeja",
@@ -147,6 +144,42 @@
       "cuisine": "Contemporary",
       "price": "€€€€",
       "path": "/portugal/porto/porto/vila-foz"
+    },
+    {
+      "name": "Atrevo",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/porto/porto/Atrevo"
+    },
+    {
+      "name": "Bistrô Severo",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/portugal/porto/porto/BistrSevero"
+    },
+    {
+      "name": "Camilo",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/portugal/porto/porto/Camilo"
+    },
+    {
+      "name": "Cozinha das Flores",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/portugal/porto/porto/CozinhaDasFlores"
+    },
+    {
+      "name": "Izakaya Japanese Cuisine",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/portugal/porto/porto/IzakayaJapaneseCuisine"
+    },
+    {
+      "name": "Liz",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/porto/porto/Liz"
     }
   ]
 }

@@ -1,14 +1,17 @@
 {
   "title": "Rivoli",
-  "country": "italy",
-  "region": "rivoli",
-  "city": "rivoli",
   "restaurants": [
     {
       "name": "Between",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/italy/rivoli/rivoli/between"
+    },
+    {
+      "name": "Combal Zero",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/rivoli/rivoli/CombalZero"
     }
   ]
 }

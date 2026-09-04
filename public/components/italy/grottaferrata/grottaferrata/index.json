@@ -1,14 +1,17 @@
 {
   "title": "Grottaferrata",
-  "country": "italy",
-  "region": "grottaferrata",
-  "city": "grottaferrata",
   "restaurants": [
     {
       "name": "Taverna dello Spuntino",
       "cuisine": "Cuisine from Lazio, Home Cooking",
       "price": "€€",
       "path": "/italy/grottaferrata/grottaferrata/taverna-dello-spuntino"
+    },
+    {
+      "name": "L'Acqua Bulle",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/italy/grottaferrata/grottaferrata/LacquaBulle"
     }
   ]
 }

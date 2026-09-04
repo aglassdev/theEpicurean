@@ -1,8 +1,5 @@
 {
   "title": "Doetinchem",
-  "country": "netherlands",
-  "region": "doetinchem",
-  "city": "doetinchem",
   "restaurants": [
     {
       "name": "LEV Foodbar",
@@ -27,6 +24,12 @@
       "cuisine": "Farm to table",
       "price": "€€",
       "path": "/netherlands/doetinchem/doetinchem/raedthuys"
+    },
+    {
+      "name": "LEV. FOOD & WINE BAR",
+      "cuisine": "Modern French",
+      "price": "$$",
+      "path": "/netherlands/doetinchem/doetinchem/LevFoodWineBar"
     }
   ]
 }

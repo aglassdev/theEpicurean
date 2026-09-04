@@ -1,8 +1,5 @@
 {
   "title": "Essen",
-  "country": "germany",
-  "region": "essen",
-  "city": "essen",
   "restaurants": [
     {
       "name": "Chefs Atelier",
@@ -51,6 +48,12 @@
       "cuisine": "International, South American",
       "price": "€€€€",
       "path": "/germany/essen/essen/teko-by-lange-rodriguez"
+    },
+    {
+      "name": "bistro in der remise",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/germany/essen/essen/BistroInDerRemise"
     }
   ]
 }

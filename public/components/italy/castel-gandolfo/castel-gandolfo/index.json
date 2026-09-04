@@ -1,14 +1,17 @@
 {
   "title": "Castel Gandolfo",
-  "country": "italy",
-  "region": "castel-gandolfo",
-  "city": "castel-gandolfo",
   "restaurants": [
     {
       "name": "Antico Ristorante Pagnanelli",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
       "path": "/italy/castel-gandolfo/castel-gandolfo/antico-ristorante-pagnanelli"
+    },
+    {
+      "name": "Tinello Bistrot",
+      "cuisine": "Italian Contemporary",
+      "price": "$$",
+      "path": "/italy/castel-gandolfo/castel-gandolfo/TinelloBistrot"
     }
   ]
 }

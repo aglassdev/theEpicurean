@@ -1,14 +1,17 @@
 {
   "title": "Lochau",
-  "country": "austria",
-  "region": "lochau",
-  "city": "lochau",
   "restaurants": [
     {
       "name": "Mangold",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
       "path": "/austria/lochau/lochau/mangold"
+    },
+    {
+      "name": "vju",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/austria/lochau/lochau/Vju"
     }
   ]
 }

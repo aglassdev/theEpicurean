@@ -1,8 +1,5 @@
 {
   "title": "Mendoza",
-  "country": "argentina",
-  "region": "mendoza",
-  "city": "mendoza",
   "restaurants": [
     {
       "name": "1884 Francis Mallmann",
@@ -153,6 +150,48 @@
       "cuisine": "Traditional Cuisine, Creative",
       "price": "$$$",
       "path": "/argentina/mendoza/mendoza/zonda-cocina-de-paisaje"
+    },
+    {
+      "name": "Cal",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/argentina/mendoza/mendoza/Cal"
+    },
+    {
+      "name": "Antigal Authentic Flavors",
+      "cuisine": "Argentinian",
+      "price": "$$$",
+      "path": "/argentina/mendoza/mendoza/AntigalAuthenticFlavors"
+    },
+    {
+      "name": "Awasi - Mendoza",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/mendoza/mendoza/AwasiMendoza"
+    },
+    {
+      "name": "Clos de Chacras",
+      "cuisine": "Argentinian",
+      "price": "$$",
+      "path": "/argentina/mendoza/mendoza/ClosDeChacras"
+    },
+    {
+      "name": "Crux Cocina",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/mendoza/mendoza/CruxCocina"
+    },
+    {
+      "name": "Diam's",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/argentina/mendoza/mendoza/Diams"
+    },
+    {
+      "name": "Nube",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/mendoza/mendoza/Nube"
     }
   ]
 }

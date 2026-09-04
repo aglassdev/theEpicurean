@@ -1,8 +1,5 @@
 {
   "title": "Geisenheim",
-  "country": "germany",
-  "region": "geisenheim",
-  "city": "geisenheim",
   "restaurants": [
     {
       "name": "BRASSERIE Schwarzenstein",
@@ -15,6 +12,12 @@
       "cuisine": "Classic Cuisine, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/germany/geisenheim/geisenheim/mllers-auf-der-burg"
+    },
+    {
+      "name": "Schlossschänke auf dem Johannisberg",
+      "cuisine": "Classic French",
+      "price": "$$$",
+      "path": "/germany/geisenheim/geisenheim/SchlossschnkeAufDemJohannisberg"
     }
   ]
 }

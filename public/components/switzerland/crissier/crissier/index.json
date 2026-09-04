@@ -1,8 +1,5 @@
 {
   "title": "Crissier",
-  "country": "switzerland",
-  "region": "crissier",
-  "city": "crissier",
   "restaurants": [
     {
       "name": "Millennium - La Brasserie",
@@ -15,6 +12,24 @@
       "cuisine": "Classic French, Seasonal Cuisine",
       "price": "€€€€",
       "path": "/switzerland/crissier/crissier/restaurant-de-lhtel-de-ville"
+    },
+    {
+      "name": "L'Hotel de Ville",
+      "cuisine": "",
+      "price": "",
+      "path": "/switzerland/crissier/crissier/LhotelDeVille"
+    },
+    {
+      "name": "L'Hotel de Ville - Philippe Rochat",
+      "cuisine": "",
+      "price": "",
+      "path": "/switzerland/crissier/crissier/LhotelDeVillePhilippeRochat"
+    },
+    {
+      "name": "Restaurant de l'Hotel de Ville",
+      "cuisine": "",
+      "price": "",
+      "path": "/switzerland/crissier/crissier/RestaurantDeLhotelDeVille"
     }
   ]
 }

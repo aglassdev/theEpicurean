@@ -1,8 +1,5 @@
 {
   "title": "Isle Of Skye",
-  "country": "uk",
-  "region": "isle-of-skye",
-  "city": "isle-of-skye",
   "restaurants": [
     {
       "name": "Edinbane Lodge",
@@ -33,6 +30,12 @@
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/isle-of-skye/isle-of-skye/three-chimneys-the-house-over-by"
+    },
+    {
+      "name": "The Three Chimneys",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/isle-of-skye/isle-of-skye/TheThreeChimneys"
     }
   ]
 }

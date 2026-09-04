@@ -1,8 +1,5 @@
 {
   "title": "Gdask",
-  "country": "poland",
-  "region": "gdask",
-  "city": "gdask",
   "restaurants": [
     {
       "name": "Arco by Paco Pérez",
@@ -75,6 +72,24 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/poland/gdask/gdask/tygle"
+    },
+    {
+      "name": "Brut Bistro",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/gdask/gdask/BrutBistro"
+    },
+    {
+      "name": "Content",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/gdask/gdask/Content"
+    },
+    {
+      "name": "MDWA",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/poland/gdask/gdask/Mdwa"
     }
   ]
 }

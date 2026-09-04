@@ -1,8 +1,5 @@
 {
   "title": "So Paulo",
-  "country": "brazil",
-  "region": "so-paulo",
-  "city": "so-paulo",
   "restaurants": [
     {
       "name": "A Baianeira",
@@ -633,6 +630,60 @@
       "cuisine": "Italian",
       "price": "$$",
       "path": "/brazil/so-paulo/so-paulo/zena-cucina"
+    },
+    {
+      "name": "Manioca JK",
+      "cuisine": "Brazilian",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/ManiocaJk"
+    },
+    {
+      "name": "Ping Yang Thai Bar & Food",
+      "cuisine": "Thai contemporary",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/PingYangThaiBarFood"
+    },
+    {
+      "name": "Tabōa Cozinha Artesanal",
+      "cuisine": "Brazilian",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/TabaCozinhaArtesanal"
+    },
+    {
+      "name": "Bar da Dona Onça",
+      "cuisine": "Brazilian",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/BarDaDonaOna"
+    },
+    {
+      "name": "Cena",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/brazil/so-paulo/so-paulo/Cena"
+    },
+    {
+      "name": "Grotta Cucina",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/GrottaCucina"
+    },
+    {
+      "name": "Kureiji",
+      "cuisine": "Japanese",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/Kureiji"
+    },
+    {
+      "name": "Makoto San",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/MakotoSan"
+    },
+    {
+      "name": "SIMONE",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$",
+      "path": "/brazil/so-paulo/so-paulo/Simone"
     }
   ]
 }

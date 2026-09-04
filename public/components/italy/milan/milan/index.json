@@ -1,8 +1,5 @@
 {
   "title": "Milan",
-  "country": "italy",
-  "region": "milan",
-  "city": "milan",
   "restaurants": [
     {
       "name": "28 Posti",
@@ -579,6 +576,48 @@
       "cuisine": "Japanese, Fusion",
       "price": "€€€",
       "path": "/italy/milan/milan/zero-milano"
+    },
+    {
+      "name": "Altatto",
+      "cuisine": "Vegetarian",
+      "price": "$$$",
+      "path": "/italy/milan/milan/Altatto"
+    },
+    {
+      "name": "Insieme",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/italy/milan/milan/Insieme"
+    },
+    {
+      "name": "Sakeya",
+      "cuisine": "Japanese Contemporary",
+      "price": "$$$",
+      "path": "/italy/milan/milan/Sakeya"
+    },
+    {
+      "name": "Sushi Matsu Omakase",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/italy/milan/milan/SushiMatsuOmakase"
+    },
+    {
+      "name": "The View Milano by Valerio Braschi",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$",
+      "path": "/italy/milan/milan/TheViewMilanoByValerioBraschi"
+    },
+    {
+      "name": "Cracco Peck",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/milan/milan/CraccoPeck"
+    },
+    {
+      "name": "Ristorante Cracco",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/milan/milan/RistoranteCracco"
     }
   ]
 }

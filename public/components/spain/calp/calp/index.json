@@ -1,8 +1,5 @@
 {
   "title": "Calp",
-  "country": "spain",
-  "region": "calp",
-  "city": "calp",
   "restaurants": [
     {
       "name": "Audrey's",
@@ -27,6 +24,12 @@
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
       "path": "/spain/calp/calp/orobianco"
+    },
+    {
+      "name": "Beat by José Manuel Miguel",
+      "cuisine": "International",
+      "price": "$$$$",
+      "path": "/spain/calp/calp/BeatByJosManuelMiguel"
     }
   ]
 }

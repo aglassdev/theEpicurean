@@ -1,8 +1,5 @@
 {
   "title": "Monaco",
-  "country": "monaco",
-  "region": "monaco",
-  "city": "monaco",
   "restaurants": [
     {
       "name": "Beefbar",
@@ -99,6 +96,18 @@
       "cuisine": "Italian",
       "price": "€€€",
       "path": "/monaco/monaco/monaco/zeffirino"
+    },
+    {
+      "name": "Hotel de Paris",
+      "cuisine": "",
+      "price": "",
+      "path": "/monaco/monaco/monaco/HotelDeParis"
+    },
+    {
+      "name": "Le Louis XV",
+      "cuisine": "",
+      "price": "",
+      "path": "/monaco/monaco/monaco/LeLouisXv"
     }
   ]
 }

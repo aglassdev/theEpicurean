@@ -1,8 +1,5 @@
 {
   "title": "Zagreb",
-  "country": "croatia",
-  "region": "zagreb",
-  "city": "zagreb",
   "restaurants": [
     {
       "name": "Balon",
@@ -129,6 +126,24 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/croatia/zagreb/zagreb/zinfandels"
+    },
+    {
+      "name": "Nuré",
+      "cuisine": "Contemporary",
+      "price": "$",
+      "path": "/croatia/zagreb/zagreb/Nur"
+    },
+    {
+      "name": "Kiyomi",
+      "cuisine": "Asian Contemporary",
+      "price": "$$",
+      "path": "/croatia/zagreb/zagreb/Kiyomi"
+    },
+    {
+      "name": "Nico's Bar & Bistro",
+      "cuisine": "Croatian",
+      "price": "$$",
+      "path": "/croatia/zagreb/zagreb/NicosBarBistro"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Noordwijk Aan Zee",
-  "country": "netherlands",
-  "region": "noordwijk-aan-zee",
-  "city": "noordwijk-aan-zee",
   "restaurants": [
     {
       "name": "Breakers Beach House",
@@ -27,6 +24,12 @@
       "cuisine": "Modern French, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/netherlands/noordwijk-aan-zee/noordwijk-aan-zee/villa-de-duinen"
+    },
+    {
+      "name": "Lumé",
+      "cuisine": "Modern French",
+      "price": "$$$",
+      "path": "/netherlands/noordwijk-aan-zee/noordwijk-aan-zee/Lum"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Dnia",
-  "country": "spain",
-  "region": "dnia",
-  "city": "dnia",
   "restaurants": [
     {
       "name": "Peix & Brases",
@@ -15,6 +12,12 @@
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/spain/dnia/dnia/quique-dacosta"
+    },
+    {
+      "name": "Toy",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$",
+      "path": "/spain/dnia/dnia/Toy"
     }
   ]
 }

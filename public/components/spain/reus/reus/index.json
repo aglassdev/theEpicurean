@@ -1,8 +1,5 @@
 {
   "title": "Reus",
-  "country": "spain",
-  "region": "reus",
-  "city": "reus",
   "restaurants": [
     {
       "name": "Ferran Cerro",
@@ -21,6 +18,12 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/reus/reus/vtric-taverna-gastronmica"
+    },
+    {
+      "name": "Cervus",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/spain/reus/reus/Cervus"
     }
   ]
 }

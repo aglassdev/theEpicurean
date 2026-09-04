@@ -1,0 +1,31 @@
+{
+  "restaurantName": "Viva Tango",
+  "address": "ul. Nowogrodzka 4, Warsaw, 00-513, Poland",
+  "cuisine": "Steakhouse",
+  "priceRange": "$$$",
+  "phoneNumber": "+48735053535",
+  "website": "https://vivatango.pl/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Pets allowed everywhere"
+    },
+    {
+      "name": "Terrace"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Taking its cues from the elegant grill restaurants of Buenos Aires, this chic steakhouse contrasts neutral walls with crimson furniture, while tango music soundtracks the occasion. Argentinian steaks are at the heart of the cooking, with a combination of high-quality meat, skilful grilling and flavoursome sauces meaning they’re sure to satisfy. Make sure you try some non-steak dishes too, such as the empanadas to start and the dulce de leche flan to finish.",
+  "pageTitle": "Viva Tango"
+}

@@ -1,8 +1,5 @@
 {
   "title": "Marseille",
-  "country": "france",
-  "region": "marseille",
-  "city": "marseille",
   "restaurants": [
     {
       "name": "Alivetu",
@@ -177,6 +174,18 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/marseille/marseille/une-table-au-sud"
+    },
+    {
+      "name": "Dame Jeanne",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/marseille/marseille/DameJeanne"
+    },
+    {
+      "name": "Suffren",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/marseille/marseille/Suffren"
     }
   ]
 }

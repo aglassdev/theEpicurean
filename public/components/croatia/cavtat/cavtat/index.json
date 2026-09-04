@@ -1,14 +1,17 @@
 {
   "title": "Cavtat",
-  "country": "croatia",
-  "region": "cavtat",
-  "city": "cavtat",
   "restaurants": [
     {
       "name": "Bugenvila",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
       "path": "/croatia/cavtat/cavtat/bugenvila"
+    },
+    {
+      "name": "Supetar",
+      "cuisine": "Meats and Seafood",
+      "price": "$$$",
+      "path": "/croatia/cavtat/cavtat/Supetar"
     }
   ]
 }

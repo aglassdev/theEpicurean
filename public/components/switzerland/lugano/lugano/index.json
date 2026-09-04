@@ -1,8 +1,5 @@
 {
   "title": "Lugano",
-  "country": "switzerland",
-  "region": "lugano",
-  "city": "lugano",
   "restaurants": [
     {
       "name": "Arté al Lago",
@@ -75,6 +72,12 @@
       "cuisine": "Italian Contemporary, Modern Cuisine",
       "price": "€€€€",
       "path": "/switzerland/lugano/lugano/the-view"
+    },
+    {
+      "name": "Ristorante Seven Lugano",
+      "cuisine": "Grills",
+      "price": "$$",
+      "path": "/switzerland/lugano/lugano/RistoranteSevenLugano"
     }
   ]
 }

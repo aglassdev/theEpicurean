@@ -1,8 +1,5 @@
 {
   "title": "Lisbon",
-  "country": "portugal",
-  "region": "lisbon",
-  "city": "lisbon",
   "restaurants": [
     {
       "name": "100 Maneiras",
@@ -279,6 +276,48 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/portugal/lisbon/lisbon/zunzum-gastrobar"
+    },
+    {
+      "name": "BROTO",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/lisbon/lisbon/Broto"
+    },
+    {
+      "name": "JNĉQUOI Fish",
+      "cuisine": "Seafood",
+      "price": "$$$$",
+      "path": "/portugal/lisbon/lisbon/JnquoiFish"
+    },
+    {
+      "name": "JNĉQUOI Table",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/portugal/lisbon/lisbon/JnquoiTable"
+    },
+    {
+      "name": "MITSU",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/portugal/lisbon/lisbon/Mitsu"
+    },
+    {
+      "name": "Omakase Wa",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/portugal/lisbon/lisbon/OmakaseWa"
+    },
+    {
+      "name": "Salta",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/portugal/lisbon/lisbon/Salta"
+    },
+    {
+      "name": "Santa Joana",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/lisbon/lisbon/SantaJoana"
     }
   ]
 }

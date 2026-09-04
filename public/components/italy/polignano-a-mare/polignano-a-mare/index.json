@@ -1,8 +1,5 @@
 {
   "title": "Polignano A Mare",
-  "country": "italy",
-  "region": "polignano-a-mare",
-  "city": "polignano-a-mare",
   "restaurants": [
     {
       "name": "Casanova",
@@ -33,6 +30,12 @@
       "cuisine": "Apulian, Modern Cuisine",
       "price": "€€€€",
       "path": "/italy/polignano-a-mare/polignano-a-mare/pash"
+    },
+    {
+      "name": "Meraviglioso",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/italy/polignano-a-mare/polignano-a-mare/Meraviglioso"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Nuremberg",
-  "country": "germany",
-  "region": "nuremberg",
-  "city": "nuremberg",
   "restaurants": [
     {
       "name": "Bratwursthäusle",
@@ -111,6 +108,12 @@
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
       "path": "/germany/nuremberg/nuremberg/zweisinn-meiers-fine-dining"
+    },
+    {
+      "name": "Kakehashi",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/germany/nuremberg/nuremberg/Kakehashi"
     }
   ]
 }

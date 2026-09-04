@@ -1,8 +1,5 @@
 {
   "title": "Graz",
-  "country": "austria",
-  "region": "graz",
-  "city": "graz",
   "restaurants": [
     {
       "name": "Arravané",
@@ -87,6 +84,18 @@
       "cuisine": "Modern Cuisine, Austrian",
       "price": "€€€€",
       "path": "/austria/graz/graz/zur-goldenen-birn"
+    },
+    {
+      "name": "Restaurant SCHLOSSBERG",
+      "cuisine": "Seasonal Cuisine",
+      "price": "$$",
+      "path": "/austria/graz/graz/RestaurantSchlossberg"
+    },
+    {
+      "name": "Restaurant Scheucher",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/austria/graz/graz/RestaurantScheucher"
     }
   ]
 }

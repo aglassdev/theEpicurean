@@ -1,8 +1,5 @@
 {
   "title": "Viareggio",
-  "country": "italy",
-  "region": "viareggio",
-  "city": "viareggio",
   "restaurants": [
     {
       "name": "Da Miro alla Lanterna",
@@ -45,6 +42,12 @@
       "cuisine": "Seafood, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/italy/viareggio/viareggio/teresita-by-giardino-di-mari"
+    },
+    {
+      "name": "Giardino di Mari",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/italy/viareggio/viareggio/GiardinoDiMari"
     }
   ]
 }

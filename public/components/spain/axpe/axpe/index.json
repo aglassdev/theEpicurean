@@ -1,8 +1,5 @@
 {
   "title": "Axpe",
-  "country": "spain",
-  "region": "axpe",
-  "city": "axpe",
   "restaurants": [
     {
       "name": "Etxebarri",
@@ -21,6 +18,12 @@
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
       "path": "/spain/axpe/axpe/txispa"
+    },
+    {
+      "name": "Asador Etxebarri",
+      "cuisine": "",
+      "price": "",
+      "path": "/spain/axpe/axpe/AsadorEtxebarri"
     }
   ]
 }

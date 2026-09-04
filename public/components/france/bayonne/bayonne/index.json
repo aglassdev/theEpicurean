@@ -1,8 +1,5 @@
 {
   "title": "Bayonne",
-  "country": "france",
-  "region": "bayonne",
-  "city": "bayonne",
   "restaurants": [
     {
       "name": "Auberge du Cheval Blanc",
@@ -51,6 +48,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/bayonne/bayonne/relief"
+    },
+    {
+      "name": "Osméra",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/bayonne/bayonne/Osmra"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Baiersbronn",
-  "country": "germany",
-  "region": "baiersbronn",
-  "city": "baiersbronn",
   "restaurants": [
     {
       "name": "1789",
@@ -57,6 +54,12 @@
       "cuisine": "Classic French, Creative",
       "price": "€€€€",
       "path": "/germany/baiersbronn/baiersbronn/schwarzwaldstube"
+    },
+    {
+      "name": "Die Schwarzaldstube",
+      "cuisine": "",
+      "price": "",
+      "path": "/germany/baiersbronn/baiersbronn/DieSchwarzaldstube"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Dijon",
-  "country": "france",
-  "region": "dijon",
-  "city": "dijon",
   "restaurants": [
     {
       "name": "Azerole",
@@ -129,6 +126,12 @@
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
       "path": "/france/dijon/dijon/william-frachot"
+    },
+    {
+      "name": "Maison L'Essentiel",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/dijon/dijon/MaisonLessentiel"
     }
   ]
 }

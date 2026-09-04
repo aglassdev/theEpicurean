@@ -1,8 +1,5 @@
 {
   "title": "Haarlem",
-  "country": "netherlands",
-  "region": "haarlem",
-  "city": "haarlem",
   "restaurants": [
     {
       "name": "Café Samabe",
@@ -51,6 +48,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/netherlands/haarlem/haarlem/restaurant-moustique"
+    },
+    {
+      "name": "Brasserie Bruis",
+      "cuisine": "Modern French",
+      "price": "$$",
+      "path": "/netherlands/haarlem/haarlem/BrasserieBruis"
     }
   ]
 }

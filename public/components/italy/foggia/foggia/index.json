@@ -1,14 +1,17 @@
 {
   "title": "Foggia",
-  "country": "italy",
-  "region": "foggia",
-  "city": "foggia",
   "restaurants": [
     {
       "name": "La Kucina",
       "cuisine": "Italian Contemporary, Grills",
       "price": "€€",
       "path": "/italy/foggia/foggia/la-kucina"
+    },
+    {
+      "name": "Osteria Terra Arsa",
+      "cuisine": "Apulian",
+      "price": "$$",
+      "path": "/italy/foggia/foggia/OsteriaTerraArsa"
     }
   ]
 }

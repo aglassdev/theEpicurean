@@ -1,14 +1,17 @@
 {
   "title": "Upton Grey",
-  "country": "uk",
-  "region": "upton-grey",
-  "city": "upton-grey",
   "restaurants": [
     {
       "name": "Hoddington Arms",
       "cuisine": "Traditional British",
       "price": "££",
       "path": "/uk/upton-grey/upton-grey/hoddington-arms"
+    },
+    {
+      "name": "The Hoddington Arms",
+      "cuisine": "Modern British",
+      "price": "$$",
+      "path": "/uk/upton-grey/upton-grey/TheHoddingtonArms"
     }
   ]
 }

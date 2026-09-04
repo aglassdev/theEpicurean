@@ -1,8 +1,5 @@
 {
   "title": "Vienna",
-  "country": "austria",
-  "region": "vienna",
-  "city": "vienna",
   "restaurants": [
     {
       "name": "Addiert",
@@ -423,6 +420,78 @@
       "cuisine": "Austrian",
       "price": "€€",
       "path": "/austria/vienna/vienna/zum-weissen-rauchfangkehrer"
+    },
+    {
+      "name": "Atelier 7 Brasserie",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/austria/vienna/vienna/Atelier7Brasserie"
+    },
+    {
+      "name": "Beef & Glory",
+      "cuisine": "Grills",
+      "price": "$$$$",
+      "path": "/austria/vienna/vienna/BeefGlory"
+    },
+    {
+      "name": "Cafe Kandl",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/austria/vienna/vienna/CafeKandl"
+    },
+    {
+      "name": "KIAS Restaurant",
+      "cuisine": "Brazilian",
+      "price": "$$$",
+      "path": "/austria/vienna/vienna/KiasRestaurant"
+    },
+    {
+      "name": "KUTSCH",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/austria/vienna/vienna/Kutsch"
+    },
+    {
+      "name": "Le Sept",
+      "cuisine": "Seafood",
+      "price": "$$$$",
+      "path": "/austria/vienna/vienna/LeSept"
+    },
+    {
+      "name": "Oak-107",
+      "cuisine": "Grills",
+      "price": "$$$$",
+      "path": "/austria/vienna/vienna/Oak107"
+    },
+    {
+      "name": "SHIKI Japanese Cuisine",
+      "cuisine": "Japanese Contemporary",
+      "price": "$$$$",
+      "path": "/austria/vienna/vienna/ShikiJapaneseCuisine"
+    },
+    {
+      "name": "SHIKI Omakase",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/austria/vienna/vienna/ShikiOmakase"
+    },
+    {
+      "name": "das weinberg",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/austria/vienna/vienna/DasWeinberg"
+    },
+    {
+      "name": "lara",
+      "cuisine": "Vegan",
+      "price": "$$",
+      "path": "/austria/vienna/vienna/Lara"
+    },
+    {
+      "name": "Steirereck",
+      "cuisine": "",
+      "price": "",
+      "path": "/austria/vienna/vienna/Steirereck"
     }
   ]
 }

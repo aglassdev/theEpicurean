@@ -1,8 +1,5 @@
 {
   "title": "Sopot",
-  "country": "poland",
-  "region": "sopot",
-  "city": "sopot",
   "restaurants": [
     {
       "name": "1911 Restaurant",
@@ -39,6 +36,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/poland/sopot/sopot/vinissimo"
+    },
+    {
+      "name": "Diuna",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/sopot/sopot/Diuna"
     }
   ]
 }

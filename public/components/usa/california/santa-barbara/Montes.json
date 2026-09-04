@@ -1,0 +1,30 @@
+{
+  "restaurantName": "Monte's",
+  "address": "1198 Coast Village Rd., Santa Barbara, CA, 93108, USA",
+  "cuisine": "Californian",
+  "priceRange": "$$$",
+  "phoneNumber": "+18053304590",
+  "website": "https://www.montessb.com/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Pets allowed only in outdoor dining areas (patio/terrace)"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    },
+    {
+      "name": "Green Star",
+      "organization": "Michelin Guide",
+      "image": "/images/greenstar.png"
+    }
+  ],
+  "bio": "Chef Daniel Kim, a veteran of fine dining restaurants, now leads this California-minded kitchen that infuses a Korean flair. Monte's embodies the farm-to-table ethos, sourcing the majority of their produce from their own regenerative organic farm and local farmers' markets. This is cooking that's approachable and delicious yet prepared with clear skill. Kick off the meal with locally caught halibut crudo with broccolini or prawn toast with charred lemon aioli and house-made prawn furikake. Perhaps the best example of the Cal-Korean mashup is the bone-in pork chop katsu, breaded with panko and puffed wild rice and topped with Korean mustard cone cabbage slaw. A slice of carrot cake reveals three layers filled with apple cream frosting and topped with roasted carrot puree.",
+  "pageTitle": "Monte's"
+}

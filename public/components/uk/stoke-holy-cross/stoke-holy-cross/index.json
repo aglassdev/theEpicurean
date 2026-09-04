@@ -1,8 +1,5 @@
 {
   "title": "Stoke Holy Cross",
-  "country": "uk",
-  "region": "stoke-holy-cross",
-  "city": "stoke-holy-cross",
   "restaurants": [
     {
       "name": "Stoke Mill",
@@ -21,6 +18,12 @@
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/stoke-holy-cross/stoke-holy-cross/the-wildebeest"
+    },
+    {
+      "name": "elda",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/uk/stoke-holy-cross/stoke-holy-cross/Elda"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Sankt Gallen",
-  "country": "switzerland",
-  "region": "sankt-gallen",
-  "city": "sankt-gallen",
   "restaurants": [
     {
       "name": "Candela",
@@ -63,6 +60,12 @@
       "cuisine": "Classic Cuisine",
       "price": "€",
       "path": "/switzerland/sankt-gallen/sankt-gallen/zum-goldenen-schfli"
+    },
+    {
+      "name": "Soleil d’Or by Benjamin Geisser",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/switzerland/sankt-gallen/sankt-gallen/SoleilDorByBenjaminGeisser"
     }
   ]
 }

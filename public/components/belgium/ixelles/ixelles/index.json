@@ -1,8 +1,5 @@
 {
   "title": "Ixelles",
-  "country": "belgium",
-  "region": "ixelles",
-  "city": "ixelles",
   "restaurants": [
     {
       "name": "Amen",
@@ -159,6 +156,12 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/belgium/ixelles/ixelles/toucan-sur-mer"
+    },
+    {
+      "name": "ÔNGBÀ",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/belgium/ixelles/ixelles/Ngb"
     }
   ]
 }

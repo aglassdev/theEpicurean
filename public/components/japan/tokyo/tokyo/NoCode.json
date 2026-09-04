@@ -1,0 +1,25 @@
+{
+  "restaurantName": "No Code",
+  "address": "2F, 2-25-31 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan",
+  "cuisine": "Mexican",
+  "priceRange": "$$$",
+  "phoneNumber": "+81344007524",
+  "website": "https://nocode.co.jp/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Counter dining"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Not bound by existing frameworks, setting no limits, embracing a free style and rejecting categorisation: these are the ideas behind No Code. Guided by this philosophy, the cuisine draws on Mexican, French and Japanese influences. The omakase course combines ingredients, techniques and flavours from all three. Through food, established culinary codes are reimagined for today. Part of the pleasure lies in that freedom.",
+  "pageTitle": "No Code"
+}

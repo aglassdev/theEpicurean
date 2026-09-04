@@ -1,8 +1,5 @@
 {
   "title": "Mougins",
-  "country": "france",
-  "region": "mougins",
-  "city": "mougins",
   "restaurants": [
     {
       "name": "Bohème",
@@ -15,6 +12,12 @@
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/france/mougins/mougins/la-place-de-mougins"
+    },
+    {
+      "name": "Moulin de Mougin",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/mougins/mougins/MoulinDeMougin"
     }
   ]
 }

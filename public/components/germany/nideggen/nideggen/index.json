@@ -1,8 +1,5 @@
 {
   "title": "Nideggen",
-  "country": "germany",
-  "region": "nideggen",
-  "city": "nideggen",
   "restaurants": [
     {
       "name": "Burg Nideggen - Brockel Schlimbach",
@@ -15,6 +12,12 @@
       "cuisine": "Farm to table",
       "price": "€€",
       "path": "/germany/nideggen/nideggen/kaiserblick"
+    },
+    {
+      "name": "Burg Nideggen - Kaiserblick",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/germany/nideggen/nideggen/BurgNideggenKaiserblick"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Gent",
-  "country": "belgium",
-  "region": "gent",
-  "city": "gent",
   "restaurants": [
     {
       "name": "a food affair",
@@ -111,6 +108,24 @@
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
       "path": "/belgium/gent/gent/vrijmoed"
+    },
+    {
+      "name": "ARNO ristorante",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/belgium/gent/gent/ArnoRistorante"
+    },
+    {
+      "name": "DEBRA",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/belgium/gent/gent/Debra"
+    },
+    {
+      "name": "LOF Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/belgium/gent/gent/LofRestaurant"
     }
   ]
 }

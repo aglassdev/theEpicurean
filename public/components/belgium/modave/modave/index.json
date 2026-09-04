@@ -1,14 +1,17 @@
 {
   "title": "Modave",
-  "country": "belgium",
-  "region": "modave",
-  "city": "modave",
   "restaurants": [
     {
       "name": "La Roseraie",
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/belgium/modave/modave/la-roseraie"
+    },
+    {
+      "name": "La Roseraie Modave",
+      "cuisine": "Modern French",
+      "price": "$$$",
+      "path": "/belgium/modave/modave/LaRoseraieModave"
     }
   ]
 }

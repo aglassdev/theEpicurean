@@ -1,0 +1,28 @@
+{
+  "restaurantName": "Ruby",
+  "address": "Yıldız Mahallesi, Ortaköy Salhanesi Sokak No:5, Beşiktaş, Istanbul, 34349, Türkiye",
+  "cuisine": "Mediterranean Cuisine",
+  "priceRange": "$$",
+  "phoneNumber": "+902123272844",
+  "website": "https://www.rubyistanbul.com/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Great view"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "With stunning views over the Bosphorus, a roof that can be fully opened when the weather is fine, and a terrace that turns into a DJs' playground at weekends: Ruby is one of the hot spots in Ortaköy. The menu comprises dishes for sharing, traditional Turkish fare and a tempting range of pasta and risotto options. And whether you opt for the penne puttanesca or the grilled sea bass with spinach and orzo in a cream sauce, rest assured that your meal will be indulgent and brimming with rich flavours.",
+  "pageTitle": "Ruby"
+}

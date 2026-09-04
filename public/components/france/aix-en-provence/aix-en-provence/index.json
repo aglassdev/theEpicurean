@@ -1,8 +1,5 @@
 {
   "title": "Aix En Provence",
-  "country": "france",
-  "region": "aix-en-provence",
-  "city": "aix-en-provence",
   "restaurants": [
     {
       "name": "La Table de Pierre Reboul",
@@ -51,6 +48,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/aix-en-provence/aix-en-provence/tude"
+    },
+    {
+      "name": "Le Art - Château de la Gaude",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/france/aix-en-provence/aix-en-provence/LeArtChteauDeLaGaude"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Bremen",
-  "country": "germany",
-  "region": "bremen",
-  "city": "bremen",
   "restaurants": [
     {
       "name": "Al Pappagallo",
@@ -27,6 +24,12 @@
       "cuisine": "Contemporary, Classic Cuisine",
       "price": "€€€€",
       "path": "/germany/bremen/bremen/park-restaurant"
+    },
+    {
+      "name": "Bar Rique Winehouse",
+      "cuisine": "Seasonal Cuisine",
+      "price": "$$",
+      "path": "/germany/bremen/bremen/BarRiqueWinehouse"
     }
   ]
 }

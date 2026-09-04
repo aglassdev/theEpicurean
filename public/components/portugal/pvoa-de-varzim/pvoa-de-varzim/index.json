@@ -1,14 +1,17 @@
 {
   "title": "Pvoa De Varzim",
-  "country": "portugal",
-  "region": "pvoa-de-varzim",
-  "city": "pvoa-de-varzim",
   "restaurants": [
     {
       "name": "Marinheiro",
       "cuisine": "Seafood",
       "price": "€€",
       "path": "/portugal/pvoa-de-varzim/pvoa-de-varzim/marinheiro"
+    },
+    {
+      "name": "Manjar dos Leitões",
+      "cuisine": "Regional Cuisine",
+      "price": "$$",
+      "path": "/portugal/pvoa-de-varzim/pvoa-de-varzim/ManjarDosLeites"
     }
   ]
 }

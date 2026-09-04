@@ -1,0 +1,31 @@
+{
+  "restaurantName": "SABI",
+  "address": "92, Chenggong 10th Street, Zhubei City, Hsinchu County, Taiwan",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "$$$",
+  "phoneNumber": "+88636578650",
+  "website": "https://www.sabi.com.tw",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Counter dining"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "The décor mirrors the Wabi-Sabi philosophy of finding beauty in imperfect and temporary things. Natural elements like stone, wood and water are softly lit for a tranquil vibe. The food is a nod to Japanese culture, but familiar flavours are combined creatively in unusual forms and textures thanks to modern techniques such as molecular gastronomy. Watching the culinary artworks ‘unfold’ at the counter is a genuine experience.",
+  "pageTitle": "SABI"
+}

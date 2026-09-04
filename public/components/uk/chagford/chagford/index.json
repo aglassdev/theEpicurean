@@ -1,14 +1,17 @@
 {
   "title": "Chagford",
-  "country": "uk",
-  "region": "chagford",
-  "city": "chagford",
   "restaurants": [
     {
       "name": "Gidleigh Park",
       "cuisine": "Modern Cuisine",
       "price": "££££",
       "path": "/uk/chagford/chagford/gidleigh-park"
+    },
+    {
+      "name": "Chagford Inn",
+      "cuisine": "Modern British",
+      "price": "$$",
+      "path": "/uk/chagford/chagford/ChagfordInn"
     }
   ]
 }

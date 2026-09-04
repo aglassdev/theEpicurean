@@ -1,8 +1,5 @@
 {
   "title": "Faro",
-  "country": "portugal",
-  "region": "faro",
-  "city": "faro",
   "restaurants": [
     {
       "name": "Alameda",
@@ -15,6 +12,12 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/portugal/faro/faro/checkin-by-leonel-pereira"
+    },
+    {
+      "name": "Pearl",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/portugal/faro/faro/Pearl"
     }
   ]
 }

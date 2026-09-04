@@ -1,8 +1,5 @@
 {
   "title": "Pontevedra",
-  "country": "spain",
-  "region": "pontevedra",
-  "city": "pontevedra",
   "restaurants": [
     {
       "name": "Eirado",
@@ -27,6 +24,12 @@
       "cuisine": "Contemporary, International",
       "price": "€",
       "path": "/spain/pontevedra/pontevedra/trasmallo"
+    },
+    {
+      "name": "Os Maristas",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/pontevedra/pontevedra/OsMaristas"
     }
   ]
 }

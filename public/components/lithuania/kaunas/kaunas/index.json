@@ -1,8 +1,5 @@
 {
   "title": "Kaunas",
-  "country": "lithuania",
-  "region": "kaunas",
-  "city": "kaunas",
   "restaurants": [
     {
       "name": "Arrivée",
@@ -33,6 +30,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/lithuania/kaunas/kaunas/uoksas"
+    },
+    {
+      "name": "SIJA",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/lithuania/kaunas/kaunas/Sija"
     }
   ]
 }

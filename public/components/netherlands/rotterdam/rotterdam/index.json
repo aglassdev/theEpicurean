@@ -1,8 +1,5 @@
 {
   "title": "Rotterdam",
-  "country": "netherlands",
-  "region": "rotterdam",
-  "city": "rotterdam",
   "restaurants": [
     {
       "name": "Aji",
@@ -177,6 +174,18 @@
       "cuisine": "Seafood, French",
       "price": "€€€",
       "path": "/netherlands/rotterdam/rotterdam/zeezout"
+    },
+    {
+      "name": "Restaurant Parkheuvel",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/netherlands/rotterdam/rotterdam/RestaurantParkheuvel"
+    },
+    {
+      "name": "Restaurant Huson",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/netherlands/rotterdam/rotterdam/RestaurantHuson"
     }
   ]
 }

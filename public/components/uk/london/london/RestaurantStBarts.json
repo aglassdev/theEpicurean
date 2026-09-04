@@ -1,0 +1,30 @@
+{
+  "restaurantName": "Restaurant St. Barts",
+  "address": "63 Bartholomew Close, City of London, London, EC1A 7BF, United Kingdom",
+  "cuisine": "Modern British",
+  "priceRange": "$$$$",
+  "phoneNumber": "+442045477985",
+  "website": "https://www.restaurant-stbarts.co.uk/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Pets not allowed"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "organization": "Michelin Guide",
+      "count": 1
+    },
+    {
+      "name": "Green Star",
+      "organization": "Michelin Guide",
+      "image": "/images/greenstar.png"
+    }
+  ],
+  "bio": "The Nordic-style interior design, warm colour palette and picture windows overlooking the church cloisters create a handsome and comfortable environment for this relaxed restaurant, especially when you add in the gorgeous handmade crockery and confident, affable service. The well-balanced set menus provide an immeasurably satisfying experience, focusing on prime ingredients in contemporary dishes that may be quite delicate in their appearance, but deliver plenty of wonderful flavours. Orkney scallop with Mangalitsa pork and wild garlic is a prime example.",
+  "pageTitle": "Restaurant St. Barts"
+}

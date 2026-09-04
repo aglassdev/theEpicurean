@@ -1,8 +1,5 @@
 {
   "title": "Durham",
-  "country": "uk",
-  "region": "durham",
-  "city": "durham",
   "restaurants": [
     {
       "name": "Coarse",
@@ -15,6 +12,12 @@
       "cuisine": "Modern Cuisine",
       "price": "£££",
       "path": "/uk/durham/durham/faru"
+    },
+    {
+      "name": "Isla",
+      "cuisine": "Modern British",
+      "price": "$",
+      "path": "/uk/durham/durham/Isla"
     }
   ]
 }

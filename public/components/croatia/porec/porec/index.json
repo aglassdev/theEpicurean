@@ -1,14 +1,23 @@
 {
   "title": "Porec",
-  "country": "croatia",
-  "region": "porec",
-  "city": "porec",
   "restaurants": [
     {
       "name": "Spinnaker",
       "cuisine": "Mediterranean Cuisine, Creative",
       "price": "€€€",
       "path": "/croatia/porec/porec/spinnaker"
+    },
+    {
+      "name": "Harry’s Piccolo Poreč",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/croatia/porec/porec/HarrysPiccoloPore"
+    },
+    {
+      "name": "JAZ by Ana Roš Poreč",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/croatia/porec/porec/JazByAnaRoPore"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Saragossa",
-  "country": "spain",
-  "region": "saragossa",
-  "city": "saragossa",
   "restaurants": [
     {
       "name": "Bistrónomo",
@@ -63,6 +60,12 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/saragossa/saragossa/quema"
+    },
+    {
+      "name": "Novo Maite Anduriña",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/saragossa/saragossa/NovoMaiteAnduria"
     }
   ]
 }

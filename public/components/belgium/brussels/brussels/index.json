@@ -1,8 +1,5 @@
 {
   "title": "Brussels",
-  "country": "belgium",
-  "region": "brussels",
-  "city": "brussels",
   "restaurants": [
     {
       "name": "Aster",
@@ -243,6 +240,18 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/belgium/brussels/brussels/vismet"
+    },
+    {
+      "name": "Alley Mian",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/belgium/brussels/brussels/AlleyMian"
+    },
+    {
+      "name": "La Villa Lorraine",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/belgium/brussels/brussels/LaVillaLorraine"
     }
   ]
 }

@@ -1,14 +1,17 @@
 {
   "title": "Manigod",
-  "country": "france",
-  "region": "manigod",
-  "city": "manigod",
   "restaurants": [
     {
       "name": "La Table de Marie-Ange",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/france/manigod/manigod/la-table-de-marie-ange"
+    },
+    {
+      "name": "Le Maison de Marc Veyrat",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/manigod/manigod/LeMaisonDeMarcVeyrat"
     }
   ]
 }

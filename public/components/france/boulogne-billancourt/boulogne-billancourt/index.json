@@ -1,8 +1,5 @@
 {
   "title": "Boulogne Billancourt",
-  "country": "france",
-  "region": "boulogne-billancourt",
-  "city": "boulogne-billancourt",
   "restaurants": [
     {
       "name": "Baca'v - Boulogne",
@@ -39,6 +36,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/boulogne-billancourt/boulogne-billancourt/plantxa"
+    },
+    {
+      "name": "Albufera",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/france/boulogne-billancourt/boulogne-billancourt/Albufera"
     }
   ]
 }

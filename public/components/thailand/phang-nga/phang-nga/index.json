@@ -1,8 +1,5 @@
 {
   "title": "Phang Nga",
-  "country": "thailand",
-  "region": "phang-nga",
-  "city": "phang-nga",
   "restaurants": [
     {
       "name": "Anuwat",
@@ -147,6 +144,24 @@
       "cuisine": "Noodles",
       "price": "฿",
       "path": "/thailand/phang-nga/phang-nga/yi-oui-noodles"
+    },
+    {
+      "name": "Mun",
+      "cuisine": "Southern Thai",
+      "price": "$",
+      "path": "/thailand/phang-nga/phang-nga/Mun"
+    },
+    {
+      "name": "Beach Grill",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/thailand/phang-nga/phang-nga/BeachGrill"
+    },
+    {
+      "name": "Lok-Un",
+      "cuisine": "Small eats",
+      "price": "$",
+      "path": "/thailand/phang-nga/phang-nga/Lokun"
     }
   ]
 }

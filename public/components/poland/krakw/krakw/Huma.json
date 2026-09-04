@@ -1,0 +1,28 @@
+{
+  "restaurantName": "Huma",
+  "address": "Grodzka 44, Kraków, 31-044, Poland",
+  "cuisine": "Meats and Grills",
+  "priceRange": "$$$",
+  "phoneNumber": "+48123067270",
+  "website": "https://humarestaurant.com/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Interesting wine list"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Steak lovers need look no further than this smartly dressed restaurant from the same owners as Fiorentina and Kogel Mogel. An eye-catching parrilla grill is at the heart of the operation, used with great skill on prime steaks from Poland and the US, best enjoyed with a glass of red wine from the impressive list. Don’t overlook the other dishes too, such as the beef pretzel with a deliciously piquant gherkin and caper cream. Cheery, genuine service is the perfect finishing touch.",
+  "pageTitle": "Huma"
+}

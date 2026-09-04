@@ -1,0 +1,25 @@
+{
+  "restaurantName": "La Marianna",
+  "address": "Viale Tiberio 19, Rimini, 47921, Italy",
+  "cuisine": "Seafood",
+  "priceRange": "$$",
+  "phoneNumber": "+39054122530",
+  "website": "https://trattorialamarianna.it/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "A historic seafood trattoria of Rimini near the Tiberius Bridge, various managements have succeeded one another since 1908, yet the current proprietor remains true to the spirit of the place: almost exclusively seafood dishes, prepared simply and straightforwardly to showcase the freshness of the ingredients, served in modest yet atmospheric dining rooms with a convivial and informal ambiance.",
+  "pageTitle": "La Marianna"
+}

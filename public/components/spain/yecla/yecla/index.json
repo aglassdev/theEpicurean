@@ -1,14 +1,17 @@
 {
   "title": "Yecla",
-  "country": "spain",
-  "region": "yecla",
-  "city": "yecla",
   "restaurants": [
     {
       "name": "Barahonda",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/spain/yecla/yecla/barahonda"
+    },
+    {
+      "name": "Estirpe",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/yecla/yecla/Estirpe"
     }
   ]
 }

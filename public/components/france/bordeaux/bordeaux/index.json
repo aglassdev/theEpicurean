@@ -1,8 +1,5 @@
 {
   "title": "Bordeaux",
-  "country": "france",
-  "region": "bordeaux",
-  "city": "bordeaux",
   "restaurants": [
     {
       "name": "Amicis",
@@ -279,6 +276,36 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/bordeaux/bordeaux/zphirine"
+    },
+    {
+      "name": "Au Bistrot",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/bordeaux/bordeaux/AuBistrot"
+    },
+    {
+      "name": "Au Comptoir d'Augusta",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/bordeaux/bordeaux/AuComptoirDaugusta"
+    },
+    {
+      "name": "Bistrot Cul Sec",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/bordeaux/bordeaux/BistrotCulSec"
+    },
+    {
+      "name": "Il Vicolo Rosso",
+      "cuisine": "Italian",
+      "price": "$",
+      "path": "/france/bordeaux/bordeaux/IlVicoloRosso"
+    },
+    {
+      "name": "Le Classique",
+      "cuisine": "Classic Cuisine",
+      "price": "$$",
+      "path": "/france/bordeaux/bordeaux/LeClassique"
     }
   ]
 }

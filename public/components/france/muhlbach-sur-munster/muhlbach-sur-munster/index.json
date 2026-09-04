@@ -1,14 +1,17 @@
 {
   "title": "Muhlbach Sur Munster",
-  "country": "france",
-  "region": "muhlbach-sur-munster",
-  "city": "muhlbach-sur-munster",
   "restaurants": [
     {
       "name": "Perle des Vosges",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/muhlbach-sur-munster/muhlbach-sur-munster/perle-des-vosges"
+    },
+    {
+      "name": "La Châtaigneraie - Perle des Vosges",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/muhlbach-sur-munster/muhlbach-sur-munster/LaChtaigneraiePerleDesVosges"
     }
   ]
 }

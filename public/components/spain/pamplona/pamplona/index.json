@@ -1,8 +1,5 @@
 {
   "title": "Pamplona",
-  "country": "spain",
-  "region": "pamplona",
-  "city": "pamplona",
   "restaurants": [
     {
       "name": "Alhambra",
@@ -63,6 +60,12 @@
       "cuisine": "Regional European, Contemporary",
       "price": "€€",
       "path": "/spain/pamplona/pamplona/zurita-barra-y-mantel"
+    },
+    {
+      "name": "Picaflor",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/spain/pamplona/pamplona/Picaflor"
     }
   ]
 }

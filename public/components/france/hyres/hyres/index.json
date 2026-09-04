@@ -1,14 +1,17 @@
 {
   "title": "Hyres",
-  "country": "france",
-  "region": "hyres",
-  "city": "hyres",
   "restaurants": [
     {
       "name": "La Colombe",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/france/hyres/hyres/la-colombe"
+    },
+    {
+      "name": "Les Minots de la Garrigue",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/france/hyres/hyres/LesMinotsDeLaGarrigue"
     }
   ]
 }

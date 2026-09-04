@@ -1,14 +1,17 @@
 {
   "title": "Piran",
-  "country": "slovenia",
-  "region": "piran",
-  "city": "piran",
   "restaurants": [
     {
       "name": "Stara Gostilna",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€€€",
       "path": "/slovenia/piran/piran/stara-gostilna"
+    },
+    {
+      "name": "Srebrna vilica",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/slovenia/piran/piran/SrebrnaVilica"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Granby",
-  "country": "canada",
-  "region": "granby",
-  "city": "granby",
   "restaurants": [
     {
       "name": "Maison Boire",
@@ -15,6 +12,12 @@
       "cuisine": "Traditional Cuisine, Steakhouse",
       "price": "$$$",
       "path": "/canada/granby/granby/maison-boire"
+    },
+    {
+      "name": "Pavane",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/canada/granby/granby/Pavane"
     }
   ]
 }

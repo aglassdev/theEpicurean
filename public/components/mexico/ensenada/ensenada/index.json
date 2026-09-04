@@ -1,8 +1,5 @@
 {
   "title": "Ensenada",
-  "country": "mexico",
-  "region": "ensenada",
-  "city": "ensenada",
   "restaurants": [
     {
       "name": "Bruma Wine Garden",
@@ -75,6 +72,30 @@
       "cuisine": "Mexican",
       "price": "$",
       "path": "/mexico/ensenada/ensenada/tacos-mi-ranchito-el-fenix"
+    },
+    {
+      "name": "Fauna",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/mexico/ensenada/ensenada/Fauna"
+    },
+    {
+      "name": "Amapola",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/ensenada/ensenada/Amapola"
+    },
+    {
+      "name": "COMAL Restaurante",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/mexico/ensenada/ensenada/ComalRestaurante"
+    },
+    {
+      "name": "Fireside",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/mexico/ensenada/ensenada/Fireside"
     }
   ]
 }

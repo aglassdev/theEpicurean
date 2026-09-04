@@ -1,8 +1,5 @@
 {
   "title": "Heidelberg",
-  "country": "germany",
-  "region": "heidelberg",
-  "city": "heidelberg",
   "restaurants": [
     {
       "name": "959",
@@ -45,6 +42,12 @@
       "cuisine": "International",
       "price": "€€€",
       "path": "/germany/heidelberg/heidelberg/weisser-bock"
+    },
+    {
+      "name": "Der Philosoph",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/germany/heidelberg/heidelberg/DerPhilosoph"
     }
   ]
 }

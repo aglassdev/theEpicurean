@@ -1,8 +1,5 @@
 {
   "title": "Almancil",
-  "country": "portugal",
-  "region": "almancil",
-  "city": "almancil",
   "restaurants": [
     {
       "name": "2 Passos",
@@ -21,6 +18,18 @@
       "cuisine": "International",
       "price": "€€",
       "path": "/portugal/almancil/almancil/pequeno-mundo"
+    },
+    {
+      "name": "Authentic",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/portugal/almancil/almancil/Authentic"
+    },
+    {
+      "name": "austa",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/portugal/almancil/almancil/Austa"
     }
   ]
 }

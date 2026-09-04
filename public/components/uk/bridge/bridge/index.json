@@ -1,14 +1,17 @@
 {
   "title": "Bridge",
-  "country": "uk",
-  "region": "bridge",
-  "city": "bridge",
   "restaurants": [
     {
       "name": "Bridge Arms",
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/bridge/bridge/bridge-arms"
+    },
+    {
+      "name": "The Bridge Arms",
+      "cuisine": "Modern British",
+      "price": "$$",
+      "path": "/uk/bridge/bridge/TheBridgeArms"
     }
   ]
 }

@@ -1,14 +1,17 @@
 {
   "title": "Little Eccleston",
-  "country": "uk",
-  "region": "little-eccleston",
-  "city": "little-eccleston",
   "restaurants": [
     {
       "name": "Cartford Inn",
       "cuisine": "Traditional Cuisine",
       "price": "££",
       "path": "/uk/little-eccleston/little-eccleston/cartford-inn"
+    },
+    {
+      "name": "The Cartford",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/uk/little-eccleston/little-eccleston/TheCartford"
     }
   ]
 }

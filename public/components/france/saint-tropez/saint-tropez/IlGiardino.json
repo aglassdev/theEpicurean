@@ -1,0 +1,31 @@
+{
+  "restaurantName": "Il Giardino",
+  "address": "Hôtel Byblos, 20 avenue Paul-Signac, Saint-Tropez, 83990, France",
+  "cuisine": "Italian",
+  "priceRange": "$$$$",
+  "phoneNumber": "+33494566800",
+  "website": "https://www.byblos.com",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Terrace"
+    },
+    {
+      "name": "Valet parking"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Behind the Place des Lices, the legendary Byblos hotel is home to this Italian gem, set opposite the swimming pool beneath a pergola covered in a profusion of greenery. The chef draws on the palace hotel's permaculture vegetable garden to create elegant Italian cuisine: flavoursome antipasti, house-made pasta, timeless classics (cotoletta milanese, paccheri carbonara) and refined creations such as saltimbocca of red mullet. The service is impeccable, thanks to unwavering attention to detail. The epitome of Saint-Tropez dolce farniente.",
+  "pageTitle": "Il Giardino"
+}

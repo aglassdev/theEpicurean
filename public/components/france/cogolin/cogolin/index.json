@@ -1,14 +1,17 @@
 {
   "title": "Cogolin",
-  "country": "france",
-  "region": "cogolin",
-  "city": "cogolin",
   "restaurants": [
     {
       "name": "La Grange des Agapes",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/cogolin/cogolin/la-grange-des-agapes"
+    },
+    {
+      "name": "La Petite Maison",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/cogolin/cogolin/LaPetiteMaison"
     }
   ]
 }

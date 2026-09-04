@@ -1,8 +1,5 @@
 {
   "title": "Rio De Janeiro",
-  "country": "brazil",
-  "region": "rio-de-janeiro",
-  "city": "rio-de-janeiro",
   "restaurants": [
     {
       "name": "Aprazível",
@@ -273,6 +270,36 @@
       "cuisine": "Modern Cuisine",
       "price": "$$$",
       "path": "/brazil/rio-de-janeiro/rio-de-janeiro/trze"
+    },
+    {
+      "name": "Madame Olympe",
+      "cuisine": "Creative French",
+      "price": "$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/MadameOlympe"
+    },
+    {
+      "name": "Koral",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/Koral"
+    },
+    {
+      "name": "Nôa Ipanema",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/NaIpanema"
+    },
+    {
+      "name": "Sushi Vaz",
+      "cuisine": "Sushi",
+      "price": "$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/SushiVaz"
+    },
+    {
+      "name": "Yayá Comidaria Pop Brasileira",
+      "cuisine": "Brazilian",
+      "price": "$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/YayComidariaPopBrasileira"
     }
   ]
 }

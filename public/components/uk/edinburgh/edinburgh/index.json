@@ -1,8 +1,5 @@
 {
   "title": "Edinburgh",
-  "country": "uk",
-  "region": "edinburgh",
-  "city": "edinburgh",
   "restaurants": [
     {
       "name": "1925 at Pompadour",
@@ -201,6 +198,12 @@
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/edinburgh/edinburgh/vinette"
+    },
+    {
+      "name": "LUCKY YU",
+      "cuisine": "Asian Influences",
+      "price": "$$",
+      "path": "/uk/edinburgh/edinburgh/LuckyYu"
     }
   ]
 }

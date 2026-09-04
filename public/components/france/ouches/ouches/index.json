@@ -1,8 +1,5 @@
 {
   "title": "Ouches",
-  "country": "france",
-  "region": "ouches",
-  "city": "ouches",
   "restaurants": [
     {
       "name": "Château d'Origny",
@@ -15,6 +12,12 @@
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/france/ouches/ouches/troisgros-le-bois-sans-feuilles"
+    },
+    {
+      "name": "Troisgros",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/ouches/ouches/Troisgros"
     }
   ]
 }

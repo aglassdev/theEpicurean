@@ -1,8 +1,5 @@
 {
   "title": "Avignon",
-  "country": "france",
-  "region": "avignon",
-  "city": "avignon",
   "restaurants": [
     {
       "name": "Acte 2",
@@ -87,6 +84,24 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/avignon/avignon/sevin"
+    },
+    {
+      "name": "Café Roma",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/france/avignon/avignon/CafRoma"
+    },
+    {
+      "name": "Italie là-bas Ré",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/france/avignon/avignon/ItalieLbasR"
+    },
+    {
+      "name": "La Grande Brasserie BIB",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/avignon/avignon/LaGrandeBrasserieBib"
     }
   ]
 }

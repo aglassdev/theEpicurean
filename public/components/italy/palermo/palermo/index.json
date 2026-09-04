@@ -1,8 +1,5 @@
 {
   "title": "Palermo",
-  "country": "italy",
-  "region": "palermo",
-  "city": "palermo",
   "restaurants": [
     {
       "name": "A' Cuncuma",
@@ -69,6 +66,18 @@
       "cuisine": "Italian, Modern Cuisine",
       "price": "€€€",
       "path": "/italy/palermo/palermo/palazzo-branciforte"
+    },
+    {
+      "name": "Charleston by Giovanni Solofra",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/italy/palermo/palermo/CharlestonByGiovanniSolofra"
+    },
+    {
+      "name": "Osteria Mercede",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/italy/palermo/palermo/OsteriaMercede"
     }
   ]
 }

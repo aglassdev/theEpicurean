@@ -1,8 +1,5 @@
 {
   "title": "Dresden",
-  "country": "germany",
-  "region": "dresden",
-  "city": "dresden",
   "restaurants": [
     {
       "name": "Caroussel Nouvelle",
@@ -57,6 +54,12 @@
       "cuisine": "Classic Cuisine",
       "price": "€€€",
       "path": "/germany/dresden/dresden/stresa"
+    },
+    {
+      "name": "finesse by Elvis Herbek",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/germany/dresden/dresden/FinesseByElvisHerbek"
     }
   ]
 }

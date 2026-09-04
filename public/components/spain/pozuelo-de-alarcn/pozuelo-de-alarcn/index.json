@@ -1,8 +1,5 @@
 {
   "title": "Pozuelo De Alarcn",
-  "country": "spain",
-  "region": "pozuelo-de-alarcn",
-  "city": "pozuelo-de-alarcn",
   "restaurants": [
     {
       "name": "Ancestral",
@@ -15,6 +12,12 @@
       "cuisine": "Spanish, Fusion",
       "price": "€€",
       "path": "/spain/pozuelo-de-alarcn/pozuelo-de-alarcn/la-roca"
+    },
+    {
+      "name": "Aleño Brassafina",
+      "cuisine": "Grills",
+      "price": "$$$",
+      "path": "/spain/pozuelo-de-alarcn/pozuelo-de-alarcn/AleoBrassafina"
     }
   ]
 }

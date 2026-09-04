@@ -1,8 +1,5 @@
 {
   "title": "Lecci",
-  "country": "france",
-  "region": "lecci",
-  "city": "lecci",
   "restaurants": [
     {
       "name": "Emporium",
@@ -15,6 +12,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/lecci/lecci/la-pinde"
+    },
+    {
+      "name": "La Plage Casadelmar",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/france/lecci/lecci/LaPlageCasadelmar"
     }
   ]
 }

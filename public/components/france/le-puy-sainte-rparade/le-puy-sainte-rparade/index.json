@@ -1,8 +1,5 @@
 {
   "title": "Le Puy Sainte Rparade",
-  "country": "france",
-  "region": "le-puy-sainte-rparade",
-  "city": "le-puy-sainte-rparade",
   "restaurants": [
     {
       "name": "Francis Mallmann au Château La Coste",
@@ -33,6 +30,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/le-puy-sainte-rparade/le-puy-sainte-rparade/le-temps-suspendu-chteau-de-fonscolombe"
+    },
+    {
+      "name": "Louison",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/france/le-puy-sainte-rparade/le-puy-sainte-rparade/Louison"
     }
   ]
 }

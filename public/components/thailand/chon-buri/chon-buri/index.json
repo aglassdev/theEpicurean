@@ -1,8 +1,5 @@
 {
   "title": "Chon Buri",
-  "country": "thailand",
-  "region": "chon-buri",
-  "city": "chon-buri",
   "restaurants": [
     {
       "name": "Chom Tawan",
@@ -123,6 +120,48 @@
       "cuisine": "Thai",
       "price": "฿฿",
       "path": "/thailand/chon-buri/chon-buri/wansuk"
+    },
+    {
+      "name": "Apollo Pork Satay",
+      "cuisine": "Small eats",
+      "price": "none",
+      "path": "/thailand/chon-buri/chon-buri/ApolloPorkSatay"
+    },
+    {
+      "name": "Krua Jay Miad",
+      "cuisine": "Thai",
+      "price": "$",
+      "path": "/thailand/chon-buri/chon-buri/KruaJayMiad"
+    },
+    {
+      "name": "Krua Nai Baan",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/thailand/chon-buri/chon-buri/KruaNaiBaan"
+    },
+    {
+      "name": "Na Chae",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/thailand/chon-buri/chon-buri/NaChae"
+    },
+    {
+      "name": "Somphop Khao Tom Pla",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/thailand/chon-buri/chon-buri/SomphopKhaoTomPla"
+    },
+    {
+      "name": "Tiapthong",
+      "cuisine": "Thai",
+      "price": "$",
+      "path": "/thailand/chon-buri/chon-buri/Tiapthong"
+    },
+    {
+      "name": "Yen Ta Fo Muek Khai",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/thailand/chon-buri/chon-buri/YenTaFoMuekKhai"
     }
   ]
 }

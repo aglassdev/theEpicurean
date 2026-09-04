@@ -1,8 +1,5 @@
 {
   "title": "Caserta",
-  "country": "italy",
-  "region": "caserta",
-  "city": "caserta",
   "restaurants": [
     {
       "name": "Antica Locanda",
@@ -21,6 +18,12 @@
       "cuisine": "Seafood, Italian Contemporary",
       "price": "€€€",
       "path": "/italy/caserta/caserta/sunrise"
+    },
+    {
+      "name": "Sunrise Restaurant",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/italy/caserta/caserta/SunriseRestaurant"
     }
   ]
 }

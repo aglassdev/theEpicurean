@@ -1,8 +1,5 @@
 {
   "title": "Biarritz",
-  "country": "france",
-  "region": "biarritz",
-  "city": "biarritz",
   "restaurants": [
     {
       "name": "AHPĒ",
@@ -105,6 +102,24 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/biarritz/biarritz/marius"
+    },
+    {
+      "name": "Bar mada",
+      "cuisine": "Creative",
+      "price": "$$",
+      "path": "/france/biarritz/biarritz/BarMada"
+    },
+    {
+      "name": "Kaldera",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/biarritz/biarritz/Kaldera"
+    },
+    {
+      "name": "Pluma",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/biarritz/biarritz/Pluma"
     }
   ]
 }

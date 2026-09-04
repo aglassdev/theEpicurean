@@ -1,0 +1,31 @@
+{
+  "restaurantName": "Dworek New Restaurant",
+  "address": "ul. Żywiecka 193, Bielsko-Biała, 43-300, Poland",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "$$",
+  "phoneNumber": "+48338178340",
+  "website": "https://www.dworekbielsko.pl/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Garden or park"
+    },
+    {
+      "name": "Pets allowed only in outdoor dining areas (patio/terrace)"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "There’s a characterful industrial-meets-traditional feel to this restaurant housed on the lower floor of an imposing 19th-century manor house. Smartly dressed tables sit within a red-brick room with vaulted ceilings and exposed pipework, while modern artwork enlivens the walls and mature gardens surround the building. The dishes are equally impressive to look at and deliver on flavour too, with excellent produce at the heart. Their take on a tiramisu is a real winner.",
+  "pageTitle": "Dworek New Restaurant"
+}

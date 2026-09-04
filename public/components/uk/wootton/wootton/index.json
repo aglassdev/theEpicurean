@@ -1,14 +1,17 @@
 {
   "title": "Wootton",
-  "country": "uk",
-  "region": "wootton",
-  "city": "wootton",
   "restaurants": [
     {
       "name": "Killingworth Castle",
       "cuisine": "Traditional British",
       "price": "££",
       "path": "/uk/wootton/wootton/killingworth-castle"
+    },
+    {
+      "name": "The Killingworth Castle",
+      "cuisine": "Traditional British",
+      "price": "$$",
+      "path": "/uk/wootton/wootton/TheKillingworthCastle"
     }
   ]
 }

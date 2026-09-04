@@ -1,8 +1,5 @@
 {
   "title": "Saint Moritz",
-  "country": "switzerland",
-  "region": "saint-moritz",
-  "city": "saint-moritz",
   "restaurants": [
     {
       "name": "Amaru by Claudia Canessa",
@@ -105,6 +102,12 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
       "path": "/switzerland/saint-moritz/saint-moritz/talvo"
+    },
+    {
+      "name": "Grand Restaurant",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/switzerland/saint-moritz/saint-moritz/GrandRestaurant"
     }
   ]
 }

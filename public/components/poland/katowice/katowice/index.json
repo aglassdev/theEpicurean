@@ -1,0 +1,29 @@
+{
+  "title": "Katowice",
+  "restaurants": [
+    {
+      "name": "KRZYWA Sztuka Wina",
+      "cuisine": "Regional Cuisine",
+      "price": "$",
+      "path": "/poland/katowice/katowice/KrzywaSztukaWina"
+    },
+    {
+      "name": "Amfora",
+      "cuisine": "Middle Eastern",
+      "price": "$",
+      "path": "/poland/katowice/katowice/Amfora"
+    },
+    {
+      "name": "Młodnik",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/poland/katowice/katowice/Modnik"
+    },
+    {
+      "name": "Śląska Prohibicja",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/poland/katowice/katowice/LskaProhibicja"
+    }
+  ]
+}

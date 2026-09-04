@@ -1,8 +1,5 @@
 {
   "title": "Hanoi",
-  "country": "vietnam",
-  "region": "hanoi",
-  "city": "hanoi",
   "restaurants": [
     {
       "name": "1946 Cua Bac",
@@ -381,6 +378,108 @@
       "cuisine": "Vietnamese",
       "price": "₫",
       "path": "/vietnam/hanoi/hanoi/xi-cm"
+    },
+    {
+      "name": "ONVIT",
+      "cuisine": "Korean Contemporary",
+      "price": "$$$",
+      "path": "/vietnam/hanoi/hanoi/Onvit"
+    },
+    {
+      "name": "Bánh Cuốn Gia Truyền Thanh Vân (Hang Ga Street)",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/vietnam/hanoi/hanoi/BnhCunGiaTruynThanhVnHangGaStreet"
+    },
+    {
+      "name": "Chào Bạn (98 To Ngoc Van Street)",
+      "cuisine": "Vietnamese",
+      "price": "$",
+      "path": "/vietnam/hanoi/hanoi/ChoBn98ToNgocVanStreet"
+    },
+    {
+      "name": "Mammom",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/vietnam/hanoi/hanoi/Mammom"
+    },
+    {
+      "name": "Miến Lươn Chân Cầm (Hoàn Kiếm)",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/vietnam/hanoi/hanoi/MinLnChnCmHonKim"
+    },
+    {
+      "name": "Phở 10 Lý Quốc Sư (Hoàn Kiếm)",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/vietnam/hanoi/hanoi/Ph10LQucSHonKim"
+    },
+    {
+      "name": "Phở Gia Truyền (Hoàn Kiếm)",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/vietnam/hanoi/hanoi/PhGiaTruynHonKim"
+    },
+    {
+      "name": "Phở Hà Hàng Hòm",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/vietnam/hanoi/hanoi/PhHHngHm"
+    },
+    {
+      "name": "Bún Chả Hương Liên",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/vietnam/hanoi/hanoi/BnChHngLin"
+    },
+    {
+      "name": "Chả Cá Anh Vũ (Ô Chợ Dừa)",
+      "cuisine": "Vietnamese",
+      "price": "$",
+      "path": "/vietnam/hanoi/hanoi/ChCAnhVChDa"
+    },
+    {
+      "name": "French Grill​",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/vietnam/hanoi/hanoi/FrenchGrill"
+    },
+    {
+      "name": "Hiệu Lực Canh Cá Rô Hưng Yên (Hoàn Kiếm)",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/vietnam/hanoi/hanoi/HiuLcCanhCRHngYnHonKim"
+    },
+    {
+      "name": "MÀU",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/vietnam/hanoi/hanoi/Mu"
+    },
+    {
+      "name": "Phở Gà Huyền Hương",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/vietnam/hanoi/hanoi/PhGHuynHng"
+    },
+    {
+      "name": "Quán Ăn Ngon (Cửa Nam)",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/vietnam/hanoi/hanoi/QunNNgonCaNam"
+    },
+    {
+      "name": "Vị An (Đống Đa)",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/vietnam/hanoi/hanoi/VAnNgA"
+    },
+    {
+      "name": "Zao",
+      "cuisine": "Vietnamese Contemporary",
+      "price": "$$",
+      "path": "/vietnam/hanoi/hanoi/Zao"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Cannes",
-  "country": "france",
-  "region": "cannes",
-  "city": "cannes",
   "restaurants": [
     {
       "name": "Aux Bons Enfants",
@@ -39,6 +36,18 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/france/cannes/cannes/table-22-par-nol-mantel"
+    },
+    {
+      "name": "Côté Jardin by Steve Moracchini",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/cannes/cannes/CtJardinBySteveMoracchini"
+    },
+    {
+      "name": "Le Pompon",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/cannes/cannes/LePompon"
     }
   ]
 }

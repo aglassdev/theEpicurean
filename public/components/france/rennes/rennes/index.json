@@ -1,8 +1,5 @@
 {
   "title": "Rennes",
-  "country": "france",
-  "region": "rennes",
-  "city": "rennes",
   "restaurants": [
     {
       "name": "Bombance",
@@ -75,6 +72,18 @@
       "cuisine": "Japanese",
       "price": "€",
       "path": "/france/rennes/rennes/yoko"
+    },
+    {
+      "name": "Jozy",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/rennes/rennes/Jozy"
+    },
+    {
+      "name": "La Table de Balthazar",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/rennes/rennes/LaTableDeBalthazar"
     }
   ]
 }

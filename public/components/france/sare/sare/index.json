@@ -1,8 +1,5 @@
 {
   "title": "Sare",
-  "country": "france",
-  "region": "sare",
-  "city": "sare",
   "restaurants": [
     {
       "name": "Hordago",
@@ -15,6 +12,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/sare/sare/olhabidea"
+    },
+    {
+      "name": "Bizi Ona",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/sare/sare/BiziOna"
     }
   ]
 }

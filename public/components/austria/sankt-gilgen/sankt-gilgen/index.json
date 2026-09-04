@@ -1,8 +1,5 @@
 {
   "title": "Sankt Gilgen",
-  "country": "austria",
-  "region": "sankt-gilgen",
-  "city": "sankt-gilgen",
   "restaurants": [
     {
       "name": "Atelier Fischer",
@@ -15,6 +12,12 @@
       "cuisine": "International, Classic Cuisine",
       "price": "€€€€",
       "path": "/austria/sankt-gilgen/sankt-gilgen/luckys-restaurant-haus-am-hang"
+    },
+    {
+      "name": "Batzenhäusl",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/austria/sankt-gilgen/sankt-gilgen/Batzenhusl"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Nice",
-  "country": "france",
-  "region": "nice",
-  "city": "nice",
   "restaurants": [
     {
       "name": "Apopino",
@@ -231,6 +228,12 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
       "path": "/france/nice/nice/taulissa"
+    },
+    {
+      "name": "Onakaya",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/france/nice/nice/Onakaya"
     }
   ]
 }

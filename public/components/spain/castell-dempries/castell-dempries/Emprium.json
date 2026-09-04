@@ -1,0 +1,36 @@
+{
+  "restaurantName": "Empòrium",
+  "address": "Santa Clara 31, Castelló d'Empúries, 17486, Spain",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "$$$$",
+  "phoneNumber": "+34972250593",
+  "website": "https://www.emporiumhotel.com/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Interesting wine list"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "One Michelin Star",
+      "organization": "Michelin Guide",
+      "count": 1
+    },
+    {
+      "name": "Green Star",
+      "organization": "Michelin Guide",
+      "image": "/images/greenstar.png"
+    }
+  ],
+  "bio": "Named after the archaeological ruins at Empúries, this restaurant has declared its strong commitment to the gastronomy of the Alt Empordà by extolling the virtues of the sea and mountains that define the region.Located within the walls of the hotel of the same name, this eatery run by the same family since 1965 now has twins Màrius and Joan Jordà (the fourth generation) at the helm in the kitchen. In the impeccable dining room, they serve updated traditional cuisine that is not shy of creativity and which accentuates the flavours of the Alt Empordà through its use of locally sourced ingredients (fruit and vegetables from Torroella de Montgrí, fish from Port de la Selva and Roses, etc). The cuisine here is centred on two meticulous tasting menus (one shorter option called Mar y Montaña and a longer version called Universo Local), both with a wine pairing option.",
+  "pageTitle": "Empòrium"
+}

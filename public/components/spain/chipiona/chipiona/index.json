@@ -1,14 +1,17 @@
 {
   "title": "Chipiona",
-  "country": "spain",
-  "region": "chipiona",
-  "city": "chipiona",
   "restaurants": [
     {
       "name": "Casa Paco",
       "cuisine": "Seafood",
       "price": "€€",
       "path": "/spain/chipiona/chipiona/casa-paco"
+    },
+    {
+      "name": "Ghoa",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/spain/chipiona/chipiona/Ghoa"
     }
   ]
 }

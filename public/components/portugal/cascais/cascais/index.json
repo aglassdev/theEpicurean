@@ -1,8 +1,5 @@
 {
   "title": "Cascais",
-  "country": "portugal",
-  "region": "cascais",
-  "city": "cascais",
   "restaurants": [
     {
       "name": "Conceito",
@@ -33,6 +30,18 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/portugal/cascais/cascais/porto-santa-maria"
+    },
+    {
+      "name": "Maré - José Avillez",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/portugal/cascais/cascais/MarJosAvillez"
+    },
+    {
+      "name": "SULT Cascais",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/portugal/cascais/cascais/SultCascais"
     }
   ]
 }

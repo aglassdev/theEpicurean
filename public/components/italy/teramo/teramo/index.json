@@ -1,8 +1,5 @@
 {
   "title": "Teramo",
-  "country": "italy",
-  "region": "teramo",
-  "city": "teramo",
   "restaurants": [
     {
       "name": "Oishi",
@@ -15,6 +12,12 @@
       "cuisine": "Cuisine from Abruzzo, Contemporary",
       "price": "€€",
       "path": "/italy/teramo/teramo/spoon"
+    },
+    {
+      "name": "Entroterra Trattoria Sostenibile",
+      "cuisine": "Cuisine from Abruzzo",
+      "price": "$$",
+      "path": "/italy/teramo/teramo/EntroterraTrattoriaSostenibile"
     }
   ]
 }

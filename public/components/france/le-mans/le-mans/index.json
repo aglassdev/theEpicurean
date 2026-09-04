@@ -1,8 +1,5 @@
 {
   "title": "Le Mans",
-  "country": "france",
-  "region": "le-mans",
-  "city": "le-mans",
   "restaurants": [
     {
       "name": "L'Auberge de Bagatelle",
@@ -21,6 +18,12 @@
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/france/le-mans/le-mans/linsouciant"
+    },
+    {
+      "name": "La Table de Luc",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/le-mans/le-mans/LaTableDeLuc"
     }
   ]
 }

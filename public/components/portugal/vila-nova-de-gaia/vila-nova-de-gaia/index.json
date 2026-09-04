@@ -1,8 +1,5 @@
 {
   "title": "Vila Nova De Gaia",
-  "country": "portugal",
-  "region": "vila-nova-de-gaia",
-  "city": "vila-nova-de-gaia",
   "restaurants": [
     {
       "name": "The Yeatman",
@@ -21,6 +18,12 @@
       "cuisine": "Portuguese, Creative",
       "price": "€€€€",
       "path": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/vinha"
+    },
+    {
+      "name": "1638 Restaurant by Nacho Manzano",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/1638RestaurantByNachoManzano"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Munich",
-  "country": "germany",
-  "region": "munich",
-  "city": "munich",
   "restaurants": [
     {
       "name": "1804 Hirschau",
@@ -417,6 +414,24 @@
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
       "path": "/germany/munich/munich/zauberberg"
+    },
+    {
+      "name": "Landersdorfer & Innerhofer",
+      "cuisine": "Classic Cuisine",
+      "price": "$$$$",
+      "path": "/germany/munich/munich/LandersdorferInnerhofer"
+    },
+    {
+      "name": "NICE",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/germany/munich/munich/Nice"
+    },
+    {
+      "name": "Randale",
+      "cuisine": "Modern French",
+      "price": "$$$",
+      "path": "/germany/munich/munich/Randale"
     }
   ]
 }

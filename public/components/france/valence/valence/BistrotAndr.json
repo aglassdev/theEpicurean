@@ -1,0 +1,37 @@
+{
+  "restaurantName": "Bistrot André",
+  "address": "Pic, 285 avenue Victor-Hugo, Valence, 26000, France",
+  "cuisine": "Traditional Cuisine",
+  "priceRange": "$$$",
+  "phoneNumber": "+33475441532",
+  "website": "https://anne-sophie-pic.com/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Interesting wine list"
+    },
+    {
+      "name": "Notable sake list"
+    },
+    {
+      "name": "Terrace"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "The Pic family’s André bistro unveils a dialogue between tradition and modernity depicted by a spot-on score and bolstered by a truly outstanding wine cellar, courtesy of the gastronomic parent establishment, and high-flying sakes. The family’s heritage is celebrated with Jacques's mosaic of red mullet and foie gras and his orange-laced iced soufflé. Local trout gravlax is dotted with veggie and spicy touches, half-way between a vibrant tribute and fresh new start.",
+  "pageTitle": "Bistrot André"
+}

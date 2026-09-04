@@ -1,8 +1,5 @@
 {
   "title": "Tongeren",
-  "country": "belgium",
-  "region": "tongeren",
-  "city": "tongeren",
   "restaurants": [
     {
       "name": "Alter",
@@ -21,6 +18,12 @@
       "cuisine": "Modern Cuisine, French Contemporary",
       "price": "€€€€",
       "path": "/belgium/tongeren/tongeren/magis"
+    },
+    {
+      "name": "Hēdonē",
+      "cuisine": "Modern French",
+      "price": "$$$",
+      "path": "/belgium/tongeren/tongeren/Hdon"
     }
   ]
 }

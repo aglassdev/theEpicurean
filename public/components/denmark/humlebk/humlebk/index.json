@@ -1,14 +1,17 @@
 {
   "title": "Humlebk",
-  "country": "denmark",
-  "region": "humlebk",
-  "city": "humlebk",
   "restaurants": [
     {
       "name": "Restaurant Sletten",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/denmark/humlebk/humlebk/restaurant-sletten"
+    },
+    {
+      "name": "Restaurant Sletten",
+      "cuisine": "Modern Cuisine",
+      "price": "$",
+      "path": "/denmark/humlebk/humlebk/RestaurantSletten"
     }
   ]
 }

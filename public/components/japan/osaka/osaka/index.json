@@ -1,8 +1,5 @@
 {
   "title": "Osaka",
-  "country": "japan",
-  "region": "osaka",
-  "city": "osaka",
   "restaurants": [
     {
       "name": "Ñ",
@@ -1557,6 +1554,60 @@
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/zeshin"
+    },
+    {
+      "name": "Mendokoro Subete",
+      "cuisine": "Ramen",
+      "price": "$",
+      "path": "/japan/osaka/osaka/MendokoroSubete"
+    },
+    {
+      "name": "Tonkatsu Minato",
+      "cuisine": "Tonkatsu",
+      "price": "$",
+      "path": "/japan/osaka/osaka/TonkatsuMinato"
+    },
+    {
+      "name": "Fujiichi",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/japan/osaka/osaka/Fujiichi"
+    },
+    {
+      "name": "Fukunoya",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/japan/osaka/osaka/Fukunoya"
+    },
+    {
+      "name": "KAKAN",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/japan/osaka/osaka/Kakan"
+    },
+    {
+      "name": "Mugunfa",
+      "cuisine": "Korean",
+      "price": "$$",
+      "path": "/japan/osaka/osaka/Mugunfa"
+    },
+    {
+      "name": "Sumibiyakitori Torio",
+      "cuisine": "Yakitori",
+      "price": "$$",
+      "path": "/japan/osaka/osaka/SumibiyakitoriTorio"
+    },
+    {
+      "name": "Tempura Kawaharasaki",
+      "cuisine": "Tempura",
+      "price": "$$$",
+      "path": "/japan/osaka/osaka/TempuraKawaharasaki"
+    },
+    {
+      "name": "épa",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/japan/osaka/osaka/Pa"
     }
   ]
 }

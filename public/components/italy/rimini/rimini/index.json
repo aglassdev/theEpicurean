@@ -1,8 +1,5 @@
 {
   "title": "Rimini",
-  "country": "italy",
-  "region": "rimini",
-  "city": "rimini",
   "restaurants": [
     {
       "name": "Abocar Due Cucine",
@@ -45,6 +42,12 @@
       "cuisine": "Creative, Seafood",
       "price": "€€",
       "path": "/italy/rimini/rimini/quartopiano"
+    },
+    {
+      "name": "La Marianna",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/italy/rimini/rimini/LaMarianna"
     }
   ]
 }

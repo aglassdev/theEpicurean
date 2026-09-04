@@ -1,8 +1,5 @@
 {
   "title": "Seoul",
-  "country": "south-korea",
-  "region": "seoul",
-  "city": "seoul",
   "restaurants": [
     {
       "name": "3rd Samgyetang",
@@ -1257,6 +1254,24 @@
       "cuisine": "Chinese",
       "price": "₩₩",
       "path": "/south-korea/seoul/seoul/zhonghuafuchun-salon"
+    },
+    {
+      "name": "Cantique",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/south-korea/seoul/seoul/Cantique"
+    },
+    {
+      "name": "Grandir",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/south-korea/seoul/seoul/Grandir"
+    },
+    {
+      "name": "Yoon Haeundae Galbi",
+      "cuisine": "Barbecue",
+      "price": "$$",
+      "path": "/south-korea/seoul/seoul/YoonHaeundaeGalbi"
     }
   ]
 }

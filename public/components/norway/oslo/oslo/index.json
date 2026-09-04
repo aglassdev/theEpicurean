@@ -1,8 +1,5 @@
 {
   "title": "Oslo",
-  "country": "norway",
-  "region": "oslo",
-  "city": "oslo",
   "restaurants": [
     {
       "name": "Arakataka",
@@ -183,6 +180,24 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/norway/oslo/oslo/varemottaket"
+    },
+    {
+      "name": "Credo",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/norway/oslo/oslo/Credo"
+    },
+    {
+      "name": "Festningen Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/norway/oslo/oslo/FestningenRestaurant"
+    },
+    {
+      "name": "Izakaya by Vladimir Pak",
+      "cuisine": "Japanese",
+      "price": "$$",
+      "path": "/norway/oslo/oslo/IzakayaByVladimirPak"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Piacenza",
-  "country": "italy",
-  "region": "piacenza",
-  "city": "piacenza",
   "restaurants": [
     {
       "name": "IO",
@@ -15,6 +12,12 @@
       "cuisine": "Emilian",
       "price": "€€",
       "path": "/italy/piacenza/piacenza/osteria-del-trentino-da-marco"
+    },
+    {
+      "name": "Sant’Agostino",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/italy/piacenza/piacenza/Santagostino"
     }
   ]
 }

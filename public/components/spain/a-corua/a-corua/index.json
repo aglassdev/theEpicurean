@@ -1,8 +1,5 @@
 {
   "title": "A Corua",
-  "country": "spain",
-  "region": "a-corua",
-  "city": "a-corua",
   "restaurants": [
     {
       "name": "A Espiga",
@@ -105,6 +102,12 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/a-corua/a-corua/terreo-cocina-casual"
+    },
+    {
+      "name": "Gunnen",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/spain/a-corua/a-corua/Gunnen"
     }
   ]
 }

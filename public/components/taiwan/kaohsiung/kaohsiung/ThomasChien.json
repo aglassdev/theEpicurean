@@ -1,0 +1,30 @@
+{
+  "restaurantName": "Thomas Chien",
+  "address": "11 Chenggong 2nd Road, Cianjhen District, Kaohsiung, Taiwan",
+  "cuisine": "French Contemporary",
+  "priceRange": "$$$",
+  "phoneNumber": "+88675369436",
+  "website": "https://thomaschien.com",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Car park"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    },
+    {
+      "name": "Green Star",
+      "organization": "Michelin Guide",
+      "image": "/images/greenstar.png"
+    }
+  ],
+  "bio": "This eatery sports a coastal theme following a recent makeover and natural materials like rattan, wood and oyster shell paint are used to great effect. After years in classical French cooking, chef Chien offers a set menu that changes every quarter, using the freshest produce from small local farms. His signature warm salad with 40 different veggies, the precise ingredients and cooking of which can vary, is the chef’s love letter to Southern Taiwan.",
+  "pageTitle": "Thomas Chien"
+}

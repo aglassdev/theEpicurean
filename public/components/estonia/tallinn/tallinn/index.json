@@ -1,8 +1,5 @@
 {
   "title": "Tallinn",
-  "country": "estonia",
-  "region": "tallinn",
-  "city": "tallinn",
   "restaurants": [
     {
       "name": "180° by Matthias Diether",
@@ -177,6 +174,48 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/estonia/tallinn/tallinn/vivi"
+    },
+    {
+      "name": "FUME",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/estonia/tallinn/tallinn/Fume"
+    },
+    {
+      "name": "Vesta",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/estonia/tallinn/tallinn/Vesta"
+    },
+    {
+      "name": "Cafe Tempo",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/estonia/tallinn/tallinn/CafeTempo"
+    },
+    {
+      "name": "Põhjala Tap Room",
+      "cuisine": "Barbecue",
+      "price": "$$",
+      "path": "/estonia/tallinn/tallinn/PhjalaTapRoom"
+    },
+    {
+      "name": "Restoran O2",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/estonia/tallinn/tallinn/RestoranO2"
+    },
+    {
+      "name": "Sadu",
+      "cuisine": "Korean",
+      "price": "$$",
+      "path": "/estonia/tallinn/tallinn/Sadu"
+    },
+    {
+      "name": "Bocca",
+      "cuisine": "",
+      "price": "",
+      "path": "/estonia/tallinn/tallinn/Bocca"
     }
   ]
 }

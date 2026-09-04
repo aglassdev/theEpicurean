@@ -1,8 +1,5 @@
 {
   "title": "Suresnes",
-  "country": "france",
-  "region": "suresnes",
-  "city": "suresnes",
   "restaurants": [
     {
       "name": "Bistro Là-Haut",
@@ -21,6 +18,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/suresnes/suresnes/les-petits-princes"
+    },
+    {
+      "name": "Arietis",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/suresnes/suresnes/Arietis"
     }
   ]
 }

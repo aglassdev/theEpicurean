@@ -1,0 +1,25 @@
+{
+  "restaurantName": "Melograno",
+  "address": "5-24-2 Hiro, Shibuya-ku, Tokyo, 150-0012, Japan",
+  "cuisine": "Italian",
+  "priceRange": "$$$",
+  "phoneNumber": "+81364593625",
+  "website": "https://melograno.jp/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Counter dining"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "‘Melograno‘ is Italian for ‘pomegranate’, a symbol of the prosperity of one’s descendants. The name was given by the chef’s mentor back where he apprenticed, wishing for the success of his business. The chef himself is already training his successors, passing on further growth to the next generation. Fun and freedom are the qualities he seeks in his cooking. His potato-and-truffle tart takes inspiration from Italian desserts. A place to enjoy à la carte Italian cuisine inspired by Japanese ingredients.",
+  "pageTitle": "Melograno"
+}

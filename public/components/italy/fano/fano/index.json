@@ -1,8 +1,5 @@
 {
   "title": "Fano",
-  "country": "italy",
-  "region": "fano",
-  "city": "fano",
   "restaurants": [
     {
       "name": "Alla Lanterna",
@@ -27,6 +24,12 @@
       "cuisine": "Cuisine from the Marches, Traditional Cuisine",
       "price": "€",
       "path": "/italy/fano/fano/osteria-dalla-peppa"
+    },
+    {
+      "name": "Cile's Bistrot",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/italy/fano/fano/CilesBistrot"
     }
   ]
 }

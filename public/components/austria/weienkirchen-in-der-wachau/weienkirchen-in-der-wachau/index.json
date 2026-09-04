@@ -1,8 +1,5 @@
 {
   "title": "Weienkirchen In Der Wachau",
-  "country": "austria",
-  "region": "weienkirchen-in-der-wachau",
-  "city": "weienkirchen-in-der-wachau",
   "restaurants": [
     {
       "name": "Jamek",
@@ -15,6 +12,12 @@
       "cuisine": "Regional Cuisine",
       "price": "€€",
       "path": "/austria/weienkirchen-in-der-wachau/weienkirchen-in-der-wachau/prandtauerhof-gutshofrestaurant"
+    },
+    {
+      "name": "Heinzle",
+      "cuisine": "Regional Cuisine",
+      "price": "$$",
+      "path": "/austria/weienkirchen-in-der-wachau/weienkirchen-in-der-wachau/Heinzle"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Rust",
-  "country": "germany",
-  "region": "rust",
-  "city": "rust",
   "restaurants": [
     {
       "name": "ammolite - The Lighthouse Restaurant",
@@ -15,6 +12,12 @@
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
       "path": "/germany/rust/rust/eatrenalin"
+    },
+    {
+      "name": "Ammolite - House of Light",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/germany/rust/rust/AmmoliteHouseOfLight"
     }
   ]
 }

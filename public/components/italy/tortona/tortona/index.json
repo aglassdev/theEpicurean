@@ -1,8 +1,5 @@
 {
   "title": "Tortona",
-  "country": "italy",
-  "region": "tortona",
-  "city": "tortona",
   "restaurants": [
     {
       "name": "Cavallino",
@@ -21,6 +18,12 @@
       "cuisine": "Piedmontese, Traditional Cuisine",
       "price": "€€",
       "path": "/italy/tortona/tortona/vineria-derthona"
+    },
+    {
+      "name": "Ciccio Bistrot",
+      "cuisine": "Piedmontese",
+      "price": "$$",
+      "path": "/italy/tortona/tortona/CiccioBistrot"
     }
   ]
 }

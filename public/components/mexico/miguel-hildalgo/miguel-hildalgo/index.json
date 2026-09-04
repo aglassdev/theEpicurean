@@ -1,8 +1,5 @@
 {
   "title": "Miguel Hildalgo",
-  "country": "mexico",
-  "region": "miguel-hildalgo",
-  "city": "miguel-hildalgo",
   "restaurants": [
     {
       "name": "Aúna",
@@ -81,6 +78,12 @@
       "cuisine": "Mexican",
       "price": "$",
       "path": "/mexico/miguel-hildalgo/miguel-hildalgo/siembra-tortillera"
+    },
+    {
+      "name": "La Once Mil",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/mexico/miguel-hildalgo/miguel-hildalgo/LaOnceMil"
     }
   ]
 }

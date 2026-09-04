@@ -1,8 +1,5 @@
 {
   "title": "Weert",
-  "country": "netherlands",
-  "region": "weert",
-  "city": "weert",
   "restaurants": [
     {
       "name": "Flavours",
@@ -21,6 +18,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/netherlands/weert/weert/oh30"
+    },
+    {
+      "name": "Bistro Luux",
+      "cuisine": "French",
+      "price": "$$",
+      "path": "/netherlands/weert/weert/BistroLuux"
     }
   ]
 }

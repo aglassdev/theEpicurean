@@ -1,8 +1,5 @@
 {
   "title": "Ste",
-  "country": "france",
-  "region": "ste",
-  "city": "ste",
   "restaurants": [
     {
       "name": "La Coquerie",
@@ -21,6 +18,12 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
       "path": "/france/ste/ste/quai-17"
+    },
+    {
+      "name": "Embrun",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/ste/ste/Embrun"
     }
   ]
 }

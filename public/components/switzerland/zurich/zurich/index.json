@@ -1,8 +1,5 @@
 {
   "title": "Zurich",
-  "country": "switzerland",
-  "region": "zurich",
-  "city": "zurich",
   "restaurants": [
     {
       "name": "Accademia del Gusto",
@@ -405,6 +402,18 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/switzerland/zurich/zurich/wschi"
+    },
+    {
+      "name": "Rigiblick",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/switzerland/zurich/zurich/Rigiblick"
+    },
+    {
+      "name": "Soi 28 by Heilemann",
+      "cuisine": "Asian",
+      "price": "$$",
+      "path": "/switzerland/zurich/zurich/Soi28ByHeilemann"
     }
   ]
 }

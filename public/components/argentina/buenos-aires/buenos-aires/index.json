@@ -1,8 +1,5 @@
 {
   "title": "Buenos Aires",
-  "country": "argentina",
-  "region": "buenos-aires",
-  "city": "buenos-aires",
   "restaurants": [
     {
       "name": "4ta Pared",
@@ -327,6 +324,66 @@
       "cuisine": "Japanese",
       "price": "$$$$",
       "path": "/argentina/buenos-aires/buenos-aires/uni-omakase"
+    },
+    {
+      "name": "Chuchú",
+      "cuisine": "Argentinian",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/Chuch"
+    },
+    {
+      "name": "Garabato Bistro",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/GarabatoBistro"
+    },
+    {
+      "name": "Casa Palanti",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/CasaPalanti"
+    },
+    {
+      "name": "Casa Veltri",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/CasaVeltri"
+    },
+    {
+      "name": "Duhau Restaurante & Vinoteca",
+      "cuisine": "Grills",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/DuhauRestauranteVinoteca"
+    },
+    {
+      "name": "José El Carnicero",
+      "cuisine": "Grills",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/JosElCarnicero"
+    },
+    {
+      "name": "Ness",
+      "cuisine": "Grills",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/Ness"
+    },
+    {
+      "name": "Nika Club Omakase",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/NikaClubOmakase"
+    },
+    {
+      "name": "Presencia",
+      "cuisine": "European Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/Presencia"
+    },
+    {
+      "name": "Tegui",
+      "cuisine": "",
+      "price": "",
+      "path": "/argentina/buenos-aires/buenos-aires/Tegui"
     }
   ]
 }

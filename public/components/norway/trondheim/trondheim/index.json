@@ -1,8 +1,5 @@
 {
   "title": "Trondheim",
-  "country": "norway",
-  "region": "trondheim",
-  "city": "trondheim",
   "restaurants": [
     {
       "name": "FAGN",
@@ -33,6 +30,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/norway/trondheim/trondheim/tollbua"
+    },
+    {
+      "name": "Restaurant Saga",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/norway/trondheim/trondheim/RestaurantSaga"
     }
   ]
 }

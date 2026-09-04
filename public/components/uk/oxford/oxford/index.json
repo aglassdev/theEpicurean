@@ -1,8 +1,5 @@
 {
   "title": "Oxford",
-  "country": "uk",
-  "region": "oxford",
-  "city": "oxford",
   "restaurants": [
     {
       "name": "Arbequina",
@@ -27,6 +24,18 @@
       "cuisine": "French",
       "price": "££",
       "path": "/uk/oxford/oxford/pompette"
+    },
+    {
+      "name": "Le Manoir aux Quat'Saison",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/oxford/oxford/LeManoirAuxQuatsaison"
+    },
+    {
+      "name": "Le Manoir aux Quat'Saisons",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/oxford/oxford/LeManoirAuxQuatsaisons"
     }
   ]
 }

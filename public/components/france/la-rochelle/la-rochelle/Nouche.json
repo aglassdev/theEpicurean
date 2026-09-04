@@ -1,0 +1,25 @@
+{
+  "restaurantName": "Nouche",
+  "address": "46 rue Saint-Jean-du-Pérot, La Rochelle, 17000, France",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "$$",
+  "phoneNumber": "+33546510537",
+  "website": "https://nouche.restaurant/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Chef Chloé Clamens runs this bistro nestled in a lively street by the port. The attentive and friendly team immediately make you feel welcome in this space that exudes authenticity – exposed stone and light-coloured wood, a handsome vaulted cellar, and a small terrace. The concise menu eschews frills and opaque names, instead highlighting the quality of the ingredients, which are prepared precisely and simply. Examples include \"pâté Grand-Mère\" or veal onglet with morels served with fregola sarda.",
+  "pageTitle": "Nouche"
+}

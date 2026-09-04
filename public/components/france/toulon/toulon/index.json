@@ -1,8 +1,5 @@
 {
   "title": "Toulon",
-  "country": "france",
-  "region": "toulon",
-  "city": "toulon",
   "restaurants": [
     {
       "name": "Au Sourd",
@@ -39,6 +36,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/toulon/toulon/shanael"
+    },
+    {
+      "name": "Canova",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/toulon/toulon/Canova"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "restaurantName": "Le Saint-Amour",
+  "address": "48 rue Sainte-Ursule, Québec, G1R 4E2, Canada",
+  "cuisine": "French",
+  "priceRange": "$$$$",
+  "phoneNumber": "+14186940667",
+  "website": "https://www.saint-amour.com/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Interesting wine list"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Jean-Luc Boulay's iconic restaurant features a spacious Art Nouveau dining room with a 10m-high glass ceiling. The cuisine – classically French and masterfully executed – showcases Quebec's terroir through meats such as venison, calf sweetbreads and lamb. The house foie gras and pigeon count among its signature dishes. From start to finish, the food is consistently excellent. Attentive service and an extensive wine list round off the experience.",
+  "pageTitle": "Le Saint-Amour"
+}

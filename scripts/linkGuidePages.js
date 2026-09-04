@@ -45,7 +45,7 @@ if (!fs.existsSync(GEO_PATH)) {
 // ── Index every detail page: filename → [{ route, citySlug }] ─────────────────
 console.log('Indexing in-guide detail pages…');
 const files = fs.readdirSync(COMPONENTS, { recursive: true })
-  .filter((f) => f.endsWith('.json') && !/index\.json$/.test(f) && !/Restaurants[^/\\]*\.json$/i.test(f));
+  .filter((f) => f.endsWith('.json') && !/index\.json$/.test(f) && !/(^|[\\/])Restaurants\.json$/i.test(f));
 
 const index = new Map();
 for (const rel of files) {

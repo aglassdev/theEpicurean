@@ -1,0 +1,34 @@
+{
+  "restaurantName": "La Table de Florent",
+  "address": "3 rue Joliot-Curie, Rochechouart, 87600, France",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "$$",
+  "phoneNumber": "+33544245887",
+  "website": "https://www.latabledeflorent.com/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Garden or park"
+    },
+    {
+      "name": "Terrace"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "In a converted barn that oozes charm, Florent Linard has created an ambiance that is entirely in keeping with his personal style. The open kitchen set beneath rafters sets the tone as he circulates between the kitchen and the tables to welcome guests and take orders. His sincere, honest cuisine revolves around ingredients and flavours: crispy beef tongue seasoned with bottarga, pan-fried foie gras; Dordogne trout cooked on one side, rillettes and escargot beurre blanc.",
+  "pageTitle": "La Table de Florent"
+}

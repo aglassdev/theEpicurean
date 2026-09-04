@@ -1,8 +1,5 @@
 {
   "title": "Saint Florent",
-  "country": "france",
-  "region": "saint-florent",
-  "city": "saint-florent",
   "restaurants": [
     {
       "name": "La Gaffe",
@@ -21,6 +18,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/saint-florent/saint-florent/mathys"
+    },
+    {
+      "name": "La Table de La Roya",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/saint-florent/saint-florent/LaTableDeLaRoya"
     }
   ]
 }

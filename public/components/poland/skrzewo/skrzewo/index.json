@@ -1,14 +1,17 @@
 {
   "title": "Skrzewo",
-  "country": "poland",
-  "region": "skrzewo",
-  "city": "skrzewo",
   "restaurants": [
     {
       "name": "Nare Sushi",
       "cuisine": "Japanese",
       "price": "€€",
       "path": "/poland/skrzewo/skrzewo/nare-sushi"
+    },
+    {
+      "name": "Farmer & Sons",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/poland/skrzewo/skrzewo/FarmerSons"
     }
   ]
 }

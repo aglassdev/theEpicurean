@@ -1,8 +1,5 @@
 {
   "title": "Hamburg",
-  "country": "germany",
-  "region": "hamburg",
-  "city": "hamburg",
   "restaurants": [
     {
       "name": "100/200 Kitchen",
@@ -351,6 +348,42 @@
       "cuisine": "Portuguese, Mediterranean Cuisine",
       "price": "€€",
       "path": "/germany/hamburg/hamburg/zur-flottbeker-schmiede"
+    },
+    {
+      "name": "CYN CYN",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/germany/hamburg/hamburg/CynCyn"
+    },
+    {
+      "name": "GASSENHAUR",
+      "cuisine": "Austrian",
+      "price": "$$",
+      "path": "/germany/hamburg/hamburg/Gassenhaur"
+    },
+    {
+      "name": "Bullerei",
+      "cuisine": "Meats and Grills",
+      "price": "$$$",
+      "path": "/germany/hamburg/hamburg/Bullerei"
+    },
+    {
+      "name": "GRETA OTO Hamburg",
+      "cuisine": "Latin American",
+      "price": "$$$",
+      "path": "/germany/hamburg/hamburg/GretaOtoHamburg"
+    },
+    {
+      "name": "am kai | restaurant. seafood. drinks. elbblick",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/germany/hamburg/hamburg/AmKaiRestaurantSeafoodDrinksElbblick"
+    },
+    {
+      "name": "jfk.",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/germany/hamburg/hamburg/Jfk"
     }
   ]
 }

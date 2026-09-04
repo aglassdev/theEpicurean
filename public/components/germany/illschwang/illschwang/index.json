@@ -1,8 +1,5 @@
 {
   "title": "Illschwang",
-  "country": "germany",
-  "region": "illschwang",
-  "city": "illschwang",
   "restaurants": [
     {
       "name": "Cheval Blanc",
@@ -15,6 +12,12 @@
       "cuisine": "Country cooking, Farm to table",
       "price": "€€",
       "path": "/germany/illschwang/illschwang/weies-ro"
+    },
+    {
+      "name": "Wurzel",
+      "cuisine": "Vegan",
+      "price": "$$",
+      "path": "/germany/illschwang/illschwang/Wurzel"
     }
   ]
 }

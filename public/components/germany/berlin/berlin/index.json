@@ -1,8 +1,5 @@
 {
   "title": "Berlin",
-  "country": "germany",
-  "region": "berlin",
-  "city": "berlin",
   "restaurants": [
     {
       "name": "136",
@@ -495,6 +492,54 @@
       "cuisine": "Modern Cuisine, Sushi",
       "price": "€€€€",
       "path": "/germany/berlin/berlin/vox-restaurant"
+    },
+    {
+      "name": "CHEZ NASSIB",
+      "cuisine": "Lebanese",
+      "price": "$$",
+      "path": "/germany/berlin/berlin/ChezNassib"
+    },
+    {
+      "name": "Salhino",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/germany/berlin/berlin/Salhino"
+    },
+    {
+      "name": "FUKAGAWA - Fine Dining",
+      "cuisine": "Japanese Contemporary",
+      "price": "$$$$",
+      "path": "/germany/berlin/berlin/FukagawaFineDining"
+    },
+    {
+      "name": "Fukagawa Ramen XBerg",
+      "cuisine": "Ramen",
+      "price": "$",
+      "path": "/germany/berlin/berlin/FukagawaRamenXberg"
+    },
+    {
+      "name": "Julius Ernst",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/germany/berlin/berlin/JuliusErnst"
+    },
+    {
+      "name": "Li.Ke Thai Vegan",
+      "cuisine": "Vegetarian",
+      "price": "$",
+      "path": "/germany/berlin/berlin/LikeThaiVegan"
+    },
+    {
+      "name": "Norms",
+      "cuisine": "Regional Cuisine",
+      "price": "$$$",
+      "path": "/germany/berlin/berlin/Norms"
+    },
+    {
+      "name": "Restaurant Tim Raue",
+      "cuisine": "",
+      "price": "",
+      "path": "/germany/berlin/berlin/RestaurantTimRaue"
     }
   ]
 }

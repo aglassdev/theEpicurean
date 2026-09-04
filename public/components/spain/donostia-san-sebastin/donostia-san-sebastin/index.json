@@ -1,8 +1,5 @@
 {
   "title": "Donostia San Sebastin",
-  "country": "spain",
-  "region": "donostia-san-sebastin",
-  "city": "donostia-san-sebastin",
   "restaurants": [
     {
       "name": "Agorregi",
@@ -153,6 +150,18 @@
       "cuisine": "Traditional Cuisine, Contemporary",
       "price": "€€€",
       "path": "/spain/donostia-san-sebastin/donostia-san-sebastin/zelai-txiki"
+    },
+    {
+      "name": "887",
+      "cuisine": "Fusion",
+      "price": "$$$$",
+      "path": "/spain/donostia-san-sebastin/donostia-san-sebastin/887"
+    },
+    {
+      "name": "Sua.Muka",
+      "cuisine": "Grills",
+      "price": "$$",
+      "path": "/spain/donostia-san-sebastin/donostia-san-sebastin/Suamuka"
     }
   ]
 }

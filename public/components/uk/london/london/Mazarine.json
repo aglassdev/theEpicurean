@@ -1,0 +1,31 @@
+{
+  "restaurantName": "Mazarine",
+  "address": "22 Hanover Square, Mayfair, London, W1S 1JA, United Kingdom",
+  "cuisine": "Seafood",
+  "priceRange": "$$$",
+  "phoneNumber": "+442037500599",
+  "website": "https://mazarinerestaurant.com/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Pets allowed only in outdoor dining areas (patio/terrace)"
+    },
+    {
+      "name": "Terrace"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "On the corner of the leafy Hanover Square in London’s most upmarket neighbourhood, Mazarine comes with an appropriately formal feel to both its service and the linen-laid décor. The neutral tones of the dining room ensure the focus remains on the premium seafood that drives the menu, which is generally prepared with a classically French approach. The likes of grilled scallops with roasted hazelnuts look simple but harbour depth of flavour thanks to the superior quality of the ingredients. If you’re celebrating, the oysters, caviar and grilled langoustines are all hard to resist.",
+  "pageTitle": "Mazarine"
+}

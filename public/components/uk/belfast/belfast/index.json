@@ -1,8 +1,5 @@
 {
   "title": "Belfast",
-  "country": "uk",
-  "region": "belfast",
-  "city": "belfast",
   "restaurants": [
     {
       "name": "Beau",
@@ -87,6 +84,12 @@
       "cuisine": "Asian, Fusion",
       "price": "££",
       "path": "/uk/belfast/belfast/yugo"
+    },
+    {
+      "name": "Home",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/uk/belfast/belfast/Home"
     }
   ]
 }

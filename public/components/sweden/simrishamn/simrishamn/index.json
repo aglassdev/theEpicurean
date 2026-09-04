@@ -1,14 +1,17 @@
 {
   "title": "Simrishamn",
-  "country": "sweden",
-  "region": "simrishamn",
-  "city": "simrishamn",
   "restaurants": [
     {
       "name": "VYN",
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/sweden/simrishamn/simrishamn/vyn"
+    },
+    {
+      "name": "Vyn Food & Wine Bar",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/sweden/simrishamn/simrishamn/VynFoodWineBar"
     }
   ]
 }

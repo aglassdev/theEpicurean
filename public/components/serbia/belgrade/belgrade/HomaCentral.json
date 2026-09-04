@@ -1,0 +1,31 @@
+{
+  "restaurantName": "Homa Central",
+  "address": "Senjanina Ive 4, Belgrade, 11000, Serbia",
+  "cuisine": "Creative",
+  "priceRange": "$$$$",
+  "phoneNumber": "+381113286659",
+  "website": "https://www.homa.rs",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Interesting wine list"
+    },
+    {
+      "name": "Pets allowed everywhere"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "It may be located in the historic Dorćol quarter, but Homa sports a thoroughly modern look and feel. Take a seat on the leafy terrace during the day, or in the softly lit restaurant come nightfall, to enjoy modern bistro cuisine with an emphasis on Mediterranean influences, in an informal atmosphere.",
+  "pageTitle": "Homa Central"
+}

@@ -1,0 +1,25 @@
+{
+  "restaurantName": "Le Clémence",
+  "address": "91 Levée-de-la-Divatte, Saint-Julien-de-Concelles, 44450, France",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "$$",
+  "phoneNumber": "+33228009921",
+  "website": "https://www.restaurantleclemence.com/",
+  "tags": [
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Chef Philippe Maizières is breathing new life into this inn on the banks of the River Loire, where Clémence Lefeuvre invented the beurre blanc sauce around 1890. Maizières, who trained with Jean-François Piège at Le Parc Les Crayères and Clos des Sens, signs a concise, legible menu rooted in the Loire. An example: fillet of hake, paired with a medley of cauliflower and a… beurre blanc sauce.",
+  "pageTitle": "Le Clémence"
+}

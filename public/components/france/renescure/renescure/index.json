@@ -1,14 +1,17 @@
 {
   "title": "Renescure",
-  "country": "france",
-  "region": "renescure",
-  "city": "renescure",
   "restaurants": [
     {
       "name": "La Table de Romain",
       "cuisine": "Traditional Cuisine",
       "price": "€",
       "path": "/france/renescure/renescure/la-table-de-romain"
+    },
+    {
+      "name": "La Table de Romain",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/renescure/renescure/LaTableDeRomain"
     }
   ]
 }

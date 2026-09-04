@@ -1,0 +1,31 @@
+{
+  "restaurantName": "Meraviglioso",
+  "address": "Largo Gelso 16, Polignano a Mare, 70044, Italy",
+  "cuisine": "Contemporary",
+  "priceRange": "$$$",
+  "phoneNumber": "+390804249509",
+  "website": "https://www.ristorantemeraviglioso.it",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Great view"
+    },
+    {
+      "name": "Pets allowed everywhere"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "A few metres from Modugno’s statue and a breathtaking sea-facing balcony, with picturesque houses perched above Polignano, you’ll find exceptional cuisine, the creation of Andrea Vicario, whose hands craft predominantly seafood dishes with high effect and quality, showcasing a great passion—amongst mains—for charcoal cooking.",
+  "pageTitle": "Meraviglioso"
+}

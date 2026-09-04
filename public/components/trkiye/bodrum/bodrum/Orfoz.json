@@ -1,0 +1,30 @@
+{
+  "restaurantName": "Orfoz",
+  "address": "Kumbahçe Mahallesi, Zeki Müren Caddesi No:13/1, Bodrum, 48400, Türkiye",
+  "cuisine": "Seafood",
+  "priceRange": "$$$",
+  "phoneNumber": "+905443164285",
+  "website": "https://orfoz.net/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    },
+    {
+      "name": "Green Star",
+      "organization": "Michelin Guide",
+      "image": "/images/greenstar.png"
+    }
+  ],
+  "bio": "The beautiful bay this restaurant overlooks is the pride of the Bozçağa brothers – not only for the azure waters, but also the bountiful fish and seafood they have to offer. Their family-run restaurant specialises in seafood and plant-forward cuisine. A commitment to locally sourced ingredients and short supply chains ensures exceptional quality. The chefs' love for the sea is palpable in every dish, from sea snails cooked in a court bouillon and finished with a herb cream accented with a pronounced hint of garlic, to eel that is confit and lightly smoked, resulting in a buttery texture. It is worth perusing the wine list, as it is clearly a passion of the owners and even includes some of their own labels.",
+  "pageTitle": "Orfoz"
+}

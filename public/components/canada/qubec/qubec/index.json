@@ -1,8 +1,5 @@
 {
   "title": "Qubec",
-  "country": "canada",
-  "region": "qubec",
-  "city": "qubec",
   "restaurants": [
     {
       "name": "Alentours",
@@ -357,6 +354,24 @@
       "cuisine": "Japanese, Izakaya",
       "price": "$$",
       "path": "/canada/qubec/qubec/torii-izakaya"
+    },
+    {
+      "name": "Le 101 Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/canada/qubec/qubec/Le101Restaurant"
+    },
+    {
+      "name": "Le Saint-Amour",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/canada/qubec/qubec/LeSaintamour"
+    },
+    {
+      "name": "Verre Pickl’",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/canada/qubec/qubec/VerrePickl"
     }
   ]
 }

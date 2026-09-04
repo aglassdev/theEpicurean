@@ -1,0 +1,34 @@
+{
+  "restaurantName": "L'Amarette",
+  "address": "Centre Commercial Camargue 2000, Port-Camargue, Le Grau-du-Roi, 30240, France",
+  "cuisine": "Seafood",
+  "priceRange": "$$",
+  "phoneNumber": "+33466514763",
+  "website": "https://www.lamarette.fr",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Great view"
+    },
+    {
+      "name": "Terrace"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Overlooking the marina, this upstairs restaurant commands a splendid view over the Bay of Aigues-Mortes and La Grande-Motte from its glazed terrace. It is run by a dedicated and enthusiastic young couple who firmly believes in serving healthy portions of super fresh seafood, sourced straight from the Grau-du-Roi fish auction: textbook perfect bouillabaisse, sole meunière, grilled turbot or brill, seafood platters. Cheerful service.",
+  "pageTitle": "L'Amarette"
+}

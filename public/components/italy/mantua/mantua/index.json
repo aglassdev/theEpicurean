@@ -1,8 +1,5 @@
 {
   "title": "Mantua",
-  "country": "italy",
-  "region": "mantua",
-  "city": "mantua",
   "restaurants": [
     {
       "name": "Lo Scalco Grasso",
@@ -15,6 +12,12 @@
       "cuisine": "Contemporary, Lombardian",
       "price": "€€",
       "path": "/italy/mantua/mantua/scar-brsc"
+    },
+    {
+      "name": "Il Cigno",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/italy/mantua/mantua/IlCigno"
     }
   ]
 }

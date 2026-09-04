@@ -1,14 +1,17 @@
 {
   "title": "Frisange",
-  "country": "luxembourg",
-  "region": "frisange",
-  "city": "frisange",
   "restaurants": [
     {
       "name": "Léa Linster",
       "cuisine": "Modern French",
       "price": "€€€€",
       "path": "/luxembourg/frisange/frisange/la-linster"
+    },
+    {
+      "name": "Louis Linster",
+      "cuisine": "Modern French",
+      "price": "$$$$",
+      "path": "/luxembourg/frisange/frisange/LouisLinster"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "restaurantName": "George V Restaurant",
+  "address": "Ashford Castle, Cong, F31 CA48, Ireland",
+  "cuisine": "Classic Cuisine",
+  "priceRange": "$$$$",
+  "phoneNumber": "+353949546003",
+  "website": "https://ashfordcastle.com/dining-and-drinks/george-v-dining-room",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Garden or park"
+    },
+    {
+      "name": "Great view"
+    },
+    {
+      "name": "Interesting wine list"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Wood-panelling and Waterford Crystal chandeliers set the tone at this sophisticated dining room within the Ashford Castle hotel. It was built in 1905 to honour the visit of the Prince of Wales, who later became King George V, and retains an impressively grand feel. Classic French flavours are to the fore, but are delivered with a modern flourishes, and warm Irish hospitality completes the picture.",
+  "pageTitle": "George V Restaurant"
+}

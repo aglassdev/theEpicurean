@@ -1,8 +1,5 @@
 {
   "title": "Kenmare",
-  "country": "ireland",
-  "region": "kenmare",
-  "city": "kenmare",
   "restaurants": [
     {
       "name": "Landline",
@@ -15,6 +12,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/ireland/kenmare/kenmare/mulcahys"
+    },
+    {
+      "name": "The Falls Restaurant",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/ireland/kenmare/kenmare/TheFallsRestaurant"
     }
   ]
 }

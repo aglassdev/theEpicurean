@@ -14,6 +14,7 @@
     "generate-routes": "node scripts/generateRoutes.js",
     "geocode": "node scripts/geocodeRestaurants.js",
     "link-pages": "node scripts/linkGuidePages.js",
+    "import-datasets": "node scripts/importDatasets.js",
     "cleanup": "node scripts/cleanup.js"
   },
   "dependencies": {

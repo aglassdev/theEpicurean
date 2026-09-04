@@ -1,8 +1,5 @@
 {
   "title": "Arbois",
-  "country": "france",
-  "region": "arbois",
-  "city": "arbois",
   "restaurants": [
     {
       "name": "Le Bistronôme",
@@ -15,6 +12,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/arbois/arbois/les-caudalies"
+    },
+    {
+      "name": "Circus",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/arbois/arbois/Circus"
     }
   ]
 }

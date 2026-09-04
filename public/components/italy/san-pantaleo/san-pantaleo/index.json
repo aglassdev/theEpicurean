@@ -1,8 +1,5 @@
 {
   "title": "San Pantaleo",
-  "country": "italy",
-  "region": "san-pantaleo",
-  "city": "san-pantaleo",
   "restaurants": [
     {
       "name": "Il Fuoco Sacro",
@@ -15,6 +12,12 @@
       "cuisine": "Japanese, Fusion",
       "price": "€€€€",
       "path": "/italy/san-pantaleo/san-pantaleo/mizuna-restaurant"
+    },
+    {
+      "name": "Mizuna Japanese Restaurant",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/italy/san-pantaleo/san-pantaleo/MizunaJapaneseRestaurant"
     }
   ]
 }

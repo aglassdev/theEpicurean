@@ -1,8 +1,5 @@
 {
   "title": "Balatonfred",
-  "country": "hungary",
-  "region": "balatonfred",
-  "city": "balatonfred",
   "restaurants": [
     {
       "name": "NOON",
@@ -21,6 +18,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/hungary/balatonfred/balatonfred/zelna-borbisztr"
+    },
+    {
+      "name": "Zelna Bisztró",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/hungary/balatonfred/balatonfred/ZelnaBisztr"
     }
   ]
 }

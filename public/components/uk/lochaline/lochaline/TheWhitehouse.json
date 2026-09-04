@@ -1,0 +1,25 @@
+{
+  "restaurantName": "The Whitehouse",
+  "address": "Lochaline, PA80 5XT, United Kingdom",
+  "cuisine": "Modern British",
+  "priceRange": "$$$",
+  "phoneNumber": "+441967421356",
+  "website": "https://www.thewhitehouserestaurant.co.uk/",
+  "tags": [
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "Located way out west in a picture-postcard location overlooking the Isle of Mull across the water, this comforting restaurant is unsurprisingly painted all in white. Inside, it’s a cute, cosy spot where yet more white-painted walls are enlivened by eye-catching prints and shelves of cookery books. The menu reflects the seasons and the area well, with plenty of fine Scottish produce leading the way, be it Tobermory trout or Highland lamb rump. For dessert, don’t overlook a soufflé if it’s on offer.",
+  "pageTitle": "The Whitehouse"
+}

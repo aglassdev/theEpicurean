@@ -1,8 +1,5 @@
 {
   "title": "Phuket",
-  "country": "thailand",
-  "region": "phuket",
-  "city": "phuket",
   "restaurants": [
     {
       "name": "A Pong Mae Sunee",
@@ -399,6 +396,18 @@
       "cuisine": "Steakhouse",
       "price": "฿฿฿",
       "path": "/thailand/phuket/phuket/wagyu-steakhouse"
+    },
+    {
+      "name": "Omemo",
+      "cuisine": "Swiss",
+      "price": "$$$",
+      "path": "/thailand/phuket/phuket/Omemo"
+    },
+    {
+      "name": "lob-baan",
+      "cuisine": "Southern Thai",
+      "price": "$$",
+      "path": "/thailand/phuket/phuket/Lobbaan"
     }
   ]
 }

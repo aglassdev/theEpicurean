@@ -1,14 +1,17 @@
 {
   "title": "Tulln An Der Donau",
-  "country": "austria",
-  "region": "tulln-an-der-donau",
-  "city": "tulln-an-der-donau",
   "restaurants": [
     {
       "name": "Sodoma",
       "cuisine": "Austrian",
       "price": "€€",
       "path": "/austria/tulln-an-der-donau/tulln-an-der-donau/sodoma"
+    },
+    {
+      "name": "Restaurant Wöber",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/austria/tulln-an-der-donau/tulln-an-der-donau/RestaurantWber"
     }
   ]
 }

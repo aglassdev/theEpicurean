@@ -1,8 +1,5 @@
 {
   "title": "Beaulieu Sur Mer",
-  "country": "france",
-  "region": "beaulieu-sur-mer",
-  "city": "beaulieu-sur-mer",
   "restaurants": [
     {
       "name": "La Table de la Réserve",
@@ -21,6 +18,12 @@
       "cuisine": "Traditional Cuisine, Seasonal Cuisine",
       "price": "€€",
       "path": "/france/beaulieu-sur-mer/beaulieu-sur-mer/somets"
+    },
+    {
+      "name": "La Table de Julien",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/france/beaulieu-sur-mer/beaulieu-sur-mer/LaTableDeJulien"
     }
   ]
 }

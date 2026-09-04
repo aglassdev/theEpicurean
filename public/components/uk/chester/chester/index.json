@@ -1,8 +1,5 @@
 {
   "title": "Chester",
-  "country": "uk",
-  "region": "chester",
-  "city": "chester",
   "restaurants": [
     {
       "name": "Arkle",
@@ -21,6 +18,18 @@
       "cuisine": "Meats and Grills",
       "price": "£££",
       "path": "/uk/chester/chester/upstairs-at-the-grill"
+    },
+    {
+      "name": "Noted",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/uk/chester/chester/Noted"
+    },
+    {
+      "name": "The Jolly Gardeners",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/uk/chester/chester/TheJollyGardeners"
     }
   ]
 }

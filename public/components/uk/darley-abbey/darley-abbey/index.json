@@ -1,14 +1,17 @@
 {
   "title": "Darley Abbey",
-  "country": "uk",
-  "region": "darley-abbey",
-  "city": "darley-abbey",
   "restaurants": [
     {
       "name": "Darleys",
       "cuisine": "Modern Cuisine",
       "price": "£",
       "path": "/uk/darley-abbey/darley-abbey/darleys"
+    },
+    {
+      "name": "The Brasserie at Darleys",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/uk/darley-abbey/darley-abbey/TheBrasserieAtDarleys"
     }
   ]
 }

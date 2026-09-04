@@ -1,8 +1,5 @@
 {
   "title": "The Hague",
-  "country": "netherlands",
-  "region": "the-hague",
-  "city": "the-hague",
   "restaurants": [
     {
       "name": "6&24",
@@ -111,6 +108,18 @@
       "cuisine": "Fusion",
       "price": "€€€",
       "path": "/netherlands/the-hague/the-hague/zheng"
+    },
+    {
+      "name": "Bog",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/netherlands/the-hague/the-hague/Bog"
+    },
+    {
+      "name": "Ramen Kitanoya",
+      "cuisine": "Ramen",
+      "price": "$",
+      "path": "/netherlands/the-hague/the-hague/RamenKitanoya"
     }
   ]
 }

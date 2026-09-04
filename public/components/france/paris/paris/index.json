@@ -1,8 +1,5 @@
 {
   "title": "Paris",
-  "country": "france",
-  "region": "paris",
-  "city": "paris",
   "restaurants": [
     {
       "name": "114, Faubourg",
@@ -3021,6 +3018,222 @@
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/france/paris/paris/zostera"
+    },
+    {
+      "name": "Héritages",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/france/paris/paris/Hritages"
+    },
+    {
+      "name": "Bolea",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/Bolea"
+    },
+    {
+      "name": "Bếp Việt",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/france/paris/paris/BpVit"
+    },
+    {
+      "name": "Calcifer",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/Calcifer"
+    },
+    {
+      "name": "Feel Ling - La Table",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/france/paris/paris/FeelLingLaTable"
+    },
+    {
+      "name": "Hugo & Co",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/HugoCo"
+    },
+    {
+      "name": "L'Atelier de Joël Robuchon - St-Germain",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/france/paris/paris/LatelierDeJolRobuchonStgermain"
+    },
+    {
+      "name": "La Chaise Haute",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/LaChaiseHaute"
+    },
+    {
+      "name": "Le Beurre Noisette",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/LeBeurreNoisette"
+    },
+    {
+      "name": "Le Jourdain",
+      "cuisine": "Modern Cuisine",
+      "price": "$",
+      "path": "/france/paris/paris/LeJourdain"
+    },
+    {
+      "name": "Les Collonges",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/LesCollonges"
+    },
+    {
+      "name": "Les Résistants - Le Bistrot",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/LesRsistantsLeBistrot"
+    },
+    {
+      "name": "Mansou'",
+      "cuisine": "Moroccan",
+      "price": "$$",
+      "path": "/france/paris/paris/Mansou"
+    },
+    {
+      "name": "Mantra",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/france/paris/paris/Mantra"
+    },
+    {
+      "name": "Masaikuta",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/paris/paris/Masaikuta"
+    },
+    {
+      "name": "OMASAKE",
+      "cuisine": "Japanese",
+      "price": "$$",
+      "path": "/france/paris/paris/Omasake"
+    },
+    {
+      "name": "Panurge",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$$",
+      "path": "/france/paris/paris/Panurge"
+    },
+    {
+      "name": "Paris Bonheur",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/ParisBonheur"
+    },
+    {
+      "name": "Patine",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/Patine"
+    },
+    {
+      "name": "Patsy",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/Patsy"
+    },
+    {
+      "name": "Pimpan",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/Pimpan"
+    },
+    {
+      "name": "Vertueux",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/paris/paris/Vertueux"
+    },
+    {
+      "name": "Zoutra",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/Zoutra"
+    },
+    {
+      "name": "eme",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/france/paris/paris/Eme"
+    },
+    {
+      "name": "L'Atelier Saint Germain De Joël Robuchon",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/LatelierSaintGermainDeJolRobuchon"
+    },
+    {
+      "name": "L'Ami Louis",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/LamiLouis"
+    },
+    {
+      "name": "Le Meurice",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/LeMeurice"
+    },
+    {
+      "name": "La Tour D'Argent",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/LaTourDargent"
+    },
+    {
+      "name": "Alain Ducasse",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/AlainDucasse"
+    },
+    {
+      "name": "L'Astrance",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/Lastrance"
+    },
+    {
+      "name": "Alain Ducasse au Plaza Athénée",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/AlainDucasseAuPlazaAthne"
+    },
+    {
+      "name": "Troisgros",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/Troisgros"
+    },
+    {
+      "name": "Taillevent",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/Taillevent"
+    },
+    {
+      "name": "Les Ambassadeurs",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/LesAmbassadeurs"
+    },
+    {
+      "name": "Table by Bruno Verjus",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/TableByBrunoVerjus"
+    },
+    {
+      "name": "Plénitude",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/Plnitude"
     }
   ]
 }

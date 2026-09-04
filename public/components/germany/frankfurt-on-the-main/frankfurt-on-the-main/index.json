@@ -1,8 +1,5 @@
 {
   "title": "Frankfurt On The Main",
-  "country": "germany",
-  "region": "frankfurt-on-the-main",
-  "city": "frankfurt-on-the-main",
   "restaurants": [
     {
       "name": "bidlabu",
@@ -153,6 +150,18 @@
       "cuisine": "Asian",
       "price": "€€€",
       "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/zenzakan"
+    },
+    {
+      "name": "the dune",
+      "cuisine": "International",
+      "price": "$$$$",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/TheDune"
+    },
+    {
+      "name": "Bornheimer Ratskeller",
+      "cuisine": "Regional Cuisine",
+      "price": "$$",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/BornheimerRatskeller"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Alacant",
-  "country": "spain",
-  "region": "alacant",
-  "city": "alacant",
   "restaurants": [
     {
       "name": "Alba",
@@ -123,6 +120,24 @@
       "cuisine": "Peruvian",
       "price": "€",
       "path": "/spain/alacant/alacant/vituco-gourmet"
+    },
+    {
+      "name": "Fetén",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/alacant/alacant/Fetn"
+    },
+    {
+      "name": "Orma",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/spain/alacant/alacant/Orma"
+    },
+    {
+      "name": "Plëgat",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/alacant/alacant/Plgat"
     }
   ]
 }

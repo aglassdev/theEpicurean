@@ -1,8 +1,5 @@
 {
   "title": "Copenhagen",
-  "country": "denmark",
-  "region": "copenhagen",
-  "city": "copenhagen",
   "restaurants": [
     {
       "name": "Aamanns 1921",
@@ -813,6 +810,66 @@
       "cuisine": "Modern Cuisine",
       "price": "€",
       "path": "/denmark/copenhagen/copenhagen/vkst"
+    },
+    {
+      "name": "ESSE",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/denmark/copenhagen/copenhagen/Esse"
+    },
+    {
+      "name": "Lille Mølle",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/denmark/copenhagen/copenhagen/LilleMlle"
+    },
+    {
+      "name": "Botschaft",
+      "cuisine": "German",
+      "price": "$",
+      "path": "/denmark/copenhagen/copenhagen/Botschaft"
+    },
+    {
+      "name": "Graziano",
+      "cuisine": "Italian",
+      "price": "$",
+      "path": "/denmark/copenhagen/copenhagen/Graziano"
+    },
+    {
+      "name": "Petra Bar & Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/denmark/copenhagen/copenhagen/PetraBarRestaurant"
+    },
+    {
+      "name": "Aotori",
+      "cuisine": "Japanese",
+      "price": "$$",
+      "path": "/denmark/copenhagen/copenhagen/Aotori"
+    },
+    {
+      "name": "Krogs Fiskerestaurant",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/denmark/copenhagen/copenhagen/KrogsFiskerestaurant"
+    },
+    {
+      "name": "Magny",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/denmark/copenhagen/copenhagen/Magny"
+    },
+    {
+      "name": "Chez Dominique",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/ChezDominique"
+    },
+    {
+      "name": "Relae",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/Relae"
     }
   ]
 }

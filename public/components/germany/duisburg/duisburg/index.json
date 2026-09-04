@@ -1,8 +1,5 @@
 {
   "title": "Duisburg",
-  "country": "germany",
-  "region": "duisburg",
-  "city": "duisburg",
   "restaurants": [
     {
       "name": "Frau Specht",
@@ -21,6 +18,12 @@
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
       "path": "/germany/duisburg/duisburg/mod-by-sven-nthel"
+    },
+    {
+      "name": "Villa Patrizia",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/germany/duisburg/duisburg/VillaPatrizia"
     }
   ]
 }

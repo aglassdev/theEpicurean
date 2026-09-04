@@ -1,8 +1,5 @@
 {
   "title": "Saint Malo",
-  "country": "france",
-  "region": "saint-malo",
-  "city": "saint-malo",
   "restaurants": [
     {
       "name": "Ar Iniz",
@@ -87,6 +84,12 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/france/saint-malo/saint-malo/mson-chalut"
+    },
+    {
+      "name": "O’BikiniBé",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/saint-malo/saint-malo/Obikinib"
     }
   ]
 }

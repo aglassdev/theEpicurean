@@ -1,8 +1,5 @@
 {
   "title": "Pozna",
-  "country": "poland",
-  "region": "pozna",
-  "city": "pozna",
   "restaurants": [
     {
       "name": "A nóż widelec",
@@ -93,6 +90,36 @@
       "cuisine": "Ramen, Japanese",
       "price": "€",
       "path": "/poland/pozna/pozna/zen-on"
+    },
+    {
+      "name": "Maremma",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/poland/pozna/pozna/Maremma"
+    },
+    {
+      "name": "Rytm Natury",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/pozna/pozna/RytmNatury"
+    },
+    {
+      "name": "Strona",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/pozna/pozna/Strona"
+    },
+    {
+      "name": "Yes Butcher! Shop & Bistro",
+      "cuisine": "Meats and Grills",
+      "price": "$$",
+      "path": "/poland/pozna/pozna/YesButcherShopBistro"
+    },
+    {
+      "name": "arte",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/poland/pozna/pozna/Arte"
     }
   ]
 }

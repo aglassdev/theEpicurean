@@ -1,8 +1,5 @@
 {
   "title": "Matera",
-  "country": "italy",
-  "region": "matera",
-  "city": "matera",
   "restaurants": [
     {
       "name": "Baccanti",
@@ -27,6 +24,12 @@
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/italy/matera/matera/vitantonio-lombardo"
+    },
+    {
+      "name": "Radino Wine Bistrot",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/italy/matera/matera/RadinoWineBistrot"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Antwerpen",
-  "country": "belgium",
-  "region": "antwerpen",
-  "city": "antwerpen",
   "restaurants": [
     {
       "name": "ALBUM",
@@ -309,6 +306,30 @@
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/belgium/antwerpen/antwerpen/zilte"
+    },
+    {
+      "name": "Bar Pêche",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/belgium/antwerpen/antwerpen/BarPche"
+    },
+    {
+      "name": "Instroom by Seppe Nobels",
+      "cuisine": "World Cuisine",
+      "price": "$$$",
+      "path": "/belgium/antwerpen/antwerpen/InstroomBySeppeNobels"
+    },
+    {
+      "name": "La Brasserie du Dôme",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/belgium/antwerpen/antwerpen/LaBrasserieDuDme"
+    },
+    {
+      "name": "Les Années Folles",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/belgium/antwerpen/antwerpen/LesAnnesFolles"
     }
   ]
 }

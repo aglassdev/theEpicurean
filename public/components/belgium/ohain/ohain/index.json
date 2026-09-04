@@ -1,8 +1,5 @@
 {
   "title": "Ohain",
-  "country": "belgium",
-  "region": "ohain",
-  "city": "ohain",
   "restaurants": [
     {
       "name": "Auberge de la Roseraie",
@@ -15,6 +12,12 @@
       "cuisine": "French Contemporary, Creative French",
       "price": "€€€",
       "path": "/belgium/ohain/ohain/la-table-benjamin-laborie"
+    },
+    {
+      "name": "La Table-Lasne by Alain Bianchin",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/belgium/ohain/ohain/LaTablelasneByAlainBianchin"
     }
   ]
 }

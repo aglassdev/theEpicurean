@@ -1,14 +1,17 @@
 {
   "title": "Illhaeusern",
-  "country": "france",
-  "region": "illhaeusern",
-  "city": "illhaeusern",
   "restaurants": [
     {
       "name": "Auberge de l'Ill",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
       "path": "/france/illhaeusern/illhaeusern/auberge-de-lill"
+    },
+    {
+      "name": "L'Auberge de l'Ill",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/illhaeusern/illhaeusern/LaubergeDeLill"
     }
   ]
 }

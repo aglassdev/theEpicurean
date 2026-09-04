@@ -1,8 +1,5 @@
 {
   "title": "Clermont Ferrand",
-  "country": "france",
-  "region": "clermont-ferrand",
-  "city": "clermont-ferrand",
   "restaurants": [
     {
       "name": "Apicius",
@@ -87,6 +84,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/clermont-ferrand/clermont-ferrand/mouffu"
+    },
+    {
+      "name": "Le Tamarinier",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/clermont-ferrand/clermont-ferrand/LeTamarinier"
     }
   ]
 }

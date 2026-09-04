@@ -1,8 +1,5 @@
 {
   "title": "Saint Jean De Luz",
-  "country": "france",
-  "region": "saint-jean-de-luz",
-  "city": "saint-jean-de-luz",
   "restaurants": [
     {
       "name": "Alcalde",
@@ -51,6 +48,18 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/saint-jean-de-luz/saint-jean-de-luz/pluvise"
+    },
+    {
+      "name": "Brut, Table de saison",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/saint-jean-de-luz/saint-jean-de-luz/BrutTableDeSaison"
+    },
+    {
+      "name": "Maison Amaé",
+      "cuisine": "Creative",
+      "price": "$$",
+      "path": "/france/saint-jean-de-luz/saint-jean-de-luz/MaisonAma"
     }
   ]
 }

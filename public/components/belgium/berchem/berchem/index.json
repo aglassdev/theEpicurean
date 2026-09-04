@@ -1,8 +1,5 @@
 {
   "title": "Berchem",
-  "country": "belgium",
-  "region": "berchem",
-  "city": "berchem",
   "restaurants": [
     {
       "name": "Decan",
@@ -21,6 +18,12 @@
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/belgium/berchem/berchem/soixante"
+    },
+    {
+      "name": "De Aarde",
+      "cuisine": "Modern French",
+      "price": "$$$$",
+      "path": "/belgium/berchem/berchem/DeAarde"
     }
   ]
 }

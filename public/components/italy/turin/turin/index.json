@@ -1,8 +1,5 @@
 {
   "title": "Turin",
-  "country": "italy",
-  "region": "turin",
-  "city": "turin",
   "restaurants": [
     {
       "name": "Almondo Trattoria",
@@ -189,6 +186,24 @@
       "cuisine": "Italian, Classic Cuisine",
       "price": "€€€",
       "path": "/italy/turin/turin/vintage-1997"
+    },
+    {
+      "name": "Contesto Alimentare",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/italy/turin/turin/ContestoAlimentare"
+    },
+    {
+      "name": "Insieme Dal Clandestino",
+      "cuisine": "Piedmontese",
+      "price": "$$",
+      "path": "/italy/turin/turin/InsiemeDalClandestino"
+    },
+    {
+      "name": "Marchese",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$",
+      "path": "/italy/turin/turin/Marchese"
     }
   ]
 }

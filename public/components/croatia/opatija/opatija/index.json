@@ -1,14 +1,23 @@
 {
   "title": "Opatija",
-  "country": "croatia",
-  "region": "opatija",
-  "city": "opatija",
   "restaurants": [
     {
       "name": "Villa Ariston",
       "cuisine": "Seasonal Cuisine, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/croatia/opatija/opatija/villa-ariston"
+    },
+    {
+      "name": "Plavi Podrum",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/croatia/opatija/opatija/PlaviPodrum"
+    },
+    {
+      "name": "Stancija Kovačići",
+      "cuisine": "Croatian",
+      "price": "$$",
+      "path": "/croatia/opatija/opatija/StancijaKovaii"
     }
   ]
 }

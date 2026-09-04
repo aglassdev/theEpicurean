@@ -1,8 +1,5 @@
 {
   "title": "Montral",
-  "country": "canada",
-  "region": "montral",
-  "city": "montral",
   "restaurants": [
     {
       "name": "Annette bar à vin",
@@ -639,6 +636,48 @@
       "cuisine": "Ramen",
       "price": "$",
       "path": "/canada/montral/montral/yokato-yokabai"
+    },
+    {
+      "name": "Sushi Nishinokaze",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/canada/montral/montral/SushiNishinokaze"
+    },
+    {
+      "name": "Limbo",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/canada/montral/montral/Limbo"
+    },
+    {
+      "name": "Bar St-Denis",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/canada/montral/montral/BarStdenis"
+    },
+    {
+      "name": "Hélicoptère",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/canada/montral/montral/Hlicoptre"
+    },
+    {
+      "name": "Juliette Plaza",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/canada/montral/montral/JuliettePlaza"
+    },
+    {
+      "name": "Kitano Shokudo",
+      "cuisine": "Japanese",
+      "price": "$$",
+      "path": "/canada/montral/montral/KitanoShokudo"
+    },
+    {
+      "name": "Oncle Lee Kăo",
+      "cuisine": "Chinese",
+      "price": "$$$",
+      "path": "/canada/montral/montral/OncleLeeKo"
     }
   ]
 }

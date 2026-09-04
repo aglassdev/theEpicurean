@@ -1,8 +1,5 @@
 {
   "title": "Kyoto",
-  "country": "japan",
-  "region": "kyoto",
-  "city": "kyoto",
   "restaurants": [
     {
       "name": "Aji Fukushima",
@@ -1557,6 +1554,72 @@
       "cuisine": "Italian",
       "price": "¥¥",
       "path": "/japan/kyoto/kyoto/zucchero"
+    },
+    {
+      "name": "Higashiyama Ogata",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/japan/kyoto/kyoto/HigashiyamaOgata"
+    },
+    {
+      "name": "KOKAGE",
+      "cuisine": "Soba",
+      "price": "$",
+      "path": "/japan/kyoto/kyoto/Kokage"
+    },
+    {
+      "name": "Ramenya Fujitora",
+      "cuisine": "Ramen",
+      "price": "$",
+      "path": "/japan/kyoto/kyoto/RamenyaFujitora"
+    },
+    {
+      "name": "Fuyacho Nozaki",
+      "cuisine": "Japanese",
+      "price": "$$",
+      "path": "/japan/kyoto/kyoto/FuyachoNozaki"
+    },
+    {
+      "name": "Kappo Ichikawa",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/KappoIchikawa"
+    },
+    {
+      "name": "Nose",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/Nose"
+    },
+    {
+      "name": "Oshikoji Okada",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/OshikojiOkada"
+    },
+    {
+      "name": "Saketokoro Tanaka",
+      "cuisine": "Izakaya",
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/SaketokoroTanaka"
+    },
+    {
+      "name": "Shinka",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/Shinka"
+    },
+    {
+      "name": "Sumi Ryori Hiyori",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/SumiRyoriHiyori"
+    },
+    {
+      "name": "Tempura Hashimoto",
+      "cuisine": "Tempura",
+      "price": "$$",
+      "path": "/japan/kyoto/kyoto/TempuraHashimoto"
     }
   ]
 }

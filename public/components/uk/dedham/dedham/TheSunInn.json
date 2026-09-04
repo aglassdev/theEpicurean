@@ -1,0 +1,31 @@
+{
+  "restaurantName": "The Sun Inn",
+  "address": "High Street, Dedham, CO7 6DF, United Kingdom",
+  "cuisine": "Mediterranean Cuisine",
+  "priceRange": "$$",
+  "phoneNumber": "+441206323351",
+  "website": "https://www.thesuninndedham.com",
+  "tags": [
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Garden or park"
+    },
+    {
+      "name": "Interesting wine list"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "A characterful yellow inn with an appealing shabby-chic style, located in a picturesque spot in the heart of Constable Country. The highly seasonal menu offers generous Mediterranean-inspired dishes and the well-chosen wine list offers plenty by the glass. Bedrooms are cosy – two have a modern New England style.",
+  "pageTitle": "The Sun Inn"
+}

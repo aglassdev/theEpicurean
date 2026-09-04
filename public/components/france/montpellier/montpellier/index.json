@@ -1,8 +1,5 @@
 {
   "title": "Montpellier",
-  "country": "france",
-  "region": "montpellier",
-  "city": "montpellier",
   "restaurants": [
     {
       "name": "Aliro",
@@ -111,6 +108,18 @@
       "cuisine": "Korean",
       "price": "€€",
       "path": "/france/montpellier/montpellier/umami-la-cinquime-saveur"
+    },
+    {
+      "name": "Ambeis",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/montpellier/montpellier/Ambeis"
+    },
+    {
+      "name": "Le Jardin des Sens",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/montpellier/montpellier/LeJardinDesSens"
     }
   ]
 }

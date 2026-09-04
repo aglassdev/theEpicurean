@@ -1,8 +1,5 @@
 {
   "title": "Modena",
-  "country": "italy",
-  "region": "modena",
-  "city": "modena",
   "restaurants": [
     {
       "name": "Al Gatto Verde",
@@ -51,6 +48,12 @@
       "cuisine": "Emilian, Country cooking",
       "price": "€",
       "path": "/italy/modena/modena/trattoria-pomposa-al-re-gras"
+    },
+    {
+      "name": "Patrizia",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/italy/modena/modena/Patrizia"
     }
   ]
 }

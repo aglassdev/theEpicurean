@@ -1,0 +1,28 @@
+{
+  "restaurantName": "La Presqu'île",
+  "address": "Parking de la Presqu'ïle - esplanade Port-Miou, Cassis, 13260, France",
+  "cuisine": "Mediterranean Cuisine",
+  "priceRange": "$$$",
+  "phoneNumber": "+33442010377",
+  "website": "https://www.restaurant-la-presquile.fr/",
+  "tags": [
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Great view"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "At the tip of the calanque of Port-Miou, this drop-dead seaside property commands a breathtaking vista over Cap Canaille from the conservatory dining room and the terrace. The chef rolls out polished, modern Mediterranean fare, crafted mainly from regional goodies (red mullet, mackerel, squid from the Mediterranean, veg and local goat’s cheese), but also from further afar (like pluma iberico).",
+  "pageTitle": "La Presqu'île"
+}

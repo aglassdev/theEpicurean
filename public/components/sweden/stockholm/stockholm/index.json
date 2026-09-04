@@ -1,8 +1,5 @@
 {
   "title": "Stockholm",
-  "country": "sweden",
-  "region": "stockholm",
-  "city": "stockholm",
   "restaurants": [
     {
       "name": "Adam / Albin",
@@ -291,6 +288,48 @@
       "cuisine": "Contemporary, International",
       "price": "€€",
       "path": "/sweden/stockholm/stockholm/woodstockholm"
+    },
+    {
+      "name": "Ett Hem",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/sweden/stockholm/stockholm/EttHem"
+    },
+    {
+      "name": "Sperling & Co",
+      "cuisine": "Steakhouse",
+      "price": "$$",
+      "path": "/sweden/stockholm/stockholm/SperlingCo"
+    },
+    {
+      "name": "Oaxen Krog",
+      "cuisine": "",
+      "price": "",
+      "path": "/sweden/stockholm/stockholm/OaxenKrog"
+    },
+    {
+      "name": "Mathias Dhalgren",
+      "cuisine": "",
+      "price": "",
+      "path": "/sweden/stockholm/stockholm/MathiasDhalgren"
+    },
+    {
+      "name": "Restaurant Frantzén",
+      "cuisine": "",
+      "price": "",
+      "path": "/sweden/stockholm/stockholm/RestaurantFrantzn"
+    },
+    {
+      "name": "Mathias Dahlgren",
+      "cuisine": "",
+      "price": "",
+      "path": "/sweden/stockholm/stockholm/MathiasDahlgren"
+    },
+    {
+      "name": "Frantzén/Lindeberg",
+      "cuisine": "",
+      "price": "",
+      "path": "/sweden/stockholm/stockholm/Frantznlindeberg"
     }
   ]
 }

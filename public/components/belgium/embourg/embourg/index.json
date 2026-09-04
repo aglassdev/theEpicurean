@@ -1,8 +1,5 @@
 {
   "title": "Embourg",
-  "country": "belgium",
-  "region": "embourg",
-  "city": "embourg",
   "restaurants": [
     {
       "name": "Bonheur Simple",
@@ -21,6 +18,12 @@
       "cuisine": "Italian",
       "price": "€€",
       "path": "/belgium/embourg/embourg/robertissimo"
+    },
+    {
+      "name": "OM Restaurant",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/belgium/embourg/embourg/OmRestaurant"
     }
   ]
 }

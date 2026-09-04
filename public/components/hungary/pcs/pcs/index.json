@@ -1,14 +1,17 @@
 {
   "title": "Pcs",
-  "country": "hungary",
-  "region": "pcs",
-  "city": "pcs",
   "restaurants": [
     {
       "name": "Morzsa",
       "cuisine": "Contemporary, Hungarian",
       "price": "€€",
       "path": "/hungary/pcs/pcs/morzsa"
+    },
+    {
+      "name": "Morzsa Konyha",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/hungary/pcs/pcs/MorzsaKonyha"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Playa Blanca",
-  "country": "spain",
-  "region": "playa-blanca",
-  "city": "playa-blanca",
   "restaurants": [
     {
       "name": "Kamezí",
@@ -15,6 +12,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/spain/playa-blanca/playa-blanca/la-cocina-de-colacho"
+    },
+    {
+      "name": "Citurna",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/spain/playa-blanca/playa-blanca/Citurna"
     }
   ]
 }

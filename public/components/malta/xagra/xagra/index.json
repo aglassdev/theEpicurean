@@ -1,8 +1,5 @@
 {
   "title": "Xagra",
-  "country": "malta",
-  "region": "xagra",
-  "city": "xagra",
   "restaurants": [
     {
       "name": "Al Sale",
@@ -15,6 +12,12 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
       "path": "/malta/xagra/xagra/ta-frenc"
+    },
+    {
+      "name": "Ta' Frenċ",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/malta/xagra/xagra/TaFren"
     }
   ]
 }

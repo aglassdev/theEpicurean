@@ -1,8 +1,5 @@
 {
   "title": "Strasbourg",
-  "country": "france",
-  "region": "strasbourg",
-  "city": "strasbourg",
   "restaurants": [
     {
       "name": "1741",
@@ -135,6 +132,18 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/strasbourg/strasbourg/umami"
+    },
+    {
+      "name": "Chère Amie",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/strasbourg/strasbourg/ChreAmie"
+    },
+    {
+      "name": "Køkken",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/strasbourg/strasbourg/Kkken"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Arles",
-  "country": "france",
-  "region": "arles",
-  "city": "arles",
   "restaurants": [
     {
       "name": "Chardon",
@@ -51,6 +48,12 @@
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/france/arles/arles/les-maisons-rabanel"
+    },
+    {
+      "name": "Restaurant du Grand Hôtel Nord-Pinus",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/france/arles/arles/RestaurantDuGrandHtelNordpinus"
     }
   ]
 }

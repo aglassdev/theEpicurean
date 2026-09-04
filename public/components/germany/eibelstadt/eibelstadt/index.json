@@ -1,14 +1,17 @@
 {
   "title": "Eibelstadt",
-  "country": "germany",
-  "region": "eibelstadt",
-  "city": "eibelstadt",
   "restaurants": [
     {
       "name": "Gambero Rosso da Domenico",
       "cuisine": "Italian, Seasonal Cuisine",
       "price": "€€",
       "path": "/germany/eibelstadt/eibelstadt/gambero-rosso-da-domenico"
+    },
+    {
+      "name": "Weinforum Franken",
+      "cuisine": "Farm to table",
+      "price": "$$$",
+      "path": "/germany/eibelstadt/eibelstadt/WeinforumFranken"
     }
   ]
 }

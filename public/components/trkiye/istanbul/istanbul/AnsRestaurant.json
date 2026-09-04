@@ -1,0 +1,31 @@
+{
+  "restaurantName": "Şans Restaurant",
+  "address": "Hacı Adil Caddesi, Palmiye Sokak No:1, Levent/Beşiktaş, Istanbul, 34330, Türkiye",
+  "cuisine": "Turkish",
+  "priceRange": "$$$",
+  "phoneNumber": "+902122803838",
+  "website": "https://www.sansrestaurant.com",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Interesting wine list"
+    },
+    {
+      "name": "Terrace"
+    },
+    {
+      "name": "Valet parking"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "This elegantly appointed villa has been a favourite destination for business clientele since 1992. They come for the attentive service, private dining options and expert wine recommendations (be sure to try one of the Turkish reds!). But the principal draw is undoubtedly the cuisine: a fusion of authentic Turkish flavours and Mediterranean influences. From steaming cheese dumplings to a creamy mushroom risotto and slow-cooked lamb neck with barbecued vegetables: generosity is always on the menu here. A firm favourite with many foodies.",
+  "pageTitle": "Şans Restaurant"
+}

@@ -1,8 +1,5 @@
 {
   "title": "Bonnieux",
-  "country": "france",
-  "region": "bonnieux",
-  "city": "bonnieux",
   "restaurants": [
     {
       "name": "JU - Maison de Cuisine",
@@ -27,6 +24,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/bonnieux/bonnieux/la-table-des-amis"
+    },
+    {
+      "name": "Bistrot Francis",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/bonnieux/bonnieux/BistrotFrancis"
     }
   ]
 }

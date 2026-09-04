@@ -1,8 +1,5 @@
 {
   "title": "Xbia",
-  "country": "spain",
-  "region": "xbia",
-  "city": "xbia",
   "restaurants": [
     {
       "name": "BonAmb",
@@ -33,6 +30,12 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€",
       "path": "/spain/xbia/xbia/volta-i-volta"
+    },
+    {
+      "name": "Ca Aleix",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/spain/xbia/xbia/CaAleix"
     }
   ]
 }

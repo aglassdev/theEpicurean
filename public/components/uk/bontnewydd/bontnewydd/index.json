@@ -1,14 +1,17 @@
 {
   "title": "Bontnewydd",
-  "country": "uk",
-  "region": "bontnewydd",
-  "city": "bontnewydd",
   "restaurants": [
     {
       "name": "The Gunroom",
       "cuisine": "Modern Cuisine",
       "price": "£££",
       "path": "/uk/bontnewydd/bontnewydd/the-gunroom"
+    },
+    {
+      "name": "The Gunroom Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/uk/bontnewydd/bontnewydd/TheGunroomRestaurant"
     }
   ]
 }

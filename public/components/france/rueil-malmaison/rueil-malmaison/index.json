@@ -1,14 +1,23 @@
 {
   "title": "Rueil Malmaison",
-  "country": "france",
-  "region": "rueil-malmaison",
-  "city": "rueil-malmaison",
   "restaurants": [
     {
       "name": "Ochre",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/rueil-malmaison/rueil-malmaison/ochre"
+    },
+    {
+      "name": "La Table de Rueil",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/rueil-malmaison/rueil-malmaison/LaTableDeRueil"
+    },
+    {
+      "name": "Sapristi",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/rueil-malmaison/rueil-malmaison/Sapristi"
     }
   ]
 }

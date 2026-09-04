@@ -1,8 +1,5 @@
 {
   "title": "Beaminster",
-  "country": "uk",
-  "region": "beaminster",
-  "city": "beaminster",
   "restaurants": [
     {
       "name": "Brassica",
@@ -15,6 +12,12 @@
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/beaminster/beaminster/parnham-restaurant"
+    },
+    {
+      "name": "Brassica Restaurant",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/uk/beaminster/beaminster/BrassicaRestaurant"
     }
   ]
 }

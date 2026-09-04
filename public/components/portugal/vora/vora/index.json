@@ -1,8 +1,5 @@
 {
   "title": "Vora",
-  "country": "portugal",
-  "region": "vora",
-  "city": "vora",
   "restaurants": [
     {
       "name": "Cavalariça Évora",
@@ -27,6 +24,18 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/portugal/vora/vora/origens"
+    },
+    {
+      "name": "A Cozinha do Paço",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/portugal/vora/vora/ACozinhaDoPao"
+    },
+    {
+      "name": "Forno da Telha",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/vora/vora/FornoDaTelha"
     }
   ]
 }

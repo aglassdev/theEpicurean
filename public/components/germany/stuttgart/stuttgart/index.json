@@ -1,8 +1,5 @@
 {
   "title": "Stuttgart",
-  "country": "germany",
-  "region": "stuttgart",
-  "city": "stuttgart",
   "restaurants": [
     {
       "name": "5",
@@ -135,6 +132,18 @@
       "cuisine": "Seasonal Cuisine, Classic Cuisine",
       "price": "€€",
       "path": "/germany/stuttgart/stuttgart/zur-weinsteige"
+    },
+    {
+      "name": "Chobab",
+      "cuisine": "Asian Contemporary",
+      "price": "$$",
+      "path": "/germany/stuttgart/stuttgart/Chobab"
+    },
+    {
+      "name": "Knausbira Stüble",
+      "cuisine": "Regional Cuisine",
+      "price": "$$",
+      "path": "/germany/stuttgart/stuttgart/KnausbiraStble"
     }
   ]
 }

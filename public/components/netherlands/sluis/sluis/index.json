@@ -1,14 +1,17 @@
 {
   "title": "Sluis",
-  "country": "netherlands",
-  "region": "sluis",
-  "city": "sluis",
   "restaurants": [
     {
       "name": "La Trinité",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/netherlands/sluis/sluis/la-trinit"
+    },
+    {
+      "name": "Oud Sluis",
+      "cuisine": "",
+      "price": "",
+      "path": "/netherlands/sluis/sluis/OudSluis"
     }
   ]
 }

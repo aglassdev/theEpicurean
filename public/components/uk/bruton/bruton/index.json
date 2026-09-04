@@ -1,8 +1,5 @@
 {
   "title": "Bruton",
-  "country": "uk",
-  "region": "bruton",
-  "city": "bruton",
   "restaurants": [
     {
       "name": "Botanical Rooms",
@@ -27,6 +24,12 @@
       "cuisine": "Modern British",
       "price": "££££",
       "path": "/uk/bruton/bruton/osip"
+    },
+    {
+      "name": "The Botanical Rooms",
+      "cuisine": "Modern British",
+      "price": "$$$$",
+      "path": "/uk/bruton/bruton/TheBotanicalRooms"
     }
   ]
 }

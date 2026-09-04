@@ -1,8 +1,5 @@
 {
   "title": "Cuauhtmoc",
-  "country": "mexico",
-  "region": "cuauhtmoc",
-  "city": "cuauhtmoc",
   "restaurants": [
     {
       "name": "Aleli Rooftop",
@@ -357,6 +354,24 @@
       "cuisine": "Mexican, Contemporary",
       "price": "$$",
       "path": "/mexico/cuauhtmoc/cuauhtmoc/voraz"
+    },
+    {
+      "name": "Lotti",
+      "cuisine": "European",
+      "price": "$$$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/Lotti"
+    },
+    {
+      "name": "Taco Tasting Room",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/TacoTastingRoom"
+    },
+    {
+      "name": "Xuna",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/Xuna"
     }
   ]
 }

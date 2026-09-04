@@ -1,8 +1,5 @@
 {
   "title": "Boulogne Sur Mer",
-  "country": "france",
-  "region": "boulogne-sur-mer",
-  "city": "boulogne-sur-mer",
   "restaurants": [
     {
       "name": "La Matelote",
@@ -21,6 +18,12 @@
       "cuisine": "Seafood",
       "price": "€€",
       "path": "/france/boulogne-sur-mer/boulogne-sur-mer/restaurant-de-la-plage"
+    },
+    {
+      "name": "Orizon",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/boulogne-sur-mer/boulogne-sur-mer/Orizon"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Bonn",
-  "country": "germany",
-  "region": "bonn",
-  "city": "bonn",
   "restaurants": [
     {
       "name": "halbedel's Gasthaus",
@@ -33,6 +30,12 @@
       "cuisine": "Japanese, Modern Cuisine",
       "price": "€€€€",
       "path": "/germany/bonn/bonn/yunico"
+    },
+    {
+      "name": "Theodor's",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/germany/bonn/bonn/Theodors"
     }
   ]
 }

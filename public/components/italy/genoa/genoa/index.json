@@ -1,8 +1,5 @@
 {
   "title": "Genoa",
-  "country": "italy",
-  "region": "genoa",
-  "city": "genoa",
   "restaurants": [
     {
       "name": "20Tre",
@@ -123,6 +120,18 @@
       "cuisine": "Seafood, Modern Cuisine",
       "price": "€€",
       "path": "/italy/genoa/genoa/voltalacarta"
+    },
+    {
+      "name": "Trattoria Rosmarino",
+      "cuisine": "Ligurian",
+      "price": "$$",
+      "path": "/italy/genoa/genoa/TrattoriaRosmarino"
+    },
+    {
+      "name": "Cucina di Sintesi",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/italy/genoa/genoa/CucinaDiSintesi"
     }
   ]
 }

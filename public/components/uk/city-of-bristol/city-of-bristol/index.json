@@ -1,8 +1,5 @@
 {
   "title": "City Of Bristol",
-  "country": "uk",
-  "region": "city-of-bristol",
-  "city": "city-of-bristol",
   "restaurants": [
     {
       "name": "1 York Place",
@@ -117,6 +114,24 @@
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/city-of-bristol/city-of-bristol/wilsons"
+    },
+    {
+      "name": "RAGÙ Restaurant",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/uk/city-of-bristol/city-of-bristol/RagRestaurant"
+    },
+    {
+      "name": "Bristol Lido",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/uk/city-of-bristol/city-of-bristol/BristolLido"
+    },
+    {
+      "name": "One Fish Street",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/uk/city-of-bristol/city-of-bristol/OneFishStreet"
     }
   ]
 }

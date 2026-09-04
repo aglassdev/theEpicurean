@@ -1,8 +1,5 @@
 {
   "title": "S Hertogenbosch",
-  "country": "netherlands",
-  "region": "s-hertogenbosch",
-  "city": "s-hertogenbosch",
   "restaurants": [
     {
       "name": "Auberge de Veste",
@@ -45,6 +42,18 @@
       "cuisine": "Contemporary, Modern Cuisine",
       "price": "€€€",
       "path": "/netherlands/s-hertogenbosch/s-hertogenbosch/pollevie"
+    },
+    {
+      "name": "Faran",
+      "cuisine": "Modern French",
+      "price": "$$$",
+      "path": "/netherlands/s-hertogenbosch/s-hertogenbosch/Faran"
+    },
+    {
+      "name": "Japans restaurant Shiro",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/netherlands/s-hertogenbosch/s-hertogenbosch/JapansRestaurantShiro"
     }
   ]
 }

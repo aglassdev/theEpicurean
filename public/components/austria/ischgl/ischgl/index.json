@@ -1,8 +1,5 @@
 {
   "title": "Ischgl",
-  "country": "austria",
-  "region": "ischgl",
-  "city": "ischgl",
   "restaurants": [
     {
       "name": "Fliana Gourmet",
@@ -33,6 +30,12 @@
       "cuisine": "Creative French, Modern Cuisine",
       "price": "€€€€",
       "path": "/austria/ischgl/ischgl/stva"
+    },
+    {
+      "name": "Fliana Chef's Table",
+      "cuisine": "Classic Cuisine",
+      "price": "$$$$",
+      "path": "/austria/ischgl/ischgl/FlianaChefsTable"
     }
   ]
 }

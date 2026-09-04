@@ -1,8 +1,5 @@
 {
   "title": "Bologna",
-  "country": "italy",
-  "region": "bologna",
-  "city": "bologna",
   "restaurants": [
     {
       "name": "Acqua Pazza",
@@ -111,6 +108,12 @@
       "cuisine": "Traditional Cuisine, Emilian",
       "price": "€€",
       "path": "/italy/bologna/bologna/vicolo-colombina"
+    },
+    {
+      "name": "Zivieri",
+      "cuisine": "Emilian",
+      "price": "$$",
+      "path": "/italy/bologna/bologna/Zivieri"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Valencia",
-  "country": "spain",
-  "region": "valencia",
-  "city": "valencia",
   "restaurants": [
     {
       "name": "2 Estaciones",
@@ -189,6 +186,18 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/spain/valencia/valencia/yarza"
+    },
+    {
+      "name": "La Oficina",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/valencia/valencia/LaOficina"
+    },
+    {
+      "name": "Mala Hierba",
+      "cuisine": "Spanish Contemporary",
+      "price": "$$",
+      "path": "/spain/valencia/valencia/MalaHierba"
     }
   ]
 }

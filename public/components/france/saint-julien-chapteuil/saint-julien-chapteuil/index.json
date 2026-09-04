@@ -1,8 +1,5 @@
 {
   "title": "Saint Julien Chapteuil",
-  "country": "france",
-  "region": "saint-julien-chapteuil",
-  "city": "saint-julien-chapteuil",
   "restaurants": [
     {
       "name": "Maison Vidal - Le Bistrot de Justin",
@@ -15,6 +12,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/saint-julien-chapteuil/saint-julien-chapteuil/maison-vidal-le-bistrot-de-justin"
+    },
+    {
+      "name": "Maison Vidal - La Table gastronomique",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/saint-julien-chapteuil/saint-julien-chapteuil/MaisonVidalLaTableGastronomique"
     }
   ]
 }

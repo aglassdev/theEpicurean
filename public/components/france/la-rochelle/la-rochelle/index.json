@@ -1,8 +1,5 @@
 {
   "title": "La Rochelle",
-  "country": "france",
-  "region": "la-rochelle",
-  "city": "la-rochelle",
   "restaurants": [
     {
       "name": "Annette",
@@ -63,6 +60,18 @@
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/france/la-rochelle/la-rochelle/opaline"
+    },
+    {
+      "name": "MARAH",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/la-rochelle/la-rochelle/Marah"
+    },
+    {
+      "name": "Nouche",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/la-rochelle/la-rochelle/Nouche"
     }
   ]
 }

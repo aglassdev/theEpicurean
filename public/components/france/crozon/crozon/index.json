@@ -1,14 +1,17 @@
 {
   "title": "Crozon",
-  "country": "france",
-  "region": "crozon",
-  "city": "crozon",
   "restaurants": [
     {
       "name": "Hostellerie de la Mer",
       "cuisine": "Modern Cuisine, Seafood",
       "price": "€€",
       "path": "/france/crozon/crozon/hostellerie-de-la-mer"
+    },
+    {
+      "name": "Cantine et Canons",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/crozon/crozon/CantineEtCanons"
     }
   ]
 }

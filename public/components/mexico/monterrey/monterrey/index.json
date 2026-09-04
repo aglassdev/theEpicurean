@@ -1,8 +1,5 @@
 {
   "title": "Monterrey",
-  "country": "mexico",
-  "region": "monterrey",
-  "city": "monterrey",
   "restaurants": [
     {
       "name": "Fonda San Francisco",
@@ -39,6 +36,12 @@
       "cuisine": "Mexican",
       "price": "$",
       "path": "/mexico/monterrey/monterrey/tacos-piedra-1"
+    },
+    {
+      "name": "Casa El Hidalgo",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/mexico/monterrey/monterrey/CasaElHidalgo"
     }
   ]
 }

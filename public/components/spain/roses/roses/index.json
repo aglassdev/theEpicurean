@@ -1,8 +1,5 @@
 {
   "title": "Roses",
-  "country": "spain",
-  "region": "roses",
-  "city": "roses",
   "restaurants": [
     {
       "name": "ROM",
@@ -15,6 +12,12 @@
       "cuisine": "Farm to table, Seasonal Cuisine",
       "price": "€€€",
       "path": "/spain/roses/roses/sumac"
+    },
+    {
+      "name": "El Bulli",
+      "cuisine": "",
+      "price": "",
+      "path": "/spain/roses/roses/ElBulli"
     }
   ]
 }

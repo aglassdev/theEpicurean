@@ -1,8 +1,5 @@
 {
   "title": "Le Lavandou",
-  "country": "france",
-  "region": "le-lavandou",
-  "city": "le-lavandou",
   "restaurants": [
     {
       "name": "L'Arbre au Soleil",
@@ -21,6 +18,12 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/france/le-lavandou/le-lavandou/les-tamaris-chez-raymond"
+    },
+    {
+      "name": "L'Oursin - Hôtel Les Roches",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$$",
+      "path": "/france/le-lavandou/le-lavandou/LoursinHtelLesRoches"
     }
   ]
 }

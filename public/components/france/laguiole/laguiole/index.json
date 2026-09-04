@@ -1,8 +1,5 @@
 {
   "title": "Laguiole",
-  "country": "france",
-  "region": "laguiole",
-  "city": "laguiole",
   "restaurants": [
     {
       "name": "Bras",
@@ -21,6 +18,18 @@
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/france/laguiole/laguiole/le-suquet-sbastien-bras"
+    },
+    {
+      "name": "Michel Bras",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/laguiole/laguiole/MichelBras"
+    },
+    {
+      "name": "Bras Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/laguiole/laguiole/BrasRestaurant"
     }
   ]
 }

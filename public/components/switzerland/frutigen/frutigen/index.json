@@ -1,14 +1,17 @@
 {
   "title": "Frutigen",
-  "country": "switzerland",
-  "region": "frutigen",
-  "city": "frutigen",
   "restaurants": [
     {
       "name": "Philipp Blaser",
       "cuisine": "International, Swiss",
       "price": "€€",
       "path": "/switzerland/frutigen/frutigen/philipp-blaser"
+    },
+    {
+      "name": "Blasers Restaurant",
+      "cuisine": "International",
+      "price": "$$",
+      "path": "/switzerland/frutigen/frutigen/BlasersRestaurant"
     }
   ]
 }

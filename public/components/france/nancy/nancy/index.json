@@ -1,8 +1,5 @@
 {
   "title": "Nancy",
-  "country": "france",
-  "region": "nancy",
-  "city": "nancy",
   "restaurants": [
     {
       "name": "Bastion",
@@ -63,6 +60,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/nancy/nancy/transparence-la-table-de-patrick-frchin"
+    },
+    {
+      "name": "EV",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/nancy/nancy/Ev"
     }
   ]
 }

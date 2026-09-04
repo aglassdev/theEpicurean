@@ -1,8 +1,5 @@
 {
   "title": "Hoorn",
-  "country": "netherlands",
-  "region": "hoorn",
-  "city": "hoorn",
   "restaurants": [
     {
       "name": "HAVN",
@@ -21,6 +18,12 @@
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/netherlands/hoorn/hoorn/quidine"
+    },
+    {
+      "name": "AEST",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/netherlands/hoorn/hoorn/Aest"
     }
   ]
 }

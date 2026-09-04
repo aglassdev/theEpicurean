@@ -1,14 +1,17 @@
 {
   "title": "Larrau",
-  "country": "france",
-  "region": "larrau",
-  "city": "larrau",
   "restaurants": [
     {
       "name": "Etchemaïté",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/larrau/larrau/etchemat"
+    },
+    {
+      "name": "Etchemaite",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/larrau/larrau/Etchemaite"
     }
   ]
 }

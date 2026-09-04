@@ -1,8 +1,5 @@
 {
   "title": "Cardiff",
-  "country": "uk",
-  "region": "cardiff",
-  "city": "cardiff",
   "restaurants": [
     {
       "name": "Asador 44",
@@ -63,6 +60,24 @@
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/cardiff/cardiff/thomas"
+    },
+    {
+      "name": "Ogof",
+      "cuisine": "Country cooking",
+      "price": "$$",
+      "path": "/uk/cardiff/cardiff/Ogof"
+    },
+    {
+      "name": "SONDER",
+      "cuisine": "Modern British",
+      "price": "$$",
+      "path": "/uk/cardiff/cardiff/Sonder"
+    },
+    {
+      "name": "Thomas, the brasserie",
+      "cuisine": "Modern British",
+      "price": "$$$",
+      "path": "/uk/cardiff/cardiff/ThomasTheBrasserie"
     }
   ]
 }

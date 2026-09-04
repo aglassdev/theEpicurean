@@ -1,8 +1,5 @@
 {
   "title": "Helsinki",
-  "country": "finland",
-  "region": "helsinki",
-  "city": "helsinki",
   "restaurants": [
     {
       "name": "305",
@@ -165,6 +162,30 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/finland/helsinki/helsinki/young-hearts"
+    },
+    {
+      "name": "Boreal",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/finland/helsinki/helsinki/Boreal"
+    },
+    {
+      "name": "Latitude 25",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/finland/helsinki/helsinki/Latitude25"
+    },
+    {
+      "name": "Spis",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/finland/helsinki/helsinki/Spis"
+    },
+    {
+      "name": "Chez Dominique",
+      "cuisine": "",
+      "price": "",
+      "path": "/finland/helsinki/helsinki/ChezDominique"
     }
   ]
 }

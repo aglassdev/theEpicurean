@@ -1,8 +1,5 @@
 {
   "title": "Verona",
-  "country": "italy",
-  "region": "verona",
-  "city": "verona",
   "restaurants": [
     {
       "name": "Al Bersagliere",
@@ -111,6 +108,18 @@
       "cuisine": "Italian Contemporary",
       "price": "€€€",
       "path": "/italy/verona/verona/vescovo-moro"
+    },
+    {
+      "name": "Café Carducci",
+      "cuisine": "Classic Cuisine",
+      "price": "$$",
+      "path": "/italy/verona/verona/CafCarducci"
+    },
+    {
+      "name": "Inka",
+      "cuisine": "Peruvian",
+      "price": "$$",
+      "path": "/italy/verona/verona/Inka"
     }
   ]
 }

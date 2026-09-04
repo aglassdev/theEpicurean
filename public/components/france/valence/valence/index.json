@@ -1,8 +1,5 @@
 {
   "title": "Valence",
-  "country": "france",
-  "region": "valence",
-  "city": "valence",
   "restaurants": [
     {
       "name": "Almacita",
@@ -39,6 +36,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/valence/valence/pithque"
+    },
+    {
+      "name": "Bistrot André",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$$",
+      "path": "/france/valence/valence/BistrotAndr"
     }
   ]
 }

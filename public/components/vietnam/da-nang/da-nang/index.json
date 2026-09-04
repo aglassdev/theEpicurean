@@ -1,8 +1,5 @@
 {
   "title": "Da Nang",
-  "country": "vietnam",
-  "region": "da-nang",
-  "city": "da-nang",
   "restaurants": [
     {
       "name": "Bà Diệu (Tran Tong Street)",
@@ -261,6 +258,54 @@
       "cuisine": "French Contemporary",
       "price": "₫₫₫",
       "path": "/vietnam/da-nang/da-nang/the-temptation"
+    },
+    {
+      "name": "Bà Vui",
+      "cuisine": "Vietnamese",
+      "price": "$",
+      "path": "/vietnam/da-nang/da-nang/BVui"
+    },
+    {
+      "name": "Bánh Bèo - Bánh đập",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/vietnam/da-nang/da-nang/BnhBoBnhP"
+    },
+    {
+      "name": "Bún Bò Bà Rơi (Hoà Cường)",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/vietnam/da-nang/da-nang/BnBBRiHoCng"
+    },
+    {
+      "name": "Lê Gia Khang (Ngũ Hành Sơn)",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/vietnam/da-nang/da-nang/LGiaKhangNgHnhSn"
+    },
+    {
+      "name": "Nam Hìn (Phan Thanh Street)",
+      "cuisine": "Vietnamese",
+      "price": "$",
+      "path": "/vietnam/da-nang/da-nang/NamHnPhanThanhStreet"
+    },
+    {
+      "name": "Quê Xưa (Hòa Cường)",
+      "cuisine": "Vietnamese",
+      "price": "$",
+      "path": "/vietnam/da-nang/da-nang/QuXaHaCng"
+    },
+    {
+      "name": "Bánh Canh Yến (Hải Châu)",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/vietnam/da-nang/da-nang/BnhCanhYnHiChu"
+    },
+    {
+      "name": "Dì Hoa (Hòa Cường)",
+      "cuisine": "Small eats",
+      "price": "$",
+      "path": "/vietnam/da-nang/da-nang/DHoaHaCng"
     }
   ]
 }

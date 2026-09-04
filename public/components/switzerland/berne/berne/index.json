@@ -1,8 +1,5 @@
 {
   "title": "Berne",
-  "country": "switzerland",
-  "region": "berne",
-  "city": "berne",
   "restaurants": [
     {
       "name": "Casa Novo",
@@ -63,6 +60,12 @@
       "cuisine": "Classic French",
       "price": "€€€",
       "path": "/switzerland/berne/berne/zum-zhringer"
+    },
+    {
+      "name": "MYLE",
+      "cuisine": "World Cuisine",
+      "price": "$$$$",
+      "path": "/switzerland/berne/berne/Myle"
     }
   ]
 }

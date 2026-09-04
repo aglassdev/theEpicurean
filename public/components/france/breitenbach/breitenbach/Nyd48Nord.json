@@ -1,0 +1,39 @@
+{
+  "restaurantName": "NYD - 48° Nord",
+  "address": "1048 route du Mont-Sainte-Odile, Breitenbach, 67220, France",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "$$$",
+  "phoneNumber": "+33367500005",
+  "website": "https://hotel48nord.com",
+  "tags": [
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Great view"
+    },
+    {
+      "name": "Interesting wine list"
+    },
+    {
+      "name": "Terrace"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    },
+    {
+      "name": "Green Star",
+      "organization": "Michelin Guide",
+      "image": "/images/greenstar.png"
+    }
+  ],
+  "bio": "On the road to Hohwald, deep in nature, this Scandinavian-inspired hotel-restaurant promotes simplicity and switching off. These values are reflected in the restaurant, which serves up generous cuisine made with 100% organic and local produce, prepared with simplicity by a mentee of chef Jérôme Jaegle (Alchémille in Kaysersberg), in an intimate rustic-style setting. There is a pleasant terrace with views of the untamed Alsace countryside and the Black Forest in the distance.",
+  "pageTitle": "NYD - 48° Nord"
+}

@@ -1,8 +1,5 @@
 {
   "title": "Saint Tropez",
-  "country": "france",
-  "region": "saint-tropez",
-  "city": "saint-tropez",
   "restaurants": [
     {
       "name": "Arnaud Donckele & Maxime Frédéric at Louis Vuitton",
@@ -57,6 +54,12 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
       "path": "/france/saint-tropez/saint-tropez/les-toits-htel-de-paris-saint-tropez"
+    },
+    {
+      "name": "Il Giardino",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/france/saint-tropez/saint-tropez/IlGiardino"
     }
   ]
 }

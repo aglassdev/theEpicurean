@@ -1,8 +1,5 @@
 {
   "title": "Castell Dempries",
-  "country": "spain",
-  "region": "castell-dempries",
-  "city": "castell-dempries",
   "restaurants": [
     {
       "name": "Bistrot 1965",
@@ -15,6 +12,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/spain/castell-dempries/castell-dempries/emporium"
+    },
+    {
+      "name": "Empòrium",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/spain/castell-dempries/castell-dempries/Emprium"
     }
   ]
 }

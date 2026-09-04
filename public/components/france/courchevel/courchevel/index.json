@@ -1,8 +1,5 @@
 {
   "title": "Courchevel",
-  "country": "france",
-  "region": "courchevel",
-  "city": "courchevel",
   "restaurants": [
     {
       "name": "Alpage",
@@ -99,6 +96,12 @@
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/france/courchevel/courchevel/sylvestre-wahid-les-grandes-alpes"
+    },
+    {
+      "name": "Slalom 1850",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/france/courchevel/courchevel/Slalom1850"
     }
   ]
 }

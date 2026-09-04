@@ -1,8 +1,5 @@
 {
   "title": "Venice",
-  "country": "italy",
-  "region": "venice",
-  "city": "venice",
   "restaurants": [
     {
       "name": "Agli Amici Dopolavoro",
@@ -213,6 +210,18 @@
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
       "path": "/italy/venice/venice/zanze-xvi"
+    },
+    {
+      "name": "Alessandro Borghese - Il lusso della semplicità",
+      "cuisine": "Venetian",
+      "price": "$$$$",
+      "path": "/italy/venice/venice/AlessandroBorgheseIlLussoDellaSemplicit"
+    },
+    {
+      "name": "Alle Testiere",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/venice/venice/AlleTestiere"
     }
   ]
 }

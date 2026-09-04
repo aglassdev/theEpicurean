@@ -1,14 +1,17 @@
 {
   "title": "Nogueira",
-  "country": "portugal",
-  "region": "nogueira",
-  "city": "nogueira",
   "restaurants": [
     {
       "name": "Machado",
       "cuisine": "Traditional Cuisine",
       "price": "€",
       "path": "/portugal/nogueira/nogueira/machado"
+    },
+    {
+      "name": "O Manel",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/portugal/nogueira/nogueira/OManel"
     }
   ]
 }

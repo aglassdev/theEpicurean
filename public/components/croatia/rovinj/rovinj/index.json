@@ -1,8 +1,5 @@
 {
   "title": "Rovinj",
-  "country": "croatia",
-  "region": "rovinj",
-  "city": "rovinj",
   "restaurants": [
     {
       "name": "Agli Amici Rovinj",
@@ -33,6 +30,12 @@
       "cuisine": "Regional Cuisine, Contemporary",
       "price": "€€€€",
       "path": "/croatia/rovinj/rovinj/wine-vault-restaurant-levante-edition"
+    },
+    {
+      "name": "Riva Lounge",
+      "cuisine": "Regional Cuisine",
+      "price": "$$$$",
+      "path": "/croatia/rovinj/rovinj/RivaLounge"
     }
   ]
 }

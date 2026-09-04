@@ -1,8 +1,5 @@
 {
   "title": "Mels",
-  "country": "switzerland",
-  "region": "mels",
-  "city": "mels",
   "restaurants": [
     {
       "name": "Restaurant Schlüssel - Schlüsselstube",
@@ -15,6 +12,12 @@
       "cuisine": "Classic Cuisine, Modern Cuisine",
       "price": "€€€€",
       "path": "/switzerland/mels/mels/schlssel-nidbergstube"
+    },
+    {
+      "name": "Restaurant Schlüssel - Schlüsselstube",
+      "cuisine": "Country cooking",
+      "price": "$$",
+      "path": "/switzerland/mels/mels/RestaurantSchlsselSchlsselstube"
     }
   ]
 }

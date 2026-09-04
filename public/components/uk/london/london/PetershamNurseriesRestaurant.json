@@ -1,0 +1,33 @@
+{
+  "restaurantName": "Petersham Nurseries Restaurant",
+  "address": "Church Lane, Richmond, London, TW10 7AG, United Kingdom",
+  "cuisine": "Modern Cuisine",
+  "priceRange": "$$$",
+  "phoneNumber": "+442089405230",
+  "website": "https://petershamnurseries.com/",
+  "tags": [
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Pets not allowed"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    },
+    {
+      "name": "Green Star",
+      "organization": "Michelin Guide",
+      "image": "/images/greenstar.png"
+    }
+  ],
+  "bio": "As you sit in the greenhouse with sand at your feet, surrounded by fresh flowers which even in the winter months perfume the air, it feels as though all is right with the world. A unique spot within the London dining scene, this restaurant forms part of the wider Petersham Nurseries complex, where you can buy plants and homeware to spruce up your abode. The cooking features some herbs and vegetables from the garden and has a clear Italian accent, from pea risotto with crispy pancetta to hake with mussels and saffron sauce.",
+  "pageTitle": "Petersham Nurseries Restaurant"
+}

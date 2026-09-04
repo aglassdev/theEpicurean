@@ -1,0 +1,36 @@
+{
+  "restaurantName": "Tu Pang",
+  "address": "12, Alley 17, Section 4, Fuxing Road, East District, Taichung, 401, Taiwan",
+  "cuisine": "European Contemporary",
+  "priceRange": "$$",
+  "phoneNumber": "+886976866098",
+  "website": "https://tupang.com.tw",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Car park"
+    },
+    {
+      "name": "Counter dining"
+    },
+    {
+      "name": "Wheelchair access"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    },
+    {
+      "name": "Green Star",
+      "organization": "Michelin Guide",
+      "image": "/images/greenstar.png"
+    }
+  ],
+  "bio": "In a factory-turned cultural park, traces of its former vocation are still visible in the high-ceilinged room. The head chef has over 20 years of experience and he highlights the best local ingredients with European techniques. His tasting menu values sustainability as much as flavour, capturing the terroir and season with culinary gems. Each course is presented by the staff via a narrative that adds to the overall experience. Check out the selection of local millet wines.",
+  "pageTitle": "Tu Pang"
+}

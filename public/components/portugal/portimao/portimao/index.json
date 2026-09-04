@@ -1,8 +1,5 @@
 {
   "title": "Portimao",
-  "country": "portugal",
-  "region": "portimao",
-  "city": "portimao",
   "restaurants": [
     {
       "name": "NUMA",
@@ -21,6 +18,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/portugal/portimao/portimao/vista"
+    },
+    {
+      "name": "DUOO Gastro Theatre",
+      "cuisine": "Fusion",
+      "price": "$$$",
+      "path": "/portugal/portimao/portimao/DuooGastroTheatre"
     }
   ]
 }

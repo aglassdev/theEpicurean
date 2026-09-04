@@ -1,8 +1,5 @@
 {
   "title": "Vilnius",
-  "country": "lithuania",
-  "region": "vilnius",
-  "city": "vilnius",
   "restaurants": [
     {
       "name": "14Horses",
@@ -165,6 +162,42 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/lithuania/vilnius/vilnius/telegrafas"
+    },
+    {
+      "name": "Deep Roots",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/lithuania/vilnius/vilnius/DeepRoots"
+    },
+    {
+      "name": "Buff On",
+      "cuisine": "Steakhouse",
+      "price": "$$$",
+      "path": "/lithuania/vilnius/vilnius/BuffOn"
+    },
+    {
+      "name": "Elēno",
+      "cuisine": "Creative French",
+      "price": "$$$$",
+      "path": "/lithuania/vilnius/vilnius/Elno"
+    },
+    {
+      "name": "OMAKASE by Vaidas Užgerys",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/lithuania/vilnius/vilnius/OmakaseByVaidasUgerys"
+    },
+    {
+      "name": "Saint-Malo",
+      "cuisine": "French",
+      "price": "$$",
+      "path": "/lithuania/vilnius/vilnius/Saintmalo"
+    },
+    {
+      "name": "Skóg",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/lithuania/vilnius/vilnius/Skg"
     }
   ]
 }

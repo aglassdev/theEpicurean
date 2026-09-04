@@ -1,8 +1,5 @@
 {
   "title": "Pao De Arcos",
-  "country": "portugal",
-  "region": "pao-de-arcos",
-  "city": "pao-de-arcos",
   "restaurants": [
     {
       "name": "Casa da Dízima",
@@ -15,6 +12,12 @@
       "cuisine": "Portuguese, Contemporary",
       "price": "€€",
       "path": "/portugal/pao-de-arcos/pao-de-arcos/o-pastus"
+    },
+    {
+      "name": "Intemporal",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/portugal/pao-de-arcos/pao-de-arcos/Intemporal"
     }
   ]
 }

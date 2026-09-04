@@ -1,8 +1,5 @@
 {
   "title": "Girona",
-  "country": "spain",
-  "region": "girona",
-  "city": "girona",
   "restaurants": [
     {
       "name": "Cipresaia",
@@ -57,6 +54,12 @@
       "cuisine": "Contemporary, Modern Cuisine",
       "price": "€€€",
       "path": "/spain/girona/girona/sinofos"
+    },
+    {
+      "name": "Dit i Fet",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/spain/girona/girona/DitIFet"
     }
   ]
 }

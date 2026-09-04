@@ -1,8 +1,5 @@
 {
   "title": "Regensburg",
-  "country": "germany",
-  "region": "regensburg",
-  "city": "regensburg",
   "restaurants": [
     {
       "name": "Aska",
@@ -57,6 +54,12 @@
       "cuisine": "Creative, Farm to table",
       "price": "€€€€",
       "path": "/germany/regensburg/regensburg/storstad"
+    },
+    {
+      "name": "ROTER HAHN",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/germany/regensburg/regensburg/RoterHahn"
     }
   ]
 }

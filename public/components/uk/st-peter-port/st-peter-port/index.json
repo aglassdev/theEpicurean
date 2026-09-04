@@ -1,8 +1,5 @@
 {
   "title": "St Peter Port",
-  "country": "uk",
-  "region": "st-peter-port",
-  "city": "st-peter-port",
   "restaurants": [
     {
       "name": "Alba",
@@ -15,6 +12,24 @@
       "cuisine": "Japanese Contemporary",
       "price": "££",
       "path": "/uk/st-peter-port/st-peter-port/fukku"
+    },
+    {
+      "name": "Alba Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/uk/st-peter-port/st-peter-port/AlbaRestaurant"
+    },
+    {
+      "name": "Hook",
+      "cuisine": "Meats and Grills",
+      "price": "$$",
+      "path": "/uk/st-peter-port/st-peter-port/Hook"
+    },
+    {
+      "name": "Le Nautique",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/uk/st-peter-port/st-peter-port/LeNautique"
     }
   ]
 }

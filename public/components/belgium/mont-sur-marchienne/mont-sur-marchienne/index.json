@@ -1,8 +1,5 @@
 {
   "title": "Mont Sur Marchienne",
-  "country": "belgium",
-  "region": "mont-sur-marchienne",
-  "city": "mont-sur-marchienne",
   "restaurants": [
     {
       "name": "Adagio & Gusto",
@@ -15,6 +12,12 @@
       "cuisine": "French",
       "price": "€€",
       "path": "/belgium/mont-sur-marchienne/mont-sur-marchienne/table-et-vin"
+    },
+    {
+      "name": "TA-K Venir",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/belgium/mont-sur-marchienne/mont-sur-marchienne/TakVenir"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Toronto",
-  "country": "canada",
-  "region": "toronto",
-  "city": "toronto",
   "restaurants": [
     {
       "name": "156 Cumberland",
@@ -1095,6 +1092,12 @@
       "cuisine": "Japanese",
       "price": "$$$$",
       "path": "/canada/toronto/toronto/yukashi"
+    },
+    {
+      "name": "Susar",
+      "cuisine": "",
+      "price": "",
+      "path": "/canada/toronto/toronto/Susar"
     }
   ]
 }

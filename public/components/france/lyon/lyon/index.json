@@ -1,8 +1,5 @@
 {
   "title": "Lyon",
-  "country": "france",
-  "region": "lyon",
-  "city": "lyon",
   "restaurants": [
     {
       "name": "Accentué",
@@ -537,6 +534,30 @@
       "cuisine": "Peruvian",
       "price": "€€",
       "path": "/france/lyon/lyon/yka-bar-ceviche"
+    },
+    {
+      "name": "Carpe Diem",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/lyon/lyon/CarpeDiem"
+    },
+    {
+      "name": "La Table de la Villa Florentine",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/france/lyon/lyon/LaTableDeLaVillaFlorentine"
+    },
+    {
+      "name": "Bocuse",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/lyon/lyon/Bocuse"
+    },
+    {
+      "name": "Maison Troisgros",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/lyon/lyon/MaisonTroisgros"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Vlissegem",
-  "country": "belgium",
-  "region": "vlissegem",
-  "city": "vlissegem",
   "restaurants": [
     {
       "name": "Kok Sur Mer",
@@ -15,6 +12,12 @@
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/belgium/vlissegem/vlissegem/lepelem"
+    },
+    {
+      "name": "Restaurant Lepelem",
+      "cuisine": "Modern French",
+      "price": "$$$",
+      "path": "/belgium/vlissegem/vlissegem/RestaurantLepelem"
     }
   ]
 }

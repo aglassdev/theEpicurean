@@ -1,8 +1,5 @@
 {
   "title": "Nottingham",
-  "country": "uk",
-  "region": "nottingham",
-  "city": "nottingham",
   "restaurants": [
     {
       "name": "alchemilla",
@@ -39,6 +36,12 @@
       "cuisine": "Creative",
       "price": "££££",
       "path": "/uk/nottingham/nottingham/restaurant-sat-bains"
+    },
+    {
+      "name": "Restaurant Sat Bains",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/uk/nottingham/nottingham/RestaurantSatBains"
     }
   ]
 }

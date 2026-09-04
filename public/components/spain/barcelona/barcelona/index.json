@@ -1,8 +1,5 @@
 {
   "title": "Barcelona",
-  "country": "spain",
-  "region": "barcelona",
-  "city": "barcelona",
   "restaurants": [
     {
       "name": "ABaC",
@@ -615,6 +612,66 @@
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/spain/barcelona/barcelona/xerta"
+    },
+    {
+      "name": "AÜC",
+      "cuisine": "Regional Cuisine",
+      "price": "$",
+      "path": "/spain/barcelona/barcelona/Ac"
+    },
+    {
+      "name": "Bar Cañete",
+      "cuisine": "Farm to table",
+      "price": "$$$",
+      "path": "/spain/barcelona/barcelona/BarCaete"
+    },
+    {
+      "name": "Casa Fiero",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/spain/barcelona/barcelona/CasaFiero"
+    },
+    {
+      "name": "Olivos Comida y Vinos",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/spain/barcelona/barcelona/OlivosComidaYVinos"
+    },
+    {
+      "name": "Somodó Bá",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/spain/barcelona/barcelona/SomodB"
+    },
+    {
+      "name": "Trü",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/spain/barcelona/barcelona/Tr"
+    },
+    {
+      "name": "UMO Alex Vall",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/spain/barcelona/barcelona/UmoAlexVall"
+    },
+    {
+      "name": "Can Fabes",
+      "cuisine": "",
+      "price": "",
+      "path": "/spain/barcelona/barcelona/CanFabes"
+    },
+    {
+      "name": "Cal Pep",
+      "cuisine": "",
+      "price": "",
+      "path": "/spain/barcelona/barcelona/CalPep"
+    },
+    {
+      "name": "Tickets",
+      "cuisine": "",
+      "price": "",
+      "path": "/spain/barcelona/barcelona/Tickets"
     }
   ]
 }

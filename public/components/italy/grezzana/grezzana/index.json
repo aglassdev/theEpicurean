@@ -1,14 +1,17 @@
 {
   "title": "Grezzana",
-  "country": "italy",
-  "region": "grezzana",
-  "city": "grezzana",
   "restaurants": [
     {
       "name": "Ca' Del Moro",
       "cuisine": "Italian Contemporary, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/italy/grezzana/grezzana/ca-del-moro"
+    },
+    {
+      "name": "La Collina dei Ciliegi",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$",
+      "path": "/italy/grezzana/grezzana/LaCollinaDeiCiliegi"
     }
   ]
 }

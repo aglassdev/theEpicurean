@@ -1,8 +1,5 @@
 {
   "title": "Nara",
-  "country": "japan",
-  "region": "nara",
-  "city": "nara",
   "restaurants": [
     {
       "name": "A VOTRE SANTE",
@@ -513,6 +510,48 @@
       "cuisine": "Pizza",
       "price": "¥",
       "path": "/japan/nara/nara/yamaoka-pizza"
+    },
+    {
+      "name": "Hoshino",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/japan/nara/nara/Hoshino"
+    },
+    {
+      "name": "AUBERGE de SENVIE",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/japan/nara/nara/AubergeDeSenvie"
+    },
+    {
+      "name": "Aperçu",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/japan/nara/nara/Aperu"
+    },
+    {
+      "name": "SOLIER",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/japan/nara/nara/Solier"
+    },
+    {
+      "name": "Sukita",
+      "cuisine": "Yakitori",
+      "price": "$$",
+      "path": "/japan/nara/nara/Sukita"
+    },
+    {
+      "name": "Sushi Matsumiya",
+      "cuisine": "Sushi",
+      "price": "$$$",
+      "path": "/japan/nara/nara/SushiMatsumiya"
+    },
+    {
+      "name": "ristorante Nishiyama",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/japan/nara/nara/RistoranteNishiyama"
     }
   ]
 }

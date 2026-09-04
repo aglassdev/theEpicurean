@@ -1,14 +1,17 @@
 {
   "title": "Martigues",
-  "country": "france",
-  "region": "martigues",
-  "city": "martigues",
   "restaurants": [
     {
       "name": "Gusto Caffe",
       "cuisine": "Italian",
       "price": "€€",
       "path": "/france/martigues/martigues/gusto-caffe"
+    },
+    {
+      "name": "Le Gusto",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/france/martigues/martigues/LeGusto"
     }
   ]
 }

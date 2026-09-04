@@ -1,8 +1,5 @@
 {
   "title": "Bergisch Gladbach",
-  "country": "germany",
-  "region": "bergisch-gladbach",
-  "city": "bergisch-gladbach",
   "restaurants": [
     {
       "name": "Schote",
@@ -15,6 +12,12 @@
       "cuisine": "Creative, Classic French",
       "price": "€€€€",
       "path": "/germany/bergisch-gladbach/bergisch-gladbach/vendme"
+    },
+    {
+      "name": "Müllers in der Mühle",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/germany/bergisch-gladbach/bergisch-gladbach/MllersInDerMhle"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "title": "Miami",
+  "restaurants": [
+    {
+      "name": "Double Luck",
+      "cuisine": "Chinese",
+      "price": "$$",
+      "path": "/usa/florida/miami/DoubleLuck"
+    },
+    {
+      "name": "To Be Determined",
+      "cuisine": "Seasonal Cuisine",
+      "price": "$$",
+      "path": "/usa/florida/miami/ToBeDetermined"
+    },
+    {
+      "name": "Bistro Ocho",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/usa/florida/miami/BistroOcho"
+    },
+    {
+      "name": "Mano Libera",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/usa/florida/miami/ManoLibera"
+    }
+  ]
+}

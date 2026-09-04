@@ -1,8 +1,5 @@
 {
   "title": "Delft",
-  "country": "netherlands",
-  "region": "delft",
-  "city": "delft",
   "restaurants": [
     {
       "name": "Lalou",
@@ -21,6 +18,12 @@
       "cuisine": "Creative French",
       "price": "€€€€",
       "path": "/netherlands/delft/delft/novaela"
+    },
+    {
+      "name": "Azurite",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/netherlands/delft/delft/Azurite"
     }
   ]
 }

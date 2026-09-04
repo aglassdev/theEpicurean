@@ -1,8 +1,5 @@
 {
   "title": "Donaueschingen",
-  "country": "germany",
-  "region": "donaueschingen",
-  "city": "donaueschingen",
   "restaurants": [
     {
       "name": "die burg",
@@ -21,6 +18,12 @@
       "cuisine": "Modern Cuisine, Classic Cuisine",
       "price": "€€€€",
       "path": "/germany/donaueschingen/donaueschingen/sch-noir"
+    },
+    {
+      "name": "Schützen Donaueschingen",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/germany/donaueschingen/donaueschingen/SchtzenDonaueschingen"
     }
   ]
 }

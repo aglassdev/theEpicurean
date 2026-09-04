@@ -1,8 +1,5 @@
 {
   "title": "Mainz",
-  "country": "germany",
-  "region": "mainz",
-  "city": "mainz",
   "restaurants": [
     {
       "name": "FAVORITE restaurant",
@@ -27,6 +24,12 @@
       "cuisine": "Sushi",
       "price": "€€€",
       "path": "/germany/mainz/mainz/sushi-lounge"
+    },
+    {
+      "name": "GenussWerkstatt",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/germany/mainz/mainz/Genusswerkstatt"
     }
   ]
 }

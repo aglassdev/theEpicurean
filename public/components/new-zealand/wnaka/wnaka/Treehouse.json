@@ -1,0 +1,25 @@
+{
+  "restaurantName": "Treehouse",
+  "address": "3 Reece Crescent, Wānaka, 9305, New Zealand",
+  "cuisine": "New Zealand",
+  "priceRange": "$$",
+  "phoneNumber": "+6434437344",
+  "website": "https://treehousewanaka.nz/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Bib Gourmand",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "This unassuming gem tucked away in a residential area is a well-kept secret among those in the know. The kitchen helmed by chef Ricardo Le Roux sources the best ingredients from the South Island, such as D'Urville Island pāua abalone, Southern king crab and Lumina lamb, to create unique fusion dishes. Pāua croquette served with raw sweet chilli, a basil emulsion and fennel are out of this world. First-timers should order the ‘Trust the Chef’ menu.",
+  "pageTitle": "Treehouse"
+}

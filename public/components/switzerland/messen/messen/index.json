@@ -1,8 +1,5 @@
 {
   "title": "Messen",
-  "country": "switzerland",
-  "region": "messen",
-  "city": "messen",
   "restaurants": [
     {
       "name": "Löwen Gourmet",
@@ -15,6 +12,12 @@
       "cuisine": "Contemporary, Regional Cuisine",
       "price": "€€€",
       "path": "/switzerland/messen/messen/lwen"
+    },
+    {
+      "name": "Löwen Messen - Die Land Brasserie",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/switzerland/messen/messen/LwenMessenDieLandBrasserie"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "title": "Vannes",
-  "country": "france",
-  "region": "vannes",
-  "city": "vannes",
   "restaurants": [
     {
       "name": "Agora",
@@ -75,6 +72,12 @@
       "cuisine": "Ramen",
       "price": "€",
       "path": "/france/vannes/vannes/ryoko-comptoir-ramen"
+    },
+    {
+      "name": "Brasserie des Jardins - Domaine du Liziec",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/vannes/vannes/BrasserieDesJardinsDomaineDuLiziec"
     }
   ]
 }

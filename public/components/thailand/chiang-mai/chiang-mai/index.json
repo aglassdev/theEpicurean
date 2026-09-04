@@ -1,8 +1,5 @@
 {
   "title": "Chiang Mai",
-  "country": "thailand",
-  "region": "chiang-mai",
-  "city": "chiang-mai",
   "restaurants": [
     {
       "name": "Aeeen",
@@ -369,6 +366,30 @@
       "cuisine": "Chinese",
       "price": "฿฿฿",
       "path": "/thailand/chiang-mai/chiang-mai/yangzi-jiang"
+    },
+    {
+      "name": "Lhongkhao Kitchen",
+      "cuisine": "Northern Thai",
+      "price": "$",
+      "path": "/thailand/chiang-mai/chiang-mai/LhongkhaoKitchen"
+    },
+    {
+      "name": "Baan Nam Ngiew Wieng Kao",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/thailand/chiang-mai/chiang-mai/BaanNamNgiewWiengKao"
+    },
+    {
+      "name": "Huen Jai Yong",
+      "cuisine": "Northern Thai",
+      "price": "$",
+      "path": "/thailand/chiang-mai/chiang-mai/HuenJaiYong"
+    },
+    {
+      "name": "Jaan Joor",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/thailand/chiang-mai/chiang-mai/JaanJoor"
     }
   ]
 }

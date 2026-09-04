@@ -1,8 +1,5 @@
 {
   "title": "Belgrade",
-  "country": "serbia",
-  "region": "belgrade",
-  "city": "belgrade",
   "restaurants": [
     {
       "name": "Bela Reka",
@@ -147,6 +144,12 @@
       "cuisine": "International",
       "price": "€€",
       "path": "/serbia/belgrade/belgrade/the-twenty-two"
+    },
+    {
+      "name": "Homa Central",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/serbia/belgrade/belgrade/HomaCentral"
     }
   ]
 }

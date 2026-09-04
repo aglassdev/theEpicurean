@@ -1,0 +1,28 @@
+{
+  "restaurantName": "The French Café",
+  "address": "210 Symonds Street, Eden Terrace, Auckland, 1011, New Zealand",
+  "cuisine": "New Zealand",
+  "priceRange": "$$$",
+  "phoneNumber": "+6493771911",
+  "website": "https://thefrenchcafe.co.nz/",
+  "tags": [
+    {
+      "name": "Air conditioning"
+    },
+    {
+      "name": "Interesting wine list"
+    },
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "This iconic fine dining institution has a sun-drenched room overlooking the lush courtyard and feels warm and inviting. Having seen four different owners since 1981, it is now in the hands of chef-owner Sid Sahrawat and his wife Chand. The French Café serves modern New Zealand cuisine based on European traditions, but with Asian influences. The Hawke's Bay lamb rump, a nod to the chef's Indian roots, celebrates the prized Kiwi ovine.",
+  "pageTitle": "The French Café"
+}

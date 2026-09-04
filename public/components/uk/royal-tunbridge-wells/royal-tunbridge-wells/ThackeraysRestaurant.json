@@ -1,0 +1,22 @@
+{
+  "restaurantName": "Thackeray's Restaurant",
+  "address": "85 London Road, Royal Tunbridge Wells, TN1 1EA, United Kingdom",
+  "cuisine": "Modern British",
+  "priceRange": "$$$",
+  "phoneNumber": "+441892511921",
+  "website": "https://www.thackerays-restaurant.co.uk",
+  "tags": [
+    {
+      "name": "Terrace"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Michelin Selected",
+      "organization": "Michelin Guide",
+      "image": "/images/michelin.png"
+    }
+  ],
+  "bio": "A softly illuminated clapboard house; the oldest in town and once home to the eponymous author. Classic dishes have modern elements and feature lots of different ingredients. The moody first floor private rooms showcase local art.",
+  "pageTitle": "Thackeray's Restaurant"
+}

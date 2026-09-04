@@ -1,8 +1,5 @@
 {
   "title": "Dublin City",
-  "country": "ireland",
-  "region": "dublin-city",
-  "city": "dublin-city",
   "restaurants": [
     {
       "name": "allta",
@@ -279,6 +276,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/ireland/dublin-city/dublin-city/variety-jones"
+    },
+    {
+      "name": "Parrilla",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/ireland/dublin-city/dublin-city/Parrilla"
     }
   ]
 }
