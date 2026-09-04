@@ -1,0 +1,77 @@
+# Product
+
+<!-- impeccable:product-schema 1 -->
+
+## Platform
+
+web
+
+## Users
+
+**Primary:** affluent food travellers and serious food enthusiasts — people for whom a meal can be the reason for a trip, a celebration, or an evening's research.
+
+They arrive doing one of three jobs (confirmed as the central ones):
+
+- **Settling a special-occasion pick** — choosing the one right standout table for an anniversary, milestone, or celebration.
+- **Consulting the definitive cross-source reference** — using one place that already aggregates Michelin, the World's 50 Best, La Liste, James Beard, and the rest, instead of checking each guide separately.
+- **Browsing and discovering for inspiration** — exploring the map or guide with no fixed plan, finding remarkable places.
+
+Trip-itinerary planning is a plausible but secondary use, not a primary job.
+
+## Product Purpose
+
+The Epicurean is a curated global guide — an *atlas* — to the world's finest dining (and drinking) establishments. It amalgamates 100+ authoritative sources into a single, navigable reference so a food lover can consult one place rather than many.
+
+It exists because gastronomic excellence is scattered across dozens of awards, guides, and reviewers with no common home. Success (this is a personal / portfolio project — "a glass production") is a guide that is beautiful, genuinely useful, and complete enough for its creator to be proud to share. It is not monetised.
+
+## Positioning
+
+The differentiator is **unification with a defined hierarchy**: it consolidates 50–100+ awards, guides, associations, and reviewers (Michelin, World's 50 Best, La Liste, James Beard, Wine Spectator, Relais & Châteaux, regional 50 Bests, sustainability and bar programs, and more) and ranks them into an explicit hierarchy of awards across Food, Wine, Bar, and Sustainability. Paired with a fully explorable world map that pins every restaurant, the position a neighbouring product could not casually copy is: *the one place that reconciles all the journals of record into a single guide and map.*
+
+## Operating Context
+
+Used before dining out or travelling, often for a specific occasion. The product is browsed, not queried like a database. Core surfaces:
+
+- **The Atlas** — an interactive, fully explorable world map (MapLibre + OpenFreeMap) with clustered markers; individual pins open the in-guide restaurant page where one exists, otherwise the restaurant's own site.
+- **Destinations** — a country → region → city index for browsing coverage.
+- **Restaurant detail pages** and **city listing pages**.
+- **Methodology** — explains the selection philosophy, the hierarchy of awards, and the full source list.
+- **News** — dispatches on openings, awards, and rankings.
+
+## Capabilities and Constraints
+
+- Coverage: ~12,650 restaurants across 163 countries and ~3,397 cities.
+- Static single-page app (React 18 + Vite + React Router), deployed on Vercel. No backend, no accounts, no commerce today.
+- Map data is produced by an **offline pipeline**: `restaurants.csv` → geocoding cascade (LocationIQ or OSM Nominatim → US Census → Photon → city-level fallback) → `public/data/restaurants-geo.json` → guide-page linking. Resumable, run via `npm run geocode` and `npm run link-pages`.
+- **Known data constraint:** the geocoded restaurant list (from `restaurants.csv`) and the on-disk detail-page dataset (`public/components/**`, ~21.8k files) only ~40% overlap; pins without a detail page fall back to the external website. Approximate (city-level) placements are flagged and shown, never faked as precise. See memory `atlas-data-pipeline`.
+- Terminology: "the Atlas" (the world map), "the guide", "the journals of record" (sources), and the tiered "hierarchy of awards".
+
+### Planned — leave room for (not yet built)
+
+- **User accounts with saved lists / wishlists** — future; the current static architecture must not foreclose it.
+- **Outbound reservation/booking links** (Resy/OpenTable/site handoff) — future; no in-app booking intended, just a handoff.
+- **A growing, refreshed dataset** — the restaurant data will keep expanding and needs periodic re-scraping and re-geocoding; treat the data pipeline as a living part of the product.
+
+## Brand Commitments
+
+- Name: **The Epicurean**.
+- Byline: **a glass production** (lowercase), a solo creator project.
+- Voice: refined, editorial, connoisseur — assured without being fussy.
+
+(Visual identity — palette, typography, layout language — is design authority and lives in DESIGN.md, not here.)
+
+## Evidence on Hand
+
+- `restaurants.csv` — 12,650 real restaurants (name, address, city, country, site, source), scraped from thebestrestaurantsguide.com.
+- `public/components/**` — ~21,850 restaurant detail JSON files (a broader, partially overlapping dataset).
+- `public/images/**` — real logos for the source awards/guides and per-restaurant imagery.
+- `public/data/restaurants-geo.json` — geocoded coordinates (user-generated by the pipeline).
+- **No** testimonials, user/traffic numbers, press, ratings, or partnerships exist — future work must not fabricate these.
+
+## Product Principles
+
+1. **One place, every journal.** Unify the authoritative sources so the user never has to consult five guides — reconciled into one hierarchy, not a link dump.
+2. **Curation, not comprehensiveness of the ordinary.** Only remarkable tables; the bar is excellence in food and ingredients first, then service, then setting.
+3. **Accuracy is the product.** Correct source attributions and pinpoint locations; uncertain or approximate data is marked plainly, never dressed up as precise.
+4. **A guide to explore, not a database to query.** Map-led discovery and browsing are first-class jobs alongside look-it-up reference.
+5. **Built to be proud of.** As a personal showcase, completeness and craft are the point — no placeholder or half-finished surfaces ship.

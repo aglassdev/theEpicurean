@@ -194,16 +194,22 @@ const HomePage = () => {
                   cursor: slide.route ? 'pointer' : 'default',
                 }}
               >
+                {/* Scrim keeps the overlay legible now that images fill (cover) the frame */}
+                <div aria-hidden style={{
+                  position: 'absolute', inset: 0, pointerEvents: 'none',
+                  background: 'linear-gradient(to top, rgba(20,16,12,.62) 0%, rgba(20,16,12,.18) 30%, rgba(20,16,12,0) 56%)',
+                }} />
                 <div style={{
                   position: 'absolute',
                   left: 'clamp(1.5rem, 4vw, 4rem)',
                   bottom: 'clamp(1.5rem, 4vw, 4rem)',
-                  color: slide.textColor, maxWidth: '520px',
+                  color: paper, maxWidth: '520px',
+                  textShadow: '0 1px 18px rgba(0,0,0,.35)',
                 }}>
                   <div style={{
                     fontFamily: sans, fontSize: '10.5px', letterSpacing: '.34em',
-                    textTransform: 'uppercase', opacity: .85, marginBottom: '.85rem',
-                    color: slide.textColor,
+                    textTransform: 'uppercase', opacity: .9, marginBottom: '.85rem',
+                    color: paper,
                   }}>
                     No. {String(((currentSlide === carouselImages.length ? 0 : currentSlide) % carouselImages.length) + 1).padStart(2,'0')} · The Featured
                   </div>
@@ -222,7 +228,7 @@ const HomePage = () => {
                         <img src={slide.starImages[starIndex]} alt="Star"
                           style={{ width: '30px', height: '30px', objectFit: 'contain' }}
                           onError={(e) => { e.target.style.display = 'none'; e.target.nextSibling.style.display = 'block'; }} />
-                        <span style={{ fontSize: '18px', color: slide.textColor, display: 'none' }}>★</span>
+                        <span style={{ fontSize: '18px', color: paper, display: 'none' }}>★</span>
                       </div>
                     ))}
                   </div>
@@ -240,8 +246,9 @@ const HomePage = () => {
               return (
                 <div key={index} className="epi-indicator"
                   style={{
-                    width: active ? '28px' : '12px', height: '1.5px',
-                    background: active ? ink : 'rgba(31,26,20,.35)',
+                    width: active ? '28px' : '12px', height: '2px',
+                    background: active ? paper : 'rgba(250,247,240,.5)',
+                    boxShadow: '0 0 4px rgba(0,0,0,.35)',
                     cursor: 'pointer', transition: 'width .5s cubic-bezier(.2,.7,.2,1), background .4s ease',
                   }}
                   onClick={() => { setIsTransitioning(true); setCurrentSlide(index); }} />

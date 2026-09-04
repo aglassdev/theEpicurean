@@ -24,6 +24,9 @@ export const useEpiStyles = () => {
     style.innerHTML = `
       html, body { background: ${tokens.paper}; margin: 0; }
       body { font-family: ${tokens.body}; color: ${tokens.ink}; }
+      ::selection { background: ${tokens.gold}; color: ${tokens.paper}; }
+      :focus-visible { outline: 2px solid ${tokens.gold}; outline-offset: 3px; border-radius: 1px; }
+      :focus:not(:focus-visible) { outline: none; }
       @keyframes epi-rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
       @keyframes epi-fade { from { opacity: 0; } to { opacity: 1; } }
       @keyframes epi-line { from { transform: scaleX(0); } to { transform: scaleX(1); } }
@@ -72,6 +75,8 @@ export const useEpiStyles = () => {
         .epi-grid-3 { grid-template-columns: 1fr !important; }
         .epi-grid-5 { grid-template-columns: repeat(2, 1fr) !important; }
         .epi-two-col { grid-template-columns: 1fr !important; }
+        /* A tall stacked TOC shouldn't pin itself over a phone screen */
+        .epi-toc-bar { position: static !important; top: auto !important; }
       }
     `;
     document.head.appendChild(style);

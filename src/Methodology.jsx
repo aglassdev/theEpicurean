@@ -266,8 +266,8 @@ const Methodology = () => {
         lede="How The Epicurean is built — from the philosophy of selection to the hundred-plus journals, guides, and awards that inform every entry."
       />
 
-      {/* Sticky table of contents */}
-      <section style={{
+      {/* Sticky table of contents (static on mobile — see .epi-toc-bar) */}
+      <section className="epi-toc-bar" style={{
         position: 'sticky', top: '74px', zIndex: 90,
         background: paper,
         borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`,
