@@ -35,12 +35,13 @@ export const useEpiStyles = () => {
       .epi-line { transform-origin: left center; animation: epi-line 1.4s cubic-bezier(.2,.7,.2,1) both; }
       .epi-nav-link { position: relative; }
       .epi-nav-link::after {
-        content: ''; position: absolute; left: 50%; bottom: -6px;
-        width: 0; height: 1px; background: ${tokens.ink};
-        transition: width .45s cubic-bezier(.2,.7,.2,1), left .45s cubic-bezier(.2,.7,.2,1);
+        content: ''; position: absolute; left: 0; right: 0; bottom: -6px;
+        height: 1px; background: ${tokens.ink};
+        transform: scaleX(0); transform-origin: center;
+        transition: transform .45s cubic-bezier(.2,.7,.2,1), background .3s ease;
       }
-      .epi-nav-link:hover::after { width: 100%; left: 0; }
-      .epi-nav-link.active::after { width: 100%; left: 0; background: ${tokens.gold}; }
+      .epi-nav-link:hover::after { transform: scaleX(1); }
+      .epi-nav-link.active::after { transform: scaleX(1); background: ${tokens.gold}; }
       .epi-feature:hover .epi-feature-title { color: ${tokens.gold}; }
       .epi-feature-title { transition: color .5s ease; }
       .epi-feature-img { transition: transform 1.2s cubic-bezier(.2,.7,.2,1), filter .8s ease; }
@@ -55,8 +56,8 @@ export const useEpiStyles = () => {
       .epi-marquee:hover .epi-marquee-track { animation-play-state: paused; }
       .epi-card { transition: transform .5s cubic-bezier(.2,.7,.2,1), background .35s ease, border-color .35s ease; }
       .epi-card:hover { transform: translateY(-3px); background: ${tokens.paper}; border-color: ${tokens.gold}; }
-      .epi-city-link { transition: color .25s ease, padding-left .25s ease; }
-      .epi-city-link:hover { color: ${tokens.gold}; padding-left: 6px; }
+      .epi-city-link { transition: color .25s ease, transform .25s ease; }
+      .epi-city-link:hover { color: ${tokens.gold}; transform: translateX(6px); }
       .epi-toc-link { transition: color .35s ease, border-color .35s ease; border-bottom: 1px solid transparent; }
       .epi-toc-link:hover { color: ${tokens.gold}; border-color: ${tokens.gold}; }
       .epi-award-num {
@@ -125,7 +126,6 @@ export const EpiNav = ({ active }) => {
       <div className="epi-masthead-row" style={{
         display: 'flex', alignItems: 'center', justifyContent: 'space-between',
         padding: scrolled ? '.6rem 2.25rem' : '1.4rem 2.25rem',
-        transition: 'padding .4s ease',
       }}>
         <div className="epi-nav-links" style={{ display: 'flex', gap: '2.25rem', flex: 1 }}>
           <button className={cls('news')} onClick={go('/news')} style={navBtn}>News</button>

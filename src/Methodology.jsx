@@ -469,10 +469,10 @@ const Methodology = () => {
                   padding: '1rem .5rem',
                   borderBottom: `1px solid ${rule}`,
                   textDecoration: 'none', color: 'inherit',
-                  transition: 'background .25s ease, padding-left .25s ease',
+                  transition: 'background .25s ease, transform .25s ease',
                 }}
-                onMouseEnter={(e) => { e.currentTarget.style.background = paperDeep; e.currentTarget.style.paddingLeft = '1.5rem'; }}
-                onMouseLeave={(e) => { e.currentTarget.style.background = 'transparent'; e.currentTarget.style.paddingLeft = '.5rem'; }}
+                onMouseEnter={(e) => { e.currentTarget.style.background = paperDeep; e.currentTarget.style.transform = 'translateX(8px)'; }}
+                onMouseLeave={(e) => { e.currentTarget.style.background = 'transparent'; e.currentTarget.style.transform = 'translateX(0)'; }}
               >
                 <span style={{
                   fontFamily: sans, fontSize: '10px', letterSpacing: '.3em',

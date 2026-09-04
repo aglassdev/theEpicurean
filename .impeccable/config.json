@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "layout-transition",
+        "value": "*",
+        "files": [
+          "src/Home.jsx"
+        ],
+        "createdAt": "2026-09-04T19:02:39.885Z",
+        "reason": "carousel active-indicator extending-line: width is the correct tool for this flex layout effect (scaleX breaks tick spacing); 10 tiny elements, transitions only on slide advance — negligible cost. Design-director decision, not user-confirmed."
+      }
+    ]
+  }
+}
