@@ -367,14 +367,10 @@ const MapFallback = ({ height, fullPage }) => (
       backgroundSize: '30px 30px',
     }} />
     <div style={{ position: 'relative', textAlign: 'center', maxWidth: 500, padding: '2rem' }}>
-      <div style={{
-        fontFamily: tokens.sans, fontSize: '10px', letterSpacing: '.3em',
-        textTransform: 'uppercase', color: GOLD, marginBottom: '.8rem',
-      }}>The Atlas · Setup</div>
       <h3 style={{
         fontFamily: tokens.serif, fontWeight: 400,
-        fontSize: 'clamp(1.6rem, 3vw, 2.4rem)', lineHeight: 1.1,
-        letterSpacing: '-.01em', color: tokens.ink, margin: '0 0 1rem',
+        fontSize: 'clamp(1.8rem, 3.2vw, 2.6rem)', lineHeight: 1.08,
+        letterSpacing: '-.015em', color: tokens.ink, margin: '0 0 1rem',
       }}>The tables are being charted.</h3>
       <p style={{
         fontFamily: tokens.body, fontStyle: 'italic', fontSize: '1.05rem',

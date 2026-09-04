@@ -152,46 +152,44 @@ const Methodology = () => {
   ];
 
   // ── Sub-components ──────────────────────────────────────────────
-  const SectionHeading = ({ kicker, title, italicWord }) => (
-    <div style={{ textAlign: 'center', marginBottom: '3.5rem' }}>
-      <SmallCaps style={{ color: gold }}>{kicker}</SmallCaps>
+  const SectionHeading = ({ title, italicWord }) => (
+    <div style={{ textAlign: 'center', marginBottom: '3.25rem' }}>
       <h2 style={{
         fontFamily: serif, fontWeight: 400,
         fontSize: 'clamp(2rem, 4vw, 3.2rem)',
-        letterSpacing: '-.01em', lineHeight: 1.08,
-        margin: '.6rem 0 1.2rem', color: ink,
+        letterSpacing: '-.015em', lineHeight: 1.06,
+        margin: '0 0 1.1rem', color: ink,
       }}>
         {title}
         {italicWord && <> <em style={{ fontStyle: 'italic', color: gold }}>{italicWord}</em></>}
       </h2>
-      <div style={{ width: '48px', height: '1px', background: gold, margin: '0 auto' }} />
+      <div style={{ width: '52px', height: '1px', background: gold, margin: '0 auto' }} />
     </div>
   );
 
   const SubHeading = ({ children }) => (
-    <div style={{ textAlign: 'center', margin: '0 0 2.5rem' }}>
-      <SmallCaps style={{ color: inkMute }}>Subsection</SmallCaps>
-      <h3 style={{
-        fontFamily: serif, fontWeight: 400, fontStyle: 'italic',
-        fontSize: 'clamp(1.4rem, 2vw, 1.8rem)',
-        margin: '.4rem 0', color: ink, letterSpacing: '.01em',
-      }}>{children}</h3>
-    </div>
+    <h3 style={{
+      fontFamily: serif, fontWeight: 400, fontStyle: 'italic',
+      fontSize: 'clamp(1.5rem, 2.2vw, 2rem)',
+      margin: '0 0 2rem', color: ink, letterSpacing: '.005em',
+    }}>{children}</h3>
   );
 
   const AwardCard = ({ award }) => (
     <article style={{
-      position: 'relative', padding: '1.6rem 1.4rem',
+      position: 'relative', padding: '1.6rem 1.4rem 1.6rem 0',
       borderTop: `1px solid ${rule}`,
       display: 'grid', gridTemplateColumns: 'auto 1fr', gap: '1.4rem',
       alignItems: 'flex-start',
     }}>
       <div style={{
         display: 'flex', flexDirection: 'column', alignItems: 'center',
-        gap: '.7rem', minWidth: '64px', paddingTop: '.2rem',
+        gap: '.7rem', minWidth: '58px', paddingTop: '.15rem',
       }}>
-        <span className="epi-award-num" style={{
+        <span style={{
+          fontFamily: serif, fontWeight: 400, color: gold, lineHeight: 1,
           fontSize: '2.4rem', letterSpacing: '-.02em',
+          fontVariantNumeric: 'lining-nums',
         }}>
           {String(award.number).padStart(2,'0')}
         </span>
@@ -260,7 +258,6 @@ const Methodology = () => {
   return (
     <EpiPage active="methodology">
       <EpiPageHeader
-        sectionLabel="Section IV · Colophon"
         title="On the"
         italicWord="method."
         lede="How The Epicurean is built — from the philosophy of selection to the hundred-plus journals, guides, and awards that inform every entry."
@@ -278,24 +275,20 @@ const Methodology = () => {
           display: 'flex', justifyContent: 'center', gap: 'clamp(1.5rem, 4vw, 4rem)',
           flexWrap: 'wrap',
         }}>
-          {sections.map(([id, label], i) => {
+          {sections.map(([id, label]) => {
             const isActive = activeSection === id;
             return (
               <button
                 key={id}
                 onClick={() => scrollToSection(id)}
-                className="epi-toc-link"
                 style={{
                   background: 'none', border: 'none',
                   fontFamily: sans, fontSize: '10.5px',
-                  letterSpacing: '.32em', textTransform: 'uppercase',
+                  letterSpacing: '.3em', textTransform: 'uppercase',
                   color: isActive ? gold : ink,
                   borderBottom: isActive ? `1px solid ${gold}` : `1px solid transparent`,
-                  cursor: 'pointer', padding: '4px 2px',
+                  cursor: 'pointer', padding: '4px 2px', transition: 'color .3s ease, border-color .3s ease',
                 }}>
-                <span style={{ color: isActive ? gold : inkMute, marginRight: '.7em' }}>
-                  {String(i + 1).padStart(2,'0')}
-                </span>
                 {label}
               </button>
             );
@@ -340,11 +333,10 @@ const Methodology = () => {
               },
             ].map((q) => (
               <div key={q.title}>
-                <SmallCaps style={{ color: gold }}>{q.kicker}</SmallCaps>
                 <h3 style={{
                   fontFamily: serif, fontWeight: 500,
                   fontSize: '1.65rem', letterSpacing: '-.005em',
-                  margin: '.6rem 0 1rem', color: ink, lineHeight: 1.2,
+                  margin: '0 0 1rem', color: ink, lineHeight: 1.2,
                 }}>{q.title}</h3>
                 <p style={{ fontFamily: body, fontSize: '1.05rem', lineHeight: 1.65, color: inkSoft, margin: 0 }}>
                   {q.body}

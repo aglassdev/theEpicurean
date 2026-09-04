@@ -5,7 +5,7 @@ import { EpiPage, EpiPageHeader, SmallCaps, Rule, tokens } from './EpiChrome';
 const Destinations = () => {
   const navigate = useNavigate();
   const [query, setQuery] = useState('');
-  const { ink, inkSoft, inkMute, paper, rule, gold, serif, body, sans } = tokens;
+  const { ink, inkSoft, inkMute, paper, rule, gold, goldSoft, serif, body, sans } = tokens;
 
   useEffect(() => { document.title = "Destinations · The Epicurean"; }, []);
 
@@ -347,233 +347,107 @@ const Destinations = () => {
   return (
     <EpiPage active="destinations">
       <EpiPageHeader
-        sectionLabel="Section I · The Index"
         title="Every destination,"
         italicWord="indexed."
         lede="Browse the guide by country and city — every corner of the world where a remarkable table awaits. For the interactive map, visit the Atlas."
       />
 
-      {/* Stats strip — count up on load */}
-      <section style={{ maxWidth: '860px', margin: '0 auto', padding: '0 2.5rem 2rem' }}>
-        <div style={{
-          display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)',
-          borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`,
-        }}>
+      {/* Figures — count up on load */}
+      <section style={{ maxWidth: '820px', margin: '0 auto', padding: '0 2.5rem 1rem' }}>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}` }}>
           {[
             { label: 'Countries', value: stats.countries.toLocaleString() },
             { label: 'Cities', value: stats.cities.toLocaleString() },
           ].map((s, i) => (
-            <div key={i} style={{
-              padding: '1.8rem 1rem',
-              borderLeft: i === 0 ? 'none' : `1px solid ${rule}`,
-              textAlign: 'center',
-            }}>
-              <div style={{
-                fontFamily: serif, fontWeight: 400,
-                fontSize: 'clamp(2.2rem, 4vw, 3.4rem)',
-                lineHeight: 1, color: ink, letterSpacing: '-.02em',
-                fontVariantNumeric: 'lining-nums tabular-nums',
-                marginBottom: '.7rem',
-              }}>{s.value}<span style={{ color: gold }}>+</span></div>
+            <div key={s.label} style={{ padding: '1.9rem 1rem', borderLeft: i === 0 ? 'none' : `1px solid ${rule}`, textAlign: 'center' }}>
+              <div style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2.4rem, 4.4vw, 3.6rem)', lineHeight: 1, color: ink, letterSpacing: '-.02em', fontVariantNumeric: 'lining-nums tabular-nums', marginBottom: '.7rem' }}>
+                {s.value}<span style={{ color: gold }}>+</span>
+              </div>
               <SmallCaps>{s.label}</SmallCaps>
             </div>
           ))}
         </div>
       </section>
 
-      {/* Featured cities strip */}
-      <section style={{
-        background: ink, color: paper,
-        padding: 'clamp(3rem, 5vw, 5rem) 2.5rem',
-      }}>
+      {/* Editors' suggestion — a dark editorial beat, no numbering */}
+      <section style={{ background: ink, color: paper, padding: 'clamp(3.5rem, 6vw, 5.5rem) 2.5rem', marginTop: 'clamp(3rem, 6vw, 5rem)' }}>
         <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
-          <SmallCaps style={{ color: gold }}>Section II · Editors' Suggestion</SmallCaps>
-          <h2 style={{
-            fontFamily: serif, fontWeight: 400,
-            fontSize: 'clamp(1.8rem, 3vw, 2.8rem)',
-            lineHeight: 1.08, letterSpacing: '-.005em',
-            margin: '.6rem 0 2.5rem', color: paper, maxWidth: '700px',
-          }}>
-            Cities most worth the <em style={{ fontStyle: 'italic', color: gold }}>journey</em>.
+          <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(1.9rem, 3.4vw, 3rem)', lineHeight: 1.06, letterSpacing: '-.01em', margin: '0 0 2.5rem', color: paper, maxWidth: '640px' }}>
+            Cities most worth the <em style={{ fontStyle: 'italic', color: goldSoft }}>journey</em>.
           </h2>
-          <div style={{
-            display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '0',
-            borderTop: `1px solid rgba(168,130,74,.35)`,
-          }} className="epi-grid-3">
+          <div className="epi-grid-3" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', borderTop: `1px solid rgba(200,162,112,.3)` }}>
             {featured.map((c, i) => (
-              <a key={c.name} href={c.path}
-                onClick={(e) => { e.preventDefault(); navigate(c.path); }}
+              <a key={c.name} href={c.path} onClick={(e) => { e.preventDefault(); navigate(c.path); }}
                 style={{
-                  textDecoration: 'none', color: 'inherit',
-                  padding: '1.8rem 1.25rem',
-                  borderRight: (i + 1) % 3 === 0 ? 'none' : `1px solid rgba(168,130,74,.18)`,
-                  borderBottom: `1px solid rgba(168,130,74,.18)`,
-                  display: 'flex', flexDirection: 'column', gap: '.4rem',
+                  textDecoration: 'none', color: 'inherit', padding: '1.9rem 1.4rem 1.7rem',
+                  borderRight: (i + 1) % 3 === 0 ? 'none' : `1px solid rgba(200,162,112,.16)`,
+                  borderBottom: `1px solid rgba(200,162,112,.16)`,
+                  display: 'flex', flexDirection: 'column', gap: '.45rem',
                   cursor: 'pointer', transition: 'background .35s ease',
                 }}
-                onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(168,130,74,.08)'}
+                onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(200,162,112,.08)'}
                 onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
               >
-                <span style={{
-                  fontFamily: sans, fontSize: '10px', letterSpacing: '.34em',
-                  textTransform: 'uppercase', color: gold,
-                }}>{String(i + 1).padStart(2,'0')} · {c.country}</span>
-                <span style={{
-                  fontFamily: serif, fontWeight: 500,
-                  fontSize: 'clamp(1.4rem, 2vw, 1.9rem)',
-                  letterSpacing: '-.005em', color: paper,
-                }}>{c.name}</span>
-                <span style={{
-                  fontFamily: body, fontStyle: 'italic', fontSize: '.95rem',
-                  color: '#C9C3B5',
-                }}>Explore the table →</span>
+                <span style={{ fontFamily: sans, fontSize: '10px', letterSpacing: '.3em', textTransform: 'uppercase', color: goldSoft }}>{c.country}</span>
+                <span style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.5rem, 2.2vw, 2rem)', letterSpacing: '-.01em', color: paper }}>{c.name}</span>
+                <span className="epi-cta-underline" style={{ fontFamily: body, fontStyle: 'italic', fontSize: '.98rem', color: '#C9C3B5', width: 'fit-content' }}>Explore the table →</span>
               </a>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Full Index */}
-      <section style={{ maxWidth: '1280px', margin: '0 auto', padding: 'clamp(4rem, 6vw, 6rem) 2.5rem' }}>
-        <div style={{
-          display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end',
-          marginBottom: '2rem', flexWrap: 'wrap', gap: '1.5rem',
-        }}>
-          <div>
-            <SmallCaps>Section III</SmallCaps>
-            <h2 style={{
-              fontFamily: serif, fontWeight: 400,
-              fontSize: 'clamp(2rem, 4vw, 3.2rem)',
-              margin: '.4rem 0 0', letterSpacing: '-.01em', color: ink,
-            }}>
-              The Complete <em style={{ fontStyle: 'italic', color: gold }}>Index</em>
-            </h2>
-          </div>
-          {/* Search */}
-          <div style={{
-            position: 'relative', minWidth: '280px', flex: '0 1 360px',
-            borderBottom: `1px solid ${ink}`,
-          }}>
-            <input
-              type="text"
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              placeholder="Search a city, region, or country…"
-              style={{
-                width: '100%', background: 'transparent', border: 'none',
-                outline: 'none', padding: '10px 28px 10px 0',
-                fontFamily: body, fontSize: '1.05rem', fontStyle: query ? 'normal' : 'italic',
-                color: ink,
-              }}
-            />
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
-              stroke={ink} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"
-              style={{ position: 'absolute', right: 4, top: '50%', transform: 'translateY(-50%)' }}>
-              <circle cx="11" cy="11" r="7" />
-              <path d="m20 20-3.5-3.5" />
+      {/* The complete index — a typeset atlas index, not a card grid */}
+      <section style={{ maxWidth: '1280px', margin: '0 auto', padding: 'clamp(4rem, 7vw, 6.5rem) 2.5rem' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', flexWrap: 'wrap', gap: '1.5rem', marginBottom: '1.75rem' }}>
+          <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2rem, 4vw, 3.2rem)', margin: 0, letterSpacing: '-.015em', color: ink }}>
+            The complete <em style={{ fontStyle: 'italic', color: gold }}>index</em>
+          </h2>
+          <div style={{ position: 'relative', minWidth: '280px', flex: '0 1 360px', borderBottom: `1px solid ${ink}` }}>
+            <input type="text" value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Search a city, region, or country…"
+              aria-label="Search destinations"
+              style={{ width: '100%', background: 'transparent', border: 'none', outline: 'none', padding: '10px 28px 10px 0', fontFamily: body, fontSize: '1.05rem', fontStyle: query ? 'normal' : 'italic', color: ink }} />
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={ink} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" style={{ position: 'absolute', right: 4, top: '50%', transform: 'translateY(-50%)' }}>
+              <circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" />
             </svg>
           </div>
         </div>
 
-        <Rule />
+        <Rule mb={0} />
 
-        <div style={{
-          display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
-          gap: '0',
-        }}>
-          {Object.entries(filtered).map(([country, regions], idx) => {
-            const totalCities = Object.values(regions).reduce(
-              (n, r) => n + Object.keys(r || {}).length, 0
-            );
-            return (
-              <div key={country} className="epi-card" style={{
-                padding: '1.75rem 1.5rem',
-                borderRight: `1px solid ${rule}`,
-                borderBottom: `1px solid ${rule}`,
-                background: 'transparent',
-              }}>
-                {/* Country header */}
-                <div style={{
-                  display: 'flex', alignItems: 'baseline', justifyContent: 'space-between',
-                  marginBottom: '1rem', gap: '.5rem',
-                }}>
-                  <h3 style={{
-                    fontFamily: serif, fontWeight: 500,
-                    fontSize: '1.5rem', letterSpacing: '-.005em',
-                    margin: 0, color: ink,
-                  }}>{country}</h3>
-                  <span style={{
-                    fontFamily: sans, fontSize: '10px', letterSpacing: '.3em',
-                    textTransform: 'uppercase', color: gold,
-                  }}>
-                    {String(idx + 1).padStart(2,'0')}
-                  </span>
-                </div>
-
-                {Object.entries(regions).map(([region, cities]) => {
-                  const cityEntries = Object.entries(cities || {});
-                  const hasCities = cityEntries.length > 0;
-                  return (
-                    <div key={region} style={{ marginBottom: '.9rem' }}>
-                      <div style={{
-                        fontFamily: sans, fontSize: '9.5px', letterSpacing: '.32em',
-                        textTransform: 'uppercase', color: inkMute,
-                        marginBottom: hasCities ? '.4rem' : 0,
-                      }}>{region}</div>
-                      {hasCities && (
-                        <div style={{ display: 'flex', flexDirection: 'column' }}>
-                          {cityEntries.map(([city, data]) => {
-                            const linked = data && data.path;
-                            return (
-                              <a
-                                key={city}
-                                href={linked ? data.path : '#'}
-                                onClick={(e) => { e.preventDefault(); if (linked) navigate(data.path); }}
-                                className="epi-city-link"
-                                style={{
-                                  fontFamily: body, fontSize: '1rem',
-                                  color: linked ? ink : inkMute,
-                                  textDecoration: 'none',
-                                  padding: '.18rem 0',
-                                  cursor: linked ? 'pointer' : 'default',
-                                  fontStyle: linked ? 'normal' : 'italic',
-                                }}
-                              >
-                                {city}
-                                {linked && (
-                                  <span style={{ color: gold, marginLeft: '.4em', opacity: .6 }}>·</span>
-                                )}
-                              </a>
-                            );
-                          })}
-                        </div>
-                      )}
-                    </div>
-                  );
-                })}
-
-                <div style={{
-                  marginTop: '1rem', paddingTop: '.9rem',
-                  borderTop: `1px solid ${rule}`,
-                  display: 'flex', justifyContent: 'space-between', alignItems: 'baseline',
-                }}>
-                  <SmallCaps style={{ fontSize: '9.5px' }}>Cities</SmallCaps>
-                  <span style={{
-                    fontFamily: serif, fontSize: '1.1rem',
-                    color: ink, fontVariantNumeric: 'lining-nums tabular-nums',
-                  }}>{totalCities}</span>
-                </div>
-              </div>
-            );
-          })}
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))', columnGap: '3.5rem', rowGap: '2.75rem', paddingTop: '2.75rem' }}>
+          {Object.entries(filtered).map(([country, regions]) => (
+            <div key={country} style={{ breakInside: 'avoid' }}>
+              <h3 style={{ fontFamily: serif, fontWeight: 500, fontSize: '1.6rem', letterSpacing: '-.01em', margin: '0 0 .8rem', paddingBottom: '.55rem', borderBottom: `1px solid ${rule}`, color: ink }}>{country}</h3>
+              {Object.entries(regions).map(([region, cities]) => {
+                const cityEntries = Object.entries(cities || {});
+                return (
+                  <div key={region} style={{ marginBottom: '1rem' }}>
+                    <div style={{ fontFamily: sans, fontSize: '9.5px', letterSpacing: '.3em', textTransform: 'uppercase', color: inkMute, marginBottom: cityEntries.length ? '.45rem' : 0 }}>{region}</div>
+                    {cityEntries.length > 0 && (
+                      <div style={{ display: 'flex', flexDirection: 'column' }}>
+                        {cityEntries.map(([city, data]) => {
+                          const linked = data && data.path;
+                          return (
+                            <a key={city} href={linked ? data.path : undefined}
+                              onClick={(e) => { e.preventDefault(); if (linked) navigate(data.path); }}
+                              className={linked ? 'epi-city-link' : undefined}
+                              style={{ fontFamily: body, fontSize: '1.02rem', color: linked ? ink : inkMute, textDecoration: 'none', padding: '.16rem 0', cursor: linked ? 'pointer' : 'default', fontStyle: linked ? 'normal' : 'italic', width: 'fit-content' }}>
+                              {city}
+                            </a>
+                          );
+                        })}
+                      </div>
+                    )}
+                  </div>
+                );
+              })}
+            </div>
+          ))}
         </div>
 
         {!Object.keys(filtered).length && (
-          <div style={{
-            padding: '4rem 2rem', textAlign: 'center',
-            fontFamily: body, fontStyle: 'italic', color: inkSoft, fontSize: '1.1rem',
-          }}>
+          <div style={{ padding: '4rem 2rem', textAlign: 'center', fontFamily: body, fontStyle: 'italic', color: inkSoft, fontSize: '1.1rem' }}>
             No destinations matched <em>"{query}"</em>. Try a city or country name.
           </div>
         )}

@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react';
-import { EpiPage, EpiPageHeader, SmallCaps, Rule, tokens } from './EpiChrome';
+import { EpiPage, EpiPageHeader, Rule, tokens } from './EpiChrome';
 
 const News = () => {
-  const { ink, inkSoft, inkMute, paperDeep, rule, gold, serif, body, sans } = tokens;
+  const { ink, inkSoft, inkMute, paperDeep, rule, gold, goldDeep, serif, body, sans } = tokens;
 
   useEffect(() => { document.title = 'News · The Epicurean'; }, []);
 
@@ -27,125 +27,62 @@ const News = () => {
     { kicker: 'Sustainability', title: 'Green Stars: the restaurants redefining the table', date: 'MMXXV' },
   ];
 
+  const Kicker = ({ children }) => (
+    <div style={{ fontFamily: sans, fontSize: '10.5px', letterSpacing: '.26em', textTransform: 'uppercase', color: goldDeep, marginBottom: '.55rem' }}>{children}</div>
+  );
+
   return (
     <EpiPage active="news">
       <EpiPageHeader
-        sectionLabel="The Journal"
         title="News"
-        italicWord="& Notes"
+        italicWord="& notes"
         lede="Dispatches from the dining world — the openings, awards, and rankings that move the guide, gathered from the journals of record."
       />
 
-      {/* Lead + secondary */}
-      <section style={{ maxWidth: '1280px', margin: '0 auto', padding: '1rem 2.5rem 4rem' }}>
-        <SmallCaps>Section I · Featured</SmallCaps>
-        <div style={{ height: '1rem' }} />
-        <div className="epi-news-grid" style={{
-          display: 'grid', gridTemplateColumns: '1.4fr 1fr', gap: '2.5rem',
-        }}>
-          {/* Lead */}
-          <a className="epi-feature" href="#" style={{ textDecoration: 'none', color: 'inherit', display: 'block', cursor: 'pointer' }}>
-            <div className="epi-news-lead" style={{
-              aspectRatio: '4/5', overflow: 'hidden',
-              background: paperDeep, border: `1px solid ${rule}`, marginBottom: '1.4rem',
-            }}>
-              <div className="epi-feature-img" style={{
-                width: '100%', height: '100%',
-                backgroundImage: `url(${featured.image})`,
-                backgroundSize: 'cover', backgroundPosition: 'center',
-              }} />
+      {/* Lead + secondary — an editorial spread, no card frames */}
+      <section style={{ maxWidth: '1280px', margin: '0 auto', padding: '1rem 2.5rem 4.5rem' }}>
+        <div className="epi-news-grid" style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr', gap: 'clamp(2rem, 4vw, 3.5rem)', alignItems: 'start' }}>
+          <article>
+            <div className="epi-news-lead" style={{ aspectRatio: '4/5', overflow: 'hidden', background: paperDeep, marginBottom: '1.5rem' }}>
+              <div style={{ width: '100%', height: '100%', backgroundImage: `url(${featured.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
             </div>
-            <SmallCaps style={{ color: gold }}>{featured.kicker}</SmallCaps>
-            <h2 className="epi-feature-title" style={{
-              fontFamily: serif, fontWeight: 500,
-              fontSize: 'clamp(1.8rem, 3vw, 2.6rem)',
-              lineHeight: 1.1, letterSpacing: '-.005em',
-              margin: '.6rem 0', color: ink,
-            }}>{featured.title}</h2>
-            <p style={{
-              fontFamily: body, fontStyle: 'italic', fontSize: '1.05rem',
-              color: inkSoft, lineHeight: 1.55, margin: 0, maxWidth: '540px',
-            }}>{featured.dek}</p>
-          </a>
+            <Kicker>{featured.kicker}</Kicker>
+            <h2 style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.9rem, 3vw, 2.7rem)', lineHeight: 1.08, letterSpacing: '-.01em', margin: '0 0 .7rem', color: ink }}>{featured.title}</h2>
+            <p style={{ fontFamily: body, fontStyle: 'italic', fontSize: '1.1rem', color: inkSoft, lineHeight: 1.55, margin: 0, maxWidth: '540px' }}>{featured.dek}</p>
+          </article>
 
-          {/* Secondary stack */}
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '2.25rem' }}>
+          <div style={{ display: 'flex', flexDirection: 'column' }}>
             {secondary.map((a, idx) => (
               <React.Fragment key={a.title}>
-                <a className="epi-feature" href="#" style={{
-                  textDecoration: 'none', color: 'inherit', cursor: 'pointer',
-                  display: 'grid', gridTemplateColumns: '140px 1fr', gap: '1.4rem',
-                }}>
-                  <div style={{ aspectRatio: '1', overflow: 'hidden', background: paperDeep, border: `1px solid ${rule}` }}>
-                    <div className="epi-feature-img" style={{
-                      width: '100%', height: '100%',
-                      backgroundImage: `url(${a.image})`,
-                      backgroundSize: 'cover', backgroundPosition: 'center',
-                    }} />
+                {idx > 0 && <Rule />}
+                <article style={{ display: 'grid', gridTemplateColumns: '132px 1fr', gap: '1.4rem', alignItems: 'center', padding: '1.7rem 0' }}>
+                  <div style={{ aspectRatio: '1', overflow: 'hidden', background: paperDeep }}>
+                    <div style={{ width: '100%', height: '100%', backgroundImage: `url(${a.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
                   </div>
-                  <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-                    <SmallCaps style={{ color: gold }}>{a.kicker}</SmallCaps>
-                    <h3 className="epi-feature-title" style={{
-                      fontFamily: serif, fontWeight: 500,
-                      fontSize: 'clamp(1.2rem, 1.6vw, 1.6rem)',
-                      lineHeight: 1.18, letterSpacing: '-.005em',
-                      margin: '.45rem 0 .5rem', color: ink,
-                    }}>{a.title}</h3>
-                    <span style={{
-                      fontFamily: sans, fontSize: '10.5px', letterSpacing: '.3em',
-                      textTransform: 'uppercase', color: inkMute,
-                    }}>Read — {a.date}</span>
+                  <div>
+                    <Kicker>{a.kicker}</Kicker>
+                    <h3 style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.25rem, 1.7vw, 1.6rem)', lineHeight: 1.16, letterSpacing: '-.005em', margin: 0, color: ink }}>{a.title}</h3>
                   </div>
-                </a>
-                {idx === 0 && <Rule />}
+                </article>
               </React.Fragment>
             ))}
           </div>
         </div>
       </section>
 
-      {/* More headlines — editorial list */}
-      <section style={{
-        background: paperDeep, borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`,
-        padding: 'clamp(4rem, 6vw, 6rem) 2.5rem',
-      }}>
+      {/* More headlines */}
+      <section style={{ background: paperDeep, borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`, padding: 'clamp(4rem, 6vw, 6rem) 2.5rem' }}>
         <div style={{ maxWidth: '1000px', margin: '0 auto' }}>
-          <div style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
-            <SmallCaps style={{ color: gold }}>Section II</SmallCaps>
-            <h2 style={{
-              fontFamily: serif, fontWeight: 400,
-              fontSize: 'clamp(1.8rem, 3vw, 2.8rem)',
-              margin: '.5rem 0 0', letterSpacing: '-.01em', color: ink,
-            }}>
-              More <em style={{ fontStyle: 'italic', color: gold }}>headlines</em>
-            </h2>
-          </div>
+          <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(1.9rem, 3vw, 2.8rem)', margin: '0 0 2.25rem', letterSpacing: '-.015em', color: ink }}>
+            More <em style={{ fontStyle: 'italic', color: gold }}>headlines</em>
+          </h2>
           <div style={{ borderTop: `1px solid ${rule}` }}>
             {headlines.map((h) => (
-              <a key={h.title} href="#"
-                onClick={(e) => e.preventDefault()}
-                style={{
-                  display: 'grid', gridTemplateColumns: 'auto 1fr auto', gap: '1.5rem',
-                  alignItems: 'baseline', padding: '1.25rem .5rem',
-                  borderBottom: `1px solid ${rule}`, textDecoration: 'none', color: 'inherit',
-                  transition: 'background .25s ease, padding-left .25s ease',
-                }}
-                onMouseEnter={(e) => { e.currentTarget.style.background = 'rgba(168,130,74,.06)'; e.currentTarget.style.paddingLeft = '1.25rem'; }}
-                onMouseLeave={(e) => { e.currentTarget.style.background = 'transparent'; e.currentTarget.style.paddingLeft = '.5rem'; }}
-              >
-                <span style={{
-                  fontFamily: sans, fontSize: '9.5px', letterSpacing: '.28em',
-                  textTransform: 'uppercase', color: gold, whiteSpace: 'nowrap',
-                }}>{h.kicker}</span>
-                <span style={{
-                  fontFamily: serif, fontSize: 'clamp(1.15rem, 1.6vw, 1.5rem)',
-                  fontWeight: 500, letterSpacing: '-.005em', color: ink, lineHeight: 1.2,
-                }}>{h.title}</span>
-                <span style={{
-                  fontFamily: sans, fontSize: '10px', letterSpacing: '.28em',
-                  textTransform: 'uppercase', color: inkMute, whiteSpace: 'nowrap',
-                }}>{h.date}</span>
-              </a>
+              <div key={h.title} style={{ display: 'grid', gridTemplateColumns: '150px 1fr auto', gap: '1.5rem', alignItems: 'baseline', padding: '1.3rem .25rem', borderBottom: `1px solid ${rule}` }}>
+                <span style={{ fontFamily: sans, fontSize: '9.5px', letterSpacing: '.26em', textTransform: 'uppercase', color: goldDeep, whiteSpace: 'nowrap' }}>{h.kicker}</span>
+                <span style={{ fontFamily: serif, fontSize: 'clamp(1.15rem, 1.6vw, 1.5rem)', fontWeight: 500, letterSpacing: '-.005em', color: ink, lineHeight: 1.2 }}>{h.title}</span>
+                <span style={{ fontFamily: sans, fontSize: '10px', letterSpacing: '.26em', textTransform: 'uppercase', color: inkMute, whiteSpace: 'nowrap' }}>{h.date}</span>
+              </div>
             ))}
           </div>
         </div>
