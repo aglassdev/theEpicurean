@@ -22,10 +22,16 @@ const DISPATCHES = [
   { kicker: "Awards · America", title: "The 2025 James Beard Foundation Honours", image: "/images/jb2025.png" },
 ];
 
-// Curated, recognizable journals — set as text, not a scrolling logo wall.
-const SOURCES = [
-  'Michelin', 'La Liste', "The World's 50 Best", 'James Beard Foundation',
-  'Wine Spectator', 'Relais & Châteaux', 'Gault & Millau', 'The New York Times',
+// Curated, recognizable source marks — shown statically (no marquee).
+const LOGOS = [
+  { name: 'Michelin', icon: '/images/michelin.png' },
+  { name: "World's 50 Best", icon: '/images/worlds50best.png' },
+  { name: 'La Liste', icon: '/images/laliste.png' },
+  { name: 'James Beard', icon: '/images/jamesbeard.png' },
+  { name: 'Gault & Millau', icon: '/images/gaultmillau.png' },
+  { name: 'Relais & Châteaux', icon: '/images/relaischateaux.png' },
+  { name: 'Wine Spectator', icon: '/images/winespectator.png' },
+  { name: 'The New York Times', icon: '/images/nyt.png' },
 ];
 
 const HomePage = () => {
@@ -107,7 +113,7 @@ const HomePage = () => {
         }}>
           Every great table in the world,<br />reconciled into one atlas.
         </h1>
-        <p style={{ fontFamily: body, fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', fontStyle: 'italic', color: inkSoft, maxWidth: '640px', margin: '0 auto 1.9rem', lineHeight: 1.55 }}>
+        <p style={{ fontFamily: body, fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', fontStyle: 'normal', color: inkSoft, maxWidth: '640px', margin: '0 auto 1.9rem', lineHeight: 1.55 }}>
           Michelin, La Liste, the World's 50 Best and a hundred more — read as a single guide for the discerning traveller, and mapped across the globe.
         </p>
         <a href="/map" onClick={(e) => { e.preventDefault(); navigate('/map'); }}
@@ -141,7 +147,7 @@ const HomePage = () => {
                 <div aria-hidden style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to top, rgba(20,16,12,.66) 0%, rgba(20,16,12,.2) 30%, rgba(20,16,12,0) 58%)' }} />
                 <div style={{ position: 'absolute', left: 'clamp(1.5rem, 5vw, 4.5rem)', bottom: 'clamp(2rem, 6vw, 4.5rem)', color: paper, maxWidth: '620px', textShadow: '0 1px 20px rgba(0,0,0,.35)' }}>
                   <h2 style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(2.1rem, 4.4vw, 3.6rem)', lineHeight: 1.02, letterSpacing: '-.01em', margin: '0 0 .3rem' }}>{s.title}</h2>
-                  <p style={{ fontFamily: body, fontStyle: 'italic', fontSize: 'clamp(1.1rem, 1.6vw, 1.4rem)', margin: '0 0 1rem', opacity: .95 }}>{s.location}</p>
+                  <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: 'clamp(1.1rem, 1.6vw, 1.4rem)', margin: '0 0 1rem', opacity: .95 }}>{s.location}</p>
                   <div style={{ display: 'flex', gap: '.5rem', alignItems: 'center', marginBottom: '1rem' }}>
                     {s.stars.map((st, k) => (
                       <img key={k} src={`/images/${st}.png`} alt="" aria-hidden width="26" height="26" style={{ objectFit: 'contain' }} />
@@ -189,7 +195,7 @@ const HomePage = () => {
       <section style={{ padding: 'clamp(4.5rem, 8vw, 7rem) 2.5rem 4rem', maxWidth: '1280px', margin: '0 auto' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', flexWrap: 'wrap', gap: '1rem', marginBottom: '2.75rem' }}>
           <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2rem, 4vw, 3.3rem)', letterSpacing: '-.015em', margin: 0, color: ink }}>
-            Dispatches <em style={{ fontStyle: 'italic', color: gold }}>&amp;</em> distinctions
+            Dispatches &amp; distinctions
           </h2>
           <a href="/news" onClick={(e) => { e.preventDefault(); navigate('/news'); }} className="epi-cta-underline"
             style={{ fontFamily: sans, fontSize: '11px', letterSpacing: '.3em', textTransform: 'uppercase', color: ink, textDecoration: 'none' }}>
@@ -202,9 +208,8 @@ const HomePage = () => {
             <div className="epi-news-lead" style={{ aspectRatio: '3/2', overflow: 'hidden', background: paperDeep, marginBottom: '1.5rem' }}>
               <div className="epi-feature-img" style={{ width: '100%', height: '100%', backgroundImage: `url(${DISPATCHES[0].image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
             </div>
-            <div style={{ fontFamily: sans, fontSize: '10.5px', letterSpacing: '.28em', textTransform: 'uppercase', color: goldDeep, marginBottom: '.6rem' }}>{DISPATCHES[0].kicker}</div>
             <h3 className="epi-feature-title" style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.9rem, 3vw, 2.7rem)', lineHeight: 1.08, letterSpacing: '-.01em', margin: '0 0 .7rem', color: ink }}>{DISPATCHES[0].title}</h3>
-            <p style={{ fontFamily: body, fontStyle: 'italic', fontSize: '1.1rem', color: inkSoft, lineHeight: 1.55, margin: 0, maxWidth: '540px' }}>{DISPATCHES[0].dek}</p>
+            <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: '1.1rem', color: inkSoft, lineHeight: 1.55, margin: 0, maxWidth: '540px' }}>{DISPATCHES[0].dek}</p>
           </a>
 
           <div style={{ display: 'flex', flexDirection: 'column' }}>
@@ -217,7 +222,6 @@ const HomePage = () => {
                     <div className="epi-feature-img" style={{ width: '100%', height: '100%', backgroundImage: `url(${a.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
                   </div>
                   <div>
-                    <div style={{ fontFamily: sans, fontSize: '10px', letterSpacing: '.26em', textTransform: 'uppercase', color: goldDeep, marginBottom: '.45rem' }}>{a.kicker}</div>
                     <h4 className="epi-feature-title" style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.25rem, 1.7vw, 1.6rem)', lineHeight: 1.15, letterSpacing: '-.005em', margin: 0, color: ink }}>{a.title}</h4>
                   </div>
                 </a>
@@ -231,9 +235,9 @@ const HomePage = () => {
       <section style={{ background: ink, color: paper, padding: 'clamp(4.5rem, 9vw, 8rem) 2.5rem' }}>
         <div style={{ maxWidth: '1280px', margin: '0 auto', display: 'grid', gridTemplateColumns: 'minmax(0, 1fr)', gap: '1.5rem' }}>
           <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2.4rem, 6vw, 5rem)', lineHeight: .98, letterSpacing: '-.02em', margin: 0, maxWidth: '16ch', color: paper }}>
-            Traverse the globe by <em style={{ fontStyle: 'italic', color: tokens.goldSoft }}>plate</em>, not by passport.
+            Traverse the globe by plate, not by passport.
           </h2>
-          <p style={{ fontFamily: body, fontStyle: 'italic', fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', color: '#CFC9BD', maxWidth: '560px', lineHeight: 1.6, margin: '.4rem 0 1rem' }}>
+          <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', color: '#CFC9BD', maxWidth: '560px', lineHeight: 1.6, margin: '.4rem 0 1rem' }}>
             An interactive cartography of all 12,650 tables — from Tokyo to Tasmania, Lima to Ljubljana.
           </p>
           <a href="/map" onClick={(e) => { e.preventDefault(); navigate('/map'); }} className="epi-cta-underline"
@@ -248,7 +252,7 @@ const HomePage = () => {
         <div className="epi-about-row" style={{ display: 'flex', gap: 'clamp(3rem, 6vw, 6rem)', alignItems: 'flex-start' }}>
           <div style={{ flex: 1.3 }}>
             <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2rem, 3.4vw, 3rem)', letterSpacing: '-.015em', lineHeight: 1.06, margin: '0 0 1.6rem', color: ink }}>
-              On the <em style={{ fontStyle: 'italic', color: gold }}>method</em>.
+              On the method.
             </h2>
             <p style={{ fontFamily: body, fontSize: 'clamp(1.1rem, 1.5vw, 1.22rem)', lineHeight: 1.72, color: inkSoft, margin: 0 }}>
               <span style={{ fontFamily: serif, fontSize: '4.6rem', float: 'left', lineHeight: .72, paddingRight: '.55rem', paddingTop: '.4rem', color: ink, fontWeight: 500 }}>W</span>
@@ -277,21 +281,20 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* Sources — a typeset roll-call, not a logo wall */}
-      <section style={{ background: paperDeep, borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`, padding: 'clamp(4rem, 6vw, 6rem) 2.5rem' }}>
-        <div style={{ maxWidth: '1000px', margin: '0 auto', textAlign: 'center' }}>
-          <p style={{ fontFamily: sans, fontSize: '11px', letterSpacing: '.3em', textTransform: 'uppercase', color: inkSoft, margin: '0 0 1.8rem' }}>
-            Drawn from the journals of record
-          </p>
-          <p style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(1.5rem, 3.2vw, 2.6rem)', lineHeight: 1.35, letterSpacing: '-.01em', color: ink, margin: 0 }}>
-            {SOURCES.map((name, i) => (
-              <React.Fragment key={name}>
-                {name}
-                {i < SOURCES.length - 1 && <span style={{ color: gold, margin: '0 .5em' }}>·</span>}
-              </React.Fragment>
+      {/* Sources — static logo row */}
+      <section style={{ background: paperDeep, borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`, padding: 'clamp(3.5rem, 6vw, 5.5rem) 2.5rem' }}>
+        <div style={{ maxWidth: '1200px', margin: '0 auto', textAlign: 'center' }}>
+          <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(1.5rem, 2.4vw, 2.1rem)', letterSpacing: '-.01em', color: ink, margin: '0 0 2.75rem' }}>
+            Curated from the journals of record.
+          </h2>
+          <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'center', gap: 'clamp(2rem, 4vw, 3.5rem)' }}>
+            {LOGOS.map((l) => (
+              <img key={l.name} src={l.icon} alt={l.name} title={l.name}
+                style={{ height: 'clamp(30px, 4vw, 44px)', maxWidth: '130px', objectFit: 'contain', filter: 'grayscale(1)', opacity: .6, transition: 'opacity .3s ease, filter .3s ease' }}
+                onMouseEnter={(e) => { e.currentTarget.style.opacity = '1'; e.currentTarget.style.filter = 'grayscale(0)'; }}
+                onMouseLeave={(e) => { e.currentTarget.style.opacity = '.6'; e.currentTarget.style.filter = 'grayscale(1)'; }} />
             ))}
-            <span style={{ color: inkMute }}> &amp; a hundred more.</span>
-          </p>
+          </div>
         </div>
       </section>
     </EpiPage>

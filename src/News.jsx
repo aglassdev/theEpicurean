@@ -27,10 +27,6 @@ const News = () => {
     { kicker: 'Sustainability', title: 'Green Stars: the restaurants redefining the table', date: 'MMXXV' },
   ];
 
-  const Kicker = ({ children }) => (
-    <div style={{ fontFamily: sans, fontSize: '10.5px', letterSpacing: '.26em', textTransform: 'uppercase', color: goldDeep, marginBottom: '.55rem' }}>{children}</div>
-  );
-
   return (
     <EpiPage active="news">
       <EpiPageHeader
@@ -46,9 +42,8 @@ const News = () => {
             <div className="epi-news-lead" style={{ aspectRatio: '4/5', overflow: 'hidden', background: paperDeep, marginBottom: '1.5rem' }}>
               <div style={{ width: '100%', height: '100%', backgroundImage: `url(${featured.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
             </div>
-            <Kicker>{featured.kicker}</Kicker>
             <h2 style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.9rem, 3vw, 2.7rem)', lineHeight: 1.08, letterSpacing: '-.01em', margin: '0 0 .7rem', color: ink }}>{featured.title}</h2>
-            <p style={{ fontFamily: body, fontStyle: 'italic', fontSize: '1.1rem', color: inkSoft, lineHeight: 1.55, margin: 0, maxWidth: '540px' }}>{featured.dek}</p>
+            <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: '1.1rem', color: inkSoft, lineHeight: 1.55, margin: 0, maxWidth: '540px' }}>{featured.dek}</p>
           </article>
 
           <div style={{ display: 'flex', flexDirection: 'column' }}>
@@ -59,10 +54,7 @@ const News = () => {
                   <div style={{ aspectRatio: '1', overflow: 'hidden', background: paperDeep }}>
                     <div style={{ width: '100%', height: '100%', backgroundImage: `url(${a.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
                   </div>
-                  <div>
-                    <Kicker>{a.kicker}</Kicker>
-                    <h3 style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.25rem, 1.7vw, 1.6rem)', lineHeight: 1.16, letterSpacing: '-.005em', margin: 0, color: ink }}>{a.title}</h3>
-                  </div>
+                  <h3 style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.25rem, 1.7vw, 1.6rem)', lineHeight: 1.16, letterSpacing: '-.005em', margin: 0, color: ink }}>{a.title}</h3>
                 </article>
               </React.Fragment>
             ))}
@@ -74,12 +66,11 @@ const News = () => {
       <section style={{ background: paperDeep, borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`, padding: 'clamp(4rem, 6vw, 6rem) 2.5rem' }}>
         <div style={{ maxWidth: '1000px', margin: '0 auto' }}>
           <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(1.9rem, 3vw, 2.8rem)', margin: '0 0 2.25rem', letterSpacing: '-.015em', color: ink }}>
-            More <em style={{ fontStyle: 'italic', color: gold }}>headlines</em>
+            More headlines
           </h2>
           <div style={{ borderTop: `1px solid ${rule}` }}>
             {headlines.map((h) => (
-              <div key={h.title} style={{ display: 'grid', gridTemplateColumns: '150px 1fr auto', gap: '1.5rem', alignItems: 'baseline', padding: '1.3rem .25rem', borderBottom: `1px solid ${rule}` }}>
-                <span style={{ fontFamily: sans, fontSize: '9.5px', letterSpacing: '.26em', textTransform: 'uppercase', color: goldDeep, whiteSpace: 'nowrap' }}>{h.kicker}</span>
+              <div key={h.title} style={{ display: 'grid', gridTemplateColumns: '1fr auto', gap: '1.5rem', alignItems: 'baseline', padding: '1.3rem .25rem', borderBottom: `1px solid ${rule}` }}>
                 <span style={{ fontFamily: serif, fontSize: 'clamp(1.15rem, 1.6vw, 1.5rem)', fontWeight: 500, letterSpacing: '-.005em', color: ink, lineHeight: 1.2 }}>{h.title}</span>
                 <span style={{ fontFamily: sans, fontSize: '10px', letterSpacing: '.26em', textTransform: 'uppercase', color: inkMute, whiteSpace: 'nowrap' }}>{h.date}</span>
               </div>

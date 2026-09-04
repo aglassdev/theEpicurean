@@ -56,7 +56,7 @@ const RestaurantPage = ({
             </span>
           )}
           {address && (
-            <span style={{ fontFamily: body, fontStyle: 'italic', fontSize: '1.1rem', color: inkSoft }}>{address}</span>
+            <span style={{ fontFamily: body, fontStyle: 'normal', fontSize: '1.1rem', color: inkSoft }}>{address}</span>
           )}
         </div>
         <div style={{ height: '2.5rem' }} />
@@ -74,7 +74,7 @@ const RestaurantPage = ({
                 {bio.slice(1)}
               </p>
             ) : (
-              <p style={{ fontFamily: body, fontStyle: 'italic', fontSize: '1.15rem', color: inkMute, margin: 0 }}>
+              <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: '1.15rem', color: inkMute, margin: 0 }}>
                 A tasting note for {restaurantName} is being written.
               </p>
             )}

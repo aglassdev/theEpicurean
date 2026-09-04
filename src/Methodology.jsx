@@ -160,8 +160,7 @@ const Methodology = () => {
         letterSpacing: '-.015em', lineHeight: 1.06,
         margin: '0 0 1.1rem', color: ink,
       }}>
-        {title}
-        {italicWord && <> <em style={{ fontStyle: 'italic', color: gold }}>{italicWord}</em></>}
+        {[title, italicWord].filter(Boolean).join(' ')}
       </h2>
       <div style={{ width: '52px', height: '1px', background: gold, margin: '0 auto' }} />
     </div>
@@ -169,7 +168,7 @@ const Methodology = () => {
 
   const SubHeading = ({ children }) => (
     <h3 style={{
-      fontFamily: serif, fontWeight: 400, fontStyle: 'italic',
+      fontFamily: serif, fontWeight: 400, fontStyle: 'normal',
       fontSize: 'clamp(1.5rem, 2.2vw, 2rem)',
       margin: '0 0 2rem', color: ink, letterSpacing: '.005em',
     }}>{children}</h3>
@@ -300,7 +299,7 @@ const Methodology = () => {
 
         {/* ── Introduction ────────────────────────────────────────────── */}
         <section id="introduction" style={{ marginBottom: 'clamp(5rem, 8vw, 8rem)' }}>
-          <SectionHeading kicker="Section I" title="On" italicWord="gastronomy." />
+          <SectionHeading title="On" italicWord="gastronomy." />
 
           <p style={{
             fontFamily: body, fontSize: '1.25rem', lineHeight: 1.7,
@@ -348,10 +347,10 @@ const Methodology = () => {
 
         {/* ── Understanding the Guide ─────────────────────────────────── */}
         <section id="understanding-the-guide" style={{ marginBottom: 'clamp(5rem, 8vw, 8rem)' }}>
-          <SectionHeading kicker="Section II" title="Understanding" italicWord="the Guide." />
+          <SectionHeading title="Understanding" italicWord="the guide." />
 
           <p style={{
-            fontFamily: body, fontSize: '1.1rem', fontStyle: 'italic',
+            fontFamily: body, fontSize: '1.1rem', fontStyle: 'normal',
             color: inkSoft, textAlign: 'center',
             maxWidth: '640px', margin: '0 auto 3rem', lineHeight: 1.6,
           }}>
@@ -395,7 +394,7 @@ const Methodology = () => {
               ))}
             </div>
             <p style={{
-              fontFamily: body, fontSize: '.9rem', fontStyle: 'italic',
+              fontFamily: body, fontSize: '.9rem', fontStyle: 'normal',
               color: inkMute, textAlign: 'center', marginTop: '1.8rem',
             }}>
               Price ranges are based on average cost per person; the actual price may vary by diner and selection.
@@ -405,10 +404,10 @@ const Methodology = () => {
 
         {/* ── Hierarchy of Awards ─────────────────────────────────────── */}
         <section id="hierarchy-of-awards" style={{ marginBottom: 'clamp(5rem, 8vw, 8rem)' }}>
-          <SectionHeading kicker="Section III" title="The Hierarchy of" italicWord="Awards." />
+          <SectionHeading title="The hierarchy of awards." />
 
           <p style={{
-            fontFamily: body, fontSize: '1.1rem', fontStyle: 'italic',
+            fontFamily: body, fontSize: '1.1rem', fontStyle: 'normal',
             color: inkSoft, textAlign: 'center',
             maxWidth: '640px', margin: '0 auto 4rem', lineHeight: 1.6,
           }}>
@@ -437,10 +436,10 @@ const Methodology = () => {
 
         {/* ── Sources ─────────────────────────────────────────────────── */}
         <section id="sources" style={{ marginBottom: 'clamp(5rem, 8vw, 8rem)' }}>
-          <SectionHeading kicker="Section IV" title="The" italicWord="Sources." />
+          <SectionHeading title="The sources." />
 
           <p style={{
-            fontFamily: body, fontSize: '1.1rem', fontStyle: 'italic',
+            fontFamily: body, fontSize: '1.1rem', fontStyle: 'normal',
             color: inkSoft, textAlign: 'center',
             maxWidth: '640px', margin: '0 auto 3rem', lineHeight: 1.6,
           }}>

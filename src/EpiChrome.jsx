@@ -211,7 +211,7 @@ export const EpiFooter = () => {
             letterSpacing: '.14em', textTransform: 'uppercase', color: tokens.paper, marginBottom: '1.25rem',
           }}>The Epicurean</div>
           <p style={{
-            fontFamily: tokens.body, fontStyle: 'italic', fontSize: '1.05rem',
+            fontFamily: tokens.body, fontStyle: 'normal', fontSize: '1.05rem',
             color: '#C9C3B5', lineHeight: 1.6, maxWidth: '340px', margin: 0,
           }}>
             A compendium of the world's finest tables, refined from a hundred sources into one definitive guide.
@@ -273,12 +273,11 @@ export const EpiPageHeader = ({ title, italicWord, lede, align = 'center' }) => 
       fontSize: 'clamp(2.6rem, 6vw, 5rem)', lineHeight: 1.02,
       letterSpacing: '-.015em', margin: '0 0 1.1rem', color: tokens.ink,
     }}>
-      {title}
-      {italicWord && (<> <em style={{ fontStyle: 'italic', color: tokens.gold }}>{italicWord}</em></>)}
+      {[title, italicWord].filter(Boolean).join(' ')}
     </h1>
     {lede && (
       <p style={{
-        fontFamily: tokens.body, fontSize: 'clamp(1.05rem, 1.5vw, 1.2rem)', fontStyle: 'italic',
+        fontFamily: tokens.body, fontSize: 'clamp(1.05rem, 1.5vw, 1.2rem)', fontStyle: 'normal',
         color: tokens.inkSoft, maxWidth: '640px',
         margin: align === 'center' ? '0 auto 1.8rem' : '0 0 1.8rem', lineHeight: 1.6,
       }}>{lede}</p>

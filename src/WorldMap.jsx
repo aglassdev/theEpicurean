@@ -67,7 +67,7 @@ const injectStyles = () => {
     .maplibregl-ctrl-group button { border-radius: 0 !important; }
     .epi-kicker { font-family: "Jost", sans-serif; font-size: 9.5px; letter-spacing: .26em; text-transform: uppercase; color: ${GOLD}; margin-bottom: 5px; }
     .epi-pop-name { font-family: "Cormorant Garamond", serif; font-weight: 600; font-size: 1.45rem; line-height: 1.12; color: ${INK}; margin-bottom: 6px; }
-    .epi-pop-addr { font-style: italic; font-size: .92rem; color: #5C544A; line-height: 1.4; margin-bottom: 10px; }
+    .epi-pop-addr { font-style: normal; font-size: .92rem; color: #5C544A; line-height: 1.4; margin-bottom: 10px; }
     .epi-pop-link { font-family: "Jost", sans-serif; font-size: 10px; letter-spacing: .24em; text-transform: uppercase; color: ${INK}; text-decoration: none; border-bottom: 1px solid ${GOLD}; padding-bottom: 2px; }
     .epi-pop-link:hover { color: ${GOLD}; }
   `;
@@ -303,7 +303,7 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
             style={{
               flex: 1, minWidth: 0, background: 'transparent', border: 'none', outline: 'none',
               fontFamily: tokens.body, fontSize: '1rem', color: INK,
-              fontStyle: query ? 'normal' : 'italic',
+              fontStyle: 'normal',
             }}
           />
           {query && (
@@ -320,7 +320,7 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
           position: 'absolute', inset: 0, zIndex: 4,
           display: 'flex', alignItems: 'center', justifyContent: 'center',
           background: tokens.paperDeep,
-          fontFamily: tokens.serif, fontStyle: 'italic', fontSize: '1.2rem', color: GOLD,
+          fontFamily: tokens.serif, fontStyle: 'normal', fontSize: '1.2rem', color: GOLD,
         }}>
           Charting the world's tables…
         </div>
@@ -373,7 +373,7 @@ const MapFallback = ({ height, fullPage }) => (
         letterSpacing: '-.015em', color: tokens.ink, margin: '0 0 1rem',
       }}>The tables are being charted.</h3>
       <p style={{
-        fontFamily: tokens.body, fontStyle: 'italic', fontSize: '1.05rem',
+        fontFamily: tokens.body, fontStyle: 'normal', fontSize: '1.05rem',
         color: tokens.inkSoft, lineHeight: 1.6, margin: '0 0 1.5rem',
       }}>
         Geocode all 12,650 addresses into map coordinates — a one-time batch.

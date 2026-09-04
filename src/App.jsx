@@ -29,7 +29,7 @@ const LoadingSpinner = () => (
   <div style={{
     display: 'flex', justifyContent: 'center', alignItems: 'center',
     minHeight: '60vh', background: tokens.paper,
-    fontFamily: tokens.serif, fontStyle: 'italic', fontSize: '1.3rem', color: tokens.gold,
+    fontFamily: tokens.serif, fontStyle: 'normal', fontSize: '1.3rem', color: tokens.gold,
   }}>
     Setting the table…
   </div>
@@ -155,7 +155,7 @@ const DynamicPage = () => {
           <h1 style={{ fontFamily: tokens.serif, fontWeight: 400, fontSize: 'clamp(1.8rem, 3.5vw, 2.8rem)', letterSpacing: '-.015em', color: tokens.ink, margin: '1rem 0 .75rem' }}>
             This table isn't set.
           </h1>
-          <p style={{ fontFamily: tokens.body, fontStyle: 'italic', fontSize: '1.1rem', color: tokens.inkSoft, maxWidth: '560px', lineHeight: 1.6, margin: '0 0 2.25rem' }}>
+          <p style={{ fontFamily: tokens.body, fontStyle: 'normal', fontSize: '1.1rem', color: tokens.inkSoft, maxWidth: '560px', lineHeight: 1.6, margin: '0 0 2.25rem' }}>
             We couldn't find that page in the guide.
           </p>
           <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', justifyContent: 'center' }}>

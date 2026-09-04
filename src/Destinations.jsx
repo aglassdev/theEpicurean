@@ -373,7 +373,7 @@ const Destinations = () => {
       <section style={{ background: ink, color: paper, padding: 'clamp(3.5rem, 6vw, 5.5rem) 2.5rem', marginTop: 'clamp(3rem, 6vw, 5rem)' }}>
         <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
           <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(1.9rem, 3.4vw, 3rem)', lineHeight: 1.06, letterSpacing: '-.01em', margin: '0 0 2.5rem', color: paper, maxWidth: '640px' }}>
-            Cities most worth the <em style={{ fontStyle: 'italic', color: goldSoft }}>journey</em>.
+            Cities most worth the journey.
           </h2>
           <div className="epi-grid-3" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', borderTop: `1px solid rgba(200,162,112,.3)` }}>
             {featured.map((c, i) => (
@@ -390,7 +390,7 @@ const Destinations = () => {
               >
                 <span style={{ fontFamily: sans, fontSize: '10px', letterSpacing: '.3em', textTransform: 'uppercase', color: goldSoft }}>{c.country}</span>
                 <span style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.5rem, 2.2vw, 2rem)', letterSpacing: '-.01em', color: paper }}>{c.name}</span>
-                <span className="epi-cta-underline" style={{ fontFamily: body, fontStyle: 'italic', fontSize: '.98rem', color: '#C9C3B5', width: 'fit-content' }}>Explore the table →</span>
+                <span className="epi-cta-underline" style={{ fontFamily: body, fontStyle: 'normal', fontSize: '.98rem', color: '#C9C3B5', width: 'fit-content' }}>Explore the table →</span>
               </a>
             ))}
           </div>
@@ -401,12 +401,12 @@ const Destinations = () => {
       <section style={{ maxWidth: '1280px', margin: '0 auto', padding: 'clamp(4rem, 7vw, 6.5rem) 2.5rem' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', flexWrap: 'wrap', gap: '1.5rem', marginBottom: '1.75rem' }}>
           <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2rem, 4vw, 3.2rem)', margin: 0, letterSpacing: '-.015em', color: ink }}>
-            The complete <em style={{ fontStyle: 'italic', color: gold }}>index</em>
+            The complete index
           </h2>
           <div style={{ position: 'relative', minWidth: '280px', flex: '0 1 360px', borderBottom: `1px solid ${ink}` }}>
             <input type="text" value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Search a city, region, or country…"
               aria-label="Search destinations"
-              style={{ width: '100%', background: 'transparent', border: 'none', outline: 'none', padding: '10px 28px 10px 0', fontFamily: body, fontSize: '1.05rem', fontStyle: query ? 'normal' : 'italic', color: ink }} />
+              style={{ width: '100%', background: 'transparent', border: 'none', outline: 'none', padding: '10px 28px 10px 0', fontFamily: body, fontSize: '1.05rem', fontStyle: 'normal', color: ink }} />
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={ink} strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" style={{ position: 'absolute', right: 4, top: '50%', transform: 'translateY(-50%)' }}>
               <circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" />
             </svg>
@@ -432,7 +432,7 @@ const Destinations = () => {
                             <a key={city} href={linked ? data.path : undefined}
                               onClick={(e) => { e.preventDefault(); if (linked) navigate(data.path); }}
                               className={linked ? 'epi-city-link' : undefined}
-                              style={{ fontFamily: body, fontSize: '1.02rem', color: linked ? ink : inkMute, textDecoration: 'none', padding: '.16rem 0', cursor: linked ? 'pointer' : 'default', fontStyle: linked ? 'normal' : 'italic', width: 'fit-content' }}>
+                              style={{ fontFamily: body, fontSize: '1.02rem', color: linked ? ink : inkMute, textDecoration: 'none', padding: '.16rem 0', cursor: linked ? 'pointer' : 'default', fontStyle: 'normal', width: 'fit-content' }}>
                               {city}
                             </a>
                           );
@@ -447,7 +447,7 @@ const Destinations = () => {
         </div>
 
         {!Object.keys(filtered).length && (
-          <div style={{ padding: '4rem 2rem', textAlign: 'center', fontFamily: body, fontStyle: 'italic', color: inkSoft, fontSize: '1.1rem' }}>
+          <div style={{ padding: '4rem 2rem', textAlign: 'center', fontFamily: body, fontStyle: 'normal', color: inkSoft, fontSize: '1.1rem' }}>
             No destinations matched <em>"{query}"</em>. Try a city or country name.
           </div>
         )}
