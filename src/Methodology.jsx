@@ -42,7 +42,7 @@ const Methodology = () => {
     { title: "Cash Only", body: "Restaurants that only take cash payment.", icon: "/images/cashonly.png" },
     { title: "Farm-to-Table", body: "Restaurants serving dishes with food straight from local farms with minimal preparation to show the quality of the items.", icon: "/images/farmtotable.png" },
     { title: "Family Style", body: "A selection of dishes served in very large portion sizes onto the middle of the table, allowing everyone to share and try everything.", icon: "" },
-    { title: "Omakase", body: "Translated to \"I'll leave it up to you\" — a Japanese meal where the chef chooses the highest-quality ingredients and prepares the entire meal in front of you.", icon: "" },
+    { title: "Omakase", body: "Translated to \"I'll leave it up to you\", a Japanese meal where the chef chooses the highest-quality ingredients and prepares the entire meal in front of you.", icon: "" },
     { title: "$", body: "Meals in the $10–$30 range.", icon: "" },
     { title: "$$", body: "Meals in the $30–$50 range.", icon: "" },
     { title: "$$$", body: "Meals in the $50–$100 range.", icon: "" },
@@ -54,19 +54,19 @@ const Methodology = () => {
     { number: "1", title: "Three Michelin Stars", description: "La crème de la crème of culinary awards, recognizing the world's most exceptional restaurants. Awarded and re-awarded every year by multiple anonymous inspectors. \"Three is only for the gods.\" Three Stars means it is worth a trip just to visit this restaurant alone.", icon: "/images/threestars.png" },
     { number: "2", title: "World's 50 Best", description: "Awarded yearly to the top 50 restaurants globally by a panel of over 1,000 industry experts. Fills the gaps left on the world map by Michelin. A top-10 ranking is considered equal to three Michelin stars if you don't already have them.", icon: "/images/worlds50best.png" },
     { number: "3", title: "Two Michelin Stars", description: "A step down from the coveted three stars, but still as close to perfection as you can get. Some Two-Star restaurants are even regarded as better than their three-star counterparts. \"Two stars means excellent cooking that is worth a detour.\"", icon: "/images/twostars.png" },
-    { number: "4", title: "La Liste Top 1000", description: "The most mathematical of all the awards — La Liste ranks the top restaurants in the world based on an algorithm that aggregates over 200 guides, awards, and reviews. Some entries are controversial; once a restaurant is on the list, it is almost impossible to get it off.", icon: "/images/laliste.png" },
-    { number: "5", title: "One Michelin Star", description: "The defining moment for a chef and their restaurant. Michelin's One Star is awarded to restaurants that are worthwhile stops — the first rung on the Michelin ladder, putting many exquisite chefs on the culinary map.", icon: "/images/michelinstar.png" },
-    { number: "6", title: "Relais & Châteaux Member", description: "Not technically an award, but a prestigious association of luxury hotels and restaurants committed to excellence in hospitality and gastronomy. Membership is by invitation only — only the finest establishments in the world earn one.", icon: "/images/relaischateaux.png" },
+    { number: "4", title: "La Liste Top 1000", description: "The most mathematical of all the awards. La Liste ranks the top restaurants in the world based on an algorithm that aggregates over 200 guides, awards, and reviews. Some entries are controversial; once a restaurant is on the list, it is almost impossible to get it off.", icon: "/images/laliste.png" },
+    { number: "5", title: "One Michelin Star", description: "The defining moment for a chef and their restaurant. Michelin's One Star is awarded to restaurants that are worthwhile stops, the first rung on the Michelin ladder, putting many exquisite chefs on the culinary map.", icon: "/images/michelinstar.png" },
+    { number: "6", title: "Relais & Châteaux Member", description: "Not technically an award, but a prestigious association of luxury hotels and restaurants committed to excellence in hospitality and gastronomy. Membership is by invitation only, and just the finest establishments in the world earn one.", icon: "/images/relaischateaux.png" },
     { number: "7", title: "Asia's 50 Best", description: "The regional variation of the World's 50 Best, recognizing the top restaurants in Asia. Slightly less prestigious due to the smaller field, but still a highly coveted award in the region.", icon: "/images/asias50best.png" },
-    { number: "8", title: "Latin America's 50 Best", description: "Another regional variation of the World's 50 Best — especially important for the Latin American culinary scene, as the Michelin Guide has not yet expanded into most of the region.", icon: "/images/latams50best.png" },
+    { number: "8", title: "Latin America's 50 Best", description: "Another regional variation of the World's 50 Best, especially important for the Latin American culinary scene, as the Michelin Guide has not yet expanded into most of the region.", icon: "/images/latams50best.png" },
     { number: "9", title: "Middle East & North Africa's 50 Best", description: "Similar logic to the Latin America's 50 Best. This award highlights the top restaurants in one of the most diverse and culturally rich regions in the world. Relatively new, but it has already gained significant recognition.", icon: "/images/menas50best.png" },
   ];
 
   const wineAwards = [
-    { number: "1", title: "Grand Award of Excellence — Three Glasses", description: "The Michelin Star equivalent of wine. Currently given to only 97 restaurants worldwide, this is the highest honor that can be bestowed upon a restaurant and its sommelier. Restaurants usually have a list exceeding 1,000 bottles, harmonizing with the menu.", icon: "/images/threeglasses.png" },
-    { number: "2", title: "Best of Award of Excellence — Two Glasses", description: "The second tier from Wine Spectator. Still the mark of an excellent wine program — restaurants awarded Two Glasses show an excellent breadth of wines from multiple regions and producers, with a minimum of 350 bottles (averaging around 500).", icon: "/images/twoglasses.png" },
-    { number: "3", title: "Sommelier of the Year", description: "The James Beard Foundation recognition for excellence in wine selection and service, honoring the best sommelier each year. You usually only win this once — but many say once is enough, as it cements you as a top professional in the field.", icon: "/images/sommelier.png" },
-    { number: "4", title: "Award of Excellence — One Glass", description: "Restaurants must offer at least 90 selections, feature a well-chosen assortment of quality producers, and provide a thematic match to the menu in both price and style. Satisfying to any wine aficionado.", icon: "/images/oneglass.png" },
+    { number: "1", title: "Grand Award of Excellence: Three Glasses", description: "The Michelin Star equivalent of wine. Currently given to only 97 restaurants worldwide, this is the highest honor that can be bestowed upon a restaurant and its sommelier. Restaurants usually have a list exceeding 1,000 bottles, harmonizing with the menu.", icon: "/images/threeglasses.png" },
+    { number: "2", title: "Best of Award of Excellence: Two Glasses", description: "The second tier from Wine Spectator. Still the mark of an excellent wine program. Restaurants awarded Two Glasses show an excellent breadth of wines from multiple regions and producers, with a minimum of 350 bottles (averaging around 500).", icon: "/images/twoglasses.png" },
+    { number: "3", title: "Sommelier of the Year", description: "The James Beard Foundation recognition for excellence in wine selection and service, honoring the best sommelier each year. You usually only win this once, but many say once is enough, as it cements you as a top professional in the field.", icon: "/images/sommelier.png" },
+    { number: "4", title: "Award of Excellence: One Glass", description: "Restaurants must offer at least 90 selections, feature a well-chosen assortment of quality producers, and provide a thematic match to the menu in both price and style. Satisfying to any wine aficionado.", icon: "/images/oneglass.png" },
     { number: "5", title: "World's 50 Best Sommelier", description: "Recognition of the world's most accomplished sommelier of the year, awarded by the World's 50 Best academy.", icon: "/images/oneglass.png" },
     { number: "6", title: "Outstanding Wine & Beverages Program", description: "Awarded to establishments with exceptional beverage programs and cocktail innovation.", icon: "/images/jamesbeard.png" },
   ];
@@ -259,7 +259,7 @@ const Methodology = () => {
       <EpiPageHeader
         title="On the"
         italicWord="method."
-        lede="How The Epicurean is built — from the philosophy of selection to the hundred-plus journals, guides, and awards that inform every entry."
+        lede="How The Epicurean is built, from the philosophy of selection to the hundred-plus journals, guides, and awards that inform every entry."
       />
 
       {/* Sticky table of contents (static on mobile — see .epi-toc-bar) */}
@@ -311,7 +311,7 @@ const Methodology = () => {
               lineHeight: .8, paddingRight: '.5rem', paddingTop: '.45rem',
               color: ink, fontWeight: 500,
             }}>T</span>
-            here is a common association between gastronomy and fine dining — and while they are closely connected, the prior does not imply the latter. Gastronomy is simply the art of making good food, and good food can come from anywhere. This guide tries to show that with the largest selection of gastronomic experiences in the world, celebrating hundreds of thousands of talented chefs and delicious dishes across the globe.
+            here is a common association between gastronomy and fine dining, and while they are closely connected, the prior does not imply the latter. Gastronomy is simply the art of making good food, and good food can come from anywhere. This guide tries to show that with the largest selection of gastronomic experiences in the world, celebrating hundreds of thousands of talented chefs and delicious dishes across the globe.
           </p>
 
           <div className="epi-two-col" style={{
@@ -323,12 +323,12 @@ const Methodology = () => {
               {
                 kicker: 'Question I',
                 title: 'What defines a good restaurant?',
-                body: "It is a hard question to answer, as this selection covers vastly different establishments — from street-food stalls to three Michelin-Starred temples. The overall taste of the food and the quality of ingredients come foremost; they must excel across all selections. Service comes second, as no establishment can excel without great service. Lastly, setting and presentation — although they enrich the experience, good food can come in any form, from anywhere.",
+                body: "It is a hard question to answer, as this selection covers vastly different establishments, from street-food stalls to three Michelin-Starred temples. The overall taste of the food and the quality of ingredients come foremost; they must excel across all selections. Service comes second, as no establishment can excel without great service. Lastly, setting and presentation: although they enrich the experience, good food can come in any form, from anywhere.",
               },
               {
                 kicker: 'Question II',
                 title: 'Why The Epicurean?',
-                body: 'The Epicurean is the definitive source for dining enjoyers — amalgamating more than fifty different sources including awards, guides, associations, and reviewers. Instead of visiting five different sources, here we offer the complete list of remarkable dining and drinking establishments globally, guaranteeing that you will find a selection to your liking.',
+                body: 'The Epicurean is the definitive source for dining enjoyers, amalgamating more than fifty different sources including awards, guides, associations, and reviewers. Instead of visiting five different sources, here we offer the complete list of remarkable dining and drinking establishments globally, guaranteeing that you will find a selection to your liking.',
               },
             ].map((q) => (
               <div key={q.title}>
@@ -354,7 +354,7 @@ const Methodology = () => {
             color: inkSoft, textAlign: 'center',
             maxWidth: '640px', margin: '0 auto 3rem', lineHeight: 1.6,
           }}>
-            A glossary of the marks and notes that accompany each entry — what to expect when you arrive at the table.
+            A glossary of the marks and notes that accompany each entry, and what to expect when you arrive at the table.
           </p>
 
           {/* Glossary grid */}
@@ -411,7 +411,7 @@ const Methodology = () => {
             color: inkSoft, textAlign: 'center',
             maxWidth: '640px', margin: '0 auto 4rem', lineHeight: 1.6,
           }}>
-            Four disciplines — Food, Wine, Bar, and Sustainability — and the honors that define the world's finest within each.
+            Four disciplines (Food, Wine, Bar, and Sustainability) and the honors that define the world's finest within each.
           </p>
 
           {[

@@ -75,6 +75,7 @@ export const useEpiStyles = () => {
         .epi-grid-3 { grid-template-columns: 1fr !important; }
         .epi-grid-5 { grid-template-columns: repeat(2, 1fr) !important; }
         .epi-two-col { grid-template-columns: 1fr !important; }
+        .epi-atlas-row { grid-template-columns: 1fr !important; }
         .epi-toc-bar { position: static !important; top: auto !important; }
         /* Two award columns get cramped on a phone — stack them, and drop the
            full-width span the odd last one carries on desktop. */

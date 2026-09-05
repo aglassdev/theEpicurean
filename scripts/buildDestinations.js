@@ -431,6 +431,23 @@ if (geo?.restaurants?.length) {
     cities: seenCity.size,
     countries: seenCountry.size,
   };
+
+  // A thinned sample of real coordinates for the spinning globe on Home. One point
+  // per ~1.6° cell, so Paris doesn't become a blob while Patagonia disappears — the
+  // result traces where the guide actually reaches. Two decimals is well under a
+  // pixel at globe scale.
+  const cell = 1.6;
+  const taken = new Set();
+  const points = [];
+  for (const r of geo.restaurants) {
+    if (typeof r.lng !== 'number' || typeof r.lat !== 'number') continue;
+    const key = `${Math.round(r.lng / cell)}:${Math.round(r.lat / cell)}`;
+    if (taken.has(key)) continue;
+    taken.add(key);
+    points.push([+r.lng.toFixed(2), +r.lat.toFixed(2)]);
+  }
+  fs.writeFileSync(path.join(DATA, 'globe.json'), JSON.stringify({ cell, points }));
+  stats.globePoints = points.length;
 }
 
 fs.mkdirSync(DATA, { recursive: true });
@@ -466,5 +483,6 @@ if (!quiet) {
   browsable cities      ${stats.cities.toLocaleString()}
   countries             ${stats.countries.toLocaleString()}
   listed restaurants    ${totalListedRestaurants.toLocaleString()}
+  globe sample          ${(stats.globePoints || 0).toLocaleString()} points
 `);
 }

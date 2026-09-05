@@ -376,7 +376,7 @@ const MapFallback = ({ height, fullPage }) => (
         fontFamily: tokens.body, fontStyle: 'normal', fontSize: '1.05rem',
         color: tokens.inkSoft, lineHeight: 1.6, margin: '0 0 1.5rem',
       }}>
-        Geocode all 12,650 addresses into map coordinates — a one-time batch.
+        Geocode every address into map coordinates. A one-time batch.
         No account needed; add a free LocationIQ key to <code>.env</code> for
         faster, more accurate results.
       </p>

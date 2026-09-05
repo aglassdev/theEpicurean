@@ -124,7 +124,7 @@ const Destinations = () => {
       <EpiPageHeader
         title="Every destination,"
         italicWord="indexed."
-        lede="Browse the guide by country and city — every corner of the world where a remarkable table awaits. For the interactive map, visit the Atlas."
+        lede="Browse the guide by country and city, every corner of the world where a remarkable table awaits. For the interactive map, visit the Atlas."
       />
 
       {/* Figures */}

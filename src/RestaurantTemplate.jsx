@@ -127,7 +127,7 @@ const RestaurantPage = ({
                     <div key={day} style={{ display: 'flex', justifyContent: 'space-between', gap: '1rem', padding: '.55rem 0', borderBottom: `1px solid ${rule}` }}>
                       <span style={{ fontFamily: sans, fontSize: '10.5px', letterSpacing: '.18em', textTransform: 'uppercase', color: ink }}>{day}</span>
                       <span style={{ fontFamily: body, fontSize: '.98rem', color: inkSoft, textAlign: 'right' }}>
-                        {[times.lunch, times.dinner].filter(Boolean).join(' · ') || '—'}
+                        {[times.lunch, times.dinner].filter(Boolean).join(' · ') || 'By enquiry'}
                       </span>
                     </div>
                   ))}

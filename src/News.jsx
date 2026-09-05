@@ -11,7 +11,7 @@ const News = () => {
     title: "The Times' Best NYC Restaurants of 2025",
     date: 'MMXXV',
     image: '/images/nyt2025.png',
-    dek: "A new vanguard of dining rooms, from a Tribeca townhouse to a quiet bistro in Brooklyn — the year's most consequential openings, examined.",
+    dek: "A new vanguard of dining rooms, from a Tribeca townhouse to a quiet bistro in Brooklyn. The year's most consequential openings, examined.",
   };
 
   const secondary = [
@@ -32,7 +32,7 @@ const News = () => {
       <EpiPageHeader
         title="News"
         italicWord="& notes"
-        lede="Dispatches from the dining world — the openings, awards, and rankings that move the guide, gathered from the journals of record."
+        lede="Dispatches from the dining world: the openings, awards, and rankings that move the guide, gathered from the journals of record."
       />
 
       {/* Lead + secondary — an editorial spread, no card frames */}

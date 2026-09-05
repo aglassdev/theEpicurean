@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { EpiPage, Rule, tokens, useMediaQuery } from './EpiChrome';
+import Globe from './Globe';
 
 const CAROUSEL = [
   { image: "/images/geranium.png", title: "Geranium", location: "Copenhagen, Denmark", stars: ["michelinstar","michelinstar","michelinstar"], route: "/denmark/copenhagen/geranium" },
@@ -17,12 +18,13 @@ const CAROUSEL = [
 
 const DISPATCHES = [
   { kicker: "Dispatch · New York", title: "The Times' Best NYC Restaurants of 2025", image: "/images/nyt2025.png",
-    dek: "A new vanguard of dining rooms, from a Tribeca townhouse to a quiet Brooklyn bistro — the year's most consequential openings." },
+    dek: "A new vanguard of dining rooms, from a Tribeca townhouse to a quiet Brooklyn bistro. The year's most consequential openings." },
   { kicker: "Awards · Washington", title: "Inside the 2025 RAMMY Awards", image: "/images/rammys2025.png" },
   { kicker: "Awards · America", title: "The 2025 James Beard Foundation Honours", image: "/images/jb2025.png" },
 ];
 
-// Curated, recognizable source marks — shown statically (no marquee).
+// Recognizable source marks, shown statically (no marquee). A fuller sweep of the
+// hundred-plus journals behind the guide lives on the Methodology page.
 const LOGOS = [
   { name: 'Michelin', icon: '/images/michelin.png' },
   { name: "World's 50 Best", icon: '/images/worlds50best.png' },
@@ -32,6 +34,22 @@ const LOGOS = [
   { name: 'Relais & Châteaux', icon: '/images/relaischateaux.png' },
   { name: 'Wine Spectator', icon: '/images/winespectator.png' },
   { name: 'The New York Times', icon: '/images/nyt.png' },
+  { name: 'Forbes Travel Guide', icon: '/images/forbes.png' },
+  { name: 'AAA Travel', icon: '/images/aaatravel.png' },
+  { name: "Asia's 50 Best", icon: '/images/asias50best.png' },
+  { name: "North America's 50 Best", icon: '/images/nas50best.png' },
+  { name: "Latin America's 50 Best", icon: '/images/latams50best.png' },
+  { name: "MENA's 50 Best", icon: '/images/menas50best.png' },
+  { name: "World's 50 Best Bars", icon: '/images/worlds50bestbars.png' },
+  { name: 'The Washington Post', icon: '/images/washingtonpost.png' },
+  { name: 'Food & Wine', icon: '/images/foodandwine.png' },
+  { name: 'Slow Food', icon: '/images/slowfood.png' },
+  { name: 'Gambero Rosso', icon: '/images/gamberorosso.png' },
+  { name: 'Falstaff', icon: '/images/falstaff.png' },
+  { name: 'Opinionated About Dining', icon: '/images/oad.png' },
+  { name: 'The World of Fine Wine', icon: '/images/worldoffinewine.png' },
+  { name: 'DiRoNA', icon: '/images/dirona.png' },
+  { name: 'World Culinary Awards', icon: '/images/worldculinaryawards.png' },
 ];
 
 const HomePage = () => {
@@ -124,7 +142,7 @@ const HomePage = () => {
         position: 'absolute', width: 1, height: 1, padding: 0, margin: -1,
         overflow: 'hidden', clip: 'rect(0 0 0 0)', whiteSpace: 'nowrap', border: 0,
       }}>
-        The Epicurean — every great table in the world, reconciled into one atlas.
+        The Epicurean: every great table in the world, reconciled into one atlas.
       </h1>
 
       {/* Featured carousel — full-bleed, accessible, pausable */}
@@ -140,7 +158,7 @@ const HomePage = () => {
               <a key={i} href={s.route}
                 onClick={(e) => { e.preventDefault(); navigate(s.route); }}
                 aria-hidden={!on} tabIndex={on ? 0 : -1}
-                aria-label={`${s.title} — ${s.location}. View in the guide.`}
+                aria-label={`${s.title}, ${s.location}. View in the guide.`}
                 style={{
                   position: 'absolute', inset: 0, display: 'block', textDecoration: 'none',
                   opacity: on ? 1 : 0, pointerEvents: on ? 'auto' : 'none',
@@ -204,7 +222,7 @@ const HomePage = () => {
             </h2>
             <p style={{ fontFamily: body, fontSize: 'clamp(1.1rem, 1.5vw, 1.22rem)', lineHeight: 1.72, color: inkSoft, margin: 0 }}>
               <span style={{ fontFamily: serif, fontSize: '4.6rem', float: 'left', lineHeight: .72, paddingRight: '.55rem', paddingTop: '.4rem', color: ink, fontWeight: 500 }}>W</span>
-              elcome to The Epicurean — a guide for seeking the finest dining on earth, curated from over a hundred authoritative sources and reconciled into a single hierarchy. Our mission is to connect the discerning with the exceptional: the temples, the secrets, and every remarkable table in between.
+              elcome to The Epicurean, a guide for seeking the finest dining on earth, curated from over a hundred authoritative sources and reconciled into a single hierarchy. Our mission is to connect the discerning with the exceptional: the temples, the secrets, and every remarkable table in between.
             </p>
             <a href="/methodology" onClick={(e) => { e.preventDefault(); navigate('/methodology'); }} className="epi-cta-underline"
               style={{ display: 'inline-block', marginTop: '1.9rem', fontFamily: sans, fontSize: '11px', letterSpacing: '.3em', textTransform: 'uppercase', color: ink, textDecoration: 'none' }}>
@@ -229,19 +247,26 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* The Atlas — bespoke, left-aligned dark beat (no dot grid, no centered band) */}
+      {/* The Atlas: copy on the left, a turning globe holding the right */}
       <section style={{ background: ink, color: paper, padding: 'clamp(4.5rem, 9vw, 8rem) 2.5rem' }}>
-        <div style={{ maxWidth: '1280px', margin: '0 auto', display: 'grid', gridTemplateColumns: 'minmax(0, 1fr)', gap: '1.5rem' }}>
-          <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2.4rem, 6vw, 5rem)', lineHeight: .98, letterSpacing: '-.02em', margin: 0, maxWidth: '16ch', color: paper }}>
-            Traverse the globe by plate, not by passport.
-          </h2>
-          <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', color: '#CFC9BD', maxWidth: '560px', lineHeight: 1.6, margin: '.4rem 0 1rem' }}>
-            An interactive cartography of all {targets.restaurants.toLocaleString()} tables — from Tokyo to Tasmania, Lima to Ljubljana.
-          </p>
-          <a href="/map" onClick={(e) => { e.preventDefault(); navigate('/map'); }} className="epi-cta-underline"
-            style={{ fontFamily: sans, fontSize: '12px', letterSpacing: '.32em', textTransform: 'uppercase', color: paper, textDecoration: 'none', width: 'fit-content' }}>
-            Open the Atlas →
-          </a>
+        <div className="epi-atlas-row" style={{
+          maxWidth: '1280px', margin: '0 auto', display: 'grid',
+          gridTemplateColumns: 'minmax(0, 1.15fr) minmax(0, .85fr)',
+          gap: 'clamp(2.5rem, 5vw, 5rem)', alignItems: 'center',
+        }}>
+          <div style={{ display: 'grid', gap: '1.5rem' }}>
+            <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2.4rem, 5.2vw, 4.4rem)', lineHeight: .98, letterSpacing: '-.02em', margin: 0, maxWidth: '16ch', color: paper }}>
+              Traverse the globe by plate, not by passport.
+            </h2>
+            <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', color: '#CFC9BD', maxWidth: '560px', lineHeight: 1.6, margin: '.4rem 0 1rem' }}>
+              An interactive cartography of all {targets.restaurants.toLocaleString()} tables, from Tokyo to Tasmania, Lima to Ljubljana.
+            </p>
+            <a href="/map" onClick={(e) => { e.preventDefault(); navigate('/map'); }} className="epi-cta-underline"
+              style={{ fontFamily: sans, fontSize: '12px', letterSpacing: '.32em', textTransform: 'uppercase', color: paper, textDecoration: 'none', width: 'fit-content' }}>
+              Open the Atlas →
+            </a>
+          </div>
+          <Globe />
         </div>
       </section>
 

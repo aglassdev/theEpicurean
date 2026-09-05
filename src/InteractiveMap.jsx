@@ -400,7 +400,7 @@ const InteractiveMap = () => {
                   fill={usa&&view==='world' ? (hov?C.usaHov:C.usaFill) : hov&&!isInUSA ? C.landHov : C.land}
                   stroke={C.worldBdr} strokeWidth="0.5"
                   style={{ cursor:usa&&view==='world'?'pointer':'default', transition:'fill 0.15s' }}
-                  onMouseEnter={() => { setHovCntry(name); if(usa&&view==='world') showTip('🇺🇸 United States — click to explore'); }}
+                  onMouseEnter={() => { setHovCntry(name); if(usa&&view==='world') showTip('🇺🇸 United States · click to explore'); }}
                   onMouseLeave={() => { setHovCntry(null); hideTip(); }}
                   onClick={() => usa && view==='world' && setView('usa')}
                 />
@@ -416,7 +416,7 @@ const InteractiveMap = () => {
                   fill={active ? (hov?C.activeHov:C.active) : (hov?C.inactive:'#ede5d8')}
                   stroke={C.stateBdr} strokeWidth="0.7"
                   style={{ cursor:active?'pointer':'default', transition:'fill 0.15s' }}
-                  onMouseEnter={() => { setHovState(name); if(active) showTip(`${name} — click to explore`); }}
+                  onMouseEnter={() => { setHovState(name); if(active) showTip(`${name} · click to explore`); }}
                   onMouseLeave={() => { setHovState(null); hideTip(); }}
                   onClick={() => active && setView(name)}
                 />
@@ -437,7 +437,7 @@ const InteractiveMap = () => {
                 {/* Clickable label */}
                 <g data-dc-bubble style={{ cursor:'pointer' }}
                    onClick={() => setView('District of Columbia')}
-                   onMouseEnter={() => showTip('Washington, D.C. — click to explore')}
+                   onMouseEnter={() => showTip('Washington, D.C. · click to explore')}
                    onMouseLeave={hideTip}>
                   <text x="0" y="0" textAnchor="middle"
                     fontFamily={SERIF}
