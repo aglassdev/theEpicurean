@@ -261,6 +261,10 @@ const RestaurantPage = ({
 
 const Arpge = () => (
   <RestaurantPage
+    headerImages={[
+      "/images/arpege1.png",
+      "/images/arpege2.png"
+    ]}
     restaurantName="Arpège"
     address="84 rue de Varenne, Paris, 75007, France"
     cuisine="Creative"

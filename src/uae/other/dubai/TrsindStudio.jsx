@@ -261,6 +261,10 @@ const RestaurantPage = ({
 
 const TrsindStudio = () => (
   <RestaurantPage
+    headerImages={[
+      "/images/tresindstudio1.png",
+      "/images/tresindstudio2.png"
+    ]}
     restaurantName="Trèsind Studio"
     address="St. Regis Gardens, The Palm Jumeirah, Dubai"
     cuisine="Indian"

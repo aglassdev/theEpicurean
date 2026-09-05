@@ -261,6 +261,10 @@ const RestaurantPage = ({
 
 const Azurmendi = () => (
   <RestaurantPage
+    headerImages={[
+      "/images/azurmendi1.png",
+      "/images/azurmendi2.png"
+    ]}
     restaurantName="Azurmendi"
     address="Legina Auzoa, Larrabetzu, 48195, Spain"
     cuisine="Creative"

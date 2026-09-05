@@ -261,6 +261,10 @@ const RestaurantPage = ({
 
 const Szanne = () => (
   <RestaurantPage
+    headerImages={[
+      "/images/sezanne1.png",
+      "/images/sezanne2.png"
+    ]}
     restaurantName="SÉZANNE"
     address="7F, Four Seasons Hotel Tokyo at Marunouchi, 1-11-1 Marunouchi, Chiyoda-ku, Tokyo, 100-6277, Japan"
     cuisine="French, Contemporary"

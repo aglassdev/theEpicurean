@@ -261,6 +261,10 @@ const RestaurantPage = ({
 
 const Singlethread = () => (
   <RestaurantPage
+    headerImages={[
+      "/images/singlethread1.png",
+      "/images/singlethread2.png"
+    ]}
     restaurantName="SingleThread"
     address="131 North St., Healdsburg, 95448, USA"
     cuisine="Contemporary, Californian"

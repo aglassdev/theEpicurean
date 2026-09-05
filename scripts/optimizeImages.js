@@ -36,18 +36,41 @@ try {
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const IMAGES = path.join(__dirname, '../public/images');
+const COMPONENTS = path.join(__dirname, '../public/components');
 const OUT = path.join(IMAGES, 'opt');
 
 const WIDTHS = [1600, 3200];
 const QUALITY = 90;
 const force = process.argv.includes('--force');
 const quiet = process.argv.includes('--quiet');
+const verbose = process.argv.includes('--verbose');
 
 fs.mkdirSync(OUT, { recursive: true });
 
 const mb = (n) => (n / 1048576).toFixed(2);
 
-const sources = [...new Set(CAROUSEL.map((s) => s.image))];
+/** Every headerImages entry across the guide's detail pages. */
+function headerSources() {
+  const found = new Set();
+  const walk = (dir) => {
+    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+      const p = path.join(dir, e.name);
+      if (e.isDirectory()) { walk(p); continue; }
+      if (!e.name.endsWith('.json') || e.name === 'index.json') continue;
+      let d;
+      try { d = JSON.parse(fs.readFileSync(p, 'utf8')); } catch { continue; }
+      for (const i of d.headerImages || []) {
+        if (typeof i === 'string' && i.startsWith('/images/')) found.add(i);
+      }
+    }
+  };
+  walk(COMPONENTS);
+  return found;
+}
+
+// Carousel slides and detail-page headers get the same treatment: both are
+// full-bleed photography shown at up to half or all of the viewport width.
+const sources = [...new Set([...CAROUSEL.map((s) => s.image), ...headerSources()])];
 let srcBytes = 0;
 let outBytes = 0;
 let written = 0;
@@ -80,7 +103,7 @@ for (const rel of sources) {
     written++;
   }
 
-  if (!quiet) {
+  if (!quiet && verbose) {
     const after = WIDTHS.reduce(
       (s, w) => s + fs.statSync(path.join(OUT, `${base}-${w}.webp`)).size, 0
     );

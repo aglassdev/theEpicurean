@@ -261,6 +261,10 @@ const RestaurantPage = ({
 
 const OdetteSIN = () => (
   <RestaurantPage
+    headerImages={[
+      "/images/odette1.png",
+      "/images/odette2.png"
+    ]}
     restaurantName="Odette"
     address="National Gallery, #01-04, 1 St. Andrew's Road (entrance via Supreme Court wing's foyer), 178957, Singapore"
     cuisine="French Contemporary"

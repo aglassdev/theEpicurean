@@ -261,6 +261,10 @@ const RestaurantPage = ({
 
 const SketchTheLectureRoomAndLibrary = () => (
   <RestaurantPage
+    headerImages={[
+      "/images/sketch1.png",
+      "/images/sketch2.png"
+    ]}
     restaurantName="Sketch, The Lecture Room and Library"
     address="9 Conduit Street, Mayfair, London, W1S 2XG, United Kingdom"
     cuisine="Modern French"

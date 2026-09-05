@@ -261,6 +261,10 @@ const RestaurantPage = ({
 
 const Evvai = () => (
   <RestaurantPage
+    headerImages={[
+      "/images/evvai1.png",
+      "/images/evvai2.png"
+    ]}
     restaurantName="Evvai"
     address="Rua Joaquim Antunes 108, São Paulo, 05415-000, Brazil"
     cuisine="Modern Cuisine, Brazilian"

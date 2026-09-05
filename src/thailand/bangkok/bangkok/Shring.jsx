@@ -261,6 +261,10 @@ const RestaurantPage = ({
 
 const Shring = () => (
   <RestaurantPage
+    headerImages={[
+      "/images/suhring1.png",
+      "/images/suhring2.png"
+    ]}
     restaurantName="Sühring"
     address="10 Soi Yen Akat 3, Chong Nonsi, Yan Nawa, Bangkok, 10120, Thailand"
     cuisine="German, Contemporary"

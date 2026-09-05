@@ -1,6 +1,9 @@
 import React from 'react';
 import { EpiPage, Rule, SmallCaps, tokens } from './EpiChrome';
 
+// "/images/evvai1.png" -> "evvai1", the stem optimizeImages.js writes derivatives under.
+const stem = (src) => String(src).replace(/^.*\//, '').replace(/\.[^.]+$/, '');
+
 const RestaurantPage = ({
   headerImages, restaurantName, address, cuisine, priceRange, phoneNumber,
   hours, website, reservationProviders, tags, awards, bio, googleMapsEmbed, pageTitle,
@@ -29,16 +32,32 @@ const RestaurantPage = ({
   const isMichelin = (name) => /michelin star/i.test(name || '');
   const showMap = googleMapsEmbed && !googleMapsEmbed.includes('YOUR_GOOGLE_MAPS_API_KEY');
   const hasHeader = Array.isArray(headerImages) && headerImages.length > 0;
+  const header = hasHeader ? headerImages.slice(0, 3) : [];
 
   const metaBits = [cuisine, priceRange].filter(Boolean);
 
   return (
     <EpiPage active="destinations">
-      {/* Optional full-bleed hero */}
+      {/* Optional full-bleed hero. Served from the WebP derivatives written by
+          scripts/optimizeImages.js — the source PNGs run 5–15 MB each — falling
+          back to the original if a derivative hasn't been generated. */}
       {hasHeader && (
         <div style={{ width: '100%', height: 'clamp(300px, 54vh, 600px)', display: 'flex', background: paperDeep }}>
-          {headerImages.slice(0, 3).map((img, i) => (
-            <div key={i} aria-hidden style={{ flex: 1, backgroundImage: `url(${img})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
+          {header.map((img, i) => (
+            <img
+              key={i} alt="" aria-hidden decoding="async"
+              fetchpriority={i === 0 ? 'high' : 'auto'}
+              src={`/images/opt/${stem(img)}-1600.webp`}
+              srcSet={`/images/opt/${stem(img)}-1600.webp 1600w, /images/opt/${stem(img)}-3200.webp 3200w`}
+              sizes={`${Math.round(100 / header.length)}vw`}
+              onError={(e) => {
+                if (e.currentTarget.dataset.fallback) return;
+                e.currentTarget.dataset.fallback = '1';
+                e.currentTarget.srcset = '';
+                e.currentTarget.src = img;
+              }}
+              style={{ flex: 1, minWidth: 0, height: '100%', objectFit: 'cover' }}
+            />
           ))}
         </div>
       )}
