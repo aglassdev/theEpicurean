@@ -48,14 +48,26 @@ const files = fs.readdirSync(COMPONENTS, { recursive: true })
   .filter((f) => f.endsWith('.json') && !/index\.json$/.test(f) && !/(^|[\\/])Restaurants\.json$/i.test(f));
 
 const index = new Map();
+const add = (key, entry) => {
+  if (!key) return;
+  if (!index.has(key)) index.set(key, []);
+  const bucket = index.get(key);
+  if (!bucket.some((e) => e.route === entry.route)) bucket.push(entry);
+};
 for (const rel of files) {
   const parts = rel.split(path.sep);
   const base = parts[parts.length - 1].replace(/\.json$/, '');
   const cslug = (parts[parts.length - 2] || '').toLowerCase().replace(/[^a-z0-9]/g, '');
   const route = '/' + parts.join('/').replace(/\.json$/, '');
-  const key = base.toLowerCase();
-  if (!index.has(key)) index.set(key, []);
-  index.get(key).push({ route, citySlug: cslug });
+  const entry = { route, citySlug: cslug };
+  add(base.toLowerCase(), entry);
+  // Filenames get shortened by hand (PattyOsCafe.json holds "Patty O's Cafe &
+  // Bakery"), so index the name the page actually declares as well.
+  try {
+    const d = JSON.parse(fs.readFileSync(path.join(COMPONENTS, rel), 'utf8'));
+    const declared = compName(d.restaurantName || d.pageTitle).toLowerCase();
+    if (declared && declared !== base.toLowerCase()) add(declared, entry);
+  } catch { /* unreadable page — the filename key still stands */ }
 }
 console.log(`  ${files.length} detail pages · ${index.size} unique names\n`);
 
@@ -64,9 +76,22 @@ const geo = JSON.parse(fs.readFileSync(GEO_PATH, 'utf8'));
 const list = geo.restaurants || [];
 
 const findRoute = (name, city) => {
-  const plain = compName(name).toLowerCase();
-  const withAcr = (compName(name) + cityAcr(city)).toLowerCase();
-  const cand = [...(index.get(plain) || []), ...(index.get(withAcr) || [])];
+  // Sources disagree about the leading article ("The Inn at Little Washington"
+  // vs InnAtLittleWashington.json), so try the name both ways.
+  const variants = [name, String(name || '').replace(/^the\s+/i, ''), `The ${name}`];
+  const keys = [];
+  for (const v of variants) {
+    keys.push(compName(v).toLowerCase(), (compName(v) + cityAcr(city)).toLowerCase());
+  }
+  const cand = [];
+  const seen = new Set();
+  for (const k of keys) {
+    for (const c of index.get(k) || []) {
+      if (seen.has(c.route)) continue;
+      seen.add(c.route);
+      cand.push(c);
+    }
+  }
   if (!cand.length) return null;
   if (cand.length === 1) return cand[0].route;
   const cs = citySlug(city);

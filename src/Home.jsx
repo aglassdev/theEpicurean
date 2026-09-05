@@ -77,12 +77,15 @@ const HomePage = () => {
 
   useEffect(() => {
     if (reduceMotion) { setCounters(targets); return undefined; }
+    // The manifest can land after the figures have already scrolled into view, so
+    // this re-runs; tear the old timer down with it or the two animations fight.
     let started = false;
+    let timer;
     const obs = new IntersectionObserver(([e]) => {
       if (!e.isIntersecting || started) return;
       started = true;
       const steps = 60, dur = 2000; let step = 0;
-      const timer = setInterval(() => {
+      timer = setInterval(() => {
         step++;
         const p = 1 - Math.pow(1 - step / steps, 3);
         setCounters({
@@ -94,7 +97,7 @@ const HomePage = () => {
       }, dur / steps);
     }, { threshold: 0.4 });
     if (countersRef.current) obs.observe(countersRef.current);
-    return () => obs.disconnect();
+    return () => { obs.disconnect(); clearInterval(timer); };
   }, [reduceMotion, targets]);
 
   const onTouchStart = (e) => { touch.current = { x: e.touches[0].clientX, active: true }; };
@@ -115,23 +118,14 @@ const HomePage = () => {
 
   return (
     <EpiPage active="home">
-      {/* Hero overture — the headline carries itself */}
-      <section style={{ padding: 'clamp(4rem, 8vw, 6.5rem) 2.5rem 2.5rem', textAlign: 'center', maxWidth: '1080px', margin: '0 auto' }}>
-        <h1 className="epi-rise" style={{
-          fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2.7rem, 6.2vw, 5.4rem)',
-          lineHeight: 1.0, letterSpacing: '-.02em', margin: '0 0 1.4rem', color: ink,
-        }}>
-          Every great table in the world,<br />reconciled into one atlas.
-        </h1>
-        <p style={{ fontFamily: body, fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', fontStyle: 'normal', color: inkSoft, maxWidth: '640px', margin: '0 auto 1.9rem', lineHeight: 1.55 }}>
-          Michelin, La Liste, the World's 50 Best and a hundred more — read as a single guide for the discerning traveller, and mapped across the globe.
-        </p>
-        <a href="/map" onClick={(e) => { e.preventDefault(); navigate('/map'); }}
-          className="epi-cta-underline"
-          style={{ fontFamily: sans, fontSize: '12px', letterSpacing: '.32em', textTransform: 'uppercase', color: ink, textDecoration: 'none' }}>
-          Open the Atlas →
-        </a>
-      </section>
+      {/* The page opens on the photography, so the document heading is carried for
+          screen readers and search rather than set above the images. */}
+      <h1 style={{
+        position: 'absolute', width: 1, height: 1, padding: 0, margin: -1,
+        overflow: 'hidden', clip: 'rect(0 0 0 0)', whiteSpace: 'nowrap', border: 0,
+      }}>
+        The Epicurean — every great table in the world, reconciled into one atlas.
+      </h1>
 
       {/* Featured carousel — full-bleed, accessible, pausable */}
       <section aria-roledescription="carousel" aria-label="Featured restaurants" style={{ width: '100%' }}>
@@ -201,6 +195,56 @@ const HomePage = () => {
         </div>
       </section>
 
+      {/* Colophon + figures */}
+      <section style={{ padding: 'clamp(4.5rem, 8vw, 7rem) 2.5rem', maxWidth: '1280px', margin: '0 auto' }}>
+        <div className="epi-about-row" style={{ display: 'flex', gap: 'clamp(3rem, 6vw, 6rem)', alignItems: 'flex-start' }}>
+          <div style={{ flex: 1.3 }}>
+            <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2rem, 3.4vw, 3rem)', letterSpacing: '-.015em', lineHeight: 1.06, margin: '0 0 1.6rem', color: ink }}>
+              On the method.
+            </h2>
+            <p style={{ fontFamily: body, fontSize: 'clamp(1.1rem, 1.5vw, 1.22rem)', lineHeight: 1.72, color: inkSoft, margin: 0 }}>
+              <span style={{ fontFamily: serif, fontSize: '4.6rem', float: 'left', lineHeight: .72, paddingRight: '.55rem', paddingTop: '.4rem', color: ink, fontWeight: 500 }}>W</span>
+              elcome to The Epicurean — a guide for seeking the finest dining on earth, curated from over a hundred authoritative sources and reconciled into a single hierarchy. Our mission is to connect the discerning with the exceptional: the temples, the secrets, and every remarkable table in between.
+            </p>
+            <a href="/methodology" onClick={(e) => { e.preventDefault(); navigate('/methodology'); }} className="epi-cta-underline"
+              style={{ display: 'inline-block', marginTop: '1.9rem', fontFamily: sans, fontSize: '11px', letterSpacing: '.3em', textTransform: 'uppercase', color: ink, textDecoration: 'none' }}>
+              Our methodology →
+            </a>
+          </div>
+
+          <div ref={countersRef} style={{ flex: 1, display: 'flex', flexDirection: 'column', gap: '0' }}>
+            {[
+              { label: 'Restaurants', value: counters.restaurants, suffix: '' },
+              { label: 'Cities', value: counters.cities, suffix: '' },
+              { label: 'Countries', value: counters.countries, suffix: '' },
+            ].map((s, i) => (
+              <div key={s.label} style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', padding: '1.5rem 0', borderTop: i === 0 ? 'none' : `1px solid ${rule}` }}>
+                <span style={{ fontFamily: sans, fontSize: '12px', letterSpacing: '.3em', textTransform: 'uppercase', color: inkSoft }}>{s.label}</span>
+                <span style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2.6rem, 4.5vw, 4rem)', lineHeight: 1, color: ink, letterSpacing: '-.02em', fontVariantNumeric: 'lining-nums tabular-nums' }}>
+                  {s.value.toLocaleString()}<span style={{ color: gold }}>{s.suffix}</span>
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* The Atlas — bespoke, left-aligned dark beat (no dot grid, no centered band) */}
+      <section style={{ background: ink, color: paper, padding: 'clamp(4.5rem, 9vw, 8rem) 2.5rem' }}>
+        <div style={{ maxWidth: '1280px', margin: '0 auto', display: 'grid', gridTemplateColumns: 'minmax(0, 1fr)', gap: '1.5rem' }}>
+          <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2.4rem, 6vw, 5rem)', lineHeight: .98, letterSpacing: '-.02em', margin: 0, maxWidth: '16ch', color: paper }}>
+            Traverse the globe by plate, not by passport.
+          </h2>
+          <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', color: '#CFC9BD', maxWidth: '560px', lineHeight: 1.6, margin: '.4rem 0 1rem' }}>
+            An interactive cartography of all {targets.restaurants.toLocaleString()} tables — from Tokyo to Tasmania, Lima to Ljubljana.
+          </p>
+          <a href="/map" onClick={(e) => { e.preventDefault(); navigate('/map'); }} className="epi-cta-underline"
+            style={{ fontFamily: sans, fontSize: '12px', letterSpacing: '.32em', textTransform: 'uppercase', color: paper, textDecoration: 'none', width: 'fit-content' }}>
+            Open the Atlas →
+          </a>
+        </div>
+      </section>
+
       {/* Dispatches — editorial spread, no card containers */}
       <section style={{ padding: 'clamp(4.5rem, 8vw, 7rem) 2.5rem 4rem', maxWidth: '1280px', margin: '0 auto' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', flexWrap: 'wrap', gap: '1rem', marginBottom: '2.75rem' }}>
@@ -236,56 +280,6 @@ const HomePage = () => {
                   </div>
                 </a>
               </React.Fragment>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* The Atlas — bespoke, left-aligned dark beat (no dot grid, no centered band) */}
-      <section style={{ background: ink, color: paper, padding: 'clamp(4.5rem, 9vw, 8rem) 2.5rem' }}>
-        <div style={{ maxWidth: '1280px', margin: '0 auto', display: 'grid', gridTemplateColumns: 'minmax(0, 1fr)', gap: '1.5rem' }}>
-          <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2.4rem, 6vw, 5rem)', lineHeight: .98, letterSpacing: '-.02em', margin: 0, maxWidth: '16ch', color: paper }}>
-            Traverse the globe by plate, not by passport.
-          </h2>
-          <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', color: '#CFC9BD', maxWidth: '560px', lineHeight: 1.6, margin: '.4rem 0 1rem' }}>
-            An interactive cartography of all 12,650 tables — from Tokyo to Tasmania, Lima to Ljubljana.
-          </p>
-          <a href="/map" onClick={(e) => { e.preventDefault(); navigate('/map'); }} className="epi-cta-underline"
-            style={{ fontFamily: sans, fontSize: '12px', letterSpacing: '.32em', textTransform: 'uppercase', color: paper, textDecoration: 'none', width: 'fit-content' }}>
-            Open the Atlas →
-          </a>
-        </div>
-      </section>
-
-      {/* Colophon + figures */}
-      <section style={{ padding: 'clamp(4.5rem, 8vw, 7rem) 2.5rem', maxWidth: '1280px', margin: '0 auto' }}>
-        <div className="epi-about-row" style={{ display: 'flex', gap: 'clamp(3rem, 6vw, 6rem)', alignItems: 'flex-start' }}>
-          <div style={{ flex: 1.3 }}>
-            <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2rem, 3.4vw, 3rem)', letterSpacing: '-.015em', lineHeight: 1.06, margin: '0 0 1.6rem', color: ink }}>
-              On the method.
-            </h2>
-            <p style={{ fontFamily: body, fontSize: 'clamp(1.1rem, 1.5vw, 1.22rem)', lineHeight: 1.72, color: inkSoft, margin: 0 }}>
-              <span style={{ fontFamily: serif, fontSize: '4.6rem', float: 'left', lineHeight: .72, paddingRight: '.55rem', paddingTop: '.4rem', color: ink, fontWeight: 500 }}>W</span>
-              elcome to The Epicurean — a guide for seeking the finest dining on earth, curated from over a hundred authoritative sources and reconciled into a single hierarchy. Our mission is to connect the discerning with the exceptional: the temples, the secrets, and every remarkable table in between.
-            </p>
-            <a href="/methodology" onClick={(e) => { e.preventDefault(); navigate('/methodology'); }} className="epi-cta-underline"
-              style={{ display: 'inline-block', marginTop: '1.9rem', fontFamily: sans, fontSize: '11px', letterSpacing: '.3em', textTransform: 'uppercase', color: ink, textDecoration: 'none' }}>
-              Our methodology →
-            </a>
-          </div>
-
-          <div ref={countersRef} style={{ flex: 1, display: 'flex', flexDirection: 'column', gap: '0' }}>
-            {[
-              { label: 'Restaurants', value: counters.restaurants, suffix: '' },
-              { label: 'Cities', value: counters.cities, suffix: '' },
-              { label: 'Countries', value: counters.countries, suffix: '' },
-            ].map((s, i) => (
-              <div key={s.label} style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', padding: '1.5rem 0', borderTop: i === 0 ? 'none' : `1px solid ${rule}` }}>
-                <span style={{ fontFamily: sans, fontSize: '12px', letterSpacing: '.3em', textTransform: 'uppercase', color: inkSoft }}>{s.label}</span>
-                <span style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2.6rem, 4.5vw, 4rem)', lineHeight: 1, color: ink, letterSpacing: '-.02em', fontVariantNumeric: 'lining-nums tabular-nums' }}>
-                  {s.value.toLocaleString()}<span style={{ color: gold }}>{s.suffix}</span>
-                </span>
-              </div>
             ))}
           </div>
         </div>

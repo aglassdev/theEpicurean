@@ -233,6 +233,13 @@ const stats = { total: records.length, michelin: michelin.length, worldsBest: wo
   afternoon: afternoon.length, pagesExisting: 0, pagesNew: 0, cities: new Set(), dcNew: 0, geo: 0 };
 
 const pagesToWrite = [];   // { file, json }
+// Rows the sources get wrong badly enough that plotting them misleads. Keyed by
+// "name|city" as the dataset spells it.
+//   Little Washington — a 2002 World's 50 Best entry for The Inn at Little
+//   Washington, VA, carrying the Washington *State* centroid and no address or
+//   website. The Inn is already in the guide at its real coordinates.
+const REJECT = new Set(['little washington|washington']);
+
 const cityIndex = new Map(); // dir → { title, restaurants[] }
 const geoEntries = [];
 
@@ -270,6 +277,7 @@ for (const r of records) {
     cityIndex.get(relDir).restaurants.push({ name: r.name, cuisine: r.cuisine, price: r.price, path: route });
   }
   stats.cities.add(relDir);
+  if (REJECT.has(`${r.name}|${r.cityDisplay}`.toLowerCase())) continue;
   geoEntries.push({ n: r.name, a: r.address, c: r.cityDisplay, co: r.countryDisplay,
     w: r.website, lng: +r.lng.toFixed(6), lat: +r.lat.toFixed(6), p: route });
 }

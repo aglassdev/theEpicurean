@@ -79,25 +79,6 @@ const RestaurantPage = ({
               </p>
             )}
 
-            {awards && awards.length > 0 && (
-              <div style={{ marginTop: 'clamp(2.5rem, 5vw, 3.5rem)' }}>
-                <SmallCaps>Distinctions</SmallCaps>
-                <div style={{ marginTop: '1.1rem', borderTop: `1px solid ${rule}` }}>
-                  {awards.map((a, i) => (
-                    <div key={i} style={{ display: 'flex', alignItems: 'center', gap: '1rem', padding: '.95rem 0', borderBottom: `1px solid ${rule}` }}>
-                      <span style={{ display: 'flex', alignItems: 'center', minWidth: '30px' }}>
-                        {isMichelin(a.name) ? michelin(a.count)
-                          : a.image ? <img src={a.image} alt="" aria-hidden width="24" height="24" style={{ objectFit: 'contain' }} /> : null}
-                      </span>
-                      <span style={{ fontFamily: serif, fontWeight: 500, fontSize: '1.2rem', color: ink, flex: 1, letterSpacing: '-.005em' }}>{a.name}</span>
-                      <span style={{ fontFamily: sans, fontSize: '10px', letterSpacing: '.24em', textTransform: 'uppercase', color: inkMute, whiteSpace: 'nowrap' }}>
-                        {[a.organization, a.year].filter(Boolean).join(' · ')}
-                      </span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
           </div>
 
           {/* Right — actions, notes, hours */}
@@ -155,6 +136,40 @@ const RestaurantPage = ({
             )}
           </aside>
         </div>
+
+        {/* Distinctions — full page width, two across. An odd count leaves the last
+            one spanning both columns rather than a half-empty row. */}
+        {awards && awards.length > 0 && (
+          <div style={{ marginTop: 'clamp(3rem, 6vw, 4.5rem)' }}>
+            <SmallCaps>Distinctions</SmallCaps>
+            <div className="epi-distinctions" style={{
+              marginTop: '1.1rem', display: 'grid',
+              gridTemplateColumns: 'repeat(2, minmax(0, 1fr))',
+              columnGap: 'clamp(2rem, 4vw, 3.5rem)',
+              borderTop: `1px solid ${rule}`,
+            }}>
+              {awards.map((a, i) => (
+                <div
+                  key={i}
+                  style={{
+                    gridColumn: i === awards.length - 1 && awards.length % 2 === 1 ? '1 / -1' : 'auto',
+                    display: 'flex', alignItems: 'center', gap: '1rem',
+                    padding: '.95rem .1rem', borderBottom: `1px solid ${rule}`,
+                  }}
+                >
+                  <span style={{ display: 'flex', alignItems: 'center', minWidth: '30px' }}>
+                    {isMichelin(a.name) ? michelin(a.count)
+                      : a.image ? <img src={a.image} alt="" aria-hidden width="24" height="24" style={{ objectFit: 'contain' }} /> : null}
+                  </span>
+                  <span style={{ fontFamily: serif, fontWeight: 500, fontSize: '1.2rem', color: ink, flex: 1, letterSpacing: '-.005em' }}>{a.name}</span>
+                  <span style={{ fontFamily: sans, fontSize: '10px', letterSpacing: '.24em', textTransform: 'uppercase', color: inkMute, whiteSpace: 'nowrap' }}>
+                    {[a.organization, a.year].filter(Boolean).join(' · ')}
+                  </span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
 
         {showMap && (
           <div style={{ marginTop: 'clamp(3rem, 6vw, 4.5rem)', border: `1px solid ${rule}` }}>
