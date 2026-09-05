@@ -1,14 +1,21 @@
 {
   "title": "Ksnacht",
-  "country": "switzerland",
-  "region": "ksnacht",
-  "city": "ksnacht",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "ksnacht",
+  "city": "Ksnacht",
+  "citySlug": "ksnacht",
+  "path": "/switzerland/ksnacht/ksnacht/restaurants",
+  "canonicalPath": "/switzerland/ksnacht/ksnacht/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "RICO'S",
       "cuisine": "Mediterranean Cuisine, French Contemporary",
       "price": "€€€€",
-      "path": "/switzerland/ksnacht/ksnacht/ricos"
+      "path": "/switzerland/ksnacht/ksnacht/ricos",
+      "award": "★"
     }
   ]
 }

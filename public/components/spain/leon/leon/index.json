@@ -1,9 +1,29 @@
 {
   "title": "Leon",
-  "country": "spain",
-  "region": "leon",
-  "city": "leon",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "leon",
+  "city": "Leon",
+  "citySlug": "leon",
+  "path": "/spain/leon/leon/restaurants",
+  "canonicalPath": "/spain/leon/leon/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Cocinandos",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/leon/leon/cocinandos",
+      "award": "★"
+    },
+    {
+      "name": "Pablo",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/leon/leon/pablo",
+      "award": "★"
+    },
     {
       "name": "Becook",
       "cuisine": "Fusion, Modern Cuisine",
@@ -15,12 +35,6 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/leon/leon/carea-bistr"
-    },
-    {
-      "name": "Cocinandos",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/leon/leon/cocinandos"
     },
     {
       "name": "ConMimo",
@@ -39,12 +53,6 @@
       "cuisine": "Farm to table, Meats and Seafood",
       "price": "€€",
       "path": "/spain/leon/leon/marcela"
-    },
-    {
-      "name": "Pablo",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/leon/leon/pablo"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Zele",
-  "country": "belgium",
-  "region": "zele",
-  "city": "zele",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "zele",
+  "city": "Zele",
+  "citySlug": "zele",
+  "path": "/belgium/zele/zele/restaurants",
+  "canonicalPath": "/belgium/zele/zele/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fleur de Lin",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/belgium/zele/zele/fleur-de-lin"
+      "path": "/belgium/zele/zele/fleur-de-lin",
+      "award": "★"
     }
   ]
 }

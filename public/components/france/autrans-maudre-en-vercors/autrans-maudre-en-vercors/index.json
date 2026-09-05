@@ -1,20 +1,27 @@
 {
   "title": "Autrans Maudre En Vercors",
-  "country": "france",
-  "region": "autrans-maudre-en-vercors",
-  "city": "autrans-maudre-en-vercors",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "autrans-maudre-en-vercors",
+  "city": "Autrans Maudre En Vercors",
+  "citySlug": "autrans-maudre-en-vercors",
+  "path": "/france/autrans-maudre-en-vercors/autrans-maudre-en-vercors/restaurants",
+  "canonicalPath": "/france/autrans-maudre-en-vercors/autrans-maudre-en-vercors/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Les Tilleuls",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/autrans-maudre-en-vercors/autrans-maudre-en-vercors/les-tilleuls"
-    },
     {
       "name": "Palégrié Chez l'Henri",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
-      "path": "/france/autrans-maudre-en-vercors/autrans-maudre-en-vercors/palgri-chez-lhenri"
+      "path": "/france/autrans-maudre-en-vercors/autrans-maudre-en-vercors/palgri-chez-lhenri",
+      "award": "★"
+    },
+    {
+      "name": "Les Tilleuls",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/autrans-maudre-en-vercors/autrans-maudre-en-vercors/les-tilleuls-a-u-t"
     }
   ]
 }

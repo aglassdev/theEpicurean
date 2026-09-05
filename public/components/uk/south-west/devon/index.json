@@ -1,83 +1,92 @@
 {
   "title": "Devon",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South West",
+  "regionSlug": "south-west",
+  "city": "Devon",
+  "citySlug": "devon",
+  "path": "/uk/south-west/devon/restaurants",
+  "canonicalPath": "/uk/south-west/devon/restaurants",
+  "count": 13,
   "restaurants": [
     {
-      "name": "Bovey Castle",
+      "name": "Bickleigh Castle",
       "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/south-west/devon/BoveyCastle"
+      "price": "25.00",
+      "path": "/uk/south-west/devon/bickleigh-castle"
     },
     {
       "name": "Boringdon Hall Hotel",
       "cuisine": "Afternoon Tea",
       "price": "32.00",
-      "path": "/uk/south-west/devon/BoringdonHallHotel"
+      "path": "/uk/south-west/devon/boringdon-hall-hotel"
     },
     {
-      "name": "Bickleigh Castle",
+      "name": "Bovey Castle",
       "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/south-west/devon/BickleighCastle"
-    },
-    {
-      "name": "The Bedford Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "19.95",
-      "path": "/uk/south-west/devon/TheBedfordHotel"
-    },
-    {
-      "name": "Two Bridges Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "16.50",
-      "path": "/uk/south-west/devon/TwoBridgesHotel"
-    },
-    {
-      "name": "Tiverton Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/south-west/devon/TivertonHotel"
-    },
-    {
-      "name": "Northcote Manor Country House",
-      "cuisine": "Afternoon Tea",
-      "price": "39.00",
-      "path": "/uk/south-west/devon/NorthcoteManorCountryHouse"
-    },
-    {
-      "name": "Mercure Exeter Southgate Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "29.00",
-      "path": "/uk/south-west/devon/MercureExeterSouthgateHotel"
-    },
-    {
-      "name": "Lewtrenchard Manor",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/south-west/devon/LewtrenchardManor"
-    },
-    {
-      "name": "The Ivy Exeter",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/south-west/devon/TheIvyExeter"
-    },
-    {
-      "name": "The Hotel Riviera",
-      "cuisine": "Afternoon Tea",
-      "price": "26.95",
-      "path": "/uk/south-west/devon/TheHotelRiviera"
-    },
-    {
-      "name": "Hotel du Vin Exeter",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/south-west/devon/HotelDuVinExeter"
+      "price": "40.00",
+      "path": "/uk/south-west/devon/bovey-castle"
     },
     {
       "name": "Gidleigh Park Hotel",
       "cuisine": "Afternoon Tea",
       "price": "52.00",
-      "path": "/uk/south-west/devon/GidleighParkHotel"
+      "path": "/uk/south-west/devon/gidleigh-park-hotel"
+    },
+    {
+      "name": "Hotel du Vin Exeter",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/south-west/devon/hotel-du-vin-exeter"
+    },
+    {
+      "name": "Lewtrenchard Manor",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/south-west/devon/lewtrenchard-manor"
+    },
+    {
+      "name": "Mercure Exeter Southgate Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "29.00",
+      "path": "/uk/south-west/devon/mercure-exeter-southgate-hotel"
+    },
+    {
+      "name": "Northcote Manor Country House",
+      "cuisine": "Afternoon Tea",
+      "price": "39.00",
+      "path": "/uk/south-west/devon/northcote-manor-country-house"
+    },
+    {
+      "name": "The Bedford Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "19.95",
+      "path": "/uk/south-west/devon/the-bedford-hotel"
+    },
+    {
+      "name": "The Hotel Riviera",
+      "cuisine": "Afternoon Tea",
+      "price": "26.95",
+      "path": "/uk/south-west/devon/the-hotel-riviera"
+    },
+    {
+      "name": "The Ivy Exeter",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/south-west/devon/the-ivy-exeter"
+    },
+    {
+      "name": "Tiverton Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/south-west/devon/tiverton-hotel"
+    },
+    {
+      "name": "Two Bridges Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "16.50",
+      "path": "/uk/south-west/devon/two-bridges-hotel"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Ambert",
-  "country": "france",
-  "region": "ambert",
-  "city": "ambert",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ambert",
+  "city": "Ambert",
+  "citySlug": "ambert",
+  "path": "/france/ambert/ambert/restaurants",
+  "canonicalPath": "/france/ambert/ambert/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le M",

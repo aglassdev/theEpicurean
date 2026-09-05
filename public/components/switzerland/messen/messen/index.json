@@ -1,6 +1,21 @@
 {
   "title": "Messen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "messen",
+  "city": "Messen",
+  "citySlug": "messen",
+  "path": "/switzerland/messen/messen/restaurants",
+  "canonicalPath": "/switzerland/messen/messen/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Löwen",
+      "cuisine": "Contemporary, Regional Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/messen/messen/lwen-m-e-s"
+    },
     {
       "name": "Löwen Gourmet",
       "cuisine": "Contemporary, Regional Cuisine",
@@ -8,16 +23,10 @@
       "path": "/switzerland/messen/messen/lwen-gourmet"
     },
     {
-      "name": "Löwen",
-      "cuisine": "Contemporary, Regional Cuisine",
-      "price": "€€€",
-      "path": "/switzerland/messen/messen/lwen"
-    },
-    {
       "name": "Löwen Messen - Die Land Brasserie",
       "cuisine": "Farm to table",
       "price": "$$",
-      "path": "/switzerland/messen/messen/LwenMessenDieLandBrasserie"
+      "path": "/switzerland/messen/messen/lwen-messen-die-land-brasserie"
     }
   ]
 }

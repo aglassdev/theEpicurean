@@ -1,11 +1,139 @@
 {
   "title": "Monaco",
+  "country": "Monaco",
+  "countrySlug": "principality-of-monaco",
+  "region": null,
+  "regionSlug": "monaco",
+  "city": "Monaco",
+  "citySlug": "monaco",
+  "path": "/principality-of-monaco/monaco/monaco/restaurants",
+  "canonicalPath": "/monaco/monaco/monaco/restaurants",
+  "count": 19,
   "restaurants": [
+    {
+      "name": "Le Louis XV - Alain Ducasse à l'Hôtel de Paris",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/monaco/monaco/monaco/le-louis-xv-alain-ducasse-lhtel-de-paris",
+      "award": "★★★"
+    },
+    {
+      "name": "Blue Bay Marcel Ravin",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/monaco/monaco/monaco/blue-bay-marcel-ravin",
+      "award": "★★"
+    },
+    {
+      "name": "L'Abysse Monte-Carlo",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/monaco/monaco/monaco/labysse-montecarlo",
+      "award": "★★"
+    },
+    {
+      "name": "Les Ambassadeurs by Christophe Cussac",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/monaco/monaco/monaco/les-ambassadeurs-by-christophe-cussac",
+      "award": "★★"
+    },
+    {
+      "name": "Elsa Marcel Ravin",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/monaco/monaco/monaco/elsa-marcel-ravin",
+      "award": "★"
+    },
+    {
+      "name": "La Table d'Antonio Salvatore au Rampoldi",
+      "cuisine": "Italian, Creative",
+      "price": "€€€€",
+      "path": "/monaco/monaco/monaco/la-table-dantonio-salvatore-au-rampoldi",
+      "award": "★"
+    },
+    {
+      "name": "Le Grill",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/monaco/monaco/monaco/le-grill",
+      "award": "★"
+    },
+    {
+      "name": "Pavyllon Monte-Carlo, un restaurant de Yannick Alléno",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/monaco/monaco/monaco/pavyllon-montecarlo-un-restaurant-de-yannick-allno",
+      "award": "★"
+    },
     {
       "name": "Robuchon Monaco",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/principality-of-monaco/monaco/monaco/RobuchonMonaco"
+      "path": "/principality-of-monaco/monaco/monaco/robuchon-monaco",
+      "award": "★"
+    },
+    {
+      "name": "Hotel de Paris",
+      "cuisine": "",
+      "price": "",
+      "path": "/monaco/monaco/monaco/hotel-de-paris",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Le Louis XV",
+      "cuisine": "",
+      "price": "",
+      "path": "/monaco/monaco/monaco/le-louis-xv",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Beefbar",
+      "cuisine": "Meats and Grills",
+      "price": "€€€",
+      "path": "/monaco/monaco/monaco/beefbar-m-o-n"
+    },
+    {
+      "name": "Café de Paris",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/monaco/monaco/monaco/caf-de-paris"
+    },
+    {
+      "name": "Em Sherif",
+      "cuisine": "Lebanese",
+      "price": "€€€€",
+      "path": "/monaco/monaco/monaco/em-sherif"
+    },
+    {
+      "name": "La Table d'Élise",
+      "cuisine": "Traditional Cuisine, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/monaco/monaco/monaco/la-table-dlise"
+    },
+    {
+      "name": "Marius",
+      "cuisine": "Provençal",
+      "price": "€€€",
+      "path": "/monaco/monaco/monaco/marius"
+    },
+    {
+      "name": "Song Qi",
+      "cuisine": "Asian, Chinese",
+      "price": "€€€",
+      "path": "/monaco/monaco/monaco/song-qi"
+    },
+    {
+      "name": "Yoshi",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/monaco/monaco/monaco/yoshi"
+    },
+    {
+      "name": "Zeffirino",
+      "cuisine": "Italian",
+      "price": "€€€",
+      "path": "/monaco/monaco/monaco/zeffirino-m-o-n"
     }
   ]
 }

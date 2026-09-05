@@ -1,8 +1,14 @@
 {
   "title": "Hedorf",
-  "country": "germany",
-  "region": "hedorf",
-  "city": "hedorf",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hedorf",
+  "city": "Hedorf",
+  "citySlug": "hedorf",
+  "path": "/germany/hedorf/hedorf/restaurants",
+  "canonicalPath": "/germany/hedorf/hedorf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Wirtschaft von Johann Gerner",

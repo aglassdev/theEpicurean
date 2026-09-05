@@ -1,14 +1,20 @@
 {
   "title": "Sankt Niklausen",
-  "country": "switzerland",
-  "region": "sankt-niklausen",
-  "city": "sankt-niklausen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "sankt-niklausen",
+  "city": "Sankt Niklausen",
+  "citySlug": "sankt-niklausen",
+  "path": "/switzerland/sankt-niklausen/sankt-niklausen/restaurants",
+  "canonicalPath": "/switzerland/sankt-niklausen/sankt-niklausen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Alpenblick",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/switzerland/sankt-niklausen/sankt-niklausen/alpenblick"
+      "path": "/switzerland/sankt-niklausen/sankt-niklausen/alpenblick-s-a-n"
     }
   ]
 }

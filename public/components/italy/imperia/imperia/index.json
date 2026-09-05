@@ -1,20 +1,27 @@
 {
   "title": "Imperia",
-  "country": "italy",
-  "region": "imperia",
-  "city": "imperia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "imperia",
+  "city": "Imperia",
+  "citySlug": "imperia",
+  "path": "/italy/imperia/imperia/restaurants",
+  "canonicalPath": "/italy/imperia/imperia/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Sarri",
+      "cuisine": "Seafood, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/imperia/imperia/sarri",
+      "award": "★"
+    },
     {
       "name": "Osteria Didù",
       "cuisine": "Seafood, Ligurian",
       "price": "€",
       "path": "/italy/imperia/imperia/osteria-did"
-    },
-    {
-      "name": "Sarri",
-      "cuisine": "Seafood, Modern Cuisine",
-      "price": "€€€",
-      "path": "/italy/imperia/imperia/sarri"
     }
   ]
 }

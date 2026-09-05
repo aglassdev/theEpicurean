@@ -1,14 +1,21 @@
 {
   "title": "Hilvarenbeek",
-  "country": "netherlands",
-  "region": "hilvarenbeek",
-  "city": "hilvarenbeek",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "hilvarenbeek",
+  "city": "Hilvarenbeek",
+  "citySlug": "hilvarenbeek",
+  "path": "/netherlands/hilvarenbeek/hilvarenbeek/restaurants",
+  "canonicalPath": "/netherlands/hilvarenbeek/hilvarenbeek/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pikaar",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/netherlands/hilvarenbeek/hilvarenbeek/pikaar"
+      "path": "/netherlands/hilvarenbeek/hilvarenbeek/pikaar",
+      "award": "★"
     }
   ]
 }

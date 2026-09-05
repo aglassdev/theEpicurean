@@ -1,0 +1,28 @@
+{
+  "title": "Elk",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Elk",
+  "citySlug": "elk",
+  "path": "/usa/other/elk/restaurants",
+  "canonicalPath": "/usa/california/elk/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Harbor House",
+      "cuisine": "Californian, Creative",
+      "price": "$$$$",
+      "path": "/usa/california/elk/harbor-house",
+      "award": "★★"
+    },
+    {
+      "name": "Harbor House Inn",
+      "cuisine": "Californian",
+      "price": "$$$$",
+      "path": "/usa/california/elk/harbor-house-inn",
+      "award": "★★"
+    }
+  ]
+}

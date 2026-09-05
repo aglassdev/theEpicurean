@@ -1,5 +1,14 @@
 {
   "title": "Granville",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "granville",
+  "city": "Granville",
+  "citySlug": "granville",
+  "path": "/france/granville/granville/restaurants",
+  "canonicalPath": "/france/granville/granville/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Edulis - Jonathan Datin",
@@ -11,7 +20,7 @@
       "name": "Loca Café",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/granville/granville/LocaCaf"
+      "path": "/france/granville/granville/loca-caf"
     }
   ]
 }

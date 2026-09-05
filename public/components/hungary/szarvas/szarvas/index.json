@@ -1,8 +1,14 @@
 {
   "title": "Szarvas",
-  "country": "hungary",
-  "region": "szarvas",
-  "city": "szarvas",
+  "country": "Hungary",
+  "countrySlug": "hungary",
+  "region": null,
+  "regionSlug": "szarvas",
+  "city": "Szarvas",
+  "citySlug": "szarvas",
+  "path": "/hungary/szarvas/szarvas/restaurants",
+  "canonicalPath": "/hungary/szarvas/szarvas/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Újváros Bisztró",

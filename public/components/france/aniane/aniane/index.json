@@ -1,5 +1,14 @@
 {
   "title": "Aniane",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "aniane",
+  "city": "Aniane",
+  "citySlug": "aniane",
+  "path": "/france/aniane/aniane/restaurants",
+  "canonicalPath": "/france/aniane/aniane/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "SouKa",
@@ -11,7 +20,7 @@
       "name": "Souka - Bistrot des Vins",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/aniane/aniane/SoukaBistrotDesVins"
+      "path": "/france/aniane/aniane/souka-bistrot-des-vins"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "title": "Beda",
-  "country": "spain",
-  "region": "beda",
-  "city": "beda",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "beda",
+  "city": "Beda",
+  "citySlug": "beda",
+  "path": "/spain/beda/beda/restaurants",
+  "canonicalPath": "/spain/beda/beda/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Cantina La Estación",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/spain/beda/beda/cantina-la-estacin"
-    },
-    {
-      "name": "Cibus",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/spain/beda/beda/cibus"
     },
     {
       "name": "Cibus",

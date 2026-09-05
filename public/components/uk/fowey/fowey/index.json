@@ -1,8 +1,14 @@
 {
   "title": "Fowey",
-  "country": "uk",
-  "region": "fowey",
-  "city": "fowey",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "fowey",
+  "city": "Fowey",
+  "citySlug": "fowey",
+  "path": "/uk/fowey/fowey/restaurants",
+  "canonicalPath": "/uk/fowey/fowey/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Narla",

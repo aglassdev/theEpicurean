@@ -1,23 +1,34 @@
 {
-  "title": "Chiclana De La Frontera",
+  "title": "Chiclana de la Frontera",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "chiclana-de-la-frontera",
+  "city": "Chiclana de la Frontera",
+  "citySlug": "chiclana-de-la-frontera",
+  "path": "/spain/chiclana-de-la-frontera/chiclana-de-la-frontera/restaurants",
+  "canonicalPath": "/spain/chiclana-de-la-frontera/chiclana-de-la-frontera/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Alevante",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/chiclana-de-la-frontera/chiclana-de-la-frontera/alevante"
+      "path": "/spain/chiclana-de-la-frontera/chiclana-de-la-frontera/alevante",
+      "award": "★★"
+    },
+    {
+      "name": "Alevante by Ángel León",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/spain/chiclana-de-la-frontera/chiclana-de-la-frontera/alevante-by-ngel-len",
+      "award": "★★"
     },
     {
       "name": "Cataria",
       "cuisine": "Seafood, Grills",
       "price": "€€€",
       "path": "/spain/chiclana-de-la-frontera/chiclana-de-la-frontera/cataria"
-    },
-    {
-      "name": "Alevante by Ángel León",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/spain/chiclana-de-la-frontera/chiclana-de-la-frontera/AlevanteByNgelLen"
     }
   ]
 }

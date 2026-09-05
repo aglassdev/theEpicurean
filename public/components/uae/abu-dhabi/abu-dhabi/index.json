@@ -1,263 +1,282 @@
 {
   "title": "Abu Dhabi",
+  "country": "United Arab Emirates",
+  "countrySlug": "uae",
+  "region": null,
+  "regionSlug": "abu-dhabi",
+  "city": "Abu Dhabi",
+  "citySlug": "abu-dhabi",
+  "path": "/uae/abu-dhabi/abu-dhabi/restaurants",
+  "canonicalPath": "/uae/abu-dhabi/abu-dhabi/restaurants",
+  "count": 43,
   "restaurants": [
     {
       "name": "Erth",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Erth"
+      "path": "/uae/abu-dhabi/abu-dhabi/erth",
+      "award": "★"
     },
     {
       "name": "Talea by Antonio Guida",
       "cuisine": "Italian",
       "price": "$$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/TaleaByAntonioGuida"
+      "path": "/uae/abu-dhabi/abu-dhabi/talea-by-antonio-guida",
+      "award": "★"
     },
     {
       "name": "3Fils Abu Dhabi",
       "cuisine": "Japanese Contemporary",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/3filsAbuDhabi"
+      "path": "/uae/abu-dhabi/abu-dhabi/3fils-abu-dhabi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Al Mrzab",
       "cuisine": "Emirati Cuisine",
       "price": "$",
-      "path": "/uae/abu-dhabi/abu-dhabi/AlMrzab"
+      "path": "/uae/abu-dhabi/abu-dhabi/al-mrzab",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Almayass",
       "cuisine": "Lebanese",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Almayass"
+      "path": "/uae/abu-dhabi/abu-dhabi/almayass",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Beirut Sur Mer",
       "cuisine": "Lebanese",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/BeirutSurMer"
+      "path": "/uae/abu-dhabi/abu-dhabi/beirut-sur-mer",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Bua Thai Cafe",
       "cuisine": "Thai",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/BuaThaiCafe"
+      "path": "/uae/abu-dhabi/abu-dhabi/bua-thai-cafe",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Mika",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Mika"
+      "path": "/uae/abu-dhabi/abu-dhabi/mika",
+      "award": "Bib Gourmand"
     },
     {
       "name": "ryba",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Ryba"
+      "path": "/uae/abu-dhabi/abu-dhabi/ryba",
+      "award": "Bib Gourmand"
     },
     {
       "name": "ťazal",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Azal"
+      "path": "/uae/abu-dhabi/abu-dhabi/azal",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Al Farah",
       "cuisine": "Middle Eastern",
       "price": "$",
-      "path": "/uae/abu-dhabi/abu-dhabi/AlFarah"
+      "path": "/uae/abu-dhabi/abu-dhabi/al-farah"
     },
     {
       "name": "Antonia",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Antonia"
+      "path": "/uae/abu-dhabi/abu-dhabi/antonia"
     },
     {
       "name": "Bord' Eau by Nicolas Isnard",
       "cuisine": "French",
       "price": "$$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/BordEauByNicolasIsnard"
+      "path": "/uae/abu-dhabi/abu-dhabi/bord-eau-by-nicolas-isnard"
     },
     {
       "name": "Broadway",
       "cuisine": "Classic Cuisine",
       "price": "$$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Broadway"
+      "path": "/uae/abu-dhabi/abu-dhabi/broadway"
     },
     {
       "name": "Butcher & Still",
       "cuisine": "Meats and Grills",
       "price": "$$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/ButcherStill"
+      "path": "/uae/abu-dhabi/abu-dhabi/butcher-still"
     },
     {
       "name": "Byblos Sur Mer",
       "cuisine": "Lebanese",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/ByblosSurMer"
+      "path": "/uae/abu-dhabi/abu-dhabi/byblos-sur-mer"
     },
     {
       "name": "Cafe Milano",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/CafeMilano"
+      "path": "/uae/abu-dhabi/abu-dhabi/cafe-milano"
     },
     {
       "name": "Catch at St. Regis",
       "cuisine": "Seafood",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/CatchAtStRegis"
+      "path": "/uae/abu-dhabi/abu-dhabi/catch-at-st-regis"
     },
     {
       "name": "Cipriani Dolci",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/CiprianiDolci"
+      "path": "/uae/abu-dhabi/abu-dhabi/cipriani-dolci"
     },
     {
       "name": "Dai Pai Dong",
       "cuisine": "Chinese",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/DaiPaiDong"
+      "path": "/uae/abu-dhabi/abu-dhabi/dai-pai-dong"
     },
     {
       "name": "Em Sherif Sea Café",
       "cuisine": "Lebanese",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/EmSherifSeaCaf"
+      "path": "/uae/abu-dhabi/abu-dhabi/em-sherif-sea-caf"
     },
     {
       "name": "Finz",
       "cuisine": "Seafood",
       "price": "$$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Finz"
+      "path": "/uae/abu-dhabi/abu-dhabi/finz"
     },
     {
       "name": "Grand Beirut",
       "cuisine": "Lebanese",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/GrandBeirut"
+      "path": "/uae/abu-dhabi/abu-dhabi/grand-beirut"
     },
     {
       "name": "José by Pizarro",
       "cuisine": "Spanish",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/JosByPizarro"
+      "path": "/uae/abu-dhabi/abu-dhabi/jos-by-pizarro"
     },
     {
       "name": "Kopitiam by Chandy's",
       "cuisine": "Malaysian",
       "price": "$",
-      "path": "/uae/abu-dhabi/abu-dhabi/KopitiamByChandys"
+      "path": "/uae/abu-dhabi/abu-dhabi/kopitiam-by-chandys"
     },
     {
       "name": "Li Beirut",
       "cuisine": "Lebanese",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/LiBeirut"
+      "path": "/uae/abu-dhabi/abu-dhabi/li-beirut"
     },
     {
       "name": "Li Jiang",
       "cuisine": "Asian",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/LiJiang"
+      "path": "/uae/abu-dhabi/abu-dhabi/li-jiang"
     },
     {
       "name": "Martabaan by Hemant Oberoi",
       "cuisine": "Indian",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/MartabaanByHemantOberoi"
+      "path": "/uae/abu-dhabi/abu-dhabi/martabaan-by-hemant-oberoi"
     },
     {
       "name": "Meylas",
       "cuisine": "Emirati Cuisine",
       "price": "$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Meylas"
+      "path": "/uae/abu-dhabi/abu-dhabi/meylas"
     },
     {
       "name": "Mijana",
       "cuisine": "Lebanese",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Mijana"
-    },
-    {
-      "name": "NIRI",
-      "cuisine": "Japanese Contemporary",
-      "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Niri"
+      "path": "/uae/abu-dhabi/abu-dhabi/mijana"
     },
     {
       "name": "Namak",
       "cuisine": "Indian",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Namak"
+      "path": "/uae/abu-dhabi/abu-dhabi/namak"
+    },
+    {
+      "name": "NIRI",
+      "cuisine": "Japanese Contemporary",
+      "price": "$$",
+      "path": "/uae/abu-dhabi/abu-dhabi/niri"
     },
     {
       "name": "Novikov Abu Dhabi",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/NovikovAbuDhabi"
+      "path": "/uae/abu-dhabi/abu-dhabi/novikov-abu-dhabi"
     },
     {
       "name": "Oak Room",
       "cuisine": "Steakhouse",
       "price": "$$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/OakRoom"
+      "path": "/uae/abu-dhabi/abu-dhabi/oak-room"
     },
     {
       "name": "Oii",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Oii"
+      "path": "/uae/abu-dhabi/abu-dhabi/oii"
     },
     {
       "name": "Pincode by Kunal Kapur",
       "cuisine": "Indian",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/PincodeByKunalKapur"
+      "path": "/uae/abu-dhabi/abu-dhabi/pincode-by-kunal-kapur"
     },
     {
       "name": "Ray's Grill",
       "cuisine": "Meats and Grills",
       "price": "$$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/RaysGrill"
+      "path": "/uae/abu-dhabi/abu-dhabi/rays-grill"
     },
     {
       "name": "Sand & Koal",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/SandKoal"
+      "path": "/uae/abu-dhabi/abu-dhabi/sand-koal"
     },
     {
       "name": "Strawfire by Ross Shonhan",
       "cuisine": "Japanese Contemporary",
       "price": "$$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/StrawfireByRossShonhan"
+      "path": "/uae/abu-dhabi/abu-dhabi/strawfire-by-ross-shonhan"
     },
     {
       "name": "Taparelle",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Taparelle"
+      "path": "/uae/abu-dhabi/abu-dhabi/taparelle"
     },
     {
       "name": "Tean",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/Tean"
+      "path": "/uae/abu-dhabi/abu-dhabi/tean"
     },
     {
       "name": "Villa Mamas",
       "cuisine": "Middle Eastern",
       "price": "$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/VillaMamas"
+      "path": "/uae/abu-dhabi/abu-dhabi/villa-mamas"
     },
     {
       "name": "Villa Toscana",
       "cuisine": "Italian",
       "price": "$$$$",
-      "path": "/uae/abu-dhabi/abu-dhabi/VillaToscana"
+      "path": "/uae/abu-dhabi/abu-dhabi/villa-toscana"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Glonn",
-  "country": "germany",
-  "region": "glonn",
-  "city": "glonn",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "glonn",
+  "city": "Glonn",
+  "citySlug": "glonn",
+  "path": "/germany/glonn/glonn/restaurants",
+  "canonicalPath": "/germany/glonn/glonn/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Wirtshaus zum Herrmannsdorfer Schweinsbräu",

@@ -1,8 +1,14 @@
 {
   "title": "Corciano",
-  "country": "italy",
-  "region": "corciano",
-  "city": "corciano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "corciano",
+  "city": "Corciano",
+  "citySlug": "corciano",
+  "path": "/italy/corciano/corciano/restaurants",
+  "canonicalPath": "/italy/corciano/corciano/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "aldìVino",

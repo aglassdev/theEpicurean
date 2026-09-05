@@ -1,14 +1,21 @@
 {
   "title": "De Lutte",
-  "country": "netherlands",
-  "region": "de-lutte",
-  "city": "de-lutte",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "de-lutte",
+  "city": "De Lutte",
+  "citySlug": "de-lutte",
+  "path": "/netherlands/de-lutte/de-lutte/restaurants",
+  "canonicalPath": "/netherlands/de-lutte/de-lutte/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "De Bloemenbeek",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/netherlands/de-lutte/de-lutte/de-bloemenbeek"
+      "path": "/netherlands/de-lutte/de-lutte/de-bloemenbeek",
+      "award": "★"
     },
     {
       "name": "Landgoed de Wilmersberg",

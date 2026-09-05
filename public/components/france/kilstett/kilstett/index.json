@@ -1,8 +1,14 @@
 {
   "title": "Kilstett",
-  "country": "france",
-  "region": "kilstett",
-  "city": "kilstett",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "kilstett",
+  "city": "Kilstett",
+  "citySlug": "kilstett",
+  "path": "/france/kilstett/kilstett/restaurants",
+  "canonicalPath": "/france/kilstett/kilstett/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Cheval Noir",

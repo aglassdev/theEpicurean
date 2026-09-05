@@ -1,14 +1,21 @@
 {
   "title": "Wolphaartsdijk",
-  "country": "netherlands",
-  "region": "wolphaartsdijk",
-  "city": "wolphaartsdijk",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "wolphaartsdijk",
+  "city": "Wolphaartsdijk",
+  "citySlug": "wolphaartsdijk",
+  "path": "/netherlands/wolphaartsdijk/wolphaartsdijk/restaurants",
+  "canonicalPath": "/netherlands/wolphaartsdijk/wolphaartsdijk/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Meliefste",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/netherlands/wolphaartsdijk/wolphaartsdijk/meliefste"
+      "path": "/netherlands/wolphaartsdijk/wolphaartsdijk/meliefste",
+      "award": "★"
     }
   ]
 }

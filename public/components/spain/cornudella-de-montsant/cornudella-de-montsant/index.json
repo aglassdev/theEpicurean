@@ -1,14 +1,21 @@
 {
-  "title": "Cornudella De Montsant",
-  "country": "spain",
-  "region": "cornudella-de-montsant",
-  "city": "cornudella-de-montsant",
+  "title": "Cornudella de Montsant",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "cornudella-de-montsant",
+  "city": "Cornudella de Montsant",
+  "citySlug": "cornudella-de-montsant",
+  "path": "/spain/cornudella-de-montsant/cornudella-de-montsant/restaurants",
+  "canonicalPath": "/spain/cornudella-de-montsant/cornudella-de-montsant/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Quatre Molins",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/cornudella-de-montsant/cornudella-de-montsant/quatre-molins"
+      "path": "/spain/cornudella-de-montsant/cornudella-de-montsant/quatre-molins",
+      "award": "★"
     }
   ]
 }

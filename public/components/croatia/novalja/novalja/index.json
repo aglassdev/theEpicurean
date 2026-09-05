@@ -1,14 +1,21 @@
 {
   "title": "Novalja",
-  "country": "croatia",
-  "region": "novalja",
-  "city": "novalja",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "novalja",
+  "city": "Novalja",
+  "citySlug": "novalja",
+  "path": "/croatia/novalja/novalja/restaurants",
+  "canonicalPath": "/croatia/novalja/novalja/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Boškinac",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/croatia/novalja/novalja/bokinac"
+      "path": "/croatia/novalja/novalja/bokinac",
+      "award": "★"
     }
   ]
 }

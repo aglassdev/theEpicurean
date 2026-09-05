@@ -1,6 +1,22 @@
 {
   "title": "Arles",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "arles",
+  "city": "Arles",
+  "citySlug": "arles",
+  "path": "/france/arles/arles/restaurants",
+  "canonicalPath": "/france/arles/arles/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "La Chassagnette",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/arles/arles/la-chassagnette",
+      "award": "★"
+    },
     {
       "name": "Chardon",
       "cuisine": "Modern Cuisine",
@@ -18,12 +34,6 @@
       "cuisine": "Fusion, Creative",
       "price": "€€€",
       "path": "/france/arles/arles/inari"
-    },
-    {
-      "name": "La Chassagnette",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/arles/arles/la-chassagnette"
     },
     {
       "name": "L'Arlatan",
@@ -53,7 +63,7 @@
       "name": "Restaurant du Grand Hôtel Nord-Pinus",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/france/arles/arles/RestaurantDuGrandHtelNordpinus"
+      "path": "/france/arles/arles/restaurant-du-grand-htel-nordpinus"
     }
   ]
 }

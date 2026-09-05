@@ -1,20 +1,55 @@
 {
-  "title": "Freiburg Im Breisgau",
-  "country": "germany",
-  "region": "freiburg-im-breisgau",
-  "city": "freiburg-im-breisgau",
+  "title": "Freiburg im Breisgau",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "freiburg-im-breisgau",
+  "city": "Freiburg im Breisgau",
+  "citySlug": "freiburg-im-breisgau",
+  "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/restaurants",
+  "canonicalPath": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/restaurants",
+  "count": 11,
   "restaurants": [
-    {
-      "name": "Basho-An",
-      "cuisine": "Japanese, Sushi",
-      "price": "€€",
-      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/basho-an"
-    },
     {
       "name": "Colombi Restaurant Zirbelstube",
       "cuisine": "Classic French, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/colombi-restaurant-zirbelstube"
+      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/colombi-restaurant-zirbelstube",
+      "award": "★"
+    },
+    {
+      "name": "Eichhalde",
+      "cuisine": "Italian, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/eichhalde",
+      "award": "★"
+    },
+    {
+      "name": "Hawara",
+      "cuisine": "Modern Cuisine, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/hawara",
+      "award": "★"
+    },
+    {
+      "name": "Jacobi",
+      "cuisine": "Innovative",
+      "price": "€€€€",
+      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/jacobi",
+      "award": "★"
+    },
+    {
+      "name": "Zur Wolfshöhle",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/zur-wolfshhle",
+      "award": "★"
+    },
+    {
+      "name": "Basho-An",
+      "cuisine": "Japanese, Sushi",
+      "price": "€€",
+      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/bashoan"
     },
     {
       "name": "Drexlers",
@@ -23,28 +58,10 @@
       "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/drexlers"
     },
     {
-      "name": "Eichhalde",
-      "cuisine": "Italian, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/eichhalde"
-    },
-    {
-      "name": "Hawara",
-      "cuisine": "Modern Cuisine, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/hawara"
-    },
-    {
       "name": "Hirschen",
       "cuisine": "Farm to table",
       "price": "€€€",
-      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/hirschen"
-    },
-    {
-      "name": "Jacobi",
-      "cuisine": "Innovative",
-      "price": "€€€€",
-      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/jacobi"
+      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/hirschen-f-r-e"
     },
     {
       "name": "Kuro Mori",
@@ -63,12 +80,6 @@
       "cuisine": "Regional Cuisine",
       "price": "€€",
       "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/regional"
-    },
-    {
-      "name": "Zur Wolfshöhle",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/germany/freiburg-im-breisgau/freiburg-im-breisgau/zur-wolfshhle"
     }
   ]
 }

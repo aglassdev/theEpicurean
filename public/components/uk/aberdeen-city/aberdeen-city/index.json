@@ -1,8 +1,14 @@
 {
   "title": "Aberdeen City",
-  "country": "uk",
-  "region": "aberdeen-city",
-  "city": "aberdeen-city",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "aberdeen-city",
+  "city": "Aberdeen City",
+  "citySlug": "aberdeen-city",
+  "path": "/uk/aberdeen-city/aberdeen-city/restaurants",
+  "canonicalPath": "/uk/aberdeen-city/aberdeen-city/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Amuse by Kevin Dalgleish",

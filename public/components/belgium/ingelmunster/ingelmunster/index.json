@@ -1,14 +1,20 @@
 {
   "title": "Ingelmunster",
-  "country": "belgium",
-  "region": "ingelmunster",
-  "city": "ingelmunster",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "ingelmunster",
+  "city": "Ingelmunster",
+  "citySlug": "ingelmunster",
+  "path": "/belgium/ingelmunster/ingelmunster/restaurants",
+  "canonicalPath": "/belgium/ingelmunster/ingelmunster/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Jean-Philippe",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/belgium/ingelmunster/ingelmunster/jean-philippe"
+      "path": "/belgium/ingelmunster/ingelmunster/jeanphilippe"
     }
   ]
 }

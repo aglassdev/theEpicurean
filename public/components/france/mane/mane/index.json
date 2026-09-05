@@ -1,14 +1,21 @@
 {
   "title": "Mane",
-  "country": "france",
-  "region": "mane",
-  "city": "mane",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "mane",
+  "city": "Mane",
+  "citySlug": "mane",
+  "path": "/france/mane/mane/restaurants",
+  "canonicalPath": "/france/mane/mane/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Feuillée - Le Couvent des Minimes",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/mane/mane/le-feuille-le-couvent-des-minimes"
+      "path": "/france/mane/mane/le-feuille-le-couvent-des-minimes",
+      "award": "★"
     },
     {
       "name": "Pamparigouste - Le Couvent des Minimes",

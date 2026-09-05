@@ -1,14 +1,21 @@
 {
   "title": "Eboli",
-  "country": "italy",
-  "region": "eboli",
-  "city": "eboli",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "eboli",
+  "city": "Eboli",
+  "citySlug": "eboli",
+  "path": "/italy/eboli/eboli/restaurants",
+  "canonicalPath": "/italy/eboli/eboli/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Papavero",
       "cuisine": "Modern Cuisine, Campanian",
       "price": "€€",
-      "path": "/italy/eboli/eboli/il-papavero"
+      "path": "/italy/eboli/eboli/il-papavero",
+      "award": "★"
     }
   ]
 }

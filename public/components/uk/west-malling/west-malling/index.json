@@ -1,14 +1,20 @@
 {
   "title": "West Malling",
-  "country": "uk",
-  "region": "west-malling",
-  "city": "west-malling",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "west-malling",
+  "city": "West Malling",
+  "citySlug": "west-malling",
+  "path": "/uk/west-malling/west-malling/restaurants",
+  "canonicalPath": "/uk/west-malling/west-malling/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chef's Table",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/west-malling/west-malling/chefs-table"
+      "path": "/uk/west-malling/west-malling/chefs-table-w-e-s"
     }
   ]
 }

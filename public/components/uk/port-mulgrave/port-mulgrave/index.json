@@ -1,14 +1,20 @@
 {
   "title": "Port Mulgrave",
-  "country": "uk",
-  "region": "port-mulgrave",
-  "city": "port-mulgrave",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "port-mulgrave",
+  "city": "Port Mulgrave",
+  "citySlug": "port-mulgrave",
+  "path": "/uk/port-mulgrave/port-mulgrave/restaurants",
+  "canonicalPath": "/uk/port-mulgrave/port-mulgrave/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Number 20",
       "cuisine": "Seafood",
       "price": "£££",
-      "path": "/uk/port-mulgrave/port-mulgrave/number-20"
+      "path": "/uk/port-mulgrave/port-mulgrave/number20"
     }
   ]
 }

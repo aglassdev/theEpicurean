@@ -1,8 +1,14 @@
 {
   "title": "Byland",
-  "country": "uk",
-  "region": "byland",
-  "city": "byland",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "byland",
+  "city": "Byland",
+  "citySlug": "byland",
+  "path": "/uk/byland/byland/restaurants",
+  "canonicalPath": "/uk/byland/byland/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Abbey Inn",

@@ -1,17 +1,27 @@
 {
   "title": "San Cassiano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-cassiano",
+  "city": "San Cassiano",
+  "citySlug": "san-cassiano",
+  "path": "/italy/san-cassiano/san-cassiano/restaurants",
+  "canonicalPath": "/italy/san-cassiano/san-cassiano/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "St. Hubertus",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/san-cassiano/san-cassiano/st-hubertus",
+      "award": "World's 50 Best"
+    },
     {
       "name": "Cocun Cellar Restaurant",
       "cuisine": "Contemporary, Italian Contemporary",
       "price": "€€€",
       "path": "/italy/san-cassiano/san-cassiano/cocun-cellar-restaurant"
-    },
-    {
-      "name": "St. Hubertus",
-      "cuisine": "",
-      "price": "",
-      "path": "/italy/san-cassiano/san-cassiano/StHubertus"
     }
   ]
 }

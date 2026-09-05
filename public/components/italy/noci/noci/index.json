@@ -1,8 +1,14 @@
 {
   "title": "Noci",
-  "country": "italy",
-  "region": "noci",
-  "city": "noci",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "noci",
+  "city": "Noci",
+  "citySlug": "noci",
+  "path": "/italy/noci/noci/restaurants",
+  "canonicalPath": "/italy/noci/noci/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fè Ristorante",

@@ -1,14 +1,20 @@
 {
   "title": "Sirolo",
-  "country": "italy",
-  "region": "sirolo",
-  "city": "sirolo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "sirolo",
+  "city": "Sirolo",
+  "citySlug": "sirolo",
+  "path": "/italy/sirolo/sirolo/restaurants",
+  "canonicalPath": "/italy/sirolo/sirolo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lofficina",
       "cuisine": "Creative, Contemporary",
       "price": "€€",
-      "path": "/italy/sirolo/sirolo/lofficina"
+      "path": "/italy/sirolo/sirolo/lofficina-s-i-r"
     }
   ]
 }

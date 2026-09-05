@@ -1,9 +1,36 @@
 {
-  "title": "Santiago De Compostela",
-  "country": "spain",
-  "region": "santiago-de-compostela",
-  "city": "santiago-de-compostela",
+  "title": "Santiago de Compostela",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "santiago-de-compostela",
+  "city": "Santiago de Compostela",
+  "citySlug": "santiago-de-compostela",
+  "path": "/spain/santiago-de-compostela/santiago-de-compostela/restaurants",
+  "canonicalPath": "/spain/santiago-de-compostela/santiago-de-compostela/restaurants",
+  "count": 18,
   "restaurants": [
+    {
+      "name": "A Tafona",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/spain/santiago-de-compostela/santiago-de-compostela/a-tafona",
+      "award": "★"
+    },
+    {
+      "name": "Casa Marcelo",
+      "cuisine": "Fusion",
+      "price": "€€€",
+      "path": "/spain/santiago-de-compostela/santiago-de-compostela/casa-marcelo-s-a-n",
+      "award": "★"
+    },
+    {
+      "name": "Simpar",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/santiago-de-compostela/santiago-de-compostela/simpar",
+      "award": "★"
+    },
     {
       "name": "A Horta d'Obradoiro",
       "cuisine": "Regional Cuisine",
@@ -17,12 +44,6 @@
       "path": "/spain/santiago-de-compostela/santiago-de-compostela/a-maceta"
     },
     {
-      "name": "A Tafona",
-      "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/spain/santiago-de-compostela/santiago-de-compostela/a-tafona"
-    },
-    {
       "name": "A Viaxe",
       "cuisine": "Fusion",
       "price": "€€",
@@ -32,13 +53,13 @@
       "name": "Abastos 2.0 - Barra",
       "cuisine": "Modern Cuisine",
       "price": "€",
-      "path": "/spain/santiago-de-compostela/santiago-de-compostela/abastos-20-barra"
+      "path": "/spain/santiago-de-compostela/santiago-de-compostela/abastos20-barra"
     },
     {
       "name": "Abastos 2.0 - Mesas",
       "cuisine": "Galician, Contemporary",
       "price": "€€",
-      "path": "/spain/santiago-de-compostela/santiago-de-compostela/abastos-20-mesas"
+      "path": "/spain/santiago-de-compostela/santiago-de-compostela/abastos20-mesas"
     },
     {
       "name": "Anaco",
@@ -57,12 +78,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/spain/santiago-de-compostela/santiago-de-compostela/caf-de-altamira"
-    },
-    {
-      "name": "Casa Marcelo",
-      "cuisine": "Fusion",
-      "price": "€€€",
-      "path": "/spain/santiago-de-compostela/santiago-de-compostela/casa-marcelo"
     },
     {
       "name": "Con Culler",
@@ -92,7 +107,7 @@
       "name": "Lume",
       "cuisine": "Modern Cuisine, Fusion",
       "price": "€",
-      "path": "/spain/santiago-de-compostela/santiago-de-compostela/lume"
+      "path": "/spain/santiago-de-compostela/santiago-de-compostela/lume-s-a-n"
     },
     {
       "name": "Mar de Esteiro",
@@ -105,12 +120,6 @@
       "cuisine": "Regional Cuisine",
       "price": "€€",
       "path": "/spain/santiago-de-compostela/santiago-de-compostela/pampn-bar"
-    },
-    {
-      "name": "Simpar",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/santiago-de-compostela/santiago-de-compostela/simpar"
     }
   ]
 }

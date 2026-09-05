@@ -1,9 +1,29 @@
 {
   "title": "Vigo",
-  "country": "spain",
-  "region": "vigo",
-  "city": "vigo",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "vigo",
+  "city": "Vigo",
+  "citySlug": "vigo",
+  "path": "/spain/vigo/vigo/restaurants",
+  "canonicalPath": "/spain/vigo/vigo/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Maruja Limón",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/vigo/vigo/maruja-limn",
+      "award": "★"
+    },
+    {
+      "name": "Silabario",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/vigo/vigo/silabario",
+      "award": "★"
+    },
     {
       "name": "Alberte",
       "cuisine": "Grills, Farm to table",
@@ -26,13 +46,7 @@
       "name": "El Olivo",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/spain/vigo/vigo/el-olivo"
-    },
-    {
-      "name": "El Olivo",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/vigo/vigo/el-olivo"
+      "path": "/spain/vigo/vigo/el-olivo-v-i-g"
     },
     {
       "name": "Enxebre",
@@ -59,22 +73,10 @@
       "path": "/spain/vigo/vigo/la-mesa-de-conus"
     },
     {
-      "name": "Maruja Limón",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/vigo/vigo/maruja-limn"
-    },
-    {
       "name": "Morrofino",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/spain/vigo/vigo/morrofino"
-    },
-    {
-      "name": "Silabario",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/vigo/vigo/silabario"
     }
   ]
 }

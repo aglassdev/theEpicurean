@@ -1,8 +1,14 @@
 {
   "title": "Baden",
-  "country": "switzerland",
-  "region": "baden",
-  "city": "baden",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "baden",
+  "city": "Baden",
+  "citySlug": "baden",
+  "path": "/switzerland/baden/baden/restaurants",
+  "canonicalPath": "/switzerland/baden/baden/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Paradies",

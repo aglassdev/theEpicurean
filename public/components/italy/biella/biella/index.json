@@ -1,8 +1,14 @@
 {
   "title": "Biella",
-  "country": "italy",
-  "region": "biella",
-  "city": "biella",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "biella",
+  "city": "Biella",
+  "citySlug": "biella",
+  "path": "/italy/biella/biella/restaurants",
+  "canonicalPath": "/italy/biella/biella/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Matteo Ristorante",

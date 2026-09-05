@@ -1,9 +1,22 @@
 {
-  "title": "Playa De Las Amricas",
-  "country": "spain",
-  "region": "playa-de-las-amricas",
-  "city": "playa-de-las-amricas",
+  "title": "Playa de Las Amricas",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "playa-de-las-amricas",
+  "city": "Playa de Las Amricas",
+  "citySlug": "playa-de-las-amricas",
+  "path": "/spain/playa-de-las-amricas/playa-de-las-amricas/restaurants",
+  "canonicalPath": "/spain/playa-de-las-amricas/playa-de-las-amricas/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Taste 1973",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/playa-de-las-amricas/playa-de-las-amricas/taste1973",
+      "award": "★"
+    },
     {
       "name": "El Lajar de Bello",
       "cuisine": "Contemporary",
@@ -15,12 +28,6 @@
       "cuisine": "Grills",
       "price": "€€€",
       "path": "/spain/playa-de-las-amricas/playa-de-las-amricas/goxoa"
-    },
-    {
-      "name": "Taste 1973",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/playa-de-las-amricas/playa-de-las-amricas/taste-1973"
     }
   ]
 }

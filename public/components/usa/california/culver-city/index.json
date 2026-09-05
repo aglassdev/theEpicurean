@@ -1,0 +1,39 @@
+{
+  "title": "Culver City",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Culver City",
+  "citySlug": "culver-city",
+  "path": "/usa/california/culver-city/restaurants",
+  "canonicalPath": "/usa/california/culver-city/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Vespertine",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/culver-city/vespertine",
+      "award": "★★"
+    },
+    {
+      "name": "Destroyer",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/usa/california/culver-city/destroyer"
+    },
+    {
+      "name": "Juliet",
+      "cuisine": "French, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/culver-city/juliet"
+    },
+    {
+      "name": "Kusano",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/culver-city/kusano"
+    }
+  ]
+}

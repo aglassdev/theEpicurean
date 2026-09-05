@@ -1,14 +1,21 @@
 {
   "title": "Lier",
-  "country": "belgium",
-  "region": "lier",
-  "city": "lier",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "lier",
+  "city": "Lier",
+  "citySlug": "lier",
+  "path": "/belgium/lier/lier/restaurants",
+  "canonicalPath": "/belgium/lier/lier/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Neon",
       "cuisine": "Country cooking, Creative French",
       "price": "€€€",
-      "path": "/belgium/lier/lier/neon"
+      "path": "/belgium/lier/lier/neon",
+      "award": "★"
     },
     {
       "name": "Numerus Clausus",

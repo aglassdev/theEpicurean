@@ -1,14 +1,21 @@
 {
   "title": "La Vancelle",
-  "country": "france",
-  "region": "la-vancelle",
-  "city": "la-vancelle",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-vancelle",
+  "city": "La Vancelle",
+  "citySlug": "la-vancelle",
+  "path": "/france/la-vancelle/la-vancelle/restaurants",
+  "canonicalPath": "/france/la-vancelle/la-vancelle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge Frankenbourg",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/la-vancelle/la-vancelle/auberge-frankenbourg"
+      "path": "/france/la-vancelle/la-vancelle/auberge-frankenbourg",
+      "award": "★"
     }
   ]
 }

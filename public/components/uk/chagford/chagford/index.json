@@ -1,17 +1,27 @@
 {
   "title": "Chagford",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "chagford",
+  "city": "Chagford",
+  "citySlug": "chagford",
+  "path": "/uk/chagford/chagford/restaurants",
+  "canonicalPath": "/uk/chagford/chagford/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gidleigh Park",
       "cuisine": "Modern Cuisine",
       "price": "££££",
-      "path": "/uk/chagford/chagford/gidleigh-park"
+      "path": "/uk/chagford/chagford/gidleigh-park",
+      "award": "★"
     },
     {
       "name": "Chagford Inn",
       "cuisine": "Modern British",
       "price": "$$",
-      "path": "/uk/chagford/chagford/ChagfordInn"
+      "path": "/uk/chagford/chagford/chagford-inn"
     }
   ]
 }

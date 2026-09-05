@@ -1,6 +1,35 @@
 {
   "title": "Haarlem",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "haarlem",
+  "city": "Haarlem",
+  "citySlug": "haarlem",
+  "path": "/netherlands/haarlem/haarlem/restaurants",
+  "canonicalPath": "/netherlands/haarlem/haarlem/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "ML",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/netherlands/haarlem/haarlem/ml",
+      "award": "★"
+    },
+    {
+      "name": "Ratatouille Food & Wine",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/netherlands/haarlem/haarlem/ratatouille-food-wine",
+      "award": "★"
+    },
+    {
+      "name": "Brasserie Bruis",
+      "cuisine": "Modern French",
+      "price": "$$",
+      "path": "/netherlands/haarlem/haarlem/brasserie-bruis"
+    },
     {
       "name": "Café Samabe",
       "cuisine": "Indonesian, Balinese",
@@ -26,34 +55,16 @@
       "path": "/netherlands/haarlem/haarlem/mano-restaurant"
     },
     {
-      "name": "ML",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/netherlands/haarlem/haarlem/ml"
-    },
-    {
       "name": "Moustique",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/netherlands/haarlem/haarlem/moustique"
     },
     {
-      "name": "Ratatouille Food & Wine",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/netherlands/haarlem/haarlem/ratatouille-food-wine"
-    },
-    {
       "name": "Restaurant Moustique",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/netherlands/haarlem/haarlem/restaurant-moustique"
-    },
-    {
-      "name": "Brasserie Bruis",
-      "cuisine": "Modern French",
-      "price": "$$",
-      "path": "/netherlands/haarlem/haarlem/BrasserieBruis"
     }
   ]
 }

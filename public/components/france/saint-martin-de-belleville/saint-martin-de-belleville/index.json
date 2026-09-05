@@ -1,14 +1,21 @@
 {
-  "title": "Saint Martin De Belleville",
-  "country": "france",
-  "region": "saint-martin-de-belleville",
-  "city": "saint-martin-de-belleville",
+  "title": "Saint Martin de Belleville",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-martin-de-belleville",
+  "city": "Saint Martin de Belleville",
+  "citySlug": "saint-martin-de-belleville",
+  "path": "/france/saint-martin-de-belleville/saint-martin-de-belleville/restaurants",
+  "canonicalPath": "/france/saint-martin-de-belleville/saint-martin-de-belleville/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "René et Maxime Meilleur",
       "cuisine": "Creative, Regional Cuisine",
       "price": "€€€€",
-      "path": "/france/saint-martin-de-belleville/saint-martin-de-belleville/ren-et-maxime-meilleur"
+      "path": "/france/saint-martin-de-belleville/saint-martin-de-belleville/ren-et-maxime-meilleur",
+      "award": "★★"
     },
     {
       "name": "Simple et Meilleur",

@@ -1,8 +1,14 @@
 {
   "title": "Petrovice",
-  "country": "czechia",
-  "region": "petrovice",
-  "city": "petrovice",
+  "country": "Czechia",
+  "countrySlug": "czechia",
+  "region": null,
+  "regionSlug": "petrovice",
+  "city": "Petrovice",
+  "citySlug": "petrovice",
+  "path": "/czechia/petrovice/petrovice/restaurants",
+  "canonicalPath": "/czechia/petrovice/petrovice/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "U Štěpána",

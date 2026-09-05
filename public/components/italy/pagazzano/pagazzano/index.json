@@ -1,8 +1,14 @@
 {
   "title": "Pagazzano",
-  "country": "italy",
-  "region": "pagazzano",
-  "city": "pagazzano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pagazzano",
+  "city": "Pagazzano",
+  "citySlug": "pagazzano",
+  "path": "/italy/pagazzano/pagazzano/restaurants",
+  "canonicalPath": "/italy/pagazzano/pagazzano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Locanda Viola",

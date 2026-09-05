@@ -1,14 +1,21 @@
 {
   "title": "Ars",
-  "country": "france",
-  "region": "ars",
-  "city": "ars",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ars",
+  "city": "Ars",
+  "citySlug": "ars",
+  "path": "/france/ars/ars/restaurants",
+  "canonicalPath": "/france/ars/ars/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Nacre",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/ars/ars/nacre"
+      "path": "/france/ars/ars/nacre",
+      "award": "★"
     }
   ]
 }

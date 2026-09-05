@@ -1,14 +1,20 @@
 {
   "title": "Murten",
-  "country": "switzerland",
-  "region": "murten",
-  "city": "murten",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "murten",
+  "city": "Murten",
+  "citySlug": "murten",
+  "path": "/switzerland/murten/murten/restaurants",
+  "canonicalPath": "/switzerland/murten/murten/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Käserei",
       "cuisine": "International",
       "price": "€€€",
-      "path": "/switzerland/murten/murten/kserei"
+      "path": "/switzerland/murten/murten/kserei-m-u-r"
     }
   ]
 }

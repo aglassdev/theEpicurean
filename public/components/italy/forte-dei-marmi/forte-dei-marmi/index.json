@@ -1,38 +1,49 @@
 {
   "title": "Forte Dei Marmi",
-  "country": "italy",
-  "region": "forte-dei-marmi",
-  "city": "forte-dei-marmi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "forte-dei-marmi",
+  "city": "Forte Dei Marmi",
+  "citySlug": "forte-dei-marmi",
+  "path": "/italy/forte-dei-marmi/forte-dei-marmi/restaurants",
+  "canonicalPath": "/italy/forte-dei-marmi/forte-dei-marmi/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Bistrot",
       "cuisine": "Seafood, Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/forte-dei-marmi/forte-dei-marmi/bistrot"
+      "path": "/italy/forte-dei-marmi/forte-dei-marmi/bistrot-f-o-r",
+      "award": "★"
     },
     {
       "name": "La Magnolia",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/italy/forte-dei-marmi/forte-dei-marmi/la-magnolia"
+      "path": "/italy/forte-dei-marmi/forte-dei-marmi/la-magnolia",
+      "award": "★"
     },
     {
       "name": "Lorenzo",
       "cuisine": "Seafood, Italian",
       "price": "€€€",
-      "path": "/italy/forte-dei-marmi/forte-dei-marmi/lorenzo"
+      "path": "/italy/forte-dei-marmi/forte-dei-marmi/lorenzo",
+      "award": "★"
     },
     {
       "name": "Lux Lucis",
       "cuisine": "Creative, Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/forte-dei-marmi/forte-dei-marmi/lux-lucis"
+      "path": "/italy/forte-dei-marmi/forte-dei-marmi/lux-lucis",
+      "award": "★"
     },
     {
       "name": "Sciabola",
       "cuisine": "Creative, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/italy/forte-dei-marmi/forte-dei-marmi/sciabola"
+      "path": "/italy/forte-dei-marmi/forte-dei-marmi/sciabola",
+      "award": "★"
     }
   ]
 }

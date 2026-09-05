@@ -1,14 +1,20 @@
 {
   "title": "Port Goulphar",
-  "country": "france",
-  "region": "port-goulphar",
-  "city": "port-goulphar",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "port-goulphar",
+  "city": "Port Goulphar",
+  "citySlug": "port-goulphar",
+  "path": "/france/port-goulphar/port-goulphar/restaurants",
+  "canonicalPath": "/france/port-goulphar/port-goulphar/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le 180°",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/port-goulphar/port-goulphar/le-180"
+      "path": "/france/port-goulphar/port-goulphar/le180"
     }
   ]
 }

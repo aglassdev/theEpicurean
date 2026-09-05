@@ -1,14 +1,20 @@
 {
   "title": "Ambierle",
-  "country": "france",
-  "region": "ambierle",
-  "city": "ambierle",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ambierle",
+  "city": "Ambierle",
+  "citySlug": "ambierle",
+  "path": "/france/ambierle/ambierle/restaurants",
+  "canonicalPath": "/france/ambierle/ambierle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Prieuré",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/ambierle/ambierle/le-prieur"
+      "path": "/france/ambierle/ambierle/le-prieur-a-m-b"
     }
   ]
 }

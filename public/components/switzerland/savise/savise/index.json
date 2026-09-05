@@ -1,14 +1,21 @@
 {
   "title": "Savise",
-  "country": "switzerland",
-  "region": "savise",
-  "city": "savise",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "savise",
+  "city": "Savise",
+  "citySlug": "savise",
+  "path": "/switzerland/savise/savise/restaurants",
+  "canonicalPath": "/switzerland/savise/savise/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gilles Varone",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/savise/savise/gilles-varone"
+      "path": "/switzerland/savise/savise/gilles-varone",
+      "award": "★"
     },
     {
       "name": "la p'tite maison",

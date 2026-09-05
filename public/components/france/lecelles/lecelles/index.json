@@ -1,11 +1,20 @@
 {
   "title": "Lecelles",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lecelles",
+  "city": "Lecelles",
+  "citySlug": "lecelles",
+  "path": "/france/lecelles/lecelles/restaurants",
+  "canonicalPath": "/france/lecelles/lecelles/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Presbytère",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/lecelles/lecelles/LePresbytre"
+      "path": "/france/lecelles/lecelles/le-presbytre"
     }
   ]
 }

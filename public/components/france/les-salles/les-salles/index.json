@@ -1,20 +1,26 @@
 {
   "title": "Les Salles",
-  "country": "france",
-  "region": "les-salles",
-  "city": "les-salles",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "les-salles",
+  "city": "Les Salles",
+  "citySlug": "les-salles",
+  "path": "/france/les-salles/les-salles/restaurants",
+  "canonicalPath": "/france/les-salles/les-salles/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Colette",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/les-salles/les-salles/colette-l-e-s"
+    },
     {
       "name": "Colette - Domaine de la Plagnette",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/les-salles/les-salles/colette-domaine-de-la-plagnette"
-    },
-    {
-      "name": "Colette",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/les-salles/les-salles/colette"
     }
   ]
 }

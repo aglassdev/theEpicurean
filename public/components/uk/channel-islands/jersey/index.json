@@ -1,23 +1,32 @@
 {
   "title": "Jersey",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "Channel Islands",
+  "regionSlug": "channel-islands",
+  "city": "Jersey",
+  "citySlug": "jersey",
+  "path": "/uk/channel-islands/jersey/restaurants",
+  "canonicalPath": "/uk/channel-islands/jersey/restaurants",
+  "count": 3,
   "restaurants": [
     {
-      "name": "L’Horizon Beach Hotel & Spa",
+      "name": "Chateau La Chaire",
       "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/channel-islands/jersey/LhorizonBeachHotelSpa"
+      "price": "35.00",
+      "path": "/uk/channel-islands/jersey/chateau-la-chaire"
     },
     {
       "name": "Grand Jersey Hotel & Spa",
       "cuisine": "Afternoon Tea",
       "price": "29.50",
-      "path": "/uk/channel-islands/jersey/GrandJerseyHotelSpa"
+      "path": "/uk/channel-islands/jersey/grand-jersey-hotel-spa"
     },
     {
-      "name": "Chateau La Chaire",
+      "name": "L’Horizon Beach Hotel & Spa",
       "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/channel-islands/jersey/ChateauLaChaire"
+      "price": "28.00",
+      "path": "/uk/channel-islands/jersey/lhorizon-beach-hotel-spa"
     }
   ]
 }

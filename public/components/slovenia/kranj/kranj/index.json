@@ -1,8 +1,14 @@
 {
   "title": "Kranj",
-  "country": "slovenia",
-  "region": "kranj",
-  "city": "kranj",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "kranj",
+  "city": "Kranj",
+  "citySlug": "kranj",
+  "path": "/slovenia/kranj/kranj/restaurants",
+  "canonicalPath": "/slovenia/kranj/kranj/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gostilna Krištof",

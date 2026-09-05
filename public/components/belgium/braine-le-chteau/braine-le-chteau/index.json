@@ -1,14 +1,21 @@
 {
-  "title": "Braine Le Chteau",
-  "country": "belgium",
-  "region": "braine-le-chteau",
-  "city": "braine-le-chteau",
+  "title": "Braine le Chteau",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "braine-le-chteau",
+  "city": "Braine le Chteau",
+  "citySlug": "braine-le-chteau",
+  "path": "/belgium/braine-le-chteau/braine-le-chteau/restaurants",
+  "canonicalPath": "/belgium/braine-le-chteau/braine-le-chteau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bistro Racine",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/braine-le-chteau/braine-le-chteau/bistro-racine"
+      "path": "/belgium/braine-le-chteau/braine-le-chteau/bistro-racine",
+      "award": "★"
     }
   ]
 }

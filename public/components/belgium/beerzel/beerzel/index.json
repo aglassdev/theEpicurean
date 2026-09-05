@@ -1,8 +1,14 @@
 {
   "title": "Beerzel",
-  "country": "belgium",
-  "region": "beerzel",
-  "city": "beerzel",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "beerzel",
+  "city": "Beerzel",
+  "citySlug": "beerzel",
+  "path": "/belgium/beerzel/beerzel/restaurants",
+  "canonicalPath": "/belgium/beerzel/beerzel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lizanna",

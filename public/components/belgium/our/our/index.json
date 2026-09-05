@@ -1,14 +1,21 @@
 {
   "title": "Our",
-  "country": "belgium",
-  "region": "our",
-  "city": "our",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "our",
+  "city": "Our",
+  "citySlug": "our",
+  "path": "/belgium/our/our/restaurants",
+  "canonicalPath": "/belgium/our/our/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de Maxime",
       "cuisine": "Modern Cuisine, French",
       "price": "€€€€",
-      "path": "/belgium/our/our/la-table-de-maxime"
+      "path": "/belgium/our/our/la-table-de-maxime",
+      "award": "★★"
     }
   ]
 }

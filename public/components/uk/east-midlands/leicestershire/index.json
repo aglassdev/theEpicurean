@@ -1,17 +1,26 @@
 {
   "title": "Leicestershire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "East Midlands",
+  "regionSlug": "east-midlands",
+  "city": "Leicestershire",
+  "citySlug": "leicestershire",
+  "path": "/uk/east-midlands/leicestershire/restaurants",
+  "canonicalPath": "/uk/east-midlands/leicestershire/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Barnsdale Gardens",
       "cuisine": "Afternoon Tea",
       "price": "44.95",
-      "path": "/uk/east-midlands/leicestershire/BarnsdaleGardens"
+      "path": "/uk/east-midlands/leicestershire/barnsdale-gardens"
     },
     {
       "name": "Normanton Park Hotel",
       "cuisine": "Afternoon Tea",
       "price": "37.00",
-      "path": "/uk/east-midlands/leicestershire/NormantonParkHotel"
+      "path": "/uk/east-midlands/leicestershire/normanton-park-hotel"
     }
   ]
 }

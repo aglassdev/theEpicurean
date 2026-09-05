@@ -1,11 +1,34 @@
 {
   "title": "Fribourg",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "fribourg",
+  "city": "Fribourg",
+  "citySlug": "fribourg",
+  "path": "/switzerland/fribourg/fribourg/restaurants",
+  "canonicalPath": "/switzerland/fribourg/fribourg/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Des Trois Tours",
       "cuisine": "French Contemporary, Innovative",
       "price": "€€€€",
-      "path": "/switzerland/fribourg/fribourg/des-trois-tours"
+      "path": "/switzerland/fribourg/fribourg/des-trois-tours",
+      "award": "★"
+    },
+    {
+      "name": "Le Pérolles",
+      "cuisine": "Classic French, Contemporary",
+      "price": "€€€€",
+      "path": "/switzerland/fribourg/fribourg/le-prolles",
+      "award": "★"
+    },
+    {
+      "name": "Au Chasseur - Derrière",
+      "cuisine": "Seasonal Cuisine",
+      "price": "$$$",
+      "path": "/switzerland/fribourg/fribourg/au-chasseur-derrire"
     },
     {
       "name": "La Cène",
@@ -14,22 +37,10 @@
       "path": "/switzerland/fribourg/fribourg/la-cne"
     },
     {
-      "name": "Le Pérolles",
-      "cuisine": "Classic French, Contemporary",
-      "price": "€€€€",
-      "path": "/switzerland/fribourg/fribourg/le-prolles"
-    },
-    {
       "name": "Restaurant Hôtel de Ville",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€",
       "path": "/switzerland/fribourg/fribourg/restaurant-htel-de-ville"
-    },
-    {
-      "name": "Au Chasseur - Derrière",
-      "cuisine": "Seasonal Cuisine",
-      "price": "$$$",
-      "path": "/switzerland/fribourg/fribourg/AuChasseurDerrire"
     }
   ]
 }

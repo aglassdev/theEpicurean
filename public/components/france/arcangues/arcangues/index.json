@@ -1,20 +1,27 @@
 {
   "title": "Arcangues",
-  "country": "france",
-  "region": "arcangues",
-  "city": "arcangues",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "arcangues",
+  "city": "Arcangues",
+  "citySlug": "arcangues",
+  "path": "/france/arcangues/arcangues/restaurants",
+  "canonicalPath": "/france/arcangues/arcangues/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Moulin d'Alotz",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/arcangues/arcangues/moulin-dalotz",
+      "award": "★"
+    },
     {
       "name": "Gaztelur",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/arcangues/arcangues/gaztelur"
-    },
-    {
-      "name": "Moulin d'Alotz",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/arcangues/arcangues/moulin-dalotz"
     }
   ]
 }

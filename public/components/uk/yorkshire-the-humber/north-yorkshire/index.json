@@ -1,53 +1,62 @@
 {
   "title": "North Yorkshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "Yorkshire the Humber",
+  "regionSlug": "yorkshire-the-humber",
+  "city": "North Yorkshire",
+  "citySlug": "north-yorkshire",
+  "path": "/uk/yorkshire-the-humber/north-yorkshire/restaurants",
+  "canonicalPath": "/uk/yorkshire-the-humber/north-yorkshire/restaurants",
+  "count": 8,
   "restaurants": [
     {
       "name": "Bettys Cafe Tea Room - Harrogate",
       "cuisine": "Afternoon Tea",
       "price": "39.95",
-      "path": "/uk/yorkshire-the-humber/north-yorkshire/BettysCafeTeaRoomHarrogate"
-    },
-    {
-      "name": "Old Swan Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "18.50",
-      "path": "/uk/yorkshire-the-humber/north-yorkshire/OldSwanHotel"
-    },
-    {
-      "name": "The Ivy Harrogate",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/yorkshire-the-humber/north-yorkshire/TheIvyHarrogate"
-    },
-    {
-      "name": "Hotel du Vin Harrogate",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/yorkshire-the-humber/north-yorkshire/HotelDuVinHarrogate"
-    },
-    {
-      "name": "Grinkle Park",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/yorkshire-the-humber/north-yorkshire/GrinklePark"
-    },
-    {
-      "name": "The George at Piercebridge",
-      "cuisine": "Afternoon Tea",
-      "price": "15.95",
-      "path": "/uk/yorkshire-the-humber/north-yorkshire/TheGeorgeAtPiercebridge"
-    },
-    {
-      "name": "Crathorne Hall Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/yorkshire-the-humber/north-yorkshire/CrathorneHallHotel"
+      "path": "/uk/yorkshire-the-humber/north-yorkshire/bettys-cafe-tea-room-harrogate"
     },
     {
       "name": "Carters Champagne Bar & Grill",
       "cuisine": "Afternoon Tea",
       "price": "26.95",
-      "path": "/uk/yorkshire-the-humber/north-yorkshire/CartersChampagneBarGrill"
+      "path": "/uk/yorkshire-the-humber/north-yorkshire/carters-champagne-bar-grill"
+    },
+    {
+      "name": "Crathorne Hall Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/yorkshire-the-humber/north-yorkshire/crathorne-hall-hotel"
+    },
+    {
+      "name": "Grinkle Park",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/yorkshire-the-humber/north-yorkshire/grinkle-park"
+    },
+    {
+      "name": "Hotel du Vin Harrogate",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/yorkshire-the-humber/north-yorkshire/hotel-du-vin-harrogate"
+    },
+    {
+      "name": "Old Swan Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "18.50",
+      "path": "/uk/yorkshire-the-humber/north-yorkshire/old-swan-hotel"
+    },
+    {
+      "name": "The George at Piercebridge",
+      "cuisine": "Afternoon Tea",
+      "price": "15.95",
+      "path": "/uk/yorkshire-the-humber/north-yorkshire/the-george-at-piercebridge"
+    },
+    {
+      "name": "The Ivy Harrogate",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/yorkshire-the-humber/north-yorkshire/the-ivy-harrogate"
     }
   ]
 }

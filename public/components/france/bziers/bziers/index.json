@@ -1,14 +1,34 @@
 {
   "title": "Bziers",
-  "country": "france",
-  "region": "bziers",
-  "city": "bziers",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bziers",
+  "city": "Bziers",
+  "citySlug": "bziers",
+  "path": "/france/bziers/bziers/restaurants",
+  "canonicalPath": "/france/bziers/bziers/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Calice",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/bziers/bziers/calice"
+      "path": "/france/bziers/bziers/calice",
+      "award": "★"
+    },
+    {
+      "name": "L'Alter-Native",
+      "cuisine": "Modern Cuisine, Seafood",
+      "price": "€€€€",
+      "path": "/france/bziers/bziers/lalternative",
+      "award": "★"
+    },
+    {
+      "name": "L'Ambassade",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/bziers/bziers/lambassade"
     },
     {
       "name": "La Maison de Petit Pierre",
@@ -20,19 +40,7 @@
       "name": "La Table de Jean",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/bziers/bziers/la-table-de-jean"
-    },
-    {
-      "name": "L'Alter-Native",
-      "cuisine": "Modern Cuisine, Seafood",
-      "price": "€€€€",
-      "path": "/france/bziers/bziers/lalter-native"
-    },
-    {
-      "name": "L'Ambassade",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/bziers/bziers/lambassade"
+      "path": "/france/bziers/bziers/la-table-de-jean-b-z-i"
     },
     {
       "name": "Pica Pica",

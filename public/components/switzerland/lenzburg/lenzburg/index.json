@@ -1,20 +1,27 @@
 {
   "title": "Lenzburg",
-  "country": "switzerland",
-  "region": "lenzburg",
-  "city": "lenzburg",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "lenzburg",
+  "city": "Lenzburg",
+  "citySlug": "lenzburg",
+  "path": "/switzerland/lenzburg/lenzburg/restaurants",
+  "canonicalPath": "/switzerland/lenzburg/lenzburg/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Skin's - the restaurant",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/switzerland/lenzburg/lenzburg/skins-the-restaurant",
+      "award": "★★"
+    },
     {
       "name": "Rosmarin",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/switzerland/lenzburg/lenzburg/rosmarin"
-    },
-    {
-      "name": "Skin's - the restaurant",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/switzerland/lenzburg/lenzburg/skins-the-restaurant"
     }
   ]
 }

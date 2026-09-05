@@ -1,8 +1,14 @@
 {
   "title": "Watou",
-  "country": "belgium",
-  "region": "watou",
-  "city": "watou",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "watou",
+  "city": "Watou",
+  "citySlug": "watou",
+  "path": "/belgium/watou/watou/restaurants",
+  "canonicalPath": "/belgium/watou/watou/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Terminus",

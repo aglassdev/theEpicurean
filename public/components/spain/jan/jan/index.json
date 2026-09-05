@@ -1,14 +1,42 @@
 {
   "title": "Jan",
-  "country": "spain",
-  "region": "jan",
-  "city": "jan",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "jan",
+  "city": "Jan",
+  "citySlug": "jan",
+  "path": "/spain/jan/jan/restaurants",
+  "canonicalPath": "/spain/jan/jan/restaurants",
+  "count": 8,
   "restaurants": [
     {
       "name": "Bagá",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/jan/jan/bag"
+      "path": "/spain/jan/jan/bag-j-a-n",
+      "award": "★"
+    },
+    {
+      "name": "Dama Juana",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/jan/jan/dama-juana",
+      "award": "★"
+    },
+    {
+      "name": "Malak",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/jan/jan/malak",
+      "award": "★"
+    },
+    {
+      "name": "Radis",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/jan/jan/radis",
+      "award": "★"
     },
     {
       "name": "Bomborombillos",
@@ -23,34 +51,16 @@
       "path": "/spain/jan/jan/casa-antonio"
     },
     {
-      "name": "Dama Juana",
-      "cuisine": "Modern Cuisine, Traditional Cuisine",
-      "price": "€€€",
-      "path": "/spain/jan/jan/dama-juana"
-    },
-    {
       "name": "KA-ORŪ SUSHIBAR & COCKTAIL",
       "cuisine": "Japanese",
       "price": "€€",
-      "path": "/spain/jan/jan/ka-or-sushibar-cocktail"
-    },
-    {
-      "name": "Malak",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/jan/jan/malak"
+      "path": "/spain/jan/jan/kaor-sushibar-cocktail"
     },
     {
       "name": "MangasVerdes",
       "cuisine": "Modern Cuisine",
       "price": "€",
       "path": "/spain/jan/jan/mangasverdes"
-    },
-    {
-      "name": "Radis",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/jan/jan/radis"
     }
   ]
 }

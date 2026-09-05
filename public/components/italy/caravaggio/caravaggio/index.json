@@ -1,18 +1,18 @@
 {
   "title": "Caravaggio",
-  "country": "italy",
-  "region": "caravaggio",
-  "city": "caravaggio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "caravaggio",
+  "city": "Caravaggio",
+  "citySlug": "caravaggio",
+  "path": "/italy/caravaggio/caravaggio/restaurants",
+  "canonicalPath": "/italy/caravaggio/caravaggio/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cut",
       "cuisine": "Italian Contemporary",
-      "price": "€€€",
-      "path": "/italy/caravaggio/caravaggio/cut"
-    },
-    {
-      "name": "Cut",
-      "cuisine": "Italian Contemporary, Seasonal Cuisine",
       "price": "€€€",
       "path": "/italy/caravaggio/caravaggio/cut"
     }

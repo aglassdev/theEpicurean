@@ -1,14 +1,20 @@
 {
   "title": "Steinenbronn",
-  "country": "germany",
-  "region": "steinenbronn",
-  "city": "steinenbronn",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "steinenbronn",
+  "city": "Steinenbronn",
+  "citySlug": "steinenbronn",
+  "path": "/germany/steinenbronn/steinenbronn/restaurants",
+  "canonicalPath": "/germany/steinenbronn/steinenbronn/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Krone",
       "cuisine": "Farm to table, Regional Cuisine",
       "price": "€€",
-      "path": "/germany/steinenbronn/steinenbronn/krone"
+      "path": "/germany/steinenbronn/steinenbronn/krone-s-t-e"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Bocholt",
-  "country": "germany",
-  "region": "bocholt",
-  "city": "bocholt",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bocholt",
+  "city": "Bocholt",
+  "citySlug": "bocholt",
+  "path": "/germany/bocholt/bocholt/restaurants",
+  "canonicalPath": "/germany/bocholt/bocholt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mussumer Krug",

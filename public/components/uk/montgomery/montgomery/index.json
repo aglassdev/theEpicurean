@@ -1,8 +1,14 @@
 {
   "title": "Montgomery",
-  "country": "uk",
-  "region": "montgomery",
-  "city": "montgomery",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "montgomery",
+  "city": "Montgomery",
+  "citySlug": "montgomery",
+  "path": "/uk/montgomery/montgomery/restaurants",
+  "canonicalPath": "/uk/montgomery/montgomery/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Checkers",

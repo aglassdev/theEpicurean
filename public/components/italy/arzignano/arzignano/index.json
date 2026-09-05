@@ -1,14 +1,21 @@
 {
   "title": "Arzignano",
-  "country": "italy",
-  "region": "arzignano",
-  "city": "arzignano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "arzignano",
+  "city": "Arzignano",
+  "citySlug": "arzignano",
+  "path": "/italy/arzignano/arzignano/restaurants",
+  "canonicalPath": "/italy/arzignano/arzignano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Damini Macelleria & Affini",
       "cuisine": "Meats and Grills, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/arzignano/arzignano/damini-macelleria-affini"
+      "path": "/italy/arzignano/arzignano/damini-macelleria-affini",
+      "award": "★"
     }
   ]
 }

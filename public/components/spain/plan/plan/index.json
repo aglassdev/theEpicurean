@@ -1,8 +1,14 @@
 {
   "title": "Plan",
-  "country": "spain",
-  "region": "plan",
-  "city": "plan",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "plan",
+  "city": "Plan",
+  "citySlug": "plan",
+  "path": "/spain/plan/plan/restaurants",
+  "canonicalPath": "/spain/plan/plan/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Capilleta",

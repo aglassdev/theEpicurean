@@ -1,26 +1,34 @@
 {
   "title": "Cesenatico",
-  "country": "italy",
-  "region": "cesenatico",
-  "city": "cesenatico",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cesenatico",
+  "city": "Cesenatico",
+  "citySlug": "cesenatico",
+  "path": "/italy/cesenatico/cesenatico/restaurants",
+  "canonicalPath": "/italy/cesenatico/cesenatico/restaurants",
+  "count": 7,
   "restaurants": [
-    {
-      "name": "12 Ristorante",
-      "cuisine": "Seafood",
-      "price": "€€",
-      "path": "/italy/cesenatico/cesenatico/12-ristorante"
-    },
     {
       "name": "Ancòra",
       "cuisine": "Modern Cuisine, Italian Contemporary",
       "price": "€€€",
-      "path": "/italy/cesenatico/cesenatico/ancra"
+      "path": "/italy/cesenatico/cesenatico/ancra",
+      "award": "★"
     },
     {
       "name": "La Buca",
       "cuisine": "Seafood, Contemporary",
       "price": "€€€",
-      "path": "/italy/cesenatico/cesenatico/la-buca"
+      "path": "/italy/cesenatico/cesenatico/la-buca",
+      "award": "★"
+    },
+    {
+      "name": "12 Ristorante",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/italy/cesenatico/cesenatico/12-ristorante"
     },
     {
       "name": "Maré",
@@ -32,7 +40,7 @@
       "name": "Osteria Bartolini",
       "cuisine": "Seafood",
       "price": "€€",
-      "path": "/italy/cesenatico/cesenatico/osteria-bartolini"
+      "path": "/italy/cesenatico/cesenatico/osteria-bartolini-c-e-s"
     },
     {
       "name": "Osteria Erbaluce",

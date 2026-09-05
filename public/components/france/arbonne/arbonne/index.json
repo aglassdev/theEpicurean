@@ -1,8 +1,14 @@
 {
   "title": "Arbonne",
-  "country": "france",
-  "region": "arbonne",
-  "city": "arbonne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "arbonne",
+  "city": "Arbonne",
+  "citySlug": "arbonne",
+  "path": "/france/arbonne/arbonne/restaurants",
+  "canonicalPath": "/france/arbonne/arbonne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lurrak",

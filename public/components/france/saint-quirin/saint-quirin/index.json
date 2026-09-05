@@ -1,8 +1,14 @@
 {
   "title": "Saint Quirin",
-  "country": "france",
-  "region": "saint-quirin",
-  "city": "saint-quirin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-quirin",
+  "city": "Saint Quirin",
+  "citySlug": "saint-quirin",
+  "path": "/france/saint-quirin/saint-quirin/restaurants",
+  "canonicalPath": "/france/saint-quirin/saint-quirin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hostellerie du Prieuré",

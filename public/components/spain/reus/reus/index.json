@@ -1,6 +1,21 @@
 {
   "title": "Reus",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "reus",
+  "city": "Reus",
+  "citySlug": "reus",
+  "path": "/spain/reus/reus/restaurants",
+  "canonicalPath": "/spain/reus/reus/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Cervus",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/spain/reus/reus/cervus"
+    },
     {
       "name": "Ferran Cerro",
       "cuisine": "Creative, Traditional Cuisine",
@@ -18,12 +33,6 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/reus/reus/vtric-taverna-gastronmica"
-    },
-    {
-      "name": "Cervus",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/spain/reus/reus/Cervus"
     }
   ]
 }

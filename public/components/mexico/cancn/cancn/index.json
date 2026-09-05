@@ -1,8 +1,14 @@
 {
   "title": "Cancn",
-  "country": "mexico",
-  "region": "cancn",
-  "city": "cancn",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "cancn",
+  "city": "Cancn",
+  "citySlug": "cancn",
+  "path": "/mexico/cancn/cancn/restaurants",
+  "canonicalPath": "/mexico/cancn/cancn/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Kiosco Verde",

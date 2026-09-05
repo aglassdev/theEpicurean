@@ -1,14 +1,21 @@
 {
   "title": "Val Disre",
-  "country": "france",
-  "region": "val-disre",
-  "city": "val-disre",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "val-disre",
+  "city": "Val Disre",
+  "citySlug": "val-disre",
+  "path": "/france/val-disre/val-disre/restaurants",
+  "canonicalPath": "/france/val-disre/val-disre/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Table de l'Ours",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/val-disre/val-disre/la-table-de-lours"
+      "path": "/france/val-disre/val-disre/la-table-de-lours",
+      "award": "★"
     },
     {
       "name": "L'Altiplano",

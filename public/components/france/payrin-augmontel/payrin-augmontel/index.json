@@ -1,14 +1,21 @@
 {
   "title": "Payrin Augmontel",
-  "country": "france",
-  "region": "payrin-augmontel",
-  "city": "payrin-augmontel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "payrin-augmontel",
+  "city": "Payrin Augmontel",
+  "citySlug": "payrin-augmontel",
+  "path": "/france/payrin-augmontel/payrin-augmontel/restaurants",
+  "canonicalPath": "/france/payrin-augmontel/payrin-augmontel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Villa Pinewood",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/payrin-augmontel/payrin-augmontel/villa-pinewood"
+      "path": "/france/payrin-augmontel/payrin-augmontel/villa-pinewood",
+      "award": "★"
     }
   ]
 }

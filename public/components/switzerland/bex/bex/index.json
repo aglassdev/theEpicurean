@@ -1,8 +1,14 @@
 {
   "title": "Bex",
-  "country": "switzerland",
-  "region": "bex",
-  "city": "bex",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "bex",
+  "city": "Bex",
+  "citySlug": "bex",
+  "path": "/switzerland/bex/bex/restaurants",
+  "canonicalPath": "/switzerland/bex/bex/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Café Suisse",

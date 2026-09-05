@@ -1,8 +1,14 @@
 {
   "title": "Mol",
-  "country": "belgium",
-  "region": "mol",
-  "city": "mol",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "mol",
+  "city": "Mol",
+  "citySlug": "mol",
+  "path": "/belgium/mol/mol/restaurants",
+  "canonicalPath": "/belgium/mol/mol/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bouffard",

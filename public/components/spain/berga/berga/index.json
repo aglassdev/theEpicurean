@@ -1,14 +1,20 @@
 {
   "title": "Berga",
-  "country": "spain",
-  "region": "berga",
-  "city": "berga",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "berga",
+  "city": "Berga",
+  "citySlug": "berga",
+  "path": "/spain/berga/berga/restaurants",
+  "canonicalPath": "/spain/berga/berga/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Terra",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/spain/berga/berga/terra"
+      "path": "/spain/berga/berga/terra-b-e-r"
     }
   ]
 }

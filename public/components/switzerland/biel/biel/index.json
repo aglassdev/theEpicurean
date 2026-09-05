@@ -1,14 +1,21 @@
 {
   "title": "Biel",
-  "country": "switzerland",
-  "region": "biel",
-  "city": "biel",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "biel",
+  "city": "Biel",
+  "citySlug": "biel",
+  "path": "/switzerland/biel/biel/restaurants",
+  "canonicalPath": "/switzerland/biel/biel/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Du Bourg",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/biel/biel/du-bourg"
+      "path": "/switzerland/biel/biel/du-bourg",
+      "award": "★"
     },
     {
       "name": "Lokal",

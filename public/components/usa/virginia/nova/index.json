@@ -1,0 +1,51 @@
+{
+  "title": "Nova",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Virginia",
+  "regionSlug": "virginia",
+  "city": "Nova",
+  "citySlug": "nova",
+  "path": "/usa/virginia/nova/restaurants",
+  "canonicalPath": "/usa/virginia/nova/restaurants",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "ELlie Bird",
+      "cuisine": "New American",
+      "price": "$$$ · Prix Fixe · À La Carte",
+      "path": "/usa/virginia/nova/ellie-bird",
+      "award": "World's 50 Best",
+      "image": "/images/elliebird1.png"
+    },
+    {
+      "name": "Joon",
+      "cuisine": "Persian",
+      "price": "$$$ · Prix Fixe · À La Carte",
+      "path": "/usa/virginia/nova/joon",
+      "award": "World's 50 Best",
+      "image": "/images/joon1.png"
+    },
+    {
+      "name": "2941 Restaurant",
+      "cuisine": "French-Influenced American",
+      "price": "$$$ · Prix Fixe · À La Carte",
+      "path": "/usa/virginia/nova/2941-restaurant",
+      "image": "/images/2941restaurant1.png"
+    },
+    {
+      "name": "Jacques' Brasserie at L’Auberge Chez François",
+      "cuisine": "Classic French",
+      "price": "$$$ · À La Carte",
+      "path": "/usa/virginia/nova/jacques-brasserie",
+      "image": "/images/jacquesbrasserie1.png"
+    },
+    {
+      "name": "L’Auberge Chez François",
+      "cuisine": "Classic French",
+      "price": "$$$ · Prix Fixe · À La Carte",
+      "path": "/usa/virginia/nova/l-auberge-chez-francois",
+      "image": "/images/laubergechezfrancois1.png"
+    }
+  ]
+}

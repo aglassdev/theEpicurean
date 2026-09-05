@@ -1,14 +1,20 @@
 {
   "title": "Lascabanes",
-  "country": "france",
-  "region": "lascabanes",
-  "city": "lascabanes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lascabanes",
+  "city": "Lascabanes",
+  "citySlug": "lascabanes",
+  "path": "/france/lascabanes/lascabanes/restaurants",
+  "canonicalPath": "/france/lascabanes/lascabanes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Domaine de Saint-Géry",
       "cuisine": "Traditional Cuisine",
       "price": "€€€€",
-      "path": "/france/lascabanes/lascabanes/le-domaine-de-saint-gry"
+      "path": "/france/lascabanes/lascabanes/le-domaine-de-saintgry"
     }
   ]
 }

@@ -1,5 +1,14 @@
 {
   "title": "Royal Tunbridge Wells",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "royal-tunbridge-wells",
+  "city": "Royal Tunbridge Wells",
+  "citySlug": "royal-tunbridge-wells",
+  "path": "/uk/royal-tunbridge-wells/royal-tunbridge-wells/restaurants",
+  "canonicalPath": "/uk/royal-tunbridge-wells/royal-tunbridge-wells/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Thackeray's",
@@ -8,16 +17,16 @@
       "path": "/uk/royal-tunbridge-wells/royal-tunbridge-wells/thackerays"
     },
     {
+      "name": "Thackeray's Restaurant",
+      "cuisine": "Modern British",
+      "price": "$$$",
+      "path": "/uk/royal-tunbridge-wells/royal-tunbridge-wells/thackerays-restaurant"
+    },
+    {
       "name": "The Counter by Robin Read",
       "cuisine": "Modern British",
       "price": "££££",
       "path": "/uk/royal-tunbridge-wells/royal-tunbridge-wells/the-counter-by-robin-read"
-    },
-    {
-      "name": "Thackeray's Restaurant",
-      "cuisine": "Modern British",
-      "price": "$$$",
-      "path": "/uk/royal-tunbridge-wells/royal-tunbridge-wells/ThackeraysRestaurant"
     }
   ]
 }

@@ -1,11 +1,20 @@
 {
-  "title": "Saint-Sauveur",
+  "title": "Saint Sauveur",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "saint-sauveur",
+  "city": "Saint Sauveur",
+  "citySlug": "saint-sauveur",
+  "path": "/canada/saint-sauveur/saint-sauveur/restaurants",
+  "canonicalPath": "/canada/saint-sauveur/saint-sauveur/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Loiseau d'à Côté",
       "cuisine": "Traditional Cuisine",
       "price": "$$$",
-      "path": "/canada/saint-sauveur/saint-sauveur/LoiseauDCt"
+      "path": "/canada/saint-sauveur/saint-sauveur/loiseau-d-ct"
     }
   ]
 }

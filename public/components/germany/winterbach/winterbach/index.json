@@ -1,8 +1,14 @@
 {
   "title": "Winterbach",
-  "country": "germany",
-  "region": "winterbach",
-  "city": "winterbach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "winterbach",
+  "city": "Winterbach",
+  "citySlug": "winterbach",
+  "path": "/germany/winterbach/winterbach/restaurants",
+  "canonicalPath": "/germany/winterbach/winterbach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Landgasthaus Hirsch",

@@ -1,8 +1,14 @@
 {
   "title": "Lymington",
-  "country": "uk",
-  "region": "lymington",
-  "city": "lymington",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "lymington",
+  "city": "Lymington",
+  "citySlug": "lymington",
+  "path": "/uk/lymington/lymington/restaurants",
+  "canonicalPath": "/uk/lymington/lymington/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Elderflower",

@@ -1,53 +1,587 @@
 {
   "title": "Osaka",
+  "country": "Japan",
+  "countrySlug": "japan",
+  "region": null,
+  "regionSlug": "osaka",
+  "city": "Osaka",
+  "citySlug": "osaka",
+  "path": "/japan/osaka/osaka/restaurants",
+  "canonicalPath": "/japan/osaka/osaka/restaurants",
+  "count": 267,
   "restaurants": [
     {
-      "name": "Ñ",
-      "cuisine": "Spanish",
+      "name": "HAJIME",
+      "cuisine": "Innovative",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/hajime",
+      "award": "★★★"
+    },
+    {
+      "name": "Kashiwaya Osaka Senriyama",
+      "cuisine": "Japanese",
       "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/"
+      "path": "/japan/osaka/osaka/kashiwaya-osaka-senriyama",
+      "award": "★★★"
+    },
+    {
+      "name": "Taian",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/taian",
+      "award": "★★★"
+    },
+    {
+      "name": "Fujiya 1935",
+      "cuisine": "Innovative",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/fujiya1935",
+      "award": "★★"
+    },
+    {
+      "name": "KAHALA",
+      "cuisine": "Innovative",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/kahala",
+      "award": "★★"
+    },
+    {
+      "name": "Koryu",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/koryu",
+      "award": "★★"
+    },
+    {
+      "name": "La Cime",
+      "cuisine": "French, Contemporary",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/la-cime",
+      "award": "★★"
+    },
+    {
+      "name": "Miyamoto",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/miyamoto",
+      "award": "★★"
+    },
+    {
+      "name": "Numata",
+      "cuisine": "Tempura",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/numata",
+      "award": "★★"
+    },
+    {
+      "name": "Oimatsu Hisano",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/oimatsu-hisano",
+      "award": "★★"
+    },
+    {
+      "name": "Shunsaiten Tsuchiya",
+      "cuisine": "Tempura, Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/shunsaiten-tsuchiya",
+      "award": "★★"
+    },
+    {
+      "name": "Sushi Harasho",
+      "cuisine": "Sushi",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/sushi-harasho",
+      "award": "★★"
+    },
+    {
+      "name": "Tenjimbashi Aoki",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/tenjimbashi-aoki",
+      "award": "★★"
+    },
+    {
+      "name": "Yugen",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/yugen",
+      "award": "★★"
     },
     {
       "name": "a canto",
       "cuisine": "Italian",
       "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/a-canto"
+      "path": "/japan/osaka/osaka/a-canto",
+      "award": "★"
     },
     {
       "name": "ad hoc",
       "cuisine": "French",
       "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/ad-hoc"
+      "path": "/japan/osaka/osaka/ad-hoc",
+      "award": "★"
     },
     {
       "name": "agnel d'or",
       "cuisine": "French",
       "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/agnel-dor"
+      "path": "/japan/osaka/osaka/agnel-dor",
+      "award": "★"
     },
     {
       "name": "Ajikitcho Bumbuan",
       "cuisine": "Japanese",
       "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/ajikitcho-bumbuan"
+      "path": "/japan/osaka/osaka/ajikitcho-bumbuan",
+      "award": "★"
     },
     {
       "name": "Ajikitcho Horieten",
       "cuisine": "Japanese",
       "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/ajikitcho-horieten"
+      "path": "/japan/osaka/osaka/ajikitcho-horieten",
+      "award": "★"
+    },
+    {
+      "name": "Alarde",
+      "cuisine": "Spanish",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/alarde",
+      "award": "★"
+    },
+    {
+      "name": "capi",
+      "cuisine": "Innovative",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/capi",
+      "award": "★"
+    },
+    {
+      "name": "Chi-Fu",
+      "cuisine": "Chinese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/chifu",
+      "award": "★"
+    },
+    {
+      "name": "Différence",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/diffrence",
+      "award": "★"
+    },
+    {
+      "name": "Fushimimachi Kakoiyama",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/fushimimachi-kakoiyama",
+      "award": "★"
+    },
+    {
+      "name": "Higashichaya Nakamura",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/higashichaya-nakamura",
+      "award": "★"
+    },
+    {
+      "name": "Hiraishi",
+      "cuisine": "Tempura",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/hiraishi",
+      "award": "★"
+    },
+    {
+      "name": "Ichiju Nisai Ueno Minoten",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/ichiju-nisai-ueno-minoten",
+      "award": "★"
+    },
+    {
+      "name": "IDÉAL bistro",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/idal-bistro",
+      "award": "★"
+    },
+    {
+      "name": "il Centrino",
+      "cuisine": "Italian",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/il-centrino",
+      "award": "★"
+    },
+    {
+      "name": "Iroha",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/iroha",
+      "award": "★"
+    },
+    {
+      "name": "Iwaki",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/iwaki",
+      "award": "★"
+    },
+    {
+      "name": "Kaishoku Shimizu",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/kaishoku-shimizu",
+      "award": "★"
+    },
+    {
+      "name": "Kamigatachuka SHINTANI",
+      "cuisine": "Chinese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/kamigatachuka-shintani",
+      "award": "★"
+    },
+    {
+      "name": "Kashiwaya Osaka Kitashinchi",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/kashiwaya-osaka-kitashinchi",
+      "award": "★"
+    },
+    {
+      "name": "Katamachi Kawaguchi",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/katamachi-kawaguchi",
+      "award": "★"
+    },
+    {
+      "name": "Konoha",
+      "cuisine": "Japanese, Tempura",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/konoha",
+      "award": "★"
+    },
+    {
+      "name": "KushinGarando",
+      "cuisine": "Chinese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/kushingarando",
+      "award": "★"
+    },
+    {
+      "name": "La Baie",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/la-baie",
+      "award": "★"
+    },
+    {
+      "name": "La Bécasse",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/la-bcasse-o-s-a",
+      "award": "★"
+    },
+    {
+      "name": "LE PONT DE CIEL",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/le-pont-de-ciel",
+      "award": "★"
+    },
+    {
+      "name": "Masuda",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/masuda",
+      "award": "★"
+    },
+    {
+      "name": "Matsuzushi",
+      "cuisine": "Sushi",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/matsuzushi",
+      "award": "★"
+    },
+    {
+      "name": "Matsuzushi Tanigawa",
+      "cuisine": "Sushi",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/matsuzushi-tanigawa",
+      "award": "★"
+    },
+    {
+      "name": "milpa",
+      "cuisine": "Mexican, Contemporary",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/milpa",
+      "award": "★"
+    },
+    {
+      "name": "Naniwaryori Yu",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/naniwaryori-yu",
+      "award": "★"
+    },
+    {
+      "name": "nent",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/nent",
+      "award": "★"
+    },
+    {
+      "name": "Nishino",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/nishino",
+      "award": "★"
+    },
+    {
+      "name": "Nishishinsaibashi Yuno",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/nishishinsaibashi-yuno",
+      "award": "★"
+    },
+    {
+      "name": "Nishitemma Ichigaya",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/nishitemma-ichigaya",
+      "award": "★"
+    },
+    {
+      "name": "Nishitemma Nakamura",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/nishitemma-nakamura",
+      "award": "★"
+    },
+    {
+      "name": "Oimatsu Kitagawa",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/oimatsu-kitagawa",
+      "award": "★"
+    },
+    {
+      "name": "Ono",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/ono",
+      "award": "★"
+    },
+    {
+      "name": "ORIGIN",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/origin",
+      "award": "★"
+    },
+    {
+      "name": "Oryori Horikawa",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/oryori-horikawa",
+      "award": "★"
+    },
+    {
+      "name": "Oryori Yamada",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/oryori-yamada",
+      "award": "★"
+    },
+    {
+      "name": "P greco",
+      "cuisine": "Italian",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/p-greco",
+      "award": "★"
+    },
+    {
+      "name": "Pierre",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/pierre-o-s-a",
+      "award": "★"
+    },
+    {
+      "name": "Point",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/point",
+      "award": "★"
+    },
+    {
+      "name": "PRESQU'ÎLE",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/presqule",
+      "award": "★"
+    },
+    {
+      "name": "Rakushin",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/rakushin",
+      "award": "★"
+    },
+    {
+      "name": "Rooots Nakanoshima",
+      "cuisine": "Contemporary",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/rooots-nakanoshima",
+      "award": "★"
+    },
+    {
+      "name": "Ryoriya Inaya",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/ryoriya-inaya",
+      "award": "★"
+    },
+    {
+      "name": "Sawada",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/sawada",
+      "award": "★"
+    },
+    {
+      "name": "Shinchi Yamamoto",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/shinchi-yamamoto",
+      "award": "★"
+    },
+    {
+      "name": "SINAE",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/sinae",
+      "award": "★"
+    },
+    {
+      "name": "Sui Oya",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/sui-oya",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Hoshiyama",
+      "cuisine": "Sushi",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/sushi-hoshiyama",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Murakami Jiro",
+      "cuisine": "Sushi",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/sushi-murakami-jiro",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Sanshin",
+      "cuisine": "Sushi",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/sushi-sanshin",
+      "award": "★"
+    },
+    {
+      "name": "Sushidokoro Amano",
+      "cuisine": "Sushi",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/sushidokoro-amano",
+      "award": "★"
+    },
+    {
+      "name": "Terada",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/terada",
+      "award": "★"
+    },
+    {
+      "name": "Teruya",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/teruya",
+      "award": "★"
+    },
+    {
+      "name": "Torisho Ishii",
+      "cuisine": "Yakitori",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/torisho-ishii",
+      "award": "★"
+    },
+    {
+      "name": "Yakitori Ichimatsu",
+      "cuisine": "Yakitori",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/yakitori-ichimatsu",
+      "award": "★"
+    },
+    {
+      "name": "Yakitori Torisen",
+      "cuisine": "Yakitori",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/yakitori-torisen",
+      "award": "★"
+    },
+    {
+      "name": "Yonemasu",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/yonemasu",
+      "award": "★"
+    },
+    {
+      "name": "Yoshiko",
+      "cuisine": "Fugu / Pufferfish",
+      "price": "¥¥¥¥",
+      "path": "/japan/osaka/osaka/yoshiko",
+      "award": "★"
+    },
+    {
+      "name": "YUNiCO",
+      "cuisine": "Italian, Italian Contemporary",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/yunico-o-s-a",
+      "award": "★"
+    },
+    {
+      "name": "Zeshin",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/zeshin",
+      "award": "★"
+    },
+    {
+      "name": "Mendokoro Subete",
+      "cuisine": "Ramen",
+      "price": "$",
+      "path": "/japan/osaka/osaka/mendokoro-subete",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Tonkatsu Minato",
+      "cuisine": "Tonkatsu",
+      "price": "$",
+      "path": "/japan/osaka/osaka/tonkatsu-minato",
+      "award": "Bib Gourmand"
     },
     {
       "name": "AKA to SHIRO",
       "cuisine": "Sushi",
       "price": "¥¥",
       "path": "/japan/osaka/osaka/aka-to-shiro"
-    },
-    {
-      "name": "Alarde",
-      "cuisine": "Spanish",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/alarde"
     },
     {
       "name": "anu",
@@ -128,18 +662,6 @@
       "path": "/japan/osaka/osaka/brasserie-rgine"
     },
     {
-      "name": "capi",
-      "cuisine": "Innovative",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/capi"
-    },
-    {
-      "name": "Chi-Fu",
-      "cuisine": "Chinese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/chi-fu"
-    },
-    {
       "name": "Chukashunsai Morimoto",
       "cuisine": "Chinese",
       "price": "¥¥",
@@ -176,16 +698,10 @@
       "path": "/japan/osaka/osaka/deli-a-casa"
     },
     {
-      "name": "Différence",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/diffrence"
-    },
-    {
       "name": "DIVA",
       "cuisine": "French",
       "price": "¥¥",
-      "path": "/japan/osaka/osaka/diva"
+      "path": "/japan/osaka/osaka/diva-o-s-a"
     },
     {
       "name": "Donostia",
@@ -212,22 +728,34 @@
       "path": "/japan/osaka/osaka/empathie"
     },
     {
+      "name": "épa",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/japan/osaka/osaka/pa"
+    },
+    {
+      "name": "Être à l'aise",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/osaka/osaka/tre-laise"
+    },
+    {
       "name": "ETXOLA",
       "cuisine": "Spanish",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/etxola"
     },
     {
-      "name": "Fujiya 1935",
-      "cuisine": "Innovative",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/fujiya-1935"
+      "name": "Fujiichi",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/japan/osaka/osaka/fujiichi"
     },
     {
-      "name": "Fushimimachi Kakoiyama",
+      "name": "Fukunoya",
       "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/fushimimachi-kakoiyama"
+      "price": "$$$",
+      "path": "/japan/osaka/osaka/fukunoya"
     },
     {
       "name": "gastroteka bimendi",
@@ -260,24 +788,6 @@
       "path": "/japan/osaka/osaka/hachi"
     },
     {
-      "name": "HAJIME",
-      "cuisine": "Innovative",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/hajime"
-    },
-    {
-      "name": "Higashichaya Nakamura",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/higashichaya-nakamura"
-    },
-    {
-      "name": "Hiraishi",
-      "cuisine": "Tempura",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/hiraishi"
-    },
-    {
       "name": "Hommachi Seimenjo Chukasobakobo",
       "cuisine": "Ramen",
       "price": "¥",
@@ -290,46 +800,16 @@
       "path": "/japan/osaka/osaka/hozan"
     },
     {
-      "name": "Ichiju Nisai Ueno Minoten",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/ichiju-nisai-ueno-minoten"
-    },
-    {
-      "name": "IDÉAL bistro",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/idal-bistro"
-    },
-    {
-      "name": "il Centrino",
-      "cuisine": "Italian",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/il-centrino"
-    },
-    {
       "name": "il luogo di TAKEUCHI",
       "cuisine": "Italian",
       "price": "¥¥",
       "path": "/japan/osaka/osaka/il-luogo-di-takeuchi"
     },
     {
-      "name": "Iroha",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/iroha"
-    },
-    {
       "name": "isolata",
       "cuisine": "Italian",
       "price": "¥¥",
       "path": "/japan/osaka/osaka/isolata"
-    },
-    {
-      "name": "Iwaki",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/iwaki"
     },
     {
       "name": "Izakaya Tokitame",
@@ -350,16 +830,10 @@
       "path": "/japan/osaka/osaka/jibundoki"
     },
     {
-      "name": "KAHALA",
-      "cuisine": "Innovative",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/kahala"
-    },
-    {
-      "name": "Kaishoku Shimizu",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/kaishoku-shimizu"
+      "name": "KAKAN",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/japan/osaka/osaka/kakan"
     },
     {
       "name": "Kamado",
@@ -380,12 +854,6 @@
       "path": "/japan/osaka/osaka/kamigata-rainbow"
     },
     {
-      "name": "Kamigatachuka SHINTANI",
-      "cuisine": "Chinese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/kamigatachuka-shintani"
-    },
-    {
       "name": "KAMINOZA",
       "cuisine": "Japanese",
       "price": "¥¥¥",
@@ -398,28 +866,10 @@
       "path": "/japan/osaka/osaka/kannomiho"
     },
     {
-      "name": "Kashiwaya Osaka Kitashinchi",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/kashiwaya-osaka-kitashinchi"
-    },
-    {
-      "name": "Kashiwaya Osaka Senriyama",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/kashiwaya-osaka-senriyama"
-    },
-    {
       "name": "Kassen Iritani",
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/kassen-iritani"
-    },
-    {
-      "name": "Katamachi Kawaguchi",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/katamachi-kawaguchi"
     },
     {
       "name": "Kawahara",
@@ -488,18 +938,6 @@
       "path": "/japan/osaka/osaka/konishi"
     },
     {
-      "name": "Konoha",
-      "cuisine": "Japanese, Tempura",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/konoha"
-    },
-    {
-      "name": "Koryu",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/koryu"
-    },
-    {
       "name": "Koryu Keishin",
       "cuisine": "Japanese",
       "price": "¥¥¥",
@@ -521,7 +959,7 @@
       "name": "kushiage 010",
       "cuisine": "Kushiage",
       "price": "¥¥",
-      "path": "/japan/osaka/osaka/kushiage-010"
+      "path": "/japan/osaka/osaka/kushiage010"
     },
     {
       "name": "Kushikatsu Daibon",
@@ -536,40 +974,22 @@
       "path": "/japan/osaka/osaka/kushikatsu-gojoya"
     },
     {
-      "name": "KushinGarando",
-      "cuisine": "Chinese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/kushingarando"
-    },
-    {
       "name": "Kyomachibori Nakamura",
       "cuisine": "Tonkatsu",
       "price": "¥¥",
       "path": "/japan/osaka/osaka/kyomachibori-nakamura"
     },
     {
-      "name": "La Baie",
-      "cuisine": "French",
+      "name": "L'angolo",
+      "cuisine": "European",
       "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/la-baie"
-    },
-    {
-      "name": "La Bécasse",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/la-bcasse"
+      "path": "/japan/osaka/osaka/langolo"
     },
     {
       "name": "La bonne tâche",
       "cuisine": "French",
       "price": "¥¥",
       "path": "/japan/osaka/osaka/la-bonne-tche"
-    },
-    {
-      "name": "La Cime",
-      "cuisine": "French, Contemporary",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/la-cime"
     },
     {
       "name": "La Kanro",
@@ -590,12 +1010,6 @@
       "path": "/japan/osaka/osaka/lacerba"
     },
     {
-      "name": "L'angolo",
-      "cuisine": "European",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/langolo"
-    },
-    {
       "name": "Le Caneton",
       "cuisine": "French",
       "price": "¥¥¥",
@@ -612,12 +1026,6 @@
       "cuisine": "French",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/le-nez"
-    },
-    {
-      "name": "LE PONT DE CIEL",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/le-pont-de-ciel"
     },
     {
       "name": "Le progrès",
@@ -641,7 +1049,7 @@
       "name": "LOUISE",
       "cuisine": "French",
       "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/louise"
+      "path": "/japan/osaka/osaka/louise-o-s-a"
     },
     {
       "name": "Macauda",
@@ -659,7 +1067,7 @@
       "name": "Man-u",
       "cuisine": "Oden",
       "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/man-u"
+      "path": "/japan/osaka/osaka/manu"
     },
     {
       "name": "Mashino Ken",
@@ -668,28 +1076,10 @@
       "path": "/japan/osaka/osaka/mashino-ken"
     },
     {
-      "name": "Masuda",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/masuda"
-    },
-    {
       "name": "MATO",
       "cuisine": "Chinese",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/mato"
-    },
-    {
-      "name": "Matsuzushi",
-      "cuisine": "Sushi",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/matsuzushi"
-    },
-    {
-      "name": "Matsuzushi Tanigawa",
-      "cuisine": "Sushi",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/matsuzushi-tanigawa"
     },
     {
       "name": "Michino Le Tourbillon",
@@ -698,22 +1088,16 @@
       "path": "/japan/osaka/osaka/michino-le-tourbillon"
     },
     {
-      "name": "milpa",
-      "cuisine": "Mexican, Contemporary",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/milpa"
-    },
-    {
-      "name": "Miyamoto",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/miyamoto"
-    },
-    {
       "name": "Mugito Mensuke",
       "cuisine": "Ramen",
       "price": "¥",
       "path": "/japan/osaka/osaka/mugito-mensuke"
+    },
+    {
+      "name": "Mugunfa",
+      "cuisine": "Korean",
+      "price": "$$",
+      "path": "/japan/osaka/osaka/mugunfa"
     },
     {
       "name": "Naniwa Okina",
@@ -734,22 +1118,10 @@
       "path": "/japan/osaka/osaka/naniwaryori-satou"
     },
     {
-      "name": "Naniwaryori Yu",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/naniwaryori-yu"
-    },
-    {
       "name": "NELU KORAIBASHI",
       "cuisine": "French, Contemporary",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/nelu-koraibashi"
-    },
-    {
-      "name": "nent",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/nent"
     },
     {
       "name": "Nihonshuzammai Utsutsuyo",
@@ -770,36 +1142,6 @@
       "path": "/japan/osaka/osaka/nishideria"
     },
     {
-      "name": "Nishino",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/nishino"
-    },
-    {
-      "name": "Nishishinsaibashi Yuno",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/nishishinsaibashi-yuno"
-    },
-    {
-      "name": "Nishitemma Ichigaya",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/nishitemma-ichigaya"
-    },
-    {
-      "name": "Nishitemma Nakamura",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/nishitemma-nakamura"
-    },
-    {
-      "name": "Numata",
-      "cuisine": "Tempura",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/numata"
-    },
-    {
       "name": "Numata Sou",
       "cuisine": "Tempura",
       "price": "¥¥¥",
@@ -810,18 +1152,6 @@
       "cuisine": "Udon",
       "price": "¥",
       "path": "/japan/osaka/osaka/ogimachi-udonya-asuro"
-    },
-    {
-      "name": "Oimatsu Hisano",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/oimatsu-hisano"
-    },
-    {
-      "name": "Oimatsu Kitagawa",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/oimatsu-kitagawa"
     },
     {
       "name": "OIMATSU Tempura Suzuki",
@@ -836,10 +1166,10 @@
       "path": "/japan/osaka/osaka/oku"
     },
     {
-      "name": "Ono",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/ono"
+      "name": "Óptimo",
+      "cuisine": "Spanish",
+      "price": "¥¥",
+      "path": "/japan/osaka/osaka/ptimo"
     },
     {
       "name": "Oribe",
@@ -848,22 +1178,10 @@
       "path": "/japan/osaka/osaka/oribe"
     },
     {
-      "name": "ORIGIN",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/origin"
-    },
-    {
       "name": "Oryori Amenimomakezu",
       "cuisine": "Japanese",
       "price": "¥¥",
       "path": "/japan/osaka/osaka/oryori-amenimomakezu"
-    },
-    {
-      "name": "Oryori Horikawa",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/oryori-horikawa"
     },
     {
       "name": "Oryori Matsumura",
@@ -876,12 +1194,6 @@
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/oryori-nonohara"
-    },
-    {
-      "name": "Oryori Yamada",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/oryori-yamada"
     },
     {
       "name": "Osteria La Cicerchia",
@@ -908,22 +1220,10 @@
       "path": "/japan/osaka/osaka/oudon-yomogi"
     },
     {
-      "name": "P greco",
-      "cuisine": "Italian",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/p-greco"
-    },
-    {
       "name": "Pebble",
       "cuisine": "Italian",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/pebble"
-    },
-    {
-      "name": "Pierre",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/pierre"
     },
     {
       "name": "PITAK GOHAN",
@@ -932,22 +1232,10 @@
       "path": "/japan/osaka/osaka/pitak-gohan"
     },
     {
-      "name": "Point",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/point"
-    },
-    {
       "name": "PONTE VECCHIO",
       "cuisine": "Italian",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/ponte-vecchio"
-    },
-    {
-      "name": "PRESQU'ÎLE",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/presqule"
     },
     {
       "name": "PRESTAU",
@@ -956,22 +1244,10 @@
       "path": "/japan/osaka/osaka/prestau"
     },
     {
-      "name": "Óptimo",
-      "cuisine": "Spanish",
-      "price": "¥¥",
-      "path": "/japan/osaka/osaka/ptimo"
-    },
-    {
       "name": "QUINTOCANTO",
       "cuisine": "Italian",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/quintocanto"
-    },
-    {
-      "name": "Rakushin",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/rakushin"
     },
     {
       "name": "Ramen Hayato",
@@ -998,18 +1274,6 @@
       "path": "/japan/osaka/osaka/rivi"
     },
     {
-      "name": "Rooots Nakanoshima",
-      "cuisine": "Contemporary",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/rooots-nakanoshima"
-    },
-    {
-      "name": "Ryoriya Inaya",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/ryoriya-inaya"
-    },
-    {
       "name": "Sakamoto Sushi",
       "cuisine": "Sushi",
       "price": "¥¥",
@@ -1022,12 +1286,6 @@
       "path": "/japan/osaka/osaka/sakeya-sakana-yoshimura"
     },
     {
-      "name": "Sawada",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/sawada"
-    },
-    {
       "name": "Sennarizushi",
       "cuisine": "Sushi",
       "price": "¥¥¥",
@@ -1038,12 +1296,6 @@
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/shimmachi-adachi"
-    },
-    {
-      "name": "Shinchi Yamamoto",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/shinchi-yamamoto"
     },
     {
       "name": "Shintaro",
@@ -1082,12 +1334,6 @@
       "path": "/japan/osaka/osaka/shuko-osaka-manpukudou"
     },
     {
-      "name": "Shunsaiten Tsuchiya",
-      "cuisine": "Tempura, Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/shunsaiten-tsuchiya"
-    },
-    {
       "name": "Shunten Shin",
       "cuisine": "Tempura",
       "price": "¥¥¥",
@@ -1098,12 +1344,6 @@
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/shunzen-kiraku"
-    },
-    {
-      "name": "SINAE",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/sinae"
     },
     {
       "name": "Soba Takama",
@@ -1148,12 +1388,6 @@
       "path": "/japan/osaka/osaka/sui-okazaki"
     },
     {
-      "name": "Sui Oya",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/sui-oya"
-    },
-    {
       "name": "Suigyo Murabayashi",
       "cuisine": "Izakaya",
       "price": "¥¥",
@@ -1166,6 +1400,12 @@
       "path": "/japan/osaka/osaka/sumibi-iwata"
     },
     {
+      "name": "Sumibiyakitori Torio",
+      "cuisine": "Yakitori",
+      "price": "$$",
+      "path": "/japan/osaka/osaka/sumibiyakitori-torio"
+    },
+    {
       "name": "Sumisho Mikuriya",
       "cuisine": "Yakitori",
       "price": "¥¥",
@@ -1176,18 +1416,6 @@
       "cuisine": "Sushi",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/sushi-enishi"
-    },
-    {
-      "name": "Sushi Harasho",
-      "cuisine": "Sushi",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/sushi-harasho"
-    },
-    {
-      "name": "Sushi Hoshiyama",
-      "cuisine": "Sushi",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/sushi-hoshiyama"
     },
     {
       "name": "Sushi Ichiei",
@@ -1208,18 +1436,6 @@
       "path": "/japan/osaka/osaka/sushi-marumine"
     },
     {
-      "name": "Sushi Murakami Jiro",
-      "cuisine": "Sushi",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/sushi-murakami-jiro"
-    },
-    {
-      "name": "Sushi Sanshin",
-      "cuisine": "Sushi",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/sushi-sanshin"
-    },
-    {
       "name": "Sushi Shigenaga",
       "cuisine": "Sushi",
       "price": "¥¥¥",
@@ -1236,12 +1452,6 @@
       "cuisine": "Sushi",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/sushi-yuden"
-    },
-    {
-      "name": "Sushidokoro Amano",
-      "cuisine": "Sushi",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/sushidokoro-amano"
     },
     {
       "name": "Sushidokoro Hirokawa",
@@ -1286,12 +1496,6 @@
       "path": "/japan/osaka/osaka/sushitsune"
     },
     {
-      "name": "Taian",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/taian"
-    },
-    {
       "name": "Takeda",
       "cuisine": "Japanese",
       "price": "¥¥¥",
@@ -1334,6 +1538,12 @@
       "path": "/japan/osaka/osaka/tempura-hanagatami"
     },
     {
+      "name": "Tempura Kawaharasaki",
+      "cuisine": "Tempura",
+      "price": "$$$",
+      "path": "/japan/osaka/osaka/tempura-kawaharasaki"
+    },
+    {
       "name": "Tempura Kozaki",
       "cuisine": "Tempura",
       "price": "¥¥",
@@ -1358,28 +1568,10 @@
       "path": "/japan/osaka/osaka/tenboshi"
     },
     {
-      "name": "Tenjimbashi Aoki",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/tenjimbashi-aoki"
-    },
-    {
       "name": "Teppanyaki WAJO",
       "cuisine": "Teppanyaki",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/teppanyaki-wajo"
-    },
-    {
-      "name": "Terada",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/terada"
-    },
-    {
-      "name": "Teruya",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/teruya"
     },
     {
       "name": "Tonkatsu Fujii",
@@ -1394,22 +1586,10 @@
       "path": "/japan/osaka/osaka/tonkatsu-katsu-hana"
     },
     {
-      "name": "Torisho Ishii",
-      "cuisine": "Yakitori",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/torisho-ishii"
-    },
-    {
       "name": "Tosara",
       "cuisine": "Contemporary, Italian",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/tosara"
-    },
-    {
-      "name": "Être à l'aise",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/tre-laise"
     },
     {
       "name": "Udondokoro Shigemi",
@@ -1484,12 +1664,6 @@
       "path": "/japan/osaka/osaka/xiang-hua"
     },
     {
-      "name": "Yakitori Ichimatsu",
-      "cuisine": "Yakitori",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/yakitori-ichimatsu"
-    },
-    {
       "name": "Yakitori Matsuoka",
       "cuisine": "Yakitori",
       "price": "¥¥¥",
@@ -1502,28 +1676,10 @@
       "path": "/japan/osaka/osaka/yakitori-matsuri"
     },
     {
-      "name": "Yakitori Torisen",
-      "cuisine": "Yakitori",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/yakitori-torisen"
-    },
-    {
       "name": "Yiwanshui",
       "cuisine": "Chinese",
       "price": "¥¥¥",
       "path": "/japan/osaka/osaka/yiwanshui"
-    },
-    {
-      "name": "Yonemasu",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/yonemasu"
-    },
-    {
-      "name": "Yoshiko",
-      "cuisine": "Fugu / Pufferfish",
-      "price": "¥¥¥¥",
-      "path": "/japan/osaka/osaka/yoshiko"
     },
     {
       "name": "Yoshitaka",
@@ -1536,78 +1692,6 @@
       "cuisine": "Yoshoku",
       "price": "¥",
       "path": "/japan/osaka/osaka/yoshokuya-fujiya"
-    },
-    {
-      "name": "Yugen",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/yugen"
-    },
-    {
-      "name": "YUNiCO",
-      "cuisine": "Italian, Italian Contemporary",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/yunico"
-    },
-    {
-      "name": "Zeshin",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/osaka/osaka/zeshin"
-    },
-    {
-      "name": "Mendokoro Subete",
-      "cuisine": "Ramen",
-      "price": "$",
-      "path": "/japan/osaka/osaka/MendokoroSubete"
-    },
-    {
-      "name": "Tonkatsu Minato",
-      "cuisine": "Tonkatsu",
-      "price": "$",
-      "path": "/japan/osaka/osaka/TonkatsuMinato"
-    },
-    {
-      "name": "Fujiichi",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/japan/osaka/osaka/Fujiichi"
-    },
-    {
-      "name": "Fukunoya",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/japan/osaka/osaka/Fukunoya"
-    },
-    {
-      "name": "KAKAN",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/japan/osaka/osaka/Kakan"
-    },
-    {
-      "name": "Mugunfa",
-      "cuisine": "Korean",
-      "price": "$$",
-      "path": "/japan/osaka/osaka/Mugunfa"
-    },
-    {
-      "name": "Sumibiyakitori Torio",
-      "cuisine": "Yakitori",
-      "price": "$$",
-      "path": "/japan/osaka/osaka/SumibiyakitoriTorio"
-    },
-    {
-      "name": "Tempura Kawaharasaki",
-      "cuisine": "Tempura",
-      "price": "$$$",
-      "path": "/japan/osaka/osaka/TempuraKawaharasaki"
-    },
-    {
-      "name": "épa",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/japan/osaka/osaka/Pa"
     }
   ]
 }

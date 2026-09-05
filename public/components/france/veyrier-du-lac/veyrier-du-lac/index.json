@@ -1,14 +1,21 @@
 {
-  "title": "Veyrier Du Lac",
-  "country": "france",
-  "region": "veyrier-du-lac",
-  "city": "veyrier-du-lac",
+  "title": "Veyrier du Lac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "veyrier-du-lac",
+  "city": "Veyrier du Lac",
+  "citySlug": "veyrier-du-lac",
+  "path": "/france/veyrier-du-lac/veyrier-du-lac/restaurants",
+  "canonicalPath": "/france/veyrier-du-lac/veyrier-du-lac/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Table de Yoann Conte",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/veyrier-du-lac/veyrier-du-lac/la-table-de-yoann-conte"
+      "path": "/france/veyrier-du-lac/veyrier-du-lac/la-table-de-yoann-conte",
+      "award": "★★"
     },
     {
       "name": "Le Roc",

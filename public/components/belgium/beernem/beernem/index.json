@@ -1,8 +1,14 @@
 {
   "title": "Beernem",
-  "country": "belgium",
-  "region": "beernem",
-  "city": "beernem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "beernem",
+  "city": "Beernem",
+  "citySlug": "beernem",
+  "path": "/belgium/beernem/beernem/restaurants",
+  "canonicalPath": "/belgium/beernem/beernem/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "d'Afspanning",

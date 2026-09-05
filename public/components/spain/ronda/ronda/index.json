@@ -1,14 +1,21 @@
 {
   "title": "Ronda",
-  "country": "spain",
-  "region": "ronda",
-  "city": "ronda",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "ronda",
+  "city": "Ronda",
+  "citySlug": "ronda",
+  "path": "/spain/ronda/ronda/restaurants",
+  "canonicalPath": "/spain/ronda/ronda/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bardal",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/ronda/ronda/bardal"
+      "path": "/spain/ronda/ronda/bardal",
+      "award": "★★"
     },
     {
       "name": "Tragatá Ronda",

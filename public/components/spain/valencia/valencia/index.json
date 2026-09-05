@@ -1,6 +1,78 @@
 {
   "title": "Valencia",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "valencia",
+  "city": "Valencia",
+  "citySlug": "valencia",
+  "path": "/spain/valencia/valencia/restaurants",
+  "canonicalPath": "/spain/valencia/valencia/restaurants",
+  "count": 33,
   "restaurants": [
+    {
+      "name": "El Poblet",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/valencia/valencia/el-poblet",
+      "award": "★★"
+    },
+    {
+      "name": "Flores Raras",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/valencia/valencia/flores-raras",
+      "award": "★★"
+    },
+    {
+      "name": "Ricard Camarena",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/valencia/valencia/ricard-camarena",
+      "award": "★★"
+    },
+    {
+      "name": "Fierro",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/valencia/valencia/fierro",
+      "award": "★"
+    },
+    {
+      "name": "Fraula",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/valencia/valencia/fraula",
+      "award": "★"
+    },
+    {
+      "name": "Kaido Sushi Bar",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/spain/valencia/valencia/kaido-sushi-bar",
+      "award": "★"
+    },
+    {
+      "name": "La Salita",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/valencia/valencia/la-salita",
+      "award": "★"
+    },
+    {
+      "name": "Lienzo",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/valencia/valencia/lienzo",
+      "award": "★"
+    },
+    {
+      "name": "Riff",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/valencia/valencia/riff",
+      "award": "★"
+    },
     {
       "name": "2 Estaciones",
       "cuisine": "Mediterranean Cuisine",
@@ -11,7 +83,7 @@
       "name": "Apicius",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/valencia/valencia/apicius"
+      "path": "/spain/valencia/valencia/apicius-v-a-l"
     },
     {
       "name": "Blanqueries",
@@ -26,40 +98,16 @@
       "path": "/spain/valencia/valencia/el-bressol"
     },
     {
-      "name": "El Poblet",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/valencia/valencia/el-poblet"
-    },
-    {
-      "name": "Fierro",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/valencia/valencia/fierro"
-    },
-    {
       "name": "Flama",
       "cuisine": "Grills",
       "price": "€€€",
       "path": "/spain/valencia/valencia/flama"
     },
     {
-      "name": "Flores Raras",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/valencia/valencia/flores-raras"
-    },
-    {
       "name": "Forastera",
       "cuisine": "Farm to table, Traditional Cuisine",
       "price": "€€",
       "path": "/spain/valencia/valencia/forastera"
-    },
-    {
-      "name": "Fraula",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/valencia/valencia/fraula"
     },
     {
       "name": "Goya Gallery",
@@ -86,12 +134,6 @@
       "path": "/spain/valencia/valencia/haku"
     },
     {
-      "name": "Kaido Sushi Bar",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/spain/valencia/valencia/kaido-sushi-bar"
-    },
-    {
       "name": "Karak",
       "cuisine": "Fusion",
       "price": "€€€",
@@ -104,22 +146,22 @@
       "path": "/spain/valencia/valencia/la-barra-de-kaymus"
     },
     {
-      "name": "La Salita",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/valencia/valencia/la-salita"
-    },
-    {
-      "name": "Lienzo",
-      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/valencia/valencia/lienzo"
+      "name": "La Oficina",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/valencia/valencia/la-oficina"
     },
     {
       "name": "Llisa Negra",
       "cuisine": "Farm to table",
       "price": "€€€",
       "path": "/spain/valencia/valencia/llisa-negra"
+    },
+    {
+      "name": "Mala Hierba",
+      "cuisine": "Spanish Contemporary",
+      "price": "$$",
+      "path": "/spain/valencia/valencia/mala-hierba"
     },
     {
       "name": "Memoria Gustativa",
@@ -138,18 +180,6 @@
       "cuisine": "Japanese",
       "price": "€€",
       "path": "/spain/valencia/valencia/nozomi-sushi-bar"
-    },
-    {
-      "name": "Ricard Camarena",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/valencia/valencia/ricard-camarena"
-    },
-    {
-      "name": "Riff",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/valencia/valencia/riff"
     },
     {
       "name": "Saiti",
@@ -186,18 +216,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/spain/valencia/valencia/yarza"
-    },
-    {
-      "name": "La Oficina",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/spain/valencia/valencia/LaOficina"
-    },
-    {
-      "name": "Mala Hierba",
-      "cuisine": "Spanish Contemporary",
-      "price": "$$",
-      "path": "/spain/valencia/valencia/MalaHierba"
     }
   ]
 }

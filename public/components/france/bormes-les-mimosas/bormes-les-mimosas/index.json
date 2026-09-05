@@ -1,14 +1,20 @@
 {
-  "title": "Bormes Les Mimosas",
-  "country": "france",
-  "region": "bormes-les-mimosas",
-  "city": "bormes-les-mimosas",
+  "title": "Bormes les Mimosas",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bormes-les-mimosas",
+  "city": "Bormes les Mimosas",
+  "citySlug": "bormes-les-mimosas",
+  "path": "/france/bormes-les-mimosas/bormes-les-mimosas/restaurants",
+  "canonicalPath": "/france/bormes-les-mimosas/bormes-les-mimosas/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Jardin",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/bormes-les-mimosas/bormes-les-mimosas/le-jardin"
+      "path": "/france/bormes-les-mimosas/bormes-les-mimosas/le-jardin-b-o-r"
     },
     {
       "name": "Mimosa",

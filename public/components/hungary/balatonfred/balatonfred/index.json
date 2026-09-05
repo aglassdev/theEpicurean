@@ -1,5 +1,14 @@
 {
   "title": "Balatonfred",
+  "country": "Hungary",
+  "countrySlug": "hungary",
+  "region": null,
+  "regionSlug": "balatonfred",
+  "city": "Balatonfred",
+  "citySlug": "balatonfred",
+  "path": "/hungary/balatonfred/balatonfred/restaurants",
+  "canonicalPath": "/hungary/balatonfred/balatonfred/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "NOON",
@@ -14,16 +23,16 @@
       "path": "/hungary/balatonfred/balatonfred/sparhelt"
     },
     {
+      "name": "Zelna Bisztró",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/hungary/balatonfred/balatonfred/zelna-bisztr"
+    },
+    {
       "name": "Zelna Borbisztró",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/hungary/balatonfred/balatonfred/zelna-borbisztr"
-    },
-    {
-      "name": "Zelna Bisztró",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/hungary/balatonfred/balatonfred/ZelnaBisztr"
     }
   ]
 }

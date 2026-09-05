@@ -1,8 +1,14 @@
 {
   "title": "Moggiona",
-  "country": "italy",
-  "region": "moggiona",
-  "city": "moggiona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "moggiona",
+  "city": "Moggiona",
+  "citySlug": "moggiona",
+  "path": "/italy/moggiona/moggiona/restaurants",
+  "canonicalPath": "/italy/moggiona/moggiona/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Il Cedro",
@@ -14,7 +20,7 @@
       "name": "Mater",
       "cuisine": "Creative, Contemporary",
       "price": "€€€",
-      "path": "/italy/moggiona/moggiona/mater"
+      "path": "/italy/moggiona/moggiona/mater-m-o-g"
     }
   ]
 }

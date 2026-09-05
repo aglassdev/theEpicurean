@@ -1,8 +1,14 @@
 {
   "title": "Horben",
-  "country": "germany",
-  "region": "horben",
-  "city": "horben",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "horben",
+  "city": "Horben",
+  "citySlug": "horben",
+  "path": "/germany/horben/horben/restaurants",
+  "canonicalPath": "/germany/horben/horben/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gasthaus zum Raben",

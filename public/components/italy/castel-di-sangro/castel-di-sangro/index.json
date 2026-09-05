@@ -1,20 +1,27 @@
 {
-  "title": "Castel Di Sangro",
-  "country": "italy",
-  "region": "castel-di-sangro",
-  "city": "castel-di-sangro",
+  "title": "Castel di Sangro",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "castel-di-sangro",
+  "city": "Castel di Sangro",
+  "citySlug": "castel-di-sangro",
+  "path": "/italy/castel-di-sangro/castel-di-sangro/restaurants",
+  "canonicalPath": "/italy/castel-di-sangro/castel-di-sangro/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Reale",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/italy/castel-di-sangro/castel-di-sangro/reale",
+      "award": "★★★"
+    },
     {
       "name": "Materia Prima",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
       "path": "/italy/castel-di-sangro/castel-di-sangro/materia-prima"
-    },
-    {
-      "name": "Reale",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/italy/castel-di-sangro/castel-di-sangro/reale"
     }
   ]
 }

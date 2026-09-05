@@ -1,20 +1,27 @@
 {
   "title": "Geel",
-  "country": "belgium",
-  "region": "geel",
-  "city": "geel",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "geel",
+  "city": "Geel",
+  "citySlug": "geel",
+  "path": "/belgium/geel/geel/restaurants",
+  "canonicalPath": "/belgium/geel/geel/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "La Belle",
+      "cuisine": "Creative French",
+      "price": "€€€",
+      "path": "/belgium/geel/geel/la-belle",
+      "award": "★"
+    },
     {
       "name": "De Cuylhoeve",
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/belgium/geel/geel/de-cuylhoeve"
-    },
-    {
-      "name": "La Belle",
-      "cuisine": "Creative French",
-      "price": "€€€",
-      "path": "/belgium/geel/geel/la-belle"
     }
   ]
 }

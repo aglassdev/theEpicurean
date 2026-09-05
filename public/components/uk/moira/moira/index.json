@@ -1,8 +1,14 @@
 {
   "title": "Moira",
-  "country": "uk",
-  "region": "moira",
-  "city": "moira",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "moira",
+  "city": "Moira",
+  "citySlug": "moira",
+  "path": "/uk/moira/moira/restaurants",
+  "canonicalPath": "/uk/moira/moira/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Wine & Brine",

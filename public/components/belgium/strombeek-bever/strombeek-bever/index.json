@@ -1,14 +1,21 @@
 {
   "title": "Strombeek Bever",
-  "country": "belgium",
-  "region": "strombeek-bever",
-  "city": "strombeek-bever",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "strombeek-bever",
+  "city": "Strombeek Bever",
+  "citySlug": "strombeek-bever",
+  "path": "/belgium/strombeek-bever/strombeek-bever/restaurants",
+  "canonicalPath": "/belgium/strombeek-bever/strombeek-bever/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "'t Stoveke",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/strombeek-bever/strombeek-bever/t-stoveke"
+      "path": "/belgium/strombeek-bever/strombeek-bever/t-stoveke",
+      "award": "★"
     }
   ]
 }

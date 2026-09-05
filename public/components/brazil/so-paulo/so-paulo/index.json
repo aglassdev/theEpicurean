@@ -1,6 +1,155 @@
 {
   "title": "So Paulo",
+  "country": "Brazil",
+  "countrySlug": "brazil",
+  "region": null,
+  "regionSlug": "so-paulo",
+  "city": "So Paulo",
+  "citySlug": "so-paulo",
+  "path": "/brazil/so-paulo/so-paulo/restaurants",
+  "canonicalPath": "/brazil/so-paulo/so-paulo/restaurants",
+  "count": 114,
   "restaurants": [
+    {
+      "name": "D.O.M.",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/dom",
+      "award": "★★"
+    },
+    {
+      "name": "Evvai",
+      "cuisine": "Modern Cuisine, Brazilian",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/evvai",
+      "award": "★★"
+    },
+    {
+      "name": "Tuju",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/tuju",
+      "award": "★★"
+    },
+    {
+      "name": "Fame Osteria",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/fame-osteria",
+      "award": "★"
+    },
+    {
+      "name": "Huto",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/huto",
+      "award": "★"
+    },
+    {
+      "name": "Jun Sakamoto",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/jun-sakamoto",
+      "award": "★"
+    },
+    {
+      "name": "Kan Suke",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/brazil/so-paulo/so-paulo/kan-suke",
+      "award": "★"
+    },
+    {
+      "name": "KANOE",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/kanoe",
+      "award": "★"
+    },
+    {
+      "name": "Kazuo",
+      "cuisine": "Asian Influences",
+      "price": "$$$",
+      "path": "/brazil/so-paulo/so-paulo/kazuo",
+      "award": "★"
+    },
+    {
+      "name": "Kinoshita",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/kinoshita",
+      "award": "★"
+    },
+    {
+      "name": "Kuro",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/brazil/so-paulo/so-paulo/kuro",
+      "award": "★"
+    },
+    {
+      "name": "Maní",
+      "cuisine": "Creative, Brazilian",
+      "price": "$$$",
+      "path": "/brazil/so-paulo/so-paulo/man",
+      "award": "★"
+    },
+    {
+      "name": "Murakami",
+      "cuisine": "Japanese Contemporary",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/murakami",
+      "award": "★"
+    },
+    {
+      "name": "Oizumi Sushi",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$",
+      "path": "/brazil/so-paulo/so-paulo/oizumi-sushi",
+      "award": "★"
+    },
+    {
+      "name": "Picchi",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/picchi",
+      "award": "★"
+    },
+    {
+      "name": "Ryo Gastronomia",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/ryo-gastronomia",
+      "award": "★"
+    },
+    {
+      "name": "Tangará Jean-Georges",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/tangar-jeangeorges",
+      "award": "★"
+    },
+    {
+      "name": "Manioca JK",
+      "cuisine": "Brazilian",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/manioca-jk",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Ping Yang Thai Bar & Food",
+      "cuisine": "Thai contemporary",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/ping-yang-thai-bar-food",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Tabōa Cozinha Artesanal",
+      "cuisine": "Brazilian",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/taba-cozinha-artesanal",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "A Baianeira",
       "cuisine": "Brazilian",
@@ -38,12 +187,6 @@
       "path": "/brazil/so-paulo/so-paulo/ai"
     },
     {
-      "name": "Amadeus",
-      "cuisine": "Seafood",
-      "price": "$$$",
-      "path": "/brazil/so-paulo/so-paulo/amadeus"
-    },
-    {
       "name": "Ama.zo - Cozinha Peruana",
       "cuisine": "Peruvian, Farm to table",
       "price": "$$",
@@ -54,6 +197,12 @@
       "cuisine": "Peruvian",
       "price": "$$",
       "path": "/brazil/so-paulo/so-paulo/amazo-ptio-higienpolis"
+    },
+    {
+      "name": "Amadeus",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/brazil/so-paulo/so-paulo/amadeus"
     },
     {
       "name": "Animus",
@@ -78,6 +227,12 @@
       "cuisine": "Brazilian",
       "price": "$$",
       "path": "/brazil/so-paulo/so-paulo/banzeiro"
+    },
+    {
+      "name": "Bar da Dona Onça",
+      "cuisine": "Brazilian",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/bar-da-dona-ona"
     },
     {
       "name": "Barú Marisquería",
@@ -152,6 +307,12 @@
       "path": "/brazil/so-paulo/so-paulo/casa-santo-antnio"
     },
     {
+      "name": "Cena",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/brazil/so-paulo/so-paulo/cena"
+    },
+    {
       "name": "Cepa",
       "cuisine": "Contemporary, Farm to table",
       "price": "$$",
@@ -212,12 +373,6 @@
       "path": "/brazil/so-paulo/so-paulo/dinhos"
     },
     {
-      "name": "D.O.M.",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/dom"
-    },
-    {
       "name": "Ecully",
       "cuisine": "International",
       "price": "$$",
@@ -234,18 +389,6 @@
       "cuisine": "International",
       "price": "$$$",
       "path": "/brazil/so-paulo/so-paulo/emiliano"
-    },
-    {
-      "name": "Evvai",
-      "cuisine": "Modern Cuisine, Brazilian",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/evvai"
-    },
-    {
-      "name": "Fame Osteria",
-      "cuisine": "Italian Contemporary",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/fame-osteria"
     },
     {
       "name": "Fasano",
@@ -284,10 +427,10 @@
       "path": "/brazil/so-paulo/so-paulo/goya-zushi"
     },
     {
-      "name": "Huto",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/huto"
+      "name": "Grotta Cucina",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/grotta-cucina"
     },
     {
       "name": "Jacó",
@@ -306,36 +449,6 @@
       "cuisine": "Brazilian",
       "price": "$",
       "path": "/brazil/so-paulo/so-paulo/jiquitaia"
-    },
-    {
-      "name": "Jun Sakamoto",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/jun-sakamoto"
-    },
-    {
-      "name": "Kan Suke",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/brazil/so-paulo/so-paulo/kan-suke"
-    },
-    {
-      "name": "KANOE",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/kanoe"
-    },
-    {
-      "name": "Kazuo",
-      "cuisine": "Asian Influences",
-      "price": "$$$",
-      "path": "/brazil/so-paulo/so-paulo/kazuo"
-    },
-    {
-      "name": "Kinoshita",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/kinoshita"
     },
     {
       "name": "Komah",
@@ -362,10 +475,10 @@
       "path": "/brazil/so-paulo/so-paulo/kubo-zushi"
     },
     {
-      "name": "Kuro",
+      "name": "Kureiji",
       "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/brazil/so-paulo/so-paulo/kuro"
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/kureiji"
     },
     {
       "name": "Lassù",
@@ -398,10 +511,10 @@
       "path": "/brazil/so-paulo/so-paulo/loup"
     },
     {
-      "name": "Maní",
-      "cuisine": "Creative, Brazilian",
-      "price": "$$$",
-      "path": "/brazil/so-paulo/so-paulo/man"
+      "name": "Makoto San",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/brazil/so-paulo/so-paulo/makoto-san"
     },
     {
       "name": "Manioca",
@@ -452,12 +565,6 @@
       "path": "/brazil/so-paulo/so-paulo/mondo"
     },
     {
-      "name": "Murakami",
-      "cuisine": "Japanese Contemporary",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/murakami"
-    },
-    {
       "name": "Naga",
       "cuisine": "Japanese",
       "price": "$$$",
@@ -482,12 +589,6 @@
       "path": "/brazil/so-paulo/so-paulo/noti"
     },
     {
-      "name": "Oizumi Sushi",
-      "cuisine": "Japanese, Sushi",
-      "price": "$$$",
-      "path": "/brazil/so-paulo/so-paulo/oizumi-sushi"
-    },
-    {
       "name": "Osso",
       "cuisine": "Meats and Grills",
       "price": "$$$",
@@ -506,6 +607,12 @@
       "path": "/brazil/so-paulo/so-paulo/pet-gastronomia"
     },
     {
+      "name": "Piselli",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/brazil/so-paulo/so-paulo/piselli"
+    },
+    {
       "name": "Più Higienópolis",
       "cuisine": "Italian, Creative",
       "price": "$$",
@@ -518,28 +625,10 @@
       "path": "/brazil/so-paulo/so-paulo/pi-pinheiros"
     },
     {
-      "name": "Picchi",
-      "cuisine": "Italian",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/picchi"
-    },
-    {
-      "name": "Piselli",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/brazil/so-paulo/so-paulo/piselli"
-    },
-    {
       "name": "Pobre Juan",
       "cuisine": "Meats and Grills",
       "price": "$$$",
       "path": "/brazil/so-paulo/so-paulo/pobre-juan"
-    },
-    {
-      "name": "Ryo Gastronomia",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/ryo-gastronomia"
     },
     {
       "name": "Sal Gastronomia",
@@ -560,10 +649,10 @@
       "path": "/brazil/so-paulo/so-paulo/shin-zushi"
     },
     {
-      "name": "Tangará Jean-Georges",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/tangar-jean-georges"
+      "name": "SIMONE",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$",
+      "path": "/brazil/so-paulo/so-paulo/simone"
     },
     {
       "name": "Tanit",
@@ -602,12 +691,6 @@
       "path": "/brazil/so-paulo/so-paulo/trattorita-evvai"
     },
     {
-      "name": "Tuju",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/tuju"
-    },
-    {
       "name": "Varanda Grill",
       "cuisine": "Meats and Grills",
       "price": "$$$",
@@ -623,67 +706,13 @@
       "name": "Vista",
       "cuisine": "Brazilian",
       "price": "$$",
-      "path": "/brazil/so-paulo/so-paulo/vista"
+      "path": "/brazil/so-paulo/so-paulo/vista-s-o-p"
     },
     {
       "name": "Zena Cucina",
       "cuisine": "Italian",
       "price": "$$",
       "path": "/brazil/so-paulo/so-paulo/zena-cucina"
-    },
-    {
-      "name": "Manioca JK",
-      "cuisine": "Brazilian",
-      "price": "$$",
-      "path": "/brazil/so-paulo/so-paulo/ManiocaJk"
-    },
-    {
-      "name": "Ping Yang Thai Bar & Food",
-      "cuisine": "Thai contemporary",
-      "price": "$$",
-      "path": "/brazil/so-paulo/so-paulo/PingYangThaiBarFood"
-    },
-    {
-      "name": "Tabōa Cozinha Artesanal",
-      "cuisine": "Brazilian",
-      "price": "$$",
-      "path": "/brazil/so-paulo/so-paulo/TabaCozinhaArtesanal"
-    },
-    {
-      "name": "Bar da Dona Onça",
-      "cuisine": "Brazilian",
-      "price": "$$",
-      "path": "/brazil/so-paulo/so-paulo/BarDaDonaOna"
-    },
-    {
-      "name": "Cena",
-      "cuisine": "International",
-      "price": "$$$",
-      "path": "/brazil/so-paulo/so-paulo/Cena"
-    },
-    {
-      "name": "Grotta Cucina",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/brazil/so-paulo/so-paulo/GrottaCucina"
-    },
-    {
-      "name": "Kureiji",
-      "cuisine": "Japanese",
-      "price": "$$",
-      "path": "/brazil/so-paulo/so-paulo/Kureiji"
-    },
-    {
-      "name": "Makoto San",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/brazil/so-paulo/so-paulo/MakotoSan"
-    },
-    {
-      "name": "SIMONE",
-      "cuisine": "Italian Contemporary",
-      "price": "$$$",
-      "path": "/brazil/so-paulo/so-paulo/Simone"
     }
   ]
 }

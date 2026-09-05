@@ -1,8 +1,14 @@
 {
   "title": "Maillane",
-  "country": "france",
-  "region": "maillane",
-  "city": "maillane",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "maillane",
+  "city": "Maillane",
+  "citySlug": "maillane",
+  "path": "/france/maillane/maillane/restaurants",
+  "canonicalPath": "/france/maillane/maillane/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Oustalet Maïanen",

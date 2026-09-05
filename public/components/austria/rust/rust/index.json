@@ -1,8 +1,14 @@
 {
   "title": "Rust",
-  "country": "austria",
-  "region": "rust",
-  "city": "rust",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "rust",
+  "city": "Rust",
+  "citySlug": "rust",
+  "path": "/austria/rust/rust/restaurants",
+  "canonicalPath": "/austria/rust/rust/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Im Hofgassl",
@@ -14,7 +20,7 @@
       "name": "Kirchenwirt",
       "cuisine": "Regional Cuisine, Austrian",
       "price": "€€",
-      "path": "/austria/rust/rust/kirchenwirt"
+      "path": "/austria/rust/rust/kirchenwirt-r-u-s"
     }
   ]
 }

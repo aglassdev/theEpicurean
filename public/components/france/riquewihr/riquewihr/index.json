@@ -1,9 +1,22 @@
 {
   "title": "Riquewihr",
-  "country": "france",
-  "region": "riquewihr",
-  "city": "riquewihr",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "riquewihr",
+  "city": "Riquewihr",
+  "citySlug": "riquewihr",
+  "path": "/france/riquewihr/riquewihr/restaurants",
+  "canonicalPath": "/france/riquewihr/riquewihr/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "La Table du Gourmet",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/riquewihr/riquewihr/la-table-du-gourmet",
+      "award": "★"
+    },
     {
       "name": "AOR La Table, le Goût et Nous",
       "cuisine": "Creative",
@@ -14,13 +27,7 @@
       "name": "La Grappe d'Or",
       "cuisine": "Traditional Cuisine, Alsatian",
       "price": "€€",
-      "path": "/france/riquewihr/riquewihr/la-grappe-dor"
-    },
-    {
-      "name": "La Table du Gourmet",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/riquewihr/riquewihr/la-table-du-gourmet"
+      "path": "/france/riquewihr/riquewihr/la-grappe-dor-r-i-q"
     }
   ]
 }

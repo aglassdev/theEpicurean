@@ -1,14 +1,21 @@
 {
   "title": "Trbeurden",
-  "country": "france",
-  "region": "trbeurden",
-  "city": "trbeurden",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "trbeurden",
+  "city": "Trbeurden",
+  "citySlug": "trbeurden",
+  "path": "/france/trbeurden/trbeurden/restaurants",
+  "canonicalPath": "/france/trbeurden/trbeurden/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Manoir de Lan-Kerellec",
       "cuisine": "Seafood, Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/trbeurden/trbeurden/manoir-de-lan-kerellec"
+      "path": "/france/trbeurden/trbeurden/manoir-de-lankerellec",
+      "award": "★"
     },
     {
       "name": "Vivace",

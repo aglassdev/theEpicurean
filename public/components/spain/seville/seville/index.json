@@ -1,20 +1,34 @@
 {
   "title": "Seville",
-  "country": "spain",
-  "region": "seville",
-  "city": "seville",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "seville",
+  "city": "Seville",
+  "citySlug": "seville",
+  "path": "/spain/seville/seville/restaurants",
+  "canonicalPath": "/spain/seville/seville/restaurants",
+  "count": 19,
   "restaurants": [
     {
       "name": "Abantal",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/seville/seville/abantal"
+      "path": "/spain/seville/seville/abantal",
+      "award": "★"
+    },
+    {
+      "name": "Cañabota",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/spain/seville/seville/caabota",
+      "award": "★"
     },
     {
       "name": "Az-Zait",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/spain/seville/seville/az-zait"
+      "path": "/spain/seville/seville/azzait"
     },
     {
       "name": "Balbuena y Huertas",
@@ -27,12 +41,6 @@
       "cuisine": "Basque",
       "price": "€€€",
       "path": "/spain/seville/seville/basque-eneko"
-    },
-    {
-      "name": "Cañabota",
-      "cuisine": "Seafood",
-      "price": "€€€",
-      "path": "/spain/seville/seville/caabota"
     },
     {
       "name": "Chicarreros",
@@ -110,7 +118,7 @@
       "name": "Tribeca",
       "cuisine": "Seafood, Traditional Cuisine",
       "price": "€€€€",
-      "path": "/spain/seville/seville/tribeca"
+      "path": "/spain/seville/seville/tribeca-s-e-v"
     },
     {
       "name": "Yo, Cocina Contemporánea",

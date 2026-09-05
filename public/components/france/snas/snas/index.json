@@ -1,8 +1,14 @@
 {
   "title": "Snas",
-  "country": "france",
-  "region": "snas",
-  "city": "snas",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "snas",
+  "city": "Snas",
+  "citySlug": "snas",
+  "path": "/france/snas/snas/restaurants",
+  "canonicalPath": "/france/snas/snas/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Bon Temps",

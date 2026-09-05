@@ -1,14 +1,21 @@
 {
   "title": "Biot",
-  "country": "france",
-  "region": "biot",
-  "city": "biot",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "biot",
+  "city": "Biot",
+  "citySlug": "biot",
+  "path": "/france/biot/biot/restaurants",
+  "canonicalPath": "/france/biot/biot/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Terraillers",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/biot/biot/les-terraillers"
+      "path": "/france/biot/biot/les-terraillers",
+      "award": "★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
-  "title": "Chalon Sur Sane",
-  "country": "france",
-  "region": "chalon-sur-sane",
-  "city": "chalon-sur-sane",
+  "title": "Chalon sur Sane",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chalon-sur-sane",
+  "city": "Chalon sur Sane",
+  "citySlug": "chalon-sur-sane",
+  "path": "/france/chalon-sur-sane/chalon-sur-sane/restaurants",
+  "canonicalPath": "/france/chalon-sur-sane/chalon-sur-sane/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Aromatique",
@@ -14,7 +20,7 @@
       "name": "Le Bistrot",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/chalon-sur-sane/chalon-sur-sane/le-bistrot"
+      "path": "/france/chalon-sur-sane/chalon-sur-sane/le-bistrot-c-h-a"
     },
     {
       "name": "Les Gourmands Disent",

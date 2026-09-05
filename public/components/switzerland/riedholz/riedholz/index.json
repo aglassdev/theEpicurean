@@ -1,20 +1,27 @@
 {
   "title": "Riedholz",
-  "country": "switzerland",
-  "region": "riedholz",
-  "city": "riedholz",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "riedholz",
+  "city": "Riedholz",
+  "citySlug": "riedholz",
+  "path": "/switzerland/riedholz/riedholz/restaurants",
+  "canonicalPath": "/switzerland/riedholz/riedholz/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Château Attisholz - Le feu",
+      "cuisine": "French, Contemporary",
+      "price": "€€€€",
+      "path": "/switzerland/riedholz/riedholz/chteau-attisholz-le-feu",
+      "award": "★"
+    },
     {
       "name": "Château Attisholz - Brasserie la Source",
       "cuisine": "Seasonal Cuisine, Farm to table",
       "price": "€€",
       "path": "/switzerland/riedholz/riedholz/chteau-attisholz-brasserie-la-source"
-    },
-    {
-      "name": "Château Attisholz - Le feu",
-      "cuisine": "French, Contemporary",
-      "price": "€€€€",
-      "path": "/switzerland/riedholz/riedholz/chteau-attisholz-le-feu"
     }
   ]
 }

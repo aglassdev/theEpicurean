@@ -1,8 +1,14 @@
 {
   "title": "Champcevinel",
-  "country": "france",
-  "region": "champcevinel",
-  "city": "champcevinel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "champcevinel",
+  "city": "Champcevinel",
+  "citySlug": "champcevinel",
+  "path": "/france/champcevinel/champcevinel/restaurants",
+  "canonicalPath": "/france/champcevinel/champcevinel/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Table du Pouyaud",

@@ -1,38 +1,42 @@
 {
   "title": "Andermatt",
-  "country": "switzerland",
-  "region": "andermatt",
-  "city": "andermatt",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "andermatt",
+  "city": "Andermatt",
+  "citySlug": "andermatt",
+  "path": "/switzerland/andermatt/andermatt/restaurants",
+  "canonicalPath": "/switzerland/andermatt/andermatt/restaurants",
+  "count": 4,
   "restaurants": [
     {
-      "name": "GÜTSCH by Markus Neff",
-      "cuisine": "Classic French, Farm to table",
-      "price": "€€€",
-      "path": "/switzerland/andermatt/andermatt/gtsch-by-markus-neff"
-    },
-    {
       "name": "IGNIV by Andreas Caminada",
       "cuisine": "Sharing, Modern Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/andermatt/andermatt/igniv-by-andreas-caminada"
-    },
-    {
-      "name": "IGNIV by Andreas Caminada",
-      "cuisine": "Sharing, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/andermatt/andermatt/igniv-by-andreas-caminada"
-    },
-    {
-      "name": "The Japanese by The Chedi at Gütsch",
-      "cuisine": "Japanese Contemporary, Fusion",
-      "price": "€€€€",
-      "path": "/switzerland/andermatt/andermatt/the-japanese-by-the-chedi-at-gtsch"
+      "path": "/switzerland/andermatt/andermatt/igniv-by-andreas-caminada",
+      "award": "★★"
     },
     {
       "name": "The Japanese Restaurant",
       "cuisine": "Japanese Contemporary, Fusion",
       "price": "€€€€",
-      "path": "/switzerland/andermatt/andermatt/the-japanese-restaurant"
+      "path": "/switzerland/andermatt/andermatt/the-japanese-restaurant",
+      "award": "★★"
+    },
+    {
+      "name": "GÜTSCH by Markus Neff",
+      "cuisine": "Classic French, Farm to table",
+      "price": "€€€",
+      "path": "/switzerland/andermatt/andermatt/gtsch-by-markus-neff",
+      "award": "★"
+    },
+    {
+      "name": "The Japanese by The Chedi at Gütsch",
+      "cuisine": "Japanese Contemporary, Fusion",
+      "price": "€€€€",
+      "path": "/switzerland/andermatt/andermatt/the-japanese-by-the-chedi-at-gtsch",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Rolleboise",
-  "country": "france",
-  "region": "rolleboise",
-  "city": "rolleboise",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "rolleboise",
+  "city": "Rolleboise",
+  "citySlug": "rolleboise",
+  "path": "/france/rolleboise/rolleboise/restaurants",
+  "canonicalPath": "/france/rolleboise/rolleboise/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Panoramique - Domaine de la Corniche",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/rolleboise/rolleboise/le-panoramique-domaine-de-la-corniche"
+      "path": "/france/rolleboise/rolleboise/le-panoramique-domaine-de-la-corniche",
+      "award": "★"
     }
   ]
 }

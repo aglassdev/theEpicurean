@@ -1,14 +1,21 @@
 {
   "title": "Pralboino",
-  "country": "italy",
-  "region": "pralboino",
-  "city": "pralboino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pralboino",
+  "city": "Pralboino",
+  "citySlug": "pralboino",
+  "path": "/italy/pralboino/pralboino/restaurants",
+  "canonicalPath": "/italy/pralboino/pralboino/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Leon d'Oro",
       "cuisine": "Country cooking, Creative",
       "price": "€€€€",
-      "path": "/italy/pralboino/pralboino/leon-doro"
+      "path": "/italy/pralboino/pralboino/leon-doro",
+      "award": "★"
     }
   ]
 }

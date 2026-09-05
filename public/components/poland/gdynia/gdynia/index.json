@@ -1,8 +1,14 @@
 {
   "title": "Gdynia",
-  "country": "poland",
-  "region": "gdynia",
-  "city": "gdynia",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "gdynia",
+  "city": "Gdynia",
+  "citySlug": "gdynia",
+  "path": "/poland/gdynia/gdynia/restaurants",
+  "canonicalPath": "/poland/gdynia/gdynia/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Butchery & Wine",
@@ -14,7 +20,7 @@
       "name": "Oberża 86",
       "cuisine": "Seasonal Cuisine, French",
       "price": "€",
-      "path": "/poland/gdynia/gdynia/obera-86"
+      "path": "/poland/gdynia/gdynia/obera86"
     }
   ]
 }

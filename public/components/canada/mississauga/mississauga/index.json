@@ -1,8 +1,14 @@
 {
   "title": "Mississauga",
-  "country": "canada",
-  "region": "mississauga",
-  "city": "mississauga",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "mississauga",
+  "city": "Mississauga",
+  "citySlug": "mississauga",
+  "path": "/canada/mississauga/mississauga/restaurants",
+  "canonicalPath": "/canada/mississauga/mississauga/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Guru Lukshmi",
@@ -17,34 +23,10 @@
       "path": "/canada/mississauga/mississauga/mama-fatma"
     },
     {
-      "name": "Mama Fatma",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/canada/mississauga/mississauga/mama-fatma"
-    },
-    {
-      "name": "Guru Lukshmi",
-      "cuisine": "Indian, South Indian",
-      "price": "$$",
-      "path": "/canada/mississauga/mississauga/guru-lukshmi"
-    },
-    {
-      "name": "Mama Fatma",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/canada/mississauga/mississauga/mama-fatma"
-    },
-    {
       "name": "Tamarind Modern Indian Bistro",
       "cuisine": "Indian",
       "price": "$$",
-      "path": "/canada/mississauga/mississauga/tamarind-modern-indian-bistro"
-    },
-    {
-      "name": "Tamarind Modern Indian Bistro",
-      "cuisine": "Indian",
-      "price": "$$",
-      "path": "/canada/mississauga/mississauga/tamarind-modern-indian-bistro"
+      "path": "/canada/mississauga/mississauga/rtamarindmodernindianbistro"
     }
   ]
 }

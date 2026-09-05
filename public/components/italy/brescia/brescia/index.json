@@ -1,8 +1,14 @@
 {
   "title": "Brescia",
-  "country": "italy",
-  "region": "brescia",
-  "city": "brescia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "brescia",
+  "city": "Brescia",
+  "citySlug": "brescia",
+  "path": "/italy/brescia/brescia/restaurants",
+  "canonicalPath": "/italy/brescia/brescia/restaurants",
+  "count": 11,
   "restaurants": [
     {
       "name": "Carne & Spirito",
@@ -68,7 +74,7 @@
       "name": "Vivace",
       "cuisine": "Contemporary, Seasonal Cuisine",
       "price": "€€",
-      "path": "/italy/brescia/brescia/vivace"
+      "path": "/italy/brescia/brescia/vivace-b-r-e"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Clusone",
-  "country": "italy",
-  "region": "clusone",
-  "city": "clusone",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "clusone",
+  "city": "Clusone",
+  "citySlug": "clusone",
+  "path": "/italy/clusone/clusone/restaurants",
+  "canonicalPath": "/italy/clusone/clusone/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ristorante Mas-cì",
       "cuisine": "Italian, Classic Cuisine",
       "price": "€€",
-      "path": "/italy/clusone/clusone/ristorante-mas-c"
+      "path": "/italy/clusone/clusone/ristorante-masc"
     }
   ]
 }

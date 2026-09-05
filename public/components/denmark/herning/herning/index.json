@@ -1,14 +1,21 @@
 {
   "title": "Herning",
-  "country": "denmark",
-  "region": "herning",
-  "city": "herning",
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "region": null,
+  "regionSlug": "herning",
+  "city": "Herning",
+  "citySlug": "herning",
+  "path": "/denmark/herning/herning/restaurants",
+  "canonicalPath": "/denmark/herning/herning/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Domæne",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/denmark/herning/herning/domne"
+      "path": "/denmark/herning/herning/domne",
+      "award": "★"
     }
   ]
 }

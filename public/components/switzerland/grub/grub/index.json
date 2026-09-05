@@ -1,14 +1,20 @@
 {
   "title": "Grub",
-  "country": "switzerland",
-  "region": "grub",
-  "city": "grub",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "grub",
+  "city": "Grub",
+  "citySlug": "grub",
+  "path": "/switzerland/grub/grub/restaurants",
+  "canonicalPath": "/switzerland/grub/grub/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bären",
       "cuisine": "Country cooking, Classic Cuisine",
       "price": "€€",
-      "path": "/switzerland/grub/grub/bren"
+      "path": "/switzerland/grub/grub/bren-g-r-u"
     }
   ]
 }

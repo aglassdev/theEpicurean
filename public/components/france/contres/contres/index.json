@@ -1,8 +1,14 @@
 {
   "title": "Contres",
-  "country": "france",
-  "region": "contres",
-  "city": "contres",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "contres",
+  "city": "Contres",
+  "citySlug": "contres",
+  "path": "/france/contres/contres/restaurants",
+  "canonicalPath": "/france/contres/contres/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Botte d'Asperges",

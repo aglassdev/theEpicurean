@@ -1,14 +1,21 @@
 {
   "title": "Chonas Lamballan",
-  "country": "france",
-  "region": "chonas-lamballan",
-  "city": "chonas-lamballan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chonas-lamballan",
+  "city": "Chonas Lamballan",
+  "citySlug": "chonas-lamballan",
+  "path": "/france/chonas-lamballan/chonas-lamballan/restaurants",
+  "canonicalPath": "/france/chonas-lamballan/chonas-lamballan/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Table de Philippe Girardon",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/chonas-lamballan/chonas-lamballan/la-table-de-philippe-girardon"
+      "path": "/france/chonas-lamballan/chonas-lamballan/la-table-de-philippe-girardon",
+      "award": "★"
     },
     {
       "name": "Le Cottage",

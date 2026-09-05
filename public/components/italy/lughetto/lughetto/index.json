@@ -1,14 +1,21 @@
 {
   "title": "Lughetto",
-  "country": "italy",
-  "region": "lughetto",
-  "city": "lughetto",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "lughetto",
+  "city": "Lughetto",
+  "citySlug": "lughetto",
+  "path": "/italy/lughetto/lughetto/restaurants",
+  "canonicalPath": "/italy/lughetto/lughetto/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Antica Osteria Cera",
       "cuisine": "Seafood, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/lughetto/lughetto/antica-osteria-cera"
+      "path": "/italy/lughetto/lughetto/antica-osteria-cera",
+      "award": "★★"
     }
   ]
 }

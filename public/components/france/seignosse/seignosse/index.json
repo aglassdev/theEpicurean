@@ -1,14 +1,21 @@
 {
   "title": "Seignosse",
-  "country": "france",
-  "region": "seignosse",
-  "city": "seignosse",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "seignosse",
+  "city": "Seignosse",
+  "citySlug": "seignosse",
+  "path": "/france/seignosse/seignosse/restaurants",
+  "canonicalPath": "/france/seignosse/seignosse/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Villa de l'Étang Blanc",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/seignosse/seignosse/villa-de-ltang-blanc"
+      "path": "/france/seignosse/seignosse/villa-de-ltang-blanc",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Heist",
-  "country": "belgium",
-  "region": "heist",
-  "city": "heist",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "heist",
+  "city": "Heist",
+  "citySlug": "heist",
+  "path": "/belgium/heist/heist/restaurants",
+  "canonicalPath": "/belgium/heist/heist/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Bartholomeus",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/belgium/heist/heist/bartholomeus"
+      "path": "/belgium/heist/heist/bartholomeus",
+      "award": "★★"
     },
     {
       "name": "Bristol",

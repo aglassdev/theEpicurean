@@ -1,8 +1,14 @@
 {
   "title": "Varena",
-  "country": "italy",
-  "region": "varena",
-  "city": "varena",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "varena",
+  "city": "Varena",
+  "citySlug": "varena",
+  "path": "/italy/varena/varena/restaurants",
+  "canonicalPath": "/italy/varena/varena/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Frosch Restaurant",

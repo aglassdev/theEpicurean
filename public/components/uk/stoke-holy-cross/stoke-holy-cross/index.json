@@ -1,6 +1,21 @@
 {
   "title": "Stoke Holy Cross",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "stoke-holy-cross",
+  "city": "Stoke Holy Cross",
+  "citySlug": "stoke-holy-cross",
+  "path": "/uk/stoke-holy-cross/stoke-holy-cross/restaurants",
+  "canonicalPath": "/uk/stoke-holy-cross/stoke-holy-cross/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "elda",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/uk/stoke-holy-cross/stoke-holy-cross/elda"
+    },
     {
       "name": "Stoke Mill",
       "cuisine": "Traditional Cuisine",
@@ -18,12 +33,6 @@
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/stoke-holy-cross/stoke-holy-cross/the-wildebeest"
-    },
-    {
-      "name": "elda",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/uk/stoke-holy-cross/stoke-holy-cross/Elda"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Fill",
-  "country": "france",
-  "region": "fill",
-  "city": "fill",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "fill",
+  "city": "Fill",
+  "citySlug": "fill",
+  "path": "/france/fill/fill/restaurants",
+  "canonicalPath": "/france/fill/fill/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison Nipa",

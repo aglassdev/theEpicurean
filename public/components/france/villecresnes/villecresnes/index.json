@@ -1,8 +1,14 @@
 {
   "title": "Villecresnes",
-  "country": "france",
-  "region": "villecresnes",
-  "city": "villecresnes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "villecresnes",
+  "city": "Villecresnes",
+  "citySlug": "villecresnes",
+  "path": "/france/villecresnes/villecresnes/restaurants",
+  "canonicalPath": "/france/villecresnes/villecresnes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Inattendu",

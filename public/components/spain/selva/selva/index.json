@@ -1,8 +1,14 @@
 {
   "title": "Selva",
-  "country": "spain",
-  "region": "selva",
-  "city": "selva",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "selva",
+  "city": "Selva",
+  "citySlug": "selva",
+  "path": "/spain/selva/selva/restaurants",
+  "canonicalPath": "/spain/selva/selva/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Miceli",

@@ -1,8 +1,14 @@
 {
   "title": "Lizard",
-  "country": "uk",
-  "region": "lizard",
-  "city": "lizard",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "lizard",
+  "city": "Lizard",
+  "citySlug": "lizard",
+  "path": "/uk/lizard/lizard/restaurants",
+  "canonicalPath": "/uk/lizard/lizard/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fallowfields",

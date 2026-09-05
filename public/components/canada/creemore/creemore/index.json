@@ -1,26 +1,21 @@
 {
   "title": "Creemore",
-  "country": "canada",
-  "region": "creemore",
-  "city": "creemore",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "creemore",
+  "city": "Creemore",
+  "citySlug": "creemore",
+  "path": "/canada/creemore/creemore/restaurants",
+  "canonicalPath": "/canada/creemore/creemore/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Pine",
       "cuisine": "Chinese, Contemporary",
       "price": "$$$$",
-      "path": "/canada/creemore/creemore/the-pine"
-    },
-    {
-      "name": "The Pine",
-      "cuisine": "Chinese, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/creemore/creemore/the-pine"
-    },
-    {
-      "name": "The Pine",
-      "cuisine": "Chinese, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/creemore/creemore/the-pine"
+      "path": "/canada/creemore/creemore/rthepine",
+      "award": "★"
     }
   ]
 }

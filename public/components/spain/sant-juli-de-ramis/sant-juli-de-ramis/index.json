@@ -1,14 +1,21 @@
 {
-  "title": "Sant Juli De Ramis",
-  "country": "spain",
-  "region": "sant-juli-de-ramis",
-  "city": "sant-juli-de-ramis",
+  "title": "Sant Juli de Ramis",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "sant-juli-de-ramis",
+  "city": "Sant Juli de Ramis",
+  "citySlug": "sant-juli-de-ramis",
+  "path": "/spain/sant-juli-de-ramis/sant-juli-de-ramis/restaurants",
+  "canonicalPath": "/spain/sant-juli-de-ramis/sant-juli-de-ramis/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Esperit Roca",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/sant-juli-de-ramis/sant-juli-de-ramis/esperit-roca"
+      "path": "/spain/sant-juli-de-ramis/sant-juli-de-ramis/esperit-roca",
+      "award": "★"
     },
     {
       "name": "Fontané",

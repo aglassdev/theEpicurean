@@ -1,8 +1,14 @@
 {
   "title": "Tupes",
-  "country": "france",
-  "region": "tupes",
-  "city": "tupes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tupes",
+  "city": "Tupes",
+  "citySlug": "tupes",
+  "path": "/france/tupes/tupes/restaurants",
+  "canonicalPath": "/france/tupes/tupes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Fil des Saisons",

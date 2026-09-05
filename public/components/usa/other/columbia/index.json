@@ -1,0 +1,26 @@
+{
+  "title": "Columbia",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "South Carolina",
+  "regionSlug": "other",
+  "city": "Columbia",
+  "citySlug": "columbia",
+  "path": "/usa/other/columbia/restaurants",
+  "canonicalPath": "/usa/other/columbia/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Di Vino Rosso",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/other/columbia/di-vino-rosso"
+    },
+    {
+      "name": "Motor Supply Company",
+      "cuisine": "American Contemporary",
+      "price": "$$$",
+      "path": "/usa/other/columbia/motor-supply-company"
+    }
+  ]
+}

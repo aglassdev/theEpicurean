@@ -1,6 +1,22 @@
 {
-  "title": "Noordwijk Aan Zee",
+  "title": "Noordwijk aan Zee",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "noordwijk-aan-zee",
+  "city": "Noordwijk aan Zee",
+  "citySlug": "noordwijk-aan-zee",
+  "path": "/netherlands/noordwijk-aan-zee/noordwijk-aan-zee/restaurants",
+  "canonicalPath": "/netherlands/noordwijk-aan-zee/noordwijk-aan-zee/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Latour",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/netherlands/noordwijk-aan-zee/noordwijk-aan-zee/latour",
+      "award": "★"
+    },
     {
       "name": "Breakers Beach House",
       "cuisine": "Classic Cuisine",
@@ -14,22 +30,16 @@
       "path": "/netherlands/noordwijk-aan-zee/noordwijk-aan-zee/dylans"
     },
     {
-      "name": "Latour",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/netherlands/noordwijk-aan-zee/noordwijk-aan-zee/latour"
+      "name": "Lumé",
+      "cuisine": "Modern French",
+      "price": "$$$",
+      "path": "/netherlands/noordwijk-aan-zee/noordwijk-aan-zee/lum"
     },
     {
       "name": "Villa de Duinen",
       "cuisine": "Modern French, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/netherlands/noordwijk-aan-zee/noordwijk-aan-zee/villa-de-duinen"
-    },
-    {
-      "name": "Lumé",
-      "cuisine": "Modern French",
-      "price": "$$$",
-      "path": "/netherlands/noordwijk-aan-zee/noordwijk-aan-zee/Lum"
     }
   ]
 }

@@ -1,95 +1,119 @@
 {
-  "title": "Makati - Metro Manila",
+  "title": "Makati Metro Manila",
+  "country": "Philippines",
+  "countrySlug": "the-philippines",
+  "region": null,
+  "regionSlug": "makati-metro-manila",
+  "city": "Makati Metro Manila",
+  "citySlug": "makati-metro-manila",
+  "path": "/the-philippines/makati-metro-manila/makati-metro-manila/restaurants",
+  "canonicalPath": "/the-philippines/makati-metro-manila/makati-metro-manila/restaurants",
+  "count": 40,
   "restaurants": [
     {
       "name": "Helm",
       "cuisine": "Creative",
       "price": "$$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Helm"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/helm",
+      "award": "★★"
     },
     {
       "name": "Celera",
       "cuisine": "Asian Contemporary",
       "price": "$$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Celera"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/celera",
+      "award": "★"
     },
     {
       "name": "Hapag",
       "cuisine": "Filipino",
       "price": "$$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Hapag"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/hapag",
+      "award": "★"
     },
     {
       "name": "Inatô",
       "cuisine": "Filipino",
       "price": "$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Inat"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/inat",
+      "award": "★"
     },
     {
       "name": "Kása Palma",
       "cuisine": "Filipino",
       "price": "$$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/KsaPalma"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/ksa-palma",
+      "award": "★"
     },
     {
       "name": "Toyo Eatery",
       "cuisine": "Filipino",
       "price": "$$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/ToyoEatery"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/toyo-eatery",
+      "award": "★"
     },
     {
       "name": "Hálong",
       "cuisine": "Fusion",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Hlong"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/hlong",
+      "award": "Bib Gourmand"
     },
     {
       "name": "La Pita (Poblacion)",
       "cuisine": "Middle Eastern",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/LaPitaPoblacion"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/la-pita-poblacion",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Lampara",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Lampara"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/lampara",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Manam at the Triangle",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/ManamAtTheTriangle"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/manam-at-the-triangle",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Pilya's Kitchen",
       "cuisine": "Noodles",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/PilyasKitchen"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/pilyas-kitchen",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Sarsa",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Sarsa"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/sarsa",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Taquería Franco",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/TaqueraFranco"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/taquera-franco",
+      "award": "Bib Gourmand"
     },
     {
       "name": "The Underbelly",
       "cuisine": "Ramen",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/TheUnderbelly"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/the-underbelly",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Your Local",
       "cuisine": "Asian Contemporary",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/YourLocal"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/your-local",
+      "award": "Bib Gourmand"
     },
     {
       "name": "12/10",
@@ -101,145 +125,145 @@
       "name": "Aida's Chicken",
       "cuisine": "Filipino",
       "price": "$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/AidasChicken"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/aidas-chicken"
     },
     {
       "name": "Automat",
       "cuisine": "Filipino",
       "price": "$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Automat"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/automat"
     },
     {
       "name": "Ayà",
       "cuisine": "Filipino",
       "price": "$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Ay"
-    },
-    {
-      "name": "BUTCHER BOY",
-      "cuisine": "Asian",
-      "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/ButcherBoy"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/ay"
     },
     {
       "name": "Benjarong",
       "cuisine": "Thai",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Benjarong"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/benjarong"
+    },
+    {
+      "name": "BUTCHER BOY",
+      "cuisine": "Asian",
+      "price": "$$",
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/butcher-boy"
     },
     {
       "name": "Carmelo's Steakhouse",
       "cuisine": "Steakhouse",
       "price": "$$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/CarmelosSteakhouse"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/carmelos-steakhouse"
     },
     {
       "name": "Chie Chie's Pancit Batil Patung",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/ChieChiesPancitBatilPatung"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/chie-chies-pancit-batil-patung"
     },
     {
       "name": "Cirkulo",
       "cuisine": "Spanish",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Cirkulo"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/cirkulo"
     },
     {
       "name": "Fresca Trattoria",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/FrescaTrattoria"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/fresca-trattoria"
     },
     {
       "name": "Goxo",
       "cuisine": "Basque",
       "price": "$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Goxo"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/goxo"
     },
     {
       "name": "Kodawari (Salcedo)",
       "cuisine": "Asian",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/KodawariSalcedo"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/kodawari-salcedo"
     },
     {
       "name": "Lusso (Legazpi)",
       "cuisine": "European",
       "price": "$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/LussoLegazpi"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/lusso-legazpi"
     },
     {
       "name": "Metiz",
       "cuisine": "Filipino",
       "price": "$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Metiz"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/metiz"
     },
     {
       "name": "Mirèio",
       "cuisine": "French",
       "price": "$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Mirio"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/mirio"
     },
     {
       "name": "Oak & Smoke",
       "cuisine": "Meats and Grills",
       "price": "$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/OakSmoke"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/oak-smoke"
     },
     {
       "name": "Offbeat",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Offbeat"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/offbeat"
     },
     {
       "name": "Old Manila",
       "cuisine": "French",
       "price": "$$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/OldManila"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/old-manila"
     },
     {
       "name": "Papillon",
       "cuisine": "Asian",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Papillon"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/papillon"
     },
     {
       "name": "People's Palace",
       "cuisine": "Thai",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/PeoplesPalace"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/peoples-palace"
     },
     {
       "name": "Ramen Ron (Makati)",
       "cuisine": "Ramen",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/RamenRonMakati"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/ramen-ron-makati"
     },
     {
       "name": "Spices",
       "cuisine": "Asian",
       "price": "$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Spices"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/spices"
     },
     {
       "name": "Super Uncle Claypot",
       "cuisine": "Cantonese",
       "price": "$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/SuperUncleClaypot"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/super-uncle-claypot"
     },
     {
       "name": "The Test Kitchen",
       "cuisine": "European",
       "price": "$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/TheTestKitchen"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/the-test-kitchen"
     },
     {
       "name": "Txanton",
       "cuisine": "Spanish",
       "price": "$$$$",
-      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/Txanton"
+      "path": "/the-philippines/makati-metro-manila/makati-metro-manila/txanton"
     }
   ]
 }

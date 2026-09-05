@@ -1,8 +1,14 @@
 {
   "title": "Figeac",
-  "country": "france",
-  "region": "figeac",
-  "city": "figeac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "figeac",
+  "city": "Figeac",
+  "citySlug": "figeac",
+  "path": "/france/figeac/figeac/restaurants",
+  "canonicalPath": "/france/figeac/figeac/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "La Cuisine du Marché",

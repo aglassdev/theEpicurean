@@ -1,8 +1,14 @@
 {
   "title": "Wombleton",
-  "country": "uk",
-  "region": "wombleton",
-  "city": "wombleton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "wombleton",
+  "city": "Wombleton",
+  "citySlug": "wombleton",
+  "path": "/uk/wombleton/wombleton/restaurants",
+  "canonicalPath": "/uk/wombleton/wombleton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Plough",

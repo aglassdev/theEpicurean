@@ -1,14 +1,20 @@
 {
-  "title": "Santa Maria Di Castellabate",
-  "country": "italy",
-  "region": "santa-maria-di-castellabate",
-  "city": "santa-maria-di-castellabate",
+  "title": "Santa Maria di Castellabate",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "santa-maria-di-castellabate",
+  "city": "Santa Maria di Castellabate",
+  "citySlug": "santa-maria-di-castellabate",
+  "path": "/italy/santa-maria-di-castellabate/santa-maria-di-castellabate/restaurants",
+  "canonicalPath": "/italy/santa-maria-di-castellabate/santa-maria-di-castellabate/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Osteria 1861",
       "cuisine": "Modern Cuisine, Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/italy/santa-maria-di-castellabate/santa-maria-di-castellabate/osteria-1861"
+      "path": "/italy/santa-maria-di-castellabate/santa-maria-di-castellabate/osteria1861"
     }
   ]
 }

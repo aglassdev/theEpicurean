@@ -1,8 +1,14 @@
 {
   "title": "Bry",
-  "country": "france",
-  "region": "bry",
-  "city": "bry",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bry",
+  "city": "Bry",
+  "citySlug": "bry",
+  "path": "/france/bry/bry/restaurants",
+  "canonicalPath": "/france/bry/bry/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Camélia",

@@ -1,209 +1,218 @@
 {
   "title": "Covent Garden",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "Covent Garden",
+  "citySlug": "covent-garden",
+  "path": "/uk/london/covent-garden/restaurants",
+  "canonicalPath": "/uk/london/covent-garden/restaurants",
+  "count": 34,
   "restaurants": [
     {
-      "name": "Café in the Crypt, St Martin in the Fields",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/london/covent-garden/CafInTheCryptStMartinInTheFields"
-    },
-    {
-      "name": "Brigit's Bakery Covent Garden",
-      "cuisine": "Afternoon Tea",
-      "price": "39.00",
-      "path": "/uk/london/covent-garden/BrigitsBakeryCoventGarden"
-    },
-    {
-      "name": "Boulevard Brasserie",
-      "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/london/covent-garden/BoulevardBrasserie"
-    },
-    {
-      "name": "Be Our Guest: The Enchanted Rose Afternoon Tea",
-      "cuisine": "Afternoon Tea",
-      "price": "59.00",
-      "path": "/uk/london/covent-garden/BeOurGuestTheEnchantedRoseAfternoonTea"
-    },
-    {
-      "name": "The Parlour at Great Scotland Yard Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "59.00",
-      "path": "/uk/london/covent-garden/TheParlourAtGreatScotlandYardHotel"
-    },
-    {
-      "name": "W London",
-      "cuisine": "Afternoon Tea",
-      "price": "52.50",
-      "path": "/uk/london/covent-garden/WLondon"
-    },
-    {
-      "name": "Theatre Afternoon Tea at Strand Palace",
-      "cuisine": "Afternoon Tea",
-      "price": "49.00",
-      "path": "/uk/london/covent-garden/TheatreAfternoonTeaAtStrandPalace"
-    },
-    {
-      "name": "The Stage at The Londoner",
-      "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/london/covent-garden/TheStageAtTheLondoner"
-    },
-    {
-      "name": "St Martins Lane London",
-      "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/london/covent-garden/StMartinsLaneLondon"
-    },
-    {
-      "name": "The Savoy",
-      "cuisine": "Afternoon Tea",
-      "price": "80.00",
-      "path": "/uk/london/covent-garden/TheSavoy"
-    },
-    {
-      "name": "The Petersham, Floral Court",
-      "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/london/covent-garden/ThePetershamFloralCourt"
-    },
-    {
-      "name": "NoMad London",
-      "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/london/covent-garden/NomadLondon"
-    },
-    {
-      "name": "Mirror Room at Rosewood London",
-      "cuisine": "Afternoon Tea",
-      "price": "75.00",
-      "path": "/uk/london/covent-garden/MirrorRoomAtRosewoodLondon"
-    },
-    {
-      "name": "Middle Eight",
+      "name": "Afternoon Tea Bike Tour",
       "cuisine": "Afternoon Tea",
       "price": "45.00",
-      "path": "/uk/london/covent-garden/MiddleEight"
-    },
-    {
-      "name": "Masala Zone Piccadilly Circus",
-      "cuisine": "Afternoon Tea",
-      "price": "25.75",
-      "path": "/uk/london/covent-garden/MasalaZonePiccadillyCircus"
-    },
-    {
-      "name": "The Lounge at Royal Horseguards Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "50.00",
-      "path": "/uk/london/covent-garden/TheLoungeAtRoyalHorseguardsHotel"
-    },
-    {
-      "name": "L’oscar London",
-      "cuisine": "Afternoon Tea",
-      "price": "59.00",
-      "path": "/uk/london/covent-garden/LoscarLondon"
-    },
-    {
-      "name": "Inamo Covent Garden",
-      "cuisine": "Afternoon Tea",
-      "price": "19.95",
-      "path": "/uk/london/covent-garden/InamoCoventGarden"
-    },
-    {
-      "name": "Ham Yard Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/covent-garden/HamYardHotel"
-    },
-    {
-      "name": "The Grand Saloon at Theatre Royal Drury Lane",
-      "cuisine": "Afternoon Tea",
-      "price": "59.00",
-      "path": "/uk/london/covent-garden/TheGrandSaloonAtTheatreRoyalDruryLane"
-    },
-    {
-      "name": "Gouqi",
-      "cuisine": "Afternoon Tea",
-      "price": "78.00",
-      "path": "/uk/london/covent-garden/Gouqi"
-    },
-    {
-      "name": "The Drawing Room, Raffles London at The OWO",
-      "cuisine": "Afternoon Tea",
-      "price": "80.00",
-      "path": "/uk/london/covent-garden/TheDrawingRoomRafflesLondonAtTheOwo"
-    },
-    {
-      "name": "Crusting Pipe",
-      "cuisine": "Afternoon Tea",
-      "price": "32.00",
-      "path": "/uk/london/covent-garden/CrustingPipe"
-    },
-    {
-      "name": "Covent Garden Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/covent-garden/CoventGardenHotel"
-    },
-    {
-      "name": "Corinthia London",
-      "cuisine": "Afternoon Tea",
-      "price": "75.00",
-      "path": "/uk/london/covent-garden/CorinthiaLondon"
-    },
-    {
-      "name": "The Clermont Charing Cross",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/london/covent-garden/TheClermontCharingCross"
-    },
-    {
-      "name": "Cinnamon Bazaar",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/london/covent-garden/CinnamonBazaar"
-    },
-    {
-      "name": "Charlie and the Chocolate Factory Afternoon Tea at One Aldwych",
-      "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/london/covent-garden/CharlieAndTheChocolateFactoryAfternoonTeaAtOneAldwych"
-    },
-    {
-      "name": "Champagne + Fromage",
-      "cuisine": "Afternoon Tea",
-      "price": "27.00",
-      "path": "/uk/london/covent-garden/ChampagneFromage"
-    },
-    {
-      "name": "Caffe Concerto - Shaftesbury Avenue",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/london/covent-garden/CaffeConcertoShaftesburyAvenue"
-    },
-    {
-      "name": "Caffe Concerto - Northumberland Avenue",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/london/covent-garden/CaffeConcertoNorthumberlandAvenue"
-    },
-    {
-      "name": "Caffe Concerto - Covent Garden",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/london/covent-garden/CaffeConcertoCoventGarden"
+      "path": "/uk/london/covent-garden/afternoon-tea-bike-tour"
     },
     {
       "name": "B Afternoon Tea Bus Tour",
       "cuisine": "Afternoon Tea",
       "price": "60.00",
-      "path": "/uk/london/covent-garden/BAfternoonTeaBusTour"
+      "path": "/uk/london/covent-garden/b-afternoon-tea-bus-tour"
     },
     {
-      "name": "Afternoon Tea Bike Tour",
+      "name": "Be Our Guest: The Enchanted Rose Afternoon Tea",
+      "cuisine": "Afternoon Tea",
+      "price": "59.00",
+      "path": "/uk/london/covent-garden/be-our-guest-the-enchanted-rose-afternoon-tea"
+    },
+    {
+      "name": "Boulevard Brasserie",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/london/covent-garden/boulevard-brasserie"
+    },
+    {
+      "name": "Brigit's Bakery Covent Garden",
+      "cuisine": "Afternoon Tea",
+      "price": "39.00",
+      "path": "/uk/london/covent-garden/brigits-bakery-covent-garden"
+    },
+    {
+      "name": "Café in the Crypt, St Martin in the Fields",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/london/covent-garden/caf-in-the-crypt-st-martin-in-the-fields"
+    },
+    {
+      "name": "Caffe Concerto - Covent Garden",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/london/covent-garden/caffe-concerto-covent-garden"
+    },
+    {
+      "name": "Caffe Concerto - Northumberland Avenue",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/london/covent-garden/caffe-concerto-northumberland-avenue"
+    },
+    {
+      "name": "Caffe Concerto - Shaftesbury Avenue",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/london/covent-garden/caffe-concerto-shaftesbury-avenue"
+    },
+    {
+      "name": "Champagne + Fromage",
+      "cuisine": "Afternoon Tea",
+      "price": "27.00",
+      "path": "/uk/london/covent-garden/champagne-fromage"
+    },
+    {
+      "name": "Charlie and the Chocolate Factory Afternoon Tea at One Aldwych",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/london/covent-garden/charlie-and-the-chocolate-factory-afternoon-tea-at-one-aldwych"
+    },
+    {
+      "name": "Cinnamon Bazaar",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/london/covent-garden/cinnamon-bazaar"
+    },
+    {
+      "name": "Corinthia London",
+      "cuisine": "Afternoon Tea",
+      "price": "75.00",
+      "path": "/uk/london/covent-garden/corinthia-london"
+    },
+    {
+      "name": "Covent Garden Hotel",
       "cuisine": "Afternoon Tea",
       "price": "45.00",
-      "path": "/uk/london/covent-garden/AfternoonTeaBikeTour"
+      "path": "/uk/london/covent-garden/covent-garden-hotel"
+    },
+    {
+      "name": "Crusting Pipe",
+      "cuisine": "Afternoon Tea",
+      "price": "32.00",
+      "path": "/uk/london/covent-garden/crusting-pipe"
+    },
+    {
+      "name": "Gouqi",
+      "cuisine": "Afternoon Tea",
+      "price": "78.00",
+      "path": "/uk/london/covent-garden/gouqi"
+    },
+    {
+      "name": "Ham Yard Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/covent-garden/ham-yard-hotel"
+    },
+    {
+      "name": "Inamo Covent Garden",
+      "cuisine": "Afternoon Tea",
+      "price": "19.95",
+      "path": "/uk/london/covent-garden/inamo-covent-garden"
+    },
+    {
+      "name": "L’oscar London",
+      "cuisine": "Afternoon Tea",
+      "price": "59.00",
+      "path": "/uk/london/covent-garden/loscar-london"
+    },
+    {
+      "name": "Masala Zone Piccadilly Circus",
+      "cuisine": "Afternoon Tea",
+      "price": "25.75",
+      "path": "/uk/london/covent-garden/masala-zone-piccadilly-circus"
+    },
+    {
+      "name": "Middle Eight",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/covent-garden/middle-eight"
+    },
+    {
+      "name": "Mirror Room at Rosewood London",
+      "cuisine": "Afternoon Tea",
+      "price": "75.00",
+      "path": "/uk/london/covent-garden/mirror-room-at-rosewood-london"
+    },
+    {
+      "name": "NoMad London",
+      "cuisine": "Afternoon Tea",
+      "price": "55.00",
+      "path": "/uk/london/covent-garden/nomad-london"
+    },
+    {
+      "name": "St Martins Lane London",
+      "cuisine": "Afternoon Tea",
+      "price": "55.00",
+      "path": "/uk/london/covent-garden/st-martins-lane-london"
+    },
+    {
+      "name": "The Clermont Charing Cross",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/london/covent-garden/the-clermont-charing-cross"
+    },
+    {
+      "name": "The Drawing Room, Raffles London at The OWO",
+      "cuisine": "Afternoon Tea",
+      "price": "80.00",
+      "path": "/uk/london/covent-garden/the-drawing-room-raffles-london-at-the-owo"
+    },
+    {
+      "name": "The Grand Saloon at Theatre Royal Drury Lane",
+      "cuisine": "Afternoon Tea",
+      "price": "59.00",
+      "path": "/uk/london/covent-garden/the-grand-saloon-at-theatre-royal-drury-lane"
+    },
+    {
+      "name": "The Lounge at Royal Horseguards Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "50.00",
+      "path": "/uk/london/covent-garden/the-lounge-at-royal-horseguards-hotel"
+    },
+    {
+      "name": "The Parlour at Great Scotland Yard Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "59.00",
+      "path": "/uk/london/covent-garden/the-parlour-at-great-scotland-yard-hotel"
+    },
+    {
+      "name": "The Petersham, Floral Court",
+      "cuisine": "Afternoon Tea",
+      "price": "55.00",
+      "path": "/uk/london/covent-garden/the-petersham-floral-court"
+    },
+    {
+      "name": "The Savoy",
+      "cuisine": "Afternoon Tea",
+      "price": "80.00",
+      "path": "/uk/london/covent-garden/the-savoy"
+    },
+    {
+      "name": "The Stage at The Londoner",
+      "cuisine": "Afternoon Tea",
+      "price": "55.00",
+      "path": "/uk/london/covent-garden/the-stage-at-the-londoner"
+    },
+    {
+      "name": "Theatre Afternoon Tea at Strand Palace",
+      "cuisine": "Afternoon Tea",
+      "price": "49.00",
+      "path": "/uk/london/covent-garden/theatre-afternoon-tea-at-strand-palace"
+    },
+    {
+      "name": "W London",
+      "cuisine": "Afternoon Tea",
+      "price": "52.50",
+      "path": "/uk/london/covent-garden/w-london"
     }
   ]
 }

@@ -1,23 +1,32 @@
 {
   "title": "Zakopane",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "zakopane",
+  "city": "Zakopane",
+  "citySlug": "zakopane",
+  "path": "/poland/zakopane/zakopane/restaurants",
+  "canonicalPath": "/poland/zakopane/zakopane/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Stary Niedźwiedź",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/poland/zakopane/zakopane/stary-niedwied"
-    },
     {
       "name": "Grand Kasprowy",
       "cuisine": "Meats and Grills",
       "price": "$$$",
-      "path": "/poland/zakopane/zakopane/GrandKasprowy"
+      "path": "/poland/zakopane/zakopane/grand-kasprowy"
     },
     {
       "name": "Marilor",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/poland/zakopane/zakopane/Marilor"
+      "path": "/poland/zakopane/zakopane/marilor"
+    },
+    {
+      "name": "Stary Niedźwiedź",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/poland/zakopane/zakopane/stary-niedwied"
     }
   ]
 }

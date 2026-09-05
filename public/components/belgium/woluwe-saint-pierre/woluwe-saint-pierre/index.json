@@ -1,9 +1,22 @@
 {
   "title": "Woluwe Saint Pierre",
-  "country": "belgium",
-  "region": "woluwe-saint-pierre",
-  "city": "woluwe-saint-pierre",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "woluwe-saint-pierre",
+  "city": "Woluwe Saint Pierre",
+  "citySlug": "woluwe-saint-pierre",
+  "path": "/belgium/woluwe-saint-pierre/woluwe-saint-pierre/restaurants",
+  "canonicalPath": "/belgium/woluwe-saint-pierre/woluwe-saint-pierre/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Menssa",
+      "cuisine": "Creative, Organic",
+      "price": "€€€€",
+      "path": "/belgium/woluwe-saint-pierre/woluwe-saint-pierre/menssa",
+      "award": "★"
+    },
     {
       "name": "Bottega Vannini",
       "cuisine": "Italian",
@@ -15,12 +28,6 @@
       "cuisine": "Classic Cuisine, Belgian",
       "price": "€€",
       "path": "/belgium/woluwe-saint-pierre/woluwe-saint-pierre/le-mucha"
-    },
-    {
-      "name": "Menssa",
-      "cuisine": "Creative, Organic",
-      "price": "€€€€",
-      "path": "/belgium/woluwe-saint-pierre/woluwe-saint-pierre/menssa"
     },
     {
       "name": "Sanzaru",

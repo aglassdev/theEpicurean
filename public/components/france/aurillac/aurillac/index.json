@@ -1,8 +1,14 @@
 {
   "title": "Aurillac",
-  "country": "france",
-  "region": "aurillac",
-  "city": "aurillac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "aurillac",
+  "city": "Aurillac",
+  "citySlug": "aurillac",
+  "path": "/france/aurillac/aurillac/restaurants",
+  "canonicalPath": "/france/aurillac/aurillac/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Cromesquis",

@@ -1,20 +1,27 @@
 {
   "title": "Ville Davray",
-  "country": "france",
-  "region": "ville-davray",
-  "city": "ville-davray",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ville-davray",
+  "city": "Ville Davray",
+  "citySlug": "ville-davray",
+  "path": "/france/ville-davray/ville-davray/restaurants",
+  "canonicalPath": "/france/ville-davray/ville-davray/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Corot",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/ville-davray/ville-davray/le-corot",
+      "award": "★"
+    },
     {
       "name": "Le Café des Artistes",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/ville-davray/ville-davray/le-caf-des-artistes"
-    },
-    {
-      "name": "Le Corot",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/ville-davray/ville-davray/le-corot"
     }
   ]
 }

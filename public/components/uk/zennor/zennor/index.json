@@ -1,8 +1,14 @@
 {
   "title": "Zennor",
-  "country": "uk",
-  "region": "zennor",
-  "city": "zennor",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "zennor",
+  "city": "Zennor",
+  "citySlug": "zennor",
+  "path": "/uk/zennor/zennor/restaurants",
+  "canonicalPath": "/uk/zennor/zennor/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Gurnard's Head",

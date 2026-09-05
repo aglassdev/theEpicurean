@@ -1,8 +1,14 @@
 {
   "title": "Gordes",
-  "country": "france",
-  "region": "gordes",
-  "city": "gordes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gordes",
+  "city": "Gordes",
+  "citySlug": "gordes",
+  "path": "/france/gordes/gordes/restaurants",
+  "canonicalPath": "/france/gordes/gordes/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "La Table de la Bastide",

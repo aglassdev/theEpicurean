@@ -1,8 +1,14 @@
 {
   "title": "Bouchemaine",
-  "country": "france",
-  "region": "bouchemaine",
-  "city": "bouchemaine",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bouchemaine",
+  "city": "Bouchemaine",
+  "citySlug": "bouchemaine",
+  "path": "/france/bouchemaine/bouchemaine/restaurants",
+  "canonicalPath": "/france/bouchemaine/bouchemaine/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lueurs",

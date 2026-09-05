@@ -1,8 +1,14 @@
 {
   "title": "Scarborough",
-  "country": "uk",
-  "region": "scarborough",
-  "city": "scarborough",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "scarborough",
+  "city": "Scarborough",
+  "citySlug": "scarborough",
+  "path": "/uk/scarborough/scarborough/restaurants",
+  "canonicalPath": "/uk/scarborough/scarborough/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Thomas Carr At The Coast",

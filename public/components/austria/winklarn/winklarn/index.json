@@ -1,11 +1,20 @@
 {
   "title": "Winklarn",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "winklarn",
+  "city": "Winklarn",
+  "citySlug": "winklarn",
+  "path": "/austria/winklarn/winklarn/restaurants",
+  "canonicalPath": "/austria/winklarn/winklarn/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Kastner",
       "cuisine": "Farm to table",
       "price": "$$",
-      "path": "/austria/winklarn/winklarn/Kastner"
+      "path": "/austria/winklarn/winklarn/kastner"
     }
   ]
 }

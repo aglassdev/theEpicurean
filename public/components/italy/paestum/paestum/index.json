@@ -1,9 +1,36 @@
 {
   "title": "Paestum",
-  "country": "italy",
-  "region": "paestum",
-  "city": "paestum",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "paestum",
+  "city": "Paestum",
+  "citySlug": "paestum",
+  "path": "/italy/paestum/paestum/restaurants",
+  "canonicalPath": "/italy/paestum/paestum/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Le Trabe",
+      "cuisine": "Campanian, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/paestum/paestum/le-trabe",
+      "award": "★"
+    },
+    {
+      "name": "Osteria Arbustico",
+      "cuisine": "Modern Cuisine, Campanian",
+      "price": "€€€",
+      "path": "/italy/paestum/paestum/osteria-arbustico",
+      "award": "★"
+    },
+    {
+      "name": "Tre Olivi",
+      "cuisine": "Creative, Campanian",
+      "price": "€€€€",
+      "path": "/italy/paestum/paestum/tre-olivi",
+      "award": "★"
+    },
     {
       "name": "Casa Coloni",
       "cuisine": "Contemporary, Campanian",
@@ -15,24 +42,6 @@
       "cuisine": "Campanian, Traditional Cuisine",
       "price": "€€",
       "path": "/italy/paestum/paestum/da-nonna-sceppa"
-    },
-    {
-      "name": "Le Trabe",
-      "cuisine": "Campanian, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/paestum/paestum/le-trabe"
-    },
-    {
-      "name": "Osteria Arbustico",
-      "cuisine": "Modern Cuisine, Campanian",
-      "price": "€€€",
-      "path": "/italy/paestum/paestum/osteria-arbustico"
-    },
-    {
-      "name": "Tre Olivi",
-      "cuisine": "Creative, Campanian",
-      "price": "€€€€",
-      "path": "/italy/paestum/paestum/tre-olivi"
     }
   ]
 }

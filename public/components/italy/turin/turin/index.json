@@ -1,17 +1,83 @@
 {
   "title": "Turin",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "turin",
+  "city": "Turin",
+  "citySlug": "turin",
+  "path": "/italy/turin/turin/restaurants",
+  "canonicalPath": "/italy/turin/turin/restaurants",
+  "count": 33,
   "restaurants": [
+    {
+      "name": "Andrea Larossa",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€€",
+      "path": "/italy/turin/turin/andrea-larossa",
+      "award": "★"
+    },
+    {
+      "name": "Cannavacciuolo Bistrot",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/italy/turin/turin/cannavacciuolo-bistrot",
+      "award": "★"
+    },
+    {
+      "name": "Carignano",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/italy/turin/turin/carignano",
+      "award": "★"
+    },
+    {
+      "name": "Condividere",
+      "cuisine": "Italian Contemporary, Creative",
+      "price": "€€€€",
+      "path": "/italy/turin/turin/condividere-t-u-r",
+      "award": "★"
+    },
+    {
+      "name": "Del Cambio",
+      "cuisine": "Classic Cuisine, Piedmontese",
+      "price": "€€€€",
+      "path": "/italy/turin/turin/del-cambio",
+      "award": "★"
+    },
+    {
+      "name": "Piano35",
+      "cuisine": "Italian Contemporary, Piedmontese",
+      "price": "€€€€",
+      "path": "/italy/turin/turin/piano35",
+      "award": "★"
+    },
+    {
+      "name": "Unforgettable",
+      "cuisine": "Innovative, Italian Contemporary",
+      "price": "€€€€",
+      "path": "/italy/turin/turin/unforgettable",
+      "award": "★"
+    },
+    {
+      "name": "Vintage 1997",
+      "cuisine": "Italian, Classic Cuisine",
+      "price": "€€€",
+      "path": "/italy/turin/turin/vintage1997",
+      "award": "★"
+    },
+    {
+      "name": "Contesto Alimentare",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/italy/turin/turin/contesto-alimentare",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Almondo Trattoria",
       "cuisine": "Italian",
       "price": "€€",
       "path": "/italy/turin/turin/almondo-trattoria"
-    },
-    {
-      "name": "Andrea Larossa",
-      "cuisine": "Italian Contemporary",
-      "price": "€€€€",
-      "path": "/italy/turin/turin/andrea-larossa"
     },
     {
       "name": "Antiche Sere",
@@ -26,18 +92,6 @@
       "path": "/italy/turin/turin/azotea"
     },
     {
-      "name": "Cannavacciuolo Bistrot",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/italy/turin/turin/cannavacciuolo-bistrot"
-    },
-    {
-      "name": "Carignano",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/italy/turin/turin/carignano"
-    },
-    {
       "name": "Carlo e Camillo",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
@@ -50,34 +104,28 @@
       "path": "/italy/turin/turin/casa-vicina"
     },
     {
-      "name": "Condividere",
-      "cuisine": "Italian Contemporary, Creative",
-      "price": "€€€€",
-      "path": "/italy/turin/turin/condividere"
-    },
-    {
       "name": "Consorzio",
       "cuisine": "Piedmontese, Traditional Cuisine",
       "price": "€€",
       "path": "/italy/turin/turin/consorzio"
     },
     {
-      "name": "Contesto Alimentare",
-      "cuisine": "Italian, Modern Cuisine",
-      "price": "€€",
-      "path": "/italy/turin/turin/contesto-alimentare"
-    },
-    {
-      "name": "Del Cambio",
-      "cuisine": "Classic Cuisine, Piedmontese",
-      "price": "€€€€",
-      "path": "/italy/turin/turin/del-cambio"
-    },
-    {
       "name": "Fratelli Bruzzone",
       "cuisine": "Piedmontese",
       "price": "€",
       "path": "/italy/turin/turin/fratelli-bruzzone"
+    },
+    {
+      "name": "Insieme Dal Clandestino",
+      "cuisine": "Piedmontese",
+      "price": "$$",
+      "path": "/italy/turin/turin/insieme-dal-clandestino"
+    },
+    {
+      "name": "L'Acino",
+      "cuisine": "Piedmontese, Traditional Cuisine",
+      "price": "€€",
+      "path": "/italy/turin/turin/lacino"
     },
     {
       "name": "La Limonaia",
@@ -92,12 +140,6 @@
       "path": "/italy/turin/turin/la-pista"
     },
     {
-      "name": "L'Acino",
-      "cuisine": "Piedmontese, Traditional Cuisine",
-      "price": "€€",
-      "path": "/italy/turin/turin/lacino"
-    },
-    {
       "name": "Madama Piola",
       "cuisine": "Piedmontese",
       "price": "€€",
@@ -107,7 +149,7 @@
       "name": "Magazzino 52",
       "cuisine": "Italian Contemporary",
       "price": "€€",
-      "path": "/italy/turin/turin/magazzino-52"
+      "path": "/italy/turin/turin/magazzino52"
     },
     {
       "name": "Mammà Isola di Capri",
@@ -116,16 +158,16 @@
       "path": "/italy/turin/turin/mamm-isola-di-capri"
     },
     {
+      "name": "Marchese",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$",
+      "path": "/italy/turin/turin/marchese"
+    },
+    {
       "name": "Opera",
       "cuisine": "Italian Contemporary",
       "price": "€€€",
       "path": "/italy/turin/turin/opera"
-    },
-    {
-      "name": "Piano35",
-      "cuisine": "Italian Contemporary, Piedmontese",
-      "price": "€€€€",
-      "path": "/italy/turin/turin/piano35"
     },
     {
       "name": "Piazza dei Mestieri",
@@ -149,7 +191,7 @@
       "name": "San Tommaso 10",
       "cuisine": "Piedmontese, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/turin/turin/san-tommaso-10"
+      "path": "/italy/turin/turin/san-tommaso10"
     },
     {
       "name": "Scannabue Caffè Restaurant",
@@ -174,36 +216,6 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/italy/turin/turin/tuorlo"
-    },
-    {
-      "name": "Unforgettable",
-      "cuisine": "Innovative, Italian Contemporary",
-      "price": "€€€€",
-      "path": "/italy/turin/turin/unforgettable"
-    },
-    {
-      "name": "Vintage 1997",
-      "cuisine": "Italian, Classic Cuisine",
-      "price": "€€€",
-      "path": "/italy/turin/turin/vintage-1997"
-    },
-    {
-      "name": "Contesto Alimentare",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/italy/turin/turin/ContestoAlimentare"
-    },
-    {
-      "name": "Insieme Dal Clandestino",
-      "cuisine": "Piedmontese",
-      "price": "$$",
-      "path": "/italy/turin/turin/InsiemeDalClandestino"
-    },
-    {
-      "name": "Marchese",
-      "cuisine": "Italian Contemporary",
-      "price": "$$$",
-      "path": "/italy/turin/turin/Marchese"
     }
   ]
 }

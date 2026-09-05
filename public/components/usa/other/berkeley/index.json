@@ -1,0 +1,74 @@
+{
+  "title": "Berkeley",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Berkeley",
+  "citySlug": "berkeley",
+  "path": "/usa/other/berkeley/restaurants",
+  "canonicalPath": "/usa/california/berkeley/restaurants",
+  "count": 10,
+  "restaurants": [
+    {
+      "name": "Chez Panisse",
+      "cuisine": "Californian",
+      "price": "$$$$",
+      "path": "/usa/california/berkeley/chez-panisse"
+    },
+    {
+      "name": "Comal",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/usa/california/berkeley/comal-b-e-r"
+    },
+    {
+      "name": "Fish & Bird Sousaku Izakaya",
+      "cuisine": "Japanese, Izakaya",
+      "price": "$$",
+      "path": "/usa/california/berkeley/fish-bird-sousaku-izakaya"
+    },
+    {
+      "name": "Funky Elephant",
+      "cuisine": "Thai",
+      "price": "$",
+      "path": "/usa/california/berkeley/funky-elephant"
+    },
+    {
+      "name": "Great China",
+      "cuisine": "Chinese",
+      "price": "$$",
+      "path": "/usa/california/berkeley/great-china"
+    },
+    {
+      "name": "Ippuku",
+      "cuisine": "Japanese",
+      "price": "$$",
+      "path": "/usa/california/berkeley/ippuku"
+    },
+    {
+      "name": "Iyasare",
+      "cuisine": "Japanese, Izakaya",
+      "price": "$$$",
+      "path": "/usa/california/berkeley/iyasare"
+    },
+    {
+      "name": "La Marcha",
+      "cuisine": "Spanish",
+      "price": "$$",
+      "path": "/usa/california/berkeley/la-marcha"
+    },
+    {
+      "name": "Tacubaya",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/usa/california/berkeley/tacubaya"
+    },
+    {
+      "name": "Vik's Chaat",
+      "cuisine": "Indian",
+      "price": "$",
+      "path": "/usa/california/berkeley/viks-chaat"
+    }
+  ]
+}

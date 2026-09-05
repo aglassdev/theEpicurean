@@ -1,11 +1,20 @@
 {
   "title": "Rauris",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "rauris",
+  "city": "Rauris",
+  "citySlug": "rauris",
+  "path": "/austria/rauris/rauris/restaurants",
+  "canonicalPath": "/austria/rauris/rauris/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gusto",
       "cuisine": "Austrian",
       "price": "$$$",
-      "path": "/austria/rauris/rauris/Gusto"
+      "path": "/austria/rauris/rauris/gusto"
     }
   ]
 }

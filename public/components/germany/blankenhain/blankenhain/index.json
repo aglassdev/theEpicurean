@@ -1,20 +1,28 @@
 {
   "title": "Blankenhain",
-  "country": "germany",
-  "region": "blankenhain",
-  "city": "blankenhain",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "blankenhain",
+  "city": "Blankenhain",
+  "citySlug": "blankenhain",
+  "path": "/germany/blankenhain/blankenhain/restaurants",
+  "canonicalPath": "/germany/blankenhain/blankenhain/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Masters",
       "cuisine": "Modern French, Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/germany/blankenhain/blankenhain/masters"
+      "path": "/germany/blankenhain/blankenhain/masters",
+      "award": "★"
     },
     {
       "name": "The First",
       "cuisine": "Seasonal Cuisine, Italian Contemporary",
       "price": "€€€",
-      "path": "/germany/blankenhain/blankenhain/the-first"
+      "path": "/germany/blankenhain/blankenhain/the-first",
+      "award": "★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Udine",
-  "country": "italy",
-  "region": "udine",
-  "city": "udine",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "udine",
+  "city": "Udine",
+  "citySlug": "udine",
+  "path": "/italy/udine/udine/restaurants",
+  "canonicalPath": "/italy/udine/udine/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Hostaria alla Tavernetta",

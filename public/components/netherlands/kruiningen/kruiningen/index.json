@@ -1,14 +1,21 @@
 {
   "title": "Kruiningen",
-  "country": "netherlands",
-  "region": "kruiningen",
-  "city": "kruiningen",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "kruiningen",
+  "city": "Kruiningen",
+  "citySlug": "kruiningen",
+  "path": "/netherlands/kruiningen/kruiningen/restaurants",
+  "canonicalPath": "/netherlands/kruiningen/kruiningen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Inter Scaldes",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/netherlands/kruiningen/kruiningen/inter-scaldes"
+      "path": "/netherlands/kruiningen/kruiningen/inter-scaldes",
+      "award": "★★"
     }
   ]
 }

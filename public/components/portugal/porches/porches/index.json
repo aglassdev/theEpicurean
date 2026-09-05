@@ -1,6 +1,22 @@
 {
   "title": "Porches",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "porches",
+  "city": "Porches",
+  "citySlug": "porches",
+  "path": "/portugal/porches/porches/restaurants",
+  "canonicalPath": "/portugal/porches/porches/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Ocean",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/portugal/porches/porches/ocean",
+      "award": "★★"
+    },
     {
       "name": "Aladin Grill",
       "cuisine": "International, Grills",
@@ -14,22 +30,16 @@
       "path": "/portugal/porches/porches/atlntico"
     },
     {
+      "name": "Coral - Éden do Mar",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/portugal/porches/porches/coral-den-do-mar"
+    },
+    {
       "name": "O Leão de Porches",
       "cuisine": "International",
       "price": "€€",
       "path": "/portugal/porches/porches/o-leo-de-porches"
-    },
-    {
-      "name": "Ocean",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/portugal/porches/porches/ocean"
-    },
-    {
-      "name": "Coral - Éden do Mar",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/portugal/porches/porches/CoralDenDoMar"
     }
   ]
 }

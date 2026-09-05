@@ -1,11 +1,20 @@
 {
   "title": "Oxton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "oxton",
+  "city": "Oxton",
+  "citySlug": "oxton",
+  "path": "/uk/oxton/oxton/restaurants",
+  "canonicalPath": "/uk/oxton/oxton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Daise by Tony Parkin",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/uk/oxton/oxton/DaiseByTonyParkin"
+      "path": "/uk/oxton/oxton/daise-by-tony-parkin"
     }
   ]
 }

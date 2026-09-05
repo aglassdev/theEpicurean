@@ -1,17 +1,26 @@
 {
   "title": "Hyres",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "hyres",
+  "city": "Hyres",
+  "citySlug": "hyres",
+  "path": "/france/hyres/hyres/restaurants",
+  "canonicalPath": "/france/hyres/hyres/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Colombe",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/hyres/hyres/la-colombe"
+      "path": "/france/hyres/hyres/la-colombe-h-y-r"
     },
     {
       "name": "Les Minots de la Garrigue",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/france/hyres/hyres/LesMinotsDeLaGarrigue"
+      "path": "/france/hyres/hyres/les-minots-de-la-garrigue"
     }
   ]
 }

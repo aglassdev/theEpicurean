@@ -1,20 +1,27 @@
 {
   "title": "Aubonne",
-  "country": "switzerland",
-  "region": "aubonne",
-  "city": "aubonne",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "aubonne",
+  "city": "Aubonne",
+  "citySlug": "aubonne",
+  "path": "/switzerland/aubonne/aubonne/restaurants",
+  "canonicalPath": "/switzerland/aubonne/aubonne/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Njørden",
+      "cuisine": "Modern Cuisine, Scandinavian",
+      "price": "€€€",
+      "path": "/switzerland/aubonne/aubonne/njrden",
+      "award": "★"
+    },
     {
       "name": "Njørd café",
       "cuisine": "Scandinavian, Farm to table",
       "price": "€€",
       "path": "/switzerland/aubonne/aubonne/njrd-caf"
-    },
-    {
-      "name": "Njørden",
-      "cuisine": "Modern Cuisine, Scandinavian",
-      "price": "€€€",
-      "path": "/switzerland/aubonne/aubonne/njrden"
     }
   ]
 }

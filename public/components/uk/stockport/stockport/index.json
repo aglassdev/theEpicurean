@@ -1,8 +1,14 @@
 {
   "title": "Stockport",
-  "country": "uk",
-  "region": "stockport",
-  "city": "stockport",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "stockport",
+  "city": "Stockport",
+  "citySlug": "stockport",
+  "path": "/uk/stockport/stockport/restaurants",
+  "canonicalPath": "/uk/stockport/stockport/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Cantaloupe",

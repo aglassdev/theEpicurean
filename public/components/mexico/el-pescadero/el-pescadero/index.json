@@ -1,8 +1,14 @@
 {
   "title": "El Pescadero",
-  "country": "mexico",
-  "region": "el-pescadero",
-  "city": "el-pescadero",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "el-pescadero",
+  "city": "El Pescadero",
+  "citySlug": "el-pescadero",
+  "path": "/mexico/el-pescadero/el-pescadero/restaurants",
+  "canonicalPath": "/mexico/el-pescadero/el-pescadero/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cocina de Campo by Agricole",

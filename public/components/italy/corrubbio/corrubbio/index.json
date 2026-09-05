@@ -1,14 +1,21 @@
 {
   "title": "Corrubbio",
-  "country": "italy",
-  "region": "corrubbio",
-  "city": "corrubbio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "corrubbio",
+  "city": "Corrubbio",
+  "citySlug": "corrubbio",
+  "path": "/italy/corrubbio/corrubbio/restaurants",
+  "canonicalPath": "/italy/corrubbio/corrubbio/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Amistà",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/corrubbio/corrubbio/amist"
+      "path": "/italy/corrubbio/corrubbio/amist",
+      "award": "★"
     }
   ]
 }

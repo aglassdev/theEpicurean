@@ -1,20 +1,27 @@
 {
   "title": "Trmolat",
-  "country": "france",
-  "region": "trmolat",
-  "city": "trmolat",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "trmolat",
+  "city": "Trmolat",
+  "citySlug": "trmolat",
+  "path": "/france/trmolat/trmolat/restaurants",
+  "canonicalPath": "/france/trmolat/trmolat/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Vieux Logis",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/trmolat/trmolat/le-vieux-logis",
+      "award": "★"
+    },
     {
       "name": "Bistrot de la Place",
       "cuisine": "Regional Cuisine",
       "price": "€",
       "path": "/france/trmolat/trmolat/bistrot-de-la-place"
-    },
-    {
-      "name": "Le Vieux Logis",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/trmolat/trmolat/le-vieux-logis"
     }
   ]
 }

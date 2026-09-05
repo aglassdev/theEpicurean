@@ -1,8 +1,14 @@
 {
   "title": "Windsor",
-  "country": "uk",
-  "region": "windsor",
-  "city": "windsor",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "windsor",
+  "city": "Windsor",
+  "citySlug": "windsor",
+  "path": "/uk/windsor/windsor/restaurants",
+  "canonicalPath": "/uk/windsor/windsor/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Greene Oak",

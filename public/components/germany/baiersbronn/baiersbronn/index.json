@@ -1,11 +1,49 @@
 {
   "title": "Baiersbronn",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "baiersbronn",
+  "city": "Baiersbronn",
+  "citySlug": "baiersbronn",
+  "path": "/germany/baiersbronn/baiersbronn/restaurants",
+  "canonicalPath": "/germany/baiersbronn/baiersbronn/restaurants",
+  "count": 10,
   "restaurants": [
+    {
+      "name": "Restaurant Bareiss",
+      "cuisine": "Classic French",
+      "price": "€€€€",
+      "path": "/germany/baiersbronn/baiersbronn/restaurant-bareiss",
+      "award": "★★★"
+    },
+    {
+      "name": "Schwarzwaldstube",
+      "cuisine": "Classic French, Creative",
+      "price": "€€€€",
+      "path": "/germany/baiersbronn/baiersbronn/schwarzwaldstube",
+      "award": "★★★"
+    },
     {
       "name": "1789",
       "cuisine": "Modern Cuisine, Asian Influences",
       "price": "€€€€",
-      "path": "/germany/baiersbronn/baiersbronn/1789"
+      "path": "/germany/baiersbronn/baiersbronn/1789",
+      "award": "★"
+    },
+    {
+      "name": "Schlossberg",
+      "cuisine": "Creative, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/baiersbronn/baiersbronn/schlossberg",
+      "award": "★"
+    },
+    {
+      "name": "Die Schwarzaldstube",
+      "cuisine": "",
+      "price": "",
+      "path": "/germany/baiersbronn/baiersbronn/die-schwarzaldstube",
+      "award": "World's 50 Best"
     },
     {
       "name": "Dorfstuben",
@@ -17,7 +55,7 @@
       "name": "Engelwirts-Stube",
       "cuisine": "Farm to table, Country cooking",
       "price": "€€",
-      "path": "/germany/baiersbronn/baiersbronn/engelwirts-stube"
+      "path": "/germany/baiersbronn/baiersbronn/engelwirtsstube"
     },
     {
       "name": "Forellenhof",
@@ -32,34 +70,10 @@
       "path": "/germany/baiersbronn/baiersbronn/kaminstube"
     },
     {
-      "name": "Restaurant Bareiss",
-      "cuisine": "Classic French",
-      "price": "€€€€",
-      "path": "/germany/baiersbronn/baiersbronn/restaurant-bareiss"
-    },
-    {
       "name": "Schatzhauser",
       "cuisine": "International, Regional Cuisine",
       "price": "€€",
       "path": "/germany/baiersbronn/baiersbronn/schatzhauser"
-    },
-    {
-      "name": "Schlossberg",
-      "cuisine": "Creative, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/germany/baiersbronn/baiersbronn/schlossberg"
-    },
-    {
-      "name": "Schwarzwaldstube",
-      "cuisine": "Classic French, Creative",
-      "price": "€€€€",
-      "path": "/germany/baiersbronn/baiersbronn/schwarzwaldstube"
-    },
-    {
-      "name": "Die Schwarzaldstube",
-      "cuisine": "",
-      "price": "",
-      "path": "/germany/baiersbronn/baiersbronn/DieSchwarzaldstube"
     }
   ]
 }

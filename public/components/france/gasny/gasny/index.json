@@ -1,8 +1,14 @@
 {
   "title": "Gasny",
-  "country": "france",
-  "region": "gasny",
-  "city": "gasny",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gasny",
+  "city": "Gasny",
+  "citySlug": "gasny",
+  "path": "/france/gasny/gasny/restaurants",
+  "canonicalPath": "/france/gasny/gasny/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge du Prieuré Normand",

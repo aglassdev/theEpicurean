@@ -1,14 +1,21 @@
 {
-  "title": "Wachenheim An Der Weinstrae",
-  "country": "germany",
-  "region": "wachenheim-an-der-weinstrae",
-  "city": "wachenheim-an-der-weinstrae",
+  "title": "Wachenheim an der Weinstrae",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "wachenheim-an-der-weinstrae",
+  "city": "Wachenheim an der Weinstrae",
+  "citySlug": "wachenheim-an-der-weinstrae",
+  "path": "/germany/wachenheim-an-der-weinstrae/wachenheim-an-der-weinstrae/restaurants",
+  "canonicalPath": "/germany/wachenheim-an-der-weinstrae/wachenheim-an-der-weinstrae/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Intense",
       "cuisine": "Fusion, Creative",
       "price": "€€€€",
-      "path": "/germany/wachenheim-an-der-weinstrae/wachenheim-an-der-weinstrae/intense"
+      "path": "/germany/wachenheim-an-der-weinstrae/wachenheim-an-der-weinstrae/intense",
+      "award": "★★"
     }
   ]
 }

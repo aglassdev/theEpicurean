@@ -1,8 +1,14 @@
 {
   "title": "De Panne",
-  "country": "belgium",
-  "region": "de-panne",
-  "city": "de-panne",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "de-panne",
+  "city": "De Panne",
+  "citySlug": "de-panne",
+  "path": "/belgium/de-panne/de-panne/restaurants",
+  "canonicalPath": "/belgium/de-panne/de-panne/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "La Coupole",

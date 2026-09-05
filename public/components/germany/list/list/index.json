@@ -1,8 +1,14 @@
 {
   "title": "List",
-  "country": "germany",
-  "region": "list",
-  "city": "list",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "list",
+  "city": "List",
+  "citySlug": "list",
+  "path": "/germany/list/list/restaurants",
+  "canonicalPath": "/germany/list/list/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Königshafen",

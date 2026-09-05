@@ -1,6 +1,22 @@
 {
   "title": "Duisburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "duisburg",
+  "city": "Duisburg",
+  "citySlug": "duisburg",
+  "path": "/germany/duisburg/duisburg/restaurants",
+  "canonicalPath": "/germany/duisburg/duisburg/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Mod by Sven Nöthel",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/duisburg/duisburg/mod-by-sven-nthel",
+      "award": "★"
+    },
     {
       "name": "Frau Specht",
       "cuisine": "Seasonal Cuisine",
@@ -14,16 +30,10 @@
       "path": "/germany/duisburg/duisburg/kppersmhle-restaurant"
     },
     {
-      "name": "Mod by Sven Nöthel",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/duisburg/duisburg/mod-by-sven-nthel"
-    },
-    {
       "name": "Villa Patrizia",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/germany/duisburg/duisburg/VillaPatrizia"
+      "path": "/germany/duisburg/duisburg/villa-patrizia"
     }
   ]
 }

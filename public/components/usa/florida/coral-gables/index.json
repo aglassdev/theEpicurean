@@ -1,11 +1,57 @@
 {
   "title": "Coral Gables",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Coral Gables",
+  "citySlug": "coral-gables",
+  "path": "/usa/florida/coral-gables/restaurants",
+  "canonicalPath": "/usa/florida/coral-gables/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Shingo",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/florida/coral-gables/shingo",
+      "award": "★"
+    },
+    {
+      "name": "Beauty & the Butcher",
+      "cuisine": "Contemporary, American",
+      "price": "$$$",
+      "path": "/usa/florida/coral-gables/beauty-the-butcher"
+    },
     {
       "name": "Elyu Omakase",
       "cuisine": "Japanese",
       "price": "$$$$",
-      "path": "/usa/florida/coral-gables/ElyuOmakase"
+      "path": "/usa/florida/coral-gables/elyu-omakase"
+    },
+    {
+      "name": "Fiola Miami",
+      "cuisine": "Italian, Seafood",
+      "price": "$$$$",
+      "path": "/usa/florida/coral-gables/fiola-miami"
+    },
+    {
+      "name": "Kojin 2.0",
+      "cuisine": "Contemporary, Japanese",
+      "price": "$$$",
+      "path": "/usa/florida/coral-gables/kojin20"
+    },
+    {
+      "name": "Tinta y Cafe",
+      "cuisine": "Cuban, Regional Cuisine",
+      "price": "$",
+      "path": "/usa/florida/coral-gables/tinta-y-cafe"
+    },
+    {
+      "name": "Zitz Sum",
+      "cuisine": "Asian, Fusion",
+      "price": "$$",
+      "path": "/usa/florida/coral-gables/zitz-sum"
     }
   ]
 }

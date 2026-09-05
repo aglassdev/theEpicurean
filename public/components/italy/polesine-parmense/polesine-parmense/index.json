@@ -1,20 +1,27 @@
 {
   "title": "Polesine Parmense",
-  "country": "italy",
-  "region": "polesine-parmense",
-  "city": "polesine-parmense",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "polesine-parmense",
+  "city": "Polesine Parmense",
+  "citySlug": "polesine-parmense",
+  "path": "/italy/polesine-parmense/polesine-parmense/restaurants",
+  "canonicalPath": "/italy/polesine-parmense/polesine-parmense/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Antica Corte Pallavicina",
+      "cuisine": "Country cooking, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/polesine-parmense/polesine-parmense/antica-corte-pallavicina",
+      "award": "★"
+    },
     {
       "name": "Al Cavallino Bianco",
       "cuisine": "Emilian, Traditional Cuisine",
       "price": "€€",
       "path": "/italy/polesine-parmense/polesine-parmense/al-cavallino-bianco"
-    },
-    {
-      "name": "Antica Corte Pallavicina",
-      "cuisine": "Country cooking, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/polesine-parmense/polesine-parmense/antica-corte-pallavicina"
     }
   ]
 }

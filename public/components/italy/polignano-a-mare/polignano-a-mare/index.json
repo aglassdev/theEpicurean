@@ -1,11 +1,27 @@
 {
   "title": "Polignano A Mare",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "polignano-a-mare",
+  "city": "Polignano A Mare",
+  "citySlug": "polignano-a-mare",
+  "path": "/italy/polignano-a-mare/polignano-a-mare/restaurants",
+  "canonicalPath": "/italy/polignano-a-mare/polignano-a-mare/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Pashà",
+      "cuisine": "Modern Cuisine, Apulian",
+      "price": "€€€€",
+      "path": "/italy/polignano-a-mare/polignano-a-mare/pash",
+      "award": "★"
+    },
     {
       "name": "Casanova",
       "cuisine": "Italian Contemporary, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/italy/polignano-a-mare/polignano-a-mare/casanova"
+      "path": "/italy/polignano-a-mare/polignano-a-mare/casanova-p-o-l"
     },
     {
       "name": "Jamantè",
@@ -14,28 +30,16 @@
       "path": "/italy/polignano-a-mare/polignano-a-mare/jamant"
     },
     {
+      "name": "Meraviglioso",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/italy/polignano-a-mare/polignano-a-mare/meraviglioso"
+    },
+    {
       "name": "Meraviglioso Osteria Moderna",
       "cuisine": "Contemporary, Seafood",
       "price": "€€€",
       "path": "/italy/polignano-a-mare/polignano-a-mare/meraviglioso-osteria-moderna"
-    },
-    {
-      "name": "Pashà",
-      "cuisine": "Modern Cuisine, Apulian",
-      "price": "€€€€",
-      "path": "/italy/polignano-a-mare/polignano-a-mare/pash"
-    },
-    {
-      "name": "Pashà",
-      "cuisine": "Apulian, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/polignano-a-mare/polignano-a-mare/pash"
-    },
-    {
-      "name": "Meraviglioso",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/italy/polignano-a-mare/polignano-a-mare/Meraviglioso"
     }
   ]
 }

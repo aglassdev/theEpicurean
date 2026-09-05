@@ -1,26 +1,32 @@
 {
   "title": "Munster",
-  "country": "france",
-  "region": "munster",
-  "city": "munster",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "munster",
+  "city": "Munster",
+  "citySlug": "munster",
+  "path": "/france/munster/munster/restaurants",
+  "canonicalPath": "/france/munster/munster/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Auberge aux 4 Saisons",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/munster/munster/auberge-aux-4-saisons"
-    },
-    {
-      "name": "Les Grands Arbres - Verte Vallée",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/munster/munster/les-grands-arbres-verte-valle"
+      "path": "/france/munster/munster/auberge-aux4-saisons"
     },
     {
       "name": "L'Olivier",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/munster/munster/lolivier"
+    },
+    {
+      "name": "Les Grands Arbres - Verte Vallée",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/munster/munster/les-grands-arbres-verte-valle"
     }
   ]
 }

@@ -1,9 +1,22 @@
 {
-  "title": "Saint Bonnet Le Froid",
-  "country": "france",
-  "region": "saint-bonnet-le-froid",
-  "city": "saint-bonnet-le-froid",
+  "title": "Saint Bonnet le Froid",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-bonnet-le-froid",
+  "city": "Saint Bonnet le Froid",
+  "citySlug": "saint-bonnet-le-froid",
+  "path": "/france/saint-bonnet-le-froid/saint-bonnet-le-froid/restaurants",
+  "canonicalPath": "/france/saint-bonnet-le-froid/saint-bonnet-le-froid/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Restaurant Marcon",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/saint-bonnet-le-froid/saint-bonnet-le-froid/restaurant-marcon",
+      "award": "★★★"
+    },
     {
       "name": "Bistrot la Coulemelle",
       "cuisine": "Traditional Cuisine",
@@ -14,13 +27,7 @@
       "name": "L'Acte 2",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/saint-bonnet-le-froid/saint-bonnet-le-froid/lacte-2"
-    },
-    {
-      "name": "Restaurant Marcon",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/saint-bonnet-le-froid/saint-bonnet-le-froid/restaurant-marcon"
+      "path": "/france/saint-bonnet-le-froid/saint-bonnet-le-froid/lacte2"
     }
   ]
 }

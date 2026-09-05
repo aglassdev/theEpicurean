@@ -1,14 +1,21 @@
 {
   "title": "Puy En Velay",
-  "country": "france",
-  "region": "puy-en-velay",
-  "city": "puy-en-velay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "puy-en-velay",
+  "city": "Puy En Velay",
+  "citySlug": "puy-en-velay",
+  "path": "/france/puy-en-velay/puy-en-velay/restaurants",
+  "canonicalPath": "/france/puy-en-velay/puy-en-velay/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Chamarlenc",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/puy-en-velay/puy-en-velay/le-chamarlenc"
+      "path": "/france/puy-en-velay/puy-en-velay/le-chamarlenc",
+      "award": "★"
     },
     {
       "name": "L'Émotion",

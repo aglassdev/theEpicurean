@@ -1,0 +1,32 @@
+{
+  "title": "Oxford",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Mississippi",
+  "regionSlug": "mississippi",
+  "city": "Oxford",
+  "citySlug": "oxford",
+  "path": "/usa/mississippi/oxford/restaurants",
+  "canonicalPath": "/usa/mississippi/oxford/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Ajax Diner",
+      "cuisine": "American, Southern",
+      "price": "$$",
+      "path": "/usa/mississippi/oxford/ajax-diner"
+    },
+    {
+      "name": "City Grocery",
+      "cuisine": "American, Southern",
+      "price": "$$",
+      "path": "/usa/mississippi/oxford/city-grocery"
+    },
+    {
+      "name": "Snackbar",
+      "cuisine": "American, Indian",
+      "price": "$$$",
+      "path": "/usa/mississippi/oxford/snackbar"
+    }
+  ]
+}

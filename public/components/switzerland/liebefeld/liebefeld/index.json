@@ -1,8 +1,14 @@
 {
   "title": "Liebefeld",
-  "country": "switzerland",
-  "region": "liebefeld",
-  "city": "liebefeld",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "liebefeld",
+  "city": "Liebefeld",
+  "citySlug": "liebefeld",
+  "path": "/switzerland/liebefeld/liebefeld/restaurants",
+  "canonicalPath": "/switzerland/liebefeld/liebefeld/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Haberbüni",

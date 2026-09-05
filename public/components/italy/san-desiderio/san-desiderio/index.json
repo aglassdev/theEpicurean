@@ -1,8 +1,14 @@
 {
   "title": "San Desiderio",
-  "country": "italy",
-  "region": "san-desiderio",
-  "city": "san-desiderio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-desiderio",
+  "city": "San Desiderio",
+  "citySlug": "san-desiderio",
+  "path": "/italy/san-desiderio/san-desiderio/restaurants",
+  "canonicalPath": "/italy/san-desiderio/san-desiderio/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bruxaboschi",

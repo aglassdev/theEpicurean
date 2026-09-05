@@ -1,8 +1,14 @@
 {
   "title": "Tourtour",
-  "country": "france",
-  "region": "tourtour",
-  "city": "tourtour",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tourtour",
+  "city": "Tourtour",
+  "citySlug": "tourtour",
+  "path": "/france/tourtour/tourtour/restaurants",
+  "canonicalPath": "/france/tourtour/tourtour/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table",

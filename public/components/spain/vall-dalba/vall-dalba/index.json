@@ -1,14 +1,21 @@
 {
   "title": "Vall Dalba",
-  "country": "spain",
-  "region": "vall-dalba",
-  "city": "vall-dalba",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "vall-dalba",
+  "city": "Vall Dalba",
+  "citySlug": "vall-dalba",
+  "path": "/spain/vall-dalba/vall-dalba/restaurants",
+  "canonicalPath": "/spain/vall-dalba/vall-dalba/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cal Paradís",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/spain/vall-dalba/vall-dalba/cal-parads"
+      "path": "/spain/vall-dalba/vall-dalba/cal-parads",
+      "award": "★"
     }
   ]
 }

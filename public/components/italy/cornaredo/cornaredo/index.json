@@ -1,26 +1,28 @@
 {
   "title": "Cornaredo",
-  "country": "italy",
-  "region": "cornaredo",
-  "city": "cornaredo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cornaredo",
+  "city": "Cornaredo",
+  "citySlug": "cornaredo",
+  "path": "/italy/cornaredo/cornaredo/restaurants",
+  "canonicalPath": "/italy/cornaredo/cornaredo/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "D'O",
       "cuisine": "Creative, Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/cornaredo/cornaredo/do"
+      "path": "/italy/cornaredo/cornaredo/do",
+      "award": "★★"
     },
     {
       "name": "Olmo",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/italy/cornaredo/cornaredo/olmo"
-    },
-    {
-      "name": "Olmo",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/italy/cornaredo/cornaredo/olmo"
+      "path": "/italy/cornaredo/cornaredo/olmo",
+      "award": "★"
     }
   ]
 }

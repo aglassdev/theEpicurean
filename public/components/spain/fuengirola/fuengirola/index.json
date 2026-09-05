@@ -1,6 +1,22 @@
 {
   "title": "Fuengirola",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "fuengirola",
+  "city": "Fuengirola",
+  "citySlug": "fuengirola",
+  "path": "/spain/fuengirola/fuengirola/restaurants",
+  "canonicalPath": "/spain/fuengirola/fuengirola/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Sollo",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/fuengirola/fuengirola/sollo",
+      "award": "★"
+    },
     {
       "name": "Charolais",
       "cuisine": "Traditional Cuisine",
@@ -8,22 +24,16 @@
       "path": "/spain/fuengirola/fuengirola/charolais"
     },
     {
+      "name": "Lila",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/spain/fuengirola/fuengirola/lila"
+    },
+    {
       "name": "Los Marinos José",
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/spain/fuengirola/fuengirola/los-marinos-jos"
-    },
-    {
-      "name": "Sollo",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/fuengirola/fuengirola/sollo"
-    },
-    {
-      "name": "Lila",
-      "cuisine": "Fusion",
-      "price": "$$",
-      "path": "/spain/fuengirola/fuengirola/Lila"
     }
   ]
 }

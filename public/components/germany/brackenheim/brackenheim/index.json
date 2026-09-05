@@ -1,14 +1,20 @@
 {
   "title": "Brackenheim",
-  "country": "germany",
-  "region": "brackenheim",
-  "city": "brackenheim",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "brackenheim",
+  "city": "Brackenheim",
+  "citySlug": "brackenheim",
+  "path": "/germany/brackenheim/brackenheim/restaurants",
+  "canonicalPath": "/germany/brackenheim/brackenheim/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Adler",
       "cuisine": "Traditional Cuisine, Regional Cuisine",
       "price": "€€",
-      "path": "/germany/brackenheim/brackenheim/adler"
+      "path": "/germany/brackenheim/brackenheim/adler-b-r-a"
     }
   ]
 }

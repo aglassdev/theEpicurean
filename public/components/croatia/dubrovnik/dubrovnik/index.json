@@ -1,20 +1,27 @@
 {
   "title": "Dubrovnik",
-  "country": "croatia",
-  "region": "dubrovnik",
-  "city": "dubrovnik",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "dubrovnik",
+  "city": "Dubrovnik",
+  "citySlug": "dubrovnik",
+  "path": "/croatia/dubrovnik/dubrovnik/restaurants",
+  "canonicalPath": "/croatia/dubrovnik/dubrovnik/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Restaurant 360",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/croatia/dubrovnik/dubrovnik/restaurant360",
+      "award": "★"
+    },
     {
       "name": "Bistro Tavulin",
       "cuisine": "Traditional Cuisine, Classic Cuisine",
       "price": "€€",
       "path": "/croatia/dubrovnik/dubrovnik/bistro-tavulin"
-    },
-    {
-      "name": "Dubrovnik",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€",
-      "path": "/croatia/dubrovnik/dubrovnik/dubrovnik"
     },
     {
       "name": "Dubrovnik",
@@ -45,12 +52,6 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/croatia/dubrovnik/dubrovnik/proto-fish"
-    },
-    {
-      "name": "Restaurant 360",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/croatia/dubrovnik/dubrovnik/restaurant-360"
     },
     {
       "name": "Stara Loza",

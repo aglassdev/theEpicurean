@@ -1,8 +1,14 @@
 {
   "title": "Le Thou",
-  "country": "france",
-  "region": "le-thou",
-  "city": "le-thou",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-thou",
+  "city": "Le Thou",
+  "citySlug": "le-thou",
+  "path": "/france/le-thou/le-thou/restaurants",
+  "canonicalPath": "/france/le-thou/le-thou/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Instant Z",

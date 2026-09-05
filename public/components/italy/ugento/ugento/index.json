@@ -1,8 +1,14 @@
 {
   "title": "Ugento",
-  "country": "italy",
-  "region": "ugento",
-  "city": "ugento",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ugento",
+  "city": "Ugento",
+  "citySlug": "ugento",
+  "path": "/italy/ugento/ugento/restaurants",
+  "canonicalPath": "/italy/ugento/ugento/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Tempo Nuovo",

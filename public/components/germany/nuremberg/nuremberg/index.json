@@ -1,6 +1,77 @@
 {
   "title": "Nuremberg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "nuremberg",
+  "city": "Nuremberg",
+  "citySlug": "nuremberg",
+  "path": "/germany/nuremberg/nuremberg/restaurants",
+  "canonicalPath": "/germany/nuremberg/nuremberg/restaurants",
+  "count": 19,
   "restaurants": [
+    {
+      "name": "Essigbrätlein",
+      "cuisine": "Innovative, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/nuremberg/nuremberg/essigbrtlein",
+      "award": "★★"
+    },
+    {
+      "name": "etz",
+      "cuisine": "Creative, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/germany/nuremberg/nuremberg/etz",
+      "award": "★★"
+    },
+    {
+      "name": "Entenstuben",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/nuremberg/nuremberg/entenstuben",
+      "award": "★"
+    },
+    {
+      "name": "Tisane",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/nuremberg/nuremberg/tisane",
+      "award": "★"
+    },
+    {
+      "name": "Veles",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€",
+      "path": "/germany/nuremberg/nuremberg/veles",
+      "award": "★"
+    },
+    {
+      "name": "Waidwerk",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/nuremberg/nuremberg/waidwerk",
+      "award": "★"
+    },
+    {
+      "name": "Wonka",
+      "cuisine": "Creative, Asian Influences",
+      "price": "€€€",
+      "path": "/germany/nuremberg/nuremberg/wonka",
+      "award": "★"
+    },
+    {
+      "name": "ZweiSinn Meiers | Fine Dining",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/nuremberg/nuremberg/zweisinn-meiers-fine-dining",
+      "award": "★"
+    },
+    {
+      "name": "[w]einklang",
+      "cuisine": "Contemporary, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/germany/nuremberg/nuremberg/weinklang"
+    },
     {
       "name": "Bratwursthäusle",
       "cuisine": "Bavarian, Grills",
@@ -12,24 +83,6 @@
       "cuisine": "Modern Cuisine, International",
       "price": "€€€",
       "path": "/germany/nuremberg/nuremberg/der-schwarze-adler"
-    },
-    {
-      "name": "Entenstuben",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/nuremberg/nuremberg/entenstuben"
-    },
-    {
-      "name": "Essigbrätlein",
-      "cuisine": "Innovative, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/nuremberg/nuremberg/essigbrtlein"
-    },
-    {
-      "name": "etz",
-      "cuisine": "Creative, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/germany/nuremberg/nuremberg/etz"
     },
     {
       "name": "Imperial by Alexander Herrmann",
@@ -44,6 +97,12 @@
       "path": "/germany/nuremberg/nuremberg/iu-on"
     },
     {
+      "name": "Kakehashi",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/germany/nuremberg/nuremberg/kakehashi"
+    },
+    {
       "name": "Koch und Kellner",
       "cuisine": "Modern Cuisine, International",
       "price": "€€€€",
@@ -54,36 +113,6 @@
       "cuisine": "Italian, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/germany/nuremberg/nuremberg/minneci"
-    },
-    {
-      "name": "Tisane",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/germany/nuremberg/nuremberg/tisane"
-    },
-    {
-      "name": "Veles",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€",
-      "path": "/germany/nuremberg/nuremberg/veles"
-    },
-    {
-      "name": "Waidwerk",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/nuremberg/nuremberg/waidwerk"
-    },
-    {
-      "name": "[w]einklang",
-      "cuisine": "Contemporary, Mediterranean Cuisine",
-      "price": "€€€",
-      "path": "/germany/nuremberg/nuremberg/weinklang"
-    },
-    {
-      "name": "Wonka",
-      "cuisine": "Creative, Asian Influences",
-      "price": "€€€",
-      "path": "/germany/nuremberg/nuremberg/wonka"
     },
     {
       "name": "Würzhaus",
@@ -102,18 +131,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/germany/nuremberg/nuremberg/zweisinn-meiers-bistro"
-    },
-    {
-      "name": "ZweiSinn Meiers | Fine Dining",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/nuremberg/nuremberg/zweisinn-meiers-fine-dining"
-    },
-    {
-      "name": "Kakehashi",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/germany/nuremberg/nuremberg/Kakehashi"
     }
   ]
 }

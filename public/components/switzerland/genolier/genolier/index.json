@@ -1,14 +1,20 @@
 {
   "title": "Genolier",
-  "country": "switzerland",
-  "region": "genolier",
-  "city": "genolier",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "genolier",
+  "city": "Genolier",
+  "citySlug": "genolier",
+  "path": "/switzerland/genolier/genolier/restaurants",
+  "canonicalPath": "/switzerland/genolier/genolier/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge aux 3 Tilleuls",
       "cuisine": "Contemporary, French",
       "price": "€€",
-      "path": "/switzerland/genolier/genolier/auberge-aux-3-tilleuls"
+      "path": "/switzerland/genolier/genolier/auberge-aux3-tilleuls"
     }
   ]
 }

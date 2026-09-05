@@ -1,14 +1,21 @@
 {
   "title": "Villa Dalm",
-  "country": "italy",
-  "region": "villa-dalm",
-  "city": "villa-dalm",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "villa-dalm",
+  "city": "Villa Dalm",
+  "citySlug": "villa-dalm",
+  "path": "/italy/villa-dalm/villa-dalm/restaurants",
+  "canonicalPath": "/italy/villa-dalm/villa-dalm/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Osteria della Brughiera",
       "cuisine": "Italian Contemporary, Creative",
       "price": "€€€€",
-      "path": "/italy/villa-dalm/villa-dalm/osteria-della-brughiera"
+      "path": "/italy/villa-dalm/villa-dalm/osteria-della-brughiera",
+      "award": "★"
     },
     {
       "name": "Tenuta Casa Virginia",

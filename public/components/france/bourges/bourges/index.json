@@ -1,14 +1,20 @@
 {
   "title": "Bourges",
-  "country": "france",
-  "region": "bourges",
-  "city": "bourges",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bourges",
+  "city": "Bourges",
+  "citySlug": "bourges",
+  "path": "/france/bourges/bourges/restaurants",
+  "canonicalPath": "/france/bourges/bourges/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Suite",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/bourges/bourges/la-suite"
+      "path": "/france/bourges/bourges/la-suite-b-o-u"
     },
     {
       "name": "Le Beauvoir",

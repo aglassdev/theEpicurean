@@ -1,20 +1,27 @@
 {
   "title": "Hirschegg",
-  "country": "austria",
-  "region": "hirschegg",
-  "city": "hirschegg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "hirschegg",
+  "city": "Hirschegg",
+  "citySlug": "hirschegg",
+  "path": "/austria/hirschegg/hirschegg/restaurants",
+  "canonicalPath": "/austria/hirschegg/hirschegg/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Kilian Stuba",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/austria/hirschegg/hirschegg/kilian-stuba",
+      "award": "★"
+    },
     {
       "name": "Carnozet",
       "cuisine": "Country cooking, Regional Cuisine",
       "price": "€€",
       "path": "/austria/hirschegg/hirschegg/carnozet"
-    },
-    {
-      "name": "Kilian Stuba",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/austria/hirschegg/hirschegg/kilian-stuba"
     },
     {
       "name": "Sonnenstüble",

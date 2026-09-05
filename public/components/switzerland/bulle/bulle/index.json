@@ -1,8 +1,14 @@
 {
   "title": "Bulle",
-  "country": "switzerland",
-  "region": "bulle",
-  "city": "bulle",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "bulle",
+  "city": "Bulle",
+  "citySlug": "bulle",
+  "path": "/switzerland/bulle/bulle/restaurants",
+  "canonicalPath": "/switzerland/bulle/bulle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Du Cheval Blanc",

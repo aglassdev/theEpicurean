@@ -1,9 +1,36 @@
 {
   "title": "Saint Emilion",
-  "country": "france",
-  "region": "saint-emilion",
-  "city": "saint-emilion",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-emilion",
+  "city": "Saint Emilion",
+  "citySlug": "saint-emilion",
+  "path": "/france/saint-emilion/saint-emilion/restaurants",
+  "canonicalPath": "/france/saint-emilion/saint-emilion/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "La Table de Pavie",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/saint-emilion/saint-emilion/la-table-de-pavie",
+      "award": "★★"
+    },
+    {
+      "name": "Les Belles Perdrix de Troplong Mondot",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/saint-emilion/saint-emilion/les-belles-perdrix-de-troplong-mondot",
+      "award": "★"
+    },
+    {
+      "name": "Logis de la Cadène",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/saint-emilion/saint-emilion/logis-de-la-cadne",
+      "award": "★"
+    },
     {
       "name": "Château Grand Barrail",
       "cuisine": "Modern Cuisine",
@@ -11,28 +38,10 @@
       "path": "/france/saint-emilion/saint-emilion/chteau-grand-barrail"
     },
     {
-      "name": "La Table de Pavie",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/saint-emilion/saint-emilion/la-table-de-pavie"
-    },
-    {
-      "name": "Le Tertre",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€",
-      "path": "/france/saint-emilion/saint-emilion/le-tertre"
-    },
-    {
       "name": "L'Envers du Décor",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/saint-emilion/saint-emilion/lenvers-du-dcor"
-    },
-    {
-      "name": "Les Belles Perdrix de Troplong Mondot",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/saint-emilion/saint-emilion/les-belles-perdrix-de-troplong-mondot"
+      "path": "/france/saint-emilion/saint-emilion/lenvers-du-dcor-s-a-i"
     },
     {
       "name": "L'Huitrier Pie",
@@ -41,10 +50,10 @@
       "path": "/france/saint-emilion/saint-emilion/lhuitrier-pie"
     },
     {
-      "name": "Logis de la Cadène",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/saint-emilion/saint-emilion/logis-de-la-cadne"
+      "name": "Le Tertre",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€",
+      "path": "/france/saint-emilion/saint-emilion/le-tertre"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Ariccia",
-  "country": "italy",
-  "region": "ariccia",
-  "city": "ariccia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ariccia",
+  "city": "Ariccia",
+  "citySlug": "ariccia",
+  "path": "/italy/ariccia/ariccia/restaurants",
+  "canonicalPath": "/italy/ariccia/ariccia/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sintesi",
       "cuisine": "Contemporary, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/italy/ariccia/ariccia/sintesi"
+      "path": "/italy/ariccia/ariccia/sintesi",
+      "award": "★"
     }
   ]
 }

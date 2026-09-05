@@ -1,29 +1,17 @@
-import React, { Suspense, lazy } from 'react';
+import React, { Suspense } from 'react';
 import { BrowserRouter, Routes, Route, useLocation, useNavigate } from 'react-router-dom';
 import Home from './Home';
 import Destinations from './Destinations';
 import Methodology from './Methodology';
 import WorldMapPage from './WorldMapPage';
 import News from './News';
+import CityPage from './CityPage';
 import RestaurantTemplate from './RestaurantTemplate';
 import { EpiPage, tokens } from './EpiChrome';
 
-// USA listing pages: discovered by Vite at build time, code-split per city.
-// International cities: served via /components/{country}/{region}/{city}/index.json
-// fetched at runtime inside DynamicPage (see below) — no extra bundle cost.
-// Two globs: 3-deep (usa/state/city) covers most cities; 2-deep (usa/dc) covers
-// special top-level entries like Washington D.C.
-const listingModules3 = import.meta.glob('./usa/*/*/Restaurants.jsx');
-const listingModules2 = import.meta.glob('./usa/*/Restaurants.jsx');
-
-const listingComponents = Object.fromEntries(
-  [...Object.entries(listingModules3), ...Object.entries(listingModules2)].map(([filePath, loader]) => {
-    const routePath = filePath
-      .replace(/^\.\//, '/')
-      .replace(/\/Restaurants\.jsx$/, '/restaurants');
-    return [routePath, lazy(loader)];
-  })
-);
+// Every city — domestic or not — is served the same way: a listing at
+// /components/{country}/{region}/{city}/index.json, fetched at runtime and
+// rendered by CityPage. Written by `npm run destinations`.
 
 const LoadingSpinner = () => (
   <div style={{
@@ -51,32 +39,22 @@ const DynamicPage = () => {
 
         const path = location.pathname.slice(1);
         const fullPath = `/${path}`;
-        console.log('Loading path:', fullPath);
 
-        // 1. USA bundled listing page?
-        const ListingComponent = listingComponents[fullPath];
-        if (ListingComponent) {
-          setContent({ type: 'component', Component: ListingComponent });
-          setLoading(false);
-          return;
-        }
-
-        // 2. International listing page? (ends in /restaurants, served as index.json)
-        if (fullPath.endsWith('/restaurants')) {
-          const cityPath = fullPath.replace(/\/restaurants$/, '');
-          const indexUrl = `/components${cityPath}/index.json`;
+        // 1. City listing? Older links use /Restaurants, newer ones /restaurants.
+        if (/\/restaurants$/i.test(fullPath)) {
+          const cityPath = fullPath.replace(/\/restaurants$/i, '');
           try {
-            const resp = await fetch(indexUrl);
+            const resp = await fetch(`/components${cityPath}/index.json`);
             if (resp.ok) {
               const listing = await resp.json();
-              setContent({ type: 'listing-json', data: listing });
+              setContent({ type: 'city', data: listing });
               setLoading(false);
               return;
             }
           } catch (_) { /* fall through to 404 */ }
         }
 
-        // 3. Otherwise, try to load restaurant JSON
+        // 2. Otherwise, try to load restaurant JSON
         const pathParts = path.split('/');
         const lastPart = pathParts[pathParts.length - 1];
 
@@ -102,8 +80,6 @@ const DynamicPage = () => {
           `/components/${basePath}/${name}.json`
         );
 
-        console.log('Trying JSON paths:', pathVariations);
-
         let data = null;
         let lastError = null;
 
@@ -113,7 +89,6 @@ const DynamicPage = () => {
             if (response.ok) {
               try {
                 data = await response.json();
-                console.log('✓ Loaded JSON from:', tryPath);
                 break;
               } catch (jsonErr) {
                 lastError = `Invalid JSON: ${jsonErr.message}`;
@@ -167,45 +142,7 @@ const DynamicPage = () => {
     );
   }
 
-  if (content.type === 'component') {
-    const Component = content.Component;
-    return (
-      <Suspense fallback={<LoadingSpinner />}>
-        <Component />
-      </Suspense>
-    );
-  }
-
-  // International city listing fetched as JSON
-  if (content.type === 'listing-json') {
-    const { title, restaurants } = content.data;
-    const goTo = (p) => (e) => { e.preventDefault(); navigate(p); };
-    return (
-      <EpiPage active="destinations">
-        <section style={{ maxWidth: '1280px', margin: '0 auto', padding: 'clamp(3.5rem, 7vw, 6rem) 2.5rem 1rem' }}>
-          <h1 style={{ fontFamily: tokens.serif, fontWeight: 400, fontSize: 'clamp(2.6rem, 6vw, 5rem)', lineHeight: 1, letterSpacing: '-.02em', margin: '0 0 1rem', color: tokens.ink }}>{title}</h1>
-          <div style={{ fontFamily: tokens.sans, fontSize: '11px', letterSpacing: '.28em', textTransform: 'uppercase', color: tokens.inkSoft }}>
-            {restaurants.length} {restaurants.length === 1 ? 'table' : 'tables'}
-          </div>
-        </section>
-        <section style={{ maxWidth: '1280px', margin: '0 auto', padding: '1.5rem 2.5rem clamp(4rem, 8vw, 6rem)' }}>
-          <div style={{ borderTop: `1px solid ${tokens.rule}`, display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(340px, 1fr))', columnGap: '3rem' }}>
-            {restaurants.map((r, i) => (
-              <a key={i} href={r.path} onClick={goTo(r.path)}
-                style={{ display: 'grid', gridTemplateColumns: '1fr auto', gap: '1rem', alignItems: 'baseline', padding: '1.15rem .25rem', borderBottom: `1px solid ${tokens.rule}`, textDecoration: 'none', color: 'inherit', transition: 'color .25s ease' }}
-                onMouseEnter={(e) => e.currentTarget.style.color = tokens.gold}
-                onMouseLeave={(e) => e.currentTarget.style.color = tokens.ink}>
-                <span style={{ fontFamily: tokens.serif, fontWeight: 500, fontSize: '1.35rem', letterSpacing: '-.01em', lineHeight: 1.2 }}>{r.name}</span>
-                <span style={{ fontFamily: tokens.sans, fontSize: '10.5px', letterSpacing: '.16em', textTransform: 'uppercase', color: tokens.inkMute, whiteSpace: 'nowrap' }}>
-                  {[r.cuisine, r.price].filter(Boolean).join(' · ')}
-                </span>
-              </a>
-            ))}
-          </div>
-        </section>
-      </EpiPage>
-    );
-  }
+  if (content.type === 'city') return <CityPage data={content.data} />;
 
   return <RestaurantTemplate {...content.data} />;
 };

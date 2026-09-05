@@ -1,14 +1,20 @@
 {
   "title": "Lienz",
-  "country": "austria",
-  "region": "lienz",
-  "city": "lienz",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "lienz",
+  "city": "Lienz",
+  "citySlug": "lienz",
+  "path": "/austria/lienz/lienz/restaurants",
+  "canonicalPath": "/austria/lienz/lienz/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ansitz 12",
       "cuisine": "Austrian, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/austria/lienz/lienz/ansitz-12"
+      "path": "/austria/lienz/lienz/ansitz12"
     }
   ]
 }

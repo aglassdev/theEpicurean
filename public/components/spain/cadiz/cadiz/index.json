@@ -1,20 +1,27 @@
 {
   "title": "Cadiz",
-  "country": "spain",
-  "region": "cadiz",
-  "city": "cadiz",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "cadiz",
+  "city": "Cadiz",
+  "citySlug": "cadiz",
+  "path": "/spain/cadiz/cadiz/restaurants",
+  "canonicalPath": "/spain/cadiz/cadiz/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Código de Barra",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/spain/cadiz/cadiz/cdigo-de-barra",
+      "award": "★"
+    },
     {
       "name": "Almanaque Casa de Comidas",
       "cuisine": "Contemporary, Andalusian",
       "price": "€€",
       "path": "/spain/cadiz/cadiz/almanaque-casa-de-comidas"
-    },
-    {
-      "name": "Código de Barra",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "€€€€",
-      "path": "/spain/cadiz/cadiz/cdigo-de-barra"
     },
     {
       "name": "Contraseña",

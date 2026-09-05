@@ -1,14 +1,20 @@
 {
   "title": "Ruiselede",
-  "country": "belgium",
-  "region": "ruiselede",
-  "city": "ruiselede",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "ruiselede",
+  "city": "Ruiselede",
+  "citySlug": "ruiselede",
+  "path": "/belgium/ruiselede/ruiselede/restaurants",
+  "canonicalPath": "/belgium/ruiselede/ruiselede/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Tafel 10",
       "cuisine": "Farm to table, Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/ruiselede/ruiselede/tafel-10"
+      "path": "/belgium/ruiselede/ruiselede/tafel10"
     }
   ]
 }

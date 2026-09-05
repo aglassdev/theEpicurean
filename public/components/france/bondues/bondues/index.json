@@ -1,5 +1,14 @@
 {
   "title": "Bondues",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bondues",
+  "city": "Bondues",
+  "citySlug": "bondues",
+  "path": "/france/bondues/bondues/restaurants",
+  "canonicalPath": "/france/bondues/bondues/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Val d'Auge",
@@ -11,7 +20,7 @@
       "name": "Oval (by Val d'Auge)",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/bondues/bondues/OvalByValDauge"
+      "path": "/france/bondues/bondues/oval-by-val-dauge"
     }
   ]
 }

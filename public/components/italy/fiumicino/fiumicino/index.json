@@ -1,11 +1,28 @@
 {
   "title": "Fiumicino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "fiumicino",
+  "city": "Fiumicino",
+  "citySlug": "fiumicino",
+  "path": "/italy/fiumicino/fiumicino/restaurants",
+  "canonicalPath": "/italy/fiumicino/fiumicino/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Il Tino",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/italy/fiumicino/fiumicino/il-tino"
+      "path": "/italy/fiumicino/fiumicino/il-tino",
+      "award": "★"
+    },
+    {
+      "name": "Pascucci al Porticciolo",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/italy/fiumicino/fiumicino/pascucci-al-porticciolo",
+      "award": "★"
     },
     {
       "name": "L'Osteria dell'Orologio",
@@ -14,22 +31,16 @@
       "path": "/italy/fiumicino/fiumicino/losteria-dellorologio"
     },
     {
-      "name": "Pascucci al Porticciolo",
+      "name": "MARE Bistrot",
       "cuisine": "Seafood",
-      "price": "€€€",
-      "path": "/italy/fiumicino/fiumicino/pascucci-al-porticciolo"
+      "price": "$$",
+      "path": "/italy/fiumicino/fiumicino/mare-bistrot"
     },
     {
       "name": "QuarantunoDodici",
       "cuisine": "Seafood, Mediterranean Cuisine",
       "price": "€€",
       "path": "/italy/fiumicino/fiumicino/quarantunododici"
-    },
-    {
-      "name": "MARE Bistrot",
-      "cuisine": "Seafood",
-      "price": "$$",
-      "path": "/italy/fiumicino/fiumicino/MareBistrot"
     }
   ]
 }

@@ -1,17 +1,27 @@
 {
   "title": "Leiria",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "leiria",
+  "city": "Leiria",
+  "citySlug": "leiria",
+  "path": "/portugal/leiria/leiria/restaurants",
+  "canonicalPath": "/portugal/leiria/leiria/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Mesa15",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/portugal/leiria/leiria/mesa15",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Casinha Velha",
       "cuisine": "Portuguese",
       "price": "€€",
       "path": "/portugal/leiria/leiria/casinha-velha"
-    },
-    {
-      "name": "Mesa15",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/portugal/leiria/leiria/Mesa15"
     }
   ]
 }

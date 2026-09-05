@@ -1,26 +1,27 @@
 {
   "title": "Longiano",
-  "country": "italy",
-  "region": "longiano",
-  "city": "longiano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "longiano",
+  "city": "Longiano",
+  "citySlug": "longiano",
+  "path": "/italy/longiano/longiano/restaurants",
+  "canonicalPath": "/italy/longiano/longiano/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Magnolia",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/longiano/longiano/magnolia",
+      "award": "★★"
+    },
     {
       "name": "Dei Cantoni",
       "cuisine": "Cuisine from Romagna",
       "price": "€€",
       "path": "/italy/longiano/longiano/dei-cantoni"
-    },
-    {
-      "name": "Magnolia",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/longiano/longiano/magnolia"
-    },
-    {
-      "name": "Magnolia",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/longiano/longiano/magnolia"
     },
     {
       "name": "Terre Alte",

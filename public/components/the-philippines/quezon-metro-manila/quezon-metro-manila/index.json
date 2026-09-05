@@ -1,47 +1,59 @@
 {
-  "title": "Quezon - Metro Manila",
+  "title": "Quezon Metro Manila",
+  "country": "Philippines",
+  "countrySlug": "the-philippines",
+  "region": null,
+  "regionSlug": "quezon-metro-manila",
+  "city": "Quezon Metro Manila",
+  "citySlug": "quezon-metro-manila",
+  "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/restaurants",
+  "canonicalPath": "/the-philippines/quezon-metro-manila/quezon-metro-manila/restaurants",
+  "count": 7,
   "restaurants": [
     {
       "name": "Morning Sun Eatery",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/MorningSunEatery"
+      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/morning-sun-eatery",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Palm Grill (Diliman)",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/PalmGrillDiliman"
+      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/palm-grill-diliman",
+      "award": "Bib Gourmand"
     },
     {
       "name": "SOME THAI (Quezon)",
       "cuisine": "Thai",
       "price": "$$",
-      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/SomeThaiQuezon"
+      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/some-thai-quezon",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Deo Gracias",
       "cuisine": "Spanish",
       "price": "$$",
-      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/DeoGracias"
+      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/deo-gracias"
     },
     {
       "name": "Esmeralda Kitchen",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/EsmeraldaKitchen"
+      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/esmeralda-kitchen"
     },
     {
       "name": "Fong Wei Wu",
       "cuisine": "Taiwanese",
       "price": "$",
-      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/FongWeiWu"
+      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/fong-wei-wu"
     },
     {
       "name": "MŌDAN",
       "cuisine": "Creative",
       "price": "$$$$",
-      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/Mdan"
+      "path": "/the-philippines/quezon-metro-manila/quezon-metro-manila/mdan"
     }
   ]
 }

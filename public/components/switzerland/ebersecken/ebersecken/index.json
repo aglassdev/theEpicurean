@@ -1,14 +1,20 @@
 {
   "title": "Ebersecken",
-  "country": "switzerland",
-  "region": "ebersecken",
-  "city": "ebersecken",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "ebersecken",
+  "city": "Ebersecken",
+  "citySlug": "ebersecken",
+  "path": "/switzerland/ebersecken/ebersecken/restaurants",
+  "canonicalPath": "/switzerland/ebersecken/ebersecken/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sonne",
       "cuisine": "Traditional Cuisine, Swiss",
       "price": "€€",
-      "path": "/switzerland/ebersecken/ebersecken/sonne"
+      "path": "/switzerland/ebersecken/ebersecken/sonne-e-b-e"
     }
   ]
 }

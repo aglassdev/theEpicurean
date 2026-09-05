@@ -1,8 +1,14 @@
 {
   "title": "Royat",
-  "country": "france",
-  "region": "royat",
-  "city": "royat",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "royat",
+  "city": "Royat",
+  "citySlug": "royat",
+  "path": "/france/royat/royat/restaurants",
+  "canonicalPath": "/france/royat/royat/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Flèche d'Argent",

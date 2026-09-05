@@ -1,6 +1,21 @@
 {
   "title": "Chon Buri",
+  "country": "Thailand",
+  "countrySlug": "thailand",
+  "region": null,
+  "regionSlug": "chon-buri",
+  "city": "Chon Buri",
+  "citySlug": "chon-buri",
+  "path": "/thailand/chon-buri/chon-buri/restaurants",
+  "canonicalPath": "/thailand/chon-buri/chon-buri/restaurants",
+  "count": 27,
   "restaurants": [
+    {
+      "name": "Apollo Pork Satay",
+      "cuisine": "Small eats",
+      "price": "none",
+      "path": "/thailand/chon-buri/chon-buri/apollo-pork-satay"
+    },
     {
       "name": "Chom Tawan",
       "cuisine": "Thai",
@@ -56,10 +71,22 @@
       "path": "/thailand/chon-buri/chon-buri/klang-na-pla-khao"
     },
     {
+      "name": "Krua Jay Miad",
+      "cuisine": "Thai",
+      "price": "$",
+      "path": "/thailand/chon-buri/chon-buri/krua-jay-miad"
+    },
+    {
       "name": "Krua Laew Tae R-Rom",
       "cuisine": "Thai",
       "price": "฿",
-      "path": "/thailand/chon-buri/chon-buri/krua-laew-tae-r-rom"
+      "path": "/thailand/chon-buri/chon-buri/krua-laew-tae-rrom"
+    },
+    {
+      "name": "Krua Nai Baan",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/thailand/chon-buri/chon-buri/krua-nai-baan"
     },
     {
       "name": "Krua Pla Tu Tid Oun",
@@ -92,6 +119,12 @@
       "path": "/thailand/chon-buri/chon-buri/mae-pong-sri"
     },
     {
+      "name": "Na Chae",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/thailand/chon-buri/chon-buri/na-chae"
+    },
+    {
       "name": "Neon Boat Noodles",
       "cuisine": "Noodles",
       "price": "฿",
@@ -101,7 +134,7 @@
       "name": "Noodles Soi 12 (Ban Suan)",
       "cuisine": "Noodles",
       "price": "฿",
-      "path": "/thailand/chon-buri/chon-buri/noodles-soi-12-ban-suan"
+      "path": "/thailand/chon-buri/chon-buri/noodles-soi12-ban-suan"
     },
     {
       "name": "Pladids",
@@ -110,10 +143,22 @@
       "path": "/thailand/chon-buri/chon-buri/pladids"
     },
     {
+      "name": "Somphop Khao Tom Pla",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/thailand/chon-buri/chon-buri/somphop-khao-tom-pla"
+    },
+    {
       "name": "Somtum Je Phai",
       "cuisine": "Isan",
       "price": "฿",
       "path": "/thailand/chon-buri/chon-buri/somtum-je-phai"
+    },
+    {
+      "name": "Tiapthong",
+      "cuisine": "Thai",
+      "price": "$",
+      "path": "/thailand/chon-buri/chon-buri/tiapthong"
     },
     {
       "name": "Wansuk",
@@ -122,46 +167,10 @@
       "path": "/thailand/chon-buri/chon-buri/wansuk"
     },
     {
-      "name": "Apollo Pork Satay",
-      "cuisine": "Small eats",
-      "price": "none",
-      "path": "/thailand/chon-buri/chon-buri/ApolloPorkSatay"
-    },
-    {
-      "name": "Krua Jay Miad",
-      "cuisine": "Thai",
-      "price": "$",
-      "path": "/thailand/chon-buri/chon-buri/KruaJayMiad"
-    },
-    {
-      "name": "Krua Nai Baan",
-      "cuisine": "Thai",
-      "price": "$$",
-      "path": "/thailand/chon-buri/chon-buri/KruaNaiBaan"
-    },
-    {
-      "name": "Na Chae",
-      "cuisine": "Thai",
-      "price": "$$",
-      "path": "/thailand/chon-buri/chon-buri/NaChae"
-    },
-    {
-      "name": "Somphop Khao Tom Pla",
-      "cuisine": "Street Food",
-      "price": "$",
-      "path": "/thailand/chon-buri/chon-buri/SomphopKhaoTomPla"
-    },
-    {
-      "name": "Tiapthong",
-      "cuisine": "Thai",
-      "price": "$",
-      "path": "/thailand/chon-buri/chon-buri/Tiapthong"
-    },
-    {
       "name": "Yen Ta Fo Muek Khai",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/thailand/chon-buri/chon-buri/YenTaFoMuekKhai"
+      "path": "/thailand/chon-buri/chon-buri/yen-ta-fo-muek-khai"
     }
   ]
 }

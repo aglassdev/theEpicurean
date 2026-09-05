@@ -1,8 +1,14 @@
 {
   "title": "Piding",
-  "country": "germany",
-  "region": "piding",
-  "city": "piding",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "piding",
+  "city": "Piding",
+  "citySlug": "piding",
+  "path": "/germany/piding/piding/restaurants",
+  "canonicalPath": "/germany/piding/piding/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lohmayr Stub'n",

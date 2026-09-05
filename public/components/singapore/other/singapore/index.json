@@ -1,14 +1,340 @@
 {
   "title": "Singapore",
-  "country": "singapore",
-  "region": "other",
-  "city": "singapore",
+  "country": "Singapore",
+  "countrySlug": "singapore",
+  "region": "Other",
+  "regionSlug": "other",
+  "city": "Singapore",
+  "citySlug": "singapore",
+  "path": "/singapore/other/singapore/restaurants",
+  "canonicalPath": "/singapore/other/singapore/restaurants",
+  "count": 332,
   "restaurants": [
+    {
+      "name": "Les Amis",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/les-amis",
+      "award": "★★★"
+    },
+    {
+      "name": "Odette",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/odette-s-i-n",
+      "award": "★★★"
+    },
+    {
+      "name": "Zén",
+      "cuisine": "European Contemporary",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/zn",
+      "award": "★★★"
+    },
+    {
+      "name": "Cloudstreet",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/cloudstreet",
+      "award": "★★"
+    },
+    {
+      "name": "Jaan by Kirk Westaway",
+      "cuisine": "British Contemporary",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/jaan-by-kirk-westaway",
+      "award": "★★"
+    },
+    {
+      "name": "Meta",
+      "cuisine": "Innovative",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/meta",
+      "award": "★★"
+    },
+    {
+      "name": "Saint Pierre",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/saint-pierre",
+      "award": "★★"
+    },
+    {
+      "name": "Shoukouwa",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/shoukouwa",
+      "award": "★★"
+    },
+    {
+      "name": "Sushi Sakuta",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/sushi-sakuta",
+      "award": "★★"
+    },
+    {
+      "name": "Thevar",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/thevar",
+      "award": "★★"
+    },
+    {
+      "name": "Alma",
+      "cuisine": "European Contemporary",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/alma-s-i-n",
+      "award": "★"
+    },
+    {
+      "name": "Araya",
+      "cuisine": "Innovative, Chilean",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/araya",
+      "award": "★"
+    },
+    {
+      "name": "Born",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/born",
+      "award": "★"
+    },
+    {
+      "name": "Buona Terra",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/buona-terra",
+      "award": "★"
+    },
+    {
+      "name": "Burnt Ends",
+      "cuisine": "Barbecue",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/burnt-ends",
+      "award": "★"
+    },
+    {
+      "name": "Candlenut",
+      "cuisine": "Peranakan",
+      "price": "$$",
+      "path": "/singapore/other/singapore/candlenut",
+      "award": "★"
+    },
+    {
+      "name": "Chaleur",
+      "cuisine": "Innovative",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/chaleur",
+      "award": "★"
+    },
+    {
+      "name": "CUT",
+      "cuisine": "Steakhouse",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/cut-s-i-n",
+      "award": "★"
+    },
+    {
+      "name": "Esora",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/esora",
+      "award": "★"
+    },
+    {
+      "name": "Euphoria",
+      "cuisine": "Innovative",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/euphoria",
+      "award": "★"
+    },
+    {
+      "name": "Hamamoto",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/hamamoto",
+      "award": "★"
+    },
+    {
+      "name": "Hill Street Tai Hwa Pork Noodle",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/other/singapore/hill-street-tai-hwa-pork-noodle",
+      "award": "★"
+    },
+    {
+      "name": "Iggy's",
+      "cuisine": "European Contemporary",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/iggys",
+      "award": "★"
+    },
+    {
+      "name": "Imperial Treasure Fine Teochew Cuisine (Orchard)",
+      "cuisine": "Teochew",
+      "price": "$$",
+      "path": "/singapore/other/singapore/imperial-treasure-fine-teochew-cuisine-orchard",
+      "award": "★"
+    },
+    {
+      "name": "Jag",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/jag",
+      "award": "★"
+    },
+    {
+      "name": "Labyrinth",
+      "cuisine": "Innovative, Singaporean",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/labyrinth",
+      "award": "★"
+    },
+    {
+      "name": "Lei Garden",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/singapore/other/singapore/lei-garden",
+      "award": "★"
+    },
+    {
+      "name": "Lerouy",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/lerouy",
+      "award": "★"
+    },
+    {
+      "name": "Ma Cuisine",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/ma-cuisine",
+      "award": "★"
+    },
+    {
+      "name": "Marguerite",
+      "cuisine": "European Contemporary",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/marguerite",
+      "award": "★"
+    },
+    {
+      "name": "Nae:um",
+      "cuisine": "Korean Contemporary",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/naeum",
+      "award": "★"
+    },
+    {
+      "name": "Nouri",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/nouri",
+      "award": "★"
+    },
+    {
+      "name": "Omakase @ Stevens",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/omakase-stevens",
+      "award": "★"
+    },
+    {
+      "name": "Pangium",
+      "cuisine": "Peranakan",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/pangium",
+      "award": "★"
+    },
+    {
+      "name": "Seroja",
+      "cuisine": "Malaysian, Contemporary",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/seroja",
+      "award": "★"
+    },
+    {
+      "name": "Shisen Hanten",
+      "cuisine": "Sichuan, Cantonese",
+      "price": "$$",
+      "path": "/singapore/other/singapore/shisen-hanten",
+      "award": "★"
+    },
+    {
+      "name": "Summer Palace",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/summer-palace-s-i-n",
+      "award": "★"
+    },
+    {
+      "name": "Summer Pavilion",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/singapore/other/singapore/summer-pavilion",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Ichi",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/sushi-ichi",
+      "award": "★"
+    },
+    {
+      "name": "Waku Ghin",
+      "cuisine": "Japanese Contemporary",
+      "price": "$$$$",
+      "path": "/singapore/other/singapore/waku-ghin",
+      "award": "★"
+    },
+    {
+      "name": "Whitegrass",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/whitegrass",
+      "award": "★"
+    },
+    {
+      "name": "Willow",
+      "cuisine": "Asian Contemporary",
+      "price": "$$$",
+      "path": "/singapore/other/singapore/willow",
+      "award": "★"
+    },
+    {
+      "name": "Jaan Par Andre",
+      "cuisine": "",
+      "price": "",
+      "path": "/singapore/singapore/singapore/jaan-par-andre",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Restaurant André",
+      "cuisine": "",
+      "price": "",
+      "path": "/singapore/singapore/singapore/restaurant-andr",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "54° Steakhouse",
+      "cuisine": "Steakhouse",
+      "price": "$$$",
+      "path": "/singapore/singapore/singapore/54-steakhouse"
+    },
     {
       "name": "545 Whampoa Prawn Noodles",
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/545-whampoa-prawn-noodles"
+    },
+    {
+      "name": "786 Char Kway Teow",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/singapore/singapore/786-char-kway-teow"
     },
     {
       "name": "91 Fried Kway Teow Mee",
@@ -59,12 +385,6 @@
       "path": "/singapore/other/singapore/alliance-seafood"
     },
     {
-      "name": "Alma",
-      "cuisine": "European Contemporary",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/alma"
-    },
-    {
       "name": "Ammākase",
       "cuisine": "Indian",
       "price": "$$$",
@@ -89,12 +409,6 @@
       "path": "/singapore/other/singapore/ar-er-soup"
     },
     {
-      "name": "Araya",
-      "cuisine": "Innovative, Chilean",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/araya"
-    },
-    {
       "name": "Aunty Oats Pancake",
       "cuisine": "Street Food",
       "price": "$",
@@ -110,7 +424,7 @@
       "name": "Bar-Roque Grill",
       "cuisine": "European",
       "price": "$$",
-      "path": "/singapore/other/singapore/bar-roque-grill"
+      "path": "/singapore/other/singapore/barroque-grill"
     },
     {
       "name": "Beach Road Fish Head Bee Hoon",
@@ -149,6 +463,12 @@
       "path": "/singapore/other/singapore/bismillah-biryani-little-india"
     },
     {
+      "name": "Boon Keng Road Fish Head Bee Hoon",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/singapore/singapore/boon-keng-road-fish-head-bee-hoon"
+    },
+    {
       "name": "Boon Tong Kee (Balestier Road)",
       "cuisine": "Singaporean",
       "price": "$",
@@ -161,16 +481,10 @@
       "path": "/singapore/other/singapore/boon-tong-kee-kway-chapbraised-duck"
     },
     {
-      "name": "Born",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/born"
-    },
-    {
       "name": "Brasserie Astoria",
       "cuisine": "European Contemporary",
       "price": "$$",
-      "path": "/singapore/other/singapore/brasserie-astoria"
+      "path": "/singapore/other/singapore/brasserie-astoria-s-i-n"
     },
     {
       "name": "Buko Nero",
@@ -179,28 +493,16 @@
       "path": "/singapore/other/singapore/buko-nero"
     },
     {
-      "name": "Buona Terra",
-      "cuisine": "Italian Contemporary",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/buona-terra"
-    },
-    {
-      "name": "Burnt Ends",
-      "cuisine": "Barbecue",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/burnt-ends"
-    },
-    {
       "name": "Butcher's Block",
       "cuisine": "Meats and Grills",
       "price": "$$$",
       "path": "/singapore/other/singapore/butchers-block"
     },
     {
-      "name": "Candlenut",
-      "cuisine": "Peranakan",
-      "price": "$$",
-      "path": "/singapore/other/singapore/candlenut"
+      "name": "C.M.Y. Satay",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/other/singapore/cmy-satay"
     },
     {
       "name": "Ce Soir",
@@ -213,12 +515,6 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/chai-chuan-tou-yang-rou-tang"
-    },
-    {
-      "name": "Chaleur",
-      "cuisine": "Innovative",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/chaleur"
     },
     {
       "name": "Chef Kang's Noodle House",
@@ -237,6 +533,12 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/cheok-kee"
+    },
+    {
+      "name": "Cherry Garden by Chef Fei",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/singapore/singapore/singapore/cherry-garden-by-chef-fei"
     },
     {
       "name": "Chey Sua Carrot Cake",
@@ -275,18 +577,6 @@
       "path": "/singapore/other/singapore/claudine"
     },
     {
-      "name": "Cloudstreet",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/cloudstreet"
-    },
-    {
-      "name": "C.M.Y. Satay",
-      "cuisine": "Street Food",
-      "price": "$",
-      "path": "/singapore/other/singapore/cmy-satay"
-    },
-    {
       "name": "Come Daily Fried Hokkien Prawn Mee",
       "cuisine": "Street Food",
       "price": "$",
@@ -303,12 +593,6 @@
       "cuisine": "Indonesian",
       "price": "$$",
       "path": "/singapore/other/singapore/cumi-bali"
-    },
-    {
-      "name": "CUT",
-      "cuisine": "Steakhouse",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/cut"
     },
     {
       "name": "Da Po",
@@ -332,7 +616,7 @@
       "name": "Dill",
       "cuisine": "Scandinavian",
       "price": "$$",
-      "path": "/singapore/other/singapore/dill"
+      "path": "/singapore/other/singapore/dill-s-i-n"
     },
     {
       "name": "Dudu Cooked Food",
@@ -344,13 +628,7 @@
       "name": "Eminent Frog Porridge & Seafood (Lor 19)",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/singapore/other/singapore/eminent-frog-porridge-seafood-lor-19"
-    },
-    {
-      "name": "Esora",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/esora"
+      "path": "/singapore/other/singapore/eminent-frog-porridge-seafood-lor19"
     },
     {
       "name": "Esquina",
@@ -359,10 +637,10 @@
       "path": "/singapore/other/singapore/esquina"
     },
     {
-      "name": "Euphoria",
-      "cuisine": "Innovative",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/euphoria"
+      "name": "Fat Prince",
+      "cuisine": "Middle Eastern",
+      "price": "$$",
+      "path": "/singapore/singapore/singapore/fat-prince"
     },
     {
       "name": "Fatty Ox HK Kitchen",
@@ -392,7 +670,7 @@
       "name": "Fico",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/singapore/other/singapore/fico"
+      "path": "/singapore/other/singapore/fico-s-i-n"
     },
     {
       "name": "Fiz",
@@ -404,7 +682,7 @@
       "name": "Fleur de Sel",
       "cuisine": "French",
       "price": "$$",
-      "path": "/singapore/other/singapore/fleur-de-sel"
+      "path": "/singapore/other/singapore/fleur-de-sel-s-i-n"
     },
     {
       "name": "Foc (Central)",
@@ -491,12 +769,6 @@
       "path": "/singapore/other/singapore/hai-nan-zai"
     },
     {
-      "name": "Hamamoto",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/hamamoto"
-    },
-    {
       "name": "Han Kee",
       "cuisine": "Street Food",
       "price": "$",
@@ -543,12 +815,6 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/hill-street-fried-kway-teow"
-    },
-    {
-      "name": "Hill Street Tai Hwa Pork Noodle",
-      "cuisine": "Street Food",
-      "price": "$",
-      "path": "/singapore/other/singapore/hill-street-tai-hwa-pork-noodle"
     },
     {
       "name": "Hjh Maimunah (Jalan Pisang)",
@@ -653,6 +919,12 @@
       "path": "/singapore/other/singapore/hup-hong-chicken-rice"
     },
     {
+      "name": "Hup Kee Fried Oyster Omelette",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/singapore/singapore/hup-kee-fried-oyster-omelette"
+    },
+    {
       "name": "Hup Kee Teochew Fishball Mee",
       "cuisine": "Street Food",
       "price": "$",
@@ -669,18 +941,6 @@
       "cuisine": "Japanese",
       "price": "$$$",
       "path": "/singapore/other/singapore/ichigo-ichie"
-    },
-    {
-      "name": "Iggy's",
-      "cuisine": "European Contemporary",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/iggys"
-    },
-    {
-      "name": "Imperial Treasure Fine Teochew Cuisine (Orchard)",
-      "cuisine": "Teochew",
-      "price": "$$",
-      "path": "/singapore/other/singapore/imperial-treasure-fine-teochew-cuisine-orchard"
     },
     {
       "name": "Imperial Treasure Super Peking Duck (Paragon)",
@@ -725,22 +985,10 @@
       "path": "/singapore/other/singapore/j2-famous-crispy-curry-puff"
     },
     {
-      "name": "Jaan by Kirk Westaway",
-      "cuisine": "British Contemporary",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/jaan-by-kirk-westaway"
-    },
-    {
       "name": "Jade Palace",
       "cuisine": "Seafood",
       "price": "$$",
       "path": "/singapore/other/singapore/jade-palace"
-    },
-    {
-      "name": "Jag",
-      "cuisine": "French Contemporary",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/jag"
     },
     {
       "name": "Jalan Sultan Prawn Mee",
@@ -767,6 +1015,12 @@
       "path": "/singapore/other/singapore/ji-ji-noodle-house"
     },
     {
+      "name": "Jia Xiang",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/singapore/singapore/jia-xiang"
+    },
+    {
       "name": "Jian Bo Shui Kueh",
       "cuisine": "Street Food",
       "price": "$",
@@ -782,7 +1036,7 @@
       "name": "Jiang-Nan Chun",
       "cuisine": "Cantonese",
       "price": "$$$",
-      "path": "/singapore/other/singapore/jiang-nan-chun"
+      "path": "/singapore/other/singapore/jiangnan-chun"
     },
     {
       "name": "Jiao Cai Seafood",
@@ -851,6 +1105,12 @@
       "path": "/singapore/other/singapore/ki-su"
     },
     {
+      "name": "King of Laksa",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/singapore/singapore/king-of-laksa"
+    },
+    {
       "name": "Kitchenman Nasi Lemak",
       "cuisine": "Malaysian",
       "price": "$",
@@ -893,16 +1153,16 @@
       "path": "/singapore/other/singapore/kwee-heng"
     },
     {
+      "name": "L’Antica Pizzeria da Michele",
+      "cuisine": "Pizza",
+      "price": "$$",
+      "path": "/singapore/other/singapore/lantica-pizzeria-da-michele"
+    },
+    {
       "name": "La D'Oro",
       "cuisine": "Italian Contemporary",
       "price": "$$$",
       "path": "/singapore/other/singapore/la-doro"
-    },
-    {
-      "name": "Labyrinth",
-      "cuisine": "Innovative, Singaporean",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/labyrinth"
     },
     {
       "name": "Lagnaa",
@@ -915,12 +1175,6 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/lai-heng-handmade-teochew-kueh"
-    },
-    {
-      "name": "L’Antica Pizzeria da Michele",
-      "cuisine": "Pizza",
-      "price": "$$",
-      "path": "/singapore/other/singapore/lantica-pizzeria-da-michele"
     },
     {
       "name": "Lao Fu Zi Fried Kway Teow",
@@ -941,34 +1195,16 @@
       "path": "/singapore/other/singapore/latido"
     },
     {
-      "name": "Lei Garden",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/singapore/other/singapore/lei-garden"
+      "name": "Lek Kee Authentic Teochew Braised Duck",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/singapore/singapore/lek-kee-authentic-teochew-braised-duck"
     },
     {
       "name": "Leon Kee Claypot Pork Rib Soup",
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/leon-kee-claypot-pork-rib-soup"
-    },
-    {
-      "name": "Lerouy",
-      "cuisine": "French Contemporary",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/lerouy"
-    },
-    {
-      "name": "Les Amis",
-      "cuisine": "French",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/les-amis"
-    },
-    {
-      "name": "Les Amis",
-      "cuisine": "French",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/les-amis"
     },
     {
       "name": "Les Ducs",
@@ -987,6 +1223,12 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/lixin-teochew-fishball-noodles"
+    },
+    {
+      "name": "Loca Niru",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/singapore/singapore/singapore/loca-niru"
     },
     {
       "name": "Lolla",
@@ -1010,13 +1252,13 @@
       "name": "Lor 9 Beef Kway Teow",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/singapore/other/singapore/lor-9-beef-kway-teow"
+      "path": "/singapore/other/singapore/lor9-beef-kway-teow"
     },
     {
       "name": "Lor Mee 178",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/singapore/other/singapore/lor-mee-178"
+      "path": "/singapore/other/singapore/lor-mee178"
     },
     {
       "name": "Luke's",
@@ -1025,16 +1267,10 @@
       "path": "/singapore/other/singapore/lukes"
     },
     {
-      "name": "Ma Cuisine",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/ma-cuisine"
-    },
-    {
-      "name": "Ma Cuisine",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/ma-cuisine"
+      "name": "Mag's Wine Kitchen",
+      "cuisine": "European Contemporary",
+      "price": "$$",
+      "path": "/singapore/other/singapore/mags-wine-kitchen"
     },
     {
       "name": "Magpie",
@@ -1043,16 +1279,10 @@
       "path": "/singapore/other/singapore/magpie"
     },
     {
-      "name": "Mag's Wine Kitchen",
-      "cuisine": "European Contemporary",
-      "price": "$$",
-      "path": "/singapore/other/singapore/mags-wine-kitchen"
-    },
-    {
       "name": "Maison Boulud",
       "cuisine": "French",
       "price": "$$",
-      "path": "/singapore/other/singapore/maison-boulud"
+      "path": "/singapore/other/singapore/maison-boulud-s-i-n"
     },
     {
       "name": "Majestic",
@@ -1067,12 +1297,6 @@
       "path": "/singapore/other/singapore/margaret-drive-sin-kee-chicken-rice"
     },
     {
-      "name": "Marguerite",
-      "cuisine": "European Contemporary",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/marguerite"
-    },
-    {
       "name": "Maxwell Fuzhou Oyster Cake",
       "cuisine": "Street Food",
       "price": "$",
@@ -1083,18 +1307,6 @@
       "cuisine": "Seafood",
       "price": "$$",
       "path": "/singapore/other/singapore/mellben-seafood-ang-mo-kio"
-    },
-    {
-      "name": "Meta",
-      "cuisine": "Innovative",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/meta"
-    },
-    {
-      "name": "Meta",
-      "cuisine": "Innovative",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/meta"
     },
     {
       "name": "Min Jiang at Dempsey",
@@ -1139,12 +1351,6 @@
       "path": "/singapore/other/singapore/na-oh"
     },
     {
-      "name": "Nae:um",
-      "cuisine": "Korean Contemporary",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/naeum"
-    },
-    {
       "name": "Nam Sing Hokkien Fried Mee",
       "cuisine": "Street Food",
       "price": "$",
@@ -1181,22 +1387,16 @@
       "path": "/singapore/other/singapore/nicolas"
     },
     {
-      "name": "Nómada",
-      "cuisine": "Spanish Contemporary",
-      "price": "$$",
-      "path": "/singapore/other/singapore/nmada"
-    },
-    {
       "name": "No.18 Zion Road Fried Kway Teow",
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/no18-zion-road-fried-kway-teow"
     },
     {
-      "name": "Nouri",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/nouri"
+      "name": "Nómada",
+      "cuisine": "Spanish Contemporary",
+      "price": "$$",
+      "path": "/singapore/other/singapore/nmada"
     },
     {
       "name": "Nyonya Chendol",
@@ -1205,22 +1405,10 @@
       "path": "/singapore/other/singapore/nyonya-chendol"
     },
     {
-      "name": "Odette",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/odette"
-    },
-    {
       "name": "Olivia",
       "cuisine": "Spanish",
       "price": "$$",
-      "path": "/singapore/other/singapore/olivia"
-    },
-    {
-      "name": "Omakase @ Stevens",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/omakase-stevens"
+      "path": "/singapore/other/singapore/olivia-s-i-n"
     },
     {
       "name": "Open Farm Community",
@@ -1232,7 +1420,7 @@
       "name": "Osteria Mozza",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/singapore/other/singapore/osteria-mozza"
+      "path": "/singapore/other/singapore/osteria-mozza-s-i-n"
     },
     {
       "name": "Outram Park Fried Kway Teow Mee",
@@ -1241,16 +1429,10 @@
       "path": "/singapore/other/singapore/outram-park-fried-kway-teow-mee"
     },
     {
-      "name": "Pangium",
-      "cuisine": "Peranakan",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/pangium"
-    },
-    {
       "name": "Path",
       "cuisine": "Asian Contemporary",
       "price": "$$$",
-      "path": "/singapore/other/singapore/path"
+      "path": "/singapore/other/singapore/path-s-i-n"
     },
     {
       "name": "People's Park Hainanese Chicken Rice",
@@ -1283,22 +1465,28 @@
       "path": "/singapore/other/singapore/putien-kitchener-road"
     },
     {
+      "name": "Qīn",
+      "cuisine": "Asian Contemporary",
+      "price": "$$",
+      "path": "/singapore/singapore/singapore/qn"
+    },
+    {
       "name": "Quenino",
       "cuisine": "Innovative",
       "price": "$$",
       "path": "/singapore/other/singapore/quenino"
     },
     {
-      "name": "Rajarani Thosai",
-      "cuisine": "Street Food",
-      "price": "$",
-      "path": "/singapore/other/singapore/rajarani-thosai"
-    },
-    {
       "name": "R&B Express",
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/rb-express"
+    },
+    {
+      "name": "Rajarani Thosai",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/other/singapore/rajarani-thosai"
     },
     {
       "name": "Redhill Pork Porridge",
@@ -1343,10 +1531,10 @@
       "path": "/singapore/other/singapore/ru-ji-kitchen"
     },
     {
-      "name": "Saint Pierre",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/saint-pierre"
+      "name": "San Shu Gong",
+      "cuisine": "Teochew",
+      "price": "$$",
+      "path": "/singapore/singapore/singapore/san-shu-gong"
     },
     {
       "name": "San Shu Gong (Geylang)",
@@ -1367,16 +1555,16 @@
       "path": "/singapore/other/singapore/selamat-datang-warong-pak-sapari"
     },
     {
-      "name": "Seroja",
-      "cuisine": "Malaysian, Contemporary",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/seroja"
+      "name": "Seng Kee Black Chicken Herbal Soup",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/singapore/singapore/seng-kee-black-chicken-herbal-soup"
     },
     {
       "name": "Shang Palace",
       "cuisine": "Cantonese",
       "price": "$$",
-      "path": "/singapore/other/singapore/shang-palace"
+      "path": "/singapore/other/singapore/shang-palace-s-i-n"
     },
     {
       "name": "Shanyuan Teochew Kway Teow Mian",
@@ -1395,18 +1583,6 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/shi-le-yuan"
-    },
-    {
-      "name": "Shisen Hanten",
-      "cuisine": "Sichuan, Cantonese",
-      "price": "$$",
-      "path": "/singapore/other/singapore/shisen-hanten"
-    },
-    {
-      "name": "Shoukouwa",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/shoukouwa"
     },
     {
       "name": "Shunsui",
@@ -1481,6 +1657,12 @@
       "path": "/singapore/other/singapore/song-fish-soup"
     },
     {
+      "name": "Song Han Carrot Cake",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/singapore/singapore/song-han-carrot-cake"
+    },
+    {
       "name": "Song Kee Teochew Fish Porridge",
       "cuisine": "Street Food",
       "price": "$",
@@ -1535,28 +1717,10 @@
       "path": "/singapore/other/singapore/sugarra"
     },
     {
-      "name": "Summer Palace",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/summer-palace"
-    },
-    {
-      "name": "Summer Pavilion",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/singapore/other/singapore/summer-pavilion"
-    },
-    {
       "name": "Sushi Hare",
       "cuisine": "Sushi",
       "price": "$$$",
       "path": "/singapore/other/singapore/sushi-hare"
-    },
-    {
-      "name": "Sushi Ichi",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/sushi-ichi"
     },
     {
       "name": "Sushi Katori",
@@ -1577,28 +1741,10 @@
       "path": "/singapore/other/singapore/sushi-ryujiro"
     },
     {
-      "name": "Sushi Ryujiro",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/sushi-ryujiro"
-    },
-    {
-      "name": "Sushi Sakuta",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/sushi-sakuta"
-    },
-    {
       "name": "Sushi Sato",
       "cuisine": "Sushi",
       "price": "$$$",
       "path": "/singapore/other/singapore/sushi-sato"
-    },
-    {
-      "name": "Sushi Yuki",
-      "cuisine": "Sushi",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/sushi-yuki"
     },
     {
       "name": "Sushi Yuki",
@@ -1628,13 +1774,13 @@
       "name": "Terra",
       "cuisine": "Italian Contemporary, Italian and Japanese",
       "price": "$$$",
-      "path": "/singapore/other/singapore/terra"
+      "path": "/singapore/other/singapore/terra-s-i-n"
     },
     {
       "name": "The 1950's Coffee",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/singapore/other/singapore/the-1950s-coffee"
+      "path": "/singapore/other/singapore/the1950s-coffee"
     },
     {
       "name": "The Blue Ginger",
@@ -1655,10 +1801,10 @@
       "path": "/singapore/other/singapore/the-prince"
     },
     {
-      "name": "Thevar",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/thevar"
+      "name": "Tian Nan Xing Minced Pork Noodle",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/singapore/singapore/tian-nan-xing-minced-pork-noodle"
     },
     {
       "name": "Tian Tian Hainanese Chicken Rice",
@@ -1685,22 +1831,16 @@
       "path": "/singapore/other/singapore/tiong-bahru-lien-fa-shui-jing-pau"
     },
     {
-      "name": "Toa Payoh 93 Soon Kueh",
-      "cuisine": "Street Food",
-      "price": "$",
-      "path": "/singapore/other/singapore/toa-payoh-93-soon-kueh"
-    },
-    {
       "name": "To-Ricos Kway Chap",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/singapore/other/singapore/to-ricos-kway-chap"
+      "path": "/singapore/other/singapore/toricos-kway-chap"
     },
     {
-      "name": "Torno Subito",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/singapore/other/singapore/torno-subito"
+      "name": "Toa Payoh 93 Soon Kueh",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/other/singapore/toa-payoh93-soon-kueh"
     },
     {
       "name": "Torno Subito",
@@ -1733,16 +1873,16 @@
       "path": "/singapore/other/singapore/tunglok-heen"
     },
     {
+      "name": "Un-Yang-Kor-Dai",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/singapore/other/singapore/unyangkordai"
+    },
+    {
       "name": "Unforgettable Carrot Cake",
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/unforgettable-carrot-cake"
-    },
-    {
-      "name": "Un-Yang-Kor-Dai",
-      "cuisine": "Thai",
-      "price": "$$",
-      "path": "/singapore/other/singapore/un-yang-kor-dai"
     },
     {
       "name": "Ushidoki Wagyu Kaiseki",
@@ -1763,18 +1903,6 @@
       "path": "/singapore/other/singapore/wah-lok"
     },
     {
-      "name": "Wah Lok",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/singapore/other/singapore/wah-lok"
-    },
-    {
-      "name": "Waku Ghin",
-      "cuisine": "Japanese Contemporary",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/waku-ghin"
-    },
-    {
       "name": "Wakuda",
       "cuisine": "Japanese Contemporary",
       "price": "$$$",
@@ -1787,22 +1915,10 @@
       "path": "/singapore/other/singapore/whampoa-soya-bean-grass-jelly-drinks"
     },
     {
-      "name": "Whitegrass",
-      "cuisine": "French Contemporary",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/whitegrass"
-    },
-    {
       "name": "Whole Earth",
       "cuisine": "Vegetarian",
       "price": "$$",
       "path": "/singapore/other/singapore/whole-earth"
-    },
-    {
-      "name": "Willow",
-      "cuisine": "Asian Contemporary",
-      "price": "$$$",
-      "path": "/singapore/other/singapore/willow"
     },
     {
       "name": "Wok Hei Hor Fun",
@@ -1811,16 +1927,28 @@
       "path": "/singapore/other/singapore/wok-hei-hor-fun"
     },
     {
+      "name": "Xiangyee",
+      "cuisine": "Hunanese",
+      "price": "$$",
+      "path": "/singapore/singapore/singapore/xiangyee"
+    },
+    {
+      "name": "Xing Ji",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/singapore/singapore/xing-ji"
+    },
+    {
       "name": "Xing Yun Hainanese Boneless Chicken Rice",
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/xing-yun-hainanese-boneless-chicken-rice"
     },
     {
-      "name": "Yì By Jereme Leung",
-      "cuisine": "Chinese Contemporary",
-      "price": "$$",
-      "path": "/singapore/other/singapore/y-by-jereme-leung"
+      "name": "Xiu Ji Ikan Bilis Yong Tau Fu",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/singapore/singapore/singapore/xiu-ji-ikan-bilis-yong-tau-fu"
     },
     {
       "name": "Yan Ting",
@@ -1841,6 +1969,12 @@
       "path": "/singapore/other/singapore/yhingthai-palace"
     },
     {
+      "name": "Yì By Jereme Leung",
+      "cuisine": "Chinese Contemporary",
+      "price": "$$",
+      "path": "/singapore/other/singapore/y-by-jereme-leung"
+    },
+    {
       "name": "Yi Pin Wei Braised Duck．Kway Chap",
       "cuisine": "Street Food",
       "price": "$",
@@ -1856,7 +1990,7 @@
       "name": "Yong Fu",
       "cuisine": "Ningbo",
       "price": "$$$$",
-      "path": "/singapore/other/singapore/yong-fu"
+      "path": "/singapore/other/singapore/yong-fu-s-i-n"
     },
     {
       "name": "Yong Kee Claypot Bak Kut Teh",
@@ -1911,12 +2045,6 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/zi-jing-cheng-hainanese-boneless-chicken-rice"
-    },
-    {
-      "name": "Zén",
-      "cuisine": "European Contemporary",
-      "price": "$$$$",
-      "path": "/singapore/other/singapore/zn"
     }
   ]
 }

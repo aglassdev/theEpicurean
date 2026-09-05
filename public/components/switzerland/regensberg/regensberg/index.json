@@ -1,14 +1,20 @@
 {
   "title": "Regensberg",
-  "country": "switzerland",
-  "region": "regensberg",
-  "city": "regensberg",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "regensberg",
+  "city": "Regensberg",
+  "citySlug": "regensberg",
+  "path": "/switzerland/regensberg/regensberg/restaurants",
+  "canonicalPath": "/switzerland/regensberg/regensberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Krone",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€€",
-      "path": "/switzerland/regensberg/regensberg/krone"
+      "path": "/switzerland/regensberg/regensberg/krone-r-e-g"
     }
   ]
 }

@@ -1,20 +1,28 @@
 {
   "title": "Isola Vulcano",
-  "country": "italy",
-  "region": "isola-vulcano",
-  "city": "isola-vulcano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "isola-vulcano",
+  "city": "Isola Vulcano",
+  "citySlug": "isola-vulcano",
+  "path": "/italy/isola-vulcano/isola-vulcano/restaurants",
+  "canonicalPath": "/italy/isola-vulcano/isola-vulcano/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "I Tenerumi",
       "cuisine": "Vegetarian, Creative",
       "price": "€€€€",
-      "path": "/italy/isola-vulcano/isola-vulcano/i-tenerumi"
+      "path": "/italy/isola-vulcano/isola-vulcano/i-tenerumi",
+      "award": "★"
     },
     {
       "name": "Il Cappero",
       "cuisine": "Mediterranean Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/isola-vulcano/isola-vulcano/il-cappero"
+      "path": "/italy/isola-vulcano/isola-vulcano/il-cappero",
+      "award": "★"
     }
   ]
 }

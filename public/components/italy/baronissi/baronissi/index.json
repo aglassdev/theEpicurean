@@ -1,14 +1,21 @@
 {
   "title": "Baronissi",
-  "country": "italy",
-  "region": "baronissi",
-  "city": "baronissi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "baronissi",
+  "city": "Baronissi",
+  "citySlug": "baronissi",
+  "path": "/italy/baronissi/baronissi/restaurants",
+  "canonicalPath": "/italy/baronissi/baronissi/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cetaria",
       "cuisine": "Contemporary, Campanian",
       "price": "€€€",
-      "path": "/italy/baronissi/baronissi/cetaria"
+      "path": "/italy/baronissi/baronissi/cetaria",
+      "award": "★"
     }
   ]
 }

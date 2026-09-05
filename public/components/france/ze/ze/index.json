@@ -1,20 +1,28 @@
 {
   "title": "Ze",
-  "country": "france",
-  "region": "ze",
-  "city": "ze",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ze",
+  "city": "Ze",
+  "citySlug": "ze",
+  "path": "/france/ze/ze/restaurants",
+  "canonicalPath": "/france/ze/ze/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Château Eza",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/ze/ze/chteau-eza"
-    },
     {
       "name": "La Chèvre d'Or",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/ze/ze/la-chvre-dor"
+      "path": "/france/ze/ze/la-chvre-dor",
+      "award": "★★"
+    },
+    {
+      "name": "Château Eza",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/ze/ze/chteau-eza",
+      "award": "★"
     },
     {
       "name": "Les Remparts",

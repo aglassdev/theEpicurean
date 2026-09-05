@@ -1,8 +1,14 @@
 {
   "title": "Tintern",
-  "country": "uk",
-  "region": "tintern",
-  "city": "tintern",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "tintern",
+  "city": "Tintern",
+  "citySlug": "tintern",
+  "path": "/uk/tintern/tintern/restaurants",
+  "canonicalPath": "/uk/tintern/tintern/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Parva Farmhouse",

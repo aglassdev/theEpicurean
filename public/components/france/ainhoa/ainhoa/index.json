@@ -1,20 +1,27 @@
 {
   "title": "Ainhoa",
-  "country": "france",
-  "region": "ainhoa",
-  "city": "ainhoa",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ainhoa",
+  "city": "Ainhoa",
+  "citySlug": "ainhoa",
+  "path": "/france/ainhoa/ainhoa/restaurants",
+  "canonicalPath": "/france/ainhoa/ainhoa/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Ithurria",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/ainhoa/ainhoa/ithurria",
+      "award": "★"
+    },
     {
       "name": "Argi Eder",
       "cuisine": "Basque, Traditional Cuisine",
       "price": "€€",
       "path": "/france/ainhoa/ainhoa/argi-eder"
-    },
-    {
-      "name": "Ithurria",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/ainhoa/ainhoa/ithurria"
     },
     {
       "name": "Ithurria Côté Bistrot",

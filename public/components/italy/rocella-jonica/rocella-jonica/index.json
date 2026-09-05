@@ -1,14 +1,20 @@
 {
   "title": "Rocella Jonica",
-  "country": "italy",
-  "region": "rocella-jonica",
-  "city": "rocella-jonica",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "rocella-jonica",
+  "city": "Rocella Jonica",
+  "citySlug": "rocella-jonica",
+  "path": "/italy/rocella-jonica/rocella-jonica/restaurants",
+  "canonicalPath": "/italy/rocella-jonica/rocella-jonica/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Cascina 1899",
       "cuisine": "Calabrian, Classic Cuisine",
       "price": "€€",
-      "path": "/italy/rocella-jonica/rocella-jonica/la-cascina-1899"
+      "path": "/italy/rocella-jonica/rocella-jonica/la-cascina1899"
     }
   ]
 }

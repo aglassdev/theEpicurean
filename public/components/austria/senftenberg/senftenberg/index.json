@@ -1,11 +1,20 @@
 {
   "title": "Senftenberg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "senftenberg",
+  "city": "Senftenberg",
+  "citySlug": "senftenberg",
+  "path": "/austria/senftenberg/senftenberg/restaurants",
+  "canonicalPath": "/austria/senftenberg/senftenberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Nigl",
       "cuisine": "Farm to table",
       "price": "$$",
-      "path": "/austria/senftenberg/senftenberg/RestaurantNigl"
+      "path": "/austria/senftenberg/senftenberg/restaurant-nigl"
     }
   ]
 }

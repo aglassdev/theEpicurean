@@ -1,35 +1,76 @@
 {
   "title": "Courchevel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "courchevel",
+  "city": "Courchevel",
+  "citySlug": "courchevel",
+  "path": "/france/courchevel/courchevel/restaurants",
+  "canonicalPath": "/france/courchevel/courchevel/restaurants",
+  "count": 17,
   "restaurants": [
+    {
+      "name": "Le 1947 à Cheval Blanc",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/courchevel/courchevel/le1947-cheval-blanc",
+      "award": "★★★"
+    },
+    {
+      "name": "Baumanière 1850",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/courchevel/courchevel/baumanire1850",
+      "award": "★★"
+    },
+    {
+      "name": "Le Chabichou by Stéphane Buron",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/courchevel/courchevel/le-chabichou-by-stphane-buron",
+      "award": "★★"
+    },
+    {
+      "name": "Le Sarkara",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/courchevel/courchevel/le-sarkara",
+      "award": "★★"
+    },
+    {
+      "name": "Slalom 1850",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/france/courchevel/courchevel/slalom1850",
+      "award": "★★"
+    },
+    {
+      "name": "Sylvestre Wahid - Les Grandes Alpes",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/courchevel/courchevel/sylvestre-wahid-les-grandes-alpes",
+      "award": "★★"
+    },
     {
       "name": "Alpage",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/courchevel/courchevel/alpage"
+      "path": "/france/courchevel/courchevel/alpage",
+      "award": "★"
+    },
+    {
+      "name": "Le Farçon",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/courchevel/courchevel/le-faron",
+      "award": "★"
     },
     {
       "name": "Base Kamp by Aïnata",
       "cuisine": "Lebanese",
       "price": "€€€€",
       "path": "/france/courchevel/courchevel/base-kamp-by-anata"
-    },
-    {
-      "name": "Baumanière 1850",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/courchevel/courchevel/baumanire-1850"
-    },
-    {
-      "name": "La Saulire",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€€€",
-      "path": "/france/courchevel/courchevel/la-saulire"
-    },
-    {
-      "name": "La Table de l'Annapurna",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€€€",
-      "path": "/france/courchevel/courchevel/la-table-de-lannapurna"
     },
     {
       "name": "L'Altiplano au K2 Palace",
@@ -44,28 +85,22 @@
       "path": "/france/courchevel/courchevel/laltitude"
     },
     {
-      "name": "Le 1947 à Cheval Blanc",
-      "cuisine": "Creative",
+      "name": "La Saulire",
+      "cuisine": "Traditional Cuisine",
       "price": "€€€€",
-      "path": "/france/courchevel/courchevel/le-1947-cheval-blanc"
+      "path": "/france/courchevel/courchevel/la-saulire"
+    },
+    {
+      "name": "La Table de l'Annapurna",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€€",
+      "path": "/france/courchevel/courchevel/la-table-de-lannapurna"
     },
     {
       "name": "Le Bistrot du Praz",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/courchevel/courchevel/le-bistrot-du-praz"
-    },
-    {
-      "name": "Le Chabichou by Stéphane Buron",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/courchevel/courchevel/le-chabichou-by-stphane-buron"
-    },
-    {
-      "name": "Le Farçon",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/courchevel/courchevel/le-faron"
     },
     {
       "name": "Le Grill Alpin",
@@ -80,28 +115,10 @@
       "path": "/france/courchevel/courchevel/le-lys"
     },
     {
-      "name": "Le Sarkara",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/courchevel/courchevel/le-sarkara"
-    },
-    {
       "name": "Rendez-vous",
       "cuisine": "Traditional Cuisine",
       "price": "€€€€",
-      "path": "/france/courchevel/courchevel/rendez-vous"
-    },
-    {
-      "name": "Sylvestre Wahid - Les Grandes Alpes",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/courchevel/courchevel/sylvestre-wahid-les-grandes-alpes"
-    },
-    {
-      "name": "Slalom 1850",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/france/courchevel/courchevel/Slalom1850"
+      "path": "/france/courchevel/courchevel/rendezvous"
     }
   ]
 }

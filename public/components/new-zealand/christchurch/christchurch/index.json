@@ -1,77 +1,97 @@
 {
   "title": "Christchurch",
+  "country": "New Zealand",
+  "countrySlug": "new-zealand",
+  "region": null,
+  "regionSlug": "christchurch",
+  "city": "Christchurch",
+  "citySlug": "christchurch",
+  "path": "/new-zealand/christchurch/christchurch/restaurants",
+  "canonicalPath": "/new-zealand/christchurch/christchurch/restaurants",
+  "count": 12,
   "restaurants": [
     {
       "name": "Inati",
       "cuisine": "European Contemporary",
       "price": "$$$",
-      "path": "/new-zealand/christchurch/christchurch/Inati"
+      "path": "/new-zealand/christchurch/christchurch/inati",
+      "award": "★"
     },
     {
       "name": "Tussock Hill",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/christchurch/christchurch/TussockHill"
+      "path": "/new-zealand/christchurch/christchurch/tussock-hill",
+      "award": "★"
     },
     {
       "name": "Earl",
       "cuisine": "European",
       "price": "$$",
-      "path": "/new-zealand/christchurch/christchurch/Earl"
+      "path": "/new-zealand/christchurch/christchurch/earl",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Fire And Slice",
       "cuisine": "Pizza",
       "price": "$$",
-      "path": "/new-zealand/christchurch/christchurch/FireAndSlice"
+      "path": "/new-zealand/christchurch/christchurch/fire-and-slice",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Gatherings",
       "cuisine": "New Zealand",
       "price": "$$",
-      "path": "/new-zealand/christchurch/christchurch/Gatherings"
+      "path": "/new-zealand/christchurch/christchurch/gatherings",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Londo",
       "cuisine": "European Contemporary",
       "price": "$$",
-      "path": "/new-zealand/christchurch/christchurch/Londo"
+      "path": "/new-zealand/christchurch/christchurch/londo",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Odeon",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/new-zealand/christchurch/christchurch/Odeon"
+      "path": "/new-zealand/christchurch/christchurch/odeon",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Roca",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/new-zealand/christchurch/christchurch/Roca"
+      "path": "/new-zealand/christchurch/christchurch/roca",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Soul Quarter",
       "cuisine": "International",
       "price": "$$",
-      "path": "/new-zealand/christchurch/christchurch/SoulQuarter"
+      "path": "/new-zealand/christchurch/christchurch/soul-quarter",
+      "award": "Bib Gourmand"
     },
     {
       "name": "The Athens Yacht Club",
       "cuisine": "Greek",
       "price": "$$",
-      "path": "/new-zealand/christchurch/christchurch/TheAthensYachtClub"
+      "path": "/new-zealand/christchurch/christchurch/the-athens-yacht-club",
+      "award": "Bib Gourmand"
     },
     {
       "name": "The Monday Room",
       "cuisine": "New Zealand",
       "price": "$$",
-      "path": "/new-zealand/christchurch/christchurch/TheMondayRoom"
+      "path": "/new-zealand/christchurch/christchurch/the-monday-room",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Bessie",
       "cuisine": "Steakhouse",
       "price": "$$$",
-      "path": "/new-zealand/christchurch/christchurch/Bessie"
+      "path": "/new-zealand/christchurch/christchurch/bessie"
     }
   ]
 }

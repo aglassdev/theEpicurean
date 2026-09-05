@@ -1,23 +1,33 @@
 {
   "title": "Fethiye",
+  "country": "Türkiye",
+  "countrySlug": "trkiye",
+  "region": null,
+  "regionSlug": "fethiye",
+  "city": "Fethiye",
+  "citySlug": "fethiye",
+  "path": "/trkiye/fethiye/fethiye/restaurants",
+  "canonicalPath": "/trkiye/fethiye/fethiye/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Mezegi",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/fethiye/fethiye/Mezegi"
+      "path": "/trkiye/fethiye/fethiye/mezegi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "ADA Restaurant",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$$",
-      "path": "/trkiye/fethiye/fethiye/AdaRestaurant"
+      "path": "/trkiye/fethiye/fethiye/ada-restaurant"
     },
     {
       "name": "ONNO Grill & Bar",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/trkiye/fethiye/fethiye/OnnoGrillBar"
+      "path": "/trkiye/fethiye/fethiye/onno-grill-bar"
     }
   ]
 }

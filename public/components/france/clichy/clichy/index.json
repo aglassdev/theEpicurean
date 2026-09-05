@@ -1,8 +1,14 @@
 {
   "title": "Clichy",
-  "country": "france",
-  "region": "clichy",
-  "city": "clichy",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "clichy",
+  "city": "Clichy",
+  "citySlug": "clichy",
+  "path": "/france/clichy/clichy/restaurants",
+  "canonicalPath": "/france/clichy/clichy/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Café César",

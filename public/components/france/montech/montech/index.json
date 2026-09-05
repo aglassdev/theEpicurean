@@ -1,8 +1,14 @@
 {
   "title": "Montech",
-  "country": "france",
-  "region": "montech",
-  "city": "montech",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montech",
+  "city": "Montech",
+  "citySlug": "montech",
+  "path": "/france/montech/montech/restaurants",
+  "canonicalPath": "/france/montech/montech/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bistrot Constant",

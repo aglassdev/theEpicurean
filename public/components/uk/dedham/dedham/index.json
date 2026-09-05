@@ -1,11 +1,20 @@
 {
   "title": "Dedham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "dedham",
+  "city": "Dedham",
+  "citySlug": "dedham",
+  "path": "/uk/dedham/dedham/restaurants",
+  "canonicalPath": "/uk/dedham/dedham/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Sun Inn",
       "cuisine": "Mediterranean Cuisine",
       "price": "££",
-      "path": "/uk/dedham/dedham/sun-inn"
+      "path": "/uk/dedham/dedham/sun-inn-d-e-d"
     },
     {
       "name": "Talbooth",
@@ -17,7 +26,7 @@
       "name": "The Sun Inn",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/uk/dedham/dedham/TheSunInn"
+      "path": "/uk/dedham/dedham/the-sun-inn"
     }
   ]
 }

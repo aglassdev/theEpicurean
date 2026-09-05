@@ -1,20 +1,26 @@
 {
   "title": "Aubenas",
-  "country": "france",
-  "region": "aubenas",
-  "city": "aubenas",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "aubenas",
+  "city": "Aubenas",
+  "citySlug": "aubenas",
+  "path": "/france/aubenas/aubenas/restaurants",
+  "canonicalPath": "/france/aubenas/aubenas/restaurants",
+  "count": 4,
   "restaurants": [
-    {
-      "name": "La Villa Tartary",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/aubenas/aubenas/la-villa-tartary"
-    },
     {
       "name": "L'Aubépine",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/aubenas/aubenas/laubpine"
+    },
+    {
+      "name": "La Villa Tartary",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/aubenas/aubenas/la-villa-tartary"
     },
     {
       "name": "Les Coloquintes",

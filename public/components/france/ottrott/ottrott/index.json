@@ -1,9 +1,21 @@
 {
   "title": "Ottrott",
-  "country": "france",
-  "region": "ottrott",
-  "city": "ottrott",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ottrott",
+  "city": "Ottrott",
+  "citySlug": "ottrott",
+  "path": "/france/ottrott/ottrott/restaurants",
+  "canonicalPath": "/france/ottrott/ottrott/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "À l'Ami Fritz",
+      "cuisine": "Alsatian",
+      "price": "€€",
+      "path": "/france/ottrott/ottrott/lami-fritz"
+    },
     {
       "name": "Hostellerie des Châteaux",
       "cuisine": "Modern Cuisine",
@@ -14,13 +26,7 @@
       "name": "La Table du 6717",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/ottrott/ottrott/la-table-du-6717"
-    },
-    {
-      "name": "À l'Ami Fritz",
-      "cuisine": "Alsatian",
-      "price": "€€",
-      "path": "/france/ottrott/ottrott/lami-fritz"
+      "path": "/france/ottrott/ottrott/la-table-du6717"
     }
   ]
 }

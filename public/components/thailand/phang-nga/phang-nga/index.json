@@ -1,23 +1,34 @@
 {
   "title": "Phang Nga",
+  "country": "Thailand",
+  "countrySlug": "thailand",
+  "region": null,
+  "regionSlug": "phang-nga",
+  "city": "Phang Nga",
+  "citySlug": "phang-nga",
+  "path": "/thailand/phang-nga/phang-nga/restaurants",
+  "canonicalPath": "/thailand/phang-nga/phang-nga/restaurants",
+  "count": 26,
   "restaurants": [
+    {
+      "name": "Aulis",
+      "cuisine": "Creative",
+      "price": "฿฿฿฿",
+      "path": "/thailand/phang-nga/phang-nga/aulis",
+      "award": "★"
+    },
+    {
+      "name": "Mun",
+      "cuisine": "Southern Thai",
+      "price": "$",
+      "path": "/thailand/phang-nga/phang-nga/mun",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Anuwat",
       "cuisine": "Street Food",
       "price": "฿",
       "path": "/thailand/phang-nga/phang-nga/anuwat"
-    },
-    {
-      "name": "Aulis",
-      "cuisine": "Creative",
-      "price": "฿฿฿฿",
-      "path": "/thailand/phang-nga/phang-nga/aulis"
-    },
-    {
-      "name": "Aulis",
-      "cuisine": "Creative",
-      "price": "฿฿฿฿",
-      "path": "/thailand/phang-nga/phang-nga/aulis"
     },
     {
       "name": "Baan Rearn Mai",
@@ -30,6 +41,12 @@
       "cuisine": "Street Food",
       "price": "฿",
       "path": "/thailand/phang-nga/phang-nga/bang-dean"
+    },
+    {
+      "name": "Beach Grill",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/thailand/phang-nga/phang-nga/beach-grill"
     },
     {
       "name": "Beach Grill and Bar",
@@ -92,6 +109,12 @@
       "path": "/thailand/phang-nga/phang-nga/krua-luang-ten"
     },
     {
+      "name": "Lok-Un",
+      "cuisine": "Small eats",
+      "price": "$",
+      "path": "/thailand/phang-nga/phang-nga/lokun"
+    },
+    {
       "name": "Mon",
       "cuisine": "Southern Thai",
       "price": "฿",
@@ -119,7 +142,7 @@
       "name": "Rock-Un",
       "cuisine": "Small eats",
       "price": "฿",
-      "path": "/thailand/phang-nga/phang-nga/rock-un"
+      "path": "/thailand/phang-nga/phang-nga/rockun"
     },
     {
       "name": "Roe Dang",
@@ -143,25 +166,7 @@
       "name": "Yi-Oui Noodles",
       "cuisine": "Noodles",
       "price": "฿",
-      "path": "/thailand/phang-nga/phang-nga/yi-oui-noodles"
-    },
-    {
-      "name": "Mun",
-      "cuisine": "Southern Thai",
-      "price": "$",
-      "path": "/thailand/phang-nga/phang-nga/Mun"
-    },
-    {
-      "name": "Beach Grill",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$$",
-      "path": "/thailand/phang-nga/phang-nga/BeachGrill"
-    },
-    {
-      "name": "Lok-Un",
-      "cuisine": "Small eats",
-      "price": "$",
-      "path": "/thailand/phang-nga/phang-nga/Lokun"
+      "path": "/thailand/phang-nga/phang-nga/yioui-noodles"
     }
   ]
 }

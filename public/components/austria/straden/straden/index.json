@@ -1,20 +1,27 @@
 {
   "title": "Straden",
-  "country": "austria",
-  "region": "straden",
-  "city": "straden",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "straden",
+  "city": "Straden",
+  "citySlug": "straden",
+  "path": "/austria/straden/straden/restaurants",
+  "canonicalPath": "/austria/straden/straden/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Saziani",
+      "cuisine": "Seasonal Cuisine, Creative",
+      "price": "€€€",
+      "path": "/austria/straden/straden/saziani",
+      "award": "★"
+    },
     {
       "name": "Krispels Genusstheater",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/austria/straden/straden/krispels-genusstheater"
-    },
-    {
-      "name": "Saziani",
-      "cuisine": "Seasonal Cuisine, Creative",
-      "price": "€€€",
-      "path": "/austria/straden/straden/saziani"
     }
   ]
 }

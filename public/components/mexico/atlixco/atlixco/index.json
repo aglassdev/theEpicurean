@@ -1,11 +1,21 @@
 {
   "title": "Atlixco",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "atlixco",
+  "city": "Atlixco",
+  "citySlug": "atlixco",
+  "path": "/mexico/atlixco/atlixco/restaurants",
+  "canonicalPath": "/mexico/atlixco/atlixco/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vica Cocina de un Valle",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/atlixco/atlixco/VicaCocinaDeUnValle"
+      "path": "/mexico/atlixco/atlixco/vica-cocina-de-un-valle",
+      "award": "Bib Gourmand"
     }
   ]
 }

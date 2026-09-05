@@ -1,8 +1,14 @@
 {
   "title": "Beauvais",
-  "country": "france",
-  "region": "beauvais",
-  "city": "beauvais",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "beauvais",
+  "city": "Beauvais",
+  "citySlug": "beauvais",
+  "path": "/france/beauvais/beauvais/restaurants",
+  "canonicalPath": "/france/beauvais/beauvais/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Autrement",

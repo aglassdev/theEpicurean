@@ -1,20 +1,28 @@
 {
-  "title": "Fasano Del Garda",
-  "country": "italy",
-  "region": "fasano-del-garda",
-  "city": "fasano-del-garda",
+  "title": "Fasano del Garda",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "fasano-del-garda",
+  "city": "Fasano del Garda",
+  "citySlug": "fasano-del-garda",
+  "path": "/italy/fasano-del-garda/fasano-del-garda/restaurants",
+  "canonicalPath": "/italy/fasano-del-garda/fasano-del-garda/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Il Fagiano",
       "cuisine": "Italian Contemporary, Creative",
       "price": "€€€",
-      "path": "/italy/fasano-del-garda/fasano-del-garda/il-fagiano"
+      "path": "/italy/fasano-del-garda/fasano-del-garda/il-fagiano",
+      "award": "★"
     },
     {
       "name": "Lido 84",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/fasano-del-garda/fasano-del-garda/lido-84"
+      "path": "/italy/fasano-del-garda/fasano-del-garda/lido84",
+      "award": "★"
     }
   ]
 }

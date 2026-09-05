@@ -1,8 +1,14 @@
 {
   "title": "Massa",
-  "country": "italy",
-  "region": "massa",
-  "city": "massa",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "massa",
+  "city": "Massa",
+  "citySlug": "massa",
+  "path": "/italy/massa/massa/restaurants",
+  "canonicalPath": "/italy/massa/massa/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Trillo",

@@ -1,23 +1,32 @@
 {
   "title": "Staffordshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "West Midlands",
+  "regionSlug": "west-midlands",
+  "city": "Staffordshire",
+  "citySlug": "staffordshire",
+  "path": "/uk/west-midlands/staffordshire/restaurants",
+  "canonicalPath": "/uk/west-midlands/staffordshire/restaurants",
+  "count": 3,
   "restaurants": [
     {
-      "name": "Three Horseshoes Country Inn and Spa",
+      "name": "Hoar Cross Hall",
       "cuisine": "Afternoon Tea",
-      "price": "99.00",
-      "path": "/uk/west-midlands/staffordshire/ThreeHorseshoesCountryInnAndSpa"
+      "price": "40.00",
+      "path": "/uk/west-midlands/staffordshire/hoar-cross-hall"
     },
     {
       "name": "McKenzie's Restaurant",
       "cuisine": "Afternoon Tea",
       "price": "17.50",
-      "path": "/uk/west-midlands/staffordshire/MckenziesRestaurant"
+      "path": "/uk/west-midlands/staffordshire/mckenzies-restaurant"
     },
     {
-      "name": "Hoar Cross Hall",
+      "name": "Three Horseshoes Country Inn and Spa",
       "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/west-midlands/staffordshire/HoarCrossHall"
+      "price": "99.00",
+      "path": "/uk/west-midlands/staffordshire/three-horseshoes-country-inn-and-spa"
     }
   ]
 }

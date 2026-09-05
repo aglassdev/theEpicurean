@@ -1,5 +1,14 @@
 {
-  "title": "Pao De Arcos",
+  "title": "Pao de Arcos",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "pao-de-arcos",
+  "city": "Pao de Arcos",
+  "citySlug": "pao-de-arcos",
+  "path": "/portugal/pao-de-arcos/pao-de-arcos/restaurants",
+  "canonicalPath": "/portugal/pao-de-arcos/pao-de-arcos/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Casa da Dízima",
@@ -8,16 +17,16 @@
       "path": "/portugal/pao-de-arcos/pao-de-arcos/casa-da-dzima"
     },
     {
+      "name": "Intemporal",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/portugal/pao-de-arcos/pao-de-arcos/intemporal"
+    },
+    {
       "name": "O Pastus",
       "cuisine": "Portuguese, Contemporary",
       "price": "€€",
       "path": "/portugal/pao-de-arcos/pao-de-arcos/o-pastus"
-    },
-    {
-      "name": "Intemporal",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/portugal/pao-de-arcos/pao-de-arcos/Intemporal"
     }
   ]
 }

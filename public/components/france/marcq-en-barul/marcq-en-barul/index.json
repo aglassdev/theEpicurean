@@ -1,14 +1,21 @@
 {
   "title": "Marcq En Barul",
-  "country": "france",
-  "region": "marcq-en-barul",
-  "city": "marcq-en-barul",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "marcq-en-barul",
+  "city": "Marcq En Barul",
+  "citySlug": "marcq-en-barul",
+  "path": "/france/marcq-en-barul/marcq-en-barul/restaurants",
+  "canonicalPath": "/france/marcq-en-barul/marcq-en-barul/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Rozó",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/marcq-en-barul/marcq-en-barul/roz"
+      "path": "/france/marcq-en-barul/marcq-en-barul/roz",
+      "award": "★★"
     },
     {
       "name": "Rēpu",

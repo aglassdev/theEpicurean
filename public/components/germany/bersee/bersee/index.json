@@ -1,20 +1,27 @@
 {
   "title": "Bersee",
-  "country": "germany",
-  "region": "bersee",
-  "city": "bersee",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bersee",
+  "city": "Bersee",
+  "citySlug": "bersee",
+  "path": "/germany/bersee/bersee/restaurants",
+  "canonicalPath": "/germany/bersee/bersee/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "June",
+      "cuisine": "Regional Cuisine, Modern Cuisine",
+      "price": "€€€",
+      "path": "/germany/bersee/bersee/june",
+      "award": "★"
+    },
     {
       "name": "Chiemgauhof",
       "cuisine": "Farm to table, Regional Cuisine",
       "price": "€€€",
       "path": "/germany/bersee/bersee/chiemgauhof"
-    },
-    {
-      "name": "June",
-      "cuisine": "Regional Cuisine, Modern Cuisine",
-      "price": "€€€",
-      "path": "/germany/bersee/bersee/june"
     }
   ]
 }

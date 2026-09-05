@@ -1,20 +1,26 @@
 {
   "title": "Dury",
-  "country": "france",
-  "region": "dury",
-  "city": "dury",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "dury",
+  "city": "Dury",
+  "citySlug": "dury",
+  "path": "/france/dury/dury/restaurants",
+  "canonicalPath": "/france/dury/dury/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "La Bonne Auberge",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/dury/dury/la-bonne-auberge"
-    },
     {
       "name": "L'Aubergade",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/dury/dury/laubergade"
+    },
+    {
+      "name": "La Bonne Auberge",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/dury/dury/la-bonne-auberge"
     }
   ]
 }

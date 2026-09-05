@@ -1,21 +1,15 @@
 {
   "title": "North Hatley",
-  "country": "canada",
-  "region": "north-hatley",
-  "city": "north-hatley",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "north-hatley",
+  "city": "North Hatley",
+  "citySlug": "north-hatley",
+  "path": "/canada/north-hatley/north-hatley/restaurants",
+  "canonicalPath": "/canada/north-hatley/north-hatley/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Le Hatley - Manoir Hovey",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/canada/north-hatley/north-hatley/le-hatley-manoir-hovey"
-    },
-    {
-      "name": "Le Tap Room - Manoir Hovey",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$$",
-      "path": "/canada/north-hatley/north-hatley/le-tap-room-manoir-hovey"
-    },
     {
       "name": "Le Hatley - Manoir Hovey",
       "cuisine": "Modern Cuisine",

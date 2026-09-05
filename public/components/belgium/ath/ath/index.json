@@ -1,14 +1,21 @@
 {
   "title": "Ath",
-  "country": "belgium",
-  "region": "ath",
-  "city": "ath",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "ath",
+  "city": "Ath",
+  "citySlug": "ath",
+  "path": "/belgium/ath/ath/restaurants",
+  "canonicalPath": "/belgium/ath/ath/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Quai n°4",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/ath/ath/quai-n4"
+      "path": "/belgium/ath/ath/quai-n4",
+      "award": "★"
     }
   ]
 }

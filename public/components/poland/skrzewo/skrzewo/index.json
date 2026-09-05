@@ -1,17 +1,27 @@
 {
   "title": "Skrzewo",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "skrzewo",
+  "city": "Skrzewo",
+  "citySlug": "skrzewo",
+  "path": "/poland/skrzewo/skrzewo/restaurants",
+  "canonicalPath": "/poland/skrzewo/skrzewo/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Farmer & Sons",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/poland/skrzewo/skrzewo/farmer-sons",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Nare Sushi",
       "cuisine": "Japanese",
       "price": "€€",
       "path": "/poland/skrzewo/skrzewo/nare-sushi"
-    },
-    {
-      "name": "Farmer & Sons",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/poland/skrzewo/skrzewo/FarmerSons"
     }
   ]
 }

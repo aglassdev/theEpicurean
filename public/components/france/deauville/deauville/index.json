@@ -1,20 +1,28 @@
 {
   "title": "Deauville",
-  "country": "france",
-  "region": "deauville",
-  "city": "deauville",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "deauville",
+  "city": "Deauville",
+  "citySlug": "deauville",
+  "path": "/france/deauville/deauville/restaurants",
+  "canonicalPath": "/france/deauville/deauville/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Essentiel",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€",
-      "path": "/france/deauville/deauville/lessentiel"
+      "path": "/france/deauville/deauville/lessentiel-d-e-a",
+      "award": "★"
     },
     {
       "name": "Maximin Hellio",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/deauville/deauville/maximin-hellio"
+      "path": "/france/deauville/deauville/maximin-hellio",
+      "award": "★"
     }
   ]
 }

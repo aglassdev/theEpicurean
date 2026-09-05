@@ -1,8 +1,14 @@
 {
   "title": "Sursee",
-  "country": "switzerland",
-  "region": "sursee",
-  "city": "sursee",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "sursee",
+  "city": "Sursee",
+  "citySlug": "sursee",
+  "path": "/switzerland/sursee/sursee/restaurants",
+  "canonicalPath": "/switzerland/sursee/sursee/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chez Be",

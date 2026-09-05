@@ -1,14 +1,21 @@
 {
   "title": "Soria",
-  "country": "spain",
-  "region": "soria",
-  "city": "soria",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "soria",
+  "city": "Soria",
+  "citySlug": "soria",
+  "path": "/spain/soria/soria/restaurants",
+  "canonicalPath": "/spain/soria/soria/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Baluarte",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/soria/soria/baluarte"
+      "path": "/spain/soria/soria/baluarte",
+      "award": "★"
     }
   ]
 }

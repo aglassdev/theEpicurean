@@ -1,8 +1,14 @@
 {
   "title": "Wildemann",
-  "country": "germany",
-  "region": "wildemann",
-  "city": "wildemann",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "wildemann",
+  "city": "Wildemann",
+  "citySlug": "wildemann",
+  "path": "/germany/wildemann/wildemann/restaurants",
+  "canonicalPath": "/germany/wildemann/wildemann/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ratsstube",

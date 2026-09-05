@@ -1,14 +1,21 @@
 {
-  "title": "Courcelles Sur Vesle",
-  "country": "france",
-  "region": "courcelles-sur-vesle",
-  "city": "courcelles-sur-vesle",
+  "title": "Courcelles sur Vesle",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "courcelles-sur-vesle",
+  "city": "Courcelles sur Vesle",
+  "citySlug": "courcelles-sur-vesle",
+  "path": "/france/courcelles-sur-vesle/courcelles-sur-vesle/restaurants",
+  "canonicalPath": "/france/courcelles-sur-vesle/courcelles-sur-vesle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de Courcelles - Château de Courcelles",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/courcelles-sur-vesle/courcelles-sur-vesle/la-table-de-courcelles-chteau-de-courcelles"
+      "path": "/france/courcelles-sur-vesle/courcelles-sur-vesle/la-table-de-courcelles-chteau-de-courcelles",
+      "award": "★"
     }
   ]
 }

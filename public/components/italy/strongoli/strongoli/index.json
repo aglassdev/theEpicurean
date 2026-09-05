@@ -1,14 +1,21 @@
 {
   "title": "Strongoli",
-  "country": "italy",
-  "region": "strongoli",
-  "city": "strongoli",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "strongoli",
+  "city": "Strongoli",
+  "citySlug": "strongoli",
+  "path": "/italy/strongoli/strongoli/restaurants",
+  "canonicalPath": "/italy/strongoli/strongoli/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Dattilo",
       "cuisine": "Country cooking, Creative",
       "price": "€€€€",
-      "path": "/italy/strongoli/strongoli/dattilo"
+      "path": "/italy/strongoli/strongoli/dattilo",
+      "award": "★"
     }
   ]
 }

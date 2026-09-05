@@ -1,17 +1,27 @@
 {
   "title": "Lochau",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "lochau",
+  "city": "Lochau",
+  "citySlug": "lochau",
+  "path": "/austria/lochau/lochau/restaurants",
+  "canonicalPath": "/austria/lochau/lochau/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Mangold",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
-      "path": "/austria/lochau/lochau/mangold"
+      "path": "/austria/lochau/lochau/mangold",
+      "award": "★"
     },
     {
       "name": "vju",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/austria/lochau/lochau/Vju"
+      "path": "/austria/lochau/lochau/vju"
     }
   ]
 }

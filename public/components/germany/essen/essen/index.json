@@ -1,23 +1,41 @@
 {
   "title": "Essen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "essen",
+  "city": "Essen",
+  "citySlug": "essen",
+  "path": "/germany/essen/essen/restaurants",
+  "canonicalPath": "/germany/essen/essen/restaurants",
+  "count": 9,
   "restaurants": [
     {
       "name": "Chefs Atelier",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/germany/essen/essen/chefs-atelier"
+      "path": "/germany/essen/essen/chefs-atelier",
+      "award": "★"
     },
     {
       "name": "Hannappel",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/germany/essen/essen/hannappel"
+      "path": "/germany/essen/essen/hannappel",
+      "award": "★"
     },
     {
       "name": "Kettner's Kamota",
       "cuisine": "Creative, Alsatian",
       "price": "€€€€",
-      "path": "/germany/essen/essen/kettners-kamota"
+      "path": "/germany/essen/essen/kettners-kamota",
+      "award": "★"
+    },
+    {
+      "name": "bistro in der remise",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/germany/essen/essen/bistro-in-der-remise"
     },
     {
       "name": "Lucente",
@@ -41,19 +59,13 @@
       "name": "Restaurant 1831",
       "cuisine": "French Contemporary, Modern French",
       "price": "€€€",
-      "path": "/germany/essen/essen/restaurant-1831"
+      "path": "/germany/essen/essen/restaurant1831"
     },
     {
       "name": "Teko by Lange Rodriguez",
       "cuisine": "International, South American",
       "price": "€€€€",
       "path": "/germany/essen/essen/teko-by-lange-rodriguez"
-    },
-    {
-      "name": "bistro in der remise",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/germany/essen/essen/BistroInDerRemise"
     }
   ]
 }

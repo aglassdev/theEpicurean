@@ -1,8 +1,14 @@
 {
   "title": "Zug",
-  "country": "switzerland",
-  "region": "zug",
-  "city": "zug",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "zug",
+  "city": "Zug",
+  "citySlug": "zug",
+  "path": "/switzerland/zug/zug/restaurants",
+  "canonicalPath": "/switzerland/zug/zug/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Rathauskeller Bistro",

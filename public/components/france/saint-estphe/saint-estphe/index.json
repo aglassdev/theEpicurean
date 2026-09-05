@@ -1,11 +1,20 @@
 {
-  "title": "Saint-Estèphe",
+  "title": "Saint Estphe",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-estphe",
+  "city": "Saint Estphe",
+  "citySlug": "saint-estphe",
+  "path": "/france/saint-estphe/saint-estphe/restaurants",
+  "canonicalPath": "/france/saint-estphe/saint-estphe/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Maison d'Estournel",
       "cuisine": "Classic Cuisine",
       "price": "$$$",
-      "path": "/france/saint-estphe/saint-estphe/LaMaisonDestournel"
+      "path": "/france/saint-estphe/saint-estphe/la-maison-destournel"
     }
   ]
 }

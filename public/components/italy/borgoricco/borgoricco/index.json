@@ -1,14 +1,21 @@
 {
   "title": "Borgoricco",
-  "country": "italy",
-  "region": "borgoricco",
-  "city": "borgoricco",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "borgoricco",
+  "city": "Borgoricco",
+  "citySlug": "borgoricco",
+  "path": "/italy/borgoricco/borgoricco/restaurants",
+  "canonicalPath": "/italy/borgoricco/borgoricco/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Storie d'Amore",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/borgoricco/borgoricco/storie-damore"
+      "path": "/italy/borgoricco/borgoricco/storie-damore",
+      "award": "★"
     }
   ]
 }

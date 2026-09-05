@@ -1,20 +1,27 @@
 {
   "title": "Schmallenberg",
-  "country": "germany",
-  "region": "schmallenberg",
-  "city": "schmallenberg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "schmallenberg",
+  "city": "Schmallenberg",
+  "citySlug": "schmallenberg",
+  "path": "/germany/schmallenberg/schmallenberg/restaurants",
+  "canonicalPath": "/germany/schmallenberg/schmallenberg/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Hofstube Deimann",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/schmallenberg/schmallenberg/hofstube-deimann",
+      "award": "★"
+    },
     {
       "name": "Gasthof Schütte",
       "cuisine": "Regional Cuisine, Classic Cuisine",
       "price": "€€",
       "path": "/germany/schmallenberg/schmallenberg/gasthof-schtte"
-    },
-    {
-      "name": "Hofstube Deimann",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/schmallenberg/schmallenberg/hofstube-deimann"
     }
   ]
 }

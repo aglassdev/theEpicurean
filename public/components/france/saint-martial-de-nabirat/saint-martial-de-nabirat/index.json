@@ -1,14 +1,20 @@
 {
-  "title": "Saint Martial De Nabirat",
-  "country": "france",
-  "region": "saint-martial-de-nabirat",
-  "city": "saint-martial-de-nabirat",
+  "title": "Saint Martial de Nabirat",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-martial-de-nabirat",
+  "city": "Saint Martial de Nabirat",
+  "citySlug": "saint-martial-de-nabirat",
+  "path": "/france/saint-martial-de-nabirat/saint-martial-de-nabirat/restaurants",
+  "canonicalPath": "/france/saint-martial-de-nabirat/saint-martial-de-nabirat/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Saint-Martial",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/saint-martial-de-nabirat/saint-martial-de-nabirat/le-saint-martial"
+      "path": "/france/saint-martial-de-nabirat/saint-martial-de-nabirat/le-saintmartial"
     }
   ]
 }

@@ -1,17 +1,27 @@
 {
   "title": "Larrau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "larrau",
+  "city": "Larrau",
+  "citySlug": "larrau",
+  "path": "/france/larrau/larrau/restaurants",
+  "canonicalPath": "/france/larrau/larrau/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Etchemaite",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/larrau/larrau/etchemaite",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Etchemaïté",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/larrau/larrau/etchemat"
-    },
-    {
-      "name": "Etchemaite",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/france/larrau/larrau/Etchemaite"
     }
   ]
 }

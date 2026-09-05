@@ -1,14 +1,21 @@
 {
-  "title": "St Martens Voeren",
-  "country": "belgium",
-  "region": "st-martens-voeren",
-  "city": "st-martens-voeren",
+  "title": "St. Martens Voeren",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "st-martens-voeren",
+  "city": "St. Martens Voeren",
+  "citySlug": "st-martens-voeren",
+  "path": "/belgium/st-martens-voeren/st-martens-voeren/restaurants",
+  "canonicalPath": "/belgium/st-martens-voeren/st-martens-voeren/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hoeve De Bies",
       "cuisine": "Modern French",
       "price": "€€€€",
-      "path": "/belgium/st-martens-voeren/st-martens-voeren/hoeve-de-bies"
+      "path": "/belgium/st-martens-voeren/st-martens-voeren/hoeve-de-bies",
+      "award": "★"
     }
   ]
 }

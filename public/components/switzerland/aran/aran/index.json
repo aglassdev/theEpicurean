@@ -1,8 +1,14 @@
 {
   "title": "Aran",
-  "country": "switzerland",
-  "region": "aran",
-  "city": "aran",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "aran",
+  "city": "Aran",
+  "citySlug": "aran",
+  "path": "/switzerland/aran/aran/restaurants",
+  "canonicalPath": "/switzerland/aran/aran/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Guillaume Tell",

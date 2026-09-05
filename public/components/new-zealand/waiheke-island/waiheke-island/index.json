@@ -1,23 +1,34 @@
 {
   "title": "Waiheke Island",
+  "country": "New Zealand",
+  "countrySlug": "new-zealand",
+  "region": null,
+  "regionSlug": "waiheke-island",
+  "city": "Waiheke Island",
+  "citySlug": "waiheke-island",
+  "path": "/new-zealand/waiheke-island/waiheke-island/restaurants",
+  "canonicalPath": "/new-zealand/waiheke-island/waiheke-island/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Mudbrick",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/waiheke-island/waiheke-island/Mudbrick"
+      "path": "/new-zealand/waiheke-island/waiheke-island/mudbrick",
+      "award": "★"
     },
     {
       "name": "Tantalus Estate Restaurant",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/waiheke-island/waiheke-island/TantalusEstateRestaurant"
+      "path": "/new-zealand/waiheke-island/waiheke-island/tantalus-estate-restaurant",
+      "award": "★"
     },
     {
       "name": "Ki Māha",
       "cuisine": "New Zealand",
       "price": "$$",
-      "path": "/new-zealand/waiheke-island/waiheke-island/KiMha"
+      "path": "/new-zealand/waiheke-island/waiheke-island/ki-mha"
     }
   ]
 }

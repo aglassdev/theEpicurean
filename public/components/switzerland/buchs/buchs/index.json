@@ -1,17 +1,26 @@
 {
   "title": "Buchs",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "buchs",
+  "city": "Buchs",
+  "citySlug": "buchs",
+  "path": "/switzerland/buchs/buchs/restaurants",
+  "canonicalPath": "/switzerland/buchs/buchs/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gasthaus Traube - Die Braustube",
       "cuisine": "Regional Cuisine",
       "price": "$$",
-      "path": "/switzerland/buchs/buchs/GasthausTraubeDieBraustube"
+      "path": "/switzerland/buchs/buchs/gasthaus-traube-die-braustube"
     },
     {
       "name": "Gasthaus Traube - Traubensaal",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/switzerland/buchs/buchs/GasthausTraubeTraubensaal"
+      "path": "/switzerland/buchs/buchs/gasthaus-traube-traubensaal"
     }
   ]
 }

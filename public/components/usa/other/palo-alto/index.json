@@ -1,0 +1,63 @@
+{
+  "title": "Palo Alto",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Palo Alto",
+  "citySlug": "palo-alto",
+  "path": "/usa/other/palo-alto/restaurants",
+  "canonicalPath": "/usa/california/palo-alto/restaurants",
+  "count": 8,
+  "restaurants": [
+    {
+      "name": "Protégé",
+      "cuisine": "Contemporary, Californian",
+      "price": "$$$$",
+      "path": "/usa/california/palo-alto/protg",
+      "award": "★"
+    },
+    {
+      "name": "Ethel's Fancy",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/palo-alto/ethels-fancy"
+    },
+    {
+      "name": "Ettan",
+      "cuisine": "Indian, Californian",
+      "price": "$$$",
+      "path": "/usa/california/palo-alto/ettan"
+    },
+    {
+      "name": "Evvia",
+      "cuisine": "Greek, Californian",
+      "price": "$$$",
+      "path": "/usa/california/palo-alto/evvia"
+    },
+    {
+      "name": "iTalico",
+      "cuisine": "Italian, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/california/palo-alto/italico"
+    },
+    {
+      "name": "Tamarine",
+      "cuisine": "Vietnamese, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/palo-alto/tamarine"
+    },
+    {
+      "name": "Vina Enoteca",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/palo-alto/vina-enoteca"
+    },
+    {
+      "name": "Zola",
+      "cuisine": "French, Californian",
+      "price": "$$$",
+      "path": "/usa/california/palo-alto/zola"
+    }
+  ]
+}

@@ -1,14 +1,20 @@
 {
-  "title": "St Monans",
-  "country": "uk",
-  "region": "st-monans",
-  "city": "st-monans",
+  "title": "St. Monans",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "st-monans",
+  "city": "St. Monans",
+  "citySlug": "st-monans",
+  "path": "/uk/st-monans/st-monans/restaurants",
+  "canonicalPath": "/uk/st-monans/st-monans/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Craig Millar @ 16 West End",
       "cuisine": "Modern Cuisine",
       "price": "£££",
-      "path": "/uk/st-monans/st-monans/craig-millar-16-west-end"
+      "path": "/uk/st-monans/st-monans/craig-millar16-west-end"
     }
   ]
 }

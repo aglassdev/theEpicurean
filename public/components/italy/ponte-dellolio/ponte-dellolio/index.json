@@ -1,8 +1,14 @@
 {
   "title": "Ponte Dellolio",
-  "country": "italy",
-  "region": "ponte-dellolio",
-  "city": "ponte-dellolio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ponte-dellolio",
+  "city": "Ponte Dellolio",
+  "citySlug": "ponte-dellolio",
+  "path": "/italy/ponte-dellolio/ponte-dellolio/restaurants",
+  "canonicalPath": "/italy/ponte-dellolio/ponte-dellolio/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Locanda Cacciatori",
@@ -14,7 +20,7 @@
       "name": "Riva",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/italy/ponte-dellolio/ponte-dellolio/riva"
+      "path": "/italy/ponte-dellolio/ponte-dellolio/riva-p-o-n"
     }
   ]
 }

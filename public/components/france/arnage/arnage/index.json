@@ -1,8 +1,14 @@
 {
   "title": "Arnage",
-  "country": "france",
-  "region": "arnage",
-  "city": "arnage",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "arnage",
+  "city": "Arnage",
+  "citySlug": "arnage",
+  "path": "/france/arnage/arnage/restaurants",
+  "canonicalPath": "/france/arnage/arnage/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge des Matfeux",

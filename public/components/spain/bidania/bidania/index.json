@@ -1,8 +1,14 @@
 {
   "title": "Bidania",
-  "country": "spain",
-  "region": "bidania",
-  "city": "bidania",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "bidania",
+  "city": "Bidania",
+  "citySlug": "bidania",
+  "path": "/spain/bidania/bidania/restaurants",
+  "canonicalPath": "/spain/bidania/bidania/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bailara",

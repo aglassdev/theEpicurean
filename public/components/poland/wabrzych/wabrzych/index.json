@@ -1,11 +1,21 @@
 {
-  "title": "Wałbrzych",
+  "title": "Wabrzych",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "wabrzych",
+  "city": "Wabrzych",
+  "citySlug": "wabrzych",
+  "path": "/poland/wabrzych/wabrzych/restaurants",
+  "canonicalPath": "/poland/wabrzych/wabrzych/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Biblioteka",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/poland/wabrzych/wabrzych/Biblioteka"
+      "path": "/poland/wabrzych/wabrzych/biblioteka",
+      "award": "Bib Gourmand"
     }
   ]
 }

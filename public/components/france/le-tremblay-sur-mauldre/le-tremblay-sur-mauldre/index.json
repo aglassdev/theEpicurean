@@ -1,14 +1,21 @@
 {
-  "title": "Le Tremblay Sur Mauldre",
-  "country": "france",
-  "region": "le-tremblay-sur-mauldre",
-  "city": "le-tremblay-sur-mauldre",
+  "title": "Le Tremblay sur Mauldre",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-tremblay-sur-mauldre",
+  "city": "Le Tremblay sur Mauldre",
+  "citySlug": "le-tremblay-sur-mauldre",
+  "path": "/france/le-tremblay-sur-mauldre/le-tremblay-sur-mauldre/restaurants",
+  "canonicalPath": "/france/le-tremblay-sur-mauldre/le-tremblay-sur-mauldre/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Numéro 3",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/le-tremblay-sur-mauldre/le-tremblay-sur-mauldre/numro-3"
+      "path": "/france/le-tremblay-sur-mauldre/le-tremblay-sur-mauldre/numro3",
+      "award": "★"
     }
   ]
 }

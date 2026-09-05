@@ -1,14 +1,20 @@
 {
-  "title": "El Sauzal De Rodrguez",
-  "country": "mexico",
-  "region": "el-sauzal-de-rodrguez",
-  "city": "el-sauzal-de-rodrguez",
+  "title": "El Sauzal de Rodrguez",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "el-sauzal-de-rodrguez",
+  "city": "El Sauzal de Rodrguez",
+  "citySlug": "el-sauzal-de-rodrguez",
+  "path": "/mexico/el-sauzal-de-rodrguez/el-sauzal-de-rodrguez/restaurants",
+  "canonicalPath": "/mexico/el-sauzal-de-rodrguez/el-sauzal-de-rodrguez/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ophelia",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/mexico/el-sauzal-de-rodrguez/el-sauzal-de-rodrguez/ophelia"
+      "path": "/mexico/el-sauzal-de-rodrguez/el-sauzal-de-rodrguez/ophelia-e-l-s"
     }
   ]
 }

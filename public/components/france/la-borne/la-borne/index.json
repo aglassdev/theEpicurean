@@ -1,8 +1,14 @@
 {
   "title": "La Borne",
-  "country": "france",
-  "region": "la-borne",
-  "city": "la-borne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-borne",
+  "city": "La Borne",
+  "citySlug": "la-borne",
+  "path": "/france/la-borne/la-borne/restaurants",
+  "canonicalPath": "/france/la-borne/la-borne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Épicerie",

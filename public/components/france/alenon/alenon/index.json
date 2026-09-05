@@ -1,8 +1,14 @@
 {
   "title": "Alenon",
-  "country": "france",
-  "region": "alenon",
-  "city": "alenon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "alenon",
+  "city": "Alenon",
+  "citySlug": "alenon",
+  "path": "/france/alenon/alenon/restaurants",
+  "canonicalPath": "/france/alenon/alenon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Suite",

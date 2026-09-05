@@ -1,14 +1,28 @@
 {
   "title": "Trani",
-  "country": "italy",
-  "region": "trani",
-  "city": "trani",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "trani",
+  "city": "Trani",
+  "citySlug": "trani",
+  "path": "/italy/trani/trani/restaurants",
+  "canonicalPath": "/italy/trani/trani/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Casa Sgarra",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/trani/trani/casa-sgarra"
+      "path": "/italy/trani/trani/casa-sgarra",
+      "award": "★"
+    },
+    {
+      "name": "Quintessenza",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/trani/trani/quintessenza",
+      "award": "★"
     },
     {
       "name": "Il Melograno",
@@ -27,12 +41,6 @@
       "cuisine": "Seafood",
       "price": "€€",
       "path": "/italy/trani/trani/osteria-frangipane"
-    },
-    {
-      "name": "Quintessenza",
-      "cuisine": "Contemporary, Modern Cuisine",
-      "price": "€€€",
-      "path": "/italy/trani/trani/quintessenza"
     },
     {
       "name": "Terradimare",

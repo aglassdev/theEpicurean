@@ -1,8 +1,14 @@
 {
   "title": "Mondragon",
-  "country": "france",
-  "region": "mondragon",
-  "city": "mondragon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "mondragon",
+  "city": "Mondragon",
+  "citySlug": "mondragon",
+  "path": "/france/mondragon/mondragon/restaurants",
+  "canonicalPath": "/france/mondragon/mondragon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Beaugravière",

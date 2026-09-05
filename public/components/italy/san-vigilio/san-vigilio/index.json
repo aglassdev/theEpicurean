@@ -1,14 +1,20 @@
 {
   "title": "San Vigilio",
-  "country": "italy",
-  "region": "san-vigilio",
-  "city": "san-vigilio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-vigilio",
+  "city": "San Vigilio",
+  "citySlug": "san-vigilio",
+  "path": "/italy/san-vigilio/san-vigilio/restaurants",
+  "canonicalPath": "/italy/san-vigilio/san-vigilio/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ristorante 1500",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€€",
-      "path": "/italy/san-vigilio/san-vigilio/ristorante-1500"
+      "path": "/italy/san-vigilio/san-vigilio/ristorante1500"
     }
   ]
 }

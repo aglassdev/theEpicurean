@@ -1,11 +1,21 @@
 {
   "title": "Atxondo",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "atxondo",
+  "city": "Atxondo",
+  "citySlug": "atxondo",
+  "path": "/spain/atxondo/atxondo/restaurants",
+  "canonicalPath": "/spain/atxondo/atxondo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Asador Etxebarri",
       "cuisine": "",
       "price": "",
-      "path": "/spain/atxondo/atxondo/AsadorEtxebarri"
+      "path": "/spain/atxondo/atxondo/asador-etxebarri",
+      "award": "World's 50 Best"
     }
   ]
 }

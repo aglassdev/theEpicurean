@@ -1,14 +1,21 @@
 {
   "title": "Lmmenschwil",
-  "country": "switzerland",
-  "region": "lmmenschwil",
-  "city": "lmmenschwil",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "lmmenschwil",
+  "city": "Lmmenschwil",
+  "citySlug": "lmmenschwil",
+  "path": "/switzerland/lmmenschwil/lmmenschwil/restaurants",
+  "canonicalPath": "/switzerland/lmmenschwil/lmmenschwil/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Neue Blumenau",
       "cuisine": "Contemporary, Classic Cuisine",
       "price": "€€€",
-      "path": "/switzerland/lmmenschwil/lmmenschwil/neue-blumenau"
+      "path": "/switzerland/lmmenschwil/lmmenschwil/neue-blumenau",
+      "award": "★"
     }
   ]
 }

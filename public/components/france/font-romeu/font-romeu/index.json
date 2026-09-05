@@ -1,14 +1,20 @@
 {
   "title": "Font Romeu",
-  "country": "france",
-  "region": "font-romeu",
-  "city": "font-romeu",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "font-romeu",
+  "city": "Font Romeu",
+  "citySlug": "font-romeu",
+  "path": "/france/font-romeu/font-romeu/restaurants",
+  "canonicalPath": "/france/font-romeu/font-romeu/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Chaumière",
       "cuisine": "Catalan",
       "price": "€€",
-      "path": "/france/font-romeu/font-romeu/la-chaumire"
+      "path": "/france/font-romeu/font-romeu/la-chaumire-f-o-n"
     }
   ]
 }

@@ -1,17 +1,26 @@
 {
   "title": "Radom",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "radom",
+  "city": "Radom",
+  "citySlug": "radom",
+  "path": "/poland/radom/radom/restaurants",
+  "canonicalPath": "/poland/radom/radom/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Kraft Bistro",
       "cuisine": "European",
       "price": "$$",
-      "path": "/poland/radom/radom/KraftBistro"
+      "path": "/poland/radom/radom/kraft-bistro"
     },
     {
       "name": "Mela Rossa",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/poland/radom/radom/MelaRossa"
+      "path": "/poland/radom/radom/mela-rossa"
     }
   ]
 }

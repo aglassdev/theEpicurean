@@ -1,9 +1,22 @@
 {
   "title": "Prigueux",
-  "country": "france",
-  "region": "prigueux",
-  "city": "prigueux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "prigueux",
+  "city": "Prigueux",
+  "citySlug": "prigueux",
+  "path": "/france/prigueux/prigueux/restaurants",
+  "canonicalPath": "/france/prigueux/prigueux/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "L'Essentiel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/prigueux/prigueux/lessentiel-p-r-i",
+      "award": "★"
+    },
     {
       "name": "Café Louise",
       "cuisine": "Italian",
@@ -15,6 +28,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/prigueux/prigueux/hercule-poireau"
+    },
+    {
+      "name": "L'Épicurien",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/prigueux/prigueux/lpicurien-p-r-i"
     },
     {
       "name": "La Taula",
@@ -29,22 +48,10 @@
       "path": "/france/prigueux/prigueux/le-ptrocore"
     },
     {
-      "name": "L'Essentiel",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/prigueux/prigueux/lessentiel"
-    },
-    {
-      "name": "L'Épicurien",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/prigueux/prigueux/lpicurien"
-    },
-    {
       "name": "Oxalis",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/prigueux/prigueux/oxalis"
+      "path": "/france/prigueux/prigueux/oxalis-p-r-i"
     }
   ]
 }

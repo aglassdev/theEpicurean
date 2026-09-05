@@ -1,8 +1,14 @@
 {
   "title": "Hecho",
-  "country": "spain",
-  "region": "hecho",
-  "city": "hecho",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "hecho",
+  "city": "Hecho",
+  "citySlug": "hecho",
+  "path": "/spain/hecho/hecho/restaurants",
+  "canonicalPath": "/spain/hecho/hecho/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Canteré",

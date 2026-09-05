@@ -1,8 +1,14 @@
 {
   "title": "Briollay",
-  "country": "france",
-  "region": "briollay",
-  "city": "briollay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "briollay",
+  "city": "Briollay",
+  "citySlug": "briollay",
+  "path": "/france/briollay/briollay/restaurants",
+  "canonicalPath": "/france/briollay/briollay/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Attilio - Briollay",

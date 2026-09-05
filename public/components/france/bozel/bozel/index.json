@@ -1,8 +1,14 @@
 {
   "title": "Bozel",
-  "country": "france",
-  "region": "bozel",
-  "city": "bozel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bozel",
+  "city": "Bozel",
+  "citySlug": "bozel",
+  "path": "/france/bozel/bozel/restaurants",
+  "canonicalPath": "/france/bozel/bozel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Achillée",

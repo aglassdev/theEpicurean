@@ -1,6 +1,29 @@
 {
-  "title": "Eltville Am Rhein",
+  "title": "Eltville am Rhein",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "eltville-am-rhein",
+  "city": "Eltville am Rhein",
+  "citySlug": "eltville-am-rhein",
+  "path": "/germany/eltville-am-rhein/eltville-am-rhein/restaurants",
+  "canonicalPath": "/germany/eltville-am-rhein/eltville-am-rhein/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Ente Wiesbaden - Pfortenhaus Kloster Eberbach",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/germany/eltville-am-rhein/eltville-am-rhein/ente-wiesbaden-pfortenhaus-kloster-eberbach",
+      "award": "★"
+    },
+    {
+      "name": "Jean",
+      "cuisine": "Classic French, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/germany/eltville-am-rhein/eltville-am-rhein/jean",
+      "award": "★"
+    },
     {
       "name": "Adler Wirtschaft",
       "cuisine": "Seasonal Cuisine, Classic Cuisine",
@@ -8,16 +31,16 @@
       "path": "/germany/eltville-am-rhein/eltville-am-rhein/adler-wirtschaft"
     },
     {
-      "name": "Jean",
-      "cuisine": "Classic French, Mediterranean Cuisine",
-      "price": "€€€",
-      "path": "/germany/eltville-am-rhein/eltville-am-rhein/jean"
-    },
-    {
       "name": "Kronenschlösschen",
       "cuisine": "French Contemporary, International",
       "price": "€€€€",
       "path": "/germany/eltville-am-rhein/eltville-am-rhein/kronenschlsschen"
+    },
+    {
+      "name": "Kronenschlösschen - Bistro",
+      "cuisine": "Classic Cuisine",
+      "price": "$$",
+      "path": "/germany/eltville-am-rhein/eltville-am-rhein/kronenschlsschen-bistro"
     },
     {
       "name": "Restaurant Baiken by Schröer",
@@ -30,18 +53,6 @@
       "cuisine": "Seasonal Cuisine, Farm to table",
       "price": "€€",
       "path": "/germany/eltville-am-rhein/eltville-am-rhein/zum-krug"
-    },
-    {
-      "name": "Ente Wiesbaden - Pfortenhaus Kloster Eberbach",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/germany/eltville-am-rhein/eltville-am-rhein/EnteWiesbadenPfortenhausKlosterEberbach"
-    },
-    {
-      "name": "Kronenschlösschen - Bistro",
-      "cuisine": "Classic Cuisine",
-      "price": "$$",
-      "path": "/germany/eltville-am-rhein/eltville-am-rhein/KronenschlsschenBistro"
     }
   ]
 }

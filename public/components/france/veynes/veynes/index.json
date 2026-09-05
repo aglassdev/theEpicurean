@@ -1,8 +1,14 @@
 {
   "title": "Veynes",
-  "country": "france",
-  "region": "veynes",
-  "city": "veynes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "veynes",
+  "city": "Veynes",
+  "citySlug": "veynes",
+  "path": "/france/veynes/veynes/restaurants",
+  "canonicalPath": "/france/veynes/veynes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Sérafine",

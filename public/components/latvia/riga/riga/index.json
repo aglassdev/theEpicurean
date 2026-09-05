@@ -1,9 +1,29 @@
 {
   "title": "Riga",
-  "country": "latvia",
-  "region": "riga",
-  "city": "riga",
+  "country": "Latvia",
+  "countrySlug": "latvia",
+  "region": null,
+  "regionSlug": "riga",
+  "city": "Riga",
+  "citySlug": "riga",
+  "path": "/latvia/riga/riga/restaurants",
+  "canonicalPath": "/latvia/riga/riga/restaurants",
+  "count": 27,
   "restaurants": [
+    {
+      "name": "JOHN Chef's Hall",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/latvia/riga/riga/john-chefs-hall",
+      "award": "★"
+    },
+    {
+      "name": "Max Cekot Kitchen",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/latvia/riga/riga/max-cekot-kitchen",
+      "award": "★"
+    },
     {
       "name": "3 Chefs",
       "cuisine": "Modern Cuisine",
@@ -65,12 +85,6 @@
       "path": "/latvia/riga/riga/john"
     },
     {
-      "name": "JOHN Chef's Hall",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/latvia/riga/riga/john-chefs-hall"
-    },
-    {
       "name": "Le Dome",
       "cuisine": "French",
       "price": "€€€",
@@ -83,22 +97,16 @@
       "path": "/latvia/riga/riga/lowine"
     },
     {
-      "name": "Max Cekot Kitchen",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/latvia/riga/riga/max-cekot-kitchen"
+      "name": "Māsa",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/latvia/riga/riga/msa"
     },
     {
       "name": "Milda",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/latvia/riga/riga/milda"
-    },
-    {
-      "name": "Māsa",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/latvia/riga/riga/msa"
     },
     {
       "name": "Neiburgs",
@@ -110,7 +118,7 @@
       "name": "Riviera",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
-      "path": "/latvia/riga/riga/riviera"
+      "path": "/latvia/riga/riga/riviera-r-i-g"
     },
     {
       "name": "Seasons",

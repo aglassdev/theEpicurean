@@ -1,8 +1,14 @@
 {
   "title": "Schwarzenberg",
-  "country": "austria",
-  "region": "schwarzenberg",
-  "city": "schwarzenberg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "schwarzenberg",
+  "city": "Schwarzenberg",
+  "citySlug": "schwarzenberg",
+  "path": "/austria/schwarzenberg/schwarzenberg/restaurants",
+  "canonicalPath": "/austria/schwarzenberg/schwarzenberg/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gasthof Adler",
@@ -14,7 +20,7 @@
       "name": "Hirschen",
       "cuisine": "Regional Cuisine",
       "price": "€€",
-      "path": "/austria/schwarzenberg/schwarzenberg/hirschen"
+      "path": "/austria/schwarzenberg/schwarzenberg/hirschen-s-c-h"
     }
   ]
 }

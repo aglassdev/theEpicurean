@@ -1,8 +1,14 @@
 {
   "title": "Bremerhaven",
-  "country": "germany",
-  "region": "bremerhaven",
-  "city": "bremerhaven",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bremerhaven",
+  "city": "Bremerhaven",
+  "citySlug": "bremerhaven",
+  "path": "/germany/bremerhaven/bremerhaven/restaurants",
+  "canonicalPath": "/germany/bremerhaven/bremerhaven/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Fine Dining by Phillip Probst",
@@ -14,7 +20,7 @@
       "name": "PIER 6",
       "cuisine": "International, Mediterranean Cuisine",
       "price": "€€",
-      "path": "/germany/bremerhaven/bremerhaven/pier-6"
+      "path": "/germany/bremerhaven/bremerhaven/pier6"
     }
   ]
 }

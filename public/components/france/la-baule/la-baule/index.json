@@ -1,8 +1,14 @@
 {
   "title": "La Baule",
-  "country": "france",
-  "region": "la-baule",
-  "city": "la-baule",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-baule",
+  "city": "La Baule",
+  "citySlug": "la-baule",
+  "path": "/france/la-baule/la-baule/restaurants",
+  "canonicalPath": "/france/la-baule/la-baule/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "14 Avenue",
@@ -20,7 +26,7 @@
       "name": "Fouquet's",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/la-baule/la-baule/fouquets"
+      "path": "/france/la-baule/la-baule/fouquets-l-a-b"
     },
     {
       "name": "La Table du Castel",
@@ -32,13 +38,13 @@
       "name": "La Table du Saint-Christophe",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/la-baule/la-baule/la-table-du-saint-christophe"
+      "path": "/france/la-baule/la-baule/la-table-du-saintchristophe"
     },
     {
       "name": "Le Castel Marie-Louise",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/la-baule/la-baule/le-castel-marie-louise"
+      "path": "/france/la-baule/la-baule/le-castel-marielouise"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
-  "title": "Gouy Lez Piton",
-  "country": "belgium",
-  "region": "gouy-lez-piton",
-  "city": "gouy-lez-piton",
+  "title": "Gouy lez Piton",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "gouy-lez-piton",
+  "city": "Gouy lez Piton",
+  "citySlug": "gouy-lez-piton",
+  "path": "/belgium/gouy-lez-piton/gouy-lez-piton/restaurants",
+  "canonicalPath": "/belgium/gouy-lez-piton/gouy-lez-piton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Mont-à-Gourmet",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/gouy-lez-piton/gouy-lez-piton/le-mont-gourmet"
+      "path": "/belgium/gouy-lez-piton/gouy-lez-piton/le-montgourmet"
     }
   ]
 }

@@ -1,17 +1,27 @@
 {
   "title": "Gramsbergen",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "gramsbergen",
+  "city": "Gramsbergen",
+  "citySlug": "gramsbergen",
+  "path": "/netherlands/gramsbergen/gramsbergen/restaurants",
+  "canonicalPath": "/netherlands/gramsbergen/gramsbergen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "De Woage",
       "cuisine": "Farm to table, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/netherlands/gramsbergen/gramsbergen/de-woage"
+      "path": "/netherlands/gramsbergen/gramsbergen/de-woage",
+      "award": "★"
     },
     {
       "name": "Restobar de Woage",
       "cuisine": "Farm to table",
       "price": "$$$",
-      "path": "/netherlands/gramsbergen/gramsbergen/RestobarDeWoage"
+      "path": "/netherlands/gramsbergen/gramsbergen/restobar-de-woage"
     }
   ]
 }

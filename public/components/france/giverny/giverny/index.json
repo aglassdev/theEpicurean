@@ -1,20 +1,27 @@
 {
   "title": "Giverny",
-  "country": "france",
-  "region": "giverny",
-  "city": "giverny",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "giverny",
+  "city": "Giverny",
+  "citySlug": "giverny",
+  "path": "/france/giverny/giverny/restaurants",
+  "canonicalPath": "/france/giverny/giverny/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Jardin des Plumes",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/giverny/giverny/le-jardin-des-plumes",
+      "award": "★"
+    },
     {
       "name": "La Musardière",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/giverny/giverny/la-musardire"
-    },
-    {
-      "name": "Le Jardin des Plumes",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/giverny/giverny/le-jardin-des-plumes"
     }
   ]
 }

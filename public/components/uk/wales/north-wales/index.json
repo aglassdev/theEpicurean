@@ -1,35 +1,44 @@
 {
   "title": "North Wales",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "Wales",
+  "regionSlug": "wales",
+  "city": "North Wales",
+  "citySlug": "north-wales",
+  "path": "/uk/wales/north-wales/restaurants",
+  "canonicalPath": "/uk/wales/north-wales/restaurants",
+  "count": 5,
   "restaurants": [
     {
-      "name": "The Wild Pheasant Hotel and Spa",
+      "name": "Pale Hall",
       "cuisine": "Afternoon Tea",
-      "price": "38.00",
-      "path": "/uk/wales/north-wales/TheWildPheasantHotelAndSpa"
-    },
-    {
-      "name": "Ruthin Castle Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/wales/north-wales/RuthinCastleHotel"
+      "price": "28.50",
+      "path": "/uk/wales/north-wales/pale-hall"
     },
     {
       "name": "Plas Dinas Country House",
       "cuisine": "Afternoon Tea",
       "price": "30.95",
-      "path": "/uk/wales/north-wales/PlasDinasCountryHouse"
+      "path": "/uk/wales/north-wales/plas-dinas-country-house"
     },
     {
-      "name": "Pale Hall",
+      "name": "Ruthin Castle Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "28.50",
-      "path": "/uk/wales/north-wales/PaleHall"
+      "price": "35.00",
+      "path": "/uk/wales/north-wales/ruthin-castle-hotel"
     },
     {
       "name": "The Hotel Portmeirion",
       "cuisine": "Afternoon Tea",
       "price": "36.00",
-      "path": "/uk/wales/north-wales/TheHotelPortmeirion"
+      "path": "/uk/wales/north-wales/the-hotel-portmeirion"
+    },
+    {
+      "name": "The Wild Pheasant Hotel and Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "38.00",
+      "path": "/uk/wales/north-wales/the-wild-pheasant-hotel-and-spa"
     }
   ]
 }

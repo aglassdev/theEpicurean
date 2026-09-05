@@ -1,8 +1,14 @@
 {
   "title": "Speloncato",
-  "country": "france",
-  "region": "speloncato",
-  "city": "speloncato",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "speloncato",
+  "city": "Speloncato",
+  "citySlug": "speloncato",
+  "path": "/france/speloncato/speloncato/restaurants",
+  "canonicalPath": "/france/speloncato/speloncato/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "I Salti",

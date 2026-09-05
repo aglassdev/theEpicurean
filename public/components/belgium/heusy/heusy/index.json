@@ -1,8 +1,14 @@
 {
   "title": "Heusy",
-  "country": "belgium",
-  "region": "heusy",
-  "city": "heusy",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "heusy",
+  "city": "Heusy",
+  "citySlug": "heusy",
+  "path": "/belgium/heusy/heusy/restaurants",
+  "canonicalPath": "/belgium/heusy/heusy/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Croustade",

@@ -1,20 +1,27 @@
 {
-  "title": "Vogtsburg Im Kaiserstuhl",
-  "country": "germany",
-  "region": "vogtsburg-im-kaiserstuhl",
-  "city": "vogtsburg-im-kaiserstuhl",
+  "title": "Vogtsburg im Kaiserstuhl",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "vogtsburg-im-kaiserstuhl",
+  "city": "Vogtsburg im Kaiserstuhl",
+  "citySlug": "vogtsburg-im-kaiserstuhl",
+  "path": "/germany/vogtsburg-im-kaiserstuhl/vogtsburg-im-kaiserstuhl/restaurants",
+  "canonicalPath": "/germany/vogtsburg-im-kaiserstuhl/vogtsburg-im-kaiserstuhl/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Schwarzer Adler",
+      "cuisine": "Classic French",
+      "price": "€€€€",
+      "path": "/germany/vogtsburg-im-kaiserstuhl/vogtsburg-im-kaiserstuhl/schwarzer-adler-v-o-g",
+      "award": "★"
+    },
     {
       "name": "Die Achkarrer Krone",
       "cuisine": "Regional Cuisine, Traditional Cuisine",
       "price": "€",
       "path": "/germany/vogtsburg-im-kaiserstuhl/vogtsburg-im-kaiserstuhl/die-achkarrer-krone"
-    },
-    {
-      "name": "Schwarzer Adler",
-      "cuisine": "Classic French",
-      "price": "€€€€",
-      "path": "/germany/vogtsburg-im-kaiserstuhl/vogtsburg-im-kaiserstuhl/schwarzer-adler"
     },
     {
       "name": "Steinbuck Stube",

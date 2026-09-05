@@ -1,14 +1,21 @@
 {
   "title": "Runate",
-  "country": "italy",
-  "region": "runate",
-  "city": "runate",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "runate",
+  "city": "Runate",
+  "citySlug": "runate",
+  "path": "/italy/runate/runate/restaurants",
+  "canonicalPath": "/italy/runate/runate/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Dal Pescatore",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/runate/runate/dal-pescatore"
+      "path": "/italy/runate/runate/dal-pescatore",
+      "award": "★★★"
     }
   ]
 }

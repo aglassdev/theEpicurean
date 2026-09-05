@@ -1,29 +1,39 @@
 {
   "title": "Cardiff",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "cardiff",
+  "city": "Cardiff",
+  "citySlug": "cardiff",
+  "path": "/uk/cardiff/cardiff/restaurants",
+  "canonicalPath": "/uk/cardiff/cardiff/restaurants",
+  "count": 13,
   "restaurants": [
+    {
+      "name": "Gorse",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/cardiff/cardiff/gorse",
+      "award": "★"
+    },
     {
       "name": "Asador 44",
       "cuisine": "Spanish, Mediterranean Cuisine",
       "price": "£££",
-      "path": "/uk/cardiff/cardiff/asador-44"
+      "path": "/uk/cardiff/cardiff/asador44"
     },
     {
       "name": "Cora",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/cardiff/cardiff/cora"
+      "path": "/uk/cardiff/cardiff/cora-c-a-r"
     },
     {
       "name": "ember at No. 5",
       "cuisine": "Modern British",
       "price": "££",
-      "path": "/uk/cardiff/cardiff/ember-at-no-5"
-    },
-    {
-      "name": "Gorse",
-      "cuisine": "Modern British",
-      "price": "££££",
-      "path": "/uk/cardiff/cardiff/gorse"
+      "path": "/uk/cardiff/cardiff/ember-at-no5"
     },
     {
       "name": "Heaneys",
@@ -44,10 +54,22 @@
       "path": "/uk/cardiff/cardiff/hirth"
     },
     {
+      "name": "Ogof",
+      "cuisine": "Country cooking",
+      "price": "$$",
+      "path": "/uk/cardiff/cardiff/ogof"
+    },
+    {
       "name": "Purple Poppadom",
       "cuisine": "Indian",
       "price": "££",
       "path": "/uk/cardiff/cardiff/purple-poppadom"
+    },
+    {
+      "name": "SONDER",
+      "cuisine": "Modern British",
+      "price": "$$",
+      "path": "/uk/cardiff/cardiff/sonder"
     },
     {
       "name": "The Sorting Room",
@@ -59,25 +81,13 @@
       "name": "Thomas",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/cardiff/cardiff/thomas"
-    },
-    {
-      "name": "Ogof",
-      "cuisine": "Country cooking",
-      "price": "$$",
-      "path": "/uk/cardiff/cardiff/Ogof"
-    },
-    {
-      "name": "SONDER",
-      "cuisine": "Modern British",
-      "price": "$$",
-      "path": "/uk/cardiff/cardiff/Sonder"
+      "path": "/uk/cardiff/cardiff/thomas-c-a-r"
     },
     {
       "name": "Thomas, the brasserie",
       "cuisine": "Modern British",
       "price": "$$$",
-      "path": "/uk/cardiff/cardiff/ThomasTheBrasserie"
+      "path": "/uk/cardiff/cardiff/thomas-the-brasserie"
     }
   ]
 }

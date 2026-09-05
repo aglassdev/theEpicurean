@@ -1,14 +1,20 @@
 {
   "title": "Sankt Peter",
-  "country": "germany",
-  "region": "sankt-peter",
-  "city": "sankt-peter",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "sankt-peter",
+  "city": "Sankt Peter",
+  "citySlug": "sankt-peter",
+  "path": "/germany/sankt-peter/sankt-peter/restaurants",
+  "canonicalPath": "/germany/sankt-peter/sankt-peter/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Zur Sonne",
       "cuisine": "Country cooking, Farm to table",
       "price": "€€",
-      "path": "/germany/sankt-peter/sankt-peter/zur-sonne"
+      "path": "/germany/sankt-peter/sankt-peter/zur-sonne-s-a-n"
     }
   ]
 }

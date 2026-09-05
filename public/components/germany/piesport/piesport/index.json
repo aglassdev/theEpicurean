@@ -1,14 +1,21 @@
 {
   "title": "Piesport",
-  "country": "germany",
-  "region": "piesport",
-  "city": "piesport",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "piesport",
+  "city": "Piesport",
+  "citySlug": "piesport",
+  "path": "/germany/piesport/piesport/restaurants",
+  "canonicalPath": "/germany/piesport/piesport/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "schanz. restaurant.",
       "cuisine": "Modern French, Creative",
       "price": "€€€€",
-      "path": "/germany/piesport/piesport/schanz-restaurant"
+      "path": "/germany/piesport/piesport/schanz-restaurant",
+      "award": "★★★"
     }
   ]
 }

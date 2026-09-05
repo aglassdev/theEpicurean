@@ -1,35 +1,47 @@
 {
   "title": "Bonnieux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bonnieux",
+  "city": "Bonnieux",
+  "citySlug": "bonnieux",
+  "path": "/france/bonnieux/bonnieux/restaurants",
+  "canonicalPath": "/france/bonnieux/bonnieux/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "La Table des Amis",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/bonnieux/bonnieux/la-table-des-amis",
+      "award": "★★"
+    },
     {
       "name": "JU - Maison de Cuisine",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/bonnieux/bonnieux/ju-maison-de-cuisine"
+      "path": "/france/bonnieux/bonnieux/ju-maison-de-cuisine",
+      "award": "★"
     },
     {
       "name": "La Bastide",
       "cuisine": "Modern Cuisine, Provençal",
       "price": "€€€€",
-      "path": "/france/bonnieux/bonnieux/la-bastide"
+      "path": "/france/bonnieux/bonnieux/la-bastide",
+      "award": "★"
+    },
+    {
+      "name": "Bistrot Francis",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/bonnieux/bonnieux/bistrot-francis"
     },
     {
       "name": "La Bergerie",
       "cuisine": "Grills, Provençal",
       "price": "€€",
       "path": "/france/bonnieux/bonnieux/la-bergerie"
-    },
-    {
-      "name": "La Table des Amis",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/bonnieux/bonnieux/la-table-des-amis"
-    },
-    {
-      "name": "Bistrot Francis",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/bonnieux/bonnieux/BistrotFrancis"
     }
   ]
 }

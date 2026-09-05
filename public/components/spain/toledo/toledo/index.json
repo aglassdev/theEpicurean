@@ -1,9 +1,22 @@
 {
   "title": "Toledo",
-  "country": "spain",
-  "region": "toledo",
-  "city": "toledo",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "toledo",
+  "city": "Toledo",
+  "citySlug": "toledo",
+  "path": "/spain/toledo/toledo/restaurants",
+  "canonicalPath": "/spain/toledo/toledo/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Iván Cerdeño",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/toledo/toledo/ivn-cerdeo",
+      "award": "★★"
+    },
     {
       "name": "Adolfo",
       "cuisine": "Modern Cuisine",
@@ -14,13 +27,7 @@
       "name": "El Albero",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/spain/toledo/toledo/el-albero"
-    },
-    {
-      "name": "Iván Cerdeño",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/toledo/toledo/ivn-cerdeo"
+      "path": "/spain/toledo/toledo/el-albero-t-o-l"
     },
     {
       "name": "La Cábala",
@@ -38,7 +45,7 @@
       "name": "Víctor Sánchez-Beato",
       "cuisine": "Farm to table",
       "price": "€€",
-      "path": "/spain/toledo/toledo/vctor-snchez-beato"
+      "path": "/spain/toledo/toledo/vctor-snchezbeato"
     }
   ]
 }

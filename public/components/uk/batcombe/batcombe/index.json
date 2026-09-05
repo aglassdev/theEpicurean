@@ -1,14 +1,20 @@
 {
   "title": "Batcombe",
-  "country": "uk",
-  "region": "batcombe",
-  "city": "batcombe",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "batcombe",
+  "city": "Batcombe",
+  "citySlug": "batcombe",
+  "path": "/uk/batcombe/batcombe/restaurants",
+  "canonicalPath": "/uk/batcombe/batcombe/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Three Horseshoes",
       "cuisine": "Traditional British",
       "price": "££",
-      "path": "/uk/batcombe/batcombe/the-three-horseshoes"
+      "path": "/uk/batcombe/batcombe/the-three-horseshoes-b-a-t"
     }
   ]
 }

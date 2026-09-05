@@ -1,6 +1,36 @@
 {
   "title": "Pamplona",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "pamplona",
+  "city": "Pamplona",
+  "citySlug": "pamplona",
+  "path": "/spain/pamplona/pamplona/restaurants",
+  "canonicalPath": "/spain/pamplona/pamplona/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Europa",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/spain/pamplona/pamplona/europa",
+      "award": "★"
+    },
+    {
+      "name": "Kabo",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/pamplona/pamplona/kabo",
+      "award": "★"
+    },
+    {
+      "name": "Rodero",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/pamplona/pamplona/rodero",
+      "award": "★"
+    },
     {
       "name": "Alhambra",
       "cuisine": "Traditional Cuisine",
@@ -14,22 +44,10 @@
       "path": "/spain/pamplona/pamplona/el-mercao"
     },
     {
-      "name": "Europa",
-      "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/spain/pamplona/pamplona/europa"
-    },
-    {
       "name": "Gaucho",
       "cuisine": "Traditional Cuisine",
       "price": "€",
       "path": "/spain/pamplona/pamplona/gaucho"
-    },
-    {
-      "name": "Kabo",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/pamplona/pamplona/kabo"
     },
     {
       "name": "La Bankada",
@@ -50,22 +68,16 @@
       "path": "/spain/pamplona/pamplona/les-amis"
     },
     {
-      "name": "Rodero",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/pamplona/pamplona/rodero"
+      "name": "Picaflor",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/spain/pamplona/pamplona/picaflor"
     },
     {
       "name": "Zurita, Barra y Mantel",
       "cuisine": "Regional European, Contemporary",
       "price": "€€",
       "path": "/spain/pamplona/pamplona/zurita-barra-y-mantel"
-    },
-    {
-      "name": "Picaflor",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/spain/pamplona/pamplona/Picaflor"
     }
   ]
 }

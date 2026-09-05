@@ -1,14 +1,21 @@
 {
-  "title": "Saint Martin Sur La Chambre",
-  "country": "france",
-  "region": "saint-martin-sur-la-chambre",
-  "city": "saint-martin-sur-la-chambre",
+  "title": "Saint Martin sur la Chambre",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-martin-sur-la-chambre",
+  "city": "Saint Martin sur la Chambre",
+  "citySlug": "saint-martin-sur-la-chambre",
+  "path": "/france/saint-martin-sur-la-chambre/saint-martin-sur-la-chambre/restaurants",
+  "canonicalPath": "/france/saint-martin-sur-la-chambre/saint-martin-sur-la-chambre/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Clocher des Pères",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/saint-martin-sur-la-chambre/saint-martin-sur-la-chambre/le-clocher-des-pres"
+      "path": "/france/saint-martin-sur-la-chambre/saint-martin-sur-la-chambre/le-clocher-des-pres",
+      "award": "★"
     }
   ]
 }

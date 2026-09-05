@@ -1,20 +1,27 @@
 {
   "title": "Saint Helier",
-  "country": "uk",
-  "region": "saint-helier",
-  "city": "saint-helier",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "saint-helier",
+  "city": "Saint Helier",
+  "citySlug": "saint-helier",
+  "path": "/uk/saint-helier/saint-helier/restaurants",
+  "canonicalPath": "/uk/saint-helier/saint-helier/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Bohemia",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/saint-helier/saint-helier/bohemia",
+      "award": "★"
+    },
     {
       "name": "Awabi",
       "cuisine": "Asian",
       "price": "££",
       "path": "/uk/saint-helier/saint-helier/awabi"
-    },
-    {
-      "name": "Bohemia",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/saint-helier/saint-helier/bohemia"
     },
     {
       "name": "Samphire",

@@ -1,6 +1,22 @@
 {
   "title": "Vora",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "vora",
+  "city": "Vora",
+  "citySlug": "vora",
+  "path": "/portugal/vora/vora/restaurants",
+  "canonicalPath": "/portugal/vora/vora/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "A Cozinha do Paço",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/portugal/vora/vora/a-cozinha-do-pao",
+      "award": "★"
+    },
     {
       "name": "Cavalariça Évora",
       "cuisine": "Contemporary",
@@ -14,6 +30,12 @@
       "path": "/portugal/vora/vora/dom-joaquim"
     },
     {
+      "name": "Forno da Telha",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/vora/vora/forno-da-telha"
+    },
+    {
       "name": "Hibrido",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -24,18 +46,6 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/portugal/vora/vora/origens"
-    },
-    {
-      "name": "A Cozinha do Paço",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/portugal/vora/vora/ACozinhaDoPao"
-    },
-    {
-      "name": "Forno da Telha",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/portugal/vora/vora/FornoDaTelha"
     }
   ]
 }

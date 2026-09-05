@@ -1,8 +1,14 @@
 {
   "title": "Forest",
-  "country": "belgium",
-  "region": "forest",
-  "city": "forest",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "forest",
+  "city": "Forest",
+  "citySlug": "forest",
+  "path": "/belgium/forest/forest/restaurants",
+  "canonicalPath": "/belgium/forest/forest/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Brugmann",

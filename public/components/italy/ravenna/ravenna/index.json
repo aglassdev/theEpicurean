@@ -1,14 +1,20 @@
 {
   "title": "Ravenna",
-  "country": "italy",
-  "region": "ravenna",
-  "city": "ravenna",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ravenna",
+  "city": "Ravenna",
+  "citySlug": "ravenna",
+  "path": "/italy/ravenna/ravenna/restaurants",
+  "canonicalPath": "/italy/ravenna/ravenna/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Antica Trattoria al Gallo 1909",
       "cuisine": "Italian, Classic Cuisine",
       "price": "€€",
-      "path": "/italy/ravenna/ravenna/antica-trattoria-al-gallo-1909"
+      "path": "/italy/ravenna/ravenna/antica-trattoria-al-gallo1909"
     },
     {
       "name": "L'Acciuga",

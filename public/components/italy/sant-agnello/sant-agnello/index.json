@@ -1,14 +1,21 @@
 {
   "title": "Sant Agnello",
-  "country": "italy",
-  "region": "sant-agnello",
-  "city": "sant-agnello",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "sant-agnello",
+  "city": "Sant Agnello",
+  "citySlug": "sant-agnello",
+  "path": "/italy/sant-agnello/sant-agnello/restaurants",
+  "canonicalPath": "/italy/sant-agnello/sant-agnello/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Don Geppi",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/italy/sant-agnello/sant-agnello/don-geppi"
+      "path": "/italy/sant-agnello/sant-agnello/don-geppi",
+      "award": "★"
     }
   ]
 }

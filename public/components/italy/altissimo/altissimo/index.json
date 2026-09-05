@@ -1,14 +1,21 @@
 {
   "title": "Altissimo",
-  "country": "italy",
-  "region": "altissimo",
-  "city": "altissimo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "altissimo",
+  "city": "Altissimo",
+  "citySlug": "altissimo",
+  "path": "/italy/altissimo/altissimo/restaurants",
+  "canonicalPath": "/italy/altissimo/altissimo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Casin del Gamba",
       "cuisine": "Modern Cuisine, Regional Cuisine",
       "price": "€€€",
-      "path": "/italy/altissimo/altissimo/casin-del-gamba"
+      "path": "/italy/altissimo/altissimo/casin-del-gamba",
+      "award": "★"
     }
   ]
 }

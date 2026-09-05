@@ -1,20 +1,27 @@
 {
   "title": "Sorinnes",
-  "country": "belgium",
-  "region": "sorinnes",
-  "city": "sorinnes",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "sorinnes",
+  "city": "Sorinnes",
+  "citySlug": "sorinnes",
+  "path": "/belgium/sorinnes/sorinnes/restaurants",
+  "canonicalPath": "/belgium/sorinnes/sorinnes/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Hostellerie Gilain",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/belgium/sorinnes/sorinnes/hostellerie-gilain",
+      "award": "★"
+    },
     {
       "name": "Bistro Gourmand",
       "cuisine": "Creative French",
       "price": "€€",
       "path": "/belgium/sorinnes/sorinnes/bistro-gourmand"
-    },
-    {
-      "name": "Hostellerie Gilain",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/belgium/sorinnes/sorinnes/hostellerie-gilain"
     }
   ]
 }

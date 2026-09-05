@@ -1,9 +1,36 @@
 {
   "title": "Ambleside",
-  "country": "uk",
-  "region": "ambleside",
-  "city": "ambleside",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "ambleside",
+  "city": "Ambleside",
+  "citySlug": "ambleside",
+  "path": "/uk/ambleside/ambleside/restaurants",
+  "canonicalPath": "/uk/ambleside/ambleside/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Lake Road Kitchen",
+      "cuisine": "Creative",
+      "price": "££££",
+      "path": "/uk/ambleside/ambleside/lake-road-kitchen",
+      "award": "★"
+    },
+    {
+      "name": "Old Stamp House",
+      "cuisine": "Modern Cuisine, Regional Cuisine",
+      "price": "££££",
+      "path": "/uk/ambleside/ambleside/old-stamp-house",
+      "award": "★"
+    },
+    {
+      "name": "The Samling",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/ambleside/ambleside/the-samling",
+      "award": "★"
+    },
     {
       "name": "Drunken Duck Inn",
       "cuisine": "Modern British",
@@ -11,28 +38,10 @@
       "path": "/uk/ambleside/ambleside/drunken-duck-inn"
     },
     {
-      "name": "Lake Road Kitchen",
-      "cuisine": "Creative",
-      "price": "££££",
-      "path": "/uk/ambleside/ambleside/lake-road-kitchen"
-    },
-    {
-      "name": "Old Stamp House",
-      "cuisine": "Modern Cuisine, Regional Cuisine",
-      "price": "££££",
-      "path": "/uk/ambleside/ambleside/old-stamp-house"
-    },
-    {
       "name": "Rowan",
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/ambleside/ambleside/rowan"
-    },
-    {
-      "name": "The Samling",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/ambleside/ambleside/the-samling"
     },
     {
       "name": "THE SCHELLY",

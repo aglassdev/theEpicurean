@@ -1,6 +1,29 @@
 {
   "title": "Krakw",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "krakw",
+  "city": "Krakw",
+  "citySlug": "krakw",
+  "path": "/poland/krakw/krakw/restaurants",
+  "canonicalPath": "/poland/krakw/krakw/restaurants",
+  "count": 27,
   "restaurants": [
+    {
+      "name": "Bottiglieria 1881",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/poland/krakw/krakw/bottiglieria1881",
+      "award": "★★"
+    },
+    {
+      "name": "Nat Bistro",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/poland/krakw/krakw/nat-bistro",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Amarylis",
       "cuisine": "Modern Cuisine",
@@ -14,10 +37,10 @@
       "path": "/poland/krakw/krakw/artesse"
     },
     {
-      "name": "Bottiglieria 1881",
+      "name": "Artesse by Juanlu Fernández",
       "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/poland/krakw/krakw/bottiglieria-1881"
+      "price": "$$$$",
+      "path": "/poland/krakw/krakw/artesse-by-juanlu-fernndez"
     },
     {
       "name": "Bufet KRK",
@@ -47,7 +70,7 @@
       "name": "Filipa 18",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/poland/krakw/krakw/filipa-18"
+      "path": "/poland/krakw/krakw/filipa18"
     },
     {
       "name": "Fiorentina",
@@ -72,6 +95,12 @@
       "cuisine": "Korean, Japanese",
       "price": "€",
       "path": "/poland/krakw/krakw/hankki"
+    },
+    {
+      "name": "Huma",
+      "cuisine": "Meats and Grills",
+      "price": "$$$",
+      "path": "/poland/krakw/krakw/huma"
     },
     {
       "name": "Karakter",
@@ -119,7 +148,7 @@
       "name": "NOTA_RESTO by Tomasz Leśniak",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/poland/krakw/krakw/nota_resto-by-tomasz-leniak"
+      "path": "/poland/krakw/krakw/notaresto-by-tomasz-leniak"
     },
     {
       "name": "Pod Nosem",
@@ -134,34 +163,16 @@
       "path": "/poland/krakw/krakw/pod-r"
     },
     {
+      "name": "Stradomska 12",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/krakw/krakw/stradomska12"
+    },
+    {
       "name": "Vamos!",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
       "path": "/poland/krakw/krakw/vamos"
-    },
-    {
-      "name": "Nat Bistro",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/poland/krakw/krakw/NatBistro"
-    },
-    {
-      "name": "Artesse by Juanlu Fernández",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/poland/krakw/krakw/ArtesseByJuanluFernndez"
-    },
-    {
-      "name": "Huma",
-      "cuisine": "Meats and Grills",
-      "price": "$$$",
-      "path": "/poland/krakw/krakw/Huma"
-    },
-    {
-      "name": "Stradomska 12",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/poland/krakw/krakw/Stradomska12"
     }
   ]
 }

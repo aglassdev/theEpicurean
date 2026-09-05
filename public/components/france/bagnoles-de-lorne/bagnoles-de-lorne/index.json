@@ -1,20 +1,27 @@
 {
-  "title": "Bagnoles De Lorne",
-  "country": "france",
-  "region": "bagnoles-de-lorne",
-  "city": "bagnoles-de-lorne",
+  "title": "Bagnoles de Lorne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bagnoles-de-lorne",
+  "city": "Bagnoles de Lorne",
+  "citySlug": "bagnoles-de-lorne",
+  "path": "/france/bagnoles-de-lorne/bagnoles-de-lorne/restaurants",
+  "canonicalPath": "/france/bagnoles-de-lorne/bagnoles-de-lorne/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Manoir du Lys",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/bagnoles-de-lorne/bagnoles-de-lorne/le-manoir-du-lys",
+      "award": "★"
+    },
     {
       "name": "Ô Gayot",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/bagnoles-de-lorne/bagnoles-de-lorne/gayot"
-    },
-    {
-      "name": "Le Manoir du Lys",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/bagnoles-de-lorne/bagnoles-de-lorne/le-manoir-du-lys"
     }
   ]
 }

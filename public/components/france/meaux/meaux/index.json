@@ -1,8 +1,14 @@
 {
   "title": "Meaux",
-  "country": "france",
-  "region": "meaux",
-  "city": "meaux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "meaux",
+  "city": "Meaux",
+  "citySlug": "meaux",
+  "path": "/france/meaux/meaux/restaurants",
+  "canonicalPath": "/france/meaux/meaux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant du Champ de Mars",

@@ -1,17 +1,27 @@
 {
-  "title": "Manila - Metro Manila",
+  "title": "Manila Metro Manila",
+  "country": "Philippines",
+  "countrySlug": "the-philippines",
+  "region": null,
+  "regionSlug": "manila-metro-manila",
+  "city": "Manila Metro Manila",
+  "citySlug": "manila-metro-manila",
+  "path": "/the-philippines/manila-metro-manila/manila-metro-manila/restaurants",
+  "canonicalPath": "/the-philippines/manila-metro-manila/manila-metro-manila/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Cabel",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/manila-metro-manila/manila-metro-manila/Cabel"
+      "path": "/the-philippines/manila-metro-manila/manila-metro-manila/cabel",
+      "award": "Bib Gourmand"
     },
     {
       "name": "El Poco Cantina (Malate)",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/the-philippines/manila-metro-manila/manila-metro-manila/ElPocoCantinaMalate"
+      "path": "/the-philippines/manila-metro-manila/manila-metro-manila/el-poco-cantina-malate"
     }
   ]
 }

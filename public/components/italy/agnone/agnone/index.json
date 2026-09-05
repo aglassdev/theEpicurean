@@ -1,14 +1,21 @@
 {
   "title": "Agnone",
-  "country": "italy",
-  "region": "agnone",
-  "city": "agnone",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "agnone",
+  "city": "Agnone",
+  "citySlug": "agnone",
+  "path": "/italy/agnone/agnone/restaurants",
+  "canonicalPath": "/italy/agnone/agnone/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Locanda Mammì",
       "cuisine": "Modern Cuisine, Classic Cuisine",
       "price": "€€",
-      "path": "/italy/agnone/agnone/locanda-mamm"
+      "path": "/italy/agnone/agnone/locanda-mamm",
+      "award": "★"
     }
   ]
 }

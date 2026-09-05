@@ -1,0 +1,26 @@
+{
+  "title": "Sebastopol",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Sebastopol",
+  "citySlug": "sebastopol",
+  "path": "/usa/other/sebastopol/restaurants",
+  "canonicalPath": "/usa/california/sebastopol/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Khom Loi",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/usa/california/sebastopol/khom-loi"
+    },
+    {
+      "name": "Ramen Gaijin",
+      "cuisine": "Japanese, Ramen",
+      "price": "$$",
+      "path": "/usa/california/sebastopol/ramen-gaijin"
+    }
+  ]
+}

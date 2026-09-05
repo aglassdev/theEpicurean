@@ -1,14 +1,21 @@
 {
   "title": "Roubion",
-  "country": "france",
-  "region": "roubion",
-  "city": "roubion",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "roubion",
+  "city": "Roubion",
+  "citySlug": "roubion",
+  "path": "/france/roubion/roubion/restaurants",
+  "canonicalPath": "/france/roubion/roubion/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge Quintessence",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/roubion/roubion/auberge-quintessence"
+      "path": "/france/roubion/roubion/auberge-quintessence",
+      "award": "★"
     }
   ]
 }

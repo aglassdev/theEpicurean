@@ -1,11 +1,20 @@
 {
-  "title": "Novo mesto",
+  "title": "Novo Mesto",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "novo-mesto",
+  "city": "Novo Mesto",
+  "citySlug": "novo-mesto",
+  "path": "/slovenia/novo-mesto/novo-mesto/restaurants",
+  "canonicalPath": "/slovenia/novo-mesto/novo-mesto/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gostilnica Barba",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/slovenia/novo-mesto/novo-mesto/GostilnicaBarba"
+      "path": "/slovenia/novo-mesto/novo-mesto/gostilnica-barba"
     }
   ]
 }

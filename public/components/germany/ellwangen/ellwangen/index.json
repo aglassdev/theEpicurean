@@ -1,14 +1,20 @@
 {
   "title": "Ellwangen",
-  "country": "germany",
-  "region": "ellwangen",
-  "city": "ellwangen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "ellwangen",
+  "city": "Ellwangen",
+  "citySlug": "ellwangen",
+  "path": "/germany/ellwangen/ellwangen/restaurants",
+  "canonicalPath": "/germany/ellwangen/ellwangen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hirsch",
       "cuisine": "Regional Cuisine, Seasonal Cuisine",
       "price": "€€",
-      "path": "/germany/ellwangen/ellwangen/hirsch"
+      "path": "/germany/ellwangen/ellwangen/hirsch-e-l-l"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
-  "title": "Auerbach In Der Oberpfalz",
-  "country": "germany",
-  "region": "auerbach-in-der-oberpfalz",
-  "city": "auerbach-in-der-oberpfalz",
+  "title": "Auerbach in der Oberpfalz",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "auerbach-in-der-oberpfalz",
+  "city": "Auerbach in der Oberpfalz",
+  "citySlug": "auerbach-in-der-oberpfalz",
+  "path": "/germany/auerbach-in-der-oberpfalz/auerbach-in-der-oberpfalz/restaurants",
+  "canonicalPath": "/germany/auerbach-in-der-oberpfalz/auerbach-in-der-oberpfalz/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "SoulFood",
       "cuisine": "International, Farm to table",
       "price": "€€€",
-      "path": "/germany/auerbach-in-der-oberpfalz/auerbach-in-der-oberpfalz/soulfood"
+      "path": "/germany/auerbach-in-der-oberpfalz/auerbach-in-der-oberpfalz/soulfood",
+      "award": "★"
     }
   ]
 }

@@ -1,20 +1,48 @@
 {
   "title": "Nmes",
-  "country": "france",
-  "region": "nmes",
-  "city": "nmes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "nmes",
+  "city": "Nmes",
+  "citySlug": "nmes",
+  "path": "/france/nmes/nmes/restaurants",
+  "canonicalPath": "/france/nmes/nmes/restaurants",
+  "count": 12,
   "restaurants": [
+    {
+      "name": "Duende",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/nmes/nmes/duende",
+      "award": "★★"
+    },
+    {
+      "name": "Jérôme Nutile",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/nmes/nmes/jrme-nutile",
+      "award": "★"
+    },
+    {
+      "name": "Rouge",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/nmes/nmes/rouge",
+      "award": "★"
+    },
+    {
+      "name": "Skab",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/nmes/nmes/skab",
+      "award": "★"
+    },
     {
       "name": "Aux Plaisirs des Halles",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/nmes/nmes/aux-plaisirs-des-halles"
-    },
-    {
-      "name": "Duende",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/nmes/nmes/duende"
     },
     {
       "name": "Gigi",
@@ -29,12 +57,6 @@
       "path": "/france/nmes/nmes/gigi-table-mditerranenne"
     },
     {
-      "name": "Jérôme Nutile",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/nmes/nmes/jrme-nutile"
-    },
-    {
       "name": "La Pie qui Couette",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
@@ -44,7 +66,7 @@
       "name": "La Table du 2",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/nmes/nmes/la-table-du-2"
+      "path": "/france/nmes/nmes/la-table-du2"
     },
     {
       "name": "Le Bistr'AU - Le Mas de Boudan",
@@ -57,18 +79,6 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
       "path": "/france/nmes/nmes/menna"
-    },
-    {
-      "name": "Rouge",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/nmes/nmes/rouge"
-    },
-    {
-      "name": "Skab",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/nmes/nmes/skab"
     },
     {
       "name": "Vincent Croizard",

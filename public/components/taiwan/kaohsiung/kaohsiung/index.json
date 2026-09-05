@@ -1,335 +1,371 @@
 {
   "title": "Kaohsiung",
+  "country": "Taiwan",
+  "countrySlug": "taiwan",
+  "region": null,
+  "regionSlug": "kaohsiung",
+  "city": "Kaohsiung",
+  "citySlug": "kaohsiung",
+  "path": "/taiwan/kaohsiung/kaohsiung/restaurants",
+  "canonicalPath": "/taiwan/kaohsiung/kaohsiung/restaurants",
+  "count": 55,
   "restaurants": [
-    {
-      "name": "HAILI",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/Haili"
-    },
     {
       "name": "Hābu",
       "cuisine": "Creative",
       "price": "$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/Hbu"
+      "path": "/taiwan/kaohsiung/kaohsiung/hbu",
+      "award": "★"
+    },
+    {
+      "name": "HAILI",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/haili",
+      "award": "★"
     },
     {
       "name": "Nibbon",
       "cuisine": "European Contemporary",
       "price": "$$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/Nibbon"
+      "path": "/taiwan/kaohsiung/kaohsiung/nibbon",
+      "award": "★"
     },
     {
       "name": "Sho",
       "cuisine": "Japanese",
       "price": "$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/Sho"
+      "path": "/taiwan/kaohsiung/kaohsiung/sho",
+      "award": "★"
     },
     {
       "name": "the FRONT HOUSE",
       "cuisine": "Innovative",
       "price": "$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/TheFrontHouse"
+      "path": "/taiwan/kaohsiung/kaohsiung/the-front-house",
+      "award": "★"
     },
     {
       "name": "Bei Gang Tsai Rice Tube (Yancheng)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/BeiGangTsaiRiceTubeYancheng"
+      "path": "/taiwan/kaohsiung/kaohsiung/bei-gang-tsai-rice-tube-yancheng",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Caizong Li",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/CaizongLi"
+      "path": "/taiwan/kaohsiung/kaohsiung/caizong-li",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Chao Ming",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/ChaoMing"
+      "path": "/taiwan/kaohsiung/kaohsiung/chao-ming",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Chun Lan Gua Bao",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/ChunLanGuaBao"
+      "path": "/taiwan/kaohsiung/kaohsiung/chun-lan-gua-bao",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Cianjin Braised Pork Rice",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/CianjinBraisedPorkRice"
+      "path": "/taiwan/kaohsiung/kaohsiung/cianjin-braised-pork-rice",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Ciao Zai Tou Huang's Braised Pork Rice (Ciaotou)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/CiaoZaiTouHuangsBraisedPorkRiceCiaotou"
+      "path": "/taiwan/kaohsiung/kaohsiung/ciao-zai-tou-huangs-braised-pork-rice-ciaotou",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Erge Shih Tang",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/ErgeShihTang"
+      "path": "/taiwan/kaohsiung/kaohsiung/erge-shih-tang",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hou Chi Duck Rice",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/HouChiDuckRice"
+      "path": "/taiwan/kaohsiung/kaohsiung/hou-chi-duck-rice",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hsiu Ming",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/HsiuMing"
+      "path": "/taiwan/kaohsiung/kaohsiung/hsiu-ming",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hu Dong Beef",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/HuDongBeef"
+      "path": "/taiwan/kaohsiung/kaohsiung/hu-dong-beef",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hung Chi Rice Shop",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/HungChiRiceShop"
+      "path": "/taiwan/kaohsiung/kaohsiung/hung-chi-rice-shop",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Ibu Kitchen",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/IbuKitchen"
+      "path": "/taiwan/kaohsiung/kaohsiung/ibu-kitchen",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Joes (Gangshan)",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/JoesGangshan"
+      "path": "/taiwan/kaohsiung/kaohsiung/joes-gangshan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Liang Chia Pig Knuckle",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/LiangChiaPigKnuckle"
+      "path": "/taiwan/kaohsiung/kaohsiung/liang-chia-pig-knuckle",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Liao Chi Migao",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/LiaoChiMigao"
+      "path": "/taiwan/kaohsiung/kaohsiung/liao-chi-migao",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Mi Yuan Tzu Steamed Glutinous Rice",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/MiYuanTzuSteamedGlutinousRice"
+      "path": "/taiwan/kaohsiung/kaohsiung/mi-yuan-tzu-steamed-glutinous-rice",
+      "award": "Bib Gourmand"
     },
     {
       "name": "NIU LAO DA (Zihciang 2nd Road)",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/NiuLaoDaZihciang2ndRoad"
+      "path": "/taiwan/kaohsiung/kaohsiung/niu-lao-da-zihciang2nd-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Simmer House",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/SimmerHouse"
+      "path": "/taiwan/kaohsiung/kaohsiung/simmer-house",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Thai Yuan",
       "cuisine": "Thai",
       "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/ThaiYuan"
+      "path": "/taiwan/kaohsiung/kaohsiung/thai-yuan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yang Bao Bao (Chaoming Road)",
       "cuisine": "Dumplings",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/YangBaoBaoChaomingRoad"
+      "path": "/taiwan/kaohsiung/kaohsiung/yang-bao-bao-chaoming-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yung Yen",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/YungYen"
-    },
-    {
-      "name": "A Fung's Harmony Cuisine",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/AFungsHarmonyCuisine"
-    },
-    {
-      "name": "Anchovy",
-      "cuisine": "European Contemporary",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/Anchovy"
-    },
-    {
-      "name": "Apis Grill",
-      "cuisine": "Barbecue",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/ApisGrill"
-    },
-    {
-      "name": "Bo Home",
-      "cuisine": "Taiwanese",
-      "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/BoHome"
-    },
-    {
-      "name": "CRATAIN",
-      "cuisine": "European Contemporary",
-      "price": "$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/Cratain"
-    },
-    {
-      "name": "Chang Sheng 29",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/ChangSheng29"
-    },
-    {
-      "name": "Cheng Tsung Duck Rice",
-      "cuisine": "Small eats",
-      "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/ChengTsungDuckRice"
-    },
-    {
-      "name": "Cheng's Noodles",
-      "cuisine": "Noodles",
-      "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/ChengsNoodles"
-    },
-    {
-      "name": "Cho",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/Cho"
-    },
-    {
-      "name": "Crab's House",
-      "cuisine": "Seafood",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/CrabsHouse"
-    },
-    {
-      "name": "Good Crab House",
-      "cuisine": "Seafood",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/GoodCrabHouse"
-    },
-    {
-      "name": "J Parc",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/JParc"
-    },
-    {
-      "name": "Jui Cuisine",
-      "cuisine": "Creative",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/JuiCuisine"
-    },
-    {
-      "name": "Kuca Seafood",
-      "cuisine": "Seafood",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/KucaSeafood"
-    },
-    {
-      "name": "Li.nu",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/Linu"
-    },
-    {
-      "name": "MU",
-      "cuisine": "Innovative",
-      "price": "$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/Mu"
-    },
-    {
-      "name": "Mai Yen Shun",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/MaiYenShun"
-    },
-    {
-      "name": "Mei Liang Jia",
-      "cuisine": "Small eats",
-      "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/MeiLiangJia"
-    },
-    {
-      "name": "Old New Taiwanese Cuisine (Jiuru 2nd Road)",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/OldNewTaiwaneseCuisineJiuru2ndRoad"
-    },
-    {
-      "name": "Paul's Canteen",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/PaulsCanteen"
-    },
-    {
-      "name": "Sushi Mikoshi",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/SushiMikoshi"
-    },
-    {
-      "name": "Syan Syang",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/SyanSyang"
-    },
-    {
-      "name": "Temperature Studio",
-      "cuisine": "Innovative",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/TemperatureStudio"
-    },
-    {
-      "name": "The Borage",
-      "cuisine": "Vegetarian",
-      "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/TheBorage"
+      "path": "/taiwan/kaohsiung/kaohsiung/yung-yen",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Thomas Chien",
       "cuisine": "French Contemporary",
       "price": "$$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/ThomasChien"
+      "path": "/taiwan/kaohsiung/kaohsiung/thomas-chien",
+      "award": "Green Star"
+    },
+    {
+      "name": "A Fung's Harmony Cuisine",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/a-fungs-harmony-cuisine"
+    },
+    {
+      "name": "Anchovy",
+      "cuisine": "European Contemporary",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/anchovy"
+    },
+    {
+      "name": "Apis Grill",
+      "cuisine": "Barbecue",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/apis-grill"
+    },
+    {
+      "name": "Bo Home",
+      "cuisine": "Taiwanese",
+      "price": "$",
+      "path": "/taiwan/kaohsiung/kaohsiung/bo-home"
+    },
+    {
+      "name": "Chang Sheng 29",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/chang-sheng29"
+    },
+    {
+      "name": "Cheng Tsung Duck Rice",
+      "cuisine": "Small eats",
+      "price": "$",
+      "path": "/taiwan/kaohsiung/kaohsiung/cheng-tsung-duck-rice"
+    },
+    {
+      "name": "Cheng's Noodles",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/taiwan/kaohsiung/kaohsiung/chengs-noodles"
+    },
+    {
+      "name": "Cho",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/cho"
+    },
+    {
+      "name": "Crab's House",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/crabs-house"
+    },
+    {
+      "name": "CRATAIN",
+      "cuisine": "European Contemporary",
+      "price": "$$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/cratain"
+    },
+    {
+      "name": "Good Crab House",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/good-crab-house"
+    },
+    {
+      "name": "J Parc",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/j-parc"
+    },
+    {
+      "name": "Jui Cuisine",
+      "cuisine": "Creative",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/jui-cuisine"
+    },
+    {
+      "name": "Kuca Seafood",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/kuca-seafood"
+    },
+    {
+      "name": "Li.nu",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/linu"
+    },
+    {
+      "name": "Mai Yen Shun",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/mai-yen-shun"
+    },
+    {
+      "name": "Mei Liang Jia",
+      "cuisine": "Small eats",
+      "price": "$",
+      "path": "/taiwan/kaohsiung/kaohsiung/mei-liang-jia"
+    },
+    {
+      "name": "MU",
+      "cuisine": "Innovative",
+      "price": "$$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/mu"
+    },
+    {
+      "name": "Old New Taiwanese Cuisine (Jiuru 2nd Road)",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/old-new-taiwanese-cuisine-jiuru2nd-road"
+    },
+    {
+      "name": "Paul's Canteen",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/pauls-canteen"
+    },
+    {
+      "name": "Sushi Mikoshi",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/sushi-mikoshi"
+    },
+    {
+      "name": "Syan Syang",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/syan-syang"
+    },
+    {
+      "name": "Temperature Studio",
+      "cuisine": "Innovative",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/temperature-studio"
+    },
+    {
+      "name": "The Borage",
+      "cuisine": "Vegetarian",
+      "price": "$$",
+      "path": "/taiwan/kaohsiung/kaohsiung/the-borage"
     },
     {
       "name": "Three Meals (Lingya)",
       "cuisine": "Taiwanese",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/ThreeMealsLingya"
+      "path": "/taiwan/kaohsiung/kaohsiung/three-meals-lingya"
     },
     {
       "name": "Three Wheels",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/kaohsiung/kaohsiung/ThreeWheels"
+      "path": "/taiwan/kaohsiung/kaohsiung/three-wheels"
     },
     {
       "name": "Tien Shan (Sinsing)",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/TienShanSinsing"
+      "path": "/taiwan/kaohsiung/kaohsiung/tien-shan-sinsing"
     },
     {
       "name": "Xiantaosu",
       "cuisine": "Vegetarian",
       "price": "$$",
-      "path": "/taiwan/kaohsiung/kaohsiung/Xiantaosu"
+      "path": "/taiwan/kaohsiung/kaohsiung/xiantaosu"
     }
   ]
 }

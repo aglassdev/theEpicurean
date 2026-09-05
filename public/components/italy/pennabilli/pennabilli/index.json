@@ -1,14 +1,21 @@
 {
   "title": "Pennabilli",
-  "country": "italy",
-  "region": "pennabilli",
-  "city": "pennabilli",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pennabilli",
+  "city": "Pennabilli",
+  "citySlug": "pennabilli",
+  "path": "/italy/pennabilli/pennabilli/restaurants",
+  "canonicalPath": "/italy/pennabilli/pennabilli/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Piastrino",
       "cuisine": "Country cooking, Creative",
       "price": "€€€",
-      "path": "/italy/pennabilli/pennabilli/il-piastrino"
+      "path": "/italy/pennabilli/pennabilli/il-piastrino",
+      "award": "★"
     }
   ]
 }

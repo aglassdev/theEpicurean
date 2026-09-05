@@ -1,14 +1,20 @@
 {
   "title": "Attard",
-  "country": "malta",
-  "region": "attard",
-  "city": "attard",
+  "country": "Malta",
+  "countrySlug": "malta",
+  "region": null,
+  "regionSlug": "attard",
+  "city": "Attard",
+  "citySlug": "attard",
+  "path": "/malta/attard/attard/restaurants",
+  "canonicalPath": "/malta/attard/attard/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Terroir",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
-      "path": "/malta/attard/attard/terroir"
+      "path": "/malta/attard/attard/terroir-a-t-t"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Eijsden",
-  "country": "netherlands",
-  "region": "eijsden",
-  "city": "eijsden",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "eijsden",
+  "city": "Eijsden",
+  "citySlug": "eijsden",
+  "path": "/netherlands/eijsden/eijsden/restaurants",
+  "canonicalPath": "/netherlands/eijsden/eijsden/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Create by Guido Braeken",
       "cuisine": "Modern French",
       "price": "€€€€",
-      "path": "/netherlands/eijsden/eijsden/create-by-guido-braeken"
+      "path": "/netherlands/eijsden/eijsden/create-by-guido-braeken",
+      "award": "★★"
     },
     {
       "name": "Maes, Cuisine du Terroir",

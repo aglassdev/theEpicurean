@@ -1,14 +1,21 @@
 {
   "title": "Koewacht",
-  "country": "netherlands",
-  "region": "koewacht",
-  "city": "koewacht",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "koewacht",
+  "city": "Koewacht",
+  "citySlug": "koewacht",
+  "path": "/netherlands/koewacht/koewacht/restaurants",
+  "canonicalPath": "/netherlands/koewacht/koewacht/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "'t Vlasbloemeken",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/netherlands/koewacht/koewacht/t-vlasbloemeken"
+      "path": "/netherlands/koewacht/koewacht/t-vlasbloemeken",
+      "award": "★"
     }
   ]
 }

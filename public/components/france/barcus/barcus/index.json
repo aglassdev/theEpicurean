@@ -1,8 +1,14 @@
 {
   "title": "Barcus",
-  "country": "france",
-  "region": "barcus",
-  "city": "barcus",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "barcus",
+  "city": "Barcus",
+  "citySlug": "barcus",
+  "path": "/france/barcus/barcus/restaurants",
+  "canonicalPath": "/france/barcus/barcus/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison Chilo",

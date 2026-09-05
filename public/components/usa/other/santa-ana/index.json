@@ -1,0 +1,26 @@
+{
+  "title": "Santa Ana",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Santa Ana",
+  "citySlug": "santa-ana",
+  "path": "/usa/other/santa-ana/restaurants",
+  "canonicalPath": "/usa/california/santa-ana/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Lola Gaspar",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/usa/california/santa-ana/lola-gaspar"
+    },
+    {
+      "name": "Omakase by Gino",
+      "cuisine": "Japanese, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/santa-ana/omakase-by-gino"
+    }
+  ]
+}

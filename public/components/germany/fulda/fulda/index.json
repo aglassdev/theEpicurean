@@ -1,20 +1,27 @@
 {
   "title": "Fulda",
-  "country": "germany",
-  "region": "fulda",
-  "city": "fulda",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "fulda",
+  "city": "Fulda",
+  "citySlug": "fulda",
+  "path": "/germany/fulda/fulda/restaurants",
+  "canonicalPath": "/germany/fulda/fulda/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Christian & Friends, Tastekitchen",
+      "cuisine": "Modern Cuisine, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/fulda/fulda/christian-friends-tastekitchen",
+      "award": "★"
+    },
     {
       "name": "1906",
       "cuisine": "Contemporary",
       "price": "€€€",
       "path": "/germany/fulda/fulda/1906"
-    },
-    {
-      "name": "Christian & Friends, Tastekitchen",
-      "cuisine": "Modern Cuisine, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/germany/fulda/fulda/christian-friends-tastekitchen"
     },
     {
       "name": "Goldener Karpfen",

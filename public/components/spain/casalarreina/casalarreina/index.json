@@ -1,8 +1,14 @@
 {
   "title": "Casalarreina",
-  "country": "spain",
-  "region": "casalarreina",
-  "city": "casalarreina",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "casalarreina",
+  "city": "Casalarreina",
+  "citySlug": "casalarreina",
+  "path": "/spain/casalarreina/casalarreina/restaurants",
+  "canonicalPath": "/spain/casalarreina/casalarreina/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Vieja Bodega",
@@ -14,7 +20,7 @@
       "name": "Lumbre",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/spain/casalarreina/casalarreina/lumbre"
+      "path": "/spain/casalarreina/casalarreina/lumbre-c-a-s"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Herrliberg",
-  "country": "switzerland",
-  "region": "herrliberg",
-  "city": "herrliberg",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "herrliberg",
+  "city": "Herrliberg",
+  "citySlug": "herrliberg",
+  "path": "/switzerland/herrliberg/herrliberg/restaurants",
+  "canonicalPath": "/switzerland/herrliberg/herrliberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Buech",

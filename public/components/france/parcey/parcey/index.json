@@ -1,8 +1,14 @@
 {
   "title": "Parcey",
-  "country": "france",
-  "region": "parcey",
-  "city": "parcey",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "parcey",
+  "city": "Parcey",
+  "citySlug": "parcey",
+  "path": "/france/parcey/parcey/restaurants",
+  "canonicalPath": "/france/parcey/parcey/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Jardins Fleuris",

@@ -1,8 +1,14 @@
 {
   "title": "Surat Thani",
-  "country": "thailand",
-  "region": "surat-thani",
-  "city": "surat-thani",
+  "country": "Thailand",
+  "countrySlug": "thailand",
+  "region": null,
+  "regionSlug": "surat-thani",
+  "city": "Surat Thani",
+  "citySlug": "surat-thani",
+  "path": "/thailand/surat-thani/surat-thani/restaurants",
+  "canonicalPath": "/thailand/surat-thani/surat-thani/restaurants",
+  "count": 15,
   "restaurants": [
     {
       "name": "Day & Night",
@@ -50,7 +56,7 @@
       "name": "Lam Phu 2",
       "cuisine": "Seafood",
       "price": "฿฿",
-      "path": "/thailand/surat-thani/surat-thani/lam-phu-2"
+      "path": "/thailand/surat-thani/surat-thani/lam-phu2"
     },
     {
       "name": "Lian Tai",

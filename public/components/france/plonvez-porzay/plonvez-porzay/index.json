@@ -1,14 +1,20 @@
 {
   "title": "Plonvez Porzay",
-  "country": "france",
-  "region": "plonvez-porzay",
-  "city": "plonvez-porzay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "plonvez-porzay",
+  "city": "Plonvez Porzay",
+  "citySlug": "plonvez-porzay",
+  "path": "/france/plonvez-porzay/plonvez-porzay/restaurants",
+  "canonicalPath": "/france/plonvez-porzay/plonvez-porzay/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Plage",
       "cuisine": "Seafood",
       "price": "€€€",
-      "path": "/france/plonvez-porzay/plonvez-porzay/la-plage"
+      "path": "/france/plonvez-porzay/plonvez-porzay/la-plage-p-l-o"
     }
   ]
 }

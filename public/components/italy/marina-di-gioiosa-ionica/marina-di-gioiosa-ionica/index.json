@@ -1,14 +1,21 @@
 {
-  "title": "Marina Di Gioiosa Ionica",
-  "country": "italy",
-  "region": "marina-di-gioiosa-ionica",
-  "city": "marina-di-gioiosa-ionica",
+  "title": "Marina di Gioiosa Ionica",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "marina-di-gioiosa-ionica",
+  "city": "Marina di Gioiosa Ionica",
+  "citySlug": "marina-di-gioiosa-ionica",
+  "path": "/italy/marina-di-gioiosa-ionica/marina-di-gioiosa-ionica/restaurants",
+  "canonicalPath": "/italy/marina-di-gioiosa-ionica/marina-di-gioiosa-ionica/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gambero Rosso",
       "cuisine": "Seafood",
       "price": "€€€",
-      "path": "/italy/marina-di-gioiosa-ionica/marina-di-gioiosa-ionica/gambero-rosso"
+      "path": "/italy/marina-di-gioiosa-ionica/marina-di-gioiosa-ionica/gambero-rosso",
+      "award": "★"
     }
   ]
 }

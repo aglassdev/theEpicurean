@@ -1,8 +1,14 @@
 {
   "title": "Vesc",
-  "country": "france",
-  "region": "vesc",
-  "city": "vesc",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vesc",
+  "city": "Vesc",
+  "citySlug": "vesc",
+  "path": "/france/vesc/vesc/restaurants",
+  "canonicalPath": "/france/vesc/vesc/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chez Mon Jules",

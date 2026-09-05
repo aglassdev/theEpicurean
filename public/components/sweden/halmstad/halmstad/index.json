@@ -1,8 +1,14 @@
 {
   "title": "Halmstad",
-  "country": "sweden",
-  "region": "halmstad",
-  "city": "halmstad",
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "region": null,
+  "regionSlug": "halmstad",
+  "city": "Halmstad",
+  "citySlug": "halmstad",
+  "path": "/sweden/halmstad/halmstad/restaurants",
+  "canonicalPath": "/sweden/halmstad/halmstad/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fyr",

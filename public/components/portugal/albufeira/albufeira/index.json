@@ -1,20 +1,27 @@
 {
   "title": "Albufeira",
-  "country": "portugal",
-  "region": "albufeira",
-  "city": "albufeira",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "albufeira",
+  "city": "Albufeira",
+  "citySlug": "albufeira",
+  "path": "/portugal/albufeira/albufeira/restaurants",
+  "canonicalPath": "/portugal/albufeira/albufeira/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Vila Joya",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/albufeira/albufeira/vila-joya",
+      "award": "★★"
+    },
     {
       "name": "Al Quimia",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/portugal/albufeira/albufeira/al-quimia"
-    },
-    {
-      "name": "Vila Joya",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/albufeira/albufeira/vila-joya"
     }
   ]
 }

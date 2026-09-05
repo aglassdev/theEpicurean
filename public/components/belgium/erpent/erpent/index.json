@@ -1,8 +1,14 @@
 {
   "title": "Erpent",
-  "country": "belgium",
-  "region": "erpent",
-  "city": "erpent",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "erpent",
+  "city": "Erpent",
+  "citySlug": "erpent",
+  "path": "/belgium/erpent/erpent/restaurants",
+  "canonicalPath": "/belgium/erpent/erpent/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Comptoir de l'Eau Vive",

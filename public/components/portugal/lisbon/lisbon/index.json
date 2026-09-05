@@ -1,6 +1,141 @@
 {
   "title": "Lisbon",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "lisbon",
+  "city": "Lisbon",
+  "citySlug": "lisbon",
+  "path": "/portugal/lisbon/lisbon/restaurants",
+  "canonicalPath": "/portugal/lisbon/lisbon/restaurants",
+  "count": 52,
   "restaurants": [
+    {
+      "name": "Alma",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/alma",
+      "award": "★★"
+    },
+    {
+      "name": "Belcanto",
+      "cuisine": "Creative, Portuguese",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/belcanto",
+      "award": "★★"
+    },
+    {
+      "name": "Henrique Sá Pessoa",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/henrique-s-pessoa",
+      "award": "★★"
+    },
+    {
+      "name": "2Monkeys",
+      "cuisine": "Creative, French Contemporary",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/2monkeys",
+      "award": "★"
+    },
+    {
+      "name": "Arkhe",
+      "cuisine": "Vegetarian, Vegan",
+      "price": "€€€",
+      "path": "/portugal/lisbon/lisbon/arkhe",
+      "award": "★"
+    },
+    {
+      "name": "CURA",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/cura",
+      "award": "★"
+    },
+    {
+      "name": "Eleven",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/eleven",
+      "award": "★"
+    },
+    {
+      "name": "Encanto",
+      "cuisine": "Vegetarian",
+      "price": "€€€",
+      "path": "/portugal/lisbon/lisbon/encanto",
+      "award": "★"
+    },
+    {
+      "name": "EPUR",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/epur",
+      "award": "★"
+    },
+    {
+      "name": "Feitoria",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/feitoria",
+      "award": "★"
+    },
+    {
+      "name": "Fifty Seconds",
+      "cuisine": "Creative, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/fifty-seconds",
+      "award": "★"
+    },
+    {
+      "name": "Grenache",
+      "cuisine": "French Contemporary",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/grenache",
+      "award": "★"
+    },
+    {
+      "name": "Kabuki Lisboa",
+      "cuisine": "Japanese, Fusion",
+      "price": "€€€",
+      "path": "/portugal/lisbon/lisbon/kabuki-lisboa",
+      "award": "★"
+    },
+    {
+      "name": "Kanazawa",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/kanazawa",
+      "award": "★"
+    },
+    {
+      "name": "Loco",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/loco",
+      "award": "★"
+    },
+    {
+      "name": "Marlene,",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/lisbon/lisbon/marlene",
+      "award": "★"
+    },
+    {
+      "name": "SÁLA de João Sá",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/portugal/lisbon/lisbon/sla-de-joo-s",
+      "award": "★"
+    },
+    {
+      "name": "YŌSO",
+      "cuisine": "Japanese",
+      "price": "€€€",
+      "path": "/portugal/lisbon/lisbon/yso",
+      "award": "★"
+    },
     {
       "name": "100 Maneiras",
       "cuisine": "Creative",
@@ -8,22 +143,10 @@
       "path": "/portugal/lisbon/lisbon/100-maneiras"
     },
     {
-      "name": "2Monkeys",
-      "cuisine": "Creative, French Contemporary",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/2monkeys"
-    },
-    {
-      "name": "Alma",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/alma"
-    },
-    {
-      "name": "Arkhe",
-      "cuisine": "Vegetarian, Vegan",
+      "name": "Âmago",
+      "cuisine": "Farm to table, Contemporary",
       "price": "€€€",
-      "path": "/portugal/lisbon/lisbon/arkhe"
+      "path": "/portugal/lisbon/lisbon/mago"
     },
     {
       "name": "BAHR",
@@ -32,16 +155,16 @@
       "path": "/portugal/lisbon/lisbon/bahr"
     },
     {
-      "name": "Belcanto",
-      "cuisine": "Creative, Portuguese",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/belcanto"
-    },
-    {
       "name": "Boubou's",
       "cuisine": "Modern Cuisine, International",
       "price": "€€€",
       "path": "/portugal/lisbon/lisbon/boubous"
+    },
+    {
+      "name": "BROTO",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/lisbon/lisbon/broto"
     },
     {
       "name": "Canalha",
@@ -62,12 +185,6 @@
       "path": "/portugal/lisbon/lisbon/ceia"
     },
     {
-      "name": "CURA",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/cura"
-    },
-    {
       "name": "Downunder by Justin Jennings",
       "cuisine": "Australian Contemporary",
       "price": "€€",
@@ -80,70 +197,28 @@
       "path": "/portugal/lisbon/lisbon/drogaria"
     },
     {
-      "name": "Eleven",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/eleven"
-    },
-    {
-      "name": "Encanto",
-      "cuisine": "Vegetarian",
-      "price": "€€€",
-      "path": "/portugal/lisbon/lisbon/encanto"
-    },
-    {
-      "name": "EPUR",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/epur"
-    },
-    {
       "name": "Essencial",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/portugal/lisbon/lisbon/essencial"
     },
     {
-      "name": "Feitoria",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/feitoria"
-    },
-    {
-      "name": "Fifty Seconds",
-      "cuisine": "Creative, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/fifty-seconds"
-    },
-    {
       "name": "Fogo",
       "cuisine": "Grills",
       "price": "€€",
-      "path": "/portugal/lisbon/lisbon/fogo"
+      "path": "/portugal/lisbon/lisbon/fogo-l-i-s"
     },
     {
-      "name": "Grenache",
-      "cuisine": "French Contemporary",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/grenache"
+      "name": "JNĉQUOI Fish",
+      "cuisine": "Seafood",
+      "price": "$$$$",
+      "path": "/portugal/lisbon/lisbon/jnquoi-fish"
     },
     {
-      "name": "Henrique Sá Pessoa",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/henrique-s-pessoa"
-    },
-    {
-      "name": "Kabuki Lisboa",
-      "cuisine": "Japanese, Fusion",
-      "price": "€€€",
-      "path": "/portugal/lisbon/lisbon/kabuki-lisboa"
-    },
-    {
-      "name": "Kanazawa",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/kanazawa"
+      "name": "JNĉQUOI Table",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/portugal/lisbon/lisbon/jnquoi-table"
     },
     {
       "name": "Las Dos Manos",
@@ -152,22 +227,10 @@
       "path": "/portugal/lisbon/lisbon/las-dos-manos"
     },
     {
-      "name": "Loco",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/loco"
-    },
-    {
-      "name": "Âmago",
-      "cuisine": "Farm to table, Contemporary",
-      "price": "€€€",
-      "path": "/portugal/lisbon/lisbon/mago"
-    },
-    {
-      "name": "Marlene,",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/lisbon/lisbon/marlene"
+      "name": "MITSU",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/portugal/lisbon/lisbon/mitsu"
     },
     {
       "name": "O Frade",
@@ -200,6 +263,12 @@
       "path": "/portugal/lisbon/lisbon/omakase-ri"
     },
     {
+      "name": "Omakase Wa",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/portugal/lisbon/lisbon/omakase-wa"
+    },
+    {
       "name": "Oven",
       "cuisine": "Nepali, Indian",
       "price": "€€",
@@ -224,16 +293,22 @@
       "path": "/portugal/lisbon/lisbon/prado"
     },
     {
+      "name": "Salta",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/portugal/lisbon/lisbon/salta"
+    },
+    {
+      "name": "Santa Joana",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/lisbon/lisbon/santa-joana"
+    },
+    {
       "name": "SEM",
       "cuisine": "Creative",
       "price": "€€",
       "path": "/portugal/lisbon/lisbon/sem"
-    },
-    {
-      "name": "SÁLA de João Sá",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/portugal/lisbon/lisbon/sla-de-joo-s"
     },
     {
       "name": "Solar dos Nunes",
@@ -254,70 +329,16 @@
       "path": "/portugal/lisbon/lisbon/terroir"
     },
     {
-      "name": "Terroir",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/portugal/lisbon/lisbon/terroir"
-    },
-    {
       "name": "Vibe by Mattia Stanchieri",
       "cuisine": "Contemporary",
       "price": "€€€",
       "path": "/portugal/lisbon/lisbon/vibe-by-mattia-stanchieri"
     },
     {
-      "name": "YŌSO",
-      "cuisine": "Japanese",
-      "price": "€€€",
-      "path": "/portugal/lisbon/lisbon/yso"
-    },
-    {
       "name": "Zunzum Gastrobar",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/portugal/lisbon/lisbon/zunzum-gastrobar"
-    },
-    {
-      "name": "BROTO",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/portugal/lisbon/lisbon/Broto"
-    },
-    {
-      "name": "JNĉQUOI Fish",
-      "cuisine": "Seafood",
-      "price": "$$$$",
-      "path": "/portugal/lisbon/lisbon/JnquoiFish"
-    },
-    {
-      "name": "JNĉQUOI Table",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/portugal/lisbon/lisbon/JnquoiTable"
-    },
-    {
-      "name": "MITSU",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/portugal/lisbon/lisbon/Mitsu"
-    },
-    {
-      "name": "Omakase Wa",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/portugal/lisbon/lisbon/OmakaseWa"
-    },
-    {
-      "name": "Salta",
-      "cuisine": "Fusion",
-      "price": "$$",
-      "path": "/portugal/lisbon/lisbon/Salta"
-    },
-    {
-      "name": "Santa Joana",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/portugal/lisbon/lisbon/SantaJoana"
     }
   ]
 }

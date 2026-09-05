@@ -1,8 +1,14 @@
 {
   "title": "Varese",
-  "country": "italy",
-  "region": "varese",
-  "city": "varese",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "varese",
+  "city": "Varese",
+  "citySlug": "varese",
+  "path": "/italy/varese/varese/restaurants",
+  "canonicalPath": "/italy/varese/varese/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Al Vecchio Convento",

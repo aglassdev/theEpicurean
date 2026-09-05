@@ -1,14 +1,21 @@
 {
   "title": "Tirol",
-  "country": "italy",
-  "region": "tirol",
-  "city": "tirol",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "tirol",
+  "city": "Tirol",
+  "citySlug": "tirol",
+  "path": "/italy/tirol/tirol/restaurants",
+  "canonicalPath": "/italy/tirol/tirol/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Castel fine dining",
       "cuisine": "Creative, International",
       "price": "€€€€",
-      "path": "/italy/tirol/tirol/castel-fine-dining"
+      "path": "/italy/tirol/tirol/castel-fine-dining",
+      "award": "★★"
     }
   ]
 }

@@ -1,32 +1,42 @@
 {
   "title": "Augsburg",
-  "country": "germany",
-  "region": "augsburg",
-  "city": "augsburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "augsburg",
+  "city": "Augsburg",
+  "citySlug": "augsburg",
+  "path": "/germany/augsburg/augsburg/restaurants",
+  "canonicalPath": "/germany/augsburg/augsburg/restaurants",
+  "count": 4,
   "restaurants": [
-    {
-      "name": "Alte Liebe",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/augsburg/augsburg/alte-liebe"
-    },
     {
       "name": "AUGUST",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/germany/augsburg/augsburg/august"
+      "path": "/germany/augsburg/augsburg/august",
+      "award": "★★"
+    },
+    {
+      "name": "Alte Liebe",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/augsburg/augsburg/alte-liebe",
+      "award": "★"
     },
     {
       "name": "Nose & Belly",
       "cuisine": "Innovative, Regional Cuisine",
       "price": "€€€",
-      "path": "/germany/augsburg/augsburg/nose-belly"
+      "path": "/germany/augsburg/augsburg/nose-belly",
+      "award": "★"
     },
     {
       "name": "Sartory",
       "cuisine": "Classic Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/augsburg/augsburg/sartory"
+      "path": "/germany/augsburg/augsburg/sartory",
+      "award": "★"
     }
   ]
 }

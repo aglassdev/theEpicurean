@@ -1,14 +1,21 @@
 {
   "title": "Voorburg",
-  "country": "netherlands",
-  "region": "voorburg",
-  "city": "voorburg",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "voorburg",
+  "city": "Voorburg",
+  "citySlug": "voorburg",
+  "path": "/netherlands/voorburg/voorburg/restaurants",
+  "canonicalPath": "/netherlands/voorburg/voorburg/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Central Park",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/netherlands/voorburg/voorburg/central-park"
+      "path": "/netherlands/voorburg/voorburg/central-park",
+      "award": "★"
     },
     {
       "name": "Villa la Ruche",

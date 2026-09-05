@@ -1,35 +1,45 @@
 {
   "title": "Arrowtown",
+  "country": "New Zealand",
+  "countrySlug": "new-zealand",
+  "region": null,
+  "regionSlug": "arrowtown",
+  "city": "Arrowtown",
+  "citySlug": "arrowtown",
+  "path": "/new-zealand/arrowtown/arrowtown/restaurants",
+  "canonicalPath": "/new-zealand/arrowtown/arrowtown/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Aosta",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/new-zealand/arrowtown/arrowtown/Aosta"
+      "path": "/new-zealand/arrowtown/arrowtown/aosta",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Bianca by Giovi",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/new-zealand/arrowtown/arrowtown/BiancaByGiovi"
+      "path": "/new-zealand/arrowtown/arrowtown/bianca-by-giovi"
     },
     {
       "name": "Billy's",
       "cuisine": "Chinese Contemporary",
       "price": "$$",
-      "path": "/new-zealand/arrowtown/arrowtown/Billys"
+      "path": "/new-zealand/arrowtown/arrowtown/billys"
     },
     {
       "name": "Millhouse",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/arrowtown/arrowtown/Millhouse"
+      "path": "/new-zealand/arrowtown/arrowtown/millhouse"
     },
     {
       "name": "The Woolshed",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/arrowtown/arrowtown/TheWoolshed"
+      "path": "/new-zealand/arrowtown/arrowtown/the-woolshed"
     }
   ]
 }

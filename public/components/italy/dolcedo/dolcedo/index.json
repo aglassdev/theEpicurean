@@ -1,20 +1,27 @@
 {
   "title": "Dolcedo",
-  "country": "italy",
-  "region": "dolcedo",
-  "city": "dolcedo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "dolcedo",
+  "city": "Dolcedo",
+  "citySlug": "dolcedo",
+  "path": "/italy/dolcedo/dolcedo/restaurants",
+  "canonicalPath": "/italy/dolcedo/dolcedo/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Equilibrio",
+      "cuisine": "Ligurian, Contemporary",
+      "price": "€€€",
+      "path": "/italy/dolcedo/dolcedo/equilibrio",
+      "award": "★"
+    },
     {
       "name": "Casa della Rocca",
       "cuisine": "Ligurian, Creative",
       "price": "€€",
       "path": "/italy/dolcedo/dolcedo/casa-della-rocca"
-    },
-    {
-      "name": "Equilibrio",
-      "cuisine": "Ligurian, Contemporary",
-      "price": "€€€",
-      "path": "/italy/dolcedo/dolcedo/equilibrio"
     }
   ]
 }

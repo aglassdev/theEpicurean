@@ -1,14 +1,20 @@
 {
   "title": "Asolo",
-  "country": "italy",
-  "region": "asolo",
-  "city": "asolo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "asolo",
+  "city": "Asolo",
+  "citySlug": "asolo",
+  "path": "/italy/asolo/asolo/restaurants",
+  "canonicalPath": "/italy/asolo/asolo/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Terrazza",
       "cuisine": "Italian, Contemporary",
       "price": "€€",
-      "path": "/italy/asolo/asolo/la-terrazza"
+      "path": "/italy/asolo/asolo/la-terrazza-a-s-o"
     },
     {
       "name": "Locanda Baggio",

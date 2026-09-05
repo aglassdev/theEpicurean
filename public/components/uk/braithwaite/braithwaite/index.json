@@ -1,14 +1,21 @@
 {
   "title": "Braithwaite",
-  "country": "uk",
-  "region": "braithwaite",
-  "city": "braithwaite",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "braithwaite",
+  "city": "Braithwaite",
+  "citySlug": "braithwaite",
+  "path": "/uk/braithwaite/braithwaite/restaurants",
+  "canonicalPath": "/uk/braithwaite/braithwaite/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Cottage in the Wood",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/braithwaite/braithwaite/the-cottage-in-the-wood"
+      "path": "/uk/braithwaite/braithwaite/the-cottage-in-the-wood",
+      "award": "★"
     }
   ]
 }

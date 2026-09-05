@@ -1,0 +1,26 @@
+{
+  "title": "Campbell",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Campbell",
+  "citySlug": "campbell",
+  "path": "/usa/california/campbell/restaurants",
+  "canonicalPath": "/usa/california/campbell/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Be.Stéak.Ă",
+      "cuisine": "Steakhouse, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/campbell/bestak"
+    },
+    {
+      "name": "Orchard City Kitchen",
+      "cuisine": "International, Fusion",
+      "price": "$$",
+      "path": "/usa/california/campbell/orchard-city-kitchen"
+    }
+  ]
+}

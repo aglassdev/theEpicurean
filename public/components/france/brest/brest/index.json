@@ -1,9 +1,22 @@
 {
   "title": "Brest",
-  "country": "france",
-  "region": "brest",
-  "city": "brest",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "brest",
+  "city": "Brest",
+  "citySlug": "brest",
+  "path": "/france/brest/brest/restaurants",
+  "canonicalPath": "/france/brest/brest/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "L'Embrun",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/brest/brest/lembrun",
+      "award": "★"
+    },
     {
       "name": "Hinoki",
       "cuisine": "Japanese, Sushi",
@@ -20,13 +33,7 @@
       "name": "Le M",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/brest/brest/le-m"
-    },
-    {
-      "name": "L'Embrun",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/brest/brest/lembrun"
+      "path": "/france/brest/brest/le-m-b-r-e"
     },
     {
       "name": "Peck & Co",

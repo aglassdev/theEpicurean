@@ -1,17 +1,27 @@
 {
   "title": "Graz",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "graz",
+  "city": "Graz",
+  "citySlug": "graz",
+  "path": "/austria/graz/graz/restaurants",
+  "canonicalPath": "/austria/graz/graz/restaurants",
+  "count": 14,
   "restaurants": [
+    {
+      "name": "Artis",
+      "cuisine": "Creative, International",
+      "price": "€€€€",
+      "path": "/austria/graz/graz/artis",
+      "award": "★"
+    },
     {
       "name": "Arravané",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€",
       "path": "/austria/graz/graz/arravan"
-    },
-    {
-      "name": "Artis",
-      "cuisine": "Creative, International",
-      "price": "€€€€",
-      "path": "/austria/graz/graz/artis"
     },
     {
       "name": "Genießerei am Markt - Steiermark(t)dinner by Alexander Posch",
@@ -84,18 +94,6 @@
       "cuisine": "Modern Cuisine, Austrian",
       "price": "€€€€",
       "path": "/austria/graz/graz/zur-goldenen-birn"
-    },
-    {
-      "name": "Restaurant SCHLOSSBERG",
-      "cuisine": "Seasonal Cuisine",
-      "price": "$$",
-      "path": "/austria/graz/graz/RestaurantSchlossberg"
-    },
-    {
-      "name": "Restaurant Scheucher",
-      "cuisine": "Farm to table",
-      "price": "$$",
-      "path": "/austria/graz/graz/RestaurantScheucher"
     }
   ]
 }

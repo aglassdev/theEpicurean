@@ -1,14 +1,20 @@
 {
   "title": "Palazzolo Sulloglio",
-  "country": "italy",
-  "region": "palazzolo-sulloglio",
-  "city": "palazzolo-sulloglio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "palazzolo-sulloglio",
+  "city": "Palazzolo Sulloglio",
+  "citySlug": "palazzolo-sulloglio",
+  "path": "/italy/palazzolo-sulloglio/palazzolo-sulloglio/restaurants",
+  "canonicalPath": "/italy/palazzolo-sulloglio/palazzolo-sulloglio/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Corte",
       "cuisine": "Classic Cuisine, Traditional Cuisine",
       "price": "€€",
-      "path": "/italy/palazzolo-sulloglio/palazzolo-sulloglio/la-corte"
+      "path": "/italy/palazzolo-sulloglio/palazzolo-sulloglio/la-corte-p-a-l"
     },
     {
       "name": "Osteria della Villetta",

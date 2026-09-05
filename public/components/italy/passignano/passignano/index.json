@@ -1,14 +1,21 @@
 {
   "title": "Passignano",
-  "country": "italy",
-  "region": "passignano",
-  "city": "passignano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "passignano",
+  "city": "Passignano",
+  "citySlug": "passignano",
+  "path": "/italy/passignano/passignano/restaurants",
+  "canonicalPath": "/italy/passignano/passignano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Osteria di Passignano",
       "cuisine": "Country cooking, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/passignano/passignano/osteria-di-passignano"
+      "path": "/italy/passignano/passignano/osteria-di-passignano",
+      "award": "★"
     }
   ]
 }

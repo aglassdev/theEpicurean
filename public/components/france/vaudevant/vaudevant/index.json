@@ -1,8 +1,14 @@
 {
   "title": "Vaudevant",
-  "country": "france",
-  "region": "vaudevant",
-  "city": "vaudevant",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vaudevant",
+  "city": "Vaudevant",
+  "citySlug": "vaudevant",
+  "path": "/france/vaudevant/vaudevant/restaurants",
+  "canonicalPath": "/france/vaudevant/vaudevant/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Récré",

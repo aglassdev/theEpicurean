@@ -1,9 +1,22 @@
 {
-  "title": "Corvara In Badia",
-  "country": "italy",
-  "region": "corvara-in-badia",
-  "city": "corvara-in-badia",
+  "title": "Corvara in Badia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "corvara-in-badia",
+  "city": "Corvara in Badia",
+  "citySlug": "corvara-in-badia",
+  "path": "/italy/corvara-in-badia/corvara-in-badia/restaurants",
+  "canonicalPath": "/italy/corvara-in-badia/corvara-in-badia/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "La Stüa de Michil - Simone Cantafio",
+      "cuisine": "Creative, International",
+      "price": "€€€€",
+      "path": "/italy/corvara-in-badia/corvara-in-badia/la-sta-de-michil-simone-cantafio",
+      "award": "★"
+    },
     {
       "name": "Bistrot La Perla",
       "cuisine": "Italian, Classic Cuisine",
@@ -14,7 +27,7 @@
       "name": "Burjè 1968",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/italy/corvara-in-badia/corvara-in-badia/burj-1968"
+      "path": "/italy/corvara-in-badia/corvara-in-badia/burj1968"
     },
     {
       "name": "KELINA Fine Dine",
@@ -23,22 +36,16 @@
       "path": "/italy/corvara-in-badia/corvara-in-badia/kelina-fine-dine"
     },
     {
-      "name": "La Stüa de Michil - Simone Cantafio",
-      "cuisine": "Creative, International",
-      "price": "€€€€",
-      "path": "/italy/corvara-in-badia/corvara-in-badia/la-sta-de-michil-simone-cantafio"
+      "name": "L'Ostì",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/italy/corvara-in-badia/corvara-in-badia/lost"
     },
     {
       "name": "Ladinia",
       "cuisine": "Regional Cuisine, Italian Contemporary",
       "price": "€€€",
       "path": "/italy/corvara-in-badia/corvara-in-badia/ladinia"
-    },
-    {
-      "name": "L'Ostì",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€",
-      "path": "/italy/corvara-in-badia/corvara-in-badia/lost"
     },
     {
       "name": "Rifugio Col Alt",

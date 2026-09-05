@@ -1,14 +1,21 @@
 {
   "title": "Dave",
-  "country": "belgium",
-  "region": "dave",
-  "city": "dave",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "dave",
+  "city": "Dave",
+  "citySlug": "dave",
+  "path": "/belgium/dave/dave/restaurants",
+  "canonicalPath": "/belgium/dave/dave/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Beau Rivage by Curtis",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/belgium/dave/dave/le-beau-rivage-by-curtis"
+      "path": "/belgium/dave/dave/le-beau-rivage-by-curtis",
+      "award": "★"
     }
   ]
 }

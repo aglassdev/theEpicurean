@@ -1,20 +1,27 @@
 {
   "title": "Newquay",
-  "country": "uk",
-  "region": "newquay",
-  "city": "newquay",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "newquay",
+  "city": "Newquay",
+  "citySlug": "newquay",
+  "path": "/uk/newquay/newquay/restaurants",
+  "canonicalPath": "/uk/newquay/newquay/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Ugly Butterfly by Adam Handling",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/newquay/newquay/ugly-butterfly-by-adam-handling",
+      "award": "★"
+    },
     {
       "name": "Counter Culture",
       "cuisine": "Sharing, European",
       "price": "££",
       "path": "/uk/newquay/newquay/counter-culture"
-    },
-    {
-      "name": "Ugly Butterfly by Adam Handling",
-      "cuisine": "Modern British",
-      "price": "££££",
-      "path": "/uk/newquay/newquay/ugly-butterfly-by-adam-handling"
     }
   ]
 }

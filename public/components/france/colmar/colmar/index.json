@@ -1,9 +1,42 @@
 {
   "title": "Colmar",
-  "country": "france",
-  "region": "colmar",
-  "city": "colmar",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "colmar",
+  "city": "Colmar",
+  "citySlug": "colmar",
+  "path": "/france/colmar/colmar/restaurants",
+  "canonicalPath": "/france/colmar/colmar/restaurants",
+  "count": 10,
   "restaurants": [
+    {
+      "name": "JY'S",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/colmar/colmar/jys",
+      "award": "★★"
+    },
+    {
+      "name": "L'Atelier du Peintre",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/colmar/colmar/latelier-du-peintre",
+      "award": "★"
+    },
+    {
+      "name": "Restaurant Girardin",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/colmar/colmar/restaurant-girardin",
+      "award": "★"
+    },
+    {
+      "name": "À l'Échevin",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/colmar/colmar/lchevin"
+    },
     {
       "name": "Bord'eau",
       "cuisine": "Modern Cuisine",
@@ -11,28 +44,10 @@
       "path": "/france/colmar/colmar/bordeau"
     },
     {
-      "name": "JY'S",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/colmar/colmar/jys"
-    },
-    {
       "name": "La Maison Rouge",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/colmar/colmar/la-maison-rouge"
-    },
-    {
-      "name": "L'Atelier du Peintre",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/colmar/colmar/latelier-du-peintre"
-    },
-    {
-      "name": "À l'Échevin",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/colmar/colmar/lchevin"
     },
     {
       "name": "Le Comptoir de Georges",
@@ -44,19 +59,13 @@
       "name": "Le Quai 21",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/colmar/colmar/le-quai-21"
+      "path": "/france/colmar/colmar/le-quai21"
     },
     {
       "name": "Lucas et Chris",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/colmar/colmar/lucas-et-chris"
-    },
-    {
-      "name": "Restaurant Girardin",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/colmar/colmar/restaurant-girardin"
     },
     {
       "name": "Wistub Brenner",

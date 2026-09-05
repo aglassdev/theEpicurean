@@ -1,20 +1,21 @@
 {
   "title": "North York",
-  "country": "canada",
-  "region": "north-york",
-  "city": "north-york",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "north-york",
+  "city": "North York",
+  "citySlug": "north-york",
+  "path": "/canada/north-york/north-york/restaurants",
+  "canonicalPath": "/canada/north-york/north-york/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Kaiseki Yu-zen Hashimoto",
       "cuisine": "Japanese",
       "price": "$$$$",
-      "path": "/canada/north-york/north-york/kaiseki-yu-zen-hashimoto"
-    },
-    {
-      "name": "Kaiseki Yu-zen Hashimoto",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/canada/north-york/north-york/kaiseki-yu-zen-hashimoto"
+      "path": "/canada/north-york/north-york/kaiseki-yuzen-hashimoto",
+      "award": "★"
     }
   ]
 }

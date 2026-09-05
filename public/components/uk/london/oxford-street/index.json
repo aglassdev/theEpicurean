@@ -1,107 +1,116 @@
 {
   "title": "Oxford Street",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "Oxford Street",
+  "citySlug": "oxford-street",
+  "path": "/uk/london/oxford-street/restaurants",
+  "canonicalPath": "/uk/london/oxford-street/restaurants",
+  "count": 17,
   "restaurants": [
     {
       "name": "Bond St. Tea Rooms",
       "cuisine": "Afternoon Tea",
       "price": "40.00",
-      "path": "/uk/london/oxford-street/BondStTeaRooms"
-    },
-    {
-      "name": "Wild Heart Bar & Shokudo at Sanctum Soho Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "44.00",
-      "path": "/uk/london/oxford-street/WildHeartBarShokudoAtSanctumSohoHotel"
-    },
-    {
-      "name": "SOUND Cafe",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/oxford-street/SoundCafe"
-    },
-    {
-      "name": "The Soho Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/oxford-street/TheSohoHotel"
-    },
-    {
-      "name": "Royal Lancaster London",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/oxford-street/RoyalLancasterLondon"
-    },
-    {
-      "name": "The Prince Akatoki Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/london/oxford-street/ThePrinceAkatokiHotel"
-    },
-    {
-      "name": "The Montagu Kitchen & Lounge",
-      "cuisine": "Afternoon Tea",
-      "price": "46.00",
-      "path": "/uk/london/oxford-street/TheMontaguKitchenLounge"
-    },
-    {
-      "name": "Mad Hatter's Afternoon Tea at Sanderson London",
-      "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/london/oxford-street/MadHattersAfternoonTeaAtSandersonLondon"
-    },
-    {
-      "name": "Lucy Wong",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/oxford-street/LucyWong"
-    },
-    {
-      "name": "The Langham, London",
-      "cuisine": "Afternoon Tea",
-      "price": "80.00",
-      "path": "/uk/london/oxford-street/TheLanghamLondon"
-    },
-    {
-      "name": "Inamo Soho",
-      "cuisine": "Afternoon Tea",
-      "price": "19.95",
-      "path": "/uk/london/oxford-street/InamoSoho"
-    },
-    {
-      "name": "HIVE Restaurant at Selfridges",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/oxford-street/HiveRestaurantAtSelfridges"
-    },
-    {
-      "name": "Feya Marble Arch",
-      "cuisine": "Afternoon Tea",
-      "price": "37.50",
-      "path": "/uk/london/oxford-street/FeyaMarbleArch"
-    },
-    {
-      "name": "Dean Street Townhouse",
-      "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/london/oxford-street/DeanStreetTownhouse"
-    },
-    {
-      "name": "Colonel Saab",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/oxford-street/ColonelSaab"
-    },
-    {
-      "name": "Charlotte Street Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "38.00",
-      "path": "/uk/london/oxford-street/CharlotteStreetHotel"
+      "path": "/uk/london/oxford-street/bond-st-tea-rooms"
     },
     {
       "name": "Caffe Concerto - Bond Street",
       "cuisine": "Afternoon Tea",
       "price": "32.95",
-      "path": "/uk/london/oxford-street/CaffeConcertoBondStreet"
+      "path": "/uk/london/oxford-street/caffe-concerto-bond-street"
+    },
+    {
+      "name": "Charlotte Street Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "38.00",
+      "path": "/uk/london/oxford-street/charlotte-street-hotel"
+    },
+    {
+      "name": "Colonel Saab",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/london/oxford-street/colonel-saab"
+    },
+    {
+      "name": "Dean Street Townhouse",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/london/oxford-street/dean-street-townhouse"
+    },
+    {
+      "name": "Feya Marble Arch",
+      "cuisine": "Afternoon Tea",
+      "price": "37.50",
+      "path": "/uk/london/oxford-street/feya-marble-arch"
+    },
+    {
+      "name": "HIVE Restaurant at Selfridges",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/london/oxford-street/hive-restaurant-at-selfridges"
+    },
+    {
+      "name": "Inamo Soho",
+      "cuisine": "Afternoon Tea",
+      "price": "19.95",
+      "path": "/uk/london/oxford-street/inamo-soho"
+    },
+    {
+      "name": "Lucy Wong",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/london/oxford-street/lucy-wong"
+    },
+    {
+      "name": "Mad Hatter's Afternoon Tea at Sanderson London",
+      "cuisine": "Afternoon Tea",
+      "price": "55.00",
+      "path": "/uk/london/oxford-street/mad-hatters-afternoon-tea-at-sanderson-london"
+    },
+    {
+      "name": "Royal Lancaster London",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/oxford-street/royal-lancaster-london"
+    },
+    {
+      "name": "SOUND Cafe",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/london/oxford-street/sound-cafe"
+    },
+    {
+      "name": "The Langham, London",
+      "cuisine": "Afternoon Tea",
+      "price": "80.00",
+      "path": "/uk/london/oxford-street/the-langham-london"
+    },
+    {
+      "name": "The Montagu Kitchen & Lounge",
+      "cuisine": "Afternoon Tea",
+      "price": "46.00",
+      "path": "/uk/london/oxford-street/the-montagu-kitchen-lounge"
+    },
+    {
+      "name": "The Prince Akatoki Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "55.00",
+      "path": "/uk/london/oxford-street/the-prince-akatoki-hotel"
+    },
+    {
+      "name": "The Soho Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/oxford-street/the-soho-hotel"
+    },
+    {
+      "name": "Wild Heart Bar & Shokudo at Sanctum Soho Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "44.00",
+      "path": "/uk/london/oxford-street/wild-heart-bar-shokudo-at-sanctum-soho-hotel"
     }
   ]
 }

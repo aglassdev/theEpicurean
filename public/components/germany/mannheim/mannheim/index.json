@@ -1,35 +1,47 @@
 {
   "title": "Mannheim",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "mannheim",
+  "city": "Mannheim",
+  "citySlug": "mannheim",
+  "path": "/germany/mannheim/mannheim/restaurants",
+  "canonicalPath": "/germany/mannheim/mannheim/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "OPUS V",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/mannheim/mannheim/opus-v",
+      "award": "★★"
+    },
     {
       "name": "Dobler's",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/germany/mannheim/mannheim/doblers"
+      "path": "/germany/mannheim/mannheim/doblers",
+      "award": "★"
+    },
+    {
+      "name": "The Tourist Trap",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/germany/mannheim/mannheim/the-tourist-trap",
+      "award": "★"
     },
     {
       "name": "Le comptoir 17",
       "cuisine": "French, Farm to table",
       "price": "€€",
-      "path": "/germany/mannheim/mannheim/le-comptoir-17"
+      "path": "/germany/mannheim/mannheim/le-comptoir17"
     },
     {
       "name": "Marly Privé",
       "cuisine": "French, International",
       "price": "€€€€",
       "path": "/germany/mannheim/mannheim/marly-priv"
-    },
-    {
-      "name": "OPUS V",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/germany/mannheim/mannheim/opus-v"
-    },
-    {
-      "name": "The Tourist Trap",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/germany/mannheim/mannheim/TheTouristTrap"
     }
   ]
 }

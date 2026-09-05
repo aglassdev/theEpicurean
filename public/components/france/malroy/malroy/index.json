@@ -1,14 +1,20 @@
 {
   "title": "Malroy",
-  "country": "france",
-  "region": "malroy",
-  "city": "malroy",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "malroy",
+  "city": "Malroy",
+  "citySlug": "malroy",
+  "path": "/france/malroy/malroy/restaurants",
+  "canonicalPath": "/france/malroy/malroy/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Aux 3 Capitaines",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/malroy/malroy/aux-3-capitaines"
+      "path": "/france/malroy/malroy/aux3-capitaines"
     }
   ]
 }

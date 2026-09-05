@@ -1,14 +1,21 @@
 {
   "title": "Gernsbach",
-  "country": "germany",
-  "region": "gernsbach",
-  "city": "gernsbach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "gernsbach",
+  "city": "Gernsbach",
+  "citySlug": "gernsbach",
+  "path": "/germany/gernsbach/gernsbach/restaurants",
+  "canonicalPath": "/germany/gernsbach/gernsbach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Werners Restaurant",
       "cuisine": "Classic French, International",
       "price": "€€€€",
-      "path": "/germany/gernsbach/gernsbach/werners-restaurant"
+      "path": "/germany/gernsbach/gernsbach/werners-restaurant",
+      "award": "★"
     }
   ]
 }

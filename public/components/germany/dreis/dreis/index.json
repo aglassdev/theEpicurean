@@ -1,14 +1,21 @@
 {
   "title": "Dreis",
-  "country": "germany",
-  "region": "dreis",
-  "city": "dreis",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "dreis",
+  "city": "Dreis",
+  "citySlug": "dreis",
+  "path": "/germany/dreis/dreis/restaurants",
+  "canonicalPath": "/germany/dreis/dreis/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Waldhotel Sonnora",
       "cuisine": "Classic French",
       "price": "€€€€",
-      "path": "/germany/dreis/dreis/waldhotel-sonnora"
+      "path": "/germany/dreis/dreis/waldhotel-sonnora",
+      "award": "★★★"
     }
   ]
 }

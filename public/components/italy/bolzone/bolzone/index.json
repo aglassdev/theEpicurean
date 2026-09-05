@@ -1,8 +1,14 @@
 {
   "title": "Bolzone",
-  "country": "italy",
-  "region": "bolzone",
-  "city": "bolzone",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bolzone",
+  "city": "Bolzone",
+  "citySlug": "bolzone",
+  "path": "/italy/bolzone/bolzone/restaurants",
+  "canonicalPath": "/italy/bolzone/bolzone/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Trattoria Via Vai",

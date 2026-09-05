@@ -1,14 +1,21 @@
 {
   "title": "Vitznau",
-  "country": "switzerland",
-  "region": "vitznau",
-  "city": "vitznau",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "vitznau",
+  "city": "Vitznau",
+  "citySlug": "vitznau",
+  "path": "/switzerland/vitznau/vitznau/restaurants",
+  "canonicalPath": "/switzerland/vitznau/vitznau/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "focus ATELIER",
       "cuisine": "International, Creative French",
       "price": "€€€€",
-      "path": "/switzerland/vitznau/vitznau/focus-atelier"
+      "path": "/switzerland/vitznau/vitznau/focus-atelier",
+      "award": "★★"
     },
     {
       "name": "PRISMA Expérience",

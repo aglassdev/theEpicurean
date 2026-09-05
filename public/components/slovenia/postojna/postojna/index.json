@@ -1,11 +1,20 @@
 {
   "title": "Postojna",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "postojna",
+  "city": "Postojna",
+  "citySlug": "postojna",
+  "path": "/slovenia/postojna/postojna/restaurants",
+  "canonicalPath": "/slovenia/postojna/postojna/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bistro Štorja",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/slovenia/postojna/postojna/BistroTorja"
+      "path": "/slovenia/postojna/postojna/bistro-torja"
     }
   ]
 }

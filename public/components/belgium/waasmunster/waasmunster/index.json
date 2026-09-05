@@ -1,9 +1,22 @@
 {
   "title": "Waasmunster",
-  "country": "belgium",
-  "region": "waasmunster",
-  "city": "waasmunster",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "waasmunster",
+  "city": "Waasmunster",
+  "citySlug": "waasmunster",
+  "path": "/belgium/waasmunster/waasmunster/restaurants",
+  "canonicalPath": "/belgium/waasmunster/waasmunster/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Sense",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/belgium/waasmunster/waasmunster/sense-w-a-a",
+      "award": "★"
+    },
     {
       "name": "De Koolputten",
       "cuisine": "French Contemporary",
@@ -15,12 +28,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/belgium/waasmunster/waasmunster/roosenberg"
-    },
-    {
-      "name": "Sense",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/belgium/waasmunster/waasmunster/sense"
     }
   ]
 }

@@ -1,26 +1,35 @@
 {
   "title": "Merano",
-  "country": "italy",
-  "region": "merano",
-  "city": "merano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "merano",
+  "city": "Merano",
+  "citySlug": "merano",
+  "path": "/italy/merano/merano/restaurants",
+  "canonicalPath": "/italy/merano/merano/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "In Viaggio - Claudio Melis",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/merano/merano/in-viaggio-claudio-melis"
+      "path": "/italy/merano/merano/in-viaggio-claudio-melis",
+      "award": "★"
     },
     {
       "name": "Prezioso",
       "cuisine": "Alpine, Creative",
       "price": "€€€€",
-      "path": "/italy/merano/merano/prezioso"
+      "path": "/italy/merano/merano/prezioso",
+      "award": "★"
     },
     {
       "name": "Sissi",
       "cuisine": "Modern Cuisine, Classic Cuisine",
       "price": "€€€",
-      "path": "/italy/merano/merano/sissi"
+      "path": "/italy/merano/merano/sissi",
+      "award": "★"
     },
     {
       "name": "The Tasting Room by Marcello Corrado",

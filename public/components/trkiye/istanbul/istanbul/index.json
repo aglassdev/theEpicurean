@@ -1,167 +1,216 @@
 {
   "title": "Istanbul",
+  "country": "Türkiye",
+  "countrySlug": "trkiye",
+  "region": null,
+  "regionSlug": "istanbul",
+  "city": "Istanbul",
+  "citySlug": "istanbul",
+  "path": "/trkiye/istanbul/istanbul/restaurants",
+  "canonicalPath": "/trkiye/istanbul/istanbul/restaurants",
+  "count": 85,
   "restaurants": [
     {
       "name": "TURK FATİH TUTAK",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/TurkFathTutak"
+      "path": "/trkiye/istanbul/istanbul/turk-fath-tutak",
+      "award": "★★"
     },
     {
       "name": "Araf İstanbul",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/ArafStanbul"
+      "path": "/trkiye/istanbul/istanbul/araf-stanbul",
+      "award": "★"
     },
     {
       "name": "Araka",
       "cuisine": "Creative",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/Araka"
+      "path": "/trkiye/istanbul/istanbul/araka",
+      "award": "★"
     },
     {
       "name": "Arkestra",
       "cuisine": "Fusion",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/Arkestra"
+      "path": "/trkiye/istanbul/istanbul/arkestra",
+      "award": "★"
     },
     {
       "name": "Casa Lavanda",
       "cuisine": "Traditional Cuisine",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/CasaLavanda"
+      "path": "/trkiye/istanbul/istanbul/casa-lavanda",
+      "award": "★"
     },
     {
       "name": "Mikla",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/Mikla"
+      "path": "/trkiye/istanbul/istanbul/mikla",
+      "award": "★"
     },
     {
       "name": "Neolokal",
       "cuisine": "Turkish",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/Neolokal"
+      "path": "/trkiye/istanbul/istanbul/neolokal",
+      "award": "★"
     },
     {
       "name": "Nicole",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/Nicole"
+      "path": "/trkiye/istanbul/istanbul/nicole",
+      "award": "★"
     },
     {
       "name": "Sankai by Nagaya",
       "cuisine": "Japanese Contemporary",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/SankaiByNagaya"
+      "path": "/trkiye/istanbul/istanbul/sankai-by-nagaya",
+      "award": "★"
+    },
+    {
+      "name": "Changa",
+      "cuisine": "",
+      "price": "",
+      "path": "/trkiye/istanbul/istanbul/changa",
+      "award": "World's 50 Best"
     },
     {
       "name": "Ahmet Ustam Ocakbaşı",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/AhmetUstamOcakba"
+      "path": "/trkiye/istanbul/istanbul/ahmet-ustam-ocakba",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Ali Ocakbaşı Karaköy",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/AliOcakbaKaraky"
+      "path": "/trkiye/istanbul/istanbul/ali-ocakba-karaky",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Casius Antioch Kitchen",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/CasiusAntiochKitchen"
+      "path": "/trkiye/istanbul/istanbul/casius-antioch-kitchen",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Cuma",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/Cuma"
+      "path": "/trkiye/istanbul/istanbul/cuma",
+      "award": "Bib Gourmand"
     },
     {
       "name": "EFENDY",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/Efendy"
+      "path": "/trkiye/istanbul/istanbul/efendy",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Foxy Nişantaşı",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/FoxyNianta"
+      "path": "/trkiye/istanbul/istanbul/foxy-nianta",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Karaköy Lokantası",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/KarakyLokantas"
+      "path": "/trkiye/istanbul/istanbul/karaky-lokantas",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Mahir Lokantası",
       "cuisine": "Turkish",
       "price": "$",
-      "path": "/trkiye/istanbul/istanbul/MahirLokantas"
-    },
-    {
-      "name": "Nazende Cadde",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/NazendeCadde"
-    },
-    {
-      "name": "Pandeli",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/Pandeli"
-    },
-    {
-      "name": "Parvus Kalamış",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/ParvusKalam"
-    },
-    {
-      "name": "SADE \"Beş Denizler Mutfağı\"",
-      "cuisine": "Traditional Cuisine",
-      "price": "$",
-      "path": "/trkiye/istanbul/istanbul/SadeBeDenizlerMutfa"
-    },
-    {
-      "name": "Tatbak",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/Tatbak"
-    },
-    {
-      "name": "Tavacı Recep Usta Bostancı",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/TavacRecepUstaBostanc"
-    },
-    {
-      "name": "Tershane",
-      "cuisine": "Turkish",
-      "price": "$",
-      "path": "/trkiye/istanbul/istanbul/Tershane"
-    },
-    {
-      "name": "Yanyalı Fehmi Lokantası",
-      "cuisine": "Turkish",
-      "price": "$",
-      "path": "/trkiye/istanbul/istanbul/YanyalFehmiLokantas"
+      "path": "/trkiye/istanbul/istanbul/mahir-lokantas",
+      "award": "Bib Gourmand"
     },
     {
       "name": "mutfakkoz",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/Mutfakkoz"
+      "path": "/trkiye/istanbul/istanbul/mutfakkoz",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Nazende Cadde",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/istanbul/istanbul/nazende-cadde",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Pandeli",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/istanbul/istanbul/pandeli",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Parvus Kalamış",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/istanbul/istanbul/parvus-kalam",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "SADE \"Beş Denizler Mutfağı\"",
+      "cuisine": "Traditional Cuisine",
+      "price": "$",
+      "path": "/trkiye/istanbul/istanbul/sade-be-denizler-mutfa",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Tatbak",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/istanbul/istanbul/tatbak",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Tavacı Recep Usta Bostancı",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/istanbul/istanbul/tavac-recep-usta-bostanc",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Tershane",
+      "cuisine": "Turkish",
+      "price": "$",
+      "path": "/trkiye/istanbul/istanbul/tershane",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Yanyalı Fehmi Lokantası",
+      "cuisine": "Turkish",
+      "price": "$",
+      "path": "/trkiye/istanbul/istanbul/yanyal-fehmi-lokantas",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "telezzüz",
+      "cuisine": "Vegan",
+      "price": "$$$$",
+      "path": "/trkiye/istanbul/istanbul/telezzz",
+      "award": "Green Star"
     },
     {
       "name": "1924 İstanbul",
       "cuisine": "Russian",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/1924Stanbul"
+      "path": "/trkiye/istanbul/istanbul/1924-stanbul"
     },
     {
       "name": "29",
@@ -170,346 +219,334 @@
       "path": "/trkiye/istanbul/istanbul/29"
     },
     {
-      "name": "AZUR",
-      "cuisine": "Seafood",
-      "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/Azur"
-    },
-    {
       "name": "Aheste",
       "cuisine": "Turkish",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/Aheste"
+      "path": "/trkiye/istanbul/istanbul/aheste"
     },
     {
       "name": "Aida - vino e cucina",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/AidaVinoECucina"
+      "path": "/trkiye/istanbul/istanbul/aida-vino-e-cucina"
     },
     {
       "name": "Aila",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/Aila"
+      "path": "/trkiye/istanbul/istanbul/aila"
     },
     {
       "name": "Akira Back İstanbul",
       "cuisine": "Japanese",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/AkiraBackStanbul"
+      "path": "/trkiye/istanbul/istanbul/akira-back-stanbul"
     },
     {
       "name": "Alaf",
       "cuisine": "Turkish",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/Alaf"
+      "path": "/trkiye/istanbul/istanbul/alaf"
     },
     {
       "name": "Apartıman Yeniköy",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/ApartmanYeniky"
-    },
-    {
-      "name": "Avlu Restaurant",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/AvluRestaurant"
+      "path": "/trkiye/istanbul/istanbul/apartman-yeniky"
     },
     {
       "name": "AŞEKA",
       "cuisine": "Seasonal Cuisine",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/Aeka"
+      "path": "/trkiye/istanbul/istanbul/aeka"
+    },
+    {
+      "name": "Avlu Restaurant",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/trkiye/istanbul/istanbul/avlu-restaurant"
+    },
+    {
+      "name": "AZUR",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/trkiye/istanbul/istanbul/azur"
     },
     {
       "name": "Balıkçı Kahraman",
       "cuisine": "Seafood",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/BalkKahraman"
+      "path": "/trkiye/istanbul/istanbul/balk-kahraman"
     },
     {
       "name": "Basta Neo Bistro",
       "cuisine": "European Contemporary",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/BastaNeoBistro"
+      "path": "/trkiye/istanbul/istanbul/basta-neo-bistro"
     },
     {
       "name": "Beyti",
       "cuisine": "Grills",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/Beyti"
-    },
-    {
-      "name": "Borsa Restaurant",
-      "cuisine": "Turkish",
-      "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/BorsaRestaurant"
+      "path": "/trkiye/istanbul/istanbul/beyti"
     },
     {
       "name": "BİZ İstanbul",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/BzStanbul"
+      "path": "/trkiye/istanbul/istanbul/bz-stanbul"
+    },
+    {
+      "name": "Borsa Restaurant",
+      "cuisine": "Turkish",
+      "price": "$$$",
+      "path": "/trkiye/istanbul/istanbul/borsa-restaurant"
     },
     {
       "name": "Calipso Fish",
       "cuisine": "Seafood",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/CalipsoFish"
+      "path": "/trkiye/istanbul/istanbul/calipso-fish"
     },
     {
       "name": "Deraliye",
       "cuisine": "Turkish",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/Deraliye"
+      "path": "/trkiye/istanbul/istanbul/deraliye"
     },
     {
       "name": "Eleos Yeşilköy",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/EleosYeilky"
+      "path": "/trkiye/istanbul/istanbul/eleos-yeilky"
     },
     {
       "name": "Fauna",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/Fauna"
+      "path": "/trkiye/istanbul/istanbul/fauna"
     },
     {
       "name": "GALLADA",
       "cuisine": "Asian Influences",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/Gallada"
+      "path": "/trkiye/istanbul/istanbul/gallada"
     },
     {
       "name": "Giritli",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/Giritli"
+      "path": "/trkiye/istanbul/istanbul/giritli"
     },
     {
       "name": "Gün Lokantası",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/GnLokantas"
+      "path": "/trkiye/istanbul/istanbul/gn-lokantas"
     },
     {
       "name": "Havuş Lokantası",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/HavuLokantas"
+      "path": "/trkiye/istanbul/istanbul/havu-lokantas"
     },
     {
       "name": "Herise İstanbul",
       "cuisine": "Turkish",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/HeriseStanbul"
+      "path": "/trkiye/istanbul/istanbul/herise-stanbul"
     },
     {
       "name": "Itsumi",
       "cuisine": "Japanese",
       "price": "$",
-      "path": "/trkiye/istanbul/istanbul/Itsumi"
+      "path": "/trkiye/istanbul/istanbul/itsumi"
     },
     {
       "name": "Khorasani",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/Khorasani"
+      "path": "/trkiye/istanbul/istanbul/khorasani"
     },
     {
       "name": "Kıyı Restaurant",
       "cuisine": "Seafood",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/KyRestaurant"
+      "path": "/trkiye/istanbul/istanbul/ky-restaurant"
     },
     {
       "name": "Liman İstanbul",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/LimanStanbul"
+      "path": "/trkiye/istanbul/istanbul/liman-stanbul"
     },
     {
       "name": "Lokanta 1741",
       "cuisine": "Turkish",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/Lokanta1741"
-    },
-    {
-      "name": "Lokanta Feriye",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/LokantaFeriye"
-    },
-    {
-      "name": "Lokanta Limu",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/LokantaLimu"
+      "path": "/trkiye/istanbul/istanbul/lokanta1741"
     },
     {
       "name": "Lokanta by Divan",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/LokantaByDivan"
+      "path": "/trkiye/istanbul/istanbul/lokanta-by-divan"
+    },
+    {
+      "name": "Lokanta Feriye",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/trkiye/istanbul/istanbul/lokanta-feriye"
+    },
+    {
+      "name": "Lokanta Limu",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/istanbul/istanbul/lokanta-limu"
     },
     {
       "name": "Maromi İstanbul",
       "cuisine": "Sushi",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/MaromiStanbul"
+      "path": "/trkiye/istanbul/istanbul/maromi-stanbul"
     },
     {
       "name": "Monteverdi Ristorante",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/MonteverdiRistorante"
-    },
-    {
-      "name": "Muutto Anatolian Tapas Bar",
-      "cuisine": "Contemporary",
-      "price": "$",
-      "path": "/trkiye/istanbul/istanbul/MuuttoAnatolianTapasBar"
+      "path": "/trkiye/istanbul/istanbul/monteverdi-ristorante"
     },
     {
       "name": "Mürver",
       "cuisine": "Grills",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/Mrver"
+      "path": "/trkiye/istanbul/istanbul/mrver"
+    },
+    {
+      "name": "Muutto Anatolian Tapas Bar",
+      "cuisine": "Contemporary",
+      "price": "$",
+      "path": "/trkiye/istanbul/istanbul/muutto-anatolian-tapas-bar"
     },
     {
       "name": "Nobu İstanbul",
       "cuisine": "Japanese",
       "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/NobuStanbul"
+      "path": "/trkiye/istanbul/istanbul/nobu-stanbul"
     },
     {
       "name": "Okra İstanbul",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/OkraStanbul"
+      "path": "/trkiye/istanbul/istanbul/okra-stanbul"
     },
     {
       "name": "Park Fora Balık ve Deniz Ürünleri Restoranı",
       "cuisine": "Seafood",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/ParkForaBalkVeDenizRnleriRestoran"
+      "path": "/trkiye/istanbul/istanbul/park-fora-balk-ve-deniz-rnleri-restoran"
     },
     {
       "name": "ROKA",
       "cuisine": "Japanese Contemporary",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/Roka"
+      "path": "/trkiye/istanbul/istanbul/roka"
     },
     {
       "name": "Ruby",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/Ruby"
+      "path": "/trkiye/istanbul/istanbul/ruby"
     },
     {
       "name": "Rumelihisarı İskele",
       "cuisine": "Seafood",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/RumelihisarSkele"
-    },
-    {
-      "name": "Sapa İstanbul",
-      "cuisine": "Turkish",
-      "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/SapaStanbul"
-    },
-    {
-      "name": "Seraf Mahmutbey",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/SerafMahmutbey"
-    },
-    {
-      "name": "Seraf Vadi",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/SerafVadi"
-    },
-    {
-      "name": "Spago Istanbul by Wolfgang Puck",
-      "cuisine": "International",
-      "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/SpagoIstanbulByWolfgangPuck"
-    },
-    {
-      "name": "St. Regis Brasserie",
-      "cuisine": "International",
-      "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/StRegisBrasserie"
-    },
-    {
-      "name": "Sunset Grill & Bar",
-      "cuisine": "International",
-      "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/SunsetGrillBar"
-    },
-    {
-      "name": "Sıralı Kebap",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/SralKebap"
-    },
-    {
-      "name": "Terrazza Italia",
-      "cuisine": "Italian",
-      "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/TerrazzaItalia"
-    },
-    {
-      "name": "The Red Balloon",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/TheRedBalloon"
-    },
-    {
-      "name": "Topaz",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/trkiye/istanbul/istanbul/Topaz"
-    },
-    {
-      "name": "Tuğra Restaurant",
-      "cuisine": "Turkish",
-      "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/TuraRestaurant"
-    },
-    {
-      "name": "Yeni Lokanta",
-      "cuisine": "Turkish",
-      "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/YeniLokanta"
-    },
-    {
-      "name": "Zuma İstanbul",
-      "cuisine": "Japanese Contemporary",
-      "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/ZumaStanbul"
-    },
-    {
-      "name": "telezzüz",
-      "cuisine": "Vegan",
-      "price": "$$$$",
-      "path": "/trkiye/istanbul/istanbul/Telezzz"
+      "path": "/trkiye/istanbul/istanbul/rumelihisar-skele"
     },
     {
       "name": "Şans Restaurant",
       "cuisine": "Turkish",
       "price": "$$$",
-      "path": "/trkiye/istanbul/istanbul/AnsRestaurant"
+      "path": "/trkiye/istanbul/istanbul/ans-restaurant"
     },
     {
-      "name": "Changa",
-      "cuisine": "",
-      "price": "",
-      "path": "/trkiye/istanbul/istanbul/Changa"
+      "name": "Sapa İstanbul",
+      "cuisine": "Turkish",
+      "price": "$$$",
+      "path": "/trkiye/istanbul/istanbul/sapa-stanbul"
+    },
+    {
+      "name": "Seraf Mahmutbey",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/istanbul/istanbul/seraf-mahmutbey"
+    },
+    {
+      "name": "Seraf Vadi",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/istanbul/istanbul/seraf-vadi"
+    },
+    {
+      "name": "Sıralı Kebap",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/istanbul/istanbul/sral-kebap"
+    },
+    {
+      "name": "Spago Istanbul by Wolfgang Puck",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/trkiye/istanbul/istanbul/spago-istanbul-by-wolfgang-puck"
+    },
+    {
+      "name": "St. Regis Brasserie",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/trkiye/istanbul/istanbul/st-regis-brasserie"
+    },
+    {
+      "name": "Sunset Grill & Bar",
+      "cuisine": "International",
+      "price": "$$$$",
+      "path": "/trkiye/istanbul/istanbul/sunset-grill-bar"
+    },
+    {
+      "name": "Terrazza Italia",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/trkiye/istanbul/istanbul/terrazza-italia"
+    },
+    {
+      "name": "The Red Balloon",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$$",
+      "path": "/trkiye/istanbul/istanbul/the-red-balloon"
+    },
+    {
+      "name": "Topaz",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/trkiye/istanbul/istanbul/topaz"
+    },
+    {
+      "name": "Tuğra Restaurant",
+      "cuisine": "Turkish",
+      "price": "$$$",
+      "path": "/trkiye/istanbul/istanbul/tura-restaurant"
+    },
+    {
+      "name": "Yeni Lokanta",
+      "cuisine": "Turkish",
+      "price": "$$$",
+      "path": "/trkiye/istanbul/istanbul/yeni-lokanta"
+    },
+    {
+      "name": "Zuma İstanbul",
+      "cuisine": "Japanese Contemporary",
+      "price": "$$$$",
+      "path": "/trkiye/istanbul/istanbul/zuma-stanbul"
     }
   ]
 }

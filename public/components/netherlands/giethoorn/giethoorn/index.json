@@ -1,14 +1,21 @@
 {
   "title": "Giethoorn",
-  "country": "netherlands",
-  "region": "giethoorn",
-  "city": "giethoorn",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "giethoorn",
+  "city": "Giethoorn",
+  "citySlug": "giethoorn",
+  "path": "/netherlands/giethoorn/giethoorn/restaurants",
+  "canonicalPath": "/netherlands/giethoorn/giethoorn/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "De Lindenhof",
       "cuisine": "Creative, Classic French",
       "price": "€€€€",
-      "path": "/netherlands/giethoorn/giethoorn/de-lindenhof"
+      "path": "/netherlands/giethoorn/giethoorn/de-lindenhof",
+      "award": "★★"
     }
   ]
 }

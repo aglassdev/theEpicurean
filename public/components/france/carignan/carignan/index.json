@@ -1,8 +1,14 @@
 {
   "title": "Carignan",
-  "country": "france",
-  "region": "carignan",
-  "city": "carignan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "carignan",
+  "city": "Carignan",
+  "citySlug": "carignan",
+  "path": "/france/carignan/carignan/restaurants",
+  "canonicalPath": "/france/carignan/carignan/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Gourmandière",

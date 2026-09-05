@@ -1,14 +1,21 @@
 {
   "title": "Cassel",
-  "country": "france",
-  "region": "cassel",
-  "city": "cassel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cassel",
+  "city": "Cassel",
+  "citySlug": "cassel",
+  "path": "/france/cassel/cassel/restaurants",
+  "canonicalPath": "/france/cassel/cassel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Haut Bonheur de la Table",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/cassel/cassel/haut-bonheur-de-la-table"
+      "path": "/france/cassel/cassel/haut-bonheur-de-la-table",
+      "award": "★"
     }
   ]
 }

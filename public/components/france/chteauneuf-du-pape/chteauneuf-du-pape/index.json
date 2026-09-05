@@ -1,20 +1,27 @@
 {
-  "title": "Chteauneuf Du Pape",
-  "country": "france",
-  "region": "chteauneuf-du-pape",
-  "city": "chteauneuf-du-pape",
+  "title": "Chteauneuf du Pape",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chteauneuf-du-pape",
+  "city": "Chteauneuf du Pape",
+  "citySlug": "chteauneuf-du-pape",
+  "path": "/france/chteauneuf-du-pape/chteauneuf-du-pape/restaurants",
+  "canonicalPath": "/france/chteauneuf-du-pape/chteauneuf-du-pape/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "La Mère Germaine",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/chteauneuf-du-pape/chteauneuf-du-pape/la-mre-germaine",
+      "award": "★"
+    },
     {
       "name": "Hostellerie du Château des Fines Roches",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/chteauneuf-du-pape/chteauneuf-du-pape/hostellerie-du-chteau-des-fines-roches"
-    },
-    {
-      "name": "La Mère Germaine",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/chteauneuf-du-pape/chteauneuf-du-pape/la-mre-germaine"
     },
     {
       "name": "Le Comptoir de la Mère Germaine",

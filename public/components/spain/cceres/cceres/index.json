@@ -1,14 +1,21 @@
 {
   "title": "Cceres",
-  "country": "spain",
-  "region": "cceres",
-  "city": "cceres",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "cceres",
+  "city": "Cceres",
+  "citySlug": "cceres",
+  "path": "/spain/cceres/cceres/restaurants",
+  "canonicalPath": "/spain/cceres/cceres/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Atrio",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/cceres/cceres/atrio"
+      "path": "/spain/cceres/cceres/atrio",
+      "award": "★★★"
     },
     {
       "name": "Borona Bistró",
@@ -27,12 +34,6 @@
       "cuisine": "Regional Cuisine",
       "price": "€€",
       "path": "/spain/cceres/cceres/madruelo"
-    },
-    {
-      "name": "Miga",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/spain/cceres/cceres/miga"
     },
     {
       "name": "Miga",

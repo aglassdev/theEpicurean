@@ -1,14 +1,21 @@
 {
   "title": "Cromvoirt",
-  "country": "netherlands",
-  "region": "cromvoirt",
-  "city": "cromvoirt",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "cromvoirt",
+  "city": "Cromvoirt",
+  "citySlug": "cromvoirt",
+  "path": "/netherlands/cromvoirt/cromvoirt/restaurants",
+  "canonicalPath": "/netherlands/cromvoirt/cromvoirt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Noble Kitchen",
       "cuisine": "Modern Cuisine, Sushi",
       "price": "€€€",
-      "path": "/netherlands/cromvoirt/cromvoirt/noble-kitchen"
+      "path": "/netherlands/cromvoirt/cromvoirt/noble-kitchen",
+      "award": "★"
     }
   ]
 }

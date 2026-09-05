@@ -1,8 +1,14 @@
 {
   "title": "Gurande",
-  "country": "france",
-  "region": "gurande",
-  "city": "gurande",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gurande",
+  "city": "Gurande",
+  "citySlug": "gurande",
+  "path": "/france/gurande/gurande/restaurants",
+  "canonicalPath": "/france/gurande/gurande/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "brut.",
@@ -11,22 +17,16 @@
       "path": "/france/gurande/gurande/brut"
     },
     {
-      "name": "brut.",
+      "name": "L'Agapé Bistrot",
       "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/gurande/gurande/brut"
+      "price": "€€",
+      "path": "/france/gurande/gurande/lagap-bistrot"
     },
     {
       "name": "La Tête de l'Art",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/gurande/gurande/la-tte-de-lart"
-    },
-    {
-      "name": "L'Agapé Bistrot",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/gurande/gurande/lagap-bistrot"
     }
   ]
 }

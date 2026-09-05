@@ -1,0 +1,26 @@
+{
+  "title": "Sewanee",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Tennessee",
+  "regionSlug": "tennessee",
+  "city": "Sewanee",
+  "citySlug": "sewanee",
+  "path": "/usa/tennessee/sewanee/restaurants",
+  "canonicalPath": "/usa/other/sewanee/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Judith",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/other/sewanee/judith"
+    },
+    {
+      "name": "Lunch",
+      "cuisine": "American, Bakery",
+      "price": "$",
+      "path": "/usa/other/sewanee/lunch"
+    }
+  ]
+}

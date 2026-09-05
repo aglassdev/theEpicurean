@@ -1,8 +1,14 @@
 {
   "title": "Le Rozier",
-  "country": "france",
-  "region": "le-rozier",
-  "city": "le-rozier",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-rozier",
+  "city": "Le Rozier",
+  "citySlug": "le-rozier",
+  "path": "/france/le-rozier/le-rozier/restaurants",
+  "canonicalPath": "/france/le-rozier/le-rozier/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Alicanta",

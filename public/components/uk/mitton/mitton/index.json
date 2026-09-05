@@ -1,8 +1,14 @@
 {
   "title": "Mitton",
-  "country": "uk",
-  "region": "mitton",
-  "city": "mitton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "mitton",
+  "city": "Mitton",
+  "citySlug": "mitton",
+  "path": "/uk/mitton/mitton/restaurants",
+  "canonicalPath": "/uk/mitton/mitton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Three Fishes",

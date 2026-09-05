@@ -1,8 +1,14 @@
 {
   "title": "Boppard",
-  "country": "germany",
-  "region": "boppard",
-  "city": "boppard",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "boppard",
+  "city": "Boppard",
+  "citySlug": "boppard",
+  "path": "/germany/boppard/boppard/restaurants",
+  "canonicalPath": "/germany/boppard/boppard/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lemabri",

@@ -1,8 +1,14 @@
 {
   "title": "Gnrac",
-  "country": "france",
-  "region": "gnrac",
-  "city": "gnrac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gnrac",
+  "city": "Gnrac",
+  "citySlug": "gnrac",
+  "path": "/france/gnrac/gnrac/restaurants",
+  "canonicalPath": "/france/gnrac/gnrac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Instant du Sud",

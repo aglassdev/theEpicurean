@@ -1,8 +1,14 @@
 {
   "title": "Winterthur",
-  "country": "switzerland",
-  "region": "winterthur",
-  "city": "winterthur",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "winterthur",
+  "city": "Winterthur",
+  "citySlug": "winterthur",
+  "path": "/switzerland/winterthur/winterthur/restaurants",
+  "canonicalPath": "/switzerland/winterthur/winterthur/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Menoir",

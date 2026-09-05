@@ -1,8 +1,14 @@
 {
   "title": "Crema",
-  "country": "italy",
-  "region": "crema",
-  "city": "crema",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "crema",
+  "city": "Crema",
+  "citySlug": "crema",
+  "path": "/italy/crema/crema/restaurants",
+  "canonicalPath": "/italy/crema/crema/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Botero",

@@ -1,14 +1,21 @@
 {
   "title": "San Remo",
-  "country": "italy",
-  "region": "san-remo",
-  "city": "san-remo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-remo",
+  "city": "San Remo",
+  "citySlug": "san-remo",
+  "path": "/italy/san-remo/san-remo/restaurants",
+  "canonicalPath": "/italy/san-remo/san-remo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Paolo e Barbara",
       "cuisine": "Country cooking, Contemporary",
       "price": "€€€€",
-      "path": "/italy/san-remo/san-remo/paolo-e-barbara"
+      "path": "/italy/san-remo/san-remo/paolo-e-barbara",
+      "award": "★"
     }
   ]
 }

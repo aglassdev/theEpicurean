@@ -1,14 +1,21 @@
 {
   "title": "Colerne",
-  "country": "uk",
-  "region": "colerne",
-  "city": "colerne",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "colerne",
+  "city": "Colerne",
+  "citySlug": "colerne",
+  "path": "/uk/colerne/colerne/restaurants",
+  "canonicalPath": "/uk/colerne/colerne/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Restaurant Hywel Jones by Lucknam Park",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/colerne/colerne/restaurant-hywel-jones-by-lucknam-park"
+      "path": "/uk/colerne/colerne/restaurant-hywel-jones-by-lucknam-park",
+      "award": "★"
     },
     {
       "name": "Walled Garden",

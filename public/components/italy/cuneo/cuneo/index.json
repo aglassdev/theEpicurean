@@ -1,5 +1,14 @@
 {
   "title": "Cuneo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cuneo",
+  "city": "Cuneo",
+  "citySlug": "cuneo",
+  "path": "/italy/cuneo/cuneo/restaurants",
+  "canonicalPath": "/italy/cuneo/cuneo/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "4 Ciance",
@@ -17,7 +26,7 @@
       "name": "I 5 Sensi",
       "cuisine": "Contemporary, Modern Cuisine",
       "price": "€€",
-      "path": "/italy/cuneo/cuneo/i-5-sensi"
+      "path": "/italy/cuneo/cuneo/i5-sensi"
     },
     {
       "name": "Osteria della Chiocciola",
@@ -35,7 +44,7 @@
       "name": "Q.B. bistró",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/italy/cuneo/cuneo/QbBistr"
+      "path": "/italy/cuneo/cuneo/qb-bistr"
     }
   ]
 }

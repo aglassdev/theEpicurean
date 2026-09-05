@@ -1,14 +1,21 @@
 {
   "title": "Sagunt",
-  "country": "spain",
-  "region": "sagunt",
-  "city": "sagunt",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "sagunt",
+  "city": "Sagunt",
+  "citySlug": "sagunt",
+  "path": "/spain/sagunt/sagunt/restaurants",
+  "canonicalPath": "/spain/sagunt/sagunt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Arrels",
       "cuisine": "Contemporary, Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/sagunt/sagunt/arrels"
+      "path": "/spain/sagunt/sagunt/arrels",
+      "award": "★"
     }
   ]
 }

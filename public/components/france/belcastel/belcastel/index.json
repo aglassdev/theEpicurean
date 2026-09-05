@@ -1,14 +1,21 @@
 {
   "title": "Belcastel",
-  "country": "france",
-  "region": "belcastel",
-  "city": "belcastel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "belcastel",
+  "city": "Belcastel",
+  "citySlug": "belcastel",
+  "path": "/france/belcastel/belcastel/restaurants",
+  "canonicalPath": "/france/belcastel/belcastel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vieux Pont",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/belcastel/belcastel/vieux-pont"
+      "path": "/france/belcastel/belcastel/vieux-pont",
+      "award": "★"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "title": "Arlon",
-  "country": "belgium",
-  "region": "arlon",
-  "city": "arlon",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "arlon",
+  "city": "Arlon",
+  "citySlug": "arlon",
+  "path": "/belgium/arlon/arlon/restaurants",
+  "canonicalPath": "/belgium/arlon/arlon/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "La Grappe d'Or",
+      "cuisine": "French Contemporary, Creative French",
+      "price": "€€€",
+      "path": "/belgium/arlon/arlon/la-grappe-dor",
+      "award": "★"
+    },
     {
       "name": "De la terre à l'assiette",
       "cuisine": "Modern French",
       "price": "€€",
       "path": "/belgium/arlon/arlon/de-la-terre-lassiette"
-    },
-    {
-      "name": "La Grappe d'Or",
-      "cuisine": "French Contemporary, Creative French",
-      "price": "€€€",
-      "path": "/belgium/arlon/arlon/la-grappe-dor"
     }
   ]
 }

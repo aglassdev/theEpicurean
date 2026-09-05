@@ -1,6 +1,22 @@
 {
   "title": "Chiang Mai",
+  "country": "Thailand",
+  "countrySlug": "thailand",
+  "region": null,
+  "regionSlug": "chiang-mai",
+  "city": "Chiang Mai",
+  "citySlug": "chiang-mai",
+  "path": "/thailand/chiang-mai/chiang-mai/restaurants",
+  "canonicalPath": "/thailand/chiang-mai/chiang-mai/restaurants",
+  "count": 65,
   "restaurants": [
+    {
+      "name": "Lhongkhao Kitchen",
+      "cuisine": "Northern Thai",
+      "price": "$",
+      "path": "/thailand/chiang-mai/chiang-mai/lhongkhao-kitchen",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Aeeen",
       "cuisine": "Vegetarian",
@@ -30,6 +46,12 @@
       "cuisine": "Thai",
       "price": "฿฿",
       "path": "/thailand/chiang-mai/chiang-mai/baan-landai-phra-pok-klao-road"
+    },
+    {
+      "name": "Baan Nam Ngiew Wieng Kao",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/thailand/chiang-mai/chiang-mai/baan-nam-ngiew-wieng-kao"
     },
     {
       "name": "Baan Suan Mae Rim",
@@ -140,10 +162,22 @@
       "path": "/thailand/chiang-mai/chiang-mai/huan-soontaree"
     },
     {
+      "name": "Huen Jai Yong",
+      "cuisine": "Northern Thai",
+      "price": "$",
+      "path": "/thailand/chiang-mai/chiang-mai/huen-jai-yong"
+    },
+    {
       "name": "Huen Muan Jai",
       "cuisine": "Northern Thai",
       "price": "฿",
       "path": "/thailand/chiang-mai/chiang-mai/huen-muan-jai"
+    },
+    {
+      "name": "Jaan Joor",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/thailand/chiang-mai/chiang-mai/jaan-joor"
     },
     {
       "name": "Kang",
@@ -155,7 +189,7 @@
       "name": "Khao",
       "cuisine": "Thai",
       "price": "฿฿฿฿",
-      "path": "/thailand/chiang-mai/chiang-mai/khao"
+      "path": "/thailand/chiang-mai/chiang-mai/khao-c-h-i"
     },
     {
       "name": "Khao Soi Lung Prakit Kad Kom",
@@ -353,7 +387,7 @@
       "name": "We-La-Dee",
       "cuisine": "Thai",
       "price": "฿฿",
-      "path": "/thailand/chiang-mai/chiang-mai/we-la-dee"
+      "path": "/thailand/chiang-mai/chiang-mai/weladee"
     },
     {
       "name": "Withee Laab",
@@ -366,30 +400,6 @@
       "cuisine": "Chinese",
       "price": "฿฿฿",
       "path": "/thailand/chiang-mai/chiang-mai/yangzi-jiang"
-    },
-    {
-      "name": "Lhongkhao Kitchen",
-      "cuisine": "Northern Thai",
-      "price": "$",
-      "path": "/thailand/chiang-mai/chiang-mai/LhongkhaoKitchen"
-    },
-    {
-      "name": "Baan Nam Ngiew Wieng Kao",
-      "cuisine": "Noodles",
-      "price": "$",
-      "path": "/thailand/chiang-mai/chiang-mai/BaanNamNgiewWiengKao"
-    },
-    {
-      "name": "Huen Jai Yong",
-      "cuisine": "Northern Thai",
-      "price": "$",
-      "path": "/thailand/chiang-mai/chiang-mai/HuenJaiYong"
-    },
-    {
-      "name": "Jaan Joor",
-      "cuisine": "Thai",
-      "price": "$$",
-      "path": "/thailand/chiang-mai/chiang-mai/JaanJoor"
     }
   ]
 }

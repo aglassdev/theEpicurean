@@ -1,8 +1,14 @@
 {
   "title": "Aberlour",
-  "country": "uk",
-  "region": "aberlour",
-  "city": "aberlour",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "aberlour",
+  "city": "Aberlour",
+  "citySlug": "aberlour",
+  "path": "/uk/aberlour/aberlour/restaurants",
+  "canonicalPath": "/uk/aberlour/aberlour/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "TimeSpirit",

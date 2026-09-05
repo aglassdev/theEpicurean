@@ -1,20 +1,28 @@
 {
   "title": "Marke",
-  "country": "belgium",
-  "region": "marke",
-  "city": "marke",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "marke",
+  "city": "Marke",
+  "citySlug": "marke",
+  "path": "/belgium/marke/marke/restaurants",
+  "canonicalPath": "/belgium/marke/marke/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Rebelle",
       "cuisine": "Modern Cuisine, Creative French",
       "price": "€€€",
-      "path": "/belgium/marke/marke/rebelle"
+      "path": "/belgium/marke/marke/rebelle",
+      "award": "★"
     },
     {
       "name": "Vol-Ver",
       "cuisine": "Modern Cuisine, French Contemporary",
       "price": "€€€",
-      "path": "/belgium/marke/marke/vol-ver"
+      "path": "/belgium/marke/marke/volver",
+      "award": "★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Onzain",
-  "country": "france",
-  "region": "onzain",
-  "city": "onzain",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "onzain",
+  "city": "Onzain",
+  "citySlug": "onzain",
+  "path": "/france/onzain/onzain/restaurants",
+  "canonicalPath": "/france/onzain/onzain/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bistrot des Hauts de Loire",

@@ -1,9 +1,29 @@
 {
   "title": "Crans Montana",
-  "country": "switzerland",
-  "region": "crans-montana",
-  "city": "crans-montana",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "crans-montana",
+  "city": "Crans Montana",
+  "citySlug": "crans-montana",
+  "path": "/switzerland/crans-montana/crans-montana/restaurants",
+  "canonicalPath": "/switzerland/crans-montana/crans-montana/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "L'OURS",
+      "cuisine": "Modern Cuisine, French",
+      "price": "€€€€",
+      "path": "/switzerland/crans-montana/crans-montana/lours-c-r-a",
+      "award": "★"
+    },
+    {
+      "name": "LeMontBlanc",
+      "cuisine": "Modern French, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/crans-montana/crans-montana/lemontblanc",
+      "award": "★"
+    },
     {
       "name": "Edo",
       "cuisine": "Japanese, Sushi",
@@ -27,18 +47,6 @@
       "cuisine": "French Contemporary, Sharing",
       "price": "€€€",
       "path": "/switzerland/crans-montana/crans-montana/le-partage"
-    },
-    {
-      "name": "LeMontBlanc",
-      "cuisine": "Modern French, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/crans-montana/crans-montana/lemontblanc"
-    },
-    {
-      "name": "L'OURS",
-      "cuisine": "Modern Cuisine, French",
-      "price": "€€€€",
-      "path": "/switzerland/crans-montana/crans-montana/lours"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Carona",
-  "country": "italy",
-  "region": "carona",
-  "city": "carona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "carona",
+  "city": "Carona",
+  "citySlug": "carona",
+  "path": "/italy/carona/carona/restaurants",
+  "canonicalPath": "/italy/carona/carona/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Locandiera",

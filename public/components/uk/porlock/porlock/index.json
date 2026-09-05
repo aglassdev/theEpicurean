@@ -1,8 +1,14 @@
 {
   "title": "Porlock",
-  "country": "uk",
-  "region": "porlock",
-  "city": "porlock",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "porlock",
+  "city": "Porlock",
+  "citySlug": "porlock",
+  "path": "/uk/porlock/porlock/restaurants",
+  "canonicalPath": "/uk/porlock/porlock/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Locanda on the Weir",

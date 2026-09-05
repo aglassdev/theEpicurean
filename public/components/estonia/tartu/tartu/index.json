@@ -1,8 +1,14 @@
 {
   "title": "Tartu",
-  "country": "estonia",
-  "region": "tartu",
-  "city": "tartu",
+  "country": "Estonia",
+  "countrySlug": "estonia",
+  "region": null,
+  "regionSlug": "tartu",
+  "city": "Tartu",
+  "citySlug": "tartu",
+  "path": "/estonia/tartu/tartu/restaurants",
+  "canonicalPath": "/estonia/tartu/tartu/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Hõlm",

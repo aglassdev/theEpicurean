@@ -1,20 +1,27 @@
 {
   "title": "Romoos",
-  "country": "switzerland",
-  "region": "romoos",
-  "city": "romoos",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "romoos",
+  "city": "Romoos",
+  "citySlug": "romoos",
+  "path": "/switzerland/romoos/romoos/restaurants",
+  "canonicalPath": "/switzerland/romoos/romoos/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Wiesner Mysterion - Wiesner - Zauber",
+      "cuisine": "Creative, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/romoos/romoos/wiesner-mysterion-wiesner-zauber",
+      "award": "★"
+    },
     {
       "name": "Wiesner Mysterion – Werkstatt Kost",
       "cuisine": "Farm to table, Barbecue",
       "price": "€€",
       "path": "/switzerland/romoos/romoos/wiesner-mysterion-werkstatt-kost"
-    },
-    {
-      "name": "Wiesner Mysterion - Wiesner - Zauber",
-      "cuisine": "Creative, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/romoos/romoos/wiesner-mysterion-wiesner-zauber"
     }
   ]
 }

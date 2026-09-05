@@ -1,17 +1,27 @@
 {
   "title": "Turnau",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "turnau",
+  "city": "Turnau",
+  "citySlug": "turnau",
+  "path": "/austria/turnau/turnau/restaurants",
+  "canonicalPath": "/austria/turnau/turnau/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Schankkuchl Pogusch",
+      "cuisine": "Grills",
+      "price": "$$$",
+      "path": "/austria/turnau/turnau/schankkuchl-pogusch",
+      "award": "Green Star"
+    },
     {
       "name": "Wirtshaus Steirereck am POGUSCH",
       "cuisine": "Regional Cuisine, Country cooking",
       "price": "€€",
       "path": "/austria/turnau/turnau/wirtshaus-steirereck-am-pogusch"
-    },
-    {
-      "name": "Schankkuchl Pogusch",
-      "cuisine": "Grills",
-      "price": "$$$",
-      "path": "/austria/turnau/turnau/SchankkuchlPogusch"
     }
   ]
 }

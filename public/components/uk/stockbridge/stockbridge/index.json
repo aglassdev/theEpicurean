@@ -1,8 +1,14 @@
 {
   "title": "Stockbridge",
-  "country": "uk",
-  "region": "stockbridge",
-  "city": "stockbridge",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "stockbridge",
+  "city": "Stockbridge",
+  "citySlug": "stockbridge",
+  "path": "/uk/stockbridge/stockbridge/restaurants",
+  "canonicalPath": "/uk/stockbridge/stockbridge/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Greyhound on the Test",

@@ -1,17 +1,26 @@
 {
   "title": "Cremona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cremona",
+  "city": "Cremona",
+  "citySlug": "cremona",
+  "path": "/italy/cremona/cremona/restaurants",
+  "canonicalPath": "/italy/cremona/cremona/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Il Ginkgo",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/italy/cremona/cremona/il-ginkgo"
+    },
     {
       "name": "Kandoo Nippon Restaurant",
       "cuisine": "Japanese, Classic Cuisine",
       "price": "€€",
       "path": "/italy/cremona/cremona/kandoo-nippon-restaurant"
-    },
-    {
-      "name": "Il Ginkgo",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/italy/cremona/cremona/IlGinkgo"
     }
   ]
 }

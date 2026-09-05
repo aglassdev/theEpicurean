@@ -1,8 +1,14 @@
 {
   "title": "Tain Lhermitage",
-  "country": "france",
-  "region": "tain-lhermitage",
-  "city": "tain-lhermitage",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tain-lhermitage",
+  "city": "Tain Lhermitage",
+  "citySlug": "tain-lhermitage",
+  "path": "/france/tain-lhermitage/tain-lhermitage/restaurants",
+  "canonicalPath": "/france/tain-lhermitage/tain-lhermitage/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "La Cage aux Fleurs",
@@ -20,7 +26,7 @@
       "name": "Le Quai",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/tain-lhermitage/tain-lhermitage/le-quai"
+      "path": "/france/tain-lhermitage/tain-lhermitage/le-quai-t-a-i"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "title": "Pinerolo",
-  "country": "italy",
-  "region": "pinerolo",
-  "city": "pinerolo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pinerolo",
+  "city": "Pinerolo",
+  "citySlug": "pinerolo",
+  "path": "/italy/pinerolo/pinerolo/restaurants",
+  "canonicalPath": "/italy/pinerolo/pinerolo/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Trattoria Zappatori",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/pinerolo/pinerolo/trattoria-zappatori",
+      "award": "★"
+    },
     {
       "name": "Acaja",
       "cuisine": "Italian, Contemporary",
       "price": "€€",
       "path": "/italy/pinerolo/pinerolo/acaja"
-    },
-    {
-      "name": "Trattoria Zappatori",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/italy/pinerolo/pinerolo/trattoria-zappatori"
     }
   ]
 }

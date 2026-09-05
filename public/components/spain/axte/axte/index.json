@@ -1,11 +1,21 @@
 {
   "title": "Axte",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "axte",
+  "city": "Axte",
+  "citySlug": "axte",
+  "path": "/spain/axte/axte/restaurants",
+  "canonicalPath": "/spain/axte/axte/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Asador Etxebarri",
       "cuisine": "",
       "price": "",
-      "path": "/spain/axte/axte/AsadorEtxebarri"
+      "path": "/spain/axte/axte/asador-etxebarri",
+      "award": "World's 50 Best"
     }
   ]
 }

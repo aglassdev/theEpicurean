@@ -1,20 +1,27 @@
 {
-  "title": "Colroy La Roche",
-  "country": "france",
-  "region": "colroy-la-roche",
-  "city": "colroy-la-roche",
+  "title": "Colroy la Roche",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "colroy-la-roche",
+  "city": "Colroy la Roche",
+  "citySlug": "colroy-la-roche",
+  "path": "/france/colroy-la-roche/colroy-la-roche/restaurants",
+  "canonicalPath": "/france/colroy-la-roche/colroy-la-roche/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "La Cheneaudière - Le Feuillage",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/colroy-la-roche/colroy-la-roche/la-cheneaudire-le-feuillage",
+      "award": "★"
+    },
     {
       "name": "La Cheneaudière - Le Chêne",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/colroy-la-roche/colroy-la-roche/la-cheneaudire-le-chne"
-    },
-    {
-      "name": "La Cheneaudière - Le Feuillage",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/colroy-la-roche/colroy-la-roche/la-cheneaudire-le-feuillage"
     }
   ]
 }

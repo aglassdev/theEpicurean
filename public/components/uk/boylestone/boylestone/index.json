@@ -1,8 +1,14 @@
 {
   "title": "Boylestone",
-  "country": "uk",
-  "region": "boylestone",
-  "city": "boylestone",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "boylestone",
+  "city": "Boylestone",
+  "citySlug": "boylestone",
+  "path": "/uk/boylestone/boylestone/restaurants",
+  "canonicalPath": "/uk/boylestone/boylestone/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Lighthouse",

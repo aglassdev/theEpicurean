@@ -1,11 +1,20 @@
 {
   "title": "Saverne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saverne",
+  "city": "Saverne",
+  "citySlug": "saverne",
+  "path": "/france/saverne/saverne/restaurants",
+  "canonicalPath": "/france/saverne/saverne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Morillon",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/saverne/saverne/RestaurantMorillon"
+      "path": "/france/saverne/saverne/restaurant-morillon"
     }
   ]
 }

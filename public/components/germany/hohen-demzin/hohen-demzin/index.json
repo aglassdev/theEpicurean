@@ -1,14 +1,20 @@
 {
   "title": "Hohen Demzin",
-  "country": "germany",
-  "region": "hohen-demzin",
-  "city": "hohen-demzin",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hohen-demzin",
+  "city": "Hohen Demzin",
+  "citySlug": "hohen-demzin",
+  "path": "/germany/hohen-demzin/hohen-demzin/restaurants",
+  "canonicalPath": "/germany/hohen-demzin/hohen-demzin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Wappen-Saal",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/germany/hohen-demzin/hohen-demzin/wappen-saal"
+      "path": "/germany/hohen-demzin/hohen-demzin/wappensaal"
     }
   ]
 }

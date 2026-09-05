@@ -1,8 +1,14 @@
 {
   "title": "Uza",
-  "country": "france",
-  "region": "uza",
-  "city": "uza",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "uza",
+  "city": "Uza",
+  "citySlug": "uza",
+  "path": "/france/uza/uza/restaurants",
+  "canonicalPath": "/france/uza/uza/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table du Marensin",

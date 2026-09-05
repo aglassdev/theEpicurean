@@ -1,11 +1,27 @@
 {
   "title": "Nancy",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "nancy",
+  "city": "Nancy",
+  "citySlug": "nancy",
+  "path": "/france/nancy/nancy/restaurants",
+  "canonicalPath": "/france/nancy/nancy/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "La Maison dans le Parc",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/france/nancy/nancy/la-maison-dans-le-parc",
+      "award": "★"
+    },
     {
       "name": "Bastion",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/nancy/nancy/bastion"
+      "path": "/france/nancy/nancy/bastion-n-a-n"
     },
     {
       "name": "Bistrot Gros",
@@ -17,13 +33,13 @@
       "name": "Cadet",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/nancy/nancy/cadet"
+      "path": "/france/nancy/nancy/cadet-n-a-n"
     },
     {
-      "name": "La Maison dans le Parc",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€",
-      "path": "/france/nancy/nancy/la-maison-dans-le-parc"
+      "name": "EV",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/nancy/nancy/ev"
     },
     {
       "name": "La Toq'",
@@ -35,7 +51,7 @@
       "name": "Le 27 Gambetta",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/nancy/nancy/le-27-gambetta"
+      "path": "/france/nancy/nancy/le27-gambetta"
     },
     {
       "name": "Le Capu",
@@ -53,19 +69,13 @@
       "name": "Racine",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/nancy/nancy/racine"
+      "path": "/france/nancy/nancy/racine-n-a-n"
     },
     {
       "name": "Transparence - La Table de Patrick Fréchin",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/nancy/nancy/transparence-la-table-de-patrick-frchin"
-    },
-    {
-      "name": "EV",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/nancy/nancy/Ev"
     }
   ]
 }

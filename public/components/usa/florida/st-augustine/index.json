@@ -1,29 +1,40 @@
 {
   "title": "St. Augustine",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "St. Augustine",
+  "citySlug": "st-augustine",
+  "path": "/usa/florida/st-augustine/restaurants",
+  "canonicalPath": "/usa/florida/st-augustine/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Bar Citra",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/usa/florida/st-augustine/BarCitra"
+      "path": "/usa/florida/st-augustine/bar-citra",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Sunday",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/usa/florida/st-augustine/Sunday"
+      "path": "/usa/florida/st-augustine/sunday",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Asado Life",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/usa/florida/st-augustine/AsadoLife"
+      "path": "/usa/florida/st-augustine/asado-life"
     },
     {
       "name": "Lotus Noodle Bar",
       "cuisine": "Ramen",
       "price": "$$$",
-      "path": "/usa/florida/st-augustine/LotusNoodleBar"
+      "path": "/usa/florida/st-augustine/lotus-noodle-bar"
     }
   ]
 }

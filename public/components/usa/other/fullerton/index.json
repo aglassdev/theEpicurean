@@ -1,0 +1,26 @@
+{
+  "title": "Fullerton",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Fullerton",
+  "citySlug": "fullerton",
+  "path": "/usa/other/fullerton/restaurants",
+  "canonicalPath": "/usa/california/fullerton/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Kaori Sushi",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$",
+      "path": "/usa/california/fullerton/kaori-sushi"
+    },
+    {
+      "name": "Khan Saab Desi Craft Kitchen",
+      "cuisine": "Pakistani, Indian",
+      "price": "$$",
+      "path": "/usa/california/fullerton/khan-saab-desi-craft-kitchen"
+    }
+  ]
+}

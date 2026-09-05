@@ -1,14 +1,21 @@
 {
-  "title": "Saint Jean De Blaignac",
-  "country": "france",
-  "region": "saint-jean-de-blaignac",
-  "city": "saint-jean-de-blaignac",
+  "title": "Saint Jean de Blaignac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-jean-de-blaignac",
+  "city": "Saint Jean de Blaignac",
+  "citySlug": "saint-jean-de-blaignac",
+  "path": "/france/saint-jean-de-blaignac/saint-jean-de-blaignac/restaurants",
+  "canonicalPath": "/france/saint-jean-de-blaignac/saint-jean-de-blaignac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Auberge Saint Jean",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/saint-jean-de-blaignac/saint-jean-de-blaignac/lauberge-saint-jean"
+      "path": "/france/saint-jean-de-blaignac/saint-jean-de-blaignac/lauberge-saint-jean",
+      "award": "★"
     }
   ]
 }

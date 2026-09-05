@@ -1,8 +1,14 @@
 {
   "title": "Apetlon",
-  "country": "austria",
-  "region": "apetlon",
-  "city": "apetlon",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "apetlon",
+  "city": "Apetlon",
+  "citySlug": "apetlon",
+  "path": "/austria/apetlon/apetlon/restaurants",
+  "canonicalPath": "/austria/apetlon/apetlon/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gasthaus Zum fröhlichen Arbeiter",

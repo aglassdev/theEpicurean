@@ -1,9 +1,22 @@
 {
   "title": "Levernois",
-  "country": "france",
-  "region": "levernois",
-  "city": "levernois",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "levernois",
+  "city": "Levernois",
+  "citySlug": "levernois",
+  "path": "/france/levernois/levernois/restaurants",
+  "canonicalPath": "/france/levernois/levernois/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Table de Levernois",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/levernois/levernois/table-de-levernois",
+      "award": "★"
+    },
     {
       "name": "Bistrot du Bord de l'Eau",
       "cuisine": "Traditional Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/levernois/levernois/le-bistrot-du-bord-de-leau"
-    },
-    {
-      "name": "Table de Levernois",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/levernois/levernois/table-de-levernois"
     }
   ]
 }

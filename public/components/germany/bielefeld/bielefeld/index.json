@@ -1,8 +1,14 @@
 {
   "title": "Bielefeld",
-  "country": "germany",
-  "region": "bielefeld",
-  "city": "bielefeld",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bielefeld",
+  "city": "Bielefeld",
+  "citySlug": "bielefeld",
+  "path": "/germany/bielefeld/bielefeld/restaurants",
+  "canonicalPath": "/germany/bielefeld/bielefeld/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "GUI",

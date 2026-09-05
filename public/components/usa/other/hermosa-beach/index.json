@@ -1,0 +1,26 @@
+{
+  "title": "Hermosa Beach",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Hermosa Beach",
+  "citySlug": "hermosa-beach",
+  "path": "/usa/other/hermosa-beach/restaurants",
+  "canonicalPath": "/usa/california/hermosa-beach/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "RYLA",
+      "cuisine": "Contemporary, Japanese",
+      "price": "$$$",
+      "path": "/usa/california/hermosa-beach/ryla"
+    },
+    {
+      "name": "Vin Folk",
+      "cuisine": "Californian, Contemporary",
+      "price": "$$",
+      "path": "/usa/california/hermosa-beach/vin-folk"
+    }
+  ]
+}

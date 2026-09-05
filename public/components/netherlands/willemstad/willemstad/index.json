@@ -1,14 +1,21 @@
 {
   "title": "Willemstad",
-  "country": "netherlands",
-  "region": "willemstad",
-  "city": "willemstad",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "willemstad",
+  "city": "Willemstad",
+  "citySlug": "willemstad",
+  "path": "/netherlands/willemstad/willemstad/restaurants",
+  "canonicalPath": "/netherlands/willemstad/willemstad/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vista",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/netherlands/willemstad/willemstad/vista"
+      "path": "/netherlands/willemstad/willemstad/vista-w-i-l",
+      "award": "★"
     }
   ]
 }

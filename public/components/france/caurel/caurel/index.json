@@ -1,8 +1,14 @@
 {
   "title": "Caurel",
-  "country": "france",
-  "region": "caurel",
-  "city": "caurel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "caurel",
+  "city": "Caurel",
+  "citySlug": "caurel",
+  "path": "/france/caurel/caurel/restaurants",
+  "canonicalPath": "/france/caurel/caurel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Beau Rivage",

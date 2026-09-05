@@ -1,14 +1,21 @@
 {
   "title": "Sartne",
-  "country": "france",
-  "region": "sartne",
-  "city": "sartne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sartne",
+  "city": "Sartne",
+  "citySlug": "sartne",
+  "path": "/france/sartne/sartne/restaurants",
+  "canonicalPath": "/france/sartne/sartne/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "La Table de la Ferme",
       "cuisine": "Modern Cuisine, Corsican",
       "price": "€€€€",
-      "path": "/france/sartne/sartne/la-table-de-la-ferme"
+      "path": "/france/sartne/sartne/la-table-de-la-ferme",
+      "award": "★"
     },
     {
       "name": "La Table de la Grotte",

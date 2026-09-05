@@ -1,161 +1,177 @@
 {
   "title": "Riyadh",
+  "country": "Saudi Arabia",
+  "countrySlug": "saudi-arabia",
+  "region": null,
+  "regionSlug": "riyadh",
+  "city": "Riyadh",
+  "citySlug": "riyadh",
+  "path": "/saudi-arabia/riyadh/riyadh/restaurants",
+  "canonicalPath": "/saudi-arabia/riyadh/riyadh/restaurants",
+  "count": 26,
   "restaurants": [
     {
       "name": "Em Sherif Café",
       "cuisine": "Lebanese",
       "price": "$$",
-      "path": "/saudi-arabia/riyadh/riyadh/EmSherifCaf"
+      "path": "/saudi-arabia/riyadh/riyadh/em-sherif-caf",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Fi Glbak",
       "cuisine": "Saudi Cuisine",
       "price": "$",
-      "path": "/saudi-arabia/riyadh/riyadh/FiGlbak"
+      "path": "/saudi-arabia/riyadh/riyadh/fi-glbak",
+      "award": "Bib Gourmand"
     },
     {
       "name": "KAYZŌ",
       "cuisine": "Japanese Contemporary",
       "price": "$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Kayz"
+      "path": "/saudi-arabia/riyadh/riyadh/kayz",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Mirzam",
       "cuisine": "Saudi Cuisine",
       "price": "$",
-      "path": "/saudi-arabia/riyadh/riyadh/Mirzam"
+      "path": "/saudi-arabia/riyadh/riyadh/mirzam",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Najd Village",
       "cuisine": "Saudi Cuisine",
       "price": "$",
-      "path": "/saudi-arabia/riyadh/riyadh/NajdVillage"
+      "path": "/saudi-arabia/riyadh/riyadh/najd-village",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Sasani",
       "cuisine": "Persian",
       "price": "$",
-      "path": "/saudi-arabia/riyadh/riyadh/Sasani"
+      "path": "/saudi-arabia/riyadh/riyadh/sasani",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tameesa",
       "cuisine": "Saudi Cuisine",
       "price": "$",
-      "path": "/saudi-arabia/riyadh/riyadh/Tameesa"
+      "path": "/saudi-arabia/riyadh/riyadh/tameesa",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Aseeb",
       "cuisine": "Saudi Cuisine",
       "price": "$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Aseeb"
-    },
-    {
-      "name": "Hong",
-      "cuisine": "Chinese",
-      "price": "$$$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Hong"
+      "path": "/saudi-arabia/riyadh/riyadh/aseeb"
     },
     {
       "name": "Hōchō",
       "cuisine": "Japanese Contemporary",
       "price": "$$$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Hch"
+      "path": "/saudi-arabia/riyadh/riyadh/hch"
+    },
+    {
+      "name": "Hong",
+      "cuisine": "Chinese",
+      "price": "$$$$",
+      "path": "/saudi-arabia/riyadh/riyadh/hong"
     },
     {
       "name": "Julien by Daniel Boulud",
       "cuisine": "French Contemporary",
       "price": "$$$$",
-      "path": "/saudi-arabia/riyadh/riyadh/JulienByDanielBoulud"
+      "path": "/saudi-arabia/riyadh/riyadh/julien-by-daniel-boulud"
     },
     {
       "name": "Lusin",
       "cuisine": "Armenian",
       "price": "$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Lusin"
-    },
-    {
-      "name": "MLLe",
-      "cuisine": "Lebanese",
-      "price": "$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Mlle"
+      "path": "/saudi-arabia/riyadh/riyadh/lusin"
     },
     {
       "name": "Maiz",
       "cuisine": "Saudi Cuisine",
       "price": "$$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Maiz"
+      "path": "/saudi-arabia/riyadh/riyadh/maiz"
+    },
+    {
+      "name": "MLLe",
+      "cuisine": "Lebanese",
+      "price": "$$",
+      "path": "/saudi-arabia/riyadh/riyadh/mlle"
     },
     {
       "name": "OVUN Bistro",
       "cuisine": "Lebanese",
       "price": "$",
-      "path": "/saudi-arabia/riyadh/riyadh/OvunBistro"
+      "path": "/saudi-arabia/riyadh/riyadh/ovun-bistro"
     },
     {
       "name": "Robata",
       "cuisine": "Japanese",
       "price": "$$$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Robata"
+      "path": "/saudi-arabia/riyadh/riyadh/robata"
     },
     {
       "name": "Ruhi",
       "cuisine": "Indian",
       "price": "$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Ruhi"
+      "path": "/saudi-arabia/riyadh/riyadh/ruhi"
     },
     {
       "name": "Takya",
       "cuisine": "Saudi Cuisine",
       "price": "$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Takya"
+      "path": "/saudi-arabia/riyadh/riyadh/takya"
     },
     {
       "name": "Taleed by Michael Mina",
       "cuisine": "Middle Eastern",
       "price": "$$$$",
-      "path": "/saudi-arabia/riyadh/riyadh/TaleedByMichaelMina"
+      "path": "/saudi-arabia/riyadh/riyadh/taleed-by-michael-mina"
     },
     {
       "name": "Tanjiah",
       "cuisine": "Moroccan",
       "price": "$$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Tanjiah"
+      "path": "/saudi-arabia/riyadh/riyadh/tanjiah"
     },
     {
       "name": "The Globe",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/saudi-arabia/riyadh/riyadh/TheGlobe"
+      "path": "/saudi-arabia/riyadh/riyadh/the-globe"
     },
     {
       "name": "The Rubi Room at Hōchō",
       "cuisine": "Creative",
       "price": "$$$$",
-      "path": "/saudi-arabia/riyadh/riyadh/TheRubiRoomAtHch"
+      "path": "/saudi-arabia/riyadh/riyadh/the-rubi-room-at-hch"
     },
     {
       "name": "Tofareya",
       "cuisine": "Saudi Cuisine",
       "price": "$",
-      "path": "/saudi-arabia/riyadh/riyadh/Tofareya"
+      "path": "/saudi-arabia/riyadh/riyadh/tofareya"
     },
     {
       "name": "Villa Mamas",
       "cuisine": "Middle Eastern",
       "price": "$$$",
-      "path": "/saudi-arabia/riyadh/riyadh/VillaMamas"
+      "path": "/saudi-arabia/riyadh/riyadh/villa-mamas"
     },
     {
       "name": "Yawmiyat By Dalal",
       "cuisine": "Lebanese",
       "price": "$$",
-      "path": "/saudi-arabia/riyadh/riyadh/YawmiyatByDalal"
+      "path": "/saudi-arabia/riyadh/riyadh/yawmiyat-by-dalal"
     },
     {
       "name": "Yokari",
       "cuisine": "Japanese",
       "price": "$$$",
-      "path": "/saudi-arabia/riyadh/riyadh/Yokari"
+      "path": "/saudi-arabia/riyadh/riyadh/yokari"
     }
   ]
 }

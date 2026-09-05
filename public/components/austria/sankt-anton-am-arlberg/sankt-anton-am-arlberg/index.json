@@ -1,26 +1,34 @@
 {
-  "title": "Sankt Anton Am Arlberg",
-  "country": "austria",
-  "region": "sankt-anton-am-arlberg",
-  "city": "sankt-anton-am-arlberg",
+  "title": "Sankt Anton am Arlberg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "sankt-anton-am-arlberg",
+  "city": "Sankt Anton am Arlberg",
+  "citySlug": "sankt-anton-am-arlberg",
+  "path": "/austria/sankt-anton-am-arlberg/sankt-anton-am-arlberg/restaurants",
+  "canonicalPath": "/austria/sankt-anton-am-arlberg/sankt-anton-am-arlberg/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Gourmetrestaurant Tannenhof",
+      "cuisine": "Alpine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/austria/sankt-anton-am-arlberg/sankt-anton-am-arlberg/gourmetrestaurant-tannenhof",
+      "award": "★★"
+    },
     {
       "name": "Alpin Gourmet Stube",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/austria/sankt-anton-am-arlberg/sankt-anton-am-arlberg/alpin-gourmet-stube"
+      "path": "/austria/sankt-anton-am-arlberg/sankt-anton-am-arlberg/alpin-gourmet-stube",
+      "award": "★"
     },
     {
       "name": "Endlich",
       "cuisine": "Scandinavian, Contemporary",
       "price": "€€€",
       "path": "/austria/sankt-anton-am-arlberg/sankt-anton-am-arlberg/endlich"
-    },
-    {
-      "name": "Gourmetrestaurant Tannenhof",
-      "cuisine": "Alpine, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/austria/sankt-anton-am-arlberg/sankt-anton-am-arlberg/gourmetrestaurant-tannenhof"
     },
     {
       "name": "Hospiz Alm",

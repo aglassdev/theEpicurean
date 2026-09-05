@@ -1,8 +1,14 @@
 {
   "title": "Onex",
-  "country": "switzerland",
-  "region": "onex",
-  "city": "onex",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "onex",
+  "city": "Onex",
+  "citySlug": "onex",
+  "path": "/switzerland/onex/onex/restaurants",
+  "canonicalPath": "/switzerland/onex/onex/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge d'Onex",

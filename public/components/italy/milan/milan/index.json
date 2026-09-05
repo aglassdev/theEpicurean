@@ -1,6 +1,147 @@
 {
   "title": "Milan",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "milan",
+  "city": "Milan",
+  "citySlug": "milan",
+  "path": "/italy/milan/milan/restaurants",
+  "canonicalPath": "/italy/milan/milan/restaurants",
+  "count": 103,
   "restaurants": [
+    {
+      "name": "Enrico Bartolini al Mudec",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/enrico-bartolini-al-mudec",
+      "award": "★★★"
+    },
+    {
+      "name": "Andrea Aprea",
+      "cuisine": "Italian Contemporary, Creative",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/andrea-aprea",
+      "award": "★★"
+    },
+    {
+      "name": "Seta by Antonio Guida",
+      "cuisine": "International, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/seta-by-antonio-guida",
+      "award": "★★"
+    },
+    {
+      "name": "Verso Capitaneo",
+      "cuisine": "Creative, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/verso-capitaneo",
+      "award": "★★"
+    },
+    {
+      "name": "Anima",
+      "cuisine": "Contemporary, Creative",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/anima-m-i-l",
+      "award": "★"
+    },
+    {
+      "name": "Berton",
+      "cuisine": "Italian Contemporary, Creative",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/berton",
+      "award": "★"
+    },
+    {
+      "name": "Contraste",
+      "cuisine": "Modern Cuisine, Innovative",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/contraste-m-i-l",
+      "award": "★"
+    },
+    {
+      "name": "Cracco in Galleria",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/cracco-in-galleria",
+      "award": "★"
+    },
+    {
+      "name": "Horto",
+      "cuisine": "Modern Cuisine, Organic",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/horto",
+      "award": "★"
+    },
+    {
+      "name": "Il Luogo Aimo e Nadia",
+      "cuisine": "Italian Contemporary, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/il-luogo-aimo-e-nadia",
+      "award": "★"
+    },
+    {
+      "name": "Iyo",
+      "cuisine": "Japanese, Asian Contemporary",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/iyo",
+      "award": "★"
+    },
+    {
+      "name": "Iyo Kaiseki",
+      "cuisine": "Japanese, Sushi",
+      "price": "€€€",
+      "path": "/italy/milan/milan/iyo-kaiseki",
+      "award": "★"
+    },
+    {
+      "name": "Joia",
+      "cuisine": "Vegetarian, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/joia",
+      "award": "★"
+    },
+    {
+      "name": "Moebius Sperimentale",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/moebius-sperimentale",
+      "award": "★"
+    },
+    {
+      "name": "Sadler",
+      "cuisine": "Italian, Creative",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/sadler",
+      "award": "★"
+    },
+    {
+      "name": "Sine by Di Pinto",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/milan/milan/sine-by-di-pinto",
+      "award": "★"
+    },
+    {
+      "name": "Cracco Peck",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/milan/milan/cracco-peck",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Ristorante Cracco",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/milan/milan/ristorante-cracco",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "[bu:r]",
+      "cuisine": "Creative, International",
+      "price": "€€€€",
+      "path": "/italy/milan/milan/bur"
+    },
     {
       "name": "28 Posti",
       "cuisine": "Modern Cuisine",
@@ -26,6 +167,12 @@
       "path": "/italy/milan/milan/aimo-e-nadia-bistro"
     },
     {
+      "name": "Altatto",
+      "cuisine": "Vegetarian",
+      "price": "$$$",
+      "path": "/italy/milan/milan/altatto"
+    },
+    {
       "name": "Altatto Bistrot",
       "cuisine": "Vegetarian, Contemporary",
       "price": "€€",
@@ -36,18 +183,6 @@
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€",
       "path": "/italy/milan/milan/altrimnti"
-    },
-    {
-      "name": "Andrea Aprea",
-      "cuisine": "Italian Contemporary, Creative",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/andrea-aprea"
-    },
-    {
-      "name": "Anima",
-      "cuisine": "Contemporary, Creative",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/anima"
     },
     {
       "name": "Antica Osteria del Mare",
@@ -92,12 +227,6 @@
       "path": "/italy/milan/milan/bentteca"
     },
     {
-      "name": "Berton",
-      "cuisine": "Italian Contemporary, Creative",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/berton"
-    },
-    {
       "name": "Bites",
       "cuisine": "International, Small eats",
       "price": "€€€",
@@ -122,12 +251,6 @@
       "path": "/italy/milan/milan/bottega-lucia"
     },
     {
-      "name": "[bu:r]",
-      "cuisine": "Creative, International",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/bur"
-    },
-    {
       "name": "Café Cracco",
       "cuisine": "Classic Cuisine, Italian",
       "price": "€€€",
@@ -143,19 +266,7 @@
       "name": "Ceresio 7",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/milan/milan/ceresio-7"
-    },
-    {
-      "name": "Contraste",
-      "cuisine": "Modern Cuisine, Innovative",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/contraste"
-    },
-    {
-      "name": "Cracco in Galleria",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/cracco-in-galleria"
+      "path": "/italy/milan/milan/ceresio7"
     },
     {
       "name": "Da Giannino - L'Angolo d'Abruzzo",
@@ -200,12 +311,6 @@
       "path": "/italy/milan/milan/dry-aged"
     },
     {
-      "name": "Enrico Bartolini al Mudec",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/enrico-bartolini-al-mudec"
-    },
-    {
       "name": "Finger's Garden",
       "cuisine": "Fusion, Asian Contemporary",
       "price": "€€€",
@@ -227,7 +332,7 @@
       "name": "Giannino dal 1899",
       "cuisine": "Italian Contemporary, Milanese",
       "price": "€€€",
-      "path": "/italy/milan/milan/giannino-dal-1899"
+      "path": "/italy/milan/milan/giannino-dal1899"
     },
     {
       "name": "Gong",
@@ -240,12 +345,6 @@
       "cuisine": "Japanese, Classic Cuisine",
       "price": "€€€€",
       "path": "/italy/milan/milan/hazama"
-    },
-    {
-      "name": "Horto",
-      "cuisine": "Modern Cuisine, Organic",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/horto"
     },
     {
       "name": "Ichikawa",
@@ -272,12 +371,6 @@
       "path": "/italy/milan/milan/il-liberty"
     },
     {
-      "name": "Il Luogo Aimo e Nadia",
-      "cuisine": "Italian Contemporary, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/il-luogo-aimo-e-nadia"
-    },
-    {
       "name": "Il Marchese - Osteria Mercato Liquori",
       "cuisine": "Roman, Italian",
       "price": "€€€",
@@ -287,7 +380,7 @@
       "name": "Il Ristorante - Niko Romito",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/milan/milan/il-ristorante-niko-romito"
+      "path": "/italy/milan/milan/il-ristorante-niko-romito-m-i-l"
     },
     {
       "name": "InGalera",
@@ -302,16 +395,10 @@
       "path": "/italy/milan/milan/innocenti-evasioni"
     },
     {
-      "name": "Iyo",
-      "cuisine": "Japanese, Asian Contemporary",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/iyo"
-    },
-    {
-      "name": "Iyo Kaiseki",
-      "cuisine": "Japanese, Sushi",
-      "price": "€€€",
-      "path": "/italy/milan/milan/iyo-kaiseki"
+      "name": "Insieme",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/italy/milan/milan/insieme"
     },
     {
       "name": "Izu",
@@ -320,10 +407,10 @@
       "path": "/italy/milan/milan/izu"
     },
     {
-      "name": "Joia",
-      "cuisine": "Vegetarian, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/joia"
+      "name": "L’Alchimia",
+      "cuisine": "Modern Cuisine, Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/milan/milan/lalchimia"
     },
     {
       "name": "La Cantina di Manuela",
@@ -362,16 +449,10 @@
       "path": "/italy/milan/milan/la-societ-milano"
     },
     {
-      "name": "L’Alchimia",
-      "cuisine": "Modern Cuisine, Italian Contemporary",
-      "price": "€€€",
-      "path": "/italy/milan/milan/lalchimia"
-    },
-    {
       "name": "Langosteria",
       "cuisine": "Seafood, Classic Cuisine",
       "price": "€€€€",
-      "path": "/italy/milan/milan/langosteria"
+      "path": "/italy/milan/milan/langosteria-m-i-l"
     },
     {
       "name": "Le Nove Scodelle",
@@ -396,12 +477,6 @@
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€",
       "path": "/italy/milan/milan/mater-bistrot"
-    },
-    {
-      "name": "Moebius Sperimentale",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/moebius-sperimentale"
     },
     {
       "name": "Morelli",
@@ -443,7 +518,7 @@
       "name": "Pellico 3",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/italy/milan/milan/pellico-3"
+      "path": "/italy/milan/milan/pellico3"
     },
     {
       "name": "Procaccini",
@@ -476,10 +551,10 @@
       "path": "/italy/milan/milan/rovello"
     },
     {
-      "name": "Sadler",
-      "cuisine": "Italian, Creative",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/sadler"
+      "name": "Sakeya",
+      "cuisine": "Japanese Contemporary",
+      "price": "$$$",
+      "path": "/italy/milan/milan/sakeya"
     },
     {
       "name": "Serendib",
@@ -488,16 +563,10 @@
       "path": "/italy/milan/milan/serendib"
     },
     {
-      "name": "Seta by Antonio Guida",
-      "cuisine": "International, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/seta-by-antonio-guida"
-    },
-    {
-      "name": "Sine by Di Pinto",
-      "cuisine": "Italian Contemporary",
-      "price": "€€€",
-      "path": "/italy/milan/milan/sine-by-di-pinto"
+      "name": "Sushi Matsu Omakase",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/italy/milan/milan/sushi-matsu-omakase"
     },
     {
       "name": "Tano Passami l'Olio",
@@ -516,6 +585,12 @@
       "cuisine": "Italian Contemporary, Milanese",
       "price": "€€€€",
       "path": "/italy/milan/milan/the-view-milano"
+    },
+    {
+      "name": "The View Milano by Valerio Braschi",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$",
+      "path": "/italy/milan/milan/the-view-milano-by-valerio-braschi"
     },
     {
       "name": "Trattoria del Nuovo Macello",
@@ -540,12 +615,6 @@
       "cuisine": "Mediterranean Cuisine, Sicilian",
       "price": "€€€",
       "path": "/italy/milan/milan/uovodiseppia-milano"
-    },
-    {
-      "name": "Verso Capitaneo",
-      "cuisine": "Creative, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/italy/milan/milan/verso-capitaneo"
     },
     {
       "name": "Voce Aimo e Nadia",
@@ -576,48 +645,6 @@
       "cuisine": "Japanese, Fusion",
       "price": "€€€",
       "path": "/italy/milan/milan/zero-milano"
-    },
-    {
-      "name": "Altatto",
-      "cuisine": "Vegetarian",
-      "price": "$$$",
-      "path": "/italy/milan/milan/Altatto"
-    },
-    {
-      "name": "Insieme",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/italy/milan/milan/Insieme"
-    },
-    {
-      "name": "Sakeya",
-      "cuisine": "Japanese Contemporary",
-      "price": "$$$",
-      "path": "/italy/milan/milan/Sakeya"
-    },
-    {
-      "name": "Sushi Matsu Omakase",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/italy/milan/milan/SushiMatsuOmakase"
-    },
-    {
-      "name": "The View Milano by Valerio Braschi",
-      "cuisine": "Italian Contemporary",
-      "price": "$$$",
-      "path": "/italy/milan/milan/TheViewMilanoByValerioBraschi"
-    },
-    {
-      "name": "Cracco Peck",
-      "cuisine": "",
-      "price": "",
-      "path": "/italy/milan/milan/CraccoPeck"
-    },
-    {
-      "name": "Ristorante Cracco",
-      "cuisine": "",
-      "price": "",
-      "path": "/italy/milan/milan/RistoranteCracco"
     }
   ]
 }

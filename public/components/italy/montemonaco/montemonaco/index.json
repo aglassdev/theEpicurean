@@ -1,14 +1,21 @@
 {
   "title": "Montemonaco",
-  "country": "italy",
-  "region": "montemonaco",
-  "city": "montemonaco",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "montemonaco",
+  "city": "Montemonaco",
+  "citySlug": "montemonaco",
+  "path": "/italy/montemonaco/montemonaco/restaurants",
+  "canonicalPath": "/italy/montemonaco/montemonaco/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Tiglio",
       "cuisine": "Contemporary, Cuisine from the Marches",
       "price": "€€€",
-      "path": "/italy/montemonaco/montemonaco/il-tiglio"
+      "path": "/italy/montemonaco/montemonaco/il-tiglio",
+      "award": "★"
     }
   ]
 }

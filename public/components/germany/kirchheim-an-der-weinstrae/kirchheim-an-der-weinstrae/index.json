@@ -1,14 +1,21 @@
 {
-  "title": "Kirchheim An Der Weinstrae",
-  "country": "germany",
-  "region": "kirchheim-an-der-weinstrae",
-  "city": "kirchheim-an-der-weinstrae",
+  "title": "Kirchheim an der Weinstrae",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "kirchheim-an-der-weinstrae",
+  "city": "Kirchheim an der Weinstrae",
+  "citySlug": "kirchheim-an-der-weinstrae",
+  "path": "/germany/kirchheim-an-der-weinstrae/kirchheim-an-der-weinstrae/restaurants",
+  "canonicalPath": "/germany/kirchheim-an-der-weinstrae/kirchheim-an-der-weinstrae/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Schwarz Gourmet",
       "cuisine": "French, International",
       "price": "€€€€",
-      "path": "/germany/kirchheim-an-der-weinstrae/kirchheim-an-der-weinstrae/schwarz-gourmet"
+      "path": "/germany/kirchheim-an-der-weinstrae/kirchheim-an-der-weinstrae/schwarz-gourmet",
+      "award": "★"
     }
   ]
 }

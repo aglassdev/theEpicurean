@@ -1,11 +1,20 @@
 {
   "title": "Eisenstadt",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "eisenstadt",
+  "city": "Eisenstadt",
+  "citySlug": "eisenstadt",
+  "path": "/austria/eisenstadt/eisenstadt/restaurants",
+  "canonicalPath": "/austria/eisenstadt/eisenstadt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthof OHR",
       "cuisine": "Seasonal Cuisine",
       "price": "$$",
-      "path": "/austria/eisenstadt/eisenstadt/GasthofOhr"
+      "path": "/austria/eisenstadt/eisenstadt/gasthof-ohr"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Cadillac",
-  "country": "france",
-  "region": "cadillac",
-  "city": "cadillac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cadillac",
+  "city": "Cadillac",
+  "citySlug": "cadillac",
+  "path": "/france/cadillac/cadillac/restaurants",
+  "canonicalPath": "/france/cadillac/cadillac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "AGA",

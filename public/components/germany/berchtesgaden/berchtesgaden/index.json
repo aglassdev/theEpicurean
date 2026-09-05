@@ -1,9 +1,22 @@
 {
   "title": "Berchtesgaden",
-  "country": "germany",
-  "region": "berchtesgaden",
-  "city": "berchtesgaden",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "berchtesgaden",
+  "city": "Berchtesgaden",
+  "citySlug": "berchtesgaden",
+  "path": "/germany/berchtesgaden/berchtesgaden/restaurants",
+  "canonicalPath": "/germany/berchtesgaden/berchtesgaden/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "PUR",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/germany/berchtesgaden/berchtesgaden/pur",
+      "award": "★★"
+    },
     {
       "name": "Berchtesgadener Esszimmer",
       "cuisine": "Country cooking, Farm to table",
@@ -20,13 +33,7 @@
       "name": "Lockstein 1",
       "cuisine": "Vegetarian, Farm to table",
       "price": "€€",
-      "path": "/germany/berchtesgaden/berchtesgaden/lockstein-1"
-    },
-    {
-      "name": "PUR",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "€€€€",
-      "path": "/germany/berchtesgaden/berchtesgaden/pur"
+      "path": "/germany/berchtesgaden/berchtesgaden/lockstein1"
     }
   ]
 }

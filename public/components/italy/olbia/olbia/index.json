@@ -1,20 +1,20 @@
 {
   "title": "Olbia",
-  "country": "italy",
-  "region": "olbia",
-  "city": "olbia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "olbia",
+  "city": "Olbia",
+  "citySlug": "olbia",
+  "path": "/italy/olbia/olbia/restaurants",
+  "canonicalPath": "/italy/olbia/olbia/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Bacchus",
-      "cuisine": "Sardinian",
-      "price": "€€",
-      "path": "/italy/olbia/olbia/bacchus"
-    },
     {
       "name": "Bacchus",
       "cuisine": "Sardinian, Italian",
       "price": "€€",
-      "path": "/italy/olbia/olbia/bacchus"
+      "path": "/italy/olbia/olbia/bacchus-o-l-b"
     },
     {
       "name": "Dulchemente",

@@ -1,14 +1,21 @@
 {
   "title": "Chtel Guyon",
-  "country": "france",
-  "region": "chtel-guyon",
-  "city": "chtel-guyon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chtel-guyon",
+  "city": "Chtel Guyon",
+  "citySlug": "chtel-guyon",
+  "path": "/france/chtel-guyon/chtel-guyon/restaurants",
+  "canonicalPath": "/france/chtel-guyon/chtel-guyon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Impulsif",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/chtel-guyon/chtel-guyon/limpulsif"
+      "path": "/france/chtel-guyon/chtel-guyon/limpulsif",
+      "award": "★"
     }
   ]
 }

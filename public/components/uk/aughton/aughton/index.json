@@ -1,32 +1,35 @@
 {
   "title": "Aughton",
-  "country": "uk",
-  "region": "aughton",
-  "city": "aughton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "aughton",
+  "city": "Aughton",
+  "citySlug": "aughton",
+  "path": "/uk/aughton/aughton/restaurants",
+  "canonicalPath": "/uk/aughton/aughton/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Moor Hall",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/aughton/aughton/moor-hall"
+      "path": "/uk/aughton/aughton/moor-hall",
+      "award": "★★★"
     },
     {
       "name": "sō–lō",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/aughton/aughton/sl"
-    },
-    {
-      "name": "sō–lō",
-      "cuisine": "Modern British",
-      "price": "££££",
-      "path": "/uk/aughton/aughton/sl"
+      "path": "/uk/aughton/aughton/sl",
+      "award": "★"
     },
     {
       "name": "The Barn",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/aughton/aughton/the-barn"
+      "path": "/uk/aughton/aughton/the-barn",
+      "award": "★"
     }
   ]
 }

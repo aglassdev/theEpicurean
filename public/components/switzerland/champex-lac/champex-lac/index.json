@@ -1,14 +1,21 @@
 {
   "title": "Champex Lac",
-  "country": "switzerland",
-  "region": "champex-lac",
-  "city": "champex-lac",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "champex-lac",
+  "city": "Champex Lac",
+  "citySlug": "champex-lac",
+  "path": "/switzerland/champex-lac/champex-lac/restaurants",
+  "canonicalPath": "/switzerland/champex-lac/champex-lac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au 1465",
       "cuisine": "French Contemporary, Italian",
       "price": "€€€",
-      "path": "/switzerland/champex-lac/champex-lac/au-1465"
+      "path": "/switzerland/champex-lac/champex-lac/au1465",
+      "award": "★"
     }
   ]
 }

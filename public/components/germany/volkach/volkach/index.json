@@ -1,20 +1,27 @@
 {
   "title": "Volkach",
-  "country": "germany",
-  "region": "volkach",
-  "city": "volkach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "volkach",
+  "city": "Volkach",
+  "citySlug": "volkach",
+  "path": "/germany/volkach/volkach/restaurants",
+  "canonicalPath": "/germany/volkach/volkach/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Schwane 1404",
-      "cuisine": "Country cooking, Farm to table",
-      "price": "€€",
-      "path": "/germany/volkach/volkach/schwane-1404"
-    },
     {
       "name": "Weinstock",
       "cuisine": "Creative, Farm to table",
       "price": "€€€€",
-      "path": "/germany/volkach/volkach/weinstock"
+      "path": "/germany/volkach/volkach/weinstock",
+      "award": "★"
+    },
+    {
+      "name": "Schwane 1404",
+      "cuisine": "Country cooking, Farm to table",
+      "price": "€€",
+      "path": "/germany/volkach/volkach/schwane1404"
     }
   ]
 }

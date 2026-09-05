@@ -1,14 +1,21 @@
 {
   "title": "Calvisano",
-  "country": "italy",
-  "region": "calvisano",
-  "city": "calvisano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "calvisano",
+  "city": "Calvisano",
+  "citySlug": "calvisano",
+  "path": "/italy/calvisano/calvisano/restaurants",
+  "canonicalPath": "/italy/calvisano/calvisano/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Al Gambero",
       "cuisine": "Lombardian, Classic Cuisine",
       "price": "€€€",
-      "path": "/italy/calvisano/calvisano/al-gambero"
+      "path": "/italy/calvisano/calvisano/al-gambero",
+      "award": "★"
     },
     {
       "name": "Fiamma Cremisi",

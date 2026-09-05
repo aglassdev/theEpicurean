@@ -1,6 +1,42 @@
 {
   "title": "Birmingham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "West Midlands",
+  "regionSlug": "birmingham",
+  "city": "Birmingham",
+  "citySlug": "birmingham",
+  "path": "/uk/birmingham/birmingham/restaurants",
+  "canonicalPath": "/uk/birmingham/birmingham/restaurants",
+  "count": 33,
   "restaurants": [
+    {
+      "name": "Opheem",
+      "cuisine": "Indian, Contemporary",
+      "price": "££££",
+      "path": "/uk/birmingham/birmingham/opheem",
+      "award": "★★"
+    },
+    {
+      "name": "Adam's",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/birmingham/birmingham/adams",
+      "award": "★"
+    },
+    {
+      "name": "Simpsons",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/birmingham/birmingham/simpsons",
+      "award": "★"
+    },
+    {
+      "name": "1565 Bar & Terrace",
+      "cuisine": "Afternoon Tea",
+      "price": "27.95",
+      "path": "/uk/west-midlands/birmingham/1565-bar-terrace"
+    },
     {
       "name": "670 Grams",
       "cuisine": "Creative, Innovative",
@@ -8,10 +44,10 @@
       "path": "/uk/birmingham/birmingham/670-grams"
     },
     {
-      "name": "Adam's",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/birmingham/birmingham/adams"
+      "name": "Afternoon Tea at Holiday Inn Birmingham City Centre",
+      "cuisine": "Afternoon Tea",
+      "price": "20.00",
+      "path": "/uk/west-midlands/birmingham/afternoon-tea-at-holiday-inn-birmingham-city-centre"
     },
     {
       "name": "Albatross Death Cult",
@@ -32,10 +68,22 @@
       "path": "/uk/birmingham/birmingham/baloci"
     },
     {
+      "name": "Caffe Concerto - Birmingham",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/west-midlands/birmingham/caffe-concerto-birmingham"
+    },
+    {
       "name": "Chakana",
       "cuisine": "Peruvian",
       "price": "££",
       "path": "/uk/birmingham/birmingham/chakana"
+    },
+    {
+      "name": "Clayton Hotel Birmingham",
+      "cuisine": "Afternoon Tea",
+      "price": "23.95",
+      "path": "/uk/west-midlands/birmingham/clayton-hotel-birmingham"
     },
     {
       "name": "Cuubo",
@@ -56,22 +104,58 @@
       "path": "/uk/birmingham/birmingham/harborne-kitchen"
     },
     {
+      "name": "Hotel du Vin Birmingham",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/west-midlands/birmingham/hotel-du-vin-birmingham"
+    },
+    {
+      "name": "KIBOU Solihull",
+      "cuisine": "Afternoon Tea",
+      "price": "19.00",
+      "path": "/uk/west-midlands/birmingham/kibou-solihull"
+    },
+    {
       "name": "Land",
       "cuisine": "Vegetarian, Asian Influences",
       "price": "£££",
       "path": "/uk/birmingham/birmingham/land"
     },
     {
-      "name": "Opheem",
-      "cuisine": "Indian, Contemporary",
-      "price": "££££",
-      "path": "/uk/birmingham/birmingham/opheem"
+      "name": "Malmaison Birmingham",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/west-midlands/birmingham/malmaison-birmingham"
+    },
+    {
+      "name": "Moor Hall Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "26.00",
+      "path": "/uk/west-midlands/birmingham/moor-hall-hotel"
+    },
+    {
+      "name": "New Hall Hotel & Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/west-midlands/birmingham/new-hall-hotel-spa"
     },
     {
       "name": "Plates by Purnell's",
       "cuisine": "Spanish",
       "price": "££",
       "path": "/uk/birmingham/birmingham/plates-by-purnells"
+    },
+    {
+      "name": "Qavali",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/west-midlands/birmingham/qavali"
+    },
+    {
+      "name": "Restaurant 178 at The Fairlawns Hotel and Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "28.50",
+      "path": "/uk/west-midlands/birmingham/restaurant178-at-the-fairlawns-hotel-and-spa"
     },
     {
       "name": "Riverine Rabbit",
@@ -86,10 +170,16 @@
       "path": "/uk/birmingham/birmingham/satori"
     },
     {
-      "name": "Simpsons",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/birmingham/birmingham/simpsons"
+      "name": "The Grand Hotel Birmingham",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/west-midlands/birmingham/the-grand-hotel-birmingham"
+    },
+    {
+      "name": "The Ivy, Birmingham",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/west-midlands/birmingham/the-ivy-birmingham"
     },
     {
       "name": "The Oyster Club by Adam Stokes",
@@ -104,16 +194,22 @@
       "path": "/uk/birmingham/birmingham/the-wilderness"
     },
     {
-      "name": "Tropea",
-      "cuisine": "Italian",
-      "price": "££",
-      "path": "/uk/birmingham/birmingham/tropea"
+      "name": "Three Church Road Restaurant",
+      "cuisine": "Afternoon Tea",
+      "price": "23.95",
+      "path": "/uk/west-midlands/birmingham/three-church-road-restaurant"
     },
     {
       "name": "Trillium",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/uk/birmingham/birmingham/Trillium"
+      "path": "/uk/birmingham/birmingham/trillium"
+    },
+    {
+      "name": "Tropea",
+      "cuisine": "Italian",
+      "price": "££",
+      "path": "/uk/birmingham/birmingham/tropea"
     }
   ]
 }

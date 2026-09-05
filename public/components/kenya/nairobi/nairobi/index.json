@@ -1,11 +1,21 @@
 {
   "title": "Nairobi",
+  "country": "Kenya",
+  "countrySlug": "kenya",
+  "region": null,
+  "regionSlug": "nairobi",
+  "city": "Nairobi",
+  "citySlug": "nairobi",
+  "path": "/kenya/nairobi/nairobi/restaurants",
+  "canonicalPath": "/kenya/nairobi/nairobi/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Carnivore",
       "cuisine": "",
       "price": "",
-      "path": "/kenya/nairobi/nairobi/Carnivore"
+      "path": "/kenya/nairobi/nairobi/carnivore",
+      "award": "World's 50 Best"
     }
   ]
 }

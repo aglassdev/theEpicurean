@@ -1,8 +1,14 @@
 {
   "title": "Trbes",
-  "country": "france",
-  "region": "trbes",
-  "city": "trbes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "trbes",
+  "city": "Trbes",
+  "citySlug": "trbes",
+  "path": "/france/trbes/trbes/restaurants",
+  "canonicalPath": "/france/trbes/trbes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Moulin de Trèbes",

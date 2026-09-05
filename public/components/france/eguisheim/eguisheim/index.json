@@ -1,8 +1,14 @@
 {
   "title": "Eguisheim",
-  "country": "france",
-  "region": "eguisheim",
-  "city": "eguisheim",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "eguisheim",
+  "city": "Eguisheim",
+  "citySlug": "eguisheim",
+  "path": "/france/eguisheim/eguisheim/restaurants",
+  "canonicalPath": "/france/eguisheim/eguisheim/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Au Vieux Porche",

@@ -1,14 +1,21 @@
 {
   "title": "Gombrn",
-  "country": "spain",
-  "region": "gombrn",
-  "city": "gombrn",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "gombrn",
+  "city": "Gombrn",
+  "citySlug": "gombrn",
+  "path": "/spain/gombrn/gombrn/restaurants",
+  "canonicalPath": "/spain/gombrn/gombrn/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Fonda Xesc",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/gombrn/gombrn/la-fonda-xesc"
+      "path": "/spain/gombrn/gombrn/la-fonda-xesc",
+      "award": "★"
     }
   ]
 }

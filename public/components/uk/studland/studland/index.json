@@ -1,8 +1,14 @@
 {
   "title": "Studland",
-  "country": "uk",
-  "region": "studland",
-  "city": "studland",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "studland",
+  "city": "Studland",
+  "citySlug": "studland",
+  "path": "/uk/studland/studland/restaurants",
+  "canonicalPath": "/uk/studland/studland/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Shell Bay",

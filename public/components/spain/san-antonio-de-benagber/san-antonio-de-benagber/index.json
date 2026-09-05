@@ -1,14 +1,21 @@
 {
-  "title": "San Antonio De Benagber",
-  "country": "spain",
-  "region": "san-antonio-de-benagber",
-  "city": "san-antonio-de-benagber",
+  "title": "San Antonio de Benagber",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "san-antonio-de-benagber",
+  "city": "San Antonio de Benagber",
+  "citySlug": "san-antonio-de-benagber",
+  "path": "/spain/san-antonio-de-benagber/san-antonio-de-benagber/restaurants",
+  "canonicalPath": "/spain/san-antonio-de-benagber/san-antonio-de-benagber/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Simposio",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/spain/san-antonio-de-benagber/san-antonio-de-benagber/simposio"
+      "path": "/spain/san-antonio-de-benagber/san-antonio-de-benagber/simposio",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Sulzbach Laufen",
-  "country": "germany",
-  "region": "sulzbach-laufen",
-  "city": "sulzbach-laufen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "sulzbach-laufen",
+  "city": "Sulzbach Laufen",
+  "citySlug": "sulzbach-laufen",
+  "path": "/germany/sulzbach-laufen/sulzbach-laufen/restaurants",
+  "canonicalPath": "/germany/sulzbach-laufen/sulzbach-laufen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Die Krone",
       "cuisine": "Farm to table, Regional Cuisine",
       "price": "€€",
-      "path": "/germany/sulzbach-laufen/sulzbach-laufen/die-krone"
+      "path": "/germany/sulzbach-laufen/sulzbach-laufen/die-krone-s-u-l"
     }
   ]
 }

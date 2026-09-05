@@ -1,11 +1,21 @@
 {
   "title": "Vila",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "vila",
+  "city": "Vila",
+  "citySlug": "vila",
+  "path": "/spain/vila/vila/restaurants",
+  "canonicalPath": "/spain/vila/vila/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Barro",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/vila/vila/barro"
+      "path": "/spain/vila/vila/barro",
+      "award": "★"
     },
     {
       "name": "Caleña",
@@ -23,7 +33,7 @@
       "name": "Surco",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/spain/vila/vila/Surco"
+      "path": "/spain/vila/vila/surco"
     }
   ]
 }

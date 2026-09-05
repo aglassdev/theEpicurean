@@ -1,15 +1,15 @@
 {
   "title": "Broadway",
-  "country": "uk",
-  "region": "broadway",
-  "city": "broadway",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "broadway",
+  "city": "Broadway",
+  "citySlug": "broadway",
+  "path": "/uk/broadway/broadway/restaurants",
+  "canonicalPath": "/uk/broadway/broadway/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "MO",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/broadway/broadway/mo"
-    },
     {
       "name": "MO",
       "cuisine": "Modern Cuisine",

@@ -1,9 +1,22 @@
 {
   "title": "Arcachon",
-  "country": "france",
-  "region": "arcachon",
-  "city": "arcachon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "arcachon",
+  "city": "Arcachon",
+  "citySlug": "arcachon",
+  "path": "/france/arcachon/arcachon/restaurants",
+  "canonicalPath": "/france/arcachon/arcachon/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Le Patio",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/arcachon/arcachon/le-patio",
+      "award": "★"
+    },
     {
       "name": "Acacia",
       "cuisine": "Modern Cuisine",
@@ -20,13 +33,7 @@
       "name": "Ko-sometsuke 2K",
       "cuisine": "Asian",
       "price": "€€",
-      "path": "/france/arcachon/arcachon/ko-sometsuke-2k"
-    },
-    {
-      "name": "Le Patio",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/arcachon/arcachon/le-patio"
+      "path": "/france/arcachon/arcachon/kosometsuke2k"
     }
   ]
 }

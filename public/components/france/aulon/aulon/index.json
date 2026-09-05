@@ -1,8 +1,14 @@
 {
   "title": "Aulon",
-  "country": "france",
-  "region": "aulon",
-  "city": "aulon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "aulon",
+  "city": "Aulon",
+  "citySlug": "aulon",
+  "path": "/france/aulon/aulon/restaurants",
+  "canonicalPath": "/france/aulon/aulon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge des Aryelets",

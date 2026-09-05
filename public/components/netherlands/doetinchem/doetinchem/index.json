@@ -1,6 +1,22 @@
 {
   "title": "Doetinchem",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "doetinchem",
+  "city": "Doetinchem",
+  "citySlug": "doetinchem",
+  "path": "/netherlands/doetinchem/doetinchem/restaurants",
+  "canonicalPath": "/netherlands/doetinchem/doetinchem/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "LEV. FOOD & WINE BAR",
+      "cuisine": "Modern French",
+      "price": "$$",
+      "path": "/netherlands/doetinchem/doetinchem/lev-food-wine-bar",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "LEV Foodbar",
       "cuisine": "Modern French, International",
@@ -24,12 +40,6 @@
       "cuisine": "Farm to table",
       "price": "€€",
       "path": "/netherlands/doetinchem/doetinchem/raedthuys"
-    },
-    {
-      "name": "LEV. FOOD & WINE BAR",
-      "cuisine": "Modern French",
-      "price": "$$",
-      "path": "/netherlands/doetinchem/doetinchem/LevFoodWineBar"
     }
   ]
 }

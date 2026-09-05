@@ -1,20 +1,20 @@
 {
   "title": "Cork",
-  "country": "ireland",
-  "region": "cork",
-  "city": "cork",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "cork",
+  "city": "Cork",
+  "citySlug": "cork",
+  "path": "/ireland/cork/cork/restaurants",
+  "canonicalPath": "/ireland/cork/cork/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "da Mirco",
       "cuisine": "Italian, Classic Cuisine",
       "price": "€€",
       "path": "/ireland/cork/cork/da-mirco"
-    },
-    {
-      "name": "Goldie",
-      "cuisine": "Seafood",
-      "price": "€€",
-      "path": "/ireland/cork/cork/goldie"
     },
     {
       "name": "Goldie",

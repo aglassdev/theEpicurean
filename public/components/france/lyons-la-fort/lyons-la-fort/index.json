@@ -1,14 +1,21 @@
 {
-  "title": "Lyons La Fort",
-  "country": "france",
-  "region": "lyons-la-fort",
-  "city": "lyons-la-fort",
+  "title": "Lyons la Fort",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lyons-la-fort",
+  "city": "Lyons la Fort",
+  "citySlug": "lyons-la-fort",
+  "path": "/france/lyons-la-fort/lyons-la-fort/restaurants",
+  "canonicalPath": "/france/lyons-la-fort/lyons-la-fort/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Licorne Royale",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/lyons-la-fort/lyons-la-fort/la-licorne-royale"
+      "path": "/france/lyons-la-fort/lyons-la-fort/la-licorne-royale",
+      "award": "★"
     },
     {
       "name": "Le Bistro du Grand Cerf",

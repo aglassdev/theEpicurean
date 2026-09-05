@@ -1,8 +1,14 @@
 {
   "title": "Holywood",
-  "country": "uk",
-  "region": "holywood",
-  "city": "holywood",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "holywood",
+  "city": "Holywood",
+  "citySlug": "holywood",
+  "path": "/uk/holywood/holywood/restaurants",
+  "canonicalPath": "/uk/holywood/holywood/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Fontana",

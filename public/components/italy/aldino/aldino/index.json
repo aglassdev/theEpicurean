@@ -1,14 +1,20 @@
 {
   "title": "Aldino",
-  "country": "italy",
-  "region": "aldino",
-  "city": "aldino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "aldino",
+  "city": "Aldino",
+  "citySlug": "aldino",
+  "path": "/italy/aldino/aldino/restaurants",
+  "canonicalPath": "/italy/aldino/aldino/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Krone",
       "cuisine": "Regional Cuisine, Traditional Cuisine",
       "price": "€€",
-      "path": "/italy/aldino/aldino/krone"
+      "path": "/italy/aldino/aldino/krone-a-l-d"
     }
   ]
 }

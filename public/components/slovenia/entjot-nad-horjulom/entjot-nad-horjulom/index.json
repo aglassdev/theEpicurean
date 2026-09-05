@@ -1,14 +1,21 @@
 {
   "title": "Entjot Nad Horjulom",
-  "country": "slovenia",
-  "region": "entjot-nad-horjulom",
-  "city": "entjot-nad-horjulom",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "entjot-nad-horjulom",
+  "city": "Entjot Nad Horjulom",
+  "citySlug": "entjot-nad-horjulom",
+  "path": "/slovenia/entjot-nad-horjulom/entjot-nad-horjulom/restaurants",
+  "canonicalPath": "/slovenia/entjot-nad-horjulom/entjot-nad-horjulom/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Grič",
       "cuisine": "Farm to table, Creative",
       "price": "€€€€",
-      "path": "/slovenia/entjot-nad-horjulom/entjot-nad-horjulom/gri"
+      "path": "/slovenia/entjot-nad-horjulom/entjot-nad-horjulom/gri",
+      "award": "★"
     }
   ]
 }

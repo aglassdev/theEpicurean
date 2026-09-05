@@ -1,8 +1,14 @@
 {
   "title": "Ardres",
-  "country": "france",
-  "region": "ardres",
-  "city": "ardres",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ardres",
+  "city": "Ardres",
+  "citySlug": "ardres",
+  "path": "/france/ardres/ardres/restaurants",
+  "canonicalPath": "/france/ardres/ardres/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison Akène",

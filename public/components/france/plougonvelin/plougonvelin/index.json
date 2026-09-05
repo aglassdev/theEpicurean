@@ -1,20 +1,27 @@
 {
   "title": "Plougonvelin",
-  "country": "france",
-  "region": "plougonvelin",
-  "city": "plougonvelin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "plougonvelin",
+  "city": "Plougonvelin",
+  "citySlug": "plougonvelin",
+  "path": "/france/plougonvelin/plougonvelin/restaurants",
+  "canonicalPath": "/france/plougonvelin/plougonvelin/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Bistrot 1954",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/plougonvelin/plougonvelin/bistrot-1954"
-    },
     {
       "name": "Hostellerie de la Pointe Saint-Mathieu",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/plougonvelin/plougonvelin/hostellerie-de-la-pointe-saint-mathieu"
+      "path": "/france/plougonvelin/plougonvelin/hostellerie-de-la-pointe-saintmathieu",
+      "award": "★"
+    },
+    {
+      "name": "Bistrot 1954",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/plougonvelin/plougonvelin/bistrot1954"
     }
   ]
 }

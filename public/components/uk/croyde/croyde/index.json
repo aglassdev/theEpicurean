@@ -1,5 +1,14 @@
 {
   "title": "Croyde",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "croyde",
+  "city": "Croyde",
+  "citySlug": "croyde",
+  "path": "/uk/croyde/croyde/restaurants",
+  "canonicalPath": "/uk/croyde/croyde/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "New Coast Kitchen",
@@ -11,7 +20,7 @@
       "name": "Restaurant Roku",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/uk/croyde/croyde/RestaurantRoku"
+      "path": "/uk/croyde/croyde/restaurant-roku"
     }
   ]
 }

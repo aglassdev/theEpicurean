@@ -1,14 +1,21 @@
 {
   "title": "Getaria",
-  "country": "spain",
-  "region": "getaria",
-  "city": "getaria",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "getaria",
+  "city": "Getaria",
+  "citySlug": "getaria",
+  "path": "/spain/getaria/getaria/restaurants",
+  "canonicalPath": "/spain/getaria/getaria/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Elkano",
       "cuisine": "Seafood, Grills",
       "price": "€€€€",
-      "path": "/spain/getaria/getaria/elkano"
+      "path": "/spain/getaria/getaria/elkano",
+      "award": "★"
     },
     {
       "name": "Kaia Kaipe",

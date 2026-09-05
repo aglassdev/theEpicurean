@@ -1,8 +1,14 @@
 {
   "title": "Falmouth",
-  "country": "uk",
-  "region": "falmouth",
-  "city": "falmouth",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "falmouth",
+  "city": "Falmouth",
+  "citySlug": "falmouth",
+  "path": "/uk/falmouth/falmouth/restaurants",
+  "canonicalPath": "/uk/falmouth/falmouth/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "CULTURE",
@@ -20,7 +26,7 @@
       "name": "MINE",
       "cuisine": "Farm to table",
       "price": "££",
-      "path": "/uk/falmouth/falmouth/mine"
+      "path": "/uk/falmouth/falmouth/mine-f-a-l"
     }
   ]
 }

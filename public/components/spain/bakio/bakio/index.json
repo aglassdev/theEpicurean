@@ -1,8 +1,14 @@
 {
   "title": "Bakio",
-  "country": "spain",
-  "region": "bakio",
-  "city": "bakio",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "bakio",
+  "city": "Bakio",
+  "citySlug": "bakio",
+  "path": "/spain/bakio/bakio/restaurants",
+  "canonicalPath": "/spain/bakio/bakio/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gotzon Jatetxea",

@@ -1,14 +1,20 @@
 {
   "title": "Hambye",
-  "country": "france",
-  "region": "hambye",
-  "city": "hambye",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "hambye",
+  "city": "Hambye",
+  "citySlug": "hambye",
+  "path": "/france/hambye/hambye/restaurants",
+  "canonicalPath": "/france/hambye/hambye/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de l'Abbaye",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/hambye/hambye/auberge-de-labbaye"
+      "path": "/france/hambye/hambye/auberge-de-labbaye-h-a-m"
     }
   ]
 }

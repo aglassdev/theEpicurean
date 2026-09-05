@@ -1,9 +1,22 @@
 {
   "title": "Tilburg",
-  "country": "netherlands",
-  "region": "tilburg",
-  "city": "tilburg",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "tilburg",
+  "city": "Tilburg",
+  "citySlug": "tilburg",
+  "path": "/netherlands/tilburg/tilburg/restaurants",
+  "canonicalPath": "/netherlands/tilburg/tilburg/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Monarh",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/netherlands/tilburg/tilburg/monarh",
+      "award": "★"
+    },
     {
       "name": "Brasserij Kok Verhoeven",
       "cuisine": "Seafood",
@@ -26,13 +39,7 @@
       "name": "La nouvelle Auberge",
       "cuisine": "Farm to table",
       "price": "€€€",
-      "path": "/netherlands/tilburg/tilburg/la-nouvelle-auberge"
-    },
-    {
-      "name": "Monarh",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/netherlands/tilburg/tilburg/monarh"
+      "path": "/netherlands/tilburg/tilburg/la-nouvelle-auberge-t-i-l"
     },
     {
       "name": "Te Koop in Tilburg",

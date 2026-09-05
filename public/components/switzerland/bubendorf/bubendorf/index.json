@@ -1,14 +1,21 @@
 {
   "title": "Bubendorf",
-  "country": "switzerland",
-  "region": "bubendorf",
-  "city": "bubendorf",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "bubendorf",
+  "city": "Bubendorf",
+  "citySlug": "bubendorf",
+  "path": "/switzerland/bubendorf/bubendorf/restaurants",
+  "canonicalPath": "/switzerland/bubendorf/bubendorf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Murenberg",
       "cuisine": "Classic Cuisine, Modern Cuisine",
       "price": "€€€",
-      "path": "/switzerland/bubendorf/bubendorf/le-murenberg"
+      "path": "/switzerland/bubendorf/bubendorf/le-murenberg",
+      "award": "★"
     }
   ]
 }

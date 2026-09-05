@@ -1,14 +1,21 @@
 {
   "title": "Werder",
-  "country": "germany",
-  "region": "werder",
-  "city": "werder",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "werder",
+  "city": "Werder",
+  "citySlug": "werder",
+  "path": "/germany/werder/werder/restaurants",
+  "canonicalPath": "/germany/werder/werder/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Alte Überfahrt",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/germany/werder/werder/alte-berfahrt"
+      "path": "/germany/werder/werder/alte-berfahrt",
+      "award": "★"
     }
   ]
 }

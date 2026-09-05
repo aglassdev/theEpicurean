@@ -1,17 +1,100 @@
 {
   "title": "Santa Barbara",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Santa Barbara",
+  "citySlug": "santa-barbara",
+  "path": "/usa/california/santa-barbara/restaurants",
+  "canonicalPath": "/usa/california/santa-barbara/restaurants",
+  "count": 14,
   "restaurants": [
+    {
+      "name": "Silvers Omakase",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/santa-barbara/silvers-omakase",
+      "award": "★"
+    },
     {
       "name": "Monte's",
       "cuisine": "Californian",
       "price": "$$$",
-      "path": "/usa/california/santa-barbara/Montes"
+      "path": "/usa/california/santa-barbara/montes",
+      "award": "Green Star"
+    },
+    {
+      "name": "Barbareño",
+      "cuisine": "Californian",
+      "price": "$$",
+      "path": "/usa/california/santa-barbara/barbareo"
+    },
+    {
+      "name": "Bettina",
+      "cuisine": "Pizza, Italian",
+      "price": "$$",
+      "path": "/usa/california/santa-barbara/bettina"
+    },
+    {
+      "name": "Bibi Ji",
+      "cuisine": "Indian, Contemporary",
+      "price": "$$",
+      "path": "/usa/california/santa-barbara/bibi-ji"
+    },
+    {
+      "name": "Blackbird",
+      "cuisine": "Mediterranean Cuisine, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/santa-barbara/blackbird"
+    },
+    {
+      "name": "Corazon Cocina",
+      "cuisine": "Mexican, Seafood",
+      "price": "$$",
+      "path": "/usa/california/santa-barbara/corazon-cocina"
+    },
+    {
+      "name": "Loquita",
+      "cuisine": "Spanish",
+      "price": "$$",
+      "path": "/usa/california/santa-barbara/loquita"
+    },
+    {
+      "name": "Los Agaves",
+      "cuisine": "Mexican, Californian",
+      "price": "$",
+      "path": "/usa/california/santa-barbara/los-agaves"
+    },
+    {
+      "name": "Sama Sama Kitchen",
+      "cuisine": "Asian",
+      "price": "$$",
+      "path": "/usa/california/santa-barbara/sama-sama-kitchen"
     },
     {
       "name": "Sushi by Scratch Restaurants: Montecito",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/santa-barbara/sushi-by-scratch-restaurants-montecito"
+    },
+    {
+      "name": "The Lark",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/santa-barbara/the-lark"
+    },
+    {
+      "name": "The Stonehouse",
+      "cuisine": "American",
+      "price": "$$$$",
+      "path": "/usa/california/santa-barbara/the-stonehouse"
+    },
+    {
+      "name": "Yoichi’s",
       "cuisine": "Japanese",
       "price": "$$$$",
-      "path": "/usa/california/santa-barbara/SushiByScratchRestaurantsMontecito"
+      "path": "/usa/california/santa-barbara/yoichis"
     }
   ]
 }

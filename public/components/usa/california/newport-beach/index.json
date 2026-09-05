@@ -1,0 +1,38 @@
+{
+  "title": "Newport Beach",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Newport Beach",
+  "citySlug": "newport-beach",
+  "path": "/usa/california/newport-beach/restaurants",
+  "canonicalPath": "/usa/california/newport-beach/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Bello by Sandro Nardone",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/newport-beach/bello-by-sandro-nardone"
+    },
+    {
+      "name": "Fable & Spirit",
+      "cuisine": "Californian, American",
+      "price": "$$",
+      "path": "/usa/california/newport-beach/fable-spirit"
+    },
+    {
+      "name": "Marché Moderne",
+      "cuisine": "French, French Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/newport-beach/march-moderne"
+    },
+    {
+      "name": "Sushi ii",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/newport-beach/sushi-ii"
+    }
+  ]
+}

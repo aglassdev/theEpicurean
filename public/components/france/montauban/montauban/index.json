@@ -1,8 +1,14 @@
 {
   "title": "Montauban",
-  "country": "france",
-  "region": "montauban",
-  "city": "montauban",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montauban",
+  "city": "Montauban",
+  "citySlug": "montauban",
+  "path": "/france/montauban/montauban/restaurants",
+  "canonicalPath": "/france/montauban/montauban/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Du Bruit en Cuisine",
@@ -14,7 +20,7 @@
       "name": "Les 5 Bouchons",
       "cuisine": "Modern Cuisine",
       "price": "€",
-      "path": "/france/montauban/montauban/les-5-bouchons"
+      "path": "/france/montauban/montauban/les5-bouchons"
     },
     {
       "name": "Nous",

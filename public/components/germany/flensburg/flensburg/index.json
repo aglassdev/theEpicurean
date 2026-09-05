@@ -1,14 +1,21 @@
 {
   "title": "Flensburg",
-  "country": "germany",
-  "region": "flensburg",
-  "city": "flensburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "flensburg",
+  "city": "Flensburg",
+  "citySlug": "flensburg",
+  "path": "/germany/flensburg/flensburg/restaurants",
+  "canonicalPath": "/germany/flensburg/flensburg/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Das Grace",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€€€",
-      "path": "/germany/flensburg/flensburg/das-grace"
+      "path": "/germany/flensburg/flensburg/das-grace",
+      "award": "★"
     },
     {
       "name": "James Farmhouse",

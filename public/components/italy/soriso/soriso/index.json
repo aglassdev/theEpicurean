@@ -1,14 +1,21 @@
 {
   "title": "Soriso",
-  "country": "italy",
-  "region": "soriso",
-  "city": "soriso",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "soriso",
+  "city": "Soriso",
+  "citySlug": "soriso",
+  "path": "/italy/soriso/soriso/restaurants",
+  "canonicalPath": "/italy/soriso/soriso/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Al Sorriso",
       "cuisine": "Piedmontese, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/soriso/soriso/al-sorriso"
+      "path": "/italy/soriso/soriso/al-sorriso",
+      "award": "★"
     }
   ]
 }

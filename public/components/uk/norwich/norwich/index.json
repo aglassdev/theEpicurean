@@ -1,8 +1,14 @@
 {
   "title": "Norwich",
-  "country": "uk",
-  "region": "norwich",
-  "city": "norwich",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "norwich",
+  "city": "Norwich",
+  "citySlug": "norwich",
+  "path": "/uk/norwich/norwich/restaurants",
+  "canonicalPath": "/uk/norwich/norwich/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Bar Cerdita",

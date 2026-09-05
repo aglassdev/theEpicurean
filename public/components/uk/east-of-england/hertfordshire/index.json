@@ -1,65 +1,74 @@
 {
   "title": "Hertfordshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "East of England",
+  "regionSlug": "east-of-england",
+  "city": "Hertfordshire",
+  "citySlug": "hertfordshire",
+  "path": "/uk/east-of-england/hertfordshire/restaurants",
+  "canonicalPath": "/uk/east-of-england/hertfordshire/restaurants",
+  "count": 10,
   "restaurants": [
     {
-      "name": "West Lodge Park",
+      "name": "Aubrey Park Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/east-of-england/hertfordshire/WestLodgePark"
-    },
-    {
-      "name": "Sopwell House",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/east-of-england/hertfordshire/SopwellHouse"
-    },
-    {
-      "name": "Shendish Manor Hotel & Golf Club",
-      "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/east-of-england/hertfordshire/ShendishManorHotelGolfClub"
-    },
-    {
-      "name": "Pendley Manor",
-      "cuisine": "Afternoon Tea",
-      "price": "34.95",
-      "path": "/uk/east-of-england/hertfordshire/PendleyManor"
-    },
-    {
-      "name": "Manor of Groves",
-      "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/east-of-england/hertfordshire/ManorOfGroves"
-    },
-    {
-      "name": "Hanbury Manor",
-      "cuisine": "Afternoon Tea",
-      "price": "50.00",
-      "path": "/uk/east-of-england/hertfordshire/HanburyManor"
-    },
-    {
-      "name": "Down Hall Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/east-of-england/hertfordshire/DownHallHotel"
+      "price": "27.50",
+      "path": "/uk/east-of-england/hertfordshire/aubrey-park-hotel"
     },
     {
       "name": "Dining at Centurion",
       "cuisine": "Afternoon Tea",
       "price": "30.00",
-      "path": "/uk/east-of-england/hertfordshire/DiningAtCenturion"
+      "path": "/uk/east-of-england/hertfordshire/dining-at-centurion"
+    },
+    {
+      "name": "Down Hall Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/east-of-england/hertfordshire/down-hall-hotel"
+    },
+    {
+      "name": "Hanbury Manor",
+      "cuisine": "Afternoon Tea",
+      "price": "50.00",
+      "path": "/uk/east-of-england/hertfordshire/hanbury-manor"
+    },
+    {
+      "name": "Manor of Groves",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/east-of-england/hertfordshire/manor-of-groves"
+    },
+    {
+      "name": "Pendley Manor",
+      "cuisine": "Afternoon Tea",
+      "price": "34.95",
+      "path": "/uk/east-of-england/hertfordshire/pendley-manor"
+    },
+    {
+      "name": "Shendish Manor Hotel & Golf Club",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/east-of-england/hertfordshire/shendish-manor-hotel-golf-club"
+    },
+    {
+      "name": "Sopwell House",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/east-of-england/hertfordshire/sopwell-house"
     },
     {
       "name": "The Cowshed at Tewinbury Farm",
       "cuisine": "Afternoon Tea",
       "price": "35.00",
-      "path": "/uk/east-of-england/hertfordshire/TheCowshedAtTewinburyFarm"
+      "path": "/uk/east-of-england/hertfordshire/the-cowshed-at-tewinbury-farm"
     },
     {
-      "name": "Aubrey Park Hotel",
+      "name": "West Lodge Park",
       "cuisine": "Afternoon Tea",
-      "price": "27.50",
-      "path": "/uk/east-of-england/hertfordshire/AubreyParkHotel"
+      "price": "35.00",
+      "path": "/uk/east-of-england/hertfordshire/west-lodge-park"
     }
   ]
 }

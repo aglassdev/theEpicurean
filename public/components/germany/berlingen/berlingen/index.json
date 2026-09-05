@@ -1,14 +1,20 @@
 {
   "title": "Berlingen",
-  "country": "germany",
-  "region": "berlingen",
-  "city": "berlingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "berlingen",
+  "city": "Berlingen",
+  "citySlug": "berlingen",
+  "path": "/germany/berlingen/berlingen/restaurants",
+  "canonicalPath": "/germany/berlingen/berlingen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Johanniter-Kreuz",
       "cuisine": "Classic Cuisine, Country cooking",
       "price": "€€€",
-      "path": "/germany/berlingen/berlingen/johanniter-kreuz"
+      "path": "/germany/berlingen/berlingen/johanniterkreuz"
     }
   ]
 }

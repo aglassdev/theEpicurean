@@ -1,8 +1,14 @@
 {
   "title": "Buckland",
-  "country": "uk",
-  "region": "buckland",
-  "city": "buckland",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "buckland",
+  "city": "Buckland",
+  "citySlug": "buckland",
+  "path": "/uk/buckland/buckland/restaurants",
+  "canonicalPath": "/uk/buckland/buckland/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Buckland Manor",

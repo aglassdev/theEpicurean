@@ -1,14 +1,20 @@
 {
   "title": "Monselice",
-  "country": "italy",
-  "region": "monselice",
-  "city": "monselice",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "monselice",
+  "city": "Monselice",
+  "citySlug": "monselice",
+  "path": "/italy/monselice/monselice/restaurants",
+  "canonicalPath": "/italy/monselice/monselice/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Torre",
       "cuisine": "Traditional Cuisine, Grills",
       "price": "€€",
-      "path": "/italy/monselice/monselice/la-torre"
+      "path": "/italy/monselice/monselice/la-torre-m-o-n"
     }
   ]
 }

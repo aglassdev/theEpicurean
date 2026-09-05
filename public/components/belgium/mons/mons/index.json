@@ -1,8 +1,14 @@
 {
   "title": "Mons",
-  "country": "belgium",
-  "region": "mons",
-  "city": "mons",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "mons",
+  "city": "Mons",
+  "citySlug": "mons",
+  "path": "/belgium/mons/mons/restaurants",
+  "canonicalPath": "/belgium/mons/mons/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "La Maadeleine by Benoît Neusy",
@@ -32,7 +38,7 @@
       "name": "Origines",
       "cuisine": "Farm to table, Seasonal Cuisine",
       "price": "€€",
-      "path": "/belgium/mons/mons/origines"
+      "path": "/belgium/mons/mons/origines-m-o-n"
     }
   ]
 }

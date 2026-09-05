@@ -1,20 +1,34 @@
 {
   "title": "Deidesheim",
-  "country": "germany",
-  "region": "deidesheim",
-  "city": "deidesheim",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "deidesheim",
+  "city": "Deidesheim",
+  "citySlug": "deidesheim",
+  "path": "/germany/deidesheim/deidesheim/restaurants",
+  "canonicalPath": "/germany/deidesheim/deidesheim/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "L.A. Jordan",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/deidesheim/deidesheim/la-jordan",
+      "award": "★★"
+    },
+    {
+      "name": "Schwarzer Hahn",
+      "cuisine": "Modern French, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/deidesheim/deidesheim/schwarzer-hahn",
+      "award": "★"
+    },
     {
       "name": "Gasthaus zur Kanne",
       "cuisine": "Country cooking, Regional Cuisine",
       "price": "€€",
       "path": "/germany/deidesheim/deidesheim/gasthaus-zur-kanne"
-    },
-    {
-      "name": "L.A. Jordan",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/deidesheim/deidesheim/la-jordan"
     },
     {
       "name": "Leopold",
@@ -26,19 +40,13 @@
       "name": "Restaurant 1718",
       "cuisine": "International, Seasonal Cuisine",
       "price": "€€",
-      "path": "/germany/deidesheim/deidesheim/restaurant-1718"
+      "path": "/germany/deidesheim/deidesheim/restaurant1718"
     },
     {
       "name": "riva",
       "cuisine": "International, Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/germany/deidesheim/deidesheim/riva"
-    },
-    {
-      "name": "Schwarzer Hahn",
-      "cuisine": "Modern French, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/deidesheim/deidesheim/schwarzer-hahn"
+      "path": "/germany/deidesheim/deidesheim/riva-d-e-i"
     },
     {
       "name": "St. Urban",

@@ -1,6 +1,21 @@
 {
   "title": "Sare",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sare",
+  "city": "Sare",
+  "citySlug": "sare",
+  "path": "/france/sare/sare/restaurants",
+  "canonicalPath": "/france/sare/sare/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Bizi Ona",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/sare/sare/bizi-ona"
+    },
     {
       "name": "Hordago",
       "cuisine": "Modern Cuisine",
@@ -12,12 +27,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/sare/sare/olhabidea"
-    },
-    {
-      "name": "Bizi Ona",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/sare/sare/BiziOna"
     }
   ]
 }

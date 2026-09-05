@@ -1,9 +1,29 @@
 {
   "title": "Bad Neuenahr Ahrweiler",
-  "country": "germany",
-  "region": "bad-neuenahr-ahrweiler",
-  "city": "bad-neuenahr-ahrweiler",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bad-neuenahr-ahrweiler",
+  "city": "Bad Neuenahr Ahrweiler",
+  "citySlug": "bad-neuenahr-ahrweiler",
+  "path": "/germany/bad-neuenahr-ahrweiler/bad-neuenahr-ahrweiler/restaurants",
+  "canonicalPath": "/germany/bad-neuenahr-ahrweiler/bad-neuenahr-ahrweiler/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Steinheuers Restaurant",
+      "cuisine": "Classic French, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/bad-neuenahr-ahrweiler/bad-neuenahr-ahrweiler/steinheuers-restaurant",
+      "award": "★★"
+    },
+    {
+      "name": "Restaurant Brogsitter - Historisches Gasthaus Sanct Peter",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/bad-neuenahr-ahrweiler/bad-neuenahr-ahrweiler/restaurant-brogsitter-historisches-gasthaus-sanct-peter",
+      "award": "★"
+    },
     {
       "name": "Historisches Gasthaus Sanct Peter Restaurant Weinkirche",
       "cuisine": "International, Classic Cuisine",
@@ -11,22 +31,10 @@
       "path": "/germany/bad-neuenahr-ahrweiler/bad-neuenahr-ahrweiler/historisches-gasthaus-sanct-peter-restaurant-weinkirche"
     },
     {
-      "name": "Restaurant Brogsitter - Historisches Gasthaus Sanct Peter",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€€",
-      "path": "/germany/bad-neuenahr-ahrweiler/bad-neuenahr-ahrweiler/restaurant-brogsitter-historisches-gasthaus-sanct-peter"
-    },
-    {
       "name": "Steinheuers Landgasthof Poststuben",
       "cuisine": "Country cooking, Classic Cuisine",
       "price": "€€€",
       "path": "/germany/bad-neuenahr-ahrweiler/bad-neuenahr-ahrweiler/steinheuers-landgasthof-poststuben"
-    },
-    {
-      "name": "Steinheuers Restaurant",
-      "cuisine": "Classic French, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/germany/bad-neuenahr-ahrweiler/bad-neuenahr-ahrweiler/steinheuers-restaurant"
     }
   ]
 }

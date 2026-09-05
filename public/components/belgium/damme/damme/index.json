@@ -1,14 +1,21 @@
 {
   "title": "Damme",
-  "country": "belgium",
-  "region": "damme",
-  "city": "damme",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "damme",
+  "city": "Damme",
+  "citySlug": "damme",
+  "path": "/belgium/damme/damme/restaurants",
+  "canonicalPath": "/belgium/damme/damme/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "De Zuidkant",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/damme/damme/de-zuidkant"
+      "path": "/belgium/damme/damme/de-zuidkant",
+      "award": "★"
     },
     {
       "name": "Mout",

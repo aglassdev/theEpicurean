@@ -1,26 +1,27 @@
 {
   "title": "Brail",
-  "country": "switzerland",
-  "region": "brail",
-  "city": "brail",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "brail",
+  "city": "Brail",
+  "citySlug": "brail",
+  "path": "/switzerland/brail/brail/restaurants",
+  "canonicalPath": "/switzerland/brail/brail/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Vivanda",
+      "cuisine": "Creative, Alpine",
+      "price": "€€€€",
+      "path": "/switzerland/brail/brail/vivanda",
+      "award": "★"
+    },
     {
       "name": "Käserei",
       "cuisine": "Cheese, Fondue and Raclette, Swiss",
       "price": "€€",
       "path": "/switzerland/brail/brail/kserei"
-    },
-    {
-      "name": "Vivanda",
-      "cuisine": "Creative, Alpine",
-      "price": "€€€€",
-      "path": "/switzerland/brail/brail/vivanda"
-    },
-    {
-      "name": "Vivanda",
-      "cuisine": "Creative, Alpine",
-      "price": "€€€€",
-      "path": "/switzerland/brail/brail/vivanda"
     }
   ]
 }

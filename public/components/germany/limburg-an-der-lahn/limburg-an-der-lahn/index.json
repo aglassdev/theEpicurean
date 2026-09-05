@@ -1,14 +1,21 @@
 {
-  "title": "Limburg An Der Lahn",
-  "country": "germany",
-  "region": "limburg-an-der-lahn",
-  "city": "limburg-an-der-lahn",
+  "title": "Limburg an der Lahn",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "limburg-an-der-lahn",
+  "city": "Limburg an der Lahn",
+  "citySlug": "limburg-an-der-lahn",
+  "path": "/germany/limburg-an-der-lahn/limburg-an-der-lahn/restaurants",
+  "canonicalPath": "/germany/limburg-an-der-lahn/limburg-an-der-lahn/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "360°",
       "cuisine": "Modern Cuisine, International",
       "price": "€€€€",
-      "path": "/germany/limburg-an-der-lahn/limburg-an-der-lahn/360"
+      "path": "/germany/limburg-an-der-lahn/limburg-an-der-lahn/360",
+      "award": "★"
     },
     {
       "name": "Margaux",

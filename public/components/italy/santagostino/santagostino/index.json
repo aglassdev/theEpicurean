@@ -1,14 +1,20 @@
 {
   "title": "Santagostino",
-  "country": "italy",
-  "region": "santagostino",
-  "city": "santagostino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "santagostino",
+  "city": "Santagostino",
+  "citySlug": "santagostino",
+  "path": "/italy/santagostino/santagostino/restaurants",
+  "canonicalPath": "/italy/santagostino/santagostino/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Trattoria la Rosa 1908",
       "cuisine": "Country cooking",
       "price": "€€",
-      "path": "/italy/santagostino/santagostino/trattoria-la-rosa-1908"
+      "path": "/italy/santagostino/santagostino/trattoria-la-rosa1908"
     }
   ]
 }

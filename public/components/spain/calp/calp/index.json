@@ -1,35 +1,48 @@
 {
   "title": "Calp",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "calp",
+  "city": "Calp",
+  "citySlug": "calp",
+  "path": "/spain/calp/calp/restaurants",
+  "canonicalPath": "/spain/calp/calp/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Audrey's",
       "cuisine": "Creative, Regional Cuisine",
       "price": "€€€€",
-      "path": "/spain/calp/calp/audreys"
+      "path": "/spain/calp/calp/audreys",
+      "award": "★"
     },
     {
       "name": "Beat",
       "cuisine": "French Contemporary, International",
       "price": "€€€€",
-      "path": "/spain/calp/calp/beat"
+      "path": "/spain/calp/calp/beat",
+      "award": "★"
+    },
+    {
+      "name": "Beat by José Manuel Miguel",
+      "cuisine": "International",
+      "price": "$$$$",
+      "path": "/spain/calp/calp/beat-by-jos-manuel-miguel",
+      "award": "★"
+    },
+    {
+      "name": "Orobianco",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€€",
+      "path": "/spain/calp/calp/orobianco",
+      "award": "★"
     },
     {
       "name": "Komfort",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/calp/calp/komfort"
-    },
-    {
-      "name": "Orobianco",
-      "cuisine": "Italian Contemporary",
-      "price": "€€€€",
-      "path": "/spain/calp/calp/orobianco"
-    },
-    {
-      "name": "Beat by José Manuel Miguel",
-      "cuisine": "International",
-      "price": "$$$$",
-      "path": "/spain/calp/calp/BeatByJosManuelMiguel"
     }
   ]
 }

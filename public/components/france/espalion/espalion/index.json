@@ -1,8 +1,14 @@
 {
   "title": "Espalion",
-  "country": "france",
-  "region": "espalion",
-  "city": "espalion",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "espalion",
+  "city": "Espalion",
+  "citySlug": "espalion",
+  "path": "/france/espalion/espalion/restaurants",
+  "canonicalPath": "/france/espalion/espalion/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Méjane",

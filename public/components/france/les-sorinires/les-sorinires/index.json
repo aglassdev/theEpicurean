@@ -1,20 +1,27 @@
 {
   "title": "Les Sorinires",
-  "country": "france",
-  "region": "les-sorinires",
-  "city": "les-sorinires",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "les-sorinires",
+  "city": "Les Sorinires",
+  "citySlug": "les-sorinires",
+  "path": "/france/les-sorinires/les-sorinires/restaurants",
+  "canonicalPath": "/france/les-sorinires/les-sorinires/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le 1201 - Abbaye de Villeneuve",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/les-sorinires/les-sorinires/le1201-abbaye-de-villeneuve",
+      "award": "★"
+    },
     {
       "name": "Brasserie Constance - Abbaye de Villeneuve",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/les-sorinires/les-sorinires/brasserie-constance-abbaye-de-villeneuve"
-    },
-    {
-      "name": "Le 1201 - Abbaye de Villeneuve",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/les-sorinires/les-sorinires/le-1201-abbaye-de-villeneuve"
     }
   ]
 }

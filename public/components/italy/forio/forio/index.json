@@ -1,8 +1,14 @@
 {
   "title": "Forio",
-  "country": "italy",
-  "region": "forio",
-  "city": "forio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "forio",
+  "city": "Forio",
+  "citySlug": "forio",
+  "path": "/italy/forio/forio/restaurants",
+  "canonicalPath": "/italy/forio/forio/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Il Mirto",

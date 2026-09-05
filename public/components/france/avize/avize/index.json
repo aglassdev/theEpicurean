@@ -1,8 +1,14 @@
 {
   "title": "Avize",
-  "country": "france",
-  "region": "avize",
-  "city": "avize",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "avize",
+  "city": "Avize",
+  "citySlug": "avize",
+  "path": "/france/avize/avize/restaurants",
+  "canonicalPath": "/france/avize/avize/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Avisés",

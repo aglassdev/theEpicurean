@@ -1,0 +1,33 @@
+{
+  "title": "Costa Mesa",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Costa Mesa",
+  "citySlug": "costa-mesa",
+  "path": "/usa/california/costa-mesa/restaurants",
+  "canonicalPath": "/usa/california/costa-mesa/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Knife Pleat",
+      "cuisine": "Contemporary, Modern French",
+      "price": "$$$$",
+      "path": "/usa/california/costa-mesa/knife-pleat",
+      "award": "★"
+    },
+    {
+      "name": "Hana re",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/costa-mesa/hana-re"
+    },
+    {
+      "name": "Vaca",
+      "cuisine": "Spanish, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/costa-mesa/vaca"
+    }
+  ]
+}

@@ -1,20 +1,28 @@
 {
   "title": "Gargnano",
-  "country": "italy",
-  "region": "gargnano",
-  "city": "gargnano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "gargnano",
+  "city": "Gargnano",
+  "citySlug": "gargnano",
+  "path": "/italy/gargnano/gargnano/restaurants",
+  "canonicalPath": "/italy/gargnano/gargnano/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "La Tortuga",
-      "cuisine": "Italian Contemporary, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/italy/gargnano/gargnano/la-tortuga"
-    },
     {
       "name": "Villa Feltrinelli",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/gargnano/gargnano/villa-feltrinelli"
+      "path": "/italy/gargnano/gargnano/villa-feltrinelli",
+      "award": "★★"
+    },
+    {
+      "name": "La Tortuga",
+      "cuisine": "Italian Contemporary, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/italy/gargnano/gargnano/la-tortuga",
+      "award": "★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Voiron",
-  "country": "france",
-  "region": "voiron",
-  "city": "voiron",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "voiron",
+  "city": "Voiron",
+  "citySlug": "voiron",
+  "path": "/france/voiron/voiron/restaurants",
+  "canonicalPath": "/france/voiron/voiron/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Brasserie Chavant",

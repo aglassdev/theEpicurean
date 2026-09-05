@@ -1,11 +1,55 @@
 {
   "title": "Tallinn",
+  "country": "Estonia",
+  "countrySlug": "estonia",
+  "region": null,
+  "regionSlug": "tallinn",
+  "city": "Tallinn",
+  "citySlug": "tallinn",
+  "path": "/estonia/tallinn/tallinn/restaurants",
+  "canonicalPath": "/estonia/tallinn/tallinn/restaurants",
+  "count": 36,
   "restaurants": [
     {
       "name": "180° by Matthias Diether",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/estonia/tallinn/tallinn/180-by-matthias-diether"
+      "path": "/estonia/tallinn/tallinn/180-by-matthias-diether",
+      "award": "★★"
+    },
+    {
+      "name": "NOA Chef’s Hall",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/estonia/tallinn/tallinn/noa-chefs-hall",
+      "award": "★"
+    },
+    {
+      "name": "Bocca",
+      "cuisine": "",
+      "price": "",
+      "path": "/estonia/tallinn/tallinn/bocca",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "FUME",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/estonia/tallinn/tallinn/fume",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Vesta",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/estonia/tallinn/tallinn/vesta",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "ÂME",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/estonia/tallinn/tallinn/me"
     },
     {
       "name": "Art Priori",
@@ -20,6 +64,12 @@
       "path": "/estonia/tallinn/tallinn/barbarea"
     },
     {
+      "name": "Cafe Tempo",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/estonia/tallinn/tallinn/cafe-tempo"
+    },
+    {
       "name": "Fotografiska",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -32,16 +82,16 @@
       "path": "/estonia/tallinn/tallinn/gianni"
     },
     {
-      "name": "Horisont",
-      "cuisine": "Modern Cuisine, European",
-      "price": "€€€",
-      "path": "/estonia/tallinn/tallinn/horisont"
-    },
-    {
       "name": "Härg",
       "cuisine": "Meats and Grills",
       "price": "€€",
       "path": "/estonia/tallinn/tallinn/hrg"
+    },
+    {
+      "name": "Horisont",
+      "cuisine": "Modern Cuisine, European",
+      "price": "€€€",
+      "path": "/estonia/tallinn/tallinn/horisont"
     },
     {
       "name": "Koyo",
@@ -68,12 +118,6 @@
       "path": "/estonia/tallinn/tallinn/mantel-ja-korsten"
     },
     {
-      "name": "ÂME",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/estonia/tallinn/tallinn/me"
-    },
-    {
       "name": "Mon Repos",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -98,12 +142,6 @@
       "path": "/estonia/tallinn/tallinn/noa"
     },
     {
-      "name": "NOA Chef’s Hall",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/estonia/tallinn/tallinn/noa-chefs-hall"
-    },
-    {
       "name": "Osteria il Cru",
       "cuisine": "Italian",
       "price": "€€",
@@ -114,6 +152,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/estonia/tallinn/tallinn/paju-villa"
+    },
+    {
+      "name": "Põhjala Tap Room",
+      "cuisine": "Barbecue",
+      "price": "$$",
+      "path": "/estonia/tallinn/tallinn/phjala-tap-room"
     },
     {
       "name": "Pull",
@@ -137,13 +181,25 @@
       "name": "RADIO",
       "cuisine": "International",
       "price": "€€",
-      "path": "/estonia/tallinn/tallinn/radio"
+      "path": "/estonia/tallinn/tallinn/radio-t-a-l"
     },
     {
       "name": "Rado",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/estonia/tallinn/tallinn/rado"
+    },
+    {
+      "name": "Restoran O2",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/estonia/tallinn/tallinn/restoran-o2"
+    },
+    {
+      "name": "Sadu",
+      "cuisine": "Korean",
+      "price": "$$",
+      "path": "/estonia/tallinn/tallinn/sadu"
     },
     {
       "name": "Shang Shi",
@@ -174,48 +230,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/estonia/tallinn/tallinn/vivi"
-    },
-    {
-      "name": "FUME",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/estonia/tallinn/tallinn/Fume"
-    },
-    {
-      "name": "Vesta",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/estonia/tallinn/tallinn/Vesta"
-    },
-    {
-      "name": "Cafe Tempo",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/estonia/tallinn/tallinn/CafeTempo"
-    },
-    {
-      "name": "Põhjala Tap Room",
-      "cuisine": "Barbecue",
-      "price": "$$",
-      "path": "/estonia/tallinn/tallinn/PhjalaTapRoom"
-    },
-    {
-      "name": "Restoran O2",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/estonia/tallinn/tallinn/RestoranO2"
-    },
-    {
-      "name": "Sadu",
-      "cuisine": "Korean",
-      "price": "$$",
-      "path": "/estonia/tallinn/tallinn/Sadu"
-    },
-    {
-      "name": "Bocca",
-      "cuisine": "",
-      "price": "",
-      "path": "/estonia/tallinn/tallinn/Bocca"
     }
   ]
 }

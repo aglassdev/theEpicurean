@@ -1,20 +1,27 @@
 {
   "title": "Broc",
-  "country": "switzerland",
-  "region": "broc",
-  "city": "broc",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "broc",
+  "city": "Broc",
+  "citySlug": "broc",
+  "path": "/switzerland/broc/broc/restaurants",
+  "canonicalPath": "/switzerland/broc/broc/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Les Montagnards - Le Sommet",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/broc/broc/les-montagnards-le-sommet",
+      "award": "★"
+    },
     {
       "name": "Les Montagnards - Brasserie",
       "cuisine": "Regional Cuisine, Seasonal Cuisine",
       "price": "€€€",
       "path": "/switzerland/broc/broc/les-montagnards-brasserie"
-    },
-    {
-      "name": "Les Montagnards - Le Sommet",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/broc/broc/les-montagnards-le-sommet"
     }
   ]
 }

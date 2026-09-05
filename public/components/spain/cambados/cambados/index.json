@@ -1,9 +1,22 @@
 {
   "title": "Cambados",
-  "country": "spain",
-  "region": "cambados",
-  "city": "cambados",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "cambados",
+  "city": "Cambados",
+  "citySlug": "cambados",
+  "path": "/spain/cambados/cambados/restaurants",
+  "canonicalPath": "/spain/cambados/cambados/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Yayo Daporta",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/spain/cambados/cambados/yayo-daporta",
+      "award": "★"
+    },
     {
       "name": "A Taberna do Trasno",
       "cuisine": "Traditional Cuisine, Fusion",
@@ -15,12 +28,6 @@
       "cuisine": "Seafood",
       "price": "€€",
       "path": "/spain/cambados/cambados/posta-do-sol"
-    },
-    {
-      "name": "Yayo Daporta",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/spain/cambados/cambados/yayo-daporta"
     }
   ]
 }

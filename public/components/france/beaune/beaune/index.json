@@ -1,9 +1,29 @@
 {
   "title": "Beaune",
-  "country": "france",
-  "region": "beaune",
-  "city": "beaune",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "beaune",
+  "city": "Beaune",
+  "citySlug": "beaune",
+  "path": "/france/beaune/beaune/restaurants",
+  "canonicalPath": "/france/beaune/beaune/restaurants",
+  "count": 17,
   "restaurants": [
+    {
+      "name": "Clos du Cèdre",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/beaune/beaune/clos-du-cdre",
+      "award": "★"
+    },
+    {
+      "name": "Le Carmin",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/beaune/beaune/le-carmin",
+      "award": "★"
+    },
     {
       "name": "8 Clos",
       "cuisine": "Traditional Cuisine",
@@ -23,28 +43,10 @@
       "path": "/france/beaune/beaune/caves-madeleine"
     },
     {
-      "name": "Clos du Cèdre",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/beaune/beaune/clos-du-cdre"
-    },
-    {
       "name": "Garum",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/beaune/beaune/garum"
-    },
-    {
-      "name": "La Superb",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€€",
-      "path": "/france/beaune/beaune/la-superb"
-    },
-    {
-      "name": "La Table du Square",
-      "cuisine": "Farm to table",
-      "price": "€€",
-      "path": "/france/beaune/beaune/la-table-du-square"
     },
     {
       "name": "L'Alentour",
@@ -59,10 +61,22 @@
       "path": "/france/beaune/beaune/lcusson"
     },
     {
-      "name": "Le Bistro de l'Hôtel",
+      "name": "L'Expression",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/beaune/beaune/lexpression"
+    },
+    {
+      "name": "La Superb",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/beaune/beaune/le-bistro-de-lhtel"
+      "path": "/france/beaune/beaune/la-superb"
+    },
+    {
+      "name": "La Table du Square",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/france/beaune/beaune/la-table-du-square"
     },
     {
       "name": "Le Bénaton",
@@ -71,22 +85,16 @@
       "path": "/france/beaune/beaune/le-bnaton"
     },
     {
-      "name": "Le Carmin",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/beaune/beaune/le-carmin"
+      "name": "Le Bistro de l'Hôtel",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/beaune/beaune/le-bistro-de-lhtel"
     },
     {
       "name": "Le Relais de Saulx",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/beaune/beaune/le-relais-de-saulx"
-    },
-    {
-      "name": "L'Expression",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/beaune/beaune/lexpression"
     },
     {
       "name": "Loiseau des Vignes",

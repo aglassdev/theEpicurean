@@ -1,8 +1,14 @@
 {
   "title": "Etterbeek",
-  "country": "belgium",
-  "region": "etterbeek",
-  "city": "etterbeek",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "etterbeek",
+  "city": "Etterbeek",
+  "citySlug": "etterbeek",
+  "path": "/belgium/etterbeek/etterbeek/restaurants",
+  "canonicalPath": "/belgium/etterbeek/etterbeek/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Le Buone Maniere",
@@ -20,7 +26,7 @@
       "name": "Origine",
       "cuisine": "Modern French, World Cuisine",
       "price": "€€",
-      "path": "/belgium/etterbeek/etterbeek/origine"
+      "path": "/belgium/etterbeek/etterbeek/origine-e-t-t"
     },
     {
       "name": "Stirwen",

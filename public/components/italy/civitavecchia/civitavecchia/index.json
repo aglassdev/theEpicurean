@@ -1,14 +1,20 @@
 {
   "title": "Civitavecchia",
-  "country": "italy",
-  "region": "civitavecchia",
-  "city": "civitavecchia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "civitavecchia",
+  "city": "Civitavecchia",
+  "citySlug": "civitavecchia",
+  "path": "/italy/civitavecchia/civitavecchia/restaurants",
+  "canonicalPath": "/italy/civitavecchia/civitavecchia/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Forma",
       "cuisine": "Italian Contemporary",
       "price": "€€",
-      "path": "/italy/civitavecchia/civitavecchia/forma"
+      "path": "/italy/civitavecchia/civitavecchia/forma-c-i-v"
     }
   ]
 }

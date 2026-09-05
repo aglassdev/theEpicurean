@@ -1,473 +1,567 @@
 {
   "title": "Taipei",
+  "country": "Taiwan",
+  "countrySlug": "taiwan",
+  "region": null,
+  "regionSlug": "taipei",
+  "city": "Taipei",
+  "citySlug": "taipei",
+  "path": "/taiwan/taipei/taipei/restaurants",
+  "canonicalPath": "/taiwan/taipei/taipei/restaurants",
+  "count": 148,
   "restaurants": [
     {
       "name": "Le Palais",
       "cuisine": "Cantonese",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/LePalais"
+      "path": "/taiwan/taipei/taipei/le-palais",
+      "award": "★★★"
     },
     {
       "name": "Taïrroir",
       "cuisine": "Taiwanese contemporary",
       "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Tarroir"
+      "path": "/taiwan/taipei/taipei/tarroir",
+      "award": "★★★"
     },
     {
       "name": "A",
       "cuisine": "French Contemporary",
       "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/A"
+      "path": "/taiwan/taipei/taipei/a",
+      "award": "★★"
     },
     {
       "name": "Eika",
       "cuisine": "Japanese Contemporary",
       "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Eika"
-    },
-    {
-      "name": "Mizue",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Mizue"
-    },
-    {
-      "name": "Mudan",
-      "cuisine": "Japanese Tempura",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Mudan"
-    },
-    {
-      "name": "NOBUO",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Nobuo"
-    },
-    {
-      "name": "Yu Kapo",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/YuKapo"
+      "path": "/taiwan/taipei/taipei/eika",
+      "award": "★★"
     },
     {
       "name": "logy",
       "cuisine": "Asian Contemporary",
       "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Logy"
+      "path": "/taiwan/taipei/taipei/logy",
+      "award": "★★"
+    },
+    {
+      "name": "Mizue",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/mizue",
+      "award": "★★"
+    },
+    {
+      "name": "Mudan",
+      "cuisine": "Japanese Tempura",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/mudan",
+      "award": "★★"
+    },
+    {
+      "name": "NOBUO",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/nobuo",
+      "award": "★★"
+    },
+    {
+      "name": "Yu Kapo",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/yu-kapo",
+      "award": "★★"
     },
     {
       "name": "A Cut",
       "cuisine": "Steakhouse",
       "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/ACut"
-    },
-    {
-      "name": "Ban Bo",
-      "cuisine": "Taiwanese contemporary",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/BanBo"
-    },
-    {
-      "name": "Chuan Ya",
-      "cuisine": "Sichuan",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/ChuanYa"
-    },
-    {
-      "name": "Circum-",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Circum"
-    },
-    {
-      "name": "FRASSI",
-      "cuisine": "Italian Contemporary",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Frassi"
-    },
-    {
-      "name": "Fujin Tree Taiwanese Cuisine & Champagne (Songshan)",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/FujinTreeTaiwaneseCuisineChampagneSongshan"
-    },
-    {
-      "name": "Golden Formosa",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/GoldenFormosa"
-    },
-    {
-      "name": "Hosu",
-      "cuisine": "Taiwanese contemporary",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Hosu"
-    },
-    {
-      "name": "INITA",
-      "cuisine": "Italian Contemporary",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Inita"
-    },
-    {
-      "name": "Impromptu by Paul Lee",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/ImpromptuByPaulLee"
-    },
-    {
-      "name": "Ken Anhe",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/KenAnhe"
-    },
-    {
-      "name": "Kiku",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Kiku"
-    },
-    {
-      "name": "Kitcho",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Kitcho"
-    },
-    {
-      "name": "Ming Fu",
-      "cuisine": "Taiwanese",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/MingFu"
-    },
-    {
-      "name": "Mipon",
-      "cuisine": "Taiwanese",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Mipon"
-    },
-    {
-      "name": "Motoichi",
-      "cuisine": "Japanese Tempura",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Motoichi"
-    },
-    {
-      "name": "Mountain and Sea House",
-      "cuisine": "Taiwanese",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/MountainAndSeaHouse"
-    },
-    {
-      "name": "Mume",
-      "cuisine": "European Contemporary",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Mume"
-    },
-    {
-      "name": "Restaurant 12",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Restaurant12"
-    },
-    {
-      "name": "Shin Yeh Taiwanese Signature",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/ShinYehTaiwaneseSignature"
-    },
-    {
-      "name": "Silks House",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/SilksHouse"
-    },
-    {
-      "name": "Sushi Kajin",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/SushiKajin"
-    },
-    {
-      "name": "Sushi Ryu",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/SushiRyu"
-    },
-    {
-      "name": "Sushiyoshi",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Sushiyoshi"
-    },
-    {
-      "name": "T+T",
-      "cuisine": "Asian Contemporary",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Tt"
-    },
-    {
-      "name": "The Guest House",
-      "cuisine": "Sichuan",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/TheGuestHouse"
-    },
-    {
-      "name": "Tien Hsiang Lo",
-      "cuisine": "Hang Zhou",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/TienHsiangLo"
-    },
-    {
-      "name": "Wok by O'BOND",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/WokByObond"
-    },
-    {
-      "name": "Ya Ge",
-      "cuisine": "Cantonese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/YaGe"
-    },
-    {
-      "name": "ZEA",
-      "cuisine": "Latin American",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Zea"
+      "path": "/taiwan/taipei/taipei/a-cut",
+      "award": "★"
     },
     {
       "name": "aMaze",
       "cuisine": "Creative",
       "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Amaze"
+      "path": "/taiwan/taipei/taipei/amaze",
+      "award": "★"
+    },
+    {
+      "name": "Ban Bo",
+      "cuisine": "Taiwanese contemporary",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/ban-bo",
+      "award": "★"
+    },
+    {
+      "name": "Chuan Ya",
+      "cuisine": "Sichuan",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/chuan-ya",
+      "award": "★"
+    },
+    {
+      "name": "Circum-",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/circum",
+      "award": "★"
     },
     {
       "name": "de nuit",
       "cuisine": "French Contemporary",
       "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/DeNuit"
+      "path": "/taiwan/taipei/taipei/de-nuit",
+      "award": "★"
+    },
+    {
+      "name": "FRASSI",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/frassi",
+      "award": "★"
+    },
+    {
+      "name": "Fujin Tree Taiwanese Cuisine & Champagne (Songshan)",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/fujin-tree-taiwanese-cuisine-champagne-songshan",
+      "award": "★"
+    },
+    {
+      "name": "Golden Formosa",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/golden-formosa",
+      "award": "★"
+    },
+    {
+      "name": "Hosu",
+      "cuisine": "Taiwanese contemporary",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/hosu",
+      "award": "★"
+    },
+    {
+      "name": "Impromptu by Paul Lee",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/impromptu-by-paul-lee",
+      "award": "★"
+    },
+    {
+      "name": "INITA",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/inita",
+      "award": "★"
+    },
+    {
+      "name": "Ken Anhe",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/ken-anhe",
+      "award": "★"
+    },
+    {
+      "name": "Kiku",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/kiku",
+      "award": "★"
+    },
+    {
+      "name": "Kitcho",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/kitcho",
+      "award": "★"
+    },
+    {
+      "name": "Ming Fu",
+      "cuisine": "Taiwanese",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/ming-fu",
+      "award": "★"
+    },
+    {
+      "name": "Mipon",
+      "cuisine": "Taiwanese",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/mipon",
+      "award": "★"
+    },
+    {
+      "name": "Motoichi",
+      "cuisine": "Japanese Tempura",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/motoichi",
+      "award": "★"
+    },
+    {
+      "name": "Mountain and Sea House",
+      "cuisine": "Taiwanese",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/mountain-and-sea-house",
+      "award": "★"
+    },
+    {
+      "name": "Mume",
+      "cuisine": "European Contemporary",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/mume",
+      "award": "★"
+    },
+    {
+      "name": "Restaurant 12",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/restaurant12",
+      "award": "★"
+    },
+    {
+      "name": "Shin Yeh Taiwanese Signature",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/shin-yeh-taiwanese-signature",
+      "award": "★"
+    },
+    {
+      "name": "Silks House",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/silks-house",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Kajin",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/sushi-kajin",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Ryu",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/sushi-ryu",
+      "award": "★"
+    },
+    {
+      "name": "Sushiyoshi",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/sushiyoshi",
+      "award": "★"
+    },
+    {
+      "name": "T+T",
+      "cuisine": "Asian Contemporary",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/tt",
+      "award": "★"
+    },
+    {
+      "name": "The Guest House",
+      "cuisine": "Sichuan",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/the-guest-house",
+      "award": "★"
+    },
+    {
+      "name": "Tien Hsiang Lo",
+      "cuisine": "Hang Zhou",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/tien-hsiang-lo",
+      "award": "★"
+    },
+    {
+      "name": "Wok by O'BOND",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/wok-by-obond",
+      "award": "★"
+    },
+    {
+      "name": "Ya Ge",
+      "cuisine": "Cantonese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/ya-ge",
+      "award": "★"
+    },
+    {
+      "name": "ZEA",
+      "cuisine": "Latin American",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/zea",
+      "award": "★"
     },
     {
       "name": "Chi Chia Chuang (Changchun Road)",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/ChiChiaChuangChangchunRoad"
+      "path": "/taiwan/taipei/taipei/chi-chia-chuang-changchun-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Ching Jiao",
       "cuisine": "Small eats",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/ChingJiao"
+      "path": "/taiwan/taipei/taipei/ching-jiao",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Chung Chia Sheng Jian Bao",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/ChungChiaShengJianBao"
+      "path": "/taiwan/taipei/taipei/chung-chia-sheng-jian-bao",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Clavius",
       "cuisine": "Vegetarian",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/Clavius"
+      "path": "/taiwan/taipei/taipei/clavius",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Da-Qiao-Tou Tube Rice Pudding (Yanping North Road)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/DaqiaotouTubeRicePuddingYanpingNorthRoad"
+      "path": "/taiwan/taipei/taipei/daqiaotou-tube-rice-pudding-yanping-north-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Din Tai Fung (Xinyi Road)",
       "cuisine": "Shanghainese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/DinTaiFungXinyiRoad"
-    },
-    {
-      "name": "HUGH dessert dining",
-      "cuisine": "Creative",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/HughDessertDining"
+      "path": "/taiwan/taipei/taipei/din-tai-fung-xinyi-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hang Zhou Xiao Long Bao (Da'an)",
       "cuisine": "Dim Sum",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/HangZhouXiaoLongBaoDaan"
+      "path": "/taiwan/taipei/taipei/hang-zhou-xiao-long-bao-daan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hsiao Cho Chih Chia",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/HsiaoChoChihChia"
+      "path": "/taiwan/taipei/taipei/hsiao-cho-chih-chia",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hsiung Chi Scallion Pancake",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/HsiungChiScallionPancake"
+      "path": "/taiwan/taipei/taipei/hsiung-chi-scallion-pancake",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Huang Chi Lu Rou Fan",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/HuangChiLuRouFan"
+      "path": "/taiwan/taipei/taipei/huang-chi-lu-rou-fan",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "HUGH dessert dining",
+      "cuisine": "Creative",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/hugh-dessert-dining",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Inn's+ (Shuangcheng Street)",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/InnsShuangchengStreet"
+      "path": "/taiwan/taipei/taipei/inns-shuangcheng-street",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Jen Ho Yuan",
       "cuisine": "Yunnanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/JenHoYuan"
+      "path": "/taiwan/taipei/taipei/jen-ho-yuan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Jin Shang Hsuan",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/JinShangHsuan"
+      "path": "/taiwan/taipei/taipei/jin-shang-hsuan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Lao Shan Dong Homemade Noodles",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/LaoShanDongHomemadeNoodles"
+      "path": "/taiwan/taipei/taipei/lao-shan-dong-homemade-noodles",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Little Tree Food (Da'an Road)",
       "cuisine": "Vegetarian",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/LittleTreeFoodDaanRoad"
+      "path": "/taiwan/taipei/taipei/little-tree-food-daan-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Mai Mien Yen Tsai",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/MaiMienYenTsai"
+      "path": "/taiwan/taipei/taipei/mai-mien-yen-tsai",
+      "award": "Bib Gourmand"
     },
     {
       "name": "MoonMoonFood (Qingdao East Road)",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/MoonmoonfoodQingdaoEastRoad"
+      "path": "/taiwan/taipei/taipei/moonmoonfood-qingdao-east-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Open Smile",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/OpenSmile"
+      "path": "/taiwan/taipei/taipei/open-smile",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Pàng",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/Png"
+      "path": "/taiwan/taipei/taipei/png",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Saffron Fine Indian Cuisine",
       "cuisine": "Indian",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/SaffronFineIndianCuisine"
+      "path": "/taiwan/taipei/taipei/saffron-fine-indian-cuisine",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Serenity (Zhongzheng)",
       "cuisine": "Vegetarian",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/SerenityZhongzheng"
+      "path": "/taiwan/taipei/taipei/serenity-zhongzheng",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Sinchao Rice Shoppe",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/SinchaoRiceShoppe"
+      "path": "/taiwan/taipei/taipei/sinchao-rice-shoppe",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Soft Power",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/SoftPower"
+      "path": "/taiwan/taipei/taipei/soft-power",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Su Lai Chuan",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/SuLaiChuan"
+      "path": "/taiwan/taipei/taipei/su-lai-chuan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Sung Chu Yuan",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/SungChuYuan"
+      "path": "/taiwan/taipei/taipei/sung-chu-yuan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tableau by Craig Yang",
       "cuisine": "Creative",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/TableauByCraigYang"
+      "path": "/taiwan/taipei/taipei/tableau-by-craig-yang",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Talking Heads",
       "cuisine": "Hunanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/TalkingHeads"
+      "path": "/taiwan/taipei/taipei/talking-heads",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tien Hsia San Chueh",
       "cuisine": "Noodles",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/TienHsiaSanChueh"
+      "path": "/taiwan/taipei/taipei/tien-hsia-san-chueh",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Toriaezu Curry",
       "cuisine": "Curry",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/ToriaezuCurry"
+      "path": "/taiwan/taipei/taipei/toriaezu-curry",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tsui Feng Yuan",
       "cuisine": "Cantonese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/TsuiFengYuan"
+      "path": "/taiwan/taipei/taipei/tsui-feng-yuan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Unnamed Clay Oven Roll",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/UnnamedClayOvenRoll"
+      "path": "/taiwan/taipei/taipei/unnamed-clay-oven-roll",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Wang's Broth",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/WangsBroth"
+      "path": "/taiwan/taipei/taipei/wangs-broth",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Wu Wang Tsai Chi",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/WuWangTsaiChi"
+      "path": "/taiwan/taipei/taipei/wu-wang-tsai-chi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yi Jia Zi",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/YiJiaZi"
+      "path": "/taiwan/taipei/taipei/yi-jia-zi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yu Yu 1969",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/YuYu1969"
+      "path": "/taiwan/taipei/taipei/yu-yu1969",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yuan Fang Guabao",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/taiwan/taipei/taipei/YuanFangGuabao"
+      "path": "/taiwan/taipei/taipei/yuan-fang-guabao",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Yangming Spring (Shilin)",
+      "cuisine": "Vegetarian",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/yangming-spring-shilin",
+      "award": "Green Star"
     },
     {
       "name": "3927",
@@ -485,409 +579,403 @@
       "name": "A Cheng Goose (Zhongshan)",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/AChengGooseZhongshan"
+      "path": "/taiwan/taipei/taipei/a-cheng-goose-zhongshan"
     },
     {
       "name": "Aleisha",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Aleisha"
+      "path": "/taiwan/taipei/taipei/aleisha"
     },
     {
       "name": "Antico Forno",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/AnticoForno"
+      "path": "/taiwan/taipei/taipei/antico-forno"
     },
     {
       "name": "Baho (Da'an)",
       "cuisine": "Barbecue",
       "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/BahoDaan"
+      "path": "/taiwan/taipei/taipei/baho-daan"
     },
     {
       "name": "Bencotto",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Bencotto"
+      "path": "/taiwan/taipei/taipei/bencotto"
     },
     {
       "name": "Brisé",
       "cuisine": "European Contemporary",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Bris"
+      "path": "/taiwan/taipei/taipei/bris"
     },
     {
       "name": "CEO 1950",
       "cuisine": "European Contemporary",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Ceo1950"
+      "path": "/taiwan/taipei/taipei/ceo1950"
     },
     {
       "name": "Chaud Doux",
       "cuisine": "French",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/ChaudDoux"
+      "path": "/taiwan/taipei/taipei/chaud-doux"
     },
     {
       "name": "Cheng Jia",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/ChengJia"
+      "path": "/taiwan/taipei/taipei/cheng-jia"
     },
     {
       "name": "Chinese Cuisine",
       "cuisine": "Taiwanese",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/ChineseCuisine"
+      "path": "/taiwan/taipei/taipei/chinese-cuisine"
     },
     {
       "name": "Chuan Mu Yuan",
       "cuisine": "Dim Sum",
       "price": "$$",
-      "path": "/taiwan/taipei/taipei/ChuanMuYuan"
+      "path": "/taiwan/taipei/taipei/chuan-mu-yuan"
     },
     {
       "name": "Clover",
       "cuisine": "French Contemporary",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Clover"
+      "path": "/taiwan/taipei/taipei/clover"
     },
     {
       "name": "Danny's Steakhouse",
       "cuisine": "Steakhouse",
       "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/DannysSteakhouse"
+      "path": "/taiwan/taipei/taipei/dannys-steakhouse"
     },
     {
       "name": "Dasuke",
       "cuisine": "Japanese",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Dasuke"
+      "path": "/taiwan/taipei/taipei/dasuke"
     },
     {
       "name": "Ephernité",
       "cuisine": "French Contemporary",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Ephernit"
+      "path": "/taiwan/taipei/taipei/ephernit"
     },
     {
       "name": "Fon-Cé",
       "cuisine": "Latin American",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Fonc"
-    },
-    {
-      "name": "Gi Yuan",
-      "cuisine": "Sichuan",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/GiYuan"
-    },
-    {
-      "name": "Good Friend Cold Noodles",
-      "cuisine": "Street Food",
-      "price": "$",
-      "path": "/taiwan/taipei/taipei/GoodFriendColdNoodles"
-    },
-    {
-      "name": "Halal Chinese Beef Noodles (Da'an)",
-      "cuisine": "Noodles",
-      "price": "$",
-      "path": "/taiwan/taipei/taipei/HalalChineseBeefNoodlesDaan"
-    },
-    {
-      "name": "Hijo",
-      "cuisine": "Seafood",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Hijo"
-    },
-    {
-      "name": "Izmir Turk Kitchen",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/IzmirTurkKitchen"
-    },
-    {
-      "name": "JUNTO",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/Junto"
-    },
-    {
-      "name": "KOICHIRO",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Koichiro"
-    },
-    {
-      "name": "KUR",
-      "cuisine": "Japanese Contemporary",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Kur"
-    },
-    {
-      "name": "Komboi",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Komboi"
-    },
-    {
-      "name": "Kou Gyu Rou",
-      "cuisine": "Noodles",
-      "price": "$",
-      "path": "/taiwan/taipei/taipei/KouGyuRou"
-    },
-    {
-      "name": "Lin",
-      "cuisine": "French Contemporary",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Lin"
-    },
-    {
-      "name": "Lin Ju",
-      "cuisine": "Cantonese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/LinJu"
-    },
-    {
-      "name": "Lin's Vegetable Lamb Hotpot",
-      "cuisine": "Hotpot",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/LinsVegetableLambHotpot"
-    },
-    {
-      "name": "May Snow Hakka Food",
-      "cuisine": "Hakkanese",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/MaySnowHakkaFood"
-    },
-    {
-      "name": "Mochi Baby",
-      "cuisine": "Street Food",
-      "price": "$",
-      "path": "/taiwan/taipei/taipei/MochiBaby"
-    },
-    {
-      "name": "Muji Beef Noodles",
-      "cuisine": "Noodles",
-      "price": "$",
-      "path": "/taiwan/taipei/taipei/MujiBeefNoodles"
-    },
-    {
-      "name": "N°168 Prime Steakhouse (Zhongshan)",
-      "cuisine": "Steakhouse",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/N168PrimeSteakhouseZhongshan"
-    },
-    {
-      "name": "PEI FULL",
-      "cuisine": "Jiangzhe",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/PeiFull"
-    },
-    {
-      "name": "Page",
-      "cuisine": "International",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/Page"
-    },
-    {
-      "name": "Paris 1930 de Hideki Takayama",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Paris1930DeHidekiTakayama"
-    },
-    {
-      "name": "Really Good Seafood",
-      "cuisine": "Seafood",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/ReallyGoodSeafood"
-    },
-    {
-      "name": "Robin's Teppanyaki",
-      "cuisine": "Teppanyaki",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/RobinsTeppanyaki"
-    },
-    {
-      "name": "Rong Ju",
-      "cuisine": "Cantonese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/RongJu"
-    },
-    {
-      "name": "Rong Rong Yuan",
-      "cuisine": "Zhejiang",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/RongRongYuan"
-    },
-    {
-      "name": "Sansan Bistro",
-      "cuisine": "Sichuan",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/SansanBistro"
-    },
-    {
-      "name": "Sasa",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Sasa"
-    },
-    {
-      "name": "Sate House",
-      "cuisine": "Indonesian",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/SateHouse"
-    },
-    {
-      "name": "Set.",
-      "cuisine": "Creative",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/Set"
-    },
-    {
-      "name": "Shih Chia Big Rice Ball",
-      "cuisine": "Small eats",
-      "price": "$",
-      "path": "/taiwan/taipei/taipei/ShihChiaBigRiceBall"
-    },
-    {
-      "name": "Shin Yeh Taiwanese Cuisine",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/ShinYehTaiwaneseCuisine"
-    },
-    {
-      "name": "Shin Yeh Taiwanese Delight (Nangang)",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/ShinYehTaiwaneseDelightNangang"
-    },
-    {
-      "name": "Shing-Peng-Lai (Zhongshan North Road)",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/ShingpenglaiZhongshanNorthRoad"
-    },
-    {
-      "name": "Sushi Kaori",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/SushiKaori"
-    },
-    {
-      "name": "Sushi Nomura",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/SushiNomura"
-    },
-    {
-      "name": "Sushi Touryuumon",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/SushiTouryuumon"
-    },
-    {
-      "name": "Tajimaya Shabu Shabu",
-      "cuisine": "Shabu-shabu",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/TajimayaShabuShabu"
-    },
-    {
-      "name": "Tempura Sugimura",
-      "cuisine": "Japanese Tempura",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/TempuraSugimura"
-    },
-    {
-      "name": "Thai & Thai",
-      "cuisine": "Thai",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/ThaiThai"
-    },
-    {
-      "name": "The Dragon",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/TheDragon"
-    },
-    {
-      "name": "Tsuki Yo Iwa",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/TsukiYoIwa"
-    },
-    {
-      "name": "Tutto Bello",
-      "cuisine": "Italian Contemporary",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/TuttoBello"
-    },
-    {
-      "name": "Uke",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Uke"
-    },
-    {
-      "name": "Uosho",
-      "cuisine": "Japanese",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/Uosho"
-    },
-    {
-      "name": "Vanne Yakiniku",
-      "cuisine": "Barbecue",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/VanneYakiniku"
-    },
-    {
-      "name": "Wamaki",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Wamaki"
-    },
-    {
-      "name": "Xiang Se",
-      "cuisine": "European Contemporary",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/XiangSe"
-    },
-    {
-      "name": "Xiao Ping Kitchen (Zhongshan)",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/XiaoPingKitchenZhongshan"
-    },
-    {
-      "name": "Yangming Spring (Shilin)",
-      "cuisine": "Vegetarian",
-      "price": "$$$",
-      "path": "/taiwan/taipei/taipei/YangmingSpringShilin"
-    },
-    {
-      "name": "Yuan Huan Pien Oyster Egg Omelette",
-      "cuisine": "Street Food",
-      "price": "$",
-      "path": "/taiwan/taipei/taipei/YuanHuanPienOysterEggOmelette"
-    },
-    {
-      "name": "Yuu",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/taiwan/taipei/taipei/Yuu"
-    },
-    {
-      "name": "Zaap",
-      "cuisine": "Thai",
-      "price": "$$",
-      "path": "/taiwan/taipei/taipei/Zaap"
+      "path": "/taiwan/taipei/taipei/fonc"
     },
     {
       "name": "fumée",
       "cuisine": "Yakitori",
       "price": "$$$",
-      "path": "/taiwan/taipei/taipei/Fume"
+      "path": "/taiwan/taipei/taipei/fume"
+    },
+    {
+      "name": "Gi Yuan",
+      "cuisine": "Sichuan",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/gi-yuan"
+    },
+    {
+      "name": "Good Friend Cold Noodles",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/taiwan/taipei/taipei/good-friend-cold-noodles"
+    },
+    {
+      "name": "Halal Chinese Beef Noodles (Da'an)",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/taiwan/taipei/taipei/halal-chinese-beef-noodles-daan"
+    },
+    {
+      "name": "Hijo",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/hijo"
+    },
+    {
+      "name": "Izmir Turk Kitchen",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/izmir-turk-kitchen"
+    },
+    {
+      "name": "JUNTO",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/junto"
+    },
+    {
+      "name": "KOICHIRO",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/koichiro"
+    },
+    {
+      "name": "Komboi",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/komboi"
+    },
+    {
+      "name": "Kou Gyu Rou",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/taiwan/taipei/taipei/kou-gyu-rou"
+    },
+    {
+      "name": "KUR",
+      "cuisine": "Japanese Contemporary",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/kur"
+    },
+    {
+      "name": "Lin",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/lin"
+    },
+    {
+      "name": "Lin Ju",
+      "cuisine": "Cantonese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/lin-ju"
+    },
+    {
+      "name": "Lin's Vegetable Lamb Hotpot",
+      "cuisine": "Hotpot",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/lins-vegetable-lamb-hotpot"
+    },
+    {
+      "name": "May Snow Hakka Food",
+      "cuisine": "Hakkanese",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/may-snow-hakka-food"
+    },
+    {
+      "name": "Mochi Baby",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/taiwan/taipei/taipei/mochi-baby"
+    },
+    {
+      "name": "Muji Beef Noodles",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/taiwan/taipei/taipei/muji-beef-noodles"
+    },
+    {
+      "name": "N°168 Prime Steakhouse (Zhongshan)",
+      "cuisine": "Steakhouse",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/n168-prime-steakhouse-zhongshan"
+    },
+    {
+      "name": "Page",
+      "cuisine": "International",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/page"
+    },
+    {
+      "name": "Paris 1930 de Hideki Takayama",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/paris1930-de-hideki-takayama"
+    },
+    {
+      "name": "PEI FULL",
+      "cuisine": "Jiangzhe",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/pei-full"
+    },
+    {
+      "name": "Really Good Seafood",
+      "cuisine": "Seafood",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/really-good-seafood"
+    },
+    {
+      "name": "Robin's Teppanyaki",
+      "cuisine": "Teppanyaki",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/robins-teppanyaki"
+    },
+    {
+      "name": "Rong Ju",
+      "cuisine": "Cantonese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/rong-ju"
+    },
+    {
+      "name": "Rong Rong Yuan",
+      "cuisine": "Zhejiang",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/rong-rong-yuan"
+    },
+    {
+      "name": "Sansan Bistro",
+      "cuisine": "Sichuan",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/sansan-bistro"
+    },
+    {
+      "name": "Sasa",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/sasa"
+    },
+    {
+      "name": "Sate House",
+      "cuisine": "Indonesian",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/sate-house"
+    },
+    {
+      "name": "Set.",
+      "cuisine": "Creative",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/set"
+    },
+    {
+      "name": "Shih Chia Big Rice Ball",
+      "cuisine": "Small eats",
+      "price": "$",
+      "path": "/taiwan/taipei/taipei/shih-chia-big-rice-ball"
+    },
+    {
+      "name": "Shin Yeh Taiwanese Cuisine",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/shin-yeh-taiwanese-cuisine"
+    },
+    {
+      "name": "Shin Yeh Taiwanese Delight (Nangang)",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/shin-yeh-taiwanese-delight-nangang"
+    },
+    {
+      "name": "Shing-Peng-Lai (Zhongshan North Road)",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/shingpenglai-zhongshan-north-road"
+    },
+    {
+      "name": "Sushi Kaori",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/sushi-kaori"
+    },
+    {
+      "name": "Sushi Nomura",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/sushi-nomura"
+    },
+    {
+      "name": "Sushi Touryuumon",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/sushi-touryuumon"
+    },
+    {
+      "name": "Tajimaya Shabu Shabu",
+      "cuisine": "Shabu-shabu",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/tajimaya-shabu-shabu"
+    },
+    {
+      "name": "Tempura Sugimura",
+      "cuisine": "Japanese Tempura",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/tempura-sugimura"
+    },
+    {
+      "name": "Thai & Thai",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/thai-thai"
+    },
+    {
+      "name": "The Dragon",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/the-dragon"
+    },
+    {
+      "name": "Tsuki Yo Iwa",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/tsuki-yo-iwa"
+    },
+    {
+      "name": "Tutto Bello",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/tutto-bello"
+    },
+    {
+      "name": "Uke",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/uke"
+    },
+    {
+      "name": "Uosho",
+      "cuisine": "Japanese",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/uosho"
+    },
+    {
+      "name": "Vanne Yakiniku",
+      "cuisine": "Barbecue",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/vanne-yakiniku"
+    },
+    {
+      "name": "Wamaki",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/wamaki"
+    },
+    {
+      "name": "Xiang Se",
+      "cuisine": "European Contemporary",
+      "price": "$$$",
+      "path": "/taiwan/taipei/taipei/xiang-se"
+    },
+    {
+      "name": "Xiao Ping Kitchen (Zhongshan)",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/xiao-ping-kitchen-zhongshan"
+    },
+    {
+      "name": "Yuan Huan Pien Oyster Egg Omelette",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/taiwan/taipei/taipei/yuan-huan-pien-oyster-egg-omelette"
+    },
+    {
+      "name": "Yuu",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/taiwan/taipei/taipei/yuu"
+    },
+    {
+      "name": "Zaap",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/taiwan/taipei/taipei/zaap"
     }
   ]
 }

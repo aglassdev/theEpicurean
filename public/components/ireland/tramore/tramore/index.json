@@ -1,14 +1,20 @@
 {
   "title": "Tramore",
-  "country": "ireland",
-  "region": "tramore",
-  "city": "tramore",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "tramore",
+  "city": "Tramore",
+  "citySlug": "tramore",
+  "path": "/ireland/tramore/tramore/restaurants",
+  "canonicalPath": "/ireland/tramore/tramore/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Beach House",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/ireland/tramore/tramore/beach-house"
+      "path": "/ireland/tramore/tramore/beach-house-t-r-a"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Reyrieux",
-  "country": "france",
-  "region": "reyrieux",
-  "city": "reyrieux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "reyrieux",
+  "city": "Reyrieux",
+  "citySlug": "reyrieux",
+  "path": "/france/reyrieux/reyrieux/restaurants",
+  "canonicalPath": "/france/reyrieux/reyrieux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'inaTTendu",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/reyrieux/reyrieux/linattendu"
+      "path": "/france/reyrieux/reyrieux/linattendu-r-e-y"
     }
   ]
 }

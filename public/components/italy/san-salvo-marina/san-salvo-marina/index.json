@@ -1,14 +1,21 @@
 {
   "title": "San Salvo Marina",
-  "country": "italy",
-  "region": "san-salvo-marina",
-  "city": "san-salvo-marina",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-salvo-marina",
+  "city": "San Salvo Marina",
+  "citySlug": "san-salvo-marina",
+  "path": "/italy/san-salvo-marina/san-salvo-marina/restaurants",
+  "canonicalPath": "/italy/san-salvo-marina/san-salvo-marina/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Al Metrò",
       "cuisine": "Modern Cuisine, Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/italy/san-salvo-marina/san-salvo-marina/al-metr"
+      "path": "/italy/san-salvo-marina/san-salvo-marina/al-metr",
+      "award": "★"
     }
   ]
 }

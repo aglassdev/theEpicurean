@@ -1,14 +1,21 @@
 {
   "title": "Sint Katelijne Waver",
-  "country": "belgium",
-  "region": "sint-katelijne-waver",
-  "city": "sint-katelijne-waver",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "sint-katelijne-waver",
+  "city": "Sint Katelijne Waver",
+  "citySlug": "sint-katelijne-waver",
+  "path": "/belgium/sint-katelijne-waver/sint-katelijne-waver/restaurants",
+  "canonicalPath": "/belgium/sint-katelijne-waver/sint-katelijne-waver/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Centpourcent",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/sint-katelijne-waver/sint-katelijne-waver/centpourcent"
+      "path": "/belgium/sint-katelijne-waver/sint-katelijne-waver/centpourcent",
+      "award": "★"
     }
   ]
 }

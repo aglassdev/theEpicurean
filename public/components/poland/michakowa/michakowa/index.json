@@ -1,11 +1,20 @@
 {
-  "title": "Michałkowa",
+  "title": "Michakowa",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "michakowa",
+  "city": "Michakowa",
+  "citySlug": "michakowa",
+  "path": "/poland/michakowa/michakowa/restaurants",
+  "canonicalPath": "/poland/michakowa/michakowa/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Boreczna",
       "cuisine": "Classic Cuisine",
       "price": "$$$$",
-      "path": "/poland/michakowa/michakowa/Boreczna"
+      "path": "/poland/michakowa/michakowa/boreczna"
     }
   ]
 }

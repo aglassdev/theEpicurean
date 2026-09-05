@@ -1,11 +1,20 @@
 {
-  "title": "Sainte-Perpétue",
+  "title": "Sainte Perptue",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "sainte-perptue",
+  "city": "Sainte Perptue",
+  "citySlug": "sainte-perptue",
+  "path": "/canada/sainte-perptue/sainte-perptue/restaurants",
+  "canonicalPath": "/canada/sainte-perptue/sainte-perptue/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Pâturage - Espaces Gourmands",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/canada/sainte-perptue/sainte-perptue/AuPturageEspacesGourmands"
+      "path": "/canada/sainte-perptue/sainte-perptue/au-pturage-espaces-gourmands"
     }
   ]
 }

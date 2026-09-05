@@ -1,11 +1,40 @@
 {
   "title": "Oaxaca",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "oaxaca",
+  "city": "Oaxaca",
+  "citySlug": "oaxaca",
+  "path": "/mexico/oaxaca/oaxaca/restaurants",
+  "canonicalPath": "/mexico/oaxaca/oaxaca/restaurants",
+  "count": 22,
   "restaurants": [
+    {
+      "name": "Levadura de Olla Restaurante",
+      "cuisine": "Mexican, Traditional Cuisine",
+      "price": "$$",
+      "path": "/mexico/oaxaca/oaxaca/levadura-de-olla-restaurante",
+      "award": "★"
+    },
+    {
+      "name": "Los Danzantes Oaxaca",
+      "cuisine": "Mexican, Traditional Cuisine",
+      "price": "$$$",
+      "path": "/mexico/oaxaca/oaxaca/los-danzantes-oaxaca",
+      "award": "★"
+    },
     {
       "name": "Adamá",
       "cuisine": "Middle Eastern",
       "price": "$",
       "path": "/mexico/oaxaca/oaxaca/adam"
+    },
+    {
+      "name": "Aguamarga",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/oaxaca/oaxaca/aguamarga"
     },
     {
       "name": "Alfonsina",
@@ -86,18 +115,6 @@
       "path": "/mexico/oaxaca/oaxaca/las-quince-letras"
     },
     {
-      "name": "Levadura de Olla Restaurante",
-      "cuisine": "Mexican, Traditional Cuisine",
-      "price": "$$",
-      "path": "/mexico/oaxaca/oaxaca/levadura-de-olla-restaurante"
-    },
-    {
-      "name": "Los Danzantes Oaxaca",
-      "cuisine": "Mexican, Traditional Cuisine",
-      "price": "$$$",
-      "path": "/mexico/oaxaca/oaxaca/los-danzantes-oaxaca"
-    },
-    {
       "name": "Nois",
       "cuisine": "Mexican, Contemporary",
       "price": "$$$",
@@ -107,7 +124,7 @@
       "name": "Teocintle-Tika'aya",
       "cuisine": "Mexican, Contemporary",
       "price": "$$$$",
-      "path": "/mexico/oaxaca/oaxaca/teocintle-tikaaya"
+      "path": "/mexico/oaxaca/oaxaca/teocintletikaaya"
     },
     {
       "name": "Tierra del Sol",
@@ -126,12 +143,6 @@
       "cuisine": "Mexican, Regional Cuisine",
       "price": "$$",
       "path": "/mexico/oaxaca/oaxaca/zandunga"
-    },
-    {
-      "name": "Aguamarga",
-      "cuisine": "Mexican",
-      "price": "$$$$",
-      "path": "/mexico/oaxaca/oaxaca/Aguamarga"
     }
   ]
 }

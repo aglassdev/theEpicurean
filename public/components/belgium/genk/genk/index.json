@@ -1,26 +1,34 @@
 {
   "title": "Genk",
-  "country": "belgium",
-  "region": "genk",
-  "city": "genk",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "genk",
+  "city": "Genk",
+  "citySlug": "genk",
+  "path": "/belgium/genk/genk/restaurants",
+  "canonicalPath": "/belgium/genk/genk/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "De Kristalijn",
       "cuisine": "Modern French",
       "price": "€€€€",
-      "path": "/belgium/genk/genk/de-kristalijn"
+      "path": "/belgium/genk/genk/de-kristalijn",
+      "award": "★"
+    },
+    {
+      "name": "La Botte",
+      "cuisine": "Italian",
+      "price": "€€€€",
+      "path": "/belgium/genk/genk/la-botte",
+      "award": "★"
     },
     {
       "name": "Feast",
       "cuisine": "Creative French",
       "price": "€€",
       "path": "/belgium/genk/genk/feast"
-    },
-    {
-      "name": "La Botte",
-      "cuisine": "Italian",
-      "price": "€€€€",
-      "path": "/belgium/genk/genk/la-botte"
     },
     {
       "name": "Moonstone",

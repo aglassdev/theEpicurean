@@ -1,11 +1,20 @@
 {
-  "title": "Torcé",
+  "title": "Torc",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "torc",
+  "city": "Torc",
+  "citySlug": "torc",
+  "path": "/france/torc/torc/restaurants",
+  "canonicalPath": "/france/torc/torc/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Mosaic - Château des Tesnières",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/france/torc/torc/RestaurantMosaicChteauDesTesnires"
+      "path": "/france/torc/torc/restaurant-mosaic-chteau-des-tesnires"
     }
   ]
 }

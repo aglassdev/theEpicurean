@@ -1,11 +1,20 @@
 {
-  "title": "Datça",
+  "title": "Data",
+  "country": "Türkiye",
+  "countrySlug": "trkiye",
+  "region": null,
+  "regionSlug": "data",
+  "city": "Data",
+  "citySlug": "data",
+  "path": "/trkiye/data/data/restaurants",
+  "canonicalPath": "/trkiye/data/data/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Yakamengen III",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/trkiye/data/data/YakamengenIii"
+      "path": "/trkiye/data/data/yakamengen-iii"
     }
   ]
 }

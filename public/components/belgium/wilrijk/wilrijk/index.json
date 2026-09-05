@@ -1,11 +1,21 @@
 {
   "title": "Wilrijk",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "wilrijk",
+  "city": "Wilrijk",
+  "citySlug": "wilrijk",
+  "path": "/belgium/wilrijk/wilrijk/restaurants",
+  "canonicalPath": "/belgium/wilrijk/wilrijk/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Den Bourgondiër",
       "cuisine": "Classic Cuisine",
       "price": "$$",
-      "path": "/belgium/wilrijk/wilrijk/DenBourgondir"
+      "path": "/belgium/wilrijk/wilrijk/den-bourgondir",
+      "award": "Bib Gourmand"
     }
   ]
 }

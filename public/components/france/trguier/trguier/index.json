@@ -1,14 +1,20 @@
 {
   "title": "Trguier",
-  "country": "france",
-  "region": "trguier",
-  "city": "trguier",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "trguier",
+  "city": "Trguier",
+  "citySlug": "trguier",
+  "path": "/france/trguier/trguier/restaurants",
+  "canonicalPath": "/france/trguier/trguier/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table du Marché",
       "cuisine": "Traditional Cuisine",
       "price": "€",
-      "path": "/france/trguier/trguier/la-table-du-march"
+      "path": "/france/trguier/trguier/la-table-du-march-t-r-g"
     }
   ]
 }

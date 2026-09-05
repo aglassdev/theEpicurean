@@ -1,20 +1,27 @@
 {
   "title": "Codigoro",
-  "country": "italy",
-  "region": "codigoro",
-  "city": "codigoro",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "codigoro",
+  "city": "Codigoro",
+  "citySlug": "codigoro",
+  "path": "/italy/codigoro/codigoro/restaurants",
+  "canonicalPath": "/italy/codigoro/codigoro/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "La Zanzara",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/italy/codigoro/codigoro/la-zanzara",
+      "award": "★"
+    },
     {
       "name": "La Capanna di Eraclio",
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/italy/codigoro/codigoro/la-capanna-di-eraclio"
-    },
-    {
-      "name": "La Zanzara",
-      "cuisine": "Seafood",
-      "price": "€€€",
-      "path": "/italy/codigoro/codigoro/la-zanzara"
     }
   ]
 }

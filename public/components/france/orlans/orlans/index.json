@@ -1,9 +1,22 @@
 {
   "title": "Orlans",
-  "country": "france",
-  "region": "orlans",
-  "city": "orlans",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "orlans",
+  "city": "Orlans",
+  "citySlug": "orlans",
+  "path": "/france/orlans/orlans/restaurants",
+  "canonicalPath": "/france/orlans/orlans/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Le Lièvre Gourmand",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/orlans/orlans/le-livre-gourmand",
+      "award": "★"
+    },
     {
       "name": "Eugène",
       "cuisine": "Modern Cuisine",
@@ -17,22 +30,16 @@
       "path": "/france/orlans/orlans/gric"
     },
     {
-      "name": "La Dariole",
-      "cuisine": "Modern Cuisine, Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/orlans/orlans/la-dariole"
-    },
-    {
-      "name": "Le Lièvre Gourmand",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/orlans/orlans/le-livre-gourmand"
-    },
-    {
       "name": "L'Hibiscus",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/orlans/orlans/lhibiscus"
+    },
+    {
+      "name": "La Dariole",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/orlans/orlans/la-dariole"
     }
   ]
 }

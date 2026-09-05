@@ -1,26 +1,34 @@
 {
-  "title": "El Puerto De Santa Mara",
-  "country": "spain",
-  "region": "el-puerto-de-santa-mara",
-  "city": "el-puerto-de-santa-mara",
+  "title": "El Puerto de Santa Mara",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "el-puerto-de-santa-mara",
+  "city": "El Puerto de Santa Mara",
+  "citySlug": "el-puerto-de-santa-mara",
+  "path": "/spain/el-puerto-de-santa-mara/el-puerto-de-santa-mara/restaurants",
+  "canonicalPath": "/spain/el-puerto-de-santa-mara/el-puerto-de-santa-mara/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Aponiente",
       "cuisine": "Creative, Innovative",
       "price": "€€€€",
-      "path": "/spain/el-puerto-de-santa-mara/el-puerto-de-santa-mara/aponiente"
+      "path": "/spain/el-puerto-de-santa-mara/el-puerto-de-santa-mara/aponiente",
+      "award": "★★★"
+    },
+    {
+      "name": "Tohqa",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/el-puerto-de-santa-mara/el-puerto-de-santa-mara/tohqa",
+      "award": "★"
     },
     {
       "name": "La Taberna del Chef del Mar",
       "cuisine": "Creative",
       "price": "€€",
       "path": "/spain/el-puerto-de-santa-mara/el-puerto-de-santa-mara/la-taberna-del-chef-del-mar"
-    },
-    {
-      "name": "Tohqa",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/el-puerto-de-santa-mara/el-puerto-de-santa-mara/tohqa"
     }
   ]
 }

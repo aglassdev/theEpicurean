@@ -1,8 +1,14 @@
 {
   "title": "Roye",
-  "country": "france",
-  "region": "roye",
-  "city": "roye",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "roye",
+  "city": "Roye",
+  "citySlug": "roye",
+  "path": "/france/roye/roye/restaurants",
+  "canonicalPath": "/france/roye/roye/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Flamiche",

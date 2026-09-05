@@ -1,8 +1,14 @@
 {
   "title": "Cowley",
-  "country": "uk",
-  "region": "cowley",
-  "city": "cowley",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "cowley",
+  "city": "Cowley",
+  "citySlug": "cowley",
+  "path": "/uk/cowley/cowley/restaurants",
+  "canonicalPath": "/uk/cowley/cowley/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cowley Manor",

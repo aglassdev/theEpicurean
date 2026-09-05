@@ -1,20 +1,27 @@
 {
   "title": "Leucate",
-  "country": "france",
-  "region": "leucate",
-  "city": "leucate",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "leucate",
+  "city": "Leucate",
+  "citySlug": "leucate",
+  "path": "/france/leucate/leucate/restaurants",
+  "canonicalPath": "/france/leucate/leucate/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Grand Cap",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/leucate/leucate/le-grand-cap",
+      "award": "★"
+    },
     {
       "name": "Aphyllanthe",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/leucate/leucate/aphyllanthe"
-    },
-    {
-      "name": "Le Grand Cap",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/leucate/leucate/le-grand-cap"
     }
   ]
 }

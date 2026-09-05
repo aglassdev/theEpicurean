@@ -1,14 +1,21 @@
 {
   "title": "Cocentaina",
-  "country": "spain",
-  "region": "cocentaina",
-  "city": "cocentaina",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "cocentaina",
+  "city": "Cocentaina",
+  "citySlug": "cocentaina",
+  "path": "/spain/cocentaina/cocentaina/restaurants",
+  "canonicalPath": "/spain/cocentaina/cocentaina/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Escaleta",
       "cuisine": "Creative, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/spain/cocentaina/cocentaina/lescaleta"
+      "path": "/spain/cocentaina/cocentaina/lescaleta",
+      "award": "★★"
     },
     {
       "name": "Natxo Sellés",

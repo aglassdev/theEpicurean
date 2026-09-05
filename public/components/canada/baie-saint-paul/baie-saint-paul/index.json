@@ -1,11 +1,21 @@
 {
-  "title": "Baie-Saint-Paul",
+  "title": "Baie Saint Paul",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "baie-saint-paul",
+  "city": "Baie Saint Paul",
+  "citySlug": "baie-saint-paul",
+  "path": "/canada/baie-saint-paul/baie-saint-paul/restaurants",
+  "canonicalPath": "/canada/baie-saint-paul/baie-saint-paul/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Buvette Gentille",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/canada/baie-saint-paul/baie-saint-paul/BuvetteGentille"
+      "path": "/canada/baie-saint-paul/baie-saint-paul/buvette-gentille",
+      "award": "Bib Gourmand"
     }
   ]
 }

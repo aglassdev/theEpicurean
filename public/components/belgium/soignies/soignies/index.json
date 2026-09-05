@@ -1,20 +1,26 @@
 {
   "title": "Soignies",
-  "country": "belgium",
-  "region": "soignies",
-  "city": "soignies",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "soignies",
+  "city": "Soignies",
+  "citySlug": "soignies",
+  "path": "/belgium/soignies/soignies/restaurants",
+  "canonicalPath": "/belgium/soignies/soignies/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Le Bouchon et l'Assiette",
-      "cuisine": "Farm to table",
-      "price": "€€€",
-      "path": "/belgium/soignies/soignies/le-bouchon-et-lassiette"
-    },
     {
       "name": "L'Embellie",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/belgium/soignies/soignies/lembellie"
+    },
+    {
+      "name": "Le Bouchon et l'Assiette",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/belgium/soignies/soignies/le-bouchon-et-lassiette"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Couron",
-  "country": "france",
-  "region": "couron",
-  "city": "couron",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "couron",
+  "city": "Couron",
+  "citySlug": "couron",
+  "path": "/france/couron/couron/restaurants",
+  "canonicalPath": "/france/couron/couron/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le François II",

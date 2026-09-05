@@ -1,11 +1,20 @@
 {
   "title": "Contes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "contes",
+  "city": "Contes",
+  "citySlug": "contes",
+  "path": "/france/contes/contes/restaurants",
+  "canonicalPath": "/france/contes/contes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Père & Fils Raingeard",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/france/contes/contes/PreFilsRaingeard"
+      "path": "/france/contes/contes/pre-fils-raingeard"
     }
   ]
 }

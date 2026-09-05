@@ -1,8 +1,14 @@
 {
   "title": "Green Island",
-  "country": "uk",
-  "region": "green-island",
-  "city": "green-island",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "green-island",
+  "city": "Green Island",
+  "citySlug": "green-island",
+  "path": "/uk/green-island/green-island/restaurants",
+  "canonicalPath": "/uk/green-island/green-island/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Green Island",

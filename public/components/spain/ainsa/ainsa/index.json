@@ -1,14 +1,21 @@
 {
   "title": "Ainsa",
-  "country": "spain",
-  "region": "ainsa",
-  "city": "ainsa",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "ainsa",
+  "city": "Ainsa",
+  "citySlug": "ainsa",
+  "path": "/spain/ainsa/ainsa/restaurants",
+  "canonicalPath": "/spain/ainsa/ainsa/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Callizo",
       "cuisine": "Creative, Innovative",
       "price": "€€€€",
-      "path": "/spain/ainsa/ainsa/callizo"
+      "path": "/spain/ainsa/ainsa/callizo",
+      "award": "★"
     }
   ]
 }

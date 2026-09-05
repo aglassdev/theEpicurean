@@ -1,14 +1,20 @@
 {
   "title": "Badalucco",
-  "country": "italy",
-  "region": "badalucco",
-  "city": "badalucco",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "badalucco",
+  "city": "Badalucco",
+  "citySlug": "badalucco",
+  "path": "/italy/badalucco/badalucco/restaurants",
+  "canonicalPath": "/italy/badalucco/badalucco/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Umami",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/italy/badalucco/badalucco/umami"
+      "path": "/italy/badalucco/badalucco/umami-b-a-d"
     }
   ]
 }

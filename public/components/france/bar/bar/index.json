@@ -1,14 +1,20 @@
 {
   "title": "Bar",
-  "country": "france",
-  "region": "bar",
-  "city": "bar",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bar",
+  "city": "Bar",
+  "citySlug": "bar",
+  "path": "/france/bar/bar/restaurants",
+  "canonicalPath": "/france/bar/bar/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Épicurieux",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/bar/bar/lpicurieux"
+      "path": "/france/bar/bar/lpicurieux-b-a-r"
     }
   ]
 }

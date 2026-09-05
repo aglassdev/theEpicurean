@@ -1,8 +1,14 @@
 {
   "title": "Waremme",
-  "country": "belgium",
-  "region": "waremme",
-  "city": "waremme",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "waremme",
+  "city": "Waremme",
+  "citySlug": "waremme",
+  "path": "/belgium/waremme/waremme/restaurants",
+  "canonicalPath": "/belgium/waremme/waremme/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Petit Axhe",

@@ -1,14 +1,21 @@
 {
   "title": "Werfen",
-  "country": "austria",
-  "region": "werfen",
-  "city": "werfen",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "werfen",
+  "city": "Werfen",
+  "citySlug": "werfen",
+  "path": "/austria/werfen/werfen/restaurants",
+  "canonicalPath": "/austria/werfen/werfen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Obauer",
       "cuisine": "Classic Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/austria/werfen/werfen/obauer"
+      "path": "/austria/werfen/werfen/obauer",
+      "award": "★★"
     }
   ]
 }

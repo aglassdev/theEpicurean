@@ -1,8 +1,14 @@
 {
   "title": "Sand",
-  "country": "france",
-  "region": "sand",
-  "city": "sand",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sand",
+  "city": "Sand",
+  "citySlug": "sand",
+  "path": "/france/sand/sand/restaurants",
+  "canonicalPath": "/france/sand/sand/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Charrue",

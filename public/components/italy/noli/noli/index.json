@@ -1,20 +1,27 @@
 {
   "title": "Noli",
-  "country": "italy",
-  "region": "noli",
-  "city": "noli",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "noli",
+  "city": "Noli",
+  "citySlug": "noli",
+  "path": "/italy/noli/noli/restaurants",
+  "canonicalPath": "/italy/noli/noli/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Vescovado",
+      "cuisine": "Ligurian, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/noli/noli/vescovado",
+      "award": "★"
+    },
     {
       "name": "Controcorrente",
       "cuisine": "Modern Cuisine, Ligurian",
       "price": "€€",
       "path": "/italy/noli/noli/controcorrente"
-    },
-    {
-      "name": "Vescovado",
-      "cuisine": "Ligurian, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/noli/noli/vescovado"
     }
   ]
 }

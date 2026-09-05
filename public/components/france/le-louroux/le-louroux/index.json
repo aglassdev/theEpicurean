@@ -1,8 +1,14 @@
 {
   "title": "Le Louroux",
-  "country": "france",
-  "region": "le-louroux",
-  "city": "le-louroux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-louroux",
+  "city": "Le Louroux",
+  "citySlug": "le-louroux",
+  "path": "/france/le-louroux/le-louroux/restaurants",
+  "canonicalPath": "/france/le-louroux/le-louroux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table du Prieuré",

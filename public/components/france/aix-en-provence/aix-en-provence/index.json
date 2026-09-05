@@ -1,23 +1,54 @@
 {
   "title": "Aix En Provence",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "aix-en-provence",
+  "city": "Aix En Provence",
+  "citySlug": "aix-en-provence",
+  "path": "/france/aix-en-provence/aix-en-provence/restaurants",
+  "canonicalPath": "/france/aix-en-provence/aix-en-provence/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "Étude",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/aix-en-provence/aix-en-provence/tude",
+      "award": "★"
+    },
     {
       "name": "La Table de Pierre Reboul",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/aix-en-provence/aix-en-provence/la-table-de-pierre-reboul"
+      "path": "/france/aix-en-provence/aix-en-provence/la-table-de-pierre-reboul",
+      "award": "★"
+    },
+    {
+      "name": "Le Art",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/aix-en-provence/aix-en-provence/le-art",
+      "award": "★"
+    },
+    {
+      "name": "Le Art - Château de la Gaude",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/france/aix-en-provence/aix-en-provence/le-art-chteau-de-la-gaude",
+      "award": "★"
+    },
+    {
+      "name": "Âma Terra",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/aix-en-provence/aix-en-provence/ma-terra"
     },
     {
       "name": "La Taula Gallici",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
       "path": "/france/aix-en-provence/aix-en-provence/la-taula-gallici"
-    },
-    {
-      "name": "Le Art",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/aix-en-provence/aix-en-provence/le-art"
     },
     {
       "name": "Le Vintrépide",
@@ -36,24 +67,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/aix-en-provence/aix-en-provence/licandro-le-bistro"
-    },
-    {
-      "name": "Âma Terra",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/aix-en-provence/aix-en-provence/ma-terra"
-    },
-    {
-      "name": "Étude",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/aix-en-provence/aix-en-provence/tude"
-    },
-    {
-      "name": "Le Art - Château de la Gaude",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/france/aix-en-provence/aix-en-provence/LeArtChteauDeLaGaude"
     }
   ]
 }

@@ -1,17 +1,42 @@
 {
   "title": "Regensburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "regensburg",
+  "city": "Regensburg",
+  "citySlug": "regensburg",
+  "path": "/germany/regensburg/regensburg/restaurants",
+  "canonicalPath": "/germany/regensburg/regensburg/restaurants",
+  "count": 9,
   "restaurants": [
     {
       "name": "Aska",
       "cuisine": "Japanese, Sushi",
       "price": "€€€€",
-      "path": "/germany/regensburg/regensburg/aska"
+      "path": "/germany/regensburg/regensburg/aska",
+      "award": "★"
     },
     {
-      "name": "Aska",
-      "cuisine": "Japanese, Sushi",
+      "name": "Ontra's Gourmetstube",
+      "cuisine": "Modern Cuisine, International",
       "price": "€€€€",
-      "path": "/germany/regensburg/regensburg/aska"
+      "path": "/germany/regensburg/regensburg/ontras-gourmetstube",
+      "award": "★"
+    },
+    {
+      "name": "ROTER HAHN by Maximilian Schmidt",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/regensburg/regensburg/roter-hahn-by-maximilian-schmidt",
+      "award": "★"
+    },
+    {
+      "name": "Storstad",
+      "cuisine": "Creative, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/regensburg/regensburg/storstad",
+      "award": "★"
     },
     {
       "name": "Mokuli",
@@ -26,16 +51,10 @@
       "path": "/germany/regensburg/regensburg/ontra"
     },
     {
-      "name": "Ontra's Gourmetstube",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€€",
-      "path": "/germany/regensburg/regensburg/ontras-gourmetstube"
-    },
-    {
-      "name": "ROTER HAHN by Maximilian Schmidt",
+      "name": "ROTER HAHN",
       "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/regensburg/regensburg/roter-hahn-by-maximilian-schmidt"
+      "price": "$$$",
+      "path": "/germany/regensburg/regensburg/roter-hahn"
     },
     {
       "name": "Spelunke",
@@ -48,18 +67,6 @@
       "cuisine": "Contemporary, Fusion",
       "price": "€€",
       "path": "/germany/regensburg/regensburg/sticky-fingers"
-    },
-    {
-      "name": "Storstad",
-      "cuisine": "Creative, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/regensburg/regensburg/storstad"
-    },
-    {
-      "name": "ROTER HAHN",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/germany/regensburg/regensburg/RoterHahn"
     }
   ]
 }

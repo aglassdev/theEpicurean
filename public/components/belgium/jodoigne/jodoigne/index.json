@@ -1,14 +1,21 @@
 {
   "title": "Jodoigne",
-  "country": "belgium",
-  "region": "jodoigne",
-  "city": "jodoigne",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "jodoigne",
+  "city": "Jodoigne",
+  "citySlug": "jodoigne",
+  "path": "/belgium/jodoigne/jodoigne/restaurants",
+  "canonicalPath": "/belgium/jodoigne/jodoigne/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Aux petits oignons",
       "cuisine": "Modern French, French",
       "price": "€€€",
-      "path": "/belgium/jodoigne/jodoigne/aux-petits-oignons"
+      "path": "/belgium/jodoigne/jodoigne/aux-petits-oignons",
+      "award": "★"
     },
     {
       "name": "Le Sixième",

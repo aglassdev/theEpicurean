@@ -1,8 +1,14 @@
 {
   "title": "Landda",
-  "country": "france",
-  "region": "landda",
-  "city": "landda",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "landda",
+  "city": "Landda",
+  "citySlug": "landda",
+  "path": "/france/landda/landda/restaurants",
+  "canonicalPath": "/france/landda/landda/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Vioben",

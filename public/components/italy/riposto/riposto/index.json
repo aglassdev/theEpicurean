@@ -1,8 +1,14 @@
 {
   "title": "Riposto",
-  "country": "italy",
-  "region": "riposto",
-  "city": "riposto",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "riposto",
+  "city": "Riposto",
+  "citySlug": "riposto",
+  "path": "/italy/riposto/riposto/restaurants",
+  "canonicalPath": "/italy/riposto/riposto/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Cucina di Donna Carmela",

@@ -1,8 +1,14 @@
 {
   "title": "Meerfeld",
-  "country": "germany",
-  "region": "meerfeld",
-  "city": "meerfeld",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "meerfeld",
+  "city": "Meerfeld",
+  "citySlug": "meerfeld",
+  "path": "/germany/meerfeld/meerfeld/restaurants",
+  "canonicalPath": "/germany/meerfeld/meerfeld/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Poststuben",

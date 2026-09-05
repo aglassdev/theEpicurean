@@ -1,17 +1,26 @@
 {
   "title": "Jacksonville",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Jacksonville",
+  "citySlug": "jacksonville",
+  "path": "/usa/florida/jacksonville/restaurants",
+  "canonicalPath": "/usa/florida/jacksonville/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Rue Saint Marc",
       "cuisine": "French",
       "price": "$$$",
-      "path": "/usa/florida/jacksonville/RueSaintMarc"
+      "path": "/usa/florida/jacksonville/rue-saint-marc"
     },
     {
       "name": "The Bearded Pig",
       "cuisine": "American",
       "price": "$$",
-      "path": "/usa/florida/jacksonville/TheBeardedPig"
+      "path": "/usa/florida/jacksonville/the-bearded-pig"
     }
   ]
 }

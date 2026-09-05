@@ -1,23 +1,32 @@
 {
   "title": "Somerset",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South West",
+  "regionSlug": "south-west",
+  "city": "Somerset",
+  "citySlug": "somerset",
+  "path": "/uk/south-west/somerset/restaurants",
+  "canonicalPath": "/uk/south-west/somerset/restaurants",
+  "count": 3,
   "restaurants": [
     {
-      "name": "Mercure Bridgwater",
+      "name": "Bailbrook House Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/south-west/somerset/MercureBridgwater"
+      "price": "29.50",
+      "path": "/uk/south-west/somerset/bailbrook-house-hotel"
     },
     {
       "name": "Charlton House",
       "cuisine": "Afternoon Tea",
       "price": "25.00",
-      "path": "/uk/south-west/somerset/CharltonHouse"
+      "path": "/uk/south-west/somerset/charlton-house"
     },
     {
-      "name": "Bailbrook House Hotel",
+      "name": "Mercure Bridgwater",
       "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/south-west/somerset/BailbrookHouseHotel"
+      "price": "35.00",
+      "path": "/uk/south-west/somerset/mercure-bridgwater"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Caprarola",
-  "country": "italy",
-  "region": "caprarola",
-  "city": "caprarola",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "caprarola",
+  "city": "Caprarola",
+  "citySlug": "caprarola",
+  "path": "/italy/caprarola/caprarola/restaurants",
+  "canonicalPath": "/italy/caprarola/caprarola/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Trattoria del Cimino dal 1895",
       "cuisine": "Cuisine from Lazio, Traditional Cuisine",
       "price": "€€",
-      "path": "/italy/caprarola/caprarola/trattoria-del-cimino-dal-1895"
+      "path": "/italy/caprarola/caprarola/trattoria-del-cimino-dal1895"
     }
   ]
 }

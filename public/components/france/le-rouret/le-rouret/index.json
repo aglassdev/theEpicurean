@@ -1,8 +1,14 @@
 {
   "title": "Le Rouret",
-  "country": "france",
-  "region": "le-rouret",
-  "city": "le-rouret",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-rouret",
+  "city": "Le Rouret",
+  "citySlug": "le-rouret",
+  "path": "/france/le-rouret/le-rouret/restaurants",
+  "canonicalPath": "/france/le-rouret/le-rouret/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Bistro du Clos",
@@ -14,7 +20,7 @@
       "name": "Le Clos Saint-Pierre",
       "cuisine": "Provençal",
       "price": "€€€",
-      "path": "/france/le-rouret/le-rouret/le-clos-saint-pierre"
+      "path": "/france/le-rouret/le-rouret/le-clos-saintpierre"
     }
   ]
 }

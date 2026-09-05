@@ -1,11 +1,20 @@
 {
-  "title": "Ślęza",
+  "title": "Lza",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "lza",
+  "city": "Lza",
+  "citySlug": "lza",
+  "path": "/poland/lza/lza/restaurants",
+  "canonicalPath": "/poland/lza/lza/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Zamek Topacz - Dom Wierzynka",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/poland/lza/lza/ZamekTopaczDomWierzynka"
+      "path": "/poland/lza/lza/zamek-topacz-dom-wierzynka"
     }
   ]
 }

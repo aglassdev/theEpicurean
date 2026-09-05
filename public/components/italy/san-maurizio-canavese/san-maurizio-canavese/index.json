@@ -1,14 +1,21 @@
 {
   "title": "San Maurizio Canavese",
-  "country": "italy",
-  "region": "san-maurizio-canavese",
-  "city": "san-maurizio-canavese",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-maurizio-canavese",
+  "city": "San Maurizio Canavese",
+  "citySlug": "san-maurizio-canavese",
+  "path": "/italy/san-maurizio-canavese/san-maurizio-canavese/restaurants",
+  "canonicalPath": "/italy/san-maurizio-canavese/san-maurizio-canavese/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Credenza",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/italy/san-maurizio-canavese/san-maurizio-canavese/la-credenza"
+      "path": "/italy/san-maurizio-canavese/san-maurizio-canavese/la-credenza",
+      "award": "★"
     }
   ]
 }

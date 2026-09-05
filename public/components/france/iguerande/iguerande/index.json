@@ -1,8 +1,14 @@
 {
   "title": "Iguerande",
-  "country": "france",
-  "region": "iguerande",
-  "city": "iguerande",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "iguerande",
+  "city": "Iguerande",
+  "citySlug": "iguerande",
+  "path": "/france/iguerande/iguerande/restaurants",
+  "canonicalPath": "/france/iguerande/iguerande/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Colline du Colombier",

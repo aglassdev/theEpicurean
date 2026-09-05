@@ -1,11 +1,20 @@
 {
   "title": "Hitchin",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "hitchin",
+  "city": "Hitchin",
+  "citySlug": "hitchin",
+  "path": "/uk/hitchin/hitchin/restaurants",
+  "canonicalPath": "/uk/hitchin/hitchin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Cock",
       "cuisine": "Modern British",
       "price": "$$",
-      "path": "/uk/hitchin/hitchin/TheCock"
+      "path": "/uk/hitchin/hitchin/the-cock"
     }
   ]
 }

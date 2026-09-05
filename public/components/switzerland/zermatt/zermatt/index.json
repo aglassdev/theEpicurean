@@ -1,17 +1,55 @@
 {
   "title": "Zermatt",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "zermatt",
+  "city": "Zermatt",
+  "citySlug": "zermatt",
+  "path": "/switzerland/zermatt/zermatt/restaurants",
+  "canonicalPath": "/switzerland/zermatt/zermatt/restaurants",
+  "count": 17,
   "restaurants": [
     {
       "name": "After Seven",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/switzerland/zermatt/zermatt/after-seven"
+      "path": "/switzerland/zermatt/zermatt/after-seven",
+      "award": "★"
     },
     {
       "name": "Alpine Gourmet Prato Borni",
       "cuisine": "Creative, Country cooking",
       "price": "€€€€",
-      "path": "/switzerland/zermatt/zermatt/alpine-gourmet-prato-borni"
+      "path": "/switzerland/zermatt/zermatt/alpine-gourmet-prato-borni",
+      "award": "★"
+    },
+    {
+      "name": "Brasserie Uno",
+      "cuisine": "Contemporary, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/zermatt/zermatt/brasserie-uno",
+      "award": "★"
+    },
+    {
+      "name": "Capri",
+      "cuisine": "Italian",
+      "price": "€€€€",
+      "path": "/switzerland/zermatt/zermatt/capri",
+      "award": "★"
+    },
+    {
+      "name": "Chez Vroney",
+      "cuisine": "",
+      "price": "",
+      "path": "/switzerland/zermatt/zermatt/chez-vroney",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "ad lib",
+      "cuisine": "Seasonal Cuisine",
+      "price": "$$$$",
+      "path": "/switzerland/zermatt/zermatt/ad-lib"
     },
     {
       "name": "Aroleid Restaurant",
@@ -23,19 +61,7 @@
       "name": "Bazaar",
       "cuisine": "International, Asian",
       "price": "€€",
-      "path": "/switzerland/zermatt/zermatt/bazaar"
-    },
-    {
-      "name": "Brasserie Uno",
-      "cuisine": "Contemporary, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/zermatt/zermatt/brasserie-uno"
-    },
-    {
-      "name": "Capri",
-      "cuisine": "Italian",
-      "price": "€€€€",
-      "path": "/switzerland/zermatt/zermatt/capri"
+      "path": "/switzerland/zermatt/zermatt/bazaar-z-e-r"
     },
     {
       "name": "Chez Vrony",
@@ -68,16 +94,10 @@
       "path": "/switzerland/zermatt/zermatt/marmo"
     },
     {
-      "name": "Marmo",
-      "cuisine": "Alpine, Modern Cuisine",
-      "price": "€€",
-      "path": "/switzerland/zermatt/zermatt/marmo"
-    },
-    {
       "name": "Potato-FINE FOOD RESTAURANT",
       "cuisine": "Modern Cuisine, Regional Cuisine",
       "price": "€€€",
-      "path": "/switzerland/zermatt/zermatt/potato-fine-food-restaurant"
+      "path": "/switzerland/zermatt/zermatt/potatofine-food-restaurant"
     },
     {
       "name": "The Omnia",
@@ -96,18 +116,6 @@
       "cuisine": "Swiss, International",
       "price": "€",
       "path": "/switzerland/zermatt/zermatt/zum-see"
-    },
-    {
-      "name": "ad lib",
-      "cuisine": "Seasonal Cuisine",
-      "price": "$$$$",
-      "path": "/switzerland/zermatt/zermatt/AdLib"
-    },
-    {
-      "name": "Chez Vroney",
-      "cuisine": "",
-      "price": "",
-      "path": "/switzerland/zermatt/zermatt/ChezVroney"
     }
   ]
 }

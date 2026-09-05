@@ -1,29 +1,42 @@
 {
   "title": "Hong Kong",
+  "country": "Hong Kong",
+  "countrySlug": "hong-kong",
+  "region": null,
+  "regionSlug": "hong-kong",
+  "city": "Hong Kong",
+  "citySlug": "hong-kong",
+  "path": "/hong-kong/hong-kong/hong-kong/restaurants",
+  "canonicalPath": "/hong-kong/hong-kong/hong-kong/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "China Tang",
       "cuisine": "Cantonese",
       "price": "$$$",
-      "path": "/hong-kong/hong-kong/hong-kong/ChinaTang"
+      "path": "/hong-kong/hong-kong/hong-kong/china-tang",
+      "award": "★"
     },
     {
       "name": "Ju Xing Home",
       "cuisine": "Cantonese",
       "price": "$$",
-      "path": "/hong-kong/hong-kong/hong-kong/JuXingHome"
+      "path": "/hong-kong/hong-kong/hong-kong/ju-xing-home",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Prof Chan's (Western District)",
       "cuisine": "Hunanese",
       "price": "$$",
-      "path": "/hong-kong/hong-kong/hong-kong/ProfChansWesternDistrict"
+      "path": "/hong-kong/hong-kong/hong-kong/prof-chans-western-district",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tak Kee Chiu Chou Restaurant",
       "cuisine": "Chiu Chow",
       "price": "$$",
-      "path": "/hong-kong/hong-kong/hong-kong/TakKeeChiuChouRestaurant"
+      "path": "/hong-kong/hong-kong/hong-kong/tak-kee-chiu-chou-restaurant",
+      "award": "Bib Gourmand"
     }
   ]
 }

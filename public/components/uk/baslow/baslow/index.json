@@ -1,8 +1,14 @@
 {
   "title": "Baslow",
-  "country": "uk",
-  "region": "baslow",
-  "city": "baslow",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "baslow",
+  "city": "Baslow",
+  "citySlug": "baslow",
+  "path": "/uk/baslow/baslow/restaurants",
+  "canonicalPath": "/uk/baslow/baslow/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Fischer's Baslow Hall",

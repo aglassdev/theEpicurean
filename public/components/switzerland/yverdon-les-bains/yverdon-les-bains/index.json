@@ -1,14 +1,21 @@
 {
-  "title": "Yverdon Les Bains",
-  "country": "switzerland",
-  "region": "yverdon-les-bains",
-  "city": "yverdon-les-bains",
+  "title": "Yverdon les Bains",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "yverdon-les-bains",
+  "city": "Yverdon les Bains",
+  "citySlug": "yverdon-les-bains",
+  "path": "/switzerland/yverdon-les-bains/yverdon-les-bains/restaurants",
+  "canonicalPath": "/switzerland/yverdon-les-bains/yverdon-les-bains/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant GERBER WYSS",
       "cuisine": "Classic French, Regional Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/yverdon-les-bains/yverdon-les-bains/restaurant-gerber-wyss"
+      "path": "/switzerland/yverdon-les-bains/yverdon-les-bains/restaurant-gerber-wyss",
+      "award": "★"
     }
   ]
 }

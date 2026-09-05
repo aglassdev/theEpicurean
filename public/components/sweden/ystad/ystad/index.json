@@ -1,8 +1,14 @@
 {
   "title": "Ystad",
-  "country": "sweden",
-  "region": "ystad",
-  "city": "ystad",
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "region": null,
+  "regionSlug": "ystad",
+  "city": "Ystad",
+  "citySlug": "ystad",
+  "path": "/sweden/ystad/ystad/restaurants",
+  "canonicalPath": "/sweden/ystad/ystad/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "JH matbar",

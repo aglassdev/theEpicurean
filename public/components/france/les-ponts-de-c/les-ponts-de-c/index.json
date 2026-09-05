@@ -1,8 +1,14 @@
 {
-  "title": "Les Ponts De C",
-  "country": "france",
-  "region": "les-ponts-de-c",
-  "city": "les-ponts-de-c",
+  "title": "Les Ponts de C",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "les-ponts-de-c",
+  "city": "Les Ponts de C",
+  "citySlug": "les-ponts-de-c",
+  "path": "/france/les-ponts-de-c/les-ponts-de-c/restaurants",
+  "canonicalPath": "/france/les-ponts-de-c/les-ponts-de-c/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Le Pois Gourmand",
@@ -14,13 +20,13 @@
       "name": "Les 3 Lieux - La Table",
       "cuisine": "Creative",
       "price": "€€",
-      "path": "/france/les-ponts-de-c/les-ponts-de-c/les-3-lieux-la-table"
+      "path": "/france/les-ponts-de-c/les-ponts-de-c/les3-lieux-la-table"
     },
     {
       "name": "Les 3 Lieux - Le Restaurant",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/les-ponts-de-c/les-ponts-de-c/les-3-lieux-le-restaurant"
+      "path": "/france/les-ponts-de-c/les-ponts-de-c/les3-lieux-le-restaurant"
     }
   ]
 }

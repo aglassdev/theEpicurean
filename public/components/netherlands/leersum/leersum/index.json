@@ -1,20 +1,27 @@
 {
   "title": "Leersum",
-  "country": "netherlands",
-  "region": "leersum",
-  "city": "leersum",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "leersum",
+  "city": "Leersum",
+  "citySlug": "leersum",
+  "path": "/netherlands/leersum/leersum/restaurants",
+  "canonicalPath": "/netherlands/leersum/leersum/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Voltaire",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/netherlands/leersum/leersum/voltaire",
+      "award": "★"
+    },
     {
       "name": "Bistro LOF",
       "cuisine": "Modern French",
       "price": "€€",
       "path": "/netherlands/leersum/leersum/bistro-lof"
-    },
-    {
-      "name": "Voltaire",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/netherlands/leersum/leersum/voltaire"
     }
   ]
 }

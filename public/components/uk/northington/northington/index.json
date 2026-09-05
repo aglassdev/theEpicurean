@@ -1,11 +1,20 @@
 {
   "title": "Northington",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "northington",
+  "city": "Northington",
+  "citySlug": "northington",
+  "path": "/uk/northington/northington/restaurants",
+  "canonicalPath": "/uk/northington/northington/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Woolpack Inn",
       "cuisine": "Modern British",
       "price": "$$",
-      "path": "/uk/northington/northington/TheWoolpackInn"
+      "path": "/uk/northington/northington/the-woolpack-inn"
     }
   ]
 }

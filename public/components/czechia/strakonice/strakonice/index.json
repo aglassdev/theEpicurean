@@ -1,8 +1,14 @@
 {
   "title": "Strakonice",
-  "country": "czechia",
-  "region": "strakonice",
-  "city": "strakonice",
+  "country": "Czechia",
+  "countrySlug": "czechia",
+  "region": null,
+  "regionSlug": "strakonice",
+  "city": "Strakonice",
+  "citySlug": "strakonice",
+  "path": "/czechia/strakonice/strakonice/restaurants",
+  "canonicalPath": "/czechia/strakonice/strakonice/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sůl a Řepa",

@@ -1,9 +1,22 @@
 {
   "title": "Sint Kwintens Lennik",
-  "country": "belgium",
-  "region": "sint-kwintens-lennik",
-  "city": "sint-kwintens-lennik",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "sint-kwintens-lennik",
+  "city": "Sint Kwintens Lennik",
+  "citySlug": "sint-kwintens-lennik",
+  "path": "/belgium/sint-kwintens-lennik/sint-kwintens-lennik/restaurants",
+  "canonicalPath": "/belgium/sint-kwintens-lennik/sint-kwintens-lennik/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Sir Kwinten",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/belgium/sint-kwintens-lennik/sint-kwintens-lennik/sir-kwinten",
+      "award": "★★"
+    },
     {
       "name": "August Wijnbar",
       "cuisine": "Farm to table, Modern Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Traditional Cuisine, Sharing",
       "price": "€€",
       "path": "/belgium/sint-kwintens-lennik/sint-kwintens-lennik/ferment"
-    },
-    {
-      "name": "Sir Kwinten",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/belgium/sint-kwintens-lennik/sint-kwintens-lennik/sir-kwinten"
     }
   ]
 }

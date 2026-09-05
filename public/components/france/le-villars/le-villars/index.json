@@ -1,8 +1,14 @@
 {
   "title": "Le Villars",
-  "country": "france",
-  "region": "le-villars",
-  "city": "le-villars",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-villars",
+  "city": "Le Villars",
+  "citySlug": "le-villars",
+  "path": "/france/le-villars/le-villars/restaurants",
+  "canonicalPath": "/france/le-villars/le-villars/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Auberge des Gourmets",

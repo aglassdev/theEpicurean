@@ -1,9 +1,22 @@
 {
   "title": "Capri",
-  "country": "italy",
-  "region": "capri",
-  "city": "capri",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "capri",
+  "city": "Capri",
+  "citySlug": "capri",
+  "path": "/italy/capri/capri/restaurants",
+  "canonicalPath": "/italy/capri/capri/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Le Monzù",
+      "cuisine": "Contemporary, Creative",
+      "price": "€€€€",
+      "path": "/italy/capri/capri/le-monz",
+      "award": "★"
+    },
     {
       "name": "Da Tonino",
       "cuisine": "Campanian, Traditional Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/italy/capri/capri/gennaro-amitrano"
-    },
-    {
-      "name": "Le Monzù",
-      "cuisine": "Contemporary, Creative",
-      "price": "€€€€",
-      "path": "/italy/capri/capri/le-monz"
     },
     {
       "name": "Terrazza Tiberio",

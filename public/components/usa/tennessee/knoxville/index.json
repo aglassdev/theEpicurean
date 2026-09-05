@@ -1,11 +1,32 @@
 {
   "title": "Knoxville",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Tennessee",
+  "regionSlug": "tennessee",
+  "city": "Knoxville",
+  "citySlug": "knoxville",
+  "path": "/usa/tennessee/knoxville/restaurants",
+  "canonicalPath": "/usa/tennessee/knoxville/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "J.C. Holdway",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/other/knoxville/jc-holdway"
+    },
+    {
+      "name": "Potchke",
+      "cuisine": "Deli",
+      "price": "$$",
+      "path": "/usa/other/knoxville/potchke"
+    },
     {
       "name": "Potchke Deli",
       "cuisine": "Deli",
       "price": "$$",
-      "path": "/usa/tennessee/knoxville/PotchkeDeli"
+      "path": "/usa/tennessee/knoxville/potchke-deli"
     }
   ]
 }

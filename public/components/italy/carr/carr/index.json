@@ -1,8 +1,14 @@
 {
   "title": "Carr",
-  "country": "italy",
-  "region": "carr",
-  "city": "carr",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "carr",
+  "city": "Carr",
+  "citySlug": "carr",
+  "path": "/italy/carr/carr/restaurants",
+  "canonicalPath": "/italy/carr/carr/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vascello d'Oro",

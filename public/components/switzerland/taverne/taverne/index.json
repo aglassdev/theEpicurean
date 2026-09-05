@@ -1,8 +1,14 @@
 {
   "title": "Taverne",
-  "country": "switzerland",
-  "region": "taverne",
-  "city": "taverne",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "taverne",
+  "city": "Taverne",
+  "citySlug": "taverne",
+  "path": "/switzerland/taverne/taverne/restaurants",
+  "canonicalPath": "/switzerland/taverne/taverne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Motto del Gallo",

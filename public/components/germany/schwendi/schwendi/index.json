@@ -1,14 +1,21 @@
 {
   "title": "Schwendi",
-  "country": "germany",
-  "region": "schwendi",
-  "city": "schwendi",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "schwendi",
+  "city": "Schwendi",
+  "citySlug": "schwendi",
+  "path": "/germany/schwendi/schwendi/restaurants",
+  "canonicalPath": "/germany/schwendi/schwendi/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Esszimmer im Oberschwäbischen Hof",
       "cuisine": "Modern Cuisine, French Contemporary",
       "price": "€€€",
-      "path": "/germany/schwendi/schwendi/esszimmer-im-oberschwbischen-hof"
+      "path": "/germany/schwendi/schwendi/esszimmer-im-oberschwbischen-hof",
+      "award": "★"
     },
     {
       "name": "Lazarus Stube im Oberschwäbischen Hof",

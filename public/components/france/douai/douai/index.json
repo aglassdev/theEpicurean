@@ -1,8 +1,14 @@
 {
   "title": "Douai",
-  "country": "france",
-  "region": "douai",
-  "city": "douai",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "douai",
+  "city": "Douai",
+  "citySlug": "douai",
+  "path": "/france/douai/douai/restaurants",
+  "canonicalPath": "/france/douai/douai/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table des Échevins",

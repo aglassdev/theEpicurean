@@ -1,20 +1,27 @@
 {
   "title": "Montreux",
-  "country": "switzerland",
-  "region": "montreux",
-  "city": "montreux",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "montreux",
+  "city": "Montreux",
+  "citySlug": "montreux",
+  "path": "/switzerland/montreux/montreux/restaurants",
+  "canonicalPath": "/switzerland/montreux/montreux/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Stéphane Décotterd",
+      "cuisine": "French Contemporary",
+      "price": "€€€€",
+      "path": "/switzerland/montreux/montreux/stphane-dcotterd",
+      "award": "★"
+    },
     {
       "name": "Le Bistro by Décotterd",
       "cuisine": "French Contemporary",
       "price": "€€",
       "path": "/switzerland/montreux/montreux/le-bistro-by-dcotterd"
-    },
-    {
-      "name": "Stéphane Décotterd",
-      "cuisine": "French Contemporary",
-      "price": "€€€€",
-      "path": "/switzerland/montreux/montreux/stphane-dcotterd"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
-  "title": "Saint Denis Le Vtu",
-  "country": "france",
-  "region": "saint-denis-le-vtu",
-  "city": "saint-denis-le-vtu",
+  "title": "Saint Denis le Vtu",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-denis-le-vtu",
+  "city": "Saint Denis le Vtu",
+  "citySlug": "saint-denis-le-vtu",
+  "path": "/france/saint-denis-le-vtu/saint-denis-le-vtu/restaurants",
+  "canonicalPath": "/france/saint-denis-le-vtu/saint-denis-le-vtu/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Baratte",
       "cuisine": "Traditional Cuisine, Country cooking",
       "price": "€",
-      "path": "/france/saint-denis-le-vtu/saint-denis-le-vtu/la-baratte"
+      "path": "/france/saint-denis-le-vtu/saint-denis-le-vtu/la-baratte-s-a-i"
     }
   ]
 }

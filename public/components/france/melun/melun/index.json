@@ -1,8 +1,14 @@
 {
   "title": "Melun",
-  "country": "france",
-  "region": "melun",
-  "city": "melun",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "melun",
+  "city": "Melun",
+  "citySlug": "melun",
+  "path": "/france/melun/melun/restaurants",
+  "canonicalPath": "/france/melun/melun/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Bodega",

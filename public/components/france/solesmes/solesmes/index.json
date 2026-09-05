@@ -1,8 +1,14 @@
 {
   "title": "Solesmes",
-  "country": "france",
-  "region": "solesmes",
-  "city": "solesmes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "solesmes",
+  "city": "Solesmes",
+  "citySlug": "solesmes",
+  "path": "/france/solesmes/solesmes/restaurants",
+  "canonicalPath": "/france/solesmes/solesmes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Grand Hôtel de Solesmes",

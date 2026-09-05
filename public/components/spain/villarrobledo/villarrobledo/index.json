@@ -1,14 +1,20 @@
 {
   "title": "Villarrobledo",
-  "country": "spain",
-  "region": "villarrobledo",
-  "city": "villarrobledo",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "villarrobledo",
+  "city": "Villarrobledo",
+  "citySlug": "villarrobledo",
+  "path": "/spain/villarrobledo/villarrobledo/restaurants",
+  "canonicalPath": "/spain/villarrobledo/villarrobledo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Azafrán",
       "cuisine": "Regional Cuisine",
       "price": "€€",
-      "path": "/spain/villarrobledo/villarrobledo/azafrn"
+      "path": "/spain/villarrobledo/villarrobledo/azafrn-v-i-l"
     }
   ]
 }

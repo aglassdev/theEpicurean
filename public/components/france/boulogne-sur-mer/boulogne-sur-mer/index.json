@@ -1,12 +1,15 @@
 {
-  "title": "Boulogne Sur Mer",
+  "title": "Boulogne sur Mer",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "boulogne-sur-mer",
+  "city": "Boulogne sur Mer",
+  "citySlug": "boulogne-sur-mer",
+  "path": "/france/boulogne-sur-mer/boulogne-sur-mer/restaurants",
+  "canonicalPath": "/france/boulogne-sur-mer/boulogne-sur-mer/restaurants",
+  "count": 4,
   "restaurants": [
-    {
-      "name": "La Matelote",
-      "cuisine": "Modern Cuisine, Seafood",
-      "price": "€€€",
-      "path": "/france/boulogne-sur-mer/boulogne-sur-mer/la-matelote"
-    },
     {
       "name": "L'Îlot Vert",
       "cuisine": "Modern Cuisine",
@@ -14,16 +17,22 @@
       "path": "/france/boulogne-sur-mer/boulogne-sur-mer/llot-vert"
     },
     {
-      "name": "Restaurant de la Plage",
-      "cuisine": "Seafood",
-      "price": "€€",
-      "path": "/france/boulogne-sur-mer/boulogne-sur-mer/restaurant-de-la-plage"
+      "name": "La Matelote",
+      "cuisine": "Modern Cuisine, Seafood",
+      "price": "€€€",
+      "path": "/france/boulogne-sur-mer/boulogne-sur-mer/la-matelote"
     },
     {
       "name": "Orizon",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/boulogne-sur-mer/boulogne-sur-mer/Orizon"
+      "path": "/france/boulogne-sur-mer/boulogne-sur-mer/orizon"
+    },
+    {
+      "name": "Restaurant de la Plage",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/france/boulogne-sur-mer/boulogne-sur-mer/restaurant-de-la-plage"
     }
   ]
 }

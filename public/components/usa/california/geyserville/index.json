@@ -1,0 +1,27 @@
+{
+  "title": "Geyserville",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Geyserville",
+  "citySlug": "geyserville",
+  "path": "/usa/california/geyserville/restaurants",
+  "canonicalPath": "/usa/california/geyserville/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Cyrus",
+      "cuisine": "Californian, Modern Cuisine",
+      "price": "$$$$",
+      "path": "/usa/california/geyserville/cyrus",
+      "award": "★"
+    },
+    {
+      "name": "Diavola",
+      "cuisine": "Italian, Pizza",
+      "price": "$$",
+      "path": "/usa/california/geyserville/diavola"
+    }
+  ]
+}

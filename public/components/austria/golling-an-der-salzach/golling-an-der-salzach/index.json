@@ -1,14 +1,21 @@
 {
-  "title": "Golling An Der Salzach",
-  "country": "austria",
-  "region": "golling-an-der-salzach",
-  "city": "golling-an-der-salzach",
+  "title": "Golling an der Salzach",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "golling-an-der-salzach",
+  "city": "Golling an der Salzach",
+  "citySlug": "golling-an-der-salzach",
+  "path": "/austria/golling-an-der-salzach/golling-an-der-salzach/restaurants",
+  "canonicalPath": "/austria/golling-an-der-salzach/golling-an-der-salzach/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Döllerer",
       "cuisine": "Innovative, Alpine",
       "price": "€€€€",
-      "path": "/austria/golling-an-der-salzach/golling-an-der-salzach/dllerer"
+      "path": "/austria/golling-an-der-salzach/golling-an-der-salzach/dllerer",
+      "award": "★★"
     },
     {
       "name": "Döllerers Wirtshaus",

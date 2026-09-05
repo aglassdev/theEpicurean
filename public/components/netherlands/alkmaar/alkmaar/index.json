@@ -1,8 +1,14 @@
 {
   "title": "Alkmaar",
-  "country": "netherlands",
-  "region": "alkmaar",
-  "city": "alkmaar",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "alkmaar",
+  "city": "Alkmaar",
+  "citySlug": "alkmaar",
+  "path": "/netherlands/alkmaar/alkmaar/restaurants",
+  "canonicalPath": "/netherlands/alkmaar/alkmaar/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Neder",

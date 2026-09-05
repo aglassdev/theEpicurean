@@ -1,8 +1,14 @@
 {
   "title": "Dovera",
-  "country": "italy",
-  "region": "dovera",
-  "city": "dovera",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "dovera",
+  "city": "Dovera",
+  "citySlug": "dovera",
+  "path": "/italy/dovera/dovera/restaurants",
+  "canonicalPath": "/italy/dovera/dovera/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Kuccagna",

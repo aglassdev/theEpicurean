@@ -1,8 +1,14 @@
 {
   "title": "Westendorf",
-  "country": "austria",
-  "region": "westendorf",
-  "city": "westendorf",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "westendorf",
+  "city": "Westendorf",
+  "citySlug": "westendorf",
+  "path": "/austria/westendorf/westendorf/restaurants",
+  "canonicalPath": "/austria/westendorf/westendorf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthaus Steinberg",

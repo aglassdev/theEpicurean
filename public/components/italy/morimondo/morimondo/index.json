@@ -1,8 +1,14 @@
 {
   "title": "Morimondo",
-  "country": "italy",
-  "region": "morimondo",
-  "city": "morimondo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "morimondo",
+  "city": "Morimondo",
+  "citySlug": "morimondo",
+  "path": "/italy/morimondo/morimondo/restaurants",
+  "canonicalPath": "/italy/morimondo/morimondo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Trattoria di Coronate",

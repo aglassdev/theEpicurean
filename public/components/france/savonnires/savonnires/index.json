@@ -1,8 +1,14 @@
 {
   "title": "Savonnires",
-  "country": "france",
-  "region": "savonnires",
-  "city": "savonnires",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "savonnires",
+  "city": "Savonnires",
+  "citySlug": "savonnires",
+  "path": "/france/savonnires/savonnires/restaurants",
+  "canonicalPath": "/france/savonnires/savonnires/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Maison Tourangelle",

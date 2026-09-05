@@ -1,20 +1,27 @@
 {
   "title": "Rantum",
-  "country": "germany",
-  "region": "rantum",
-  "city": "rantum",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "rantum",
+  "city": "Rantum",
+  "citySlug": "rantum",
+  "path": "/germany/rantum/rantum/restaurants",
+  "canonicalPath": "/germany/rantum/rantum/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Söl'ring Hof",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/rantum/rantum/slring-hof",
+      "award": "★★"
+    },
     {
       "name": "Sansibar",
       "cuisine": "International, Seasonal Cuisine",
       "price": "€€",
       "path": "/germany/rantum/rantum/sansibar"
-    },
-    {
-      "name": "Söl'ring Hof",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/germany/rantum/rantum/slring-hof"
     }
   ]
 }

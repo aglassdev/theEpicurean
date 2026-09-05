@@ -1,14 +1,26 @@
 {
   "title": "Saintes",
-  "country": "france",
-  "region": "saintes",
-  "city": "saintes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saintes",
+  "city": "Saintes",
+  "citySlug": "saintes",
+  "path": "/france/saintes/saintes/restaurants",
+  "canonicalPath": "/france/saintes/saintes/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "L'IØDE",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/saintes/saintes/lide"
+    },
     {
       "name": "La Table du Relais du Bois Saint-Georges",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/saintes/saintes/la-table-du-relais-du-bois-saint-georges"
+      "path": "/france/saintes/saintes/la-table-du-relais-du-bois-saintgeorges"
     },
     {
       "name": "Le Dallaison",
@@ -21,12 +33,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/saintes/saintes/le-parvis"
-    },
-    {
-      "name": "L'IØDE",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/saintes/saintes/lide"
     },
     {
       "name": "Saveurs de l'Abbaye",

@@ -1,17 +1,27 @@
 {
   "title": "Key West",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Key West",
+  "citySlug": "key-west",
+  "path": "/usa/florida/key-west/restaurants",
+  "canonicalPath": "/usa/florida/key-west/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Moondog Cafe & Bakery",
       "cuisine": "American",
       "price": "$$",
-      "path": "/usa/florida/key-west/MoondogCafeBakery"
+      "path": "/usa/florida/key-west/moondog-cafe-bakery",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Blue Heaven",
       "cuisine": "American",
       "price": "$$",
-      "path": "/usa/florida/key-west/BlueHeaven"
+      "path": "/usa/florida/key-west/blue-heaven"
     }
   ]
 }

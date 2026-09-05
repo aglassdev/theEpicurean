@@ -1,8 +1,14 @@
 {
   "title": "Casteau",
-  "country": "belgium",
-  "region": "casteau",
-  "city": "casteau",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "casteau",
+  "city": "Casteau",
+  "citySlug": "casteau",
+  "path": "/belgium/casteau/casteau/restaurants",
+  "canonicalPath": "/belgium/casteau/casteau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Bouton d'Or",

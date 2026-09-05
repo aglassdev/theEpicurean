@@ -1,0 +1,45 @@
+{
+  "title": "San Mateo",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "San Mateo",
+  "citySlug": "san-mateo",
+  "path": "/usa/other/san-mateo/restaurants",
+  "canonicalPath": "/usa/california/san-mateo/restaurants",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "Wakuriya",
+      "cuisine": "Japanese, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-mateo/wakuriya",
+      "award": "★"
+    },
+    {
+      "name": "All Spice",
+      "cuisine": "International, American Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-mateo/all-spice"
+    },
+    {
+      "name": "Kajiken",
+      "cuisine": "Noodles, Asian",
+      "price": "$",
+      "path": "/usa/california/san-mateo/kajiken"
+    },
+    {
+      "name": "Pausa",
+      "cuisine": "Italian, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/california/san-mateo/pausa"
+    },
+    {
+      "name": "Sushi Yoshizumi",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/san-mateo/sushi-yoshizumi"
+    }
+  ]
+}

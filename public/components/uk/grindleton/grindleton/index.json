@@ -1,8 +1,14 @@
 {
   "title": "Grindleton",
-  "country": "uk",
-  "region": "grindleton",
-  "city": "grindleton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "grindleton",
+  "city": "Grindleton",
+  "citySlug": "grindleton",
+  "path": "/uk/grindleton/grindleton/restaurants",
+  "canonicalPath": "/uk/grindleton/grindleton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Rum Fox",

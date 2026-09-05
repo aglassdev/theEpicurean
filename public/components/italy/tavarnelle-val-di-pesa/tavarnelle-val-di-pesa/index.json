@@ -1,14 +1,21 @@
 {
-  "title": "Tavarnelle Val Di Pesa",
-  "country": "italy",
-  "region": "tavarnelle-val-di-pesa",
-  "city": "tavarnelle-val-di-pesa",
+  "title": "Tavarnelle Val di Pesa",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "tavarnelle-val-di-pesa",
+  "city": "Tavarnelle Val di Pesa",
+  "citySlug": "tavarnelle-val-di-pesa",
+  "path": "/italy/tavarnelle-val-di-pesa/tavarnelle-val-di-pesa/restaurants",
+  "canonicalPath": "/italy/tavarnelle-val-di-pesa/tavarnelle-val-di-pesa/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Torre",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/tavarnelle-val-di-pesa/tavarnelle-val-di-pesa/la-torre"
+      "path": "/italy/tavarnelle-val-di-pesa/tavarnelle-val-di-pesa/la-torre-t-a-v",
+      "award": "★"
     }
   ]
 }

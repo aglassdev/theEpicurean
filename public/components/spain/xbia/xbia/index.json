@@ -1,11 +1,34 @@
 {
   "title": "Xbia",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "xbia",
+  "city": "Xbia",
+  "citySlug": "xbia",
+  "path": "/spain/xbia/xbia/restaurants",
+  "canonicalPath": "/spain/xbia/xbia/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "BonAmb",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/xbia/xbia/bonamb"
+      "path": "/spain/xbia/xbia/bonamb",
+      "award": "★★"
+    },
+    {
+      "name": "Tula",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€",
+      "path": "/spain/xbia/xbia/tula",
+      "award": "★"
+    },
+    {
+      "name": "Ca Aleix",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/spain/xbia/xbia/ca-aleix"
     },
     {
       "name": "La Perla de Jávea",
@@ -17,25 +40,13 @@
       "name": "Tosca",
       "cuisine": "Mediterranean Cuisine, Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/xbia/xbia/tosca"
-    },
-    {
-      "name": "Tula",
-      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
-      "price": "€€",
-      "path": "/spain/xbia/xbia/tula"
+      "path": "/spain/xbia/xbia/tosca-x-b-i"
     },
     {
       "name": "Volta i Volta",
       "cuisine": "Mediterranean Cuisine",
       "price": "€",
       "path": "/spain/xbia/xbia/volta-i-volta"
-    },
-    {
-      "name": "Ca Aleix",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/spain/xbia/xbia/CaAleix"
     }
   ]
 }

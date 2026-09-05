@@ -1,8 +1,14 @@
 {
   "title": "Stone",
-  "country": "uk",
-  "region": "stone",
-  "city": "stone",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "stone",
+  "city": "Stone",
+  "citySlug": "stone",
+  "path": "/uk/stone/stone/restaurants",
+  "canonicalPath": "/uk/stone/stone/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Little Seeds",

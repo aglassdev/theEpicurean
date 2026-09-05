@@ -1,8 +1,14 @@
 {
   "title": "Saint Cloud",
-  "country": "france",
-  "region": "saint-cloud",
-  "city": "saint-cloud",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-cloud",
+  "city": "Saint Cloud",
+  "citySlug": "saint-cloud",
+  "path": "/france/saint-cloud/saint-cloud/restaurants",
+  "canonicalPath": "/france/saint-cloud/saint-cloud/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sienne",

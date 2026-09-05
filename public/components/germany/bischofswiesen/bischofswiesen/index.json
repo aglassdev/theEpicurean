@@ -1,20 +1,27 @@
 {
   "title": "Bischofswiesen",
-  "country": "germany",
-  "region": "bischofswiesen",
-  "city": "bischofswiesen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bischofswiesen",
+  "city": "Bischofswiesen",
+  "citySlug": "bischofswiesen",
+  "path": "/germany/bischofswiesen/bischofswiesen/restaurants",
+  "canonicalPath": "/germany/bischofswiesen/bischofswiesen/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Solo Du",
+      "cuisine": "Modern Cuisine, Hungarian",
+      "price": "€€€€",
+      "path": "/germany/bischofswiesen/bischofswiesen/solo-du",
+      "award": "★"
+    },
     {
       "name": "Kulturhof Stanggass - Gasthaus",
       "cuisine": "Seasonal Cuisine",
       "price": "€€",
       "path": "/germany/bischofswiesen/bischofswiesen/kulturhof-stanggass-gasthaus"
-    },
-    {
-      "name": "Solo Du",
-      "cuisine": "Modern Cuisine, Hungarian",
-      "price": "€€€€",
-      "path": "/germany/bischofswiesen/bischofswiesen/solo-du"
     }
   ]
 }

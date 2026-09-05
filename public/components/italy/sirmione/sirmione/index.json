@@ -1,32 +1,41 @@
 {
   "title": "Sirmione",
-  "country": "italy",
-  "region": "sirmione",
-  "city": "sirmione",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "sirmione",
+  "city": "Sirmione",
+  "citySlug": "sirmione",
+  "path": "/italy/sirmione/sirmione/restaurants",
+  "canonicalPath": "/italy/sirmione/sirmione/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "La Rucola 2.0",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/sirmione/sirmione/la-rucola-20"
+      "path": "/italy/sirmione/sirmione/la-rucola20",
+      "award": "★"
     },
     {
       "name": "La Speranzina Restaurant & Relais",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/sirmione/sirmione/la-speranzina-restaurant-relais"
+      "path": "/italy/sirmione/sirmione/la-speranzina-restaurant-relais",
+      "award": "★"
+    },
+    {
+      "name": "Tancredi",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/italy/sirmione/sirmione/tancredi",
+      "award": "★"
     },
     {
       "name": "Risorgimento",
       "cuisine": "Mediterranean Cuisine, Modern Cuisine",
       "price": "€€€",
       "path": "/italy/sirmione/sirmione/risorgimento"
-    },
-    {
-      "name": "Tancredi",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/italy/sirmione/sirmione/tancredi"
     }
   ]
 }

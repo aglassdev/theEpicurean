@@ -1,14 +1,21 @@
 {
-  "title": "Saint Vincent De Tyrosse",
-  "country": "france",
-  "region": "saint-vincent-de-tyrosse",
-  "city": "saint-vincent-de-tyrosse",
+  "title": "Saint Vincent de Tyrosse",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-vincent-de-tyrosse",
+  "city": "Saint Vincent de Tyrosse",
+  "citySlug": "saint-vincent-de-tyrosse",
+  "path": "/france/saint-vincent-de-tyrosse/saint-vincent-de-tyrosse/restaurants",
+  "canonicalPath": "/france/saint-vincent-de-tyrosse/saint-vincent-de-tyrosse/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Hittau",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/saint-vincent-de-tyrosse/saint-vincent-de-tyrosse/le-hittau"
+      "path": "/france/saint-vincent-de-tyrosse/saint-vincent-de-tyrosse/le-hittau",
+      "award": "★"
     }
   ]
 }

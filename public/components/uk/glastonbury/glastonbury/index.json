@@ -1,8 +1,14 @@
 {
   "title": "Glastonbury",
-  "country": "uk",
-  "region": "glastonbury",
-  "city": "glastonbury",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "glastonbury",
+  "city": "Glastonbury",
+  "citySlug": "glastonbury",
+  "path": "/uk/glastonbury/glastonbury/restaurants",
+  "canonicalPath": "/uk/glastonbury/glastonbury/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Queen of Cups",

@@ -1,9 +1,29 @@
 {
   "title": "Baden Baden",
-  "country": "germany",
-  "region": "baden-baden",
-  "city": "baden-baden",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "baden-baden",
+  "city": "Baden Baden",
+  "citySlug": "baden-baden",
+  "path": "/germany/baden-baden/baden-baden/restaurants",
+  "canonicalPath": "/germany/baden-baden/baden-baden/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "Le Jardin de France im Stahlbad",
+      "cuisine": "Classic French, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/baden-baden/baden-baden/le-jardin-de-france-im-stahlbad",
+      "award": "★"
+    },
+    {
+      "name": "Maltes hidden kitchen",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/baden-baden/baden-baden/maltes-hidden-kitchen",
+      "award": "★"
+    },
     {
       "name": "Die Klosterschänke",
       "cuisine": "International, Seasonal Cuisine",
@@ -15,18 +35,6 @@
       "cuisine": "Classic Cuisine, Seasonal Cuisine",
       "price": "€€",
       "path": "/germany/baden-baden/baden-baden/heiligenstein"
-    },
-    {
-      "name": "Le Jardin de France im Stahlbad",
-      "cuisine": "Classic French, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/baden-baden/baden-baden/le-jardin-de-france-im-stahlbad"
-    },
-    {
-      "name": "Maltes hidden kitchen",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/germany/baden-baden/baden-baden/maltes-hidden-kitchen"
     },
     {
       "name": "moriki",

@@ -1,20 +1,28 @@
 {
   "title": "Serralunga Dalba",
-  "country": "italy",
-  "region": "serralunga-dalba",
-  "city": "serralunga-dalba",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "serralunga-dalba",
+  "city": "Serralunga Dalba",
+  "citySlug": "serralunga-dalba",
+  "path": "/italy/serralunga-dalba/serralunga-dalba/restaurants",
+  "canonicalPath": "/italy/serralunga-dalba/serralunga-dalba/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Guidoristorante",
-      "cuisine": "Piedmontese, Contemporary",
-      "price": "€€€",
-      "path": "/italy/serralunga-dalba/serralunga-dalba/guidoristorante"
-    },
     {
       "name": "La Rei Natura by Michelangelo Mammoliti",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/serralunga-dalba/serralunga-dalba/la-rei-natura-by-michelangelo-mammoliti"
+      "path": "/italy/serralunga-dalba/serralunga-dalba/la-rei-natura-by-michelangelo-mammoliti",
+      "award": "★★"
+    },
+    {
+      "name": "Guidoristorante",
+      "cuisine": "Piedmontese, Contemporary",
+      "price": "€€€",
+      "path": "/italy/serralunga-dalba/serralunga-dalba/guidoristorante",
+      "award": "★"
     }
   ]
 }

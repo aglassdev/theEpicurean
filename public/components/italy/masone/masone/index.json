@@ -1,11 +1,20 @@
 {
   "title": "Masone",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "masone",
+  "city": "Masone",
+  "citySlug": "masone",
+  "path": "/italy/masone/masone/restaurants",
+  "canonicalPath": "/italy/masone/masone/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Osteria Stella",
       "cuisine": "Ligurian",
       "price": "$$",
-      "path": "/italy/masone/masone/OsteriaStella"
+      "path": "/italy/masone/masone/osteria-stella"
     }
   ]
 }

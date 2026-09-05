@@ -1,8 +1,14 @@
 {
   "title": "Pilsen",
-  "country": "czechia",
-  "region": "pilsen",
-  "city": "pilsen",
+  "country": "Czechia",
+  "countrySlug": "czechia",
+  "region": null,
+  "regionSlug": "pilsen",
+  "city": "Pilsen",
+  "citySlug": "pilsen",
+  "path": "/czechia/pilsen/pilsen/restaurants",
+  "canonicalPath": "/czechia/pilsen/pilsen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Na Spilce",

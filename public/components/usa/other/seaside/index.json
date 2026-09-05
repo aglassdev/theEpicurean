@@ -1,0 +1,26 @@
+{
+  "title": "Seaside",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Seaside",
+  "citySlug": "seaside",
+  "path": "/usa/other/seaside/restaurants",
+  "canonicalPath": "/usa/california/seaside/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Gusto Handcrafted Pasta & Pizza",
+      "cuisine": "Italian-American",
+      "price": "$$",
+      "path": "/usa/california/seaside/gusto-handcrafted-pasta-pizza"
+    },
+    {
+      "name": "Maligne",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/seaside/maligne"
+    }
+  ]
+}

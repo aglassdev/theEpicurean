@@ -1,6 +1,36 @@
 {
   "title": "Miguel Hildalgo",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "miguel-hildalgo",
+  "city": "Miguel Hildalgo",
+  "citySlug": "miguel-hildalgo",
+  "path": "/mexico/miguel-hildalgo/miguel-hildalgo/restaurants",
+  "canonicalPath": "/mexico/miguel-hildalgo/miguel-hildalgo/restaurants",
+  "count": 14,
   "restaurants": [
+    {
+      "name": "Pujol",
+      "cuisine": "Mexican, Modern Cuisine",
+      "price": "$$$$",
+      "path": "/mexico/miguel-hildalgo/miguel-hildalgo/pujol",
+      "award": "★★"
+    },
+    {
+      "name": "Quintonil",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$$",
+      "path": "/mexico/miguel-hildalgo/miguel-hildalgo/quintonil",
+      "award": "★★"
+    },
+    {
+      "name": "La Once Mil",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/mexico/miguel-hildalgo/miguel-hildalgo/la-once-mil",
+      "award": "★"
+    },
     {
       "name": "Aúna",
       "cuisine": "Contemporary",
@@ -56,18 +86,6 @@
       "path": "/mexico/miguel-hildalgo/miguel-hildalgo/malix"
     },
     {
-      "name": "Pujol",
-      "cuisine": "Mexican, Modern Cuisine",
-      "price": "$$$$",
-      "path": "/mexico/miguel-hildalgo/miguel-hildalgo/pujol"
-    },
-    {
-      "name": "Quintonil",
-      "cuisine": "Mexican, Contemporary",
-      "price": "$$$$",
-      "path": "/mexico/miguel-hildalgo/miguel-hildalgo/quintonil"
-    },
-    {
       "name": "Raíz",
       "cuisine": "Contemporary, Mexican",
       "price": "$",
@@ -78,12 +96,6 @@
       "cuisine": "Mexican",
       "price": "$",
       "path": "/mexico/miguel-hildalgo/miguel-hildalgo/siembra-tortillera"
-    },
-    {
-      "name": "La Once Mil",
-      "cuisine": "Mexican",
-      "price": "$$",
-      "path": "/mexico/miguel-hildalgo/miguel-hildalgo/LaOnceMil"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Almansa",
-  "country": "spain",
-  "region": "almansa",
-  "city": "almansa",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "almansa",
+  "city": "Almansa",
+  "citySlug": "almansa",
+  "path": "/spain/almansa/almansa/restaurants",
+  "canonicalPath": "/spain/almansa/almansa/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Maralba",
       "cuisine": "Creative, Castilian",
       "price": "€€€",
-      "path": "/spain/almansa/almansa/maralba"
+      "path": "/spain/almansa/almansa/maralba",
+      "award": "★★"
     },
     {
       "name": "Mesón de Pincelín",

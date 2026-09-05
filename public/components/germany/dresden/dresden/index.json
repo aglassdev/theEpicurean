@@ -1,6 +1,36 @@
 {
   "title": "Dresden",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "dresden",
+  "city": "Dresden",
+  "citySlug": "dresden",
+  "path": "/germany/dresden/dresden/restaurants",
+  "canonicalPath": "/germany/dresden/dresden/restaurants",
+  "count": 10,
   "restaurants": [
+    {
+      "name": "elements",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/dresden/dresden/elements",
+      "award": "★"
+    },
+    {
+      "name": "Genuss-Atelier",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/germany/dresden/dresden/genussatelier",
+      "award": "★"
+    },
+    {
+      "name": "Heiderand",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/germany/dresden/dresden/heiderand",
+      "award": "★"
+    },
     {
       "name": "Caroussel Nouvelle",
       "cuisine": "Contemporary",
@@ -12,12 +42,6 @@
       "cuisine": "International, Farm to table",
       "price": "€€",
       "path": "/germany/dresden/dresden/deli"
-    },
-    {
-      "name": "elements",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/dresden/dresden/elements"
     },
     {
       "name": "Feine Kost",
@@ -32,16 +56,10 @@
       "path": "/germany/dresden/dresden/feinkost-kantine-mario-pattis"
     },
     {
-      "name": "Genuss-Atelier",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "€€€",
-      "path": "/germany/dresden/dresden/genuss-atelier"
-    },
-    {
-      "name": "Heiderand",
+      "name": "finesse by Elvis Herbek",
       "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/germany/dresden/dresden/heiderand"
+      "price": "$$$",
+      "path": "/germany/dresden/dresden/finesse-by-elvis-herbek"
     },
     {
       "name": "Schmidt's",
@@ -54,12 +72,6 @@
       "cuisine": "Classic Cuisine",
       "price": "€€€",
       "path": "/germany/dresden/dresden/stresa"
-    },
-    {
-      "name": "finesse by Elvis Herbek",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/germany/dresden/dresden/FinesseByElvisHerbek"
     }
   ]
 }

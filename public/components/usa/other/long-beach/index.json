@@ -1,0 +1,33 @@
+{
+  "title": "Long Beach",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Long Beach",
+  "citySlug": "long-beach",
+  "path": "/usa/other/long-beach/restaurants",
+  "canonicalPath": "/usa/california/long-beach/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Heritage",
+      "cuisine": "Californian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/long-beach/heritage-l-o-n",
+      "award": "★"
+    },
+    {
+      "name": "Chiang Rai",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/usa/california/long-beach/chiang-rai"
+    },
+    {
+      "name": "The Attic",
+      "cuisine": "Southern",
+      "price": "$$",
+      "path": "/usa/california/long-beach/the-attic"
+    }
+  ]
+}

@@ -1,17 +1,55 @@
 {
   "title": "Qubec",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "qubec",
+  "city": "Qubec",
+  "citySlug": "qubec",
+  "path": "/canada/qubec/qubec/restaurants",
+  "canonicalPath": "/canada/qubec/qubec/restaurants",
+  "count": 34,
   "restaurants": [
+    {
+      "name": "Tanière³",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/canada/qubec/qubec/rtanire",
+      "award": "★★"
+    },
+    {
+      "name": "ARVI",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "$$$$",
+      "path": "/canada/qubec/qubec/arvi",
+      "award": "★"
+    },
+    {
+      "name": "Kebec Club Privé",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/canada/qubec/qubec/kebec-club-priv",
+      "award": "★"
+    },
+    {
+      "name": "Laurie Raphaël",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "$$$$",
+      "path": "/canada/qubec/qubec/laurie-raphal",
+      "award": "★"
+    },
+    {
+      "name": "Légende",
+      "cuisine": "Creative, Regional Cuisine",
+      "price": "$$$$",
+      "path": "/canada/qubec/qubec/lgende",
+      "award": "★"
+    },
     {
       "name": "Alentours",
       "cuisine": "Modern Cuisine, Creative",
       "price": "$$$$",
       "path": "/canada/qubec/qubec/alentours"
-    },
-    {
-      "name": "Ambre.",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/canada/qubec/qubec/ambre"
     },
     {
       "name": "Ambre Buvette",
@@ -20,10 +58,10 @@
       "path": "/canada/qubec/qubec/ambre-buvette"
     },
     {
-      "name": "ARVI",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/arvi"
+      "name": "Ambre.",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/canada/qubec/qubec/ambre"
     },
     {
       "name": "Battuto",
@@ -48,12 +86,6 @@
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
       "path": "/canada/qubec/qubec/champlain"
-    },
-    {
-      "name": "Échaudé",
-      "cuisine": "French",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/chaud"
     },
     {
       "name": "Chez Boulay - Bistro Boréal",
@@ -80,178 +112,28 @@
       "path": "/canada/qubec/qubec/coteau"
     },
     {
-      "name": "Honō Izakaya",
-      "cuisine": "Japanese, Izakaya",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/hon-izakaya"
-    },
-    {
-      "name": "Kebec Club Privé",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/kebec-club-priv"
-    },
-    {
-      "name": "Kundah Hôtel",
-      "cuisine": "Indian",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/kundah-htel"
-    },
-    {
-      "name": "La Bête",
-      "cuisine": "Steakhouse",
-      "price": "$$$",
-      "path": "/canada/qubec/qubec/la-bte"
-    },
-    {
-      "name": "La Planque",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/la-planque"
-    },
-    {
-      "name": "Laurie Raphaël",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/laurie-raphal"
-    },
-    {
-      "name": "Le Clan",
-      "cuisine": "Regional Cuisine",
-      "price": "$$$",
-      "path": "/canada/qubec/qubec/le-clan"
-    },
-    {
-      "name": "Le Clocher Penché",
-      "cuisine": "Regional Cuisine, Traditional Cuisine",
-      "price": "$$$",
-      "path": "/canada/qubec/qubec/le-clocher-pench"
-    },
-    {
-      "name": "Le Hobbit",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/le-hobbit"
-    },
-    {
-      "name": "Le Parlementaire",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/le-parlementaire"
-    },
-    {
-      "name": "Légende",
-      "cuisine": "Creative, Regional Cuisine",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/lgende"
-    },
-    {
-      "name": "L'Orygine",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/lorygine"
-    },
-    {
-      "name": "lueur",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/lueur"
-    },
-    {
-      "name": "Melba",
-      "cuisine": "Modern Cuisine, French",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/melba"
-    },
-    {
-      "name": "Ouroboros",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/ouroboros"
-    },
-    {
-      "name": "Alentours",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/alentours"
-    },
-    {
-      "name": "Ambre Buvette",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/canada/qubec/qubec/ambre-buvette"
-    },
-    {
-      "name": "ARVI",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/arvi"
-    },
-    {
-      "name": "Battuto",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/battuto"
-    },
-    {
-      "name": "Bistro B",
-      "cuisine": "French",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/bistro-b"
-    },
-    {
-      "name": "Buvette Scott",
-      "cuisine": "Regional Cuisine, Modern Cuisine",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/buvette-scott"
-    },
-    {
-      "name": "Champlain",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/champlain"
-    },
-    {
       "name": "Échaudé",
       "cuisine": "French",
       "price": "$$",
       "path": "/canada/qubec/qubec/chaud"
     },
     {
-      "name": "Chez Boulay - Bistro Boréal",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/chez-boulay-bistro-boral"
-    },
-    {
-      "name": "Chez Muffy",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/chez-muffy"
-    },
-    {
-      "name": "Chez Rioux & Pettigrew",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$$",
-      "path": "/canada/qubec/qubec/chez-rioux-pettigrew"
-    },
-    {
       "name": "Honō Izakaya",
       "cuisine": "Japanese, Izakaya",
       "price": "$$",
       "path": "/canada/qubec/qubec/hon-izakaya"
     },
     {
-      "name": "Kebec Club Privé",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/kebec-club-priv"
-    },
-    {
       "name": "Kundah Hôtel",
       "cuisine": "Indian",
       "price": "$$",
       "path": "/canada/qubec/qubec/kundah-htel"
+    },
+    {
+      "name": "L'Orygine",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/canada/qubec/qubec/lorygine"
     },
     {
       "name": "La Bête",
@@ -266,10 +148,10 @@
       "path": "/canada/qubec/qubec/la-planque"
     },
     {
-      "name": "Laurie Raphaël",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/laurie-raphal"
+      "name": "Le 101 Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/canada/qubec/qubec/le101-restaurant"
     },
     {
       "name": "Le Clan",
@@ -296,16 +178,10 @@
       "path": "/canada/qubec/qubec/le-parlementaire"
     },
     {
-      "name": "Légende",
-      "cuisine": "Creative, Regional Cuisine",
+      "name": "Le Saint-Amour",
+      "cuisine": "French",
       "price": "$$$$",
-      "path": "/canada/qubec/qubec/lgende"
-    },
-    {
-      "name": "L'Orygine",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/lorygine"
+      "path": "/canada/qubec/qubec/le-saintamour"
     },
     {
       "name": "lueur",
@@ -324,24 +200,6 @@
       "cuisine": "Modern Cuisine",
       "price": "$$",
       "path": "/canada/qubec/qubec/ouroboros"
-    },
-    {
-      "name": "Tanière³",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/tanire"
-    },
-    {
-      "name": "Torii Izakaya",
-      "cuisine": "Japanese, Izakaya",
-      "price": "$$",
-      "path": "/canada/qubec/qubec/torii-izakaya"
-    },
-    {
-      "name": "Tanière³",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/tanire"
     },
     {
       "name": "Torii - Buvette japonaise",
@@ -353,25 +211,13 @@
       "name": "Torii Izakaya",
       "cuisine": "Japanese, Izakaya",
       "price": "$$",
-      "path": "/canada/qubec/qubec/torii-izakaya"
-    },
-    {
-      "name": "Le 101 Restaurant",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/canada/qubec/qubec/Le101Restaurant"
-    },
-    {
-      "name": "Le Saint-Amour",
-      "cuisine": "French",
-      "price": "$$$$",
-      "path": "/canada/qubec/qubec/LeSaintamour"
+      "path": "/canada/qubec/qubec/rtoriiizakaya"
     },
     {
       "name": "Verre Pickl’",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/canada/qubec/qubec/VerrePickl"
+      "path": "/canada/qubec/qubec/verre-pickl"
     }
   ]
 }

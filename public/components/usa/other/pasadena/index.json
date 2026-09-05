@@ -1,0 +1,32 @@
+{
+  "title": "Pasadena",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Pasadena",
+  "citySlug": "pasadena",
+  "path": "/usa/other/pasadena/restaurants",
+  "canonicalPath": "/usa/california/pasadena/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Agnes",
+      "cuisine": "American, Californian",
+      "price": "$$$",
+      "path": "/usa/california/pasadena/agnes-p-a-s"
+    },
+    {
+      "name": "Perle",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/usa/california/pasadena/perle"
+    },
+    {
+      "name": "Union",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/usa/california/pasadena/union"
+    }
+  ]
+}

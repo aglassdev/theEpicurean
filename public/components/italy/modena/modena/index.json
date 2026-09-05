@@ -1,11 +1,36 @@
 {
   "title": "Modena",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": "Emilia Romagna",
+  "regionSlug": "modena",
+  "city": "Modena",
+  "citySlug": "modena",
+  "path": "/italy/modena/modena/restaurants",
+  "canonicalPath": "/italy/modena/modena/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "Osteria Francescana",
+      "cuisine": "Contemporary Italian",
+      "price": "€€€€€ · Prix Fix · À La Carte",
+      "path": "/italy/emilia-romagna/modena/osteria-francescana",
+      "award": "★★★",
+      "image": "/images/osteriafrancescana1.png"
+    },
     {
       "name": "Al Gatto Verde",
       "cuisine": "Contemporary, Creative",
       "price": "€€€€",
-      "path": "/italy/modena/modena/al-gatto-verde"
+      "path": "/italy/modena/modena/al-gatto-verde",
+      "award": "★"
+    },
+    {
+      "name": "L'Erba del Re",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/modena/modena/lerba-del-re",
+      "award": "★"
     },
     {
       "name": "Antica Moka",
@@ -17,7 +42,7 @@
       "name": "Franceschetta 58",
       "cuisine": "Emilian, Regional Cuisine",
       "price": "€€",
-      "path": "/italy/modena/modena/franceschetta-58"
+      "path": "/italy/modena/modena/franceschetta58"
     },
     {
       "name": "Hosteria Giusti",
@@ -32,28 +57,16 @@
       "path": "/italy/modena/modena/la-masseria"
     },
     {
-      "name": "L'Erba del Re",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/modena/modena/lerba-del-re"
-    },
-    {
-      "name": "Osteria Francescana",
-      "cuisine": "Creative, Italian Contemporary",
-      "price": "€€€€",
-      "path": "/italy/modena/modena/osteria-francescana"
+      "name": "Patrizia",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/italy/modena/modena/patrizia"
     },
     {
       "name": "Trattoria Pomposa - Al Re gras",
       "cuisine": "Emilian, Country cooking",
       "price": "€",
       "path": "/italy/modena/modena/trattoria-pomposa-al-re-gras"
-    },
-    {
-      "name": "Patrizia",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/italy/modena/modena/Patrizia"
     }
   ]
 }

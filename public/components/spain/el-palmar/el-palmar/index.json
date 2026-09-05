@@ -1,20 +1,27 @@
 {
   "title": "El Palmar",
-  "country": "spain",
-  "region": "el-palmar",
-  "city": "el-palmar",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "el-palmar",
+  "city": "El Palmar",
+  "citySlug": "el-palmar",
+  "path": "/spain/el-palmar/el-palmar/restaurants",
+  "canonicalPath": "/spain/el-palmar/el-palmar/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Cabaña Buenavista",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/el-palmar/el-palmar/cabaa-buenavista",
+      "award": "★★"
+    },
     {
       "name": "Arrocería Maribel",
       "cuisine": "Rice Dishes",
       "price": "€€",
       "path": "/spain/el-palmar/el-palmar/arrocera-maribel"
-    },
-    {
-      "name": "Cabaña Buenavista",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/el-palmar/el-palmar/cabaa-buenavista"
     }
   ]
 }

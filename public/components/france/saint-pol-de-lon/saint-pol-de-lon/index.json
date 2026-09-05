@@ -1,14 +1,21 @@
 {
-  "title": "Saint Pol De Lon",
-  "country": "france",
-  "region": "saint-pol-de-lon",
-  "city": "saint-pol-de-lon",
+  "title": "Saint Pol de Lon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-pol-de-lon",
+  "city": "Saint Pol de Lon",
+  "citySlug": "saint-pol-de-lon",
+  "path": "/france/saint-pol-de-lon/saint-pol-de-lon/restaurants",
+  "canonicalPath": "/france/saint-pol-de-lon/saint-pol-de-lon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Pomme d'Api",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/saint-pol-de-lon/saint-pol-de-lon/la-pomme-dapi"
+      "path": "/france/saint-pol-de-lon/saint-pol-de-lon/la-pomme-dapi",
+      "award": "★"
     }
   ]
 }

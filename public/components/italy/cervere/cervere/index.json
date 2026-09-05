@@ -1,14 +1,21 @@
 {
   "title": "Cervere",
-  "country": "italy",
-  "region": "cervere",
-  "city": "cervere",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cervere",
+  "city": "Cervere",
+  "citySlug": "cervere",
+  "path": "/italy/cervere/cervere/restaurants",
+  "canonicalPath": "/italy/cervere/cervere/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Antica Corona Reale",
       "cuisine": "Piedmontese, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/cervere/cervere/antica-corona-reale"
+      "path": "/italy/cervere/cervere/antica-corona-reale",
+      "award": "★★"
     }
   ]
 }

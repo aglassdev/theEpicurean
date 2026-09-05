@@ -1,8 +1,14 @@
 {
   "title": "Labarde",
-  "country": "france",
-  "region": "labarde",
-  "city": "labarde",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "labarde",
+  "city": "Labarde",
+  "citySlug": "labarde",
+  "path": "/france/labarde/labarde/restaurants",
+  "canonicalPath": "/france/labarde/labarde/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Nomade",

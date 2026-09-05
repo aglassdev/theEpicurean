@@ -1,14 +1,21 @@
 {
-  "title": "Sankt Wolfgang Im Salzkammergut",
-  "country": "austria",
-  "region": "sankt-wolfgang-im-salzkammergut",
-  "city": "sankt-wolfgang-im-salzkammergut",
+  "title": "Sankt Wolfgang im Salzkammergut",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "sankt-wolfgang-im-salzkammergut",
+  "city": "Sankt Wolfgang im Salzkammergut",
+  "citySlug": "sankt-wolfgang-im-salzkammergut",
+  "path": "/austria/sankt-wolfgang-im-salzkammergut/sankt-wolfgang-im-salzkammergut/restaurants",
+  "canonicalPath": "/austria/sankt-wolfgang-im-salzkammergut/sankt-wolfgang-im-salzkammergut/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Paula",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/austria/sankt-wolfgang-im-salzkammergut/sankt-wolfgang-im-salzkammergut/paula"
+      "path": "/austria/sankt-wolfgang-im-salzkammergut/sankt-wolfgang-im-salzkammergut/paula",
+      "award": "★"
     },
     {
       "name": "Poll's Kaiserterrasse - Gourmet Restaurant im Weissen Rössl",

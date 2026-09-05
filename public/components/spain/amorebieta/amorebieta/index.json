@@ -1,14 +1,21 @@
 {
   "title": "Amorebieta",
-  "country": "spain",
-  "region": "amorebieta",
-  "city": "amorebieta",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "amorebieta",
+  "city": "Amorebieta",
+  "citySlug": "amorebieta",
+  "path": "/spain/amorebieta/amorebieta/restaurants",
+  "canonicalPath": "/spain/amorebieta/amorebieta/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Boroa",
       "cuisine": "Traditional Cuisine, Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/amorebieta/amorebieta/boroa"
+      "path": "/spain/amorebieta/amorebieta/boroa",
+      "award": "★"
     },
     {
       "name": "Jauregibarria",

@@ -1,14 +1,20 @@
 {
   "title": "Avallon",
-  "country": "france",
-  "region": "avallon",
-  "city": "avallon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "avallon",
+  "city": "Avallon",
+  "citySlug": "avallon",
+  "path": "/france/avallon/avallon/restaurants",
+  "canonicalPath": "/france/avallon/avallon/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le 1815",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/avallon/avallon/le-1815"
+      "path": "/france/avallon/avallon/le1815"
     },
     {
       "name": "Les Cordois Autrement",

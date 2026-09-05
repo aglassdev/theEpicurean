@@ -1,17 +1,26 @@
 {
   "title": "Castelnau Magnoac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "castelnau-magnoac",
+  "city": "Castelnau Magnoac",
+  "citySlug": "castelnau-magnoac",
+  "path": "/france/castelnau-magnoac/castelnau-magnoac/restaurants",
+  "canonicalPath": "/france/castelnau-magnoac/castelnau-magnoac/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Chez Jean - La Métairie Dupont",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/castelnau-magnoac/castelnau-magnoac/chez-jean-la-mtairie-dupont"
+    },
     {
       "name": "La Taulada",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/castelnau-magnoac/castelnau-magnoac/la-taulada"
-    },
-    {
-      "name": "Chez Jean - La Métairie Dupont",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/france/castelnau-magnoac/castelnau-magnoac/ChezJeanLaMtairieDupont"
     }
   ]
 }

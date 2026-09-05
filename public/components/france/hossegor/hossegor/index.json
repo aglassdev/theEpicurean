@@ -1,8 +1,14 @@
 {
   "title": "Hossegor",
-  "country": "france",
-  "region": "hossegor",
-  "city": "hossegor",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "hossegor",
+  "city": "Hossegor",
+  "citySlug": "hossegor",
+  "path": "/france/hossegor/hossegor/restaurants",
+  "canonicalPath": "/france/hossegor/hossegor/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Jean des Sables",

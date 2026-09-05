@@ -1,9 +1,29 @@
 {
   "title": "Eivissa",
-  "country": "spain",
-  "region": "eivissa",
-  "city": "eivissa",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "eivissa",
+  "city": "Eivissa",
+  "citySlug": "eivissa",
+  "path": "/spain/eivissa/eivissa/restaurants",
+  "canonicalPath": "/spain/eivissa/eivissa/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "La Gaia",
+      "cuisine": "Fusion, International",
+      "price": "€€€€",
+      "path": "/spain/eivissa/eivissa/la-gaia",
+      "award": "★"
+    },
+    {
+      "name": "Omakase by Walt",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/spain/eivissa/eivissa/omakase-by-walt",
+      "award": "★"
+    },
     {
       "name": "1742",
       "cuisine": "Creative",
@@ -15,18 +35,6 @@
       "cuisine": "Regional Cuisine",
       "price": "€€€",
       "path": "/spain/eivissa/eivissa/can-font"
-    },
-    {
-      "name": "La Gaia",
-      "cuisine": "Fusion, International",
-      "price": "€€€€",
-      "path": "/spain/eivissa/eivissa/la-gaia"
-    },
-    {
-      "name": "Omakase by Walt",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/spain/eivissa/eivissa/omakase-by-walt"
     }
   ]
 }

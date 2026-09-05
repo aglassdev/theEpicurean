@@ -1,20 +1,20 @@
 {
   "title": "Mont Tremblant",
-  "country": "canada",
-  "region": "mont-tremblant",
-  "city": "mont-tremblant",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "mont-tremblant",
+  "city": "Mont Tremblant",
+  "citySlug": "mont-tremblant",
+  "path": "/canada/mont-tremblant/mont-tremblant/restaurants",
+  "canonicalPath": "/canada/mont-tremblant/mont-tremblant/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "sEb L'Artisan Culinaire",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/canada/mont-tremblant/mont-tremblant/seb-lartisan-culinaire"
-    },
-    {
-      "name": "sEb L'Artisan Culinaire",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/canada/mont-tremblant/mont-tremblant/seb-lartisan-culinaire"
+      "path": "/canada/mont-tremblant/mont-tremblant/rseblartisanculinaire"
     }
   ]
 }

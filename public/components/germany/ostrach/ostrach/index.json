@@ -1,8 +1,14 @@
 {
   "title": "Ostrach",
-  "country": "germany",
-  "region": "ostrach",
-  "city": "ostrach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "ostrach",
+  "city": "Ostrach",
+  "citySlug": "ostrach",
+  "path": "/germany/ostrach/ostrach/restaurants",
+  "canonicalPath": "/germany/ostrach/ostrach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Landhotel zum Hirsch",

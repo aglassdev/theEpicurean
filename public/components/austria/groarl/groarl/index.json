@@ -1,11 +1,20 @@
 {
-  "title": "Großarl",
+  "title": "Groarl",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "groarl",
+  "city": "Groarl",
+  "citySlug": "groarl",
+  "path": "/austria/groarl/groarl/restaurants",
+  "canonicalPath": "/austria/groarl/groarl/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sirloin Grill & Dine",
       "cuisine": "Grills",
       "price": "$$$$",
-      "path": "/austria/groarl/groarl/SirloinGrillDine"
+      "path": "/austria/groarl/groarl/sirloin-grill-dine"
     }
   ]
 }

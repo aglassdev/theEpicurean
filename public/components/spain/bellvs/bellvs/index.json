@@ -1,14 +1,21 @@
 {
   "title": "Bellvs",
-  "country": "spain",
-  "region": "bellvs",
-  "city": "bellvs",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "bellvs",
+  "city": "Bellvs",
+  "citySlug": "bellvs",
+  "path": "/spain/bellvs/bellvs/restaurants",
+  "canonicalPath": "/spain/bellvs/bellvs/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Boscana",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/bellvs/bellvs/la-boscana"
+      "path": "/spain/bellvs/bellvs/la-boscana",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Telfs",
-  "country": "austria",
-  "region": "telfs",
-  "city": "telfs",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "telfs",
+  "city": "Telfs",
+  "citySlug": "telfs",
+  "path": "/austria/telfs/telfs/restaurants",
+  "canonicalPath": "/austria/telfs/telfs/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Interalpen - Chef's Table",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/austria/telfs/telfs/interalpen-chefs-table"
+      "path": "/austria/telfs/telfs/interalpen-chefs-table",
+      "award": "★"
     }
   ]
 }

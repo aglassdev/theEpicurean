@@ -1,8 +1,14 @@
 {
   "title": "Weinheim",
-  "country": "germany",
-  "region": "weinheim",
-  "city": "weinheim",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "weinheim",
+  "city": "Weinheim",
+  "citySlug": "weinheim",
+  "path": "/germany/weinheim/weinheim/restaurants",
+  "canonicalPath": "/germany/weinheim/weinheim/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "bistronauten",

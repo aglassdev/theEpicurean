@@ -1,14 +1,20 @@
 {
   "title": "Delme",
-  "country": "france",
-  "region": "delme",
-  "city": "delme",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "delme",
+  "city": "Delme",
+  "citySlug": "delme",
+  "path": "/france/delme/delme/restaurants",
+  "canonicalPath": "/france/delme/delme/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "À la 12",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/delme/delme/la-12"
+      "path": "/france/delme/delme/la12"
     }
   ]
 }

@@ -1,14 +1,28 @@
 {
   "title": "Vico Equense",
-  "country": "italy",
-  "region": "vico-equense",
-  "city": "vico-equense",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "vico-equense",
+  "city": "Vico Equense",
+  "citySlug": "vico-equense",
+  "path": "/italy/vico-equense/vico-equense/restaurants",
+  "canonicalPath": "/italy/vico-equense/vico-equense/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Torre del Saracino",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/italy/vico-equense/vico-equense/torre-del-saracino",
+      "award": "★★"
+    },
     {
       "name": "Antica Osteria Nonna Rosa",
       "cuisine": "Campanian, Creative",
       "price": "€€€€",
-      "path": "/italy/vico-equense/vico-equense/antica-osteria-nonna-rosa"
+      "path": "/italy/vico-equense/vico-equense/antica-osteria-nonna-rosa",
+      "award": "★"
     },
     {
       "name": "Il Bikini",
@@ -33,12 +47,6 @@
       "cuisine": "Seasonal Cuisine, Mediterranean Cuisine",
       "price": "€€",
       "path": "/italy/vico-equense/vico-equense/mima"
-    },
-    {
-      "name": "Torre del Saracino",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/italy/vico-equense/vico-equense/torre-del-saracino"
     }
   ]
 }

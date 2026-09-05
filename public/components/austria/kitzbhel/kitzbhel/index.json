@@ -1,20 +1,28 @@
 {
   "title": "Kitzbhel",
-  "country": "austria",
-  "region": "kitzbhel",
-  "city": "kitzbhel",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "kitzbhel",
+  "city": "Kitzbhel",
+  "citySlug": "kitzbhel",
+  "path": "/austria/kitzbhel/kitzbhel/restaurants",
+  "canonicalPath": "/austria/kitzbhel/kitzbhel/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Berggericht",
       "cuisine": "Modern Cuisine, Classic Cuisine",
       "price": "€€€€",
-      "path": "/austria/kitzbhel/kitzbhel/berggericht"
+      "path": "/austria/kitzbhel/kitzbhel/berggericht",
+      "award": "★"
     },
     {
       "name": "Les Deux Kitzbühel - Brasserie & Bar",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/austria/kitzbhel/kitzbhel/les-deux-kitzbhel-brasserie-bar"
+      "path": "/austria/kitzbhel/kitzbhel/les-deux-kitzbhel-brasserie-bar",
+      "award": "★"
     },
     {
       "name": "Lois Stern",
@@ -38,7 +46,7 @@
       "name": "Zuma",
       "cuisine": "International, Sushi",
       "price": "€€€€",
-      "path": "/austria/kitzbhel/kitzbhel/zuma"
+      "path": "/austria/kitzbhel/kitzbhel/zuma-k-i-t"
     }
   ]
 }

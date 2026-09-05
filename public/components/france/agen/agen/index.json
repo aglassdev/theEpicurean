@@ -1,8 +1,14 @@
 {
   "title": "Agen",
-  "country": "france",
-  "region": "agen",
-  "city": "agen",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "agen",
+  "city": "Agen",
+  "citySlug": "agen",
+  "path": "/france/agen/agen/restaurants",
+  "canonicalPath": "/france/agen/agen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Table de Michel Dussau",

@@ -1,11 +1,21 @@
 {
   "title": "Lamai Beach",
+  "country": "Thailand",
+  "countrySlug": "thailand",
+  "region": null,
+  "regionSlug": "lamai-beach",
+  "city": "Lamai Beach",
+  "citySlug": "lamai-beach",
+  "path": "/thailand/lamai-beach/lamai-beach/restaurants",
+  "canonicalPath": "/thailand/lamai-beach/lamai-beach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Spa",
       "cuisine": "",
       "price": "",
-      "path": "/thailand/lamai-beach/lamai-beach/TheSpa"
+      "path": "/thailand/lamai-beach/lamai-beach/the-spa",
+      "award": "World's 50 Best"
     }
   ]
 }

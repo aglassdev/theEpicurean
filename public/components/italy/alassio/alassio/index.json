@@ -1,20 +1,27 @@
 {
   "title": "Alassio",
-  "country": "italy",
-  "region": "alassio",
-  "city": "alassio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "alassio",
+  "city": "Alassio",
+  "citySlug": "alassio",
+  "path": "/italy/alassio/alassio/restaurants",
+  "canonicalPath": "/italy/alassio/alassio/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Nove",
+      "cuisine": "Ligurian, Creative",
+      "price": "€€€€",
+      "path": "/italy/alassio/alassio/nove",
+      "award": "★"
+    },
     {
       "name": "Lamberti",
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/italy/alassio/alassio/lamberti"
-    },
-    {
-      "name": "Nove",
-      "cuisine": "Ligurian, Creative",
-      "price": "€€€€",
-      "path": "/italy/alassio/alassio/nove"
     }
   ]
 }

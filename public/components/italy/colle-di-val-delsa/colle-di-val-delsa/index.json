@@ -1,11 +1,27 @@
 {
-  "title": "Colle Di Val Delsa",
+  "title": "Colle di Val Delsa",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "colle-di-val-delsa",
+  "city": "Colle di Val Delsa",
+  "citySlug": "colle-di-val-delsa",
+  "path": "/italy/colle-di-val-delsa/colle-di-val-delsa/restaurants",
+  "canonicalPath": "/italy/colle-di-val-delsa/colle-di-val-delsa/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Arnolfo",
       "cuisine": "Creative, Country cooking",
       "price": "€€€€",
-      "path": "/italy/colle-di-val-delsa/colle-di-val-delsa/arnolfo"
+      "path": "/italy/colle-di-val-delsa/colle-di-val-delsa/arnolfo",
+      "award": "★★"
+    },
+    {
+      "name": "Barbagianni",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/italy/colle-di-val-delsa/colle-di-val-delsa/barbagianni"
     },
     {
       "name": "Bis Osteria Italiana Contemporanea",
@@ -18,12 +34,6 @@
       "cuisine": "Italian Contemporary, Modern Cuisine",
       "price": "€€",
       "path": "/italy/colle-di-val-delsa/colle-di-val-delsa/il-frantoio"
-    },
-    {
-      "name": "Barbagianni",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/italy/colle-di-val-delsa/colle-di-val-delsa/Barbagianni"
     }
   ]
 }

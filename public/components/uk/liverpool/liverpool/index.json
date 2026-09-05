@@ -1,8 +1,14 @@
 {
   "title": "Liverpool",
-  "country": "uk",
-  "region": "liverpool",
-  "city": "liverpool",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "North West",
+  "regionSlug": "liverpool",
+  "city": "Liverpool",
+  "citySlug": "liverpool",
+  "path": "/uk/liverpool/liverpool/restaurants",
+  "canonicalPath": "/uk/liverpool/liverpool/restaurants",
+  "count": 13,
   "restaurants": [
     {
       "name": "“8” By Andrew Sheridan",
@@ -11,10 +17,40 @@
       "path": "/uk/liverpool/liverpool/8-by-andrew-sheridan"
     },
     {
+      "name": "Allerton Manor",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/north-west/liverpool/allerton-manor"
+    },
+    {
       "name": "Belzan",
       "cuisine": "Modern Cuisine",
       "price": "££",
       "path": "/uk/liverpool/liverpool/belzan"
+    },
+    {
+      "name": "DoubleTree by Hilton Liverpool",
+      "cuisine": "Afternoon Tea",
+      "price": "24.99",
+      "path": "/uk/north-west/liverpool/doubletree-by-hilton-liverpool"
+    },
+    {
+      "name": "Gino D'Acampo 360 Sky Bar",
+      "cuisine": "Afternoon Tea",
+      "price": "29.00",
+      "path": "/uk/north-west/liverpool/gino-dacampo360-sky-bar"
+    },
+    {
+      "name": "Hilton Liverpool City Centre",
+      "cuisine": "Afternoon Tea",
+      "price": "22.95",
+      "path": "/uk/north-west/liverpool/hilton-liverpool-city-centre"
+    },
+    {
+      "name": "Malmaison Liverpool",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/north-west/liverpool/malmaison-liverpool"
     },
     {
       "name": "Manifest",
@@ -32,13 +68,19 @@
       "name": "Pilgrim",
       "cuisine": "Spanish",
       "price": "££",
-      "path": "/uk/liverpool/liverpool/pilgrim"
+      "path": "/uk/liverpool/liverpool/pilgrim-l-i-v"
     },
     {
       "name": "The Art School",
       "cuisine": "Modern British",
       "price": "££££",
       "path": "/uk/liverpool/liverpool/the-art-school"
+    },
+    {
+      "name": "The Municipal Hotel Liverpool, MGallery",
+      "cuisine": "Afternoon Tea",
+      "price": "33.00",
+      "path": "/uk/north-west/liverpool/the-municipal-hotel-liverpool-mgallery"
     },
     {
       "name": "Vetch",

@@ -1,14 +1,21 @@
 {
-  "title": "Daroca De Rioja",
-  "country": "spain",
-  "region": "daroca-de-rioja",
-  "city": "daroca-de-rioja",
+  "title": "Daroca de Rioja",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "daroca-de-rioja",
+  "city": "Daroca de Rioja",
+  "citySlug": "daroca-de-rioja",
+  "path": "/spain/daroca-de-rioja/daroca-de-rioja/restaurants",
+  "canonicalPath": "/spain/daroca-de-rioja/daroca-de-rioja/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Venta Moncalvillo",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/daroca-de-rioja/daroca-de-rioja/venta-moncalvillo"
+      "path": "/spain/daroca-de-rioja/daroca-de-rioja/venta-moncalvillo",
+      "award": "★★"
     }
   ]
 }

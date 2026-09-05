@@ -1,14 +1,21 @@
 {
   "title": "Lherbaudire",
-  "country": "france",
-  "region": "lherbaudire",
-  "city": "lherbaudire",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lherbaudire",
+  "city": "Lherbaudire",
+  "citySlug": "lherbaudire",
+  "path": "/france/lherbaudire/lherbaudire/restaurants",
+  "canonicalPath": "/france/lherbaudire/lherbaudire/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Marine",
       "cuisine": "Creative, Seafood",
       "price": "€€€€",
-      "path": "/france/lherbaudire/lherbaudire/la-marine"
+      "path": "/france/lherbaudire/lherbaudire/la-marine",
+      "award": "★★★"
     },
     {
       "name": "Élise, Poissons & Braise",

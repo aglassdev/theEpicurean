@@ -1,8 +1,14 @@
 {
   "title": "Champlive",
-  "country": "france",
-  "region": "champlive",
-  "city": "champlive",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "champlive",
+  "city": "Champlive",
+  "citySlug": "champlive",
+  "path": "/france/champlive/champlive/restaurants",
+  "canonicalPath": "/france/champlive/champlive/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge du Château de Vaite",

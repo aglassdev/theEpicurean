@@ -1,8 +1,14 @@
 {
   "title": "Haiger",
-  "country": "germany",
-  "region": "haiger",
-  "city": "haiger",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "haiger",
+  "city": "Haiger",
+  "citySlug": "haiger",
+  "path": "/germany/haiger/haiger/restaurants",
+  "canonicalPath": "/germany/haiger/haiger/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Villa Busch",

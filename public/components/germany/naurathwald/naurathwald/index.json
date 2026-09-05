@@ -1,20 +1,27 @@
 {
   "title": "Naurathwald",
-  "country": "germany",
-  "region": "naurathwald",
-  "city": "naurathwald",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "naurathwald",
+  "city": "Naurathwald",
+  "citySlug": "naurathwald",
+  "path": "/germany/naurathwald/naurathwald/restaurants",
+  "canonicalPath": "/germany/naurathwald/naurathwald/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Rüssel's Landhaus",
+      "cuisine": "Creative, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/naurathwald/naurathwald/rssels-landhaus",
+      "award": "★"
+    },
     {
       "name": "Rüssel's Hasenpfeffer",
       "cuisine": "Country cooking, Traditional Cuisine",
       "price": "€€€",
       "path": "/germany/naurathwald/naurathwald/rssels-hasenpfeffer"
-    },
-    {
-      "name": "Rüssel's Landhaus",
-      "cuisine": "Creative, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/naurathwald/naurathwald/rssels-landhaus"
     }
   ]
 }

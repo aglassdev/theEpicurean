@@ -1,14 +1,20 @@
 {
   "title": "Remouchamps",
-  "country": "belgium",
-  "region": "remouchamps",
-  "city": "remouchamps",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "remouchamps",
+  "city": "Remouchamps",
+  "citySlug": "remouchamps",
+  "path": "/belgium/remouchamps/remouchamps/restaurants",
+  "canonicalPath": "/belgium/remouchamps/remouchamps/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Royal H.-Bonhomme",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/belgium/remouchamps/remouchamps/royal-h-bonhomme"
+      "path": "/belgium/remouchamps/remouchamps/royal-hbonhomme"
     }
   ]
 }

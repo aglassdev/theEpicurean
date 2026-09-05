@@ -1,14 +1,21 @@
 {
   "title": "Lvaro Obregn",
-  "country": "mexico",
-  "region": "lvaro-obregn",
-  "city": "lvaro-obregn",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "lvaro-obregn",
+  "city": "Lvaro Obregn",
+  "citySlug": "lvaro-obregn",
+  "path": "/mexico/lvaro-obregn/lvaro-obregn/restaurants",
+  "canonicalPath": "/mexico/lvaro-obregn/lvaro-obregn/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Sud 777",
       "cuisine": "Creative, Vegetarian",
       "price": "$$",
-      "path": "/mexico/lvaro-obregn/lvaro-obregn/sud-777"
+      "path": "/mexico/lvaro-obregn/lvaro-obregn/sud777",
+      "award": "★"
     },
     {
       "name": "Taquería Los Milanesos",

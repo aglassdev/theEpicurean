@@ -1,11 +1,20 @@
 {
-  "title": "Saint-Irénée",
+  "title": "Saint Irne",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "saint-irne",
+  "city": "Saint Irne",
+  "citySlug": "saint-irne",
+  "path": "/canada/saint-irne/saint-irne/restaurants",
+  "canonicalPath": "/canada/saint-irne/saint-irne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Sainti",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/canada/saint-irne/saint-irne/LeSainti"
+      "path": "/canada/saint-irne/saint-irne/le-sainti"
     }
   ]
 }

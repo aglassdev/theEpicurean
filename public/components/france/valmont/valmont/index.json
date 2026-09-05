@@ -1,14 +1,21 @@
 {
   "title": "Valmont",
-  "country": "france",
-  "region": "valmont",
-  "city": "valmont",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "valmont",
+  "city": "Valmont",
+  "citySlug": "valmont",
+  "path": "/france/valmont/valmont/restaurants",
+  "canonicalPath": "/france/valmont/valmont/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison Caillet",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/valmont/valmont/maison-caillet"
+      "path": "/france/valmont/valmont/maison-caillet",
+      "award": "★"
     }
   ]
 }

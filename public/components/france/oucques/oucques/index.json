@@ -1,8 +1,14 @@
 {
   "title": "Oucques",
-  "country": "france",
-  "region": "oucques",
-  "city": "oucques",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "oucques",
+  "city": "Oucques",
+  "citySlug": "oucques",
+  "path": "/france/oucques/oucques/restaurants",
+  "canonicalPath": "/france/oucques/oucques/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ô en Couleur",

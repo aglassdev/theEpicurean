@@ -1,29 +1,38 @@
 {
-  "title": "Mandaluyong - Metro Manila",
+  "title": "Mandaluyong Metro Manila",
+  "country": "Philippines",
+  "countrySlug": "the-philippines",
+  "region": null,
+  "regionSlug": "mandaluyong-metro-manila",
+  "city": "Mandaluyong Metro Manila",
+  "citySlug": "mandaluyong-metro-manila",
+  "path": "/the-philippines/mandaluyong-metro-manila/mandaluyong-metro-manila/restaurants",
+  "canonicalPath": "/the-philippines/mandaluyong-metro-manila/mandaluyong-metro-manila/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Cantabria by Chele Gonzalez",
       "cuisine": "Spanish",
       "price": "$$$",
-      "path": "/the-philippines/mandaluyong-metro-manila/mandaluyong-metro-manila/CantabriaByCheleGonzalez"
+      "path": "/the-philippines/mandaluyong-metro-manila/mandaluyong-metro-manila/cantabria-by-chele-gonzalez"
     },
     {
       "name": "Juniper",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/the-philippines/mandaluyong-metro-manila/mandaluyong-metro-manila/Juniper"
+      "path": "/the-philippines/mandaluyong-metro-manila/mandaluyong-metro-manila/juniper"
     },
     {
       "name": "Now Now",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/the-philippines/mandaluyong-metro-manila/mandaluyong-metro-manila/NowNow"
+      "path": "/the-philippines/mandaluyong-metro-manila/mandaluyong-metro-manila/now-now"
     },
     {
       "name": "Osteria Antica",
       "cuisine": "Italian Contemporary",
       "price": "$$",
-      "path": "/the-philippines/mandaluyong-metro-manila/mandaluyong-metro-manila/OsteriaAntica"
+      "path": "/the-philippines/mandaluyong-metro-manila/mandaluyong-metro-manila/osteria-antica"
     }
   ]
 }

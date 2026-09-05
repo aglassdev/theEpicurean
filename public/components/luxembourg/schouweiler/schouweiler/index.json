@@ -1,14 +1,21 @@
 {
   "title": "Schouweiler",
-  "country": "luxembourg",
-  "region": "schouweiler",
-  "city": "schouweiler",
+  "country": "Luxembourg",
+  "countrySlug": "luxembourg",
+  "region": null,
+  "regionSlug": "schouweiler",
+  "city": "Schouweiler",
+  "citySlug": "schouweiler",
+  "path": "/luxembourg/schouweiler/schouweiler/restaurants",
+  "canonicalPath": "/luxembourg/schouweiler/schouweiler/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Guillou Campagne",
       "cuisine": "Classic French",
       "price": "€€€",
-      "path": "/luxembourg/schouweiler/schouweiler/guillou-campagne"
+      "path": "/luxembourg/schouweiler/schouweiler/guillou-campagne",
+      "award": "★"
     }
   ]
 }

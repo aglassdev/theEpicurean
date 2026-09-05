@@ -1,5 +1,14 @@
 {
   "title": "La Bresse",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-bresse",
+  "city": "La Bresse",
+  "citySlug": "la-bresse",
+  "path": "/france/la-bresse/la-bresse/restaurants",
+  "canonicalPath": "/france/la-bresse/la-bresse/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "anico",
@@ -11,7 +20,7 @@
       "name": "Le Couchetat",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/la-bresse/la-bresse/LeCouchetat"
+      "path": "/france/la-bresse/la-bresse/le-couchetat"
     }
   ]
 }

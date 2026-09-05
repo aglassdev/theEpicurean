@@ -1,8 +1,14 @@
 {
   "title": "Gaillac",
-  "country": "france",
-  "region": "gaillac",
-  "city": "gaillac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gaillac",
+  "city": "Gaillac",
+  "citySlug": "gaillac",
+  "path": "/france/gaillac/gaillac/restaurants",
+  "canonicalPath": "/france/gaillac/gaillac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vigne en Foule",

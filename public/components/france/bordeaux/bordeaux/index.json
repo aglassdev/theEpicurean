@@ -1,11 +1,84 @@
 {
   "title": "Bordeaux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bordeaux",
+  "city": "Bordeaux",
+  "citySlug": "bordeaux",
+  "path": "/france/bordeaux/bordeaux/restaurants",
+  "canonicalPath": "/france/bordeaux/bordeaux/restaurants",
+  "count": 51,
   "restaurants": [
+    {
+      "name": "L'Observatoire du Gabriel",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/bordeaux/bordeaux/lobservatoire-du-gabriel",
+      "award": "★★"
+    },
+    {
+      "name": "Le Pressoir d'Argent - Gordon Ramsay",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/bordeaux/bordeaux/le-pressoir-dargent-gordon-ramsay",
+      "award": "★★"
+    },
+    {
+      "name": "Maison Nouvelle",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/bordeaux/bordeaux/maison-nouvelle",
+      "award": "★★"
+    },
     {
       "name": "Amicis",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/bordeaux/bordeaux/amicis"
+      "path": "/france/bordeaux/bordeaux/amicis",
+      "award": "★"
+    },
+    {
+      "name": "L'Oiseau Bleu",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/bordeaux/bordeaux/loiseau-bleu",
+      "award": "★"
+    },
+    {
+      "name": "La Table d'Hôtes - Le Quatrième Mur",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/bordeaux/bordeaux/la-table-dhtes-le-quatrime-mur",
+      "award": "★"
+    },
+    {
+      "name": "Le Pavillon des Boulevards",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/bordeaux/bordeaux/le-pavillon-des-boulevards",
+      "award": "★"
+    },
+    {
+      "name": "Ressources",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/bordeaux/bordeaux/ressources",
+      "award": "★"
+    },
+    {
+      "name": "Soléna",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/bordeaux/bordeaux/solna",
+      "award": "★"
+    },
+    {
+      "name": "Tentazioni",
+      "cuisine": "Italian, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/bordeaux/bordeaux/tentazioni",
+      "award": "★"
     },
     {
       "name": "Arcada",
@@ -14,16 +87,28 @@
       "path": "/france/bordeaux/bordeaux/arcada"
     },
     {
+      "name": "Au Bistrot",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/bordeaux/bordeaux/au-bistrot"
+    },
+    {
+      "name": "Au Comptoir d'Augusta",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/bordeaux/bordeaux/au-comptoir-daugusta"
+    },
+    {
+      "name": "Bistrot Cul Sec",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/bordeaux/bordeaux/bistrot-cul-sec"
+    },
+    {
       "name": "Bo-tannique",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/bordeaux/bordeaux/bo-tannique"
-    },
-    {
-      "name": "Cent33",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/bordeaux/bordeaux/cent33"
+      "path": "/france/bordeaux/bordeaux/botannique"
     },
     {
       "name": "C'Yusha",
@@ -32,10 +117,22 @@
       "path": "/france/bordeaux/bordeaux/cyusha"
     },
     {
+      "name": "Cent33",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/bordeaux/bordeaux/cent33"
+    },
+    {
       "name": "Epicentre",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/bordeaux/bordeaux/epicentre"
+    },
+    {
+      "name": "Il Vicolo Rosso",
+      "cuisine": "Italian",
+      "price": "$",
+      "path": "/france/bordeaux/bordeaux/il-vicolo-rosso"
     },
     {
       "name": "Influences",
@@ -74,12 +171,6 @@
       "path": "/france/bordeaux/bordeaux/la-fine-bouche"
     },
     {
-      "name": "La Table d'Hôtes - Le Quatrième Mur",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/bordeaux/bordeaux/la-table-dhtes-le-quatrime-mur"
-    },
-    {
       "name": "La Tupina",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
@@ -89,13 +180,13 @@
       "name": "Le 1544",
       "cuisine": "Classic Cuisine",
       "price": "€€",
-      "path": "/france/bordeaux/bordeaux/le-1544"
+      "path": "/france/bordeaux/bordeaux/le1544"
     },
     {
       "name": "Le 7 Restaurant Panoramique",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/bordeaux/bordeaux/le-7-restaurant-panoramique"
+      "path": "/france/bordeaux/bordeaux/le7-restaurant-panoramique"
     },
     {
       "name": "Le Cercle de Montaigne",
@@ -116,22 +207,16 @@
       "path": "/france/bordeaux/bordeaux/le-chicoula-bistrot-dart"
     },
     {
+      "name": "Le Classique",
+      "cuisine": "Classic Cuisine",
+      "price": "$$",
+      "path": "/france/bordeaux/bordeaux/le-classique"
+    },
+    {
       "name": "Le Clos d'Augusta",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/bordeaux/bordeaux/le-clos-daugusta"
-    },
-    {
-      "name": "Le Pavillon des Boulevards",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/bordeaux/bordeaux/le-pavillon-des-boulevards"
-    },
-    {
-      "name": "Le Pressoir d'Argent - Gordon Ramsay",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/bordeaux/bordeaux/le-pressoir-dargent-gordon-ramsay"
     },
     {
       "name": "Le Quatrième Mur",
@@ -146,22 +231,10 @@
       "path": "/france/bordeaux/bordeaux/lilhome"
     },
     {
-      "name": "L'Observatoire du Gabriel",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/bordeaux/bordeaux/lobservatoire-du-gabriel"
-    },
-    {
       "name": "Loco by Jem's",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/bordeaux/bordeaux/loco-by-jems"
-    },
-    {
-      "name": "L'Oiseau Bleu",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/bordeaux/bordeaux/loiseau-bleu"
     },
     {
       "name": "Lume",
@@ -180,12 +253,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/bordeaux/bordeaux/madame-b"
-    },
-    {
-      "name": "Maison Nouvelle",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/bordeaux/bordeaux/maison-nouvelle"
     },
     {
       "name": "Mets Mots",
@@ -230,34 +297,16 @@
       "path": "/france/bordeaux/bordeaux/racines-by-daniel-gallacher"
     },
     {
-      "name": "Ressources",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/bordeaux/bordeaux/ressources"
-    },
-    {
       "name": "Sens",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/bordeaux/bordeaux/sens"
     },
     {
-      "name": "Soléna",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/bordeaux/bordeaux/solna"
-    },
-    {
       "name": "Symbiose",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/bordeaux/bordeaux/symbiose"
-    },
-    {
-      "name": "Tentazioni",
-      "cuisine": "Italian, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/bordeaux/bordeaux/tentazioni"
+      "path": "/france/bordeaux/bordeaux/symbiose-b-o-r"
     },
     {
       "name": "TLALI",
@@ -276,36 +325,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/bordeaux/bordeaux/zphirine"
-    },
-    {
-      "name": "Au Bistrot",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/france/bordeaux/bordeaux/AuBistrot"
-    },
-    {
-      "name": "Au Comptoir d'Augusta",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/bordeaux/bordeaux/AuComptoirDaugusta"
-    },
-    {
-      "name": "Bistrot Cul Sec",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/bordeaux/bordeaux/BistrotCulSec"
-    },
-    {
-      "name": "Il Vicolo Rosso",
-      "cuisine": "Italian",
-      "price": "$",
-      "path": "/france/bordeaux/bordeaux/IlVicoloRosso"
-    },
-    {
-      "name": "Le Classique",
-      "cuisine": "Classic Cuisine",
-      "price": "$$",
-      "path": "/france/bordeaux/bordeaux/LeClassique"
     }
   ]
 }

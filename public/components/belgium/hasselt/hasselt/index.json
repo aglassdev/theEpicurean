@@ -1,9 +1,29 @@
 {
   "title": "Hasselt",
-  "country": "belgium",
-  "region": "hasselt",
-  "city": "hasselt",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "hasselt",
+  "city": "Hasselt",
+  "citySlug": "hasselt",
+  "path": "/belgium/hasselt/hasselt/restaurants",
+  "canonicalPath": "/belgium/hasselt/hasselt/restaurants",
+  "count": 8,
   "restaurants": [
+    {
+      "name": "JER",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/belgium/hasselt/hasselt/jer",
+      "award": "★"
+    },
+    {
+      "name": "Ogst",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/belgium/hasselt/hasselt/ogst",
+      "award": "★"
+    },
     {
       "name": "Brasserie Rongese",
       "cuisine": "Traditional Cuisine, Farm to table",
@@ -17,12 +37,6 @@
       "path": "/belgium/hasselt/hasselt/de-kwizien"
     },
     {
-      "name": "JER",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "€€€",
-      "path": "/belgium/hasselt/hasselt/jer"
-    },
-    {
       "name": "La Fontanella",
       "cuisine": "Italian Contemporary",
       "price": "€€",
@@ -33,12 +47,6 @@
       "cuisine": "Italian",
       "price": "€€€",
       "path": "/belgium/hasselt/hasselt/moretti"
-    },
-    {
-      "name": "Ogst",
-      "cuisine": "Modern French",
-      "price": "€€€",
-      "path": "/belgium/hasselt/hasselt/ogst"
     },
     {
       "name": "Otoro",

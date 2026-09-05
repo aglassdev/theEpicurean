@@ -1,8 +1,14 @@
 {
   "title": "Meggen",
-  "country": "switzerland",
-  "region": "meggen",
-  "city": "meggen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "meggen",
+  "city": "Meggen",
+  "citySlug": "meggen",
+  "path": "/switzerland/meggen/meggen/restaurants",
+  "canonicalPath": "/switzerland/meggen/meggen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Balm - Bistro",

@@ -1,8 +1,14 @@
 {
   "title": "Noville",
-  "country": "switzerland",
-  "region": "noville",
-  "city": "noville",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "noville",
+  "city": "Noville",
+  "citySlug": "noville",
+  "path": "/switzerland/noville/noville/restaurants",
+  "canonicalPath": "/switzerland/noville/noville/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Etoile",

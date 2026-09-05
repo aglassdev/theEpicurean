@@ -1,14 +1,21 @@
 {
   "title": "Sappada",
-  "country": "italy",
-  "region": "sappada",
-  "city": "sappada",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "sappada",
+  "city": "Sappada",
+  "citySlug": "sappada",
+  "path": "/italy/sappada/sappada/restaurants",
+  "canonicalPath": "/italy/sappada/sappada/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Laite",
       "cuisine": "Regional Cuisine, Traditional Cuisine",
       "price": "€€€€",
-      "path": "/italy/sappada/sappada/laite"
+      "path": "/italy/sappada/sappada/laite",
+      "award": "★"
     },
     {
       "name": "Mondschein",

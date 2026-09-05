@@ -1,11 +1,20 @@
 {
   "title": "Rettenbach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "rettenbach",
+  "city": "Rettenbach",
+  "citySlug": "rettenbach",
+  "path": "/germany/rettenbach/rettenbach/restaurants",
+  "canonicalPath": "/germany/rettenbach/rettenbach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Jagawirt zu Aumbach",
       "cuisine": "Regional Cuisine",
       "price": "$$",
-      "path": "/germany/rettenbach/rettenbach/JagawirtZuAumbach"
+      "path": "/germany/rettenbach/rettenbach/jagawirt-zu-aumbach"
     }
   ]
 }

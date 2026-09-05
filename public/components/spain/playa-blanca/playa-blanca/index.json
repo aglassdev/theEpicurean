@@ -1,23 +1,33 @@
 {
   "title": "Playa Blanca",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "playa-blanca",
+  "city": "Playa Blanca",
+  "citySlug": "playa-blanca",
+  "path": "/spain/playa-blanca/playa-blanca/restaurants",
+  "canonicalPath": "/spain/playa-blanca/playa-blanca/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Kamezí",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/playa-blanca/playa-blanca/kamez"
+      "path": "/spain/playa-blanca/playa-blanca/kamez",
+      "award": "★"
+    },
+    {
+      "name": "Citurna",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/spain/playa-blanca/playa-blanca/citurna"
     },
     {
       "name": "La Cocina de Colacho",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/spain/playa-blanca/playa-blanca/la-cocina-de-colacho"
-    },
-    {
-      "name": "Citurna",
-      "cuisine": "Fusion",
-      "price": "$$",
-      "path": "/spain/playa-blanca/playa-blanca/Citurna"
     }
   ]
 }

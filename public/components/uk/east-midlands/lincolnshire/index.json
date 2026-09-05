@@ -1,11 +1,20 @@
 {
   "title": "Lincolnshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "East Midlands",
+  "regionSlug": "east-midlands",
+  "city": "Lincolnshire",
+  "citySlug": "lincolnshire",
+  "path": "/uk/east-midlands/lincolnshire/restaurants",
+  "canonicalPath": "/uk/east-midlands/lincolnshire/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Humberston Bannatyne",
       "cuisine": "Afternoon Tea",
       "price": "10.00",
-      "path": "/uk/east-midlands/lincolnshire/HumberstonBannatyne"
+      "path": "/uk/east-midlands/lincolnshire/humberston-bannatyne"
     }
   ]
 }

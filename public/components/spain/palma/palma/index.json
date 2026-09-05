@@ -1,6 +1,36 @@
 {
   "title": "Palma",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "palma",
+  "city": "Palma",
+  "citySlug": "palma",
+  "path": "/spain/palma/palma/restaurants",
+  "canonicalPath": "/spain/palma/palma/restaurants",
+  "count": 17,
   "restaurants": [
+    {
+      "name": "DINS Santi Taura",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/palma/palma/dins-santi-taura",
+      "award": "★"
+    },
+    {
+      "name": "Marc Fosh",
+      "cuisine": "Modern Cuisine, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/spain/palma/palma/marc-fosh",
+      "award": "★"
+    },
+    {
+      "name": "Zaranda",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/palma/palma/zaranda",
+      "award": "★"
+    },
     {
       "name": "Adrián Quetglas",
       "cuisine": "Modern Cuisine",
@@ -20,22 +50,10 @@
       "path": "/spain/palma/palma/brbar"
     },
     {
-      "name": "DINS Santi Taura",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/palma/palma/dins-santi-taura"
-    },
-    {
       "name": "Guethary",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
       "path": "/spain/palma/palma/guethary"
-    },
-    {
-      "name": "La Bodeguilla",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€€",
-      "path": "/spain/palma/palma/la-bodeguilla"
     },
     {
       "name": "La Bodeguilla",
@@ -50,6 +68,12 @@
       "path": "/spain/palma/palma/la-vieja"
     },
     {
+      "name": "La Vieja by Jonay Hernández",
+      "cuisine": "Creative",
+      "price": "$$",
+      "path": "/spain/palma/palma/la-vieja-by-jonay-hernndez"
+    },
+    {
       "name": "Little Jarana",
       "cuisine": "International, Mediterranean Cuisine",
       "price": "€€",
@@ -60,12 +84,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/spain/palma/palma/mambo"
-    },
-    {
-      "name": "Marc Fosh",
-      "cuisine": "Modern Cuisine, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/spain/palma/palma/marc-fosh"
     },
     {
       "name": "Mombo",
@@ -96,18 +114,6 @@
       "cuisine": "Peruvian",
       "price": "€€",
       "path": "/spain/palma/palma/sumaq"
-    },
-    {
-      "name": "Zaranda",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/palma/palma/zaranda"
-    },
-    {
-      "name": "La Vieja by Jonay Hernández",
-      "cuisine": "Creative",
-      "price": "$$",
-      "path": "/spain/palma/palma/LaViejaByJonayHernndez"
     }
   ]
 }

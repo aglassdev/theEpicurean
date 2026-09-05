@@ -1,14 +1,21 @@
 {
   "title": "Lonigo",
-  "country": "italy",
-  "region": "lonigo",
-  "city": "lonigo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "lonigo",
+  "city": "Lonigo",
+  "citySlug": "lonigo",
+  "path": "/italy/lonigo/lonigo/restaurants",
+  "canonicalPath": "/italy/lonigo/lonigo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Peca",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€€€",
-      "path": "/italy/lonigo/lonigo/la-peca"
+      "path": "/italy/lonigo/lonigo/la-peca",
+      "award": "★★"
     }
   ]
 }

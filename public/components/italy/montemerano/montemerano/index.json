@@ -1,14 +1,21 @@
 {
   "title": "Montemerano",
-  "country": "italy",
-  "region": "montemerano",
-  "city": "montemerano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "montemerano",
+  "city": "Montemerano",
+  "citySlug": "montemerano",
+  "path": "/italy/montemerano/montemerano/restaurants",
+  "canonicalPath": "/italy/montemerano/montemerano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Caino",
       "cuisine": "Tuscan, Contemporary",
       "price": "€€€€",
-      "path": "/italy/montemerano/montemerano/caino"
+      "path": "/italy/montemerano/montemerano/caino",
+      "award": "★★"
     }
   ]
 }

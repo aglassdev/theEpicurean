@@ -1,11 +1,20 @@
 {
   "title": "La Huerta",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "la-huerta",
+  "city": "La Huerta",
+  "citySlug": "la-huerta",
+  "path": "/mexico/la-huerta/la-huerta/restaurants",
+  "canonicalPath": "/mexico/la-huerta/la-huerta/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Coyul",
       "cuisine": "Mexican",
       "price": "$$$$",
-      "path": "/mexico/la-huerta/la-huerta/Coyul"
+      "path": "/mexico/la-huerta/la-huerta/coyul"
     }
   ]
 }

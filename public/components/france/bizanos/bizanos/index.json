@@ -1,8 +1,14 @@
 {
   "title": "Bizanos",
-  "country": "france",
-  "region": "bizanos",
-  "city": "bizanos",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bizanos",
+  "city": "Bizanos",
+  "citySlug": "bizanos",
+  "path": "/france/bizanos/bizanos/restaurants",
+  "canonicalPath": "/france/bizanos/bizanos/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Esberit",

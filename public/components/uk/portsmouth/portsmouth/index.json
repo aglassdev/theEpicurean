@@ -1,11 +1,21 @@
 {
   "title": "Portsmouth",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "portsmouth",
+  "city": "Portsmouth",
+  "citySlug": "portsmouth",
+  "path": "/uk/portsmouth/portsmouth/restaurants",
+  "canonicalPath": "/uk/portsmouth/portsmouth/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Merchant House",
       "cuisine": "",
       "price": "",
-      "path": "/uk/portsmouth/portsmouth/TheMerchantHouse"
+      "path": "/uk/portsmouth/portsmouth/the-merchant-house",
+      "award": "World's 50 Best"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Scherwiller",
-  "country": "france",
-  "region": "scherwiller",
-  "city": "scherwiller",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "scherwiller",
+  "city": "Scherwiller",
+  "citySlug": "scherwiller",
+  "path": "/france/scherwiller/scherwiller/restaurants",
+  "canonicalPath": "/france/scherwiller/scherwiller/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge Ramstein",

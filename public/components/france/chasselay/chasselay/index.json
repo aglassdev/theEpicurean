@@ -1,14 +1,21 @@
 {
   "title": "Chasselay",
-  "country": "france",
-  "region": "chasselay",
-  "city": "chasselay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chasselay",
+  "city": "Chasselay",
+  "citySlug": "chasselay",
+  "path": "/france/chasselay/chasselay/restaurants",
+  "canonicalPath": "/france/chasselay/chasselay/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Guy Lassausaie",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/chasselay/chasselay/guy-lassausaie"
+      "path": "/france/chasselay/chasselay/guy-lassausaie",
+      "award": "★"
     }
   ]
 }

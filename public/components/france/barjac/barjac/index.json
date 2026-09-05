@@ -1,8 +1,14 @@
 {
   "title": "Barjac",
-  "country": "france",
-  "region": "barjac",
-  "city": "barjac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "barjac",
+  "city": "Barjac",
+  "citySlug": "barjac",
+  "path": "/france/barjac/barjac/restaurants",
+  "canonicalPath": "/france/barjac/barjac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Carré des Saveurs",

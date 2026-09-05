@@ -1,14 +1,21 @@
 {
   "title": "Ordingen",
-  "country": "belgium",
-  "region": "ordingen",
-  "city": "ordingen",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "ordingen",
+  "city": "Ordingen",
+  "citySlug": "ordingen",
+  "path": "/belgium/ordingen/ordingen/restaurants",
+  "canonicalPath": "/belgium/ordingen/ordingen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Aurum by Gary Kirchens",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/belgium/ordingen/ordingen/aurum-by-gary-kirchens"
+      "path": "/belgium/ordingen/ordingen/aurum-by-gary-kirchens",
+      "award": "★"
     },
     {
       "name": "Restaurant Aurum",

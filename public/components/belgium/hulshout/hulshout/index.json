@@ -1,14 +1,21 @@
 {
   "title": "Hulshout",
-  "country": "belgium",
-  "region": "hulshout",
-  "city": "hulshout",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "hulshout",
+  "city": "Hulshout",
+  "citySlug": "hulshout",
+  "path": "/belgium/hulshout/hulshout/restaurants",
+  "canonicalPath": "/belgium/hulshout/hulshout/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hof Ter Hulst",
       "cuisine": "French, Classic French",
       "price": "€€€",
-      "path": "/belgium/hulshout/hulshout/hof-ter-hulst"
+      "path": "/belgium/hulshout/hulshout/hof-ter-hulst",
+      "award": "★"
     }
   ]
 }

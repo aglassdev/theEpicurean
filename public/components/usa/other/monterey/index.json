@@ -1,0 +1,44 @@
+{
+  "title": "Monterey",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Monterey",
+  "citySlug": "monterey",
+  "path": "/usa/other/monterey/restaurants",
+  "canonicalPath": "/usa/california/monterey/restaurants",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "Coastal Kitchen",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/monterey/coastal-kitchen"
+    },
+    {
+      "name": "Montrio Bistro",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/monterey/montrio-bistro"
+    },
+    {
+      "name": "Paprika Café",
+      "cuisine": "Mediterranean Cuisine, Greek",
+      "price": "$",
+      "path": "/usa/california/monterey/paprika-caf"
+    },
+    {
+      "name": "Stokes Adobe",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/monterey/stokes-adobe"
+    },
+    {
+      "name": "The Sardine Factory",
+      "cuisine": "Seafood, American",
+      "price": "$$$$",
+      "path": "/usa/california/monterey/the-sardine-factory"
+    }
+  ]
+}

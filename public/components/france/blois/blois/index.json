@@ -1,20 +1,34 @@
 {
   "title": "Blois",
-  "country": "france",
-  "region": "blois",
-  "city": "blois",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "blois",
+  "city": "Blois",
+  "citySlug": "blois",
+  "path": "/france/blois/blois/restaurants",
+  "canonicalPath": "/france/blois/blois/restaurants",
+  "count": 6,
   "restaurants": [
     {
-      "name": "Amour Blanc",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/blois/blois/amour-blanc"
+      "name": "Christophe Hay - Fleur de Loire",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/blois/blois/christophe-hay-fleur-de-loire",
+      "award": "★★"
     },
     {
       "name": "Assa",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/blois/blois/assa"
+      "path": "/france/blois/blois/assa",
+      "award": "★"
+    },
+    {
+      "name": "Amour Blanc",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/blois/blois/amour-blanc"
     },
     {
       "name": "Bro's",
@@ -27,12 +41,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/blois/blois/brut-maison-de-cuisine"
-    },
-    {
-      "name": "Christophe Hay - Fleur de Loire",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/blois/blois/christophe-hay-fleur-de-loire"
     },
     {
       "name": "Le Médicis",

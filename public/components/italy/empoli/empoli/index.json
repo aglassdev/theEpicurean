@@ -1,5 +1,14 @@
 {
   "title": "Empoli",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "empoli",
+  "city": "Empoli",
+  "citySlug": "empoli",
+  "path": "/italy/empoli/empoli/restaurants",
+  "canonicalPath": "/italy/empoli/empoli/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "20 Posti",
@@ -11,7 +20,7 @@
       "name": "Podere Giglio",
       "cuisine": "Tuscan",
       "price": "$$",
-      "path": "/italy/empoli/empoli/PodereGiglio"
+      "path": "/italy/empoli/empoli/podere-giglio"
     }
   ]
 }

@@ -1,20 +1,26 @@
 {
   "title": "Ramskapelle",
-  "country": "belgium",
-  "region": "ramskapelle",
-  "city": "ramskapelle",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "ramskapelle",
+  "city": "Ramskapelle",
+  "citySlug": "ramskapelle",
+  "path": "/belgium/ramskapelle/ramskapelle/restaurants",
+  "canonicalPath": "/belgium/ramskapelle/ramskapelle/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "De Kruier",
-      "cuisine": "Classic Cuisine, Belgian",
-      "price": "€€",
-      "path": "/belgium/ramskapelle/ramskapelle/de-kruier"
-    },
     {
       "name": "'t Kantientje",
       "cuisine": "Traditional Cuisine",
       "price": "€€€€",
       "path": "/belgium/ramskapelle/ramskapelle/t-kantientje"
+    },
+    {
+      "name": "De Kruier",
+      "cuisine": "Classic Cuisine, Belgian",
+      "price": "€€",
+      "path": "/belgium/ramskapelle/ramskapelle/de-kruier"
     }
   ]
 }

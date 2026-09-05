@@ -1,9 +1,22 @@
 {
-  "title": "Zell Am See",
-  "country": "austria",
-  "region": "zell-am-see",
-  "city": "zell-am-see",
+  "title": "Zell am See",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "zell-am-see",
+  "city": "Zell am See",
+  "citySlug": "zell-am-see",
+  "path": "/austria/zell-am-see/zell-am-see/restaurants",
+  "canonicalPath": "/austria/zell-am-see/zell-am-see/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "MAYER's Restaurant",
+      "cuisine": "Classic Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/austria/zell-am-see/zell-am-see/mayers-restaurant",
+      "award": "★"
+    },
     {
       "name": "Erlhof",
       "cuisine": "Regional Cuisine, Classic Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Seasonal Cuisine, Regional Cuisine",
       "price": "€€€",
       "path": "/austria/zell-am-see/zell-am-see/flos-restaurant"
-    },
-    {
-      "name": "MAYER's Restaurant",
-      "cuisine": "Classic Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/austria/zell-am-see/zell-am-see/mayers-restaurant"
     }
   ]
 }

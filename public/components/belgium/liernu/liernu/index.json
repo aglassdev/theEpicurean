@@ -1,20 +1,27 @@
 {
   "title": "Liernu",
-  "country": "belgium",
-  "region": "liernu",
-  "city": "liernu",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "liernu",
+  "city": "Liernu",
+  "citySlug": "liernu",
+  "path": "/belgium/liernu/liernu/restaurants",
+  "canonicalPath": "/belgium/liernu/liernu/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "L'air du temps",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/belgium/liernu/liernu/lair-du-temps",
+      "award": "★★"
+    },
     {
       "name": "Bistro Air du Temps",
       "cuisine": "Farm to table, Seasonal Cuisine",
       "price": "€€€",
       "path": "/belgium/liernu/liernu/bistro-air-du-temps"
-    },
-    {
-      "name": "L'air du temps",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/belgium/liernu/liernu/lair-du-temps"
     }
   ]
 }

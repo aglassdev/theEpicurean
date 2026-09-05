@@ -1,14 +1,20 @@
 {
-  "title": "Kirchberg In Tirol",
-  "country": "austria",
-  "region": "kirchberg-in-tirol",
-  "city": "kirchberg-in-tirol",
+  "title": "Kirchberg in Tirol",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "kirchberg-in-tirol",
+  "city": "Kirchberg in Tirol",
+  "citySlug": "kirchberg-in-tirol",
+  "path": "/austria/kirchberg-in-tirol/kirchberg-in-tirol/restaurants",
+  "canonicalPath": "/austria/kirchberg-in-tirol/kirchberg-in-tirol/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Stubn 1972",
       "cuisine": "Classic Cuisine, Contemporary",
       "price": "€€€",
-      "path": "/austria/kirchberg-in-tirol/kirchberg-in-tirol/stubn-1972"
+      "path": "/austria/kirchberg-in-tirol/kirchberg-in-tirol/stubn1972"
     }
   ]
 }

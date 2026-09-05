@@ -1,20 +1,28 @@
 {
   "title": "Kaysersberg",
-  "country": "france",
-  "region": "kaysersberg",
-  "city": "kaysersberg",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "kaysersberg",
+  "city": "Kaysersberg",
+  "citySlug": "kaysersberg",
+  "path": "/france/kaysersberg/kaysersberg/restaurants",
+  "canonicalPath": "/france/kaysersberg/kaysersberg/restaurants",
+  "count": 4,
   "restaurants": [
-    {
-      "name": "Alchémille",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/kaysersberg/kaysersberg/alchmille"
-    },
     {
       "name": "La Table d'Olivier Nasti",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/kaysersberg/kaysersberg/la-table-dolivier-nasti"
+      "path": "/france/kaysersberg/kaysersberg/la-table-dolivier-nasti",
+      "award": "★★"
+    },
+    {
+      "name": "Alchémille",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/kaysersberg/kaysersberg/alchmille",
+      "award": "★"
     },
     {
       "name": "La Vieille Forge",

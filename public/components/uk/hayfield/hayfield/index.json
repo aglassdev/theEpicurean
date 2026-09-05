@@ -1,8 +1,14 @@
 {
   "title": "Hayfield",
-  "country": "uk",
-  "region": "hayfield",
-  "city": "hayfield",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "hayfield",
+  "city": "Hayfield",
+  "citySlug": "hayfield",
+  "path": "/uk/hayfield/hayfield/restaurants",
+  "canonicalPath": "/uk/hayfield/hayfield/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Pack Horse",

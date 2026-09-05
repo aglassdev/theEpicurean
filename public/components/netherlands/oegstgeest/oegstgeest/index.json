@@ -1,17 +1,26 @@
 {
   "title": "Oegstgeest",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "oegstgeest",
+  "city": "Oegstgeest",
+  "citySlug": "oegstgeest",
+  "path": "/netherlands/oegstgeest/oegstgeest/restaurants",
+  "canonicalPath": "/netherlands/oegstgeest/oegstgeest/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Restaurant Suzie's en Van Aken",
+      "cuisine": "French",
+      "price": "$$",
+      "path": "/netherlands/oegstgeest/oegstgeest/restaurant-suzies-en-van-aken"
+    },
     {
       "name": "Suzie's en Van Aken",
       "cuisine": "French, Modern Cuisine",
       "price": "€€",
       "path": "/netherlands/oegstgeest/oegstgeest/suzies-en-van-aken"
-    },
-    {
-      "name": "Restaurant Suzie's en Van Aken",
-      "cuisine": "French",
-      "price": "$$",
-      "path": "/netherlands/oegstgeest/oegstgeest/RestaurantSuziesEnVanAken"
     }
   ]
 }

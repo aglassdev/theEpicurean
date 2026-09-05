@@ -1,32 +1,41 @@
 {
-  "title": "Madonna Di Campiglio",
-  "country": "italy",
-  "region": "madonna-di-campiglio",
-  "city": "madonna-di-campiglio",
+  "title": "Madonna di Campiglio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "madonna-di-campiglio",
+  "city": "Madonna di Campiglio",
+  "citySlug": "madonna-di-campiglio",
+  "path": "/italy/madonna-di-campiglio/madonna-di-campiglio/restaurants",
+  "canonicalPath": "/italy/madonna-di-campiglio/madonna-di-campiglio/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Dolomieu",
       "cuisine": "Contemporary",
       "price": "€€€€",
-      "path": "/italy/madonna-di-campiglio/madonna-di-campiglio/dolomieu"
+      "path": "/italy/madonna-di-campiglio/madonna-di-campiglio/dolomieu",
+      "award": "★"
+    },
+    {
+      "name": "Il Gallo Cedrone",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/madonna-di-campiglio/madonna-di-campiglio/il-gallo-cedrone",
+      "award": "★"
+    },
+    {
+      "name": "Stube Hermitage",
+      "cuisine": "Creative, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/italy/madonna-di-campiglio/madonna-di-campiglio/stube-hermitage",
+      "award": "★"
     },
     {
       "name": "Due Pini",
       "cuisine": "Contemporary, Regional Cuisine",
       "price": "€€€",
       "path": "/italy/madonna-di-campiglio/madonna-di-campiglio/due-pini"
-    },
-    {
-      "name": "Il Gallo Cedrone",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/madonna-di-campiglio/madonna-di-campiglio/il-gallo-cedrone"
-    },
-    {
-      "name": "Stube Hermitage",
-      "cuisine": "Creative, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/italy/madonna-di-campiglio/madonna-di-campiglio/stube-hermitage"
     }
   ]
 }

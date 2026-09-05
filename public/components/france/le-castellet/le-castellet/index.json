@@ -1,14 +1,21 @@
 {
   "title": "Le Castellet",
-  "country": "france",
-  "region": "le-castellet",
-  "city": "le-castellet",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-castellet",
+  "city": "Le Castellet",
+  "citySlug": "le-castellet",
+  "path": "/france/le-castellet/le-castellet/restaurants",
+  "canonicalPath": "/france/le-castellet/le-castellet/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Table du Castellet",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/le-castellet/le-castellet/la-table-du-castellet"
+      "path": "/france/le-castellet/le-castellet/la-table-du-castellet",
+      "award": "★★★"
     },
     {
       "name": "Le San Felice",

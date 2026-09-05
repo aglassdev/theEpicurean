@@ -1,131 +1,140 @@
 {
   "title": "Knightsbridge",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "Knightsbridge",
+  "citySlug": "knightsbridge",
+  "path": "/uk/london/knightsbridge/restaurants",
+  "canonicalPath": "/uk/london/knightsbridge/restaurants",
+  "count": 21,
   "restaurants": [
     {
-      "name": "The Bulgari Lounge at Bulgari Hotel London",
-      "cuisine": "Afternoon Tea",
-      "price": "80.00",
-      "path": "/uk/london/knightsbridge/TheBulgariLoungeAtBulgariHotelLondon"
-    },
-    {
-      "name": "The Berkeley",
-      "cuisine": "Afternoon Tea",
-      "price": "80.00",
-      "path": "/uk/london/knightsbridge/TheBerkeley"
-    },
-    {
-      "name": "The Tiffany Blue Box Cafe at Harrods",
-      "cuisine": "Afternoon Tea",
-      "price": "69.00",
-      "path": "/uk/london/knightsbridge/TheTiffanyBlueBoxCafeAtHarrods"
-    },
-    {
-      "name": "The Tea Room at The Egerton House Hotel",
+      "name": "A Tribute To Nature at The Jumeirah Carlton Tower",
       "cuisine": "Afternoon Tea",
       "price": "75.00",
-      "path": "/uk/london/knightsbridge/TheTeaRoomAtTheEgertonHouseHotel"
-    },
-    {
-      "name": "The Peninsula London",
-      "cuisine": "Afternoon Tea",
-      "price": "85.00",
-      "path": "/uk/london/knightsbridge/ThePeninsulaLondon"
-    },
-    {
-      "name": "Millennium Hotel London Knightsbridge",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/london/knightsbridge/MillenniumHotelLondonKnightsbridge"
-    },
-    {
-      "name": "Mandarin Oriental Hyde Park, London",
-      "cuisine": "Afternoon Tea",
-      "price": "85.00",
-      "path": "/uk/london/knightsbridge/MandarinOrientalHydeParkLondon"
-    },
-    {
-      "name": "The Lanesborough",
-      "cuisine": "Afternoon Tea",
-      "price": "85.00",
-      "path": "/uk/london/knightsbridge/TheLanesborough"
-    },
-    {
-      "name": "The Knightsbridge Lounge at the Park Tower Knightsbridge Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "49.00",
-      "path": "/uk/london/knightsbridge/TheKnightsbridgeLoungeAtTheParkTowerKnightsbridgeHotel"
-    },
-    {
-      "name": "Knightsbridge Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/london/knightsbridge/KnightsbridgeHotel"
-    },
-    {
-      "name": "Harvey Nichols Knightsbridge",
-      "cuisine": "Afternoon Tea",
-      "price": "50.00",
-      "path": "/uk/london/knightsbridge/HarveyNicholsKnightsbridge"
-    },
-    {
-      "name": "Harrods Tea Rooms",
-      "cuisine": "Afternoon Tea",
-      "price": "73.00",
-      "path": "/uk/london/knightsbridge/HarrodsTeaRooms"
-    },
-    {
-      "name": "The Franklin London Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "65.00",
-      "path": "/uk/london/knightsbridge/TheFranklinLondonHotel"
-    },
-    {
-      "name": "Feya Knightsbridge",
-      "cuisine": "Afternoon Tea",
-      "price": "37.50",
-      "path": "/uk/london/knightsbridge/FeyaKnightsbridge"
-    },
-    {
-      "name": "EL&N - Lowndes Street",
-      "cuisine": "Afternoon Tea",
-      "price": "22.50",
-      "path": "/uk/london/knightsbridge/ElnLowndesStreet"
-    },
-    {
-      "name": "COMO The Halkin Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/london/knightsbridge/ComoTheHalkinHotel"
-    },
-    {
-      "name": "Cedric Grolet at The Berkeley",
-      "cuisine": "Afternoon Tea",
-      "price": "85.00",
-      "path": "/uk/london/knightsbridge/CedricGroletAtTheBerkeley"
-    },
-    {
-      "name": "The Capital Hotel, Apartments & Townhouse",
-      "cuisine": "Afternoon Tea",
-      "price": "59.00",
-      "path": "/uk/london/knightsbridge/TheCapitalHotelApartmentsTownhouse"
-    },
-    {
-      "name": "Caffe Concerto - Knightsbridge",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/london/knightsbridge/CaffeConcertoKnightsbridge"
+      "path": "/uk/london/knightsbridge/a-tribute-to-nature-at-the-jumeirah-carlton-tower"
     },
     {
       "name": "Caffe Concerto - 78 Brompton Road",
       "cuisine": "Afternoon Tea",
       "price": "32.95",
-      "path": "/uk/london/knightsbridge/CaffeConcerto78BromptonRoad"
+      "path": "/uk/london/knightsbridge/caffe-concerto78-brompton-road"
     },
     {
-      "name": "A Tribute To Nature at The Jumeirah Carlton Tower",
+      "name": "Caffe Concerto - Knightsbridge",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/london/knightsbridge/caffe-concerto-knightsbridge"
+    },
+    {
+      "name": "Cedric Grolet at The Berkeley",
+      "cuisine": "Afternoon Tea",
+      "price": "85.00",
+      "path": "/uk/london/knightsbridge/cedric-grolet-at-the-berkeley"
+    },
+    {
+      "name": "COMO The Halkin Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "55.00",
+      "path": "/uk/london/knightsbridge/como-the-halkin-hotel"
+    },
+    {
+      "name": "EL&N - Lowndes Street",
+      "cuisine": "Afternoon Tea",
+      "price": "22.50",
+      "path": "/uk/london/knightsbridge/eln-lowndes-street"
+    },
+    {
+      "name": "Feya Knightsbridge",
+      "cuisine": "Afternoon Tea",
+      "price": "37.50",
+      "path": "/uk/london/knightsbridge/feya-knightsbridge"
+    },
+    {
+      "name": "Harrods Tea Rooms",
+      "cuisine": "Afternoon Tea",
+      "price": "73.00",
+      "path": "/uk/london/knightsbridge/harrods-tea-rooms"
+    },
+    {
+      "name": "Harvey Nichols Knightsbridge",
+      "cuisine": "Afternoon Tea",
+      "price": "50.00",
+      "path": "/uk/london/knightsbridge/harvey-nichols-knightsbridge"
+    },
+    {
+      "name": "Knightsbridge Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/london/knightsbridge/knightsbridge-hotel"
+    },
+    {
+      "name": "Mandarin Oriental Hyde Park, London",
+      "cuisine": "Afternoon Tea",
+      "price": "85.00",
+      "path": "/uk/london/knightsbridge/mandarin-oriental-hyde-park-london"
+    },
+    {
+      "name": "Millennium Hotel London Knightsbridge",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/london/knightsbridge/millennium-hotel-london-knightsbridge"
+    },
+    {
+      "name": "The Berkeley",
+      "cuisine": "Afternoon Tea",
+      "price": "80.00",
+      "path": "/uk/london/knightsbridge/the-berkeley"
+    },
+    {
+      "name": "The Bulgari Lounge at Bulgari Hotel London",
+      "cuisine": "Afternoon Tea",
+      "price": "80.00",
+      "path": "/uk/london/knightsbridge/the-bulgari-lounge-at-bulgari-hotel-london"
+    },
+    {
+      "name": "The Capital Hotel, Apartments & Townhouse",
+      "cuisine": "Afternoon Tea",
+      "price": "59.00",
+      "path": "/uk/london/knightsbridge/the-capital-hotel-apartments-townhouse"
+    },
+    {
+      "name": "The Franklin London Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "65.00",
+      "path": "/uk/london/knightsbridge/the-franklin-london-hotel"
+    },
+    {
+      "name": "The Knightsbridge Lounge at the Park Tower Knightsbridge Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "49.00",
+      "path": "/uk/london/knightsbridge/the-knightsbridge-lounge-at-the-park-tower-knightsbridge-hotel"
+    },
+    {
+      "name": "The Lanesborough",
+      "cuisine": "Afternoon Tea",
+      "price": "85.00",
+      "path": "/uk/london/knightsbridge/the-lanesborough"
+    },
+    {
+      "name": "The Peninsula London",
+      "cuisine": "Afternoon Tea",
+      "price": "85.00",
+      "path": "/uk/london/knightsbridge/the-peninsula-london"
+    },
+    {
+      "name": "The Tea Room at The Egerton House Hotel",
       "cuisine": "Afternoon Tea",
       "price": "75.00",
-      "path": "/uk/london/knightsbridge/ATributeToNatureAtTheJumeirahCarltonTower"
+      "path": "/uk/london/knightsbridge/the-tea-room-at-the-egerton-house-hotel"
+    },
+    {
+      "name": "The Tiffany Blue Box Cafe at Harrods",
+      "cuisine": "Afternoon Tea",
+      "price": "69.00",
+      "path": "/uk/london/knightsbridge/the-tiffany-blue-box-cafe-at-harrods"
     }
   ]
 }

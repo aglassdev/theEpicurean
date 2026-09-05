@@ -1,8 +1,14 @@
 {
   "title": "Nakhon Ratchasima",
-  "country": "thailand",
-  "region": "nakhon-ratchasima",
-  "city": "nakhon-ratchasima",
+  "country": "Thailand",
+  "countrySlug": "thailand",
+  "region": null,
+  "regionSlug": "nakhon-ratchasima",
+  "city": "Nakhon Ratchasima",
+  "citySlug": "nakhon-ratchasima",
+  "path": "/thailand/nakhon-ratchasima/nakhon-ratchasima/restaurants",
+  "canonicalPath": "/thailand/nakhon-ratchasima/nakhon-ratchasima/restaurants",
+  "count": 23,
   "restaurants": [
     {
       "name": "Banmai Chay Nam",
@@ -14,7 +20,7 @@
       "name": "Gin-D",
       "cuisine": "Thai",
       "price": "฿฿",
-      "path": "/thailand/nakhon-ratchasima/nakhon-ratchasima/gin-d"
+      "path": "/thailand/nakhon-ratchasima/nakhon-ratchasima/gind"
     },
     {
       "name": "Jay Noi Kratoke",
@@ -122,7 +128,7 @@
       "name": "Yommarat O-Cha (Yommarat Road)",
       "cuisine": "Noodles",
       "price": "฿",
-      "path": "/thailand/nakhon-ratchasima/nakhon-ratchasima/yommarat-o-cha-yommarat-road"
+      "path": "/thailand/nakhon-ratchasima/nakhon-ratchasima/yommarat-ocha-yommarat-road"
     },
     {
       "name": "Yong Poo Ob",

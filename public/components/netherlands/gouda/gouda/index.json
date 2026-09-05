@@ -1,14 +1,21 @@
 {
   "title": "Gouda",
-  "country": "netherlands",
-  "region": "gouda",
-  "city": "gouda",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "gouda",
+  "city": "Gouda",
+  "citySlug": "gouda",
+  "path": "/netherlands/gouda/gouda/restaurants",
+  "canonicalPath": "/netherlands/gouda/gouda/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "LIZZ",
       "cuisine": "Creative French",
       "price": "€€€",
-      "path": "/netherlands/gouda/gouda/lizz"
+      "path": "/netherlands/gouda/gouda/lizz",
+      "award": "★"
     },
     {
       "name": "Ter:Govw",

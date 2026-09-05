@@ -1,20 +1,27 @@
 {
   "title": "Sonnenbhl",
-  "country": "germany",
-  "region": "sonnenbhl",
-  "city": "sonnenbhl",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "sonnenbhl",
+  "city": "Sonnenbhl",
+  "citySlug": "sonnenbhl",
+  "path": "/germany/sonnenbhl/sonnenbhl/restaurants",
+  "canonicalPath": "/germany/sonnenbhl/sonnenbhl/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Hirsch",
+      "cuisine": "Classic Cuisine, Farm to table",
+      "price": "€€",
+      "path": "/germany/sonnenbhl/sonnenbhl/hirsch",
+      "award": "★"
+    },
     {
       "name": "Dorfstube",
       "cuisine": "Swabian, Farm to table",
       "price": "€€",
       "path": "/germany/sonnenbhl/sonnenbhl/dorfstube"
-    },
-    {
-      "name": "Hirsch",
-      "cuisine": "Classic Cuisine, Farm to table",
-      "price": "€€",
-      "path": "/germany/sonnenbhl/sonnenbhl/hirsch"
     }
   ]
 }

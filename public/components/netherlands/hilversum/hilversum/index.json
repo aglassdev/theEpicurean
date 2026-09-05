@@ -1,8 +1,14 @@
 {
   "title": "Hilversum",
-  "country": "netherlands",
-  "region": "hilversum",
-  "city": "hilversum",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "hilversum",
+  "city": "Hilversum",
+  "citySlug": "hilversum",
+  "path": "/netherlands/hilversum/hilversum/restaurants",
+  "canonicalPath": "/netherlands/hilversum/hilversum/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Chef aan de Werf",

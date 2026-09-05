@@ -1,17 +1,26 @@
 {
   "title": "Bregenz",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "bregenz",
+  "city": "Bregenz",
+  "citySlug": "bregenz",
+  "path": "/austria/bregenz/bregenz/restaurants",
+  "canonicalPath": "/austria/bregenz/bregenz/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Maurachbund",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/austria/bregenz/bregenz/maurachbund"
+    },
     {
       "name": "Petrus Café Brasserie",
       "cuisine": "International, Seasonal Cuisine",
       "price": "€€",
       "path": "/austria/bregenz/bregenz/petrus-caf-brasserie"
-    },
-    {
-      "name": "Maurachbund",
-      "cuisine": "International",
-      "price": "$$$",
-      "path": "/austria/bregenz/bregenz/Maurachbund"
     }
   ]
 }

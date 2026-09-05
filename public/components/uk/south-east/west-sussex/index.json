@@ -1,71 +1,80 @@
 {
   "title": "West Sussex",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South East",
+  "regionSlug": "south-east",
+  "city": "West Sussex",
+  "citySlug": "west-sussex",
+  "path": "/uk/south-east/west-sussex/restaurants",
+  "canonicalPath": "/uk/south-east/west-sussex/restaurants",
+  "count": 11,
   "restaurants": [
     {
-      "name": "Boat House",
-      "cuisine": "Afternoon Tea",
-      "price": "22.50",
-      "path": "/uk/south-east/west-sussex/BoatHouse"
-    },
-    {
-      "name": "The Walled Garden at Cowdray",
-      "cuisine": "Afternoon Tea",
-      "price": "32.50",
-      "path": "/uk/south-east/west-sussex/TheWalledGardenAtCowdray"
-    },
-    {
-      "name": "TERRA Restaurant at Tottington Manor",
-      "cuisine": "Afternoon Tea",
-      "price": "29.00",
-      "path": "/uk/south-east/west-sussex/TerraRestaurantAtTottingtonManor"
-    },
-    {
-      "name": "Piglet's Pantry",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/south-east/west-sussex/PigletsPantry"
-    },
-    {
-      "name": "Pallant House Gallery",
-      "cuisine": "Afternoon Tea",
-      "price": "22.50",
-      "path": "/uk/south-east/west-sussex/PallantHouseGallery"
-    },
-    {
-      "name": "Orchid House",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/south-east/west-sussex/OrchidHouse"
-    },
-    {
-      "name": "Millstream Hotel",
+      "name": "Alexander House",
       "cuisine": "Afternoon Tea",
       "price": "35.00",
-      "path": "/uk/south-east/west-sussex/MillstreamHotel"
-    },
-    {
-      "name": "Leonardslee House",
-      "cuisine": "Afternoon Tea",
-      "price": "120.00",
-      "path": "/uk/south-east/west-sussex/LeonardsleeHouse"
-    },
-    {
-      "name": "The Ivy Chichester",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/south-east/west-sussex/TheIvyChichester"
+      "path": "/uk/south-east/west-sussex/alexander-house"
     },
     {
       "name": "Amberley Castle",
       "cuisine": "Afternoon Tea",
       "price": "50.00",
-      "path": "/uk/south-east/west-sussex/AmberleyCastle"
+      "path": "/uk/south-east/west-sussex/amberley-castle"
     },
     {
-      "name": "Alexander House",
+      "name": "Boat House",
+      "cuisine": "Afternoon Tea",
+      "price": "22.50",
+      "path": "/uk/south-east/west-sussex/boat-house"
+    },
+    {
+      "name": "Leonardslee House",
+      "cuisine": "Afternoon Tea",
+      "price": "120.00",
+      "path": "/uk/south-east/west-sussex/leonardslee-house"
+    },
+    {
+      "name": "Millstream Hotel",
       "cuisine": "Afternoon Tea",
       "price": "35.00",
-      "path": "/uk/south-east/west-sussex/AlexanderHouse"
+      "path": "/uk/south-east/west-sussex/millstream-hotel"
+    },
+    {
+      "name": "Orchid House",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/south-east/west-sussex/orchid-house"
+    },
+    {
+      "name": "Pallant House Gallery",
+      "cuisine": "Afternoon Tea",
+      "price": "22.50",
+      "path": "/uk/south-east/west-sussex/pallant-house-gallery"
+    },
+    {
+      "name": "Piglet's Pantry",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/south-east/west-sussex/piglets-pantry"
+    },
+    {
+      "name": "TERRA Restaurant at Tottington Manor",
+      "cuisine": "Afternoon Tea",
+      "price": "29.00",
+      "path": "/uk/south-east/west-sussex/terra-restaurant-at-tottington-manor"
+    },
+    {
+      "name": "The Ivy Chichester",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/south-east/west-sussex/the-ivy-chichester"
+    },
+    {
+      "name": "The Walled Garden at Cowdray",
+      "cuisine": "Afternoon Tea",
+      "price": "32.50",
+      "path": "/uk/south-east/west-sussex/the-walled-garden-at-cowdray"
     }
   ]
 }

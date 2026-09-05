@@ -1,14 +1,21 @@
 {
   "title": "Bubikon",
-  "country": "switzerland",
-  "region": "bubikon",
-  "city": "bubikon",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "bubikon",
+  "city": "Bubikon",
+  "citySlug": "bubikon",
+  "path": "/switzerland/bubikon/bubikon/restaurants",
+  "canonicalPath": "/switzerland/bubikon/bubikon/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Löwen - Apriori",
       "cuisine": "Mediterranean Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/bubikon/bubikon/lwen-apriori"
+      "path": "/switzerland/bubikon/bubikon/lwen-apriori",
+      "award": "★"
     },
     {
       "name": "Löwen - Gaststube",

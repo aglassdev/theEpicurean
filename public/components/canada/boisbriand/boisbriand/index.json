@@ -1,11 +1,20 @@
 {
   "title": "Boisbriand",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "boisbriand",
+  "city": "Boisbriand",
+  "citySlug": "boisbriand",
+  "path": "/canada/boisbriand/boisbriand/restaurants",
+  "canonicalPath": "/canada/boisbriand/boisbriand/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Asteur",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/canada/boisbriand/boisbriand/Asteur"
+      "path": "/canada/boisbriand/boisbriand/asteur"
     }
   ]
 }

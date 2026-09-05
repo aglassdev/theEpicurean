@@ -1,8 +1,14 @@
 {
   "title": "Limoges",
-  "country": "france",
-  "region": "limoges",
-  "city": "limoges",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "limoges",
+  "city": "Limoges",
+  "citySlug": "limoges",
+  "path": "/france/limoges/limoges/restaurants",
+  "canonicalPath": "/france/limoges/limoges/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Amphitryon",
@@ -11,16 +17,16 @@
       "path": "/france/limoges/limoges/amphitryon"
     },
     {
+      "name": "L'Aparté",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/limoges/limoges/lapart-l-i-m"
+    },
+    {
       "name": "La Cuisine du Cloître",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/limoges/limoges/la-cuisine-du-clotre"
-    },
-    {
-      "name": "L'Aparté",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/limoges/limoges/lapart"
     },
     {
       "name": "Martin Comptoir",

@@ -1,6 +1,64 @@
 {
   "title": "Montpellier",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montpellier",
+  "city": "Montpellier",
+  "citySlug": "montpellier",
+  "path": "/france/montpellier/montpellier/restaurants",
+  "canonicalPath": "/france/montpellier/montpellier/restaurants",
+  "count": 20,
   "restaurants": [
+    {
+      "name": "Ébullition",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/montpellier/montpellier/bullition",
+      "award": "★"
+    },
+    {
+      "name": "Jardin des Sens",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/montpellier/montpellier/jardin-des-sens",
+      "award": "★"
+    },
+    {
+      "name": "La Réserve Rimbaud",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/montpellier/montpellier/la-rserve-rimbaud",
+      "award": "★"
+    },
+    {
+      "name": "Leclère",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/montpellier/montpellier/leclre",
+      "award": "★"
+    },
+    {
+      "name": "Pastis Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/montpellier/montpellier/pastis-restaurant",
+      "award": "★"
+    },
+    {
+      "name": "Reflet d'Obione",
+      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/france/montpellier/montpellier/reflet-dobione",
+      "award": "★"
+    },
+    {
+      "name": "Le Jardin des Sens",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/montpellier/montpellier/le-jardin-des-sens",
+      "award": "World's 50 Best"
+    },
     {
       "name": "Aliro",
       "cuisine": "Modern Cuisine",
@@ -8,16 +66,10 @@
       "path": "/france/montpellier/montpellier/aliro"
     },
     {
-      "name": "Ébullition",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/montpellier/montpellier/bullition"
-    },
-    {
-      "name": "Chez Delagare",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€",
-      "path": "/france/montpellier/montpellier/chez-delagare"
+      "name": "Ambeis",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/montpellier/montpellier/ambeis"
     },
     {
       "name": "Céna",
@@ -26,22 +78,10 @@
       "path": "/france/montpellier/montpellier/cna"
     },
     {
-      "name": "Jardin des Sens",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/montpellier/montpellier/jardin-des-sens"
-    },
-    {
-      "name": "La Canourgue",
-      "cuisine": "Modern Cuisine",
+      "name": "Chez Delagare",
+      "cuisine": "Modern Cuisine, Creative",
       "price": "€€",
-      "path": "/france/montpellier/montpellier/la-canourgue"
-    },
-    {
-      "name": "La Réserve Rimbaud",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/montpellier/montpellier/la-rserve-rimbaud"
+      "path": "/france/montpellier/montpellier/chez-delagare"
     },
     {
       "name": "L'Arbre",
@@ -56,6 +96,12 @@
       "path": "/france/montpellier/montpellier/lartichaut"
     },
     {
+      "name": "La Canourgue",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/montpellier/montpellier/la-canourgue"
+    },
+    {
       "name": "Le Bistro Urbain",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -68,28 +114,10 @@
       "path": "/france/montpellier/montpellier/le-petit-jardin"
     },
     {
-      "name": "Leclère",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/montpellier/montpellier/leclre"
-    },
-    {
       "name": "Mahé",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/montpellier/montpellier/mah"
-    },
-    {
-      "name": "Pastis Restaurant",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/montpellier/montpellier/pastis-restaurant"
-    },
-    {
-      "name": "Reflet d'Obione",
-      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
-      "price": "€€€",
-      "path": "/france/montpellier/montpellier/reflet-dobione"
     },
     {
       "name": "Soulenq",
@@ -101,25 +129,13 @@
       "name": "Terminal #1",
       "cuisine": "Modern Cuisine, Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/france/montpellier/montpellier/terminal-1"
+      "path": "/france/montpellier/montpellier/terminal1"
     },
     {
       "name": "Umami - La Cinquième Saveur",
       "cuisine": "Korean",
       "price": "€€",
       "path": "/france/montpellier/montpellier/umami-la-cinquime-saveur"
-    },
-    {
-      "name": "Ambeis",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/montpellier/montpellier/Ambeis"
-    },
-    {
-      "name": "Le Jardin des Sens",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/montpellier/montpellier/LeJardinDesSens"
     }
   ]
 }

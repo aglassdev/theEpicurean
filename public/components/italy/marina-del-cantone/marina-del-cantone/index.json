@@ -1,20 +1,28 @@
 {
-  "title": "Marina Del Cantone",
-  "country": "italy",
-  "region": "marina-del-cantone",
-  "city": "marina-del-cantone",
+  "title": "Marina del Cantone",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "marina-del-cantone",
+  "city": "Marina del Cantone",
+  "citySlug": "marina-del-cantone",
+  "path": "/italy/marina-del-cantone/marina-del-cantone/restaurants",
+  "canonicalPath": "/italy/marina-del-cantone/marina-del-cantone/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Quattro Passi",
       "cuisine": "Mediterranean Cuisine, Contemporary",
       "price": "€€€€",
-      "path": "/italy/marina-del-cantone/marina-del-cantone/quattro-passi"
+      "path": "/italy/marina-del-cantone/marina-del-cantone/quattro-passi",
+      "award": "★★★"
     },
     {
       "name": "Taverna del Capitano",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/italy/marina-del-cantone/marina-del-cantone/taverna-del-capitano"
+      "path": "/italy/marina-del-cantone/marina-del-cantone/taverna-del-capitano",
+      "award": "★"
     }
   ]
 }

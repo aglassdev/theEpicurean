@@ -1,8 +1,14 @@
 {
   "title": "Clara",
-  "country": "france",
-  "region": "clara",
-  "city": "clara",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "clara",
+  "city": "Clara",
+  "citySlug": "clara",
+  "path": "/france/clara/clara/restaurants",
+  "canonicalPath": "/france/clara/clara/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Loges du Jardin d'Aymeric",

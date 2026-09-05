@@ -1,14 +1,20 @@
 {
   "title": "Montemarcello",
-  "country": "italy",
-  "region": "montemarcello",
-  "city": "montemarcello",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "montemarcello",
+  "city": "Montemarcello",
+  "citySlug": "montemarcello",
+  "path": "/italy/montemarcello/montemarcello/restaurants",
+  "canonicalPath": "/italy/montemarcello/montemarcello/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pescarino-Sapori di Terra e di Mare",
       "cuisine": "Contemporary, Ligurian",
       "price": "€€",
-      "path": "/italy/montemarcello/montemarcello/pescarino-sapori-di-terra-e-di-mare"
+      "path": "/italy/montemarcello/montemarcello/pescarinosapori-di-terra-e-di-mare"
     }
   ]
 }

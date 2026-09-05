@@ -1,8 +1,14 @@
 {
   "title": "Garda",
-  "country": "italy",
-  "region": "garda",
-  "city": "garda",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "garda",
+  "city": "Garda",
+  "citySlug": "garda",
+  "path": "/italy/garda/garda/restaurants",
+  "canonicalPath": "/italy/garda/garda/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Locanda Perbellini - Ai Beati",

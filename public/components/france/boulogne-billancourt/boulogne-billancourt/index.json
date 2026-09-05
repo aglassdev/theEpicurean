@@ -1,6 +1,21 @@
 {
   "title": "Boulogne Billancourt",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "boulogne-billancourt",
+  "city": "Boulogne Billancourt",
+  "citySlug": "boulogne-billancourt",
+  "path": "/france/boulogne-billancourt/boulogne-billancourt/restaurants",
+  "canonicalPath": "/france/boulogne-billancourt/boulogne-billancourt/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Albufera",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/france/boulogne-billancourt/boulogne-billancourt/albufera"
+    },
     {
       "name": "Baca'v - Boulogne",
       "cuisine": "Traditional Cuisine",
@@ -29,19 +44,13 @@
       "name": "Mano",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/boulogne-billancourt/boulogne-billancourt/mano"
+      "path": "/france/boulogne-billancourt/boulogne-billancourt/mano-b-o-u"
     },
     {
       "name": "PLANTXA",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/boulogne-billancourt/boulogne-billancourt/plantxa"
-    },
-    {
-      "name": "Albufera",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/france/boulogne-billancourt/boulogne-billancourt/Albufera"
     }
   ]
 }

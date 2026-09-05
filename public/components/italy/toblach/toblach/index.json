@@ -1,9 +1,22 @@
 {
   "title": "Toblach",
-  "country": "italy",
-  "region": "toblach",
-  "city": "toblach",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "toblach",
+  "city": "Toblach",
+  "citySlug": "toblach",
+  "path": "/italy/toblach/toblach/restaurants",
+  "canonicalPath": "/italy/toblach/toblach/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Tilia",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/toblach/toblach/tilia",
+      "award": "★"
+    },
     {
       "name": "Gratschwirt",
       "cuisine": "Regional Cuisine, Classic Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Innovative, Contemporary",
       "price": "€€€€",
       "path": "/italy/toblach/toblach/hebbo-wine-deli"
-    },
-    {
-      "name": "Tilia",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/toblach/toblach/tilia"
     }
   ]
 }

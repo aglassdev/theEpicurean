@@ -1,8 +1,14 @@
 {
   "title": "Paradou",
-  "country": "france",
-  "region": "paradou",
-  "city": "paradou",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "paradou",
+  "city": "Paradou",
+  "citySlug": "paradou",
+  "path": "/france/paradou/paradou/restaurants",
+  "canonicalPath": "/france/paradou/paradou/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Allegria !",

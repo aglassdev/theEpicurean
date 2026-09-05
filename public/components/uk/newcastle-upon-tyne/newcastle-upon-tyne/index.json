@@ -1,9 +1,29 @@
 {
-  "title": "Newcastle Upon Tyne",
-  "country": "uk",
-  "region": "newcastle-upon-tyne",
-  "city": "newcastle-upon-tyne",
+  "title": "Newcastle upon Tyne",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "newcastle-upon-tyne",
+  "city": "Newcastle upon Tyne",
+  "citySlug": "newcastle-upon-tyne",
+  "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/restaurants",
+  "canonicalPath": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/restaurants",
+  "count": 12,
   "restaurants": [
+    {
+      "name": "House of Tides",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/house-of-tides",
+      "award": "★"
+    },
+    {
+      "name": "SOLSTICE BY KENNY ATKINSON",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/solstice-by-kenny-atkinson",
+      "award": "★"
+    },
     {
       "name": "21",
       "cuisine": "Modern British",
@@ -26,19 +46,7 @@
       "name": "Hide",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/hide"
-    },
-    {
-      "name": "House of Tides",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/house-of-tides"
-    },
-    {
-      "name": "Lovage",
-      "cuisine": "Modern Cuisine",
-      "price": "£££",
-      "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/lovage"
+      "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/hide-n-e-w"
     },
     {
       "name": "Lovage",
@@ -50,7 +58,7 @@
       "name": "Nest",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/nest"
+      "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/nest-n-e-w"
     },
     {
       "name": "Osters",
@@ -62,19 +70,13 @@
       "name": "Rebel",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/rebel"
+      "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/rebel-n-e-w"
     },
     {
       "name": "Six",
       "cuisine": "Modern Cuisine",
       "price": "£££",
       "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/six"
-    },
-    {
-      "name": "SOLSTICE BY KENNY ATKINSON",
-      "cuisine": "Modern British",
-      "price": "££££",
-      "path": "/uk/newcastle-upon-tyne/newcastle-upon-tyne/solstice-by-kenny-atkinson"
     },
     {
       "name": "The Broad Chare",

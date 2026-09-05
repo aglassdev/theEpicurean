@@ -1,20 +1,27 @@
 {
   "title": "Vichy",
-  "country": "france",
-  "region": "vichy",
-  "city": "vichy",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vichy",
+  "city": "Vichy",
+  "citySlug": "vichy",
+  "path": "/france/vichy/vichy/restaurants",
+  "canonicalPath": "/france/vichy/vichy/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Maison Decoret",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/vichy/vichy/maison-decoret",
+      "award": "★"
+    },
     {
       "name": "L’Écrin de Marlène",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/vichy/vichy/lcrin-de-marlne"
-    },
-    {
-      "name": "Les Caudalies",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/vichy/vichy/les-caudalies"
     },
     {
       "name": "L'Hippocampe",
@@ -23,10 +30,10 @@
       "path": "/france/vichy/vichy/lhippocampe"
     },
     {
-      "name": "Maison Decoret",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/vichy/vichy/maison-decoret"
+      "name": "Les Caudalies",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/vichy/vichy/les-caudalies-v-i-c"
     }
   ]
 }

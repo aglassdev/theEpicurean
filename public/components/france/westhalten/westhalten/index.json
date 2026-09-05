@@ -1,14 +1,20 @@
 {
   "title": "Westhalten",
-  "country": "france",
-  "region": "westhalten",
-  "city": "westhalten",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "westhalten",
+  "city": "Westhalten",
+  "citySlug": "westhalten",
+  "path": "/france/westhalten/westhalten/restaurants",
+  "canonicalPath": "/france/westhalten/westhalten/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge du Cheval Blanc",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/westhalten/westhalten/auberge-du-cheval-blanc"
+      "path": "/france/westhalten/westhalten/auberge-du-cheval-blanc-w-e-s"
     }
   ]
 }

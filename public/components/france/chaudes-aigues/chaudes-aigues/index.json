@@ -1,14 +1,21 @@
 {
   "title": "Chaudes Aigues",
-  "country": "france",
-  "region": "chaudes-aigues",
-  "city": "chaudes-aigues",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chaudes-aigues",
+  "city": "Chaudes Aigues",
+  "citySlug": "chaudes-aigues",
+  "path": "/france/chaudes-aigues/chaudes-aigues/restaurants",
+  "canonicalPath": "/france/chaudes-aigues/chaudes-aigues/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Serge Vieira",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/chaudes-aigues/chaudes-aigues/serge-vieira"
+      "path": "/france/chaudes-aigues/chaudes-aigues/serge-vieira",
+      "award": "★★"
     },
     {
       "name": "Sodade",

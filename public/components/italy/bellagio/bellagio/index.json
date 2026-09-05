@@ -1,8 +1,14 @@
 {
   "title": "Bellagio",
-  "country": "italy",
-  "region": "bellagio",
-  "city": "bellagio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bellagio",
+  "city": "Bellagio",
+  "citySlug": "bellagio",
+  "path": "/italy/bellagio/bellagio/restaurants",
+  "canonicalPath": "/italy/bellagio/bellagio/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mistral",

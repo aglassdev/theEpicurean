@@ -1,6 +1,36 @@
 {
   "title": "Belfast",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "belfast",
+  "city": "Belfast",
+  "citySlug": "belfast",
+  "path": "/uk/belfast/belfast/restaurants",
+  "canonicalPath": "/uk/belfast/belfast/restaurants",
+  "count": 14,
   "restaurants": [
+    {
+      "name": "OX",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/belfast/belfast/ox-b-e-l",
+      "award": "★"
+    },
+    {
+      "name": "The Muddlers Club",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/belfast/belfast/the-muddlers-club",
+      "award": "★"
+    },
+    {
+      "name": "Home",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/uk/belfast/belfast/home",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Beau",
       "cuisine": "Modern Cuisine",
@@ -26,12 +56,6 @@
       "path": "/uk/belfast/belfast/ed"
     },
     {
-      "name": "Home",
-      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
-      "price": "££",
-      "path": "/uk/belfast/belfast/home"
-    },
-    {
       "name": "James St",
       "cuisine": "Modern British",
       "price": "££",
@@ -50,28 +74,16 @@
       "path": "/uk/belfast/belfast/or"
     },
     {
-      "name": "OX",
-      "cuisine": "Modern British",
-      "price": "£££",
-      "path": "/uk/belfast/belfast/ox"
-    },
-    {
       "name": "Saga",
       "cuisine": "Modern Cuisine",
       "price": "££",
-      "path": "/uk/belfast/belfast/saga"
+      "path": "/uk/belfast/belfast/saga-b-e-l"
     },
     {
       "name": "Stove Bistro",
       "cuisine": "Modern Cuisine",
       "price": "£££",
       "path": "/uk/belfast/belfast/stove-bistro"
-    },
-    {
-      "name": "The Muddlers Club",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/belfast/belfast/the-muddlers-club"
     },
     {
       "name": "Waterman",
@@ -84,12 +96,6 @@
       "cuisine": "Asian, Fusion",
       "price": "££",
       "path": "/uk/belfast/belfast/yugo"
-    },
-    {
-      "name": "Home",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/uk/belfast/belfast/Home"
     }
   ]
 }

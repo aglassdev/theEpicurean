@@ -1,20 +1,90 @@
 {
   "title": "Nanjing",
-  "country": "china",
-  "region": "nanjing",
-  "city": "nanjing",
+  "country": "China",
+  "countrySlug": "china",
+  "region": null,
+  "regionSlug": "nanjing",
+  "city": "Nanjing",
+  "citySlug": "nanjing",
+  "path": "/china/nanjing/nanjing/restaurants",
+  "canonicalPath": "/china/nanjing/nanjing/restaurants",
+  "count": 49,
   "restaurants": [
+    {
+      "name": "Dai Yuet Heen",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/nanjing/nanjing/dai-yuet-heen",
+      "award": "★"
+    },
+    {
+      "name": "Jiangnan Wok · Yun",
+      "cuisine": "Huaiyang",
+      "price": "¥¥¥¥",
+      "path": "/china/nanjing/nanjing/jiangnan-wok-yun",
+      "award": "★"
+    },
+    {
+      "name": "Cui Jie Xiao Chi",
+      "cuisine": "Small eats",
+      "price": "$",
+      "path": "/chinese-mainland/nanjing/nanjing/cui-jie-xiao-chi",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Fu Lin Xuan (Jiqingmen Street)",
+      "cuisine": "Jiangsu Cuisine",
+      "price": "$$",
+      "path": "/chinese-mainland/nanjing/nanjing/fu-lin-xuan-jiqingmen-street",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Gu Jia Bao Zi",
+      "cuisine": "Dim Sum",
+      "price": "$",
+      "path": "/chinese-mainland/nanjing/nanjing/gu-jia-bao-zi",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Qiang Ye Fan Dian",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/chinese-mainland/nanjing/nanjing/qiang-ye-fan-dian",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Wu Ming Lao Lu Mian",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/chinese-mainland/nanjing/nanjing/wu-ming-lao-lu-mian",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Xu Pangzi San Bai Wan Bao Ying Chang Yu Mian",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/chinese-mainland/nanjing/nanjing/xu-pangzi-san-bai-wan-bao-ying-chang-yu-mian",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Zheng Qing Niu Rou Guo Tie Dian",
+      "cuisine": "Dim Sum",
+      "price": "$",
+      "path": "/chinese-mainland/nanjing/nanjing/zheng-qing-niu-rou-guo-tie-dian",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Zhi He Lao Ya Fen Si Tang",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/chinese-mainland/nanjing/nanjing/zhi-he-lao-ya-fen-si-tang",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Chi Man",
       "cuisine": "Jiangzhe",
       "price": "¥¥",
       "path": "/china/nanjing/nanjing/chi-man"
-    },
-    {
-      "name": "Dai Yuet Heen",
-      "cuisine": "Cantonese",
-      "price": "¥¥¥",
-      "path": "/china/nanjing/nanjing/dai-yuet-heen"
     },
     {
       "name": "Du Shi Li De Xiang Cun",
@@ -27,6 +97,12 @@
       "cuisine": "Small eats",
       "price": "¥",
       "path": "/china/nanjing/nanjing/fang-po"
+    },
+    {
+      "name": "Fong Sense",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/chinese-mainland/nanjing/nanjing/fong-sense"
     },
     {
       "name": "Guang Ying Ju • Lao Zheng Xing",
@@ -53,12 +129,6 @@
       "path": "/china/nanjing/nanjing/jiangnan-wok"
     },
     {
-      "name": "Jiangnan Wok · Yun",
-      "cuisine": "Huaiyang",
-      "price": "¥¥¥¥",
-      "path": "/china/nanjing/nanjing/jiangnan-wok-yun"
-    },
-    {
       "name": "Jin Ling Wang Jia Hun Tun (Jiqing Road)",
       "cuisine": "Dim Sum",
       "price": "¥",
@@ -77,16 +147,22 @@
       "path": "/china/nanjing/nanjing/jin-ling-yang-jia-hun-tun-dian-caodu-lane"
     },
     {
-      "name": "Lantchen Reserve",
-      "cuisine": "Huaiyang",
-      "price": "¥¥",
-      "path": "/china/nanjing/nanjing/lantchen-reserve"
-    },
-    {
       "name": "L'Arôme in the sky",
       "cuisine": "French Contemporary",
       "price": "¥¥¥¥",
       "path": "/china/nanjing/nanjing/larme-in-the-sky"
+    },
+    {
+      "name": "La Môme",
+      "cuisine": "French Contemporary",
+      "price": "$$",
+      "path": "/chinese-mainland/nanjing/nanjing/la-mme"
+    },
+    {
+      "name": "Lantchen Reserve",
+      "cuisine": "Huaiyang",
+      "price": "¥¥",
+      "path": "/china/nanjing/nanjing/lantchen-reserve"
     },
     {
       "name": "Le Siècle",
@@ -111,6 +187,12 @@
       "cuisine": "Huaiyang",
       "price": "¥¥",
       "path": "/china/nanjing/nanjing/man-ho"
+    },
+    {
+      "name": "Man Ho · Jing",
+      "cuisine": "Huaiyang",
+      "price": "$$",
+      "path": "/chinese-mainland/nanjing/nanjing/man-ho-jing"
     },
     {
       "name": "Meng Du Hui",
@@ -149,10 +231,22 @@
       "path": "/china/nanjing/nanjing/qiang-ye-fan-dian-changbai-street"
     },
     {
+      "name": "Qing Ya",
+      "cuisine": "Huaiyang",
+      "price": "$$",
+      "path": "/chinese-mainland/nanjing/nanjing/qing-ya"
+    },
+    {
       "name": "San Bai Wan Bao Ying Chang Yu Mian",
       "cuisine": "Noodles",
       "price": "¥",
       "path": "/china/nanjing/nanjing/san-bai-wan-bao-ying-chang-yu-mian"
+    },
+    {
+      "name": "Suxiangyuan",
+      "cuisine": "Huaiyang",
+      "price": "$$",
+      "path": "/chinese-mainland/nanjing/nanjing/suxiangyuan"
     },
     {
       "name": "Wan Guo Chun Garden Restaurant",
@@ -167,6 +261,12 @@
       "path": "/china/nanjing/nanjing/xi-bei-qiao-tou-la-mian-da-wang"
     },
     {
+      "name": "Xi Bei Qiao Tou La Mian Da Wang (Gulou)",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/chinese-mainland/nanjing/nanjing/xi-bei-qiao-tou-la-mian-da-wang-gulou"
+    },
+    {
       "name": "Xiao Pan Ji Ya Xie Fen Si Tang",
       "cuisine": "Noodles",
       "price": "¥",
@@ -177,6 +277,12 @@
       "cuisine": "Jiangzhe",
       "price": "¥¥",
       "path": "/china/nanjing/nanjing/xin-fang-yuan"
+    },
+    {
+      "name": "Xing Gong · Kai Xiao Zao",
+      "cuisine": "Jiangzhe",
+      "price": "$",
+      "path": "/chinese-mainland/nanjing/nanjing/xing-gong-kai-xiao-zao"
     },
     {
       "name": "Xu Jian Ping Tang Bao (Rehe South Road)",
@@ -195,6 +301,12 @@
       "cuisine": "Sichuan",
       "price": "¥¥¥",
       "path": "/china/nanjing/nanjing/yu-chuan"
+    },
+    {
+      "name": "Yu Chuan (Xuanwu)",
+      "cuisine": "Sichuan",
+      "price": "$$$",
+      "path": "/chinese-mainland/nanjing/nanjing/yu-chuan-xuanwu"
     },
     {
       "name": "Yuan Space & Feast",

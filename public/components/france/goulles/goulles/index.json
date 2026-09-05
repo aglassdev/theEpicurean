@@ -1,8 +1,14 @@
 {
   "title": "Goulles",
-  "country": "france",
-  "region": "goulles",
-  "city": "goulles",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "goulles",
+  "city": "Goulles",
+  "citySlug": "goulles",
+  "path": "/france/goulles/goulles/restaurants",
+  "canonicalPath": "/france/goulles/goulles/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Relais du Teulet",

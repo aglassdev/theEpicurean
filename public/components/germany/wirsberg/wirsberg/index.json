@@ -1,14 +1,21 @@
 {
   "title": "Wirsberg",
-  "country": "germany",
-  "region": "wirsberg",
-  "city": "wirsberg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "wirsberg",
+  "city": "Wirsberg",
+  "citySlug": "wirsberg",
+  "path": "/germany/wirsberg/wirsberg/restaurants",
+  "canonicalPath": "/germany/wirsberg/wirsberg/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "AURA by Alexander Herrmann & Tobias Bätz",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/wirsberg/wirsberg/aura-by-alexander-herrmann-tobias-btz"
+      "path": "/germany/wirsberg/wirsberg/aura-by-alexander-herrmann-tobias-btz",
+      "award": "★★"
     },
     {
       "name": "Bistro oma & enkel",

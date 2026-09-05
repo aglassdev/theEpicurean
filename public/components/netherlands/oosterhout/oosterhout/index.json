@@ -1,20 +1,27 @@
 {
   "title": "Oosterhout",
-  "country": "netherlands",
-  "region": "oosterhout",
-  "city": "oosterhout",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "oosterhout",
+  "city": "Oosterhout",
+  "citySlug": "oosterhout",
+  "path": "/netherlands/oosterhout/oosterhout/restaurants",
+  "canonicalPath": "/netherlands/oosterhout/oosterhout/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Zout & Citroen",
+      "cuisine": "Creative, World Cuisine",
+      "price": "€€€",
+      "path": "/netherlands/oosterhout/oosterhout/zout-citroen",
+      "award": "★"
+    },
     {
       "name": "Wijnhuis De Blauwe Camer",
       "cuisine": "French Contemporary, Creative French",
       "price": "€€€",
       "path": "/netherlands/oosterhout/oosterhout/wijnhuis-de-blauwe-camer"
-    },
-    {
-      "name": "Zout & Citroen",
-      "cuisine": "Creative, World Cuisine",
-      "price": "€€€",
-      "path": "/netherlands/oosterhout/oosterhout/zout-citroen"
     }
   ]
 }

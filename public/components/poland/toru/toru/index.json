@@ -1,17 +1,27 @@
 {
-  "title": "Toruń",
+  "title": "Toru",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "toru",
+  "city": "Toru",
+  "citySlug": "toru",
+  "path": "/poland/toru/toru/restaurants",
+  "canonicalPath": "/poland/toru/toru/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Piernicova",
       "cuisine": "Regional Cuisine",
       "price": "$$",
-      "path": "/poland/toru/toru/Piernicova"
+      "path": "/poland/toru/toru/piernicova",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Bistrot Miraux",
       "cuisine": "French",
       "price": "$$$",
-      "path": "/poland/toru/toru/BistrotMiraux"
+      "path": "/poland/toru/toru/bistrot-miraux"
     }
   ]
 }

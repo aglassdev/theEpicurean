@@ -1,14 +1,21 @@
 {
   "title": "Nieuwkerken Waas",
-  "country": "belgium",
-  "region": "nieuwkerken-waas",
-  "city": "nieuwkerken-waas",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "nieuwkerken-waas",
+  "city": "Nieuwkerken Waas",
+  "citySlug": "nieuwkerken-waas",
+  "path": "/belgium/nieuwkerken-waas/nieuwkerken-waas/restaurants",
+  "canonicalPath": "/belgium/nieuwkerken-waas/nieuwkerken-waas/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "'t Korennaer",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/nieuwkerken-waas/nieuwkerken-waas/t-korennaer"
+      "path": "/belgium/nieuwkerken-waas/nieuwkerken-waas/t-korennaer",
+      "award": "★"
     }
   ]
 }

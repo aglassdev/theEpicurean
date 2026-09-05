@@ -1,14 +1,21 @@
 {
   "title": "Joucas",
-  "country": "france",
-  "region": "joucas",
-  "city": "joucas",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "joucas",
+  "city": "Joucas",
+  "citySlug": "joucas",
+  "path": "/france/joucas/joucas/restaurants",
+  "canonicalPath": "/france/joucas/joucas/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Table de Xavier Mathieu",
       "cuisine": "Modern Cuisine, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/france/joucas/joucas/la-table-de-xavier-mathieu"
+      "path": "/france/joucas/joucas/la-table-de-xavier-mathieu",
+      "award": "★"
     },
     {
       "name": "Le Café de la Fontaine",

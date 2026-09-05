@@ -1,8 +1,14 @@
 {
   "title": "Apremont",
-  "country": "france",
-  "region": "apremont",
-  "city": "apremont",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "apremont",
+  "city": "Apremont",
+  "citySlug": "apremont",
+  "path": "/france/apremont/apremont/restaurants",
+  "canonicalPath": "/france/apremont/apremont/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge La Grange aux Loups",

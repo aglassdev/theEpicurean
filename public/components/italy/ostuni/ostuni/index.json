@@ -1,8 +1,14 @@
 {
   "title": "Ostuni",
-  "country": "italy",
-  "region": "ostuni",
-  "city": "ostuni",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ostuni",
+  "city": "Ostuni",
+  "citySlug": "ostuni",
+  "path": "/italy/ostuni/ostuni/restaurants",
+  "canonicalPath": "/italy/ostuni/ostuni/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Cielo",
@@ -32,7 +38,7 @@
       "name": "Restaurant 700",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/italy/ostuni/ostuni/restaurant-700"
+      "path": "/italy/ostuni/ostuni/restaurant700"
     }
   ]
 }

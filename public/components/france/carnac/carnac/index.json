@@ -1,14 +1,21 @@
 {
   "title": "Carnac",
-  "country": "france",
-  "region": "carnac",
-  "city": "carnac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "carnac",
+  "city": "Carnac",
+  "citySlug": "carnac",
+  "path": "/france/carnac/carnac/restaurants",
+  "canonicalPath": "/france/carnac/carnac/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Côté Cuisine",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/carnac/carnac/ct-cuisine"
+      "path": "/france/carnac/carnac/ct-cuisine",
+      "award": "★"
     },
     {
       "name": "Itsasoa",

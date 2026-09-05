@@ -1,8 +1,14 @@
 {
   "title": "Villeral",
-  "country": "france",
-  "region": "villeral",
-  "city": "villeral",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "villeral",
+  "city": "Villeral",
+  "citySlug": "villeral",
+  "path": "/france/villeral/villeral/restaurants",
+  "canonicalPath": "/france/villeral/villeral/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de l'Europe",

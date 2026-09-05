@@ -1,8 +1,14 @@
 {
   "title": "Monopoli",
-  "country": "italy",
-  "region": "monopoli",
-  "city": "monopoli",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "monopoli",
+  "city": "Monopoli",
+  "citySlug": "monopoli",
+  "path": "/italy/monopoli/monopoli/restaurants",
+  "canonicalPath": "/italy/monopoli/monopoli/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Orto",

@@ -1,14 +1,21 @@
 {
   "title": "Tuttlingen",
-  "country": "germany",
-  "region": "tuttlingen",
-  "city": "tuttlingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "tuttlingen",
+  "city": "Tuttlingen",
+  "citySlug": "tuttlingen",
+  "path": "/germany/tuttlingen/tuttlingen/restaurants",
+  "canonicalPath": "/germany/tuttlingen/tuttlingen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "ANIMA",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/tuttlingen/tuttlingen/anima"
+      "path": "/germany/tuttlingen/tuttlingen/anima",
+      "award": "★"
     }
   ]
 }

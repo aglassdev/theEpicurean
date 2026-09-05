@@ -1,0 +1,38 @@
+{
+  "title": "Fort Worth",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Texas",
+  "regionSlug": "texas",
+  "city": "Fort Worth",
+  "citySlug": "fort-worth",
+  "path": "/usa/texas/fort-worth/restaurants",
+  "canonicalPath": "/usa/other/fort-worth/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Birrieria y Taqueria Cortez",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/usa/other/fort-worth/birrieria-y-taqueria-cortez"
+    },
+    {
+      "name": "Goldee’s",
+      "cuisine": "Barbecue, American",
+      "price": "$$",
+      "path": "/usa/other/fort-worth/goldees"
+    },
+    {
+      "name": "Goldee’s Bar-B•Q",
+      "cuisine": "Barbecue, American",
+      "price": "$$",
+      "path": "/usa/other/fort-worth/goldees-barbq"
+    },
+    {
+      "name": "Panther City BBQ",
+      "cuisine": "Barbecue, Tex-Mex",
+      "price": "$$",
+      "path": "/usa/other/fort-worth/panther-city-bbq"
+    }
+  ]
+}

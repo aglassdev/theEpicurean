@@ -1,14 +1,21 @@
 {
   "title": "Bellevigne En Layon",
-  "country": "france",
-  "region": "bellevigne-en-layon",
-  "city": "bellevigne-en-layon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bellevigne-en-layon",
+  "city": "Bellevigne En Layon",
+  "citySlug": "bellevigne-en-layon",
+  "path": "/france/bellevigne-en-layon/bellevigne-en-layon/restaurants",
+  "canonicalPath": "/france/bellevigne-en-layon/bellevigne-en-layon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de la Bergerie",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€€",
-      "path": "/france/bellevigne-en-layon/bellevigne-en-layon/la-table-de-la-bergerie"
+      "path": "/france/bellevigne-en-layon/bellevigne-en-layon/la-table-de-la-bergerie",
+      "award": "★"
     }
   ]
 }

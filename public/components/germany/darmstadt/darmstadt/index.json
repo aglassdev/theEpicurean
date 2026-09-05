@@ -1,14 +1,21 @@
 {
   "title": "Darmstadt",
-  "country": "germany",
-  "region": "darmstadt",
-  "city": "darmstadt",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "darmstadt",
+  "city": "Darmstadt",
+  "citySlug": "darmstadt",
+  "path": "/germany/darmstadt/darmstadt/restaurants",
+  "canonicalPath": "/germany/darmstadt/darmstadt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "OX",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/darmstadt/darmstadt/ox"
+      "path": "/germany/darmstadt/darmstadt/ox",
+      "award": "★"
     }
   ]
 }

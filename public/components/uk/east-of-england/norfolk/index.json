@@ -1,47 +1,56 @@
 {
   "title": "Norfolk",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "East of England",
+  "regionSlug": "east-of-england",
+  "city": "Norfolk",
+  "citySlug": "norfolk",
+  "path": "/uk/east-of-england/norfolk/restaurants",
+  "canonicalPath": "/uk/east-of-england/norfolk/restaurants",
+  "count": 7,
   "restaurants": [
-    {
-      "name": "The Beechwood Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "39.00",
-      "path": "/uk/east-of-england/norfolk/TheBeechwoodHotel"
-    },
     {
       "name": "Barnham Broom",
       "cuisine": "Afternoon Tea",
       "price": "23.95",
-      "path": "/uk/east-of-england/norfolk/BarnhamBroom"
-    },
-    {
-      "name": "Park Farm Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/east-of-england/norfolk/ParkFarmHotel"
-    },
-    {
-      "name": "The Ivy Norwich",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/east-of-england/norfolk/TheIvyNorwich"
-    },
-    {
-      "name": "The Grove",
-      "cuisine": "Afternoon Tea",
-      "price": "33.00",
-      "path": "/uk/east-of-england/norfolk/TheGrove"
-    },
-    {
-      "name": "Dunston Hall",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/east-of-england/norfolk/DunstonHall"
+      "path": "/uk/east-of-england/norfolk/barnham-broom"
     },
     {
       "name": "Dukes Head Hotel",
       "cuisine": "Afternoon Tea",
       "price": "19.00",
-      "path": "/uk/east-of-england/norfolk/DukesHeadHotel"
+      "path": "/uk/east-of-england/norfolk/dukes-head-hotel"
+    },
+    {
+      "name": "Dunston Hall",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/east-of-england/norfolk/dunston-hall"
+    },
+    {
+      "name": "Park Farm Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/east-of-england/norfolk/park-farm-hotel"
+    },
+    {
+      "name": "The Beechwood Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "39.00",
+      "path": "/uk/east-of-england/norfolk/the-beechwood-hotel"
+    },
+    {
+      "name": "The Grove",
+      "cuisine": "Afternoon Tea",
+      "price": "33.00",
+      "path": "/uk/east-of-england/norfolk/the-grove"
+    },
+    {
+      "name": "The Ivy Norwich",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/east-of-england/norfolk/the-ivy-norwich"
     }
   ]
 }

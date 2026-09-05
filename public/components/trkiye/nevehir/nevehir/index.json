@@ -1,59 +1,69 @@
 {
-  "title": "Nevşehir",
+  "title": "Nevehir",
+  "country": "Türkiye",
+  "countrySlug": "trkiye",
+  "region": null,
+  "regionSlug": "nevehir",
+  "city": "Nevehir",
+  "citySlug": "nevehir",
+  "path": "/trkiye/nevehir/nevehir/restaurants",
+  "canonicalPath": "/trkiye/nevehir/nevehir/restaurants",
+  "count": 9,
   "restaurants": [
     {
       "name": "Happena",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/trkiye/nevehir/nevehir/Happena"
+      "path": "/trkiye/nevehir/nevehir/happena",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Lil'a Restaurant",
       "cuisine": "Country cooking",
       "price": "$$$",
-      "path": "/trkiye/nevehir/nevehir/LilaRestaurant"
+      "path": "/trkiye/nevehir/nevehir/lila-restaurant"
     },
     {
       "name": "Moniq Restaurant",
       "cuisine": "Traditional Cuisine",
       "price": "$$$",
-      "path": "/trkiye/nevehir/nevehir/MoniqRestaurant"
+      "path": "/trkiye/nevehir/nevehir/moniq-restaurant"
     },
     {
       "name": "Nahita Cappadocia",
       "cuisine": "Traditional Cuisine",
       "price": "$$$$",
-      "path": "/trkiye/nevehir/nevehir/NahitaCappadocia"
+      "path": "/trkiye/nevehir/nevehir/nahita-cappadocia"
     },
     {
       "name": "Reserved Restaurant",
       "cuisine": "Traditional Cuisine",
       "price": "$$$",
-      "path": "/trkiye/nevehir/nevehir/ReservedRestaurant"
+      "path": "/trkiye/nevehir/nevehir/reserved-restaurant"
     },
     {
       "name": "Saklı Konak Cappadocia",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/trkiye/nevehir/nevehir/SaklKonakCappadocia"
+      "path": "/trkiye/nevehir/nevehir/sakl-konak-cappadocia"
     },
     {
       "name": "Seki Restaurant",
       "cuisine": "Turkish",
       "price": "$$$",
-      "path": "/trkiye/nevehir/nevehir/SekiRestaurant"
+      "path": "/trkiye/nevehir/nevehir/seki-restaurant"
     },
     {
       "name": "Seten",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/nevehir/nevehir/Seten"
+      "path": "/trkiye/nevehir/nevehir/seten"
     },
     {
       "name": "Uzundere Kapadokya Mutfağı",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/trkiye/nevehir/nevehir/UzundereKapadokyaMutfa"
+      "path": "/trkiye/nevehir/nevehir/uzundere-kapadokya-mutfa"
     }
   ]
 }

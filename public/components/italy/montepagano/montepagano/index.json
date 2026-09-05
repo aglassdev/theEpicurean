@@ -1,20 +1,28 @@
 {
   "title": "Montepagano",
-  "country": "italy",
-  "region": "montepagano",
-  "city": "montepagano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "montepagano",
+  "city": "Montepagano",
+  "citySlug": "montepagano",
+  "path": "/italy/montepagano/montepagano/restaurants",
+  "canonicalPath": "/italy/montepagano/montepagano/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "D.One Restaurant",
       "cuisine": "Modern Cuisine, Country cooking",
       "price": "€€€",
-      "path": "/italy/montepagano/montepagano/done-restaurant"
+      "path": "/italy/montepagano/montepagano/done-restaurant",
+      "award": "★"
     },
     {
       "name": "D.one Ristorante Diffuso",
       "cuisine": "Modern Cuisine, Country cooking",
       "price": "€€€",
-      "path": "/italy/montepagano/montepagano/done-ristorante-diffuso"
+      "path": "/italy/montepagano/montepagano/done-ristorante-diffuso",
+      "award": "★"
     }
   ]
 }

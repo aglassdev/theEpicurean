@@ -1,5 +1,14 @@
 {
   "title": "Coimbra",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "coimbra",
+  "city": "Coimbra",
+  "citySlug": "coimbra",
+  "path": "/portugal/coimbra/coimbra/restaurants",
+  "canonicalPath": "/portugal/coimbra/coimbra/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "MA",
@@ -14,22 +23,22 @@
       "path": "/portugal/coimbra/coimbra/o-palco"
     },
     {
+      "name": "Refeitrº",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/coimbra/coimbra/refeitr"
+    },
+    {
       "name": "SAFRA_",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/portugal/coimbra/coimbra/safra_"
+      "path": "/portugal/coimbra/coimbra/safra"
     },
     {
       "name": "Solar do Bacalhau",
       "cuisine": "Portuguese",
       "price": "€",
       "path": "/portugal/coimbra/coimbra/solar-do-bacalhau"
-    },
-    {
-      "name": "Refeitrº",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/portugal/coimbra/coimbra/Refeitr"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Maikammer",
-  "country": "germany",
-  "region": "maikammer",
-  "city": "maikammer",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "maikammer",
+  "city": "Maikammer",
+  "citySlug": "maikammer",
+  "path": "/germany/maikammer/maikammer/restaurants",
+  "canonicalPath": "/germany/maikammer/maikammer/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Dorf-Chronik",
       "cuisine": "Italian Contemporary, Country cooking",
       "price": "€€€",
-      "path": "/germany/maikammer/maikammer/dorf-chronik"
+      "path": "/germany/maikammer/maikammer/dorfchronik"
     }
   ]
 }

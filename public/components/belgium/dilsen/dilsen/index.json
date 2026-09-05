@@ -1,14 +1,21 @@
 {
   "title": "Dilsen",
-  "country": "belgium",
-  "region": "dilsen",
-  "city": "dilsen",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "dilsen",
+  "city": "Dilsen",
+  "citySlug": "dilsen",
+  "path": "/belgium/dilsen/dilsen/restaurants",
+  "canonicalPath": "/belgium/dilsen/dilsen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hostellerie Vivendum",
       "cuisine": "Modern Cuisine, Modern French",
       "price": "€€€",
-      "path": "/belgium/dilsen/dilsen/hostellerie-vivendum"
+      "path": "/belgium/dilsen/dilsen/hostellerie-vivendum",
+      "award": "★"
     }
   ]
 }

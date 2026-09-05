@@ -1,26 +1,27 @@
 {
   "title": "Malataverne",
-  "country": "france",
-  "region": "malataverne",
-  "city": "malataverne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "malataverne",
+  "city": "Malataverne",
+  "citySlug": "malataverne",
+  "path": "/france/malataverne/malataverne/restaurants",
+  "canonicalPath": "/france/malataverne/malataverne/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Colombier",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/malataverne/malataverne/le-colombier",
+      "award": "★"
+    },
     {
       "name": "Le Bistrot 270",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/malataverne/malataverne/le-bistrot-270"
-    },
-    {
-      "name": "Le Colombier",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/malataverne/malataverne/le-colombier"
-    },
-    {
-      "name": "Le Colombier",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/malataverne/malataverne/le-colombier"
+      "path": "/france/malataverne/malataverne/le-bistrot270"
     }
   ]
 }

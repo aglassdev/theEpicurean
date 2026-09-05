@@ -1,14 +1,21 @@
 {
   "title": "Grieskirchen",
-  "country": "austria",
-  "region": "grieskirchen",
-  "city": "grieskirchen",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "grieskirchen",
+  "city": "Grieskirchen",
+  "citySlug": "grieskirchen",
+  "path": "/austria/grieskirchen/grieskirchen/restaurants",
+  "canonicalPath": "/austria/grieskirchen/grieskirchen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Waldschänke",
       "cuisine": "Contemporary, Traditional Cuisine",
       "price": "€€€",
-      "path": "/austria/grieskirchen/grieskirchen/waldschnke"
+      "path": "/austria/grieskirchen/grieskirchen/waldschnke",
+      "award": "★"
     }
   ]
 }

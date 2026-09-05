@@ -1,9 +1,50 @@
 {
   "title": "Salzburg",
-  "country": "austria",
-  "region": "salzburg",
-  "city": "salzburg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "salzburg",
+  "city": "Salzburg",
+  "citySlug": "salzburg",
+  "path": "/austria/salzburg/salzburg/restaurants",
+  "canonicalPath": "/austria/salzburg/salzburg/restaurants",
+  "count": 18,
   "restaurants": [
+    {
+      "name": "Ikarus",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/austria/salzburg/salzburg/ikarus",
+      "award": "★★"
+    },
+    {
+      "name": "SENNS.Restaurant",
+      "cuisine": "Creative, International",
+      "price": "€€€€",
+      "path": "/austria/salzburg/salzburg/sennsrestaurant",
+      "award": "★★"
+    },
+    {
+      "name": "Esszimmer",
+      "cuisine": "Creative, Classic Cuisine",
+      "price": "€€€",
+      "path": "/austria/salzburg/salzburg/esszimmer",
+      "award": "★"
+    },
+    {
+      "name": "Pfefferschiff",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/austria/salzburg/salzburg/pfefferschiff",
+      "award": "★"
+    },
+    {
+      "name": "The Glass Garden",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/austria/salzburg/salzburg/the-glass-garden",
+      "award": "★"
+    },
     {
       "name": "Animo by Aigner",
       "cuisine": "Mediterranean Cuisine, Seasonal Cuisine",
@@ -33,12 +74,6 @@
       "cuisine": "Regional Cuisine, Austrian",
       "price": "€€",
       "path": "/austria/salzburg/salzburg/die-gersberg-alm"
-    },
-    {
-      "name": "Esszimmer",
-      "cuisine": "Creative, Classic Cuisine",
-      "price": "€€€",
-      "path": "/austria/salzburg/salzburg/esszimmer"
     },
     {
       "name": "Gasthof Auerhahn",
@@ -71,40 +106,16 @@
       "path": "/austria/salzburg/salzburg/hubers-im-fischerwirt"
     },
     {
-      "name": "Ikarus",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/austria/salzburg/salzburg/ikarus"
-    },
-    {
       "name": "Meissl & Schadn",
       "cuisine": "Austrian, Traditional Cuisine",
       "price": "€€",
-      "path": "/austria/salzburg/salzburg/meissl-schadn"
+      "path": "/austria/salzburg/salzburg/meissl-schadn-s-a-l"
     },
     {
       "name": "Paradoxon",
       "cuisine": "Farm to table",
       "price": "€€€",
       "path": "/austria/salzburg/salzburg/paradoxon"
-    },
-    {
-      "name": "Pfefferschiff",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/austria/salzburg/salzburg/pfefferschiff"
-    },
-    {
-      "name": "SENNS.Restaurant",
-      "cuisine": "Creative, International",
-      "price": "€€€€",
-      "path": "/austria/salzburg/salzburg/sennsrestaurant"
-    },
-    {
-      "name": "The Glass Garden",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/austria/salzburg/salzburg/the-glass-garden"
     },
     {
       "name": "Zum Buberl Gut",

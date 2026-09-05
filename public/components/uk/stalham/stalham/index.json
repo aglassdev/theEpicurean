@@ -1,14 +1,20 @@
 {
   "title": "Stalham",
-  "country": "uk",
-  "region": "stalham",
-  "city": "stalham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "stalham",
+  "city": "Stalham",
+  "citySlug": "stalham",
+  "path": "/uk/stalham/stalham/restaurants",
+  "canonicalPath": "/uk/stalham/stalham/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant 1812",
       "cuisine": "Modern Cuisine",
       "price": "£££",
-      "path": "/uk/stalham/stalham/restaurant-1812"
+      "path": "/uk/stalham/stalham/restaurant1812"
     }
   ]
 }

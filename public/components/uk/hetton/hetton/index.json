@@ -1,14 +1,21 @@
 {
   "title": "Hetton",
-  "country": "uk",
-  "region": "hetton",
-  "city": "hetton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "hetton",
+  "city": "Hetton",
+  "citySlug": "hetton",
+  "path": "/uk/hetton/hetton/restaurants",
+  "canonicalPath": "/uk/hetton/hetton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Angel",
       "cuisine": "Modern Cuisine",
       "price": "££££",
-      "path": "/uk/hetton/hetton/the-angel"
+      "path": "/uk/hetton/hetton/the-angel",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Melrose",
-  "country": "uk",
-  "region": "melrose",
-  "city": "melrose",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "melrose",
+  "city": "Melrose",
+  "citySlug": "melrose",
+  "path": "/uk/melrose/melrose/restaurants",
+  "canonicalPath": "/uk/melrose/melrose/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Provender",
       "cuisine": "Modern British",
       "price": "££",
-      "path": "/uk/melrose/melrose/provender"
+      "path": "/uk/melrose/melrose/provender-m-e-l"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Cervia",
-  "country": "italy",
-  "region": "cervia",
-  "city": "cervia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cervia",
+  "city": "Cervia",
+  "citySlug": "cervia",
+  "path": "/italy/cervia/cervia/restaurants",
+  "canonicalPath": "/italy/cervia/cervia/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Locanda dei Salinari",

@@ -1,11 +1,21 @@
 {
   "title": "Bruges",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "bruges",
+  "city": "Bruges",
+  "citySlug": "bruges",
+  "path": "/belgium/bruges/bruges/restaurants",
+  "canonicalPath": "/belgium/bruges/bruges/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "De Karmeliet",
       "cuisine": "",
       "price": "",
-      "path": "/belgium/bruges/bruges/DeKarmeliet"
+      "path": "/belgium/bruges/bruges/de-karmeliet",
+      "award": "World's 50 Best"
     }
   ]
 }

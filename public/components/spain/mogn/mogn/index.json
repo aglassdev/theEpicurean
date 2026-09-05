@@ -1,14 +1,21 @@
 {
   "title": "Mogn",
-  "country": "spain",
-  "region": "mogn",
-  "city": "mogn",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "mogn",
+  "city": "Mogn",
+  "citySlug": "mogn",
+  "path": "/spain/mogn/mogn/restaurants",
+  "canonicalPath": "/spain/mogn/mogn/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Los Guayres",
       "cuisine": "Modern Cuisine, Spanish",
       "price": "€€€€",
-      "path": "/spain/mogn/mogn/los-guayres"
+      "path": "/spain/mogn/mogn/los-guayres",
+      "award": "★"
     }
   ]
 }

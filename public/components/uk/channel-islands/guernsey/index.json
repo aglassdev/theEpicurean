@@ -1,29 +1,38 @@
 {
   "title": "Guernsey",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "Channel Islands",
+  "regionSlug": "channel-islands",
+  "city": "Guernsey",
+  "citySlug": "guernsey",
+  "path": "/uk/channel-islands/guernsey/restaurants",
+  "canonicalPath": "/uk/channel-islands/guernsey/restaurants",
+  "count": 4,
   "restaurants": [
     {
-      "name": "St Pierre Park Hotel & Spa",
+      "name": "Duke of Richmond Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "29.00",
-      "path": "/uk/channel-islands/guernsey/StPierreParkHotelSpa"
-    },
-    {
-      "name": "The Old Government House Hotel and Spa",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/channel-islands/guernsey/TheOldGovernmentHouseHotelAndSpa"
+      "price": "37.00",
+      "path": "/uk/channel-islands/guernsey/duke-of-richmond-hotel"
     },
     {
       "name": "Fermain Valley Hotel",
       "cuisine": "Afternoon Tea",
       "price": "29.00",
-      "path": "/uk/channel-islands/guernsey/FermainValleyHotel"
+      "path": "/uk/channel-islands/guernsey/fermain-valley-hotel"
     },
     {
-      "name": "Duke of Richmond Hotel",
+      "name": "St Pierre Park Hotel & Spa",
       "cuisine": "Afternoon Tea",
-      "price": "37.00",
-      "path": "/uk/channel-islands/guernsey/DukeOfRichmondHotel"
+      "price": "29.00",
+      "path": "/uk/channel-islands/guernsey/st-pierre-park-hotel-spa"
+    },
+    {
+      "name": "The Old Government House Hotel and Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/channel-islands/guernsey/the-old-government-house-hotel-and-spa"
     }
   ]
 }

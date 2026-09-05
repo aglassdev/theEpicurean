@@ -1,9 +1,22 @@
 {
   "title": "Oostende",
-  "country": "belgium",
-  "region": "oostende",
-  "city": "oostende",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "oostende",
+  "city": "Oostende",
+  "citySlug": "oostende",
+  "path": "/belgium/oostende/oostende/restaurants",
+  "canonicalPath": "/belgium/oostende/oostende/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "HAUT",
+      "cuisine": "Modern French, Asian Influences",
+      "price": "€€€€",
+      "path": "/belgium/oostende/oostende/haut",
+      "award": "★"
+    },
     {
       "name": "Bistro Mathilda",
       "cuisine": "Farm to table",
@@ -27,12 +40,6 @@
       "cuisine": "Farm to table",
       "price": "€€€",
       "path": "/belgium/oostende/oostende/frenchette"
-    },
-    {
-      "name": "HAUT",
-      "cuisine": "Modern French, Asian Influences",
-      "price": "€€€€",
-      "path": "/belgium/oostende/oostende/haut"
     },
     {
       "name": "Storm",

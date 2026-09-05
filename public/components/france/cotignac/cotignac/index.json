@@ -1,8 +1,14 @@
 {
   "title": "Cotignac",
-  "country": "france",
-  "region": "cotignac",
-  "city": "cotignac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cotignac",
+  "city": "Cotignac",
+  "citySlug": "cotignac",
+  "path": "/france/cotignac/cotignac/restaurants",
+  "canonicalPath": "/france/cotignac/cotignac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Jardin Secret",

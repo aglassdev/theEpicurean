@@ -1,0 +1,39 @@
+{
+  "title": "Aspen",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Colorado",
+  "regionSlug": "other",
+  "city": "Aspen",
+  "citySlug": "aspen",
+  "path": "/usa/other/aspen/restaurants",
+  "canonicalPath": "/usa/colorado/aspen/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Bosq",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/colorado/aspen/bosq",
+      "award": "★"
+    },
+    {
+      "name": "Element 47",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/colorado/aspen/element47"
+    },
+    {
+      "name": "Mawa's Kitchen",
+      "cuisine": "Contemporary, American",
+      "price": "$$$",
+      "path": "/usa/colorado/aspen/mawas-kitchen"
+    },
+    {
+      "name": "Prospect",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/colorado/aspen/prospect"
+    }
+  ]
+}

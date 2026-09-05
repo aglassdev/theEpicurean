@@ -1,20 +1,26 @@
 {
   "title": "Noirmoutier En Lle",
-  "country": "france",
-  "region": "noirmoutier-en-lle",
-  "city": "noirmoutier-en-lle",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "noirmoutier-en-lle",
+  "city": "Noirmoutier En Lle",
+  "citySlug": "noirmoutier-en-lle",
+  "path": "/france/noirmoutier-en-lle/noirmoutier-en-lle/restaurants",
+  "canonicalPath": "/france/noirmoutier-en-lle/noirmoutier-en-lle/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "La Maison des Toqués",
-      "cuisine": "Farm to table",
-      "price": "€€€",
-      "path": "/france/noirmoutier-en-lle/noirmoutier-en-lle/la-maison-des-toqus"
-    },
     {
       "name": "L'Assiette au Jardin",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/noirmoutier-en-lle/noirmoutier-en-lle/lassiette-au-jardin"
+    },
+    {
+      "name": "La Maison des Toqués",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/france/noirmoutier-en-lle/noirmoutier-en-lle/la-maison-des-toqus"
     },
     {
       "name": "Le Petit Banc",

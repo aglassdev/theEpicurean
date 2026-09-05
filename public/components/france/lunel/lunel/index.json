@@ -1,8 +1,14 @@
 {
   "title": "Lunel",
-  "country": "france",
-  "region": "lunel",
-  "city": "lunel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lunel",
+  "city": "Lunel",
+  "citySlug": "lunel",
+  "path": "/france/lunel/lunel/restaurants",
+  "canonicalPath": "/france/lunel/lunel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison Soubeiran",

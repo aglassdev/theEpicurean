@@ -1,20 +1,27 @@
 {
   "title": "Ettlingen",
-  "country": "germany",
-  "region": "ettlingen",
-  "city": "ettlingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "ettlingen",
+  "city": "Ettlingen",
+  "citySlug": "ettlingen",
+  "path": "/germany/ettlingen/ettlingen/restaurants",
+  "canonicalPath": "/germany/ettlingen/ettlingen/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Erbprinz",
+      "cuisine": "Classic Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/ettlingen/ettlingen/erbprinz",
+      "award": "★"
+    },
     {
       "name": "Die Ratsstuben",
       "cuisine": "International",
       "price": "€€€",
       "path": "/germany/ettlingen/ettlingen/die-ratsstuben"
-    },
-    {
-      "name": "Erbprinz",
-      "cuisine": "Classic Cuisine, International",
-      "price": "€€€€",
-      "path": "/germany/ettlingen/ettlingen/erbprinz"
     },
     {
       "name": "Hartmaier's Villa",

@@ -1,14 +1,21 @@
 {
   "title": "Vale",
-  "country": "uk",
-  "region": "vale",
-  "city": "vale",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "vale",
+  "city": "Vale",
+  "citySlug": "vale",
+  "path": "/uk/vale/vale/restaurants",
+  "canonicalPath": "/uk/vale/vale/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vraic",
       "cuisine": "Modern Cuisine",
       "price": "££££",
-      "path": "/uk/vale/vale/vraic"
+      "path": "/uk/vale/vale/vraic",
+      "award": "★"
     }
   ]
 }

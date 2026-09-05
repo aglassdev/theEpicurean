@@ -1,17 +1,27 @@
 {
   "title": "Puerto Vallarta",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "puerto-vallarta",
+  "city": "Puerto Vallarta",
+  "citySlug": "puerto-vallarta",
+  "path": "/mexico/puerto-vallarta/puerto-vallarta/restaurants",
+  "canonicalPath": "/mexico/puerto-vallarta/puerto-vallarta/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "ICÚ",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/puerto-vallarta/puerto-vallarta/Ic"
+      "path": "/mexico/puerto-vallarta/puerto-vallarta/ic",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Pancho's Takos",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/mexico/puerto-vallarta/puerto-vallarta/PanchosTakos"
+      "path": "/mexico/puerto-vallarta/puerto-vallarta/panchos-takos"
     }
   ]
 }

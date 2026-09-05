@@ -1,8 +1,14 @@
 {
   "title": "Pirk",
-  "country": "germany",
-  "region": "pirk",
-  "city": "pirk",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "pirk",
+  "city": "Pirk",
+  "citySlug": "pirk",
+  "path": "/germany/pirk/pirk/restaurants",
+  "canonicalPath": "/germany/pirk/pirk/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Genussschmiede",

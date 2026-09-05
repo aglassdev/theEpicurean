@@ -1,8 +1,14 @@
 {
   "title": "Arveyres",
-  "country": "france",
-  "region": "arveyres",
-  "city": "arveyres",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "arveyres",
+  "city": "Arveyres",
+  "citySlug": "arveyres",
+  "path": "/france/arveyres/arveyres/restaurants",
+  "canonicalPath": "/france/arveyres/arveyres/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Château Fage - La Maison des Vignes",

@@ -1,14 +1,21 @@
 {
   "title": "Terracina",
-  "country": "italy",
-  "region": "terracina",
-  "city": "terracina",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "terracina",
+  "city": "Terracina",
+  "citySlug": "terracina",
+  "path": "/italy/terracina/terracina/restaurants",
+  "canonicalPath": "/italy/terracina/terracina/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Essenza",
       "cuisine": "Creative, Contemporary",
       "price": "€€€",
-      "path": "/italy/terracina/terracina/essenza"
+      "path": "/italy/terracina/terracina/essenza-t-e-r",
+      "award": "★"
     },
     {
       "name": "Locanda Altobelli",

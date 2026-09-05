@@ -1,14 +1,21 @@
 {
   "title": "Bourg Charente",
-  "country": "france",
-  "region": "bourg-charente",
-  "city": "bourg-charente",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bourg-charente",
+  "city": "Bourg Charente",
+  "citySlug": "bourg-charente",
+  "path": "/france/bourg-charente/bourg-charente/restaurants",
+  "canonicalPath": "/france/bourg-charente/bourg-charente/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Ribaudière",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/bourg-charente/bourg-charente/la-ribaudire"
+      "path": "/france/bourg-charente/bourg-charente/la-ribaudire",
+      "award": "★"
     },
     {
       "name": "La Table du Fleuve",

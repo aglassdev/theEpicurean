@@ -1,14 +1,20 @@
 {
-  "title": "Vaux Sur Mer",
-  "country": "france",
-  "region": "vaux-sur-mer",
-  "city": "vaux-sur-mer",
+  "title": "Vaux sur Mer",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vaux-sur-mer",
+  "city": "Vaux sur Mer",
+  "citySlug": "vaux-sur-mer",
+  "path": "/france/vaux-sur-mer/vaux-sur-mer/restaurants",
+  "canonicalPath": "/france/vaux-sur-mer/vaux-sur-mer/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Sens 7367",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/vaux-sur-mer/vaux-sur-mer/le-sens-7367"
+      "path": "/france/vaux-sur-mer/vaux-sur-mer/le-sens7367"
     }
   ]
 }

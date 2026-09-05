@@ -1,11 +1,21 @@
 {
   "title": "Piedmont",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "piedmont",
+  "city": "Piedmont",
+  "citySlug": "piedmont",
+  "path": "/canada/piedmont/piedmont/restaurants",
+  "canonicalPath": "/canada/piedmont/piedmont/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Baumier",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/canada/piedmont/piedmont/Baumier"
+      "path": "/canada/piedmont/piedmont/baumier",
+      "award": "Bib Gourmand"
     }
   ]
 }

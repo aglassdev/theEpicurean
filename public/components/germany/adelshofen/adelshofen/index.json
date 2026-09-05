@@ -1,17 +1,27 @@
 {
   "title": "Adelshofen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "adelshofen",
+  "city": "Adelshofen",
+  "citySlug": "adelshofen",
+  "path": "/germany/adelshofen/adelshofen/restaurants",
+  "canonicalPath": "/germany/adelshofen/adelshofen/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Landhaus Zum Falken",
+      "cuisine": "Country cooking",
+      "price": "$$",
+      "path": "/germany/adelshofen/adelshofen/landhaus-zum-falken",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Zum Falken",
       "cuisine": "Country cooking, Farm to table",
       "price": "€€",
       "path": "/germany/adelshofen/adelshofen/zum-falken"
-    },
-    {
-      "name": "Landhaus Zum Falken",
-      "cuisine": "Country cooking",
-      "price": "$$",
-      "path": "/germany/adelshofen/adelshofen/LandhausZumFalken"
     }
   ]
 }

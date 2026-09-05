@@ -1,8 +1,14 @@
 {
   "title": "Abbeville",
-  "country": "france",
-  "region": "abbeville",
-  "city": "abbeville",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "abbeville",
+  "city": "Abbeville",
+  "citySlug": "abbeville",
+  "path": "/france/abbeville/abbeville/restaurants",
+  "canonicalPath": "/france/abbeville/abbeville/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Crustum",

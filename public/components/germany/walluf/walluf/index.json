@@ -1,8 +1,14 @@
 {
   "title": "Walluf",
-  "country": "germany",
-  "region": "walluf",
-  "city": "walluf",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "walluf",
+  "city": "Walluf",
+  "citySlug": "walluf",
+  "path": "/germany/walluf/walluf/restaurants",
+  "canonicalPath": "/germany/walluf/walluf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Zur Schlupp",

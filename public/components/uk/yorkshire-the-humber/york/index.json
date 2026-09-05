@@ -1,53 +1,117 @@
 {
   "title": "York",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "Yorkshire the Humber",
+  "regionSlug": "yorkshire-the-humber",
+  "city": "York",
+  "citySlug": "york",
+  "path": "/uk/yorkshire-the-humber/york/restaurants",
+  "canonicalPath": "/uk/york/york/restaurants",
+  "count": 17,
   "restaurants": [
+    {
+      "name": "Roots",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/york/york/roots-y-o-r",
+      "award": "★"
+    },
+    {
+      "name": "Arras",
+      "cuisine": "Modern Cuisine",
+      "price": "£££",
+      "path": "/uk/york/york/arras"
+    },
     {
       "name": "Bettys Cafe Tea Rooms - York",
       "cuisine": "Afternoon Tea",
       "price": "39.95",
-      "path": "/uk/yorkshire-the-humber/york/BettysCafeTeaRoomsYork"
+      "path": "/uk/yorkshire-the-humber/york/bettys-cafe-tea-rooms-york"
     },
     {
-      "name": "Sora York",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/yorkshire-the-humber/york/SoraYork"
-    },
-    {
-      "name": "No.1 by GuestHouse, York",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/yorkshire-the-humber/york/No1ByGuesthouseYork"
-    },
-    {
-      "name": "Malmaison York",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/yorkshire-the-humber/york/MalmaisonYork"
-    },
-    {
-      "name": "The Ivy York",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/yorkshire-the-humber/york/TheIvyYork"
+      "name": "Fish & Forest",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/york/york/fish-forest"
     },
     {
       "name": "Hotel du Vin York",
       "cuisine": "Afternoon Tea",
       "price": "29.95",
-      "path": "/uk/yorkshire-the-humber/york/HotelDuVinYork"
+      "path": "/uk/yorkshire-the-humber/york/hotel-du-vin-york"
     },
     {
-      "name": "The Grand",
+      "name": "INOS",
+      "cuisine": "Greek",
+      "price": "$$",
+      "path": "/uk/york/york/inos"
+    },
+    {
+      "name": "Legacy",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/york/york/legacy"
+    },
+    {
+      "name": "Malmaison York",
       "cuisine": "Afternoon Tea",
-      "price": "34.50",
-      "path": "/uk/yorkshire-the-humber/york/TheGrand"
+      "price": "29.50",
+      "path": "/uk/yorkshire-the-humber/york/malmaison-york"
+    },
+    {
+      "name": "Melton's",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/york/york/meltons"
+    },
+    {
+      "name": "No.1 by GuestHouse, York",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/yorkshire-the-humber/york/no1-by-guesthouse-york"
+    },
+    {
+      "name": "Skosh",
+      "cuisine": "Modern British",
+      "price": "££",
+      "path": "/uk/york/york/skosh"
+    },
+    {
+      "name": "Sora York",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/yorkshire-the-humber/york/sora-york"
+    },
+    {
+      "name": "The Bow Room at Grays Court",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/york/york/the-bow-room-at-grays-court"
     },
     {
       "name": "The Garden Room",
       "cuisine": "Afternoon Tea",
       "price": "29.00",
-      "path": "/uk/yorkshire-the-humber/york/TheGardenRoom"
+      "path": "/uk/yorkshire-the-humber/york/the-garden-room"
+    },
+    {
+      "name": "The Grand",
+      "cuisine": "Afternoon Tea",
+      "price": "34.50",
+      "path": "/uk/yorkshire-the-humber/york/the-grand"
+    },
+    {
+      "name": "The Ivy York",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/yorkshire-the-humber/york/the-ivy-york"
+    },
+    {
+      "name": "The Star Inn The City",
+      "cuisine": "Modern British",
+      "price": "££",
+      "path": "/uk/york/york/the-star-inn-the-city"
     }
   ]
 }

@@ -1,53 +1,579 @@
 {
   "title": "Brooklyn",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "New York",
+  "regionSlug": "new-york",
+  "city": "Brooklyn",
+  "citySlug": "brooklyn",
+  "path": "/usa/new-york/brooklyn/restaurants",
+  "canonicalPath": "/usa/newyork/brooklyn/restaurants",
+  "count": 93,
   "restaurants": [
     {
-      "name": "Balera",
-      "cuisine": "Italian",
-      "price": "$",
-      "path": "/usa/new-york/brooklyn/Balera"
-    },
-    {
-      "name": "Bong",
-      "cuisine": "Cambodian",
+      "name": "Aska",
+      "cuisine": "Scandinavian, Contemporary",
       "price": "$$$$",
-      "path": "/usa/new-york/brooklyn/Bong"
+      "path": "/usa/newyork/brooklyn/aska-b-r-o",
+      "award": "★★"
     },
     {
-      "name": "Confidant",
-      "cuisine": "Contemporary",
+      "name": "Clover Hill",
+      "cuisine": "Contemporary, Latin American",
       "price": "$$$$",
-      "path": "/usa/new-york/brooklyn/Confidant"
+      "path": "/usa/newyork/brooklyn/clover-hill",
+      "award": "★"
     },
     {
-      "name": "I Cavallini",
-      "cuisine": "Italian",
+      "name": "Francie",
+      "cuisine": "Contemporary, Italian",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/francie",
+      "award": "★"
+    },
+    {
+      "name": "Oxomoco",
+      "cuisine": "Mexican, Contemporary",
       "price": "$$$",
-      "path": "/usa/new-york/brooklyn/ICavallini"
+      "path": "/usa/newyork/brooklyn/oxomoco",
+      "award": "★"
     },
     {
-      "name": "Los Burritos Juárez",
-      "cuisine": "Mexican",
-      "price": "$",
-      "path": "/usa/new-york/brooklyn/LosBurritosJurez"
+      "name": "Restaurant Yuu",
+      "cuisine": "French Contemporary, Japanese",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/restaurant-yuu",
+      "award": "★"
     },
     {
-      "name": "Mile End Delicatessen",
-      "cuisine": "Deli",
-      "price": "$",
-      "path": "/usa/new-york/brooklyn/MileEndDelicatessen"
+      "name": "Shota Omakase",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/shota-omakase",
+      "award": "★"
     },
     {
-      "name": "Vato",
-      "cuisine": "Mexican",
+      "name": "The Four Horsemen",
+      "cuisine": "American, Californian",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/the-four-horsemen",
+      "award": "★"
+    },
+    {
+      "name": "6 Restaurant",
+      "cuisine": "European, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/6-restaurant"
+    },
+    {
+      "name": "Agi's Counter",
+      "cuisine": "Creative, Hungarian",
       "price": "$$",
-      "path": "/usa/new-york/brooklyn/Vato"
+      "path": "/usa/newyork/brooklyn/agis-counter"
+    },
+    {
+      "name": "Al Badawi",
+      "cuisine": "Middle Eastern",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/al-badawi"
+    },
+    {
+      "name": "Alta Calidad",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/alta-calidad"
+    },
+    {
+      "name": "Ammazzacaffè",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/ammazzacaff"
     },
     {
       "name": "arthur",
       "cuisine": "French Contemporary",
       "price": "$$$",
-      "path": "/usa/new-york/brooklyn/Arthur"
+      "path": "/usa/new-york/brooklyn/arthur"
+    },
+    {
+      "name": "Ayat",
+      "cuisine": "Middle Eastern",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/ayat"
+    },
+    {
+      "name": "Balera",
+      "cuisine": "Italian",
+      "price": "$",
+      "path": "/usa/new-york/brooklyn/balera"
+    },
+    {
+      "name": "Bong",
+      "cuisine": "Cambodian",
+      "price": "$$$$",
+      "path": "/usa/new-york/brooklyn/bong"
+    },
+    {
+      "name": "Bonnie's",
+      "cuisine": "Cantonese, American",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/bonnies"
+    },
+    {
+      "name": "Café Kestrel",
+      "cuisine": "Contemporary, European",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/caf-kestrel"
+    },
+    {
+      "name": "Cafe Mado",
+      "cuisine": "American Contemporary",
+      "price": "$",
+      "path": "/usa/newyork/brooklyn/cafe-mado"
+    },
+    {
+      "name": "Café Mars",
+      "cuisine": "Contemporary, Italian",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/caf-mars"
+    },
+    {
+      "name": "Casa Ora",
+      "cuisine": "Venezuelan, Latin American",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/casa-ora"
+    },
+    {
+      "name": "Cecily",
+      "cuisine": "American",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/cecily"
+    },
+    {
+      "name": "Chavela’s",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/chavelas"
+    },
+    {
+      "name": "Chez Ma Tante",
+      "cuisine": "American Contemporary, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/chez-ma-tante"
+    },
+    {
+      "name": "Chuan Tian Xia",
+      "cuisine": "Chinese, Sichuan",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/chuan-tian-xia"
+    },
+    {
+      "name": "Claro",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/claro-b-r-o"
+    },
+    {
+      "name": "Confidant",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/new-york/brooklyn/confidant"
+    },
+    {
+      "name": "Daphne's",
+      "cuisine": "Italian-American, Contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/daphnes"
+    },
+    {
+      "name": "East Harbor Seafood Palace",
+      "cuisine": "Chinese, Dim Sum",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/east-harbor-seafood-palace"
+    },
+    {
+      "name": "Ensenada",
+      "cuisine": "Mexican, Seafood",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/ensenada"
+    },
+    {
+      "name": "Enso",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/enso"
+    },
+    {
+      "name": "Falansai",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/falansai"
+    },
+    {
+      "name": "Fausto",
+      "cuisine": "Italian, American",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/fausto"
+    },
+    {
+      "name": "Field Guide",
+      "cuisine": "Contemporary, Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/field-guide"
+    },
+    {
+      "name": "For All Things Good",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/usa/newyork/brooklyn/for-all-things-good"
+    },
+    {
+      "name": "Gage & Tollner",
+      "cuisine": "Steakhouse, American",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/gage-tollner"
+    },
+    {
+      "name": "Glin Thai Bistro",
+      "cuisine": "Thai",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/glin-thai-bistro"
+    },
+    {
+      "name": "Gordo's Cantina",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/gordos-cantina"
+    },
+    {
+      "name": "Gus's Chop House",
+      "cuisine": "Steakhouse",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/guss-chop-house"
+    },
+    {
+      "name": "Haenyeo",
+      "cuisine": "Korean, Korean Contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/haenyeo"
+    },
+    {
+      "name": "Hart's",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/harts"
+    },
+    {
+      "name": "Hometown Bar B Que New York",
+      "cuisine": "Barbecue",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/hometown-bar-b-que-new-york"
+    },
+    {
+      "name": "Hungry Thirsty",
+      "cuisine": "Thai",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/hungry-thirsty"
+    },
+    {
+      "name": "I Cavallini",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/new-york/brooklyn/i-cavallini"
+    },
+    {
+      "name": "ILIS",
+      "cuisine": "Scandinavian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/ilis"
+    },
+    {
+      "name": "Inga's Bar",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/ingas-bar"
+    },
+    {
+      "name": "KRU",
+      "cuisine": "Thai, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/kru"
+    },
+    {
+      "name": "La Vara",
+      "cuisine": "Spanish",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/la-vara"
+    },
+    {
+      "name": "Laser Wolf",
+      "cuisine": "Middle Eastern, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/laser-wolf"
+    },
+    {
+      "name": "Lingo",
+      "cuisine": "Japanese, American",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/lingo"
+    },
+    {
+      "name": "Llama Inn",
+      "cuisine": "Peruvian, Fusion",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/llama-inn-b-r-o"
+    },
+    {
+      "name": "LORE",
+      "cuisine": "Contemporary, South East Asian",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/lore"
+    },
+    {
+      "name": "Los Burritos Juárez",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/usa/new-york/brooklyn/los-burritos-jurez"
+    },
+    {
+      "name": "Madre",
+      "cuisine": "Contemporary, American",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/madre-b-r-o"
+    },
+    {
+      "name": "Mango Bay",
+      "cuisine": "Caribbean",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/mango-bay"
+    },
+    {
+      "name": "Meadowsweet",
+      "cuisine": "Mediterranean Cuisine, American Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/meadowsweet"
+    },
+    {
+      "name": "Mesiba",
+      "cuisine": "Middle Eastern, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/mesiba"
+    },
+    {
+      "name": "Mile End",
+      "cuisine": "Deli",
+      "price": "$",
+      "path": "/usa/newyork/brooklyn/mile-end"
+    },
+    {
+      "name": "Mile End Delicatessen",
+      "cuisine": "Deli",
+      "price": "$",
+      "path": "/usa/new-york/brooklyn/mile-end-delicatessen"
+    },
+    {
+      "name": "Miss Ada",
+      "cuisine": "Israeli, Middle Eastern",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/miss-ada"
+    },
+    {
+      "name": "Neta Shari",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/neta-shari"
+    },
+    {
+      "name": "Nura",
+      "cuisine": "Fusion",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/nura"
+    },
+    {
+      "name": "Olmo",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/olmo"
+    },
+    {
+      "name": "Peter Luger",
+      "cuisine": "Steakhouse, American",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/peter-luger"
+    },
+    {
+      "name": "Pierozek",
+      "cuisine": "Polish, Dumplings",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/pierozek"
+    },
+    {
+      "name": "Place des Fêtes",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/place-des-ftes"
+    },
+    {
+      "name": "Popina",
+      "cuisine": "Italian, Southern",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/popina"
+    },
+    {
+      "name": "Red Hook Tavern",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/red-hook-tavern"
+    },
+    {
+      "name": "Risbo",
+      "cuisine": "American, Grills",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/risbo"
+    },
+    {
+      "name": "Roberta's",
+      "cuisine": "Pizza",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/robertas"
+    },
+    {
+      "name": "Rose Marie",
+      "cuisine": "American Contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/rose-marie"
+    },
+    {
+      "name": "Runner & Stone",
+      "cuisine": "Contemporary, Bakery",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/runner-stone"
+    },
+    {
+      "name": "Runner Up",
+      "cuisine": "American, Contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/runner-up"
+    },
+    {
+      "name": "Sailor",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/sailor"
+    },
+    {
+      "name": "Saint Julivert Fisherie",
+      "cuisine": "Seafood, Spanish",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/saint-julivert-fisherie"
+    },
+    {
+      "name": "Sal Tang's",
+      "cuisine": "Chinese Contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/sal-tangs"
+    },
+    {
+      "name": "Sawa",
+      "cuisine": "Middle Eastern, Lebanese",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/sawa"
+    },
+    {
+      "name": "Shalom Japan",
+      "cuisine": "Fusion, Asian",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/shalom-japan"
+    },
+    {
+      "name": "Sobre Masa",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/sobre-masa"
+    },
+    {
+      "name": "Sofreh",
+      "cuisine": "Persian, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/sofreh"
+    },
+    {
+      "name": "Speedy Romeo",
+      "cuisine": "Pizza",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/speedy-romeo"
+    },
+    {
+      "name": "Sunday in Brooklyn",
+      "cuisine": "American, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/sunday-in-brooklyn"
+    },
+    {
+      "name": "Tanoreen",
+      "cuisine": "Middle Eastern",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/tanoreen"
+    },
+    {
+      "name": "Taqueria El Chato",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/usa/newyork/brooklyn/taqueria-el-chato"
+    },
+    {
+      "name": "The River Café",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/the-river-caf"
+    },
+    {
+      "name": "Theodora",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/theodora"
+    },
+    {
+      "name": "Tong",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/tong"
+    },
+    {
+      "name": "Untable",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/usa/newyork/brooklyn/untable"
+    },
+    {
+      "name": "Uzuki",
+      "cuisine": "Japanese, Soba",
+      "price": "$$$$",
+      "path": "/usa/newyork/brooklyn/uzuki"
+    },
+    {
+      "name": "Vato",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/usa/new-york/brooklyn/vato"
+    },
+    {
+      "name": "Wenwen",
+      "cuisine": "Taiwanese, Asian",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/wenwen"
+    },
+    {
+      "name": "Win Son",
+      "cuisine": "Chinese, Taiwanese",
+      "price": "$$$",
+      "path": "/usa/newyork/brooklyn/win-son"
+    },
+    {
+      "name": "Yemenat",
+      "cuisine": "Middle Eastern",
+      "price": "$",
+      "path": "/usa/newyork/brooklyn/yemenat"
     }
   ]
 }

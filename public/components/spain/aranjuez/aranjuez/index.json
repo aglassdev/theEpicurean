@@ -1,8 +1,14 @@
 {
   "title": "Aranjuez",
-  "country": "spain",
-  "region": "aranjuez",
-  "city": "aranjuez",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "aranjuez",
+  "city": "Aranjuez",
+  "citySlug": "aranjuez",
+  "path": "/spain/aranjuez/aranjuez/restaurants",
+  "canonicalPath": "/spain/aranjuez/aranjuez/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Casa José",

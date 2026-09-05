@@ -1,14 +1,20 @@
 {
   "title": "Monthion",
-  "country": "france",
-  "region": "monthion",
-  "city": "monthion",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "monthion",
+  "city": "Monthion",
+  "citySlug": "monthion",
+  "path": "/france/monthion/monthion/restaurants",
+  "canonicalPath": "/france/monthion/monthion/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les 16 Clochers",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/monthion/monthion/les-16-clochers"
+      "path": "/france/monthion/monthion/les16-clochers"
     }
   ]
 }

@@ -1,20 +1,28 @@
 {
   "title": "Dallenwil",
-  "country": "switzerland",
-  "region": "dallenwil",
-  "city": "dallenwil",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "dallenwil",
+  "city": "Dallenwil",
+  "citySlug": "dallenwil",
+  "path": "/switzerland/dallenwil/dallenwil/restaurants",
+  "canonicalPath": "/switzerland/dallenwil/dallenwil/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gasthaus zum Kreuz - Bijou",
       "cuisine": "Asian and Western, Modern Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/dallenwil/dallenwil/gasthaus-zum-kreuz-bijou"
+      "path": "/switzerland/dallenwil/dallenwil/gasthaus-zum-kreuz-bijou",
+      "award": "★"
     },
     {
       "name": "Gasthaus zum Kreuz - Stübli",
       "cuisine": "Classic Cuisine, Traditional Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/dallenwil/dallenwil/gasthaus-zum-kreuz-stbli"
+      "path": "/switzerland/dallenwil/dallenwil/gasthaus-zum-kreuz-stbli",
+      "award": "★"
     }
   ]
 }

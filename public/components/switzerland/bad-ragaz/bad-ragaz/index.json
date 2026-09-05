@@ -1,20 +1,35 @@
 {
   "title": "Bad Ragaz",
-  "country": "switzerland",
-  "region": "bad-ragaz",
-  "city": "bad-ragaz",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "bad-ragaz",
+  "city": "Bad Ragaz",
+  "citySlug": "bad-ragaz",
+  "path": "/switzerland/bad-ragaz/bad-ragaz/restaurants",
+  "canonicalPath": "/switzerland/bad-ragaz/bad-ragaz/restaurants",
+  "count": 5,
   "restaurants": [
     {
-      "name": "IGNIV by Andreas Caminada",
-      "cuisine": "Creative",
+      "name": "Sven Wassmer Memories",
+      "cuisine": "Creative, Farm to table",
       "price": "€€€€",
-      "path": "/switzerland/bad-ragaz/bad-ragaz/igniv-by-andreas-caminada"
+      "path": "/switzerland/bad-ragaz/bad-ragaz/sven-wassmer-memories",
+      "award": "★★★"
     },
     {
       "name": "IGNIV by Andreas Caminada",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/switzerland/bad-ragaz/bad-ragaz/igniv-by-andreas-caminada"
+      "path": "/switzerland/bad-ragaz/bad-ragaz/igniv-by-andreas-caminada-b-a-d",
+      "award": "★★"
+    },
+    {
+      "name": "Verve by Sven",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€",
+      "path": "/switzerland/bad-ragaz/bad-ragaz/verve-by-sven",
+      "award": "★"
     },
     {
       "name": "Namun",
@@ -26,19 +41,7 @@
       "name": "Rössli",
       "cuisine": "International",
       "price": "€€",
-      "path": "/switzerland/bad-ragaz/bad-ragaz/rssli"
-    },
-    {
-      "name": "Sven Wassmer Memories",
-      "cuisine": "Creative, Farm to table",
-      "price": "€€€€",
-      "path": "/switzerland/bad-ragaz/bad-ragaz/sven-wassmer-memories"
-    },
-    {
-      "name": "Verve by Sven",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€",
-      "path": "/switzerland/bad-ragaz/bad-ragaz/verve-by-sven"
+      "path": "/switzerland/bad-ragaz/bad-ragaz/rssli-b-a-d"
     }
   ]
 }

@@ -1,9 +1,22 @@
 {
-  "title": "Brive La Gaillarde",
-  "country": "france",
-  "region": "brive-la-gaillarde",
-  "city": "brive-la-gaillarde",
+  "title": "Brive la Gaillarde",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "brive-la-gaillarde",
+  "city": "Brive la Gaillarde",
+  "citySlug": "brive-la-gaillarde",
+  "path": "/france/brive-la-gaillarde/brive-la-gaillarde/restaurants",
+  "canonicalPath": "/france/brive-la-gaillarde/brive-la-gaillarde/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "La Table d'Olivier",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/brive-la-gaillarde/brive-la-gaillarde/la-table-dolivier",
+      "award": "★"
+    },
     {
       "name": "Chez Francis",
       "cuisine": "Traditional Cuisine",
@@ -23,16 +36,10 @@
       "path": "/france/brive-la-gaillarde/brive-la-gaillarde/inspyration"
     },
     {
-      "name": "La Table d'Olivier",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/brive-la-gaillarde/brive-la-gaillarde/la-table-dolivier"
-    },
-    {
       "name": "Moon",
       "cuisine": "Creative",
       "price": "€€",
-      "path": "/france/brive-la-gaillarde/brive-la-gaillarde/moon"
+      "path": "/france/brive-la-gaillarde/brive-la-gaillarde/moon-b-r-i"
     }
   ]
 }

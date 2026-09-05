@@ -1,14 +1,21 @@
 {
   "title": "Darscheid",
-  "country": "germany",
-  "region": "darscheid",
-  "city": "darscheid",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "darscheid",
+  "city": "Darscheid",
+  "citySlug": "darscheid",
+  "path": "/germany/darscheid/darscheid/restaurants",
+  "canonicalPath": "/germany/darscheid/darscheid/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Kucher's Gourmet",
       "cuisine": "Classic Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/darscheid/darscheid/kuchers-gourmet"
+      "path": "/germany/darscheid/darscheid/kuchers-gourmet",
+      "award": "★"
     },
     {
       "name": "Kucher's Weinwirtschaft",

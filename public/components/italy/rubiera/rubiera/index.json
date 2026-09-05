@@ -1,20 +1,28 @@
 {
   "title": "Rubiera",
-  "country": "italy",
-  "region": "rubiera",
-  "city": "rubiera",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "rubiera",
+  "city": "Rubiera",
+  "citySlug": "rubiera",
+  "path": "/italy/rubiera/rubiera/restaurants",
+  "canonicalPath": "/italy/rubiera/rubiera/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Arnaldo - Clinica Gastronomica",
       "cuisine": "Emilian",
       "price": "€€€",
-      "path": "/italy/rubiera/rubiera/arnaldo-clinica-gastronomica"
+      "path": "/italy/rubiera/rubiera/arnaldo-clinica-gastronomica",
+      "award": "★"
     },
     {
       "name": "Osteria del Viandante",
       "cuisine": "Emilian, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/rubiera/rubiera/osteria-del-viandante"
+      "path": "/italy/rubiera/rubiera/osteria-del-viandante",
+      "award": "★"
     }
   ]
 }

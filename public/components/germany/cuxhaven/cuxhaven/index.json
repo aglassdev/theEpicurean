@@ -1,20 +1,27 @@
 {
   "title": "Cuxhaven",
-  "country": "germany",
-  "region": "cuxhaven",
-  "city": "cuxhaven",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "cuxhaven",
+  "city": "Cuxhaven",
+  "citySlug": "cuxhaven",
+  "path": "/germany/cuxhaven/cuxhaven/restaurants",
+  "canonicalPath": "/germany/cuxhaven/cuxhaven/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Sterneck",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/germany/cuxhaven/cuxhaven/sterneck",
+      "award": "★"
+    },
     {
       "name": "Osteria La Fenice",
       "cuisine": "Italian",
       "price": "€€",
       "path": "/germany/cuxhaven/cuxhaven/osteria-la-fenice"
-    },
-    {
-      "name": "Sterneck",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/germany/cuxhaven/cuxhaven/sterneck"
     }
   ]
 }

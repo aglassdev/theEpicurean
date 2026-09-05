@@ -1,11 +1,26 @@
 {
-  "title": "McKinney",
+  "title": "Mckinney",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Texas",
+  "regionSlug": "texas",
+  "city": "Mckinney",
+  "citySlug": "mckinney",
+  "path": "/usa/texas/mckinney/restaurants",
+  "canonicalPath": "/usa/texas/mckinney/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Harvest",
+      "cuisine": "American",
+      "price": "$$",
+      "path": "/usa/other/mckinney/harvest"
+    },
     {
       "name": "Harvest at the Masonic",
       "cuisine": "American",
       "price": "$$",
-      "path": "/usa/texas/mckinney/HarvestAtTheMasonic"
+      "path": "/usa/texas/mckinney/harvest-at-the-masonic"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "title": "Surfside",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "other",
+  "city": "Surfside",
+  "citySlug": "surfside",
+  "path": "/usa/other/surfside/restaurants",
+  "canonicalPath": "/usa/florida/surfside/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "The Surf Club Restaurant",
+      "cuisine": "American",
+      "price": "$$$$",
+      "path": "/usa/florida/surfside/the-surf-club-restaurant",
+      "award": "★"
+    },
+    {
+      "name": "Josh's Deli",
+      "cuisine": "Deli",
+      "price": "$",
+      "path": "/usa/florida/surfside/joshs-deli"
+    }
+  ]
+}

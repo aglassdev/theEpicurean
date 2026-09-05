@@ -1,5 +1,14 @@
 {
   "title": "Tring",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "tring",
+  "city": "Tring",
+  "citySlug": "tring",
+  "path": "/uk/tring/tring/restaurants",
+  "canonicalPath": "/uk/tring/tring/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Crockers Chef's Table",
@@ -11,7 +20,7 @@
       "name": "Crockers Tring Chef's Table",
       "cuisine": "Modern British",
       "price": "$$$$",
-      "path": "/uk/tring/tring/CrockersTringChefsTable"
+      "path": "/uk/tring/tring/crockers-tring-chefs-table"
     }
   ]
 }

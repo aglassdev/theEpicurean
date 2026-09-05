@@ -1,8 +1,14 @@
 {
   "title": "Sarzeau",
-  "country": "france",
-  "region": "sarzeau",
-  "city": "sarzeau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sarzeau",
+  "city": "Sarzeau",
+  "citySlug": "sarzeau",
+  "path": "/france/sarzeau/sarzeau/restaurants",
+  "canonicalPath": "/france/sarzeau/sarzeau/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Le Kermer",

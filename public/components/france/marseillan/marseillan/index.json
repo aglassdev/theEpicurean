@@ -1,8 +1,14 @@
 {
   "title": "Marseillan",
-  "country": "france",
-  "region": "marseillan",
-  "city": "marseillan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "marseillan",
+  "city": "Marseillan",
+  "citySlug": "marseillan",
+  "path": "/france/marseillan/marseillan/restaurants",
+  "canonicalPath": "/france/marseillan/marseillan/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table d'Emilie",

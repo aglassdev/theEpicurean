@@ -1,8 +1,14 @@
 {
   "title": "Albertville",
-  "country": "france",
-  "region": "albertville",
-  "city": "albertville",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "albertville",
+  "city": "Albertville",
+  "citySlug": "albertville",
+  "path": "/france/albertville/albertville/restaurants",
+  "canonicalPath": "/france/albertville/albertville/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Million",

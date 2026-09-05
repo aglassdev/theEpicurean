@@ -1,59 +1,68 @@
 {
   "title": "Bloomsbury",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "Bloomsbury",
+  "citySlug": "bloomsbury",
+  "path": "/uk/london/bloomsbury/restaurants",
+  "canonicalPath": "/uk/london/bloomsbury/restaurants",
+  "count": 9,
   "restaurants": [
     {
-      "name": "Sweet Things",
+      "name": "Afternoon Tea at the Kingsley Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/london/bloomsbury/SweetThings"
-    },
-    {
-      "name": "St Pancras Renaissance Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/london/bloomsbury/StPancrasRenaissanceHotel"
-    },
-    {
-      "name": "RAILS Restaurant & Little Bar",
-      "cuisine": "Afternoon Tea",
-      "price": "39.50",
-      "path": "/uk/london/bloomsbury/RailsRestaurantLittleBar"
-    },
-    {
-      "name": "Number Twelve at Ambassadors",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/london/bloomsbury/NumberTwelveAtAmbassadors"
-    },
-    {
-      "name": "Montague on the Gardens",
-      "cuisine": "Afternoon Tea",
-      "price": "60.00",
-      "path": "/uk/london/bloomsbury/MontagueOnTheGardens"
-    },
-    {
-      "name": "Great Court Restaurant at British Museum",
-      "cuisine": "Afternoon Tea",
-      "price": "33.00",
-      "path": "/uk/london/bloomsbury/GreatCourtRestaurantAtBritishMuseum"
+      "price": "30.00",
+      "path": "/uk/london/bloomsbury/afternoon-tea-at-the-kingsley-hotel"
     },
     {
       "name": "Dalloway Terrace",
       "cuisine": "Afternoon Tea",
       "price": "48.00",
-      "path": "/uk/london/bloomsbury/DallowayTerrace"
+      "path": "/uk/london/bloomsbury/dalloway-terrace"
+    },
+    {
+      "name": "Great Court Restaurant at British Museum",
+      "cuisine": "Afternoon Tea",
+      "price": "33.00",
+      "path": "/uk/london/bloomsbury/great-court-restaurant-at-british-museum"
+    },
+    {
+      "name": "Montague on the Gardens",
+      "cuisine": "Afternoon Tea",
+      "price": "60.00",
+      "path": "/uk/london/bloomsbury/montague-on-the-gardens"
+    },
+    {
+      "name": "Number Twelve at Ambassadors",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/london/bloomsbury/number-twelve-at-ambassadors"
+    },
+    {
+      "name": "RAILS Restaurant & Little Bar",
+      "cuisine": "Afternoon Tea",
+      "price": "39.50",
+      "path": "/uk/london/bloomsbury/rails-restaurant-little-bar"
+    },
+    {
+      "name": "St Pancras Renaissance Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/london/bloomsbury/st-pancras-renaissance-hotel"
+    },
+    {
+      "name": "Sweet Things",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/london/bloomsbury/sweet-things"
     },
     {
       "name": "The Coral Room at The Bloomsbury",
       "cuisine": "Afternoon Tea",
       "price": "48.00",
-      "path": "/uk/london/bloomsbury/TheCoralRoomAtTheBloomsbury"
-    },
-    {
-      "name": "Afternoon Tea at the Kingsley Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/london/bloomsbury/AfternoonTeaAtTheKingsleyHotel"
+      "path": "/uk/london/bloomsbury/the-coral-room-at-the-bloomsbury"
     }
   ]
 }

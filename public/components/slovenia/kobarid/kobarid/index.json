@@ -1,17 +1,27 @@
 {
   "title": "Kobarid",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "kobarid",
+  "city": "Kobarid",
+  "citySlug": "kobarid",
+  "path": "/slovenia/kobarid/kobarid/restaurants",
+  "canonicalPath": "/slovenia/kobarid/kobarid/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Hiša Franko",
       "cuisine": "Creative, Regional Cuisine",
       "price": "€€€€",
-      "path": "/slovenia/kobarid/kobarid/hia-franko"
+      "path": "/slovenia/kobarid/kobarid/hia-franko",
+      "award": "★★★"
     },
     {
       "name": "Hisa Polonka",
       "cuisine": "Regional European",
       "price": "$$",
-      "path": "/slovenia/kobarid/kobarid/HisaPolonka"
+      "path": "/slovenia/kobarid/kobarid/hisa-polonka"
     }
   ]
 }

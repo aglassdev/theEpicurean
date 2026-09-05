@@ -1,0 +1,33 @@
+{
+  "title": "Napa",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Napa",
+  "citySlug": "napa",
+  "path": "/usa/other/napa/restaurants",
+  "canonicalPath": "/usa/california/napa/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Kenzo",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/usa/california/napa/kenzo",
+      "award": "★"
+    },
+    {
+      "name": "La Toque",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/napa/la-toque"
+    },
+    {
+      "name": "Mustards Grill",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/california/napa/mustards-grill"
+    }
+  ]
+}

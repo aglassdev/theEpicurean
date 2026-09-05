@@ -1,6 +1,43 @@
 {
   "title": "Lugano",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "lugano",
+  "city": "Lugano",
+  "citySlug": "lugano",
+  "path": "/switzerland/lugano/lugano/restaurants",
+  "canonicalPath": "/switzerland/lugano/lugano/restaurants",
+  "count": 12,
   "restaurants": [
+    {
+      "name": "Felix Lo Basso Restaurant",
+      "cuisine": "Italian Contemporary, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/lugano/lugano/felix-lo-basso-restaurant",
+      "award": "★"
+    },
+    {
+      "name": "I Due Sud",
+      "cuisine": "Mediterranean Cuisine, International",
+      "price": "€€€€",
+      "path": "/switzerland/lugano/lugano/i-due-sud",
+      "award": "★"
+    },
+    {
+      "name": "META",
+      "cuisine": "Fusion, Modern French",
+      "price": "€€€€",
+      "path": "/switzerland/lugano/lugano/meta",
+      "award": "★"
+    },
+    {
+      "name": "THE VIEW",
+      "cuisine": "Italian Contemporary, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/lugano/lugano/the-view",
+      "award": "★"
+    },
     {
       "name": "Arté al Lago",
       "cuisine": "Modern Cuisine, Mediterranean Cuisine",
@@ -20,34 +57,10 @@
       "path": "/switzerland/lugano/lugano/ciani-lugano"
     },
     {
-      "name": "Felix Lo Basso Restaurant",
-      "cuisine": "Italian Contemporary, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/lugano/lugano/felix-lo-basso-restaurant"
-    },
-    {
       "name": "Flamel",
       "cuisine": "Seasonal Cuisine, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/switzerland/lugano/lugano/flamel"
-    },
-    {
-      "name": "I Due Sud",
-      "cuisine": "Mediterranean Cuisine, International",
-      "price": "€€€€",
-      "path": "/switzerland/lugano/lugano/i-due-sud"
-    },
-    {
-      "name": "META",
-      "cuisine": "Fusion, Modern French",
-      "price": "€€€€",
-      "path": "/switzerland/lugano/lugano/meta"
-    },
-    {
-      "name": "META",
-      "cuisine": "Italian, Fusion",
-      "price": "€€€€",
-      "path": "/switzerland/lugano/lugano/meta"
     },
     {
       "name": "Osteria Cyrano Cibo e Vino",
@@ -62,22 +75,16 @@
       "path": "/switzerland/lugano/lugano/principe-leopoldo"
     },
     {
+      "name": "Ristorante Seven Lugano",
+      "cuisine": "Grills",
+      "price": "$$",
+      "path": "/switzerland/lugano/lugano/ristorante-seven-lugano"
+    },
+    {
       "name": "Seven Lugano - the restaurant",
       "cuisine": "Grills",
       "price": "€€",
       "path": "/switzerland/lugano/lugano/seven-lugano-the-restaurant"
-    },
-    {
-      "name": "THE VIEW",
-      "cuisine": "Italian Contemporary, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/lugano/lugano/the-view"
-    },
-    {
-      "name": "Ristorante Seven Lugano",
-      "cuisine": "Grills",
-      "price": "$$",
-      "path": "/switzerland/lugano/lugano/RistoranteSevenLugano"
     }
   ]
 }

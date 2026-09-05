@@ -1,14 +1,20 @@
 {
   "title": "Brand",
-  "country": "austria",
-  "region": "brand",
-  "city": "brand",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "brand",
+  "city": "Brand",
+  "citySlug": "brand",
+  "path": "/austria/brand/brand/restaurants",
+  "canonicalPath": "/austria/brand/brand/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gufer 55",
       "cuisine": "Regional European",
       "price": "€€",
-      "path": "/austria/brand/brand/gufer-55"
+      "path": "/austria/brand/brand/gufer55"
     }
   ]
 }

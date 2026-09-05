@@ -1,9 +1,27 @@
 {
   "title": "Bayeux",
-  "country": "france",
-  "region": "bayeux",
-  "city": "bayeux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bayeux",
+  "city": "Bayeux",
+  "citySlug": "bayeux",
+  "path": "/france/bayeux/bayeux/restaurants",
+  "canonicalPath": "/france/bayeux/bayeux/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "L'Alcôve",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/bayeux/bayeux/lalcve"
+    },
+    {
+      "name": "L'Angle Saint-Laurent",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/bayeux/bayeux/langle-saintlaurent"
+    },
     {
       "name": "La Rapière",
       "cuisine": "Traditional Cuisine",
@@ -17,22 +35,10 @@
       "path": "/france/bayeux/bayeux/la-table-du-lion"
     },
     {
-      "name": "L'Alcôve",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/bayeux/bayeux/lalcve"
-    },
-    {
-      "name": "L'Angle Saint-Laurent",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/bayeux/bayeux/langle-saint-laurent"
-    },
-    {
       "name": "Le 1720 - Château de Sully",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/bayeux/bayeux/le-1720-chteau-de-sully"
+      "path": "/france/bayeux/bayeux/le1720-chteau-de-sully"
     }
   ]
 }

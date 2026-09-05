@@ -1,11 +1,28 @@
 {
   "title": "Rimini",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "rimini",
+  "city": "Rimini",
+  "citySlug": "rimini",
+  "path": "/italy/rimini/rimini/restaurants",
+  "canonicalPath": "/italy/rimini/rimini/restaurants",
+  "count": 8,
   "restaurants": [
     {
       "name": "Abocar Due Cucine",
       "cuisine": "Creative, International",
       "price": "€€€",
-      "path": "/italy/rimini/rimini/abocar-due-cucine"
+      "path": "/italy/rimini/rimini/abocar-due-cucine",
+      "award": "★"
+    },
+    {
+      "name": "Guido",
+      "cuisine": "Seafood, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/rimini/rimini/guido",
+      "award": "★"
     },
     {
       "name": "Da Lucio",
@@ -20,16 +37,16 @@
       "path": "/italy/rimini/rimini/dallo-zio"
     },
     {
-      "name": "Guido",
-      "cuisine": "Seafood, Modern Cuisine",
-      "price": "€€€",
-      "path": "/italy/rimini/rimini/guido"
-    },
-    {
       "name": "i-Fame",
       "cuisine": "Italian Contemporary, Modern Cuisine",
       "price": "€€",
-      "path": "/italy/rimini/rimini/i-fame"
+      "path": "/italy/rimini/rimini/ifame"
+    },
+    {
+      "name": "La Marianna",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/italy/rimini/rimini/la-marianna"
     },
     {
       "name": "Osteria de Börg",
@@ -42,12 +59,6 @@
       "cuisine": "Creative, Seafood",
       "price": "€€",
       "path": "/italy/rimini/rimini/quartopiano"
-    },
-    {
-      "name": "La Marianna",
-      "cuisine": "Seafood",
-      "price": "$$",
-      "path": "/italy/rimini/rimini/LaMarianna"
     }
   ]
 }

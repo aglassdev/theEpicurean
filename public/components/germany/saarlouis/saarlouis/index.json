@@ -1,14 +1,21 @@
 {
   "title": "Saarlouis",
-  "country": "germany",
-  "region": "saarlouis",
-  "city": "saarlouis",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "saarlouis",
+  "city": "Saarlouis",
+  "citySlug": "saarlouis",
+  "path": "/germany/saarlouis/saarlouis/restaurants",
+  "canonicalPath": "/germany/saarlouis/saarlouis/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "LOUIS restaurant",
       "cuisine": "Creative, Modern French",
       "price": "€€€€",
-      "path": "/germany/saarlouis/saarlouis/louis-restaurant"
+      "path": "/germany/saarlouis/saarlouis/louis-restaurant",
+      "award": "★★"
     }
   ]
 }

@@ -1,11 +1,51 @@
 {
   "title": "Dublin",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": "Ireland",
+  "regionSlug": "dublin",
+  "city": "Dublin",
+  "citySlug": "dublin",
+  "path": "/ireland/dublin/dublin/restaurants",
+  "canonicalPath": "/ireland/ireland/dublin/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Thorton's",
       "cuisine": "",
       "price": "",
-      "path": "/ireland/dublin/dublin/Thortons"
+      "path": "/ireland/dublin/dublin/thortons",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Conrad Dublin",
+      "cuisine": "Afternoon Tea",
+      "price": "31.00",
+      "path": "/ireland/ireland/dublin/conrad-dublin"
+    },
+    {
+      "name": "Peperina Garden Bistro",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/ireland/ireland/dublin/peperina-garden-bistro"
+    },
+    {
+      "name": "The Iveagh Garden Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "42.00",
+      "path": "/ireland/ireland/dublin/the-iveagh-garden-hotel"
+    },
+    {
+      "name": "The Lobby Lounge",
+      "cuisine": "Afternoon Tea",
+      "price": "65.00",
+      "path": "/ireland/ireland/dublin/the-lobby-lounge"
+    },
+    {
+      "name": "The Shelbourne Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "68.00",
+      "path": "/ireland/ireland/dublin/the-shelbourne-hotel"
     }
   ]
 }

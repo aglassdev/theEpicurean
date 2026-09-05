@@ -1,20 +1,27 @@
 {
   "title": "Trier",
-  "country": "germany",
-  "region": "trier",
-  "city": "trier",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "trier",
+  "city": "Trier",
+  "citySlug": "trier",
+  "path": "/germany/trier/trier/restaurants",
+  "canonicalPath": "/germany/trier/trier/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Bagatelle",
       "cuisine": "French Contemporary, Creative",
       "price": "€€€",
-      "path": "/germany/trier/trier/bagatelle"
+      "path": "/germany/trier/trier/bagatelle",
+      "award": "★"
     },
     {
       "name": "BECKER'S",
       "cuisine": "Creative, Classic Cuisine",
       "price": "€€€€",
-      "path": "/germany/trier/trier/beckers"
+      "path": "/germany/trier/trier/beckers-t-r-i"
     },
     {
       "name": "BECKER'S Weinhaus",

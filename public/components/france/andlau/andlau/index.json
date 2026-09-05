@@ -1,14 +1,20 @@
 {
   "title": "Andlau",
-  "country": "france",
-  "region": "andlau",
-  "city": "andlau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "andlau",
+  "city": "Andlau",
+  "citySlug": "andlau",
+  "path": "/france/andlau/andlau/restaurants",
+  "canonicalPath": "/france/andlau/andlau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Partage",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/andlau/andlau/partage"
+      "path": "/france/andlau/andlau/partage-a-n-d"
     }
   ]
 }

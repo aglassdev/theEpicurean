@@ -1,9 +1,44 @@
 {
   "title": "Bray",
-  "country": "uk",
-  "region": "bray",
-  "city": "bray",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "England",
+  "regionSlug": "bray",
+  "city": "Bray",
+  "citySlug": "bray",
+  "path": "/uk/bray/bray/restaurants",
+  "canonicalPath": "/uk/bray/bray/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Geranium",
+      "cuisine": "Contemporary Nordic",
+      "price": "€€€€ · Prix Fixe",
+      "path": "/uk/england/south-east/bray/the-fat-duck",
+      "award": "★★★",
+      "image": "/images/geranium1.png"
+    },
+    {
+      "name": "The Fat Duck",
+      "cuisine": "Creative",
+      "price": "££££",
+      "path": "/uk/bray/bray/the-fat-duck",
+      "award": "★★★"
+    },
+    {
+      "name": "Waterside Inn",
+      "cuisine": "Classic French",
+      "price": "££££",
+      "path": "/uk/bray/bray/waterside-inn",
+      "award": "★★★"
+    },
+    {
+      "name": "Hinds Head",
+      "cuisine": "Traditional British",
+      "price": "£££",
+      "path": "/uk/bray/bray/hinds-head",
+      "award": "★"
+    },
     {
       "name": "Crown",
       "cuisine": "French, Modern British",
@@ -11,28 +46,10 @@
       "path": "/uk/bray/bray/crown"
     },
     {
-      "name": "Hinds Head",
-      "cuisine": "Traditional British",
-      "price": "£££",
-      "path": "/uk/bray/bray/hinds-head"
-    },
-    {
       "name": "The Braywood",
       "cuisine": "Modern British",
       "price": "££££",
       "path": "/uk/bray/bray/the-braywood"
-    },
-    {
-      "name": "The Fat Duck",
-      "cuisine": "Creative",
-      "price": "££££",
-      "path": "/uk/bray/bray/the-fat-duck"
-    },
-    {
-      "name": "Waterside Inn",
-      "cuisine": "Classic French",
-      "price": "££££",
-      "path": "/uk/bray/bray/waterside-inn"
     }
   ]
 }

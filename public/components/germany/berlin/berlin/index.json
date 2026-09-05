@@ -1,6 +1,190 @@
 {
   "title": "Berlin",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "berlin",
+  "city": "Berlin",
+  "citySlug": "berlin",
+  "path": "/germany/berlin/berlin/restaurants",
+  "canonicalPath": "/germany/berlin/berlin/restaurants",
+  "count": 90,
   "restaurants": [
+    {
+      "name": "Rutz",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/rutz",
+      "award": "★★★"
+    },
+    {
+      "name": "CODA Dessert Dining",
+      "cuisine": "Creative, Innovative",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/coda-dessert-dining",
+      "award": "★★"
+    },
+    {
+      "name": "FACIL",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/facil",
+      "award": "★★"
+    },
+    {
+      "name": "Horváth",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/horvth",
+      "award": "★★"
+    },
+    {
+      "name": "Tim Raue",
+      "cuisine": "Asian, German",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/tim-raue",
+      "award": "★★"
+    },
+    {
+      "name": "Bandol sur mer",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/bandol-sur-mer",
+      "award": "★"
+    },
+    {
+      "name": "Bieberbau",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€",
+      "path": "/germany/berlin/berlin/bieberbau",
+      "award": "★"
+    },
+    {
+      "name": "Bonvivant",
+      "cuisine": "Vegan",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/bonvivant",
+      "award": "★"
+    },
+    {
+      "name": "Bricole",
+      "cuisine": "Modern French, Contemporary",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/bricole",
+      "award": "★"
+    },
+    {
+      "name": "Cookies Cream",
+      "cuisine": "Vegetarian",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/cookies-cream",
+      "award": "★"
+    },
+    {
+      "name": "GOLVET",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/golvet",
+      "award": "★"
+    },
+    {
+      "name": "hallmann & klee",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/germany/berlin/berlin/hallmann-klee",
+      "award": "★"
+    },
+    {
+      "name": "Hugos",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/hugos",
+      "award": "★"
+    },
+    {
+      "name": "Irma la Douce",
+      "cuisine": "Classic French",
+      "price": "€€€",
+      "path": "/germany/berlin/berlin/irma-la-douce",
+      "award": "★"
+    },
+    {
+      "name": "Lorenz Adlon Esszimmer",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/lorenz-adlon-esszimmer",
+      "award": "★"
+    },
+    {
+      "name": "Loumi",
+      "cuisine": "International, Asian",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/loumi",
+      "award": "★"
+    },
+    {
+      "name": "Matthias",
+      "cuisine": "Modern Cuisine, French",
+      "price": "€€€",
+      "path": "/germany/berlin/berlin/matthias",
+      "award": "★"
+    },
+    {
+      "name": "Nobelhart & Schmutzig",
+      "cuisine": "Creative, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/nobelhart-schmutzig",
+      "award": "★"
+    },
+    {
+      "name": "pars Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/pars-restaurant",
+      "award": "★"
+    },
+    {
+      "name": "prism",
+      "cuisine": "Israeli, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/prism",
+      "award": "★"
+    },
+    {
+      "name": "SKYKITCHEN",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/skykitchen",
+      "award": "★"
+    },
+    {
+      "name": "tulus lotrek",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/berlin/berlin/tulus-lotrek",
+      "award": "★"
+    },
+    {
+      "name": "Restaurant Tim Raue",
+      "cuisine": "",
+      "price": "",
+      "path": "/germany/berlin/berlin/restaurant-tim-raue",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "CHEZ NASSIB",
+      "cuisine": "Lebanese",
+      "price": "$$",
+      "path": "/germany/berlin/berlin/chez-nassib",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Salhino",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/germany/berlin/berlin/salhino",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "136",
       "cuisine": "Fusion, Creative",
@@ -18,12 +202,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/germany/berlin/berlin/aerde"
-    },
-    {
-      "name": "Bandol sur mer",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/bandol-sur-mer"
     },
     {
       "name": "Bardele",
@@ -44,12 +222,6 @@
       "path": "/germany/berlin/berlin/berta"
     },
     {
-      "name": "Bieberbau",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€",
-      "path": "/germany/berlin/berlin/bieberbau"
-    },
-    {
       "name": "Bob & Thoms",
       "cuisine": "Modern French, Creative",
       "price": "€€€",
@@ -62,28 +234,16 @@
       "path": "/germany/berlin/berlin/bocca-di-bacco"
     },
     {
-      "name": "Bonvivant",
-      "cuisine": "Vegan",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/bonvivant"
-    },
-    {
       "name": "Brasserie Colette Tim Raue",
       "cuisine": "French",
       "price": "€€",
-      "path": "/germany/berlin/berlin/brasserie-colette-tim-raue"
+      "path": "/germany/berlin/berlin/brasserie-colette-tim-raue-b-e-r"
     },
     {
       "name": "Brasserie Lamazère",
       "cuisine": "French",
       "price": "€€",
       "path": "/germany/berlin/berlin/brasserie-lamazre"
-    },
-    {
-      "name": "Bricole",
-      "cuisine": "Modern French, Contemporary",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/bricole"
     },
     {
       "name": "BRIKZ",
@@ -95,13 +255,7 @@
       "name": "CARTE BLANCHE",
       "cuisine": "International, French",
       "price": "€€€",
-      "path": "/germany/berlin/berlin/carte-blanche"
-    },
-    {
-      "name": "Chicha",
-      "cuisine": "Peruvian",
-      "price": "€€",
-      "path": "/germany/berlin/berlin/chicha"
+      "path": "/germany/berlin/berlin/carte-blanche-b-e-r"
     },
     {
       "name": "Château Royal",
@@ -110,16 +264,10 @@
       "path": "/germany/berlin/berlin/chteau-royal"
     },
     {
-      "name": "CODA Dessert Dining",
-      "cuisine": "Creative, Innovative",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/coda-dessert-dining"
-    },
-    {
-      "name": "Cookies Cream",
-      "cuisine": "Vegetarian",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/cookies-cream"
+      "name": "Chicha",
+      "cuisine": "Peruvian",
+      "price": "€€",
+      "path": "/germany/berlin/berlin/chicha"
     },
     {
       "name": "Crackers",
@@ -146,10 +294,10 @@
       "path": "/germany/berlin/berlin/eins44"
     },
     {
-      "name": "FACIL",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/facil"
+      "name": "Fa:me",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/germany/berlin/berlin/fame"
     },
     {
       "name": "faelt",
@@ -158,16 +306,22 @@
       "path": "/germany/berlin/berlin/faelt"
     },
     {
-      "name": "Fa:me",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/germany/berlin/berlin/fame"
-    },
-    {
       "name": "FREA",
       "cuisine": "Vegan, Modern Cuisine",
       "price": "€€€",
       "path": "/germany/berlin/berlin/frea"
+    },
+    {
+      "name": "FUKAGAWA - Fine Dining",
+      "cuisine": "Japanese Contemporary",
+      "price": "$$$$",
+      "path": "/germany/berlin/berlin/fukagawa-fine-dining"
+    },
+    {
+      "name": "Fukagawa Ramen XBerg",
+      "cuisine": "Ramen",
+      "price": "$",
+      "path": "/germany/berlin/berlin/fukagawa-ramen-xberg"
     },
     {
       "name": "Funky Fisch",
@@ -182,34 +336,10 @@
       "path": "/germany/berlin/berlin/golden-phoenix"
     },
     {
-      "name": "GOLVET",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/golvet"
-    },
-    {
       "name": "GRACE",
       "cuisine": "International, Modern Cuisine",
       "price": "€€€€",
       "path": "/germany/berlin/berlin/grace"
-    },
-    {
-      "name": "hallmann & klee",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/germany/berlin/berlin/hallmann-klee"
-    },
-    {
-      "name": "Horváth",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/horvth"
-    },
-    {
-      "name": "Hugos",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/hugos"
     },
     {
       "name": "INDIA CLUB",
@@ -218,10 +348,10 @@
       "path": "/germany/berlin/berlin/india-club"
     },
     {
-      "name": "Irma la Douce",
-      "cuisine": "Classic French",
-      "price": "€€€",
-      "path": "/germany/berlin/berlin/irma-la-douce"
+      "name": "Jäger & Lustig",
+      "cuisine": "German, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/germany/berlin/berlin/jger-lustig"
     },
     {
       "name": "JAJA",
@@ -230,16 +360,16 @@
       "path": "/germany/berlin/berlin/jaja"
     },
     {
-      "name": "Jäger & Lustig",
-      "cuisine": "German, Seasonal Cuisine",
-      "price": "€€",
-      "path": "/germany/berlin/berlin/jger-lustig"
-    },
-    {
       "name": "Julius",
       "cuisine": "Creative",
       "price": "€€",
       "path": "/germany/berlin/berlin/julius"
+    },
+    {
+      "name": "Julius Ernst",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/germany/berlin/berlin/julius-ernst"
     },
     {
       "name": "KINK Bar & Restaurant",
@@ -266,22 +396,16 @@
       "path": "/germany/berlin/berlin/kurpfalz-weinstuben"
     },
     {
+      "name": "Li.Ke Thai Vegan",
+      "cuisine": "Vegetarian",
+      "price": "$",
+      "path": "/germany/berlin/berlin/like-thai-vegan"
+    },
+    {
       "name": "Long March Canteen",
       "cuisine": "Chinese, Cantonese",
       "price": "€€",
       "path": "/germany/berlin/berlin/long-march-canteen"
-    },
-    {
-      "name": "Lorenz Adlon Esszimmer",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/lorenz-adlon-esszimmer"
-    },
-    {
-      "name": "Loumi",
-      "cuisine": "International, Asian",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/loumi"
     },
     {
       "name": "Lovis",
@@ -320,12 +444,6 @@
       "path": "/germany/berlin/berlin/mastan"
     },
     {
-      "name": "Matthias",
-      "cuisine": "Modern Cuisine, French",
-      "price": "€€€",
-      "path": "/germany/berlin/berlin/matthias"
-    },
-    {
       "name": "merold",
       "cuisine": "German, Modern Cuisine",
       "price": "€€",
@@ -344,10 +462,10 @@
       "path": "/germany/berlin/berlin/nanum"
     },
     {
-      "name": "Nobelhart & Schmutzig",
-      "cuisine": "Creative, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/nobelhart-schmutzig"
+      "name": "Norms",
+      "cuisine": "Regional Cuisine",
+      "price": "$$$",
+      "path": "/germany/berlin/berlin/norms"
     },
     {
       "name": "November Brasserie",
@@ -383,7 +501,7 @@
       "name": "Otto",
       "cuisine": "Seasonal Cuisine, Modern Cuisine",
       "price": "€€€",
-      "path": "/germany/berlin/berlin/otto"
+      "path": "/germany/berlin/berlin/otto-b-e-r"
     },
     {
       "name": "Oukan",
@@ -392,22 +510,10 @@
       "path": "/germany/berlin/berlin/oukan"
     },
     {
-      "name": "pars Restaurant",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/pars-restaurant"
-    },
-    {
       "name": "POTS",
       "cuisine": "German, Modern Cuisine",
       "price": "€€€",
       "path": "/germany/berlin/berlin/pots"
-    },
-    {
-      "name": "prism",
-      "cuisine": "Israeli, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/prism"
     },
     {
       "name": "Remi",
@@ -419,7 +525,7 @@
       "name": "Restaurant 1687",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
-      "path": "/germany/berlin/berlin/restaurant-1687"
+      "path": "/germany/berlin/berlin/restaurant1687"
     },
     {
       "name": "Richard Bistro",
@@ -428,22 +534,10 @@
       "path": "/germany/berlin/berlin/richard-bistro"
     },
     {
-      "name": "Rutz",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/rutz"
-    },
-    {
       "name": "Rutz - Zollhaus",
       "cuisine": "Modern Cuisine, German",
       "price": "€€",
       "path": "/germany/berlin/berlin/rutz-zollhaus"
-    },
-    {
-      "name": "SKYKITCHEN",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/skykitchen"
     },
     {
       "name": "SWAN&SON",
@@ -464,22 +558,10 @@
       "path": "/germany/berlin/berlin/the-cord"
     },
     {
-      "name": "Tim Raue",
-      "cuisine": "Asian, German",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/tim-raue"
-    },
-    {
       "name": "TISK",
       "cuisine": "Seasonal Cuisine, Modern Cuisine",
       "price": "€€",
       "path": "/germany/berlin/berlin/tisk"
-    },
-    {
-      "name": "tulus lotrek",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€€",
-      "path": "/germany/berlin/berlin/tulus-lotrek"
     },
     {
       "name": "VOX",
@@ -492,54 +574,6 @@
       "cuisine": "Modern Cuisine, Sushi",
       "price": "€€€€",
       "path": "/germany/berlin/berlin/vox-restaurant"
-    },
-    {
-      "name": "CHEZ NASSIB",
-      "cuisine": "Lebanese",
-      "price": "$$",
-      "path": "/germany/berlin/berlin/ChezNassib"
-    },
-    {
-      "name": "Salhino",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/germany/berlin/berlin/Salhino"
-    },
-    {
-      "name": "FUKAGAWA - Fine Dining",
-      "cuisine": "Japanese Contemporary",
-      "price": "$$$$",
-      "path": "/germany/berlin/berlin/FukagawaFineDining"
-    },
-    {
-      "name": "Fukagawa Ramen XBerg",
-      "cuisine": "Ramen",
-      "price": "$",
-      "path": "/germany/berlin/berlin/FukagawaRamenXberg"
-    },
-    {
-      "name": "Julius Ernst",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/germany/berlin/berlin/JuliusErnst"
-    },
-    {
-      "name": "Li.Ke Thai Vegan",
-      "cuisine": "Vegetarian",
-      "price": "$",
-      "path": "/germany/berlin/berlin/LikeThaiVegan"
-    },
-    {
-      "name": "Norms",
-      "cuisine": "Regional Cuisine",
-      "price": "$$$",
-      "path": "/germany/berlin/berlin/Norms"
-    },
-    {
-      "name": "Restaurant Tim Raue",
-      "cuisine": "",
-      "price": "",
-      "path": "/germany/berlin/berlin/RestaurantTimRaue"
     }
   ]
 }

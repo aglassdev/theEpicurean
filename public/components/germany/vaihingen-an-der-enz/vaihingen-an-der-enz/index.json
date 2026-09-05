@@ -1,14 +1,21 @@
 {
-  "title": "Vaihingen An Der Enz",
-  "country": "germany",
-  "region": "vaihingen-an-der-enz",
-  "city": "vaihingen-an-der-enz",
+  "title": "Vaihingen an der Enz",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "vaihingen-an-der-enz",
+  "city": "Vaihingen an der Enz",
+  "citySlug": "vaihingen-an-der-enz",
+  "path": "/germany/vaihingen-an-der-enz/vaihingen-an-der-enz/restaurants",
+  "canonicalPath": "/germany/vaihingen-an-der-enz/vaihingen-an-der-enz/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lamm Rosswag",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/germany/vaihingen-an-der-enz/vaihingen-an-der-enz/lamm-rosswag"
+      "path": "/germany/vaihingen-an-der-enz/vaihingen-an-der-enz/lamm-rosswag",
+      "award": "★"
     }
   ]
 }

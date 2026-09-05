@@ -1,9 +1,22 @@
 {
   "title": "Malmo",
-  "country": "sweden",
-  "region": "malmo",
-  "city": "malmo",
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "region": null,
+  "regionSlug": "malmo",
+  "city": "Malmo",
+  "citySlug": "malmo",
+  "path": "/sweden/malmo/malmo/restaurants",
+  "canonicalPath": "/sweden/malmo/malmo/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Vollmers",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/sweden/malmo/malmo/vollmers",
+      "award": "★★"
+    },
     {
       "name": "aster",
       "cuisine": "Contemporary",
@@ -20,7 +33,7 @@
       "name": "Brasserie Sture 1912",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
-      "path": "/sweden/malmo/malmo/brasserie-sture-1912"
+      "path": "/sweden/malmo/malmo/brasserie-sture1912"
     },
     {
       "name": "Kockeriet",
@@ -57,12 +70,6 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
       "path": "/sweden/malmo/malmo/ruths"
-    },
-    {
-      "name": "Vollmers",
-      "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/sweden/malmo/malmo/vollmers"
     },
     {
       "name": "Västergatan",

@@ -1,8 +1,14 @@
 {
   "title": "Chemnitz",
-  "country": "germany",
-  "region": "chemnitz",
-  "city": "chemnitz",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "chemnitz",
+  "city": "Chemnitz",
+  "citySlug": "chemnitz",
+  "path": "/germany/chemnitz/chemnitz/restaurants",
+  "canonicalPath": "/germany/chemnitz/chemnitz/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "alexxanders",

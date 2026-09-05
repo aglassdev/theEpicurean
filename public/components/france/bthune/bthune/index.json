@@ -1,8 +1,14 @@
 {
   "title": "Bthune",
-  "country": "france",
-  "region": "bthune",
-  "city": "bthune",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bthune",
+  "city": "Bthune",
+  "citySlug": "bthune",
+  "path": "/france/bthune/bthune/restaurants",
+  "canonicalPath": "/france/bthune/bthune/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison Renard",

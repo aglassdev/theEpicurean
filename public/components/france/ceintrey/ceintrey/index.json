@@ -1,8 +1,14 @@
 {
   "title": "Ceintrey",
-  "country": "france",
-  "region": "ceintrey",
-  "city": "ceintrey",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ceintrey",
+  "city": "Ceintrey",
+  "citySlug": "ceintrey",
+  "path": "/france/ceintrey/ceintrey/restaurants",
+  "canonicalPath": "/france/ceintrey/ceintrey/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Cour des Sens",

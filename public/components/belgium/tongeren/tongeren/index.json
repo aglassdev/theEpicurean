@@ -1,29 +1,41 @@
 {
   "title": "Tongeren",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "tongeren",
+  "city": "Tongeren",
+  "citySlug": "tongeren",
+  "path": "/belgium/tongeren/tongeren/restaurants",
+  "canonicalPath": "/belgium/tongeren/tongeren/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Alter",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/belgium/tongeren/tongeren/alter"
+      "path": "/belgium/tongeren/tongeren/alter",
+      "award": "★"
     },
     {
       "name": "De Mijlpaal",
       "cuisine": "Creative, French Contemporary",
       "price": "€€€",
-      "path": "/belgium/tongeren/tongeren/de-mijlpaal"
+      "path": "/belgium/tongeren/tongeren/de-mijlpaal",
+      "award": "★"
     },
     {
       "name": "Magis",
       "cuisine": "Modern Cuisine, French Contemporary",
       "price": "€€€€",
-      "path": "/belgium/tongeren/tongeren/magis"
+      "path": "/belgium/tongeren/tongeren/magis",
+      "award": "★"
     },
     {
       "name": "Hēdonē",
       "cuisine": "Modern French",
       "price": "$$$",
-      "path": "/belgium/tongeren/tongeren/Hdon"
+      "path": "/belgium/tongeren/tongeren/hdon"
     }
   ]
 }

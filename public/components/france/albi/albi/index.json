@@ -1,8 +1,14 @@
 {
   "title": "Albi",
-  "country": "france",
-  "region": "albi",
-  "city": "albi",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "albi",
+  "city": "Albi",
+  "citySlug": "albi",
+  "path": "/france/albi/albi/restaurants",
+  "canonicalPath": "/france/albi/albi/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Alchimy",

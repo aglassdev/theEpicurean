@@ -1,9 +1,36 @@
 {
   "title": "Antibes",
-  "country": "france",
-  "region": "antibes",
-  "city": "antibes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "antibes",
+  "city": "Antibes",
+  "citySlug": "antibes",
+  "path": "/france/antibes/antibes/restaurants",
+  "canonicalPath": "/france/antibes/antibes/restaurants",
+  "count": 10,
   "restaurants": [
+    {
+      "name": "Le Figuier de Saint-Esprit",
+      "cuisine": "Regional Cuisine",
+      "price": "€€€€",
+      "path": "/france/antibes/antibes/le-figuier-de-saintesprit",
+      "award": "★"
+    },
+    {
+      "name": "Les Pêcheurs",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/antibes/antibes/les-pcheurs",
+      "award": "★"
+    },
+    {
+      "name": "Louroc - Hôtel du Cap-Eden-Roc",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/antibes/antibes/louroc-htel-du-capedenroc",
+      "award": "★"
+    },
     {
       "name": "Amarines by Mauro Colagreco",
       "cuisine": "Creative, Mediterranean Cuisine",
@@ -23,28 +50,10 @@
       "path": "/france/antibes/antibes/larazur"
     },
     {
-      "name": "Le Figuier de Saint-Esprit",
-      "cuisine": "Regional Cuisine",
-      "price": "€€€€",
-      "path": "/france/antibes/antibes/le-figuier-de-saint-esprit"
-    },
-    {
       "name": "Le Vauban",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/antibes/antibes/le-vauban"
-    },
-    {
-      "name": "Les Pêcheurs",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/france/antibes/antibes/les-pcheurs"
-    },
-    {
-      "name": "Louroc - Hôtel du Cap-Eden-Roc",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/france/antibes/antibes/louroc-htel-du-cap-eden-roc"
     },
     {
       "name": "Maison de Bacon",

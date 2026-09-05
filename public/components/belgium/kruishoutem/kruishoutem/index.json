@@ -1,17 +1,28 @@
 {
   "title": "Kruishoutem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "kruishoutem",
+  "city": "Kruishoutem",
+  "citySlug": "kruishoutem",
+  "path": "/belgium/kruishoutem/kruishoutem/restaurants",
+  "canonicalPath": "/belgium/kruishoutem/kruishoutem/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Hof van Cleve - Floris Van Der Veken",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/belgium/kruishoutem/kruishoutem/hof-van-cleve-floris-van-der-veken"
+      "path": "/belgium/kruishoutem/kruishoutem/hof-van-cleve-floris-van-der-veken",
+      "award": "★★"
     },
     {
       "name": "Hof van Cleve",
       "cuisine": "",
       "price": "",
-      "path": "/belgium/kruishoutem/kruishoutem/HofVanCleve"
+      "path": "/belgium/kruishoutem/kruishoutem/hof-van-cleve",
+      "award": "World's 50 Best"
     }
   ]
 }

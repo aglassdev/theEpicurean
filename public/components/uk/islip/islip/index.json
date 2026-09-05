@@ -1,8 +1,14 @@
 {
   "title": "Islip",
-  "country": "uk",
-  "region": "islip",
-  "city": "islip",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "islip",
+  "city": "Islip",
+  "citySlug": "islip",
+  "path": "/uk/islip/islip/restaurants",
+  "canonicalPath": "/uk/islip/islip/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Swan Inn",

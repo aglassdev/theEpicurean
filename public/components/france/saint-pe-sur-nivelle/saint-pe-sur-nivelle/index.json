@@ -1,14 +1,21 @@
 {
-  "title": "Saint Pe Sur Nivelle",
-  "country": "france",
-  "region": "saint-pe-sur-nivelle",
-  "city": "saint-pe-sur-nivelle",
+  "title": "Saint Pe sur Nivelle",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-pe-sur-nivelle",
+  "city": "Saint Pe sur Nivelle",
+  "citySlug": "saint-pe-sur-nivelle",
+  "path": "/france/saint-pe-sur-nivelle/saint-pe-sur-nivelle/restaurants",
+  "canonicalPath": "/france/saint-pe-sur-nivelle/saint-pe-sur-nivelle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de Cédric Béchade - L'Auberge Basque",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/saint-pe-sur-nivelle/saint-pe-sur-nivelle/la-table-de-cdric-bchade-lauberge-basque"
+      "path": "/france/saint-pe-sur-nivelle/saint-pe-sur-nivelle/la-table-de-cdric-bchade-lauberge-basque",
+      "award": "★"
     }
   ]
 }

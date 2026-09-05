@@ -1,8 +1,14 @@
 {
   "title": "Bindlach",
-  "country": "germany",
-  "region": "bindlach",
-  "city": "bindlach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bindlach",
+  "city": "Bindlach",
+  "citySlug": "bindlach",
+  "path": "/germany/bindlach/bindlach/restaurants",
+  "canonicalPath": "/germany/bindlach/bindlach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Landhaus Gräfenthal",

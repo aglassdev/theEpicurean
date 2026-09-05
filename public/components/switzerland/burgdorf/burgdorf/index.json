@@ -1,20 +1,27 @@
 {
   "title": "Burgdorf",
-  "country": "switzerland",
-  "region": "burgdorf",
-  "city": "burgdorf",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "burgdorf",
+  "city": "Burgdorf",
+  "citySlug": "burgdorf",
+  "path": "/switzerland/burgdorf/burgdorf/restaurants",
+  "canonicalPath": "/switzerland/burgdorf/burgdorf/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Zur Gedult",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/switzerland/burgdorf/burgdorf/zur-gedult",
+      "award": "★"
+    },
     {
       "name": "Stadthaus",
       "cuisine": "International, Seasonal Cuisine",
       "price": "€€",
       "path": "/switzerland/burgdorf/burgdorf/stadthaus"
-    },
-    {
-      "name": "Zur Gedult",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/switzerland/burgdorf/burgdorf/zur-gedult"
     }
   ]
 }

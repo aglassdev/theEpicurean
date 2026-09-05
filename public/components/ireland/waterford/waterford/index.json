@@ -1,8 +1,14 @@
 {
   "title": "Waterford",
-  "country": "ireland",
-  "region": "waterford",
-  "city": "waterford",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "waterford",
+  "city": "Waterford",
+  "citySlug": "waterford",
+  "path": "/ireland/waterford/waterford/restaurants",
+  "canonicalPath": "/ireland/waterford/waterford/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Everett's",
@@ -14,12 +20,6 @@
       "name": "Mara",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/ireland/waterford/waterford/mara"
-    },
-    {
-      "name": "Mara",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
       "path": "/ireland/waterford/waterford/mara"
     }
   ]

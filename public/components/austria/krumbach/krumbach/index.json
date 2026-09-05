@@ -1,14 +1,20 @@
 {
   "title": "Krumbach",
-  "country": "austria",
-  "region": "krumbach",
-  "city": "krumbach",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "krumbach",
+  "city": "Krumbach",
+  "citySlug": "krumbach",
+  "path": "/austria/krumbach/krumbach/restaurants",
+  "canonicalPath": "/austria/krumbach/krumbach/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gasthof Adler",
       "cuisine": "Seasonal Cuisine, Regional Cuisine",
       "price": "€€",
-      "path": "/austria/krumbach/krumbach/gasthof-adler"
+      "path": "/austria/krumbach/krumbach/gasthof-adler-k-r-u"
     },
     {
       "name": "Schulhus",

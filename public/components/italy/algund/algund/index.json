@@ -1,20 +1,27 @@
 {
   "title": "Algund",
-  "country": "italy",
-  "region": "algund",
-  "city": "algund",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "algund",
+  "city": "Algund",
+  "citySlug": "algund",
+  "path": "/italy/algund/algund/restaurants",
+  "canonicalPath": "/italy/algund/algund/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Luisl Stube",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/algund/algund/luisl-stube",
+      "award": "★"
+    },
     {
       "name": "Blaue Traube",
       "cuisine": "Modern Cuisine, South Tyrolean",
       "price": "€€€€",
       "path": "/italy/algund/algund/blaue-traube"
-    },
-    {
-      "name": "Luisl Stube",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/algund/algund/luisl-stube"
     },
     {
       "name": "Oberlechner",

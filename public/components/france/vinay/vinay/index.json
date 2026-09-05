@@ -1,15 +1,15 @@
 {
   "title": "Vinay",
-  "country": "france",
-  "region": "vinay",
-  "city": "vinay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vinay",
+  "city": "Vinay",
+  "citySlug": "vinay",
+  "path": "/france/vinay/vinay/restaurants",
+  "canonicalPath": "/france/vinay/vinay/restaurants",
+  "count": 1,
   "restaurants": [
-    {
-      "name": "Alcôve",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/vinay/vinay/alcve"
-    },
     {
       "name": "Alcôve",
       "cuisine": "Modern Cuisine",

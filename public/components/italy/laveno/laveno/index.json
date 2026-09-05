@@ -1,8 +1,14 @@
 {
   "title": "Laveno",
-  "country": "italy",
-  "region": "laveno",
-  "city": "laveno",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "laveno",
+  "city": "Laveno",
+  "citySlug": "laveno",
+  "path": "/italy/laveno/laveno/restaurants",
+  "canonicalPath": "/italy/laveno/laveno/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Tavola",

@@ -1,8 +1,14 @@
 {
   "title": "Fouday",
-  "country": "france",
-  "region": "fouday",
-  "city": "fouday",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "fouday",
+  "city": "Fouday",
+  "citySlug": "fouday",
+  "path": "/france/fouday/fouday/restaurants",
+  "canonicalPath": "/france/fouday/fouday/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Julien",

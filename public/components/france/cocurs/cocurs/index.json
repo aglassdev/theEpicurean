@@ -1,8 +1,14 @@
 {
   "title": "Cocurs",
-  "country": "france",
-  "region": "cocurs",
-  "city": "cocurs",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cocurs",
+  "city": "Cocurs",
+  "citySlug": "cocurs",
+  "path": "/france/cocurs/cocurs/restaurants",
+  "canonicalPath": "/france/cocurs/cocurs/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Lozerette",

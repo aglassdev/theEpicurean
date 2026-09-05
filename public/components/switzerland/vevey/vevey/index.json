@@ -1,8 +1,14 @@
 {
   "title": "Vevey",
-  "country": "switzerland",
-  "region": "vevey",
-  "city": "vevey",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "vevey",
+  "city": "Vevey",
+  "citySlug": "vevey",
+  "path": "/switzerland/vevey/vevey/restaurants",
+  "canonicalPath": "/switzerland/vevey/vevey/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "EMOTIONS by Guy Ravet",

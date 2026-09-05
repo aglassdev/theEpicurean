@@ -1,8 +1,14 @@
 {
   "title": "Stavelot",
-  "country": "belgium",
-  "region": "stavelot",
-  "city": "stavelot",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "stavelot",
+  "city": "Stavelot",
+  "citySlug": "stavelot",
+  "path": "/belgium/stavelot/stavelot/restaurants",
+  "canonicalPath": "/belgium/stavelot/stavelot/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Val d'Amblève",

@@ -1,8 +1,14 @@
 {
   "title": "Sauternes",
-  "country": "france",
-  "region": "sauternes",
-  "city": "sauternes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sauternes",
+  "city": "Sauternes",
+  "citySlug": "sauternes",
+  "path": "/france/sauternes/sauternes/restaurants",
+  "canonicalPath": "/france/sauternes/sauternes/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Chapelle de Guiraud",

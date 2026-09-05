@@ -1,14 +1,21 @@
 {
   "title": "Eggenstein Leopoldshafen",
-  "country": "germany",
-  "region": "eggenstein-leopoldshafen",
-  "city": "eggenstein-leopoldshafen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "eggenstein-leopoldshafen",
+  "city": "Eggenstein Leopoldshafen",
+  "citySlug": "eggenstein-leopoldshafen",
+  "path": "/germany/eggenstein-leopoldshafen/eggenstein-leopoldshafen/restaurants",
+  "canonicalPath": "/germany/eggenstein-leopoldshafen/eggenstein-leopoldshafen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Das garbo zum Löwen",
       "cuisine": "Farm to table, Classic French",
       "price": "€€€€",
-      "path": "/germany/eggenstein-leopoldshafen/eggenstein-leopoldshafen/das-garbo-zum-lwen"
+      "path": "/germany/eggenstein-leopoldshafen/eggenstein-leopoldshafen/das-garbo-zum-lwen",
+      "award": "★"
     },
     {
       "name": "Zum Goldenen Anker",

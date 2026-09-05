@@ -1,8 +1,14 @@
 {
   "title": "Val Revermont",
-  "country": "france",
-  "region": "val-revermont",
-  "city": "val-revermont",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "val-revermont",
+  "city": "Val Revermont",
+  "citySlug": "val-revermont",
+  "path": "/france/val-revermont/val-revermont/restaurants",
+  "canonicalPath": "/france/val-revermont/val-revermont/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Voyages des Sens",

@@ -1,8 +1,14 @@
 {
   "title": "La Gacilly",
-  "country": "france",
-  "region": "la-gacilly",
-  "city": "la-gacilly",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-gacilly",
+  "city": "La Gacilly",
+  "citySlug": "la-gacilly",
+  "path": "/france/la-gacilly/la-gacilly/restaurants",
+  "canonicalPath": "/france/la-gacilly/la-gacilly/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Jardins Sauvages - La Grée des Landes",

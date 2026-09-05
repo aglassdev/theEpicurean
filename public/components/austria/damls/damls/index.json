@@ -1,17 +1,26 @@
 {
-  "title": "Damüls",
+  "title": "Damls",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "damls",
+  "city": "Damls",
+  "citySlug": "damls",
+  "path": "/austria/damls/damls/restaurants",
+  "canonicalPath": "/austria/damls/damls/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Löffelspitze",
       "cuisine": "Seasonal Cuisine",
       "price": "$$$$",
-      "path": "/austria/damls/damls/Lffelspitze"
+      "path": "/austria/damls/damls/lffelspitze"
     },
     {
       "name": "Panoramarestaurant",
       "cuisine": "Regional Cuisine",
       "price": "$$",
-      "path": "/austria/damls/damls/Panoramarestaurant"
+      "path": "/austria/damls/damls/panoramarestaurant"
     }
   ]
 }

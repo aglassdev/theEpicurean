@@ -1,20 +1,28 @@
 {
   "title": "Sint Denijs Westrem",
-  "country": "belgium",
-  "region": "sint-denijs-westrem",
-  "city": "sint-denijs-westrem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "sint-denijs-westrem",
+  "city": "Sint Denijs Westrem",
+  "citySlug": "sint-denijs-westrem",
+  "path": "/belgium/sint-denijs-westrem/sint-denijs-westrem/restaurants",
+  "canonicalPath": "/belgium/sint-denijs-westrem/sint-denijs-westrem/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Sensum",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/sint-denijs-westrem/sint-denijs-westrem/sensum"
+      "path": "/belgium/sint-denijs-westrem/sint-denijs-westrem/sensum",
+      "award": "★"
     },
     {
       "name": "Sensum Gent",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/sint-denijs-westrem/sint-denijs-westrem/sensum-gent"
+      "path": "/belgium/sint-denijs-westrem/sint-denijs-westrem/sensum-gent",
+      "award": "★"
     }
   ]
 }

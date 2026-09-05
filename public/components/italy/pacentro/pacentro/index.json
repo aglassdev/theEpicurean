@@ -1,8 +1,14 @@
 {
   "title": "Pacentro",
-  "country": "italy",
-  "region": "pacentro",
-  "city": "pacentro",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pacentro",
+  "city": "Pacentro",
+  "citySlug": "pacentro",
+  "path": "/italy/pacentro/pacentro/restaurants",
+  "canonicalPath": "/italy/pacentro/pacentro/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Taverna dei Caldora",

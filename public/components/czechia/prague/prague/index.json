@@ -1,9 +1,43 @@
 {
   "title": "Prague",
-  "country": "czechia",
-  "region": "prague",
-  "city": "prague",
+  "country": "Czechia",
+  "countrySlug": "czechia",
+  "region": null,
+  "regionSlug": "prague",
+  "city": "Prague",
+  "citySlug": "prague",
+  "path": "/czechia/prague/prague/restaurants",
+  "canonicalPath": "/czechia/prague/prague/restaurants",
+  "count": 44,
   "restaurants": [
+    {
+      "name": "Field",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/czechia/prague/prague/field",
+      "award": "★"
+    },
+    {
+      "name": "La Degustation Bohême Bourgeoise",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/czechia/prague/prague/la-degustation-bohme-bourgeoise",
+      "award": "★"
+    },
+    {
+      "name": "LEVITATE",
+      "cuisine": "Asian Influences, Scandinavian",
+      "price": "€€€€",
+      "path": "/czechia/prague/prague/levitate",
+      "award": "★"
+    },
+    {
+      "name": "Štangl",
+      "cuisine": "Seasonal Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/czechia/prague/prague/tangl",
+      "award": "★"
+    },
     {
       "name": "420 Restaurant",
       "cuisine": "Contemporary, Classic Cuisine",
@@ -14,7 +48,7 @@
       "name": "Alma",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/czechia/prague/prague/alma"
+      "path": "/czechia/prague/prague/alma-p-r-a"
     },
     {
       "name": "Amano",
@@ -68,7 +102,7 @@
       "name": "Coda",
       "cuisine": "Czech, Contemporary",
       "price": "€€€",
-      "path": "/czechia/prague/prague/coda"
+      "path": "/czechia/prague/prague/coda-p-r-a"
     },
     {
       "name": "CottoCrudo",
@@ -80,7 +114,7 @@
       "name": "Dejvická 34 by Tomáš Černý",
       "cuisine": "Italian, Czech",
       "price": "€€",
-      "path": "/czechia/prague/prague/dejvick-34-by-tom-ern"
+      "path": "/czechia/prague/prague/dejvick34-by-tom-ern"
     },
     {
       "name": "Dergi Praha",
@@ -95,12 +129,6 @@
       "path": "/czechia/prague/prague/divinis"
     },
     {
-      "name": "Field",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/czechia/prague/prague/field"
-    },
-    {
       "name": "Grand Cru",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -113,12 +141,6 @@
       "path": "/czechia/prague/prague/kampa-park"
     },
     {
-      "name": "La Degustation Bohême Bourgeoise",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/czechia/prague/prague/la-degustation-bohme-bourgeoise"
-    },
-    {
       "name": "La Finestra in Cucina",
       "cuisine": "Italian",
       "price": "€",
@@ -128,19 +150,13 @@
       "name": "La Veranda",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/czechia/prague/prague/la-veranda"
+      "path": "/czechia/prague/prague/la-veranda-p-r-a"
     },
     {
       "name": "LEAF",
       "cuisine": "Contemporary",
       "price": "€€€",
       "path": "/czechia/prague/prague/leaf"
-    },
-    {
-      "name": "LEVITATE",
-      "cuisine": "Asian Influences, Scandinavian",
-      "price": "€€€€",
-      "path": "/czechia/prague/prague/levitate"
     },
     {
       "name": "Marie B",
@@ -158,7 +174,7 @@
       "name": "Monarch",
       "cuisine": "Meats and Grills",
       "price": "€€€",
-      "path": "/czechia/prague/prague/monarch"
+      "path": "/czechia/prague/prague/monarch-p-r-a"
     },
     {
       "name": "Na Kopci",
@@ -182,13 +198,13 @@
       "name": "Portfolio",
       "cuisine": "International",
       "price": "€",
-      "path": "/czechia/prague/prague/portfolio"
+      "path": "/czechia/prague/prague/portfolio-p-r-a"
     },
     {
       "name": "Pot au Feu",
       "cuisine": "French",
       "price": "€€€",
-      "path": "/czechia/prague/prague/pot-au-feu"
+      "path": "/czechia/prague/prague/pot-au-feu-p-r-a"
     },
     {
       "name": "QQ Asian Kitchen",
@@ -213,12 +229,6 @@
       "cuisine": "International, Seasonal Cuisine",
       "price": "€€€",
       "path": "/czechia/prague/prague/stl"
-    },
-    {
-      "name": "Štangl",
-      "cuisine": "Seasonal Cuisine, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/czechia/prague/prague/tangl"
     },
     {
       "name": "Taro",
@@ -261,12 +271,6 @@
       "cuisine": "Czech, Contemporary",
       "price": "€",
       "path": "/czechia/prague/prague/vep"
-    },
-    {
-      "name": "Yamato",
-      "cuisine": "Japanese",
-      "price": "€€€",
-      "path": "/czechia/prague/prague/yamato"
     },
     {
       "name": "Yamato",

@@ -1,20 +1,27 @@
 {
   "title": "Porticcio",
-  "country": "france",
-  "region": "porticcio",
-  "city": "porticcio",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "porticcio",
+  "city": "Porticcio",
+  "citySlug": "porticcio",
+  "path": "/france/porticcio/porticcio/restaurants",
+  "canonicalPath": "/france/porticcio/porticcio/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Charlie",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/porticcio/porticcio/le-charlie",
+      "award": "★"
+    },
     {
       "name": "L'Arbousier",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
       "path": "/france/porticcio/porticcio/larbousier"
-    },
-    {
-      "name": "Le Charlie",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/porticcio/porticcio/le-charlie"
     }
   ]
 }

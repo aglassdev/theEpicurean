@@ -1,20 +1,27 @@
 {
   "title": "Fisterra",
-  "country": "spain",
-  "region": "fisterra",
-  "city": "fisterra",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "fisterra",
+  "city": "Fisterra",
+  "citySlug": "fisterra",
+  "path": "/spain/fisterra/fisterra/restaurants",
+  "canonicalPath": "/spain/fisterra/fisterra/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Terra",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/fisterra/fisterra/terra-f-i-s",
+      "award": "★"
+    },
     {
       "name": "Ó Fragón",
       "cuisine": "Galician",
       "price": "€€",
       "path": "/spain/fisterra/fisterra/fragn"
-    },
-    {
-      "name": "Terra",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/fisterra/fisterra/terra"
     },
     {
       "name": "Tira do Cordel",

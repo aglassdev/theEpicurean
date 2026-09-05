@@ -1,14 +1,21 @@
 {
-  "title": "Kernen Im Remstal",
-  "country": "germany",
-  "region": "kernen-im-remstal",
-  "city": "kernen-im-remstal",
+  "title": "Kernen im Remstal",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "kernen-im-remstal",
+  "city": "Kernen im Remstal",
+  "citySlug": "kernen-im-remstal",
+  "path": "/germany/kernen-im-remstal/kernen-im-remstal/restaurants",
+  "canonicalPath": "/germany/kernen-im-remstal/kernen-im-remstal/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Malathounis",
       "cuisine": "Mediterranean Cuisine, Greek",
       "price": "€€€",
-      "path": "/germany/kernen-im-remstal/kernen-im-remstal/malathounis"
+      "path": "/germany/kernen-im-remstal/kernen-im-remstal/malathounis",
+      "award": "★"
     },
     {
       "name": "Zum Ochsen",

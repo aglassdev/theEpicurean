@@ -1,8 +1,14 @@
 {
   "title": "Burgwedel",
-  "country": "germany",
-  "region": "burgwedel",
-  "city": "burgwedel",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "burgwedel",
+  "city": "Burgwedel",
+  "citySlug": "burgwedel",
+  "path": "/germany/burgwedel/burgwedel/restaurants",
+  "canonicalPath": "/germany/burgwedel/burgwedel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthaus Lege",

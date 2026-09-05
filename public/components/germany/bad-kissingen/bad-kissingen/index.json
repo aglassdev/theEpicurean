@@ -1,14 +1,21 @@
 {
   "title": "Bad Kissingen",
-  "country": "germany",
-  "region": "bad-kissingen",
-  "city": "bad-kissingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bad-kissingen",
+  "city": "Bad Kissingen",
+  "citySlug": "bad-kissingen",
+  "path": "/germany/bad-kissingen/bad-kissingen/restaurants",
+  "canonicalPath": "/germany/bad-kissingen/bad-kissingen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Laudensacks Gourmet Restaurant",
       "cuisine": "Classic Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/germany/bad-kissingen/bad-kissingen/laudensacks-gourmet-restaurant"
+      "path": "/germany/bad-kissingen/bad-kissingen/laudensacks-gourmet-restaurant",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Lannion",
-  "country": "france",
-  "region": "lannion",
-  "city": "lannion",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lannion",
+  "city": "Lannion",
+  "citySlug": "lannion",
+  "path": "/france/lannion/lannion/restaurants",
+  "canonicalPath": "/france/lannion/lannion/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Anthocyane",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/lannion/lannion/lanthocyane"
+      "path": "/france/lannion/lannion/lanthocyane",
+      "award": "★"
     },
     {
       "name": "Le Brélévenez",

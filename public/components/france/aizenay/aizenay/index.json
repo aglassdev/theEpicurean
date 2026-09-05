@@ -1,8 +1,14 @@
 {
   "title": "Aizenay",
-  "country": "france",
-  "region": "aizenay",
-  "city": "aizenay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "aizenay",
+  "city": "Aizenay",
+  "citySlug": "aizenay",
+  "path": "/france/aizenay/aizenay/restaurants",
+  "canonicalPath": "/france/aizenay/aizenay/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Sittelle",

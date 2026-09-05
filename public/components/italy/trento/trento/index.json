@@ -1,8 +1,14 @@
 {
   "title": "Trento",
-  "country": "italy",
-  "region": "trento",
-  "city": "trento",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "trento",
+  "city": "Trento",
+  "citySlug": "trento",
+  "path": "/italy/trento/trento/restaurants",
+  "canonicalPath": "/italy/trento/trento/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Augurio",
@@ -14,7 +20,7 @@
       "name": "Il Sommelier",
       "cuisine": "Italian Contemporary, Seafood",
       "price": "€€€",
-      "path": "/italy/trento/trento/il-sommelier"
+      "path": "/italy/trento/trento/il-sommelier-t-r-e"
     },
     {
       "name": "La Maison de Filip",

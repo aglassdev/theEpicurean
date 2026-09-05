@@ -1,14 +1,21 @@
 {
   "title": "Ghirlanda",
-  "country": "italy",
-  "region": "ghirlanda",
-  "city": "ghirlanda",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ghirlanda",
+  "city": "Ghirlanda",
+  "citySlug": "ghirlanda",
+  "path": "/italy/ghirlanda/ghirlanda/restaurants",
+  "canonicalPath": "/italy/ghirlanda/ghirlanda/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bracali",
       "cuisine": "Italian Contemporary, Creative",
       "price": "€€€€",
-      "path": "/italy/ghirlanda/ghirlanda/bracali"
+      "path": "/italy/ghirlanda/ghirlanda/bracali",
+      "award": "★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Brno",
-  "country": "czechia",
-  "region": "brno",
-  "city": "brno",
+  "country": "Czechia",
+  "countrySlug": "czechia",
+  "region": null,
+  "regionSlug": "brno",
+  "city": "Brno",
+  "citySlug": "brno",
+  "path": "/czechia/brno/brno/restaurants",
+  "canonicalPath": "/czechia/brno/brno/restaurants",
+  "count": 7,
   "restaurants": [
     {
       "name": "ATELIER bar & bistro",

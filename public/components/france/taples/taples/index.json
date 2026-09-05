@@ -1,14 +1,20 @@
 {
   "title": "Taples",
-  "country": "france",
-  "region": "taples",
-  "city": "taples",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "taples",
+  "city": "Taples",
+  "citySlug": "taples",
+  "path": "/france/taples/taples/restaurants",
+  "canonicalPath": "/france/taples/taples/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Racines",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/taples/taples/racines"
+      "path": "/france/taples/taples/racines-t-a-p"
     }
   ]
 }

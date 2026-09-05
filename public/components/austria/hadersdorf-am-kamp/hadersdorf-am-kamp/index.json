@@ -1,14 +1,21 @@
 {
-  "title": "Hadersdorf Am Kamp",
-  "country": "austria",
-  "region": "hadersdorf-am-kamp",
-  "city": "hadersdorf-am-kamp",
+  "title": "Hadersdorf am Kamp",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "hadersdorf-am-kamp",
+  "city": "Hadersdorf am Kamp",
+  "citySlug": "hadersdorf-am-kamp",
+  "path": "/austria/hadersdorf-am-kamp/hadersdorf-am-kamp/restaurants",
+  "canonicalPath": "/austria/hadersdorf-am-kamp/hadersdorf-am-kamp/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Esslokal",
       "cuisine": "Contemporary",
       "price": "€€€€",
-      "path": "/austria/hadersdorf-am-kamp/hadersdorf-am-kamp/esslokal"
+      "path": "/austria/hadersdorf-am-kamp/hadersdorf-am-kamp/esslokal",
+      "award": "★"
     }
   ]
 }

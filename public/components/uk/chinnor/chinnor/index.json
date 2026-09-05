@@ -1,8 +1,14 @@
 {
   "title": "Chinnor",
-  "country": "uk",
-  "region": "chinnor",
-  "city": "chinnor",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "chinnor",
+  "city": "Chinnor",
+  "citySlug": "chinnor",
+  "path": "/uk/chinnor/chinnor/restaurants",
+  "canonicalPath": "/uk/chinnor/chinnor/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sir Charles Napier",

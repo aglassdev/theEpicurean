@@ -1,8 +1,14 @@
 {
   "title": "Shrewsbury",
-  "country": "uk",
-  "region": "shrewsbury",
-  "city": "shrewsbury",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "shrewsbury",
+  "city": "Shrewsbury",
+  "citySlug": "shrewsbury",
+  "path": "/uk/shrewsbury/shrewsbury/restaurants",
+  "canonicalPath": "/uk/shrewsbury/shrewsbury/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Walrus",

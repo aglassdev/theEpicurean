@@ -1,8 +1,14 @@
 {
   "title": "Courmayeur",
-  "country": "italy",
-  "region": "courmayeur",
-  "city": "courmayeur",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "courmayeur",
+  "city": "Courmayeur",
+  "citySlug": "courmayeur",
+  "path": "/italy/courmayeur/courmayeur/restaurants",
+  "canonicalPath": "/italy/courmayeur/courmayeur/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Bistrot Royal",
@@ -20,7 +26,7 @@
       "name": "Pierre Alexis 1877",
       "cuisine": "Traditional Cuisine, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/courmayeur/courmayeur/pierre-alexis-1877"
+      "path": "/italy/courmayeur/courmayeur/pierre-alexis1877"
     }
   ]
 }

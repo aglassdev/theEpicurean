@@ -1,11 +1,20 @@
 {
   "title": "Jisp",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "jisp",
+  "city": "Jisp",
+  "citySlug": "jisp",
+  "path": "/netherlands/jisp/jisp/restaurants",
+  "canonicalPath": "/netherlands/jisp/jisp/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "De Lepelaar",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/netherlands/jisp/jisp/DeLepelaar"
+      "path": "/netherlands/jisp/jisp/de-lepelaar"
     }
   ]
 }

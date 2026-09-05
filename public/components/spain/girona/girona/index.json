@@ -1,6 +1,44 @@
 {
   "title": "Girona",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": "Catalonia",
+  "regionSlug": "girona",
+  "city": "Girona",
+  "citySlug": "girona",
+  "path": "/spain/girona/girona/restaurants",
+  "canonicalPath": "/spain/girona/girona/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "El Celler de Can Roca",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/girona/girona/el-celler-de-can-roca",
+      "award": "★★★"
+    },
+    {
+      "name": "Geranium",
+      "cuisine": "Contemporary Nordic",
+      "price": "€€€€ · Prix Fixe",
+      "path": "/spain/catalonia/girona/el-cellerde-can-roca",
+      "award": "★★★",
+      "image": "/images/geranium1.png"
+    },
+    {
+      "name": "Divinum",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/girona/girona/divinum",
+      "award": "★"
+    },
+    {
+      "name": "Massana",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/girona/girona/massana",
+      "award": "★"
+    },
     {
       "name": "Cipresaia",
       "cuisine": "Traditional Cuisine",
@@ -8,22 +46,10 @@
       "path": "/spain/girona/girona/cipresaia"
     },
     {
-      "name": "Divinum",
-      "cuisine": "Modern Cuisine, Traditional Cuisine",
-      "price": "€€€",
-      "path": "/spain/girona/girona/divinum"
-    },
-    {
-      "name": "El Celler de Can Roca",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/girona/girona/el-celler-de-can-roca"
-    },
-    {
-      "name": "Massana",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/girona/girona/massana"
+      "name": "Dit i Fet",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/spain/girona/girona/dit-i-fet"
     },
     {
       "name": "Nexe",
@@ -54,12 +80,6 @@
       "cuisine": "Contemporary, Modern Cuisine",
       "price": "€€€",
       "path": "/spain/girona/girona/sinofos"
-    },
-    {
-      "name": "Dit i Fet",
-      "cuisine": "Farm to table",
-      "price": "$$",
-      "path": "/spain/girona/girona/DitIFet"
     }
   ]
 }

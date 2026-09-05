@@ -1,8 +1,14 @@
 {
   "title": "Nrac",
-  "country": "france",
-  "region": "nrac",
-  "city": "nrac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "nrac",
+  "city": "Nrac",
+  "citySlug": "nrac",
+  "path": "/france/nrac/nrac/restaurants",
+  "canonicalPath": "/france/nrac/nrac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mr Guss",

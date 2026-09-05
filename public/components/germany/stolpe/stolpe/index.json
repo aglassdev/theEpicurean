@@ -1,8 +1,14 @@
 {
   "title": "Stolpe",
-  "country": "germany",
-  "region": "stolpe",
-  "city": "stolpe",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "stolpe",
+  "city": "Stolpe",
+  "citySlug": "stolpe",
+  "path": "/germany/stolpe/stolpe/restaurants",
+  "canonicalPath": "/germany/stolpe/stolpe/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Kurt im Gutshaus",

@@ -1,11 +1,20 @@
 {
   "title": "Korneuburg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "korneuburg",
+  "city": "Korneuburg",
+  "citySlug": "korneuburg",
+  "path": "/austria/korneuburg/korneuburg/restaurants",
+  "canonicalPath": "/austria/korneuburg/korneuburg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Tuttendörfl",
       "cuisine": "Classic Cuisine",
       "price": "$$",
-      "path": "/austria/korneuburg/korneuburg/Tuttendrfl"
+      "path": "/austria/korneuburg/korneuburg/tuttendrfl"
     }
   ]
 }

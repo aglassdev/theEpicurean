@@ -1,11 +1,20 @@
 {
   "title": "County Mayo",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": "Ireland",
+  "regionSlug": "ireland",
+  "city": "County Mayo",
+  "citySlug": "county-mayo",
+  "path": "/ireland/ireland/county-mayo/restaurants",
+  "canonicalPath": "/ireland/ireland/county-mayo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ashford Castle",
       "cuisine": "Afternoon Tea",
       "price": "75.00",
-      "path": "/ireland/ireland/county-mayo/AshfordCastle"
+      "path": "/ireland/ireland/county-mayo/ashford-castle"
     }
   ]
 }

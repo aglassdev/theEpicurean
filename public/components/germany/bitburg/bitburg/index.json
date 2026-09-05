@@ -1,8 +1,14 @@
 {
   "title": "Bitburg",
-  "country": "germany",
-  "region": "bitburg",
-  "city": "bitburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bitburg",
+  "city": "Bitburg",
+  "citySlug": "bitburg",
+  "path": "/germany/bitburg/bitburg/restaurants",
+  "canonicalPath": "/germany/bitburg/bitburg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Zum Simonbräu",

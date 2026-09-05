@@ -1,26 +1,27 @@
 {
   "title": "Elche",
-  "country": "spain",
-  "region": "elche",
-  "city": "elche",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "elche",
+  "city": "Elche",
+  "citySlug": "elche",
+  "path": "/spain/elche/elche/restaurants",
+  "canonicalPath": "/spain/elche/elche/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "La Finca",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/elche/elche/la-finca",
+      "award": "★"
+    },
     {
       "name": "Frisone",
       "cuisine": "Traditional Cuisine, Contemporary",
       "price": "€€",
       "path": "/spain/elche/elche/frisone"
-    },
-    {
-      "name": "La Finca",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/elche/elche/la-finca"
-    },
-    {
-      "name": "La Finca",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/elche/elche/la-finca"
     },
     {
       "name": "La Masía de Chencho",

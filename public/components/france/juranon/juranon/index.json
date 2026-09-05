@@ -1,14 +1,20 @@
 {
   "title": "Juranon",
-  "country": "france",
-  "region": "juranon",
-  "city": "juranon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "juranon",
+  "city": "Juranon",
+  "citySlug": "juranon",
+  "path": "/france/juranon/juranon/restaurants",
+  "canonicalPath": "/france/juranon/juranon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Flaveurs - Domaine Mont-Riant",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/juranon/juranon/flaveurs-domaine-mont-riant"
+      "path": "/france/juranon/juranon/flaveurs-domaine-montriant"
     }
   ]
 }

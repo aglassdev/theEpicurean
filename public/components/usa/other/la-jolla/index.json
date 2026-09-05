@@ -1,0 +1,45 @@
+{
+  "title": "La Jolla",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "La Jolla",
+  "citySlug": "la-jolla",
+  "path": "/usa/other/la-jolla/restaurants",
+  "canonicalPath": "/usa/california/la-jolla/restaurants",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "Lucien",
+      "cuisine": "Californian",
+      "price": "$$$$",
+      "path": "/usa/california/la-jolla/lucien",
+      "award": "★"
+    },
+    {
+      "name": "A.R. Valentien",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/la-jolla/ar-valentien"
+    },
+    {
+      "name": "Catania",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/usa/california/la-jolla/catania"
+    },
+    {
+      "name": "Himitsu",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$",
+      "path": "/usa/california/la-jolla/himitsu"
+    },
+    {
+      "name": "Nine-Ten",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/la-jolla/nineten"
+    }
+  ]
+}

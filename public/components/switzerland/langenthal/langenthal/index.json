@@ -1,14 +1,20 @@
 {
   "title": "Langenthal",
-  "country": "switzerland",
-  "region": "langenthal",
-  "city": "langenthal",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "langenthal",
+  "city": "Langenthal",
+  "citySlug": "langenthal",
+  "path": "/switzerland/langenthal/langenthal/restaurants",
+  "canonicalPath": "/switzerland/langenthal/langenthal/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Auberge",
       "cuisine": "Modern French, Mediterranean Cuisine",
       "price": "€€",
-      "path": "/switzerland/langenthal/langenthal/lauberge"
+      "path": "/switzerland/langenthal/langenthal/lauberge-l-a-n"
     }
   ]
 }

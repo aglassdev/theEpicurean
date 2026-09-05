@@ -1,14 +1,21 @@
 {
-  "title": "La Roche Sur Yon",
-  "country": "france",
-  "region": "la-roche-sur-yon",
-  "city": "la-roche-sur-yon",
+  "title": "La Roche sur Yon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-roche-sur-yon",
+  "city": "La Roche sur Yon",
+  "citySlug": "la-roche-sur-yon",
+  "path": "/france/la-roche-sur-yon/la-roche-sur-yon/restaurants",
+  "canonicalPath": "/france/la-roche-sur-yon/la-roche-sur-yon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Reflets",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/la-roche-sur-yon/la-roche-sur-yon/les-reflets"
+      "path": "/france/la-roche-sur-yon/la-roche-sur-yon/les-reflets",
+      "award": "★"
     }
   ]
 }

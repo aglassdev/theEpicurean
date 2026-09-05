@@ -1,8 +1,14 @@
 {
   "title": "Bezannes",
-  "country": "france",
-  "region": "bezannes",
-  "city": "bezannes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bezannes",
+  "city": "Bezannes",
+  "citySlug": "bezannes",
+  "path": "/france/bezannes/bezannes/restaurants",
+  "canonicalPath": "/france/bezannes/bezannes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bouche B",

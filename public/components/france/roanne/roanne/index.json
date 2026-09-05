@@ -1,8 +1,14 @@
 {
   "title": "Roanne",
-  "country": "france",
-  "region": "roanne",
-  "city": "roanne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "roanne",
+  "city": "Roanne",
+  "citySlug": "roanne",
+  "path": "/france/roanne/roanne/restaurants",
+  "canonicalPath": "/france/roanne/roanne/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Le Central",
@@ -20,7 +26,7 @@
       "name": "Oma",
       "cuisine": "Modern Cuisine",
       "price": "€",
-      "path": "/france/roanne/roanne/oma"
+      "path": "/france/roanne/roanne/oma-r-o-a"
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "title": "Arcadia",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Arcadia",
+  "citySlug": "arcadia",
+  "path": "/usa/other/arcadia/restaurants",
+  "canonicalPath": "/usa/california/arcadia/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Chef Tony",
+      "cuisine": "Chinese, Dim Sum",
+      "price": "$$",
+      "path": "/usa/california/arcadia/chef-tony"
+    },
+    {
+      "name": "LaoXi Noodle House",
+      "cuisine": "Chinese, Regional Cuisine",
+      "price": "$",
+      "path": "/usa/california/arcadia/laoxi-noodle-house"
+    },
+    {
+      "name": "Sushi Kisen",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$",
+      "path": "/usa/california/arcadia/sushi-kisen"
+    }
+  ]
+}

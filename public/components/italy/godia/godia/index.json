@@ -1,14 +1,21 @@
 {
   "title": "Godia",
-  "country": "italy",
-  "region": "godia",
-  "city": "godia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "godia",
+  "city": "Godia",
+  "citySlug": "godia",
+  "path": "/italy/godia/godia/restaurants",
+  "canonicalPath": "/italy/godia/godia/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Agli Amici",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/italy/godia/godia/agli-amici"
+      "path": "/italy/godia/godia/agli-amici",
+      "award": "★★"
     }
   ]
 }

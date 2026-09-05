@@ -1,14 +1,21 @@
 {
   "title": "Auchterarder",
-  "country": "uk",
-  "region": "auchterarder",
-  "city": "auchterarder",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "auchterarder",
+  "city": "Auchterarder",
+  "citySlug": "auchterarder",
+  "path": "/uk/auchterarder/auchterarder/restaurants",
+  "canonicalPath": "/uk/auchterarder/auchterarder/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Andrew Fairlie",
       "cuisine": "Modern French",
       "price": "££££",
-      "path": "/uk/auchterarder/auchterarder/restaurant-andrew-fairlie"
+      "path": "/uk/auchterarder/auchterarder/restaurant-andrew-fairlie",
+      "award": "★★"
     }
   ]
 }

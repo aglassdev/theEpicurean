@@ -1,14 +1,21 @@
 {
   "title": "Nova Gorica",
-  "country": "slovenia",
-  "region": "nova-gorica",
-  "city": "nova-gorica",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "nova-gorica",
+  "city": "Nova Gorica",
+  "citySlug": "nova-gorica",
+  "path": "/slovenia/nova-gorica/nova-gorica/restaurants",
+  "canonicalPath": "/slovenia/nova-gorica/nova-gorica/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Dam",
       "cuisine": "Modern Cuisine, Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/slovenia/nova-gorica/nova-gorica/dam"
+      "path": "/slovenia/nova-gorica/nova-gorica/dam",
+      "award": "★"
     },
     {
       "name": "Restavracija Calypso",

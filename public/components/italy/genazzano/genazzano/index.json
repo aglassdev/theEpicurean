@@ -1,14 +1,21 @@
 {
   "title": "Genazzano",
-  "country": "italy",
-  "region": "genazzano",
-  "city": "genazzano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "genazzano",
+  "city": "Genazzano",
+  "citySlug": "genazzano",
+  "path": "/italy/genazzano/genazzano/restaurants",
+  "canonicalPath": "/italy/genazzano/genazzano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Marco Bottega Ristorante",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/italy/genazzano/genazzano/marco-bottega-ristorante"
+      "path": "/italy/genazzano/genazzano/marco-bottega-ristorante",
+      "award": "★"
     }
   ]
 }

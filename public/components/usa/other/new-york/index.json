@@ -1,41 +1,1891 @@
 {
   "title": "New York",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "New York",
+  "regionSlug": "other",
+  "city": "New York",
+  "citySlug": "new-york",
+  "path": "/usa/other/new-york/restaurants",
+  "canonicalPath": "/usa/other/new-york/restaurants",
+  "count": 300,
   "restaurants": [
     {
-      "name": "Vong",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/other/new-york/Vong"
+      "name": "Eleven Madison Park",
+      "cuisine": "Contemporary, Vegan",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/eleven-madison-park",
+      "award": "★★★"
+    },
+    {
+      "name": "Jungsik New York",
+      "cuisine": "Korean, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/jungsik-new-york",
+      "award": "★★★"
+    },
+    {
+      "name": "Le Bernardin",
+      "cuisine": "Seafood",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/le-bernardin",
+      "award": "★★★"
+    },
+    {
+      "name": "Masa",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/masa",
+      "award": "★★★"
+    },
+    {
+      "name": "Per Se",
+      "cuisine": "Contemporary, French",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/per-se",
+      "award": "★★★"
+    },
+    {
+      "name": "Sushi Sho",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/sushi-sho-n-e-w",
+      "award": "★★★"
+    },
+    {
+      "name": "Aquavit",
+      "cuisine": "Scandinavian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/aquavit",
+      "award": "★★"
+    },
+    {
+      "name": "Atera",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/atera",
+      "award": "★★"
+    },
+    {
+      "name": "Atomix",
+      "cuisine": "Korean, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/atomix",
+      "award": "★★"
+    },
+    {
+      "name": "César",
+      "cuisine": "Contemporary, Seafood",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/csar",
+      "award": "★★"
+    },
+    {
+      "name": "Chef's Table at Brooklyn Fare",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/chefs-table-at-brooklyn-fare",
+      "award": "★★"
+    },
+    {
+      "name": "Gabriel Kreuther",
+      "cuisine": "Contemporary, Alsatian",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/gabriel-kreuther",
+      "award": "★★"
+    },
+    {
+      "name": "Jean-Georges",
+      "cuisine": "Contemporary, French Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/jeangeorges",
+      "award": "★★"
+    },
+    {
+      "name": "odo",
+      "cuisine": "Japanese, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/odo",
+      "award": "★★"
+    },
+    {
+      "name": "Saga",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/saga",
+      "award": "★★"
+    },
+    {
+      "name": "Sushi Noz",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/sushi-noz",
+      "award": "★★"
+    },
+    {
+      "name": "The Modern",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/the-modern",
+      "award": "★★"
+    },
+    {
+      "name": "63 Clinton",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/63-clinton",
+      "award": "★"
+    },
+    {
+      "name": "Bar Miller",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/bar-miller",
+      "award": "★"
+    },
+    {
+      "name": "bōm",
+      "cuisine": "Korean, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/bm",
+      "award": "★"
+    },
+    {
+      "name": "Bridges",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/bridges-n-e-w",
+      "award": "★"
+    },
+    {
+      "name": "Café Boulud",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/caf-boulud",
+      "award": "★"
+    },
+    {
+      "name": "Casa Mono",
+      "cuisine": "Spanish, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/casa-mono",
+      "award": "★"
+    },
+    {
+      "name": "Corima",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/corima",
+      "award": "★"
+    },
+    {
+      "name": "Cote",
+      "cuisine": "Korean, Steakhouse",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/cote",
+      "award": "★"
+    },
+    {
+      "name": "Crown Shy",
+      "cuisine": "Contemporary, American",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/crown-shy",
+      "award": "★"
+    },
+    {
+      "name": "Daniel",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/daniel",
+      "award": "★"
+    },
+    {
+      "name": "Dirt Candy",
+      "cuisine": "Vegetarian, Vegan",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/dirt-candy",
+      "award": "★"
+    },
+    {
+      "name": "Essential by Christophe",
+      "cuisine": "French Contemporary, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/essential-by-christophe",
+      "award": "★"
+    },
+    {
+      "name": "Estela",
+      "cuisine": "Contemporary, American",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/estela",
+      "award": "★"
+    },
+    {
+      "name": "Family Meal at Blue Hill",
+      "cuisine": "American",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/family-meal-at-blue-hill",
+      "award": "★"
+    },
+    {
+      "name": "Frevo",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/frevo",
+      "award": "★"
+    },
+    {
+      "name": "Gramercy Tavern",
+      "cuisine": "Contemporary, American",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/gramercy-tavern",
+      "award": "★"
+    },
+    {
+      "name": "Huso",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/huso",
+      "award": "★"
+    },
+    {
+      "name": "Icca",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/icca",
+      "award": "★"
+    },
+    {
+      "name": "Jeju Noodle Bar",
+      "cuisine": "Korean",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/jeju-noodle-bar",
+      "award": "★"
+    },
+    {
+      "name": "Jōji",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/jji",
+      "award": "★"
+    },
+    {
+      "name": "Joo Ok",
+      "cuisine": "Korean, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/joo-ok",
+      "award": "★"
+    },
+    {
+      "name": "Jua",
+      "cuisine": "Korean, Korean Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/jua",
+      "award": "★"
+    },
+    {
+      "name": "Kochi",
+      "cuisine": "Korean, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/kochi",
+      "award": "★"
+    },
+    {
+      "name": "Kosaka",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/kosaka",
+      "award": "★"
+    },
+    {
+      "name": "L’Abeille",
+      "cuisine": "French, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/labeille",
+      "award": "★"
+    },
+    {
+      "name": "Le Coucou",
+      "cuisine": "French, Classic French",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/le-coucou",
+      "award": "★"
+    },
+    {
+      "name": "Le Pavillon",
+      "cuisine": "Contemporary, French",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/le-pavillon-n-e-w",
+      "award": "★"
+    },
+    {
+      "name": "Mari",
+      "cuisine": "Korean",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/mari",
+      "award": "★"
+    },
+    {
+      "name": "Muku",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/muku",
+      "award": "★"
+    },
+    {
+      "name": "Noda",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/noda",
+      "award": "★"
+    },
+    {
+      "name": "Nōksu",
+      "cuisine": "Contemporary, Korean",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/nksu",
+      "award": "★"
+    },
+    {
+      "name": "Noz 17",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/noz17",
+      "award": "★"
+    },
+    {
+      "name": "Oiji Mi",
+      "cuisine": "Korean, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/oiji-mi",
+      "award": "★"
+    },
+    {
+      "name": "One White Street",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/one-white-street",
+      "award": "★"
+    },
+    {
+      "name": "Red Paper Clip",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/red-paper-clip",
+      "award": "★"
+    },
+    {
+      "name": "Rezdôra",
+      "cuisine": "Italian, Regional Cuisine",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/rezdra",
+      "award": "★"
+    },
+    {
+      "name": "Semma",
+      "cuisine": "Indian, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/semma",
+      "award": "★"
+    },
+    {
+      "name": "Shion 69 Leonard Street",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/shion69-leonard-street",
+      "award": "★"
+    },
+    {
+      "name": "Shmoné",
+      "cuisine": "Israeli, Middle Eastern",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/shmon",
+      "award": "★"
+    },
+    {
+      "name": "Sixty Three Clinton",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/new-york/new-york/sixty-three-clinton",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Amane",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/sushi-amane",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Ichimura",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/sushi-ichimura",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Nakazawa",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/sushi-nakazawa",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Nakazawa New York",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/sushi-nakazawa-new-york",
+      "award": "★"
+    },
+    {
+      "name": "Tempura Matsui",
+      "cuisine": "Japanese, Tempura",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/tempura-matsui",
+      "award": "★"
+    },
+    {
+      "name": "The Musket Room",
+      "cuisine": "Contemporary, American Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/the-musket-room",
+      "award": "★"
+    },
+    {
+      "name": "Torien",
+      "cuisine": "Japanese, Yakitori",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/torien",
+      "award": "★"
+    },
+    {
+      "name": "Torrisi",
+      "cuisine": "Contemporary, Italian-American",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/torrisi",
+      "award": "★"
+    },
+    {
+      "name": "Tsukimi",
+      "cuisine": "Japanese, Seasonal Cuisine",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/tsukimi",
+      "award": "★"
+    },
+    {
+      "name": "Tuome",
+      "cuisine": "Fusion, Asian Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/tuome",
+      "award": "★"
+    },
+    {
+      "name": "Yamada",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/yamada",
+      "award": "★"
+    },
+    {
+      "name": "YingTao",
+      "cuisine": "Contemporary, Chinese",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/yingtao",
+      "award": "★"
+    },
+    {
+      "name": "Yoshino",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/yoshino",
+      "award": "★"
     },
     {
       "name": "Balthazar",
       "cuisine": "",
       "price": "",
-      "path": "/usa/other/new-york/Balthazar"
+      "path": "/usa/other/new-york/balthazar",
+      "award": "World's 50 Best"
     },
     {
       "name": "Craft",
       "cuisine": "",
       "price": "",
-      "path": "/usa/other/new-york/Craft"
-    },
-    {
-      "name": "WD~50",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/other/new-york/Wd50"
-    },
-    {
-      "name": "Spice Market",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/other/new-york/SpiceMarket"
+      "path": "/usa/other/new-york/craft",
+      "award": "World's 50 Best"
     },
     {
       "name": "Momofuku Ssäm Bar",
       "cuisine": "",
       "price": "",
-      "path": "/usa/other/new-york/MomofukuSsmBar"
+      "path": "/usa/other/new-york/momofuku-ssm-bar",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Spice Market",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/other/new-york/spice-market",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Vong",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/other/new-york/vong",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "WD~50",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/other/new-york/wd50",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Chalong Southern Thai",
+      "cuisine": "Thai",
+      "price": "$$$",
+      "path": "/usa/new-york/new-york/chalong-southern-thai",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "4 Charles Prime Rib",
+      "cuisine": "Steakhouse",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/4-charles-prime-rib"
+    },
+    {
+      "name": "53",
+      "cuisine": "Asian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/53"
+    },
+    {
+      "name": "8282",
+      "cuisine": "Korean, Fusion",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/8282"
+    },
+    {
+      "name": "abcV",
+      "cuisine": "Vegetarian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/abcv"
+    },
+    {
+      "name": "Acru",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/acru"
+    },
+    {
+      "name": "Adda",
+      "cuisine": "Indian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/adda"
+    },
+    {
+      "name": "Ai Fiori",
+      "cuisine": "Italian, French",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/ai-fiori"
+    },
+    {
+      "name": "Altro Paradiso",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/altro-paradiso"
+    },
+    {
+      "name": "Ariari",
+      "cuisine": "Korean, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/ariari"
+    },
+    {
+      "name": "aRoqa",
+      "cuisine": "Indian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/aroqa"
+    },
+    {
+      "name": "Atla",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/atla"
+    },
+    {
+      "name": "Atoboy",
+      "cuisine": "Korean, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/atoboy"
+    },
+    {
+      "name": "Avant Garden",
+      "cuisine": "Vegan",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/avant-garden"
+    },
+    {
+      "name": "Ballato",
+      "cuisine": "Italian-American, Italian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/ballato"
+    },
+    {
+      "name": "Bangkok Supper Club",
+      "cuisine": "Thai",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/bangkok-supper-club"
+    },
+    {
+      "name": "Bánh Anh Em",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/bnh-anh-em"
+    },
+    {
+      "name": "Barawine",
+      "cuisine": "Contemporary, French Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/barawine"
+    },
+    {
+      "name": "Bartolo",
+      "cuisine": "Spanish",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/bartolo"
+    },
+    {
+      "name": "Bayon",
+      "cuisine": "Cambodian",
+      "price": "$",
+      "path": "/usa/newyork/new-york/bayon"
+    },
+    {
+      "name": "Benoit",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/benoit-n-e-w"
+    },
+    {
+      "name": "Bistrot Ha",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/new-york/new-york/bistrot-ha"
+    },
+    {
+      "name": "Bohemian Spirit",
+      "cuisine": "Czech",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/bohemian-spirit"
+    },
+    {
+      "name": "Bungalow",
+      "cuisine": "Indian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/bungalow"
+    },
+    {
+      "name": "C as in Charlie",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/c-as-in-charlie"
+    },
+    {
+      "name": "Cadence",
+      "cuisine": "Vegan, Southern",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/cadence"
+    },
+    {
+      "name": "Café Carmellini",
+      "cuisine": "Mediterranean Cuisine, American",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/caf-carmellini"
+    },
+    {
+      "name": "Cafe Commerce",
+      "cuisine": "American, French Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/cafe-commerce"
+    },
+    {
+      "name": "Cafe Sabarsky",
+      "cuisine": "Austrian",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/cafe-sabarsky"
+    },
+    {
+      "name": "Carbone",
+      "cuisine": "Italian, Italian-American",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/carbone-n-e-w"
+    },
+    {
+      "name": "Carlotto",
+      "cuisine": "Contemporary, Italian-American",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/carlotto"
+    },
+    {
+      "name": "Carne Mare",
+      "cuisine": "Steakhouse, Italian",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/carne-mare"
+    },
+    {
+      "name": "Casa Dani",
+      "cuisine": "Spanish, Seafood",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/casa-dani"
+    },
+    {
+      "name": "Caviar Russe",
+      "cuisine": "Contemporary, Seafood",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/caviar-russe"
+    },
+    {
+      "name": "Cervo’s",
+      "cuisine": "Spanish, Seafood",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/cervos"
+    },
+    {
+      "name": "Cha Kee",
+      "cuisine": "Asian",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/cha-kee"
+    },
+    {
+      "name": "Chalong",
+      "cuisine": "Thai, Southern Thai",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/chalong"
+    },
+    {
+      "name": "Chama Mama",
+      "cuisine": "Central Asian",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/chama-mama"
+    },
+    {
+      "name": "Chambers",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/chambers"
+    },
+    {
+      "name": "CheLi",
+      "cuisine": "Chinese, Shanghainese",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/cheli"
+    },
+    {
+      "name": "Chez Fifi",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/chez-fifi"
+    },
+    {
+      "name": "Chick Chick",
+      "cuisine": "Asian, Chicken Specialities",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/chick-chick"
+    },
+    {
+      "name": "Cho Dang Gol",
+      "cuisine": "Korean",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/cho-dang-gol"
+    },
+    {
+      "name": "Chola",
+      "cuisine": "Indian, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/chola"
+    },
+    {
+      "name": "Ci Siamo",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/ci-siamo"
+    },
+    {
+      "name": "Claud",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/claud"
+    },
+    {
+      "name": "Comal",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/comal-n-e-w"
+    },
+    {
+      "name": "Community Food & Juice",
+      "cuisine": "American, Contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/community-food-juice"
+    },
+    {
+      "name": "Cómodo",
+      "cuisine": "Latin American, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/cmodo"
+    },
+    {
+      "name": "Coqodaq",
+      "cuisine": "Korean",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/coqodaq"
+    },
+    {
+      "name": "Cosme",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/cosme"
+    },
+    {
+      "name": "Covacha",
+      "cuisine": "Mexican, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/covacha"
+    },
+    {
+      "name": "Cove",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/new-york/new-york/cove"
+    },
+    {
+      "name": "Crane Club",
+      "cuisine": "Steakhouse",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/crane-club"
+    },
+    {
+      "name": "Crevette",
+      "cuisine": "Seafood, Spanish",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/crevette"
+    },
+    {
+      "name": "Cynthia",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/new-york/new-york/cynthia"
+    },
+    {
+      "name": "Dagon",
+      "cuisine": "Mediterranean Cuisine, Middle Eastern",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/dagon"
+    },
+    {
+      "name": "Dame",
+      "cuisine": "Seafood, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/dame"
+    },
+    {
+      "name": "Dhamaka",
+      "cuisine": "Indian",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/dhamaka"
+    },
+    {
+      "name": "Dim Sum Go Go",
+      "cuisine": "Chinese, Dim Sum",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/dim-sum-go-go"
+    },
+    {
+      "name": "Don Angie",
+      "cuisine": "Italian, American",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/don-angie"
+    },
+    {
+      "name": "Don Antonio",
+      "cuisine": "Pizza",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/don-antonio"
+    },
+    {
+      "name": "Dons Bogam",
+      "cuisine": "Korean, Barbecue",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/dons-bogam"
+    },
+    {
+      "name": "El Fish Marisqueria",
+      "cuisine": "Mexican, Seafood",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/el-fish-marisqueria"
+    },
+    {
+      "name": "Elcielo New York",
+      "cuisine": "Colombian",
+      "price": "$$$$",
+      "path": "/usa/new-york/new-york/elcielo-new-york"
+    },
+    {
+      "name": "Eléa",
+      "cuisine": "Greek, Seafood",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/ela"
+    },
+    {
+      "name": "Emilio's Ballato",
+      "cuisine": "Italian-American, Italian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/emilios-ballato"
+    },
+    {
+      "name": "Ernesto's",
+      "cuisine": "Spanish",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/ernestos"
+    },
+    {
+      "name": "Eulalie",
+      "cuisine": "French, Classic French",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/eulalie"
+    },
+    {
+      "name": "Farra",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/farra"
+    },
+    {
+      "name": "Fasano",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/fasano-n-e-w"
+    },
+    {
+      "name": "Forsythia",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/forsythia"
+    },
+    {
+      "name": "Foul Witch",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/foul-witch"
+    },
+    {
+      "name": "Four Twenty Five",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/four-twenty-five"
+    },
+    {
+      "name": "Foxface Natural",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/foxface-natural"
+    },
+    {
+      "name": "Gallaghers",
+      "cuisine": "Steakhouse",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/gallaghers"
+    },
+    {
+      "name": "Genesis House Restaurant",
+      "cuisine": "Korean, Korean Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/genesis-house-restaurant"
+    },
+    {
+      "name": "Gui",
+      "cuisine": "Steakhouse, Korean Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/gui-n-e-w"
+    },
+    {
+      "name": "HAGS",
+      "cuisine": "Contemporary, Innovative",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/hags"
+    },
+    {
+      "name": "HanGawi",
+      "cuisine": "Korean, Vegetarian",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/hangawi"
+    },
+    {
+      "name": "Hav & Mar",
+      "cuisine": "Ethiopian, Fusion",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/hav-mar"
+    },
+    {
+      "name": "Heroes",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/heroes"
+    },
+    {
+      "name": "Hirohisa",
+      "cuisine": "Japanese, Classic Cuisine",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/hirohisa"
+    },
+    {
+      "name": "Hwaro",
+      "cuisine": "Korean",
+      "price": "$$$$",
+      "path": "/usa/new-york/new-york/hwaro"
+    },
+    {
+      "name": "Hyderabadi Zaiqa",
+      "cuisine": "Indian",
+      "price": "$",
+      "path": "/usa/newyork/new-york/hyderabadi-zaiqa"
+    },
+    {
+      "name": "Hyun",
+      "cuisine": "Korean, Steakhouse",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/hyun"
+    },
+    {
+      "name": "I Sodi",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/i-sodi"
+    },
+    {
+      "name": "Il Fiorista",
+      "cuisine": "Contemporary, Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/il-fiorista"
+    },
+    {
+      "name": "Ishq",
+      "cuisine": "Indian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/ishq"
+    },
+    {
+      "name": "Ito",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/ito-n-e-w"
+    },
+    {
+      "name": "Ivan Ramen",
+      "cuisine": "Japanese, Ramen",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/ivan-ramen"
+    },
+    {
+      "name": "Izakaya Futago",
+      "cuisine": "Japanese, Soba",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/izakaya-futago"
+    },
+    {
+      "name": "J.G. Melon",
+      "cuisine": "American",
+      "price": "$",
+      "path": "/usa/newyork/new-york/jg-melon"
+    },
+    {
+      "name": "JoJo",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/jojo"
+    },
+    {
+      "name": "Joomak",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/joomak"
+    },
+    {
+      "name": "Junoon",
+      "cuisine": "Indian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/junoon"
+    },
+    {
+      "name": "Jupiter",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/jupiter"
+    },
+    {
+      "name": "Kabawa",
+      "cuisine": "Caribbean",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/kabawa"
+    },
+    {
+      "name": "Kanoyama",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/kanoyama"
+    },
+    {
+      "name": "Kanyakumari",
+      "cuisine": "Indian, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/kanyakumari"
+    },
+    {
+      "name": "Katz's",
+      "cuisine": "Deli",
+      "price": "$",
+      "path": "/usa/newyork/new-york/katzs"
+    },
+    {
+      "name": "Kebab aur Sharab",
+      "cuisine": "Indian, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/kebab-aur-sharab"
+    },
+    {
+      "name": "King",
+      "cuisine": "Mediterranean Cuisine, Italian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/king"
+    },
+    {
+      "name": "Kjun",
+      "cuisine": "Korean",
+      "price": "$",
+      "path": "/usa/new-york/new-york/kjun"
+    },
+    {
+      "name": "Koloman",
+      "cuisine": "Contemporary, European",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/koloman"
+    },
+    {
+      "name": "Kubeh",
+      "cuisine": "Middle Eastern",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/kubeh"
+    },
+    {
+      "name": "Kung Fu Little Steamed Buns Ramen",
+      "cuisine": "Chinese, Dumplings",
+      "price": "$",
+      "path": "/usa/newyork/new-york/kung-fu-little-steamed-buns-ramen"
+    },
+    {
+      "name": "Kyma",
+      "cuisine": "Greek, Seafood",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/kyma"
+    },
+    {
+      "name": "L’abeille à Côté",
+      "cuisine": "French, Asian",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/labeille-ct"
+    },
+    {
+      "name": "La Devozione: The Oval",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/la-devozione-the-oval"
+    },
+    {
+      "name": "La Dong",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/la-dong"
+    },
+    {
+      "name": "La Mercerie",
+      "cuisine": "French, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/la-mercerie-n-e-w"
+    },
+    {
+      "name": "La Tête d’Or",
+      "cuisine": "Steakhouse, American",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/la-tte-dor"
+    },
+    {
+      "name": "Laliko",
+      "cuisine": "Central Asian",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/laliko"
+    },
+    {
+      "name": "Le B",
+      "cuisine": "Classic French, Asian",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/le-b"
+    },
+    {
+      "name": "Le Chêne",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/usa/new-york/new-york/le-chne"
+    },
+    {
+      "name": "Le Gigot",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/le-gigot"
+    },
+    {
+      "name": "Le Jardinier New York",
+      "cuisine": "French, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/le-jardinier-new-york"
+    },
+    {
+      "name": "Le Rock",
+      "cuisine": "Contemporary, French",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/le-rock"
+    },
+    {
+      "name": "Le Veau d'Or",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/le-veau-dor"
+    },
+    {
+      "name": "Lei",
+      "cuisine": "Chinese, Contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/lei"
+    },
+    {
+      "name": "Len Len",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/usa/new-york/new-york/len-len"
+    },
+    {
+      "name": "Little Alley",
+      "cuisine": "Chinese, Shanghainese",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/little-alley"
+    },
+    {
+      "name": "Little Myanmar",
+      "cuisine": "Burmese",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/little-myanmar"
+    },
+    {
+      "name": "Lobster Club",
+      "cuisine": "Japanese, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/lobster-club"
+    },
+    {
+      "name": "Lola Taverna",
+      "cuisine": "Greek, Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/lola-taverna"
+    },
+    {
+      "name": "Lord's",
+      "cuisine": "English, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/lords"
+    },
+    {
+      "name": "Loring Place",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/loring-place"
+    },
+    {
+      "name": "Lungi",
+      "cuisine": "Sri Lankan, Indian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/lungi"
+    },
+    {
+      "name": "Lupa",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/lupa"
+    },
+    {
+      "name": "Ly Ly Vietnam Cookhouse",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/ly-ly-vietnam-cookhouse"
+    },
+    {
+      "name": "Ma•dé",
+      "cuisine": "South East Asian, Seafood",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/mad"
+    },
+    {
+      "name": "Maison Passerelle",
+      "cuisine": "French, African",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/maison-passerelle"
+    },
+    {
+      "name": "MáLà Project",
+      "cuisine": "Chinese, Sichuan",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/ml-project"
+    },
+    {
+      "name": "Manhatta",
+      "cuisine": "Contemporary, American",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/manhatta"
+    },
+    {
+      "name": "Marea",
+      "cuisine": "Seafood, Italian",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/marea"
+    },
+    {
+      "name": "Markette",
+      "cuisine": "Contemporary, Caribbean",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/markette"
+    },
+    {
+      "name": "Massara",
+      "cuisine": "Italian, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/massara"
+    },
+    {
+      "name": "MayRee",
+      "cuisine": "Thai, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/mayree"
+    },
+    {
+      "name": "Melba's",
+      "cuisine": "Southern, American",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/melbas"
+    },
+    {
+      "name": "Minetta Tavern",
+      "cuisine": "Steakhouse, American",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/minetta-tavern"
+    },
+    {
+      "name": "Miss Lily’s",
+      "cuisine": "Jamaican",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/miss-lilys"
+    },
+    {
+      "name": "Miss Mamie's Spoonbread Too",
+      "cuisine": "Southern, American",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/miss-mamies-spoonbread-too"
+    },
+    {
+      "name": "Mission Ceviche",
+      "cuisine": "Peruvian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/mission-ceviche"
+    },
+    {
+      "name": "Momofuku Noodle Bar",
+      "cuisine": "Asian",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/momofuku-noodle-bar"
+    },
+    {
+      "name": "Moody Tongue Sushi",
+      "cuisine": "Sushi, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/moody-tongue-sushi-n-e-w"
+    },
+    {
+      "name": "Moono",
+      "cuisine": "Korean",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/moono"
+    },
+    {
+      "name": "Nami Nori",
+      "cuisine": "Japanese, Creative",
+      "price": "$",
+      "path": "/usa/newyork/new-york/nami-nori"
+    },
+    {
+      "name": "Naro",
+      "cuisine": "Korean",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/naro"
+    },
+    {
+      "name": "Noreetuh",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/noreetuh"
+    },
+    {
+      "name": "Norma Gastronomia Siciliana",
+      "cuisine": "Italian, Sicilian",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/norma-gastronomia-siciliana"
+    },
+    {
+      "name": "Novitá",
+      "cuisine": "Italian, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/novit"
+    },
+    {
+      "name": "Nudibranch",
+      "cuisine": "Contemporary, Asian",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/nudibranch"
+    },
+    {
+      "name": "Nyonya",
+      "cuisine": "Malaysian",
+      "price": "$",
+      "path": "/usa/newyork/new-york/nyonya"
+    },
+    {
+      "name": "Oceans",
+      "cuisine": "Seafood, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/oceans"
+    },
+    {
+      "name": "Octo",
+      "cuisine": "Asian Contemporary, Fusion",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/octo-n-e-w"
+    },
+    {
+      "name": "Odo East Village",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/usa/new-york/new-york/odo-east-village"
+    },
+    {
+      "name": "Odre",
+      "cuisine": "Korean",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/odre"
+    },
+    {
+      "name": "Orsay",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/orsay"
+    },
+    {
+      "name": "Oso",
+      "cuisine": "Mexican, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/oso"
+    },
+    {
+      "name": "Oyatte",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/new-york/new-york/oyatte"
+    },
+    {
+      "name": "Papa San",
+      "cuisine": "Japanese, Peruvian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/papa-san"
+    },
+    {
+      "name": "Pastis",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/pastis"
+    },
+    {
+      "name": "Peak",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/peak"
+    },
+    {
+      "name": "Penny",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/penny"
+    },
+    {
+      "name": "Peppercorn Station",
+      "cuisine": "Chinese, Sichuan",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/peppercorn-station"
+    },
+    {
+      "name": "Persepolis",
+      "cuisine": "Persian",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/persepolis"
+    },
+    {
+      "name": "Pinch Chinese",
+      "cuisine": "Chinese, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/pinch-chinese"
+    },
+    {
+      "name": "Portale",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/portale"
+    },
+    {
+      "name": "Potluck Club",
+      "cuisine": "Chinese, Cantonese",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/potluck-club"
+    },
+    {
+      "name": "Pranakhon",
+      "cuisine": "Thai",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/pranakhon"
+    },
+    {
+      "name": "Pylos",
+      "cuisine": "Greek",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/pylos"
+    },
+    {
+      "name": "Raf's",
+      "cuisine": "European",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/rafs"
+    },
+    {
+      "name": "Raoul's",
+      "cuisine": "French, American",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/raouls"
+    },
+    {
+      "name": "Reverence",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/reverence"
+    },
+    {
+      "name": "Rosella",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/rosella"
+    },
+    {
+      "name": "Ruffian",
+      "cuisine": "Contemporary, Creative",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/ruffian"
+    },
+    {
+      "name": "Russ & Daughters Cafe",
+      "cuisine": "American",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/russ-daughters-cafe"
+    },
+    {
+      "name": "Sami & Susu",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/sami-susu"
+    },
+    {
+      "name": "Santi",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/santi"
+    },
+    {
+      "name": "Secchu Yokota",
+      "cuisine": "Japanese, Tempura",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/secchu-yokota"
+    },
+    {
+      "name": "See No Evil Pizza",
+      "cuisine": "Pizza, American Contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/see-no-evil-pizza"
+    },
+    {
+      "name": "Sempre Oggi",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/sempre-oggi"
+    },
+    {
+      "name": "Seoul Salon",
+      "cuisine": "Korean, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/seoul-salon"
+    },
+    {
+      "name": "Shabushabu Mayumon",
+      "cuisine": "Japanese, Shabu-shabu",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/shabushabu-mayumon"
+    },
+    {
+      "name": "Sinsa",
+      "cuisine": "Korean",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/sinsa"
+    },
+    {
+      "name": "Smithereens",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/smithereens"
+    },
+    {
+      "name": "Soba Totto",
+      "cuisine": "Japanese, Soba",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/soba-totto"
+    },
+    {
+      "name": "Sobaya",
+      "cuisine": "Japanese, Soba",
+      "price": "$",
+      "path": "/usa/newyork/new-york/sobaya"
+    },
+    {
+      "name": "Soda Club",
+      "cuisine": "Vegan, Italian-American",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/soda-club"
+    },
+    {
+      "name": "Soothr",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/soothr"
+    },
+    {
+      "name": "Superiority Burger",
+      "cuisine": "Vegetarian, Contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/superiority-burger"
+    },
+    {
+      "name": "Sushi Akira",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/sushi-akira"
+    },
+    {
+      "name": "Sushi Ikumi",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/sushi-ikumi"
+    },
+    {
+      "name": "Sushi Yasuda",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/sushi-yasuda"
+    },
+    {
+      "name": "Szechuan Gourmet",
+      "cuisine": "Chinese, Sichuan",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/szechuan-gourmet"
+    },
+    {
+      "name": "Tadhanà",
+      "cuisine": "Filipino, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/tadhan"
+    },
+    {
+      "name": "Tamarind",
+      "cuisine": "Indian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/tamarind-n-e-w"
+    },
+    {
+      "name": "Tatiana",
+      "cuisine": "Fusion, American",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/tatiana"
+    },
+    {
+      "name": "Tha Phraya",
+      "cuisine": "Thai contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/tha-phraya"
+    },
+    {
+      "name": "Thai Diner",
+      "cuisine": "Thai, Fusion",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/thai-diner"
+    },
+    {
+      "name": "The Commerce Inn",
+      "cuisine": "American, Steakhouse",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/the-commerce-inn"
+    },
+    {
+      "name": "The Dining Room at RH Guesthouse",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/new-york/new-york/the-dining-room-at-rh-guesthouse"
+    },
+    {
+      "name": "The Dining Room at The Guesthouse",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/the-dining-room-at-the-guesthouse"
+    },
+    {
+      "name": "The Grill",
+      "cuisine": "American, American Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/the-grill"
+    },
+    {
+      "name": "The Lambs Club",
+      "cuisine": "Steakhouse",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/the-lambs-club"
+    },
+    {
+      "name": "The Leopard at Des Artistes",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/the-leopard-at-des-artistes"
+    },
+    {
+      "name": "The Lobster Club",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/usa/new-york/new-york/the-lobster-club"
+    },
+    {
+      "name": "The Office of Mr. Moto",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/the-office-of-mr-moto"
+    },
+    {
+      "name": "The Orchard Townhouse",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/the-orchard-townhouse"
+    },
+    {
+      "name": "Tolo",
+      "cuisine": "Chinese",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/tolo"
+    },
+    {
+      "name": "Tonchin",
+      "cuisine": "Japanese, Ramen",
+      "price": "$",
+      "path": "/usa/newyork/new-york/tonchin"
+    },
+    {
+      "name": "Towa",
+      "cuisine": "Japanese, Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/towa-n-e-w"
+    },
+    {
+      "name": "Ulivo",
+      "cuisine": "Italian, Sardinian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/ulivo"
+    },
+    {
+      "name": "Una Pizza Napoletana",
+      "cuisine": "Pizza",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/una-pizza-napoletana"
+    },
+    {
+      "name": "Upland",
+      "cuisine": "Mediterranean Cuisine, American Contemporary",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/upland"
+    },
+    {
+      "name": "Van Đa",
+      "cuisine": "Vietnamese, Modern Cuisine",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/van-a"
+    },
+    {
+      "name": "Veerays",
+      "cuisine": "Indian",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/veerays"
+    },
+    {
+      "name": "Vestry",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "$$$$",
+      "path": "/usa/newyork/new-york/vestry"
+    },
+    {
+      "name": "Via Carota",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/via-carota"
+    },
+    {
+      "name": "Wayan",
+      "cuisine": "Indonesian, South East Asian",
+      "price": "$$$",
+      "path": "/usa/newyork/new-york/wayan"
+    },
+    {
+      "name": "Wild Cherry",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/new-york/new-york/wild-cherry"
+    },
+    {
+      "name": "Yellow Rose",
+      "cuisine": "Tex-Mex",
+      "price": "$$",
+      "path": "/usa/newyork/new-york/yellow-rose"
+    },
+    {
+      "name": "YŪGIN",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/usa/new-york/new-york/ygin"
     }
   ]
 }

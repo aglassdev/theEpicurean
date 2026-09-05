@@ -1,20 +1,28 @@
 {
   "title": "Monforte Dalba",
-  "country": "italy",
-  "region": "monforte-dalba",
-  "city": "monforte-dalba",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "monforte-dalba",
+  "city": "Monforte Dalba",
+  "citySlug": "monforte-dalba",
+  "path": "/italy/monforte-dalba/monforte-dalba/restaurants",
+  "canonicalPath": "/italy/monforte-dalba/monforte-dalba/restaurants",
+  "count": 7,
   "restaurants": [
     {
       "name": "Borgo Sant'Anna",
       "cuisine": "Country cooking, Creative",
       "price": "€€€",
-      "path": "/italy/monforte-dalba/monforte-dalba/borgo-santanna"
+      "path": "/italy/monforte-dalba/monforte-dalba/borgo-santanna",
+      "award": "★"
     },
     {
       "name": "FRE",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/monforte-dalba/monforte-dalba/fre"
+      "path": "/italy/monforte-dalba/monforte-dalba/fre",
+      "award": "★"
     },
     {
       "name": "Gennaro Di Pace",

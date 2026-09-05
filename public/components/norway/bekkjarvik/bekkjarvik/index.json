@@ -1,11 +1,21 @@
 {
   "title": "Bekkjarvik",
+  "country": "Norway",
+  "countrySlug": "norway",
+  "region": null,
+  "regionSlug": "bekkjarvik",
+  "city": "Bekkjarvik",
+  "citySlug": "bekkjarvik",
+  "path": "/norway/bekkjarvik/bekkjarvik/restaurants",
+  "canonicalPath": "/norway/bekkjarvik/bekkjarvik/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mirabelle by Ørjan Johannessen",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/norway/bekkjarvik/bekkjarvik/MirabelleByRjanJohannessen"
+      "path": "/norway/bekkjarvik/bekkjarvik/mirabelle-by-rjan-johannessen",
+      "award": "★"
     }
   ]
 }

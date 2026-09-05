@@ -1,11 +1,20 @@
 {
   "title": "Miers",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "miers",
+  "city": "Miers",
+  "citySlug": "miers",
+  "path": "/france/miers/miers/restaurants",
+  "canonicalPath": "/france/miers/miers/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au fil de l'eau",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/miers/miers/AuFilDeLeau"
+      "path": "/france/miers/miers/au-fil-de-leau"
     }
   ]
 }

@@ -1,5 +1,14 @@
 {
   "title": "Lecci",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lecci",
+  "city": "Lecci",
+  "citySlug": "lecci",
+  "path": "/france/lecci/lecci/restaurants",
+  "canonicalPath": "/france/lecci/lecci/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Emporium",
@@ -11,13 +20,13 @@
       "name": "La Pinède",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/lecci/lecci/la-pinde"
+      "path": "/france/lecci/lecci/la-pinde-l-e-c"
     },
     {
       "name": "La Plage Casadelmar",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/france/lecci/lecci/LaPlageCasadelmar"
+      "path": "/france/lecci/lecci/la-plage-casadelmar"
     }
   ]
 }

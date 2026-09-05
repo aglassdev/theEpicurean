@@ -1,26 +1,34 @@
 {
-  "title": "Eugnie Les Bains",
-  "country": "france",
-  "region": "eugnie-les-bains",
-  "city": "eugnie-les-bains",
+  "title": "Eugnie les Bains",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "eugnie-les-bains",
+  "city": "Eugnie les Bains",
+  "citySlug": "eugnie-les-bains",
+  "path": "/france/eugnie-les-bains/eugnie-les-bains/restaurants",
+  "canonicalPath": "/france/eugnie-les-bains/eugnie-les-bains/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "La Ferme aux Grives",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/eugnie-les-bains/eugnie-les-bains/la-ferme-aux-grives"
-    },
     {
       "name": "Les Prés d'Eugénie - Michel Guérard",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/france/eugnie-les-bains/eugnie-les-bains/les-prs-deugnie-michel-gurard"
+      "path": "/france/eugnie-les-bains/eugnie-les-bains/les-prs-deugnie-michel-gurard",
+      "award": "★★★"
     },
     {
       "name": "L'Orangerie",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/france/eugnie-les-bains/eugnie-les-bains/lorangerie"
+      "path": "/france/eugnie-les-bains/eugnie-les-bains/lorangerie-e-u-g",
+      "award": "★"
+    },
+    {
+      "name": "La Ferme aux Grives",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/eugnie-les-bains/eugnie-les-bains/la-ferme-aux-grives"
     }
   ]
 }

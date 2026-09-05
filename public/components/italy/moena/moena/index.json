@@ -1,9 +1,22 @@
 {
   "title": "Moena",
-  "country": "italy",
-  "region": "moena",
-  "city": "moena",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "moena",
+  "city": "Moena",
+  "citySlug": "moena",
+  "path": "/italy/moena/moena/restaurants",
+  "canonicalPath": "/italy/moena/moena/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Malga Panna",
+      "cuisine": "Regional Cuisine, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/italy/moena/moena/malga-panna",
+      "award": "★"
+    },
     {
       "name": "Agritur El Mas",
       "cuisine": "Regional Cuisine, Alpine",
@@ -17,22 +30,10 @@
       "path": "/italy/moena/moena/foresta"
     },
     {
-      "name": "Foresta",
-      "cuisine": "Regional Cuisine, Classic Cuisine",
-      "price": "€€",
-      "path": "/italy/moena/moena/foresta"
-    },
-    {
       "name": "InAlto Alfio Ghezzi Dolomites",
       "cuisine": "Regional Cuisine, Innovative",
       "price": "€€",
       "path": "/italy/moena/moena/inalto-alfio-ghezzi-dolomites"
-    },
-    {
-      "name": "Malga Panna",
-      "cuisine": "Regional Cuisine, Seasonal Cuisine",
-      "price": "€€€",
-      "path": "/italy/moena/moena/malga-panna"
     },
     {
       "name": "Malga Roncac",

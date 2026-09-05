@@ -1,17 +1,27 @@
 {
   "title": "Sessenheim",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sessenheim",
+  "city": "Sessenheim",
+  "citySlug": "sessenheim",
+  "path": "/france/sessenheim/sessenheim/restaurants",
+  "canonicalPath": "/france/sessenheim/sessenheim/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Auberge au Bœuf",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/sessenheim/sessenheim/auberge-au-buf"
+      "path": "/france/sessenheim/sessenheim/auberge-au-buf",
+      "award": "★"
     },
     {
       "name": "Maison Héritage",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/france/sessenheim/sessenheim/MaisonHritage"
+      "path": "/france/sessenheim/sessenheim/maison-hritage"
     }
   ]
 }

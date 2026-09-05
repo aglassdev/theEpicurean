@@ -1,8 +1,14 @@
 {
   "title": "Brez",
-  "country": "italy",
-  "region": "brez",
-  "city": "brez",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "brez",
+  "city": "Brez",
+  "citySlug": "brez",
+  "path": "/italy/brez/brez/restaurants",
+  "canonicalPath": "/italy/brez/brez/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Locanda Alpina",

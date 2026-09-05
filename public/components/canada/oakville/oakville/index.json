@@ -1,26 +1,27 @@
 {
   "title": "Oakville",
-  "country": "canada",
-  "region": "oakville",
-  "city": "oakville",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "oakville",
+  "city": "Oakville",
+  "citySlug": "oakville",
+  "path": "/canada/oakville/oakville/restaurants",
+  "canonicalPath": "/canada/oakville/oakville/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Hexagon",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/canada/oakville/oakville/hexagon",
+      "award": "★"
+    },
     {
       "name": "7 Enoteca",
       "cuisine": "Italian, Pizza",
       "price": "$$",
       "path": "/canada/oakville/oakville/7-enoteca"
-    },
-    {
-      "name": "Hexagon",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/canada/oakville/oakville/hexagon"
-    },
-    {
-      "name": "Hexagon",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/canada/oakville/oakville/hexagon"
     }
   ]
 }

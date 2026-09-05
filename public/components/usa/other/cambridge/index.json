@@ -1,0 +1,62 @@
+{
+  "title": "Cambridge",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Massachusetts",
+  "regionSlug": "other",
+  "city": "Cambridge",
+  "citySlug": "cambridge",
+  "path": "/usa/other/cambridge/restaurants",
+  "canonicalPath": "/usa/massachusetts/cambridge/restaurants",
+  "count": 8,
+  "restaurants": [
+    {
+      "name": "Giulia",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/massachusetts/cambridge/giulia"
+    },
+    {
+      "name": "Jahunger",
+      "cuisine": "Asian",
+      "price": "$$",
+      "path": "/usa/massachusetts/cambridge/jahunger"
+    },
+    {
+      "name": "Moëca",
+      "cuisine": "Seafood",
+      "price": "$$$$",
+      "path": "/usa/massachusetts/cambridge/moca"
+    },
+    {
+      "name": "Oleana",
+      "cuisine": "Middle Eastern, Turkish",
+      "price": "$$$",
+      "path": "/usa/massachusetts/cambridge/oleana"
+    },
+    {
+      "name": "Pagu",
+      "cuisine": "Asian, Spanish",
+      "price": "$$",
+      "path": "/usa/massachusetts/cambridge/pagu"
+    },
+    {
+      "name": "Pammy's",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/usa/massachusetts/cambridge/pammys"
+    },
+    {
+      "name": "Sumiao Hunan Kitchen",
+      "cuisine": "Chinese, Hunanese",
+      "price": "$$",
+      "path": "/usa/massachusetts/cambridge/sumiao-hunan-kitchen"
+    },
+    {
+      "name": "Urban Hearth",
+      "cuisine": "American Contemporary",
+      "price": "$$$",
+      "path": "/usa/massachusetts/cambridge/urban-hearth"
+    }
+  ]
+}

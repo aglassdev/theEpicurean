@@ -1,6 +1,22 @@
 {
   "title": "Fano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "fano",
+  "city": "Fano",
+  "citySlug": "fano",
+  "path": "/italy/fano/fano/restaurants",
+  "canonicalPath": "/italy/fano/fano/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Cile's Bistrot",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/italy/fano/fano/ciles-bistrot",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Alla Lanterna",
       "cuisine": "Seafood, Classic Cuisine",
@@ -24,12 +40,6 @@
       "cuisine": "Cuisine from the Marches, Traditional Cuisine",
       "price": "€",
       "path": "/italy/fano/fano/osteria-dalla-peppa"
-    },
-    {
-      "name": "Cile's Bistrot",
-      "cuisine": "Seafood",
-      "price": "$$",
-      "path": "/italy/fano/fano/CilesBistrot"
     }
   ]
 }

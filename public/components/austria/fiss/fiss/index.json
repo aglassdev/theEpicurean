@@ -1,20 +1,28 @@
 {
   "title": "Fiss",
-  "country": "austria",
-  "region": "fiss",
-  "city": "fiss",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "fiss",
+  "city": "Fiss",
+  "citySlug": "fiss",
+  "path": "/austria/fiss/fiss/restaurants",
+  "canonicalPath": "/austria/fiss/fiss/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Beef Club",
       "cuisine": "Modern Cuisine, International",
       "price": "€€€",
-      "path": "/austria/fiss/fiss/beef-club"
+      "path": "/austria/fiss/fiss/beef-club",
+      "award": "★"
     },
     {
       "name": "Bruderherz Fine Dine",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/austria/fiss/fiss/bruderherz-fine-dine"
+      "path": "/austria/fiss/fiss/bruderherz-fine-dine",
+      "award": "★"
     }
   ]
 }

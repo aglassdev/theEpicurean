@@ -1,14 +1,20 @@
 {
-  "title": "Saint Gilles Croix De Vie",
-  "country": "france",
-  "region": "saint-gilles-croix-de-vie",
-  "city": "saint-gilles-croix-de-vie",
+  "title": "Saint Gilles Croix de Vie",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-gilles-croix-de-vie",
+  "city": "Saint Gilles Croix de Vie",
+  "citySlug": "saint-gilles-croix-de-vie",
+  "path": "/france/saint-gilles-croix-de-vie/saint-gilles-croix-de-vie/restaurants",
+  "canonicalPath": "/france/saint-gilles-croix-de-vie/saint-gilles-croix-de-vie/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Inattendu",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/saint-gilles-croix-de-vie/saint-gilles-croix-de-vie/linattendu"
+      "path": "/france/saint-gilles-croix-de-vie/saint-gilles-croix-de-vie/linattendu-s-a-i"
     }
   ]
 }

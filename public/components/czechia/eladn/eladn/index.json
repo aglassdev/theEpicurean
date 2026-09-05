@@ -1,8 +1,14 @@
 {
   "title": "Eladn",
-  "country": "czechia",
-  "region": "eladn",
-  "city": "eladn",
+  "country": "Czechia",
+  "countrySlug": "czechia",
+  "region": null,
+  "regionSlug": "eladn",
+  "city": "Eladn",
+  "citySlug": "eladn",
+  "path": "/czechia/eladn/eladn/restaurants",
+  "canonicalPath": "/czechia/eladn/eladn/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Cattaleya",

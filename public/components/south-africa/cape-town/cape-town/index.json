@@ -1,17 +1,28 @@
 {
   "title": "Cape Town",
+  "country": "South Africa",
+  "countrySlug": "south-africa",
+  "region": null,
+  "regionSlug": "cape-town",
+  "city": "Cape Town",
+  "citySlug": "cape-town",
+  "path": "/south-africa/cape-town/cape-town/restaurants",
+  "canonicalPath": "/south-africa/cape-town/cape-town/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "The Test Kitchen",
-      "cuisine": "",
-      "price": "",
-      "path": "/south-africa/cape-town/cape-town/TheTestKitchen"
-    },
     {
       "name": "Fyn",
       "cuisine": "",
       "price": "",
-      "path": "/south-africa/cape-town/cape-town/Fyn"
+      "path": "/south-africa/cape-town/cape-town/fyn",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "The Test Kitchen",
+      "cuisine": "",
+      "price": "",
+      "path": "/south-africa/cape-town/cape-town/the-test-kitchen",
+      "award": "World's 50 Best"
     }
   ]
 }

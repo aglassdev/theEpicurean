@@ -1,14 +1,21 @@
 {
   "title": "Magescq",
-  "country": "france",
-  "region": "magescq",
-  "city": "magescq",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "magescq",
+  "city": "Magescq",
+  "citySlug": "magescq",
+  "path": "/france/magescq/magescq/restaurants",
+  "canonicalPath": "/france/magescq/magescq/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Relais de la Poste",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/france/magescq/magescq/relais-de-la-poste"
+      "path": "/france/magescq/magescq/relais-de-la-poste",
+      "award": "★★"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Montbrison",
-  "country": "france",
-  "region": "montbrison",
-  "city": "montbrison",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montbrison",
+  "city": "Montbrison",
+  "citySlug": "montbrison",
+  "path": "/france/montbrison/montbrison/restaurants",
+  "canonicalPath": "/france/montbrison/montbrison/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Apicius",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/montbrison/montbrison/apicius"
+      "path": "/france/montbrison/montbrison/apicius-m-o-n"
     }
   ]
 }

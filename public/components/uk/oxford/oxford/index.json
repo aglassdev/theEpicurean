@@ -1,11 +1,28 @@
 {
   "title": "Oxford",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "oxford",
+  "city": "Oxford",
+  "citySlug": "oxford",
+  "path": "/uk/oxford/oxford/restaurants",
+  "canonicalPath": "/uk/oxford/oxford/restaurants",
+  "count": 4,
   "restaurants": [
     {
-      "name": "Arbequina",
-      "cuisine": "Spanish",
-      "price": "££",
-      "path": "/uk/oxford/oxford/arbequina"
+      "name": "Le Manoir aux Quat'Saison",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/oxford/oxford/le-manoir-aux-quatsaison",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Le Manoir aux Quat'Saisons",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/oxford/oxford/le-manoir-aux-quatsaisons",
+      "award": "World's 50 Best"
     },
     {
       "name": "Arbequina",
@@ -18,24 +35,6 @@
       "cuisine": "French",
       "price": "£££",
       "path": "/uk/oxford/oxford/pompette"
-    },
-    {
-      "name": "Pompette",
-      "cuisine": "French",
-      "price": "££",
-      "path": "/uk/oxford/oxford/pompette"
-    },
-    {
-      "name": "Le Manoir aux Quat'Saison",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/oxford/oxford/LeManoirAuxQuatsaison"
-    },
-    {
-      "name": "Le Manoir aux Quat'Saisons",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/oxford/oxford/LeManoirAuxQuatsaisons"
     }
   ]
 }

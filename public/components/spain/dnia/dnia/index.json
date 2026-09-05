@@ -1,23 +1,34 @@
 {
   "title": "Dnia",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "dnia",
+  "city": "Dnia",
+  "citySlug": "dnia",
+  "path": "/spain/dnia/dnia/restaurants",
+  "canonicalPath": "/spain/dnia/dnia/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Peix & Brases",
-      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/dnia/dnia/peix-brases"
-    },
     {
       "name": "Quique Dacosta",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/dnia/dnia/quique-dacosta"
+      "path": "/spain/dnia/dnia/quique-dacosta",
+      "award": "★★★"
+    },
+    {
+      "name": "Peix & Brases",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/dnia/dnia/peix-brases",
+      "award": "★"
     },
     {
       "name": "Toy",
       "cuisine": "Italian Contemporary",
       "price": "$$$",
-      "path": "/spain/dnia/dnia/Toy"
+      "path": "/spain/dnia/dnia/toy"
     }
   ]
 }

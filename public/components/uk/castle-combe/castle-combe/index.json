@@ -1,14 +1,21 @@
 {
   "title": "Castle Combe",
-  "country": "uk",
-  "region": "castle-combe",
-  "city": "castle-combe",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "castle-combe",
+  "city": "Castle Combe",
+  "citySlug": "castle-combe",
+  "path": "/uk/castle-combe/castle-combe/restaurants",
+  "canonicalPath": "/uk/castle-combe/castle-combe/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bybrook",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/castle-combe/castle-combe/bybrook"
+      "path": "/uk/castle-combe/castle-combe/bybrook",
+      "award": "★"
     },
     {
       "name": "Castle Inn",

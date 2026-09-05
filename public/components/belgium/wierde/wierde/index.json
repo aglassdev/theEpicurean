@@ -1,8 +1,14 @@
 {
   "title": "Wierde",
-  "country": "belgium",
-  "region": "wierde",
-  "city": "wierde",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "wierde",
+  "city": "Wierde",
+  "citySlug": "wierde",
+  "path": "/belgium/wierde/wierde/restaurants",
+  "canonicalPath": "/belgium/wierde/wierde/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le D'Arville",

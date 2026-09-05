@@ -1,8 +1,14 @@
 {
   "title": "Lacuisine",
-  "country": "belgium",
-  "region": "lacuisine",
-  "city": "lacuisine",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "lacuisine",
+  "city": "Lacuisine",
+  "citySlug": "lacuisine",
+  "path": "/belgium/lacuisine/lacuisine/restaurants",
+  "canonicalPath": "/belgium/lacuisine/lacuisine/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Cœur de Lacuisine",

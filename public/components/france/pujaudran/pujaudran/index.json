@@ -1,14 +1,21 @@
 {
   "title": "Pujaudran",
-  "country": "france",
-  "region": "pujaudran",
-  "city": "pujaudran",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pujaudran",
+  "city": "Pujaudran",
+  "citySlug": "pujaudran",
+  "path": "/france/pujaudran/pujaudran/restaurants",
+  "canonicalPath": "/france/pujaudran/pujaudran/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Puits Saint Jacques",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/pujaudran/pujaudran/le-puits-saint-jacques"
+      "path": "/france/pujaudran/pujaudran/le-puits-saint-jacques",
+      "award": "★"
     }
   ]
 }

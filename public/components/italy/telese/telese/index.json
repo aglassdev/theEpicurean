@@ -1,20 +1,28 @@
 {
   "title": "Telese",
-  "country": "italy",
-  "region": "telese",
-  "city": "telese",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "telese",
+  "city": "Telese",
+  "citySlug": "telese",
+  "path": "/italy/telese/telese/restaurants",
+  "canonicalPath": "/italy/telese/telese/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Krèsios",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/telese/telese/krsios"
+      "path": "/italy/telese/telese/krsios",
+      "award": "★★"
     },
     {
       "name": "La Locanda del Borgo",
       "cuisine": "Country cooking, Creative",
       "price": "€€€€",
-      "path": "/italy/telese/telese/la-locanda-del-borgo"
+      "path": "/italy/telese/telese/la-locanda-del-borgo",
+      "award": "★"
     }
   ]
 }

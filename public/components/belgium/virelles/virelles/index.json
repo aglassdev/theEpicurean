@@ -1,14 +1,20 @@
 {
   "title": "Virelles",
-  "country": "belgium",
-  "region": "virelles",
-  "city": "virelles",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "virelles",
+  "city": "Virelles",
+  "citySlug": "virelles",
+  "path": "/belgium/virelles/virelles/restaurants",
+  "canonicalPath": "/belgium/virelles/virelles/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Contre-Façon",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/belgium/virelles/virelles/contre-faon"
+      "path": "/belgium/virelles/virelles/contrefaon"
     }
   ]
 }

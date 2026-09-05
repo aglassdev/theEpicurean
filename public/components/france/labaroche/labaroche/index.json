@@ -1,8 +1,14 @@
 {
   "title": "Labaroche",
-  "country": "france",
-  "region": "labaroche",
-  "city": "labaroche",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "labaroche",
+  "city": "Labaroche",
+  "citySlug": "labaroche",
+  "path": "/france/labaroche/labaroche/restaurants",
+  "canonicalPath": "/france/labaroche/labaroche/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Rochette",

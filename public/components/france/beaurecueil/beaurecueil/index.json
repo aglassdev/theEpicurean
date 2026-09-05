@@ -1,8 +1,14 @@
 {
   "title": "Beaurecueil",
-  "country": "france",
-  "region": "beaurecueil",
-  "city": "beaurecueil",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "beaurecueil",
+  "city": "Beaurecueil",
+  "citySlug": "beaurecueil",
+  "path": "/france/beaurecueil/beaurecueil/restaurants",
+  "canonicalPath": "/france/beaurecueil/beaurecueil/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de Beaurecueil",

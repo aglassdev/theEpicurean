@@ -1,0 +1,38 @@
+{
+  "title": "Venice",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Venice",
+  "citySlug": "venice",
+  "path": "/usa/california/venice/restaurants",
+  "canonicalPath": "/usa/california/venice/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Charcoal Venice",
+      "cuisine": "American, Steakhouse",
+      "price": "$$$",
+      "path": "/usa/california/venice/charcoal-venice"
+    },
+    {
+      "name": "Chulita",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/usa/california/venice/chulita"
+    },
+    {
+      "name": "Felix",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/california/venice/felix"
+    },
+    {
+      "name": "Gjelina",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/usa/california/venice/gjelina"
+    }
+  ]
+}

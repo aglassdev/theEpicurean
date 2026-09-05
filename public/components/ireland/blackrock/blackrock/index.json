@@ -1,14 +1,21 @@
 {
   "title": "Blackrock",
-  "country": "ireland",
-  "region": "blackrock",
-  "city": "blackrock",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "blackrock",
+  "city": "Blackrock",
+  "citySlug": "blackrock",
+  "path": "/ireland/blackrock/blackrock/restaurants",
+  "canonicalPath": "/ireland/blackrock/blackrock/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Liath",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/ireland/blackrock/blackrock/liath"
+      "path": "/ireland/blackrock/blackrock/liath",
+      "award": "★★"
     },
     {
       "name": "Volpe Nera",

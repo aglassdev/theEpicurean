@@ -1,20 +1,27 @@
 {
   "title": "Achenkirch",
-  "country": "austria",
-  "region": "achenkirch",
-  "city": "achenkirch",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "achenkirch",
+  "city": "Achenkirch",
+  "citySlug": "achenkirch",
+  "path": "/austria/achenkirch/achenkirch/restaurants",
+  "canonicalPath": "/austria/achenkirch/achenkirch/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Gründler's Gourmet Stüberl",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/austria/achenkirch/achenkirch/grndlers-gourmet-stberl",
+      "award": "★"
+    },
     {
       "name": "Gründler's Genießer Wirtshaus",
       "cuisine": "Regional Cuisine",
       "price": "€€",
       "path": "/austria/achenkirch/achenkirch/grndlers-genieer-wirtshaus"
-    },
-    {
-      "name": "Gründler's Gourmet Stüberl",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/austria/achenkirch/achenkirch/grndlers-gourmet-stberl"
     }
   ]
 }

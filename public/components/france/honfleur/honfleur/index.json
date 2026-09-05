@@ -1,8 +1,14 @@
 {
   "title": "Honfleur",
-  "country": "france",
-  "region": "honfleur",
-  "city": "honfleur",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "honfleur",
+  "city": "Honfleur",
+  "citySlug": "honfleur",
+  "path": "/france/honfleur/honfleur/restaurants",
+  "canonicalPath": "/france/honfleur/honfleur/restaurants",
+  "count": 8,
   "restaurants": [
     {
       "name": "Entre Terre et Mer",
@@ -15,6 +21,12 @@
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€",
       "path": "/france/honfleur/honfleur/hutre-brle"
+    },
+    {
+      "name": "L'Âtre",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/honfleur/honfleur/ltre"
     },
     {
       "name": "La Fleur de Sel",
@@ -38,13 +50,7 @@
       "name": "Les Impressionnistes - La Ferme Saint-Siméon",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/honfleur/honfleur/les-impressionnistes-la-ferme-saint-simon"
-    },
-    {
-      "name": "L'Âtre",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/honfleur/honfleur/ltre"
+      "path": "/france/honfleur/honfleur/les-impressionnistes-la-ferme-saintsimon"
     },
     {
       "name": "SaQuaNa",

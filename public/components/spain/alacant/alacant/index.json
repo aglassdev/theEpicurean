@@ -1,17 +1,27 @@
 {
   "title": "Alacant",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "alacant",
+  "city": "Alacant",
+  "citySlug": "alacant",
+  "path": "/spain/alacant/alacant/restaurants",
+  "canonicalPath": "/spain/alacant/alacant/restaurants",
+  "count": 23,
   "restaurants": [
-    {
-      "name": "Alba",
-      "cuisine": "Contemporary",
-      "price": "€",
-      "path": "/spain/alacant/alacant/alba"
-    },
     {
       "name": "Baeza & Rufete",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/alacant/alacant/baeza-rufete"
+      "path": "/spain/alacant/alacant/baeza-rufete",
+      "award": "★"
+    },
+    {
+      "name": "Alba",
+      "cuisine": "Contemporary",
+      "price": "€",
+      "path": "/spain/alacant/alacant/alba-a-l-a"
     },
     {
       "name": "Celeste y Don Carlos",
@@ -42,6 +52,12 @@
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
       "path": "/spain/alacant/alacant/espacio-montoro"
+    },
+    {
+      "name": "Fetén",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/alacant/alacant/fetn"
     },
     {
       "name": "Koiné",
@@ -92,10 +108,22 @@
       "path": "/spain/alacant/alacant/open"
     },
     {
+      "name": "Orma",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/spain/alacant/alacant/orma"
+    },
+    {
       "name": "Piripi",
       "cuisine": "Rice Dishes",
       "price": "€€€",
       "path": "/spain/alacant/alacant/piripi"
+    },
+    {
+      "name": "Plëgat",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/alacant/alacant/plgat"
     },
     {
       "name": "Steki",
@@ -120,24 +148,6 @@
       "cuisine": "Peruvian",
       "price": "€",
       "path": "/spain/alacant/alacant/vituco-gourmet"
-    },
-    {
-      "name": "Fetén",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/spain/alacant/alacant/Fetn"
-    },
-    {
-      "name": "Orma",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/spain/alacant/alacant/Orma"
-    },
-    {
-      "name": "Plëgat",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/spain/alacant/alacant/Plgat"
     }
   ]
 }

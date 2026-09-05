@@ -1,8 +1,14 @@
 {
   "title": "Novara",
-  "country": "italy",
-  "region": "novara",
-  "city": "novara",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "novara",
+  "city": "Novara",
+  "citySlug": "novara",
+  "path": "/italy/novara/novara/restaurants",
+  "canonicalPath": "/italy/novara/novara/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "La RiMa",
@@ -14,7 +20,7 @@
       "name": "Tantris",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/italy/novara/novara/tantris"
+      "path": "/italy/novara/novara/tantris-n-o-v"
     },
     {
       "name": "Tre Scalini",

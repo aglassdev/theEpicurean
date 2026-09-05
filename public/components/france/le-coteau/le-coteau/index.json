@@ -1,8 +1,14 @@
 {
   "title": "Le Coteau",
-  "country": "france",
-  "region": "le-coteau",
-  "city": "le-coteau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-coteau",
+  "city": "Le Coteau",
+  "citySlug": "le-coteau",
+  "path": "/france/le-coteau/le-coteau/restaurants",
+  "canonicalPath": "/france/le-coteau/le-coteau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Atelier Locavore",

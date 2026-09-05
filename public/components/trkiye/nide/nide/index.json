@@ -1,17 +1,27 @@
 {
-  "title": "Niğde",
+  "title": "Nide",
+  "country": "Türkiye",
+  "countrySlug": "trkiye",
+  "region": null,
+  "regionSlug": "nide",
+  "city": "Nide",
+  "citySlug": "nide",
+  "path": "/trkiye/nide/nide/restaurants",
+  "canonicalPath": "/trkiye/nide/nide/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Tabal Gastronomi Evi",
       "cuisine": "Country cooking",
       "price": "$",
-      "path": "/trkiye/nide/nide/TabalGastronomiEvi"
+      "path": "/trkiye/nide/nide/tabal-gastronomi-evi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Sofram Restaurant",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/nide/nide/SoframRestaurant"
+      "path": "/trkiye/nide/nide/sofram-restaurant"
     }
   ]
 }

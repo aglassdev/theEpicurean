@@ -1,8 +1,14 @@
 {
   "title": "Polliat",
-  "country": "france",
-  "region": "polliat",
-  "city": "polliat",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "polliat",
+  "city": "Polliat",
+  "citySlug": "polliat",
+  "path": "/france/polliat/polliat/restaurants",
+  "canonicalPath": "/france/polliat/polliat/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Téjérina - Hôtel de la Place",

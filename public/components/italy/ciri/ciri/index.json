@@ -1,11 +1,20 @@
 {
-  "title": "Ciriè",
+  "title": "Ciri",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ciri",
+  "city": "Ciri",
+  "citySlug": "ciri",
+  "path": "/italy/ciri/ciri/restaurants",
+  "canonicalPath": "/italy/ciri/ciri/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pesceria San Martino",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/italy/ciri/ciri/PesceriaSanMartino"
+      "path": "/italy/ciri/ciri/pesceria-san-martino"
     }
   ]
 }

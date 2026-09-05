@@ -1,23 +1,34 @@
 {
   "title": "Lasarte Oria",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "lasarte-oria",
+  "city": "Lasarte Oria",
+  "citySlug": "lasarte-oria",
+  "path": "/spain/lasarte-oria/lasarte-oria/restaurants",
+  "canonicalPath": "/spain/lasarte-oria/lasarte-oria/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Martín Berasategui",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/lasarte-oria/lasarte-oria/martn-berasategui"
+      "path": "/spain/lasarte-oria/lasarte-oria/martn-berasategui",
+      "award": "★★★"
+    },
+    {
+      "name": "Martin Berasategui",
+      "cuisine": "",
+      "price": "",
+      "path": "/spain/lasarte-oria/lasarte-oria/martin-berasategui",
+      "award": "World's 50 Best"
     },
     {
       "name": "Txitxardin",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/spain/lasarte-oria/lasarte-oria/txitxardin"
-    },
-    {
-      "name": "Martin Berasategui",
-      "cuisine": "",
-      "price": "",
-      "path": "/spain/lasarte-oria/lasarte-oria/MartinBerasategui"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Wavre",
-  "country": "belgium",
-  "region": "wavre",
-  "city": "wavre",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "wavre",
+  "city": "Wavre",
+  "citySlug": "wavre",
+  "path": "/belgium/wavre/wavre/restaurants",
+  "canonicalPath": "/belgium/wavre/wavre/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Mamy Louise",

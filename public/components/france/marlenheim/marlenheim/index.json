@@ -1,14 +1,21 @@
 {
   "title": "Marlenheim",
-  "country": "france",
-  "region": "marlenheim",
-  "city": "marlenheim",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "marlenheim",
+  "city": "Marlenheim",
+  "citySlug": "marlenheim",
+  "path": "/france/marlenheim/marlenheim/restaurants",
+  "canonicalPath": "/france/marlenheim/marlenheim/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Cerf",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/marlenheim/marlenheim/le-cerf"
+      "path": "/france/marlenheim/marlenheim/le-cerf-m-a-r",
+      "award": "★"
     }
   ]
 }

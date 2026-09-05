@@ -1,14 +1,20 @@
 {
   "title": "Stresa",
-  "country": "italy",
-  "region": "stresa",
-  "city": "stresa",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "stresa",
+  "city": "Stresa",
+  "citySlug": "stresa",
+  "path": "/italy/stresa/stresa/restaurants",
+  "canonicalPath": "/italy/stresa/stresa/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "La Botte",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/italy/stresa/stresa/la-botte"
+      "path": "/italy/stresa/stresa/la-botte-s-t-r"
     },
     {
       "name": "LeBolle",

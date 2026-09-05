@@ -1,8 +1,14 @@
 {
   "title": "Arundel",
-  "country": "uk",
-  "region": "arundel",
-  "city": "arundel",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "arundel",
+  "city": "Arundel",
+  "citySlug": "arundel",
+  "path": "/uk/arundel/arundel/restaurants",
+  "canonicalPath": "/uk/arundel/arundel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Parsons Table",

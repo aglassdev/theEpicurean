@@ -1,14 +1,21 @@
 {
   "title": "Novi Slankamen",
-  "country": "serbia",
-  "region": "novi-slankamen",
-  "city": "novi-slankamen",
+  "country": "Serbia",
+  "countrySlug": "serbia",
+  "region": null,
+  "regionSlug": "novi-slankamen",
+  "city": "Novi Slankamen",
+  "citySlug": "novi-slankamen",
+  "path": "/serbia/novi-slankamen/novi-slankamen/restaurants",
+  "canonicalPath": "/serbia/novi-slankamen/novi-slankamen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fleur de Sel",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€€€",
-      "path": "/serbia/novi-slankamen/novi-slankamen/fleur-de-sel"
+      "path": "/serbia/novi-slankamen/novi-slankamen/fleur-de-sel-n-o-v",
+      "award": "★"
     }
   ]
 }

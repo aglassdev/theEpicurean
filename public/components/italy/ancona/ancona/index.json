@@ -1,8 +1,14 @@
 {
   "title": "Ancona",
-  "country": "italy",
-  "region": "ancona",
-  "city": "ancona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ancona",
+  "city": "Ancona",
+  "citySlug": "ancona",
+  "path": "/italy/ancona/ancona/restaurants",
+  "canonicalPath": "/italy/ancona/ancona/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Ginevra",

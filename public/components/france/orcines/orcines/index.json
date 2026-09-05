@@ -1,8 +1,14 @@
 {
   "title": "Orcines",
-  "country": "france",
-  "region": "orcines",
-  "city": "orcines",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "orcines",
+  "city": "Orcines",
+  "citySlug": "orcines",
+  "path": "/france/orcines/orcines/restaurants",
+  "canonicalPath": "/france/orcines/orcines/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Auberge de la Baraque",

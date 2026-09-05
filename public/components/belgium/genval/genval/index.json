@@ -1,14 +1,20 @@
 {
   "title": "Genval",
-  "country": "belgium",
-  "region": "genval",
-  "city": "genval",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "genval",
+  "city": "Genval",
+  "citySlug": "genval",
+  "path": "/belgium/genval/genval/restaurants",
+  "canonicalPath": "/belgium/genval/genval/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Amandier",
       "cuisine": "Creative",
       "price": "€€",
-      "path": "/belgium/genval/genval/lamandier"
+      "path": "/belgium/genval/genval/lamandier-g-e-n"
     }
   ]
 }

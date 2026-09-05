@@ -1,9 +1,36 @@
 {
   "title": "Yangzhou",
-  "country": "china",
-  "region": "yangzhou",
-  "city": "yangzhou",
+  "country": "China",
+  "countrySlug": "china",
+  "region": null,
+  "regionSlug": "yangzhou",
+  "city": "Yangzhou",
+  "citySlug": "yangzhou",
+  "path": "/china/yangzhou/yangzhou/restaurants",
+  "canonicalPath": "/china/yangzhou/yangzhou/restaurants",
+  "count": 16,
   "restaurants": [
+    {
+      "name": "Shang Palace",
+      "cuisine": "Huaiyang",
+      "price": "¥¥",
+      "path": "/china/yangzhou/yangzhou/shang-palace",
+      "award": "★"
+    },
+    {
+      "name": "Lao Hu Mian Guan",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/chinese-mainland/yangzhou/yangzhou/lao-hu-mian-guan",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Liuyuanchun Teahouse",
+      "cuisine": "Dim Sum",
+      "price": "$",
+      "path": "/chinese-mainland/yangzhou/yangzhou/liuyuanchun-teahouse",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Cai Gen Xiang Xiao Guan",
       "cuisine": "Huaiyang",
@@ -53,12 +80,6 @@
       "path": "/china/yangzhou/yangzhou/quyuan-teahouse-changchun-road"
     },
     {
-      "name": "Shang Palace",
-      "cuisine": "Huaiyang",
-      "price": "¥¥",
-      "path": "/china/yangzhou/yangzhou/shang-palace"
-    },
-    {
       "name": "Shuang Dong",
       "cuisine": "Huaiyang",
       "price": "¥¥",
@@ -68,7 +89,13 @@
       "name": "Yangzhou Yan (38 Changchun Road)",
       "cuisine": "Huaiyang",
       "price": "¥¥",
-      "path": "/china/yangzhou/yangzhou/yangzhou-yan-38-changchun-road"
+      "path": "/china/yangzhou/yangzhou/yangzhou-yan38-changchun-road"
+    },
+    {
+      "name": "Yangzhou Yuanzi",
+      "cuisine": "Huaiyang",
+      "price": "$$",
+      "path": "/chinese-mainland/yangzhou/yangzhou/yangzhou-yuanzi"
     },
     {
       "name": "Yi Yuan (Siwangting Road)",

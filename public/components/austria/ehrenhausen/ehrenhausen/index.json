@@ -1,14 +1,21 @@
 {
   "title": "Ehrenhausen",
-  "country": "austria",
-  "region": "ehrenhausen",
-  "city": "ehrenhausen",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "ehrenhausen",
+  "city": "Ehrenhausen",
+  "citySlug": "ehrenhausen",
+  "path": "/austria/ehrenhausen/ehrenhausen/restaurants",
+  "canonicalPath": "/austria/ehrenhausen/ehrenhausen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Die Weinbank - Restaurant",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/austria/ehrenhausen/ehrenhausen/die-weinbank-restaurant"
+      "path": "/austria/ehrenhausen/ehrenhausen/die-weinbank-restaurant",
+      "award": "★"
     },
     {
       "name": "Die Weinbank - Wirtshaus",

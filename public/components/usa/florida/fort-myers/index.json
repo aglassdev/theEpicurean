@@ -1,11 +1,20 @@
 {
   "title": "Fort Myers",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Fort Myers",
+  "citySlug": "fort-myers",
+  "path": "/usa/florida/fort-myers/restaurants",
+  "canonicalPath": "/usa/florida/fort-myers/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Liberty",
       "cuisine": "American",
       "price": "$$$",
-      "path": "/usa/florida/fort-myers/Liberty"
+      "path": "/usa/florida/fort-myers/liberty"
     }
   ]
 }

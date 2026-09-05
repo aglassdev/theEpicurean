@@ -1,8 +1,14 @@
 {
   "title": "Urbe",
-  "country": "italy",
-  "region": "urbe",
-  "city": "urbe",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "urbe",
+  "city": "Urbe",
+  "citySlug": "urbe",
+  "path": "/italy/urbe/urbe/restaurants",
+  "canonicalPath": "/italy/urbe/urbe/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Civetta",

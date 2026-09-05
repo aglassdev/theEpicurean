@@ -1,14 +1,20 @@
 {
   "title": "Walenstadt",
-  "country": "switzerland",
-  "region": "walenstadt",
-  "city": "walenstadt",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "walenstadt",
+  "city": "Walenstadt",
+  "citySlug": "walenstadt",
+  "path": "/switzerland/walenstadt/walenstadt/restaurants",
+  "canonicalPath": "/switzerland/walenstadt/walenstadt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Löwen",
       "cuisine": "Regional Cuisine",
       "price": "€€€",
-      "path": "/switzerland/walenstadt/walenstadt/lwen"
+      "path": "/switzerland/walenstadt/walenstadt/lwen-w-a-l"
     }
   ]
 }

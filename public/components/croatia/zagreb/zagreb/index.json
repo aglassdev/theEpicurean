@@ -1,6 +1,36 @@
 {
   "title": "Zagreb",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "zagreb",
+  "city": "Zagreb",
+  "citySlug": "zagreb",
+  "path": "/croatia/zagreb/zagreb/restaurants",
+  "canonicalPath": "/croatia/zagreb/zagreb/restaurants",
+  "count": 23,
   "restaurants": [
+    {
+      "name": "Dubravkin Put",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/croatia/zagreb/zagreb/dubravkin-put",
+      "award": "★"
+    },
+    {
+      "name": "Noel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/croatia/zagreb/zagreb/noel",
+      "award": "★"
+    },
+    {
+      "name": "Nuré",
+      "cuisine": "Contemporary",
+      "price": "$",
+      "path": "/croatia/zagreb/zagreb/nur",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Balon",
       "cuisine": "Mediterranean Cuisine, Croatian",
@@ -26,12 +56,6 @@
       "path": "/croatia/zagreb/zagreb/boban"
     },
     {
-      "name": "Dubravkin Put",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€",
-      "path": "/croatia/zagreb/zagreb/dubravkin-put"
-    },
-    {
       "name": "El Toro",
       "cuisine": "Asian Influences, Asian and Western",
       "price": "€€€",
@@ -47,7 +71,13 @@
       "name": "Izakaya",
       "cuisine": "Japanese Contemporary, Japanese",
       "price": "€€",
-      "path": "/croatia/zagreb/zagreb/izakaya"
+      "path": "/croatia/zagreb/zagreb/izakaya-z-a-g"
+    },
+    {
+      "name": "Kiyomi",
+      "cuisine": "Asian Contemporary",
+      "price": "$$",
+      "path": "/croatia/zagreb/zagreb/kiyomi"
     },
     {
       "name": "Le Bistro Esplanade",
@@ -74,22 +104,16 @@
       "path": "/croatia/zagreb/zagreb/nav"
     },
     {
-      "name": "Noel",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/croatia/zagreb/zagreb/noel"
+      "name": "Nico's Bar & Bistro",
+      "cuisine": "Croatian",
+      "price": "$$",
+      "path": "/croatia/zagreb/zagreb/nicos-bar-bistro"
     },
     {
       "name": "Pod Zidom Bistro",
       "cuisine": "Farm to table",
       "price": "€€",
       "path": "/croatia/zagreb/zagreb/pod-zidom-bistro"
-    },
-    {
-      "name": "Tač",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/croatia/zagreb/zagreb/ta"
     },
     {
       "name": "Tač",
@@ -126,24 +150,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/croatia/zagreb/zagreb/zinfandels"
-    },
-    {
-      "name": "Nuré",
-      "cuisine": "Contemporary",
-      "price": "$",
-      "path": "/croatia/zagreb/zagreb/Nur"
-    },
-    {
-      "name": "Kiyomi",
-      "cuisine": "Asian Contemporary",
-      "price": "$$",
-      "path": "/croatia/zagreb/zagreb/Kiyomi"
-    },
-    {
-      "name": "Nico's Bar & Bistro",
-      "cuisine": "Croatian",
-      "price": "$$",
-      "path": "/croatia/zagreb/zagreb/NicosBarBistro"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Cuiseaux",
-  "country": "france",
-  "region": "cuiseaux",
-  "city": "cuiseaux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cuiseaux",
+  "city": "Cuiseaux",
+  "citySlug": "cuiseaux",
+  "path": "/france/cuiseaux/cuiseaux/restaurants",
+  "canonicalPath": "/france/cuiseaux/cuiseaux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Bistrot Gourmand",

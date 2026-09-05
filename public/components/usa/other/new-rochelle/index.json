@@ -1,0 +1,26 @@
+{
+  "title": "New Rochelle",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "New York",
+  "regionSlug": "other",
+  "city": "New Rochelle",
+  "citySlug": "new-rochelle",
+  "path": "/usa/other/new-rochelle/restaurants",
+  "canonicalPath": "/usa/newyork/new-rochelle/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Dubrovnik",
+      "cuisine": "Croatian, Seafood",
+      "price": "$$",
+      "path": "/usa/newyork/new-rochelle/dubrovnik"
+    },
+    {
+      "name": "Maria Restaurant",
+      "cuisine": "Italian, Italian-American",
+      "price": "$$",
+      "path": "/usa/newyork/new-rochelle/maria-restaurant"
+    }
+  ]
+}

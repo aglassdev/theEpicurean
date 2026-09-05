@@ -1,14 +1,20 @@
 {
   "title": "Weissbad",
-  "country": "switzerland",
-  "region": "weissbad",
-  "city": "weissbad",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "weissbad",
+  "city": "Weissbad",
+  "citySlug": "weissbad",
+  "path": "/switzerland/weissbad/weissbad/restaurants",
+  "canonicalPath": "/switzerland/weissbad/weissbad/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Schotte-Sepp-Stube / Flickflauder",
       "cuisine": "Farm to table, International",
       "price": "€€€",
-      "path": "/switzerland/weissbad/weissbad/schotte-sepp-stube-flickflauder"
+      "path": "/switzerland/weissbad/weissbad/schotteseppstube-flickflauder"
     }
   ]
 }

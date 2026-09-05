@@ -1,14 +1,21 @@
 {
   "title": "Zuidlaren",
-  "country": "netherlands",
-  "region": "zuidlaren",
-  "city": "zuidlaren",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "zuidlaren",
+  "city": "Zuidlaren",
+  "citySlug": "zuidlaren",
+  "path": "/netherlands/zuidlaren/zuidlaren/restaurants",
+  "canonicalPath": "/netherlands/zuidlaren/zuidlaren/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "De Vlindertuin",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/netherlands/zuidlaren/zuidlaren/de-vlindertuin"
+      "path": "/netherlands/zuidlaren/zuidlaren/de-vlindertuin",
+      "award": "★"
     }
   ]
 }

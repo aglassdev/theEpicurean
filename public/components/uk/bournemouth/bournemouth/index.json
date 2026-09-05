@@ -1,8 +1,14 @@
 {
   "title": "Bournemouth",
-  "country": "uk",
-  "region": "bournemouth",
-  "city": "bournemouth",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "bournemouth",
+  "city": "Bournemouth",
+  "citySlug": "bournemouth",
+  "path": "/uk/bournemouth/bournemouth/restaurants",
+  "canonicalPath": "/uk/bournemouth/bournemouth/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Art Sushi",

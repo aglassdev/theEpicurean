@@ -1,14 +1,21 @@
 {
   "title": "Lauterborn",
-  "country": "luxembourg",
-  "region": "lauterborn",
-  "city": "lauterborn",
+  "country": "Luxembourg",
+  "countrySlug": "luxembourg",
+  "region": null,
+  "regionSlug": "lauterborn",
+  "city": "Lauterborn",
+  "citySlug": "lauterborn",
+  "path": "/luxembourg/lauterborn/lauterborn/restaurants",
+  "canonicalPath": "/luxembourg/lauterborn/lauterborn/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Archibald De Prince",
       "cuisine": "Organic, Creative",
       "price": "€€€€",
-      "path": "/luxembourg/lauterborn/lauterborn/archibald-de-prince"
+      "path": "/luxembourg/lauterborn/lauterborn/archibald-de-prince",
+      "award": "★"
     }
   ]
 }

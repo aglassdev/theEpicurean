@@ -1,14 +1,20 @@
 {
   "title": "Jochberg",
-  "country": "austria",
-  "region": "jochberg",
-  "city": "jochberg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "jochberg",
+  "city": "Jochberg",
+  "citySlug": "jochberg",
+  "path": "/austria/jochberg/jochberg/restaurants",
+  "canonicalPath": "/austria/jochberg/jochberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Schwarzer Adler",
       "cuisine": "Alpine, Classic Cuisine",
       "price": "€€",
-      "path": "/austria/jochberg/jochberg/schwarzer-adler"
+      "path": "/austria/jochberg/jochberg/schwarzer-adler-j-o-c"
     }
   ]
 }

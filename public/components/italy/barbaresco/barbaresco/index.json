@@ -1,8 +1,14 @@
 {
   "title": "Barbaresco",
-  "country": "italy",
-  "region": "barbaresco",
-  "city": "barbaresco",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "barbaresco",
+  "city": "Barbaresco",
+  "citySlug": "barbaresco",
+  "path": "/italy/barbaresco/barbaresco/restaurants",
+  "canonicalPath": "/italy/barbaresco/barbaresco/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Antinè",

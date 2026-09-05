@@ -1,8 +1,14 @@
 {
   "title": "Helmsley",
-  "country": "uk",
-  "region": "helmsley",
-  "city": "helmsley",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "helmsley",
+  "city": "Helmsley",
+  "citySlug": "helmsley",
+  "path": "/uk/helmsley/helmsley/restaurants",
+  "canonicalPath": "/uk/helmsley/helmsley/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pignut",

@@ -1,20 +1,20 @@
 {
   "title": "Cadzand",
-  "country": "netherlands",
-  "region": "cadzand",
-  "city": "cadzand",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "cadzand",
+  "city": "Cadzand",
+  "citySlug": "cadzand",
+  "path": "/netherlands/cadzand/cadzand/restaurants",
+  "canonicalPath": "/netherlands/cadzand/cadzand/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Dell'arte",
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/netherlands/cadzand/cadzand/dellarte"
-    },
-    {
-      "name": "Demain",
-      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/netherlands/cadzand/cadzand/demain"
     }
   ]
 }

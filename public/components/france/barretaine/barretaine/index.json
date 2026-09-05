@@ -1,5 +1,14 @@
 {
   "title": "Barretaine",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "barretaine",
+  "city": "Barretaine",
+  "citySlug": "barretaine",
+  "path": "/france/barretaine/barretaine/restaurants",
+  "canonicalPath": "/france/barretaine/barretaine/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Maison Zugno",
@@ -11,7 +20,7 @@
       "name": "Sève - Maison Zugno",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/barretaine/barretaine/SveMaisonZugno"
+      "path": "/france/barretaine/barretaine/sve-maison-zugno"
     }
   ]
 }

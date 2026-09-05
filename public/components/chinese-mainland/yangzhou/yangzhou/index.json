@@ -1,23 +1,113 @@
 {
   "title": "Yangzhou",
+  "country": "China",
+  "countrySlug": "chinese-mainland",
+  "region": null,
+  "regionSlug": "yangzhou",
+  "city": "Yangzhou",
+  "citySlug": "yangzhou",
+  "path": "/chinese-mainland/yangzhou/yangzhou/restaurants",
+  "canonicalPath": "/china/yangzhou/yangzhou/restaurants",
+  "count": 16,
   "restaurants": [
+    {
+      "name": "Shang Palace",
+      "cuisine": "Huaiyang",
+      "price": "¥¥",
+      "path": "/china/yangzhou/yangzhou/shang-palace",
+      "award": "★"
+    },
     {
       "name": "Lao Hu Mian Guan",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/yangzhou/yangzhou/LaoHuMianGuan"
+      "path": "/chinese-mainland/yangzhou/yangzhou/lao-hu-mian-guan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Liuyuanchun Teahouse",
       "cuisine": "Dim Sum",
       "price": "$",
-      "path": "/chinese-mainland/yangzhou/yangzhou/LiuyuanchunTeahouse"
+      "path": "/chinese-mainland/yangzhou/yangzhou/liuyuanchun-teahouse",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Cai Gen Xiang Xiao Guan",
+      "cuisine": "Huaiyang",
+      "price": "¥",
+      "path": "/china/yangzhou/yangzhou/cai-gen-xiang-xiao-guan"
+    },
+    {
+      "name": "Cheng Yuan",
+      "cuisine": "Chinese Contemporary",
+      "price": "¥¥¥",
+      "path": "/china/yangzhou/yangzhou/cheng-yuan"
+    },
+    {
+      "name": "Fan Shui Chang Yu Mian (North Jiefang Road)",
+      "cuisine": "Noodles",
+      "price": "¥",
+      "path": "/china/yangzhou/yangzhou/fan-shui-chang-yu-mian-north-jiefang-road"
+    },
+    {
+      "name": "Hu Yuan Mei Shi",
+      "cuisine": "Huaiyang",
+      "price": "¥",
+      "path": "/china/yangzhou/yangzhou/hu-yuan-mei-shi"
+    },
+    {
+      "name": "Liu She Ji",
+      "cuisine": "Noodles",
+      "price": "¥",
+      "path": "/china/yangzhou/yangzhou/liu-she-ji"
+    },
+    {
+      "name": "Mountain Restaurant",
+      "cuisine": "Huaiyang",
+      "price": "¥¥",
+      "path": "/china/yangzhou/yangzhou/mountain-restaurant"
+    },
+    {
+      "name": "Quyuan Plus",
+      "cuisine": "Huaiyang, Cantonese",
+      "price": "¥¥",
+      "path": "/china/yangzhou/yangzhou/quyuan-plus"
+    },
+    {
+      "name": "Quyuan Teahouse (Changchun Road)",
+      "cuisine": "Huaiyang, Dim Sum",
+      "price": "¥¥",
+      "path": "/china/yangzhou/yangzhou/quyuan-teahouse-changchun-road"
+    },
+    {
+      "name": "Shuang Dong",
+      "cuisine": "Huaiyang",
+      "price": "¥¥",
+      "path": "/china/yangzhou/yangzhou/shuang-dong"
+    },
+    {
+      "name": "Yangzhou Yan (38 Changchun Road)",
+      "cuisine": "Huaiyang",
+      "price": "¥¥",
+      "path": "/china/yangzhou/yangzhou/yangzhou-yan38-changchun-road"
     },
     {
       "name": "Yangzhou Yuanzi",
       "cuisine": "Huaiyang",
       "price": "$$",
-      "path": "/chinese-mainland/yangzhou/yangzhou/YangzhouYuanzi"
+      "path": "/chinese-mainland/yangzhou/yangzhou/yangzhou-yuanzi"
+    },
+    {
+      "name": "Yi Yuan (Siwangting Road)",
+      "cuisine": "Huaiyang",
+      "price": "¥¥",
+      "path": "/china/yangzhou/yangzhou/yi-yuan-siwangting-road"
+    },
+    {
+      "name": "Yu Cheng",
+      "cuisine": "Huaiyang",
+      "price": "¥¥",
+      "path": "/china/yangzhou/yangzhou/yu-cheng"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "title": "Oceanside",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Oceanside",
+  "citySlug": "oceanside",
+  "path": "/usa/other/oceanside/restaurants",
+  "canonicalPath": "/usa/california/oceanside/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Valle",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/oceanside/valle",
+      "award": "★"
+    },
+    {
+      "name": "24 Suns",
+      "cuisine": "Chinese Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/oceanside/24-suns"
+    },
+    {
+      "name": "Dija Mara",
+      "cuisine": "Indonesian, Thai and Vietnamese",
+      "price": "$$",
+      "path": "/usa/california/oceanside/dija-mara"
+    },
+    {
+      "name": "Tanner's Prime Burgers",
+      "cuisine": "American",
+      "price": "$",
+      "path": "/usa/california/oceanside/tanners-prime-burgers"
+    }
+  ]
+}

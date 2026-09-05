@@ -1,20 +1,20 @@
 {
   "title": "Dei",
-  "country": "spain",
-  "region": "dei",
-  "city": "dei",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "dei",
+  "city": "Dei",
+  "citySlug": "dei",
+  "path": "/spain/dei/dei/restaurants",
+  "canonicalPath": "/spain/dei/dei/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Ca Ses Sauerschell's",
       "cuisine": "International, Classic Cuisine",
       "price": "€€€",
       "path": "/spain/dei/dei/ca-ses-sauerschells"
-    },
-    {
-      "name": "El Olivo",
-      "cuisine": "Mediterranean Cuisine, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/spain/dei/dei/el-olivo"
     },
     {
       "name": "El Olivo",

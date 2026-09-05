@@ -1,17 +1,26 @@
 {
   "title": "Premsttten",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "premsttten",
+  "city": "Premsttten",
+  "citySlug": "premsttten",
+  "path": "/austria/premsttten/premsttten/restaurants",
+  "canonicalPath": "/austria/premsttten/premsttten/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Kupferdachl - Das Edelsbrunner",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/austria/premsttten/premsttten/kupferdachl-das-edelsbrunner"
+    },
     {
       "name": "Kupferdachl - Wirtshaus",
       "cuisine": "Regional Cuisine, Seasonal Cuisine",
       "price": "€€",
       "path": "/austria/premsttten/premsttten/kupferdachl-wirtshaus"
-    },
-    {
-      "name": "Kupferdachl - Das Edelsbrunner",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/austria/premsttten/premsttten/KupferdachlDasEdelsbrunner"
     }
   ]
 }

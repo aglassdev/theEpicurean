@@ -1,20 +1,27 @@
 {
   "title": "Noordeloos",
-  "country": "netherlands",
-  "region": "noordeloos",
-  "city": "noordeloos",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "noordeloos",
+  "city": "Noordeloos",
+  "citySlug": "noordeloos",
+  "path": "/netherlands/noordeloos/noordeloos/restaurants",
+  "canonicalPath": "/netherlands/noordeloos/noordeloos/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Bistro",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/netherlands/noordeloos/noordeloos/bistro"
-    },
     {
       "name": "De Gieser Wildeman",
       "cuisine": "Classic French, Creative French",
       "price": "€€€",
-      "path": "/netherlands/noordeloos/noordeloos/de-gieser-wildeman"
+      "path": "/netherlands/noordeloos/noordeloos/de-gieser-wildeman",
+      "award": "★"
+    },
+    {
+      "name": "Bistro",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/netherlands/noordeloos/noordeloos/bistro-n-o-o"
     }
   ]
 }

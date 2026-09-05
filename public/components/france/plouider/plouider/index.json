@@ -1,14 +1,21 @@
 {
   "title": "Plouider",
-  "country": "france",
-  "region": "plouider",
-  "city": "plouider",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "plouider",
+  "city": "Plouider",
+  "citySlug": "plouider",
+  "path": "/france/plouider/plouider/restaurants",
+  "canonicalPath": "/france/plouider/plouider/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Table de La Butte",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/plouider/plouider/la-table-de-la-butte"
+      "path": "/france/plouider/plouider/la-table-de-la-butte",
+      "award": "★"
     },
     {
       "name": "Le Comptoir de La Butte",

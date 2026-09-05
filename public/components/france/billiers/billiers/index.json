@@ -1,8 +1,14 @@
 {
   "title": "Billiers",
-  "country": "france",
-  "region": "billiers",
-  "city": "billiers",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "billiers",
+  "city": "Billiers",
+  "citySlug": "billiers",
+  "path": "/france/billiers/billiers/restaurants",
+  "canonicalPath": "/france/billiers/billiers/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Domaine de Rochevilaine",

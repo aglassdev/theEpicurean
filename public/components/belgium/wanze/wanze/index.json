@@ -1,20 +1,26 @@
 {
   "title": "Wanze",
-  "country": "belgium",
-  "region": "wanze",
-  "city": "wanze",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "wanze",
+  "city": "Wanze",
+  "citySlug": "wanze",
+  "path": "/belgium/wanze/wanze/restaurants",
+  "canonicalPath": "/belgium/wanze/wanze/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Basta!",
       "cuisine": "Italian, Modern French",
       "price": "€€",
-      "path": "/belgium/wanze/wanze/basta"
+      "path": "/belgium/wanze/wanze/basta-w-a-n"
     },
     {
       "name": "POLLEN",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/belgium/wanze/wanze/pollen"
+      "path": "/belgium/wanze/wanze/pollen-w-a-n"
     }
   ]
 }

@@ -1,26 +1,27 @@
 {
   "title": "Scorz",
-  "country": "italy",
-  "region": "scorz",
-  "city": "scorz",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "scorz",
+  "city": "Scorz",
+  "citySlug": "scorz",
+  "path": "/italy/scorz/scorz/restaurants",
+  "canonicalPath": "/italy/scorz/scorz/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "San Martino",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/scorz/scorz/san-martino",
+      "award": "★"
+    },
     {
       "name": "I Savi",
       "cuisine": "Seafood, Traditional Cuisine",
       "price": "€€",
       "path": "/italy/scorz/scorz/i-savi"
-    },
-    {
-      "name": "San Martino",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/italy/scorz/scorz/san-martino"
-    },
-    {
-      "name": "San Martino",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/italy/scorz/scorz/san-martino"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
-  "title": "San Don Di Piave",
-  "country": "italy",
-  "region": "san-don-di-piave",
-  "city": "san-don-di-piave",
+  "title": "San Don di Piave",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-don-di-piave",
+  "city": "San Don di Piave",
+  "citySlug": "san-don-di-piave",
+  "path": "/italy/san-don-di-piave/san-don-di-piave/restaurants",
+  "canonicalPath": "/italy/san-don-di-piave/san-don-di-piave/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Forte del 48",
       "cuisine": "Venetian, Country cooking",
       "price": "€€",
-      "path": "/italy/san-don-di-piave/san-don-di-piave/forte-del-48"
+      "path": "/italy/san-don-di-piave/san-don-di-piave/forte-del48"
     }
   ]
 }

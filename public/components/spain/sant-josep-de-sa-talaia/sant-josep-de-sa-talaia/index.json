@@ -1,9 +1,22 @@
 {
-  "title": "Sant Josep De Sa Talaia",
-  "country": "spain",
-  "region": "sant-josep-de-sa-talaia",
-  "city": "sant-josep-de-sa-talaia",
+  "title": "Sant Josep de Sa Talaia",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "sant-josep-de-sa-talaia",
+  "city": "Sant Josep de Sa Talaia",
+  "citySlug": "sant-josep-de-sa-talaia",
+  "path": "/spain/sant-josep-de-sa-talaia/sant-josep-de-sa-talaia/restaurants",
+  "canonicalPath": "/spain/sant-josep-de-sa-talaia/sant-josep-de-sa-talaia/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Unic",
+      "cuisine": "Innovative",
+      "price": "€€€",
+      "path": "/spain/sant-josep-de-sa-talaia/sant-josep-de-sa-talaia/unic",
+      "award": "★"
+    },
     {
       "name": "Ca's Milà",
       "cuisine": "Mediterranean Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/spain/sant-josep-de-sa-talaia/sant-josep-de-sa-talaia/es-boldado"
-    },
-    {
-      "name": "Unic",
-      "cuisine": "Innovative",
-      "price": "€€€",
-      "path": "/spain/sant-josep-de-sa-talaia/sant-josep-de-sa-talaia/unic"
     }
   ]
 }

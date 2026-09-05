@@ -1,14 +1,21 @@
 {
   "title": "Marche En Famenne",
-  "country": "belgium",
-  "region": "marche-en-famenne",
-  "city": "marche-en-famenne",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "marche-en-famenne",
+  "city": "Marche En Famenne",
+  "citySlug": "marche-en-famenne",
+  "path": "/belgium/marche-en-famenne/marche-en-famenne/restaurants",
+  "canonicalPath": "/belgium/marche-en-famenne/marche-en-famenne/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Bistrot Blaise",
       "cuisine": "French Contemporary",
       "price": "€€€",
-      "path": "/belgium/marche-en-famenne/marche-en-famenne/bistrot-blaise"
+      "path": "/belgium/marche-en-famenne/marche-en-famenne/bistrot-blaise",
+      "award": "★"
     },
     {
       "name": "La Gloriette",
@@ -20,7 +27,7 @@
       "name": "Les 4 Saisons",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/belgium/marche-en-famenne/marche-en-famenne/les-4-saisons"
+      "path": "/belgium/marche-en-famenne/marche-en-famenne/les4-saisons"
     }
   ]
 }

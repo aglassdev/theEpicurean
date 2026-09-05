@@ -1,8 +1,14 @@
 {
   "title": "Bnde",
-  "country": "germany",
-  "region": "bnde",
-  "city": "bnde",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bnde",
+  "city": "Bnde",
+  "citySlug": "bnde",
+  "path": "/germany/bnde/bnde/restaurants",
+  "canonicalPath": "/germany/bnde/bnde/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Zum Adler",

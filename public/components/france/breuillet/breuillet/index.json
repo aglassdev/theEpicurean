@@ -1,14 +1,21 @@
 {
   "title": "Breuillet",
-  "country": "france",
-  "region": "breuillet",
-  "city": "breuillet",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "breuillet",
+  "city": "Breuillet",
+  "citySlug": "breuillet",
+  "path": "/france/breuillet/breuillet/restaurants",
+  "canonicalPath": "/france/breuillet/breuillet/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Aquarelle",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/breuillet/breuillet/laquarelle"
+      "path": "/france/breuillet/breuillet/laquarelle",
+      "award": "★"
     }
   ]
 }

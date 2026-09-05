@@ -1,8 +1,14 @@
 {
   "title": "Parsberg",
-  "country": "germany",
-  "region": "parsberg",
-  "city": "parsberg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "parsberg",
+  "city": "Parsberg",
+  "citySlug": "parsberg",
+  "path": "/germany/parsberg/parsberg/restaurants",
+  "canonicalPath": "/germany/parsberg/parsberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hirschkönig",

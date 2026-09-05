@@ -1,11 +1,20 @@
 {
-  "title": "Dürnstein",
+  "title": "Drnstein",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "drnstein",
+  "city": "Drnstein",
+  "citySlug": "drnstein",
+  "path": "/austria/drnstein/drnstein/restaurants",
+  "canonicalPath": "/austria/drnstein/drnstein/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Loibnerhof",
       "cuisine": "Austrian",
       "price": "$$",
-      "path": "/austria/drnstein/drnstein/Loibnerhof"
+      "path": "/austria/drnstein/drnstein/loibnerhof"
     }
   ]
 }

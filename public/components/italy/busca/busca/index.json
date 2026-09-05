@@ -1,8 +1,14 @@
 {
   "title": "Busca",
-  "country": "italy",
-  "region": "busca",
-  "city": "busca",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "busca",
+  "city": "Busca",
+  "citySlug": "busca",
+  "path": "/italy/busca/busca/restaurants",
+  "canonicalPath": "/italy/busca/busca/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "San Quintino Resort",

@@ -1,8 +1,14 @@
 {
   "title": "Chablis",
-  "country": "france",
-  "region": "chablis",
-  "city": "chablis",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chablis",
+  "city": "Chablis",
+  "citySlug": "chablis",
+  "path": "/france/chablis/chablis/restaurants",
+  "canonicalPath": "/france/chablis/chablis/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Au Fil du Zinc",

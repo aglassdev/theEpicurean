@@ -1,8 +1,14 @@
 {
   "title": "Bra",
-  "country": "italy",
-  "region": "bra",
-  "city": "bra",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bra",
+  "city": "Bra",
+  "citySlug": "bra",
+  "path": "/italy/bra/bra/restaurants",
+  "canonicalPath": "/italy/bra/bra/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Battaglino",

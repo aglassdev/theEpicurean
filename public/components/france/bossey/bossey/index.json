@@ -1,8 +1,14 @@
 {
   "title": "Bossey",
-  "country": "france",
-  "region": "bossey",
-  "city": "bossey",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bossey",
+  "city": "Bossey",
+  "citySlug": "bossey",
+  "path": "/france/bossey/bossey/restaurants",
+  "canonicalPath": "/france/bossey/bossey/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Ferme de l'Hospital",

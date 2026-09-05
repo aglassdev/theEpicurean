@@ -1,20 +1,27 @@
 {
   "title": "Chlons En Champagne",
-  "country": "france",
-  "region": "chlons-en-champagne",
-  "city": "chlons-en-champagne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chlons-en-champagne",
+  "city": "Chlons En Champagne",
+  "citySlug": "chlons-en-champagne",
+  "path": "/france/chlons-en-champagne/chlons-en-champagne/restaurants",
+  "canonicalPath": "/france/chlons-en-champagne/chlons-en-champagne/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Jérôme Feck",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/chlons-en-champagne/chlons-en-champagne/jrme-feck",
+      "award": "★"
+    },
     {
       "name": "Au Carillon Gourmand",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/chlons-en-champagne/chlons-en-champagne/au-carillon-gourmand"
-    },
-    {
-      "name": "Jérôme Feck",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/chlons-en-champagne/chlons-en-champagne/jrme-feck"
     }
   ]
 }

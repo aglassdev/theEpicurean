@@ -1,14 +1,20 @@
 {
   "title": "Celle",
-  "country": "germany",
-  "region": "celle",
-  "city": "celle",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "celle",
+  "city": "Celle",
+  "citySlug": "celle",
+  "path": "/germany/celle/celle/restaurants",
+  "canonicalPath": "/germany/celle/celle/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Das Esszimmer",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/germany/celle/celle/das-esszimmer"
+      "path": "/germany/celle/celle/das-esszimmer-c-e-l"
     },
     {
       "name": "der allerKrug",

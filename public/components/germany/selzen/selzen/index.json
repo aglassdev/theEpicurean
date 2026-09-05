@@ -1,14 +1,21 @@
 {
   "title": "Selzen",
-  "country": "germany",
-  "region": "selzen",
-  "city": "selzen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "selzen",
+  "city": "Selzen",
+  "citySlug": "selzen",
+  "path": "/germany/selzen/selzen/restaurants",
+  "canonicalPath": "/germany/selzen/selzen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Kaupers Restaurant im Kapellenhof",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/germany/selzen/selzen/kaupers-restaurant-im-kapellenhof"
+      "path": "/germany/selzen/selzen/kaupers-restaurant-im-kapellenhof",
+      "award": "★"
     }
   ]
 }

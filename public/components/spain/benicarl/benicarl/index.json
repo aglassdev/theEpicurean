@@ -1,20 +1,27 @@
 {
   "title": "Benicarl",
-  "country": "spain",
-  "region": "benicarl",
-  "city": "benicarl",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "benicarl",
+  "city": "Benicarl",
+  "citySlug": "benicarl",
+  "path": "/spain/benicarl/benicarl/restaurants",
+  "canonicalPath": "/spain/benicarl/benicarl/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Raúl Resino",
+      "cuisine": "Creative, Seafood",
+      "price": "€€€€",
+      "path": "/spain/benicarl/benicarl/ral-resino",
+      "award": "★"
+    },
     {
       "name": "Pau",
       "cuisine": "Rice Dishes, Traditional Cuisine",
       "price": "€",
       "path": "/spain/benicarl/benicarl/pau"
-    },
-    {
-      "name": "Raúl Resino",
-      "cuisine": "Creative, Seafood",
-      "price": "€€€€",
-      "path": "/spain/benicarl/benicarl/ral-resino"
     }
   ]
 }

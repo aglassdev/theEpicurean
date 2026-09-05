@@ -1,14 +1,21 @@
 {
   "title": "Boulleret",
-  "country": "france",
-  "region": "boulleret",
-  "city": "boulleret",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "boulleret",
+  "city": "Boulleret",
+  "citySlug": "boulleret",
+  "path": "/france/boulleret/boulleret/restaurants",
+  "canonicalPath": "/france/boulleret/boulleret/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison Medard",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€",
-      "path": "/france/boulleret/boulleret/maison-medard"
+      "path": "/france/boulleret/boulleret/maison-medard",
+      "award": "★"
     }
   ]
 }

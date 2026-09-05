@@ -1,14 +1,20 @@
 {
   "title": "Oude Wetering",
-  "country": "netherlands",
-  "region": "oude-wetering",
-  "city": "oude-wetering",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "oude-wetering",
+  "city": "Oude Wetering",
+  "citySlug": "oude-wetering",
+  "path": "/netherlands/oude-wetering/oude-wetering/restaurants",
+  "canonicalPath": "/netherlands/oude-wetering/oude-wetering/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Plantage 87",
       "cuisine": "Modern Cuisine, Cuisine from the Marches",
       "price": "€€€",
-      "path": "/netherlands/oude-wetering/oude-wetering/plantage-87"
+      "path": "/netherlands/oude-wetering/oude-wetering/plantage87"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Montmarault",
-  "country": "france",
-  "region": "montmarault",
-  "city": "montmarault",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montmarault",
+  "city": "Montmarault",
+  "citySlug": "montmarault",
+  "path": "/france/montmarault/montmarault/restaurants",
+  "canonicalPath": "/france/montmarault/montmarault/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Anne & Matthieu Omont - Hôtel de France",

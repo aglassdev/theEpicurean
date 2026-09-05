@@ -1,17 +1,28 @@
 {
-  "title": "Bogotá",
+  "title": "Bogot",
+  "country": "Colombia",
+  "countrySlug": "colombia",
+  "region": null,
+  "regionSlug": "bogot",
+  "city": "Bogot",
+  "citySlug": "bogot",
+  "path": "/colombia/bogot/bogot/restaurants",
+  "canonicalPath": "/colombia/bogot/bogot/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Leo",
-      "cuisine": "",
-      "price": "",
-      "path": "/colombia/bogot/bogot/Leo"
-    },
     {
       "name": "El Chato",
       "cuisine": "",
       "price": "",
-      "path": "/colombia/bogot/bogot/ElChato"
+      "path": "/colombia/bogot/bogot/el-chato",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Leo",
+      "cuisine": "",
+      "price": "",
+      "path": "/colombia/bogot/bogot/leo",
+      "award": "World's 50 Best"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Pont Aven",
-  "country": "france",
-  "region": "pont-aven",
-  "city": "pont-aven",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pont-aven",
+  "city": "Pont Aven",
+  "citySlug": "pont-aven",
+  "path": "/france/pont-aven/pont-aven/restaurants",
+  "canonicalPath": "/france/pont-aven/pont-aven/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Rosmadec Le Moulin",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/pont-aven/pont-aven/rosmadec-le-moulin"
+      "path": "/france/pont-aven/pont-aven/rosmadec-le-moulin",
+      "award": "★"
     }
   ]
 }

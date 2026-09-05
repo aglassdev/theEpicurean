@@ -1,6 +1,35 @@
 {
   "title": "Ensenada",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "ensenada",
+  "city": "Ensenada",
+  "citySlug": "ensenada",
+  "path": "/mexico/ensenada/ensenada/restaurants",
+  "canonicalPath": "/mexico/ensenada/ensenada/restaurants",
+  "count": 16,
   "restaurants": [
+    {
+      "name": "Olivea Farm to Table",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/mexico/ensenada/ensenada/olivea-farm-to-table",
+      "award": "★"
+    },
+    {
+      "name": "Fauna",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/mexico/ensenada/ensenada/fauna",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Amapola",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/ensenada/ensenada/amapola"
+    },
     {
       "name": "Bruma Wine Garden",
       "cuisine": "Contemporary",
@@ -14,10 +43,22 @@
       "path": "/mexico/ensenada/ensenada/casa-marcelo"
     },
     {
+      "name": "COMAL Restaurante",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/mexico/ensenada/ensenada/comal-restaurante"
+    },
+    {
       "name": "El Paisa",
       "cuisine": "Mexican",
       "price": "$",
       "path": "/mexico/ensenada/ensenada/el-paisa"
+    },
+    {
+      "name": "Fireside",
+      "cuisine": "Mexican",
+      "price": "$$$",
+      "path": "/mexico/ensenada/ensenada/fireside"
     },
     {
       "name": "Humo y Sal",
@@ -44,12 +85,6 @@
       "path": "/mexico/ensenada/ensenada/manzanilla"
     },
     {
-      "name": "Olivea Farm to Table",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/mexico/ensenada/ensenada/olivea-farm-to-table"
-    },
-    {
       "name": "Restaurante Punta Morro",
       "cuisine": "Mexican",
       "price": "$$$$",
@@ -72,30 +107,6 @@
       "cuisine": "Mexican",
       "price": "$",
       "path": "/mexico/ensenada/ensenada/tacos-mi-ranchito-el-fenix"
-    },
-    {
-      "name": "Fauna",
-      "cuisine": "Mexican",
-      "price": "$$$",
-      "path": "/mexico/ensenada/ensenada/Fauna"
-    },
-    {
-      "name": "Amapola",
-      "cuisine": "Mexican",
-      "price": "$$$$",
-      "path": "/mexico/ensenada/ensenada/Amapola"
-    },
-    {
-      "name": "COMAL Restaurante",
-      "cuisine": "Mexican",
-      "price": "$$",
-      "path": "/mexico/ensenada/ensenada/ComalRestaurante"
-    },
-    {
-      "name": "Fireside",
-      "cuisine": "Mexican",
-      "price": "$$$",
-      "path": "/mexico/ensenada/ensenada/Fireside"
     }
   ]
 }

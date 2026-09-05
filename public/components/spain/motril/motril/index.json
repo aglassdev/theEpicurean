@@ -1,11 +1,20 @@
 {
   "title": "Motril",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "motril",
+  "city": "Motril",
+  "citySlug": "motril",
+  "path": "/spain/motril/motril/restaurants",
+  "canonicalPath": "/spain/motril/motril/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Espacio IME",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/spain/motril/motril/EspacioIme"
+      "path": "/spain/motril/motril/espacio-ime"
     }
   ]
 }

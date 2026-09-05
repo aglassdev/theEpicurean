@@ -1,17 +1,83 @@
 {
   "title": "Rotterdam",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "rotterdam",
+  "city": "Rotterdam",
+  "citySlug": "rotterdam",
+  "path": "/netherlands/rotterdam/rotterdam/restaurants",
+  "canonicalPath": "/netherlands/rotterdam/rotterdam/restaurants",
+  "count": 31,
   "restaurants": [
     {
-      "name": "Aji",
-      "cuisine": "South American, Asian",
-      "price": "€€€",
-      "path": "/netherlands/rotterdam/rotterdam/aji"
+      "name": "FG - François Geurds",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/netherlands/rotterdam/rotterdam/fg-franois-geurds",
+      "award": "★★"
+    },
+    {
+      "name": "Fred",
+      "cuisine": "Creative French",
+      "price": "€€€€",
+      "path": "/netherlands/rotterdam/rotterdam/fred",
+      "award": "★★"
+    },
+    {
+      "name": "Parkheuvel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/netherlands/rotterdam/rotterdam/parkheuvel",
+      "award": "★★"
+    },
+    {
+      "name": "Restaurant Parkheuvel",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/netherlands/rotterdam/rotterdam/restaurant-parkheuvel",
+      "award": "★★"
     },
     {
       "name": "Amarone",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/netherlands/rotterdam/rotterdam/amarone"
+      "path": "/netherlands/rotterdam/rotterdam/amarone",
+      "award": "★"
+    },
+    {
+      "name": "Fitzgerald",
+      "cuisine": "Modern French, International",
+      "price": "€€€",
+      "path": "/netherlands/rotterdam/rotterdam/fitzgerald",
+      "award": "★"
+    },
+    {
+      "name": "Joelia",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/netherlands/rotterdam/rotterdam/joelia",
+      "award": "★"
+    },
+    {
+      "name": "The Millèn",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/netherlands/rotterdam/rotterdam/the-milln",
+      "award": "★"
+    },
+    {
+      "name": "Zeezout",
+      "cuisine": "Seafood, French",
+      "price": "€€€",
+      "path": "/netherlands/rotterdam/rotterdam/zeezout",
+      "award": "★"
+    },
+    {
+      "name": "Aji",
+      "cuisine": "South American, Asian",
+      "price": "€€€",
+      "path": "/netherlands/rotterdam/rotterdam/aji"
     },
     {
       "name": "Asian Glories",
@@ -29,25 +95,7 @@
       "name": "De Harmonie 23",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/netherlands/rotterdam/rotterdam/de-harmonie-23"
-    },
-    {
-      "name": "FG - François Geurds",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/netherlands/rotterdam/rotterdam/fg-franois-geurds"
-    },
-    {
-      "name": "Fitzgerald",
-      "cuisine": "Modern French, International",
-      "price": "€€€",
-      "path": "/netherlands/rotterdam/rotterdam/fitzgerald"
-    },
-    {
-      "name": "Fred",
-      "cuisine": "Creative French",
-      "price": "€€€€",
-      "path": "/netherlands/rotterdam/rotterdam/fred"
+      "path": "/netherlands/rotterdam/rotterdam/de-harmonie23"
     },
     {
       "name": "Gym & Gin",
@@ -80,12 +128,6 @@
       "path": "/netherlands/rotterdam/rotterdam/in-den-rustwat"
     },
     {
-      "name": "Joelia",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/netherlands/rotterdam/rotterdam/joelia"
-    },
-    {
       "name": "NY Basement",
       "cuisine": "Modern Cuisine, French Contemporary",
       "price": "€€€",
@@ -98,16 +140,16 @@
       "path": "/netherlands/rotterdam/rotterdam/on-cru"
     },
     {
-      "name": "Parkheuvel",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/netherlands/rotterdam/rotterdam/parkheuvel"
-    },
-    {
       "name": "Putaine",
       "cuisine": "Modern Cuisine, Creative French",
       "price": "€€€",
       "path": "/netherlands/rotterdam/rotterdam/putaine"
+    },
+    {
+      "name": "Restaurant Huson",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/netherlands/rotterdam/rotterdam/restaurant-huson"
     },
     {
       "name": "Restaurant Renilde",
@@ -132,12 +174,6 @@
       "cuisine": "Vegetarian, Modern Cuisine",
       "price": "€€",
       "path": "/netherlands/rotterdam/rotterdam/rotonde"
-    },
-    {
-      "name": "The Millèn",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/netherlands/rotterdam/rotterdam/the-milln"
     },
     {
       "name": "Tres",
@@ -168,24 +204,6 @@
       "cuisine": "Creative French, Fusion",
       "price": "€€€",
       "path": "/netherlands/rotterdam/rotterdam/yano"
-    },
-    {
-      "name": "Zeezout",
-      "cuisine": "Seafood, French",
-      "price": "€€€",
-      "path": "/netherlands/rotterdam/rotterdam/zeezout"
-    },
-    {
-      "name": "Restaurant Parkheuvel",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/netherlands/rotterdam/rotterdam/RestaurantParkheuvel"
-    },
-    {
-      "name": "Restaurant Huson",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/netherlands/rotterdam/rotterdam/RestaurantHuson"
     }
   ]
 }

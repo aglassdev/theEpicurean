@@ -1,14 +1,21 @@
 {
   "title": "Bad Gleichenberg",
-  "country": "austria",
-  "region": "bad-gleichenberg",
-  "city": "bad-gleichenberg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "bad-gleichenberg",
+  "city": "Bad Gleichenberg",
+  "citySlug": "bad-gleichenberg",
+  "path": "/austria/bad-gleichenberg/bad-gleichenberg/restaurants",
+  "canonicalPath": "/austria/bad-gleichenberg/bad-gleichenberg/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Geschwister Rauch - Restaurant",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/austria/bad-gleichenberg/bad-gleichenberg/geschwister-rauch-restaurant"
+      "path": "/austria/bad-gleichenberg/bad-gleichenberg/geschwister-rauch-restaurant",
+      "award": "★"
     },
     {
       "name": "Geschwister Rauch - Wirtshaus",

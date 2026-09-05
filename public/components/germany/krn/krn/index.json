@@ -1,14 +1,21 @@
 {
   "title": "Krn",
-  "country": "germany",
-  "region": "krn",
-  "city": "krn",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "krn",
+  "city": "Krn",
+  "citySlug": "krn",
+  "path": "/germany/krn/krn/restaurants",
+  "canonicalPath": "/germany/krn/krn/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "IKIGAI",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/germany/krn/krn/ikigai"
+      "path": "/germany/krn/krn/ikigai",
+      "award": "★★"
     }
   ]
 }

@@ -1,17 +1,27 @@
 {
   "title": "Cavite",
+  "country": "Philippines",
+  "countrySlug": "the-philippines",
+  "region": null,
+  "regionSlug": "cavite",
+  "city": "Cavite",
+  "citySlug": "cavite",
+  "path": "/the-philippines/cavite/cavite/restaurants",
+  "canonicalPath": "/the-philippines/cavite/cavite/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Asador Alfonso",
       "cuisine": "Spanish Contemporary",
       "price": "$$$$",
-      "path": "/the-philippines/cavite/cavite/AsadorAlfonso"
+      "path": "/the-philippines/cavite/cavite/asador-alfonso",
+      "award": "★"
     },
     {
       "name": "Antonio's",
       "cuisine": "European",
       "price": "$$$$",
-      "path": "/the-philippines/cavite/cavite/Antonios"
+      "path": "/the-philippines/cavite/cavite/antonios"
     }
   ]
 }

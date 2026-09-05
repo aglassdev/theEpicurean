@@ -1,8 +1,14 @@
 {
   "title": "Passignano Sul Trasimeno",
-  "country": "italy",
-  "region": "passignano-sul-trasimeno",
-  "city": "passignano-sul-trasimeno",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "passignano-sul-trasimeno",
+  "city": "Passignano Sul Trasimeno",
+  "citySlug": "passignano-sul-trasimeno",
+  "path": "/italy/passignano-sul-trasimeno/passignano-sul-trasimeno/restaurants",
+  "canonicalPath": "/italy/passignano-sul-trasimeno/passignano-sul-trasimeno/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Da Luciano",
@@ -14,7 +20,7 @@
       "name": "Il Molo",
       "cuisine": "Country cooking, Contemporary",
       "price": "€€",
-      "path": "/italy/passignano-sul-trasimeno/passignano-sul-trasimeno/il-molo"
+      "path": "/italy/passignano-sul-trasimeno/passignano-sul-trasimeno/il-molo-p-a-s"
     }
   ]
 }

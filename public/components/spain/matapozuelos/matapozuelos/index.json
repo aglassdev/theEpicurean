@@ -1,14 +1,21 @@
 {
   "title": "Matapozuelos",
-  "country": "spain",
-  "region": "matapozuelos",
-  "city": "matapozuelos",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "matapozuelos",
+  "city": "Matapozuelos",
+  "citySlug": "matapozuelos",
+  "path": "/spain/matapozuelos/matapozuelos/restaurants",
+  "canonicalPath": "/spain/matapozuelos/matapozuelos/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Botica de Matapozuelos",
       "cuisine": "Contemporary, Castilian",
       "price": "€€€",
-      "path": "/spain/matapozuelos/matapozuelos/la-botica-de-matapozuelos"
+      "path": "/spain/matapozuelos/matapozuelos/la-botica-de-matapozuelos",
+      "award": "★"
     }
   ]
 }

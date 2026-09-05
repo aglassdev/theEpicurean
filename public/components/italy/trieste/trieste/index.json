@@ -1,9 +1,22 @@
 {
   "title": "Trieste",
-  "country": "italy",
-  "region": "trieste",
-  "city": "trieste",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "trieste",
+  "city": "Trieste",
+  "citySlug": "trieste",
+  "path": "/italy/trieste/trieste/restaurants",
+  "canonicalPath": "/italy/trieste/trieste/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Harry's Piccolo",
+      "cuisine": "Italian Contemporary, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/italy/trieste/trieste/harrys-piccolo",
+      "award": "★★"
+    },
     {
       "name": "Al Bagatto",
       "cuisine": "Seafood, Modern Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Seafood, International",
       "price": "€€€",
       "path": "/italy/trieste/trieste/al-petes"
-    },
-    {
-      "name": "Harry's Piccolo",
-      "cuisine": "Italian Contemporary, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/italy/trieste/trieste/harrys-piccolo"
     },
     {
       "name": "Menarosti",

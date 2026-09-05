@@ -1,23 +1,34 @@
 {
   "title": "Padrn",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "padrn",
+  "city": "Padrn",
+  "citySlug": "padrn",
+  "path": "/spain/padrn/padrn/restaurants",
+  "canonicalPath": "/spain/padrn/padrn/restaurants",
+  "count": 3,
   "restaurants": [
     {
-      "name": "Brandal",
-      "cuisine": "Galician",
-      "price": "€€€",
-      "path": "/spain/padrn/padrn/brandal"
+      "name": "Asador O'Pazo",
+      "cuisine": "Grills",
+      "price": "$$$$",
+      "path": "/spain/padrn/padrn/asador-opazo",
+      "award": "★"
     },
     {
       "name": "O'Pazo",
       "cuisine": "Grills",
       "price": "€€€€",
-      "path": "/spain/padrn/padrn/opazo"
+      "path": "/spain/padrn/padrn/opazo",
+      "award": "★"
     },
     {
-      "name": "Asador O'Pazo",
-      "cuisine": "Grills",
-      "price": "$$$$",
-      "path": "/spain/padrn/padrn/AsadorOpazo"
+      "name": "Brandal",
+      "cuisine": "Galician",
+      "price": "€€€",
+      "path": "/spain/padrn/padrn/brandal"
     }
   ]
 }

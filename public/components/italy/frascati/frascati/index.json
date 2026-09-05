@@ -1,5 +1,14 @@
 {
   "title": "Frascati",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "frascati",
+  "city": "Frascati",
+  "citySlug": "frascati",
+  "path": "/italy/frascati/frascati/restaurants",
+  "canonicalPath": "/italy/frascati/frascati/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Cacciani",
@@ -17,7 +26,7 @@
       "name": "Pasqualina",
       "cuisine": "Cuisine from Lazio",
       "price": "$$",
-      "path": "/italy/frascati/frascati/Pasqualina"
+      "path": "/italy/frascati/frascati/pasqualina"
     }
   ]
 }

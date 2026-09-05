@@ -1,14 +1,21 @@
 {
   "title": "Fordwich",
-  "country": "uk",
-  "region": "fordwich",
-  "city": "fordwich",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "fordwich",
+  "city": "Fordwich",
+  "citySlug": "fordwich",
+  "path": "/uk/fordwich/fordwich/restaurants",
+  "canonicalPath": "/uk/fordwich/fordwich/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fordwich Arms",
       "cuisine": "Modern Cuisine",
       "price": "£££",
-      "path": "/uk/fordwich/fordwich/fordwich-arms"
+      "path": "/uk/fordwich/fordwich/fordwich-arms",
+      "award": "★"
     }
   ]
 }

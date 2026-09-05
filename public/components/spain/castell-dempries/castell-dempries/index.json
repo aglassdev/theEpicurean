@@ -1,23 +1,34 @@
 {
   "title": "Castell Dempries",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "castell-dempries",
+  "city": "Castell Dempries",
+  "citySlug": "castell-dempries",
+  "path": "/spain/castell-dempries/castell-dempries/restaurants",
+  "canonicalPath": "/spain/castell-dempries/castell-dempries/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Bistrot 1965",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/spain/castell-dempries/castell-dempries/bistrot-1965"
-    },
     {
       "name": "Emporium",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/castell-dempries/castell-dempries/emporium"
+      "path": "/spain/castell-dempries/castell-dempries/emporium-c-a-s",
+      "award": "★"
     },
     {
       "name": "Empòrium",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/spain/castell-dempries/castell-dempries/Emprium"
+      "path": "/spain/castell-dempries/castell-dempries/emprium",
+      "award": "★"
+    },
+    {
+      "name": "Bistrot 1965",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/castell-dempries/castell-dempries/bistrot1965"
     }
   ]
 }

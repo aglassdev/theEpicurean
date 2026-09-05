@@ -1,15 +1,15 @@
 {
   "title": "Cambridge",
-  "country": "canada",
-  "region": "cambridge",
-  "city": "cambridge",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "cambridge",
+  "city": "Cambridge",
+  "citySlug": "cambridge",
+  "path": "/canada/cambridge/cambridge/restaurants",
+  "canonicalPath": "/canada/cambridge/cambridge/restaurants",
+  "count": 1,
   "restaurants": [
-    {
-      "name": "Langdon Hall Country House & Spa",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/canada/cambridge/cambridge/langdon-hall-country-house-spa"
-    },
     {
       "name": "Langdon Hall Country House & Spa",
       "cuisine": "Contemporary",

@@ -1,29 +1,39 @@
 {
   "title": "Katowice",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "katowice",
+  "city": "Katowice",
+  "citySlug": "katowice",
+  "path": "/poland/katowice/katowice/restaurants",
+  "canonicalPath": "/poland/katowice/katowice/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "KRZYWA Sztuka Wina",
       "cuisine": "Regional Cuisine",
       "price": "$",
-      "path": "/poland/katowice/katowice/KrzywaSztukaWina"
+      "path": "/poland/katowice/katowice/krzywa-sztuka-wina",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Amfora",
       "cuisine": "Middle Eastern",
       "price": "$",
-      "path": "/poland/katowice/katowice/Amfora"
+      "path": "/poland/katowice/katowice/amfora"
     },
     {
       "name": "Młodnik",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/poland/katowice/katowice/Modnik"
+      "path": "/poland/katowice/katowice/modnik"
     },
     {
       "name": "Śląska Prohibicja",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/poland/katowice/katowice/LskaProhibicja"
+      "path": "/poland/katowice/katowice/lska-prohibicja"
     }
   ]
 }

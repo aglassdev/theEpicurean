@@ -1,9 +1,29 @@
 {
-  "title": "Lech Am Arlberg",
-  "country": "austria",
-  "region": "lech-am-arlberg",
-  "city": "lech-am-arlberg",
+  "title": "Lech am Arlberg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "lech-am-arlberg",
+  "city": "Lech am Arlberg",
+  "citySlug": "lech-am-arlberg",
+  "path": "/austria/lech-am-arlberg/lech-am-arlberg/restaurants",
+  "canonicalPath": "/austria/lech-am-arlberg/lech-am-arlberg/restaurants",
+  "count": 15,
   "restaurants": [
+    {
+      "name": "Griggeler Stuba",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/austria/lech-am-arlberg/lech-am-arlberg/griggeler-stuba",
+      "award": "★★"
+    },
+    {
+      "name": "Rote Wand Chef's Table",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/austria/lech-am-arlberg/lech-am-arlberg/rote-wand-chefs-table",
+      "award": "★★"
+    },
     {
       "name": "Aurelio",
       "cuisine": "Contemporary, Modern Cuisine",
@@ -15,12 +35,6 @@
       "cuisine": "Fusion, Asian Influences",
       "price": "€€€€",
       "path": "/austria/lech-am-arlberg/lech-am-arlberg/fux"
-    },
-    {
-      "name": "Griggeler Stuba",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€€",
-      "path": "/austria/lech-am-arlberg/lech-am-arlberg/griggeler-stuba"
     },
     {
       "name": "Jägerstube & Walserstube",
@@ -69,12 +83,6 @@
       "cuisine": "Contemporary, Classic Cuisine",
       "price": "€€€€",
       "path": "/austria/lech-am-arlberg/lech-am-arlberg/post-lech"
-    },
-    {
-      "name": "Rote Wand Chef's Table",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/austria/lech-am-arlberg/lech-am-arlberg/rote-wand-chefs-table"
     },
     {
       "name": "Rote Wand Stuben",

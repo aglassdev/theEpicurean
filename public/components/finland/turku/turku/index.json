@@ -1,14 +1,21 @@
 {
   "title": "Turku",
-  "country": "finland",
-  "region": "turku",
-  "city": "turku",
+  "country": "Finland",
+  "countrySlug": "finland",
+  "region": null,
+  "regionSlug": "turku",
+  "city": "Turku",
+  "citySlug": "turku",
+  "path": "/finland/turku/turku/restaurants",
+  "canonicalPath": "/finland/turku/turku/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Kaskis",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/finland/turku/turku/kaskis"
+      "path": "/finland/turku/turku/kaskis",
+      "award": "★"
     },
     {
       "name": "Smör",

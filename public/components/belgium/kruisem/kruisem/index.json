@@ -1,11 +1,21 @@
 {
   "title": "Kruisem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "kruisem",
+  "city": "Kruisem",
+  "citySlug": "kruisem",
+  "path": "/belgium/kruisem/kruisem/restaurants",
+  "canonicalPath": "/belgium/kruisem/kruisem/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hof van Cleve",
       "cuisine": "",
       "price": "",
-      "path": "/belgium/kruisem/kruisem/HofVanCleve"
+      "path": "/belgium/kruisem/kruisem/hof-van-cleve",
+      "award": "World's 50 Best"
     }
   ]
 }

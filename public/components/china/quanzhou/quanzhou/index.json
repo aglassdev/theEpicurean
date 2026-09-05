@@ -1,8 +1,14 @@
 {
   "title": "Quanzhou",
-  "country": "china",
-  "region": "quanzhou",
-  "city": "quanzhou",
+  "country": "China",
+  "countrySlug": "china",
+  "region": null,
+  "regionSlug": "quanzhou",
+  "city": "Quanzhou",
+  "citySlug": "quanzhou",
+  "path": "/china/quanzhou/quanzhou/restaurants",
+  "canonicalPath": "/china/quanzhou/quanzhou/restaurants",
+  "count": 19,
   "restaurants": [
     {
       "name": "A Qiu Niu Pai (Huxin Street)",
@@ -44,7 +50,7 @@
       "name": "Hám-Khàk",
       "cuisine": "Fujian",
       "price": "¥¥¥",
-      "path": "/china/quanzhou/quanzhou/hm-khk"
+      "path": "/china/quanzhou/quanzhou/hmkhk"
     },
     {
       "name": "Jian Lai Fa",
@@ -80,7 +86,7 @@
       "name": "Nan Qi Lou 1924",
       "cuisine": "Fujian",
       "price": "¥¥",
-      "path": "/china/quanzhou/quanzhou/nan-qi-lou-1924"
+      "path": "/china/quanzhou/quanzhou/nan-qi-lou1924"
     },
     {
       "name": "Qing You Yu",

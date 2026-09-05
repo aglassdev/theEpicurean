@@ -1,20 +1,27 @@
 {
   "title": "Pollone",
-  "country": "italy",
-  "region": "pollone",
-  "city": "pollone",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pollone",
+  "city": "Pollone",
+  "citySlug": "pollone",
+  "path": "/italy/pollone/pollone/restaurants",
+  "canonicalPath": "/italy/pollone/pollone/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Il Patio",
+      "cuisine": "Country cooking, Contemporary",
+      "price": "€€€",
+      "path": "/italy/pollone/pollone/il-patio",
+      "award": "★"
+    },
     {
       "name": "Il Faggio",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/italy/pollone/pollone/il-faggio"
-    },
-    {
-      "name": "Il Patio",
-      "cuisine": "Country cooking, Contemporary",
-      "price": "€€€",
-      "path": "/italy/pollone/pollone/il-patio"
     }
   ]
 }

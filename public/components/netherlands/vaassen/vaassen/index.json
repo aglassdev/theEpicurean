@@ -1,14 +1,20 @@
 {
   "title": "Vaassen",
-  "country": "netherlands",
-  "region": "vaassen",
-  "city": "vaassen",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "vaassen",
+  "city": "Vaassen",
+  "citySlug": "vaassen",
+  "path": "/netherlands/vaassen/vaassen/restaurants",
+  "canonicalPath": "/netherlands/vaassen/vaassen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Aroma",
       "cuisine": "Italian, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/netherlands/vaassen/vaassen/aroma"
+      "path": "/netherlands/vaassen/vaassen/aroma-v-a-a"
     }
   ]
 }

@@ -1,11 +1,21 @@
 {
   "title": "Pensacola",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Pensacola",
+  "citySlug": "pensacola",
+  "path": "/usa/florida/pensacola/restaurants",
+  "canonicalPath": "/usa/florida/pensacola/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "A Mano Panino",
       "cuisine": "Italian",
       "price": "$",
-      "path": "/usa/florida/pensacola/AManoPanino"
+      "path": "/usa/florida/pensacola/a-mano-panino",
+      "award": "Bib Gourmand"
     }
   ]
 }

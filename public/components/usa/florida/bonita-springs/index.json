@@ -1,17 +1,27 @@
 {
   "title": "Bonita Springs",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Bonita Springs",
+  "citySlug": "bonita-springs",
+  "path": "/usa/florida/bonita-springs/restaurants",
+  "canonicalPath": "/usa/florida/bonita-springs/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Canary Club",
       "cuisine": "Pizza",
       "price": "$$",
-      "path": "/usa/florida/bonita-springs/CanaryClub"
+      "path": "/usa/florida/bonita-springs/canary-club",
+      "award": "Bib Gourmand"
     },
     {
       "name": "The Bohemian",
       "cuisine": "Asian",
       "price": "$$$",
-      "path": "/usa/florida/bonita-springs/TheBohemian"
+      "path": "/usa/florida/bonita-springs/the-bohemian"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
-  "title": "Ville Du Pont",
-  "country": "france",
-  "region": "ville-du-pont",
-  "city": "ville-du-pont",
+  "title": "Ville du Pont",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ville-du-pont",
+  "city": "Ville du Pont",
+  "citySlug": "ville-du-pont",
+  "path": "/france/ville-du-pont/ville-du-pont/restaurants",
+  "canonicalPath": "/france/ville-du-pont/ville-du-pont/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Entre-Roches",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/ville-du-pont/ville-du-pont/lentre-roches"
+      "path": "/france/ville-du-pont/ville-du-pont/lentreroches"
     }
   ]
 }

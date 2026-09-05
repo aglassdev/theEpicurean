@@ -1,8 +1,14 @@
 {
   "title": "Bretzfeld",
-  "country": "germany",
-  "region": "bretzfeld",
-  "city": "bretzfeld",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bretzfeld",
+  "city": "Bretzfeld",
+  "citySlug": "bretzfeld",
+  "path": "/germany/bretzfeld/bretzfeld/restaurants",
+  "canonicalPath": "/germany/bretzfeld/bretzfeld/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Landhaus Rössle",

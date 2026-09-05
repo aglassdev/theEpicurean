@@ -1,14 +1,20 @@
 {
   "title": "Vsu",
-  "country": "estonia",
-  "region": "vsu",
-  "city": "vsu",
+  "country": "Estonia",
+  "countrySlug": "estonia",
+  "region": null,
+  "regionSlug": "vsu",
+  "city": "Vsu",
+  "citySlug": "vsu",
+  "path": "/estonia/vsu/vsu/restaurants",
+  "canonicalPath": "/estonia/vsu/vsu/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mere 38",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/estonia/vsu/vsu/mere-38"
+      "path": "/estonia/vsu/vsu/mere38"
     }
   ]
 }

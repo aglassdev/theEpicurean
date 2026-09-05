@@ -1,11 +1,20 @@
 {
   "title": "Cocoa Beach",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Cocoa Beach",
+  "citySlug": "cocoa-beach",
+  "path": "/usa/florida/cocoa-beach/restaurants",
+  "canonicalPath": "/usa/florida/cocoa-beach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Koko",
       "cuisine": "Japanese",
       "price": "$$$",
-      "path": "/usa/florida/cocoa-beach/Koko"
+      "path": "/usa/florida/cocoa-beach/koko"
     }
   ]
 }

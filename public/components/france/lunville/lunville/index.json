@@ -1,14 +1,21 @@
 {
   "title": "Lunville",
-  "country": "france",
-  "region": "lunville",
-  "city": "lunville",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lunville",
+  "city": "Lunville",
+  "citySlug": "lunville",
+  "path": "/france/lunville/lunville/restaurants",
+  "canonicalPath": "/france/lunville/lunville/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Château d'Adoménil",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/lunville/lunville/chteau-dadomnil"
+      "path": "/france/lunville/lunville/chteau-dadomnil",
+      "award": "★"
     }
   ]
 }

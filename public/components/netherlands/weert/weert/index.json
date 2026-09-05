@@ -1,29 +1,40 @@
 {
   "title": "Weert",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "weert",
+  "city": "Weert",
+  "citySlug": "weert",
+  "path": "/netherlands/weert/weert/restaurants",
+  "canonicalPath": "/netherlands/weert/weert/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Flavours",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/netherlands/weert/weert/flavours"
+      "path": "/netherlands/weert/weert/flavours",
+      "award": "★"
     },
     {
       "name": "Marrees",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/netherlands/weert/weert/marrees"
+      "path": "/netherlands/weert/weert/marrees",
+      "award": "★"
+    },
+    {
+      "name": "Bistro Luux",
+      "cuisine": "French",
+      "price": "$$",
+      "path": "/netherlands/weert/weert/bistro-luux"
     },
     {
       "name": "OH30",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/netherlands/weert/weert/oh30"
-    },
-    {
-      "name": "Bistro Luux",
-      "cuisine": "French",
-      "price": "$$",
-      "path": "/netherlands/weert/weert/BistroLuux"
     }
   ]
 }

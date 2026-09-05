@@ -1,20 +1,27 @@
 {
   "title": "Gigondas",
-  "country": "france",
-  "region": "gigondas",
-  "city": "gigondas",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gigondas",
+  "city": "Gigondas",
+  "citySlug": "gigondas",
+  "path": "/france/gigondas/gigondas/restaurants",
+  "canonicalPath": "/france/gigondas/gigondas/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "L'Oustalet",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/gigondas/gigondas/loustalet",
+      "award": "★"
+    },
     {
       "name": "Bistrot de l'Oustalet",
       "cuisine": "Provençal",
       "price": "€€",
       "path": "/france/gigondas/gigondas/bistrot-de-loustalet"
-    },
-    {
-      "name": "L'Oustalet",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/gigondas/gigondas/loustalet"
     }
   ]
 }

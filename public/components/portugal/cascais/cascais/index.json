@@ -1,17 +1,27 @@
 {
   "title": "Cascais",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "cascais",
+  "city": "Cascais",
+  "citySlug": "cascais",
+  "path": "/portugal/cascais/cascais/restaurants",
+  "canonicalPath": "/portugal/cascais/cascais/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Fortaleza do Guincho",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/cascais/cascais/fortaleza-do-guincho",
+      "award": "★"
+    },
     {
       "name": "Conceito",
       "cuisine": "Contemporary",
       "price": "€€€",
       "path": "/portugal/cascais/cascais/conceito"
-    },
-    {
-      "name": "Fortaleza do Guincho",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/cascais/cascais/fortaleza-do-guincho"
     },
     {
       "name": "Izakaya",
@@ -26,22 +36,22 @@
       "path": "/portugal/cascais/cascais/kappo"
     },
     {
+      "name": "Maré - José Avillez",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/portugal/cascais/cascais/mar-jos-avillez"
+    },
+    {
       "name": "Porto Santa Maria",
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/portugal/cascais/cascais/porto-santa-maria"
     },
     {
-      "name": "Maré - José Avillez",
-      "cuisine": "Seafood",
-      "price": "$$$",
-      "path": "/portugal/cascais/cascais/MarJosAvillez"
-    },
-    {
       "name": "SULT Cascais",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/portugal/cascais/cascais/SultCascais"
+      "path": "/portugal/cascais/cascais/sult-cascais"
     }
   ]
 }

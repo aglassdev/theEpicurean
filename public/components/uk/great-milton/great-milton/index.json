@@ -1,14 +1,21 @@
 {
   "title": "Great Milton",
-  "country": "uk",
-  "region": "great-milton",
-  "city": "great-milton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "great-milton",
+  "city": "Great Milton",
+  "citySlug": "great-milton",
+  "path": "/uk/great-milton/great-milton/restaurants",
+  "canonicalPath": "/uk/great-milton/great-milton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Manoir aux Quat' Saisons, a Belmond Hotel",
       "cuisine": "French",
       "price": "££££",
-      "path": "/uk/great-milton/great-milton/le-manoir-aux-quat-saisons-a-belmond-hotel"
+      "path": "/uk/great-milton/great-milton/le-manoir-aux-quat-saisons-a-belmond-hotel",
+      "award": "★★"
     }
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "title": "San Jose",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "San Jose",
+  "citySlug": "san-jose",
+  "path": "/usa/california/san-jose/restaurants",
+  "canonicalPath": "/usa/california/san-jose/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Adega",
+      "cuisine": "Portuguese, Californian",
+      "price": "$$$$",
+      "path": "/usa/california/san-jose/adega"
+    },
+    {
+      "name": "LeYou",
+      "cuisine": "Ethiopian, American",
+      "price": "$$",
+      "path": "/usa/california/san-jose/leyou"
+    },
+    {
+      "name": "Luna Mexican Kitchen",
+      "cuisine": "Mexican, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/california/san-jose/luna-mexican-kitchen"
+    },
+    {
+      "name": "Petiscos",
+      "cuisine": "Portuguese, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/california/san-jose/petiscos"
+    }
+  ]
+}

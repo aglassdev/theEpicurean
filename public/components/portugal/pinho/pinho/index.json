@@ -1,20 +1,26 @@
 {
   "title": "Pinho",
-  "country": "portugal",
-  "region": "pinho",
-  "city": "pinho",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "pinho",
+  "city": "Pinho",
+  "citySlug": "pinho",
+  "path": "/portugal/pinho/pinho/restaurants",
+  "canonicalPath": "/portugal/pinho/pinho/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bomfim 1896",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/portugal/pinho/pinho/bomfim-1896"
+      "path": "/portugal/pinho/pinho/bomfim1896"
     },
     {
       "name": "Bomfim 1896 with Pedro Lemos",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/portugal/pinho/pinho/bomfim-1896-with-pedro-lemos"
+      "path": "/portugal/pinho/pinho/bomfim1896-with-pedro-lemos"
     }
   ]
 }

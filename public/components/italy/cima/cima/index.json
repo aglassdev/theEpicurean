@@ -1,8 +1,14 @@
 {
   "title": "Cima",
-  "country": "italy",
-  "region": "cima",
-  "city": "cima",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cima",
+  "city": "Cima",
+  "citySlug": "cima",
+  "path": "/italy/cima/cima/restaurants",
+  "canonicalPath": "/italy/cima/cima/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Musa Restaurant & Rooftop Terrace",

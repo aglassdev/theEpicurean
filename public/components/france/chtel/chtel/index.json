@@ -1,8 +1,14 @@
 {
   "title": "Chtel",
-  "country": "france",
-  "region": "chtel",
-  "city": "chtel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chtel",
+  "city": "Chtel",
+  "citySlug": "chtel",
+  "path": "/france/chtel/chtel/restaurants",
+  "canonicalPath": "/france/chtel/chtel/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Fleur de Neige",

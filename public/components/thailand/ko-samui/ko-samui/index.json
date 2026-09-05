@@ -1,8 +1,14 @@
 {
   "title": "Ko Samui",
-  "country": "thailand",
-  "region": "ko-samui",
-  "city": "ko-samui",
+  "country": "Thailand",
+  "countrySlug": "thailand",
+  "region": null,
+  "regionSlug": "ko-samui",
+  "city": "Ko Samui",
+  "citySlug": "ko-samui",
+  "path": "/thailand/ko-samui/ko-samui/restaurants",
+  "canonicalPath": "/thailand/ko-samui/ko-samui/restaurants",
+  "count": 13,
   "restaurants": [
     {
       "name": "Baan Suan Lung Khai",
@@ -32,7 +38,7 @@
       "name": "Kapi Sator (Soi Had Chaweng 5)",
       "cuisine": "Southern Thai",
       "price": "฿฿",
-      "path": "/thailand/ko-samui/ko-samui/kapi-sator-soi-had-chaweng-5"
+      "path": "/thailand/ko-samui/ko-samui/kapi-sator-soi-had-chaweng5"
     },
     {
       "name": "Khao Horm",
@@ -75,18 +81,6 @@
       "cuisine": "Thai",
       "price": "฿฿฿",
       "path": "/thailand/ko-samui/ko-samui/saffron"
-    },
-    {
-      "name": "Saffron",
-      "cuisine": "Thai",
-      "price": "฿฿฿",
-      "path": "/thailand/ko-samui/ko-samui/saffron"
-    },
-    {
-      "name": "The Ranch",
-      "cuisine": "Steakhouse",
-      "price": "฿฿฿฿",
-      "path": "/thailand/ko-samui/ko-samui/the-ranch"
     },
     {
       "name": "The Ranch",

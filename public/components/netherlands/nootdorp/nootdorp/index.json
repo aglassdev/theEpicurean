@@ -1,8 +1,14 @@
 {
   "title": "Nootdorp",
-  "country": "netherlands",
-  "region": "nootdorp",
-  "city": "nootdorp",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "nootdorp",
+  "city": "Nootdorp",
+  "citySlug": "nootdorp",
+  "path": "/netherlands/nootdorp/nootdorp/restaurants",
+  "canonicalPath": "/netherlands/nootdorp/nootdorp/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Calva",

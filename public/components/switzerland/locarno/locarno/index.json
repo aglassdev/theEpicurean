@@ -1,8 +1,14 @@
 {
   "title": "Locarno",
-  "country": "switzerland",
-  "region": "locarno",
-  "city": "locarno",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "locarno",
+  "city": "Locarno",
+  "citySlug": "locarno",
+  "path": "/switzerland/locarno/locarno/restaurants",
+  "canonicalPath": "/switzerland/locarno/locarno/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Da Valentino",

@@ -1,8 +1,14 @@
 {
   "title": "Herne",
-  "country": "germany",
-  "region": "herne",
-  "city": "herne",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "herne",
+  "city": "Herne",
+  "citySlug": "herne",
+  "path": "/germany/herne/herne/restaurants",
+  "canonicalPath": "/germany/herne/herne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gute Stube im Parkhotel",

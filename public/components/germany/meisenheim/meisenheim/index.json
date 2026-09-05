@@ -1,14 +1,21 @@
 {
   "title": "Meisenheim",
-  "country": "germany",
-  "region": "meisenheim",
-  "city": "meisenheim",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "meisenheim",
+  "city": "Meisenheim",
+  "citySlug": "meisenheim",
+  "path": "/germany/meisenheim/meisenheim/restaurants",
+  "canonicalPath": "/germany/meisenheim/meisenheim/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Meisenheimer Hof",
       "cuisine": "Farm to table",
       "price": "€€€",
-      "path": "/germany/meisenheim/meisenheim/meisenheimer-hof"
+      "path": "/germany/meisenheim/meisenheim/meisenheimer-hof",
+      "award": "★"
     }
   ]
 }

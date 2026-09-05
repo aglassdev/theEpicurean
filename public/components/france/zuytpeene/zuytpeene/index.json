@@ -1,8 +1,14 @@
 {
   "title": "Zuytpeene",
-  "country": "france",
-  "region": "zuytpeene",
-  "city": "zuytpeene",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "zuytpeene",
+  "city": "Zuytpeene",
+  "citySlug": "zuytpeene",
+  "path": "/france/zuytpeene/zuytpeene/restaurants",
+  "canonicalPath": "/france/zuytpeene/zuytpeene/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Koning Van Peene",

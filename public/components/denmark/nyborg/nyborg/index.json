@@ -1,5 +1,14 @@
 {
   "title": "Nyborg",
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "region": null,
+  "regionSlug": "nyborg",
+  "city": "Nyborg",
+  "citySlug": "nyborg",
+  "path": "/denmark/nyborg/nyborg/restaurants",
+  "canonicalPath": "/denmark/nyborg/nyborg/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Lieffroy",
@@ -11,7 +20,7 @@
       "name": "Restaurant Hesselet",
       "cuisine": "Creative",
       "price": "$",
-      "path": "/denmark/nyborg/nyborg/RestaurantHesselet"
+      "path": "/denmark/nyborg/nyborg/restaurant-hesselet"
     }
   ]
 }

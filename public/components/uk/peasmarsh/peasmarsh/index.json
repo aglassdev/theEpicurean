@@ -1,8 +1,14 @@
 {
   "title": "Peasmarsh",
-  "country": "uk",
-  "region": "peasmarsh",
-  "city": "peasmarsh",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "peasmarsh",
+  "city": "Peasmarsh",
+  "citySlug": "peasmarsh",
+  "path": "/uk/peasmarsh/peasmarsh/restaurants",
+  "canonicalPath": "/uk/peasmarsh/peasmarsh/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Tillingham",

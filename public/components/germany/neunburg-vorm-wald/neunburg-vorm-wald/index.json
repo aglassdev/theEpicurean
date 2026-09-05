@@ -1,14 +1,21 @@
 {
   "title": "Neunburg Vorm Wald",
-  "country": "germany",
-  "region": "neunburg-vorm-wald",
-  "city": "neunburg-vorm-wald",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "neunburg-vorm-wald",
+  "city": "Neunburg Vorm Wald",
+  "citySlug": "neunburg-vorm-wald",
+  "path": "/germany/neunburg-vorm-wald/neunburg-vorm-wald/restaurants",
+  "canonicalPath": "/germany/neunburg-vorm-wald/neunburg-vorm-wald/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Obendorfers Eisvogel",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/germany/neunburg-vorm-wald/neunburg-vorm-wald/obendorfers-eisvogel"
+      "path": "/germany/neunburg-vorm-wald/neunburg-vorm-wald/obendorfers-eisvogel",
+      "award": "★★"
     },
     {
       "name": "Turmstube",

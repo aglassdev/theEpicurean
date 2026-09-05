@@ -1,8 +1,14 @@
 {
   "title": "Lhoumeau",
-  "country": "france",
-  "region": "lhoumeau",
-  "city": "lhoumeau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lhoumeau",
+  "city": "Lhoumeau",
+  "citySlug": "lhoumeau",
+  "path": "/france/lhoumeau/lhoumeau/restaurants",
+  "canonicalPath": "/france/lhoumeau/lhoumeau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Briemm",

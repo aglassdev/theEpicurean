@@ -1,125 +1,134 @@
 {
   "title": "Rest of Scotland",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "Scotland",
+  "regionSlug": "scotland",
+  "city": "Rest of Scotland",
+  "citySlug": "rest-of-scotland",
+  "path": "/uk/scotland/rest-of-scotland/restaurants",
+  "canonicalPath": "/uk/scotland/rest-of-scotland/restaurants",
+  "count": 20,
   "restaurants": [
     {
-      "name": "Skeabost House Hotel",
+      "name": "Ballathie House Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/scotland/rest-of-scotland/SkeabostHouseHotel"
-    },
-    {
-      "name": "Rusacks Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "29.00",
-      "path": "/uk/scotland/rest-of-scotland/RusacksHotel"
-    },
-    {
-      "name": "Rufflets St Andrews",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/scotland/rest-of-scotland/RuffletsStAndrews"
-    },
-    {
-      "name": "Peebles Hydro",
-      "cuisine": "Afternoon Tea",
-      "price": "17.50",
-      "path": "/uk/scotland/rest-of-scotland/PeeblesHydro"
-    },
-    {
-      "name": "Palace Hotel & Spa, Inverness",
-      "cuisine": "Afternoon Tea",
-      "price": "21.95",
-      "path": "/uk/scotland/rest-of-scotland/PalaceHotelSpaInverness"
-    },
-    {
-      "name": "Murrayshall Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "27.50",
-      "path": "/uk/scotland/rest-of-scotland/MurrayshallHotel"
-    },
-    {
-      "name": "Marine Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/scotland/rest-of-scotland/MarineHotel"
-    },
-    {
-      "name": "Malmaison Dundee",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/scotland/rest-of-scotland/MalmaisonDundee"
-    },
-    {
-      "name": "Malmaison Aberdeen",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/scotland/rest-of-scotland/MalmaisonAberdeen"
-    },
-    {
-      "name": "Hotel du Vin St Andrews",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/scotland/rest-of-scotland/HotelDuVinStAndrews"
-    },
-    {
-      "name": "Glenapp Castle Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/scotland/rest-of-scotland/GlenappCastleHotel"
-    },
-    {
-      "name": "Fisher’s Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/scotland/rest-of-scotland/FishersHotel"
-    },
-    {
-      "name": "Fairmont St Andrews",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/scotland/rest-of-scotland/FairmontStAndrews"
-    },
-    {
-      "name": "Dunalastair Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "34.00",
-      "path": "/uk/scotland/rest-of-scotland/DunalastairHotel"
-    },
-    {
-      "name": "Crieff Hydro Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "19.95",
-      "path": "/uk/scotland/rest-of-scotland/CrieffHydroHotel"
-    },
-    {
-      "name": "Colquhoun's Restaurant",
-      "cuisine": "Afternoon Tea",
-      "price": "22.50",
-      "path": "/uk/scotland/rest-of-scotland/ColquhounsRestaurant"
-    },
-    {
-      "name": "Cally Palace Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "19.95",
-      "path": "/uk/scotland/rest-of-scotland/CallyPalaceHotel"
+      "price": "43.00",
+      "path": "/uk/scotland/rest-of-scotland/ballathie-house-hotel"
     },
     {
       "name": "Cairn Lodge",
       "cuisine": "Afternoon Tea",
       "price": "32.00",
-      "path": "/uk/scotland/rest-of-scotland/CairnLodge"
+      "path": "/uk/scotland/rest-of-scotland/cairn-lodge"
     },
     {
-      "name": "Ballathie House Hotel",
+      "name": "Cally Palace Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "43.00",
-      "path": "/uk/scotland/rest-of-scotland/BallathieHouseHotel"
+      "price": "19.95",
+      "path": "/uk/scotland/rest-of-scotland/cally-palace-hotel"
+    },
+    {
+      "name": "Colquhoun's Restaurant",
+      "cuisine": "Afternoon Tea",
+      "price": "22.50",
+      "path": "/uk/scotland/rest-of-scotland/colquhouns-restaurant"
+    },
+    {
+      "name": "Crieff Hydro Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "19.95",
+      "path": "/uk/scotland/rest-of-scotland/crieff-hydro-hotel"
+    },
+    {
+      "name": "Dunalastair Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "34.00",
+      "path": "/uk/scotland/rest-of-scotland/dunalastair-hotel"
+    },
+    {
+      "name": "Fairmont St Andrews",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/scotland/rest-of-scotland/fairmont-st-andrews"
+    },
+    {
+      "name": "Fisher’s Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/scotland/rest-of-scotland/fishers-hotel"
+    },
+    {
+      "name": "Glenapp Castle Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/scotland/rest-of-scotland/glenapp-castle-hotel"
+    },
+    {
+      "name": "Hotel du Vin St Andrews",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/scotland/rest-of-scotland/hotel-du-vin-st-andrews"
+    },
+    {
+      "name": "Malmaison Aberdeen",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/scotland/rest-of-scotland/malmaison-aberdeen"
+    },
+    {
+      "name": "Malmaison Dundee",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/scotland/rest-of-scotland/malmaison-dundee"
+    },
+    {
+      "name": "Marine Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/scotland/rest-of-scotland/marine-hotel"
+    },
+    {
+      "name": "Murrayshall Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "27.50",
+      "path": "/uk/scotland/rest-of-scotland/murrayshall-hotel"
+    },
+    {
+      "name": "Palace Hotel & Spa, Inverness",
+      "cuisine": "Afternoon Tea",
+      "price": "21.95",
+      "path": "/uk/scotland/rest-of-scotland/palace-hotel-spa-inverness"
+    },
+    {
+      "name": "Peebles Hydro",
+      "cuisine": "Afternoon Tea",
+      "price": "17.50",
+      "path": "/uk/scotland/rest-of-scotland/peebles-hydro"
+    },
+    {
+      "name": "Rufflets St Andrews",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/scotland/rest-of-scotland/rufflets-st-andrews"
+    },
+    {
+      "name": "Rusacks Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "29.00",
+      "path": "/uk/scotland/rest-of-scotland/rusacks-hotel"
+    },
+    {
+      "name": "Skeabost House Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/scotland/rest-of-scotland/skeabost-house-hotel"
     },
     {
       "name": "The Airds Hotel & Restaurant",
       "cuisine": "Afternoon Tea",
       "price": "26.95",
-      "path": "/uk/scotland/rest-of-scotland/TheAirdsHotelRestaurant"
+      "path": "/uk/scotland/rest-of-scotland/the-airds-hotel-restaurant"
     }
   ]
 }

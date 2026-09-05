@@ -1,8 +1,14 @@
 {
   "title": "Combes",
-  "country": "france",
-  "region": "combes",
-  "city": "combes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "combes",
+  "city": "Combes",
+  "citySlug": "combes",
+  "path": "/france/combes/combes/restaurants",
+  "canonicalPath": "/france/combes/combes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de Combes",

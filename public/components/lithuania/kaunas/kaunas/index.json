@@ -1,5 +1,14 @@
 {
   "title": "Kaunas",
+  "country": "Lithuania",
+  "countrySlug": "lithuania",
+  "region": null,
+  "regionSlug": "kaunas",
+  "city": "Kaunas",
+  "citySlug": "kaunas",
+  "path": "/lithuania/kaunas/kaunas/restaurants",
+  "canonicalPath": "/lithuania/kaunas/kaunas/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Arrivée",
@@ -26,16 +35,16 @@
       "path": "/lithuania/kaunas/kaunas/nman"
     },
     {
+      "name": "SIJA",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/lithuania/kaunas/kaunas/sija"
+    },
+    {
       "name": "Uoksas",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/lithuania/kaunas/kaunas/uoksas"
-    },
-    {
-      "name": "SIJA",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/lithuania/kaunas/kaunas/Sija"
     }
   ]
 }

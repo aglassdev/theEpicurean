@@ -1,15 +1,15 @@
 {
   "title": "Fondi",
-  "country": "italy",
-  "region": "fondi",
-  "city": "fondi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "fondi",
+  "city": "Fondi",
+  "citySlug": "fondi",
+  "path": "/italy/fondi/fondi/restaurants",
+  "canonicalPath": "/italy/fondi/fondi/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Da Fausto",
-      "cuisine": "Country cooking, Modern Cuisine",
-      "price": "€€",
-      "path": "/italy/fondi/fondi/da-fausto"
-    },
     {
       "name": "Da Fausto",
       "cuisine": "Country cooking, Modern Cuisine",

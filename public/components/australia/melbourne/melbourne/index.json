@@ -1,17 +1,28 @@
 {
   "title": "Melbourne",
+  "country": "Australia",
+  "countrySlug": "australia",
+  "region": null,
+  "regionSlug": "melbourne",
+  "city": "Melbourne",
+  "citySlug": "melbourne",
+  "path": "/australia/melbourne/melbourne/restaurants",
+  "canonicalPath": "/australia/melbourne/melbourne/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Flower Drum",
-      "cuisine": "",
-      "price": "",
-      "path": "/australia/melbourne/melbourne/FlowerDrum"
-    },
     {
       "name": "Attica",
       "cuisine": "",
       "price": "",
-      "path": "/australia/melbourne/melbourne/Attica"
+      "path": "/australia/melbourne/melbourne/attica",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Flower Drum",
+      "cuisine": "",
+      "price": "",
+      "path": "/australia/melbourne/melbourne/flower-drum",
+      "award": "World's 50 Best"
     }
   ]
 }

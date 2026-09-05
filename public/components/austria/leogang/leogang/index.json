@@ -1,20 +1,28 @@
 {
   "title": "Leogang",
-  "country": "austria",
-  "region": "leogang",
-  "city": "leogang",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "leogang",
+  "city": "Leogang",
+  "citySlug": "leogang",
+  "path": "/austria/leogang/leogang/restaurants",
+  "canonicalPath": "/austria/leogang/leogang/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "dahoam by Andreas Herbst",
       "cuisine": "Seasonal Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/austria/leogang/leogang/dahoam-by-andreas-herbst"
+      "path": "/austria/leogang/leogang/dahoam-by-andreas-herbst",
+      "award": "★"
     },
     {
       "name": "Kirchenwirt",
       "cuisine": "Seasonal Cuisine, Regional Cuisine",
       "price": "€€€€",
-      "path": "/austria/leogang/leogang/kirchenwirt"
+      "path": "/austria/leogang/leogang/kirchenwirt",
+      "award": "★"
     },
     {
       "name": "Mizūmi",
@@ -26,13 +34,7 @@
       "name": "Restaurant 1617",
       "cuisine": "Austrian",
       "price": "€€",
-      "path": "/austria/leogang/leogang/restaurant-1617"
-    },
-    {
-      "name": "Silva",
-      "cuisine": "Modern Cuisine, Classic French",
-      "price": "€€€€",
-      "path": "/austria/leogang/leogang/silva"
+      "path": "/austria/leogang/leogang/restaurant1617"
     },
     {
       "name": "Silva",

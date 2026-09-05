@@ -1,14 +1,20 @@
 {
   "title": "Torbole",
-  "country": "italy",
-  "region": "torbole",
-  "city": "torbole",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "torbole",
+  "city": "Torbole",
+  "citySlug": "torbole",
+  "path": "/italy/torbole/torbole/restaurants",
+  "canonicalPath": "/italy/torbole/torbole/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Aqua",
       "cuisine": "Italian Contemporary, Italian",
       "price": "€€€",
-      "path": "/italy/torbole/torbole/aqua"
+      "path": "/italy/torbole/torbole/aqua-t-o-r"
     },
     {
       "name": "La Terrazza",

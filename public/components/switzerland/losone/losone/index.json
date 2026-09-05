@@ -1,20 +1,27 @@
 {
   "title": "Losone",
-  "country": "switzerland",
-  "region": "losone",
-  "city": "losone",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "losone",
+  "city": "Losone",
+  "citySlug": "losone",
+  "path": "/switzerland/losone/losone/restaurants",
+  "canonicalPath": "/switzerland/losone/losone/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Osteria dell'Enoteca",
+      "cuisine": "Mediterranean Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/losone/losone/osteria-dellenoteca",
+      "award": "★"
+    },
     {
       "name": "Centrale",
       "cuisine": "Traditional Cuisine, Seasonal Cuisine",
       "price": "€€",
       "path": "/switzerland/losone/losone/centrale"
-    },
-    {
-      "name": "Osteria dell'Enoteca",
-      "cuisine": "Mediterranean Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/losone/losone/osteria-dellenoteca"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
-  "title": "Pont Du Chteau",
-  "country": "france",
-  "region": "pont-du-chteau",
-  "city": "pont-du-chteau",
+  "title": "Pont du Chteau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pont-du-chteau",
+  "city": "Pont du Chteau",
+  "citySlug": "pont-du-chteau",
+  "path": "/france/pont-du-chteau/pont-du-chteau/restaurants",
+  "canonicalPath": "/france/pont-du-chteau/pont-du-chteau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge du Pont",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/pont-du-chteau/pont-du-chteau/auberge-du-pont"
+      "path": "/france/pont-du-chteau/pont-du-chteau/auberge-du-pont",
+      "award": "★"
     }
   ]
 }

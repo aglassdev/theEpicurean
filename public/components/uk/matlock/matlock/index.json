@@ -1,8 +1,14 @@
 {
   "title": "Matlock",
-  "country": "uk",
-  "region": "matlock",
-  "city": "matlock",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "matlock",
+  "city": "Matlock",
+  "citySlug": "matlock",
+  "path": "/uk/matlock/matlock/restaurants",
+  "canonicalPath": "/uk/matlock/matlock/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Stones Restaurant",

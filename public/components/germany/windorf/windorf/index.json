@@ -1,8 +1,14 @@
 {
   "title": "Windorf",
-  "country": "germany",
-  "region": "windorf",
-  "city": "windorf",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "windorf",
+  "city": "Windorf",
+  "citySlug": "windorf",
+  "path": "/germany/windorf/windorf/restaurants",
+  "canonicalPath": "/germany/windorf/windorf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Feilmeiers Landleben",

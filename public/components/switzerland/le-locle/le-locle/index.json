@@ -1,8 +1,14 @@
 {
   "title": "Le Locle",
-  "country": "switzerland",
-  "region": "le-locle",
-  "city": "le-locle",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "le-locle",
+  "city": "Le Locle",
+  "citySlug": "le-locle",
+  "path": "/switzerland/le-locle/le-locle/restaurants",
+  "canonicalPath": "/switzerland/le-locle/le-locle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge du Prévoux",

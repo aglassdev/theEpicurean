@@ -1,14 +1,20 @@
 {
   "title": "Grasse",
-  "country": "france",
-  "region": "grasse",
-  "city": "grasse",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "grasse",
+  "city": "Grasse",
+  "citySlug": "grasse",
+  "path": "/france/grasse/grasse/restaurants",
+  "canonicalPath": "/france/grasse/grasse/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Bastide Saint-Antoine",
       "cuisine": "Provençal",
       "price": "€€€€",
-      "path": "/france/grasse/grasse/la-bastide-saint-antoine"
+      "path": "/france/grasse/grasse/la-bastide-saintantoine"
     }
   ]
 }

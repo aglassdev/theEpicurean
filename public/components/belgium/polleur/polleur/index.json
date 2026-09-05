@@ -1,8 +1,14 @@
 {
   "title": "Polleur",
-  "country": "belgium",
-  "region": "polleur",
-  "city": "polleur",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "polleur",
+  "city": "Polleur",
+  "citySlug": "polleur",
+  "path": "/belgium/polleur/polleur/restaurants",
+  "canonicalPath": "/belgium/polleur/polleur/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Table Rase",

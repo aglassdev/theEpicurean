@@ -1,17 +1,27 @@
 {
   "title": "Pszczyna",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "pszczyna",
+  "city": "Pszczyna",
+  "citySlug": "pszczyna",
+  "path": "/poland/pszczyna/pszczyna/restaurants",
+  "canonicalPath": "/poland/pszczyna/pszczyna/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Steampunk",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/poland/pszczyna/pszczyna/Steampunk"
+      "path": "/poland/pszczyna/pszczyna/steampunk",
+      "award": "★"
     },
     {
       "name": "Tickets Bistro & Wine",
       "cuisine": "Mediterranean Cuisine",
       "price": "$",
-      "path": "/poland/pszczyna/pszczyna/TicketsBistroWine"
+      "path": "/poland/pszczyna/pszczyna/tickets-bistro-wine"
     }
   ]
 }

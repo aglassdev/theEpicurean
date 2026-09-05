@@ -1,8 +1,14 @@
 {
   "title": "Moulton",
-  "country": "uk",
-  "region": "moulton",
-  "city": "moulton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "moulton",
+  "city": "Moulton",
+  "citySlug": "moulton",
+  "path": "/uk/moulton/moulton/restaurants",
+  "canonicalPath": "/uk/moulton/moulton/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Packhorse Inn",

@@ -1,8 +1,14 @@
 {
   "title": "Castle Cary",
-  "country": "uk",
-  "region": "castle-cary",
-  "city": "castle-cary",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "castle-cary",
+  "city": "Castle Cary",
+  "citySlug": "castle-cary",
+  "path": "/uk/castle-cary/castle-cary/restaurants",
+  "canonicalPath": "/uk/castle-cary/castle-cary/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Farm Caff",

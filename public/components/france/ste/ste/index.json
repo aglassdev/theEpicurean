@@ -1,6 +1,21 @@
 {
-  "title": "Ste",
+  "title": "Ste.",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ste",
+  "city": "Ste.",
+  "citySlug": "ste",
+  "path": "/france/ste/ste/restaurants",
+  "canonicalPath": "/france/ste/ste/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Embrun",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/ste/ste/embrun"
+    },
     {
       "name": "La Coquerie",
       "cuisine": "Modern Cuisine",
@@ -17,13 +32,7 @@
       "name": "Quai 17",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
-      "path": "/france/ste/ste/quai-17"
-    },
-    {
-      "name": "Embrun",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/ste/ste/Embrun"
+      "path": "/france/ste/ste/quai17"
     }
   ]
 }

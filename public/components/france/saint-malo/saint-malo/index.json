@@ -1,6 +1,22 @@
 {
   "title": "Saint Malo",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-malo",
+  "city": "Saint Malo",
+  "citySlug": "saint-malo",
+  "path": "/france/saint-malo/saint-malo/restaurants",
+  "canonicalPath": "/france/saint-malo/saint-malo/restaurants",
+  "count": 15,
   "restaurants": [
+    {
+      "name": "Le Saint Placide",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/saint-malo/saint-malo/le-saint-placide",
+      "award": "★"
+    },
     {
       "name": "Ar Iniz",
       "cuisine": "Modern Cuisine",
@@ -38,16 +54,16 @@
       "path": "/france/saint-malo/saint-malo/la-fourchette-droite"
     },
     {
-      "name": "Le Bistrot du Rocher",
-      "cuisine": "Farm to table",
-      "price": "€€",
-      "path": "/france/saint-malo/saint-malo/le-bistrot-du-rocher"
-    },
-    {
       "name": "Le Bénétin",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/saint-malo/saint-malo/le-bntin"
+    },
+    {
+      "name": "Le Bistrot du Rocher",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/france/saint-malo/saint-malo/le-bistrot-du-rocher"
     },
     {
       "name": "Le Cambusier",
@@ -68,12 +84,6 @@
       "path": "/france/saint-malo/saint-malo/le-rocher"
     },
     {
-      "name": "Le Saint Placide",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/saint-malo/saint-malo/le-saint-placide"
-    },
-    {
       "name": "Maison Vermer",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -89,7 +99,7 @@
       "name": "O’BikiniBé",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/france/saint-malo/saint-malo/Obikinib"
+      "path": "/france/saint-malo/saint-malo/obikinib"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Donnemarie Dontilly",
-  "country": "france",
-  "region": "donnemarie-dontilly",
-  "city": "donnemarie-dontilly",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "donnemarie-dontilly",
+  "city": "Donnemarie Dontilly",
+  "citySlug": "donnemarie-dontilly",
+  "path": "/france/donnemarie-dontilly/donnemarie-dontilly/restaurants",
+  "canonicalPath": "/france/donnemarie-dontilly/donnemarie-dontilly/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Croix Blanche",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/donnemarie-dontilly/donnemarie-dontilly/la-croix-blanche"
+      "path": "/france/donnemarie-dontilly/donnemarie-dontilly/la-croix-blanche-d-o-n"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Poncin",
-  "country": "france",
-  "region": "poncin",
-  "city": "poncin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "poncin",
+  "city": "Poncin",
+  "citySlug": "poncin",
+  "path": "/france/poncin/poncin/restaurants",
+  "canonicalPath": "/france/poncin/poncin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "AinTimiste",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/france/poncin/poncin/aintimiste"
+      "path": "/france/poncin/poncin/aintimiste",
+      "award": "★"
     }
   ]
 }

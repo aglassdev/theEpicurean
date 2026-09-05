@@ -1,0 +1,44 @@
+{
+  "title": "Menlo Park",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Menlo Park",
+  "citySlug": "menlo-park",
+  "path": "/usa/other/menlo-park/restaurants",
+  "canonicalPath": "/usa/california/menlo-park/restaurants",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "Camper",
+      "cuisine": "Californian, Contemporary",
+      "price": "$$",
+      "path": "/usa/california/menlo-park/camper"
+    },
+    {
+      "name": "Eylan",
+      "cuisine": "Indian, Californian",
+      "price": "$$",
+      "path": "/usa/california/menlo-park/eylan"
+    },
+    {
+      "name": "Flea St. Cafe",
+      "cuisine": "Contemporary, Californian",
+      "price": "$$$",
+      "path": "/usa/california/menlo-park/flea-st-cafe"
+    },
+    {
+      "name": "Madera",
+      "cuisine": "Contemporary, Californian",
+      "price": "$$$$",
+      "path": "/usa/california/menlo-park/madera"
+    },
+    {
+      "name": "Yeobo, Darling",
+      "cuisine": "Korean Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/menlo-park/yeobo-darling"
+    }
+  ]
+}

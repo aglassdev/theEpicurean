@@ -1,8 +1,14 @@
 {
   "title": "Beveren",
-  "country": "belgium",
-  "region": "beveren",
-  "city": "beveren",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "beveren",
+  "city": "Beveren",
+  "citySlug": "beveren",
+  "path": "/belgium/beveren/beveren/restaurants",
+  "canonicalPath": "/belgium/beveren/beveren/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Tafeltje Rond",

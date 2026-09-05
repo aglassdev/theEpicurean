@@ -1,20 +1,27 @@
 {
   "title": "Binic",
-  "country": "france",
-  "region": "binic",
-  "city": "binic",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "binic",
+  "city": "Binic",
+  "citySlug": "binic",
+  "path": "/france/binic/binic/restaurants",
+  "canonicalPath": "/france/binic/binic/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "La Table d'Asten",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/binic/binic/la-table-dasten",
+      "award": "★"
+    },
     {
       "name": "Brasserie d'Asten",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/binic/binic/brasserie-dasten"
-    },
-    {
-      "name": "La Table d'Asten",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/binic/binic/la-table-dasten"
     }
   ]
 }

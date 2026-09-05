@@ -1,14 +1,20 @@
 {
   "title": "Attin",
-  "country": "france",
-  "region": "attin",
-  "city": "attin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "attin",
+  "city": "Attin",
+  "citySlug": "attin",
+  "path": "/france/attin/attin/restaurants",
+  "canonicalPath": "/france/attin/attin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Bon Accueil",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/attin/attin/au-bon-accueil"
+      "path": "/france/attin/attin/au-bon-accueil-a-t-t"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Vzelay",
-  "country": "france",
-  "region": "vzelay",
-  "city": "vzelay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vzelay",
+  "city": "Vzelay",
+  "citySlug": "vzelay",
+  "path": "/france/vzelay/vzelay/restaurants",
+  "canonicalPath": "/france/vzelay/vzelay/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Éternel",

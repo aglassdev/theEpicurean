@@ -1,14 +1,20 @@
 {
   "title": "Fuenmayor",
-  "country": "spain",
-  "region": "fuenmayor",
-  "city": "fuenmayor",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "fuenmayor",
+  "city": "Fuenmayor",
+  "citySlug": "fuenmayor",
+  "path": "/spain/fuenmayor/fuenmayor/restaurants",
+  "canonicalPath": "/spain/fuenmayor/fuenmayor/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Alameda",
       "cuisine": "Regional Cuisine",
       "price": "€€",
-      "path": "/spain/fuenmayor/fuenmayor/alameda"
+      "path": "/spain/fuenmayor/fuenmayor/alameda-f-u-e"
     }
   ]
 }

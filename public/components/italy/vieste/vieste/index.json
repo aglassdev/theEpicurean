@@ -1,14 +1,20 @@
 {
   "title": "Vieste",
-  "country": "italy",
-  "region": "vieste",
-  "city": "vieste",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "vieste",
+  "city": "Vieste",
+  "citySlug": "vieste",
+  "path": "/italy/vieste/vieste/restaurants",
+  "canonicalPath": "/italy/vieste/vieste/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Acqua",
       "cuisine": "Mediterranean Cuisine, Contemporary",
       "price": "€€",
-      "path": "/italy/vieste/vieste/acqua"
+      "path": "/italy/vieste/vieste/acqua-v-i-e"
     },
     {
       "name": "Al Dragone",

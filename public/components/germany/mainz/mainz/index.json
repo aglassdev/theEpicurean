@@ -1,11 +1,28 @@
 {
   "title": "Mainz",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "mainz",
+  "city": "Mainz",
+  "citySlug": "mainz",
+  "path": "/germany/mainz/mainz/restaurants",
+  "canonicalPath": "/germany/mainz/mainz/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "FAVORITE restaurant",
       "cuisine": "Modern French, Creative",
       "price": "€€€€",
-      "path": "/germany/mainz/mainz/favorite-restaurant"
+      "path": "/germany/mainz/mainz/favorite-restaurant",
+      "award": "★"
+    },
+    {
+      "name": "Steins Traube",
+      "cuisine": "Farm to table, Classic Cuisine",
+      "price": "€€€",
+      "path": "/germany/mainz/mainz/steins-traube",
+      "award": "★"
     },
     {
       "name": "Geberts Weinstuben",
@@ -14,22 +31,16 @@
       "path": "/germany/mainz/mainz/geberts-weinstuben"
     },
     {
-      "name": "Steins Traube",
-      "cuisine": "Farm to table, Classic Cuisine",
-      "price": "€€€",
-      "path": "/germany/mainz/mainz/steins-traube"
+      "name": "GenussWerkstatt",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/germany/mainz/mainz/genusswerkstatt"
     },
     {
       "name": "sushi Lounge",
       "cuisine": "Sushi",
       "price": "€€€",
       "path": "/germany/mainz/mainz/sushi-lounge"
-    },
-    {
-      "name": "GenussWerkstatt",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/germany/mainz/mainz/Genusswerkstatt"
     }
   ]
 }

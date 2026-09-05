@@ -1,8 +1,14 @@
 {
   "title": "Castres",
-  "country": "france",
-  "region": "castres",
-  "city": "castres",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "castres",
+  "city": "Castres",
+  "citySlug": "castres",
+  "path": "/france/castres/castres/restaurants",
+  "canonicalPath": "/france/castres/castres/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Bistrot Saveurs",

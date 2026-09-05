@@ -1,8 +1,14 @@
 {
   "title": "Halifax",
-  "country": "uk",
-  "region": "halifax",
-  "city": "halifax",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "halifax",
+  "city": "Halifax",
+  "citySlug": "halifax",
+  "path": "/uk/halifax/halifax/restaurants",
+  "canonicalPath": "/uk/halifax/halifax/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Shibden Mill Inn",

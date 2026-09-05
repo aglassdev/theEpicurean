@@ -1,8 +1,14 @@
 {
   "title": "Sal",
-  "country": "italy",
-  "region": "sal",
-  "city": "sal",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "sal",
+  "city": "Sal",
+  "citySlug": "sal",
+  "path": "/italy/sal/sal/restaurants",
+  "canonicalPath": "/italy/sal/sal/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Felter alle Rose",

@@ -1,14 +1,21 @@
 {
   "title": "Nrdlingen",
-  "country": "germany",
-  "region": "nrdlingen",
-  "city": "nrdlingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "nrdlingen",
+  "city": "Nrdlingen",
+  "citySlug": "nrdlingen",
+  "path": "/germany/nrdlingen/nrdlingen/restaurants",
+  "canonicalPath": "/germany/nrdlingen/nrdlingen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Wirtshaus Meyers Keller",
       "cuisine": "Farm to table, Country cooking",
       "price": "€€€",
-      "path": "/germany/nrdlingen/nrdlingen/wirtshaus-meyers-keller"
+      "path": "/germany/nrdlingen/nrdlingen/wirtshaus-meyers-keller",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Aduard",
-  "country": "netherlands",
-  "region": "aduard",
-  "city": "aduard",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "aduard",
+  "city": "Aduard",
+  "citySlug": "aduard",
+  "path": "/netherlands/aduard/aduard/restaurants",
+  "canonicalPath": "/netherlands/aduard/aduard/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Herberg Onder de Linden",
       "cuisine": "Asian Influences",
       "price": "€€€",
-      "path": "/netherlands/aduard/aduard/herberg-onder-de-linden"
+      "path": "/netherlands/aduard/aduard/herberg-onder-de-linden",
+      "award": "★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Vic",
-  "country": "spain",
-  "region": "vic",
-  "city": "vic",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "vic",
+  "city": "Vic",
+  "citySlug": "vic",
+  "path": "/spain/vic/vic/restaurants",
+  "canonicalPath": "/spain/vic/vic/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Barmutet",

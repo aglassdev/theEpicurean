@@ -1,9 +1,22 @@
 {
   "title": "Cernobbio",
-  "country": "italy",
-  "region": "cernobbio",
-  "city": "cernobbio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cernobbio",
+  "city": "Cernobbio",
+  "citySlug": "cernobbio",
+  "path": "/italy/cernobbio/cernobbio/restaurants",
+  "canonicalPath": "/italy/cernobbio/cernobbio/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Materia",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/italy/cernobbio/cernobbio/materia",
+      "award": "★"
+    },
     {
       "name": "Casa Perrotta Restaurant",
       "cuisine": "Italian Contemporary",
@@ -20,13 +33,7 @@
       "name": "La Veranda",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/cernobbio/cernobbio/la-veranda"
-    },
-    {
-      "name": "Materia",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/italy/cernobbio/cernobbio/materia"
+      "path": "/italy/cernobbio/cernobbio/la-veranda-c-e-r"
     }
   ]
 }

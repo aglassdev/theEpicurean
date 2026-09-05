@@ -1,11 +1,21 @@
 {
   "title": "Port Townsend",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": null,
+  "regionSlug": "other",
+  "city": "Port Townsend",
+  "citySlug": "port-townsend",
+  "path": "/usa/other/port-townsend/restaurants",
+  "canonicalPath": "/usa/other/port-townsend/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Manresa",
       "cuisine": "",
       "price": "",
-      "path": "/usa/other/port-townsend/Manresa"
+      "path": "/usa/other/port-townsend/manresa",
+      "award": "World's 50 Best"
     }
   ]
 }

@@ -1,6 +1,29 @@
 {
   "title": "San Pedro Garza Garca",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "san-pedro-garza-garca",
+  "city": "San Pedro Garza Garca",
+  "citySlug": "san-pedro-garza-garca",
+  "path": "/mexico/san-pedro-garza-garca/san-pedro-garza-garca/restaurants",
+  "canonicalPath": "/mexico/san-pedro-garza-garca/san-pedro-garza-garca/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Pangea",
+      "cuisine": "Contemporary, Mexican",
+      "price": "$$$",
+      "path": "/mexico/san-pedro-garza-garca/san-pedro-garza-garca/pangea",
+      "award": "★"
+    },
+    {
+      "name": "El Bambis Café",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/mexico/san-pedro-garza-garca/san-pedro-garza-garca/el-bambis-caf",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Fonda San Francisco",
       "cuisine": "Mexican",
@@ -8,22 +31,10 @@
       "path": "/mexico/san-pedro-garza-garca/san-pedro-garza-garca/fonda-san-francisco"
     },
     {
-      "name": "Pangea",
-      "cuisine": "Contemporary, Mexican",
-      "price": "$$$",
-      "path": "/mexico/san-pedro-garza-garca/san-pedro-garza-garca/pangea"
-    },
-    {
       "name": "Vernáculo",
       "cuisine": "Mexican",
       "price": "$$",
       "path": "/mexico/san-pedro-garza-garca/san-pedro-garza-garca/vernculo"
-    },
-    {
-      "name": "El Bambis Café",
-      "cuisine": "Mexican",
-      "price": "$",
-      "path": "/mexico/san-pedro-garza-garca/san-pedro-garza-garca/ElBambisCaf"
     }
   ]
 }

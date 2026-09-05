@@ -1,20 +1,27 @@
 {
   "title": "Wuppertal",
-  "country": "germany",
-  "region": "wuppertal",
-  "city": "wuppertal",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "wuppertal",
+  "city": "Wuppertal",
+  "citySlug": "wuppertal",
+  "path": "/germany/wuppertal/wuppertal/restaurants",
+  "canonicalPath": "/germany/wuppertal/wuppertal/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Shiraz",
+      "cuisine": "Creative, International",
+      "price": "€€€€",
+      "path": "/germany/wuppertal/wuppertal/shiraz",
+      "award": "★"
+    },
     {
       "name": "79 °",
       "cuisine": "Farm to table, Classic Cuisine",
       "price": "€€",
       "path": "/germany/wuppertal/wuppertal/79"
-    },
-    {
-      "name": "Shiraz",
-      "cuisine": "Creative, International",
-      "price": "€€€€",
-      "path": "/germany/wuppertal/wuppertal/shiraz"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
-  "title": "Villars Sur Ollon",
-  "country": "switzerland",
-  "region": "villars-sur-ollon",
-  "city": "villars-sur-ollon",
+  "title": "Villars sur Ollon",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "villars-sur-ollon",
+  "city": "Villars sur Ollon",
+  "citySlug": "villars-sur-ollon",
+  "path": "/switzerland/villars-sur-ollon/villars-sur-ollon/restaurants",
+  "canonicalPath": "/switzerland/villars-sur-ollon/villars-sur-ollon/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le 1913",
       "cuisine": "Modern Cuisine, International",
       "price": "€€€€",
-      "path": "/switzerland/villars-sur-ollon/villars-sur-ollon/le-1913"
+      "path": "/switzerland/villars-sur-ollon/villars-sur-ollon/le1913"
     },
     {
       "name": "Le Jardin des Alpes",

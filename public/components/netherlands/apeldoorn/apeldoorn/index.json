@@ -1,20 +1,27 @@
 {
   "title": "Apeldoorn",
-  "country": "netherlands",
-  "region": "apeldoorn",
-  "city": "apeldoorn",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "apeldoorn",
+  "city": "Apeldoorn",
+  "citySlug": "apeldoorn",
+  "path": "/netherlands/apeldoorn/apeldoorn/restaurants",
+  "canonicalPath": "/netherlands/apeldoorn/apeldoorn/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Zenith",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/netherlands/apeldoorn/apeldoorn/zenith",
+      "award": "★"
+    },
     {
       "name": "Sizzles at the Park",
       "cuisine": "International",
       "price": "€€",
       "path": "/netherlands/apeldoorn/apeldoorn/sizzles-at-the-park"
-    },
-    {
-      "name": "Zenith",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/netherlands/apeldoorn/apeldoorn/zenith"
     }
   ]
 }

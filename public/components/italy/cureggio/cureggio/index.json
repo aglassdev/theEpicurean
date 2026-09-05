@@ -1,17 +1,26 @@
 {
   "title": "Cureggio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cureggio",
+  "city": "Cureggio",
+  "citySlug": "cureggio",
+  "path": "/italy/cureggio/cureggio/restaurants",
+  "canonicalPath": "/italy/cureggio/cureggio/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Capuccina",
+      "cuisine": "Italian Contemporary",
+      "price": "$$",
+      "path": "/italy/cureggio/cureggio/capuccina"
+    },
     {
       "name": "La Capuccina",
       "cuisine": "Piedmontese, Italian Contemporary",
       "price": "€€",
       "path": "/italy/cureggio/cureggio/la-capuccina"
-    },
-    {
-      "name": "Capuccina",
-      "cuisine": "Italian Contemporary",
-      "price": "$$",
-      "path": "/italy/cureggio/cureggio/Capuccina"
     }
   ]
 }

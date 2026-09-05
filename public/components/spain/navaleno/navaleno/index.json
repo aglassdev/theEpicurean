@@ -1,14 +1,21 @@
 {
   "title": "Navaleno",
-  "country": "spain",
-  "region": "navaleno",
-  "city": "navaleno",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "navaleno",
+  "city": "Navaleno",
+  "citySlug": "navaleno",
+  "path": "/spain/navaleno/navaleno/restaurants",
+  "canonicalPath": "/spain/navaleno/navaleno/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Lobita",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/spain/navaleno/navaleno/la-lobita"
+      "path": "/spain/navaleno/navaleno/la-lobita",
+      "award": "★"
     }
   ]
 }

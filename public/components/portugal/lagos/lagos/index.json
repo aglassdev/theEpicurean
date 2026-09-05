@@ -1,14 +1,21 @@
 {
   "title": "Lagos",
-  "country": "portugal",
-  "region": "lagos",
-  "city": "lagos",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "lagos",
+  "city": "Lagos",
+  "citySlug": "lagos",
+  "path": "/portugal/lagos/lagos/restaurants",
+  "canonicalPath": "/portugal/lagos/lagos/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Al Sud",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/portugal/lagos/lagos/al-sud"
+      "path": "/portugal/lagos/lagos/al-sud",
+      "award": "★"
     },
     {
       "name": "Avenida",

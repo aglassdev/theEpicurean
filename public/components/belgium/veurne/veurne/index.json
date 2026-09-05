@@ -1,8 +1,14 @@
 {
   "title": "Veurne",
-  "country": "belgium",
-  "region": "veurne",
-  "city": "veurne",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "veurne",
+  "city": "Veurne",
+  "citySlug": "veurne",
+  "path": "/belgium/veurne/veurne/restaurants",
+  "canonicalPath": "/belgium/veurne/veurne/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "De Oogappel",

@@ -1,8 +1,14 @@
 {
   "title": "Bozouls",
-  "country": "france",
-  "region": "bozouls",
-  "city": "bozouls",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bozouls",
+  "city": "Bozouls",
+  "citySlug": "bozouls",
+  "path": "/france/bozouls/bozouls/restaurants",
+  "canonicalPath": "/france/bozouls/bozouls/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Route d'Argent",

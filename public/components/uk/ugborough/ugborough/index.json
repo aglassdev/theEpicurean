@@ -1,11 +1,20 @@
 {
   "title": "Ugborough",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "ugborough",
+  "city": "Ugborough",
+  "citySlug": "ugborough",
+  "path": "/uk/ugborough/ugborough/restaurants",
+  "canonicalPath": "/uk/ugborough/ugborough/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Refectory",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/uk/ugborough/ugborough/TheRefectory"
+      "path": "/uk/ugborough/ugborough/the-refectory"
     }
   ]
 }

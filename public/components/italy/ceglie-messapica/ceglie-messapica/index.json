@@ -1,18 +1,18 @@
 {
   "title": "Ceglie Messapica",
-  "country": "italy",
-  "region": "ceglie-messapica",
-  "city": "ceglie-messapica",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ceglie-messapica",
+  "city": "Ceglie Messapica",
+  "citySlug": "ceglie-messapica",
+  "path": "/italy/ceglie-messapica/ceglie-messapica/restaurants",
+  "canonicalPath": "/italy/ceglie-messapica/ceglie-messapica/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cibus",
       "cuisine": "Apulian, Regional Cuisine",
-      "price": "€€",
-      "path": "/italy/ceglie-messapica/ceglie-messapica/cibus"
-    },
-    {
-      "name": "Cibus",
-      "cuisine": "Apulian, Country cooking",
       "price": "€€",
       "path": "/italy/ceglie-messapica/ceglie-messapica/cibus"
     }

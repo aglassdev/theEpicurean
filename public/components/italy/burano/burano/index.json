@@ -1,8 +1,14 @@
 {
   "title": "Burano",
-  "country": "italy",
-  "region": "burano",
-  "city": "burano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "burano",
+  "city": "Burano",
+  "citySlug": "burano",
+  "path": "/italy/burano/burano/restaurants",
+  "canonicalPath": "/italy/burano/burano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Al Gatto Nero",

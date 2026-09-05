@@ -1,14 +1,42 @@
 {
   "title": "Basel",
-  "country": "switzerland",
-  "region": "basel",
-  "city": "basel",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "basel",
+  "city": "Basel",
+  "citySlug": "basel",
+  "path": "/switzerland/basel/basel/restaurants",
+  "canonicalPath": "/switzerland/basel/basel/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Cheval Blanc by Peter Knogl",
+      "cuisine": "Classic French",
+      "price": "€€€€",
+      "path": "/switzerland/basel/basel/cheval-blanc-by-peter-knogl",
+      "award": "★★★"
+    },
+    {
+      "name": "roots",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/basel/basel/roots",
+      "award": "★★"
+    },
+    {
+      "name": "Stucki - Tanja Grandits",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/basel/basel/stucki-tanja-grandits",
+      "award": "★★"
+    },
     {
       "name": "Ackermannshof",
       "cuisine": "Mediterranean Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/basel/basel/ackermannshof"
+      "path": "/switzerland/basel/basel/ackermannshof",
+      "award": "★"
     },
     {
       "name": "au violon",
@@ -29,12 +57,6 @@
       "path": "/switzerland/basel/basel/brasserie-les-trois-rois"
     },
     {
-      "name": "Cheval Blanc by Peter Knogl",
-      "cuisine": "Classic French",
-      "price": "€€€€",
-      "path": "/switzerland/basel/basel/cheval-blanc-by-peter-knogl"
-    },
-    {
       "name": "Concordia",
       "cuisine": "Vegetarian, Creative",
       "price": "€€€",
@@ -53,28 +75,10 @@
       "path": "/switzerland/basel/basel/restaurant-la"
     },
     {
-      "name": "roots",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/basel/basel/roots"
-    },
-    {
-      "name": "roots",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/basel/basel/roots"
-    },
-    {
       "name": "Roter Bären",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/switzerland/basel/basel/roter-bren"
-    },
-    {
-      "name": "Stucki - Tanja Grandits",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/basel/basel/stucki-tanja-grandits"
     }
   ]
 }

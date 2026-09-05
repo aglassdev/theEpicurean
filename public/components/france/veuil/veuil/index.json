@@ -1,8 +1,14 @@
 {
   "title": "Veuil",
-  "country": "france",
-  "region": "veuil",
-  "city": "veuil",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "veuil",
+  "city": "Veuil",
+  "citySlug": "veuil",
+  "path": "/france/veuil/veuil/restaurants",
+  "canonicalPath": "/france/veuil/veuil/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge Saint Fiacre",

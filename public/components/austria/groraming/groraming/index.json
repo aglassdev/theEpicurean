@@ -1,14 +1,21 @@
 {
   "title": "Groraming",
-  "country": "austria",
-  "region": "groraming",
-  "city": "groraming",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "groraming",
+  "city": "Groraming",
+  "citySlug": "groraming",
+  "path": "/austria/groraming/groraming/restaurants",
+  "canonicalPath": "/austria/groraming/groraming/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "RAU nature-based cuisine",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/austria/groraming/groraming/rau-nature-based-cuisine"
+      "path": "/austria/groraming/groraming/rau-naturebased-cuisine",
+      "award": "★"
     }
   ]
 }

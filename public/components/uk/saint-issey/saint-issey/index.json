@@ -1,8 +1,14 @@
 {
   "title": "Saint Issey",
-  "country": "uk",
-  "region": "saint-issey",
-  "city": "saint-issey",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "saint-issey",
+  "city": "Saint Issey",
+  "citySlug": "saint-issey",
+  "path": "/uk/saint-issey/saint-issey/restaurants",
+  "canonicalPath": "/uk/saint-issey/saint-issey/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Barnaby's",

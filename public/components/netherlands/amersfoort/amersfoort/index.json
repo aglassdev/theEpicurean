@@ -1,8 +1,14 @@
 {
   "title": "Amersfoort",
-  "country": "netherlands",
-  "region": "amersfoort",
-  "city": "amersfoort",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "amersfoort",
+  "city": "Amersfoort",
+  "citySlug": "amersfoort",
+  "path": "/netherlands/amersfoort/amersfoort/restaurants",
+  "canonicalPath": "/netherlands/amersfoort/amersfoort/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Bergpaviljoen",

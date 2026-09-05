@@ -1,11 +1,20 @@
 {
   "title": "Marino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "marino",
+  "city": "Marino",
+  "citySlug": "marino",
+  "path": "/italy/marino/marino/restaurants",
+  "canonicalPath": "/italy/marino/marino/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "AVUS",
       "cuisine": "Vegetarian",
       "price": "$$",
-      "path": "/italy/marino/marino/Avus"
+      "path": "/italy/marino/marino/avus"
     }
   ]
 }

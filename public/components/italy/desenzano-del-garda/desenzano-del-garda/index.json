@@ -1,20 +1,27 @@
 {
-  "title": "Desenzano Del Garda",
-  "country": "italy",
-  "region": "desenzano-del-garda",
-  "city": "desenzano-del-garda",
+  "title": "Desenzano del Garda",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "desenzano-del-garda",
+  "city": "Desenzano del Garda",
+  "citySlug": "desenzano-del-garda",
+  "path": "/italy/desenzano-del-garda/desenzano-del-garda/restaurants",
+  "canonicalPath": "/italy/desenzano-del-garda/desenzano-del-garda/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Esplanade",
       "cuisine": "Italian, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/desenzano-del-garda/desenzano-del-garda/esplanade"
+      "path": "/italy/desenzano-del-garda/desenzano-del-garda/esplanade-d-e-s",
+      "award": "★"
     },
     {
       "name": "MoS",
       "cuisine": "Contemporary, Seasonal Cuisine",
       "price": "€€",
-      "path": "/italy/desenzano-del-garda/desenzano-del-garda/mos"
+      "path": "/italy/desenzano-del-garda/desenzano-del-garda/mos-d-e-s"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Rathenow",
-  "country": "germany",
-  "region": "rathenow",
-  "city": "rathenow",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "rathenow",
+  "city": "Rathenow",
+  "citySlug": "rathenow",
+  "path": "/germany/rathenow/rathenow/restaurants",
+  "canonicalPath": "/germany/rathenow/rathenow/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hasenpfeffer",

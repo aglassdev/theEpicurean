@@ -1,11 +1,28 @@
 {
   "title": "Nottingham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "nottingham",
+  "city": "Nottingham",
+  "citySlug": "nottingham",
+  "path": "/uk/nottingham/nottingham/restaurants",
+  "canonicalPath": "/uk/nottingham/nottingham/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Restaurant Sat Bains",
+      "cuisine": "Creative",
+      "price": "££££",
+      "path": "/uk/nottingham/nottingham/restaurant-sat-bains",
+      "award": "★★"
+    },
     {
       "name": "alchemilla",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/nottingham/nottingham/alchemilla"
+      "path": "/uk/nottingham/nottingham/alchemilla",
+      "award": "★"
     },
     {
       "name": "Ibérico World Tapas",
@@ -17,7 +34,7 @@
       "name": "Kushi-Ya",
       "cuisine": "Japanese",
       "price": "££",
-      "path": "/uk/nottingham/nottingham/kushi-ya"
+      "path": "/uk/nottingham/nottingham/kushiya"
     },
     {
       "name": "Piccalilli",
@@ -30,18 +47,6 @@
       "cuisine": "Modern British, Sharing",
       "price": "££",
       "path": "/uk/nottingham/nottingham/raymonds"
-    },
-    {
-      "name": "Restaurant Sat Bains",
-      "cuisine": "Creative",
-      "price": "££££",
-      "path": "/uk/nottingham/nottingham/restaurant-sat-bains"
-    },
-    {
-      "name": "Restaurant Sat Bains",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/uk/nottingham/nottingham/RestaurantSatBains"
     }
   ]
 }

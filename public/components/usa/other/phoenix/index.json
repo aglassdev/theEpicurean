@@ -1,11 +1,21 @@
 {
   "title": "Phoenix",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": null,
+  "regionSlug": "other",
+  "city": "Phoenix",
+  "citySlug": "phoenix",
+  "path": "/usa/other/phoenix/restaurants",
+  "canonicalPath": "/usa/other/phoenix/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vincent Guerithault on Camelback",
       "cuisine": "",
       "price": "",
-      "path": "/usa/other/phoenix/VincentGuerithaultOnCamelback"
+      "path": "/usa/other/phoenix/vincent-guerithault-on-camelback",
+      "award": "World's 50 Best"
     }
   ]
 }

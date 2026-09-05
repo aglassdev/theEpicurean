@@ -1,11 +1,20 @@
 {
   "title": "Lautrec",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lautrec",
+  "city": "Lautrec",
+  "citySlug": "lautrec",
+  "path": "/france/lautrec/lautrec/restaurants",
+  "canonicalPath": "/france/lautrec/lautrec/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'oc-xalis",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/lautrec/lautrec/Locxalis"
+      "path": "/france/lautrec/lautrec/locxalis"
     }
   ]
 }

@@ -1,6 +1,21 @@
 {
   "title": "Tudela",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "tudela",
+  "city": "Tudela",
+  "citySlug": "tudela",
+  "path": "/spain/tudela/tudela/restaurants",
+  "canonicalPath": "/spain/tudela/tudela/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "El Choko de Remigio",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/spain/tudela/tudela/el-choko-de-remigio"
+    },
     {
       "name": "Remigio",
       "cuisine": "Regional Cuisine, Farm to table",
@@ -14,16 +29,10 @@
       "path": "/spain/tudela/tudela/treintaitres"
     },
     {
-      "name": "El Choko de Remigio",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/spain/tudela/tudela/ElChokoDeRemigio"
-    },
-    {
       "name": "Treintaitrés",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/spain/tudela/tudela/Treintaitrs"
+      "path": "/spain/tudela/tudela/treintaitrs"
     }
   ]
 }

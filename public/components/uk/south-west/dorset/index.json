@@ -1,59 +1,68 @@
 {
   "title": "Dorset",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South West",
+  "regionSlug": "south-west",
+  "city": "Dorset",
+  "citySlug": "dorset",
+  "path": "/uk/south-west/dorset/restaurants",
+  "canonicalPath": "/uk/south-west/dorset/restaurants",
+  "count": 9,
   "restaurants": [
     {
       "name": "Bournemouth West Cliff Hotel",
       "cuisine": "Afternoon Tea",
       "price": "20.00",
-      "path": "/uk/south-west/dorset/BournemouthWestCliffHotel"
-    },
-    {
-      "name": "Summer Lodge Country House Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/south-west/dorset/SummerLodgeCountryHouseHotel"
-    },
-    {
-      "name": "Moonfleet Manor",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/south-west/dorset/MoonfleetManor"
-    },
-    {
-      "name": "Hotel du Vin Poole",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/south-west/dorset/HotelDuVinPoole"
-    },
-    {
-      "name": "Hotel Collingwood",
-      "cuisine": "Afternoon Tea",
-      "price": "19.50",
-      "path": "/uk/south-west/dorset/HotelCollingwood"
-    },
-    {
-      "name": "The Green House Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "22.50",
-      "path": "/uk/south-west/dorset/TheGreenHouseHotel"
-    },
-    {
-      "name": "Dorset Queen Cruise",
-      "cuisine": "Afternoon Tea",
-      "price": "69.00",
-      "path": "/uk/south-west/dorset/DorsetQueenCruise"
-    },
-    {
-      "name": "The Connaught Hotel and Spa",
-      "cuisine": "Afternoon Tea",
-      "price": "22.50",
-      "path": "/uk/south-west/dorset/TheConnaughtHotelAndSpa"
+      "path": "/uk/south-west/dorset/bournemouth-west-cliff-hotel"
     },
     {
       "name": "Careys Manor Hotel",
       "cuisine": "Afternoon Tea",
       "price": "30.00",
-      "path": "/uk/south-west/dorset/CareysManorHotel"
+      "path": "/uk/south-west/dorset/careys-manor-hotel"
+    },
+    {
+      "name": "Dorset Queen Cruise",
+      "cuisine": "Afternoon Tea",
+      "price": "69.00",
+      "path": "/uk/south-west/dorset/dorset-queen-cruise"
+    },
+    {
+      "name": "Hotel Collingwood",
+      "cuisine": "Afternoon Tea",
+      "price": "19.50",
+      "path": "/uk/south-west/dorset/hotel-collingwood"
+    },
+    {
+      "name": "Hotel du Vin Poole",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/south-west/dorset/hotel-du-vin-poole"
+    },
+    {
+      "name": "Moonfleet Manor",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/south-west/dorset/moonfleet-manor"
+    },
+    {
+      "name": "Summer Lodge Country House Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/south-west/dorset/summer-lodge-country-house-hotel"
+    },
+    {
+      "name": "The Connaught Hotel and Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "22.50",
+      "path": "/uk/south-west/dorset/the-connaught-hotel-and-spa"
+    },
+    {
+      "name": "The Green House Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "22.50",
+      "path": "/uk/south-west/dorset/the-green-house-hotel"
     }
   ]
 }

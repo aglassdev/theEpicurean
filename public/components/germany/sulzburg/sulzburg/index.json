@@ -1,14 +1,21 @@
 {
   "title": "Sulzburg",
-  "country": "germany",
-  "region": "sulzburg",
-  "city": "sulzburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "sulzburg",
+  "city": "Sulzburg",
+  "citySlug": "sulzburg",
+  "path": "/germany/sulzburg/sulzburg/restaurants",
+  "canonicalPath": "/germany/sulzburg/sulzburg/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Hirschen",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/germany/sulzburg/sulzburg/hirschen"
+      "path": "/germany/sulzburg/sulzburg/hirschen",
+      "award": "★★"
     },
     {
       "name": "La Maison Eric",

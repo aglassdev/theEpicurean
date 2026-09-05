@@ -1,8 +1,14 @@
 {
   "title": "Saint Bron",
-  "country": "france",
-  "region": "saint-bron",
-  "city": "saint-bron",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-bron",
+  "city": "Saint Bron",
+  "citySlug": "saint-bron",
+  "path": "/france/saint-bron/saint-bron/restaurants",
+  "canonicalPath": "/france/saint-bron/saint-bron/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Pérou",

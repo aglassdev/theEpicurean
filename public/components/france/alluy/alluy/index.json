@@ -1,14 +1,20 @@
 {
   "title": "Alluy",
-  "country": "france",
-  "region": "alluy",
-  "city": "alluy",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "alluy",
+  "city": "Alluy",
+  "citySlug": "alluy",
+  "path": "/france/alluy/alluy/restaurants",
+  "canonicalPath": "/france/alluy/alluy/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Grangée",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/alluy/alluy/la-grange"
+      "path": "/france/alluy/alluy/la-grange-a-l-l"
     }
   ]
 }

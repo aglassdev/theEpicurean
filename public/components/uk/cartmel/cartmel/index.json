@@ -1,20 +1,28 @@
 {
   "title": "Cartmel",
-  "country": "uk",
-  "region": "cartmel",
-  "city": "cartmel",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "cartmel",
+  "city": "Cartmel",
+  "citySlug": "cartmel",
+  "path": "/uk/cartmel/cartmel/restaurants",
+  "canonicalPath": "/uk/cartmel/cartmel/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Enclume",
       "cuisine": "Creative British",
       "price": "££££",
-      "path": "/uk/cartmel/cartmel/lenclume"
+      "path": "/uk/cartmel/cartmel/lenclume",
+      "award": "★★★"
     },
     {
       "name": "Rogan & Co",
       "cuisine": "Creative British",
       "price": "££££",
-      "path": "/uk/cartmel/cartmel/rogan-co"
+      "path": "/uk/cartmel/cartmel/rogan-co",
+      "award": "★"
     }
   ]
 }

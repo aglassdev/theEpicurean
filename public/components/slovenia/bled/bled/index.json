@@ -1,8 +1,14 @@
 {
   "title": "Bled",
-  "country": "slovenia",
-  "region": "bled",
-  "city": "bled",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "bled",
+  "city": "Bled",
+  "citySlug": "bled",
+  "path": "/slovenia/bled/bled/restaurants",
+  "canonicalPath": "/slovenia/bled/bled/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Julijana",
@@ -20,7 +26,7 @@
       "name": "Restavracija 1906",
       "cuisine": "Contemporary, Traditional Cuisine",
       "price": "€€€",
-      "path": "/slovenia/bled/bled/restavracija-1906"
+      "path": "/slovenia/bled/bled/restavracija1906"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Weybourne",
-  "country": "uk",
-  "region": "weybourne",
-  "city": "weybourne",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "weybourne",
+  "city": "Weybourne",
+  "citySlug": "weybourne",
+  "path": "/uk/weybourne/weybourne/restaurants",
+  "canonicalPath": "/uk/weybourne/weybourne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Grain Store",

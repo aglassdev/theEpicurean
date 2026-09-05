@@ -1,8 +1,14 @@
 {
   "title": "Beverley",
-  "country": "uk",
-  "region": "beverley",
-  "city": "beverley",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "beverley",
+  "city": "Beverley",
+  "citySlug": "beverley",
+  "path": "/uk/beverley/beverley/restaurants",
+  "canonicalPath": "/uk/beverley/beverley/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Westwood",

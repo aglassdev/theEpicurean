@@ -1,0 +1,26 @@
+{
+  "title": "San Luis Obispo",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "San Luis Obispo",
+  "citySlug": "san-luis-obispo",
+  "path": "/usa/california/san-luis-obispo/restaurants",
+  "canonicalPath": "/usa/california/san-luis-obispo/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Nate's on Marsh",
+      "cuisine": "American, Italian",
+      "price": "$$$",
+      "path": "/usa/california/san-luis-obispo/nates-on-marsh"
+    },
+    {
+      "name": "Ox + Anchor",
+      "cuisine": "Steakhouse",
+      "price": "$$$$",
+      "path": "/usa/california/san-luis-obispo/ox-anchor"
+    }
+  ]
+}

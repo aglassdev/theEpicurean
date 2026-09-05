@@ -1,8 +1,14 @@
 {
   "title": "San Severo",
-  "country": "italy",
-  "region": "san-severo",
-  "city": "san-severo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-severo",
+  "city": "San Severo",
+  "citySlug": "san-severo",
+  "path": "/italy/san-severo/san-severo/restaurants",
+  "canonicalPath": "/italy/san-severo/san-severo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Fossa del Grano",

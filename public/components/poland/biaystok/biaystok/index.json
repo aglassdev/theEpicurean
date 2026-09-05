@@ -1,35 +1,46 @@
 {
-  "title": "Białystok",
+  "title": "Biaystok",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "biaystok",
+  "city": "Biaystok",
+  "citySlug": "biaystok",
+  "path": "/poland/biaystok/biaystok/restaurants",
+  "canonicalPath": "/poland/biaystok/biaystok/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Kwestia Czasu / NAGO",
       "cuisine": "Modern Cuisine",
       "price": "$",
-      "path": "/poland/biaystok/biaystok/KwestiaCzasuNago"
+      "path": "/poland/biaystok/biaystok/kwestia-czasu-nago",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Sztuka Chleba i Wina",
       "cuisine": "Modern Cuisine",
       "price": "$",
-      "path": "/poland/biaystok/biaystok/SztukaChlebaIWina"
+      "path": "/poland/biaystok/biaystok/sztuka-chleba-i-wina",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Regiment",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/poland/biaystok/biaystok/Regiment"
+      "path": "/poland/biaystok/biaystok/regiment"
     },
     {
       "name": "Skórka Bistro Wino",
       "cuisine": "Regional Cuisine",
       "price": "$",
-      "path": "/poland/biaystok/biaystok/SkrkaBistroWino"
+      "path": "/poland/biaystok/biaystok/skrka-bistro-wino"
     },
     {
       "name": "Sztuka Mięsa",
       "cuisine": "Meats and Grills",
       "price": "$",
-      "path": "/poland/biaystok/biaystok/SztukaMisa"
+      "path": "/poland/biaystok/biaystok/sztuka-misa"
     }
   ]
 }

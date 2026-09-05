@@ -1,14 +1,21 @@
 {
-  "title": "Mautern An Der Donau",
-  "country": "austria",
-  "region": "mautern-an-der-donau",
-  "city": "mautern-an-der-donau",
+  "title": "Mautern an der Donau",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "mautern-an-der-donau",
+  "city": "Mautern an der Donau",
+  "citySlug": "mautern-an-der-donau",
+  "path": "/austria/mautern-an-der-donau/mautern-an-der-donau/restaurants",
+  "canonicalPath": "/austria/mautern-an-der-donau/mautern-an-der-donau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Landhaus Bacher",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/austria/mautern-an-der-donau/mautern-an-der-donau/landhaus-bacher"
+      "path": "/austria/mautern-an-der-donau/mautern-an-der-donau/landhaus-bacher",
+      "award": "★★"
     }
   ]
 }

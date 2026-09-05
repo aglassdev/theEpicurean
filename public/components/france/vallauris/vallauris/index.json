@@ -1,8 +1,14 @@
 {
   "title": "Vallauris",
-  "country": "france",
-  "region": "vallauris",
-  "city": "vallauris",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vallauris",
+  "city": "Vallauris",
+  "citySlug": "vallauris",
+  "path": "/france/vallauris/vallauris/restaurants",
+  "canonicalPath": "/france/vallauris/vallauris/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Dilettants",

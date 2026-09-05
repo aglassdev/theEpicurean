@@ -1,89 +1,104 @@
 {
-  "title": "Taguig - Metro Manila",
+  "title": "Taguig Metro Manila",
+  "country": "Philippines",
+  "countrySlug": "the-philippines",
+  "region": null,
+  "regionSlug": "taguig-metro-manila",
+  "city": "Taguig Metro Manila",
+  "citySlug": "taguig-metro-manila",
+  "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/restaurants",
+  "canonicalPath": "/the-philippines/taguig-metro-manila/taguig-metro-manila/restaurants",
+  "count": 14,
   "restaurants": [
     {
       "name": "Gallery by Chele",
       "cuisine": "Creative",
       "price": "$$$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/GalleryByChele"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/gallery-by-chele",
+      "award": "★"
     },
     {
       "name": "Bolero",
       "cuisine": "Spanish",
       "price": "$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/Bolero"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/bolero",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Brick Corner",
       "cuisine": "Indian",
       "price": "$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/BrickCorner"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/brick-corner",
+      "award": "Bib Gourmand"
     },
     {
       "name": "COCHI",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/Cochi"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/cochi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Em Hà Nội",
       "cuisine": "Vietnamese",
       "price": "$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/EmHNi"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/em-h-ni",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Los Tacos",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/LosTacos"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/los-tacos",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Canton Road",
       "cuisine": "Chinese",
       "price": "$$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/CantonRoad"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/canton-road"
     },
     {
       "name": "Iai",
       "cuisine": "Japanese",
       "price": "$$$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/Iai"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/iai"
     },
     {
       "name": "Locavore (Taguig)",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/LocavoreTaguig"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/locavore-taguig"
     },
     {
       "name": "Mamacita",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/Mamacita"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/mamacita"
     },
     {
       "name": "Steak & Frice",
       "cuisine": "Steakhouse",
       "price": "$$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/SteakFrice"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/steak-frice"
     },
     {
       "name": "Taupe",
       "cuisine": "Contemporary",
       "price": "$$$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/Taupe"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/taupe"
     },
     {
       "name": "Terraza Martinez",
       "cuisine": "Spanish",
       "price": "$$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/TerrazaMartinez"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/terraza-martinez"
     },
     {
       "name": "Uma Nota",
       "cuisine": "Japanese Contemporary",
       "price": "$$$",
-      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/UmaNota"
+      "path": "/the-philippines/taguig-metro-manila/taguig-metro-manila/uma-nota"
     }
   ]
 }

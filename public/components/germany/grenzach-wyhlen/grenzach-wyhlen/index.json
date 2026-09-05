@@ -1,14 +1,21 @@
 {
   "title": "Grenzach Wyhlen",
-  "country": "germany",
-  "region": "grenzach-wyhlen",
-  "city": "grenzach-wyhlen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "grenzach-wyhlen",
+  "city": "Grenzach Wyhlen",
+  "citySlug": "grenzach-wyhlen",
+  "path": "/germany/grenzach-wyhlen/grenzach-wyhlen/restaurants",
+  "canonicalPath": "/germany/grenzach-wyhlen/grenzach-wyhlen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Eckert | Fine Dining",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/grenzach-wyhlen/grenzach-wyhlen/eckert-fine-dining"
+      "path": "/germany/grenzach-wyhlen/grenzach-wyhlen/eckert-fine-dining",
+      "award": "★"
     },
     {
       "name": "Rührberger Hof",

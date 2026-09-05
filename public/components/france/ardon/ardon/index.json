@@ -1,20 +1,28 @@
 {
   "title": "Ardon",
-  "country": "france",
-  "region": "ardon",
-  "city": "ardon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ardon",
+  "city": "Ardon",
+  "citySlug": "ardon",
+  "path": "/france/ardon/ardon/restaurants",
+  "canonicalPath": "/france/ardon/ardon/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Table - Christophe Hay et Loïs Bée",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/france/ardon/ardon/la-table-christophe-hay-et-los-be"
+      "path": "/france/ardon/ardon/la-table-christophe-hay-et-los-be",
+      "award": "★"
     },
     {
       "name": "La Table de Christophe Hay et Loïs Bée",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/france/ardon/ardon/la-table-de-christophe-hay-et-los-be"
+      "path": "/france/ardon/ardon/la-table-de-christophe-hay-et-los-be",
+      "award": "★"
     }
   ]
 }

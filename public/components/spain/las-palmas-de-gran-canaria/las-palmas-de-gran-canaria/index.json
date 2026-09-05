@@ -1,9 +1,36 @@
 {
-  "title": "Las Palmas De Gran Canaria",
-  "country": "spain",
-  "region": "las-palmas-de-gran-canaria",
-  "city": "las-palmas-de-gran-canaria",
+  "title": "Las Palmas de Gran Canaria",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "las-palmas-de-gran-canaria",
+  "city": "Las Palmas de Gran Canaria",
+  "citySlug": "las-palmas-de-gran-canaria",
+  "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/restaurants",
+  "canonicalPath": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/restaurants",
+  "count": 13,
   "restaurants": [
+    {
+      "name": "Muxgo",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/muxgo",
+      "award": "★"
+    },
+    {
+      "name": "Poemas by Hermanos Padrón",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/poemas-by-hermanos-padrn",
+      "award": "★"
+    },
+    {
+      "name": "Tabaiba",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/tabaiba",
+      "award": "★"
+    },
     {
       "name": "Deliciosamarta",
       "cuisine": "Creative",
@@ -14,7 +41,7 @@
       "name": "El Equilibrista 33",
       "cuisine": "Creative, Traditional Cuisine",
       "price": "€€",
-      "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/el-equilibrista-33"
+      "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/el-equilibrista33"
     },
     {
       "name": "El Santo",
@@ -29,22 +56,10 @@
       "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/hikari-japanese-roots"
     },
     {
-      "name": "Muxgo",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/muxgo"
-    },
-    {
       "name": "Nákar",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/nkar"
-    },
-    {
-      "name": "Poemas by Hermanos Padrón",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/poemas-by-hermanos-padrn"
     },
     {
       "name": "Qué Leche",
@@ -53,28 +68,22 @@
       "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/qu-leche"
     },
     {
-      "name": "Rígolo",
-      "cuisine": "Italian, Fusion",
-      "price": "€€",
-      "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/rgolo"
-    },
-    {
       "name": "Rêver",
       "cuisine": "Mediterranean Cuisine, International",
       "price": "€€",
       "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/rver"
     },
     {
+      "name": "Rígolo",
+      "cuisine": "Italian, Fusion",
+      "price": "€€",
+      "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/rgolo"
+    },
+    {
       "name": "Sorondongo",
       "cuisine": "Traditional Cuisine, Creative",
       "price": "€€",
       "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/sorondongo"
-    },
-    {
-      "name": "Tabaiba",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/las-palmas-de-gran-canaria/las-palmas-de-gran-canaria/tabaiba"
     },
     {
       "name": "Verode",

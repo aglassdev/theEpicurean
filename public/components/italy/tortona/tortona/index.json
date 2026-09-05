@@ -1,11 +1,26 @@
 {
   "title": "Tortona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "tortona",
+  "city": "Tortona",
+  "citySlug": "tortona",
+  "path": "/italy/tortona/tortona/restaurants",
+  "canonicalPath": "/italy/tortona/tortona/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Cavallino",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/italy/tortona/tortona/cavallino"
+    },
+    {
+      "name": "Ciccio Bistrot",
+      "cuisine": "Piedmontese",
+      "price": "$$",
+      "path": "/italy/tortona/tortona/ciccio-bistrot"
     },
     {
       "name": "Osteria Billis",
@@ -18,12 +33,6 @@
       "cuisine": "Piedmontese, Traditional Cuisine",
       "price": "€€",
       "path": "/italy/tortona/tortona/vineria-derthona"
-    },
-    {
-      "name": "Ciccio Bistrot",
-      "cuisine": "Piedmontese",
-      "price": "$$",
-      "path": "/italy/tortona/tortona/CiccioBistrot"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Albiate",
-  "country": "italy",
-  "region": "albiate",
-  "city": "albiate",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "albiate",
+  "city": "Albiate",
+  "citySlug": "albiate",
+  "path": "/italy/albiate/albiate/restaurants",
+  "canonicalPath": "/italy/albiate/albiate/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Grow Restaurant",
       "cuisine": "Farm to table, Creative",
       "price": "€€€",
-      "path": "/italy/albiate/albiate/grow-restaurant"
+      "path": "/italy/albiate/albiate/grow-restaurant",
+      "award": "★"
     }
   ]
 }

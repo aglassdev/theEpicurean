@@ -1,0 +1,32 @@
+{
+  "title": "Rosemead",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Rosemead",
+  "citySlug": "rosemead",
+  "path": "/usa/other/rosemead/restaurants",
+  "canonicalPath": "/usa/california/rosemead/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Good Alley",
+      "cuisine": "Chinese",
+      "price": "$$",
+      "path": "/usa/california/rosemead/good-alley"
+    },
+    {
+      "name": "Longo Seafood",
+      "cuisine": "Chinese, Dim Sum",
+      "price": "$$",
+      "path": "/usa/california/rosemead/longo-seafood"
+    },
+    {
+      "name": "Sea Harbour",
+      "cuisine": "Chinese, Dim Sum",
+      "price": "$$",
+      "path": "/usa/california/rosemead/sea-harbour"
+    }
+  ]
+}

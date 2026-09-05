@@ -1,17 +1,140 @@
 {
   "title": "Stockholm",
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "region": null,
+  "regionSlug": "stockholm",
+  "city": "Stockholm",
+  "citySlug": "stockholm",
+  "path": "/sweden/stockholm/stockholm/restaurants",
+  "canonicalPath": "/sweden/stockholm/stockholm/restaurants",
+  "count": 52,
   "restaurants": [
     {
-      "name": "Adam / Albin",
+      "name": "Frantzén",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/adam-albin"
+      "path": "/sweden/stockholm/stockholm/frantzn",
+      "award": "★★★"
     },
     {
       "name": "AIRA",
       "cuisine": "Modern Cuisine, Swedish",
       "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/aira"
+      "path": "/sweden/stockholm/stockholm/aira",
+      "award": "★★"
+    },
+    {
+      "name": "Aloë",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/sweden/stockholm/stockholm/alo",
+      "award": "★★"
+    },
+    {
+      "name": "Adam / Albin",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/sweden/stockholm/stockholm/adam-albin",
+      "award": "★"
+    },
+    {
+      "name": "Celeste",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/sweden/stockholm/stockholm/celeste",
+      "award": "★"
+    },
+    {
+      "name": "Dashi",
+      "cuisine": "Japanese",
+      "price": "€€€",
+      "path": "/sweden/stockholm/stockholm/dashi",
+      "award": "★"
+    },
+    {
+      "name": "Ekstedt",
+      "cuisine": "Grills",
+      "price": "€€€€",
+      "path": "/sweden/stockholm/stockholm/ekstedt",
+      "award": "★"
+    },
+    {
+      "name": "ergo.",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/sweden/stockholm/stockholm/ergo",
+      "award": "★"
+    },
+    {
+      "name": "Etoile",
+      "cuisine": "Creative, International",
+      "price": "€€€€",
+      "path": "/sweden/stockholm/stockholm/etoile",
+      "award": "★"
+    },
+    {
+      "name": "Nour",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/sweden/stockholm/stockholm/nour",
+      "award": "★"
+    },
+    {
+      "name": "Operakällaren",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/sweden/stockholm/stockholm/operakllaren",
+      "award": "★"
+    },
+    {
+      "name": "Seafood Gastro",
+      "cuisine": "Seafood",
+      "price": "€€€€",
+      "path": "/sweden/stockholm/stockholm/seafood-gastro",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Sho",
+      "cuisine": "Japanese, Sushi",
+      "price": "€€€",
+      "path": "/sweden/stockholm/stockholm/sushi-sho",
+      "award": "★"
+    },
+    {
+      "name": "Frantzén/Lindeberg",
+      "cuisine": "",
+      "price": "",
+      "path": "/sweden/stockholm/stockholm/frantznlindeberg",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Mathias Dahlgren",
+      "cuisine": "",
+      "price": "",
+      "path": "/sweden/stockholm/stockholm/mathias-dahlgren",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Mathias Dhalgren",
+      "cuisine": "",
+      "price": "",
+      "path": "/sweden/stockholm/stockholm/mathias-dhalgren",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Oaxen Krog",
+      "cuisine": "",
+      "price": "",
+      "path": "/sweden/stockholm/stockholm/oaxen-krog",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Restaurant Frantzén",
+      "cuisine": "",
+      "price": "",
+      "path": "/sweden/stockholm/stockholm/restaurant-frantzn",
+      "award": "World's 50 Best"
     },
     {
       "name": "Allegrine",
@@ -20,22 +143,22 @@
       "path": "/sweden/stockholm/stockholm/allegrine"
     },
     {
-      "name": "Aloë",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/alo"
-    },
-    {
-      "name": "Babette",
-      "cuisine": "Modern Cuisine",
-      "price": "€",
-      "path": "/sweden/stockholm/stockholm/babette"
+      "name": "ÄRLA",
+      "cuisine": "Farm to table, Swedish",
+      "price": "€€",
+      "path": "/sweden/stockholm/stockholm/rla"
     },
     {
       "name": "B.A.R.",
       "cuisine": "Seafood",
       "price": "€€",
       "path": "/sweden/stockholm/stockholm/bar"
+    },
+    {
+      "name": "Babette",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "path": "/sweden/stockholm/stockholm/babette"
     },
     {
       "name": "Bar Agrikultur",
@@ -68,52 +191,16 @@
       "path": "/sweden/stockholm/stockholm/brutalisten"
     },
     {
-      "name": "Celeste",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/celeste"
-    },
-    {
-      "name": "Dashi",
-      "cuisine": "Japanese",
-      "price": "€€€",
-      "path": "/sweden/stockholm/stockholm/dashi"
-    },
-    {
-      "name": "Ekstedt",
-      "cuisine": "Grills",
-      "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/ekstedt"
-    },
-    {
-      "name": "ergo.",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/ergo"
-    },
-    {
       "name": "Essence",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
       "path": "/sweden/stockholm/stockholm/essence"
     },
     {
-      "name": "Essence",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/essence"
-    },
-    {
-      "name": "Etoile",
-      "cuisine": "Creative, International",
-      "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/etoile"
-    },
-    {
-      "name": "Farang",
-      "cuisine": "South East Asian",
-      "price": "€€",
-      "path": "/sweden/stockholm/stockholm/farang"
+      "name": "Ett Hem",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/sweden/stockholm/stockholm/ett-hem"
     },
     {
       "name": "Farang",
@@ -126,12 +213,6 @@
       "cuisine": "Modern Cuisine, Asian",
       "price": "€€",
       "path": "/sweden/stockholm/stockholm/forma"
-    },
-    {
-      "name": "Frantzén",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/frantzn"
     },
     {
       "name": "freyja",
@@ -182,18 +263,6 @@
       "path": "/sweden/stockholm/stockholm/nisch"
     },
     {
-      "name": "Nour",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/nour"
-    },
-    {
-      "name": "Operakällaren",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/operakllaren"
-    },
-    {
       "name": "Oxenstiernan",
       "cuisine": "Swedish",
       "price": "€€",
@@ -224,22 +293,10 @@
       "path": "/sweden/stockholm/stockholm/restaurang-bar"
     },
     {
-      "name": "ÄRLA",
-      "cuisine": "Farm to table, Swedish",
-      "price": "€€",
-      "path": "/sweden/stockholm/stockholm/rla"
-    },
-    {
       "name": "Rolfs Kök",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/sweden/stockholm/stockholm/rolfs-kk"
-    },
-    {
-      "name": "Seafood Gastro",
-      "cuisine": "Seafood",
-      "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/seafood-gastro"
     },
     {
       "name": "SOLEN",
@@ -248,16 +305,10 @@
       "path": "/sweden/stockholm/stockholm/solen"
     },
     {
-      "name": "Sushi Sho",
-      "cuisine": "Japanese, Sushi",
-      "price": "€€€",
-      "path": "/sweden/stockholm/stockholm/sushi-sho"
-    },
-    {
-      "name": "Sushi Sho",
-      "cuisine": "Japanese, Sushi",
-      "price": "€€€€",
-      "path": "/sweden/stockholm/stockholm/sushi-sho"
+      "name": "Sperling & Co",
+      "cuisine": "Steakhouse",
+      "price": "$$",
+      "path": "/sweden/stockholm/stockholm/sperling-co"
     },
     {
       "name": "Triton",
@@ -288,48 +339,6 @@
       "cuisine": "Contemporary, International",
       "price": "€€",
       "path": "/sweden/stockholm/stockholm/woodstockholm"
-    },
-    {
-      "name": "Ett Hem",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/sweden/stockholm/stockholm/EttHem"
-    },
-    {
-      "name": "Sperling & Co",
-      "cuisine": "Steakhouse",
-      "price": "$$",
-      "path": "/sweden/stockholm/stockholm/SperlingCo"
-    },
-    {
-      "name": "Oaxen Krog",
-      "cuisine": "",
-      "price": "",
-      "path": "/sweden/stockholm/stockholm/OaxenKrog"
-    },
-    {
-      "name": "Mathias Dhalgren",
-      "cuisine": "",
-      "price": "",
-      "path": "/sweden/stockholm/stockholm/MathiasDhalgren"
-    },
-    {
-      "name": "Restaurant Frantzén",
-      "cuisine": "",
-      "price": "",
-      "path": "/sweden/stockholm/stockholm/RestaurantFrantzn"
-    },
-    {
-      "name": "Mathias Dahlgren",
-      "cuisine": "",
-      "price": "",
-      "path": "/sweden/stockholm/stockholm/MathiasDahlgren"
-    },
-    {
-      "name": "Frantzén/Lindeberg",
-      "cuisine": "",
-      "price": "",
-      "path": "/sweden/stockholm/stockholm/Frantznlindeberg"
     }
   ]
 }

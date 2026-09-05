@@ -1,20 +1,26 @@
 {
   "title": "Pornic",
-  "country": "france",
-  "region": "pornic",
-  "city": "pornic",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pornic",
+  "city": "Pornic",
+  "citySlug": "pornic",
+  "path": "/france/pornic/pornic/restaurants",
+  "canonicalPath": "/france/pornic/pornic/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Le 21",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/pornic/pornic/le-21"
-    },
     {
       "name": "L'Orangerie",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/pornic/pornic/lorangerie"
+      "path": "/france/pornic/pornic/lorangerie-p-o-r"
+    },
+    {
+      "name": "Le 21",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/pornic/pornic/le21"
     }
   ]
 }

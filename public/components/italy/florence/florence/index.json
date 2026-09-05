@@ -1,20 +1,63 @@
 {
   "title": "Florence",
-  "country": "italy",
-  "region": "florence",
-  "city": "florence",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "florence",
+  "city": "Florence",
+  "citySlug": "florence",
+  "path": "/italy/florence/florence/restaurants",
+  "canonicalPath": "/italy/florence/florence/restaurants",
+  "count": 31,
   "restaurants": [
+    {
+      "name": "Enoteca Pinchiorri",
+      "cuisine": "Italian Contemporary, Creative",
+      "price": "€€€€",
+      "path": "/italy/florence/florence/enoteca-pinchiorri",
+      "award": "★★★"
+    },
+    {
+      "name": "Santa Elisabetta",
+      "cuisine": "Creative, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/italy/florence/florence/santa-elisabetta",
+      "award": "★★"
+    },
     {
       "name": "Atto di Vito Mollica",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/florence/florence/atto-di-vito-mollica"
+      "path": "/italy/florence/florence/atto-di-vito-mollica",
+      "award": "★"
     },
     {
       "name": "Borgo San Jacopo",
       "cuisine": "Modern Cuisine, Classic Cuisine",
       "price": "€€€€",
-      "path": "/italy/florence/florence/borgo-san-jacopo"
+      "path": "/italy/florence/florence/borgo-san-jacopo",
+      "award": "★"
+    },
+    {
+      "name": "Gucci Osteria da Massimo Bottura",
+      "cuisine": "Italian Contemporary, International",
+      "price": "€€€€",
+      "path": "/italy/florence/florence/gucci-osteria-da-massimo-bottura-f-l-o",
+      "award": "★"
+    },
+    {
+      "name": "Il Palagio",
+      "cuisine": "Italian Contemporary, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/florence/florence/il-palagio",
+      "award": "★"
+    },
+    {
+      "name": "Saporium Firenze",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/florence/florence/saporium-firenze",
+      "award": "★"
     },
     {
       "name": "Cestello Firenze",
@@ -32,7 +75,7 @@
       "name": "Cucina",
       "cuisine": "Tuscan, Home Cooking",
       "price": "€€",
-      "path": "/italy/florence/florence/cucina"
+      "path": "/italy/florence/florence/cucina-f-l-o"
     },
     {
       "name": "Cuculia",
@@ -59,18 +102,6 @@
       "path": "/italy/florence/florence/del-fagioli"
     },
     {
-      "name": "Enoteca Pinchiorri",
-      "cuisine": "Italian Contemporary, Creative",
-      "price": "€€€€",
-      "path": "/italy/florence/florence/enoteca-pinchiorri"
-    },
-    {
-      "name": "Gucci Osteria da Massimo Bottura",
-      "cuisine": "Italian Contemporary, International",
-      "price": "€€€€",
-      "path": "/italy/florence/florence/gucci-osteria-da-massimo-bottura"
-    },
-    {
       "name": "Gunè San Frediano",
       "cuisine": "Italian Contemporary, Tuscan",
       "price": "€€€",
@@ -87,12 +118,6 @@
       "cuisine": "Tuscan, Traditional Cuisine",
       "price": "€€",
       "path": "/italy/florence/florence/il-latini"
-    },
-    {
-      "name": "Il Palagio",
-      "cuisine": "Italian Contemporary, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/florence/florence/il-palagio"
     },
     {
       "name": "Il Santo Bevitore",
@@ -113,6 +138,12 @@
       "path": "/italy/florence/florence/konnubio"
     },
     {
+      "name": "L'Ortone",
+      "cuisine": "Italian, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/italy/florence/florence/lortone"
+    },
+    {
       "name": "La Leggenda dei Frati",
       "cuisine": "Creative",
       "price": "€€€€",
@@ -129,12 +160,6 @@
       "cuisine": "Contemporary, Creative",
       "price": "€€€€",
       "path": "/italy/florence/florence/locale-firenze"
-    },
-    {
-      "name": "L'Ortone",
-      "cuisine": "Italian, Seasonal Cuisine",
-      "price": "€€",
-      "path": "/italy/florence/florence/lortone"
     },
     {
       "name": "Luca's by Paulo Airaudo",
@@ -158,19 +183,7 @@
       "name": "Podere 39",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€",
-      "path": "/italy/florence/florence/podere-39"
-    },
-    {
-      "name": "Santa Elisabetta",
-      "cuisine": "Creative, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/italy/florence/florence/santa-elisabetta"
-    },
-    {
-      "name": "Saporium Firenze",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/florence/florence/saporium-firenze"
+      "path": "/italy/florence/florence/podere39"
     },
     {
       "name": "Trattoria Cibrèo - Il Cibrèino",

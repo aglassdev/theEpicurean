@@ -1,8 +1,14 @@
 {
   "title": "Tavel",
-  "country": "france",
-  "region": "tavel",
-  "city": "tavel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tavel",
+  "city": "Tavel",
+  "citySlug": "tavel",
+  "path": "/france/tavel/tavel/restaurants",
+  "canonicalPath": "/france/tavel/tavel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Courtille",

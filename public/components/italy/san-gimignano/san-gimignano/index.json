@@ -1,9 +1,22 @@
 {
   "title": "San Gimignano",
-  "country": "italy",
-  "region": "san-gimignano",
-  "city": "san-gimignano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-gimignano",
+  "city": "San Gimignano",
+  "citySlug": "san-gimignano",
+  "path": "/italy/san-gimignano/san-gimignano/restaurants",
+  "canonicalPath": "/italy/san-gimignano/san-gimignano/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Linfa",
+      "cuisine": "Creative, Country cooking",
+      "price": "€€€€",
+      "path": "/italy/san-gimignano/san-gimignano/linfa",
+      "award": "★"
+    },
     {
       "name": "Da Pode",
       "cuisine": "Tuscan, Traditional Cuisine",
@@ -11,16 +24,10 @@
       "path": "/italy/san-gimignano/san-gimignano/da-pode"
     },
     {
-      "name": "Linfa",
-      "cuisine": "Creative, Country cooking",
-      "price": "€€€€",
-      "path": "/italy/san-gimignano/san-gimignano/linfa"
-    },
-    {
       "name": "San Martino 26",
       "cuisine": "Country cooking, Creative",
       "price": "€€€",
-      "path": "/italy/san-gimignano/san-gimignano/san-martino-26"
+      "path": "/italy/san-gimignano/san-gimignano/san-martino26"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Heemstede",
-  "country": "netherlands",
-  "region": "heemstede",
-  "city": "heemstede",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "heemstede",
+  "city": "Heemstede",
+  "citySlug": "heemstede",
+  "path": "/netherlands/heemstede/heemstede/restaurants",
+  "canonicalPath": "/netherlands/heemstede/heemstede/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Cheval Blanc",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/netherlands/heemstede/heemstede/cheval-blanc"
+      "path": "/netherlands/heemstede/heemstede/cheval-blanc-h-e-e",
+      "award": "★"
     },
     {
       "name": "Landgoed Groenendaal",

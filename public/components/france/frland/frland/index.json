@@ -1,8 +1,14 @@
 {
   "title": "Frland",
-  "country": "france",
-  "region": "frland",
-  "city": "frland",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "frland",
+  "city": "Frland",
+  "citySlug": "frland",
+  "path": "/france/frland/frland/restaurants",
+  "canonicalPath": "/france/frland/frland/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant du Musée",

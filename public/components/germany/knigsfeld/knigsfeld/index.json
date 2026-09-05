@@ -1,8 +1,14 @@
 {
   "title": "Knigsfeld",
-  "country": "germany",
-  "region": "knigsfeld",
-  "city": "knigsfeld",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "knigsfeld",
+  "city": "Knigsfeld",
+  "citySlug": "knigsfeld",
+  "path": "/germany/knigsfeld/knigsfeld/restaurants",
+  "canonicalPath": "/germany/knigsfeld/knigsfeld/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Café Rapp",

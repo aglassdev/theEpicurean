@@ -1,17 +1,26 @@
 {
   "title": "Vinars",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "vinars",
+  "city": "Vinars",
+  "citySlug": "vinars",
+  "path": "/spain/vinars/vinars/restaurants",
+  "canonicalPath": "/spain/vinars/vinars/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Nadiu",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/spain/vinars/vinars/nadiu"
+    },
     {
       "name": "Rubén Miralles",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€",
       "path": "/spain/vinars/vinars/rubn-miralles"
-    },
-    {
-      "name": "Nadiu",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/spain/vinars/vinars/Nadiu"
     }
   ]
 }

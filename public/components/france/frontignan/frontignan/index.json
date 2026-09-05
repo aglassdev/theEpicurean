@@ -1,14 +1,20 @@
 {
   "title": "Frontignan",
-  "country": "france",
-  "region": "frontignan",
-  "city": "frontignan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "frontignan",
+  "city": "Frontignan",
+  "citySlug": "frontignan",
+  "path": "/france/frontignan/frontignan/restaurants",
+  "canonicalPath": "/france/frontignan/frontignan/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "In-Fine",
       "cuisine": "Traditional Cuisine",
       "price": "€",
-      "path": "/france/frontignan/frontignan/in-fine"
+      "path": "/france/frontignan/frontignan/infine"
     },
     {
       "name": "Le MG par Cécile et Grégory Doucey",

@@ -1,17 +1,26 @@
 {
   "title": "Wommelgem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "wommelgem",
+  "city": "Wommelgem",
+  "citySlug": "wommelgem",
+  "path": "/belgium/wommelgem/wommelgem/restaurants",
+  "canonicalPath": "/belgium/wommelgem/wommelgem/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Hertebos",
+      "cuisine": "Farm to table",
+      "price": "$$$$",
+      "path": "/belgium/wommelgem/wommelgem/hertebos"
+    },
     {
       "name": "Komaf",
       "cuisine": "French Contemporary",
       "price": "€€€€",
       "path": "/belgium/wommelgem/wommelgem/komaf"
-    },
-    {
-      "name": "Hertebos",
-      "cuisine": "Farm to table",
-      "price": "$$$$",
-      "path": "/belgium/wommelgem/wommelgem/Hertebos"
     }
   ]
 }

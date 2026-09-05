@@ -1,8 +1,14 @@
 {
   "title": "Bracca",
-  "country": "italy",
-  "region": "bracca",
-  "city": "bracca",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bracca",
+  "city": "Bracca",
+  "citySlug": "bracca",
+  "path": "/italy/bracca/bracca/restaurants",
+  "canonicalPath": "/italy/bracca/bracca/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Trattoria Dentella",

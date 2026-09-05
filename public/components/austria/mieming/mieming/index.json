@@ -1,14 +1,21 @@
 {
   "title": "Mieming",
-  "country": "austria",
-  "region": "mieming",
-  "city": "mieming",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "mieming",
+  "city": "Mieming",
+  "citySlug": "mieming",
+  "path": "/austria/mieming/mieming/restaurants",
+  "canonicalPath": "/austria/mieming/mieming/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant 141 by Joachim Jaud",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/austria/mieming/mieming/restaurant-141-by-joachim-jaud"
+      "path": "/austria/mieming/mieming/restaurant141-by-joachim-jaud",
+      "award": "★★"
     }
   ]
 }

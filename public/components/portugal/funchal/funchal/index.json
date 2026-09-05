@@ -1,9 +1,42 @@
 {
   "title": "Funchal",
-  "country": "portugal",
-  "region": "funchal",
-  "city": "funchal",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "funchal",
+  "city": "Funchal",
+  "citySlug": "funchal",
+  "path": "/portugal/funchal/funchal/restaurants",
+  "canonicalPath": "/portugal/funchal/funchal/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Il Gallo d'Oro",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/funchal/funchal/il-gallo-doro",
+      "award": "★★"
+    },
+    {
+      "name": "Desarma",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/portugal/funchal/funchal/desarma",
+      "award": "★"
+    },
+    {
+      "name": "William",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/portugal/funchal/funchal/william",
+      "award": "★"
+    },
+    {
+      "name": "Ákua",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/portugal/funchal/funchal/kua"
+    },
     {
       "name": "Audax",
       "cuisine": "Contemporary",
@@ -29,12 +62,6 @@
       "path": "/portugal/funchal/funchal/casal-da-penha"
     },
     {
-      "name": "Desarma",
-      "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/portugal/funchal/funchal/desarma"
-    },
-    {
       "name": "Gazebo",
       "cuisine": "Contemporary",
       "price": "€€€",
@@ -44,31 +71,13 @@
       "name": "Horta",
       "cuisine": "Vegetarian",
       "price": "€€",
-      "path": "/portugal/funchal/funchal/horta"
-    },
-    {
-      "name": "Il Gallo d'Oro",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/funchal/funchal/il-gallo-doro"
-    },
-    {
-      "name": "Ákua",
-      "cuisine": "Contemporary",
-      "price": "€€",
-      "path": "/portugal/funchal/funchal/kua"
+      "path": "/portugal/funchal/funchal/horta-f-u-n"
     },
     {
       "name": "Oxalis",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/portugal/funchal/funchal/oxalis"
-    },
-    {
-      "name": "William",
-      "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/portugal/funchal/funchal/william"
+      "path": "/portugal/funchal/funchal/oxalis-f-u-n"
     }
   ]
 }

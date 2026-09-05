@@ -1,8 +1,14 @@
 {
   "title": "Lauris",
-  "country": "france",
-  "region": "lauris",
-  "city": "lauris",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lauris",
+  "city": "Lauris",
+  "citySlug": "lauris",
+  "path": "/france/lauris/lauris/restaurants",
+  "canonicalPath": "/france/lauris/lauris/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Cuisine d'Amélie",

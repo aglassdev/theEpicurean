@@ -1,15 +1,15 @@
 {
   "title": "Kamouraska",
-  "country": "canada",
-  "region": "kamouraska",
-  "city": "kamouraska",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "kamouraska",
+  "city": "Kamouraska",
+  "citySlug": "kamouraska",
+  "path": "/canada/kamouraska/kamouraska/restaurants",
+  "canonicalPath": "/canada/kamouraska/kamouraska/restaurants",
+  "count": 1,
   "restaurants": [
-    {
-      "name": "Côté Est",
-      "cuisine": "Regional Cuisine",
-      "price": "$$",
-      "path": "/canada/kamouraska/kamouraska/ct-est"
-    },
     {
       "name": "Côté Est",
       "cuisine": "Regional Cuisine",

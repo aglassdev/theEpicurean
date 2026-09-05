@@ -1,14 +1,20 @@
 {
   "title": "Sainte Sabine",
-  "country": "france",
-  "region": "sainte-sabine",
-  "city": "sainte-sabine",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sainte-sabine",
+  "city": "Sainte Sabine",
+  "citySlug": "sainte-sabine",
+  "path": "/france/sainte-sabine/sainte-sabine/restaurants",
+  "canonicalPath": "/france/sainte-sabine/sainte-sabine/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Lassey - Château Sainte-Sabine",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/sainte-sabine/sainte-sabine/restaurant-lassey-chteau-sainte-sabine"
+      "path": "/france/sainte-sabine/sainte-sabine/restaurant-lassey-chteau-saintesabine"
     }
   ]
 }

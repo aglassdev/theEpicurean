@@ -1,15 +1,15 @@
 {
   "title": "Alnwick",
-  "country": "uk",
-  "region": "alnwick",
-  "city": "alnwick",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "alnwick",
+  "city": "Alnwick",
+  "citySlug": "alnwick",
+  "path": "/uk/alnwick/alnwick/restaurants",
+  "canonicalPath": "/uk/alnwick/alnwick/restaurants",
+  "count": 1,
   "restaurants": [
-    {
-      "name": "Sonnet",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/alnwick/alnwick/sonnet"
-    },
     {
       "name": "Sonnet",
       "cuisine": "Modern Cuisine",

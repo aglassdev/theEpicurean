@@ -1,32 +1,21 @@
 {
   "title": "Rimouski",
-  "country": "canada",
-  "region": "rimouski",
-  "city": "rimouski",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "rimouski",
+  "city": "Rimouski",
+  "citySlug": "rimouski",
+  "path": "/canada/rimouski/rimouski/restaurants",
+  "canonicalPath": "/canada/rimouski/rimouski/restaurants",
+  "count": 4,
   "restaurants": [
     {
-      "name": "Arlequin",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/canada/rimouski/rimouski/arlequin"
-    },
-    {
-      "name": "Les Affamés",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/canada/rimouski/rimouski/les-affams"
-    },
-    {
-      "name": "Losange",
-      "cuisine": "Regional Cuisine",
-      "price": "$$",
-      "path": "/canada/rimouski/rimouski/losange"
-    },
-    {
       "name": "Narval",
       "cuisine": "Creative, Modern Cuisine",
       "price": "$$$$",
-      "path": "/canada/rimouski/rimouski/narval"
+      "path": "/canada/rimouski/rimouski/narval",
+      "award": "★"
     },
     {
       "name": "Arlequin",
@@ -45,12 +34,6 @@
       "cuisine": "Regional Cuisine",
       "price": "$$",
       "path": "/canada/rimouski/rimouski/losange"
-    },
-    {
-      "name": "Narval",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "$$$$",
-      "path": "/canada/rimouski/rimouski/narval"
     }
   ]
 }

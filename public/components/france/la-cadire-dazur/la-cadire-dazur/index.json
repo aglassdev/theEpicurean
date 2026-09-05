@@ -1,14 +1,20 @@
 {
   "title": "La Cadire Dazur",
-  "country": "france",
-  "region": "la-cadire-dazur",
-  "city": "la-cadire-dazur",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-cadire-dazur",
+  "city": "La Cadire Dazur",
+  "citySlug": "la-cadire-dazur",
+  "path": "/france/la-cadire-dazur/la-cadire-dazur/restaurants",
+  "canonicalPath": "/france/la-cadire-dazur/la-cadire-dazur/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Riva",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
-      "path": "/france/la-cadire-dazur/la-cadire-dazur/riva"
+      "path": "/france/la-cadire-dazur/la-cadire-dazur/riva-l-a-c"
     }
   ]
 }

@@ -1,11 +1,20 @@
 {
-  "title": "Mikołajki",
+  "title": "Mikoajki",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "mikoajki",
+  "city": "Mikoajki",
+  "citySlug": "mikoajki",
+  "path": "/poland/mikoajki/mikoajki/restaurants",
+  "canonicalPath": "/poland/mikoajki/mikoajki/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restauracja w Zatoce",
       "cuisine": "Regional Cuisine",
       "price": "$$",
-      "path": "/poland/mikoajki/mikoajki/RestauracjaWZatoce"
+      "path": "/poland/mikoajki/mikoajki/restauracja-w-zatoce"
     }
   ]
 }

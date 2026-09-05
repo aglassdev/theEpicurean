@@ -1,0 +1,50 @@
+{
+  "title": "Alhambra",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Alhambra",
+  "citySlug": "alhambra",
+  "path": "/usa/other/alhambra/restaurants",
+  "canonicalPath": "/usa/california/alhambra/restaurants",
+  "count": 6,
+  "restaurants": [
+    {
+      "name": "Chengdu Taste",
+      "cuisine": "Chinese, Sichuan",
+      "price": "$$",
+      "path": "/usa/california/alhambra/chengdu-taste"
+    },
+    {
+      "name": "Henry's Cuisine",
+      "cuisine": "Chinese, Cantonese",
+      "price": "$$$",
+      "path": "/usa/california/alhambra/henrys-cuisine"
+    },
+    {
+      "name": "Ipoh Kopitiam",
+      "cuisine": "Malaysian",
+      "price": "$$",
+      "path": "/usa/california/alhambra/ipoh-kopitiam"
+    },
+    {
+      "name": "Jiang Nan Spring",
+      "cuisine": "Chinese, Shanghainese",
+      "price": "$$",
+      "path": "/usa/california/alhambra/jiang-nan-spring"
+    },
+    {
+      "name": "Lunasia Dim Sum House",
+      "cuisine": "Chinese, Dim Sum",
+      "price": "$$",
+      "path": "/usa/california/alhambra/lunasia-dim-sum-house"
+    },
+    {
+      "name": "Sichuan Impression",
+      "cuisine": "Chinese, Sichuan",
+      "price": "$$",
+      "path": "/usa/california/alhambra/sichuan-impression"
+    }
+  ]
+}

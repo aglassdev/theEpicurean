@@ -1,14 +1,21 @@
 {
   "title": "Waldbronn",
-  "country": "germany",
-  "region": "waldbronn",
-  "city": "waldbronn",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "waldbronn",
+  "city": "Waldbronn",
+  "citySlug": "waldbronn",
+  "path": "/germany/waldbronn/waldbronn/restaurants",
+  "canonicalPath": "/germany/waldbronn/waldbronn/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Schwitzer's Gourmet-Restaurant",
       "cuisine": "Classic Cuisine, Contemporary",
       "price": "€€€€",
-      "path": "/germany/waldbronn/waldbronn/schwitzers-gourmet-restaurant"
+      "path": "/germany/waldbronn/waldbronn/schwitzers-gourmetrestaurant",
+      "award": "★"
     },
     {
       "name": "Schwitzer's PUR",

@@ -1,20 +1,27 @@
 {
   "title": "Steffisburg",
-  "country": "switzerland",
-  "region": "steffisburg",
-  "city": "steffisburg",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "steffisburg",
+  "city": "Steffisburg",
+  "citySlug": "steffisburg",
+  "path": "/switzerland/steffisburg/steffisburg/restaurants",
+  "canonicalPath": "/switzerland/steffisburg/steffisburg/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Panorama - Cayenne",
+      "cuisine": "Modern French, Creative",
+      "price": "€€€",
+      "path": "/switzerland/steffisburg/steffisburg/panorama-cayenne",
+      "award": "★"
+    },
     {
       "name": "Panorama - Bistro",
       "cuisine": "Traditional Cuisine, Seasonal Cuisine",
       "price": "€€",
       "path": "/switzerland/steffisburg/steffisburg/panorama-bistro"
-    },
-    {
-      "name": "Panorama - Cayenne",
-      "cuisine": "Modern French, Creative",
-      "price": "€€€",
-      "path": "/switzerland/steffisburg/steffisburg/panorama-cayenne"
     }
   ]
 }

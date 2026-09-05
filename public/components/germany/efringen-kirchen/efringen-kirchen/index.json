@@ -1,14 +1,21 @@
 {
   "title": "Efringen Kirchen",
-  "country": "germany",
-  "region": "efringen-kirchen",
-  "city": "efringen-kirchen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "efringen-kirchen",
+  "city": "Efringen Kirchen",
+  "citySlug": "efringen-kirchen",
+  "path": "/germany/efringen-kirchen/efringen-kirchen/restaurants",
+  "canonicalPath": "/germany/efringen-kirchen/efringen-kirchen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Traube",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/germany/efringen-kirchen/efringen-kirchen/traube"
+      "path": "/germany/efringen-kirchen/efringen-kirchen/traube",
+      "award": "★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Sauzon",
-  "country": "france",
-  "region": "sauzon",
-  "city": "sauzon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sauzon",
+  "city": "Sauzon",
+  "citySlug": "sauzon",
+  "path": "/france/sauzon/sauzon/restaurants",
+  "canonicalPath": "/france/sauzon/sauzon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hôtel du Phare",

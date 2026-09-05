@@ -1,14 +1,21 @@
 {
   "title": "Pettenasco",
-  "country": "italy",
-  "region": "pettenasco",
-  "city": "pettenasco",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pettenasco",
+  "city": "Pettenasco",
+  "citySlug": "pettenasco",
+  "path": "/italy/pettenasco/pettenasco/restaurants",
+  "canonicalPath": "/italy/pettenasco/pettenasco/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Cannavacciuolo by the Lake",
       "cuisine": "Contemporary, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/pettenasco/pettenasco/cannavacciuolo-by-the-lake"
+      "path": "/italy/pettenasco/pettenasco/cannavacciuolo-by-the-lake",
+      "award": "★"
     },
     {
       "name": "Giardinetto",

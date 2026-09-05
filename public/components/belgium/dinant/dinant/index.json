@@ -1,8 +1,14 @@
 {
   "title": "Dinant",
-  "country": "belgium",
-  "region": "dinant",
-  "city": "dinant",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "dinant",
+  "city": "Dinant",
+  "citySlug": "dinant",
+  "path": "/belgium/dinant/dinant/restaurants",
+  "canonicalPath": "/belgium/dinant/dinant/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Broche",

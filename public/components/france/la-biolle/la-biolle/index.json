@@ -1,8 +1,14 @@
 {
   "title": "La Biolle",
-  "country": "france",
-  "region": "la-biolle",
-  "city": "la-biolle",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-biolle",
+  "city": "La Biolle",
+  "citySlug": "la-biolle",
+  "path": "/france/la-biolle/la-biolle/restaurants",
+  "canonicalPath": "/france/la-biolle/la-biolle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table des Bauges",

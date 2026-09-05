@@ -1,17 +1,26 @@
 {
-  "title": "Świnoujście",
+  "title": "Winoujcie",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "winoujcie",
+  "city": "Winoujcie",
+  "citySlug": "winoujcie",
+  "path": "/poland/winoujcie/winoujcie/restaurants",
+  "canonicalPath": "/poland/winoujcie/winoujcie/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Oyster",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/poland/winoujcie/winoujcie/Oyster"
+      "path": "/poland/winoujcie/winoujcie/oyster"
     },
     {
       "name": "Polonaise",
       "cuisine": "Modern Cuisine",
       "price": "$",
-      "path": "/poland/winoujcie/winoujcie/Polonaise"
+      "path": "/poland/winoujcie/winoujcie/polonaise"
     }
   ]
 }

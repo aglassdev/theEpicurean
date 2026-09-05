@@ -1,14 +1,20 @@
 {
   "title": "Herenthout",
-  "country": "belgium",
-  "region": "herenthout",
-  "city": "herenthout",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "herenthout",
+  "city": "Herenthout",
+  "citySlug": "herenthout",
+  "path": "/belgium/herenthout/herenthout/restaurants",
+  "canonicalPath": "/belgium/herenthout/herenthout/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Deux",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/belgium/herenthout/herenthout/les-deux"
+      "path": "/belgium/herenthout/herenthout/les-deux-h-e-r"
     }
   ]
 }

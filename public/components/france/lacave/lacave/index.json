@@ -1,20 +1,28 @@
 {
   "title": "Lacave",
-  "country": "france",
-  "region": "lacave",
-  "city": "lacave",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lacave",
+  "city": "Lacave",
+  "citySlug": "lacave",
+  "path": "/france/lacave/lacave/restaurants",
+  "canonicalPath": "/france/lacave/lacave/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Château de la Treyne",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/lacave/lacave/chteau-de-la-treyne"
+      "path": "/france/lacave/lacave/chteau-de-la-treyne",
+      "award": "★"
     },
     {
       "name": "Le Pont de l'Ouysse",
       "cuisine": "Modern Cuisine, Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/lacave/lacave/le-pont-de-louysse"
+      "path": "/france/lacave/lacave/le-pont-de-louysse",
+      "award": "★"
     }
   ]
 }

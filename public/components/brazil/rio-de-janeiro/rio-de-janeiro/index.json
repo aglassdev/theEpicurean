@@ -1,6 +1,85 @@
 {
-  "title": "Rio De Janeiro",
+  "title": "Rio de Janeiro",
+  "country": "Brazil",
+  "countrySlug": "brazil",
+  "region": null,
+  "regionSlug": "rio-de-janeiro",
+  "city": "Rio de Janeiro",
+  "citySlug": "rio-de-janeiro",
+  "path": "/brazil/rio-de-janeiro/rio-de-janeiro/restaurants",
+  "canonicalPath": "/brazil/rio-de-janeiro/rio-de-janeiro/restaurants",
+  "count": 50,
   "restaurants": [
+    {
+      "name": "Lasai",
+      "cuisine": "Modern Cuisine, Innovative",
+      "price": "$$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/lasai",
+      "award": "★★"
+    },
+    {
+      "name": "Oro",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/oro",
+      "award": "★★"
+    },
+    {
+      "name": "Casa 201",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/casa201",
+      "award": "★"
+    },
+    {
+      "name": "Madame Olympe",
+      "cuisine": "Creative French",
+      "price": "$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/madame-olympe",
+      "award": "★"
+    },
+    {
+      "name": "Mee",
+      "cuisine": "Asian Influences",
+      "price": "$$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/mee",
+      "award": "★"
+    },
+    {
+      "name": "Oseille",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "$$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/oseille",
+      "award": "★"
+    },
+    {
+      "name": "Oteque",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/oteque",
+      "award": "★"
+    },
+    {
+      "name": "Ristorante Hotel Cipriani",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/ristorante-hotel-cipriani",
+      "award": "★"
+    },
+    {
+      "name": "San Omakase",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/san-omakase",
+      "award": "★"
+    },
+    {
+      "name": "Koral",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/koral",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Aprazível",
       "cuisine": "Brazilian",
@@ -26,12 +105,6 @@
       "path": "/brazil/rio-de-janeiro/rio-de-janeiro/brota"
     },
     {
-      "name": "Casa 201",
-      "cuisine": "French",
-      "price": "$$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/casa-201"
-    },
-    {
       "name": "Chez Claude",
       "cuisine": "Modern French",
       "price": "$$$",
@@ -47,7 +120,7 @@
       "name": "Corrientes 348 - Marina da Glória",
       "cuisine": "Meats and Grills",
       "price": "$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/corrientes-348-marina-da-glria"
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/corrientes348-marina-da-glria"
     },
     {
       "name": "Didier",
@@ -92,12 +165,6 @@
       "path": "/brazil/rio-de-janeiro/rio-de-janeiro/la-villa-bistr-francs"
     },
     {
-      "name": "Lasai",
-      "cuisine": "Modern Cuisine, Innovative",
-      "price": "$$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/lasai"
-    },
-    {
       "name": "Lilia",
       "cuisine": "Brazilian",
       "price": "$$",
@@ -116,10 +183,10 @@
       "path": "/brazil/rio-de-janeiro/rio-de-janeiro/marine-rest"
     },
     {
-      "name": "Mee",
-      "cuisine": "Asian Influences",
-      "price": "$$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/mee"
+      "name": "Mäska",
+      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/mska"
     },
     {
       "name": "Miam Miam",
@@ -134,16 +201,16 @@
       "path": "/brazil/rio-de-janeiro/rio-de-janeiro/mr-lam"
     },
     {
-      "name": "Mäska",
-      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/mska"
-    },
-    {
       "name": "Nôa",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$$",
       "path": "/brazil/rio-de-janeiro/rio-de-janeiro/na"
+    },
+    {
+      "name": "Nôa Ipanema",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/na-ipanema"
     },
     {
       "name": "Nosso",
@@ -164,24 +231,6 @@
       "path": "/brazil/rio-de-janeiro/rio-de-janeiro/ocy-leblon"
     },
     {
-      "name": "Oro",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/oro"
-    },
-    {
-      "name": "Oseille",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "$$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/oseille"
-    },
-    {
-      "name": "Oteque",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/oteque"
-    },
-    {
       "name": "Pici Trattoria",
       "cuisine": "Italian",
       "price": "$$",
@@ -192,12 +241,6 @@
       "cuisine": "Portuguese",
       "price": "$$",
       "path": "/brazil/rio-de-janeiro/rio-de-janeiro/quinta-da-henriqueta"
-    },
-    {
-      "name": "Ristorante Hotel Cipriani",
-      "cuisine": "Italian",
-      "price": "$$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/ristorante-hotel-cipriani"
     },
     {
       "name": "Rubaiyat Rio",
@@ -216,12 +259,6 @@
       "cuisine": "Meats and Grills",
       "price": "$$$",
       "path": "/brazil/rio-de-janeiro/rio-de-janeiro/rufino-parrilla"
-    },
-    {
-      "name": "San Omakase",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/san-omakase"
     },
     {
       "name": "Spicy Fish",
@@ -248,6 +285,18 @@
       "path": "/brazil/rio-de-janeiro/rio-de-janeiro/sushi-leblon"
     },
     {
+      "name": "Sushi Vaz",
+      "cuisine": "Sushi",
+      "price": "$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/sushi-vaz"
+    },
+    {
+      "name": "Térèze",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/trze"
+    },
+    {
       "name": "Território Aprazível",
       "cuisine": "Brazilian",
       "price": "$$$",
@@ -266,40 +315,10 @@
       "path": "/brazil/rio-de-janeiro/rio-de-janeiro/toto"
     },
     {
-      "name": "Térèze",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/trze"
-    },
-    {
-      "name": "Madame Olympe",
-      "cuisine": "Creative French",
-      "price": "$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/MadameOlympe"
-    },
-    {
-      "name": "Koral",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/Koral"
-    },
-    {
-      "name": "Nôa Ipanema",
-      "cuisine": "International",
-      "price": "$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/NaIpanema"
-    },
-    {
-      "name": "Sushi Vaz",
-      "cuisine": "Sushi",
-      "price": "$$$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/SushiVaz"
-    },
-    {
       "name": "Yayá Comidaria Pop Brasileira",
       "cuisine": "Brazilian",
       "price": "$",
-      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/YayComidariaPopBrasileira"
+      "path": "/brazil/rio-de-janeiro/rio-de-janeiro/yay-comidaria-pop-brasileira"
     }
   ]
 }

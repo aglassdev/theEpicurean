@@ -1,14 +1,21 @@
 {
   "title": "Lacco Ameno",
-  "country": "italy",
-  "region": "lacco-ameno",
-  "city": "lacco-ameno",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "lacco-ameno",
+  "city": "Lacco Ameno",
+  "citySlug": "lacco-ameno",
+  "path": "/italy/lacco-ameno/lacco-ameno/restaurants",
+  "canonicalPath": "/italy/lacco-ameno/lacco-ameno/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Indaco",
       "cuisine": "Creative, Seafood",
       "price": "€€€€",
-      "path": "/italy/lacco-ameno/lacco-ameno/indaco"
+      "path": "/italy/lacco-ameno/lacco-ameno/indaco",
+      "award": "★"
     }
   ]
 }

@@ -1,20 +1,28 @@
 {
   "title": "Velbert",
-  "country": "germany",
-  "region": "velbert",
-  "city": "velbert",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "velbert",
+  "city": "Velbert",
+  "citySlug": "velbert",
+  "path": "/germany/velbert/velbert/restaurants",
+  "canonicalPath": "/germany/velbert/velbert/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Haus Stemberg",
       "cuisine": "Farm to table, Modern Cuisine",
       "price": "€€€",
-      "path": "/germany/velbert/velbert/haus-stemberg"
+      "path": "/germany/velbert/velbert/haus-stemberg",
+      "award": "★"
     },
     {
       "name": "Haus Stemberg ANNO 1864",
       "cuisine": "Farm to table, Modern Cuisine",
       "price": "€€€",
-      "path": "/germany/velbert/velbert/haus-stemberg-anno-1864"
+      "path": "/germany/velbert/velbert/haus-stemberg-anno1864",
+      "award": "★"
     }
   ]
 }

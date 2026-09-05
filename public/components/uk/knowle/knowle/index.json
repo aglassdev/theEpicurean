@@ -1,8 +1,14 @@
 {
   "title": "Knowle",
-  "country": "uk",
-  "region": "knowle",
-  "city": "knowle",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "knowle",
+  "city": "Knowle",
+  "citySlug": "knowle",
+  "path": "/uk/knowle/knowle/restaurants",
+  "canonicalPath": "/uk/knowle/knowle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cheal's",

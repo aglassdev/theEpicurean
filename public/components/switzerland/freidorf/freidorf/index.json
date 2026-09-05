@@ -1,14 +1,21 @@
 {
   "title": "Freidorf",
-  "country": "switzerland",
-  "region": "freidorf",
-  "city": "freidorf",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "freidorf",
+  "city": "Freidorf",
+  "citySlug": "freidorf",
+  "path": "/switzerland/freidorf/freidorf/restaurants",
+  "canonicalPath": "/switzerland/freidorf/freidorf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mammertsberg",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/freidorf/freidorf/mammertsberg"
+      "path": "/switzerland/freidorf/freidorf/mammertsberg",
+      "award": "★★"
     }
   ]
 }

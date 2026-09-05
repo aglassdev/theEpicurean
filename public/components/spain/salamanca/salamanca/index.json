@@ -1,9 +1,36 @@
 {
   "title": "Salamanca",
-  "country": "spain",
-  "region": "salamanca",
-  "city": "salamanca",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "salamanca",
+  "city": "Salamanca",
+  "citySlug": "salamanca",
+  "path": "/spain/salamanca/salamanca/restaurants",
+  "canonicalPath": "/spain/salamanca/salamanca/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "En la Parra",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/salamanca/salamanca/en-la-parra",
+      "award": "★"
+    },
+    {
+      "name": "Tayta by Víctor Gutiérrez",
+      "cuisine": "Creative, Fusion",
+      "price": "€€€€",
+      "path": "/spain/salamanca/salamanca/tayta-by-vctor-gutirrez",
+      "award": "★"
+    },
+    {
+      "name": "Víctor Gutiérrez",
+      "cuisine": "Creative, Fusion",
+      "price": "€€€€",
+      "path": "/spain/salamanca/salamanca/vctor-gutirrez",
+      "award": "★"
+    },
     {
       "name": "Bambú",
       "cuisine": "Traditional Cuisine, Contemporary",
@@ -29,12 +56,6 @@
       "path": "/spain/salamanca/salamanca/el-pecado"
     },
     {
-      "name": "En la Parra",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/salamanca/salamanca/en-la-parra"
-    },
-    {
       "name": "I+T",
       "cuisine": "Fusion, International",
       "price": "€€",
@@ -56,19 +77,7 @@
       "name": "Tapas 3.0",
       "cuisine": "Spanish Contemporary",
       "price": "€",
-      "path": "/spain/salamanca/salamanca/tapas-30"
-    },
-    {
-      "name": "Tayta by Víctor Gutiérrez",
-      "cuisine": "Creative, Fusion",
-      "price": "€€€€",
-      "path": "/spain/salamanca/salamanca/tayta-by-vctor-gutirrez"
-    },
-    {
-      "name": "Víctor Gutiérrez",
-      "cuisine": "Creative, Fusion",
-      "price": "€€€€",
-      "path": "/spain/salamanca/salamanca/vctor-gutirrez"
+      "path": "/spain/salamanca/salamanca/tapas30"
     }
   ]
 }

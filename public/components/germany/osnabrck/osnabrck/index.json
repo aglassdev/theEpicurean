@@ -1,20 +1,28 @@
 {
   "title": "Osnabrck",
-  "country": "germany",
-  "region": "osnabrck",
-  "city": "osnabrck",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "osnabrck",
+  "city": "Osnabrck",
+  "citySlug": "osnabrck",
+  "path": "/germany/osnabrck/osnabrck/restaurants",
+  "canonicalPath": "/germany/osnabrck/osnabrck/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "IKO",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/osnabrck/osnabrck/iko"
+      "path": "/germany/osnabrck/osnabrck/iko",
+      "award": "★"
     },
     {
       "name": "Kesselhaus",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/osnabrck/osnabrck/kesselhaus"
+      "path": "/germany/osnabrck/osnabrck/kesselhaus",
+      "award": "★"
     },
     {
       "name": "Wilde Triebe",

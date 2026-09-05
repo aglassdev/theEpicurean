@@ -1,20 +1,27 @@
 {
   "title": "Barr",
-  "country": "france",
-  "region": "barr",
-  "city": "barr",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "barr",
+  "city": "Barr",
+  "citySlug": "barr",
+  "path": "/france/barr/barr/restaurants",
+  "canonicalPath": "/france/barr/barr/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Enfin",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/barr/barr/enfin"
+      "path": "/france/barr/barr/enfin",
+      "award": "★"
     },
     {
       "name": "La Table du 5",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/barr/barr/la-table-du-5"
+      "path": "/france/barr/barr/la-table-du5"
     }
   ]
 }

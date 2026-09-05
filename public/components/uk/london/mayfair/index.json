@@ -1,155 +1,164 @@
 {
   "title": "Mayfair",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "Mayfair",
+  "citySlug": "mayfair",
+  "path": "/uk/london/mayfair/restaurants",
+  "canonicalPath": "/uk/london/mayfair/restaurants",
+  "count": 25,
   "restaurants": [
     {
-      "name": "The Biltmore Mayfair",
-      "cuisine": "Afternoon Tea",
-      "price": "80.00",
-      "path": "/uk/london/mayfair/TheBiltmoreMayfair"
-    },
-    {
-      "name": "The Beaumont Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/london/mayfair/TheBeaumontHotel"
-    },
-    {
-      "name": "Park Room at Grosvenor House",
-      "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/london/mayfair/ParkRoomAtGrosvenorHouse"
-    },
-    {
-      "name": "Socca",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/mayfair/Socca"
-    },
-    {
-      "name": "Sheraton Grand London Park Lane",
-      "cuisine": "Afternoon Tea",
-      "price": "65.00",
-      "path": "/uk/london/mayfair/SheratonGrandLondonParkLane"
-    },
-    {
-      "name": "Revery Bar at London Hilton on Park Lane",
-      "cuisine": "Afternoon Tea",
-      "price": "65.00",
-      "path": "/uk/london/mayfair/ReveryBarAtLondonHiltonOnParkLane"
-    },
-    {
-      "name": "Queens of Mayfair",
-      "cuisine": "Afternoon Tea",
-      "price": "34.95",
-      "path": "/uk/london/mayfair/QueensOfMayfair"
-    },
-    {
-      "name": "Pavyllon",
-      "cuisine": "Afternoon Tea",
-      "price": "75.00",
-      "path": "/uk/london/mayfair/Pavyllon"
-    },
-    {
-      "name": "London Marriott Hotel Park Lane",
-      "cuisine": "Afternoon Tea",
-      "price": "50.00",
-      "path": "/uk/london/mayfair/LondonMarriottHotelParkLane"
-    },
-    {
-      "name": "Jean-Georges at The Connaught",
-      "cuisine": "Afternoon Tea",
-      "price": "75.00",
-      "path": "/uk/london/mayfair/JeangeorgesAtTheConnaught"
-    },
-    {
-      "name": "The Ivy Asia Mayfair",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/london/mayfair/TheIvyAsiaMayfair"
-    },
-    {
-      "name": "InterContinental London Park Lane",
-      "cuisine": "Afternoon Tea",
-      "price": "74.00",
-      "path": "/uk/london/mayfair/IntercontinentalLondonParkLane"
-    },
-    {
-      "name": "Hotel Café Royal",
-      "cuisine": "Afternoon Tea",
-      "price": "79.00",
-      "path": "/uk/london/mayfair/HotelCafRoyal"
-    },
-    {
-      "name": "The Foyer & Reading Room - Claridge's",
-      "cuisine": "Afternoon Tea",
-      "price": "90.00",
-      "path": "/uk/london/mayfair/TheFoyerReadingRoomClaridges"
-    },
-    {
-      "name": "Flemings Mayfair",
-      "cuisine": "Afternoon Tea",
-      "price": "65.00",
-      "path": "/uk/london/mayfair/FlemingsMayfair"
-    },
-    {
-      "name": "The Drawing Room at Brown's Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "80.00",
-      "path": "/uk/london/mayfair/TheDrawingRoomAtBrownsHotel"
-    },
-    {
-      "name": "The Dorchester Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "95.00",
-      "path": "/uk/london/mayfair/TheDorchesterHotel"
-    },
-    {
-      "name": "Chinese Whispers Afternoon Tea at Kai Mayfair",
-      "cuisine": "Afternoon Tea",
-      "price": "52.00",
-      "path": "/uk/london/mayfair/ChineseWhispersAfternoonTeaAtKaiMayfair"
-    },
-    {
-      "name": "The Chesterfield Mayfair Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "75.00",
-      "path": "/uk/london/mayfair/TheChesterfieldMayfairHotel"
-    },
-    {
-      "name": "Caffe Concerto - The Grand by Concerto",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/london/mayfair/CaffeConcertoTheGrandByConcerto"
-    },
-    {
-      "name": "Caffe Concerto - Piccadilly",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/london/mayfair/CaffeConcertoPiccadilly"
-    },
-    {
-      "name": "Caffe Concerto - Green Park",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/london/mayfair/CaffeConcertoGreenPark"
-    },
-    {
-      "name": "Afternoon Tea at The May Fair Hotel",
+      "name": "116 at the Athenaeum",
       "cuisine": "Afternoon Tea",
       "price": "45.00",
-      "path": "/uk/london/mayfair/AfternoonTeaAtTheMayFairHotel"
+      "path": "/uk/london/mayfair/116-at-the-athenaeum"
     },
     {
       "name": "Afternoon Tea at The Dilly",
       "cuisine": "Afternoon Tea",
       "price": "49.00",
-      "path": "/uk/london/mayfair/AfternoonTeaAtTheDilly"
+      "path": "/uk/london/mayfair/afternoon-tea-at-the-dilly"
     },
     {
-      "name": "116 at the Athenaeum",
+      "name": "Afternoon Tea at The May Fair Hotel",
       "cuisine": "Afternoon Tea",
       "price": "45.00",
-      "path": "/uk/london/mayfair/116AtTheAthenaeum"
+      "path": "/uk/london/mayfair/afternoon-tea-at-the-may-fair-hotel"
+    },
+    {
+      "name": "Caffe Concerto - Green Park",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/london/mayfair/caffe-concerto-green-park"
+    },
+    {
+      "name": "Caffe Concerto - Piccadilly",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/london/mayfair/caffe-concerto-piccadilly"
+    },
+    {
+      "name": "Caffe Concerto - The Grand by Concerto",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/london/mayfair/caffe-concerto-the-grand-by-concerto"
+    },
+    {
+      "name": "Chinese Whispers Afternoon Tea at Kai Mayfair",
+      "cuisine": "Afternoon Tea",
+      "price": "52.00",
+      "path": "/uk/london/mayfair/chinese-whispers-afternoon-tea-at-kai-mayfair"
+    },
+    {
+      "name": "Flemings Mayfair",
+      "cuisine": "Afternoon Tea",
+      "price": "65.00",
+      "path": "/uk/london/mayfair/flemings-mayfair"
+    },
+    {
+      "name": "Hotel Café Royal",
+      "cuisine": "Afternoon Tea",
+      "price": "79.00",
+      "path": "/uk/london/mayfair/hotel-caf-royal"
+    },
+    {
+      "name": "InterContinental London Park Lane",
+      "cuisine": "Afternoon Tea",
+      "price": "74.00",
+      "path": "/uk/london/mayfair/intercontinental-london-park-lane"
+    },
+    {
+      "name": "Jean-Georges at The Connaught",
+      "cuisine": "Afternoon Tea",
+      "price": "75.00",
+      "path": "/uk/london/mayfair/jeangeorges-at-the-connaught"
+    },
+    {
+      "name": "London Marriott Hotel Park Lane",
+      "cuisine": "Afternoon Tea",
+      "price": "50.00",
+      "path": "/uk/london/mayfair/london-marriott-hotel-park-lane"
+    },
+    {
+      "name": "Park Room at Grosvenor House",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/london/mayfair/park-room-at-grosvenor-house"
+    },
+    {
+      "name": "Pavyllon",
+      "cuisine": "Afternoon Tea",
+      "price": "75.00",
+      "path": "/uk/london/mayfair/pavyllon"
+    },
+    {
+      "name": "Queens of Mayfair",
+      "cuisine": "Afternoon Tea",
+      "price": "34.95",
+      "path": "/uk/london/mayfair/queens-of-mayfair"
+    },
+    {
+      "name": "Revery Bar at London Hilton on Park Lane",
+      "cuisine": "Afternoon Tea",
+      "price": "65.00",
+      "path": "/uk/london/mayfair/revery-bar-at-london-hilton-on-park-lane"
+    },
+    {
+      "name": "Sheraton Grand London Park Lane",
+      "cuisine": "Afternoon Tea",
+      "price": "65.00",
+      "path": "/uk/london/mayfair/sheraton-grand-london-park-lane"
+    },
+    {
+      "name": "Socca",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/london/mayfair/socca"
+    },
+    {
+      "name": "The Beaumont Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/london/mayfair/the-beaumont-hotel"
+    },
+    {
+      "name": "The Biltmore Mayfair",
+      "cuisine": "Afternoon Tea",
+      "price": "80.00",
+      "path": "/uk/london/mayfair/the-biltmore-mayfair"
+    },
+    {
+      "name": "The Chesterfield Mayfair Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "75.00",
+      "path": "/uk/london/mayfair/the-chesterfield-mayfair-hotel"
+    },
+    {
+      "name": "The Dorchester Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "95.00",
+      "path": "/uk/london/mayfair/the-dorchester-hotel"
+    },
+    {
+      "name": "The Drawing Room at Brown's Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "80.00",
+      "path": "/uk/london/mayfair/the-drawing-room-at-browns-hotel"
+    },
+    {
+      "name": "The Foyer & Reading Room - Claridge's",
+      "cuisine": "Afternoon Tea",
+      "price": "90.00",
+      "path": "/uk/london/mayfair/the-foyer-reading-room-claridges"
+    },
+    {
+      "name": "The Ivy Asia Mayfair",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/london/mayfair/the-ivy-asia-mayfair"
     }
   ]
 }

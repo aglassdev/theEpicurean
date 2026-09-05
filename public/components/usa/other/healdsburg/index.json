@@ -1,0 +1,51 @@
+{
+  "title": "Healdsburg",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Healdsburg",
+  "citySlug": "healdsburg",
+  "path": "/usa/other/healdsburg/restaurants",
+  "canonicalPath": "/usa/california/healdsburg/restaurants",
+  "count": 6,
+  "restaurants": [
+    {
+      "name": "SingleThread",
+      "cuisine": "Contemporary, Californian",
+      "price": "$$$$",
+      "path": "/usa/california/healdsburg/singlethread",
+      "award": "★★★"
+    },
+    {
+      "name": "Barndiva",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/healdsburg/barndiva"
+    },
+    {
+      "name": "Dry Creek Kitchen",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/california/healdsburg/dry-creek-kitchen"
+    },
+    {
+      "name": "The Matheson",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/healdsburg/the-matheson"
+    },
+    {
+      "name": "Troubadour",
+      "cuisine": "French, Californian",
+      "price": "$$$$",
+      "path": "/usa/california/healdsburg/troubadour"
+    },
+    {
+      "name": "Valette",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/healdsburg/valette"
+    }
+  ]
+}

@@ -1,35 +1,49 @@
 {
   "title": "Lima",
+  "country": "Peru",
+  "countrySlug": "peru",
+  "region": null,
+  "regionSlug": "lima",
+  "city": "Lima",
+  "citySlug": "lima",
+  "path": "/peru/lima/lima/restaurants",
+  "canonicalPath": "/peru/lima/lima/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Astrid y Gastón",
       "cuisine": "",
       "price": "",
-      "path": "/peru/lima/lima/AstridYGastn"
+      "path": "/peru/lima/lima/astrid-y-gastn",
+      "award": "World's 50 Best"
     },
     {
       "name": "Central",
       "cuisine": "",
       "price": "",
-      "path": "/peru/lima/lima/Central"
-    },
-    {
-      "name": "Maido",
-      "cuisine": "",
-      "price": "",
-      "path": "/peru/lima/lima/Maido"
-    },
-    {
-      "name": "Mayta",
-      "cuisine": "",
-      "price": "",
-      "path": "/peru/lima/lima/Mayta"
+      "path": "/peru/lima/lima/central",
+      "award": "World's 50 Best"
     },
     {
       "name": "Kjolle",
       "cuisine": "",
       "price": "",
-      "path": "/peru/lima/lima/Kjolle"
+      "path": "/peru/lima/lima/kjolle",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Maido",
+      "cuisine": "",
+      "price": "",
+      "path": "/peru/lima/lima/maido",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Mayta",
+      "cuisine": "",
+      "price": "",
+      "path": "/peru/lima/lima/mayta",
+      "award": "World's 50 Best"
     }
   ]
 }

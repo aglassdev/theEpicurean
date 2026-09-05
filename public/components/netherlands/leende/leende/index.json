@@ -1,14 +1,21 @@
 {
   "title": "Leende",
-  "country": "netherlands",
-  "region": "leende",
-  "city": "leende",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "leende",
+  "city": "Leende",
+  "citySlug": "leende",
+  "path": "/netherlands/leende/leende/restaurants",
+  "canonicalPath": "/netherlands/leende/leende/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sabero",
       "cuisine": "Asian and Western, Modern Cuisine",
       "price": "€€€€",
-      "path": "/netherlands/leende/leende/sabero"
+      "path": "/netherlands/leende/leende/sabero",
+      "award": "★"
     }
   ]
 }

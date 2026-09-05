@@ -1,6 +1,36 @@
 {
   "title": "Verona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "verona",
+  "city": "Verona",
+  "citySlug": "verona",
+  "path": "/italy/verona/verona/restaurants",
+  "canonicalPath": "/italy/verona/verona/restaurants",
+  "count": 20,
   "restaurants": [
+    {
+      "name": "Casa Perbellini 12 Apostoli",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/verona/verona/casa-perbellini12-apostoli",
+      "award": "★★★"
+    },
+    {
+      "name": "Il Desco",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€€",
+      "path": "/italy/verona/verona/il-desco",
+      "award": "★"
+    },
+    {
+      "name": "Iris Ristorante",
+      "cuisine": "Contemporary, Italian Contemporary",
+      "price": "€€€€",
+      "path": "/italy/verona/verona/iris-ristorante",
+      "award": "★"
+    },
     {
       "name": "Al Bersagliere",
       "cuisine": "Venetian, Traditional Cuisine",
@@ -20,16 +50,16 @@
       "path": "/italy/verona/verona/amo-bistrot"
     },
     {
+      "name": "Café Carducci",
+      "cuisine": "Classic Cuisine",
+      "price": "$$",
+      "path": "/italy/verona/verona/caf-carducci"
+    },
+    {
       "name": "Caffè Dante Bistrot",
       "cuisine": "Italian, Classic Cuisine",
       "price": "€€",
       "path": "/italy/verona/verona/caff-dante-bistrot"
-    },
-    {
-      "name": "Casa Perbellini 12 Apostoli",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/verona/verona/casa-perbellini-12-apostoli"
     },
     {
       "name": "Filia Ristorante",
@@ -38,16 +68,16 @@
       "path": "/italy/verona/verona/filia-ristorante"
     },
     {
-      "name": "Il Desco",
-      "cuisine": "Italian Contemporary",
-      "price": "€€€€",
-      "path": "/italy/verona/verona/il-desco"
+      "name": "Inka",
+      "cuisine": "Peruvian",
+      "price": "$$",
+      "path": "/italy/verona/verona/inka"
     },
     {
-      "name": "Iris Ristorante",
-      "cuisine": "Contemporary, Italian Contemporary",
-      "price": "€€€€",
-      "path": "/italy/verona/verona/iris-ristorante"
+      "name": "L'Oste Scuro",
+      "cuisine": "Seafood, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/verona/verona/loste-scuro"
     },
     {
       "name": "La Loggia Bistrò",
@@ -59,13 +89,7 @@
       "name": "Locanda 4 Cuochi",
       "cuisine": "Classic Cuisine, Italian",
       "price": "€€",
-      "path": "/italy/verona/verona/locanda-4-cuochi"
-    },
-    {
-      "name": "L'Oste Scuro",
-      "cuisine": "Seafood, Modern Cuisine",
-      "price": "€€€",
-      "path": "/italy/verona/verona/loste-scuro"
+      "path": "/italy/verona/verona/locanda4-cuochi"
     },
     {
       "name": "Osteria la Fontanina",
@@ -108,18 +132,6 @@
       "cuisine": "Italian Contemporary",
       "price": "€€€",
       "path": "/italy/verona/verona/vescovo-moro"
-    },
-    {
-      "name": "Café Carducci",
-      "cuisine": "Classic Cuisine",
-      "price": "$$",
-      "path": "/italy/verona/verona/CafCarducci"
-    },
-    {
-      "name": "Inka",
-      "cuisine": "Peruvian",
-      "price": "$$",
-      "path": "/italy/verona/verona/Inka"
     }
   ]
 }

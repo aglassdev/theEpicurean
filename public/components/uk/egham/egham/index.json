@@ -1,9 +1,22 @@
 {
   "title": "Egham",
-  "country": "uk",
-  "region": "egham",
-  "city": "egham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "egham",
+  "city": "Egham",
+  "citySlug": "egham",
+  "path": "/uk/egham/egham/restaurants",
+  "canonicalPath": "/uk/egham/egham/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "The Tudor Pass",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/egham/egham/the-tudor-pass",
+      "award": "★"
+    },
     {
       "name": "1215",
       "cuisine": "Modern British",
@@ -21,12 +34,6 @@
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/egham/egham/the-bailiwick-freehouse"
-    },
-    {
-      "name": "The Tudor Pass",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/egham/egham/the-tudor-pass"
     }
   ]
 }

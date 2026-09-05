@@ -1,20 +1,27 @@
 {
   "title": "Linschoten",
-  "country": "netherlands",
-  "region": "linschoten",
-  "city": "linschoten",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "linschoten",
+  "city": "Linschoten",
+  "citySlug": "linschoten",
+  "path": "/netherlands/linschoten/linschoten/restaurants",
+  "canonicalPath": "/netherlands/linschoten/linschoten/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Restaurant De Burgemeester",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/netherlands/linschoten/linschoten/restaurant-de-burgemeester",
+      "award": "★"
+    },
     {
       "name": "Bij Mette",
       "cuisine": "Classic Cuisine",
       "price": "€€",
       "path": "/netherlands/linschoten/linschoten/bij-mette"
-    },
-    {
-      "name": "Restaurant De Burgemeester",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/netherlands/linschoten/linschoten/restaurant-de-burgemeester"
     }
   ]
 }

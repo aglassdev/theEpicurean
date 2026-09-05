@@ -1,8 +1,14 @@
 {
   "title": "Avegno",
-  "country": "switzerland",
-  "region": "avegno",
-  "city": "avegno",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "avegno",
+  "city": "Avegno",
+  "citySlug": "avegno",
+  "path": "/switzerland/avegno/avegno/restaurants",
+  "canonicalPath": "/switzerland/avegno/avegno/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Grotto Valmaggese",

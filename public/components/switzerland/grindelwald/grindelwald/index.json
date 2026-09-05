@@ -1,14 +1,21 @@
 {
   "title": "Grindelwald",
-  "country": "switzerland",
-  "region": "grindelwald",
-  "city": "grindelwald",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "grindelwald",
+  "city": "Grindelwald",
+  "citySlug": "grindelwald",
+  "path": "/switzerland/grindelwald/grindelwald/restaurants",
+  "canonicalPath": "/switzerland/grindelwald/grindelwald/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "1910 Gourmet by Hausers",
       "cuisine": "Contemporary",
       "price": "€€€€",
-      "path": "/switzerland/grindelwald/grindelwald/1910-gourmet-by-hausers"
+      "path": "/switzerland/grindelwald/grindelwald/1910-gourmet-by-hausers",
+      "award": "★"
     },
     {
       "name": "Bergwelt - BG's Grill Restaurant",

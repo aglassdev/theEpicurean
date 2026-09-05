@@ -1,14 +1,20 @@
 {
   "title": "Illies",
-  "country": "france",
-  "region": "illies",
-  "city": "illies",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "illies",
+  "city": "Illies",
+  "citySlug": "illies",
+  "path": "/france/illies/illies/restaurants",
+  "canonicalPath": "/france/illies/illies/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Épicurieux",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/illies/illies/lpicurieux"
+      "path": "/france/illies/illies/lpicurieux-i-l-l"
     }
   ]
 }

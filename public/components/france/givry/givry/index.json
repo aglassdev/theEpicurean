@@ -1,8 +1,14 @@
 {
   "title": "Givry",
-  "country": "france",
-  "region": "givry",
-  "city": "givry",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "givry",
+  "city": "Givry",
+  "citySlug": "givry",
+  "path": "/france/givry/givry/restaurants",
+  "canonicalPath": "/france/givry/givry/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison Minori",

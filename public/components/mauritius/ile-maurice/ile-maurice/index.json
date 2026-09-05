@@ -1,11 +1,21 @@
 {
   "title": "Ile Maurice",
+  "country": "Mauritius",
+  "countrySlug": "mauritius",
+  "region": null,
+  "regionSlug": "ile-maurice",
+  "city": "Ile Maurice",
+  "citySlug": "ile-maurice",
+  "path": "/mauritius/ile-maurice/ile-maurice/restaurants",
+  "canonicalPath": "/mauritius/ile-maurice/ile-maurice/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Spoon des Iles",
       "cuisine": "",
       "price": "",
-      "path": "/mauritius/ile-maurice/ile-maurice/SpoonDesIles"
+      "path": "/mauritius/ile-maurice/ile-maurice/spoon-des-iles",
+      "award": "World's 50 Best"
     }
   ]
 }

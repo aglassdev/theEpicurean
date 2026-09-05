@@ -1,20 +1,27 @@
 {
   "title": "Llanes",
-  "country": "spain",
-  "region": "llanes",
-  "city": "llanes",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "llanes",
+  "city": "Llanes",
+  "citySlug": "llanes",
+  "path": "/spain/llanes/llanes/restaurants",
+  "canonicalPath": "/spain/llanes/llanes/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "El Retiro",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/llanes/llanes/el-retiro",
+      "award": "★"
+    },
     {
       "name": "El Bálamu",
       "cuisine": "Seafood",
       "price": "€€",
       "path": "/spain/llanes/llanes/el-blamu"
-    },
-    {
-      "name": "El Retiro",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/llanes/llanes/el-retiro"
     },
     {
       "name": "Le Bistró",

@@ -1,23 +1,32 @@
 {
-  "title": "Sankt Pölten",
+  "title": "Sankt Plten",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "sankt-plten",
+  "city": "Sankt Plten",
+  "citySlug": "sankt-plten",
+  "path": "/austria/sankt-plten/sankt-plten/restaurants",
+  "canonicalPath": "/austria/sankt-plten/sankt-plten/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "ÆLIUM",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/austria/sankt-plten/sankt-plten/lium"
+    },
     {
       "name": "Gaststätte Figl",
       "cuisine": "Austrian",
       "price": "$$",
-      "path": "/austria/sankt-plten/sankt-plten/GaststtteFigl"
+      "path": "/austria/sankt-plten/sankt-plten/gaststtte-figl"
     },
     {
       "name": "Vinzenz Pauli",
       "cuisine": "Seasonal Cuisine",
       "price": "$$",
-      "path": "/austria/sankt-plten/sankt-plten/VinzenzPauli"
-    },
-    {
-      "name": "ÆLIUM",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/austria/sankt-plten/sankt-plten/Lium"
+      "path": "/austria/sankt-plten/sankt-plten/vinzenz-pauli"
     }
   ]
 }

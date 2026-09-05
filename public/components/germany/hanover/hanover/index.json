@@ -1,6 +1,43 @@
 {
   "title": "Hanover",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hanover",
+  "city": "Hanover",
+  "citySlug": "hanover",
+  "path": "/germany/hanover/hanover/restaurants",
+  "canonicalPath": "/germany/hanover/hanover/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "Jante",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/hanover/hanover/jante",
+      "award": "★★"
+    },
+    {
+      "name": "Votum",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/hanover/hanover/votum",
+      "award": "★★"
+    },
+    {
+      "name": "Handwerk",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/germany/hanover/hanover/handwerk",
+      "award": "★"
+    },
+    {
+      "name": "Marie",
+      "cuisine": "French, Creative",
+      "price": "€€€",
+      "path": "/germany/hanover/hanover/marie",
+      "award": "★"
+    },
     {
       "name": "Beckers",
       "cuisine": "French",
@@ -8,22 +45,16 @@
       "path": "/germany/hanover/hanover/beckers"
     },
     {
-      "name": "Handwerk",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€",
-      "path": "/germany/hanover/hanover/handwerk"
+      "name": "EssKultur",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/germany/hanover/hanover/esskultur"
     },
     {
-      "name": "Jante",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/hanover/hanover/jante"
-    },
-    {
-      "name": "Marie",
-      "cuisine": "French, Creative",
-      "price": "€€€",
-      "path": "/germany/hanover/hanover/marie"
+      "name": "Rüpel",
+      "cuisine": "Vegan",
+      "price": "$$$",
+      "path": "/germany/hanover/hanover/rpel"
     },
     {
       "name": "Schorse im Leineschloss",
@@ -36,24 +67,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/germany/hanover/hanover/the-wild-duck"
-    },
-    {
-      "name": "Votum",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/hanover/hanover/votum"
-    },
-    {
-      "name": "EssKultur",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/germany/hanover/hanover/Esskultur"
-    },
-    {
-      "name": "Rüpel",
-      "cuisine": "Vegan",
-      "price": "$$$",
-      "path": "/germany/hanover/hanover/Rpel"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Libramont",
-  "country": "belgium",
-  "region": "libramont",
-  "city": "libramont",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "libramont",
+  "city": "Libramont",
+  "citySlug": "libramont",
+  "path": "/belgium/libramont/libramont/restaurants",
+  "canonicalPath": "/belgium/libramont/libramont/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le 13",
       "cuisine": "Farm to table",
       "price": "€€",
-      "path": "/belgium/libramont/libramont/le-13"
+      "path": "/belgium/libramont/libramont/le13"
     }
   ]
 }

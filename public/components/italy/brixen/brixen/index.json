@@ -1,26 +1,27 @@
 {
   "title": "Brixen",
-  "country": "italy",
-  "region": "brixen",
-  "city": "brixen",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "brixen",
+  "city": "Brixen",
+  "citySlug": "brixen",
+  "path": "/italy/brixen/brixen/restaurants",
+  "canonicalPath": "/italy/brixen/brixen/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Apostelstube",
+      "cuisine": "Creative, International",
+      "price": "€€€€",
+      "path": "/italy/brixen/brixen/apostelstube",
+      "award": "★"
+    },
     {
       "name": "Alpenrose",
       "cuisine": "Regional Cuisine, Classic Cuisine",
       "price": "€€",
       "path": "/italy/brixen/brixen/alpenrose"
-    },
-    {
-      "name": "Apostelstube",
-      "cuisine": "Creative, International",
-      "price": "€€€€",
-      "path": "/italy/brixen/brixen/apostelstube"
-    },
-    {
-      "name": "Elephant",
-      "cuisine": "Classic Cuisine, Regional Cuisine",
-      "price": "€€€",
-      "path": "/italy/brixen/brixen/elephant"
     },
     {
       "name": "Elephant",

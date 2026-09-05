@@ -1,59 +1,68 @@
 {
   "title": "West London",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "West London",
+  "citySlug": "west-london",
+  "path": "/uk/london/west-london/restaurants",
+  "canonicalPath": "/uk/london/west-london/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "144 On The Hill at Richmond Hill Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/london/west-london/144-on-the-hill-at-richmond-hill-hotel"
+    },
     {
       "name": "Bingham Riverhouse",
       "cuisine": "Afternoon Tea",
       "price": "39.00",
-      "path": "/uk/london/west-london/BinghamRiverhouse"
-    },
-    {
-      "name": "The Petersham Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "49.00",
-      "path": "/uk/london/west-london/ThePetershamHotel"
-    },
-    {
-      "name": "The Ivy Richmond",
-      "cuisine": "Afternoon Tea",
-      "price": "34.95",
-      "path": "/uk/london/west-london/TheIvyRichmond"
-    },
-    {
-      "name": "Hilton London Wembley",
-      "cuisine": "Afternoon Tea",
-      "price": "69.00",
-      "path": "/uk/london/west-london/HiltonLondonWembley"
-    },
-    {
-      "name": "Hilton London Syon Park",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/west-london/HiltonLondonSyonPark"
-    },
-    {
-      "name": "DoubleTree by Hilton London Ealing",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/london/west-london/DoubletreeByHiltonLondonEaling"
-    },
-    {
-      "name": "DoubleTree by Hilton Hyde Park",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/west-london/DoubletreeByHiltonHydePark"
+      "path": "/uk/london/west-london/bingham-riverhouse"
     },
     {
       "name": "Chutnée",
       "cuisine": "Afternoon Tea",
       "price": "30.00",
-      "path": "/uk/london/west-london/Chutne"
+      "path": "/uk/london/west-london/chutne"
     },
     {
-      "name": "144 On The Hill at Richmond Hill Hotel",
+      "name": "DoubleTree by Hilton Hyde Park",
       "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/london/west-london/144OnTheHillAtRichmondHillHotel"
+      "price": "35.00",
+      "path": "/uk/london/west-london/doubletree-by-hilton-hyde-park"
+    },
+    {
+      "name": "DoubleTree by Hilton London Ealing",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/london/west-london/doubletree-by-hilton-london-ealing"
+    },
+    {
+      "name": "Hilton London Syon Park",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/london/west-london/hilton-london-syon-park"
+    },
+    {
+      "name": "Hilton London Wembley",
+      "cuisine": "Afternoon Tea",
+      "price": "69.00",
+      "path": "/uk/london/west-london/hilton-london-wembley"
+    },
+    {
+      "name": "The Ivy Richmond",
+      "cuisine": "Afternoon Tea",
+      "price": "34.95",
+      "path": "/uk/london/west-london/the-ivy-richmond"
+    },
+    {
+      "name": "The Petersham Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "49.00",
+      "path": "/uk/london/west-london/the-petersham-hotel"
     }
   ]
 }

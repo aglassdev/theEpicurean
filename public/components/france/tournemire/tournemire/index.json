@@ -1,8 +1,14 @@
 {
   "title": "Tournemire",
-  "country": "france",
-  "region": "tournemire",
-  "city": "tournemire",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tournemire",
+  "city": "Tournemire",
+  "citySlug": "tournemire",
+  "path": "/france/tournemire/tournemire/restaurants",
+  "canonicalPath": "/france/tournemire/tournemire/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Petite Grange",

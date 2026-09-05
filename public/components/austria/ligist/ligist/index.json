@@ -1,14 +1,21 @@
 {
   "title": "Ligist",
-  "country": "austria",
-  "region": "ligist",
-  "city": "ligist",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "ligist",
+  "city": "Ligist",
+  "citySlug": "ligist",
+  "path": "/austria/ligist/ligist/restaurants",
+  "canonicalPath": "/austria/ligist/ligist/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Wörgötter - Fine Dining",
       "cuisine": "Creative, French",
       "price": "€€€",
-      "path": "/austria/ligist/ligist/wrgtter-fine-dining"
+      "path": "/austria/ligist/ligist/wrgtter-fine-dining",
+      "award": "★"
     },
     {
       "name": "Wörgötter - Wirtshaus",

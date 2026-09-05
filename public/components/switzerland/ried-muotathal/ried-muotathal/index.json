@@ -1,14 +1,20 @@
 {
   "title": "Ried Muotathal",
-  "country": "switzerland",
-  "region": "ried-muotathal",
-  "city": "ried-muotathal",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "ried-muotathal",
+  "city": "Ried Muotathal",
+  "citySlug": "ried-muotathal",
+  "path": "/switzerland/ried-muotathal/ried-muotathal/restaurants",
+  "canonicalPath": "/switzerland/ried-muotathal/ried-muotathal/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Adler",
       "cuisine": "Country cooking, Traditional Cuisine",
       "price": "€€",
-      "path": "/switzerland/ried-muotathal/ried-muotathal/adler"
+      "path": "/switzerland/ried-muotathal/ried-muotathal/adler-r-i-e"
     }
   ]
 }

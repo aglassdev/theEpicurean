@@ -1,14 +1,20 @@
 {
   "title": "Port Lesney",
-  "country": "france",
-  "region": "port-lesney",
-  "city": "port-lesney",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "port-lesney",
+  "city": "Port Lesney",
+  "citySlug": "port-lesney",
+  "path": "/france/port-lesney/port-lesney/restaurants",
+  "canonicalPath": "/france/port-lesney/port-lesney/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bistrot de Port-Lesney",
       "cuisine": "Traditional Cuisine, Cuisine from Franche-Comté",
       "price": "€€",
-      "path": "/france/port-lesney/port-lesney/bistrot-de-port-lesney"
+      "path": "/france/port-lesney/port-lesney/bistrot-de-portlesney"
     }
   ]
 }

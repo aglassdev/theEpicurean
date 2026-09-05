@@ -1,14 +1,21 @@
 {
   "title": "Lodi",
-  "country": "italy",
-  "region": "lodi",
-  "city": "lodi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "lodi",
+  "city": "Lodi",
+  "citySlug": "lodi",
+  "path": "/italy/lodi/lodi/restaurants",
+  "canonicalPath": "/italy/lodi/lodi/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Coldana",
       "cuisine": "Contemporary, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/italy/lodi/lodi/la-coldana"
+      "path": "/italy/lodi/lodi/la-coldana",
+      "award": "★"
     }
   ]
 }

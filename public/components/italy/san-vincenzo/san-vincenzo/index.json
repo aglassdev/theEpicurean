@@ -1,8 +1,14 @@
 {
   "title": "San Vincenzo",
-  "country": "italy",
-  "region": "san-vincenzo",
-  "city": "san-vincenzo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-vincenzo",
+  "city": "San Vincenzo",
+  "citySlug": "san-vincenzo",
+  "path": "/italy/san-vincenzo/san-vincenzo/restaurants",
+  "canonicalPath": "/italy/san-vincenzo/san-vincenzo/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Il Sale",

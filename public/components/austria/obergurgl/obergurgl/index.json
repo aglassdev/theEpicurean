@@ -1,14 +1,21 @@
 {
   "title": "Obergurgl",
-  "country": "austria",
-  "region": "obergurgl",
-  "city": "obergurgl",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "obergurgl",
+  "city": "Obergurgl",
+  "citySlug": "obergurgl",
+  "path": "/austria/obergurgl/obergurgl/restaurants",
+  "canonicalPath": "/austria/obergurgl/obergurgl/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Austria Stuben",
       "cuisine": "Contemporary, Creative",
       "price": "€€€€",
-      "path": "/austria/obergurgl/obergurgl/austria-stuben"
+      "path": "/austria/obergurgl/obergurgl/austria-stuben",
+      "award": "★"
     },
     {
       "name": "Gourmetstube Hochfirst",

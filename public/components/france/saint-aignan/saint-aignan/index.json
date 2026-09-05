@@ -1,8 +1,14 @@
 {
   "title": "Saint Aignan",
-  "country": "france",
-  "region": "saint-aignan",
-  "city": "saint-aignan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-aignan",
+  "city": "Saint Aignan",
+  "citySlug": "saint-aignan",
+  "path": "/france/saint-aignan/saint-aignan/restaurants",
+  "canonicalPath": "/france/saint-aignan/saint-aignan/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Salamandre",

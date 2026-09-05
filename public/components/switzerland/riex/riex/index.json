@@ -1,8 +1,14 @@
 {
   "title": "Riex",
-  "country": "switzerland",
-  "region": "riex",
-  "city": "riex",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "riex",
+  "city": "Riex",
+  "citySlug": "riex",
+  "path": "/switzerland/riex/riex/restaurants",
+  "canonicalPath": "/switzerland/riex/riex/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Café de Riex",

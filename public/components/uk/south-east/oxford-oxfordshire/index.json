@@ -1,71 +1,80 @@
 {
-  "title": "Oxford & Oxfordshire",
+  "title": "Oxford Oxfordshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South East",
+  "regionSlug": "south-east",
+  "city": "Oxford Oxfordshire",
+  "citySlug": "oxford-oxfordshire",
+  "path": "/uk/south-east/oxford-oxfordshire/restaurants",
+  "canonicalPath": "/uk/south-east/oxford-oxfordshire/restaurants",
+  "count": 11,
   "restaurants": [
     {
-      "name": "Victors Oxford",
+      "name": "Ashmolean Rooftop Restaurant",
       "cuisine": "Afternoon Tea",
-      "price": "32.50",
-      "path": "/uk/south-east/oxford-oxfordshire/VictorsOxford"
-    },
-    {
-      "name": "The Randolph Hotel by Graduate Hotels",
-      "cuisine": "Afternoon Tea",
-      "price": "39.00",
-      "path": "/uk/south-east/oxford-oxfordshire/TheRandolphHotelByGraduateHotels"
-    },
-    {
-      "name": "The Orangery at Blenheim Palace",
-      "cuisine": "Afternoon Tea",
-      "price": "34.00",
-      "path": "/uk/south-east/oxford-oxfordshire/TheOrangeryAtBlenheimPalace"
-    },
-    {
-      "name": "Minster Mill",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/south-east/oxford-oxfordshire/MinsterMill"
-    },
-    {
-      "name": "MacDonald Bear Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/south-east/oxford-oxfordshire/MacdonaldBearHotel"
-    },
-    {
-      "name": "The Ivy Oxford Brasserie",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/south-east/oxford-oxfordshire/TheIvyOxfordBrasserie"
-    },
-    {
-      "name": "Hotel du Vin Henley-on-Thames",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/south-east/oxford-oxfordshire/HotelDuVinHenleyonthames"
-    },
-    {
-      "name": "The Folly",
-      "cuisine": "Afternoon Tea",
-      "price": "22.95",
-      "path": "/uk/south-east/oxford-oxfordshire/TheFolly"
-    },
-    {
-      "name": "DoubleTree by Hilton Oxford Belfry",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/south-east/oxford-oxfordshire/DoubletreeByHiltonOxfordBelfry"
+      "price": "28.50",
+      "path": "/uk/south-east/oxford-oxfordshire/ashmolean-rooftop-restaurant"
     },
     {
       "name": "Courtyard by Marriott Oxford South",
       "cuisine": "Afternoon Tea",
       "price": "14.95",
-      "path": "/uk/south-east/oxford-oxfordshire/CourtyardByMarriottOxfordSouth"
+      "path": "/uk/south-east/oxford-oxfordshire/courtyard-by-marriott-oxford-south"
     },
     {
-      "name": "Ashmolean Rooftop Restaurant",
+      "name": "DoubleTree by Hilton Oxford Belfry",
       "cuisine": "Afternoon Tea",
-      "price": "28.50",
-      "path": "/uk/south-east/oxford-oxfordshire/AshmoleanRooftopRestaurant"
+      "price": "25.00",
+      "path": "/uk/south-east/oxford-oxfordshire/doubletree-by-hilton-oxford-belfry"
+    },
+    {
+      "name": "Hotel du Vin Henley-on-Thames",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/south-east/oxford-oxfordshire/hotel-du-vin-henleyonthames"
+    },
+    {
+      "name": "MacDonald Bear Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/south-east/oxford-oxfordshire/macdonald-bear-hotel"
+    },
+    {
+      "name": "Minster Mill",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/south-east/oxford-oxfordshire/minster-mill"
+    },
+    {
+      "name": "The Folly",
+      "cuisine": "Afternoon Tea",
+      "price": "22.95",
+      "path": "/uk/south-east/oxford-oxfordshire/the-folly"
+    },
+    {
+      "name": "The Ivy Oxford Brasserie",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/south-east/oxford-oxfordshire/the-ivy-oxford-brasserie"
+    },
+    {
+      "name": "The Orangery at Blenheim Palace",
+      "cuisine": "Afternoon Tea",
+      "price": "34.00",
+      "path": "/uk/south-east/oxford-oxfordshire/the-orangery-at-blenheim-palace"
+    },
+    {
+      "name": "The Randolph Hotel by Graduate Hotels",
+      "cuisine": "Afternoon Tea",
+      "price": "39.00",
+      "path": "/uk/south-east/oxford-oxfordshire/the-randolph-hotel-by-graduate-hotels"
+    },
+    {
+      "name": "Victors Oxford",
+      "cuisine": "Afternoon Tea",
+      "price": "32.50",
+      "path": "/uk/south-east/oxford-oxfordshire/victors-oxford"
     }
   ]
 }

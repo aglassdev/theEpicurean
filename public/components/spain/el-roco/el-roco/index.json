@@ -1,8 +1,14 @@
 {
   "title": "El Roco",
-  "country": "spain",
-  "region": "el-roco",
-  "city": "el-roco",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "el-roco",
+  "city": "El Roco",
+  "citySlug": "el-roco",
+  "path": "/spain/el-roco/el-roco/restaurants",
+  "canonicalPath": "/spain/el-roco/el-roco/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Aires de Doñana",

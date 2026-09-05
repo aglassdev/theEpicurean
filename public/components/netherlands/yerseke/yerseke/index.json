@@ -1,8 +1,14 @@
 {
   "title": "Yerseke",
-  "country": "netherlands",
-  "region": "yerseke",
-  "city": "yerseke",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "yerseke",
+  "city": "Yerseke",
+  "citySlug": "yerseke",
+  "path": "/netherlands/yerseke/yerseke/restaurants",
+  "canonicalPath": "/netherlands/yerseke/yerseke/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Nolet's Vistro",
@@ -20,7 +26,7 @@
       "name": "Oesterput 14",
       "cuisine": "Seafood",
       "price": "€€",
-      "path": "/netherlands/yerseke/yerseke/oesterput-14"
+      "path": "/netherlands/yerseke/yerseke/oesterput14"
     }
   ]
 }

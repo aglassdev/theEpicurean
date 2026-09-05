@@ -1,9 +1,43 @@
 {
   "title": "Lille",
-  "country": "france",
-  "region": "lille",
-  "city": "lille",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lille",
+  "city": "Lille",
+  "citySlug": "lille",
+  "path": "/france/lille/lille/restaurants",
+  "canonicalPath": "/france/lille/lille/restaurants",
+  "count": 17,
   "restaurants": [
+    {
+      "name": "Ginko",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/lille/lille/ginko",
+      "award": "★"
+    },
+    {
+      "name": "La Table - Hôtel Clarance",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/lille/lille/la-table-htel-clarance",
+      "award": "★"
+    },
+    {
+      "name": "Le Restaurant du Cerisier",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/lille/lille/le-restaurant-du-cerisier",
+      "award": "★"
+    },
+    {
+      "name": "Pureté",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/france/lille/lille/puret",
+      "award": "★"
+    },
     {
       "name": "Bloempot",
       "cuisine": "Modern Cuisine",
@@ -15,12 +49,6 @@
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/france/lille/lille/coup-de-main"
-    },
-    {
-      "name": "Ginko",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/lille/lille/ginko"
     },
     {
       "name": "Krevette",
@@ -35,28 +63,16 @@
       "path": "/france/lille/lille/la-laiterie"
     },
     {
-      "name": "La Table - Hôtel Clarance",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/lille/lille/la-table-htel-clarance"
-    },
-    {
       "name": "Le 49R",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/lille/lille/le-49r"
+      "path": "/france/lille/lille/le49r"
     },
     {
       "name": "Le Braque",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/lille/lille/le-braque"
-    },
-    {
-      "name": "Le Restaurant du Cerisier",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/lille/lille/le-restaurant-du-cerisier"
     },
     {
       "name": "Limpide",
@@ -69,12 +85,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/lille/lille/pulpe"
-    },
-    {
-      "name": "Pureté",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€",
-      "path": "/france/lille/lille/puret"
     },
     {
       "name": "Rouge Barre",

@@ -1,8 +1,14 @@
 {
   "title": "Le Grand Luc",
-  "country": "france",
-  "region": "le-grand-luc",
-  "city": "le-grand-luc",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-grand-luc",
+  "city": "Le Grand Luc",
+  "citySlug": "le-grand-luc",
+  "path": "/france/le-grand-luc/le-grand-luc/restaurants",
+  "canonicalPath": "/france/le-grand-luc/le-grand-luc/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Lucé",

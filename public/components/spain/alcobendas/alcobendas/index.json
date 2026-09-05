@@ -1,14 +1,20 @@
 {
   "title": "Alcobendas",
-  "country": "spain",
-  "region": "alcobendas",
-  "city": "alcobendas",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "alcobendas",
+  "city": "Alcobendas",
+  "citySlug": "alcobendas",
+  "path": "/spain/alcobendas/alcobendas/restaurants",
+  "canonicalPath": "/spain/alcobendas/alcobendas/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "99 sushi bar",
       "cuisine": "Japanese",
       "price": "€€€",
-      "path": "/spain/alcobendas/alcobendas/99-sushi-bar"
+      "path": "/spain/alcobendas/alcobendas/99-sushi-bar-a-l-c"
     },
     {
       "name": "A'Kangas by Urrechu",

@@ -1,11 +1,20 @@
 {
   "title": "Cercoux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cercoux",
+  "city": "Cercoux",
+  "citySlug": "cercoux",
+  "path": "/france/cercoux/cercoux/restaurants",
+  "canonicalPath": "/france/cercoux/cercoux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Silène - Auberge de Cercoux",
       "cuisine": "Traditional Cuisine",
       "price": "$$$",
-      "path": "/france/cercoux/cercoux/LeSilneAubergeDeCercoux"
+      "path": "/france/cercoux/cercoux/le-silne-auberge-de-cercoux"
     }
   ]
 }

@@ -1,9 +1,22 @@
 {
   "title": "Ravensburg",
-  "country": "germany",
-  "region": "ravensburg",
-  "city": "ravensburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "ravensburg",
+  "city": "Ravensburg",
+  "citySlug": "ravensburg",
+  "path": "/germany/ravensburg/ravensburg/restaurants",
+  "canonicalPath": "/germany/ravensburg/ravensburg/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Kaisersaal",
+      "cuisine": "French Contemporary, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/germany/ravensburg/ravensburg/kaisersaal",
+      "award": "★"
+    },
     {
       "name": "Atelier Tian",
       "cuisine": "International, Modern Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "French",
       "price": "€€",
       "path": "/germany/ravensburg/ravensburg/brasserie-cocotte"
-    },
-    {
-      "name": "Kaisersaal",
-      "cuisine": "French Contemporary, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/germany/ravensburg/ravensburg/kaisersaal"
     },
     {
       "name": "Lumperhof",

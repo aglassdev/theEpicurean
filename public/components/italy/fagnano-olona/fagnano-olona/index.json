@@ -1,14 +1,21 @@
 {
   "title": "Fagnano Olona",
-  "country": "italy",
-  "region": "fagnano-olona",
-  "city": "fagnano-olona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "fagnano-olona",
+  "city": "Fagnano Olona",
+  "citySlug": "fagnano-olona",
+  "path": "/italy/fagnano-olona/fagnano-olona/restaurants",
+  "canonicalPath": "/italy/fagnano-olona/fagnano-olona/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Acquerello",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/italy/fagnano-olona/fagnano-olona/acquerello"
+      "path": "/italy/fagnano-olona/fagnano-olona/acquerello-f-a-g",
+      "award": "★"
     },
     {
       "name": "Menzaghi",

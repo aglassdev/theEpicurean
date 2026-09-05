@@ -1,9 +1,22 @@
 {
   "title": "Pfronten",
-  "country": "germany",
-  "region": "pfronten",
-  "city": "pfronten",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "pfronten",
+  "city": "Pfronten",
+  "citySlug": "pfronten",
+  "path": "/germany/pfronten/pfronten/restaurants",
+  "canonicalPath": "/germany/pfronten/pfronten/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "PAVO",
+      "cuisine": "Modern Cuisine, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/pfronten/pfronten/pavo",
+      "award": "★"
+    },
     {
       "name": "Berghotel Schlossanger Alp",
       "cuisine": "Country cooking, Contemporary",
@@ -11,16 +24,10 @@
       "path": "/germany/pfronten/pfronten/berghotel-schlossanger-alp"
     },
     {
-      "name": "PAVO",
-      "cuisine": "Modern Cuisine, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/germany/pfronten/pfronten/pavo"
-    },
-    {
       "name": "Restaurant 1250",
       "cuisine": "Seasonal Cuisine, Regional Cuisine",
       "price": "€€",
-      "path": "/germany/pfronten/pfronten/restaurant-1250"
+      "path": "/germany/pfronten/pfronten/restaurant1250"
     },
     {
       "name": "Schlossanger Alp",

@@ -1,14 +1,21 @@
 {
   "title": "Gattikon",
-  "country": "switzerland",
-  "region": "gattikon",
-  "city": "gattikon",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "gattikon",
+  "city": "Gattikon",
+  "citySlug": "gattikon",
+  "path": "/switzerland/gattikon/gattikon/restaurants",
+  "canonicalPath": "/switzerland/gattikon/gattikon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sihlhalde",
       "cuisine": "Classic Cuisine, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/switzerland/gattikon/gattikon/sihlhalde"
+      "path": "/switzerland/gattikon/gattikon/sihlhalde",
+      "award": "★"
     }
   ]
 }

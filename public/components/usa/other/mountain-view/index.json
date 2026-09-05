@@ -1,0 +1,26 @@
+{
+  "title": "Mountain View",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Mountain View",
+  "citySlug": "mountain-view",
+  "path": "/usa/other/mountain-view/restaurants",
+  "canonicalPath": "/usa/california/mountain-view/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Chez TJ",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/mountain-view/chez-tj"
+    },
+    {
+      "name": "Doppio Zero Pizzeria Napoletana",
+      "cuisine": "Pizza, Italian",
+      "price": "$$",
+      "path": "/usa/california/mountain-view/doppio-zero-pizzeria-napoletana"
+    }
+  ]
+}

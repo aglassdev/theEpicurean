@@ -1,14 +1,21 @@
 {
   "title": "Fleurie",
-  "country": "france",
-  "region": "fleurie",
-  "city": "fleurie",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "fleurie",
+  "city": "Fleurie",
+  "citySlug": "fleurie",
+  "path": "/france/fleurie/fleurie/restaurants",
+  "canonicalPath": "/france/fleurie/fleurie/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge du Cep",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/fleurie/fleurie/auberge-du-cep"
+      "path": "/france/fleurie/fleurie/auberge-du-cep",
+      "award": "★"
     }
   ]
 }

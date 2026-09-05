@@ -1,8 +1,14 @@
 {
   "title": "Ozenay",
-  "country": "france",
-  "region": "ozenay",
-  "city": "ozenay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ozenay",
+  "city": "Ozenay",
+  "citySlug": "ozenay",
+  "path": "/france/ozenay/ozenay/restaurants",
+  "canonicalPath": "/france/ozenay/ozenay/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Relais d'Ozenay",

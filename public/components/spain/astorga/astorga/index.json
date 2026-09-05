@@ -1,8 +1,14 @@
 {
   "title": "Astorga",
-  "country": "spain",
-  "region": "astorga",
-  "city": "astorga",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "astorga",
+  "city": "Astorga",
+  "citySlug": "astorga",
+  "path": "/spain/astorga/astorga/restaurants",
+  "canonicalPath": "/spain/astorga/astorga/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Las Termas",

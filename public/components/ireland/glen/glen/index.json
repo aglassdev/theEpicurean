@@ -1,8 +1,14 @@
 {
   "title": "Glen",
-  "country": "ireland",
-  "region": "glen",
-  "city": "glen",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "glen",
+  "city": "Glen",
+  "citySlug": "glen",
+  "path": "/ireland/glen/glen/restaurants",
+  "canonicalPath": "/ireland/glen/glen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Olde Glen Bar",

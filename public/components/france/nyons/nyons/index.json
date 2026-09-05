@@ -1,8 +1,14 @@
 {
   "title": "Nyons",
-  "country": "france",
-  "region": "nyons",
-  "city": "nyons",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "nyons",
+  "city": "Nyons",
+  "citySlug": "nyons",
+  "path": "/france/nyons/nyons/restaurants",
+  "canonicalPath": "/france/nyons/nyons/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Verre à Soie",

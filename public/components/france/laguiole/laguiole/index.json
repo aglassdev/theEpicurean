@@ -1,35 +1,48 @@
 {
   "title": "Laguiole",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "laguiole",
+  "city": "Laguiole",
+  "citySlug": "laguiole",
+  "path": "/france/laguiole/laguiole/restaurants",
+  "canonicalPath": "/france/laguiole/laguiole/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Bras",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/laguiole/laguiole/bras"
+      "path": "/france/laguiole/laguiole/bras",
+      "award": "★★"
+    },
+    {
+      "name": "Le Suquet - Sébastien Bras",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/laguiole/laguiole/le-suquet-sbastien-bras",
+      "award": "★★"
+    },
+    {
+      "name": "Bras Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/laguiole/laguiole/bras-restaurant",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Michel Bras",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/laguiole/laguiole/michel-bras",
+      "award": "World's 50 Best"
     },
     {
       "name": "Hōra",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/laguiole/laguiole/hra"
-    },
-    {
-      "name": "Le Suquet - Sébastien Bras",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/laguiole/laguiole/le-suquet-sbastien-bras"
-    },
-    {
-      "name": "Michel Bras",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/laguiole/laguiole/MichelBras"
-    },
-    {
-      "name": "Bras Restaurant",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/laguiole/laguiole/BrasRestaurant"
     }
   ]
 }

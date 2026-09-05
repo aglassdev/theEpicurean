@@ -1,15 +1,15 @@
 {
   "title": "Craswall",
-  "country": "uk",
-  "region": "craswall",
-  "city": "craswall",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "craswall",
+  "city": "Craswall",
+  "citySlug": "craswall",
+  "path": "/uk/craswall/craswall/restaurants",
+  "canonicalPath": "/uk/craswall/craswall/restaurants",
+  "count": 1,
   "restaurants": [
-    {
-      "name": "The Bull's Head",
-      "cuisine": "Traditional Cuisine",
-      "price": "££",
-      "path": "/uk/craswall/craswall/the-bulls-head"
-    },
     {
       "name": "The Bull's Head",
       "cuisine": "Traditional Cuisine",

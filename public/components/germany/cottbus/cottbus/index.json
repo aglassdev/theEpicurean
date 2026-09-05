@@ -1,8 +1,14 @@
 {
   "title": "Cottbus",
-  "country": "germany",
-  "region": "cottbus",
-  "city": "cottbus",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "cottbus",
+  "city": "Cottbus",
+  "citySlug": "cottbus",
+  "path": "/germany/cottbus/cottbus/restaurants",
+  "canonicalPath": "/germany/cottbus/cottbus/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lou im Cavalierhaus",

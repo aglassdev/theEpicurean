@@ -1,8 +1,14 @@
 {
   "title": "Seclin",
-  "country": "france",
-  "region": "seclin",
-  "city": "seclin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "seclin",
+  "city": "Seclin",
+  "citySlug": "seclin",
+  "path": "/france/seclin/seclin/restaurants",
+  "canonicalPath": "/france/seclin/seclin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge du Forgeron",

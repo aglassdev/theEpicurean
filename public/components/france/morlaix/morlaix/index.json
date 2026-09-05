@@ -1,20 +1,26 @@
 {
   "title": "Morlaix",
-  "country": "france",
-  "region": "morlaix",
-  "city": "morlaix",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "morlaix",
+  "city": "Morlaix",
+  "citySlug": "morlaix",
+  "path": "/france/morlaix/morlaix/restaurants",
+  "canonicalPath": "/france/morlaix/morlaix/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Le 21ème Commis",
-      "cuisine": "Farm to table",
-      "price": "€€",
-      "path": "/france/morlaix/morlaix/le-21me-commis"
-    },
     {
       "name": "L'Hermine",
       "cuisine": "Breton, Crêpe",
       "price": "€",
       "path": "/france/morlaix/morlaix/lhermine"
+    },
+    {
+      "name": "Le 21ème Commis",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/france/morlaix/morlaix/le21me-commis"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Saint Robert",
-  "country": "france",
-  "region": "saint-robert",
-  "city": "saint-robert",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-robert",
+  "city": "Saint Robert",
+  "citySlug": "saint-robert",
+  "path": "/france/saint-robert/saint-robert/restaurants",
+  "canonicalPath": "/france/saint-robert/saint-robert/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Monsieur Robert",

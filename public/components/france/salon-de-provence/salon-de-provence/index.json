@@ -1,20 +1,27 @@
 {
-  "title": "Salon De Provence",
-  "country": "france",
-  "region": "salon-de-provence",
-  "city": "salon-de-provence",
+  "title": "Salon de Provence",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "salon-de-provence",
+  "city": "Salon de Provence",
+  "citySlug": "salon-de-provence",
+  "path": "/france/salon-de-provence/salon-de-provence/restaurants",
+  "canonicalPath": "/france/salon-de-provence/salon-de-provence/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Villa Salone",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/salon-de-provence/salon-de-provence/villa-salone",
+      "award": "★"
+    },
     {
       "name": "Atelier Salone",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/salon-de-provence/salon-de-provence/atelier-salone"
-    },
-    {
-      "name": "Villa Salone",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/salon-de-provence/salon-de-provence/villa-salone"
     }
   ]
 }

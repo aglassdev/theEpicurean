@@ -1,0 +1,40 @@
+{
+  "title": "Paso Robles",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Paso Robles",
+  "citySlug": "paso-robles",
+  "path": "/usa/california/paso-robles/restaurants",
+  "canonicalPath": "/usa/california/paso-robles/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Six Test Kitchen",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/paso-robles/six-test-kitchen",
+      "award": "★"
+    },
+    {
+      "name": "The Restaurant at JUSTIN",
+      "cuisine": "Californian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/paso-robles/the-restaurant-at-justin",
+      "award": "★"
+    },
+    {
+      "name": "Les Petites Canailles",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/usa/california/paso-robles/les-petites-canailles"
+    },
+    {
+      "name": "The Hatch",
+      "cuisine": "American",
+      "price": "$$",
+      "path": "/usa/california/paso-robles/the-hatch"
+    }
+  ]
+}

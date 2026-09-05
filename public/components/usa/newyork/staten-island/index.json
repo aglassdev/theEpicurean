@@ -1,0 +1,38 @@
+{
+  "title": "Staten Island",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "New York",
+  "regionSlug": "newyork",
+  "city": "Staten Island",
+  "citySlug": "staten-island",
+  "path": "/usa/newyork/staten-island/restaurants",
+  "canonicalPath": "/usa/newyork/staten-island/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Enoteca Maria",
+      "cuisine": "Italian, International",
+      "price": "$$",
+      "path": "/usa/newyork/staten-island/enoteca-maria"
+    },
+    {
+      "name": "Lakruwana",
+      "cuisine": "Sri Lankan",
+      "price": "$$",
+      "path": "/usa/newyork/staten-island/lakruwana"
+    },
+    {
+      "name": "Sagara",
+      "cuisine": "Sri Lankan",
+      "price": "$",
+      "path": "/usa/newyork/staten-island/sagara"
+    },
+    {
+      "name": "Seppe Pizza Bar",
+      "cuisine": "Pizza",
+      "price": "$$",
+      "path": "/usa/newyork/staten-island/seppe-pizza-bar"
+    }
+  ]
+}

@@ -1,20 +1,27 @@
 {
   "title": "Chamonix Mont Blanc",
-  "country": "france",
-  "region": "chamonix-mont-blanc",
-  "city": "chamonix-mont-blanc",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chamonix-mont-blanc",
+  "city": "Chamonix Mont Blanc",
+  "citySlug": "chamonix-mont-blanc",
+  "path": "/france/chamonix-mont-blanc/chamonix-mont-blanc/restaurants",
+  "canonicalPath": "/france/chamonix-mont-blanc/chamonix-mont-blanc/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Albert 1er",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/chamonix-mont-blanc/chamonix-mont-blanc/albert1er",
+      "award": "★"
+    },
     {
       "name": "Akashon",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/chamonix-mont-blanc/chamonix-mont-blanc/akashon"
-    },
-    {
-      "name": "Albert 1er",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/chamonix-mont-blanc/chamonix-mont-blanc/albert-1er"
     },
     {
       "name": "Atmosphère",

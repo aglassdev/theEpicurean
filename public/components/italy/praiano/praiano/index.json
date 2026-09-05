@@ -1,20 +1,27 @@
 {
   "title": "Praiano",
-  "country": "italy",
-  "region": "praiano",
-  "city": "praiano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "praiano",
+  "city": "Praiano",
+  "citySlug": "praiano",
+  "path": "/italy/praiano/praiano/restaurants",
+  "canonicalPath": "/italy/praiano/praiano/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Un Piano nel Cielo",
+      "cuisine": "Mediterranean Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/praiano/praiano/un-piano-nel-cielo",
+      "award": "★"
+    },
     {
       "name": "Franchino",
       "cuisine": "Seafood, Classic Cuisine",
       "price": "€€€",
       "path": "/italy/praiano/praiano/franchino"
-    },
-    {
-      "name": "Un Piano nel Cielo",
-      "cuisine": "Mediterranean Cuisine, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/praiano/praiano/un-piano-nel-cielo"
     }
   ]
 }

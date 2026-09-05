@@ -1,14 +1,20 @@
 {
-  "title": "Maxilly Sur Lman",
-  "country": "france",
-  "region": "maxilly-sur-lman",
-  "city": "maxilly-sur-lman",
+  "title": "Maxilly sur Lman",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "maxilly-sur-lman",
+  "city": "Maxilly sur Lman",
+  "citySlug": "maxilly-sur-lman",
+  "path": "/france/maxilly-sur-lman/maxilly-sur-lman/restaurants",
+  "canonicalPath": "/france/maxilly-sur-lman/maxilly-sur-lman/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chez Mathilde",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/maxilly-sur-lman/maxilly-sur-lman/chez-mathilde"
+      "path": "/france/maxilly-sur-lman/maxilly-sur-lman/chez-mathilde-m-a-x"
     }
   ]
 }

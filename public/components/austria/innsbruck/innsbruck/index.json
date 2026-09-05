@@ -1,8 +1,14 @@
 {
   "title": "Innsbruck",
-  "country": "austria",
-  "region": "innsbruck",
-  "city": "innsbruck",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "innsbruck",
+  "city": "Innsbruck",
+  "citySlug": "innsbruck",
+  "path": "/austria/innsbruck/innsbruck/restaurants",
+  "canonicalPath": "/austria/innsbruck/innsbruck/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Das Schindler",

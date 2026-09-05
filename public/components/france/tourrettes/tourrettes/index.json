@@ -1,14 +1,21 @@
 {
   "title": "Tourrettes",
-  "country": "france",
-  "region": "tourrettes",
-  "city": "tourrettes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tourrettes",
+  "city": "Tourrettes",
+  "citySlug": "tourrettes",
+  "path": "/france/tourrettes/tourrettes/restaurants",
+  "canonicalPath": "/france/tourrettes/tourrettes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Faventia",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/tourrettes/tourrettes/faventia"
+      "path": "/france/tourrettes/tourrettes/faventia",
+      "award": "★"
     }
   ]
 }

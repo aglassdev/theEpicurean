@@ -1,14 +1,21 @@
 {
   "title": "Champillon",
-  "country": "france",
-  "region": "champillon",
-  "city": "champillon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "champillon",
+  "city": "Champillon",
+  "citySlug": "champillon",
+  "path": "/france/champillon/champillon/restaurants",
+  "canonicalPath": "/france/champillon/champillon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Royal",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/champillon/champillon/le-royal"
+      "path": "/france/champillon/champillon/le-royal",
+      "award": "★"
     }
   ]
 }

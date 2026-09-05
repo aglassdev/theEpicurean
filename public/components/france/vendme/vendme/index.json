@@ -1,8 +1,14 @@
 {
   "title": "Vendme",
-  "country": "france",
-  "region": "vendme",
-  "city": "vendme",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vendme",
+  "city": "Vendme",
+  "citySlug": "vendme",
+  "path": "/france/vendme/vendme/restaurants",
+  "canonicalPath": "/france/vendme/vendme/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Malu",

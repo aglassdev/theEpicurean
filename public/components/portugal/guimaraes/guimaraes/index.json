@@ -1,20 +1,27 @@
 {
   "title": "Guimaraes",
-  "country": "portugal",
-  "region": "guimaraes",
-  "city": "guimaraes",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "guimaraes",
+  "city": "Guimaraes",
+  "citySlug": "guimaraes",
+  "path": "/portugal/guimaraes/guimaraes/restaurants",
+  "canonicalPath": "/portugal/guimaraes/guimaraes/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "A Cozinha",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/portugal/guimaraes/guimaraes/a-cozinha",
+      "award": "★"
+    },
     {
       "name": "34",
       "cuisine": "International",
       "price": "€€",
       "path": "/portugal/guimaraes/guimaraes/34"
-    },
-    {
-      "name": "A Cozinha",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/portugal/guimaraes/guimaraes/a-cozinha"
     },
     {
       "name": "Hool",

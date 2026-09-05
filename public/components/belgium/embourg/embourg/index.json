@@ -1,5 +1,14 @@
 {
   "title": "Embourg",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "embourg",
+  "city": "Embourg",
+  "citySlug": "embourg",
+  "path": "/belgium/embourg/embourg/restaurants",
+  "canonicalPath": "/belgium/embourg/embourg/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Bonheur Simple",
@@ -14,16 +23,16 @@
       "path": "/belgium/embourg/embourg/la-villa-des-bgards"
     },
     {
+      "name": "OM Restaurant",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/belgium/embourg/embourg/om-restaurant"
+    },
+    {
       "name": "Robertissimo",
       "cuisine": "Italian",
       "price": "€€",
       "path": "/belgium/embourg/embourg/robertissimo"
-    },
-    {
-      "name": "OM Restaurant",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/belgium/embourg/embourg/OmRestaurant"
     }
   ]
 }

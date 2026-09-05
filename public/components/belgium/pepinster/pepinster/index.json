@@ -1,8 +1,14 @@
 {
   "title": "Pepinster",
-  "country": "belgium",
-  "region": "pepinster",
-  "city": "pepinster",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "pepinster",
+  "city": "Pepinster",
+  "citySlug": "pepinster",
+  "path": "/belgium/pepinster/pepinster/restaurants",
+  "canonicalPath": "/belgium/pepinster/pepinster/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lafarques",

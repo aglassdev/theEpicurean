@@ -1,14 +1,21 @@
 {
   "title": "Malfa",
-  "country": "italy",
-  "region": "malfa",
-  "city": "malfa",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "malfa",
+  "city": "Malfa",
+  "citySlug": "malfa",
+  "path": "/italy/malfa/malfa/restaurants",
+  "canonicalPath": "/italy/malfa/malfa/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Signum",
       "cuisine": "Sicilian, Contemporary",
       "price": "€€€€",
-      "path": "/italy/malfa/malfa/signum"
+      "path": "/italy/malfa/malfa/signum-m-a-l",
+      "award": "★"
     }
   ]
 }

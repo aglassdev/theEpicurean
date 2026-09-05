@@ -1,14 +1,21 @@
 {
   "title": "Rouvres En Xaintois",
-  "country": "france",
-  "region": "rouvres-en-xaintois",
-  "city": "rouvres-en-xaintois",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "rouvres-en-xaintois",
+  "city": "Rouvres En Xaintois",
+  "citySlug": "rouvres-en-xaintois",
+  "path": "/france/rouvres-en-xaintois/rouvres-en-xaintois/restaurants",
+  "canonicalPath": "/france/rouvres-en-xaintois/rouvres-en-xaintois/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Burnel",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/rouvres-en-xaintois/rouvres-en-xaintois/burnel"
+      "path": "/france/rouvres-en-xaintois/rouvres-en-xaintois/burnel",
+      "award": "★"
     }
   ]
 }

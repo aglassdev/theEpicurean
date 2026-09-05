@@ -1,8 +1,14 @@
 {
   "title": "Peri",
-  "country": "france",
-  "region": "peri",
-  "city": "peri",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "peri",
+  "city": "Peri",
+  "citySlug": "peri",
+  "path": "/france/peri/peri/restaurants",
+  "canonicalPath": "/france/peri/peri/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chez Séraphin",

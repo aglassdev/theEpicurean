@@ -1,5 +1,14 @@
 {
   "title": "Darley Abbey",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "darley-abbey",
+  "city": "Darley Abbey",
+  "citySlug": "darley-abbey",
+  "path": "/uk/darley-abbey/darley-abbey/restaurants",
+  "canonicalPath": "/uk/darley-abbey/darley-abbey/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Darleys",
@@ -11,7 +20,7 @@
       "name": "The Brasserie at Darleys",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/uk/darley-abbey/darley-abbey/TheBrasserieAtDarleys"
+      "path": "/uk/darley-abbey/darley-abbey/the-brasserie-at-darleys"
     }
   ]
 }

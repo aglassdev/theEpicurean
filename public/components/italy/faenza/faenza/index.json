@@ -1,8 +1,14 @@
 {
   "title": "Faenza",
-  "country": "italy",
-  "region": "faenza",
-  "city": "faenza",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "faenza",
+  "city": "Faenza",
+  "citySlug": "faenza",
+  "path": "/italy/faenza/faenza/restaurants",
+  "canonicalPath": "/italy/faenza/faenza/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Il Fenicottero Rosa Gourmet",
@@ -14,7 +20,7 @@
       "name": "La Baita",
       "cuisine": "Emilian, Seasonal Cuisine",
       "price": "€",
-      "path": "/italy/faenza/faenza/la-baita"
+      "path": "/italy/faenza/faenza/la-baita-f-a-e"
     }
   ]
 }

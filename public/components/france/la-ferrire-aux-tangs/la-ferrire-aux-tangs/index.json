@@ -1,14 +1,21 @@
 {
-  "title": "La Ferrire Aux Tangs",
-  "country": "france",
-  "region": "la-ferrire-aux-tangs",
-  "city": "la-ferrire-aux-tangs",
+  "title": "La Ferrire aux Tangs",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-ferrire-aux-tangs",
+  "city": "La Ferrire aux Tangs",
+  "citySlug": "la-ferrire-aux-tangs",
+  "path": "/france/la-ferrire-aux-tangs/la-ferrire-aux-tangs/restaurants",
+  "canonicalPath": "/france/la-ferrire-aux-tangs/la-ferrire-aux-tangs/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de la Mine",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
-      "path": "/france/la-ferrire-aux-tangs/la-ferrire-aux-tangs/auberge-de-la-mine"
+      "path": "/france/la-ferrire-aux-tangs/la-ferrire-aux-tangs/auberge-de-la-mine",
+      "award": "★"
     }
   ]
 }

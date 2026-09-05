@@ -1,14 +1,27 @@
 {
   "title": "Mulhouse",
-  "country": "france",
-  "region": "mulhouse",
-  "city": "mulhouse",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "mulhouse",
+  "city": "Mulhouse",
+  "citySlug": "mulhouse",
+  "path": "/france/mulhouse/mulhouse/restaurants",
+  "canonicalPath": "/france/mulhouse/mulhouse/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Il Cortile",
       "cuisine": "Mediterranean Cuisine, Italian",
       "price": "€€€",
-      "path": "/france/mulhouse/mulhouse/il-cortile"
+      "path": "/france/mulhouse/mulhouse/il-cortile",
+      "award": "★"
+    },
+    {
+      "name": "L'Estérel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/mulhouse/mulhouse/lestrel"
     },
     {
       "name": "La Table de Michèle",
@@ -20,13 +33,7 @@
       "name": "Le 4",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/mulhouse/mulhouse/le-4"
-    },
-    {
-      "name": "L'Estérel",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/mulhouse/mulhouse/lestrel"
+      "path": "/france/mulhouse/mulhouse/le4"
     }
   ]
 }

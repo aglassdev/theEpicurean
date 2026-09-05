@@ -1,8 +1,14 @@
 {
   "title": "Dornum",
-  "country": "germany",
-  "region": "dornum",
-  "city": "dornum",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "dornum",
+  "city": "Dornum",
+  "citySlug": "dornum",
+  "path": "/germany/dornum/dornum/restaurants",
+  "canonicalPath": "/germany/dornum/dornum/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fährhaus",

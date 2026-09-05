@@ -1,8 +1,14 @@
 {
   "title": "Barco",
-  "country": "italy",
-  "region": "barco",
-  "city": "barco",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "barco",
+  "city": "Barco",
+  "citySlug": "barco",
+  "path": "/italy/barco/barco/restaurants",
+  "canonicalPath": "/italy/barco/barco/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Saur",

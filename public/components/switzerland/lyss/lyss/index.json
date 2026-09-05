@@ -1,8 +1,14 @@
 {
   "title": "Lyss",
-  "country": "switzerland",
-  "region": "lyss",
-  "city": "lyss",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "lyss",
+  "city": "Lyss",
+  "citySlug": "lyss",
+  "path": "/switzerland/lyss/lyss/restaurants",
+  "canonicalPath": "/switzerland/lyss/lyss/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hardern Pintli",

@@ -1,35 +1,44 @@
 {
   "title": "Derbyshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "East Midlands",
+  "regionSlug": "east-midlands",
+  "city": "Derbyshire",
+  "citySlug": "derbyshire",
+  "path": "/uk/east-midlands/derbyshire/restaurants",
+  "canonicalPath": "/uk/east-midlands/derbyshire/restaurants",
+  "count": 5,
   "restaurants": [
     {
-      "name": "The Priest House",
+      "name": "Charnwood Forest Alpacas",
       "cuisine": "Afternoon Tea",
-      "price": "34.00",
-      "path": "/uk/east-midlands/derbyshire/ThePriestHouse"
-    },
-    {
-      "name": "The Orangery at St Elphin's Park",
-      "cuisine": "Afternoon Tea",
-      "price": "26.95",
-      "path": "/uk/east-midlands/derbyshire/TheOrangeryAtStElphinsPark"
-    },
-    {
-      "name": "The Maynard",
-      "cuisine": "Afternoon Tea",
-      "price": "19.95",
-      "path": "/uk/east-midlands/derbyshire/TheMaynard"
+      "price": "90.00",
+      "path": "/uk/east-midlands/derbyshire/charnwood-forest-alpacas"
     },
     {
       "name": "Horsley Lodge -  Derbyshire",
       "cuisine": "Afternoon Tea",
       "price": "45.00",
-      "path": "/uk/east-midlands/derbyshire/HorsleyLodgeDerbyshire"
+      "path": "/uk/east-midlands/derbyshire/horsley-lodge-derbyshire"
     },
     {
-      "name": "Charnwood Forest Alpacas",
+      "name": "The Maynard",
       "cuisine": "Afternoon Tea",
-      "price": "90.00",
-      "path": "/uk/east-midlands/derbyshire/CharnwoodForestAlpacas"
+      "price": "19.95",
+      "path": "/uk/east-midlands/derbyshire/the-maynard"
+    },
+    {
+      "name": "The Orangery at St Elphin's Park",
+      "cuisine": "Afternoon Tea",
+      "price": "26.95",
+      "path": "/uk/east-midlands/derbyshire/the-orangery-at-st-elphins-park"
+    },
+    {
+      "name": "The Priest House",
+      "cuisine": "Afternoon Tea",
+      "price": "34.00",
+      "path": "/uk/east-midlands/derbyshire/the-priest-house"
     }
   ]
 }

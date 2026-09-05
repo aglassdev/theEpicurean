@@ -1,14 +1,21 @@
 {
   "title": "Venaria Reale",
-  "country": "italy",
-  "region": "venaria-reale",
-  "city": "venaria-reale",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "venaria-reale",
+  "city": "Venaria Reale",
+  "citySlug": "venaria-reale",
+  "path": "/italy/venaria-reale/venaria-reale/restaurants",
+  "canonicalPath": "/italy/venaria-reale/venaria-reale/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Dolce Stil Novo alla Reggia",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/venaria-reale/venaria-reale/dolce-stil-novo-alla-reggia"
+      "path": "/italy/venaria-reale/venaria-reale/dolce-stil-novo-alla-reggia",
+      "award": "★"
     },
     {
       "name": "Il Convito della Venaria",

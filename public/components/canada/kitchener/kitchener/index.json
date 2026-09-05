@@ -1,8 +1,14 @@
 {
   "title": "Kitchener",
-  "country": "canada",
-  "region": "kitchener",
-  "city": "kitchener",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "kitchener",
+  "city": "Kitchener",
+  "citySlug": "kitchener",
+  "path": "/canada/kitchener/kitchener/restaurants",
+  "canonicalPath": "/canada/kitchener/kitchener/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "odd | duck",

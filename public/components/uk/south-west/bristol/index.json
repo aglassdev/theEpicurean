@@ -1,53 +1,62 @@
 {
   "title": "Bristol",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South West",
+  "regionSlug": "south-west",
+  "city": "Bristol",
+  "citySlug": "bristol",
+  "path": "/uk/south-west/bristol/restaurants",
+  "canonicalPath": "/uk/south-west/bristol/restaurants",
+  "count": 8,
   "restaurants": [
     {
-      "name": "Thornbury Castle",
+      "name": "Harvey Nichols Bristol",
       "cuisine": "Afternoon Tea",
-      "price": "37.50",
-      "path": "/uk/south-west/bristol/ThornburyCastle"
-    },
-    {
-      "name": "Symonds at Redwood",
-      "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/south-west/bristol/SymondsAtRedwood"
-    },
-    {
-      "name": "The River Grille at The Bristol Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/south-west/bristol/TheRiverGrilleAtTheBristolHotel"
-    },
-    {
-      "name": "Marco Pierre White Steakhouse & Grill at Cadbury House",
-      "cuisine": "Afternoon Tea",
-      "price": "23.95",
-      "path": "/uk/south-west/bristol/MarcoPierreWhiteSteakhouseGrillAtCadburyHouse"
-    },
-    {
-      "name": "KIBOU Clifton",
-      "cuisine": "Afternoon Tea",
-      "price": "19.00",
-      "path": "/uk/south-west/bristol/KibouClifton"
-    },
-    {
-      "name": "Hotel du Vin Bristol",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/south-west/bristol/HotelDuVinBristol"
+      "price": "35.00",
+      "path": "/uk/south-west/bristol/harvey-nichols-bristol"
     },
     {
       "name": "Hilton Garden Inn - Bristol",
       "cuisine": "Afternoon Tea",
       "price": "19.95",
-      "path": "/uk/south-west/bristol/HiltonGardenInnBristol"
+      "path": "/uk/south-west/bristol/hilton-garden-inn-bristol"
     },
     {
-      "name": "Harvey Nichols Bristol",
+      "name": "Hotel du Vin Bristol",
       "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/south-west/bristol/HarveyNicholsBristol"
+      "price": "29.95",
+      "path": "/uk/south-west/bristol/hotel-du-vin-bristol"
+    },
+    {
+      "name": "KIBOU Clifton",
+      "cuisine": "Afternoon Tea",
+      "price": "19.00",
+      "path": "/uk/south-west/bristol/kibou-clifton"
+    },
+    {
+      "name": "Marco Pierre White Steakhouse & Grill at Cadbury House",
+      "cuisine": "Afternoon Tea",
+      "price": "23.95",
+      "path": "/uk/south-west/bristol/marco-pierre-white-steakhouse-grill-at-cadbury-house"
+    },
+    {
+      "name": "Symonds at Redwood",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/south-west/bristol/symonds-at-redwood"
+    },
+    {
+      "name": "The River Grille at The Bristol Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/south-west/bristol/the-river-grille-at-the-bristol-hotel"
+    },
+    {
+      "name": "Thornbury Castle",
+      "cuisine": "Afternoon Tea",
+      "price": "37.50",
+      "path": "/uk/south-west/bristol/thornbury-castle"
     }
   ]
 }

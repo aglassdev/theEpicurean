@@ -1,14 +1,21 @@
 {
   "title": "Charolles",
-  "country": "france",
-  "region": "charolles",
-  "city": "charolles",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "charolles",
+  "city": "Charolles",
+  "citySlug": "charolles",
+  "path": "/france/charolles/charolles/restaurants",
+  "canonicalPath": "/france/charolles/charolles/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Frédéric Doucet",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/charolles/charolles/frdric-doucet"
+      "path": "/france/charolles/charolles/frdric-doucet",
+      "award": "★"
     },
     {
       "name": "Le Bistrot du Quai",

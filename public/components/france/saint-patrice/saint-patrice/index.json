@@ -1,8 +1,14 @@
 {
   "title": "Saint Patrice",
-  "country": "france",
-  "region": "saint-patrice",
-  "city": "saint-patrice",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-patrice",
+  "city": "Saint Patrice",
+  "citySlug": "saint-patrice",
+  "path": "/france/saint-patrice/saint-patrice/restaurants",
+  "canonicalPath": "/france/saint-patrice/saint-patrice/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Château de Rochecotte",

@@ -1,14 +1,21 @@
 {
   "title": "La Punt Chamues Ch",
-  "country": "switzerland",
-  "region": "la-punt-chamues-ch",
-  "city": "la-punt-chamues-ch",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "la-punt-chamues-ch",
+  "city": "La Punt Chamues Ch",
+  "citySlug": "la-punt-chamues-ch",
+  "path": "/switzerland/la-punt-chamues-ch/la-punt-chamues-ch/restaurants",
+  "canonicalPath": "/switzerland/la-punt-chamues-ch/la-punt-chamues-ch/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "LA CHAVALLERA in der Krone Säumerei am Inn",
       "cuisine": "Modern Cuisine, Alpine",
       "price": "€€€€",
-      "path": "/switzerland/la-punt-chamues-ch/la-punt-chamues-ch/la-chavallera-in-der-krone-sumerei-am-inn"
+      "path": "/switzerland/la-punt-chamues-ch/la-punt-chamues-ch/la-chavallera-in-der-krone-sumerei-am-inn",
+      "award": "★"
     },
     {
       "name": "STÜVA in der Krone - Säumerei am Inn",

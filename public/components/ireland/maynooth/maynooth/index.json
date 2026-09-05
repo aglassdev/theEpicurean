@@ -1,14 +1,21 @@
 {
   "title": "Maynooth",
-  "country": "ireland",
-  "region": "maynooth",
-  "city": "maynooth",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "maynooth",
+  "city": "Maynooth",
+  "citySlug": "maynooth",
+  "path": "/ireland/maynooth/maynooth/restaurants",
+  "canonicalPath": "/ireland/maynooth/maynooth/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Morrison Room",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/ireland/maynooth/maynooth/the-morrison-room"
+      "path": "/ireland/maynooth/maynooth/the-morrison-room",
+      "award": "★"
     }
   ]
 }

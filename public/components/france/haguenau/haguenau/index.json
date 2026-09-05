@@ -1,8 +1,14 @@
 {
   "title": "Haguenau",
-  "country": "france",
-  "region": "haguenau",
-  "city": "haguenau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "haguenau",
+  "city": "Haguenau",
+  "citySlug": "haguenau",
+  "path": "/france/haguenau/haguenau/restaurants",
+  "canonicalPath": "/france/haguenau/haguenau/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Grains de Sel",
@@ -14,7 +20,7 @@
       "name": "Le Jardin",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/haguenau/haguenau/le-jardin"
+      "path": "/france/haguenau/haguenau/le-jardin-h-a-g"
     }
   ]
 }

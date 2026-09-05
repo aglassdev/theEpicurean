@@ -1,8 +1,14 @@
 {
   "title": "Glottertal",
-  "country": "germany",
-  "region": "glottertal",
-  "city": "glottertal",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "glottertal",
+  "city": "Glottertal",
+  "citySlug": "glottertal",
+  "path": "/germany/glottertal/glottertal/restaurants",
+  "canonicalPath": "/germany/glottertal/glottertal/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Gasthaus Adler",
@@ -14,7 +20,7 @@
       "name": "Hirschen",
       "cuisine": "Classic Cuisine",
       "price": "€€",
-      "path": "/germany/glottertal/glottertal/hirschen"
+      "path": "/germany/glottertal/glottertal/hirschen-g-l-o"
     },
     {
       "name": "Wirtshaus zur Sonne",

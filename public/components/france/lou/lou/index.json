@@ -1,8 +1,14 @@
 {
   "title": "Lou",
-  "country": "france",
-  "region": "lou",
-  "city": "lou",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lou",
+  "city": "Lou",
+  "citySlug": "lou",
+  "path": "/france/lou/lou/restaurants",
+  "canonicalPath": "/france/lou/lou/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ricordeau",

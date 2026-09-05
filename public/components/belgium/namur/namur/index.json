@@ -1,14 +1,21 @@
 {
   "title": "Namur",
-  "country": "belgium",
-  "region": "namur",
-  "city": "namur",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "namur",
+  "city": "Namur",
+  "citySlug": "namur",
+  "path": "/belgium/namur/namur/restaurants",
+  "canonicalPath": "/belgium/namur/namur/restaurants",
+  "count": 9,
   "restaurants": [
     {
       "name": "Attablez-vous",
       "cuisine": "Creative French, Modern French",
       "price": "€€€",
-      "path": "/belgium/namur/namur/attablez-vous"
+      "path": "/belgium/namur/namur/attablezvous",
+      "award": "★"
     },
     {
       "name": "Bistro Camélia",
@@ -21,6 +28,12 @@
       "cuisine": "Traditional Cuisine, Seafood",
       "price": "€€",
       "path": "/belgium/namur/namur/brasserie-du-quai"
+    },
+    {
+      "name": "L'Espièglerie",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/belgium/namur/namur/lespiglerie"
     },
     {
       "name": "La table du Royal Snail",
@@ -39,12 +52,6 @@
       "cuisine": "Modern French",
       "price": "€€",
       "path": "/belgium/namur/namur/les-potes-au-feu"
-    },
-    {
-      "name": "L'Espièglerie",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€",
-      "path": "/belgium/namur/namur/lespiglerie"
     },
     {
       "name": "Parfums de cuisine",

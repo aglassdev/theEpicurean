@@ -1,8 +1,14 @@
 {
   "title": "Gorey",
-  "country": "uk",
-  "region": "gorey",
-  "city": "gorey",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "gorey",
+  "city": "Gorey",
+  "citySlug": "gorey",
+  "path": "/uk/gorey/gorey/restaurants",
+  "canonicalPath": "/uk/gorey/gorey/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bass and Lobster",

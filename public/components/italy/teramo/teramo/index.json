@@ -1,6 +1,21 @@
 {
   "title": "Teramo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "teramo",
+  "city": "Teramo",
+  "citySlug": "teramo",
+  "path": "/italy/teramo/teramo/restaurants",
+  "canonicalPath": "/italy/teramo/teramo/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Entroterra Trattoria Sostenibile",
+      "cuisine": "Cuisine from Abruzzo",
+      "price": "$$",
+      "path": "/italy/teramo/teramo/entroterra-trattoria-sostenibile"
+    },
     {
       "name": "Oishi",
       "cuisine": "Japanese, Fusion",
@@ -12,12 +27,6 @@
       "cuisine": "Cuisine from Abruzzo, Contemporary",
       "price": "€€",
       "path": "/italy/teramo/teramo/spoon"
-    },
-    {
-      "name": "Entroterra Trattoria Sostenibile",
-      "cuisine": "Cuisine from Abruzzo",
-      "price": "$$",
-      "path": "/italy/teramo/teramo/EntroterraTrattoriaSostenibile"
     }
   ]
 }

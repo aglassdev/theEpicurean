@@ -1,8 +1,14 @@
 {
   "title": "Levie",
-  "country": "france",
-  "region": "levie",
-  "city": "levie",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "levie",
+  "city": "Levie",
+  "citySlug": "levie",
+  "path": "/france/levie/levie/restaurants",
+  "canonicalPath": "/france/levie/levie/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "A Pignata",

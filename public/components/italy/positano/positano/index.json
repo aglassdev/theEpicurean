@@ -1,9 +1,29 @@
 {
   "title": "Positano",
-  "country": "italy",
-  "region": "positano",
-  "city": "positano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "positano",
+  "city": "Positano",
+  "citySlug": "positano",
+  "path": "/italy/positano/positano/restaurants",
+  "canonicalPath": "/italy/positano/positano/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "Li Galli",
+      "cuisine": "Contemporary, Italian Contemporary",
+      "price": "€€€€",
+      "path": "/italy/positano/positano/li-galli",
+      "award": "★"
+    },
+    {
+      "name": "Zass",
+      "cuisine": "Mediterranean Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/positano/positano/zass",
+      "award": "★"
+    },
     {
       "name": "Al Palazzo",
       "cuisine": "Mediterranean Cuisine, Classic Cuisine",
@@ -35,12 +55,6 @@
       "path": "/italy/positano/positano/la-taverna-del-leone"
     },
     {
-      "name": "Li Galli",
-      "cuisine": "Contemporary, Italian Contemporary",
-      "price": "€€€€",
-      "path": "/italy/positano/positano/li-galli"
-    },
-    {
       "name": "Next2",
       "cuisine": "Contemporary",
       "price": "€€€",
@@ -51,12 +65,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/italy/positano/positano/rada-rooftop"
-    },
-    {
-      "name": "Zass",
-      "cuisine": "Mediterranean Cuisine, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/positano/positano/zass"
     }
   ]
 }

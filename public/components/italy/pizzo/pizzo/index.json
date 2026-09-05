@@ -1,8 +1,14 @@
 {
   "title": "Pizzo",
-  "country": "italy",
-  "region": "pizzo",
-  "city": "pizzo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pizzo",
+  "city": "Pizzo",
+  "citySlug": "pizzo",
+  "path": "/italy/pizzo/pizzo/restaurants",
+  "canonicalPath": "/italy/pizzo/pizzo/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Locanda Toscano",

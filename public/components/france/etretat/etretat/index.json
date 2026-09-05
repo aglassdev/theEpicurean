@@ -1,8 +1,14 @@
 {
   "title": "Etretat",
-  "country": "france",
-  "region": "etretat",
-  "city": "etretat",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "etretat",
+  "city": "Etretat",
+  "citySlug": "etretat",
+  "path": "/france/etretat/etretat/restaurants",
+  "canonicalPath": "/france/etretat/etretat/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Bel Ami",
@@ -14,7 +20,7 @@
       "name": "Le Donjon - Domaine Saint-Clair",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/etretat/etretat/le-donjon-domaine-saint-clair"
+      "path": "/france/etretat/etretat/le-donjon-domaine-saintclair"
     }
   ]
 }

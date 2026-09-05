@@ -1,8 +1,14 @@
 {
   "title": "Borgomanero",
-  "country": "italy",
-  "region": "borgomanero",
-  "city": "borgomanero",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "borgomanero",
+  "city": "Borgomanero",
+  "citySlug": "borgomanero",
+  "path": "/italy/borgomanero/borgomanero/restaurants",
+  "canonicalPath": "/italy/borgomanero/borgomanero/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "/gu.stà.re/ oltrecucina",

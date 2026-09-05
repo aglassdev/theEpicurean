@@ -1,14 +1,21 @@
 {
   "title": "Meerbusch",
-  "country": "germany",
-  "region": "meerbusch",
-  "city": "meerbusch",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "meerbusch",
+  "city": "Meerbusch",
+  "citySlug": "meerbusch",
+  "path": "/germany/meerbusch/meerbusch/restaurants",
+  "canonicalPath": "/germany/meerbusch/meerbusch/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Anthony's Kitchen",
       "cuisine": "Innovative, International",
       "price": "€€€€",
-      "path": "/germany/meerbusch/meerbusch/anthonys-kitchen"
+      "path": "/germany/meerbusch/meerbusch/anthonys-kitchen",
+      "award": "★"
     },
     {
       "name": "Landhaus Mönchenwerth",

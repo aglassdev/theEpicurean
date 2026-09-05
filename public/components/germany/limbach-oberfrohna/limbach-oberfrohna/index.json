@@ -1,14 +1,20 @@
 {
   "title": "Limbach Oberfrohna",
-  "country": "germany",
-  "region": "limbach-oberfrohna",
-  "city": "limbach-oberfrohna",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "limbach-oberfrohna",
+  "city": "Limbach Oberfrohna",
+  "citySlug": "limbach-oberfrohna",
+  "path": "/germany/limbach-oberfrohna/limbach-oberfrohna/restaurants",
+  "canonicalPath": "/germany/limbach-oberfrohna/limbach-oberfrohna/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ratsstube",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€",
-      "path": "/germany/limbach-oberfrohna/limbach-oberfrohna/ratsstube"
+      "path": "/germany/limbach-oberfrohna/limbach-oberfrohna/ratsstube-l-i-m"
     }
   ]
 }

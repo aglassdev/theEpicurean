@@ -1,14 +1,21 @@
 {
   "title": "Sierentz",
-  "country": "france",
-  "region": "sierentz",
-  "city": "sierentz",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sierentz",
+  "city": "Sierentz",
+  "citySlug": "sierentz",
+  "path": "/france/sierentz/sierentz/restaurants",
+  "canonicalPath": "/france/sierentz/sierentz/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Auberge Saint-Laurent",
       "cuisine": "Modern Cuisine, Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/sierentz/sierentz/auberge-saint-laurent"
+      "path": "/france/sierentz/sierentz/auberge-saintlaurent",
+      "award": "★"
     },
     {
       "name": "Winstub À Côté",

@@ -1,14 +1,21 @@
 {
   "title": "Mlnlycke",
-  "country": "sweden",
-  "region": "mlnlycke",
-  "city": "mlnlycke",
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "region": null,
+  "regionSlug": "mlnlycke",
+  "city": "Mlnlycke",
+  "citySlug": "mlnlycke",
+  "path": "/sweden/mlnlycke/mlnlycke/restaurants",
+  "canonicalPath": "/sweden/mlnlycke/mlnlycke/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Signum",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/sweden/mlnlycke/mlnlycke/signum"
+      "path": "/sweden/mlnlycke/mlnlycke/signum",
+      "award": "★★"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "title": "Bad Sckingen",
-  "country": "germany",
-  "region": "bad-sckingen",
-  "city": "bad-sckingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bad-sckingen",
+  "city": "Bad Sckingen",
+  "citySlug": "bad-sckingen",
+  "path": "/germany/bad-sckingen/bad-sckingen/restaurants",
+  "canonicalPath": "/germany/bad-sckingen/bad-sckingen/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Genuss-Apotheke",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/bad-sckingen/bad-sckingen/genussapotheke",
+      "award": "★"
+    },
     {
       "name": "fine.wine.dine.",
       "cuisine": "Farm to table, Seasonal Cuisine",
       "price": "€€€",
       "path": "/germany/bad-sckingen/bad-sckingen/finewinedine"
-    },
-    {
-      "name": "Genuss-Apotheke",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/bad-sckingen/bad-sckingen/genuss-apotheke"
     }
   ]
 }

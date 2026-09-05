@@ -1,20 +1,20 @@
 {
   "title": "Bakewell",
-  "country": "uk",
-  "region": "bakewell",
-  "city": "bakewell",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "bakewell",
+  "city": "Bakewell",
+  "citySlug": "bakewell",
+  "path": "/uk/bakewell/bakewell/restaurants",
+  "canonicalPath": "/uk/bakewell/bakewell/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lovage",
       "cuisine": "Modern British",
-      "price": "£££",
-      "path": "/uk/bakewell/bakewell/lovage"
-    },
-    {
-      "name": "Lovage",
-      "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/bakewell/bakewell/lovage"
+      "path": "/uk/bakewell/bakewell/lovage-b-a-k"
     }
   ]
 }

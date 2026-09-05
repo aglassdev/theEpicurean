@@ -1,9 +1,22 @@
 {
   "title": "Angers",
-  "country": "france",
-  "region": "angers",
-  "city": "angers",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "angers",
+  "city": "Angers",
+  "citySlug": "angers",
+  "path": "/france/angers/angers/restaurants",
+  "canonicalPath": "/france/angers/angers/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Lait Thym Sel",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/angers/angers/lait-thym-sel",
+      "award": "★"
+    },
     {
       "name": "Ancestral",
       "cuisine": "Modern Cuisine",
@@ -41,22 +54,16 @@
       "path": "/france/angers/angers/kazumi"
     },
     {
-      "name": "La Table de Clément Paillard",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/angers/angers/la-table-de-clment-paillard"
-    },
-    {
-      "name": "Lait Thym Sel",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/angers/angers/lait-thym-sel"
-    },
-    {
       "name": "L'Ardoise",
       "cuisine": "Mediterranean Cuisine, Traditional Cuisine",
       "price": "€€",
       "path": "/france/angers/angers/lardoise"
+    },
+    {
+      "name": "La Table de Clément Paillard",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/angers/angers/la-table-de-clment-paillard"
     },
     {
       "name": "Le Sourire",
@@ -68,7 +75,7 @@
       "name": "Sens",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/angers/angers/sens"
+      "path": "/france/angers/angers/sens-a-n-g"
     }
   ]
 }

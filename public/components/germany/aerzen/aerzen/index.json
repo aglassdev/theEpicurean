@@ -1,20 +1,28 @@
 {
   "title": "Aerzen",
-  "country": "germany",
-  "region": "aerzen",
-  "city": "aerzen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "aerzen",
+  "city": "Aerzen",
+  "citySlug": "aerzen",
+  "path": "/germany/aerzen/aerzen/restaurants",
+  "canonicalPath": "/germany/aerzen/aerzen/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "1570 - CASUAL FINE DINING",
       "cuisine": "Contemporary, Classic Cuisine",
       "price": "€€€€",
-      "path": "/germany/aerzen/aerzen/1570-casual-fine-dining"
+      "path": "/germany/aerzen/aerzen/1570-casual-fine-dining",
+      "award": "★"
     },
     {
       "name": "HILMAR",
       "cuisine": "Contemporary, Classic Cuisine",
       "price": "€€€€",
-      "path": "/germany/aerzen/aerzen/hilmar"
+      "path": "/germany/aerzen/aerzen/hilmar",
+      "award": "★"
     },
     {
       "name": "Schlosskeller",

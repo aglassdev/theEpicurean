@@ -1,8 +1,14 @@
 {
   "title": "Sommires",
-  "country": "france",
-  "region": "sommires",
-  "city": "sommires",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sommires",
+  "city": "Sommires",
+  "citySlug": "sommires",
+  "path": "/france/sommires/sommires/restaurants",
+  "canonicalPath": "/france/sommires/sommires/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Patio by Lou Caléou",

@@ -1,14 +1,21 @@
 {
   "title": "Santomero",
-  "country": "italy",
-  "region": "santomero",
-  "city": "santomero",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "santomero",
+  "city": "Santomero",
+  "citySlug": "santomero",
+  "path": "/italy/santomero/santomero/restaurants",
+  "canonicalPath": "/italy/santomero/santomero/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Zunica 1880 a Villa Corallo",
       "cuisine": "Modern Cuisine, Regional Cuisine",
       "price": "€€€",
-      "path": "/italy/santomero/santomero/zunica-1880-a-villa-corallo"
+      "path": "/italy/santomero/santomero/zunica1880-a-villa-corallo",
+      "award": "★"
     }
   ]
 }

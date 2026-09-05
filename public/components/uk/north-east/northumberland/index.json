@@ -1,23 +1,32 @@
 {
   "title": "Northumberland",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "North East",
+  "regionSlug": "north-east",
+  "city": "Northumberland",
+  "citySlug": "northumberland",
+  "path": "/uk/north-east/northumberland/restaurants",
+  "canonicalPath": "/uk/north-east/northumberland/restaurants",
+  "count": 3,
   "restaurants": [
     {
-      "name": "Slaley Hall",
+      "name": "Alnwick Castle & Garden",
       "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/north-east/northumberland/SlaleyHall"
+      "price": "59.00",
+      "path": "/uk/north-east/northumberland/alnwick-castle-garden"
     },
     {
       "name": "Matfen Hall",
       "cuisine": "Afternoon Tea",
       "price": "39.50",
-      "path": "/uk/north-east/northumberland/MatfenHall"
+      "path": "/uk/north-east/northumberland/matfen-hall"
     },
     {
-      "name": "Alnwick Castle & Garden",
+      "name": "Slaley Hall",
       "cuisine": "Afternoon Tea",
-      "price": "59.00",
-      "path": "/uk/north-east/northumberland/AlnwickCastleGarden"
+      "price": "30.00",
+      "path": "/uk/north-east/northumberland/slaley-hall"
     }
   ]
 }

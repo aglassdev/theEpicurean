@@ -1,14 +1,20 @@
 {
   "title": "Doesburg",
-  "country": "netherlands",
-  "region": "doesburg",
-  "city": "doesburg",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "doesburg",
+  "city": "Doesburg",
+  "citySlug": "doesburg",
+  "path": "/netherlands/doesburg/doesburg/restaurants",
+  "canonicalPath": "/netherlands/doesburg/doesburg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Het Arsenaal 1309",
       "cuisine": "Creative",
       "price": "€€",
-      "path": "/netherlands/doesburg/doesburg/het-arsenaal-1309"
+      "path": "/netherlands/doesburg/doesburg/het-arsenaal1309"
     }
   ]
 }

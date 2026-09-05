@@ -1,11 +1,246 @@
 {
   "title": "Barcelona",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": "Catalonia",
+  "regionSlug": "barcelona",
+  "city": "Barcelona",
+  "citySlug": "barcelona",
+  "path": "/spain/barcelona/barcelona/restaurants",
+  "canonicalPath": "/spain/barcelona/barcelona/restaurants",
+  "count": 111,
   "restaurants": [
     {
       "name": "ABaC",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/abac"
+      "path": "/spain/barcelona/barcelona/abac-b-a-r",
+      "award": "★★★"
+    },
+    {
+      "name": "Cocina Hermanos Torres",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/cocina-hermanos-torres",
+      "award": "★★★"
+    },
+    {
+      "name": "Disfrutar",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/disfrutar",
+      "award": "★★★"
+    },
+    {
+      "name": "Geranium",
+      "cuisine": "Contemporary Nordic",
+      "price": "€€€€ · Prix Fixe",
+      "path": "/spain/catalonia/barcelona/disfrutar",
+      "award": "★★★",
+      "image": "/images/geranium1.png"
+    },
+    {
+      "name": "Lasarte",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/lasarte",
+      "award": "★★★"
+    },
+    {
+      "name": "Cinc Sentits",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/cinc-sentits",
+      "award": "★★"
+    },
+    {
+      "name": "Enoteca Paco Pérez",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/enoteca-paco-prez",
+      "award": "★★"
+    },
+    {
+      "name": "Aleia",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/aleia",
+      "award": "★"
+    },
+    {
+      "name": "Alkimia",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/alkimia",
+      "award": "★"
+    },
+    {
+      "name": "Angle",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/angle",
+      "award": "★"
+    },
+    {
+      "name": "Atempo",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/atempo",
+      "award": "★"
+    },
+    {
+      "name": "Aürt",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/art",
+      "award": "★"
+    },
+    {
+      "name": "Caelis",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/spain/barcelona/barcelona/caelis",
+      "award": "★"
+    },
+    {
+      "name": "COME by Paco Méndez",
+      "cuisine": "Mexican, Fusion",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/come-by-paco-mndez",
+      "award": "★"
+    },
+    {
+      "name": "Dos Palillos",
+      "cuisine": "Fusion",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/dos-palillos",
+      "award": "★"
+    },
+    {
+      "name": "Enigma",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/enigma",
+      "award": "★"
+    },
+    {
+      "name": "Fishølogy",
+      "cuisine": "Contemporary, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/spain/barcelona/barcelona/fishlogy",
+      "award": "★"
+    },
+    {
+      "name": "Hisop",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/spain/barcelona/barcelona/hisop",
+      "award": "★"
+    },
+    {
+      "name": "Hofmann",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/barcelona/barcelona/hofmann",
+      "award": "★"
+    },
+    {
+      "name": "Koy Shunka",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/koy-shunka",
+      "award": "★"
+    },
+    {
+      "name": "MAE Barcelona",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/spain/barcelona/barcelona/mae-barcelona",
+      "award": "★"
+    },
+    {
+      "name": "Moments",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/moments",
+      "award": "★"
+    },
+    {
+      "name": "Mont Bar",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/spain/barcelona/barcelona/mont-bar",
+      "award": "★"
+    },
+    {
+      "name": "Oria",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/oria",
+      "award": "★"
+    },
+    {
+      "name": "Prodigi",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/barcelona/barcelona/prodigi",
+      "award": "★"
+    },
+    {
+      "name": "Quirat",
+      "cuisine": "Seasonal Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/spain/barcelona/barcelona/quirat",
+      "award": "★"
+    },
+    {
+      "name": "Slow & Low",
+      "cuisine": "World Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/slow-low",
+      "award": "★"
+    },
+    {
+      "name": "Suto",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/suto",
+      "award": "★"
+    },
+    {
+      "name": "Teatro kitchen & bar",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/barcelona/barcelona/teatro-kitchen-bar",
+      "award": "★"
+    },
+    {
+      "name": "Via Veneto",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/spain/barcelona/barcelona/via-veneto",
+      "award": "★"
+    },
+    {
+      "name": "Cal Pep",
+      "cuisine": "",
+      "price": "",
+      "path": "/spain/barcelona/barcelona/cal-pep",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Can Fabes",
+      "cuisine": "",
+      "price": "",
+      "path": "/spain/barcelona/barcelona/can-fabes",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Tickets",
+      "cuisine": "",
+      "price": "",
+      "path": "/spain/barcelona/barcelona/tickets",
+      "award": "World's 50 Best"
     },
     {
       "name": "Ají",
@@ -32,40 +267,22 @@
       "path": "/spain/barcelona/barcelona/alb"
     },
     {
-      "name": "Aleia",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/aleia"
-    },
-    {
-      "name": "Alkimia",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/alkimia"
-    },
-    {
       "name": "Amar Barcelona",
       "cuisine": "Contemporary, Catalan",
       "price": "€€€€",
       "path": "/spain/barcelona/barcelona/amar-barcelona"
     },
     {
-      "name": "Angle",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/angle"
+      "name": "âme",
+      "cuisine": "French Contemporary",
+      "price": "€€€",
+      "path": "/spain/barcelona/barcelona/me-b-a-r"
     },
     {
-      "name": "Aürt",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/art"
-    },
-    {
-      "name": "Atempo",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/atempo"
+      "name": "AÜC",
+      "cuisine": "Regional Cuisine",
+      "price": "$",
+      "path": "/spain/barcelona/barcelona/ac"
     },
     {
       "name": "Avenir",
@@ -77,7 +294,7 @@
       "name": "Bacaro",
       "cuisine": "Italian",
       "price": "€€",
-      "path": "/spain/barcelona/barcelona/bacaro"
+      "path": "/spain/barcelona/barcelona/bacaro-b-a-r"
     },
     {
       "name": "BaLó",
@@ -86,10 +303,16 @@
       "path": "/spain/barcelona/barcelona/bal"
     },
     {
+      "name": "Bar Cañete",
+      "cuisine": "Farm to table",
+      "price": "$$$",
+      "path": "/spain/barcelona/barcelona/bar-caete"
+    },
+    {
       "name": "Bardeni-Caldeni",
       "cuisine": "Meats and Grills",
       "price": "€€",
-      "path": "/spain/barcelona/barcelona/bardeni-caldeni"
+      "path": "/spain/barcelona/barcelona/bardenicaldeni"
     },
     {
       "name": "Barra Alta Barcelona",
@@ -128,10 +351,10 @@
       "path": "/spain/barcelona/barcelona/brugarol-barcelona"
     },
     {
-      "name": "Caelis",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/spain/barcelona/barcelona/caelis"
+      "name": "Can Bo",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/spain/barcelona/barcelona/can-bo"
     },
     {
       "name": "Cañete",
@@ -140,34 +363,16 @@
       "path": "/spain/barcelona/barcelona/caete"
     },
     {
-      "name": "Can Bo",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/spain/barcelona/barcelona/can-bo"
-    },
-    {
       "name": "Capet",
       "cuisine": "Seasonal Cuisine",
       "price": "€€",
       "path": "/spain/barcelona/barcelona/capet"
     },
     {
-      "name": "Cinc Sentits",
-      "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/cinc-sentits"
-    },
-    {
-      "name": "Cocina Hermanos Torres",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/cocina-hermanos-torres"
-    },
-    {
-      "name": "COME by Paco Méndez",
-      "cuisine": "Mexican, Fusion",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/come-by-paco-mndez"
+      "name": "Casa Fiero",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/spain/barcelona/barcelona/casa-fiero"
     },
     {
       "name": "Compartir Barcelona",
@@ -200,18 +405,6 @@
       "path": "/spain/barcelona/barcelona/direkte"
     },
     {
-      "name": "Disfrutar",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/disfrutar"
-    },
-    {
-      "name": "Dos Palillos",
-      "cuisine": "Fusion",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/dos-palillos"
-    },
-    {
       "name": "Dos Pebrots",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
@@ -224,28 +417,10 @@
       "path": "/spain/barcelona/barcelona/eldelmar-hermanos-torres"
     },
     {
-      "name": "Enigma",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/enigma"
-    },
-    {
-      "name": "Enoteca Paco Pérez",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/enoteca-paco-prez"
-    },
-    {
       "name": "Estimar",
       "cuisine": "Seafood",
       "price": "€€€€",
       "path": "/spain/barcelona/barcelona/estimar"
-    },
-    {
-      "name": "Fishølogy",
-      "cuisine": "Contemporary, Mediterranean Cuisine",
-      "price": "€€€",
-      "path": "/spain/barcelona/barcelona/fishlogy"
     },
     {
       "name": "Fonda España",
@@ -270,18 +445,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/spain/barcelona/barcelona/gresca"
-    },
-    {
-      "name": "Hisop",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/spain/barcelona/barcelona/hisop"
-    },
-    {
-      "name": "Hofmann",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/barcelona/barcelona/hofmann"
     },
     {
       "name": "Imprevisto",
@@ -314,10 +477,10 @@
       "path": "/spain/barcelona/barcelona/kintsugi"
     },
     {
-      "name": "Koy Shunka",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/koy-shunka"
+      "name": "L'Antiquari Gastronòmic",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/spain/barcelona/barcelona/lantiquari-gastronmic"
     },
     {
       "name": "La Forquilla",
@@ -338,28 +501,10 @@
       "path": "/spain/barcelona/barcelona/la-taverna-del-clnic"
     },
     {
-      "name": "L'Antiquari Gastronòmic",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/spain/barcelona/barcelona/lantiquari-gastronmic"
-    },
-    {
-      "name": "Lasarte",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/lasarte"
-    },
-    {
       "name": "Leña Barcelona",
       "cuisine": "Meats and Grills",
       "price": "€€€",
       "path": "/spain/barcelona/barcelona/lea-barcelona"
-    },
-    {
-      "name": "MAE Barcelona",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/spain/barcelona/barcelona/mae-barcelona"
     },
     {
       "name": "Maleducat",
@@ -380,24 +525,6 @@
       "path": "/spain/barcelona/barcelona/maymanta"
     },
     {
-      "name": "âme",
-      "cuisine": "French Contemporary",
-      "price": "€€€",
-      "path": "/spain/barcelona/barcelona/me"
-    },
-    {
-      "name": "Moments",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/moments"
-    },
-    {
-      "name": "Mont Bar",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/spain/barcelona/barcelona/mont-bar"
-    },
-    {
       "name": "Nairod",
       "cuisine": "Farm to table, Traditional Cuisine",
       "price": "€€",
@@ -416,16 +543,16 @@
       "path": "/spain/barcelona/barcelona/olivos"
     },
     {
+      "name": "Olivos Comida y Vinos",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/spain/barcelona/barcelona/olivos-comida-y-vinos"
+    },
+    {
       "name": "Oníric",
       "cuisine": "Fusion",
       "price": "€€",
       "path": "/spain/barcelona/barcelona/onric"
-    },
-    {
-      "name": "Oria",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/oria"
     },
     {
       "name": "Osmosis",
@@ -452,22 +579,10 @@
       "path": "/spain/barcelona/barcelona/petit-comit-gaig"
     },
     {
-      "name": "Prodigi",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/barcelona/barcelona/prodigi"
-    },
-    {
       "name": "Pur",
       "cuisine": "Farm to table",
       "price": "€€€",
-      "path": "/spain/barcelona/barcelona/pur"
-    },
-    {
-      "name": "Quirat",
-      "cuisine": "Seasonal Cuisine, Contemporary",
-      "price": "€€€",
-      "path": "/spain/barcelona/barcelona/quirat"
+      "path": "/spain/barcelona/barcelona/pur-b-a-r"
     },
     {
       "name": "RíasKru",
@@ -494,12 +609,6 @@
       "path": "/spain/barcelona/barcelona/sensato"
     },
     {
-      "name": "Slow & Low",
-      "cuisine": "World Cuisine, Contemporary",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/slow-low"
-    },
-    {
       "name": "Solc",
       "cuisine": "Mediterranean Cuisine, Catalan",
       "price": "€€",
@@ -512,28 +621,22 @@
       "path": "/spain/barcelona/barcelona/soluna"
     },
     {
+      "name": "Somodó Bá",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/spain/barcelona/barcelona/somod-b"
+    },
+    {
       "name": "Suculent",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/barcelona/barcelona/suculent"
     },
     {
-      "name": "Suto",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/suto"
-    },
-    {
       "name": "Taberna Noroeste",
       "cuisine": "Contemporary",
       "price": "€€€",
       "path": "/spain/barcelona/barcelona/taberna-noroeste"
-    },
-    {
-      "name": "Teatro kitchen & bar",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/barcelona/barcelona/teatro-kitchen-bar"
     },
     {
       "name": "Ten's",
@@ -545,7 +648,13 @@
       "name": "Tram-Tram",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/spain/barcelona/barcelona/tram-tram"
+      "path": "/spain/barcelona/barcelona/tramtram"
+    },
+    {
+      "name": "Trü",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/spain/barcelona/barcelona/tr"
     },
     {
       "name": "Tunateca Balfegó",
@@ -566,28 +675,16 @@
       "path": "/spain/barcelona/barcelona/uma"
     },
     {
-      "name": "Uma",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/uma"
-    },
-    {
-      "name": "Via Veneto",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/spain/barcelona/barcelona/via-veneto"
+      "name": "UMO Alex Vall",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/spain/barcelona/barcelona/umo-alex-vall"
     },
     {
       "name": "Virens",
       "cuisine": "Contemporary, Mediterranean Cuisine",
       "price": "€€",
       "path": "/spain/barcelona/barcelona/virens"
-    },
-    {
-      "name": "Vivanda",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/spain/barcelona/barcelona/vivanda"
     },
     {
       "name": "Vivanda",
@@ -612,66 +709,6 @@
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/spain/barcelona/barcelona/xerta"
-    },
-    {
-      "name": "AÜC",
-      "cuisine": "Regional Cuisine",
-      "price": "$",
-      "path": "/spain/barcelona/barcelona/Ac"
-    },
-    {
-      "name": "Bar Cañete",
-      "cuisine": "Farm to table",
-      "price": "$$$",
-      "path": "/spain/barcelona/barcelona/BarCaete"
-    },
-    {
-      "name": "Casa Fiero",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/spain/barcelona/barcelona/CasaFiero"
-    },
-    {
-      "name": "Olivos Comida y Vinos",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/spain/barcelona/barcelona/OlivosComidaYVinos"
-    },
-    {
-      "name": "Somodó Bá",
-      "cuisine": "Farm to table",
-      "price": "$$",
-      "path": "/spain/barcelona/barcelona/SomodB"
-    },
-    {
-      "name": "Trü",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/spain/barcelona/barcelona/Tr"
-    },
-    {
-      "name": "UMO Alex Vall",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/spain/barcelona/barcelona/UmoAlexVall"
-    },
-    {
-      "name": "Can Fabes",
-      "cuisine": "",
-      "price": "",
-      "path": "/spain/barcelona/barcelona/CanFabes"
-    },
-    {
-      "name": "Cal Pep",
-      "cuisine": "",
-      "price": "",
-      "path": "/spain/barcelona/barcelona/CalPep"
-    },
-    {
-      "name": "Tickets",
-      "cuisine": "",
-      "price": "",
-      "path": "/spain/barcelona/barcelona/Tickets"
     }
   ]
 }

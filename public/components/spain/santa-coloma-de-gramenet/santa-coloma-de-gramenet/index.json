@@ -1,20 +1,27 @@
 {
-  "title": "Santa Coloma De Gramenet",
-  "country": "spain",
-  "region": "santa-coloma-de-gramenet",
-  "city": "santa-coloma-de-gramenet",
+  "title": "Santa Coloma de Gramenet",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "santa-coloma-de-gramenet",
+  "city": "Santa Coloma de Gramenet",
+  "citySlug": "santa-coloma-de-gramenet",
+  "path": "/spain/santa-coloma-de-gramenet/santa-coloma-de-gramenet/restaurants",
+  "canonicalPath": "/spain/santa-coloma-de-gramenet/santa-coloma-de-gramenet/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Lluerna",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/santa-coloma-de-gramenet/santa-coloma-de-gramenet/lluerna",
+      "award": "★"
+    },
     {
       "name": "Bar Verat",
       "cuisine": "Fusion",
       "price": "€",
       "path": "/spain/santa-coloma-de-gramenet/santa-coloma-de-gramenet/bar-verat"
-    },
-    {
-      "name": "Lluerna",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/santa-coloma-de-gramenet/santa-coloma-de-gramenet/lluerna"
     }
   ]
 }

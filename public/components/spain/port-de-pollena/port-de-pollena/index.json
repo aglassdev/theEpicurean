@@ -1,14 +1,20 @@
 {
-  "title": "Port De Pollena",
-  "country": "spain",
-  "region": "port-de-pollena",
-  "city": "port-de-pollena",
+  "title": "Port de Pollena",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "port-de-pollena",
+  "city": "Port de Pollena",
+  "citySlug": "port-de-pollena",
+  "path": "/spain/port-de-pollena/port-de-pollena/restaurants",
+  "canonicalPath": "/spain/port-de-pollena/port-de-pollena/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Terrae",
       "cuisine": "Creative, Farm to table",
       "price": "€€",
-      "path": "/spain/port-de-pollena/port-de-pollena/terrae"
+      "path": "/spain/port-de-pollena/port-de-pollena/terrae-p-o-r"
     }
   ]
 }

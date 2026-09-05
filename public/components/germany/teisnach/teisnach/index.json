@@ -1,14 +1,21 @@
 {
   "title": "Teisnach",
-  "country": "germany",
-  "region": "teisnach",
-  "city": "teisnach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "teisnach",
+  "city": "Teisnach",
+  "citySlug": "teisnach",
+  "path": "/germany/teisnach/teisnach/restaurants",
+  "canonicalPath": "/germany/teisnach/teisnach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Oswald's Gourmetstube",
       "cuisine": "Modern French, Contemporary",
       "price": "€€€€",
-      "path": "/germany/teisnach/teisnach/oswalds-gourmetstube"
+      "path": "/germany/teisnach/teisnach/oswalds-gourmetstube",
+      "award": "★★"
     }
   ]
 }

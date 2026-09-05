@@ -1,29 +1,38 @@
 {
   "title": "Newcastle",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "North East",
+  "regionSlug": "north-east",
+  "city": "Newcastle",
+  "citySlug": "newcastle",
+  "path": "/uk/north-east/newcastle/restaurants",
+  "canonicalPath": "/uk/north-east/newcastle/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Café 21 Newcastle",
       "cuisine": "Afternoon Tea",
       "price": "25.00",
-      "path": "/uk/north-east/newcastle/Caf21Newcastle"
-    },
-    {
-      "name": "Victors Newcastle",
-      "cuisine": "Afternoon Tea",
-      "price": "32.50",
-      "path": "/uk/north-east/newcastle/VictorsNewcastle"
-    },
-    {
-      "name": "Malmaison Newcastle",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/north-east/newcastle/MalmaisonNewcastle"
+      "path": "/uk/north-east/newcastle/caf21-newcastle"
     },
     {
       "name": "Hotel du Vin Newcastle",
       "cuisine": "Afternoon Tea",
       "price": "29.95",
-      "path": "/uk/north-east/newcastle/HotelDuVinNewcastle"
+      "path": "/uk/north-east/newcastle/hotel-du-vin-newcastle"
+    },
+    {
+      "name": "Malmaison Newcastle",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/north-east/newcastle/malmaison-newcastle"
+    },
+    {
+      "name": "Victors Newcastle",
+      "cuisine": "Afternoon Tea",
+      "price": "32.50",
+      "path": "/uk/north-east/newcastle/victors-newcastle"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
-  "title": "Alcal Del Valle",
-  "country": "spain",
-  "region": "alcal-del-valle",
-  "city": "alcal-del-valle",
+  "title": "Alcal del Valle",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "alcal-del-valle",
+  "city": "Alcal del Valle",
+  "citySlug": "alcal-del-valle",
+  "path": "/spain/alcal-del-valle/alcal-del-valle/restaurants",
+  "canonicalPath": "/spain/alcal-del-valle/alcal-del-valle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mesón Sabor Andaluz",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/spain/alcal-del-valle/alcal-del-valle/mesn-sabor-andaluz"
+      "path": "/spain/alcal-del-valle/alcal-del-valle/mesn-sabor-andaluz",
+      "award": "★"
     }
   ]
 }

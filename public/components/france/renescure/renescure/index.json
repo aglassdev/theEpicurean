@@ -1,17 +1,20 @@
 {
   "title": "Renescure",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "renescure",
+  "city": "Renescure",
+  "citySlug": "renescure",
+  "path": "/france/renescure/renescure/restaurants",
+  "canonicalPath": "/france/renescure/renescure/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de Romain",
       "cuisine": "Traditional Cuisine",
-      "price": "€",
-      "path": "/france/renescure/renescure/la-table-de-romain"
-    },
-    {
-      "name": "La Table de Romain",
-      "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/france/renescure/renescure/LaTableDeRomain"
+      "path": "/france/renescure/renescure/la-table-de-romain"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
-  "title": "Mandelieu La Napoule",
-  "country": "france",
-  "region": "mandelieu-la-napoule",
-  "city": "mandelieu-la-napoule",
+  "title": "Mandelieu la Napoule",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "mandelieu-la-napoule",
+  "city": "Mandelieu la Napoule",
+  "citySlug": "mandelieu-la-napoule",
+  "path": "/france/mandelieu-la-napoule/mandelieu-la-napoule/restaurants",
+  "canonicalPath": "/france/mandelieu-la-napoule/mandelieu-la-napoule/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bessem",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/france/mandelieu-la-napoule/mandelieu-la-napoule/bessem"
+      "path": "/france/mandelieu-la-napoule/mandelieu-la-napoule/bessem",
+      "award": "★"
     },
     {
       "name": "Le Repère",

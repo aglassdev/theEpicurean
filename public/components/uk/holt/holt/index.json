@@ -1,20 +1,21 @@
 {
   "title": "Holt",
-  "country": "uk",
-  "region": "holt",
-  "city": "holt",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "holt",
+  "city": "Holt",
+  "citySlug": "holt",
+  "path": "/uk/holt/holt/restaurants",
+  "canonicalPath": "/uk/holt/holt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Meadowsweet",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/holt/holt/meadowsweet"
-    },
-    {
-      "name": "Meadowsweet",
-      "cuisine": "Modern British",
-      "price": "££££",
-      "path": "/uk/holt/holt/meadowsweet"
+      "path": "/uk/holt/holt/meadowsweet",
+      "award": "★"
     }
   ]
 }

@@ -1,20 +1,28 @@
 {
   "title": "La Ciotat",
-  "country": "france",
-  "region": "la-ciotat",
-  "city": "la-ciotat",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-ciotat",
+  "city": "La Ciotat",
+  "citySlug": "la-ciotat",
+  "path": "/france/la-ciotat/la-ciotat/restaurants",
+  "canonicalPath": "/france/la-ciotat/la-ciotat/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Couleurs de Shimatani",
       "cuisine": "Fusion",
       "price": "€€€€",
-      "path": "/france/la-ciotat/la-ciotat/couleurs-de-shimatani"
+      "path": "/france/la-ciotat/la-ciotat/couleurs-de-shimatani",
+      "award": "★"
     },
     {
       "name": "La Table de Nans",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/france/la-ciotat/la-ciotat/la-table-de-nans"
+      "path": "/france/la-ciotat/la-ciotat/la-table-de-nans",
+      "award": "★"
     },
     {
       "name": "Roche Belle",

@@ -1,0 +1,45 @@
+{
+  "title": "Fort Lauderdale",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Fort Lauderdale",
+  "citySlug": "fort-lauderdale",
+  "path": "/usa/florida/fort-lauderdale/restaurants",
+  "canonicalPath": "/usa/florida/fort-lauderdale/restaurants",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "Chef's Counter at MAASS",
+      "cuisine": "Contemporary, American",
+      "price": "$$$$",
+      "path": "/usa/florida/fort-lauderdale/chefs-counter-at-maass",
+      "award": "★"
+    },
+    {
+      "name": "Daniel's, A Florida Steakhouse",
+      "cuisine": "Steakhouse",
+      "price": "$$$$",
+      "path": "/usa/florida/fort-lauderdale/daniels-a-florida-steakhouse"
+    },
+    {
+      "name": "Evelyn's",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/usa/florida/fort-lauderdale/evelyns"
+    },
+    {
+      "name": "Heritage",
+      "cuisine": "Pizza",
+      "price": "$$",
+      "path": "/usa/florida/fort-lauderdale/heritage"
+    },
+    {
+      "name": "Larb Thai-Isan",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/usa/florida/fort-lauderdale/larb-thaiisan"
+    }
+  ]
+}

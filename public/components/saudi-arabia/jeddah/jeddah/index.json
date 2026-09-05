@@ -1,77 +1,88 @@
 {
   "title": "Jeddah",
+  "country": "Saudi Arabia",
+  "countrySlug": "saudi-arabia",
+  "region": null,
+  "regionSlug": "jeddah",
+  "city": "Jeddah",
+  "citySlug": "jeddah",
+  "path": "/saudi-arabia/jeddah/jeddah/restaurants",
+  "canonicalPath": "/saudi-arabia/jeddah/jeddah/restaurants",
+  "count": 12,
   "restaurants": [
     {
       "name": "Samia's Dish",
       "cuisine": "Saudi Cuisine",
       "price": "$",
-      "path": "/saudi-arabia/jeddah/jeddah/SamiasDish"
+      "path": "/saudi-arabia/jeddah/jeddah/samias-dish",
+      "award": "Bib Gourmand"
     },
     {
       "name": "The Lucky Llama",
       "cuisine": "Peruvian",
       "price": "$$",
-      "path": "/saudi-arabia/jeddah/jeddah/TheLuckyLlama"
+      "path": "/saudi-arabia/jeddah/jeddah/the-lucky-llama",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Fish Market",
       "cuisine": "Seafood",
       "price": "$$$",
-      "path": "/saudi-arabia/jeddah/jeddah/FishMarket"
+      "path": "/saudi-arabia/jeddah/jeddah/fish-market"
     },
     {
       "name": "Karamna",
       "cuisine": "Lebanese",
       "price": "$$$",
-      "path": "/saudi-arabia/jeddah/jeddah/Karamna"
+      "path": "/saudi-arabia/jeddah/jeddah/karamna"
     },
     {
       "name": "Kuuru",
       "cuisine": "Japanese",
       "price": "$$$$",
-      "path": "/saudi-arabia/jeddah/jeddah/Kuuru"
+      "path": "/saudi-arabia/jeddah/jeddah/kuuru"
     },
     {
       "name": "Maritime",
       "cuisine": "Asian",
       "price": "$$$$",
-      "path": "/saudi-arabia/jeddah/jeddah/Maritime"
+      "path": "/saudi-arabia/jeddah/jeddah/maritime"
     },
     {
       "name": "Meez",
       "cuisine": "Middle Eastern",
       "price": "$$",
-      "path": "/saudi-arabia/jeddah/jeddah/Meez"
+      "path": "/saudi-arabia/jeddah/jeddah/meez"
     },
     {
       "name": "Myazū",
       "cuisine": "Japanese Contemporary",
       "price": "$$$$",
-      "path": "/saudi-arabia/jeddah/jeddah/Myaz"
+      "path": "/saudi-arabia/jeddah/jeddah/myaz"
     },
     {
       "name": "Niyyali",
       "cuisine": "Lebanese",
       "price": "$$$",
-      "path": "/saudi-arabia/jeddah/jeddah/Niyyali"
+      "path": "/saudi-arabia/jeddah/jeddah/niyyali"
     },
     {
       "name": "Rasoi By Vineet",
       "cuisine": "Indian",
       "price": "$$$$",
-      "path": "/saudi-arabia/jeddah/jeddah/RasoiByVineet"
+      "path": "/saudi-arabia/jeddah/jeddah/rasoi-by-vineet"
     },
     {
       "name": "Tamees House",
       "cuisine": "Saudi Cuisine",
       "price": "$$",
-      "path": "/saudi-arabia/jeddah/jeddah/TameesHouse"
+      "path": "/saudi-arabia/jeddah/jeddah/tamees-house"
     },
     {
       "name": "Yaza",
       "cuisine": "Saudi Cuisine",
       "price": "$$$",
-      "path": "/saudi-arabia/jeddah/jeddah/Yaza"
+      "path": "/saudi-arabia/jeddah/jeddah/yaza"
     }
   ]
 }

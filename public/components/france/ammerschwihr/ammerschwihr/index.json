@@ -1,20 +1,27 @@
 {
   "title": "Ammerschwihr",
-  "country": "france",
-  "region": "ammerschwihr",
-  "city": "ammerschwihr",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ammerschwihr",
+  "city": "Ammerschwihr",
+  "citySlug": "ammerschwihr",
+  "path": "/france/ammerschwihr/ammerschwihr/restaurants",
+  "canonicalPath": "/france/ammerschwihr/ammerschwihr/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Restaurant Julien Binz",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/ammerschwihr/ammerschwihr/restaurant-julien-binz",
+      "award": "★"
+    },
     {
       "name": "Le Valtrivin",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/ammerschwihr/ammerschwihr/le-valtrivin"
-    },
-    {
-      "name": "Restaurant Julien Binz",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/ammerschwihr/ammerschwihr/restaurant-julien-binz"
     }
   ]
 }

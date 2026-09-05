@@ -1,20 +1,27 @@
 {
   "title": "Casas Ibez",
-  "country": "spain",
-  "region": "casas-ibez",
-  "city": "casas-ibez",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "casas-ibez",
+  "city": "Casas Ibez",
+  "citySlug": "casas-ibez",
+  "path": "/spain/casas-ibez/casas-ibez/restaurants",
+  "canonicalPath": "/spain/casas-ibez/casas-ibez/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Oba-",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/casas-ibez/casas-ibez/oba",
+      "award": "★"
+    },
     {
       "name": "Cañitas Maite Gastro",
       "cuisine": "Contemporary",
       "price": "€€€",
       "path": "/spain/casas-ibez/casas-ibez/caitas-maite-gastro"
-    },
-    {
-      "name": "Oba-",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/casas-ibez/casas-ibez/oba"
     }
   ]
 }

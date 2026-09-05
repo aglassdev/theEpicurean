@@ -1,20 +1,28 @@
 {
   "title": "Waalre",
-  "country": "netherlands",
-  "region": "waalre",
-  "city": "waalre",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "waalre",
+  "city": "Waalre",
+  "citySlug": "waalre",
+  "path": "/netherlands/waalre/waalre/restaurants",
+  "canonicalPath": "/netherlands/waalre/waalre/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "De Treeswijkhoeve",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/netherlands/waalre/waalre/de-treeswijkhoeve"
+      "path": "/netherlands/waalre/waalre/de-treeswijkhoeve",
+      "award": "★★"
     },
     {
       "name": "Eden",
       "cuisine": "Modern Cuisine, Modern French",
       "price": "€€€",
-      "path": "/netherlands/waalre/waalre/eden"
+      "path": "/netherlands/waalre/waalre/eden",
+      "award": "★"
     }
   ]
 }

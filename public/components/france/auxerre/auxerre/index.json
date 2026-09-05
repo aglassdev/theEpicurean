@@ -1,14 +1,20 @@
 {
   "title": "Auxerre",
-  "country": "france",
-  "region": "auxerre",
-  "city": "auxerre",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "auxerre",
+  "city": "Auxerre",
+  "citySlug": "auxerre",
+  "path": "/france/auxerre/auxerre/restaurants",
+  "canonicalPath": "/france/auxerre/auxerre/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "L'Aspérule",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/auxerre/auxerre/lasprule"
+      "path": "/france/auxerre/auxerre/lasprule-a-u-x"
     },
     {
       "name": "Le Noyo",

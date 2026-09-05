@@ -1,14 +1,21 @@
 {
   "title": "Flobecq",
-  "country": "belgium",
-  "region": "flobecq",
-  "city": "flobecq",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "flobecq",
+  "city": "Flobecq",
+  "citySlug": "flobecq",
+  "path": "/belgium/flobecq/flobecq/restaurants",
+  "canonicalPath": "/belgium/flobecq/flobecq/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Vieux Château",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/flobecq/flobecq/le-vieux-chteau"
+      "path": "/belgium/flobecq/flobecq/le-vieux-chteau",
+      "award": "★"
     }
   ]
 }

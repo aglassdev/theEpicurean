@@ -1,14 +1,20 @@
 {
   "title": "Payerne",
-  "country": "switzerland",
-  "region": "payerne",
-  "city": "payerne",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "payerne",
+  "city": "Payerne",
+  "citySlug": "payerne",
+  "path": "/switzerland/payerne/payerne/restaurants",
+  "canonicalPath": "/switzerland/payerne/payerne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Notre-Dame",
       "cuisine": "French, International",
       "price": "€€",
-      "path": "/switzerland/payerne/payerne/notre-dame"
+      "path": "/switzerland/payerne/payerne/notredame"
     }
   ]
 }

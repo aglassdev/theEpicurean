@@ -1,20 +1,26 @@
 {
-  "title": "Bassano Del Grappa",
-  "country": "italy",
-  "region": "bassano-del-grappa",
-  "city": "bassano-del-grappa",
+  "title": "Bassano del Grappa",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bassano-del-grappa",
+  "city": "Bassano del Grappa",
+  "citySlug": "bassano-del-grappa",
+  "path": "/italy/bassano-del-grappa/bassano-del-grappa/restaurants",
+  "canonicalPath": "/italy/bassano-del-grappa/bassano-del-grappa/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Ca' 7",
       "cuisine": "Seafood, Contemporary",
       "price": "€€€",
-      "path": "/italy/bassano-del-grappa/bassano-del-grappa/ca-7"
+      "path": "/italy/bassano-del-grappa/bassano-del-grappa/ca7"
     },
     {
       "name": "Impronta",
       "cuisine": "Italian Contemporary, Creative",
       "price": "€€€",
-      "path": "/italy/bassano-del-grappa/bassano-del-grappa/impronta"
+      "path": "/italy/bassano-del-grappa/bassano-del-grappa/impronta-b-a-s"
     }
   ]
 }

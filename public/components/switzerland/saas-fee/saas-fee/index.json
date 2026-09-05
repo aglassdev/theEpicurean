@@ -1,14 +1,20 @@
 {
   "title": "Saas Fee",
-  "country": "switzerland",
-  "region": "saas-fee",
-  "city": "saas-fee",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "saas-fee",
+  "city": "Saas Fee",
+  "citySlug": "saas-fee",
+  "path": "/switzerland/saas-fee/saas-fee/restaurants",
+  "canonicalPath": "/switzerland/saas-fee/saas-fee/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Brasserie 1809",
       "cuisine": "Modern Cuisine, Regional Cuisine",
       "price": "€€",
-      "path": "/switzerland/saas-fee/saas-fee/brasserie-1809"
+      "path": "/switzerland/saas-fee/saas-fee/brasserie1809"
     },
     {
       "name": "Zer Schlucht",

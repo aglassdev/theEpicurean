@@ -63,9 +63,19 @@ const HomePage = () => {
     return () => clearInterval(t);
   }, [paused, reduceMotion, n]);
 
-  // Count-up figures (skip the animation under reduced motion).
+  // Count-up figures — totals come from the generated manifest so they can't go
+  // stale; the constants below are only a floor if the fetch hasn't landed yet.
+  const [targets, setTargets] = useState({ restaurants: 29026, cities: 7788, countries: 169 });
   useEffect(() => {
-    const targets = { restaurants: 12650, cities: 3397, countries: 163 };
+    let live = true;
+    fetch('/data/destinations.json')
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (live && d?.totals?.atlas) setTargets(d.totals.atlas); })
+      .catch(() => {});
+    return () => { live = false; };
+  }, []);
+
+  useEffect(() => {
     if (reduceMotion) { setCounters(targets); return undefined; }
     let started = false;
     const obs = new IntersectionObserver(([e]) => {
@@ -85,7 +95,7 @@ const HomePage = () => {
     }, { threshold: 0.4 });
     if (countersRef.current) obs.observe(countersRef.current);
     return () => obs.disconnect();
-  }, [reduceMotion]);
+  }, [reduceMotion, targets]);
 
   const onTouchStart = (e) => { touch.current = { x: e.touches[0].clientX, active: true }; };
   const onTouchEnd = (e) => {

@@ -1,8 +1,14 @@
 {
   "title": "Carnello",
-  "country": "italy",
-  "region": "carnello",
-  "city": "carnello",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "carnello",
+  "city": "Carnello",
+  "citySlug": "carnello",
+  "path": "/italy/carnello/carnello/restaurants",
+  "canonicalPath": "/italy/carnello/carnello/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mingone",

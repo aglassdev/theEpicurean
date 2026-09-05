@@ -1,14 +1,21 @@
 {
   "title": "Replonges",
-  "country": "france",
-  "region": "replonges",
-  "city": "replonges",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "replonges",
+  "city": "Replonges",
+  "citySlug": "replonges",
+  "path": "/france/replonges/replonges/restaurants",
+  "canonicalPath": "/france/replonges/replonges/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Huchette",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/replonges/replonges/la-huchette"
+      "path": "/france/replonges/replonges/la-huchette",
+      "award": "★"
     }
   ]
 }

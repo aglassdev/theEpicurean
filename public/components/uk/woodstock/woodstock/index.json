@@ -1,8 +1,14 @@
 {
   "title": "Woodstock",
-  "country": "uk",
-  "region": "woodstock",
-  "city": "woodstock",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "woodstock",
+  "city": "Woodstock",
+  "citySlug": "woodstock",
+  "path": "/uk/woodstock/woodstock/restaurants",
+  "canonicalPath": "/uk/woodstock/woodstock/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Nest",

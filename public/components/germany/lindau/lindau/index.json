@@ -1,26 +1,34 @@
 {
   "title": "Lindau",
-  "country": "germany",
-  "region": "lindau",
-  "city": "lindau",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "lindau",
+  "city": "Lindau",
+  "citySlug": "lindau",
+  "path": "/germany/lindau/lindau/restaurants",
+  "canonicalPath": "/germany/lindau/lindau/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "KARRisma",
       "cuisine": "Creative, Farm to table",
       "price": "€€€€",
-      "path": "/germany/lindau/lindau/karrisma"
+      "path": "/germany/lindau/lindau/karrisma",
+      "award": "★"
+    },
+    {
+      "name": "VILLINO",
+      "cuisine": "Modern Cuisine, Asian Influences",
+      "price": "€€€€",
+      "path": "/germany/lindau/lindau/villino",
+      "award": "★"
     },
     {
       "name": "Valentin",
       "cuisine": "Contemporary, International",
       "price": "€€€",
       "path": "/germany/lindau/lindau/valentin"
-    },
-    {
-      "name": "VILLINO",
-      "cuisine": "Modern Cuisine, Asian Influences",
-      "price": "€€€€",
-      "path": "/germany/lindau/lindau/villino"
     }
   ]
 }

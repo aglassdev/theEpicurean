@@ -1,17 +1,28 @@
 {
   "title": "Modave",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "modave",
+  "city": "Modave",
+  "citySlug": "modave",
+  "path": "/belgium/modave/modave/restaurants",
+  "canonicalPath": "/belgium/modave/modave/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Roseraie",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/belgium/modave/modave/la-roseraie"
+      "path": "/belgium/modave/modave/la-roseraie",
+      "award": "★"
     },
     {
       "name": "La Roseraie Modave",
       "cuisine": "Modern French",
       "price": "$$$",
-      "path": "/belgium/modave/modave/LaRoseraieModave"
+      "path": "/belgium/modave/modave/la-roseraie-modave",
+      "award": "★"
     }
   ]
 }

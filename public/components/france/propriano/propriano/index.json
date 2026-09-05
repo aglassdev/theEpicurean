@@ -1,8 +1,14 @@
 {
   "title": "Propriano",
-  "country": "france",
-  "region": "propriano",
-  "city": "propriano",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "propriano",
+  "city": "Propriano",
+  "citySlug": "propriano",
+  "path": "/france/propriano/propriano/restaurants",
+  "canonicalPath": "/france/propriano/propriano/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Chez Parenti",

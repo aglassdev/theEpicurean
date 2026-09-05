@@ -1,14 +1,21 @@
 {
   "title": "Vejle",
-  "country": "denmark",
-  "region": "vejle",
-  "city": "vejle",
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "region": null,
+  "regionSlug": "vejle",
+  "city": "Vejle",
+  "citySlug": "vejle",
+  "path": "/denmark/vejle/vejle/restaurants",
+  "canonicalPath": "/denmark/vejle/vejle/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "LYST",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/denmark/vejle/vejle/lyst"
+      "path": "/denmark/vejle/vejle/lyst",
+      "award": "★"
     },
     {
       "name": "Treetop",

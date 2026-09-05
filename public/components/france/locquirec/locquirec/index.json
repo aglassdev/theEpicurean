@@ -1,8 +1,14 @@
 {
   "title": "Locquirec",
-  "country": "france",
-  "region": "locquirec",
-  "city": "locquirec",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "locquirec",
+  "city": "Locquirec",
+  "citySlug": "locquirec",
+  "path": "/france/locquirec/locquirec/restaurants",
+  "canonicalPath": "/france/locquirec/locquirec/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant du Port",

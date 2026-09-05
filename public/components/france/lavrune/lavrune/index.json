@@ -1,11 +1,20 @@
 {
-  "title": "Lavérune",
+  "title": "Lavrune",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lavrune",
+  "city": "Lavrune",
+  "citySlug": "lavrune",
+  "path": "/france/lavrune/lavrune/restaurants",
+  "canonicalPath": "/france/lavrune/lavrune/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de Biar",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/lavrune/lavrune/LaTableDeBiar"
+      "path": "/france/lavrune/lavrune/la-table-de-biar"
     }
   ]
 }

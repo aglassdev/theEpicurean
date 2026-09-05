@@ -1,35 +1,44 @@
 {
   "title": "Wiltshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South West",
+  "regionSlug": "south-west",
+  "city": "Wiltshire",
+  "citySlug": "wiltshire",
+  "path": "/uk/south-west/wiltshire/restaurants",
+  "canonicalPath": "/uk/south-west/wiltshire/restaurants",
+  "count": 5,
   "restaurants": [
-    {
-      "name": "The Bridge Tea Rooms",
-      "cuisine": "Afternoon Tea",
-      "price": "21.00",
-      "path": "/uk/south-west/wiltshire/TheBridgeTeaRooms"
-    },
     {
       "name": "Bishopstrow House",
       "cuisine": "Afternoon Tea",
       "price": "52.00",
-      "path": "/uk/south-west/wiltshire/BishopstrowHouse"
-    },
-    {
-      "name": "Woolley Grange",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/south-west/wiltshire/WoolleyGrange"
-    },
-    {
-      "name": "The Red Lion Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "18.95",
-      "path": "/uk/south-west/wiltshire/TheRedLionHotel"
+      "path": "/uk/south-west/wiltshire/bishopstrow-house"
     },
     {
       "name": "Chiseldon House",
       "cuisine": "Afternoon Tea",
       "price": "70.00",
-      "path": "/uk/south-west/wiltshire/ChiseldonHouse"
+      "path": "/uk/south-west/wiltshire/chiseldon-house"
+    },
+    {
+      "name": "The Bridge Tea Rooms",
+      "cuisine": "Afternoon Tea",
+      "price": "21.00",
+      "path": "/uk/south-west/wiltshire/the-bridge-tea-rooms"
+    },
+    {
+      "name": "The Red Lion Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "18.95",
+      "path": "/uk/south-west/wiltshire/the-red-lion-hotel"
+    },
+    {
+      "name": "Woolley Grange",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/south-west/wiltshire/woolley-grange"
     }
   ]
 }

@@ -1,59 +1,68 @@
 {
   "title": "Warwickshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "West Midlands",
+  "regionSlug": "west-midlands",
+  "city": "Warwickshire",
+  "citySlug": "warwickshire",
+  "path": "/uk/west-midlands/warwickshire/restaurants",
+  "canonicalPath": "/uk/west-midlands/warwickshire/restaurants",
+  "count": 9,
   "restaurants": [
     {
       "name": "Billesley Manor Hotel & Spa Stratford Upon Avon",
       "cuisine": "Afternoon Tea",
       "price": "25.00",
-      "path": "/uk/west-midlands/warwickshire/BillesleyManorHotelSpaStratfordUponAvon"
-    },
-    {
-      "name": "Stratford Manor",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/west-midlands/warwickshire/StratfordManor"
-    },
-    {
-      "name": "Whittle’s at Binswood",
-      "cuisine": "Afternoon Tea",
-      "price": "24.50",
-      "path": "/uk/west-midlands/warwickshire/WhittlesAtBinswood"
-    },
-    {
-      "name": "Vinteas by Beaumont Patisserie",
-      "cuisine": "Afternoon Tea",
-      "price": "76.00",
-      "path": "/uk/west-midlands/warwickshire/VinteasByBeaumontPatisserie"
-    },
-    {
-      "name": "Mallory Court Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/west-midlands/warwickshire/MalloryCourtHotel"
-    },
-    {
-      "name": "Lea Marston Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "19.95",
-      "path": "/uk/west-midlands/warwickshire/LeaMarstonHotel"
-    },
-    {
-      "name": "Hotel du Vin Stratford-upon-Avon",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/west-midlands/warwickshire/HotelDuVinStratforduponavon"
+      "path": "/uk/west-midlands/warwickshire/billesley-manor-hotel-spa-stratford-upon-avon"
     },
     {
       "name": "Ettington Park Hotel",
       "cuisine": "Afternoon Tea",
       "price": "35.00",
-      "path": "/uk/west-midlands/warwickshire/EttingtonParkHotel"
+      "path": "/uk/west-midlands/warwickshire/ettington-park-hotel"
+    },
+    {
+      "name": "Hotel du Vin Stratford-upon-Avon",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/west-midlands/warwickshire/hotel-du-vin-stratforduponavon"
+    },
+    {
+      "name": "Lea Marston Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "19.95",
+      "path": "/uk/west-midlands/warwickshire/lea-marston-hotel"
+    },
+    {
+      "name": "Mallory Court Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/west-midlands/warwickshire/mallory-court-hotel"
+    },
+    {
+      "name": "Stratford Manor",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/west-midlands/warwickshire/stratford-manor"
     },
     {
       "name": "The Arden Hotel",
       "cuisine": "Afternoon Tea",
       "price": "30.00",
-      "path": "/uk/west-midlands/warwickshire/TheArdenHotel"
+      "path": "/uk/west-midlands/warwickshire/the-arden-hotel"
+    },
+    {
+      "name": "Vinteas by Beaumont Patisserie",
+      "cuisine": "Afternoon Tea",
+      "price": "76.00",
+      "path": "/uk/west-midlands/warwickshire/vinteas-by-beaumont-patisserie"
+    },
+    {
+      "name": "Whittle’s at Binswood",
+      "cuisine": "Afternoon Tea",
+      "price": "24.50",
+      "path": "/uk/west-midlands/warwickshire/whittles-at-binswood"
     }
   ]
 }

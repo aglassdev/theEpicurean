@@ -1,6 +1,120 @@
 {
   "title": "Zurich",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "zurich",
+  "city": "Zurich",
+  "citySlug": "zurich",
+  "path": "/switzerland/zurich/zurich/restaurants",
+  "canonicalPath": "/switzerland/zurich/zurich/restaurants",
+  "count": 68,
   "restaurants": [
+    {
+      "name": "IGNIV Zürich by Andreas Caminada",
+      "cuisine": "Sharing, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/zurich/zurich/igniv-zrich-by-andreas-caminada",
+      "award": "★★"
+    },
+    {
+      "name": "The Counter",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/zurich/zurich/the-counter",
+      "award": "★★"
+    },
+    {
+      "name": "The Restaurant",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/zurich/zurich/the-restaurant",
+      "award": "★★"
+    },
+    {
+      "name": "Widder Restaurant",
+      "cuisine": "Modern French, Contemporary",
+      "price": "€€€€",
+      "path": "/switzerland/zurich/zurich/widder-restaurant",
+      "award": "★★"
+    },
+    {
+      "name": "Eden Kitchen & Bar",
+      "cuisine": "Italian, International",
+      "price": "€€€€",
+      "path": "/switzerland/zurich/zurich/eden-kitchen-bar",
+      "award": "★"
+    },
+    {
+      "name": "elmira",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/zurich/zurich/elmira",
+      "award": "★"
+    },
+    {
+      "name": "EquiTable",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/zurich/zurich/equitable",
+      "award": "★"
+    },
+    {
+      "name": "KLE",
+      "cuisine": "Vegan, Innovative",
+      "price": "€€€",
+      "path": "/switzerland/zurich/zurich/kle",
+      "award": "★"
+    },
+    {
+      "name": "La Rôtisserie",
+      "cuisine": "Contemporary, International",
+      "price": "€€€€",
+      "path": "/switzerland/zurich/zurich/la-rtisserie",
+      "award": "★"
+    },
+    {
+      "name": "Neue Taverne",
+      "cuisine": "Vegetarian, Modern Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/zurich/zurich/neue-taverne",
+      "award": "★"
+    },
+    {
+      "name": "ORSINI",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€€",
+      "path": "/switzerland/zurich/zurich/orsini",
+      "award": "★"
+    },
+    {
+      "name": "Shin",
+      "cuisine": "Japanese Contemporary",
+      "price": "€€€€",
+      "path": "/switzerland/zurich/zurich/shin",
+      "award": "★"
+    },
+    {
+      "name": "Wirtschaft im FRANZ",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/zurich/zurich/wirtschaft-im-franz",
+      "award": "★"
+    },
+    {
+      "name": "Wöschi",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/zurich/zurich/wschi",
+      "award": "★"
+    },
+    {
+      "name": "Rigiblick",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/switzerland/zurich/zurich/rigiblick",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Accademia del Gusto",
       "cuisine": "Italian, Mediterranean Cuisine",
@@ -23,7 +137,7 @@
       "name": "AuGust",
       "cuisine": "Meats and Grills",
       "price": "€€",
-      "path": "/switzerland/zurich/zurich/august"
+      "path": "/switzerland/zurich/zurich/august-z-u-r"
     },
     {
       "name": "AURA",
@@ -92,24 +206,6 @@
       "path": "/switzerland/zurich/zurich/didis-frieden"
     },
     {
-      "name": "Eden Kitchen & Bar",
-      "cuisine": "Italian, International",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/eden-kitchen-bar"
-    },
-    {
-      "name": "elmira",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/elmira"
-    },
-    {
-      "name": "EquiTable",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/equitable"
-    },
-    {
       "name": "Freilager La Cucina Colaianni",
       "cuisine": "Italian, French",
       "price": "€€€€",
@@ -152,12 +248,6 @@
       "path": "/switzerland/zurich/zurich/heugmper"
     },
     {
-      "name": "IGNIV Zürich by Andreas Caminada",
-      "cuisine": "Sharing, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/igniv-zrich-by-andreas-caminada"
-    },
-    {
       "name": "Josef",
       "cuisine": "European Contemporary",
       "price": "€€",
@@ -168,12 +258,6 @@
       "cuisine": "Classic French",
       "price": "€€€",
       "path": "/switzerland/zurich/zurich/kindli"
-    },
-    {
-      "name": "KLE",
-      "cuisine": "Vegan, Innovative",
-      "price": "€€€",
-      "path": "/switzerland/zurich/zurich/kle"
     },
     {
       "name": "Kronenhalle",
@@ -191,19 +275,13 @@
       "name": "La Muña",
       "cuisine": "Peruvian, Japanese Contemporary",
       "price": "€€€",
-      "path": "/switzerland/zurich/zurich/la-mua"
-    },
-    {
-      "name": "La Rôtisserie",
-      "cuisine": "Contemporary, International",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/la-rtisserie"
+      "path": "/switzerland/zurich/zurich/la-mua-z-u-r"
     },
     {
       "name": "La Scarpetta",
       "cuisine": "Italian",
       "price": "€€",
-      "path": "/switzerland/zurich/zurich/la-scarpetta"
+      "path": "/switzerland/zurich/zurich/la-scarpetta-z-u-r"
     },
     {
       "name": "La Soupière",
@@ -248,22 +326,10 @@
       "path": "/switzerland/zurich/zurich/mura"
     },
     {
-      "name": "Neue Taverne",
-      "cuisine": "Vegetarian, Modern Cuisine",
-      "price": "€€€",
-      "path": "/switzerland/zurich/zurich/neue-taverne"
-    },
-    {
       "name": "Ornellaia",
       "cuisine": "Italian",
       "price": "€€",
       "path": "/switzerland/zurich/zurich/ornellaia"
-    },
-    {
-      "name": "ORSINI",
-      "cuisine": "Italian Contemporary",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/orsini"
     },
     {
       "name": "parkhuus",
@@ -275,7 +341,13 @@
       "name": "Rechberg 1837",
       "cuisine": "Innovative, Swiss",
       "price": "€€€",
-      "path": "/switzerland/zurich/zurich/rechberg-1837"
+      "path": "/switzerland/zurich/zurich/rechberg1837"
+    },
+    {
+      "name": "rémy",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/zurich/zurich/rmy"
     },
     {
       "name": "Rigiblick Comfort Fine Dining",
@@ -290,16 +362,10 @@
       "path": "/switzerland/zurich/zurich/rigiblick-zriberg-beiz"
     },
     {
-      "name": "rémy",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/rmy"
-    },
-    {
       "name": "ROSI",
       "cuisine": "Country cooking, Farm to table",
       "price": "€€",
-      "path": "/switzerland/zurich/zurich/rosi"
+      "path": "/switzerland/zurich/zurich/rosi-z-u-r"
     },
     {
       "name": "Sablier",
@@ -314,16 +380,16 @@
       "path": "/switzerland/zurich/zurich/sala-of-tokyo"
     },
     {
-      "name": "Shin",
-      "cuisine": "Japanese Contemporary",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/shin"
-    },
-    {
       "name": "Silex",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
-      "path": "/switzerland/zurich/zurich/silex"
+      "path": "/switzerland/zurich/zurich/silex-z-u-r"
+    },
+    {
+      "name": "Soi 28 by Heilemann",
+      "cuisine": "Asian",
+      "price": "$$",
+      "path": "/switzerland/zurich/zurich/soi28-by-heilemann"
     },
     {
       "name": "Stapferstube da Rizzo",
@@ -336,24 +402,6 @@
       "cuisine": "Fusion, International",
       "price": "€€€",
       "path": "/switzerland/zurich/zurich/taos"
-    },
-    {
-      "name": "The Counter",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/the-counter"
-    },
-    {
-      "name": "The Restaurant",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/the-restaurant"
-    },
-    {
-      "name": "The Restaurant",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/the-restaurant"
     },
     {
       "name": "tsuru tsuru noodlebar",
@@ -374,12 +422,6 @@
       "path": "/switzerland/zurich/zurich/white-elephant"
     },
     {
-      "name": "Widder Restaurant",
-      "cuisine": "Modern French, Contemporary",
-      "price": "€€€€",
-      "path": "/switzerland/zurich/zurich/widder-restaurant"
-    },
-    {
       "name": "Williams ButchersTable am Bellevue",
       "cuisine": "Steakhouse, Meats and Grills",
       "price": "€€€",
@@ -390,30 +432,6 @@
       "cuisine": "Steakhouse, Meats and Grills",
       "price": "€€€",
       "path": "/switzerland/zurich/zurich/williams-butcherstable-am-hegibachplatz"
-    },
-    {
-      "name": "Wirtschaft im FRANZ",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€",
-      "path": "/switzerland/zurich/zurich/wirtschaft-im-franz"
-    },
-    {
-      "name": "Wöschi",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/switzerland/zurich/zurich/wschi"
-    },
-    {
-      "name": "Rigiblick",
-      "cuisine": "Farm to table",
-      "price": "$$",
-      "path": "/switzerland/zurich/zurich/Rigiblick"
-    },
-    {
-      "name": "Soi 28 by Heilemann",
-      "cuisine": "Asian",
-      "price": "$$",
-      "path": "/switzerland/zurich/zurich/Soi28ByHeilemann"
     }
   ]
 }

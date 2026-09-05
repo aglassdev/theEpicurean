@@ -1,0 +1,32 @@
+{
+  "title": "Duluth",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Georgia",
+  "regionSlug": "georgia",
+  "city": "Duluth",
+  "citySlug": "duluth",
+  "path": "/usa/georgia/duluth/restaurants",
+  "canonicalPath": "/usa/georgia/duluth/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Masterpiece",
+      "cuisine": "Chinese, Sichuan",
+      "price": "$$",
+      "path": "/usa/georgia/duluth/masterpiece"
+    },
+    {
+      "name": "Pho House",
+      "cuisine": "Vietnamese",
+      "price": "$",
+      "path": "/usa/georgia/duluth/pho-house"
+    },
+    {
+      "name": "Snackboxe Bistro",
+      "cuisine": "Lao, Street Food",
+      "price": "$$",
+      "path": "/usa/georgia/duluth/snackboxe-bistro"
+    }
+  ]
+}

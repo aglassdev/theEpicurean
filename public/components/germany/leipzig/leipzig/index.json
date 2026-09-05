@@ -1,6 +1,36 @@
 {
   "title": "Leipzig",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "leipzig",
+  "city": "Leipzig",
+  "citySlug": "leipzig",
+  "path": "/germany/leipzig/leipzig/restaurants",
+  "canonicalPath": "/germany/leipzig/leipzig/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "Frieda",
+      "cuisine": "Creative, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/leipzig/leipzig/frieda",
+      "award": "★"
+    },
+    {
+      "name": "Kuultivo",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/germany/leipzig/leipzig/kuultivo",
+      "award": "★"
+    },
+    {
+      "name": "Stadtpfeiffer",
+      "cuisine": "Creative, Modern French",
+      "price": "€€€€",
+      "path": "/germany/leipzig/leipzig/stadtpfeiffer",
+      "award": "★"
+    },
     {
       "name": "C'est la vie",
       "cuisine": "French, Modern Cuisine",
@@ -8,16 +38,10 @@
       "path": "/germany/leipzig/leipzig/cest-la-vie"
     },
     {
-      "name": "Frieda",
-      "cuisine": "Creative, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/leipzig/leipzig/frieda"
-    },
-    {
-      "name": "Kuultivo",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€",
-      "path": "/germany/leipzig/leipzig/kuultivo"
+      "name": "Gasthaus Helmut",
+      "cuisine": "Seasonal Cuisine",
+      "price": "$$",
+      "path": "/germany/leipzig/leipzig/gasthaus-helmut"
     },
     {
       "name": "Michaelis",
@@ -42,18 +66,6 @@
       "cuisine": "Farm to table",
       "price": "€€",
       "path": "/germany/leipzig/leipzig/schaarschmidts"
-    },
-    {
-      "name": "Stadtpfeiffer",
-      "cuisine": "Creative, Modern French",
-      "price": "€€€€",
-      "path": "/germany/leipzig/leipzig/stadtpfeiffer"
-    },
-    {
-      "name": "Gasthaus Helmut",
-      "cuisine": "Seasonal Cuisine",
-      "price": "$$",
-      "path": "/germany/leipzig/leipzig/GasthausHelmut"
     }
   ]
 }

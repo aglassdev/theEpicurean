@@ -1,8 +1,14 @@
 {
   "title": "Sitges",
-  "country": "spain",
-  "region": "sitges",
-  "city": "sitges",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "sitges",
+  "city": "Sitges",
+  "citySlug": "sitges",
+  "path": "/spain/sitges/sitges/restaurants",
+  "canonicalPath": "/spain/sitges/sitges/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Cocina Sitges",

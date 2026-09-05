@@ -1,119 +1,128 @@
 {
   "title": "Kent",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South East",
+  "regionSlug": "south-east",
+  "city": "Kent",
+  "citySlug": "kent",
+  "path": "/uk/south-east/kent/restaurants",
+  "canonicalPath": "/uk/south-east/kent/restaurants",
+  "count": 19,
   "restaurants": [
     {
-      "name": "Café Nucleus Chatham",
+      "name": "ABode Canterbury",
       "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/south-east/kent/CafNucleusChatham"
-    },
-    {
-      "name": "Broome Park Golf and Country Club",
-      "cuisine": "Afternoon Tea",
-      "price": "59.00",
-      "path": "/uk/south-east/kent/BroomeParkGolfAndCountryClub"
-    },
-    {
-      "name": "Bridgewood Manor",
-      "cuisine": "Afternoon Tea",
-      "price": "19.50",
-      "path": "/uk/south-east/kent/BridgewoodManor"
+      "price": "29.95",
+      "path": "/uk/south-east/kent/abode-canterbury"
     },
     {
       "name": "Brandshatch Place Hotel",
       "cuisine": "Afternoon Tea",
       "price": "35.00",
-      "path": "/uk/south-east/kent/BrandshatchPlaceHotel"
+      "path": "/uk/south-east/kent/brandshatch-place-hotel"
     },
     {
-      "name": "Spa Valley Railway",
-      "cuisine": "Afternoon Tea",
-      "price": "65.00",
-      "path": "/uk/south-east/kent/SpaValleyRailway"
-    },
-    {
-      "name": "Rowhill Grange",
-      "cuisine": "Afternoon Tea",
-      "price": "34.00",
-      "path": "/uk/south-east/kent/RowhillGrange"
-    },
-    {
-      "name": "The Romney at Mote House",
+      "name": "Bridgewood Manor",
       "cuisine": "Afternoon Tea",
       "price": "19.50",
-      "path": "/uk/south-east/kent/TheRomneyAtMoteHouse"
+      "path": "/uk/south-east/kent/bridgewood-manor"
     },
     {
-      "name": "Marco Pierre White Steakhouse at Clifton Hotel",
+      "name": "Broome Park Golf and Country Club",
       "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/south-east/kent/MarcoPierreWhiteSteakhouseAtCliftonHotel"
+      "price": "59.00",
+      "path": "/uk/south-east/kent/broome-park-golf-and-country-club"
     },
     {
-      "name": "The Ivy Tunbridge Wells",
+      "name": "Café Nucleus Chatham",
       "cuisine": "Afternoon Tea",
-      "price": "34.95",
-      "path": "/uk/south-east/kent/TheIvyTunbridgeWells"
-    },
-    {
-      "name": "Inn On The Lake",
-      "cuisine": "Afternoon Tea",
-      "price": "23.00",
-      "path": "/uk/south-east/kent/InnOnTheLake"
-    },
-    {
-      "name": "Hotel du Vin Tunbridge Wells",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/south-east/kent/HotelDuVinTunbridgeWells"
-    },
-    {
-      "name": "Hadlow Manor Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "42.00",
-      "path": "/uk/south-east/kent/HadlowManorHotel"
-    },
-    {
-      "name": "The Fairmile at Willicombe Park",
-      "cuisine": "Afternoon Tea",
-      "price": "19.95",
-      "path": "/uk/south-east/kent/TheFairmileAtWillicombePark"
-    },
-    {
-      "name": "Eastwell Manor",
-      "cuisine": "Afternoon Tea",
-      "price": "34.00",
-      "path": "/uk/south-east/kent/EastwellManor"
-    },
-    {
-      "name": "Donnington Manor Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/south-east/kent/DonningtonManorHotel"
-    },
-    {
-      "name": "Chilston Park Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/south-east/kent/ChilstonParkHotel"
-    },
-    {
-      "name": "Café Nucleus Rochester",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/south-east/kent/CafNucleusRochester"
+      "price": "28.00",
+      "path": "/uk/south-east/kent/caf-nucleus-chatham"
     },
     {
       "name": "Café Nucleus Rainham",
       "cuisine": "Afternoon Tea",
       "price": "35.00",
-      "path": "/uk/south-east/kent/CafNucleusRainham"
+      "path": "/uk/south-east/kent/caf-nucleus-rainham"
     },
     {
-      "name": "ABode Canterbury",
+      "name": "Café Nucleus Rochester",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/south-east/kent/caf-nucleus-rochester"
+    },
+    {
+      "name": "Chilston Park Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/south-east/kent/chilston-park-hotel"
+    },
+    {
+      "name": "Donnington Manor Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/south-east/kent/donnington-manor-hotel"
+    },
+    {
+      "name": "Eastwell Manor",
+      "cuisine": "Afternoon Tea",
+      "price": "34.00",
+      "path": "/uk/south-east/kent/eastwell-manor"
+    },
+    {
+      "name": "Hadlow Manor Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "42.00",
+      "path": "/uk/south-east/kent/hadlow-manor-hotel"
+    },
+    {
+      "name": "Hotel du Vin Tunbridge Wells",
       "cuisine": "Afternoon Tea",
       "price": "29.95",
-      "path": "/uk/south-east/kent/AbodeCanterbury"
+      "path": "/uk/south-east/kent/hotel-du-vin-tunbridge-wells"
+    },
+    {
+      "name": "Inn On The Lake",
+      "cuisine": "Afternoon Tea",
+      "price": "23.00",
+      "path": "/uk/south-east/kent/inn-on-the-lake"
+    },
+    {
+      "name": "Marco Pierre White Steakhouse at Clifton Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/south-east/kent/marco-pierre-white-steakhouse-at-clifton-hotel"
+    },
+    {
+      "name": "Rowhill Grange",
+      "cuisine": "Afternoon Tea",
+      "price": "34.00",
+      "path": "/uk/south-east/kent/rowhill-grange"
+    },
+    {
+      "name": "Spa Valley Railway",
+      "cuisine": "Afternoon Tea",
+      "price": "65.00",
+      "path": "/uk/south-east/kent/spa-valley-railway"
+    },
+    {
+      "name": "The Fairmile at Willicombe Park",
+      "cuisine": "Afternoon Tea",
+      "price": "19.95",
+      "path": "/uk/south-east/kent/the-fairmile-at-willicombe-park"
+    },
+    {
+      "name": "The Ivy Tunbridge Wells",
+      "cuisine": "Afternoon Tea",
+      "price": "34.95",
+      "path": "/uk/south-east/kent/the-ivy-tunbridge-wells"
+    },
+    {
+      "name": "The Romney at Mote House",
+      "cuisine": "Afternoon Tea",
+      "price": "19.50",
+      "path": "/uk/south-east/kent/the-romney-at-mote-house"
     }
   ]
 }

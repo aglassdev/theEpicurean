@@ -1,0 +1,44 @@
+{
+  "title": "St. Petersburg",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "other",
+  "city": "St. Petersburg",
+  "citySlug": "st-petersburg",
+  "path": "/usa/other/st-petersburg/restaurants",
+  "canonicalPath": "/usa/florida/st-petersburg/restaurants",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "Elliott Aster",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$$",
+      "path": "/usa/florida/st-petersburg/elliott-aster"
+    },
+    {
+      "name": "Fortu",
+      "cuisine": "Asian",
+      "price": "$$$",
+      "path": "/usa/florida/st-petersburg/fortu"
+    },
+    {
+      "name": "Il Ritorno",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/florida/st-petersburg/il-ritorno"
+    },
+    {
+      "name": "in between days",
+      "cuisine": "Japanese Contemporary",
+      "price": "$$",
+      "path": "/usa/florida/st-petersburg/in-between-days"
+    },
+    {
+      "name": "Sushi Sho Rexley",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/usa/florida/st-petersburg/sushi-sho-rexley"
+    }
+  ]
+}

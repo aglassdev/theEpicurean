@@ -1,0 +1,33 @@
+{
+  "title": "North Salem",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "New York",
+  "regionSlug": "newyork",
+  "city": "North Salem",
+  "citySlug": "north-salem",
+  "path": "/usa/newyork/north-salem/restaurants",
+  "canonicalPath": "/usa/newyork/north-salem/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "La Bastide by Andrea Calstier",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/usa/newyork/north-salem/la-bastide-by-andrea-calstier",
+      "award": "★"
+    },
+    {
+      "name": "Cenadou",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/usa/newyork/north-salem/cenadou"
+    },
+    {
+      "name": "Purdy's Farmer & the Fish",
+      "cuisine": "Seafood, American",
+      "price": "$$$",
+      "path": "/usa/newyork/north-salem/purdys-farmer-the-fish"
+    }
+  ]
+}

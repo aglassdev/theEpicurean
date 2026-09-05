@@ -1,20 +1,69 @@
 {
   "title": "Kuala Lumpur",
-  "country": "malaysia",
-  "region": "kuala-lumpur",
-  "city": "kuala-lumpur",
+  "country": "Malaysia",
+  "countrySlug": "malaysia",
+  "region": null,
+  "regionSlug": "kuala-lumpur",
+  "city": "Kuala Lumpur",
+  "citySlug": "kuala-lumpur",
+  "path": "/malaysia/kuala-lumpur/kuala-lumpur/restaurants",
+  "canonicalPath": "/malaysia/kuala-lumpur/kuala-lumpur/restaurants",
+  "count": 75,
   "restaurants": [
     {
-      "name": "Ah Hei Bak Kut Teh",
-      "cuisine": "Malaysian",
-      "price": "$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/ah-hei-bak-kut-teh"
+      "name": "Dewakan",
+      "cuisine": "Malaysian, Contemporary",
+      "price": "$$$$",
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/dewakan",
+      "award": "★★"
     },
     {
       "name": "Akar",
       "cuisine": "Malaysian, Contemporary",
       "price": "$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/akar"
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/akar",
+      "award": "★"
+    },
+    {
+      "name": "Beta",
+      "cuisine": "Malaysian, Contemporary",
+      "price": "$$$",
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/beta",
+      "award": "★"
+    },
+    {
+      "name": "Chim by Chef Noom",
+      "cuisine": "Thai contemporary",
+      "price": "$$$$",
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/chim-by-chef-noom",
+      "award": "★"
+    },
+    {
+      "name": "DC. by Darren Chin",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/dc-by-darren-chin",
+      "award": "★"
+    },
+    {
+      "name": "Molina",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/molina",
+      "award": "★"
+    },
+    {
+      "name": "Terra Dining",
+      "cuisine": "Malaysian, Contemporary",
+      "price": "$$$",
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/terra-dining",
+      "award": "★"
+    },
+    {
+      "name": "Ah Hei Bak Kut Teh",
+      "cuisine": "Malaysian",
+      "price": "$",
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/ah-hei-bak-kut-teh"
     },
     {
       "name": "Aliyaa",
@@ -41,12 +90,6 @@
       "path": "/malaysia/kuala-lumpur/kuala-lumpur/bar-kar"
     },
     {
-      "name": "Beta",
-      "cuisine": "Malaysian, Contemporary",
-      "price": "$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/beta"
-    },
-    {
       "name": "Bidou",
       "cuisine": "French",
       "price": "$$$",
@@ -63,12 +106,6 @@
       "cuisine": "French",
       "price": "$$$",
       "path": "/malaysia/kuala-lumpur/kuala-lumpur/caf-caf"
-    },
-    {
-      "name": "Chim by Chef Noom",
-      "cuisine": "Thai contemporary",
-      "price": "$$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/chim-by-chef-noom"
     },
     {
       "name": "Cilantro",
@@ -95,22 +132,10 @@
       "path": "/malaysia/kuala-lumpur/kuala-lumpur/dancing-fish"
     },
     {
-      "name": "DC. by Darren Chin",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/dc-by-darren-chin"
-    },
-    {
       "name": "De. Wan 1958 (Taman U Thant)",
       "cuisine": "Malaysian",
       "price": "$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/de-wan-1958-taman-u-thant"
-    },
-    {
-      "name": "Dewakan",
-      "cuisine": "Malaysian, Contemporary",
-      "price": "$$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/dewakan"
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/de-wan1958-taman-u-thant"
     },
     {
       "name": "Dominic",
@@ -170,7 +195,7 @@
       "name": "Hing Kee Bakuteh (121 Jalan Kepong)",
       "cuisine": "Malaysian",
       "price": "$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/hing-kee-bakuteh-121-jalan-kepong"
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/hing-kee-bakuteh121-jalan-kepong"
     },
     {
       "name": "Hor Poh Cuisine",
@@ -260,7 +285,7 @@
       "name": "Ling Long",
       "cuisine": "Innovative",
       "price": "$$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/ling-long"
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/ling-long-k-u-a"
     },
     {
       "name": "Malai",
@@ -272,25 +297,19 @@
       "name": "Marble 8",
       "cuisine": "Steakhouse",
       "price": "$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/marble-8"
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/marble8"
     },
     {
       "name": "Marini's on 57",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/marinis-on-57"
-    },
-    {
-      "name": "Molina",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/molina"
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/marinis-on57"
     },
     {
       "name": "MTR 1924",
       "cuisine": "Indian Vegetarian",
       "price": "$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/mtr-1924"
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/mtr1924"
     },
     {
       "name": "Nadodi",
@@ -404,19 +423,13 @@
       "name": "Tenmasa",
       "cuisine": "Tempura",
       "price": "$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/tenmasa"
+      "path": "/malaysia/kuala-lumpur/kuala-lumpur/tenmasa-k-u-a"
     },
     {
       "name": "Teochew Lao Er",
       "cuisine": "Teochew",
       "price": "$$",
       "path": "/malaysia/kuala-lumpur/kuala-lumpur/teochew-lao-er"
-    },
-    {
-      "name": "Terra Dining",
-      "cuisine": "Malaysian, Contemporary",
-      "price": "$$$",
-      "path": "/malaysia/kuala-lumpur/kuala-lumpur/terra-dining"
     },
     {
       "name": "The Brasserie",

@@ -1,8 +1,14 @@
 {
   "title": "Auch",
-  "country": "france",
-  "region": "auch",
-  "city": "auch",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "auch",
+  "city": "Auch",
+  "citySlug": "auch",
+  "path": "/france/auch/auch/restaurants",
+  "canonicalPath": "/france/auch/auch/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Domaine de Baulieu",

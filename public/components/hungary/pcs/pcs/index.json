@@ -1,17 +1,27 @@
 {
   "title": "Pcs",
+  "country": "Hungary",
+  "countrySlug": "hungary",
+  "region": null,
+  "regionSlug": "pcs",
+  "city": "Pcs",
+  "citySlug": "pcs",
+  "path": "/hungary/pcs/pcs/restaurants",
+  "canonicalPath": "/hungary/pcs/pcs/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Morzsa Konyha",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/hungary/pcs/pcs/morzsa-konyha",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Morzsa",
       "cuisine": "Contemporary, Hungarian",
       "price": "€€",
       "path": "/hungary/pcs/pcs/morzsa"
-    },
-    {
-      "name": "Morzsa Konyha",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/hungary/pcs/pcs/MorzsaKonyha"
     }
   ]
 }

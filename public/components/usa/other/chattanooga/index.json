@@ -1,0 +1,38 @@
+{
+  "title": "Chattanooga",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Tennessee",
+  "regionSlug": "other",
+  "city": "Chattanooga",
+  "citySlug": "chattanooga",
+  "path": "/usa/other/chattanooga/restaurants",
+  "canonicalPath": "/usa/other/chattanooga/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Easy Bistro",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/other/chattanooga/easy-bistro"
+    },
+    {
+      "name": "Little Coyote",
+      "cuisine": "Tex-Mex",
+      "price": "$$",
+      "path": "/usa/other/chattanooga/little-coyote"
+    },
+    {
+      "name": "Main Street Meats",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/other/chattanooga/main-street-meats"
+    },
+    {
+      "name": "The Rosecomb",
+      "cuisine": "American",
+      "price": "$$",
+      "path": "/usa/other/chattanooga/the-rosecomb"
+    }
+  ]
+}

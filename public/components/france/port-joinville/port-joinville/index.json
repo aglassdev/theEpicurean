@@ -1,8 +1,14 @@
 {
   "title": "Port Joinville",
-  "country": "france",
-  "region": "port-joinville",
-  "city": "port-joinville",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "port-joinville",
+  "city": "Port Joinville",
+  "citySlug": "port-joinville",
+  "path": "/france/port-joinville/port-joinville/restaurants",
+  "canonicalPath": "/france/port-joinville/port-joinville/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vent Debout - Hôtel Les Hautes Mers",

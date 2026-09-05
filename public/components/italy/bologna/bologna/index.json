@@ -1,6 +1,22 @@
 {
   "title": "Bologna",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bologna",
+  "city": "Bologna",
+  "citySlug": "bologna",
+  "path": "/italy/bologna/bologna/restaurants",
+  "canonicalPath": "/italy/bologna/bologna/restaurants",
+  "count": 19,
   "restaurants": [
+    {
+      "name": "I Portici",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/bologna/bologna/i-portici",
+      "award": "★"
+    },
     {
       "name": "Acqua Pazza",
       "cuisine": "Seafood, Traditional Cuisine",
@@ -38,12 +54,6 @@
       "path": "/italy/bologna/bologna/i-carracci"
     },
     {
-      "name": "I Portici",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/bologna/bologna/i-portici"
-    },
-    {
       "name": "La Porta Restaurant",
       "cuisine": "Creative",
       "price": "€€€",
@@ -65,13 +75,13 @@
       "name": "Osteria Bartolini",
       "cuisine": "Seafood, Mediterranean Cuisine",
       "price": "€",
-      "path": "/italy/bologna/bologna/osteria-bartolini"
+      "path": "/italy/bologna/bologna/osteria-bartolini-b-o-l"
     },
     {
       "name": "Posta",
       "cuisine": "Tuscan, Traditional Cuisine",
       "price": "€",
-      "path": "/italy/bologna/bologna/posta"
+      "path": "/italy/bologna/bologna/posta-b-o-l"
     },
     {
       "name": "Sale Grosso",
@@ -113,7 +123,7 @@
       "name": "Zivieri",
       "cuisine": "Emilian",
       "price": "$$",
-      "path": "/italy/bologna/bologna/Zivieri"
+      "path": "/italy/bologna/bologna/zivieri"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "title": "Chamalires",
-  "country": "france",
-  "region": "chamalires",
-  "city": "chamalires",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chamalires",
+  "city": "Chamalires",
+  "citySlug": "chamalires",
+  "path": "/france/chamalires/chamalires/restaurants",
+  "canonicalPath": "/france/chamalires/chamalires/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Radio",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/chamalires/chamalires/radio",
+      "award": "★"
+    },
     {
       "name": "Le Welcome",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/chamalires/chamalires/le-welcome"
-    },
-    {
-      "name": "Radio",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/chamalires/chamalires/radio"
     }
   ]
 }

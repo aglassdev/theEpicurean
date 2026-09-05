@@ -1,14 +1,21 @@
 {
-  "title": "Hall In Tirol",
-  "country": "austria",
-  "region": "hall-in-tirol",
-  "city": "hall-in-tirol",
+  "title": "Hall in Tirol",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "hall-in-tirol",
+  "city": "Hall in Tirol",
+  "citySlug": "hall-in-tirol",
+  "path": "/austria/hall-in-tirol/hall-in-tirol/restaurants",
+  "canonicalPath": "/austria/hall-in-tirol/hall-in-tirol/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Schwarzer Adler",
       "cuisine": "European Contemporary",
       "price": "€€€€",
-      "path": "/austria/hall-in-tirol/hall-in-tirol/schwarzer-adler"
+      "path": "/austria/hall-in-tirol/hall-in-tirol/schwarzer-adler",
+      "award": "★★"
     },
     {
       "name": "Secco",

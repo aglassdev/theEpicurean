@@ -1,14 +1,21 @@
 {
   "title": "Cully",
-  "country": "france",
-  "region": "cully",
-  "city": "cully",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cully",
+  "city": "Cully",
+  "citySlug": "cully",
+  "path": "/france/cully/cully/restaurants",
+  "canonicalPath": "/france/cully/cully/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Saisons",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/cully/cully/saisons"
+      "path": "/france/cully/cully/saisons",
+      "award": "★"
     }
   ]
 }

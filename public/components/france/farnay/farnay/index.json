@@ -1,8 +1,14 @@
 {
   "title": "Farnay",
-  "country": "france",
-  "region": "farnay",
-  "city": "farnay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "farnay",
+  "city": "Farnay",
+  "citySlug": "farnay",
+  "path": "/france/farnay/farnay/restaurants",
+  "canonicalPath": "/france/farnay/farnay/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Maison Forte",

@@ -1,0 +1,26 @@
+{
+  "title": "Manhattan Beach",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Manhattan Beach",
+  "citySlug": "manhattan-beach",
+  "path": "/usa/other/manhattan-beach/restaurants",
+  "canonicalPath": "/usa/california/manhattan-beach/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Fishing with Dynamite",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/usa/california/manhattan-beach/fishing-with-dynamite"
+    },
+    {
+      "name": "Manhattan Beach Post",
+      "cuisine": "International",
+      "price": "$$",
+      "path": "/usa/california/manhattan-beach/manhattan-beach-post"
+    }
+  ]
+}

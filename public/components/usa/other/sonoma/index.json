@@ -1,0 +1,39 @@
+{
+  "title": "Sonoma",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Sonoma",
+  "citySlug": "sonoma",
+  "path": "/usa/other/sonoma/restaurants",
+  "canonicalPath": "/usa/california/sonoma/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Enclos",
+      "cuisine": "Contemporary, Californian",
+      "price": "$$$$",
+      "path": "/usa/california/sonoma/enclos",
+      "award": "★★"
+    },
+    {
+      "name": "Cafe La Haye",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/sonoma/cafe-la-haye"
+    },
+    {
+      "name": "El Molino Central",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/usa/california/sonoma/el-molino-central"
+    },
+    {
+      "name": "Valley",
+      "cuisine": "Californian",
+      "price": "$$",
+      "path": "/usa/california/sonoma/valley"
+    }
+  ]
+}

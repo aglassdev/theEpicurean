@@ -1,5 +1,14 @@
 {
-  "title": "St Andrews",
+  "title": "St. Andrews",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "st-andrews",
+  "city": "St. Andrews",
+  "citySlug": "st-andrews",
+  "path": "/uk/st-andrews/st-andrews/restaurants",
+  "canonicalPath": "/uk/st-andrews/st-andrews/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Haar",
@@ -11,7 +20,7 @@
       "name": "Ondine",
       "cuisine": "Seafood",
       "price": "£££",
-      "path": "/uk/st-andrews/st-andrews/ondine"
+      "path": "/uk/st-andrews/st-andrews/ondine-s-t-a"
     },
     {
       "name": "Seafood Ristorante",
@@ -23,7 +32,7 @@
       "name": "The Seafood Ristorante",
       "cuisine": "Seafood",
       "price": "$$$$",
-      "path": "/uk/st-andrews/st-andrews/TheSeafoodRistorante"
+      "path": "/uk/st-andrews/st-andrews/the-seafood-ristorante"
     }
   ]
 }

@@ -1,23 +1,33 @@
 {
-  "title": "Łódź",
+  "title": "D",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "d",
+  "city": "D",
+  "citySlug": "d",
+  "path": "/poland/d/d/restaurants",
+  "canonicalPath": "/poland/d/d/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Acanti",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/poland/d/d/Acanti"
+      "path": "/poland/d/d/acanti",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Malinowa",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/poland/d/d/Malinowa"
+      "path": "/poland/d/d/malinowa"
     },
     {
       "name": "Ogień i Sól",
       "cuisine": "Meats and Grills",
       "price": "$$$",
-      "path": "/poland/d/d/OgieISl"
+      "path": "/poland/d/d/ogie-i-sl"
     }
   ]
 }

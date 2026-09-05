@@ -1,8 +1,14 @@
 {
   "title": "Rekkem",
-  "country": "belgium",
-  "region": "rekkem",
-  "city": "rekkem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "rekkem",
+  "city": "Rekkem",
+  "citySlug": "rekkem",
+  "path": "/belgium/rekkem/rekkem/restaurants",
+  "canonicalPath": "/belgium/rekkem/rekkem/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Cravache",

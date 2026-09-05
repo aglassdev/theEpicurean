@@ -1,11 +1,21 @@
 {
   "title": "Breitenbach",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "breitenbach",
+  "city": "Breitenbach",
+  "citySlug": "breitenbach",
+  "path": "/france/breitenbach/breitenbach/restaurants",
+  "canonicalPath": "/france/breitenbach/breitenbach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "NYD - 48° Nord",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/breitenbach/breitenbach/Nyd48Nord"
+      "path": "/france/breitenbach/breitenbach/nyd48-nord",
+      "award": "Green Star"
     }
   ]
 }

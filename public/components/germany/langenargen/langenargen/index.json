@@ -1,14 +1,20 @@
 {
   "title": "Langenargen",
-  "country": "germany",
-  "region": "langenargen",
-  "city": "langenargen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "langenargen",
+  "city": "Langenargen",
+  "citySlug": "langenargen",
+  "path": "/germany/langenargen/langenargen/restaurants",
+  "canonicalPath": "/germany/langenargen/langenargen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Schuppen 13",
       "cuisine": "Italian, Farm to table",
       "price": "€€",
-      "path": "/germany/langenargen/langenargen/schuppen-13"
+      "path": "/germany/langenargen/langenargen/schuppen13"
     }
   ]
 }

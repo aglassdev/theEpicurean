@@ -1,11 +1,21 @@
 {
-  "title": "Birštonas",
+  "title": "Birtonas",
+  "country": "Lithuania",
+  "countrySlug": "lithuania",
+  "region": null,
+  "regionSlug": "birtonas",
+  "city": "Birtonas",
+  "citySlug": "birtonas",
+  "path": "/lithuania/birtonas/birtonas/restaurants",
+  "canonicalPath": "/lithuania/birtonas/birtonas/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pievos",
       "cuisine": "European Contemporary",
       "price": "$$",
-      "path": "/lithuania/birtonas/birtonas/Pievos"
+      "path": "/lithuania/birtonas/birtonas/pievos",
+      "award": "Bib Gourmand"
     }
   ]
 }

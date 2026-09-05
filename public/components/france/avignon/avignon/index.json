@@ -1,11 +1,34 @@
 {
   "title": "Avignon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "avignon",
+  "city": "Avignon",
+  "citySlug": "avignon",
+  "path": "/france/avignon/avignon/restaurants",
+  "canonicalPath": "/france/avignon/avignon/restaurants",
+  "count": 17,
   "restaurants": [
+    {
+      "name": "La Mirande",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/avignon/avignon/la-mirande",
+      "award": "★"
+    },
+    {
+      "name": "Pollen",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/avignon/avignon/pollen",
+      "award": "★"
+    },
     {
       "name": "Acte 2",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/avignon/avignon/acte-2"
+      "path": "/france/avignon/avignon/acte2"
     },
     {
       "name": "Bibendum",
@@ -14,16 +37,34 @@
       "path": "/france/avignon/avignon/bibendum"
     },
     {
+      "name": "Café Roma",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/france/avignon/avignon/caf-roma"
+    },
+    {
       "name": "Hiély-Lucullus",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/avignon/avignon/hily-lucullus"
+      "path": "/france/avignon/avignon/hilylucullus"
     },
     {
       "name": "Italie là-bas",
       "cuisine": "Italian",
       "price": "€€€",
-      "path": "/france/avignon/avignon/italie-l-bas"
+      "path": "/france/avignon/avignon/italie-lbas"
+    },
+    {
+      "name": "Italie là-bas Ré",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/france/avignon/avignon/italie-lbas-r"
+    },
+    {
+      "name": "L'Agape",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/avignon/avignon/lagape"
     },
     {
       "name": "La Fourchette",
@@ -32,22 +73,16 @@
       "path": "/france/avignon/avignon/la-fourchette"
     },
     {
-      "name": "La Mirande",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/avignon/avignon/la-mirande"
+      "name": "La Grande Brasserie BIB",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/avignon/avignon/la-grande-brasserie-bib"
     },
     {
       "name": "La Vieille Fontaine",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/avignon/avignon/la-vieille-fontaine"
-    },
-    {
-      "name": "L'Agape",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/avignon/avignon/lagape"
     },
     {
       "name": "Le Goût du Jour",
@@ -65,13 +100,7 @@
       "name": "Numéro 75",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/avignon/avignon/numro-75"
-    },
-    {
-      "name": "Pollen",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/avignon/avignon/pollen"
+      "path": "/france/avignon/avignon/numro75"
     },
     {
       "name": "Première édition",
@@ -84,24 +113,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/avignon/avignon/sevin"
-    },
-    {
-      "name": "Café Roma",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/france/avignon/avignon/CafRoma"
-    },
-    {
-      "name": "Italie là-bas Ré",
-      "cuisine": "Italian",
-      "price": "$$$",
-      "path": "/france/avignon/avignon/ItalieLbasR"
-    },
-    {
-      "name": "La Grande Brasserie BIB",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/france/avignon/avignon/LaGrandeBrasserieBib"
     }
   ]
 }

@@ -1,17 +1,62 @@
 {
   "title": "Porto",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "porto",
+  "city": "Porto",
+  "citySlug": "porto",
+  "path": "/portugal/porto/porto/restaurants",
+  "canonicalPath": "/portugal/porto/porto/restaurants",
+  "count": 29,
   "restaurants": [
+    {
+      "name": "Antiqvvm",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/portugal/porto/porto/antiqvvm",
+      "award": "★★"
+    },
+    {
+      "name": "Blind",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/portugal/porto/porto/blind",
+      "award": "★"
+    },
+    {
+      "name": "Euskalduna Studio",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/porto/porto/euskalduna-studio",
+      "award": "★"
+    },
+    {
+      "name": "Le Monument",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/portugal/porto/porto/le-monument",
+      "award": "★"
+    },
+    {
+      "name": "Pedro Lemos",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/porto/porto/pedro-lemos",
+      "award": "★"
+    },
+    {
+      "name": "Vila Foz",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/portugal/porto/porto/vila-foz",
+      "award": "★"
+    },
     {
       "name": "Almeja",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/portugal/porto/porto/almeja"
-    },
-    {
-      "name": "Antiqvvm",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/portugal/porto/porto/antiqvvm"
     },
     {
       "name": "Apego",
@@ -20,16 +65,34 @@
       "path": "/portugal/porto/porto/apego"
     },
     {
-      "name": "Blind",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/portugal/porto/porto/blind"
+      "name": "Atrevo",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/porto/porto/atrevo"
+    },
+    {
+      "name": "Bistrô Severo",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/portugal/porto/porto/bistr-severo"
     },
     {
       "name": "Cafeína",
       "cuisine": "International",
       "price": "€€",
       "path": "/portugal/porto/porto/cafena"
+    },
+    {
+      "name": "Camilo",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/portugal/porto/porto/camilo"
+    },
+    {
+      "name": "Cozinha das Flores",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/portugal/porto/porto/cozinha-das-flores"
     },
     {
       "name": "Culto ao Bacalhau",
@@ -48,12 +111,6 @@
       "cuisine": "Modern Cuisine, Grills",
       "price": "€€€",
       "path": "/portugal/porto/porto/elemento"
-    },
-    {
-      "name": "Euskalduna Studio",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/porto/porto/euskalduna-studio"
     },
     {
       "name": "Fauno",
@@ -80,16 +137,22 @@
       "path": "/portugal/porto/porto/in-diferente"
     },
     {
+      "name": "Izakaya Japanese Cuisine",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/portugal/porto/porto/izakaya-japanese-cuisine"
+    },
+    {
       "name": "Kaigi",
       "cuisine": "Japanese",
       "price": "€€",
       "path": "/portugal/porto/porto/kaigi"
     },
     {
-      "name": "Le Monument",
+      "name": "Liz",
       "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/portugal/porto/porto/le-monument"
+      "price": "$$",
+      "path": "/portugal/porto/porto/liz"
     },
     {
       "name": "Mito",
@@ -110,22 +173,10 @@
       "path": "/portugal/porto/porto/oma"
     },
     {
-      "name": "OMA",
-      "cuisine": "Contemporary, Traditional Cuisine",
-      "price": "€€",
-      "path": "/portugal/porto/porto/oma"
-    },
-    {
-      "name": "Pedro Lemos",
-      "cuisine": "Contemporary, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/porto/porto/pedro-lemos"
-    },
-    {
       "name": "Pátio 44",
       "cuisine": "Traditional Cuisine",
       "price": "€",
-      "path": "/portugal/porto/porto/ptio-44"
+      "path": "/portugal/porto/porto/ptio44"
     },
     {
       "name": "Real by Casa da Calçada",
@@ -138,48 +189,6 @@
       "cuisine": "Japanese",
       "price": "€€",
       "path": "/portugal/porto/porto/tokkotai"
-    },
-    {
-      "name": "Vila Foz",
-      "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/portugal/porto/porto/vila-foz"
-    },
-    {
-      "name": "Atrevo",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/portugal/porto/porto/Atrevo"
-    },
-    {
-      "name": "Bistrô Severo",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/portugal/porto/porto/BistrSevero"
-    },
-    {
-      "name": "Camilo",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/portugal/porto/porto/Camilo"
-    },
-    {
-      "name": "Cozinha das Flores",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/portugal/porto/porto/CozinhaDasFlores"
-    },
-    {
-      "name": "Izakaya Japanese Cuisine",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/portugal/porto/porto/IzakayaJapaneseCuisine"
-    },
-    {
-      "name": "Liz",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/portugal/porto/porto/Liz"
     }
   ]
 }

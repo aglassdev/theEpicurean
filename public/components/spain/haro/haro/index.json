@@ -1,20 +1,27 @@
 {
   "title": "Haro",
-  "country": "spain",
-  "region": "haro",
-  "city": "haro",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "haro",
+  "city": "Haro",
+  "citySlug": "haro",
+  "path": "/spain/haro/haro/restaurants",
+  "canonicalPath": "/spain/haro/haro/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Nublo",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/haro/haro/nublo",
+      "award": "★"
+    },
     {
       "name": "Los Caños",
       "cuisine": "Regional Cuisine, Traditional Cuisine",
       "price": "€€",
       "path": "/spain/haro/haro/los-caos"
-    },
-    {
-      "name": "Nublo",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/haro/haro/nublo"
     }
   ]
 }

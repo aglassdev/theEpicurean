@@ -1,8 +1,14 @@
 {
   "title": "Tours",
-  "country": "france",
-  "region": "tours",
-  "city": "tours",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tours",
+  "city": "Tours",
+  "citySlug": "tours",
+  "path": "/france/tours/tours/restaurants",
+  "canonicalPath": "/france/tours/tours/restaurants",
+  "count": 7,
   "restaurants": [
     {
       "name": "Case.",
@@ -14,7 +20,7 @@
       "name": "Casse-Cailloux",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/tours/tours/casse-cailloux"
+      "path": "/france/tours/tours/cassecailloux"
     },
     {
       "name": "La Deuvalière",

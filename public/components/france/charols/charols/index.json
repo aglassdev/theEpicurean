@@ -1,14 +1,21 @@
 {
   "title": "Charols",
-  "country": "france",
-  "region": "charols",
-  "city": "charols",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "charols",
+  "city": "Charols",
+  "citySlug": "charols",
+  "path": "/france/charols/charols/restaurants",
+  "canonicalPath": "/france/charols/charols/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lavandin - Château Les Oliviers de Salettes",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/charols/charols/lavandin-chteau-les-oliviers-de-salettes"
+      "path": "/france/charols/charols/lavandin-chteau-les-oliviers-de-salettes",
+      "award": "★"
     }
   ]
 }

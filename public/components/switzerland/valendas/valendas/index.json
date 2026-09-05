@@ -1,8 +1,14 @@
 {
   "title": "Valendas",
-  "country": "switzerland",
-  "region": "valendas",
-  "city": "valendas",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "valendas",
+  "city": "Valendas",
+  "citySlug": "valendas",
+  "path": "/switzerland/valendas/valendas/restaurants",
+  "canonicalPath": "/switzerland/valendas/valendas/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthaus am Brunnen",

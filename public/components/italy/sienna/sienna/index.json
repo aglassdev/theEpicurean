@@ -1,8 +1,14 @@
 {
   "title": "Sienna",
-  "country": "italy",
-  "region": "sienna",
-  "city": "sienna",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "sienna",
+  "city": "Sienna",
+  "citySlug": "sienna",
+  "path": "/italy/sienna/sienna/restaurants",
+  "canonicalPath": "/italy/sienna/sienna/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Campo Cedro",

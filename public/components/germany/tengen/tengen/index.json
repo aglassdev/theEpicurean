@@ -1,8 +1,14 @@
 {
   "title": "Tengen",
-  "country": "germany",
-  "region": "tengen",
-  "city": "tengen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "tengen",
+  "city": "Tengen",
+  "citySlug": "tengen",
+  "path": "/germany/tengen/tengen/restaurants",
+  "canonicalPath": "/germany/tengen/tengen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthof zur Sonne",

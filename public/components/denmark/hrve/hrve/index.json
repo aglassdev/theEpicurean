@@ -1,14 +1,21 @@
 {
   "title": "Hrve",
-  "country": "denmark",
-  "region": "hrve",
-  "city": "hrve",
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "region": null,
+  "regionSlug": "hrve",
+  "city": "Hrve",
+  "citySlug": "hrve",
+  "path": "/denmark/hrve/hrve/restaurants",
+  "canonicalPath": "/denmark/hrve/hrve/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Dragsholm Slot Gourmet",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/denmark/hrve/hrve/dragsholm-slot-gourmet"
+      "path": "/denmark/hrve/hrve/dragsholm-slot-gourmet",
+      "award": "★"
     }
   ]
 }

@@ -12,7 +12,7 @@
  *
  * It produces three things:
  *   1. A detail page  public/components/{country}/{region}/{city}/{Name}.json
- *   2. A city listing public/components/{country}/{region}/{city}/index.json
+ *   2. City listings + the browse tree, via scripts/buildDestinations.js
  *   3. Atlas pins in  public/data/restaurants-geo.json  (merged, deduped)
  *
  * HANDMADE PAGES ARE NEVER TOUCHED. Any restaurant whose component name
@@ -322,23 +322,10 @@ for (const p of pagesToWrite) {
 }
 process.stdout.write(`\r  pages written ${written}/${pagesToWrite.length}\n`);
 
-let idx = 0;
-for (const [relDir, listing] of cityIndex) {
-  const file = path.join(COMPONENTS, relDir, 'index.json');
-  let out = listing;
-  if (fs.existsSync(file)) {
-    try {
-      const prev = JSON.parse(fs.readFileSync(file, 'utf8'));
-      const have = new Set((prev.restaurants || []).map((x) => x.path));
-      out = { title: prev.title || listing.title,
-        restaurants: [...(prev.restaurants || []), ...listing.restaurants.filter((x) => !have.has(x.path))] };
-    } catch { /* overwrite a corrupt index */ }
-  }
-  fs.mkdirSync(path.dirname(file), { recursive: true });
-  fs.writeFileSync(file, JSON.stringify(out, null, 2));
-  idx++;
-}
-console.log(`  city listings written ${idx}`);
+// City listings are owned by buildDestinations.js, which regenerates every
+// index.json from what is actually on disk (and normalises the messy slugs).
+// Run it here so an import always leaves the browse tree consistent.
+console.log(`  city listings   deferred to buildDestinations (${cityIndex.size} cities touched)`);
 
 fs.mkdirSync(path.dirname(GEO_PATH), { recursive: true });
 fs.writeFileSync(GEO_PATH, JSON.stringify({
@@ -346,3 +333,7 @@ fs.writeFileSync(GEO_PATH, JSON.stringify({
   provider: 'dataset-coordinates', restaurants: geoAll,
 }));
 console.log(`  atlas written ${geoAll.length} pins → ${path.relative(ROOT, GEO_PATH)}\n✓ done.\n`);
+
+// Keep the browse tree in step with the pages just written.
+const { execFileSync } = await import('node:child_process');
+execFileSync(process.execPath, [path.join(__dirname, 'buildDestinations.js')], { stdio: 'inherit' });

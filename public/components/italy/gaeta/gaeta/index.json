@@ -1,8 +1,14 @@
 {
   "title": "Gaeta",
-  "country": "italy",
-  "region": "gaeta",
-  "city": "gaeta",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "gaeta",
+  "city": "Gaeta",
+  "citySlug": "gaeta",
+  "path": "/italy/gaeta/gaeta/restaurants",
+  "canonicalPath": "/italy/gaeta/gaeta/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Dolia Gaeta",

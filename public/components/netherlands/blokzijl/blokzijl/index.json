@@ -1,14 +1,21 @@
 {
   "title": "Blokzijl",
-  "country": "netherlands",
-  "region": "blokzijl",
-  "city": "blokzijl",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "blokzijl",
+  "city": "Blokzijl",
+  "citySlug": "blokzijl",
+  "path": "/netherlands/blokzijl/blokzijl/restaurants",
+  "canonicalPath": "/netherlands/blokzijl/blokzijl/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Kaatje bij de Sluis",
       "cuisine": "Organic, Creative French",
       "price": "€€€€",
-      "path": "/netherlands/blokzijl/blokzijl/kaatje-bij-de-sluis"
+      "path": "/netherlands/blokzijl/blokzijl/kaatje-bij-de-sluis",
+      "award": "★"
     }
   ]
 }

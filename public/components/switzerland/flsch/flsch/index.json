@@ -1,14 +1,20 @@
 {
   "title": "Flsch",
-  "country": "switzerland",
-  "region": "flsch",
-  "city": "flsch",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "flsch",
+  "city": "Flsch",
+  "citySlug": "flsch",
+  "path": "/switzerland/flsch/flsch/restaurants",
+  "canonicalPath": "/switzerland/flsch/flsch/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Adler",
       "cuisine": "Seasonal Cuisine, Modern French",
       "price": "€€€",
-      "path": "/switzerland/flsch/flsch/adler"
+      "path": "/switzerland/flsch/flsch/adler-f-l-s"
     },
     {
       "name": "PINOT",

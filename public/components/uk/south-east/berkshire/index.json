@@ -1,101 +1,110 @@
 {
   "title": "Berkshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South East",
+  "regionSlug": "south-east",
+  "city": "Berkshire",
+  "citySlug": "berkshire",
+  "path": "/uk/south-east/berkshire/restaurants",
+  "canonicalPath": "/uk/south-east/berkshire/restaurants",
+  "count": 16,
   "restaurants": [
     {
       "name": "Blandy's at Inglewood",
       "cuisine": "Afternoon Tea",
       "price": "24.95",
-      "path": "/uk/south-east/berkshire/BlandysAtInglewood"
-    },
-    {
-      "name": "Taplow House",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/south-east/berkshire/TaplowHouse"
-    },
-    {
-      "name": "Monkey Island Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/south-east/berkshire/MonkeyIslandHotel"
-    },
-    {
-      "name": "Malmaison Reading",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/south-east/berkshire/MalmaisonReading"
-    },
-    {
-      "name": "Macdonald Windsor Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/south-east/berkshire/MacdonaldWindsorHotel"
-    },
-    {
-      "name": "Kempton’s at Sunningdale Park",
-      "cuisine": "Afternoon Tea",
-      "price": "32.00",
-      "path": "/uk/south-east/berkshire/KemptonsAtSunningdalePark"
-    },
-    {
-      "name": "The Ivy Windsor",
-      "cuisine": "Afternoon Tea",
-      "price": "34.95",
-      "path": "/uk/south-east/berkshire/TheIvyWindsor"
-    },
-    {
-      "name": "The Hare and Hounds",
-      "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/south-east/berkshire/TheHareAndHounds"
-    },
-    {
-      "name": "Easthampstead Park",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/south-east/berkshire/EasthampsteadPark"
-    },
-    {
-      "name": "De Vere Wokefield Estate Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/south-east/berkshire/DeVereWokefieldEstateHotel"
-    },
-    {
-      "name": "Crowne Plaza Reading",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/south-east/berkshire/CrownePlazaReading"
-    },
-    {
-      "name": "Coworth Park",
-      "cuisine": "Afternoon Tea",
-      "price": "60.00",
-      "path": "/uk/south-east/berkshire/CoworthPark"
-    },
-    {
-      "name": "Cliveden House",
-      "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/south-east/berkshire/ClivedenHouse"
-    },
-    {
-      "name": "The Castle Hotel Windsor",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/south-east/berkshire/TheCastleHotelWindsor"
-    },
-    {
-      "name": "Caprice at Crowne Plaza Reading East",
-      "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/south-east/berkshire/CapriceAtCrownePlazaReadingEast"
+      "path": "/uk/south-east/berkshire/blandys-at-inglewood"
     },
     {
       "name": "Cantley House Hotel",
       "cuisine": "Afternoon Tea",
       "price": "28.00",
-      "path": "/uk/south-east/berkshire/CantleyHouseHotel"
+      "path": "/uk/south-east/berkshire/cantley-house-hotel"
+    },
+    {
+      "name": "Caprice at Crowne Plaza Reading East",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/south-east/berkshire/caprice-at-crowne-plaza-reading-east"
+    },
+    {
+      "name": "Cliveden House",
+      "cuisine": "Afternoon Tea",
+      "price": "55.00",
+      "path": "/uk/south-east/berkshire/cliveden-house"
+    },
+    {
+      "name": "Coworth Park",
+      "cuisine": "Afternoon Tea",
+      "price": "60.00",
+      "path": "/uk/south-east/berkshire/coworth-park"
+    },
+    {
+      "name": "Crowne Plaza Reading",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/south-east/berkshire/crowne-plaza-reading"
+    },
+    {
+      "name": "De Vere Wokefield Estate Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/south-east/berkshire/de-vere-wokefield-estate-hotel"
+    },
+    {
+      "name": "Easthampstead Park",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/south-east/berkshire/easthampstead-park"
+    },
+    {
+      "name": "Kempton’s at Sunningdale Park",
+      "cuisine": "Afternoon Tea",
+      "price": "32.00",
+      "path": "/uk/south-east/berkshire/kemptons-at-sunningdale-park"
+    },
+    {
+      "name": "Macdonald Windsor Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/south-east/berkshire/macdonald-windsor-hotel"
+    },
+    {
+      "name": "Malmaison Reading",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/south-east/berkshire/malmaison-reading"
+    },
+    {
+      "name": "Monkey Island Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/south-east/berkshire/monkey-island-hotel"
+    },
+    {
+      "name": "Taplow House",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/south-east/berkshire/taplow-house"
+    },
+    {
+      "name": "The Castle Hotel Windsor",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/south-east/berkshire/the-castle-hotel-windsor"
+    },
+    {
+      "name": "The Hare and Hounds",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/south-east/berkshire/the-hare-and-hounds"
+    },
+    {
+      "name": "The Ivy Windsor",
+      "cuisine": "Afternoon Tea",
+      "price": "34.95",
+      "path": "/uk/south-east/berkshire/the-ivy-windsor"
     }
   ]
 }

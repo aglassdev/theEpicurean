@@ -1,14 +1,21 @@
 {
   "title": "Calas Cabris",
-  "country": "france",
-  "region": "calas-cabris",
-  "city": "calas-cabris",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "calas-cabris",
+  "city": "Calas Cabris",
+  "citySlug": "calas-cabris",
+  "path": "/france/calas-cabris/calas-cabris/restaurants",
+  "canonicalPath": "/france/calas-cabris/calas-cabris/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Bastide Bourrelly - Mathias Dandine",
       "cuisine": "Provençal",
       "price": "€€€€",
-      "path": "/france/calas-cabris/calas-cabris/la-bastide-bourrelly-mathias-dandine"
+      "path": "/france/calas-cabris/calas-cabris/la-bastide-bourrelly-mathias-dandine",
+      "award": "★"
     }
   ]
 }

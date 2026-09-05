@@ -1,8 +1,14 @@
 {
   "title": "Freyung",
-  "country": "germany",
-  "region": "freyung",
-  "city": "freyung",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "freyung",
+  "city": "Freyung",
+  "citySlug": "freyung",
+  "path": "/germany/freyung/freyung/restaurants",
+  "canonicalPath": "/germany/freyung/freyung/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Landgasthaus Schuster",

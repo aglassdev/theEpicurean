@@ -1,14 +1,21 @@
 {
   "title": "Brusciano",
-  "country": "italy",
-  "region": "brusciano",
-  "city": "brusciano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "brusciano",
+  "city": "Brusciano",
+  "citySlug": "brusciano",
+  "path": "/italy/brusciano/brusciano/restaurants",
+  "canonicalPath": "/italy/brusciano/brusciano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Taverna Estia",
       "cuisine": "Contemporary, Creative",
       "price": "€€€€",
-      "path": "/italy/brusciano/brusciano/taverna-estia"
+      "path": "/italy/brusciano/brusciano/taverna-estia",
+      "award": "★★"
     }
   ]
 }

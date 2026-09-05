@@ -1,8 +1,14 @@
 {
   "title": "Les Arques",
-  "country": "france",
-  "region": "les-arques",
-  "city": "les-arques",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "les-arques",
+  "city": "Les Arques",
+  "citySlug": "les-arques",
+  "path": "/france/les-arques/les-arques/restaurants",
+  "canonicalPath": "/france/les-arques/les-arques/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Récréation",

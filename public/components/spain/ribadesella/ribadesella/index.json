@@ -1,14 +1,21 @@
 {
   "title": "Ribadesella",
-  "country": "spain",
-  "region": "ribadesella",
-  "city": "ribadesella",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "ribadesella",
+  "city": "Ribadesella",
+  "citySlug": "ribadesella",
+  "path": "/spain/ribadesella/ribadesella/restaurants",
+  "canonicalPath": "/spain/ribadesella/ribadesella/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Ayalga",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/ribadesella/ribadesella/ayalga"
+      "path": "/spain/ribadesella/ribadesella/ayalga",
+      "award": "★"
     },
     {
       "name": "La Huertona",

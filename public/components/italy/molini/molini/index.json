@@ -1,14 +1,21 @@
 {
   "title": "Molini",
-  "country": "italy",
-  "region": "molini",
-  "city": "molini",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "molini",
+  "city": "Molini",
+  "citySlug": "molini",
+  "path": "/italy/molini/molini/restaurants",
+  "canonicalPath": "/italy/molini/molini/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Schöneck",
       "cuisine": "Regional Cuisine, Classic Cuisine",
       "price": "€€€",
-      "path": "/italy/molini/molini/schneck"
+      "path": "/italy/molini/molini/schneck",
+      "award": "★"
     }
   ]
 }

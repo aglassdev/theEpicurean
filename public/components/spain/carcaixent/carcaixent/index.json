@@ -1,20 +1,21 @@
 {
   "title": "Carcaixent",
-  "country": "spain",
-  "region": "carcaixent",
-  "city": "carcaixent",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "carcaixent",
+  "city": "Carcaixent",
+  "citySlug": "carcaixent",
+  "path": "/spain/carcaixent/carcaixent/restaurants",
+  "canonicalPath": "/spain/carcaixent/carcaixent/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Origen",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/spain/carcaixent/carcaixent/origen"
-    },
-    {
-      "name": "Origen",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/carcaixent/carcaixent/origen"
+      "path": "/spain/carcaixent/carcaixent/origen",
+      "award": "★"
     }
   ]
 }

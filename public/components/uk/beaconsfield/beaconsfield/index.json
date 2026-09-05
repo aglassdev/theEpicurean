@@ -1,8 +1,14 @@
 {
   "title": "Beaconsfield",
-  "country": "uk",
-  "region": "beaconsfield",
-  "city": "beaconsfield",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "beaconsfield",
+  "city": "Beaconsfield",
+  "citySlug": "beaconsfield",
+  "path": "/uk/beaconsfield/beaconsfield/restaurants",
+  "canonicalPath": "/uk/beaconsfield/beaconsfield/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Greyhound",

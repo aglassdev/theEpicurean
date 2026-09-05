@@ -1,6 +1,22 @@
 {
   "title": "Bruton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "bruton",
+  "city": "Bruton",
+  "citySlug": "bruton",
+  "path": "/uk/bruton/bruton/restaurants",
+  "canonicalPath": "/uk/bruton/bruton/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Osip",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/bruton/bruton/osip",
+      "award": "★"
+    },
     {
       "name": "Botanical Rooms",
       "cuisine": "Modern British",
@@ -20,16 +36,10 @@
       "path": "/uk/bruton/bruton/da-costa"
     },
     {
-      "name": "Osip",
-      "cuisine": "Modern British",
-      "price": "££££",
-      "path": "/uk/bruton/bruton/osip"
-    },
-    {
       "name": "The Botanical Rooms",
       "cuisine": "Modern British",
       "price": "$$$$",
-      "path": "/uk/bruton/bruton/TheBotanicalRooms"
+      "path": "/uk/bruton/bruton/the-botanical-rooms"
     }
   ]
 }

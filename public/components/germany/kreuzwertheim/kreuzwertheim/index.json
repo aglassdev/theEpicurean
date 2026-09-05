@@ -1,14 +1,21 @@
 {
   "title": "Kreuzwertheim",
-  "country": "germany",
-  "region": "kreuzwertheim",
-  "city": "kreuzwertheim",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "kreuzwertheim",
+  "city": "Kreuzwertheim",
+  "citySlug": "kreuzwertheim",
+  "path": "/germany/kreuzwertheim/kreuzwertheim/restaurants",
+  "canonicalPath": "/germany/kreuzwertheim/kreuzwertheim/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Boucherie",
       "cuisine": "Contemporary",
       "price": "€€€€",
-      "path": "/germany/kreuzwertheim/kreuzwertheim/la-boucherie"
+      "path": "/germany/kreuzwertheim/kreuzwertheim/la-boucherie",
+      "award": "★"
     },
     {
       "name": "Landgasthof zum Kaffelstein",

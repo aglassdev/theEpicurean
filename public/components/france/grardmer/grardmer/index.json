@@ -1,8 +1,14 @@
 {
   "title": "Grardmer",
-  "country": "france",
-  "region": "grardmer",
-  "city": "grardmer",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "grardmer",
+  "city": "Grardmer",
+  "citySlug": "grardmer",
+  "path": "/france/grardmer/grardmer/restaurants",
+  "canonicalPath": "/france/grardmer/grardmer/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Table du Rouan",
@@ -14,7 +20,7 @@
       "name": "Les Bas-Rupts",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
-      "path": "/france/grardmer/grardmer/les-bas-rupts"
+      "path": "/france/grardmer/grardmer/les-basrupts"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Waterloo",
-  "country": "belgium",
-  "region": "waterloo",
-  "city": "waterloo",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "waterloo",
+  "city": "Waterloo",
+  "citySlug": "waterloo",
+  "path": "/belgium/waterloo/waterloo/restaurants",
+  "canonicalPath": "/belgium/waterloo/waterloo/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Cuisine du Côté Vert",

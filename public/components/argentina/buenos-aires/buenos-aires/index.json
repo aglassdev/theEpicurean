@@ -1,6 +1,64 @@
 {
   "title": "Buenos Aires",
+  "country": "Argentina",
+  "countrySlug": "argentina",
+  "region": null,
+  "regionSlug": "buenos-aires",
+  "city": "Buenos Aires",
+  "citySlug": "buenos-aires",
+  "path": "/argentina/buenos-aires/buenos-aires/restaurants",
+  "canonicalPath": "/argentina/buenos-aires/buenos-aires/restaurants",
+  "count": 64,
   "restaurants": [
+    {
+      "name": "Aramburu",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/aramburu",
+      "award": "★★"
+    },
+    {
+      "name": "Crizia",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/crizia",
+      "award": "★"
+    },
+    {
+      "name": "Don Julio",
+      "cuisine": "Grills",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/don-julio",
+      "award": "★"
+    },
+    {
+      "name": "Trescha",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/trescha",
+      "award": "★"
+    },
+    {
+      "name": "Tegui",
+      "cuisine": "",
+      "price": "",
+      "path": "/argentina/buenos-aires/buenos-aires/tegui",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Chuchú",
+      "cuisine": "Argentinian",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/chuch",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Garabato Bistro",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/garabato-bistro",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "4ta Pared",
       "cuisine": "Contemporary",
@@ -12,6 +70,12 @@
       "cuisine": "Contemporary",
       "price": "$$$$",
       "path": "/argentina/buenos-aires/buenos-aires/a-fuego-fuerte"
+    },
+    {
+      "name": "Ácido",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/cido"
     },
     {
       "name": "Ajo Negro - Mar de Tapas",
@@ -38,12 +102,6 @@
       "path": "/argentina/buenos-aires/buenos-aires/anchota"
     },
     {
-      "name": "Aramburu",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/argentina/buenos-aires/buenos-aires/aramburu"
-    },
-    {
       "name": "Bis Bistró",
       "cuisine": "Contemporary",
       "price": "$$",
@@ -68,6 +126,18 @@
       "path": "/argentina/buenos-aires/buenos-aires/casa-cavia"
     },
     {
+      "name": "Casa Palanti",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/casa-palanti"
+    },
+    {
+      "name": "Casa Veltri",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/argentina/buenos-aires/buenos-aires/casa-veltri"
+    },
+    {
       "name": "Caseros",
       "cuisine": "Traditional Cuisine, Home Cooking",
       "price": "$",
@@ -80,34 +150,22 @@
       "path": "/argentina/buenos-aires/buenos-aires/chu"
     },
     {
-      "name": "Ácido",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/argentina/buenos-aires/buenos-aires/cido"
-    },
-    {
       "name": "Corte Comedor",
       "cuisine": "Meats and Grills",
       "price": "$$$",
       "path": "/argentina/buenos-aires/buenos-aires/corte-comedor"
     },
     {
-      "name": "Crizia",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/argentina/buenos-aires/buenos-aires/crizia"
-    },
-    {
-      "name": "Don Julio",
-      "cuisine": "Grills",
-      "price": "$$$$",
-      "path": "/argentina/buenos-aires/buenos-aires/don-julio"
-    },
-    {
       "name": "Duhau Restaurant & Vinoteca",
       "cuisine": "Grills",
       "price": "$$$$",
       "path": "/argentina/buenos-aires/buenos-aires/duhau-restaurant-vinoteca"
+    },
+    {
+      "name": "Duhau Restaurante & Vinoteca",
+      "cuisine": "Grills",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/duhau-restaurante-vinoteca"
     },
     {
       "name": "El Preferido de Palermo",
@@ -137,7 +195,7 @@
       "name": "Fico",
       "cuisine": "Farm to table, Contemporary",
       "price": "$$",
-      "path": "/argentina/buenos-aires/buenos-aires/fico"
+      "path": "/argentina/buenos-aires/buenos-aires/fico-b-u-e"
     },
     {
       "name": "Fogón Asado",
@@ -162,6 +220,12 @@
       "cuisine": "Contemporary",
       "price": "$$",
       "path": "/argentina/buenos-aires/buenos-aires/horta"
+    },
+    {
+      "name": "José El Carnicero",
+      "cuisine": "Grills",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/jos-el-carnicero"
     },
     {
       "name": "Julia",
@@ -230,6 +294,18 @@
       "path": "/argentina/buenos-aires/buenos-aires/narda-comedor"
     },
     {
+      "name": "Ness",
+      "cuisine": "Grills",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/ness"
+    },
+    {
+      "name": "Nika Club Omakase",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/nika-club-omakase"
+    },
+    {
       "name": "Niño Gordo",
       "cuisine": "Asian",
       "price": "$$",
@@ -252,6 +328,12 @@
       "cuisine": "Contemporary",
       "price": "$$",
       "path": "/argentina/buenos-aires/buenos-aires/piedra-pasillo-al-fondo"
+    },
+    {
+      "name": "Presencia",
+      "cuisine": "European Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/buenos-aires/buenos-aires/presencia"
     },
     {
       "name": "Raggio Osteria",
@@ -305,13 +387,7 @@
       "name": "Sucre",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/argentina/buenos-aires/buenos-aires/sucre"
-    },
-    {
-      "name": "Trescha",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/argentina/buenos-aires/buenos-aires/trescha"
+      "path": "/argentina/buenos-aires/buenos-aires/sucre-b-u-e"
     },
     {
       "name": "Ultramarinos",
@@ -324,66 +400,6 @@
       "cuisine": "Japanese",
       "price": "$$$$",
       "path": "/argentina/buenos-aires/buenos-aires/uni-omakase"
-    },
-    {
-      "name": "Chuchú",
-      "cuisine": "Argentinian",
-      "price": "$$",
-      "path": "/argentina/buenos-aires/buenos-aires/Chuch"
-    },
-    {
-      "name": "Garabato Bistro",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/argentina/buenos-aires/buenos-aires/GarabatoBistro"
-    },
-    {
-      "name": "Casa Palanti",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/argentina/buenos-aires/buenos-aires/CasaPalanti"
-    },
-    {
-      "name": "Casa Veltri",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/argentina/buenos-aires/buenos-aires/CasaVeltri"
-    },
-    {
-      "name": "Duhau Restaurante & Vinoteca",
-      "cuisine": "Grills",
-      "price": "$$$$",
-      "path": "/argentina/buenos-aires/buenos-aires/DuhauRestauranteVinoteca"
-    },
-    {
-      "name": "José El Carnicero",
-      "cuisine": "Grills",
-      "price": "$$$$",
-      "path": "/argentina/buenos-aires/buenos-aires/JosElCarnicero"
-    },
-    {
-      "name": "Ness",
-      "cuisine": "Grills",
-      "price": "$$$",
-      "path": "/argentina/buenos-aires/buenos-aires/Ness"
-    },
-    {
-      "name": "Nika Club Omakase",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/argentina/buenos-aires/buenos-aires/NikaClubOmakase"
-    },
-    {
-      "name": "Presencia",
-      "cuisine": "European Contemporary",
-      "price": "$$$$",
-      "path": "/argentina/buenos-aires/buenos-aires/Presencia"
-    },
-    {
-      "name": "Tegui",
-      "cuisine": "",
-      "price": "",
-      "path": "/argentina/buenos-aires/buenos-aires/Tegui"
     }
   ]
 }

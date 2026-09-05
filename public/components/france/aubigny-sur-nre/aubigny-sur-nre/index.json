@@ -1,14 +1,20 @@
 {
-  "title": "Aubigny Sur Nre",
-  "country": "france",
-  "region": "aubigny-sur-nre",
-  "city": "aubigny-sur-nre",
+  "title": "Aubigny sur Nre",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "aubigny-sur-nre",
+  "city": "Aubigny sur Nre",
+  "citySlug": "aubigny-sur-nre",
+  "path": "/france/aubigny-sur-nre/aubigny-sur-nre/restaurants",
+  "canonicalPath": "/france/aubigny-sur-nre/aubigny-sur-nre/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Chaumière",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/aubigny-sur-nre/aubigny-sur-nre/la-chaumire"
+      "path": "/france/aubigny-sur-nre/aubigny-sur-nre/la-chaumire-a-u-b"
     }
   ]
 }

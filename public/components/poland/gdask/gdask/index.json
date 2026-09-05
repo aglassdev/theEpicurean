@@ -1,11 +1,34 @@
 {
   "title": "Gdask",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "gdask",
+  "city": "Gdask",
+  "citySlug": "gdask",
+  "path": "/poland/gdask/gdask/restaurants",
+  "canonicalPath": "/poland/gdask/gdask/restaurants",
+  "count": 15,
   "restaurants": [
     {
       "name": "Arco by Paco Pérez",
       "cuisine": "Spanish, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/poland/gdask/gdask/arco-by-paco-prez"
+      "path": "/poland/gdask/gdask/arco-by-paco-prez",
+      "award": "★"
+    },
+    {
+      "name": "Brut Bistro",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/gdask/gdask/brut-bistro",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Content",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/gdask/gdask/content"
     },
     {
       "name": "Eliksir",
@@ -24,6 +47,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€",
       "path": "/poland/gdask/gdask/hewelke"
+    },
+    {
+      "name": "MDWA",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/poland/gdask/gdask/mdwa"
     },
     {
       "name": "Mercato",
@@ -72,24 +101,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/poland/gdask/gdask/tygle"
-    },
-    {
-      "name": "Brut Bistro",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/poland/gdask/gdask/BrutBistro"
-    },
-    {
-      "name": "Content",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/poland/gdask/gdask/Content"
-    },
-    {
-      "name": "MDWA",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/poland/gdask/gdask/Mdwa"
     }
   ]
 }

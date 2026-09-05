@@ -1,6 +1,78 @@
 {
   "title": "Cologne",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "cologne",
+  "city": "Cologne",
+  "citySlug": "cologne",
+  "path": "/germany/cologne/cologne/restaurants",
+  "canonicalPath": "/germany/cologne/cologne/restaurants",
+  "count": 32,
   "restaurants": [
+    {
+      "name": "Ox & Klee",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/cologne/cologne/ox-klee",
+      "award": "★★"
+    },
+    {
+      "name": "La Cuisine Rademacher",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/germany/cologne/cologne/la-cuisine-rademacher",
+      "award": "★"
+    },
+    {
+      "name": "La Société",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/cologne/cologne/la-socit",
+      "award": "★"
+    },
+    {
+      "name": "Le Moissonnier Bistro",
+      "cuisine": "French, Seafood",
+      "price": "€€€",
+      "path": "/germany/cologne/cologne/le-moissonnier-bistro",
+      "award": "★"
+    },
+    {
+      "name": "maximilian lorenz",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/cologne/cologne/maximilian-lorenz",
+      "award": "★"
+    },
+    {
+      "name": "Pottkind",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/cologne/cologne/pottkind",
+      "award": "★"
+    },
+    {
+      "name": "Sahila - The Restaurant",
+      "cuisine": "International, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/cologne/cologne/sahila-the-restaurant",
+      "award": "★"
+    },
+    {
+      "name": "taku",
+      "cuisine": "Asian, Fusion",
+      "price": "€€€€",
+      "path": "/germany/cologne/cologne/taku",
+      "award": "★"
+    },
+    {
+      "name": "Zur Tant",
+      "cuisine": "Classic Cuisine, Farm to table",
+      "price": "€€€",
+      "path": "/germany/cologne/cologne/zur-tant",
+      "award": "★"
+    },
     {
       "name": "ACHT",
       "cuisine": "International",
@@ -68,22 +140,10 @@
       "path": "/germany/cologne/cologne/ito"
     },
     {
-      "name": "La Cuisine Rademacher",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/germany/cologne/cologne/la-cuisine-rademacher"
-    },
-    {
-      "name": "La Société",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€€",
-      "path": "/germany/cologne/cologne/la-socit"
-    },
-    {
-      "name": "Le Moissonnier Bistro",
-      "cuisine": "French, Seafood",
-      "price": "€€€",
-      "path": "/germany/cologne/cologne/le-moissonnier-bistro"
+      "name": "Kluth",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/germany/cologne/cologne/kluth"
     },
     {
       "name": "Limbourg",
@@ -96,12 +156,6 @@
       "cuisine": "Modern Cuisine, Country cooking",
       "price": "€€",
       "path": "/germany/cologne/cologne/maibeck"
-    },
-    {
-      "name": "maximilian lorenz",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/cologne/cologne/maximilian-lorenz"
     },
     {
       "name": "NeoBiota",
@@ -122,12 +176,6 @@
       "path": "/germany/cologne/cologne/ouzeria"
     },
     {
-      "name": "Ox & Klee",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/germany/cologne/cologne/ox-klee"
-    },
-    {
       "name": "Phaedra",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
@@ -146,52 +194,22 @@
       "path": "/germany/cologne/cologne/poisson"
     },
     {
-      "name": "Pottkind",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/cologne/cologne/pottkind"
-    },
-    {
       "name": "PULS",
       "cuisine": "Contemporary, International",
       "price": "€€",
       "path": "/germany/cologne/cologne/puls"
     },
     {
-      "name": "Sahila - The Restaurant",
-      "cuisine": "International, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/cologne/cologne/sahila-the-restaurant"
-    },
-    {
-      "name": "taku",
-      "cuisine": "Asian, Fusion",
-      "price": "€€€€",
-      "path": "/germany/cologne/cologne/taku"
+      "name": "Yu*lia Mezze Bar",
+      "cuisine": "International",
+      "price": "$$",
+      "path": "/germany/cologne/cologne/yulia-mezze-bar"
     },
     {
       "name": "ZEN Japanese Restaurant",
       "cuisine": "Japanese",
       "price": "€€",
       "path": "/germany/cologne/cologne/zen-japanese-restaurant"
-    },
-    {
-      "name": "Zur Tant",
-      "cuisine": "Classic Cuisine, Farm to table",
-      "price": "€€€",
-      "path": "/germany/cologne/cologne/zur-tant"
-    },
-    {
-      "name": "Kluth",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/germany/cologne/cologne/Kluth"
-    },
-    {
-      "name": "Yu*lia Mezze Bar",
-      "cuisine": "International",
-      "price": "$$",
-      "path": "/germany/cologne/cologne/YuliaMezzeBar"
     }
   ]
 }

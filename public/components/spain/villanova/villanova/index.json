@@ -1,14 +1,21 @@
 {
   "title": "Villanova",
-  "country": "spain",
-  "region": "villanova",
-  "city": "villanova",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "villanova",
+  "city": "Villanova",
+  "citySlug": "villanova",
+  "path": "/spain/villanova/villanova/restaurants",
+  "canonicalPath": "/spain/villanova/villanova/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Casa Arcas",
       "cuisine": "Contemporary, Modern Cuisine",
       "price": "€€",
-      "path": "/spain/villanova/villanova/casa-arcas"
+      "path": "/spain/villanova/villanova/casa-arcas",
+      "award": "★"
     }
   ]
 }

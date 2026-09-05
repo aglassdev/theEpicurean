@@ -1,8 +1,14 @@
 {
   "title": "Gex",
-  "country": "france",
-  "region": "gex",
-  "city": "gex",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gex",
+  "city": "Gex",
+  "citySlug": "gex",
+  "path": "/france/gex/gex/restaurants",
+  "canonicalPath": "/france/gex/gex/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de la Mainaz",

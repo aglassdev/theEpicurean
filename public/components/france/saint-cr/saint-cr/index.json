@@ -1,14 +1,21 @@
 {
   "title": "Saint Cr",
-  "country": "france",
-  "region": "saint-cr",
-  "city": "saint-cr",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-cr",
+  "city": "Saint Cr",
+  "citySlug": "saint-cr",
+  "path": "/france/saint-cr/saint-cr/restaurants",
+  "canonicalPath": "/france/saint-cr/saint-cr/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Les Trois Soleils de Montal",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/saint-cr/saint-cr/les-trois-soleils-de-montal"
+      "path": "/france/saint-cr/saint-cr/les-trois-soleils-de-montal",
+      "award": "★"
     },
     {
       "name": "L'Informel",

@@ -1,14 +1,21 @@
 {
-  "title": "Mareuil Sur Lay Dissais",
-  "country": "france",
-  "region": "mareuil-sur-lay-dissais",
-  "city": "mareuil-sur-lay-dissais",
+  "title": "Mareuil sur Lay Dissais",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "mareuil-sur-lay-dissais",
+  "city": "Mareuil sur Lay Dissais",
+  "citySlug": "mareuil-sur-lay-dissais",
+  "path": "/france/mareuil-sur-lay-dissais/mareuil-sur-lay-dissais/restaurants",
+  "canonicalPath": "/france/mareuil-sur-lay-dissais/mareuil-sur-lay-dissais/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison Desamy",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/mareuil-sur-lay-dissais/mareuil-sur-lay-dissais/maison-desamy"
+      "path": "/france/mareuil-sur-lay-dissais/mareuil-sur-lay-dissais/maison-desamy",
+      "award": "★"
     }
   ]
 }

@@ -1,26 +1,34 @@
 {
   "title": "Ourense",
-  "country": "spain",
-  "region": "ourense",
-  "city": "ourense",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "ourense",
+  "city": "Ourense",
+  "citySlug": "ourense",
+  "path": "/spain/ourense/ourense/restaurants",
+  "canonicalPath": "/spain/ourense/ourense/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Ceibe",
       "cuisine": "Galician, Creative",
       "price": "€€€€",
-      "path": "/spain/ourense/ourense/ceibe"
+      "path": "/spain/ourense/ourense/ceibe",
+      "award": "★"
+    },
+    {
+      "name": "Nova",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/ourense/ourense/nova-o-u-r",
+      "award": "★"
     },
     {
       "name": "Miguel González",
       "cuisine": "Contemporary",
       "price": "€€€",
       "path": "/spain/ourense/ourense/miguel-gonzlez"
-    },
-    {
-      "name": "Nova",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/ourense/ourense/nova"
     },
     {
       "name": "Pacífico",

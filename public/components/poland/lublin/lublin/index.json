@@ -1,29 +1,39 @@
 {
   "title": "Lublin",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "lublin",
+  "city": "Lublin",
+  "citySlug": "lublin",
+  "path": "/poland/lublin/lublin/restaurants",
+  "canonicalPath": "/poland/lublin/lublin/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "2PiEr",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/poland/lublin/lublin/2pier"
+      "path": "/poland/lublin/lublin/2pier",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Kuchnia Otwarta",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/poland/lublin/lublin/KuchniaOtwarta"
+      "path": "/poland/lublin/lublin/kuchnia-otwarta"
     },
     {
       "name": "Perłowa Pijalnia Piwa",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/poland/lublin/lublin/PerowaPijalniaPiwa"
+      "path": "/poland/lublin/lublin/perowa-pijalnia-piwa"
     },
     {
       "name": "RAJ UTRACONY",
       "cuisine": "Middle Eastern",
       "price": "$$",
-      "path": "/poland/lublin/lublin/RajUtracony"
+      "path": "/poland/lublin/lublin/raj-utracony"
     }
   ]
 }

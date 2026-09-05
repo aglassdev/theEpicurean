@@ -1,8 +1,14 @@
 {
   "title": "Brissago",
-  "country": "switzerland",
-  "region": "brissago",
-  "city": "brissago",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "brissago",
+  "city": "Brissago",
+  "citySlug": "brissago",
+  "path": "/switzerland/brissago/brissago/restaurants",
+  "canonicalPath": "/switzerland/brissago/brissago/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Agorà",

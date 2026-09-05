@@ -1,8 +1,14 @@
 {
   "title": "Richelieu",
-  "country": "france",
-  "region": "richelieu",
-  "city": "richelieu",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "richelieu",
+  "city": "Richelieu",
+  "citySlug": "richelieu",
+  "path": "/france/richelieu/richelieu/restaurants",
+  "canonicalPath": "/france/richelieu/richelieu/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fossé Saint Ange",

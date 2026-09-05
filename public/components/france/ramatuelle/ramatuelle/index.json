@@ -1,9 +1,22 @@
 {
   "title": "Ramatuelle",
-  "country": "france",
-  "region": "ramatuelle",
-  "city": "ramatuelle",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ramatuelle",
+  "city": "Ramatuelle",
+  "citySlug": "ramatuelle",
+  "path": "/france/ramatuelle/ramatuelle/restaurants",
+  "canonicalPath": "/france/ramatuelle/ramatuelle/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "La Voile - La Réserve Ramatuelle",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/ramatuelle/ramatuelle/la-voile-la-rserve-ramatuelle",
+      "award": "★★"
+    },
     {
       "name": "Byblos Beach",
       "cuisine": "Mediterranean Cuisine",
@@ -21,12 +34,6 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
       "path": "/france/ramatuelle/ramatuelle/la-rserve-la-plage"
-    },
-    {
-      "name": "La Voile - La Réserve Ramatuelle",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/ramatuelle/ramatuelle/la-voile-la-rserve-ramatuelle"
     }
   ]
 }

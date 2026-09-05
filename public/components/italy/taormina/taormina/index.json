@@ -1,56 +1,61 @@
 {
   "title": "Taormina",
-  "country": "italy",
-  "region": "taormina",
-  "city": "taormina",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "taormina",
+  "city": "Taormina",
+  "citySlug": "taormina",
+  "path": "/italy/taormina/taormina/restaurants",
+  "canonicalPath": "/italy/taormina/taormina/restaurants",
+  "count": 7,
   "restaurants": [
     {
-      "name": "Blum",
+      "name": "St. George by Heinz Beck",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/taormina/taormina/st-george-by-heinz-beck",
+      "award": "★★"
+    },
+    {
+      "name": "La Capinera",
+      "cuisine": "Sicilian, Creative",
+      "price": "€€€",
+      "path": "/italy/taormina/taormina/la-capinera",
+      "award": "★"
+    },
+    {
+      "name": "Otto Geleng",
+      "cuisine": "Mediterranean Cuisine, Sicilian",
+      "price": "€€€€",
+      "path": "/italy/taormina/taormina/otto-geleng",
+      "award": "★"
+    },
+    {
+      "name": "Principe Cerami",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/taormina/taormina/blum"
+      "path": "/italy/taormina/taormina/principe-cerami",
+      "award": "★"
+    },
+    {
+      "name": "Vineria Modì",
+      "cuisine": "Italian Contemporary, Sicilian",
+      "price": "€€€",
+      "path": "/italy/taormina/taormina/vineria-mod",
+      "award": "★"
     },
     {
       "name": "Blum",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/taormina/taormina/blum"
+      "path": "/italy/taormina/taormina/blum-t-a-o"
     },
     {
       "name": "Kisté - Easy Gourmet",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/italy/taormina/taormina/kist-easy-gourmet"
-    },
-    {
-      "name": "La Capinera",
-      "cuisine": "Sicilian, Creative",
-      "price": "€€€",
-      "path": "/italy/taormina/taormina/la-capinera"
-    },
-    {
-      "name": "Otto Geleng",
-      "cuisine": "Mediterranean Cuisine, Sicilian",
-      "price": "€€€€",
-      "path": "/italy/taormina/taormina/otto-geleng"
-    },
-    {
-      "name": "Principe Cerami",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/taormina/taormina/principe-cerami"
-    },
-    {
-      "name": "St. George by Heinz Beck",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/taormina/taormina/st-george-by-heinz-beck"
-    },
-    {
-      "name": "Vineria Modì",
-      "cuisine": "Italian Contemporary, Sicilian",
-      "price": "€€€",
-      "path": "/italy/taormina/taormina/vineria-mod"
     }
   ]
 }

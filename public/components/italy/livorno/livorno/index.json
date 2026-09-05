@@ -1,8 +1,14 @@
 {
   "title": "Livorno",
-  "country": "italy",
-  "region": "livorno",
-  "city": "livorno",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "livorno",
+  "city": "Livorno",
+  "citySlug": "livorno",
+  "path": "/italy/livorno/livorno/restaurants",
+  "canonicalPath": "/italy/livorno/livorno/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Azzighe",

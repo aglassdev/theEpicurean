@@ -1,14 +1,20 @@
 {
-  "title": "Corte De Cortesi",
-  "country": "italy",
-  "region": "corte-de-cortesi",
-  "city": "corte-de-cortesi",
+  "title": "Corte de Cortesi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "corte-de-cortesi",
+  "city": "Corte de Cortesi",
+  "citySlug": "corte-de-cortesi",
+  "path": "/italy/corte-de-cortesi/corte-de-cortesi/restaurants",
+  "canonicalPath": "/italy/corte-de-cortesi/corte-de-cortesi/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gabbiano 1983",
       "cuisine": "Lombardian, Traditional Cuisine",
       "price": "€€",
-      "path": "/italy/corte-de-cortesi/corte-de-cortesi/gabbiano-1983"
+      "path": "/italy/corte-de-cortesi/corte-de-cortesi/gabbiano1983"
     }
   ]
 }

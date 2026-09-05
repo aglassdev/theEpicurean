@@ -1,14 +1,21 @@
 {
   "title": "Pinzolo",
-  "country": "italy",
-  "region": "pinzolo",
-  "city": "pinzolo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pinzolo",
+  "city": "Pinzolo",
+  "citySlug": "pinzolo",
+  "path": "/italy/pinzolo/pinzolo/restaurants",
+  "canonicalPath": "/italy/pinzolo/pinzolo/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Grual",
       "cuisine": "Contemporary, Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/pinzolo/pinzolo/grual"
+      "path": "/italy/pinzolo/pinzolo/grual",
+      "award": "★"
     },
     {
       "name": "Rendenèr Alpine Food",

@@ -1,6 +1,22 @@
 {
   "title": "Matera",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "matera",
+  "city": "Matera",
+  "citySlug": "matera",
+  "path": "/italy/matera/matera/restaurants",
+  "canonicalPath": "/italy/matera/matera/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Vitantonio Lombardo",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/italy/matera/matera/vitantonio-lombardo",
+      "award": "★"
+    },
     {
       "name": "Baccanti",
       "cuisine": "Modern Cuisine",
@@ -20,16 +36,10 @@
       "path": "/italy/matera/matera/dimora-ulmo"
     },
     {
-      "name": "Vitantonio Lombardo",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/italy/matera/matera/vitantonio-lombardo"
-    },
-    {
       "name": "Radino Wine Bistrot",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/italy/matera/matera/RadinoWineBistrot"
+      "path": "/italy/matera/matera/radino-wine-bistrot"
     }
   ]
 }

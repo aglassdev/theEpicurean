@@ -1,11 +1,20 @@
 {
   "title": "Riksingen",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "riksingen",
+  "city": "Riksingen",
+  "citySlug": "riksingen",
+  "path": "/belgium/riksingen/riksingen/restaurants",
+  "canonicalPath": "/belgium/riksingen/riksingen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Magis Terra",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/belgium/riksingen/riksingen/MagisTerra"
+      "path": "/belgium/riksingen/riksingen/magis-terra"
     }
   ]
 }

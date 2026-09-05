@@ -1,8 +1,14 @@
 {
   "title": "Petworth",
-  "country": "uk",
-  "region": "petworth",
-  "city": "petworth",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "petworth",
+  "city": "Petworth",
+  "citySlug": "petworth",
+  "path": "/uk/petworth/petworth/restaurants",
+  "canonicalPath": "/uk/petworth/petworth/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "E. STREET Bar & Grill",

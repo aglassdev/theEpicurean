@@ -1,14 +1,21 @@
 {
   "title": "Tigliole",
-  "country": "italy",
-  "region": "tigliole",
-  "city": "tigliole",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "tigliole",
+  "city": "Tigliole",
+  "citySlug": "tigliole",
+  "path": "/italy/tigliole/tigliole/restaurants",
+  "canonicalPath": "/italy/tigliole/tigliole/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ca' Vittoria",
       "cuisine": "Piedmontese, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/tigliole/tigliole/ca-vittoria"
+      "path": "/italy/tigliole/tigliole/ca-vittoria",
+      "award": "★"
     }
   ]
 }

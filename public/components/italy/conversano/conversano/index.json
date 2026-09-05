@@ -1,14 +1,21 @@
 {
   "title": "Conversano",
-  "country": "italy",
-  "region": "conversano",
-  "city": "conversano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "conversano",
+  "city": "Conversano",
+  "citySlug": "conversano",
+  "path": "/italy/conversano/conversano/restaurants",
+  "canonicalPath": "/italy/conversano/conversano/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Pashà",
       "cuisine": "Apulian, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/conversano/conversano/pash"
+      "path": "/italy/conversano/conversano/pash",
+      "award": "★"
     },
     {
       "name": "Vita Pugliese",

@@ -1,14 +1,20 @@
 {
   "title": "Champry",
-  "country": "switzerland",
-  "region": "champry",
-  "city": "champry",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "champry",
+  "city": "Champry",
+  "citySlug": "champry",
+  "path": "/switzerland/champry/champry/restaurants",
+  "canonicalPath": "/switzerland/champry/champry/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le 42",
       "cuisine": "French Contemporary, International",
       "price": "€€€",
-      "path": "/switzerland/champry/champry/le-42"
+      "path": "/switzerland/champry/champry/le42"
     }
   ]
 }

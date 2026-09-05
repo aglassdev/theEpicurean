@@ -1,107 +1,122 @@
 {
   "title": "Cebu",
+  "country": "Philippines",
+  "countrySlug": "the-philippines",
+  "region": null,
+  "regionSlug": "cebu",
+  "city": "Cebu",
+  "citySlug": "cebu",
+  "path": "/the-philippines/cebu/cebu/restaurants",
+  "canonicalPath": "/the-philippines/cebu/cebu/restaurants",
+  "count": 17,
   "restaurants": [
     {
       "name": "Abaseria Deli & Cafe",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/cebu/cebu/AbaseriaDeliCafe"
+      "path": "/the-philippines/cebu/cebu/abaseria-deli-cafe",
+      "award": "Bib Gourmand"
     },
     {
       "name": "CUR8",
       "cuisine": "Asian",
       "price": "$$",
-      "path": "/the-philippines/cebu/cebu/Cur8"
+      "path": "/the-philippines/cebu/cebu/cur8",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Esmen",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/the-philippines/cebu/cebu/Esmen"
+      "path": "/the-philippines/cebu/cebu/esmen",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Lasa",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/cebu/cebu/Lasa"
+      "path": "/the-philippines/cebu/cebu/lasa",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Pares Batchoy Food House",
       "cuisine": "Filipino",
       "price": "$",
-      "path": "/the-philippines/cebu/cebu/ParesBatchoyFoodHouse"
+      "path": "/the-philippines/cebu/cebu/pares-batchoy-food-house",
+      "award": "Bib Gourmand"
     },
     {
       "name": "The Pig & Palm",
       "cuisine": "European Contemporary",
       "price": "$$",
-      "path": "/the-philippines/cebu/cebu/ThePigPalm"
-    },
-    {
-      "name": "ATO-AH",
-      "cuisine": "Filipino",
-      "price": "$$",
-      "path": "/the-philippines/cebu/cebu/Atoah"
+      "path": "/the-philippines/cebu/cebu/the-pig-palm",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Abli",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/the-philippines/cebu/cebu/Abli"
+      "path": "/the-philippines/cebu/cebu/abli"
+    },
+    {
+      "name": "ATO-AH",
+      "cuisine": "Filipino",
+      "price": "$$",
+      "path": "/the-philippines/cebu/cebu/atoah"
     },
     {
       "name": "COCO",
       "cuisine": "Asian",
       "price": "$$",
-      "path": "/the-philippines/cebu/cebu/Coco"
+      "path": "/the-philippines/cebu/cebu/coco"
     },
     {
       "name": "DIP",
       "cuisine": "Japanese",
       "price": "$$$",
-      "path": "/the-philippines/cebu/cebu/Dip"
+      "path": "/the-philippines/cebu/cebu/dip"
     },
     {
       "name": "Enye by Chele Gonzalez",
       "cuisine": "Spanish",
       "price": "$$$",
-      "path": "/the-philippines/cebu/cebu/EnyeByCheleGonzalez"
+      "path": "/the-philippines/cebu/cebu/enye-by-chele-gonzalez"
     },
     {
       "name": "House of Lechon",
       "cuisine": "Filipino",
       "price": "$",
-      "path": "/the-philippines/cebu/cebu/HouseOfLechon"
+      "path": "/the-philippines/cebu/cebu/house-of-lechon"
     },
     {
       "name": "Kamakura",
       "cuisine": "Japanese",
       "price": "$$$",
-      "path": "/the-philippines/cebu/cebu/Kamakura"
+      "path": "/the-philippines/cebu/cebu/kamakura"
     },
     {
       "name": "Lantaw (Compostela)",
       "cuisine": "Filipino",
       "price": "$",
-      "path": "/the-philippines/cebu/cebu/LantawCompostela"
+      "path": "/the-philippines/cebu/cebu/lantaw-compostela"
     },
     {
       "name": "Pares Pares (N. Escario Street)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/the-philippines/cebu/cebu/ParesParesNEscarioStreet"
+      "path": "/the-philippines/cebu/cebu/pares-pares-n-escario-street"
     },
     {
       "name": "Sialo",
       "cuisine": "Filipino",
       "price": "$$$$",
-      "path": "/the-philippines/cebu/cebu/Sialo"
+      "path": "/the-philippines/cebu/cebu/sialo"
     },
     {
       "name": "Socarrat",
       "cuisine": "Spanish",
       "price": "$$",
-      "path": "/the-philippines/cebu/cebu/Socarrat"
+      "path": "/the-philippines/cebu/cebu/socarrat"
     }
   ]
 }

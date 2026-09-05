@@ -1,14 +1,20 @@
 {
   "title": "Albenga",
-  "country": "italy",
-  "region": "albenga",
-  "city": "albenga",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "albenga",
+  "city": "Albenga",
+  "citySlug": "albenga",
+  "path": "/italy/albenga/albenga/restaurants",
+  "canonicalPath": "/italy/albenga/albenga/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Babette",
       "cuisine": "Mediterranean Cuisine, Ligurian",
       "price": "€€",
-      "path": "/italy/albenga/albenga/babette"
+      "path": "/italy/albenga/albenga/babette-a-l-b"
     },
     {
       "name": "Il Posticino",

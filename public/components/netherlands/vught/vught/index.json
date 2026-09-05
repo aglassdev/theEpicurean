@@ -1,9 +1,22 @@
 {
   "title": "Vught",
-  "country": "netherlands",
-  "region": "vught",
-  "city": "vught",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "vught",
+  "city": "Vught",
+  "citySlug": "vught",
+  "path": "/netherlands/vught/vught/restaurants",
+  "canonicalPath": "/netherlands/vught/vught/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Sense",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/netherlands/vught/vught/sense-v-u-g",
+      "award": "★"
+    },
     {
       "name": "CouCou",
       "cuisine": "Contemporary, Sharing",
@@ -15,12 +28,6 @@
       "cuisine": "Creative French",
       "price": "€€€",
       "path": "/netherlands/vught/vught/hendrik-van-maurick"
-    },
-    {
-      "name": "Sense",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/netherlands/vught/vught/sense"
     }
   ]
 }

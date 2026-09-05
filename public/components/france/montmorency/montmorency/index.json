@@ -1,8 +1,14 @@
 {
   "title": "Montmorency",
-  "country": "france",
-  "region": "montmorency",
-  "city": "montmorency",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montmorency",
+  "city": "Montmorency",
+  "citySlug": "montmorency",
+  "path": "/france/montmorency/montmorency/restaurants",
+  "canonicalPath": "/france/montmorency/montmorency/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Cœur de la Forêt",

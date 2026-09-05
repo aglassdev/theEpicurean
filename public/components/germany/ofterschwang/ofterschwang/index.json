@@ -1,20 +1,27 @@
 {
   "title": "Ofterschwang",
-  "country": "germany",
-  "region": "ofterschwang",
-  "city": "ofterschwang",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "ofterschwang",
+  "city": "Ofterschwang",
+  "citySlug": "ofterschwang",
+  "path": "/germany/ofterschwang/ofterschwang/restaurants",
+  "canonicalPath": "/germany/ofterschwang/ofterschwang/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Silberdistel",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/ofterschwang/ofterschwang/silberdistel",
+      "award": "★"
+    },
     {
       "name": "freistil.",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€",
       "path": "/germany/ofterschwang/ofterschwang/freistil"
-    },
-    {
-      "name": "Silberdistel",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/germany/ofterschwang/ofterschwang/silberdistel"
     }
   ]
 }

@@ -1,9 +1,36 @@
 {
   "title": "Knokke",
-  "country": "belgium",
-  "region": "knokke",
-  "city": "knokke",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "knokke",
+  "city": "Knokke",
+  "citySlug": "knokke",
+  "path": "/belgium/knokke/knokke/restaurants",
+  "canonicalPath": "/belgium/knokke/knokke/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Boo Raan",
+      "cuisine": "Thai, Traditional Cuisine",
+      "price": "€€",
+      "path": "/belgium/knokke/knokke/boo-raan",
+      "award": "★"
+    },
+    {
+      "name": "Cuines 33",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/belgium/knokke/knokke/cuines33",
+      "award": "★"
+    },
+    {
+      "name": "Sel Gris",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/belgium/knokke/knokke/sel-gris",
+      "award": "★"
+    },
     {
       "name": "Blanco",
       "cuisine": "Mexican",
@@ -11,22 +38,10 @@
       "path": "/belgium/knokke/knokke/blanco"
     },
     {
-      "name": "Boo Raan",
-      "cuisine": "Thai, Traditional Cuisine",
-      "price": "€€",
-      "path": "/belgium/knokke/knokke/boo-raan"
-    },
-    {
       "name": "Carcasse",
       "cuisine": "Meats and Grills, Grills",
       "price": "€€€€",
-      "path": "/belgium/knokke/knokke/carcasse"
-    },
-    {
-      "name": "Cuines 33",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/belgium/knokke/knokke/cuines-33"
+      "path": "/belgium/knokke/knokke/carcasse-k-n-o"
     },
     {
       "name": "Dah Makan",
@@ -57,12 +72,6 @@
       "cuisine": "Belgian, Classic French",
       "price": "€€€€",
       "path": "/belgium/knokke/knokke/la-rigue"
-    },
-    {
-      "name": "Sel Gris",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/belgium/knokke/knokke/sel-gris"
     },
     {
       "name": "Tablàvins",

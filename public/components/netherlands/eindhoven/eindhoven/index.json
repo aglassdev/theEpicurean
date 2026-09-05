@@ -1,9 +1,29 @@
 {
   "title": "Eindhoven",
-  "country": "netherlands",
-  "region": "eindhoven",
-  "city": "eindhoven",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "eindhoven",
+  "city": "Eindhoven",
+  "citySlug": "eindhoven",
+  "path": "/netherlands/eindhoven/eindhoven/restaurants",
+  "canonicalPath": "/netherlands/eindhoven/eindhoven/restaurants",
+  "count": 10,
   "restaurants": [
+    {
+      "name": "Wiesen",
+      "cuisine": "French",
+      "price": "€€€",
+      "path": "/netherlands/eindhoven/eindhoven/wiesen",
+      "award": "★"
+    },
+    {
+      "name": "Zarzo",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/netherlands/eindhoven/eindhoven/zarzo",
+      "award": "★"
+    },
     {
       "name": "Bistro Sophie",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
@@ -45,18 +65,6 @@
       "cuisine": "Turkish",
       "price": "€€",
       "path": "/netherlands/eindhoven/eindhoven/nev"
-    },
-    {
-      "name": "Wiesen",
-      "cuisine": "French",
-      "price": "€€€",
-      "path": "/netherlands/eindhoven/eindhoven/wiesen"
-    },
-    {
-      "name": "Zarzo",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/netherlands/eindhoven/eindhoven/zarzo"
     },
     {
       "name": "Zuid by Adrian Zarzo",

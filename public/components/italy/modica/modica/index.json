@@ -1,5 +1,14 @@
 {
   "title": "Modica",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "modica",
+  "city": "Modica",
+  "citySlug": "modica",
+  "path": "/italy/modica/modica/restaurants",
+  "canonicalPath": "/italy/modica/modica/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Dabbanna",
@@ -29,7 +38,7 @@
       "name": "Radici – L’Osteria di Accursio",
       "cuisine": "Sicilian",
       "price": "$$",
-      "path": "/italy/modica/modica/RadiciLosteriaDiAccursio"
+      "path": "/italy/modica/modica/radici-losteria-di-accursio"
     }
   ]
 }

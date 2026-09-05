@@ -1,9 +1,22 @@
 {
   "title": "Metz",
-  "country": "france",
-  "region": "metz",
-  "city": "metz",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "metz",
+  "city": "Metz",
+  "citySlug": "metz",
+  "path": "/france/metz/metz/restaurants",
+  "canonicalPath": "/france/metz/metz/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Yozora",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/metz/metz/yozora",
+      "award": "★"
+    },
     {
       "name": "83 Restaurant",
       "cuisine": "Italian, Provençal",
@@ -39,12 +52,6 @@
       "cuisine": "Italian",
       "price": "€€€",
       "path": "/france/metz/metz/timila"
-    },
-    {
-      "name": "Yozora",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/metz/metz/yozora"
     }
   ]
 }

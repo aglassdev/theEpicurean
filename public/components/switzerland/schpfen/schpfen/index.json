@@ -1,14 +1,20 @@
 {
   "title": "Schpfen",
-  "country": "switzerland",
-  "region": "schpfen",
-  "city": "schpfen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "schpfen",
+  "city": "Schpfen",
+  "citySlug": "schpfen",
+  "path": "/switzerland/schpfen/schpfen/restaurants",
+  "canonicalPath": "/switzerland/schpfen/schpfen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Schüpbärg-Beizli",
       "cuisine": "Swiss, Regional Cuisine",
       "price": "€€",
-      "path": "/switzerland/schpfen/schpfen/schpbrg-beizli"
+      "path": "/switzerland/schpfen/schpfen/schpbrgbeizli"
     }
   ]
 }

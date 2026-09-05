@@ -1,23 +1,32 @@
 {
   "title": "Northamptonshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "East Midlands",
+  "regionSlug": "east-midlands",
+  "city": "Northamptonshire",
+  "citySlug": "northamptonshire",
+  "path": "/uk/east-midlands/northamptonshire/restaurants",
+  "canonicalPath": "/uk/east-midlands/northamptonshire/restaurants",
+  "count": 3,
   "restaurants": [
     {
-      "name": "Whittlebury Hall Hotel",
+      "name": "Fawsley Hall Hotel & Spa",
       "cuisine": "Afternoon Tea",
-      "price": "25.95",
-      "path": "/uk/east-midlands/northamptonshire/WhittleburyHallHotel"
+      "price": "37.50",
+      "path": "/uk/east-midlands/northamptonshire/fawsley-hall-hotel-spa"
     },
     {
       "name": "The Old Barn at Wadenhoe",
       "cuisine": "Afternoon Tea",
       "price": "60.00",
-      "path": "/uk/east-midlands/northamptonshire/TheOldBarnAtWadenhoe"
+      "path": "/uk/east-midlands/northamptonshire/the-old-barn-at-wadenhoe"
     },
     {
-      "name": "Fawsley Hall Hotel & Spa",
+      "name": "Whittlebury Hall Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "37.50",
-      "path": "/uk/east-midlands/northamptonshire/FawsleyHallHotelSpa"
+      "price": "25.95",
+      "path": "/uk/east-midlands/northamptonshire/whittlebury-hall-hotel"
     }
   ]
 }

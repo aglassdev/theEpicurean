@@ -1,14 +1,21 @@
 {
-  "title": "La Colle Sur Loup",
-  "country": "france",
-  "region": "la-colle-sur-loup",
-  "city": "la-colle-sur-loup",
+  "title": "La Colle sur Loup",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-colle-sur-loup",
+  "city": "La Colle sur Loup",
+  "citySlug": "la-colle-sur-loup",
+  "path": "/france/la-colle-sur-loup/la-colle-sur-loup/restaurants",
+  "canonicalPath": "/france/la-colle-sur-loup/la-colle-sur-loup/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Alain Llorca",
       "cuisine": "Provençal",
       "price": "€€€€",
-      "path": "/france/la-colle-sur-loup/la-colle-sur-loup/alain-llorca"
+      "path": "/france/la-colle-sur-loup/la-colle-sur-loup/alain-llorca",
+      "award": "★"
     },
     {
       "name": "L'Atelier des Saveurs by Stéphane Garcia",

@@ -1,5 +1,14 @@
 {
   "title": "Rtka",
+  "country": "Hungary",
+  "countrySlug": "hungary",
+  "region": null,
+  "regionSlug": "rtka",
+  "city": "Rtka",
+  "citySlug": "rtka",
+  "path": "/hungary/rtka/rtka/restaurants",
+  "canonicalPath": "/hungary/rtka/rtka/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Padi",
@@ -11,7 +20,7 @@
       "name": "Sauska Padi",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/hungary/rtka/rtka/SauskaPadi"
+      "path": "/hungary/rtka/rtka/sauska-padi"
     }
   ]
 }

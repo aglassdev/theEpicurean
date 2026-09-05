@@ -1,11 +1,20 @@
 {
   "title": "Celerina",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "celerina",
+  "city": "Celerina",
+  "citySlug": "celerina",
+  "path": "/switzerland/celerina/celerina/restaurants",
+  "canonicalPath": "/switzerland/celerina/celerina/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ya Mama by Moses Ceylan",
       "cuisine": "International",
       "price": "$$",
-      "path": "/switzerland/celerina/celerina/YaMamaByMosesCeylan"
+      "path": "/switzerland/celerina/celerina/ya-mama-by-moses-ceylan"
     }
   ]
 }

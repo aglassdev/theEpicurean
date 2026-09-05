@@ -1,8 +1,14 @@
 {
-  "title": "Aix Les Bains",
-  "country": "france",
-  "region": "aix-les-bains",
-  "city": "aix-les-bains",
+  "title": "Aix les Bains",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "aix-les-bains",
+  "city": "Aix les Bains",
+  "citySlug": "aix-les-bains",
+  "path": "/france/aix-les-bains/aix-les-bains/restaurants",
+  "canonicalPath": "/france/aix-les-bains/aix-les-bains/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "La Table Floralie",
@@ -14,7 +20,7 @@
       "name": "Le 59 Restaurant",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/aix-les-bains/aix-les-bains/le-59-restaurant"
+      "path": "/france/aix-les-bains/aix-les-bains/le59-restaurant"
     },
     {
       "name": "Le Sens Unique",

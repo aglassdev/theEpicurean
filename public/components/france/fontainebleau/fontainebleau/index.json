@@ -1,20 +1,27 @@
 {
   "title": "Fontainebleau",
-  "country": "france",
-  "region": "fontainebleau",
-  "city": "fontainebleau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "fontainebleau",
+  "city": "Fontainebleau",
+  "citySlug": "fontainebleau",
+  "path": "/france/fontainebleau/fontainebleau/restaurants",
+  "canonicalPath": "/france/fontainebleau/fontainebleau/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "L'Axel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/fontainebleau/fontainebleau/laxel",
+      "award": "★"
+    },
     {
       "name": "Fuumi",
       "cuisine": "Japanese",
       "price": "€€",
       "path": "/france/fontainebleau/fontainebleau/fuumi"
-    },
-    {
-      "name": "L'Axel",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/fontainebleau/fontainebleau/laxel"
     },
     {
       "name": "L'Orée des Sablons",

@@ -1,14 +1,21 @@
 {
   "title": "Santo Stefano Belbo",
-  "country": "italy",
-  "region": "santo-stefano-belbo",
-  "city": "santo-stefano-belbo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "santo-stefano-belbo",
+  "city": "Santo Stefano Belbo",
+  "citySlug": "santo-stefano-belbo",
+  "path": "/italy/santo-stefano-belbo/santo-stefano-belbo/restaurants",
+  "canonicalPath": "/italy/santo-stefano-belbo/santo-stefano-belbo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Ristorante di Guido da Costigliole",
       "cuisine": "Piedmontese, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/santo-stefano-belbo/santo-stefano-belbo/il-ristorante-di-guido-da-costigliole"
+      "path": "/italy/santo-stefano-belbo/santo-stefano-belbo/il-ristorante-di-guido-da-costigliole",
+      "award": "★"
     }
   ]
 }

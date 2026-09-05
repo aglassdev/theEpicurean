@@ -1,8 +1,14 @@
 {
   "title": "Flims",
-  "country": "switzerland",
-  "region": "flims",
-  "city": "flims",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "flims",
+  "city": "Flims",
+  "citySlug": "flims",
+  "path": "/switzerland/flims/flims/restaurants",
+  "canonicalPath": "/switzerland/flims/flims/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cavigilli",

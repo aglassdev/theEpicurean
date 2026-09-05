@@ -1,11 +1,20 @@
 {
   "title": "Harberton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "harberton",
+  "city": "Harberton",
+  "citySlug": "harberton",
+  "path": "/uk/harberton/harberton/restaurants",
+  "canonicalPath": "/uk/harberton/harberton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Church House Inn",
       "cuisine": "Classic Cuisine",
       "price": "$$",
-      "path": "/uk/harberton/harberton/TheChurchHouseInn"
+      "path": "/uk/harberton/harberton/the-church-house-inn"
     }
   ]
 }

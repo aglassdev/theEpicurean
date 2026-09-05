@@ -1,5 +1,14 @@
 {
   "title": "Buttrio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "buttrio",
+  "city": "Buttrio",
+  "citySlug": "buttrio",
+  "path": "/italy/buttrio/buttrio/restaurants",
+  "canonicalPath": "/italy/buttrio/buttrio/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Enoteca di Buttrio",
@@ -8,16 +17,16 @@
       "path": "/italy/buttrio/buttrio/enoteca-di-buttrio"
     },
     {
+      "name": "Le Fucine Gourmet",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/italy/buttrio/buttrio/le-fucine-gourmet"
+    },
+    {
       "name": "Trattoria al Parco",
       "cuisine": "Country cooking, Grills",
       "price": "€€",
       "path": "/italy/buttrio/buttrio/trattoria-al-parco"
-    },
-    {
-      "name": "Le Fucine Gourmet",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/italy/buttrio/buttrio/LeFucineGourmet"
     }
   ]
 }

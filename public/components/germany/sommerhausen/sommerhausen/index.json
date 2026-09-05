@@ -1,14 +1,21 @@
 {
   "title": "Sommerhausen",
-  "country": "germany",
-  "region": "sommerhausen",
-  "city": "sommerhausen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "sommerhausen",
+  "city": "Sommerhausen",
+  "citySlug": "sommerhausen",
+  "path": "/germany/sommerhausen/sommerhausen/restaurants",
+  "canonicalPath": "/germany/sommerhausen/sommerhausen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Philipp",
       "cuisine": "Modern French, Classic Cuisine",
       "price": "€€€€",
-      "path": "/germany/sommerhausen/sommerhausen/philipp"
+      "path": "/germany/sommerhausen/sommerhausen/philipp",
+      "award": "★"
     }
   ]
 }

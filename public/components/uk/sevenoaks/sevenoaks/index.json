@@ -1,8 +1,14 @@
 {
   "title": "Sevenoaks",
-  "country": "uk",
-  "region": "sevenoaks",
-  "city": "sevenoaks",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "sevenoaks",
+  "city": "Sevenoaks",
+  "citySlug": "sevenoaks",
+  "path": "/uk/sevenoaks/sevenoaks/restaurants",
+  "canonicalPath": "/uk/sevenoaks/sevenoaks/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Shwen Shwen",

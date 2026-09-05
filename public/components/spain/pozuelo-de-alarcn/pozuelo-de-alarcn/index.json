@@ -1,23 +1,33 @@
 {
-  "title": "Pozuelo De Alarcn",
+  "title": "Pozuelo de Alarcn",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "pozuelo-de-alarcn",
+  "city": "Pozuelo de Alarcn",
+  "citySlug": "pozuelo-de-alarcn",
+  "path": "/spain/pozuelo-de-alarcn/pozuelo-de-alarcn/restaurants",
+  "canonicalPath": "/spain/pozuelo-de-alarcn/pozuelo-de-alarcn/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Ancestral",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/pozuelo-de-alarcn/pozuelo-de-alarcn/ancestral"
+      "path": "/spain/pozuelo-de-alarcn/pozuelo-de-alarcn/ancestral-p-o-z",
+      "award": "★"
+    },
+    {
+      "name": "Aleño Brassafina",
+      "cuisine": "Grills",
+      "price": "$$$",
+      "path": "/spain/pozuelo-de-alarcn/pozuelo-de-alarcn/aleo-brassafina"
     },
     {
       "name": "La Roca",
       "cuisine": "Spanish, Fusion",
       "price": "€€",
       "path": "/spain/pozuelo-de-alarcn/pozuelo-de-alarcn/la-roca"
-    },
-    {
-      "name": "Aleño Brassafina",
-      "cuisine": "Grills",
-      "price": "$$$",
-      "path": "/spain/pozuelo-de-alarcn/pozuelo-de-alarcn/AleoBrassafina"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Marcols",
-  "country": "france",
-  "region": "marcols",
-  "city": "marcols",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "marcols",
+  "city": "Marcols",
+  "citySlug": "marcols",
+  "path": "/france/marcols/marcols/restaurants",
+  "canonicalPath": "/france/marcols/marcols/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Auberge de la Tour",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/marcols/marcols/auberge-de-la-tour"
+      "path": "/france/marcols/marcols/auberge-de-la-tour",
+      "award": "★"
     },
     {
       "name": "Oxalis",

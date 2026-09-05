@@ -1,14 +1,20 @@
 {
   "title": "Maselheim",
-  "country": "germany",
-  "region": "maselheim",
-  "city": "maselheim",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "maselheim",
+  "city": "Maselheim",
+  "citySlug": "maselheim",
+  "path": "/germany/maselheim/maselheim/restaurants",
+  "canonicalPath": "/germany/maselheim/maselheim/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lamm",
       "cuisine": "Country cooking, Modern Cuisine",
       "price": "€€€",
-      "path": "/germany/maselheim/maselheim/lamm"
+      "path": "/germany/maselheim/maselheim/lamm-m-a-s"
     }
   ]
 }

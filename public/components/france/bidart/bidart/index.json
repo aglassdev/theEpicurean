@@ -1,9 +1,29 @@
 {
   "title": "Bidart",
-  "country": "france",
-  "region": "bidart",
-  "city": "bidart",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bidart",
+  "city": "Bidart",
+  "citySlug": "bidart",
+  "path": "/france/bidart/bidart/restaurants",
+  "canonicalPath": "/france/bidart/bidart/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "La Table des Frères Ibarboure",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/bidart/bidart/la-table-des-frres-ibarboure",
+      "award": "★"
+    },
+    {
+      "name": "Les Frères Ibarboure",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/bidart/bidart/les-frres-ibarboure",
+      "award": "★"
+    },
     {
       "name": "Ahizpak",
       "cuisine": "Modern Cuisine",
@@ -15,18 +35,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/bidart/bidart/ezkia"
-    },
-    {
-      "name": "La Table des Frères Ibarboure",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/bidart/bidart/la-table-des-frres-ibarboure"
-    },
-    {
-      "name": "Les Frères Ibarboure",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/bidart/bidart/les-frres-ibarboure"
     }
   ]
 }

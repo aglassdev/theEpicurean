@@ -1,14 +1,21 @@
 {
   "title": "Waldkirchen",
-  "country": "germany",
-  "region": "waldkirchen",
-  "city": "waldkirchen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "waldkirchen",
+  "city": "Waldkirchen",
+  "citySlug": "waldkirchen",
+  "path": "/germany/waldkirchen/waldkirchen/restaurants",
+  "canonicalPath": "/germany/waldkirchen/waldkirchen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Johanns",
       "cuisine": "Modern Cuisine, Country cooking",
       "price": "€€€€",
-      "path": "/germany/waldkirchen/waldkirchen/johanns"
+      "path": "/germany/waldkirchen/waldkirchen/johanns",
+      "award": "★"
     }
   ]
 }

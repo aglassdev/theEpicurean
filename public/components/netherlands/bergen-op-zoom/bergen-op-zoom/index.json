@@ -1,8 +1,14 @@
 {
-  "title": "Bergen Op Zoom",
-  "country": "netherlands",
-  "region": "bergen-op-zoom",
-  "city": "bergen-op-zoom",
+  "title": "Bergen op Zoom",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "bergen-op-zoom",
+  "city": "Bergen op Zoom",
+  "citySlug": "bergen-op-zoom",
+  "path": "/netherlands/bergen-op-zoom/bergen-op-zoom/restaurants",
+  "canonicalPath": "/netherlands/bergen-op-zoom/bergen-op-zoom/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "De Hemel",
@@ -14,7 +20,7 @@
       "name": "Restaurant 1397",
       "cuisine": "French Contemporary",
       "price": "€€€",
-      "path": "/netherlands/bergen-op-zoom/bergen-op-zoom/restaurant-1397"
+      "path": "/netherlands/bergen-op-zoom/bergen-op-zoom/restaurant1397"
     }
   ]
 }

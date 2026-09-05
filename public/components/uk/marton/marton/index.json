@@ -1,8 +1,14 @@
 {
   "title": "Marton",
-  "country": "uk",
-  "region": "marton",
-  "city": "marton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "marton",
+  "city": "Marton",
+  "citySlug": "marton",
+  "path": "/uk/marton/marton/restaurants",
+  "canonicalPath": "/uk/marton/marton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Popote",

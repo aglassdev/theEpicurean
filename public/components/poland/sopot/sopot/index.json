@@ -1,5 +1,14 @@
 {
   "title": "Sopot",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "sopot",
+  "city": "Sopot",
+  "citySlug": "sopot",
+  "path": "/poland/sopot/sopot/restaurants",
+  "canonicalPath": "/poland/sopot/sopot/restaurants",
+  "count": 7,
   "restaurants": [
     {
       "name": "1911 Restaurant",
@@ -12,6 +21,12 @@
       "cuisine": "International",
       "price": "€€",
       "path": "/poland/sopot/sopot/caf-xander"
+    },
+    {
+      "name": "Diuna",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/sopot/sopot/diuna"
     },
     {
       "name": "Fisherman",
@@ -36,12 +51,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/poland/sopot/sopot/vinissimo"
-    },
-    {
-      "name": "Diuna",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/poland/sopot/sopot/Diuna"
     }
   ]
 }

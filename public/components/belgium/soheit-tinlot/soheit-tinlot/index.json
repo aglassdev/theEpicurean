@@ -1,14 +1,21 @@
 {
   "title": "Soheit Tinlot",
-  "country": "belgium",
-  "region": "soheit-tinlot",
-  "city": "soheit-tinlot",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "soheit-tinlot",
+  "city": "Soheit Tinlot",
+  "citySlug": "soheit-tinlot",
+  "path": "/belgium/soheit-tinlot/soheit-tinlot/restaurants",
+  "canonicalPath": "/belgium/soheit-tinlot/soheit-tinlot/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Coq aux Champs",
       "cuisine": "Creative French",
       "price": "€€€",
-      "path": "/belgium/soheit-tinlot/soheit-tinlot/le-coq-aux-champs"
+      "path": "/belgium/soheit-tinlot/soheit-tinlot/le-coq-aux-champs",
+      "award": "★"
     }
   ]
 }

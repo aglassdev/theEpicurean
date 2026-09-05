@@ -1,8 +1,14 @@
 {
   "title": "Vouvray",
-  "country": "france",
-  "region": "vouvray",
-  "city": "vouvray",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vouvray",
+  "city": "Vouvray",
+  "citySlug": "vouvray",
+  "path": "/france/vouvray/vouvray/restaurants",
+  "canonicalPath": "/france/vouvray/vouvray/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Gueules Noires",

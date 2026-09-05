@@ -1,14 +1,21 @@
 {
   "title": "Trescore Balneario",
-  "country": "italy",
-  "region": "trescore-balneario",
-  "city": "trescore-balneario",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "trescore-balneario",
+  "city": "Trescore Balneario",
+  "citySlug": "trescore-balneario",
+  "path": "/italy/trescore-balneario/trescore-balneario/restaurants",
+  "canonicalPath": "/italy/trescore-balneario/trescore-balneario/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "LoRo",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/italy/trescore-balneario/trescore-balneario/loro"
+      "path": "/italy/trescore-balneario/trescore-balneario/loro",
+      "award": "★"
     }
   ]
 }

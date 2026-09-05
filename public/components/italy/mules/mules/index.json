@@ -1,20 +1,27 @@
 {
   "title": "Mules",
-  "country": "italy",
-  "region": "mules",
-  "city": "mules",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "mules",
+  "city": "Mules",
+  "citySlug": "mules",
+  "path": "/italy/mules/mules/restaurants",
+  "canonicalPath": "/italy/mules/mules/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Gourmetstube Einhorn",
+      "cuisine": "Creative, International",
+      "price": "€€€€",
+      "path": "/italy/mules/mules/gourmetstube-einhorn",
+      "award": "★"
+    },
     {
       "name": "Gasthofstube Stafler",
       "cuisine": "Regional Cuisine, Traditional Cuisine",
       "price": "€€",
       "path": "/italy/mules/mules/gasthofstube-stafler"
-    },
-    {
-      "name": "Gourmetstube Einhorn",
-      "cuisine": "Creative, International",
-      "price": "€€€€",
-      "path": "/italy/mules/mules/gourmetstube-einhorn"
     }
   ]
 }

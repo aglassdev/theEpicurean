@@ -1,14 +1,20 @@
 {
   "title": "Kngen",
-  "country": "germany",
-  "region": "kngen",
-  "city": "kngen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "kngen",
+  "city": "Kngen",
+  "citySlug": "kngen",
+  "path": "/germany/kngen/kngen/restaurants",
+  "canonicalPath": "/germany/kngen/kngen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Schwanen",
       "cuisine": "Country cooking, Farm to table",
       "price": "€",
-      "path": "/germany/kngen/kngen/schwanen"
+      "path": "/germany/kngen/kngen/schwanen-k-n-g"
     },
     {
       "name": "Tafelhaus",

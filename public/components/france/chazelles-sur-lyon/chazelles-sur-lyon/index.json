@@ -1,14 +1,21 @@
 {
-  "title": "Chazelles Sur Lyon",
-  "country": "france",
-  "region": "chazelles-sur-lyon",
-  "city": "chazelles-sur-lyon",
+  "title": "Chazelles sur Lyon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chazelles-sur-lyon",
+  "city": "Chazelles sur Lyon",
+  "citySlug": "chazelles-sur-lyon",
+  "path": "/france/chazelles-sur-lyon/chazelles-sur-lyon/restaurants",
+  "canonicalPath": "/france/chazelles-sur-lyon/chazelles-sur-lyon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Château Blanchard",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/chazelles-sur-lyon/chazelles-sur-lyon/chteau-blanchard"
+      "path": "/france/chazelles-sur-lyon/chazelles-sur-lyon/chteau-blanchard",
+      "award": "★"
     }
   ]
 }

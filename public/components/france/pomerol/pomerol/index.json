@@ -1,8 +1,14 @@
 {
   "title": "Pomerol",
-  "country": "france",
-  "region": "pomerol",
-  "city": "pomerol",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pomerol",
+  "city": "Pomerol",
+  "citySlug": "pomerol",
+  "path": "/france/pomerol/pomerol/restaurants",
+  "canonicalPath": "/france/pomerol/pomerol/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de Catusseau",

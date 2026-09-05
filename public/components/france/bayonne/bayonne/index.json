@@ -1,5 +1,14 @@
 {
   "title": "Bayonne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bayonne",
+  "city": "Bayonne",
+  "citySlug": "bayonne",
+  "path": "/france/bayonne/bayonne/restaurants",
+  "canonicalPath": "/france/bayonne/bayonne/restaurants",
+  "count": 9,
   "restaurants": [
     {
       "name": "Auberge du Cheval Blanc",
@@ -29,7 +38,7 @@
       "name": "La Grange",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/bayonne/bayonne/la-grange"
+      "path": "/france/bayonne/bayonne/la-grange-b-a-y"
     },
     {
       "name": "La Table - Sébastien Gravé",
@@ -41,19 +50,19 @@
       "name": "Nuance",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/bayonne/bayonne/nuance"
+      "path": "/france/bayonne/bayonne/nuance-b-a-y"
+    },
+    {
+      "name": "Osméra",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/bayonne/bayonne/osmra"
     },
     {
       "name": "Relief",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/bayonne/bayonne/relief"
-    },
-    {
-      "name": "Osméra",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/bayonne/bayonne/Osmra"
     }
   ]
 }

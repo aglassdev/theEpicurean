@@ -1,5 +1,14 @@
 {
   "title": "Chester",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "chester",
+  "city": "Chester",
+  "citySlug": "chester",
+  "path": "/uk/chester/chester/restaurants",
+  "canonicalPath": "/uk/chester/chester/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Arkle",
@@ -14,22 +23,22 @@
       "path": "/uk/chester/chester/covino"
     },
     {
-      "name": "Upstairs at the Grill",
-      "cuisine": "Meats and Grills",
-      "price": "£££",
-      "path": "/uk/chester/chester/upstairs-at-the-grill"
-    },
-    {
       "name": "Noted",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/uk/chester/chester/Noted"
+      "path": "/uk/chester/chester/noted"
     },
     {
       "name": "The Jolly Gardeners",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/uk/chester/chester/TheJollyGardeners"
+      "path": "/uk/chester/chester/the-jolly-gardeners"
+    },
+    {
+      "name": "Upstairs at the Grill",
+      "cuisine": "Meats and Grills",
+      "price": "£££",
+      "path": "/uk/chester/chester/upstairs-at-the-grill"
     }
   ]
 }

@@ -1,6 +1,22 @@
 {
   "title": "Palermo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "palermo",
+  "city": "Palermo",
+  "citySlug": "palermo",
+  "path": "/italy/palermo/palermo/restaurants",
+  "canonicalPath": "/italy/palermo/palermo/restaurants",
+  "count": 13,
   "restaurants": [
+    {
+      "name": "Mec Restaurant",
+      "cuisine": "Sicilian, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/palermo/palermo/mec-restaurant",
+      "award": "★"
+    },
     {
       "name": "A' Cuncuma",
       "cuisine": "Creative, Sicilian",
@@ -32,6 +48,12 @@
       "path": "/italy/palermo/palermo/charleston"
     },
     {
+      "name": "Charleston by Giovanni Solofra",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/italy/palermo/palermo/charleston-by-giovanni-solofra"
+    },
+    {
       "name": "CR21",
       "cuisine": "Contemporary, Sicilian",
       "price": "€€",
@@ -50,34 +72,22 @@
       "path": "/italy/palermo/palermo/lottava-nota"
     },
     {
-      "name": "Mec Restaurant",
-      "cuisine": "Sicilian, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/palermo/palermo/mec-restaurant"
-    },
-    {
       "name": "Osteria dei Vespri",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€",
       "path": "/italy/palermo/palermo/osteria-dei-vespri"
     },
     {
+      "name": "Osteria Mercede",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/italy/palermo/palermo/osteria-mercede"
+    },
+    {
       "name": "Palazzo Branciforte",
       "cuisine": "Italian, Modern Cuisine",
       "price": "€€€",
       "path": "/italy/palermo/palermo/palazzo-branciforte"
-    },
-    {
-      "name": "Charleston by Giovanni Solofra",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/italy/palermo/palermo/CharlestonByGiovanniSolofra"
-    },
-    {
-      "name": "Osteria Mercede",
-      "cuisine": "Seafood",
-      "price": "$$",
-      "path": "/italy/palermo/palermo/OsteriaMercede"
     }
   ]
 }

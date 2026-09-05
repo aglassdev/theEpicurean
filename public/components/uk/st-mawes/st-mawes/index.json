@@ -1,11 +1,20 @@
 {
-  "title": "St Mawes",
+  "title": "St. Mawes",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "st-mawes",
+  "city": "St. Mawes",
+  "citySlug": "st-mawes",
+  "path": "/uk/st-mawes/st-mawes/restaurants",
+  "canonicalPath": "/uk/st-mawes/st-mawes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Reef Knot",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/uk/st-mawes/st-mawes/ReefKnot"
+      "path": "/uk/st-mawes/st-mawes/reef-knot"
     }
   ]
 }

@@ -1,29 +1,38 @@
 {
   "title": "Worcestershire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "West Midlands",
+  "regionSlug": "west-midlands",
+  "city": "Worcestershire",
+  "citySlug": "worcestershire",
+  "path": "/uk/west-midlands/worcestershire/restaurants",
+  "canonicalPath": "/uk/west-midlands/worcestershire/restaurants",
+  "count": 4,
   "restaurants": [
     {
-      "name": "Stanbrook Abbey Hotel",
+      "name": "Aldwyn’s at Ellerslie",
       "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/west-midlands/worcestershire/StanbrookAbbeyHotel"
-    },
-    {
-      "name": "Morgan Motor Company Factory",
-      "cuisine": "Afternoon Tea",
-      "price": "82.00",
-      "path": "/uk/west-midlands/worcestershire/MorganMotorCompanyFactory"
+      "price": "25.95",
+      "path": "/uk/west-midlands/worcestershire/aldwyns-at-ellerslie"
     },
     {
       "name": "Hogarths Stone Manor",
       "cuisine": "Afternoon Tea",
       "price": "32.00",
-      "path": "/uk/west-midlands/worcestershire/HogarthsStoneManor"
+      "path": "/uk/west-midlands/worcestershire/hogarths-stone-manor"
     },
     {
-      "name": "Aldwyn’s at Ellerslie",
+      "name": "Morgan Motor Company Factory",
       "cuisine": "Afternoon Tea",
-      "price": "25.95",
-      "path": "/uk/west-midlands/worcestershire/AldwynsAtEllerslie"
+      "price": "82.00",
+      "path": "/uk/west-midlands/worcestershire/morgan-motor-company-factory"
+    },
+    {
+      "name": "Stanbrook Abbey Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/west-midlands/worcestershire/stanbrook-abbey-hotel"
     }
   ]
 }

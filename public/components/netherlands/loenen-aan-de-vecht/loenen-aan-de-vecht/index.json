@@ -1,23 +1,34 @@
 {
-  "title": "Loenen Aan De Vecht",
+  "title": "Loenen aan de Vecht",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "loenen-aan-de-vecht",
+  "city": "Loenen aan de Vecht",
+  "citySlug": "loenen-aan-de-vecht",
+  "path": "/netherlands/loenen-aan-de-vecht/loenen-aan-de-vecht/restaurants",
+  "canonicalPath": "/netherlands/loenen-aan-de-vecht/loenen-aan-de-vecht/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "'t Amsterdammertje",
       "cuisine": "Creative, Fusion",
       "price": "€€€",
-      "path": "/netherlands/loenen-aan-de-vecht/loenen-aan-de-vecht/t-amsterdammertje"
+      "path": "/netherlands/loenen-aan-de-vecht/loenen-aan-de-vecht/t-amsterdammertje",
+      "award": "★"
     },
     {
       "name": "Tante Koosje",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/netherlands/loenen-aan-de-vecht/loenen-aan-de-vecht/tante-koosje"
+      "path": "/netherlands/loenen-aan-de-vecht/loenen-aan-de-vecht/tante-koosje",
+      "award": "★"
     },
     {
       "name": "Bij Sidney",
       "cuisine": "French",
       "price": "$$$$",
-      "path": "/netherlands/loenen-aan-de-vecht/loenen-aan-de-vecht/BijSidney"
+      "path": "/netherlands/loenen-aan-de-vecht/loenen-aan-de-vecht/bij-sidney"
     }
   ]
 }

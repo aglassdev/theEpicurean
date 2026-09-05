@@ -1,14 +1,28 @@
 {
   "title": "Ulm",
-  "country": "germany",
-  "region": "ulm",
-  "city": "ulm",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "ulm",
+  "city": "Ulm",
+  "citySlug": "ulm",
+  "path": "/germany/ulm/ulm/restaurants",
+  "canonicalPath": "/germany/ulm/ulm/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "bi:braud",
       "cuisine": "Contemporary, Farm to table",
       "price": "€€€",
-      "path": "/germany/ulm/ulm/bibraud"
+      "path": "/germany/ulm/ulm/bibraud",
+      "award": "★"
+    },
+    {
+      "name": "Seestern",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/germany/ulm/ulm/seestern",
+      "award": "★"
     },
     {
       "name": "Edda Brasserie",
@@ -20,13 +34,7 @@
       "name": "Löwen",
       "cuisine": "Seasonal Cuisine, Country cooking",
       "price": "€€",
-      "path": "/germany/ulm/ulm/lwen"
-    },
-    {
-      "name": "Seestern",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/germany/ulm/ulm/seestern"
+      "path": "/germany/ulm/ulm/lwen-u-l-m"
     },
     {
       "name": "Treibgut",

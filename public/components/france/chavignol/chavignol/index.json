@@ -1,8 +1,14 @@
 {
   "title": "Chavignol",
-  "country": "france",
-  "region": "chavignol",
-  "city": "chavignol",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chavignol",
+  "city": "Chavignol",
+  "citySlug": "chavignol",
+  "path": "/france/chavignol/chavignol/restaurants",
+  "canonicalPath": "/france/chavignol/chavignol/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Côte des Monts Damnés",

@@ -1,20 +1,28 @@
 {
   "title": "Roscoff",
-  "country": "france",
-  "region": "roscoff",
-  "city": "roscoff",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "roscoff",
+  "city": "Roscoff",
+  "citySlug": "roscoff",
+  "path": "/france/roscoff/roscoff/restaurants",
+  "canonicalPath": "/france/roscoff/roscoff/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Brittany",
       "cuisine": "Modern Cuisine, Regional Cuisine",
       "price": "€€€€",
-      "path": "/france/roscoff/roscoff/le-brittany"
+      "path": "/france/roscoff/roscoff/le-brittany",
+      "award": "★"
     },
     {
       "name": "Nori",
       "cuisine": "Modern Cuisine, Regional Cuisine",
       "price": "€€€€",
-      "path": "/france/roscoff/roscoff/nori"
+      "path": "/france/roscoff/roscoff/nori",
+      "award": "★"
     }
   ]
 }

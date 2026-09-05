@@ -1,14 +1,20 @@
 {
-  "title": "Bar Le Duc",
-  "country": "france",
-  "region": "bar-le-duc",
-  "city": "bar-le-duc",
+  "title": "Bar le Duc",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bar-le-duc",
+  "city": "Bar le Duc",
+  "citySlug": "bar-le-duc",
+  "path": "/france/bar-le-duc/bar-le-duc/restaurants",
+  "canonicalPath": "/france/bar-le-duc/bar-le-duc/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bistro Saint-Jean",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/bar-le-duc/bar-le-duc/bistro-saint-jean"
+      "path": "/france/bar-le-duc/bar-le-duc/bistro-saintjean"
     }
   ]
 }

@@ -1,11 +1,33 @@
 {
   "title": "Montecito",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Montecito",
+  "citySlug": "montecito",
+  "path": "/usa/california/montecito/restaurants",
+  "canonicalPath": "/usa/california/montecito/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Caruso's",
+      "cuisine": "Californian, Italian",
+      "price": "$$$$",
+      "path": "/usa/california/montecito/carusos",
+      "award": "★"
+    },
+    {
+      "name": "AMA Sushi",
+      "cuisine": "Sushi, Japanese",
+      "price": "$$$$",
+      "path": "/usa/california/montecito/ama-sushi"
+    },
     {
       "name": "Little Mountain",
       "cuisine": "Californian",
       "price": "$$$",
-      "path": "/usa/california/montecito/LittleMountain"
+      "path": "/usa/california/montecito/little-mountain"
     }
   ]
 }

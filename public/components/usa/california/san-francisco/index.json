@@ -1,59 +1,735 @@
 {
   "title": "San Francisco",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "San Francisco",
+  "citySlug": "san-francisco",
+  "path": "/usa/california/san-francisco/restaurants",
+  "canonicalPath": "/usa/california/san-francisco/restaurants",
+  "count": 115,
   "restaurants": [
+    {
+      "name": "Atelier Crenn",
+      "cuisine": "Contemporary, French",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/atelier-crenn",
+      "award": "★★★"
+    },
+    {
+      "name": "Benu",
+      "cuisine": "Asian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/benu",
+      "award": "★★★"
+    },
+    {
+      "name": "Quince",
+      "cuisine": "Contemporary, Californian",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/quince",
+      "award": "★★★"
+    },
+    {
+      "name": "Acquerello",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/acquerello",
+      "award": "★★"
+    },
+    {
+      "name": "Birdsong",
+      "cuisine": "Contemporary, American",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/birdsong",
+      "award": "★★"
+    },
+    {
+      "name": "Californios",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/californios",
+      "award": "★★"
+    },
+    {
+      "name": "Kiln",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/kiln",
+      "award": "★★"
+    },
+    {
+      "name": "Lazy Bear",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/lazy-bear",
+      "award": "★★"
+    },
+    {
+      "name": "Saison",
+      "cuisine": "Californian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/saison-s-a-n",
+      "award": "★★"
+    },
+    {
+      "name": "Sons & Daughters",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/sons-daughters",
+      "award": "★★"
+    },
+    {
+      "name": "7 Adams",
+      "cuisine": "Californian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/7-adams",
+      "award": "★"
+    },
+    {
+      "name": "Angler SF",
+      "cuisine": "Contemporary, Seafood",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/angler-sf",
+      "award": "★"
+    },
+    {
+      "name": "Hilda and Jesse",
+      "cuisine": "American, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/hilda-and-jesse",
+      "award": "★"
+    },
+    {
+      "name": "Kin Khao",
+      "cuisine": "Thai, Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/kin-khao",
+      "award": "★"
+    },
+    {
+      "name": "Le Comptoir at Bar Crenn",
+      "cuisine": "Contemporary, French",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/le-comptoir-at-bar-crenn",
+      "award": "★"
+    },
+    {
+      "name": "Mister Jiu’s",
+      "cuisine": "Chinese, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/mister-jius",
+      "award": "★"
+    },
+    {
+      "name": "Nari",
+      "cuisine": "Thai, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/nari",
+      "award": "★"
+    },
+    {
+      "name": "Niku Steakhouse",
+      "cuisine": "Steakhouse",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/niku-steakhouse",
+      "award": "★"
+    },
+    {
+      "name": "Nisei",
+      "cuisine": "Japanese, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/nisei",
+      "award": "★"
+    },
+    {
+      "name": "O' by Claude Le Tohic",
+      "cuisine": "French, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/o-by-claude-le-tohic",
+      "award": "★"
+    },
     {
       "name": "Restaurant Naides",
       "cuisine": "Filipino",
       "price": "$$$$",
-      "path": "/usa/california/san-francisco/RestaurantNaides"
+      "path": "/usa/california/san-francisco/restaurant-naides",
+      "award": "★"
+    },
+    {
+      "name": "San Ho Won",
+      "cuisine": "Korean, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/san-ho-won",
+      "award": "★"
+    },
+    {
+      "name": "Sorrel",
+      "cuisine": "Contemporary, Italian",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/sorrel",
+      "award": "★"
+    },
+    {
+      "name": "Ssal",
+      "cuisine": "Korean, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/ssal",
+      "award": "★"
+    },
+    {
+      "name": "State Bird Provisions",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/state-bird-provisions",
+      "award": "★"
+    },
+    {
+      "name": "The Progress",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/the-progress",
+      "award": "★"
+    },
+    {
+      "name": "The Shota",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/the-shota",
+      "award": "★"
     },
     {
       "name": "Wolfsbane",
       "cuisine": "Contemporary",
       "price": "$$$$",
-      "path": "/usa/california/san-francisco/Wolfsbane"
+      "path": "/usa/california/san-francisco/wolfsbane",
+      "award": "★"
+    },
+    {
+      "name": "Coi",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/other/san-francisco/coi",
+      "award": "World's 50 Best"
     },
     {
       "name": "Dumpling Home",
       "cuisine": "Chinese",
       "price": "$",
-      "path": "/usa/california/san-francisco/DumplingHome"
+      "path": "/usa/california/san-francisco/dumpling-home",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Kitchen Istanbul",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/usa/california/san-francisco/KitchenIstanbul"
+      "path": "/usa/california/san-francisco/kitchen-istanbul",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "3rd Cousin",
+      "cuisine": "Californian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/3rd-cousin"
+    },
+    {
+      "name": "A16",
+      "cuisine": "Pizza, Italian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/a16"
+    },
+    {
+      "name": "Abacá",
+      "cuisine": "Filipino, Californian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/abac"
+    },
+    {
+      "name": "Anchor Oyster Bar",
+      "cuisine": "Seafood, Italian-American",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/anchor-oyster-bar"
+    },
+    {
+      "name": "Anomaly SF",
+      "cuisine": "Contemporary, Creative",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/anomaly-sf"
+    },
+    {
+      "name": "Azalina’s",
+      "cuisine": "Malaysian, Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/azalinas"
+    },
+    {
+      "name": "Aziza",
+      "cuisine": "Moroccan, Middle Eastern",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/aziza"
+    },
+    {
+      "name": "Bansang",
+      "cuisine": "Korean, Contemporary",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/bansang"
+    },
+    {
+      "name": "Boulevard",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/boulevard"
+    },
+    {
+      "name": "Café Jacqueline",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/caf-jacqueline"
+    },
+    {
+      "name": "Che Fico",
+      "cuisine": "Italian, Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/che-fico"
+    },
+    {
+      "name": "Copra",
+      "cuisine": "Indian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/copra"
+    },
+    {
+      "name": "Cotogna",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/cotogna"
+    },
+    {
+      "name": "Dalida",
+      "cuisine": "Mediterranean Cuisine, Turkish",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/dalida"
+    },
+    {
+      "name": "Del Popolo",
+      "cuisine": "Pizza, Californian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/del-popolo"
     },
     {
       "name": "Dingles Public House",
       "cuisine": "Gastropub",
       "price": "$$$",
-      "path": "/usa/california/san-francisco/DinglesPublicHouse"
+      "path": "/usa/california/san-francisco/dingles-public-house"
+    },
+    {
+      "name": "Donaji",
+      "cuisine": "Mexican, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/donaji"
+    },
+    {
+      "name": "El Buen Comer",
+      "cuisine": "Mexican, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/el-buen-comer"
+    },
+    {
+      "name": "Ernest",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/ernest"
+    },
+    {
+      "name": "Fiorella",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/fiorella"
+    },
+    {
+      "name": "Flores",
+      "cuisine": "Mexican, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/flores"
+    },
+    {
+      "name": "Flour + Water",
+      "cuisine": "Italian, Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/flour-water"
+    },
+    {
+      "name": "Four Kings",
+      "cuisine": "Chinese, Cantonese",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/four-kings"
+    },
+    {
+      "name": "Frances",
+      "cuisine": "Californian, American Contemporary",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/frances"
+    },
+    {
+      "name": "Friends Only",
+      "cuisine": "Sushi, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/friends-only"
+    },
+    {
+      "name": "Gary Danko",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/gary-danko"
+    },
+    {
+      "name": "Good Good Culture Club",
+      "cuisine": "South East Asian, Californian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/good-good-culture-club"
+    },
+    {
+      "name": "Hamano Sushi",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/hamano-sushi"
+    },
+    {
+      "name": "Harborview",
+      "cuisine": "Chinese, Cantonese",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/harborview"
+    },
+    {
+      "name": "Hed 11",
+      "cuisine": "Thai, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/hed11"
+    },
+    {
+      "name": "HK Lounge Bistro",
+      "cuisine": "Chinese, Dim Sum",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/hk-lounge-bistro"
+    },
+    {
+      "name": "Hog Island Oyster Co.",
+      "cuisine": "Seafood, American",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/hog-island-oyster-co"
+    },
+    {
+      "name": "Itria",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/itria"
+    },
+    {
+      "name": "Izakaya Rintaro",
+      "cuisine": "Japanese, Izakaya",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/izakaya-rintaro"
+    },
+    {
+      "name": "jū-ni",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/jni"
+    },
+    {
+      "name": "Ken",
+      "cuisine": "Sushi, Japanese",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/ken"
+    },
+    {
+      "name": "Kokkari Estiatorio",
+      "cuisine": "Greek",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/kokkari-estiatorio"
+    },
+    {
+      "name": "Kusakabe",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/kusakabe"
     },
     {
       "name": "La Cigale",
       "cuisine": "French",
       "price": "$$$$",
-      "path": "/usa/california/san-francisco/LaCigale"
+      "path": "/usa/california/san-francisco/la-cigale"
+    },
+    {
+      "name": "La Taqueria",
+      "cuisine": "Mexican, Regional Cuisine",
+      "price": "$",
+      "path": "/usa/california/san-francisco/la-taqueria"
+    },
+    {
+      "name": "Liholiho Yacht Club",
+      "cuisine": "Asian, American",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/liholiho-yacht-club"
     },
     {
       "name": "Maria Isabel",
       "cuisine": "Mexican",
       "price": "$$$",
-      "path": "/usa/california/san-francisco/MariaIsabel"
+      "path": "/usa/california/san-francisco/maria-isabel"
+    },
+    {
+      "name": "Mensho",
+      "cuisine": "Japanese, Ramen",
+      "price": "$",
+      "path": "/usa/california/san-francisco/mensho"
+    },
+    {
+      "name": "Merchant Roots",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/merchant-roots"
+    },
+    {
+      "name": "Mijoté",
+      "cuisine": "French, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/mijot"
+    },
+    {
+      "name": "Miller & Lux",
+      "cuisine": "Steakhouse, American",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/miller-lux"
     },
     {
       "name": "Minnie Bell's Soul Movement",
       "cuisine": "Southern",
       "price": "$",
-      "path": "/usa/california/san-francisco/MinnieBellsSoulMovement"
+      "path": "/usa/california/san-francisco/minnie-bells-soul-movement"
+    },
+    {
+      "name": "Movida",
+      "cuisine": "Mexican, Persian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/movida"
+    },
+    {
+      "name": "Nightbird",
+      "cuisine": "Californian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/nightbird"
+    },
+    {
+      "name": "Noodle in a Haystack",
+      "cuisine": "Japanese, Californian",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/noodle-in-a-haystack"
+    },
+    {
+      "name": "Nopalito",
+      "cuisine": "Mexican, Californian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/nopalito"
+    },
+    {
+      "name": "Octavia",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/octavia"
+    },
+    {
+      "name": "Okane",
+      "cuisine": "Japanese, Izakaya",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/okane"
+    },
+    {
+      "name": "Oma San Francisco Station",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/oma-san-francisco-station"
+    },
+    {
+      "name": "Omakase",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/omakase"
+    },
+    {
+      "name": "Outerlands",
+      "cuisine": "Californian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/outerlands"
+    },
+    {
+      "name": "Palette Tea House",
+      "cuisine": "Chinese, Dim Sum",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/palette-tea-house"
+    },
+    {
+      "name": "Pearl 6101",
+      "cuisine": "Mediterranean Cuisine, Californian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/pearl6101"
+    },
+    {
+      "name": "Pizzetta 211",
+      "cuisine": "Pizza",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/pizzetta211"
+    },
+    {
+      "name": "Prelude",
+      "cuisine": "American, Southern",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/prelude"
+    },
+    {
+      "name": "Prik Hom",
+      "cuisine": "Thai, Californian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/prik-hom"
+    },
+    {
+      "name": "Prospect",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/prospect"
+    },
+    {
+      "name": "Rich Table",
+      "cuisine": "Californian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/rich-table"
+    },
+    {
+      "name": "Robin",
+      "cuisine": "Japanese, Californian",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/robin"
+    },
+    {
+      "name": "Rooh",
+      "cuisine": "Indian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/rooh"
+    },
+    {
+      "name": "Routier",
+      "cuisine": "French, Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/routier"
+    },
+    {
+      "name": "Saru",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/saru"
+    },
+    {
+      "name": "Saru Sushi Bar",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/saru-sushi-bar"
+    },
+    {
+      "name": "Sato Omakase",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/sato-omakase"
+    },
+    {
+      "name": "Shizen",
+      "cuisine": "Vegan, Asian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/shizen"
+    },
+    {
+      "name": "Sorella",
+      "cuisine": "Italian, Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/sorella"
+    },
+    {
+      "name": "SPQR",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/spqr"
+    },
+    {
+      "name": "Spruce",
+      "cuisine": "Californian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/spruce"
+    },
+    {
+      "name": "Sungho",
+      "cuisine": "Korean",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/sungho"
+    },
+    {
+      "name": "The Morris",
+      "cuisine": "Contemporary, Californian",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/the-morris"
+    },
+    {
+      "name": "The Wild",
+      "cuisine": "Contemporary, Californian",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/the-wild"
+    },
+    {
+      "name": "Tiya",
+      "cuisine": "Indian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/tiya"
+    },
+    {
+      "name": "Trestle",
+      "cuisine": "Contemporary, Californian",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/trestle"
+    },
+    {
+      "name": "Verjus",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/verjus"
     },
     {
       "name": "Via Aurelia",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/usa/california/san-francisco/ViaAurelia"
+      "path": "/usa/california/san-francisco/via-aurelia"
+    },
+    {
+      "name": "Yank Sing",
+      "cuisine": "Chinese, Dim Sum",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/yank-sing"
+    },
+    {
+      "name": "Yuji",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/usa/california/san-francisco/yuji"
+    },
+    {
+      "name": "Z & Y",
+      "cuisine": "Chinese, Sichuan",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/z-y"
+    },
+    {
+      "name": "Zuni Café",
+      "cuisine": "Californian, French",
+      "price": "$$$",
+      "path": "/usa/california/san-francisco/zuni-caf"
     }
   ]
 }

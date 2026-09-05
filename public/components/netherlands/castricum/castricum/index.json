@@ -1,20 +1,21 @@
 {
   "title": "Castricum",
-  "country": "netherlands",
-  "region": "castricum",
-  "city": "castricum",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "castricum",
+  "city": "Castricum",
+  "citySlug": "castricum",
+  "path": "/netherlands/castricum/castricum/restaurants",
+  "canonicalPath": "/netherlands/castricum/castricum/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Apicius",
       "cuisine": "Modern Cuisine, Classic Cuisine",
       "price": "€€€",
-      "path": "/netherlands/castricum/castricum/apicius"
-    },
-    {
-      "name": "Le Moulin",
-      "cuisine": "Traditional Cuisine, Classic French",
-      "price": "€€",
-      "path": "/netherlands/castricum/castricum/le-moulin"
+      "path": "/netherlands/castricum/castricum/apicius-c-a-s",
+      "award": "★"
     },
     {
       "name": "Le Moulin",

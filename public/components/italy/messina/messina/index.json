@@ -1,8 +1,14 @@
 {
   "title": "Messina",
-  "country": "italy",
-  "region": "messina",
-  "city": "messina",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "messina",
+  "city": "Messina",
+  "citySlug": "messina",
+  "path": "/italy/messina/messina/restaurants",
+  "canonicalPath": "/italy/messina/messina/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Marina del Nettuno",

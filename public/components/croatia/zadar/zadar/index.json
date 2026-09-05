@@ -1,6 +1,21 @@
 {
   "title": "Zadar",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "zadar",
+  "city": "Zadar",
+  "citySlug": "zadar",
+  "path": "/croatia/zadar/zadar/restaurants",
+  "canonicalPath": "/croatia/zadar/zadar/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Foša",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/croatia/zadar/zadar/foa"
+    },
     {
       "name": "Kaštel",
       "cuisine": "Mediterranean Cuisine, Contemporary",
@@ -8,22 +23,16 @@
       "path": "/croatia/zadar/zadar/katel"
     },
     {
-      "name": "Foša",
-      "cuisine": "Seafood",
-      "price": "$$$",
-      "path": "/croatia/zadar/zadar/Foa"
-    },
-    {
       "name": "LABRAX",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/croatia/zadar/zadar/Labrax"
+      "path": "/croatia/zadar/zadar/labrax"
     },
     {
       "name": "Maguro",
       "cuisine": "Fusion",
       "price": "$$",
-      "path": "/croatia/zadar/zadar/Maguro"
+      "path": "/croatia/zadar/zadar/maguro"
     }
   ]
 }

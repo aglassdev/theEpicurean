@@ -1,8 +1,14 @@
 {
   "title": "Les Damps",
-  "country": "france",
-  "region": "les-damps",
-  "city": "les-damps",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "les-damps",
+  "city": "Les Damps",
+  "citySlug": "les-damps",
+  "path": "/france/les-damps/les-damps/restaurants",
+  "canonicalPath": "/france/les-damps/les-damps/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Auberge de la Pomme",

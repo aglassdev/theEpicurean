@@ -1,11 +1,20 @@
 {
   "title": "Ferrensby",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "ferrensby",
+  "city": "Ferrensby",
+  "citySlug": "ferrensby",
+  "path": "/uk/ferrensby/ferrensby/restaurants",
+  "canonicalPath": "/uk/ferrensby/ferrensby/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The General Tarleton",
       "cuisine": "Modern British",
       "price": "$$$",
-      "path": "/uk/ferrensby/ferrensby/TheGeneralTarleton"
+      "path": "/uk/ferrensby/ferrensby/the-general-tarleton"
     }
   ]
 }

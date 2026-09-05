@@ -1,8 +1,14 @@
 {
   "title": "Singen",
-  "country": "germany",
-  "region": "singen",
-  "city": "singen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "singen",
+  "city": "Singen",
+  "citySlug": "singen",
+  "path": "/germany/singen/singen/restaurants",
+  "canonicalPath": "/germany/singen/singen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthaus Sternen",

@@ -1,8 +1,14 @@
 {
   "title": "Als",
-  "country": "france",
-  "region": "als",
-  "city": "als",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "als",
+  "city": "Als",
+  "citySlug": "als",
+  "path": "/france/als/als/restaurants",
+  "canonicalPath": "/france/als/als/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Épices et Tout",

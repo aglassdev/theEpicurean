@@ -1,0 +1,27 @@
+{
+  "title": "San Anselmo",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "San Anselmo",
+  "citySlug": "san-anselmo",
+  "path": "/usa/other/san-anselmo/restaurants",
+  "canonicalPath": "/usa/california/san-anselmo/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Madcap",
+      "cuisine": "Contemporary, Asian Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/san-anselmo/madcap",
+      "award": "★"
+    },
+    {
+      "name": "Insalata's",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/usa/california/san-anselmo/insalatas"
+    }
+  ]
+}

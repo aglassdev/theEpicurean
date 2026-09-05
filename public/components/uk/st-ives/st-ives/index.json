@@ -1,20 +1,20 @@
 {
-  "title": "St Ives",
-  "country": "uk",
-  "region": "st-ives",
-  "city": "st-ives",
+  "title": "St. Ives",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "st-ives",
+  "city": "St. Ives",
+  "citySlug": "st-ives",
+  "path": "/uk/st-ives/st-ives/restaurants",
+  "canonicalPath": "/uk/st-ives/st-ives/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Ardor",
       "cuisine": "Mediterranean Cuisine",
       "price": "££",
-      "path": "/uk/st-ives/st-ives/ardor"
-    },
-    {
-      "name": "Ardor",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "££",
-      "path": "/uk/st-ives/st-ives/ardor"
+      "path": "/uk/st-ives/st-ives/ardor-s-t-i"
     },
     {
       "name": "Porthminster Beach Café",

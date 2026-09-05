@@ -1,14 +1,21 @@
 {
   "title": "Vxj",
-  "country": "sweden",
-  "region": "vxj",
-  "city": "vxj",
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "region": null,
+  "regionSlug": "vxj",
+  "city": "Vxj",
+  "citySlug": "vxj",
+  "path": "/sweden/vxj/vxj/restaurants",
+  "canonicalPath": "/sweden/vxj/vxj/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "PM & Vänner Restaurant",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/sweden/vxj/vxj/pm-vnner-restaurant"
+      "path": "/sweden/vxj/vxj/pm-vnner-restaurant",
+      "award": "★"
     }
   ]
 }

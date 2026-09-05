@@ -1,11 +1,56 @@
 {
   "title": "Maastricht",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "maastricht",
+  "city": "Maastricht",
+  "citySlug": "maastricht",
+  "path": "/netherlands/maastricht/maastricht/restaurants",
+  "canonicalPath": "/netherlands/maastricht/maastricht/restaurants",
+  "count": 19,
   "restaurants": [
     {
       "name": "Au Coin des Bons Enfants",
       "cuisine": "Modern French, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/netherlands/maastricht/maastricht/au-coin-des-bons-enfants"
+      "path": "/netherlands/maastricht/maastricht/au-coin-des-bons-enfants",
+      "award": "★"
+    },
+    {
+      "name": "Beluga Loves You",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/netherlands/maastricht/maastricht/beluga-loves-you",
+      "award": "★"
+    },
+    {
+      "name": "Château Neercanne",
+      "cuisine": "French Contemporary",
+      "price": "€€€€",
+      "path": "/netherlands/maastricht/maastricht/chteau-neercanne",
+      "award": "★"
+    },
+    {
+      "name": "Restaurant Château Neercanne",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/netherlands/maastricht/maastricht/restaurant-chteau-neercanne",
+      "award": "★"
+    },
+    {
+      "name": "Studio",
+      "cuisine": "Asian Influences, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/netherlands/maastricht/maastricht/studio",
+      "award": "★"
+    },
+    {
+      "name": "Tout à Fait",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/netherlands/maastricht/maastricht/tout-fait",
+      "award": "★"
     },
     {
       "name": "Bar Beurre",
@@ -14,22 +59,10 @@
       "path": "/netherlands/maastricht/maastricht/bar-beurre"
     },
     {
-      "name": "Beluga Loves You",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/netherlands/maastricht/maastricht/beluga-loves-you"
-    },
-    {
       "name": "Café Sjiek",
       "cuisine": "Traditional Cuisine, Classic French",
       "price": "€€",
       "path": "/netherlands/maastricht/maastricht/caf-sjiek"
-    },
-    {
-      "name": "Château Neercanne",
-      "cuisine": "French Contemporary",
-      "price": "€€€€",
-      "path": "/netherlands/maastricht/maastricht/chteau-neercanne"
     },
     {
       "name": "Danyel",
@@ -53,7 +86,7 @@
       "name": "L'Auberge",
       "cuisine": "Classic Cuisine, French",
       "price": "€€",
-      "path": "/netherlands/maastricht/maastricht/lauberge"
+      "path": "/netherlands/maastricht/maastricht/lauberge-m-a-a"
     },
     {
       "name": "NOVO New Dining",
@@ -83,13 +116,7 @@
       "name": "Restaurant 55",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/netherlands/maastricht/maastricht/restaurant-55"
-    },
-    {
-      "name": "Studio",
-      "cuisine": "Asian Influences, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/netherlands/maastricht/maastricht/studio"
+      "path": "/netherlands/maastricht/maastricht/restaurant55"
     },
     {
       "name": "Tabkeaw",
@@ -98,22 +125,10 @@
       "path": "/netherlands/maastricht/maastricht/tabkeaw"
     },
     {
-      "name": "Tout à Fait",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/netherlands/maastricht/maastricht/tout-fait"
-    },
-    {
       "name": "WY.",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/netherlands/maastricht/maastricht/wy"
-    },
-    {
-      "name": "Restaurant Château Neercanne",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/netherlands/maastricht/maastricht/RestaurantChteauNeercanne"
     }
   ]
 }

@@ -1,9 +1,22 @@
 {
   "title": "Norderney",
-  "country": "germany",
-  "region": "norderney",
-  "city": "norderney",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "norderney",
+  "city": "Norderney",
+  "citySlug": "norderney",
+  "path": "/germany/norderney/norderney/restaurants",
+  "canonicalPath": "/germany/norderney/norderney/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Seesteg",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€",
+      "path": "/germany/norderney/norderney/seesteg",
+      "award": "★"
+    },
     {
       "name": "La Mer",
       "cuisine": "Classic French, French Contemporary",
@@ -21,12 +34,6 @@
       "cuisine": "Contemporary, Regional Cuisine",
       "price": "€€€",
       "path": "/germany/norderney/norderney/oktopussy"
-    },
-    {
-      "name": "Seesteg",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€",
-      "path": "/germany/norderney/norderney/seesteg"
     }
   ]
 }

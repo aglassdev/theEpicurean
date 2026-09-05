@@ -1,14 +1,20 @@
 {
   "title": "Wrecclesham",
-  "country": "uk",
-  "region": "wrecclesham",
-  "city": "wrecclesham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "wrecclesham",
+  "city": "Wrecclesham",
+  "citySlug": "wrecclesham",
+  "path": "/uk/wrecclesham/wrecclesham/restaurants",
+  "canonicalPath": "/uk/wrecclesham/wrecclesham/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison",
       "cuisine": "Modern Cuisine",
       "price": "£££",
-      "path": "/uk/wrecclesham/wrecclesham/maison"
+      "path": "/uk/wrecclesham/wrecclesham/maison-w-r-e"
     }
   ]
 }

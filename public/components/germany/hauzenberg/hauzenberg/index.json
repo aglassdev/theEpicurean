@@ -1,8 +1,14 @@
 {
   "title": "Hauzenberg",
-  "country": "germany",
-  "region": "hauzenberg",
-  "city": "hauzenberg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hauzenberg",
+  "city": "Hauzenberg",
+  "citySlug": "hauzenberg",
+  "path": "/germany/hauzenberg/hauzenberg/restaurants",
+  "canonicalPath": "/germany/hauzenberg/hauzenberg/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Anetseder",
@@ -14,7 +20,7 @@
       "name": "Landgasthaus Gidibauer-Hof",
       "cuisine": "Country cooking, Farm to table",
       "price": "€",
-      "path": "/germany/hauzenberg/hauzenberg/landgasthaus-gidibauer-hof"
+      "path": "/germany/hauzenberg/hauzenberg/landgasthaus-gidibauerhof"
     }
   ]
 }

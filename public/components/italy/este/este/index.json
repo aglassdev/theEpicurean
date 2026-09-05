@@ -1,8 +1,14 @@
 {
   "title": "Este",
-  "country": "italy",
-  "region": "este",
-  "city": "este",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "este",
+  "city": "Este",
+  "citySlug": "este",
+  "path": "/italy/este/este/restaurants",
+  "canonicalPath": "/italy/este/este/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Incàlmo",

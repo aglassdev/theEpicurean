@@ -1,11 +1,27 @@
 {
   "title": "Big Sur",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Big Sur",
+  "citySlug": "big-sur",
+  "path": "/usa/other/big-sur/restaurants",
+  "canonicalPath": "/usa/other/big-sur/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Nepenthe",
       "cuisine": "",
       "price": "",
-      "path": "/usa/other/big-sur/Nepenthe"
+      "path": "/usa/other/big-sur/nepenthe",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Sierra Mar",
+      "cuisine": "Californian, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/big-sur/sierra-mar"
     }
   ]
 }

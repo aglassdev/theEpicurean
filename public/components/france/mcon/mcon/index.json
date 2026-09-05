@@ -1,9 +1,22 @@
 {
   "title": "Mcon",
-  "country": "france",
-  "region": "mcon",
-  "city": "mcon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "mcon",
+  "city": "Mcon",
+  "citySlug": "mcon",
+  "path": "/france/mcon/mcon/restaurants",
+  "canonicalPath": "/france/mcon/mcon/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Pierre",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/france/mcon/mcon/pierre",
+      "award": "★"
+    },
     {
       "name": "Cassis",
       "cuisine": "Modern Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/mcon/mcon/ma-table-en-ville"
-    },
-    {
-      "name": "Pierre",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€",
-      "path": "/france/mcon/mcon/pierre"
     }
   ]
 }

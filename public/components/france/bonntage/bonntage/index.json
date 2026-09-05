@@ -1,20 +1,27 @@
 {
   "title": "Bonntage",
-  "country": "france",
-  "region": "bonntage",
-  "city": "bonntage",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bonntage",
+  "city": "Bonntage",
+  "citySlug": "bonntage",
+  "path": "/france/bonntage/bonntage/restaurants",
+  "canonicalPath": "/france/bonntage/bonntage/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Le Bistrot",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/bonntage/bonntage/le-bistrot"
-    },
     {
       "name": "L'Étang du Moulin",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/bonntage/bonntage/ltang-du-moulin"
+      "path": "/france/bonntage/bonntage/ltang-du-moulin",
+      "award": "★"
+    },
+    {
+      "name": "Le Bistrot",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/bonntage/bonntage/le-bistrot-b-o-n"
     }
   ]
 }

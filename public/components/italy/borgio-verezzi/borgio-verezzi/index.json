@@ -1,14 +1,20 @@
 {
   "title": "Borgio Verezzi",
-  "country": "italy",
-  "region": "borgio-verezzi",
-  "city": "borgio-verezzi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "borgio-verezzi",
+  "city": "Borgio Verezzi",
+  "citySlug": "borgio-verezzi",
+  "path": "/italy/borgio-verezzi/borgio-verezzi/restaurants",
+  "canonicalPath": "/italy/borgio-verezzi/borgio-verezzi/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Doc",
       "cuisine": "Classic Cuisine",
       "price": "€€",
-      "path": "/italy/borgio-verezzi/borgio-verezzi/doc"
+      "path": "/italy/borgio-verezzi/borgio-verezzi/doc-b-o-r"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Goosnargh",
-  "country": "uk",
-  "region": "goosnargh",
-  "city": "goosnargh",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "goosnargh",
+  "city": "Goosnargh",
+  "citySlug": "goosnargh",
+  "path": "/uk/goosnargh/goosnargh/restaurants",
+  "canonicalPath": "/uk/goosnargh/goosnargh/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ye Horns Inn",

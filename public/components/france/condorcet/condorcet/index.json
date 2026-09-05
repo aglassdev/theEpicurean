@@ -1,8 +1,14 @@
 {
   "title": "Condorcet",
-  "country": "france",
-  "region": "condorcet",
-  "city": "condorcet",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "condorcet",
+  "city": "Condorcet",
+  "citySlug": "condorcet",
+  "path": "/france/condorcet/condorcet/restaurants",
+  "canonicalPath": "/france/condorcet/condorcet/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Charrette Bleue",

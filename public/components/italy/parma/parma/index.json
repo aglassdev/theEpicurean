@@ -1,9 +1,22 @@
 {
   "title": "Parma",
-  "country": "italy",
-  "region": "parma",
-  "city": "parma",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "parma",
+  "city": "Parma",
+  "citySlug": "parma",
+  "path": "/italy/parma/parma/restaurants",
+  "canonicalPath": "/italy/parma/parma/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "Inkiostro",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/parma/parma/inkiostro",
+      "award": "★"
+    },
     {
       "name": "Brisla",
       "cuisine": "Emilian, Regional Cuisine",
@@ -29,12 +42,6 @@
       "path": "/italy/parma/parma/i-tri-siochtt"
     },
     {
-      "name": "Inkiostro",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/parma/parma/inkiostro"
-    },
-    {
       "name": "Meltemi",
       "cuisine": "Seafood",
       "price": "€€",
@@ -44,7 +51,7 @@
       "name": "Osteria del 36",
       "cuisine": "Emilian, Classic Cuisine",
       "price": "€",
-      "path": "/italy/parma/parma/osteria-del-36"
+      "path": "/italy/parma/parma/osteria-del36"
     },
     {
       "name": "Parizzi",

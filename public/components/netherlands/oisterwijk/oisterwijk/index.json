@@ -1,20 +1,27 @@
 {
   "title": "Oisterwijk",
-  "country": "netherlands",
-  "region": "oisterwijk",
-  "city": "oisterwijk",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "oisterwijk",
+  "city": "Oisterwijk",
+  "citySlug": "oisterwijk",
+  "path": "/netherlands/oisterwijk/oisterwijk/restaurants",
+  "canonicalPath": "/netherlands/oisterwijk/oisterwijk/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Alma",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/netherlands/oisterwijk/oisterwijk/alma-o-i-s",
+      "award": "★"
+    },
     {
       "name": "Alma Bodega",
       "cuisine": "Seasonal Cuisine, Contemporary",
       "price": "€€",
       "path": "/netherlands/oisterwijk/oisterwijk/alma-bodega"
-    },
-    {
-      "name": "Alma",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/netherlands/oisterwijk/oisterwijk/alma"
     }
   ]
 }

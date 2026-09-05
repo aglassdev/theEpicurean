@@ -1,17 +1,26 @@
 {
   "title": "West Yorkshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "Yorkshire the Humber",
+  "regionSlug": "yorkshire-the-humber",
+  "city": "West Yorkshire",
+  "citySlug": "west-yorkshire",
+  "path": "/uk/yorkshire-the-humber/west-yorkshire/restaurants",
+  "canonicalPath": "/uk/yorkshire-the-humber/west-yorkshire/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Wood Hall Hotel & Spa",
-      "cuisine": "Afternoon Tea",
-      "price": "36.50",
-      "path": "/uk/yorkshire-the-humber/west-yorkshire/WoodHallHotelSpa"
-    },
     {
       "name": "The Clevedon at Ben Rhydding",
       "cuisine": "Afternoon Tea",
       "price": "22.50",
-      "path": "/uk/yorkshire-the-humber/west-yorkshire/TheClevedonAtBenRhydding"
+      "path": "/uk/yorkshire-the-humber/west-yorkshire/the-clevedon-at-ben-rhydding"
+    },
+    {
+      "name": "Wood Hall Hotel & Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "36.50",
+      "path": "/uk/yorkshire-the-humber/west-yorkshire/wood-hall-hotel-spa"
     }
   ]
 }

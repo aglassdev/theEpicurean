@@ -1,0 +1,51 @@
+{
+  "title": "West Palm Beach",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "other",
+  "city": "West Palm Beach",
+  "citySlug": "west-palm-beach",
+  "path": "/usa/other/west-palm-beach/restaurants",
+  "canonicalPath": "/usa/florida/west-palm-beach/restaurants",
+  "count": 6,
+  "restaurants": [
+    {
+      "name": "Emelina",
+      "cuisine": "Cuban",
+      "price": "$$$",
+      "path": "/usa/florida/west-palm-beach/emelina",
+      "award": "★"
+    },
+    {
+      "name": "aioli",
+      "cuisine": "American",
+      "price": "$$",
+      "path": "/usa/florida/west-palm-beach/aioli"
+    },
+    {
+      "name": "Ela Curry & Cocktails",
+      "cuisine": "Indian",
+      "price": "$$$",
+      "path": "/usa/florida/west-palm-beach/ela-curry-cocktails"
+    },
+    {
+      "name": "Moody Tongue Sushi",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/usa/florida/west-palm-beach/moody-tongue-sushi"
+    },
+    {
+      "name": "Palm Beach Meats",
+      "cuisine": "American",
+      "price": "$$",
+      "path": "/usa/florida/west-palm-beach/palm-beach-meats"
+    },
+    {
+      "name": "Stage Kitchen & Bar",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/usa/florida/west-palm-beach/stage-kitchen-bar"
+    }
+  ]
+}

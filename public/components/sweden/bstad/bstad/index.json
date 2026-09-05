@@ -1,11 +1,20 @@
 {
-  "title": "Båstad",
+  "title": "Bstad",
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "region": null,
+  "regionSlug": "bstad",
+  "city": "Bstad",
+  "citySlug": "bstad",
+  "path": "/sweden/bstad/bstad/restaurants",
+  "canonicalPath": "/sweden/bstad/bstad/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pensionat Furuhem",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/sweden/bstad/bstad/PensionatFuruhem"
+      "path": "/sweden/bstad/bstad/pensionat-furuhem"
     }
   ]
 }

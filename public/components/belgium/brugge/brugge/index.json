@@ -1,9 +1,36 @@
 {
   "title": "Brugge",
-  "country": "belgium",
-  "region": "brugge",
-  "city": "brugge",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "brugge",
+  "city": "Brugge",
+  "citySlug": "brugge",
+  "path": "/belgium/brugge/brugge/restaurants",
+  "canonicalPath": "/belgium/brugge/brugge/restaurants",
+  "count": 21,
   "restaurants": [
+    {
+      "name": "Mémoire",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/belgium/brugge/brugge/mmoire",
+      "award": "★"
+    },
+    {
+      "name": "Sans Cravate",
+      "cuisine": "Creative French, Creative",
+      "price": "€€€€",
+      "path": "/belgium/brugge/brugge/sans-cravate",
+      "award": "★"
+    },
+    {
+      "name": "Zet'Joe by Geert Van Hecke",
+      "cuisine": "Creative French",
+      "price": "€€€€",
+      "path": "/belgium/brugge/brugge/zetjoe-by-geert-van-hecke",
+      "award": "★"
+    },
     {
       "name": "Assiette Blanche",
       "cuisine": "Modern French",
@@ -50,13 +77,19 @@
       "name": "Goesepitte 43",
       "cuisine": "Farm to table, Modern French",
       "price": "€€€",
-      "path": "/belgium/brugge/brugge/goesepitte-43"
+      "path": "/belgium/brugge/brugge/goesepitte43"
     },
     {
       "name": "Jacobin",
       "cuisine": "Seasonal Cuisine",
       "price": "€€",
       "path": "/belgium/brugge/brugge/jacobin"
+    },
+    {
+      "name": "L.E.S.S. Eatery",
+      "cuisine": "Asian Influences",
+      "price": "€€€€",
+      "path": "/belgium/brugge/brugge/less-eatery"
     },
     {
       "name": "L'aperovino",
@@ -71,22 +104,10 @@
       "path": "/belgium/brugge/brugge/le-mystique"
     },
     {
-      "name": "L.E.S.S. Eatery",
-      "cuisine": "Asian Influences",
-      "price": "€€€€",
-      "path": "/belgium/brugge/brugge/less-eatery"
-    },
-    {
       "name": "Locàle by Kok au Vin",
       "cuisine": "Country cooking, Farm to table",
       "price": "€€€",
       "path": "/belgium/brugge/brugge/locle-by-kok-au-vin"
-    },
-    {
-      "name": "Mémoire",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/belgium/brugge/brugge/mmoire"
     },
     {
       "name": "Onslow",
@@ -110,25 +131,13 @@
       "name": "Rock-Fort",
       "cuisine": "Seafood",
       "price": "€€€",
-      "path": "/belgium/brugge/brugge/rock-fort"
-    },
-    {
-      "name": "Sans Cravate",
-      "cuisine": "Creative French, Creative",
-      "price": "€€€€",
-      "path": "/belgium/brugge/brugge/sans-cravate"
+      "path": "/belgium/brugge/brugge/rockfort"
     },
     {
       "name": "Tou.Gou",
       "cuisine": "Farm to table, Creative French",
       "price": "€€",
       "path": "/belgium/brugge/brugge/tougou"
-    },
-    {
-      "name": "Zet'Joe by Geert Van Hecke",
-      "cuisine": "Creative French",
-      "price": "€€€€",
-      "path": "/belgium/brugge/brugge/zetjoe-by-geert-van-hecke"
     }
   ]
 }

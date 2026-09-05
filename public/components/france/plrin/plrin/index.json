@@ -1,20 +1,21 @@
 {
   "title": "Plrin",
-  "country": "france",
-  "region": "plrin",
-  "city": "plrin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "plrin",
+  "city": "Plrin",
+  "citySlug": "plrin",
+  "path": "/france/plrin/plrin/restaurants",
+  "canonicalPath": "/france/plrin/plrin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Vieille Tour",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/plrin/plrin/la-vieille-tour"
-    },
-    {
-      "name": "La Vieille Tour",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/plrin/plrin/la-vieille-tour"
+      "path": "/france/plrin/plrin/la-vieille-tour",
+      "award": "★"
     }
   ]
 }

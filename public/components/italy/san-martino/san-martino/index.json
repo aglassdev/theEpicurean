@@ -1,14 +1,21 @@
 {
   "title": "San Martino",
-  "country": "italy",
-  "region": "san-martino",
-  "city": "san-martino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-martino",
+  "city": "San Martino",
+  "citySlug": "san-martino",
+  "path": "/italy/san-martino/san-martino/restaurants",
+  "canonicalPath": "/italy/san-martino/san-martino/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Falconiere",
       "cuisine": "Tuscan, Contemporary",
       "price": "€€€€",
-      "path": "/italy/san-martino/san-martino/il-falconiere"
+      "path": "/italy/san-martino/san-martino/il-falconiere",
+      "award": "★"
     }
   ]
 }

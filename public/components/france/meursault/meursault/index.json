@@ -1,8 +1,14 @@
 {
   "title": "Meursault",
-  "country": "france",
-  "region": "meursault",
-  "city": "meursault",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "meursault",
+  "city": "Meursault",
+  "citySlug": "meursault",
+  "path": "/france/meursault/meursault/restaurants",
+  "canonicalPath": "/france/meursault/meursault/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Au Fil du Clos",

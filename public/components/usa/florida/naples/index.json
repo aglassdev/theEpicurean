@@ -1,17 +1,26 @@
 {
   "title": "Naples",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Naples",
+  "citySlug": "naples",
+  "path": "/usa/florida/naples/restaurants",
+  "canonicalPath": "/usa/florida/naples/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bicyclette Cookshop",
       "cuisine": "American",
       "price": "$$$",
-      "path": "/usa/florida/naples/BicycletteCookshop"
+      "path": "/usa/florida/naples/bicyclette-cookshop"
     },
     {
       "name": "Tong Yin",
       "cuisine": "Thai",
       "price": "$$",
-      "path": "/usa/florida/naples/TongYin"
+      "path": "/usa/florida/naples/tong-yin"
     }
   ]
 }

@@ -1,17 +1,34 @@
 {
   "title": "Glasgow City",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "glasgow-city",
+  "city": "Glasgow City",
+  "citySlug": "glasgow-city",
+  "path": "/uk/glasgow-city/glasgow-city/restaurants",
+  "canonicalPath": "/uk/glasgow-city/glasgow-city/restaurants",
+  "count": 16,
   "restaurants": [
+    {
+      "name": "Cail Bruich",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/glasgow-city/glasgow-city/cail-bruich",
+      "award": "★"
+    },
+    {
+      "name": "UNALOME by Graeme Cheevers",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/glasgow-city/glasgow-city/unalome-by-graeme-cheevers",
+      "award": "★"
+    },
     {
       "name": "Brett",
       "cuisine": "Modern British, Grills",
       "price": "£££",
       "path": "/uk/glasgow-city/glasgow-city/brett"
-    },
-    {
-      "name": "Cail Bruich",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/glasgow-city/glasgow-city/cail-bruich"
     },
     {
       "name": "Celentano's",
@@ -23,7 +40,13 @@
       "name": "Elements",
       "cuisine": "Modern Cuisine",
       "price": "£££",
-      "path": "/uk/glasgow-city/glasgow-city/elements"
+      "path": "/uk/glasgow-city/glasgow-city/elements-g-l-a"
+    },
+    {
+      "name": "Eleven Fifty Five",
+      "cuisine": "Modern British",
+      "price": "$$$",
+      "path": "/uk/glasgow-city/glasgow-city/eleven-fifty-five"
     },
     {
       "name": "Fallachan Kitchen",
@@ -50,16 +73,10 @@
       "path": "/uk/glasgow-city/glasgow-city/margo"
     },
     {
-      "name": "Margo",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "££",
-      "path": "/uk/glasgow-city/glasgow-city/margo"
-    },
-    {
       "name": "Number 16",
       "cuisine": "Modern Cuisine",
       "price": "££",
-      "path": "/uk/glasgow-city/glasgow-city/number-16"
+      "path": "/uk/glasgow-city/glasgow-city/number16"
     },
     {
       "name": "Ox and Finch",
@@ -90,18 +107,6 @@
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/glasgow-city/glasgow-city/the-gannet"
-    },
-    {
-      "name": "UNALOME by Graeme Cheevers",
-      "cuisine": "Modern British",
-      "price": "££££",
-      "path": "/uk/glasgow-city/glasgow-city/unalome-by-graeme-cheevers"
-    },
-    {
-      "name": "Eleven Fifty Five",
-      "cuisine": "Modern British",
-      "price": "$$$",
-      "path": "/uk/glasgow-city/glasgow-city/ElevenFiftyFive"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "title": "Grignan",
-  "country": "france",
-  "region": "grignan",
-  "city": "grignan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "grignan",
+  "city": "Grignan",
+  "citySlug": "grignan",
+  "path": "/france/grignan/grignan/restaurants",
+  "canonicalPath": "/france/grignan/grignan/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Clair de la Plume",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/grignan/grignan/le-clair-de-la-plume",
+      "award": "★"
+    },
     {
       "name": "Le Bistro Chapouton",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/grignan/grignan/le-bistro-chapouton"
-    },
-    {
-      "name": "Le Clair de la Plume",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/grignan/grignan/le-clair-de-la-plume"
     }
   ]
 }

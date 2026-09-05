@@ -1,11 +1,21 @@
 {
   "title": "New Delhi",
+  "country": "India",
+  "countrySlug": "india",
+  "region": null,
+  "regionSlug": "new-delhi",
+  "city": "New Delhi",
+  "citySlug": "new-delhi",
+  "path": "/india/new-delhi/new-delhi/restaurants",
+  "canonicalPath": "/india/new-delhi/new-delhi/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bukhara",
       "cuisine": "",
       "price": "",
-      "path": "/india/new-delhi/new-delhi/Bukhara"
+      "path": "/india/new-delhi/new-delhi/bukhara",
+      "award": "World's 50 Best"
     }
   ]
 }

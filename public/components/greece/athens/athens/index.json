@@ -1,9 +1,99 @@
 {
   "title": "Athens",
-  "country": "greece",
-  "region": "athens",
-  "city": "athens",
+  "country": "Greece",
+  "countrySlug": "greece",
+  "region": null,
+  "regionSlug": "athens",
+  "city": "Athens",
+  "citySlug": "athens",
+  "path": "/greece/athens/athens/restaurants",
+  "canonicalPath": "/greece/athens/athens/restaurants",
+  "count": 35,
   "restaurants": [
+    {
+      "name": "Delta",
+      "cuisine": "Creative, Greek",
+      "price": "€€€€",
+      "path": "/greece/athens/athens/delta",
+      "award": "★★"
+    },
+    {
+      "name": "Botrini's",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/greece/athens/athens/botrinis",
+      "award": "★"
+    },
+    {
+      "name": "CTC Urban Gastronomy",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/greece/athens/athens/ctc-urban-gastronomy",
+      "award": "★"
+    },
+    {
+      "name": "Hervé",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/greece/athens/athens/herv",
+      "award": "★"
+    },
+    {
+      "name": "Hytra",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/greece/athens/athens/hytra",
+      "award": "★"
+    },
+    {
+      "name": "Makris Athens",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/greece/athens/athens/makris-athens",
+      "award": "★"
+    },
+    {
+      "name": "Patio",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/greece/athens/athens/patio",
+      "award": "★"
+    },
+    {
+      "name": "Pelagos",
+      "cuisine": "Contemporary, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/greece/athens/athens/pelagos",
+      "award": "★"
+    },
+    {
+      "name": "Soil",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/greece/athens/athens/soil",
+      "award": "★"
+    },
+    {
+      "name": "Spondi",
+      "cuisine": "French",
+      "price": "€€€€",
+      "path": "/greece/athens/athens/spondi",
+      "award": "★"
+    },
+    {
+      "name": "The Zillers Rooftop Gastronomy",
+      "cuisine": "Contemporary, Greek",
+      "price": "€€€",
+      "path": "/greece/athens/athens/the-zillers-rooftop-gastronomy",
+      "award": "★"
+    },
+    {
+      "name": "Tudor Hall",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/greece/athens/athens/tudor-hall",
+      "award": "★"
+    },
     {
       "name": "Akra",
       "cuisine": "Greek, Contemporary",
@@ -29,28 +119,10 @@
       "path": "/greece/athens/athens/annie-fine-cooking"
     },
     {
-      "name": "Botrini's",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/greece/athens/athens/botrinis"
-    },
-    {
       "name": "Cerdo Negro 1985",
       "cuisine": "Mediterranean Cuisine, Fusion",
       "price": "€€",
-      "path": "/greece/athens/athens/cerdo-negro-1985"
-    },
-    {
-      "name": "CTC Urban Gastronomy",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/greece/athens/athens/ctc-urban-gastronomy"
-    },
-    {
-      "name": "Delta",
-      "cuisine": "Creative, Greek",
-      "price": "€€€€",
-      "path": "/greece/athens/athens/delta"
+      "path": "/greece/athens/athens/cerdo-negro1985"
     },
     {
       "name": "Dolli's",
@@ -83,18 +155,6 @@
       "path": "/greece/athens/athens/gb-roof-garden"
     },
     {
-      "name": "Hervé",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "€€€",
-      "path": "/greece/athens/athens/herv"
-    },
-    {
-      "name": "Hytra",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/greece/athens/athens/hytra"
-    },
-    {
       "name": "Jerár",
       "cuisine": "International",
       "price": "€€",
@@ -105,12 +165,6 @@
       "cuisine": "Greek",
       "price": "€€",
       "path": "/greece/athens/athens/linou-soumpasis-co"
-    },
-    {
-      "name": "Makris Athens",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/greece/athens/athens/makris-athens"
     },
     {
       "name": "Merceri",
@@ -137,18 +191,6 @@
       "path": "/greece/athens/athens/ovio"
     },
     {
-      "name": "Patio",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/greece/athens/athens/patio"
-    },
-    {
-      "name": "Pelagos",
-      "cuisine": "Contemporary, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/greece/athens/athens/pelagos"
-    },
-    {
       "name": "Pharaoh",
       "cuisine": "Greek",
       "price": "€€",
@@ -164,37 +206,13 @@
       "name": "SENSE",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/greece/athens/athens/sense"
+      "path": "/greece/athens/athens/sense-a-t-h"
     },
     {
       "name": "Simul",
       "cuisine": "Creative",
       "price": "€€",
       "path": "/greece/athens/athens/simul"
-    },
-    {
-      "name": "Soil",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "€€€€",
-      "path": "/greece/athens/athens/soil"
-    },
-    {
-      "name": "Spondi",
-      "cuisine": "French",
-      "price": "€€€€",
-      "path": "/greece/athens/athens/spondi"
-    },
-    {
-      "name": "The Zillers Rooftop Gastronomy",
-      "cuisine": "Contemporary, Greek",
-      "price": "€€€",
-      "path": "/greece/athens/athens/the-zillers-rooftop-gastronomy"
-    },
-    {
-      "name": "Tudor Hall",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/greece/athens/athens/tudor-hall"
     },
     {
       "name": "Varoulko Seaside",

@@ -1,11 +1,76 @@
 {
   "title": "Brussels",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "brussels",
+  "city": "Brussels",
+  "citySlug": "brussels",
+  "path": "/belgium/brussels/brussels/restaurants",
+  "canonicalPath": "/belgium/brussels/brussels/restaurants",
+  "count": 42,
   "restaurants": [
+    {
+      "name": "Bozar Restaurant",
+      "cuisine": "Modern French, Creative",
+      "price": "€€€€",
+      "path": "/belgium/brussels/brussels/bozar-restaurant",
+      "award": "★★"
+    },
+    {
+      "name": "Barge",
+      "cuisine": "Organic, Farm to table",
+      "price": "€€€",
+      "path": "/belgium/brussels/brussels/barge",
+      "award": "★"
+    },
+    {
+      "name": "Comme chez Soi",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/belgium/brussels/brussels/comme-chez-soi",
+      "award": "★"
+    },
+    {
+      "name": "Eliane",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/belgium/brussels/brussels/eliane",
+      "award": "★"
+    },
+    {
+      "name": "La Villa in the Sky",
+      "cuisine": "Creative, Organic",
+      "price": "€€€€",
+      "path": "/belgium/brussels/brussels/la-villa-in-the-sky",
+      "award": "★"
+    },
+    {
+      "name": "La Villa Lorraine by Yves Mattagne",
+      "cuisine": "Modern Cuisine, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/belgium/brussels/brussels/la-villa-lorraine-by-yves-mattagne",
+      "award": "★"
+    },
+    {
+      "name": "senzanome",
+      "cuisine": "Italian, Sicilian",
+      "price": "€€€€",
+      "path": "/belgium/brussels/brussels/senzanome",
+      "award": "★"
+    },
+    {
+      "name": "Alley Mian",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/belgium/brussels/brussels/alley-mian",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Aster",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/belgium/brussels/brussels/aster"
+      "path": "/belgium/brussels/brussels/aster-b-r-u"
     },
     {
       "name": "Au Vieux Saint Martin",
@@ -20,22 +85,10 @@
       "path": "/belgium/brussels/brussels/aux-armes-de-bruxelles"
     },
     {
-      "name": "Barge",
-      "cuisine": "Organic, Farm to table",
-      "price": "€€€",
-      "path": "/belgium/brussels/brussels/barge"
-    },
-    {
       "name": "Belga Queen",
       "cuisine": "Belgian, Modern Cuisine",
       "price": "€€€",
       "path": "/belgium/brussels/brussels/belga-queen"
-    },
-    {
-      "name": "Bozar Restaurant",
-      "cuisine": "Modern French, Creative",
-      "price": "€€€€",
-      "path": "/belgium/brussels/brussels/bozar-restaurant"
     },
     {
       "name": "Brasserie de la Patinoire",
@@ -56,12 +109,6 @@
       "path": "/belgium/brussels/brussels/ciao"
     },
     {
-      "name": "Comme chez Soi",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/belgium/brussels/brussels/comme-chez-soi"
-    },
-    {
       "name": "Correspondance",
       "cuisine": "Asian Contemporary",
       "price": "€€",
@@ -72,12 +119,6 @@
       "cuisine": "Classic Cuisine, Belgian",
       "price": "€€",
       "path": "/belgium/brussels/brussels/de-logenblik"
-    },
-    {
-      "name": "Eliane",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/belgium/brussels/brussels/eliane"
     },
     {
       "name": "Gioia",
@@ -122,6 +163,12 @@
       "path": "/belgium/brussels/brussels/kline"
     },
     {
+      "name": "L'Écailler du Palais Royal",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/belgium/brussels/brussels/lcailler-du-palais-royal"
+    },
+    {
       "name": "La Belle Maraîchère",
       "cuisine": "Seafood, Classic Cuisine",
       "price": "€€€",
@@ -134,22 +181,10 @@
       "path": "/belgium/brussels/brussels/la-truffe-noire"
     },
     {
-      "name": "La Villa in the Sky",
-      "cuisine": "Creative, Organic",
-      "price": "€€€€",
-      "path": "/belgium/brussels/brussels/la-villa-in-the-sky"
-    },
-    {
-      "name": "La Villa Lorraine by Yves Mattagne",
-      "cuisine": "Modern Cuisine, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/belgium/brussels/brussels/la-villa-lorraine-by-yves-mattagne"
-    },
-    {
-      "name": "L'Écailler du Palais Royal",
-      "cuisine": "Seafood",
-      "price": "€€€",
-      "path": "/belgium/brussels/brussels/lcailler-du-palais-royal"
+      "name": "La Villa Lorraine",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/belgium/brussels/brussels/la-villa-lorraine"
     },
     {
       "name": "le Petit bon bon",
@@ -185,7 +220,7 @@
       "name": "Lola",
       "cuisine": "Seasonal Cuisine, French",
       "price": "€€€",
-      "path": "/belgium/brussels/brussels/lola"
+      "path": "/belgium/brussels/brussels/lola-b-r-u"
     },
     {
       "name": "Osteria Romana",
@@ -212,12 +247,6 @@
       "path": "/belgium/brussels/brussels/selecto"
     },
     {
-      "name": "senzanome",
-      "cuisine": "Italian, Sicilian",
-      "price": "€€€€",
-      "path": "/belgium/brussels/brussels/senzanome"
-    },
-    {
       "name": "Strofilia",
       "cuisine": "Greek, Mediterranean Cuisine",
       "price": "€€",
@@ -240,18 +269,6 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/belgium/brussels/brussels/vismet"
-    },
-    {
-      "name": "Alley Mian",
-      "cuisine": "Noodles",
-      "price": "$",
-      "path": "/belgium/brussels/brussels/AlleyMian"
-    },
-    {
-      "name": "La Villa Lorraine",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/belgium/brussels/brussels/LaVillaLorraine"
     }
   ]
 }

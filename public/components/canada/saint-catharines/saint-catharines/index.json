@@ -1,15 +1,15 @@
 {
   "title": "Saint Catharines",
-  "country": "canada",
-  "region": "saint-catharines",
-  "city": "saint-catharines",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "saint-catharines",
+  "city": "Saint Catharines",
+  "citySlug": "saint-catharines",
+  "path": "/canada/saint-catharines/saint-catharines/restaurants",
+  "canonicalPath": "/canada/saint-catharines/saint-catharines/restaurants",
+  "count": 1,
   "restaurants": [
-    {
-      "name": "Fat Rabbit",
-      "cuisine": "Steakhouse",
-      "price": "$$$",
-      "path": "/canada/saint-catharines/saint-catharines/fat-rabbit"
-    },
     {
       "name": "Fat Rabbit",
       "cuisine": "Steakhouse",

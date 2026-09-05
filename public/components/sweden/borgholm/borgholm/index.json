@@ -1,8 +1,14 @@
 {
   "title": "Borgholm",
-  "country": "sweden",
-  "region": "borgholm",
-  "city": "borgholm",
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "region": null,
+  "regionSlug": "borgholm",
+  "city": "Borgholm",
+  "citySlug": "borgholm",
+  "path": "/sweden/borgholm/borgholm/restaurants",
+  "canonicalPath": "/sweden/borgholm/borgholm/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hotell Borgholm",

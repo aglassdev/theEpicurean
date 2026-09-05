@@ -1,29 +1,41 @@
 {
-  "title": "Vila Nova De Gaia",
+  "title": "Vila Nova de Gaia",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "vila-nova-de-gaia",
+  "city": "Vila Nova de Gaia",
+  "citySlug": "vila-nova-de-gaia",
+  "path": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/restaurants",
+  "canonicalPath": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "The Yeatman",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/the-yeatman"
+      "path": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/the-yeatman",
+      "award": "★★"
     },
     {
       "name": "The Yeatman Gastronomic R.",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/the-yeatman-gastronomic-r"
+      "path": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/the-yeatman-gastronomic-r",
+      "award": "★★"
     },
     {
       "name": "Vinha",
       "cuisine": "Portuguese, Creative",
       "price": "€€€€",
-      "path": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/vinha"
+      "path": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/vinha",
+      "award": "★"
     },
     {
       "name": "1638 Restaurant by Nacho Manzano",
       "cuisine": "Contemporary",
       "price": "$$$$",
-      "path": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/1638RestaurantByNachoManzano"
+      "path": "/portugal/vila-nova-de-gaia/vila-nova-de-gaia/1638-restaurant-by-nacho-manzano"
     }
   ]
 }

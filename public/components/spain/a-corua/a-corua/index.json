@@ -1,6 +1,22 @@
 {
   "title": "A Corua",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "a-corua",
+  "city": "A Corua",
+  "citySlug": "a-corua",
+  "path": "/spain/a-corua/a-corua/restaurants",
+  "canonicalPath": "/spain/a-corua/a-corua/restaurants",
+  "count": 17,
   "restaurants": [
+    {
+      "name": "Árbore da Veira",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/spain/a-corua/a-corua/rbore-da-veira",
+      "award": "★"
+    },
     {
       "name": "A Espiga",
       "cuisine": "Farm to table",
@@ -50,10 +66,16 @@
       "path": "/spain/a-corua/a-corua/el-de-alberto"
     },
     {
+      "name": "Gunnen",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/spain/a-corua/a-corua/gunnen"
+    },
+    {
       "name": "Miga",
       "cuisine": "Traditional Cuisine, Modern Cuisine",
       "price": "€€",
-      "path": "/spain/a-corua/a-corua/miga"
+      "path": "/spain/a-corua/a-corua/miga-a-c-o"
     },
     {
       "name": "NaDo",
@@ -68,22 +90,10 @@
       "path": "/spain/a-corua/a-corua/omakase"
     },
     {
-      "name": "Omakase",
-      "cuisine": "Japanese",
-      "price": "€€€",
-      "path": "/spain/a-corua/a-corua/omakase"
-    },
-    {
       "name": "Pedra Furada",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/a-corua/a-corua/pedra-furada"
-    },
-    {
-      "name": "Árbore da Veira",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/spain/a-corua/a-corua/rbore-da-veira"
     },
     {
       "name": "Salitre",
@@ -95,19 +105,13 @@
       "name": "Taberna 5 Mares",
       "cuisine": "Contemporary, Galician",
       "price": "€€",
-      "path": "/spain/a-corua/a-corua/taberna-5-mares"
+      "path": "/spain/a-corua/a-corua/taberna5-mares"
     },
     {
       "name": "Terreo Cocina Casual",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/a-corua/a-corua/terreo-cocina-casual"
-    },
-    {
-      "name": "Gunnen",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/spain/a-corua/a-corua/Gunnen"
     }
   ]
 }

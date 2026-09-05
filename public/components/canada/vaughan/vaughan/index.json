@@ -1,15 +1,15 @@
 {
   "title": "Vaughan",
-  "country": "canada",
-  "region": "vaughan",
-  "city": "vaughan",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "vaughan",
+  "city": "Vaughan",
+  "citySlug": "vaughan",
+  "path": "/canada/vaughan/vaughan/restaurants",
+  "canonicalPath": "/canada/vaughan/vaughan/restaurants",
+  "count": 1,
   "restaurants": [
-    {
-      "name": "Mama Fatma",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/canada/vaughan/vaughan/mama-fatma"
-    },
     {
       "name": "Mama Fatma",
       "cuisine": "Turkish",

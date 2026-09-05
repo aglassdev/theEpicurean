@@ -1,20 +1,27 @@
 {
   "title": "Eygalires",
-  "country": "france",
-  "region": "eygalires",
-  "city": "eygalires",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "eygalires",
+  "city": "Eygalires",
+  "citySlug": "eygalires",
+  "path": "/france/eygalires/eygalires/restaurants",
+  "canonicalPath": "/france/eygalires/eygalires/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Maison Hache",
+      "cuisine": "Provençal",
+      "price": "€€€€",
+      "path": "/france/eygalires/eygalires/maison-hache",
+      "award": "★"
+    },
     {
       "name": "Le Bistrot du Brau",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/eygalires/eygalires/le-bistrot-du-brau"
-    },
-    {
-      "name": "Maison Hache",
-      "cuisine": "Provençal",
-      "price": "€€€€",
-      "path": "/france/eygalires/eygalires/maison-hache"
     }
   ]
 }

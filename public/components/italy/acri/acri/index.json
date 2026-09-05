@@ -1,14 +1,20 @@
 {
   "title": "Acri",
-  "country": "italy",
-  "region": "acri",
-  "city": "acri",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "acri",
+  "city": "Acri",
+  "citySlug": "acri",
+  "path": "/italy/acri/acri/restaurants",
+  "canonicalPath": "/italy/acri/acri/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Carpaccio",
       "cuisine": "Calabrian, Traditional Cuisine",
       "price": "€",
-      "path": "/italy/acri/acri/il-carpaccio"
+      "path": "/italy/acri/acri/il-carpaccio-a-c-r"
     }
   ]
 }

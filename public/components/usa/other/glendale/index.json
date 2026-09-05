@@ -1,0 +1,26 @@
+{
+  "title": "Glendale",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Glendale",
+  "citySlug": "glendale",
+  "path": "/usa/other/glendale/restaurants",
+  "canonicalPath": "/usa/california/glendale/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Adana Restaurant",
+      "cuisine": "Middle Eastern",
+      "price": "$$",
+      "path": "/usa/california/glendale/adana-restaurant"
+    },
+    {
+      "name": "Zhengyalov Hatz",
+      "cuisine": "Armenian",
+      "price": "$",
+      "path": "/usa/california/glendale/zhengyalov-hatz"
+    }
+  ]
+}

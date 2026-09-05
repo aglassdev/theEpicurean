@@ -1,14 +1,21 @@
 {
   "title": "Radovljica",
-  "country": "slovenia",
-  "region": "radovljica",
-  "city": "radovljica",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "radovljica",
+  "city": "Radovljica",
+  "citySlug": "radovljica",
+  "path": "/slovenia/radovljica/radovljica/restaurants",
+  "canonicalPath": "/slovenia/radovljica/radovljica/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Hiša Linhart",
       "cuisine": "Contemporary, Farm to table",
       "price": "€€€",
-      "path": "/slovenia/radovljica/radovljica/hia-linhart"
+      "path": "/slovenia/radovljica/radovljica/hia-linhart",
+      "award": "★"
     },
     {
       "name": "Vila Podvin",

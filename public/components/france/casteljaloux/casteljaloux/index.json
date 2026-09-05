@@ -1,14 +1,20 @@
 {
   "title": "Casteljaloux",
-  "country": "france",
-  "region": "casteljaloux",
-  "city": "casteljaloux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "casteljaloux",
+  "city": "Casteljaloux",
+  "citySlug": "casteljaloux",
+  "path": "/france/casteljaloux/casteljaloux/restaurants",
+  "canonicalPath": "/france/casteljaloux/casteljaloux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Vieille Auberge",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/casteljaloux/casteljaloux/la-vieille-auberge"
+      "path": "/france/casteljaloux/casteljaloux/la-vieille-auberge-c-a-s"
     }
   ]
 }

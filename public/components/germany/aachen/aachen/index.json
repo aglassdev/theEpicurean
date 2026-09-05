@@ -1,20 +1,34 @@
 {
   "title": "Aachen",
-  "country": "germany",
-  "region": "aachen",
-  "city": "aachen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "aachen",
+  "city": "Aachen",
+  "citySlug": "aachen",
+  "path": "/germany/aachen/aachen/restaurants",
+  "canonicalPath": "/germany/aachen/aachen/restaurants",
+  "count": 5,
   "restaurants": [
     {
-      "name": "Bistro",
-      "cuisine": "Classic Cuisine",
-      "price": "€€",
-      "path": "/germany/aachen/aachen/bistro"
+      "name": "La Bécasse",
+      "cuisine": "Classic French",
+      "price": "€€€€",
+      "path": "/germany/aachen/aachen/la-bcasse",
+      "award": "★"
+    },
+    {
+      "name": "Sankt Benedikt",
+      "cuisine": "Creative, Modern French",
+      "price": "€€€€",
+      "path": "/germany/aachen/aachen/sankt-benedikt",
+      "award": "★"
     },
     {
       "name": "Bistro",
       "cuisine": "Classic French, Mediterranean Cuisine",
       "price": "€€",
-      "path": "/germany/aachen/aachen/bistro"
+      "path": "/germany/aachen/aachen/bistro-a-a-c"
     },
     {
       "name": "dario&",
@@ -23,22 +37,10 @@
       "path": "/germany/aachen/aachen/dario"
     },
     {
-      "name": "La Bécasse",
-      "cuisine": "Classic French",
-      "price": "€€€€",
-      "path": "/germany/aachen/aachen/la-bcasse"
-    },
-    {
       "name": "plaisir by Hamid Heidarzadeh",
       "cuisine": "Contemporary",
       "price": "€€€",
       "path": "/germany/aachen/aachen/plaisir-by-hamid-heidarzadeh"
-    },
-    {
-      "name": "Sankt Benedikt",
-      "cuisine": "Creative, Modern French",
-      "price": "€€€€",
-      "path": "/germany/aachen/aachen/sankt-benedikt"
     }
   ]
 }

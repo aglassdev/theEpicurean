@@ -1,14 +1,20 @@
 {
   "title": "Beaufort",
-  "country": "france",
-  "region": "beaufort",
-  "city": "beaufort",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "beaufort",
+  "city": "Beaufort",
+  "citySlug": "beaufort",
+  "path": "/france/beaufort/beaufort/restaurants",
+  "canonicalPath": "/france/beaufort/beaufort/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les 9 névés",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/beaufort/beaufort/les-9-nvs"
+      "path": "/france/beaufort/beaufort/les9-nvs"
     }
   ]
 }

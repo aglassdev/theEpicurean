@@ -1,14 +1,21 @@
 {
   "title": "Carantec",
-  "country": "france",
-  "region": "carantec",
-  "city": "carantec",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "carantec",
+  "city": "Carantec",
+  "citySlug": "carantec",
+  "path": "/france/carantec/carantec/restaurants",
+  "canonicalPath": "/france/carantec/carantec/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Nicolas Carro - Hôtel de Carantec",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/carantec/carantec/nicolas-carro-htel-de-carantec"
+      "path": "/france/carantec/carantec/nicolas-carro-htel-de-carantec",
+      "award": "★"
     }
   ]
 }

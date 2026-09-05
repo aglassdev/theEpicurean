@@ -1,14 +1,21 @@
 {
-  "title": "Saint Hilaire De Brethmas",
-  "country": "france",
-  "region": "saint-hilaire-de-brethmas",
-  "city": "saint-hilaire-de-brethmas",
+  "title": "Saint Hilaire de Brethmas",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-hilaire-de-brethmas",
+  "city": "Saint Hilaire de Brethmas",
+  "citySlug": "saint-hilaire-de-brethmas",
+  "path": "/france/saint-hilaire-de-brethmas/saint-hilaire-de-brethmas/restaurants",
+  "canonicalPath": "/france/saint-hilaire-de-brethmas/saint-hilaire-de-brethmas/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Saint Hilaire",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/saint-hilaire-de-brethmas/saint-hilaire-de-brethmas/le-saint-hilaire"
+      "path": "/france/saint-hilaire-de-brethmas/saint-hilaire-de-brethmas/le-saint-hilaire",
+      "award": "★"
     }
   ]
 }

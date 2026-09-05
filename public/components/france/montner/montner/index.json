@@ -1,8 +1,14 @@
 {
   "title": "Montner",
-  "country": "france",
-  "region": "montner",
-  "city": "montner",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montner",
+  "city": "Montner",
+  "citySlug": "montner",
+  "path": "/france/montner/montner/restaurants",
+  "canonicalPath": "/france/montner/montner/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge du Cellier",

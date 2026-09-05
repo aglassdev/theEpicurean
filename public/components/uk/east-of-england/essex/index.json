@@ -1,65 +1,74 @@
 {
   "title": "Essex",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "East of England",
+  "regionSlug": "east-of-england",
+  "city": "Essex",
+  "citySlug": "essex",
+  "path": "/uk/east-of-england/essex/restaurants",
+  "canonicalPath": "/uk/east-of-england/essex/restaurants",
+  "count": 10,
   "restaurants": [
     {
       "name": "Bannatyne Spa, Kingsford Park",
       "cuisine": "Afternoon Tea",
       "price": "22.00",
-      "path": "/uk/east-of-england/essex/BannatyneSpaKingsfordPark"
-    },
-    {
-      "name": "Wivenhoe House",
-      "cuisine": "Afternoon Tea",
-      "price": "39.00",
-      "path": "/uk/east-of-england/essex/WivenhoeHouse"
-    },
-    {
-      "name": "Tudors Restaurant at Marygreen Manor",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/east-of-england/essex/TudorsRestaurantAtMarygreenManor"
-    },
-    {
-      "name": "Tea at The George",
-      "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/east-of-england/essex/TeaAtTheGeorge"
-    },
-    {
-      "name": "Roslin Beach Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "34.50",
-      "path": "/uk/east-of-england/essex/RoslinBeachHotel"
-    },
-    {
-      "name": "Lifehouse Spa and Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "74.00",
-      "path": "/uk/east-of-england/essex/LifehouseSpaAndHotel"
-    },
-    {
-      "name": "Kingscliff Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "17.95",
-      "path": "/uk/east-of-england/essex/KingscliffHotel"
+      "path": "/uk/east-of-england/essex/bannatyne-spa-kingsford-park"
     },
     {
       "name": "Greenwoods Hotel",
       "cuisine": "Afternoon Tea",
       "price": "50.00",
-      "path": "/uk/east-of-england/essex/GreenwoodsHotel"
+      "path": "/uk/east-of-england/essex/greenwoods-hotel"
     },
     {
-      "name": "The Gilt Rooms",
+      "name": "Kingscliff Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "89.00",
-      "path": "/uk/east-of-england/essex/TheGiltRooms"
+      "price": "17.95",
+      "path": "/uk/east-of-england/essex/kingscliff-hotel"
+    },
+    {
+      "name": "Lifehouse Spa and Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "74.00",
+      "path": "/uk/east-of-england/essex/lifehouse-spa-and-hotel"
+    },
+    {
+      "name": "Roslin Beach Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "34.50",
+      "path": "/uk/east-of-england/essex/roslin-beach-hotel"
+    },
+    {
+      "name": "Tea at The George",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/east-of-england/essex/tea-at-the-george"
     },
     {
       "name": "The County Hotel",
       "cuisine": "Afternoon Tea",
       "price": "26.00",
-      "path": "/uk/east-of-england/essex/TheCountyHotel"
+      "path": "/uk/east-of-england/essex/the-county-hotel"
+    },
+    {
+      "name": "The Gilt Rooms",
+      "cuisine": "Afternoon Tea",
+      "price": "89.00",
+      "path": "/uk/east-of-england/essex/the-gilt-rooms"
+    },
+    {
+      "name": "Tudors Restaurant at Marygreen Manor",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/east-of-england/essex/tudors-restaurant-at-marygreen-manor"
+    },
+    {
+      "name": "Wivenhoe House",
+      "cuisine": "Afternoon Tea",
+      "price": "39.00",
+      "path": "/uk/east-of-england/essex/wivenhoe-house"
     }
   ]
 }

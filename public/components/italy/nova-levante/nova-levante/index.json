@@ -1,14 +1,21 @@
 {
   "title": "Nova Levante",
-  "country": "italy",
-  "region": "nova-levante",
-  "city": "nova-levante",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "nova-levante",
+  "city": "Nova Levante",
+  "citySlug": "nova-levante",
+  "path": "/italy/nova-levante/nova-levante/restaurants",
+  "canonicalPath": "/italy/nova-levante/nova-levante/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Johannesstube",
       "cuisine": "Alpine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/nova-levante/nova-levante/johannesstube"
+      "path": "/italy/nova-levante/nova-levante/johannesstube",
+      "award": "★"
     }
   ]
 }

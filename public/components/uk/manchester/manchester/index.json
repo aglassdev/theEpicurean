@@ -1,11 +1,58 @@
 {
   "title": "Manchester",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "North West",
+  "regionSlug": "manchester",
+  "city": "Manchester",
+  "citySlug": "manchester",
+  "path": "/uk/manchester/manchester/restaurants",
+  "canonicalPath": "/uk/manchester/manchester/restaurants",
+  "count": 32,
   "restaurants": [
+    {
+      "name": "mana",
+      "cuisine": "Creative British, Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/manchester/manchester/mana",
+      "award": "★"
+    },
+    {
+      "name": "Skof",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/manchester/manchester/skof",
+      "award": "★"
+    },
+    {
+      "name": "10 Tib Lane",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/uk/manchester/manchester/10-tib-lane"
+    },
+    {
+      "name": "20 Stories Manchester",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/north-west/manchester/20-stories-manchester"
+    },
     {
       "name": "Adam Reid at The French",
       "cuisine": "Modern British",
       "price": "££££",
       "path": "/uk/manchester/manchester/adam-reid-at-the-french"
+    },
+    {
+      "name": "Afternoon Tea at Sunset - Australasia",
+      "cuisine": "Afternoon Tea",
+      "price": "26.50",
+      "path": "/uk/north-west/manchester/afternoon-tea-at-sunset-australasia"
+    },
+    {
+      "name": "Alma Lodge Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "19.95",
+      "path": "/uk/north-west/manchester/alma-lodge-hotel"
     },
     {
       "name": "Another Hand",
@@ -20,10 +67,10 @@
       "path": "/uk/manchester/manchester/climat"
     },
     {
-      "name": "El Gato Negro",
-      "cuisine": "Spanish",
-      "price": "££",
-      "path": "/uk/manchester/manchester/el-gato-negro"
+      "name": "Cloud 23",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/north-west/manchester/cloud23"
     },
     {
       "name": "El Gato Negro",
@@ -38,22 +85,46 @@
       "path": "/uk/manchester/manchester/erst"
     },
     {
+      "name": "Grand Pacific",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/north-west/manchester/grand-pacific"
+    },
+    {
       "name": "Higher Ground",
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/manchester/manchester/higher-ground"
     },
     {
-      "name": "mana",
-      "cuisine": "Creative British, Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/manchester/manchester/mana"
+      "name": "James Martin Manchester",
+      "cuisine": "Afternoon Tea",
+      "price": "27.95",
+      "path": "/uk/north-west/manchester/james-martin-manchester"
     },
     {
-      "name": "mana",
-      "cuisine": "Creative British, Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/manchester/manchester/mana"
+      "name": "King Street Townhouse",
+      "cuisine": "Afternoon Tea",
+      "price": "32.50",
+      "path": "/uk/north-west/manchester/king-street-townhouse"
+    },
+    {
+      "name": "Macdonald Manchester Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/north-west/manchester/macdonald-manchester-hotel"
+    },
+    {
+      "name": "Malmaison Manchester",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/north-west/manchester/malmaison-manchester"
+    },
+    {
+      "name": "Marco's New York Italian - Media City",
+      "cuisine": "Afternoon Tea",
+      "price": "19.95",
+      "path": "/uk/north-west/manchester/marcos-new-york-italian-media-city"
     },
     {
       "name": "MAYA",
@@ -68,10 +139,22 @@
       "path": "/uk/manchester/manchester/pip"
     },
     {
-      "name": "Skof",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/manchester/manchester/skof"
+      "name": "posie",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/uk/manchester/manchester/posie"
+    },
+    {
+      "name": "Sampa",
+      "cuisine": "Brazilian",
+      "price": "$$$",
+      "path": "/uk/manchester/manchester/sampa"
+    },
+    {
+      "name": "Sora Manchester Deansgate",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/north-west/manchester/sora-manchester-deansgate"
     },
     {
       "name": "Stow",
@@ -80,34 +163,46 @@
       "path": "/uk/manchester/manchester/stow"
     },
     {
+      "name": "The Ivy Manchester",
+      "cuisine": "Afternoon Tea",
+      "price": "34.95",
+      "path": "/uk/north-west/manchester/the-ivy-manchester"
+    },
+    {
+      "name": "The Library Champagne Bar at The Edwardian Manchester",
+      "cuisine": "Afternoon Tea",
+      "price": "34.00",
+      "path": "/uk/north-west/manchester/the-library-champagne-bar-at-the-edwardian-manchester"
+    },
+    {
+      "name": "The River Restaurant at The Lowry Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/north-west/manchester/the-river-restaurant-at-the-lowry-hotel"
+    },
+    {
       "name": "The Spärrows",
       "cuisine": "Modern Cuisine",
       "price": "££",
       "path": "/uk/manchester/manchester/the-sprrows"
     },
     {
+      "name": "The Tea Room at The Midland Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/north-west/manchester/the-tea-room-at-the-midland-hotel"
+    },
+    {
+      "name": "Trafford Hall Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "15.50",
+      "path": "/uk/north-west/manchester/trafford-hall-hotel"
+    },
+    {
       "name": "Winsome",
       "cuisine": "Traditional British",
       "price": "££",
       "path": "/uk/manchester/manchester/winsome"
-    },
-    {
-      "name": "10 Tib Lane",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/uk/manchester/manchester/10TibLane"
-    },
-    {
-      "name": "Sampa",
-      "cuisine": "Brazilian",
-      "price": "$$$",
-      "path": "/uk/manchester/manchester/Sampa"
-    },
-    {
-      "name": "posie",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/uk/manchester/manchester/Posie"
     }
   ]
 }

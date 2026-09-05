@@ -1,8 +1,14 @@
 {
   "title": "Carouge",
-  "country": "switzerland",
-  "region": "carouge",
-  "city": "carouge",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "carouge",
+  "city": "Carouge",
+  "citySlug": "carouge",
+  "path": "/switzerland/carouge/carouge/restaurants",
+  "canonicalPath": "/switzerland/carouge/carouge/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Bistrot du Lion d'Or",
@@ -14,13 +20,7 @@
       "name": "L'Artichaut",
       "cuisine": "Modern French, Farm to table",
       "price": "€€",
-      "path": "/switzerland/carouge/carouge/lartichaut"
-    },
-    {
-      "name": "L'Écorce",
-      "cuisine": "French Contemporary, Farm to table",
-      "price": "€€",
-      "path": "/switzerland/carouge/carouge/lcorce"
+      "path": "/switzerland/carouge/carouge/lartichaut-c-a-r"
     },
     {
       "name": "L'Écorce",

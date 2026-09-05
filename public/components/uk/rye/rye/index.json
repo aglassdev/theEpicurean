@@ -1,8 +1,14 @@
 {
   "title": "Rye",
-  "country": "uk",
-  "region": "rye",
-  "city": "rye",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "rye",
+  "city": "Rye",
+  "citySlug": "rye",
+  "path": "/uk/rye/rye/restaurants",
+  "canonicalPath": "/uk/rye/rye/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Union Rye",

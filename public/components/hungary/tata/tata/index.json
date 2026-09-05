@@ -1,20 +1,27 @@
 {
   "title": "Tata",
-  "country": "hungary",
-  "region": "tata",
-  "city": "tata",
+  "country": "Hungary",
+  "countrySlug": "hungary",
+  "region": null,
+  "regionSlug": "tata",
+  "city": "Tata",
+  "citySlug": "tata",
+  "path": "/hungary/tata/tata/restaurants",
+  "canonicalPath": "/hungary/tata/tata/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Platán Gourmet",
+      "cuisine": "Creative, Hungarian",
+      "price": "€€€€",
+      "path": "/hungary/tata/tata/platn-gourmet",
+      "award": "★★"
+    },
     {
       "name": "Platán Bisztró",
       "cuisine": "Hungarian",
       "price": "€€",
       "path": "/hungary/tata/tata/platn-bisztr"
-    },
-    {
-      "name": "Platán Gourmet",
-      "cuisine": "Creative, Hungarian",
-      "price": "€€€€",
-      "path": "/hungary/tata/tata/platn-gourmet"
     }
   ]
 }

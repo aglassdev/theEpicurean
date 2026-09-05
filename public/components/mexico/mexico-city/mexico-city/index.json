@@ -1,11 +1,21 @@
 {
   "title": "Mexico City",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "mexico-city",
+  "city": "Mexico City",
+  "citySlug": "mexico-city",
+  "path": "/mexico/mexico-city/mexico-city/restaurants",
+  "canonicalPath": "/mexico/mexico-city/mexico-city/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Biko",
       "cuisine": "",
       "price": "",
-      "path": "/mexico/mexico-city/mexico-city/Biko"
+      "path": "/mexico/mexico-city/mexico-city/biko",
+      "award": "World's 50 Best"
     }
   ]
 }

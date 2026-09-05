@@ -1,14 +1,21 @@
 {
   "title": "Heelsum",
-  "country": "netherlands",
-  "region": "heelsum",
-  "city": "heelsum",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "heelsum",
+  "city": "Heelsum",
+  "citySlug": "heelsum",
+  "path": "/netherlands/heelsum/heelsum/restaurants",
+  "canonicalPath": "/netherlands/heelsum/heelsum/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "De Kromme Dissel",
       "cuisine": "Creative, Modern French",
       "price": "€€€€",
-      "path": "/netherlands/heelsum/heelsum/de-kromme-dissel"
+      "path": "/netherlands/heelsum/heelsum/de-kromme-dissel",
+      "award": "★"
     }
   ]
 }

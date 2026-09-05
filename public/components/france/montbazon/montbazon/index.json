@@ -1,20 +1,27 @@
 {
   "title": "Montbazon",
-  "country": "france",
-  "region": "montbazon",
-  "city": "montbazon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montbazon",
+  "city": "Montbazon",
+  "citySlug": "montbazon",
+  "path": "/france/montbazon/montbazon/restaurants",
+  "canonicalPath": "/france/montbazon/montbazon/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "L'Évidence",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/montbazon/montbazon/lvidence",
+      "award": "★"
+    },
     {
       "name": "Domaine de la Tortinière",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/montbazon/montbazon/domaine-de-la-tortinire"
-    },
-    {
-      "name": "L'Évidence",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/montbazon/montbazon/lvidence"
     }
   ]
 }

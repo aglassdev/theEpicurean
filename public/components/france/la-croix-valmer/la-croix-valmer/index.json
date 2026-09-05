@@ -1,14 +1,21 @@
 {
   "title": "La Croix Valmer",
-  "country": "france",
-  "region": "la-croix-valmer",
-  "city": "la-croix-valmer",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-croix-valmer",
+  "city": "La Croix Valmer",
+  "citySlug": "la-croix-valmer",
+  "path": "/france/la-croix-valmer/la-croix-valmer/restaurants",
+  "canonicalPath": "/france/la-croix-valmer/la-croix-valmer/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "La Palmeraie - Château de Valmer",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/la-croix-valmer/la-croix-valmer/la-palmeraie-chteau-de-valmer"
+      "path": "/france/la-croix-valmer/la-croix-valmer/la-palmeraie-chteau-de-valmer",
+      "award": "★"
     },
     {
       "name": "Les Saisonniers",
@@ -20,7 +27,7 @@
       "name": "Vista",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/france/la-croix-valmer/la-croix-valmer/vista"
+      "path": "/france/la-croix-valmer/la-croix-valmer/vista-l-a-c"
     }
   ]
 }

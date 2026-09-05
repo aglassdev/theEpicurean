@@ -1,14 +1,21 @@
 {
-  "title": "Torre De Juan Abad",
-  "country": "spain",
-  "region": "torre-de-juan-abad",
-  "city": "torre-de-juan-abad",
+  "title": "Torre de Juan Abad",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "torre-de-juan-abad",
+  "city": "Torre de Juan Abad",
+  "citySlug": "torre-de-juan-abad",
+  "path": "/spain/torre-de-juan-abad/torre-de-juan-abad/restaurants",
+  "canonicalPath": "/spain/torre-de-juan-abad/torre-de-juan-abad/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Coto de Quevedo Evolución",
       "cuisine": "Traditional Cuisine, Contemporary",
       "price": "€€€",
-      "path": "/spain/torre-de-juan-abad/torre-de-juan-abad/coto-de-quevedo-evolucin"
+      "path": "/spain/torre-de-juan-abad/torre-de-juan-abad/coto-de-quevedo-evolucin",
+      "award": "★"
     },
     {
       "name": "Coto de Quevedo Origen",

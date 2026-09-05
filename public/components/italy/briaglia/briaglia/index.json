@@ -1,14 +1,20 @@
 {
   "title": "Briaglia",
-  "country": "italy",
-  "region": "briaglia",
-  "city": "briaglia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "briaglia",
+  "city": "Briaglia",
+  "citySlug": "briaglia",
+  "path": "/italy/briaglia/briaglia/restaurants",
+  "canonicalPath": "/italy/briaglia/briaglia/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Marsupino 1901",
       "cuisine": "Piedmontese",
       "price": "€€€",
-      "path": "/italy/briaglia/briaglia/marsupino-1901"
+      "path": "/italy/briaglia/briaglia/marsupino1901"
     }
   ]
 }

@@ -1,9 +1,29 @@
 {
   "title": "Cheltenham",
-  "country": "uk",
-  "region": "cheltenham",
-  "city": "cheltenham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "cheltenham",
+  "city": "Cheltenham",
+  "citySlug": "cheltenham",
+  "path": "/uk/cheltenham/cheltenham/restaurants",
+  "canonicalPath": "/uk/cheltenham/cheltenham/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Le Champignon Sauvage",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/cheltenham/cheltenham/le-champignon-sauvage",
+      "award": "★"
+    },
+    {
+      "name": "Lumière",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/cheltenham/cheltenham/lumire",
+      "award": "★"
+    },
     {
       "name": "Bhoomi Kitchen",
       "cuisine": "Indian",
@@ -15,24 +35,6 @@
       "cuisine": "Creative",
       "price": "£££",
       "path": "/uk/cheltenham/cheltenham/journey"
-    },
-    {
-      "name": "Le Champignon Sauvage",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/cheltenham/cheltenham/le-champignon-sauvage"
-    },
-    {
-      "name": "Lumière",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/cheltenham/cheltenham/lumire"
-    },
-    {
-      "name": "Lumière",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/cheltenham/cheltenham/lumire"
     },
     {
       "name": "Memsahib's Lounge",
@@ -50,7 +52,7 @@
       "name": "Purslane",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/cheltenham/cheltenham/purslane"
+      "path": "/uk/cheltenham/cheltenham/purslane-c-h-e"
     }
   ]
 }

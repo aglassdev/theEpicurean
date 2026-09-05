@@ -1,6 +1,50 @@
 {
   "title": "Dijon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "dijon",
+  "city": "Dijon",
+  "citySlug": "dijon",
+  "path": "/france/dijon/dijon/restaurants",
+  "canonicalPath": "/france/dijon/dijon/restaurants",
+  "count": 22,
   "restaurants": [
+    {
+      "name": "William Frachot",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/dijon/dijon/william-frachot",
+      "award": "★★"
+    },
+    {
+      "name": "CIBO",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/dijon/dijon/cibo",
+      "award": "★"
+    },
+    {
+      "name": "L'Aspérule",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/dijon/dijon/lasprule",
+      "award": "★"
+    },
+    {
+      "name": "Loiseau des Ducs",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/dijon/dijon/loiseau-des-ducs",
+      "award": "★"
+    },
+    {
+      "name": "Origine",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/dijon/dijon/origine",
+      "award": "★"
+    },
     {
       "name": "Azerole",
       "cuisine": "Fusion",
@@ -14,16 +58,34 @@
       "path": "/france/dijon/dijon/cave"
     },
     {
-      "name": "CIBO",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/dijon/dijon/cibo"
-    },
-    {
       "name": "DZ'envies",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/dijon/dijon/dzenvies"
+    },
+    {
+      "name": "L'Arôme",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/dijon/dijon/larme-d-i-j"
+    },
+    {
+      "name": "L'Essentiel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/dijon/dijon/lessentiel-d-i-j"
+    },
+    {
+      "name": "L'Évidence",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/dijon/dijon/lvidence-d-i-j"
+    },
+    {
+      "name": "L'Un des Sens",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/dijon/dijon/lun-des-sens"
     },
     {
       "name": "La Maison des Cariatides",
@@ -38,46 +100,16 @@
       "path": "/france/dijon/dijon/la-table-des-climats"
     },
     {
-      "name": "L'Arôme",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/dijon/dijon/larme"
-    },
-    {
-      "name": "L'Aspérule",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/dijon/dijon/lasprule"
-    },
-    {
       "name": "Les Jardins by La Cloche",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/dijon/dijon/les-jardins-by-la-cloche"
     },
     {
-      "name": "L'Essentiel",
+      "name": "Maison L'Essentiel",
       "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/dijon/dijon/lessentiel"
-    },
-    {
-      "name": "Loiseau des Ducs",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/dijon/dijon/loiseau-des-ducs"
-    },
-    {
-      "name": "L'Un des Sens",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/dijon/dijon/lun-des-sens"
-    },
-    {
-      "name": "L'Évidence",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/dijon/dijon/lvidence"
+      "price": "$$$",
+      "path": "/france/dijon/dijon/maison-lessentiel"
     },
     {
       "name": "Monique, boire et manger",
@@ -86,16 +118,10 @@
       "path": "/france/dijon/dijon/monique-boire-et-manger"
     },
     {
-      "name": "Origine",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/dijon/dijon/origine"
-    },
-    {
       "name": "Parapluie",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/dijon/dijon/parapluie"
+      "path": "/france/dijon/dijon/parapluie-d-i-j"
     },
     {
       "name": "Saison",
@@ -120,18 +146,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/dijon/dijon/sublime"
-    },
-    {
-      "name": "William Frachot",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/dijon/dijon/william-frachot"
-    },
-    {
-      "name": "Maison L'Essentiel",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/france/dijon/dijon/MaisonLessentiel"
     }
   ]
 }

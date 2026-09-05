@@ -1,8 +1,14 @@
 {
   "title": "Cajarc",
-  "country": "france",
-  "region": "cajarc",
-  "city": "cajarc",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cajarc",
+  "city": "Cajarc",
+  "citySlug": "cajarc",
+  "path": "/france/cajarc/cajarc/restaurants",
+  "canonicalPath": "/france/cajarc/cajarc/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Jeu de Quilles",

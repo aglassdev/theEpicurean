@@ -1,53 +1,65 @@
 {
   "title": "Guadalajara",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "guadalajara",
+  "city": "Guadalajara",
+  "citySlug": "guadalajara",
+  "path": "/mexico/guadalajara/guadalajara/restaurants",
+  "canonicalPath": "/mexico/guadalajara/guadalajara/restaurants",
+  "count": 8,
   "restaurants": [
     {
       "name": "Xokol",
       "cuisine": "Mexican",
       "price": "$$$",
-      "path": "/mexico/guadalajara/guadalajara/Xokol"
+      "path": "/mexico/guadalajara/guadalajara/xokol",
+      "award": "★"
     },
     {
       "name": "PalReal",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/guadalajara/guadalajara/Palreal"
+      "path": "/mexico/guadalajara/guadalajara/palreal",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tacos Y Gorditas Elvira",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/mexico/guadalajara/guadalajara/TacosYGorditasElvira"
+      "path": "/mexico/guadalajara/guadalajara/tacos-y-gorditas-elvira",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Birriería \"David\"",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/mexico/guadalajara/guadalajara/BirrieraDavid"
+      "path": "/mexico/guadalajara/guadalajara/birriera-david"
     },
     {
       "name": "Birriería las 9 Esquinas",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/mexico/guadalajara/guadalajara/BirrieraLas9Esquinas"
+      "path": "/mexico/guadalajara/guadalajara/birriera-las9-esquinas"
     },
     {
       "name": "La Docena",
       "cuisine": "Mexican",
       "price": "$$$",
-      "path": "/mexico/guadalajara/guadalajara/LaDocena"
+      "path": "/mexico/guadalajara/guadalajara/la-docena"
     },
     {
       "name": "Teté Cocina De Barrio",
       "cuisine": "Mexican",
       "price": "$$$",
-      "path": "/mexico/guadalajara/guadalajara/TetCocinaDeBarrio"
+      "path": "/mexico/guadalajara/guadalajara/tet-cocina-de-barrio"
     },
     {
       "name": "Tikuun Comedor Local",
       "cuisine": "Mexican",
       "price": "$$$",
-      "path": "/mexico/guadalajara/guadalajara/TikuunComedorLocal"
+      "path": "/mexico/guadalajara/guadalajara/tikuun-comedor-local"
     }
   ]
 }

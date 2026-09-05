@@ -1,14 +1,21 @@
 {
   "title": "Ballydehob",
-  "country": "ireland",
-  "region": "ballydehob",
-  "city": "ballydehob",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "ballydehob",
+  "city": "Ballydehob",
+  "citySlug": "ballydehob",
+  "path": "/ireland/ballydehob/ballydehob/restaurants",
+  "canonicalPath": "/ireland/ballydehob/ballydehob/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chestnut",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/ireland/ballydehob/ballydehob/chestnut"
+      "path": "/ireland/ballydehob/ballydehob/chestnut",
+      "award": "★"
     }
   ]
 }

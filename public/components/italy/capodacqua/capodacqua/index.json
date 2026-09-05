@@ -1,14 +1,21 @@
 {
   "title": "Capodacqua",
-  "country": "italy",
-  "region": "capodacqua",
-  "city": "capodacqua",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "capodacqua",
+  "city": "Capodacqua",
+  "citySlug": "capodacqua",
+  "path": "/italy/capodacqua/capodacqua/restaurants",
+  "canonicalPath": "/italy/capodacqua/capodacqua/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Une",
       "cuisine": "Creative, Umbrian",
       "price": "€€€€",
-      "path": "/italy/capodacqua/capodacqua/une"
+      "path": "/italy/capodacqua/capodacqua/une",
+      "award": "★"
     }
   ]
 }

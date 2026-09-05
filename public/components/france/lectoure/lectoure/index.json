@@ -1,14 +1,20 @@
 {
   "title": "Lectoure",
-  "country": "france",
-  "region": "lectoure",
-  "city": "lectoure",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lectoure",
+  "city": "Lectoure",
+  "citySlug": "lectoure",
+  "path": "/france/lectoure/lectoure/restaurants",
+  "canonicalPath": "/france/lectoure/lectoure/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Racine",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/lectoure/lectoure/racine"
+      "path": "/france/lectoure/lectoure/racine-l-e-c"
     },
     {
       "name": "Racinette",

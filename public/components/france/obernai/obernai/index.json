@@ -1,14 +1,35 @@
 {
   "title": "Obernai",
-  "country": "france",
-  "region": "obernai",
-  "city": "obernai",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "obernai",
+  "city": "Obernai",
+  "citySlug": "obernai",
+  "path": "/france/obernai/obernai/restaurants",
+  "canonicalPath": "/france/obernai/obernai/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "La Fourchette des Ducs",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/obernai/obernai/la-fourchette-des-ducs"
+      "path": "/france/obernai/obernai/la-fourchette-des-ducs",
+      "award": "★★"
+    },
+    {
+      "name": "Thierry Schwartz - Le Restaurant",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/obernai/obernai/thierry-schwartz-le-restaurant",
+      "award": "★"
+    },
+    {
+      "name": "Thierry Schwartz - Table Naturelle",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/obernai/obernai/thierry-schwartz-table-naturelle",
+      "award": "★"
     },
     {
       "name": "Le Parc",
@@ -21,18 +42,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/obernai/obernai/signature-yona"
-    },
-    {
-      "name": "Thierry Schwartz - Le Restaurant",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/obernai/obernai/thierry-schwartz-le-restaurant"
-    },
-    {
-      "name": "Thierry Schwartz - Table Naturelle",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/obernai/obernai/thierry-schwartz-table-naturelle"
     }
   ]
 }

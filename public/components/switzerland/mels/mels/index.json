@@ -1,23 +1,27 @@
 {
   "title": "Mels",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "mels",
+  "city": "Mels",
+  "citySlug": "mels",
+  "path": "/switzerland/mels/mels/restaurants",
+  "canonicalPath": "/switzerland/mels/mels/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Schlüssel - Nidbergstube",
+      "cuisine": "Classic Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/mels/mels/schlssel-nidbergstube",
+      "award": "★"
+    },
     {
       "name": "Restaurant Schlüssel - Schlüsselstube",
       "cuisine": "Country cooking, Swiss",
       "price": "€€",
       "path": "/switzerland/mels/mels/restaurant-schlssel-schlsselstube"
-    },
-    {
-      "name": "Schlüssel - Nidbergstube",
-      "cuisine": "Classic Cuisine, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/mels/mels/schlssel-nidbergstube"
-    },
-    {
-      "name": "Restaurant Schlüssel - Schlüsselstube",
-      "cuisine": "Country cooking",
-      "price": "$$",
-      "path": "/switzerland/mels/mels/RestaurantSchlsselSchlsselstube"
     }
   ]
 }

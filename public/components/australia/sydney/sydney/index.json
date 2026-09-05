@@ -1,23 +1,35 @@
 {
   "title": "Sydney",
+  "country": "Australia",
+  "countrySlug": "australia",
+  "region": null,
+  "regionSlug": "sydney",
+  "city": "Sydney",
+  "citySlug": "sydney",
+  "path": "/australia/sydney/sydney/restaurants",
+  "canonicalPath": "/australia/sydney/sydney/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Quay",
+      "cuisine": "",
+      "price": "",
+      "path": "/australia/sydney/sydney/quay",
+      "award": "World's 50 Best"
+    },
     {
       "name": "Rockpool",
       "cuisine": "",
       "price": "",
-      "path": "/australia/sydney/sydney/Rockpool"
+      "path": "/australia/sydney/sydney/rockpool",
+      "award": "World's 50 Best"
     },
     {
       "name": "Tetsuya's",
       "cuisine": "",
       "price": "",
-      "path": "/australia/sydney/sydney/Tetsuyas"
-    },
-    {
-      "name": "Quay",
-      "cuisine": "",
-      "price": "",
-      "path": "/australia/sydney/sydney/Quay"
+      "path": "/australia/sydney/sydney/tetsuyas",
+      "award": "World's 50 Best"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "title": "Greenville",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "South Carolina",
+  "regionSlug": "other",
+  "city": "Greenville",
+  "citySlug": "greenville",
+  "path": "/usa/other/greenville/restaurants",
+  "canonicalPath": "/usa/other/greenville/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Scoundrel",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/usa/other/greenville/scoundrel",
+      "award": "★"
+    },
+    {
+      "name": "Jianna",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/other/greenville/jianna"
+    },
+    {
+      "name": "Soby's",
+      "cuisine": "American",
+      "price": "$$",
+      "path": "/usa/other/greenville/sobys"
+    },
+    {
+      "name": "The Anchorage",
+      "cuisine": "American Contemporary",
+      "price": "$$$",
+      "path": "/usa/other/greenville/the-anchorage"
+    }
+  ]
+}

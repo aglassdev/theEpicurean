@@ -1,23 +1,34 @@
 {
-  "title": "Parañaque - Metro Manila",
+  "title": "Paraaque Metro Manila",
+  "country": "Philippines",
+  "countrySlug": "the-philippines",
+  "region": null,
+  "regionSlug": "paraaque-metro-manila",
+  "city": "Paraaque Metro Manila",
+  "citySlug": "paraaque-metro-manila",
+  "path": "/the-philippines/paraaque-metro-manila/paraaque-metro-manila/restaurants",
+  "canonicalPath": "/the-philippines/paraaque-metro-manila/paraaque-metro-manila/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Linamnam",
       "cuisine": "Filipino",
       "price": "$$$$",
-      "path": "/the-philippines/paraaque-metro-manila/paraaque-metro-manila/Linamnam"
+      "path": "/the-philippines/paraaque-metro-manila/paraaque-metro-manila/linamnam",
+      "award": "★"
     },
     {
       "name": "Kumba",
       "cuisine": "Asian",
       "price": "$$",
-      "path": "/the-philippines/paraaque-metro-manila/paraaque-metro-manila/Kumba"
+      "path": "/the-philippines/paraaque-metro-manila/paraaque-metro-manila/kumba",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Ginza Nagaoka",
       "cuisine": "Sushi",
       "price": "$$$$",
-      "path": "/the-philippines/paraaque-metro-manila/paraaque-metro-manila/GinzaNagaoka"
+      "path": "/the-philippines/paraaque-metro-manila/paraaque-metro-manila/ginza-nagaoka"
     }
   ]
 }

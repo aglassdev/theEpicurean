@@ -1,14 +1,20 @@
 {
   "title": "Grningen",
-  "country": "switzerland",
-  "region": "grningen",
-  "city": "grningen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "grningen",
+  "city": "Grningen",
+  "citySlug": "grningen",
+  "path": "/switzerland/grningen/grningen/restaurants",
+  "canonicalPath": "/switzerland/grningen/grningen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bären",
       "cuisine": "Farm to table, Regional Cuisine",
       "price": "€€",
-      "path": "/switzerland/grningen/grningen/bren"
+      "path": "/switzerland/grningen/grningen/bren-g-r-n"
     }
   ]
 }

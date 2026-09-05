@@ -1,8 +1,14 @@
 {
   "title": "Oakham",
-  "country": "uk",
-  "region": "oakham",
-  "city": "oakham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "oakham",
+  "city": "Oakham",
+  "citySlug": "oakham",
+  "path": "/uk/oakham/oakham/restaurants",
+  "canonicalPath": "/uk/oakham/oakham/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hitchen's Barn",

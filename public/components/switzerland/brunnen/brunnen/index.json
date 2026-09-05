@@ -1,9 +1,22 @@
 {
   "title": "Brunnen",
-  "country": "switzerland",
-  "region": "brunnen",
-  "city": "brunnen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "brunnen",
+  "city": "Brunnen",
+  "citySlug": "brunnen",
+  "path": "/switzerland/brunnen/brunnen/restaurants",
+  "canonicalPath": "/switzerland/brunnen/brunnen/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Birdy's by Achtien - The Nest",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/brunnen/brunnen/birdys-by-achtien-the-nest",
+      "award": "★"
+    },
     {
       "name": "Beaufort",
       "cuisine": "Contemporary",
@@ -15,12 +28,6 @@
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€",
       "path": "/switzerland/brunnen/brunnen/birdys-by-achtien"
-    },
-    {
-      "name": "Birdy's by Achtien - The Nest",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/brunnen/brunnen/birdys-by-achtien-the-nest"
     }
   ]
 }

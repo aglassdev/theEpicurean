@@ -1,6 +1,29 @@
 {
   "title": "Valladolid",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "valladolid",
+  "city": "Valladolid",
+  "citySlug": "valladolid",
+  "path": "/spain/valladolid/valladolid/restaurants",
+  "canonicalPath": "/spain/valladolid/valladolid/restaurants",
+  "count": 10,
   "restaurants": [
+    {
+      "name": "Alquimia - Laboratorio",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/valladolid/valladolid/alquimia-laboratorio",
+      "award": "★"
+    },
+    {
+      "name": "Trigo",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/valladolid/valladolid/trigo",
+      "award": "★"
+    },
     {
       "name": "5 Gustos",
       "cuisine": "Farm to table",
@@ -8,10 +31,10 @@
       "path": "/spain/valladolid/valladolid/5-gustos"
     },
     {
-      "name": "Alquimia - Laboratorio",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/valladolid/valladolid/alquimia-laboratorio"
+      "name": "Azul Mediterráneo",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/spain/valladolid/valladolid/azul-mediterrneo"
     },
     {
       "name": "Dámaso",
@@ -41,25 +64,13 @@
       "name": "Suite 22",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/spain/valladolid/valladolid/suite-22"
-    },
-    {
-      "name": "Trigo",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/valladolid/valladolid/trigo"
+      "path": "/spain/valladolid/valladolid/suite22"
     },
     {
       "name": "Villa Paramesa",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/valladolid/valladolid/villa-paramesa"
-    },
-    {
-      "name": "Azul Mediterráneo",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/spain/valladolid/valladolid/AzulMediterrneo"
     }
   ]
 }

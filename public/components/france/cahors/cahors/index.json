@@ -1,8 +1,14 @@
 {
   "title": "Cahors",
-  "country": "france",
-  "region": "cahors",
-  "city": "cahors",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cahors",
+  "city": "Cahors",
+  "citySlug": "cahors",
+  "path": "/france/cahors/cahors/restaurants",
+  "canonicalPath": "/france/cahors/cahors/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Bonnie",
@@ -26,7 +32,7 @@
       "name": "Le Bistro 1911",
       "cuisine": "Modern Cuisine",
       "price": "€",
-      "path": "/france/cahors/cahors/le-bistro-1911"
+      "path": "/france/cahors/cahors/le-bistro1911"
     },
     {
       "name": "Tandem",

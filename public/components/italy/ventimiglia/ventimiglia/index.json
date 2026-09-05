@@ -1,20 +1,28 @@
 {
   "title": "Ventimiglia",
-  "country": "italy",
-  "region": "ventimiglia",
-  "city": "ventimiglia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ventimiglia",
+  "city": "Ventimiglia",
+  "citySlug": "ventimiglia",
+  "path": "/italy/ventimiglia/ventimiglia/restaurants",
+  "canonicalPath": "/italy/ventimiglia/ventimiglia/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Balzi Rossi",
       "cuisine": "Country cooking, Creative",
       "price": "€€€€",
-      "path": "/italy/ventimiglia/ventimiglia/balzi-rossi"
+      "path": "/italy/ventimiglia/ventimiglia/balzi-rossi",
+      "award": "★"
     },
     {
       "name": "Casa Buono",
       "cuisine": "Country cooking, Creative",
       "price": "€€€",
-      "path": "/italy/ventimiglia/ventimiglia/casa-buono"
+      "path": "/italy/ventimiglia/ventimiglia/casa-buono",
+      "award": "★"
     },
     {
       "name": "Il Giardino del Gusto",

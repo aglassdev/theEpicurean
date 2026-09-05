@@ -1,8 +1,14 @@
 {
   "title": "Sarre",
-  "country": "italy",
-  "region": "sarre",
-  "city": "sarre",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "sarre",
+  "city": "Sarre",
+  "citySlug": "sarre",
+  "path": "/italy/sarre/sarre/restaurants",
+  "canonicalPath": "/italy/sarre/sarre/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Trattoria di Campagna",

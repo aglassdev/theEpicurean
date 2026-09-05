@@ -1,14 +1,20 @@
 {
   "title": "Cesson Svign",
-  "country": "france",
-  "region": "cesson-svign",
-  "city": "cesson-svign",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cesson-svign",
+  "city": "Cesson Svign",
+  "citySlug": "cesson-svign",
+  "path": "/france/cesson-svign/cesson-svign/restaurants",
+  "canonicalPath": "/france/cesson-svign/cesson-svign/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Cueillette",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/cesson-svign/cesson-svign/cueillette"
+      "path": "/france/cesson-svign/cesson-svign/cueillette-c-e-s"
     },
     {
       "name": "Zest",

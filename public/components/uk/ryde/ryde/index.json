@@ -1,8 +1,14 @@
 {
   "title": "Ryde",
-  "country": "uk",
-  "region": "ryde",
-  "city": "ryde",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "ryde",
+  "city": "Ryde",
+  "citySlug": "ryde",
+  "path": "/uk/ryde/ryde/restaurants",
+  "canonicalPath": "/uk/ryde/ryde/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "RT Café Grill",

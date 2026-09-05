@@ -1,11 +1,21 @@
 {
   "title": "Alsace",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "alsace",
+  "city": "Alsace",
+  "citySlug": "alsace",
+  "path": "/france/alsace/alsace/restaurants",
+  "canonicalPath": "/france/alsace/alsace/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Auberge de l'Ill",
       "cuisine": "",
       "price": "",
-      "path": "/france/alsace/alsace/LaubergeDeLill"
+      "path": "/france/alsace/alsace/lauberge-de-lill",
+      "award": "World's 50 Best"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Leiwen",
-  "country": "germany",
-  "region": "leiwen",
-  "city": "leiwen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "leiwen",
+  "city": "Leiwen",
+  "citySlug": "leiwen",
+  "path": "/germany/leiwen/leiwen/restaurants",
+  "canonicalPath": "/germany/leiwen/leiwen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "vierzehn 85",
       "cuisine": "Contemporary, Classic Cuisine",
       "price": "€€€",
-      "path": "/germany/leiwen/leiwen/vierzehn-85"
+      "path": "/germany/leiwen/leiwen/vierzehn85"
     }
   ]
 }

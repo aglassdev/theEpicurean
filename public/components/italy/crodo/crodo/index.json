@@ -1,11 +1,20 @@
 {
   "title": "Crodo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "crodo",
+  "city": "Crodo",
+  "citySlug": "crodo",
+  "path": "/italy/crodo/crodo/restaurants",
+  "canonicalPath": "/italy/crodo/crodo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Marconi",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/italy/crodo/crodo/Marconi"
+      "path": "/italy/crodo/crodo/marconi"
     }
   ]
 }

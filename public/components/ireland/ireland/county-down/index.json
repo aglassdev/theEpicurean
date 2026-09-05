@@ -1,17 +1,26 @@
 {
   "title": "County Down",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": "Ireland",
+  "regionSlug": "ireland",
+  "city": "County Down",
+  "citySlug": "county-down",
+  "path": "/ireland/ireland/county-down/restaurants",
+  "canonicalPath": "/ireland/ireland/county-down/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "The Old Inn",
-      "cuisine": "Afternoon Tea",
-      "price": "32.50",
-      "path": "/ireland/ireland/county-down/TheOldInn"
-    },
     {
       "name": "Hillsborough Castle",
       "cuisine": "Afternoon Tea",
       "price": "27.95",
-      "path": "/ireland/ireland/county-down/HillsboroughCastle"
+      "path": "/ireland/ireland/county-down/hillsborough-castle"
+    },
+    {
+      "name": "The Old Inn",
+      "cuisine": "Afternoon Tea",
+      "price": "32.50",
+      "path": "/ireland/ireland/county-down/the-old-inn"
     }
   ]
 }

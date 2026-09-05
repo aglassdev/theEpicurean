@@ -1,20 +1,26 @@
 {
   "title": "Borculo",
-  "country": "netherlands",
-  "region": "borculo",
-  "city": "borculo",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "borculo",
+  "city": "Borculo",
+  "citySlug": "borculo",
+  "path": "/netherlands/borculo/borculo/restaurants",
+  "canonicalPath": "/netherlands/borculo/borculo/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Restaurant De Ölliemölle",
-      "cuisine": "Farm to table",
-      "price": "€€€",
-      "path": "/netherlands/borculo/borculo/restaurant-de-lliemlle"
-    },
     {
       "name": "Restaurant De Olliemölle",
       "cuisine": "Farm to table",
       "price": "€€€",
       "path": "/netherlands/borculo/borculo/restaurant-de-olliemlle"
+    },
+    {
+      "name": "Restaurant De Ölliemölle",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/netherlands/borculo/borculo/restaurant-de-lliemlle"
     }
   ]
 }

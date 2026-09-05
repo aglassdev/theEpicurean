@@ -1,8 +1,14 @@
 {
   "title": "Carpi",
-  "country": "italy",
-  "region": "carpi",
-  "city": "carpi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "carpi",
+  "city": "Carpi",
+  "citySlug": "carpi",
+  "path": "/italy/carpi/carpi/restaurants",
+  "canonicalPath": "/italy/carpi/carpi/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Il Barolino",
@@ -14,7 +20,7 @@
       "name": "Momento al 25",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/italy/carpi/carpi/momento-al-25"
+      "path": "/italy/carpi/carpi/momento-al25"
     }
   ]
 }

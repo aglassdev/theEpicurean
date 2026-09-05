@@ -1,11 +1,21 @@
 {
   "title": "France",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "france",
+  "city": "France",
+  "citySlug": "france",
+  "path": "/france/france/france/restaurants",
+  "canonicalPath": "/france/france/france/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Paul Boscoe",
       "cuisine": "",
       "price": "",
-      "path": "/france/france/france/PaulBoscoe"
+      "path": "/france/france/france/paul-boscoe",
+      "award": "World's 50 Best"
     }
   ]
 }

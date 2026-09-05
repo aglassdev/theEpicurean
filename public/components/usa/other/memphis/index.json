@@ -1,0 +1,38 @@
+{
+  "title": "Memphis",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Tennessee",
+  "regionSlug": "other",
+  "city": "Memphis",
+  "citySlug": "memphis",
+  "path": "/usa/other/memphis/restaurants",
+  "canonicalPath": "/usa/other/memphis/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Andrew Michael Italian Kitchen",
+      "cuisine": "Italian-American",
+      "price": "$$$",
+      "path": "/usa/other/memphis/andrew-michael-italian-kitchen"
+    },
+    {
+      "name": "Felicia Suzanne's",
+      "cuisine": "American, Southern",
+      "price": "$$$",
+      "path": "/usa/other/memphis/felicia-suzannes"
+    },
+    {
+      "name": "Hog & Hominy",
+      "cuisine": "Italian-American, Pizza",
+      "price": "$$",
+      "path": "/usa/other/memphis/hog-hominy"
+    },
+    {
+      "name": "The Lobbyist",
+      "cuisine": "Fusion",
+      "price": "$$$",
+      "path": "/usa/other/memphis/the-lobbyist"
+    }
+  ]
+}

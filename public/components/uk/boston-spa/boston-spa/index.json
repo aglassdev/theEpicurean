@@ -1,11 +1,20 @@
 {
   "title": "Boston Spa",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "boston-spa",
+  "city": "Boston Spa",
+  "citySlug": "boston-spa",
+  "path": "/uk/boston-spa/boston-spa/restaurants",
+  "canonicalPath": "/uk/boston-spa/boston-spa/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Inlamentation",
       "cuisine": "Creative",
       "price": "$$$$",
-      "path": "/uk/boston-spa/boston-spa/Inlamentation"
+      "path": "/uk/boston-spa/boston-spa/inlamentation"
     }
   ]
 }

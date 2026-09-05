@@ -1,9 +1,29 @@
 {
   "title": "Fuzhou",
-  "country": "china",
-  "region": "fuzhou",
-  "city": "fuzhou",
+  "country": "China",
+  "countrySlug": "china",
+  "region": null,
+  "regionSlug": "fuzhou",
+  "city": "Fuzhou",
+  "citySlug": "fuzhou",
+  "path": "/china/fuzhou/fuzhou/restaurants",
+  "canonicalPath": "/china/fuzhou/fuzhou/restaurants",
+  "count": 32,
   "restaurants": [
+    {
+      "name": "Jiangnan Wok ‧ Rong",
+      "cuisine": "Huaiyang",
+      "price": "¥¥¥",
+      "path": "/china/fuzhou/fuzhou/jiangnan-wok-rong",
+      "award": "★"
+    },
+    {
+      "name": "Wenru No.9",
+      "cuisine": "Fujian",
+      "price": "¥¥",
+      "path": "/china/fuzhou/fuzhou/wenru-no9",
+      "award": "★"
+    },
     {
       "name": "167 Shan Hai Li",
       "cuisine": "Fujian",
@@ -56,7 +76,7 @@
       "name": "Hou Jie Lao Hua (216 Tonghu Road)",
       "cuisine": "Noodles",
       "price": "¥",
-      "path": "/china/fuzhou/fuzhou/hou-jie-lao-hua-216-tonghu-road"
+      "path": "/china/fuzhou/fuzhou/hou-jie-lao-hua216-tonghu-road"
     },
     {
       "name": "Hui Wei Private Kitchen",
@@ -69,12 +89,6 @@
       "cuisine": "Steakhouse",
       "price": "¥¥¥",
       "path": "/china/fuzhou/fuzhou/j-a-steak-house"
-    },
-    {
-      "name": "Jiangnan Wok ‧ Rong",
-      "cuisine": "Huaiyang",
-      "price": "¥¥¥",
-      "path": "/china/fuzhou/fuzhou/jiangnan-wok-rong"
     },
     {
       "name": "Jing Li",
@@ -141,12 +155,6 @@
       "cuisine": "Noodles",
       "price": "¥",
       "path": "/china/fuzhou/fuzhou/wei-rong-lao-hua"
-    },
-    {
-      "name": "Wenru No.9",
-      "cuisine": "Fujian",
-      "price": "¥¥",
-      "path": "/china/fuzhou/fuzhou/wenru-no9"
     },
     {
       "name": "Xingxian (Mawei)",

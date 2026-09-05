@@ -1,14 +1,21 @@
 {
   "title": "Terrasini",
-  "country": "italy",
-  "region": "terrasini",
-  "city": "terrasini",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "terrasini",
+  "city": "Terrasini",
+  "citySlug": "terrasini",
+  "path": "/italy/terrasini/terrasini/restaurants",
+  "canonicalPath": "/italy/terrasini/terrasini/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Il Bavaglino",
       "cuisine": "Creative, Contemporary",
       "price": "€€€",
-      "path": "/italy/terrasini/terrasini/il-bavaglino"
+      "path": "/italy/terrasini/terrasini/il-bavaglino",
+      "award": "★"
     },
     {
       "name": "Salotto sul Mare",

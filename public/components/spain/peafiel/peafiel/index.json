@@ -1,14 +1,21 @@
 {
   "title": "Peafiel",
-  "country": "spain",
-  "region": "peafiel",
-  "city": "peafiel",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "peafiel",
+  "city": "Peafiel",
+  "citySlug": "peafiel",
+  "path": "/spain/peafiel/peafiel/restaurants",
+  "canonicalPath": "/spain/peafiel/peafiel/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Ambivium",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/peafiel/peafiel/ambivium"
+      "path": "/spain/peafiel/peafiel/ambivium",
+      "award": "★"
     },
     {
       "name": "Curioso",

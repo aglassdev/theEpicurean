@@ -1,14 +1,20 @@
 {
-  "title": "Loire Sur Rhne",
-  "country": "france",
-  "region": "loire-sur-rhne",
-  "city": "loire-sur-rhne",
+  "title": "Loire sur Rhne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "loire-sur-rhne",
+  "city": "Loire sur Rhne",
+  "citySlug": "loire-sur-rhne",
+  "path": "/france/loire-sur-rhne/loire-sur-rhne/restaurants",
+  "canonicalPath": "/france/loire-sur-rhne/loire-sur-rhne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mouton-Benoit",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/loire-sur-rhne/loire-sur-rhne/mouton-benoit"
+      "path": "/france/loire-sur-rhne/loire-sur-rhne/moutonbenoit"
     }
   ]
 }

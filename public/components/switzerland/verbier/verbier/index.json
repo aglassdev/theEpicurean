@@ -1,14 +1,21 @@
 {
   "title": "Verbier",
-  "country": "switzerland",
-  "region": "verbier",
-  "city": "verbier",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "verbier",
+  "city": "Verbier",
+  "citySlug": "verbier",
+  "path": "/switzerland/verbier/verbier/restaurants",
+  "canonicalPath": "/switzerland/verbier/verbier/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Table d'Adrien",
       "cuisine": "Contemporary, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/verbier/verbier/la-table-dadrien"
+      "path": "/switzerland/verbier/verbier/la-table-dadrien",
+      "award": "★"
     },
     {
       "name": "Le Vingt Deux - Table d'hôtes",

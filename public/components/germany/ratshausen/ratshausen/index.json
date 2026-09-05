@@ -1,14 +1,20 @@
 {
   "title": "Ratshausen",
-  "country": "germany",
-  "region": "ratshausen",
-  "city": "ratshausen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "ratshausen",
+  "city": "Ratshausen",
+  "citySlug": "ratshausen",
+  "path": "/germany/ratshausen/ratshausen/restaurants",
+  "canonicalPath": "/germany/ratshausen/ratshausen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Adler",
       "cuisine": "Farm to table, Classic Cuisine",
       "price": "€€",
-      "path": "/germany/ratshausen/ratshausen/adler"
+      "path": "/germany/ratshausen/ratshausen/adler-r-a-t"
     }
   ]
 }

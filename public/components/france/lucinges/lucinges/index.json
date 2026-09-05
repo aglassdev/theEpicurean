@@ -1,14 +1,21 @@
 {
   "title": "Lucinges",
-  "country": "france",
-  "region": "lucinges",
-  "city": "lucinges",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lucinges",
+  "city": "Lucinges",
+  "citySlug": "lucinges",
+  "path": "/france/lucinges/lucinges/restaurants",
+  "canonicalPath": "/france/lucinges/lucinges/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "L'Auberge de Lucinges",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/lucinges/lucinges/lauberge-de-lucinges"
+      "path": "/france/lucinges/lucinges/lauberge-de-lucinges",
+      "award": "★"
     },
     {
       "name": "Le Bistrot de Madeleine",

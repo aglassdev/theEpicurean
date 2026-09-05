@@ -1,8 +1,14 @@
 {
   "title": "Braemar",
-  "country": "uk",
-  "region": "braemar",
-  "city": "braemar",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "braemar",
+  "city": "Braemar",
+  "citySlug": "braemar",
+  "path": "/uk/braemar/braemar/restaurants",
+  "canonicalPath": "/uk/braemar/braemar/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Clunie Dining Room",

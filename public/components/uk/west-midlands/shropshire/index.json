@@ -1,35 +1,44 @@
 {
   "title": "Shropshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "West Midlands",
+  "regionSlug": "west-midlands",
+  "city": "Shropshire",
+  "citySlug": "shropshire",
+  "path": "/uk/west-midlands/shropshire/restaurants",
+  "canonicalPath": "/uk/west-midlands/shropshire/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Best Western Valley Hotel",
       "cuisine": "Afternoon Tea",
       "price": "49.00",
-      "path": "/uk/west-midlands/shropshire/BestWesternValleyHotel"
-    },
-    {
-      "name": "Niche Patisserie at the Black Gate",
-      "cuisine": "Afternoon Tea",
-      "price": "38.00",
-      "path": "/uk/west-midlands/shropshire/NichePatisserieAtTheBlackGate"
-    },
-    {
-      "name": "Kerry Vale Vineyard",
-      "cuisine": "Afternoon Tea",
-      "price": "80.00",
-      "path": "/uk/west-midlands/shropshire/KerryValeVineyard"
-    },
-    {
-      "name": "Haughton Hall Hotel and Leisure Club",
-      "cuisine": "Afternoon Tea",
-      "price": "49.00",
-      "path": "/uk/west-midlands/shropshire/HaughtonHallHotelAndLeisureClub"
+      "path": "/uk/west-midlands/shropshire/best-western-valley-hotel"
     },
     {
       "name": "Fishmore Hall",
       "cuisine": "Afternoon Tea",
       "price": "27.50",
-      "path": "/uk/west-midlands/shropshire/FishmoreHall"
+      "path": "/uk/west-midlands/shropshire/fishmore-hall"
+    },
+    {
+      "name": "Haughton Hall Hotel and Leisure Club",
+      "cuisine": "Afternoon Tea",
+      "price": "49.00",
+      "path": "/uk/west-midlands/shropshire/haughton-hall-hotel-and-leisure-club"
+    },
+    {
+      "name": "Kerry Vale Vineyard",
+      "cuisine": "Afternoon Tea",
+      "price": "80.00",
+      "path": "/uk/west-midlands/shropshire/kerry-vale-vineyard"
+    },
+    {
+      "name": "Niche Patisserie at the Black Gate",
+      "cuisine": "Afternoon Tea",
+      "price": "38.00",
+      "path": "/uk/west-midlands/shropshire/niche-patisserie-at-the-black-gate"
     }
   ]
 }

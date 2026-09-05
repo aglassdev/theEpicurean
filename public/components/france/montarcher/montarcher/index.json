@@ -1,8 +1,14 @@
 {
   "title": "Montarcher",
-  "country": "france",
-  "region": "montarcher",
-  "city": "montarcher",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montarcher",
+  "city": "Montarcher",
+  "citySlug": "montarcher",
+  "path": "/france/montarcher/montarcher/restaurants",
+  "canonicalPath": "/france/montarcher/montarcher/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Clos Perché",

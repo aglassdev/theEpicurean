@@ -1,8 +1,14 @@
 {
   "title": "Polle",
-  "country": "germany",
-  "region": "polle",
-  "city": "polle",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "polle",
+  "city": "Polle",
+  "citySlug": "polle",
+  "path": "/germany/polle/polle/restaurants",
+  "canonicalPath": "/germany/polle/polle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Graf Everstein",

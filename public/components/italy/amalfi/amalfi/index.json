@@ -1,38 +1,48 @@
 {
   "title": "Amalfi",
-  "country": "italy",
-  "region": "amalfi",
-  "city": "amalfi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "amalfi",
+  "city": "Amalfi",
+  "citySlug": "amalfi",
+  "path": "/italy/amalfi/amalfi/restaurants",
+  "canonicalPath": "/italy/amalfi/amalfi/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Alici",
       "cuisine": "Campanian, Contemporary",
       "price": "€€€€",
-      "path": "/italy/amalfi/amalfi/alici"
+      "path": "/italy/amalfi/amalfi/alici",
+      "award": "★"
     },
     {
       "name": "Glicine",
       "cuisine": "Mediterranean Cuisine, Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/amalfi/amalfi/glicine"
+      "path": "/italy/amalfi/amalfi/glicine",
+      "award": "★"
     },
     {
       "name": "La Caravella dal 1959",
       "cuisine": "Campanian, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/italy/amalfi/amalfi/la-caravella-dal-1959"
+      "path": "/italy/amalfi/amalfi/la-caravella-dal1959",
+      "award": "★"
+    },
+    {
+      "name": "Sensi",
+      "cuisine": "Mediterranean Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/italy/amalfi/amalfi/sensi",
+      "award": "★"
     },
     {
       "name": "Marina Grande",
       "cuisine": "Seafood, Classic Cuisine",
       "price": "€€€",
       "path": "/italy/amalfi/amalfi/marina-grande"
-    },
-    {
-      "name": "Sensi",
-      "cuisine": "Mediterranean Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/italy/amalfi/amalfi/sensi"
     }
   ]
 }

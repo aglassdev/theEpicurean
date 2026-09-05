@@ -1,14 +1,21 @@
 {
   "title": "Passau",
-  "country": "germany",
-  "region": "passau",
-  "city": "passau",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "passau",
+  "city": "Passau",
+  "citySlug": "passau",
+  "path": "/germany/passau/passau/restaurants",
+  "canonicalPath": "/germany/passau/passau/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Marcel von Winckelmann",
       "cuisine": "International, Fusion",
       "price": "€€€€",
-      "path": "/germany/passau/passau/marcel-von-winckelmann"
+      "path": "/germany/passau/passau/marcel-von-winckelmann",
+      "award": "★"
     },
     {
       "name": "Weingut",

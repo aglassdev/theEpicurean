@@ -1,9 +1,22 @@
 {
   "title": "Interlaken",
-  "country": "switzerland",
-  "region": "interlaken",
-  "city": "interlaken",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "interlaken",
+  "city": "Interlaken",
+  "citySlug": "interlaken",
+  "path": "/switzerland/interlaken/interlaken/restaurants",
+  "canonicalPath": "/switzerland/interlaken/interlaken/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Radius by Stefan Beer",
+      "cuisine": "Regional Cuisine, Swiss",
+      "price": "€€€€",
+      "path": "/switzerland/interlaken/interlaken/radius-by-stefan-beer",
+      "award": "★"
+    },
     {
       "name": "La Terrasse Brasserie",
       "cuisine": "Contemporary, Regional Cuisine",
@@ -11,22 +24,10 @@
       "path": "/switzerland/interlaken/interlaken/la-terrasse-brasserie"
     },
     {
-      "name": "Radius by Stefan Beer",
-      "cuisine": "Regional Cuisine, Swiss",
-      "price": "€€€€",
-      "path": "/switzerland/interlaken/interlaken/radius-by-stefan-beer"
-    },
-    {
       "name": "SALZANO",
       "cuisine": "Regional Cuisine, Seasonal Cuisine",
       "price": "€€",
       "path": "/switzerland/interlaken/interlaken/salzano"
-    },
-    {
-      "name": "Sapori",
-      "cuisine": "Italian, Pizza",
-      "price": "€€",
-      "path": "/switzerland/interlaken/interlaken/sapori"
     },
     {
       "name": "Sapori",

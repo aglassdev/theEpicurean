@@ -1,11 +1,20 @@
 {
   "title": "Scharnitz",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "scharnitz",
+  "city": "Scharnitz",
+  "citySlug": "scharnitz",
+  "path": "/austria/scharnitz/scharnitz/restaurants",
+  "canonicalPath": "/austria/scharnitz/scharnitz/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lorenz in der alten Mühle",
       "cuisine": "Regional Cuisine",
       "price": "$$",
-      "path": "/austria/scharnitz/scharnitz/LorenzInDerAltenMhle"
+      "path": "/austria/scharnitz/scharnitz/lorenz-in-der-alten-mhle"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Rock",
-  "country": "uk",
-  "region": "rock",
-  "city": "rock",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "rock",
+  "city": "Rock",
+  "citySlug": "rock",
+  "path": "/uk/rock/rock/restaurants",
+  "canonicalPath": "/uk/rock/rock/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "FOUR BOYS",

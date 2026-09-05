@@ -1,14 +1,21 @@
 {
   "title": "Porto San Giorgio",
-  "country": "italy",
-  "region": "porto-san-giorgio",
-  "city": "porto-san-giorgio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "porto-san-giorgio",
+  "city": "Porto San Giorgio",
+  "citySlug": "porto-san-giorgio",
+  "path": "/italy/porto-san-giorgio/porto-san-giorgio/restaurants",
+  "canonicalPath": "/italy/porto-san-giorgio/porto-san-giorgio/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Retroscena",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/porto-san-giorgio/porto-san-giorgio/retroscena"
+      "path": "/italy/porto-san-giorgio/porto-san-giorgio/retroscena",
+      "award": "★"
     }
   ]
 }

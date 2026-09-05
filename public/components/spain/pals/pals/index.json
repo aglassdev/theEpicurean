@@ -1,8 +1,14 @@
 {
   "title": "Pals",
-  "country": "spain",
-  "region": "pals",
-  "city": "pals",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "pals",
+  "city": "Pals",
+  "citySlug": "pals",
+  "path": "/spain/pals/pals/restaurants",
+  "canonicalPath": "/spain/pals/pals/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Es Portal",

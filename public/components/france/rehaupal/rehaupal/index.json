@@ -1,11 +1,20 @@
 {
   "title": "Rehaupal",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "rehaupal",
+  "city": "Rehaupal",
+  "citySlug": "rehaupal",
+  "path": "/france/rehaupal/rehaupal/restaurants",
+  "canonicalPath": "/france/rehaupal/rehaupal/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table du Haut Jardin",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/rehaupal/rehaupal/LaTableDuHautJardin"
+      "path": "/france/rehaupal/rehaupal/la-table-du-haut-jardin"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Kehl",
-  "country": "germany",
-  "region": "kehl",
-  "city": "kehl",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "kehl",
+  "city": "Kehl",
+  "citySlug": "kehl",
+  "path": "/germany/kehl/kehl/restaurants",
+  "canonicalPath": "/germany/kehl/kehl/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hirsch",
       "cuisine": "Country cooking, International",
       "price": "€€",
-      "path": "/germany/kehl/kehl/hirsch"
+      "path": "/germany/kehl/kehl/hirsch-k-e-h"
     }
   ]
 }

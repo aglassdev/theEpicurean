@@ -1,8 +1,14 @@
 {
   "title": "Cugy",
-  "country": "switzerland",
-  "region": "cugy",
-  "city": "cugy",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "cugy",
+  "city": "Cugy",
+  "citySlug": "cugy",
+  "path": "/switzerland/cugy/cugy/restaurants",
+  "canonicalPath": "/switzerland/cugy/cugy/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de l'Abbaye de Montheron",

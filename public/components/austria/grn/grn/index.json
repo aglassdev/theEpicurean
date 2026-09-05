@@ -1,8 +1,14 @@
 {
   "title": "Grn",
-  "country": "austria",
-  "region": "grn",
-  "city": "grn",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "grn",
+  "city": "Grn",
+  "citySlug": "grn",
+  "path": "/austria/grn/grn/restaurants",
+  "canonicalPath": "/austria/grn/grn/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Elysium Bergblick",

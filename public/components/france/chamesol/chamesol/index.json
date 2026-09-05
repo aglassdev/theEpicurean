@@ -1,8 +1,14 @@
 {
   "title": "Chamesol",
-  "country": "france",
-  "region": "chamesol",
-  "city": "chamesol",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chamesol",
+  "city": "Chamesol",
+  "citySlug": "chamesol",
+  "path": "/france/chamesol/chamesol/restaurants",
+  "canonicalPath": "/france/chamesol/chamesol/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mon Plaisir",

@@ -1,11 +1,21 @@
 {
   "title": "Kvitnes",
+  "country": "Norway",
+  "countrySlug": "norway",
+  "region": null,
+  "regionSlug": "kvitnes",
+  "city": "Kvitnes",
+  "citySlug": "kvitnes",
+  "path": "/norway/kvitnes/kvitnes/restaurants",
+  "canonicalPath": "/norway/kvitnes/kvitnes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Kvitnes Gård",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/norway/kvitnes/kvitnes/KvitnesGrd"
+      "path": "/norway/kvitnes/kvitnes/kvitnes-grd",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Altaussee",
-  "country": "austria",
-  "region": "altaussee",
-  "city": "altaussee",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "altaussee",
+  "city": "Altaussee",
+  "citySlug": "altaussee",
+  "path": "/austria/altaussee/altaussee/restaurants",
+  "canonicalPath": "/austria/altaussee/altaussee/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Geiger Alm",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/austria/altaussee/altaussee/geiger-alm"
+      "path": "/austria/altaussee/altaussee/geiger-alm",
+      "award": "★"
     },
     {
       "name": "Stefan Haas Fine Dine",

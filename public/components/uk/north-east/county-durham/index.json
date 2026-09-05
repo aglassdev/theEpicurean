@@ -1,17 +1,26 @@
 {
   "title": "County Durham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "North East",
+  "regionSlug": "north-east",
+  "city": "County Durham",
+  "citySlug": "county-durham",
+  "path": "/uk/north-east/county-durham/restaurants",
+  "canonicalPath": "/uk/north-east/county-durham/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Lumley Castle Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/north-east/county-durham/LumleyCastleHotel"
-    },
     {
       "name": "Headlam Hall",
       "cuisine": "Afternoon Tea",
       "price": "26.00",
-      "path": "/uk/north-east/county-durham/HeadlamHall"
+      "path": "/uk/north-east/county-durham/headlam-hall"
+    },
+    {
+      "name": "Lumley Castle Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/north-east/county-durham/lumley-castle-hotel"
     }
   ]
 }

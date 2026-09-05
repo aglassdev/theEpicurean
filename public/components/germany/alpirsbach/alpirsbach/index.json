@@ -1,14 +1,20 @@
 {
   "title": "Alpirsbach",
-  "country": "germany",
-  "region": "alpirsbach",
-  "city": "alpirsbach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "alpirsbach",
+  "city": "Alpirsbach",
+  "citySlug": "alpirsbach",
+  "path": "/germany/alpirsbach/alpirsbach/restaurants",
+  "canonicalPath": "/germany/alpirsbach/alpirsbach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Rössle",
       "cuisine": "Country cooking, Classic Cuisine",
       "price": "€€",
-      "path": "/germany/alpirsbach/alpirsbach/rssle"
+      "path": "/germany/alpirsbach/alpirsbach/rssle-a-l-p"
     }
   ]
 }

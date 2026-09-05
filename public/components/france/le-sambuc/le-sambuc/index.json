@@ -1,14 +1,21 @@
 {
   "title": "Le Sambuc",
-  "country": "france",
-  "region": "le-sambuc",
-  "city": "le-sambuc",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-sambuc",
+  "city": "Le Sambuc",
+  "citySlug": "le-sambuc",
+  "path": "/france/le-sambuc/le-sambuc/restaurants",
+  "canonicalPath": "/france/le-sambuc/le-sambuc/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Chassagnette",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/le-sambuc/le-sambuc/la-chassagnette"
+      "path": "/france/le-sambuc/le-sambuc/la-chassagnette",
+      "award": "★"
     },
     {
       "name": "Le Mas de Peint",

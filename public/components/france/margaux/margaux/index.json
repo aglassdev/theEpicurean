@@ -1,8 +1,14 @@
 {
   "title": "Margaux",
-  "country": "france",
-  "region": "margaux",
-  "city": "margaux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "margaux",
+  "city": "Margaux",
+  "citySlug": "margaux",
+  "path": "/france/margaux/margaux/restaurants",
+  "canonicalPath": "/france/margaux/margaux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Marquis de Terme",

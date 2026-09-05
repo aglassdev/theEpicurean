@@ -1,14 +1,21 @@
 {
   "title": "Roeser",
-  "country": "luxembourg",
-  "region": "roeser",
-  "city": "roeser",
+  "country": "Luxembourg",
+  "countrySlug": "luxembourg",
+  "region": null,
+  "regionSlug": "roeser",
+  "city": "Roeser",
+  "citySlug": "roeser",
+  "path": "/luxembourg/roeser/roeser/restaurants",
+  "canonicalPath": "/luxembourg/roeser/roeser/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fani",
       "cuisine": "Italian",
       "price": "€€€€",
-      "path": "/luxembourg/roeser/roeser/fani"
+      "path": "/luxembourg/roeser/roeser/fani",
+      "award": "★"
     }
   ]
 }

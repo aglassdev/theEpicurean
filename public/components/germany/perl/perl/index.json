@@ -1,14 +1,21 @@
 {
   "title": "Perl",
-  "country": "germany",
-  "region": "perl",
-  "city": "perl",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "perl",
+  "city": "Perl",
+  "citySlug": "perl",
+  "path": "/germany/perl/perl/restaurants",
+  "canonicalPath": "/germany/perl/perl/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Victor's Fine Dining by christian bau",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/germany/perl/perl/victors-fine-dining-by-christian-bau"
+      "path": "/germany/perl/perl/victors-fine-dining-by-christian-bau",
+      "award": "★★★"
     }
   ]
 }

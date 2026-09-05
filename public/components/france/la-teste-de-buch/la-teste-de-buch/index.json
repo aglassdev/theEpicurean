@@ -1,8 +1,14 @@
 {
-  "title": "La Teste De Buch",
-  "country": "france",
-  "region": "la-teste-de-buch",
-  "city": "la-teste-de-buch",
+  "title": "La Teste de Buch",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-teste-de-buch",
+  "city": "La Teste de Buch",
+  "citySlug": "la-teste-de-buch",
+  "path": "/france/la-teste-de-buch/la-teste-de-buch/restaurants",
+  "canonicalPath": "/france/la-teste-de-buch/la-teste-de-buch/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Haliotis",
@@ -11,16 +17,16 @@
       "path": "/france/la-teste-de-buch/la-teste-de-buch/haliotis"
     },
     {
-      "name": "La Table de L'Oléa",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/la-teste-de-buch/la-teste-de-buch/la-table-de-lola"
-    },
-    {
       "name": "L'Aillet",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€",
       "path": "/france/la-teste-de-buch/la-teste-de-buch/laillet"
+    },
+    {
+      "name": "La Table de L'Oléa",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/la-teste-de-buch/la-teste-de-buch/la-table-de-lola"
     }
   ]
 }

@@ -1,9 +1,22 @@
 {
   "title": "Breuil Cervinia",
-  "country": "italy",
-  "region": "breuil-cervinia",
-  "city": "breuil-cervinia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "breuil-cervinia",
+  "city": "Breuil Cervinia",
+  "citySlug": "breuil-cervinia",
+  "path": "/italy/breuil-cervinia/breuil-cervinia/restaurants",
+  "canonicalPath": "/italy/breuil-cervinia/breuil-cervinia/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Wood",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€",
+      "path": "/italy/breuil-cervinia/breuil-cervinia/wood",
+      "award": "★"
+    },
     {
       "name": "La Chandelle",
       "cuisine": "Classic Cuisine, Italian",
@@ -15,12 +28,6 @@
       "cuisine": "Cuisine from the Aosta Valley, Italian",
       "price": "€€",
       "path": "/italy/breuil-cervinia/breuil-cervinia/la-luge"
-    },
-    {
-      "name": "Wood",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€",
-      "path": "/italy/breuil-cervinia/breuil-cervinia/wood"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
-  "title": "Leigh On Sea",
-  "country": "uk",
-  "region": "leigh-on-sea",
-  "city": "leigh-on-sea",
+  "title": "Leigh on Sea",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "leigh-on-sea",
+  "city": "Leigh on Sea",
+  "citySlug": "leigh-on-sea",
+  "path": "/uk/leigh-on-sea/leigh-on-sea/restaurants",
+  "canonicalPath": "/uk/leigh-on-sea/leigh-on-sea/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Food Leigh-On-Sea",
       "cuisine": "Modern Cuisine",
       "price": "£££",
-      "path": "/uk/leigh-on-sea/leigh-on-sea/food-leigh-on-sea"
+      "path": "/uk/leigh-on-sea/leigh-on-sea/food-leighonsea"
     }
   ]
 }

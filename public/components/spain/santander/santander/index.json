@@ -1,9 +1,29 @@
 {
   "title": "Santander",
-  "country": "spain",
-  "region": "santander",
-  "city": "santander",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "santander",
+  "city": "Santander",
+  "citySlug": "santander",
+  "path": "/spain/santander/santander/restaurants",
+  "canonicalPath": "/spain/santander/santander/restaurants",
+  "count": 12,
   "restaurants": [
+    {
+      "name": "Casona del Judío",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/santander/santander/casona-del-judo",
+      "award": "★"
+    },
+    {
+      "name": "El Serbal",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/santander/santander/el-serbal",
+      "award": "★"
+    },
     {
       "name": "Agua Salada",
       "cuisine": "Contemporary, Traditional Cuisine",
@@ -23,34 +43,22 @@
       "path": "/spain/santander/santander/bodega-del-riojano"
     },
     {
-      "name": "Cañadío",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/spain/santander/santander/caado"
-    },
-    {
       "name": "Cadelo",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/spain/santander/santander/cadelo"
     },
     {
-      "name": "Casona del Judío",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/santander/santander/casona-del-judo"
+      "name": "Cañadío",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/santander/santander/caado"
     },
     {
       "name": "Daría",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/spain/santander/santander/dara"
-    },
-    {
-      "name": "El Serbal",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/santander/santander/el-serbal"
     },
     {
       "name": "La Bombi",

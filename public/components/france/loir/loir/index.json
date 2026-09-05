@@ -1,8 +1,14 @@
 {
   "title": "Loir",
-  "country": "france",
-  "region": "loir",
-  "city": "loir",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "loir",
+  "city": "Loir",
+  "citySlug": "loir",
+  "path": "/france/loir/loir/restaurants",
+  "canonicalPath": "/france/loir/loir/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de la Diligence",

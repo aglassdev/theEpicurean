@@ -1,14 +1,21 @@
 {
   "title": "Langres",
-  "country": "france",
-  "region": "langres",
-  "city": "langres",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "langres",
+  "city": "Langres",
+  "citySlug": "langres",
+  "path": "/france/langres/langres/restaurants",
+  "canonicalPath": "/france/langres/langres/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bulle d'Osier",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/langres/langres/bulle-dosier"
+      "path": "/france/langres/langres/bulle-dosier",
+      "award": "★"
     },
     {
       "name": "Mirabelle",

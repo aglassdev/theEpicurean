@@ -1,6 +1,57 @@
 {
   "title": "Dublin City",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "dublin-city",
+  "city": "Dublin City",
+  "citySlug": "dublin-city",
+  "path": "/ireland/dublin-city/dublin-city/restaurants",
+  "canonicalPath": "/ireland/dublin-city/dublin-city/restaurants",
+  "count": 46,
   "restaurants": [
+    {
+      "name": "Chapter One by Mickael Viljanen",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/ireland/dublin-city/dublin-city/chapter-one-by-mickael-viljanen",
+      "award": "★★"
+    },
+    {
+      "name": "Patrick Guilbaud",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/ireland/dublin-city/dublin-city/patrick-guilbaud",
+      "award": "★★"
+    },
+    {
+      "name": "Bastible",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/ireland/dublin-city/dublin-city/bastible",
+      "award": "★"
+    },
+    {
+      "name": "D'Olier Street",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/ireland/dublin-city/dublin-city/dolier-street",
+      "award": "★"
+    },
+    {
+      "name": "Glovers Alley",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/ireland/dublin-city/dublin-city/glovers-alley",
+      "award": "★"
+    },
+    {
+      "name": "Variety Jones",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/ireland/dublin-city/dublin-city/variety-jones",
+      "award": "★"
+    },
     {
       "name": "allta",
       "cuisine": "Modern Cuisine, Seafood",
@@ -26,12 +77,6 @@
       "path": "/ireland/dublin-city/dublin-city/ananda"
     },
     {
-      "name": "Bastible",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/ireland/dublin-city/dublin-city/bastible"
-    },
-    {
       "name": "BIGFAN",
       "cuisine": "Asian, Chinese",
       "price": "€€",
@@ -42,12 +87,6 @@
       "cuisine": "Italian",
       "price": "€€",
       "path": "/ireland/dublin-city/dublin-city/borgo"
-    },
-    {
-      "name": "Chapter One by Mickael Viljanen",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/ireland/dublin-city/dublin-city/chapter-one-by-mickael-viljanen"
     },
     {
       "name": "Comet",
@@ -68,16 +107,10 @@
       "path": "/ireland/dublin-city/dublin-city/delahunt"
     },
     {
-      "name": "D'Olier Street",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/ireland/dublin-city/dublin-city/dolier-street"
-    },
-    {
       "name": "Etto",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/ireland/dublin-city/dublin-city/etto"
+      "path": "/ireland/dublin-city/dublin-city/etto-d-u-b"
     },
     {
       "name": "Forest Avenue",
@@ -90,12 +123,6 @@
       "cuisine": "French",
       "price": "€€",
       "path": "/ireland/dublin-city/dublin-city/fort"
-    },
-    {
-      "name": "Glovers Alley",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/ireland/dublin-city/dublin-city/glovers-alley"
     },
     {
       "name": "Grano",
@@ -116,16 +143,10 @@
       "path": "/ireland/dublin-city/dublin-city/host"
     },
     {
-      "name": "Host",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/ireland/dublin-city/dublin-city/host"
-    },
-    {
       "name": "Jean-Georges at The Leinster",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/ireland/dublin-city/dublin-city/jean-georges-at-the-leinster"
+      "path": "/ireland/dublin-city/dublin-city/jeangeorges-at-the-leinster"
     },
     {
       "name": "Kaldero",
@@ -212,10 +233,10 @@
       "path": "/ireland/dublin-city/dublin-city/osteria-lucio"
     },
     {
-      "name": "Patrick Guilbaud",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/ireland/dublin-city/dublin-city/patrick-guilbaud"
+      "name": "Parrilla",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/ireland/dublin-city/dublin-city/parrilla"
     },
     {
       "name": "Peploe's",
@@ -270,18 +291,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/ireland/dublin-city/dublin-city/vada"
-    },
-    {
-      "name": "Variety Jones",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/ireland/dublin-city/dublin-city/variety-jones"
-    },
-    {
-      "name": "Parrilla",
-      "cuisine": "Mexican",
-      "price": "$$",
-      "path": "/ireland/dublin-city/dublin-city/Parrilla"
     }
   ]
 }

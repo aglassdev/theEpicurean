@@ -1,0 +1,29 @@
+{
+  "title": "Washington",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Virginia",
+  "regionSlug": "virginia",
+  "city": "Washington",
+  "citySlug": "washington",
+  "path": "/usa/virginia/washington/restaurants",
+  "canonicalPath": "/usa/virginia/washington/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "The Inn at Little Washington",
+      "cuisine": "Contemporary French",
+      "price": "$$$$$ · Prix Fixe",
+      "path": "/usa/virginia/washington/inn-at-little-washington",
+      "award": "★★★",
+      "image": "/images/ialw.png"
+    },
+    {
+      "name": "Patty O's Cafe & Bakery",
+      "cuisine": "French-Influenced American",
+      "price": "$$$ · À La Carte",
+      "path": "/usa/virginia/washington/patty-os-cafe",
+      "image": "/images/pattyoscafe1.png"
+    }
+  ]
+}

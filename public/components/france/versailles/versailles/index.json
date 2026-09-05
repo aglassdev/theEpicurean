@@ -1,32 +1,41 @@
 {
   "title": "Versailles",
-  "country": "france",
-  "region": "versailles",
-  "city": "versailles",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "versailles",
+  "city": "Versailles",
+  "citySlug": "versailles",
+  "path": "/france/versailles/versailles/restaurants",
+  "canonicalPath": "/france/versailles/versailles/restaurants",
+  "count": 8,
   "restaurants": [
     {
       "name": "Ducasse au Château de Versailles - Le Grand Contrôle",
       "cuisine": "Classic Cuisine, French",
       "price": "€€€€",
-      "path": "/france/versailles/versailles/ducasse-au-chteau-de-versailles-le-grand-contrle"
+      "path": "/france/versailles/versailles/ducasse-au-chteau-de-versailles-le-grand-contrle",
+      "award": "★"
     },
     {
       "name": "Gordon Ramsay au Trianon",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/versailles/versailles/gordon-ramsay-au-trianon"
+      "path": "/france/versailles/versailles/gordon-ramsay-au-trianon",
+      "award": "★"
+    },
+    {
+      "name": "La Table du 11",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/versailles/versailles/la-table-du11",
+      "award": "★"
     },
     {
       "name": "La Table des Lumières",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/versailles/versailles/la-table-des-lumires"
-    },
-    {
-      "name": "La Table du 11",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/versailles/versailles/la-table-du-11"
     },
     {
       "name": "Lafayette",
@@ -38,7 +47,7 @@
       "name": "Le Bistrot du 11",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/versailles/versailles/le-bistrot-du-11"
+      "path": "/france/versailles/versailles/le-bistrot-du11"
     },
     {
       "name": "Le Pincemin",

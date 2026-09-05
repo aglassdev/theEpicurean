@@ -1,20 +1,27 @@
 {
   "title": "Sint Oedenrode",
-  "country": "netherlands",
-  "region": "sint-oedenrode",
-  "city": "sint-oedenrode",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "sint-oedenrode",
+  "city": "Sint Oedenrode",
+  "citySlug": "sint-oedenrode",
+  "path": "/netherlands/sint-oedenrode/sint-oedenrode/restaurants",
+  "canonicalPath": "/netherlands/sint-oedenrode/sint-oedenrode/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Odille",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/netherlands/sint-oedenrode/sint-oedenrode/odille",
+      "award": "★"
+    },
     {
       "name": "De Beleving",
       "cuisine": "Modern French",
       "price": "€€",
       "path": "/netherlands/sint-oedenrode/sint-oedenrode/de-beleving"
-    },
-    {
-      "name": "Odille",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/netherlands/sint-oedenrode/sint-oedenrode/odille"
     },
     {
       "name": "Petite",

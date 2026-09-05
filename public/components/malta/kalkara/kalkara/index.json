@@ -1,14 +1,20 @@
 {
   "title": "Kalkara",
-  "country": "malta",
-  "region": "kalkara",
-  "city": "kalkara",
+  "country": "Malta",
+  "countrySlug": "malta",
+  "region": null,
+  "regionSlug": "kalkara",
+  "city": "Kalkara",
+  "citySlug": "kalkara",
+  "path": "/malta/kalkara/kalkara/restaurants",
+  "canonicalPath": "/malta/kalkara/kalkara/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Marea",
       "cuisine": "Asian, Mediterranean Cuisine",
       "price": "€€",
-      "path": "/malta/kalkara/kalkara/marea"
+      "path": "/malta/kalkara/kalkara/marea-k-a-l"
     }
   ]
 }

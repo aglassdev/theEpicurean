@@ -1,14 +1,20 @@
 {
   "title": "Sauxillanges",
-  "country": "france",
-  "region": "sauxillanges",
-  "city": "sauxillanges",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sauxillanges",
+  "city": "Sauxillanges",
+  "citySlug": "sauxillanges",
+  "path": "/france/sauxillanges/sauxillanges/restaurants",
+  "canonicalPath": "/france/sauxillanges/sauxillanges/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table Saint-Martin",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/sauxillanges/sauxillanges/la-table-saint-martin"
+      "path": "/france/sauxillanges/sauxillanges/la-table-saintmartin"
     }
   ]
 }

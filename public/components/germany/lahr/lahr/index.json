@@ -1,14 +1,21 @@
 {
   "title": "Lahr",
-  "country": "germany",
-  "region": "lahr",
-  "city": "lahr",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "lahr",
+  "city": "Lahr",
+  "citySlug": "lahr",
+  "path": "/germany/lahr/lahr/restaurants",
+  "canonicalPath": "/germany/lahr/lahr/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Adler",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/germany/lahr/lahr/adler"
+      "path": "/germany/lahr/lahr/adler",
+      "award": "★"
     },
     {
       "name": "Fegers Grüner Baum",

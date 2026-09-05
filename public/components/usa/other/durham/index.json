@@ -1,0 +1,38 @@
+{
+  "title": "Durham",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "North Carolina",
+  "regionSlug": "other",
+  "city": "Durham",
+  "citySlug": "durham",
+  "path": "/usa/other/durham/restaurants",
+  "canonicalPath": "/usa/northcarolina/durham/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Little Bull",
+      "cuisine": "Fusion",
+      "price": "$$$",
+      "path": "/usa/northcarolina/durham/little-bull"
+    },
+    {
+      "name": "Nanas",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/northcarolina/durham/nanas"
+    },
+    {
+      "name": "Nikos",
+      "cuisine": "Greek",
+      "price": "$$",
+      "path": "/usa/northcarolina/durham/nikos"
+    },
+    {
+      "name": "Seraphine",
+      "cuisine": "Southern",
+      "price": "$$",
+      "path": "/usa/northcarolina/durham/seraphine"
+    }
+  ]
+}

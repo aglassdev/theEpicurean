@@ -1,14 +1,20 @@
 {
   "title": "Tournai",
-  "country": "belgium",
-  "region": "tournai",
-  "city": "tournai",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "tournai",
+  "city": "Tournai",
+  "citySlug": "tournai",
+  "path": "/belgium/tournai/tournai/restaurants",
+  "canonicalPath": "/belgium/tournai/tournai/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Paulée Marie-Pierre",
       "cuisine": "Classic French",
       "price": "€€",
-      "path": "/belgium/tournai/tournai/la-paule-marie-pierre"
+      "path": "/belgium/tournai/tournai/la-paule-mariepierre"
     },
     {
       "name": "la petite Madeleine",

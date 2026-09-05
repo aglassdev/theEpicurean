@@ -1,20 +1,27 @@
 {
   "title": "Lenzerheide",
-  "country": "switzerland",
-  "region": "lenzerheide",
-  "city": "lenzerheide",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "lenzerheide",
+  "city": "Lenzerheide",
+  "citySlug": "lenzerheide",
+  "path": "/switzerland/lenzerheide/lenzerheide/restaurants",
+  "canonicalPath": "/switzerland/lenzerheide/lenzerheide/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "La Riva",
+      "cuisine": "Modern French, Classic Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/lenzerheide/lenzerheide/la-riva",
+      "award": "★"
+    },
     {
       "name": "Guarda Val",
       "cuisine": "International, Modern Cuisine",
       "price": "€€€",
       "path": "/switzerland/lenzerheide/lenzerheide/guarda-val"
-    },
-    {
-      "name": "La Riva",
-      "cuisine": "Modern French, Classic Cuisine",
-      "price": "€€€",
-      "path": "/switzerland/lenzerheide/lenzerheide/la-riva"
     },
     {
       "name": "Scalottas - Terroir",

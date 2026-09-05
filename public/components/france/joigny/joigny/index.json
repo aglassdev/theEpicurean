@@ -1,14 +1,21 @@
 {
   "title": "Joigny",
-  "country": "france",
-  "region": "joigny",
-  "city": "joigny",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "joigny",
+  "city": "Joigny",
+  "citySlug": "joigny",
+  "path": "/france/joigny/joigny/restaurants",
+  "canonicalPath": "/france/joigny/joigny/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Côte Saint-Jacques",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/joigny/joigny/la-cte-saint-jacques"
+      "path": "/france/joigny/joigny/la-cte-saintjacques",
+      "award": "★★"
     },
     {
       "name": "Le Bistrot des Générations",

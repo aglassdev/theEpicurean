@@ -1,11 +1,20 @@
 {
   "title": "Chur",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "chur",
+  "city": "Chur",
+  "citySlug": "chur",
+  "path": "/switzerland/chur/chur/restaurants",
+  "canonicalPath": "/switzerland/chur/chur/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mekong",
       "cuisine": "Asian",
       "price": "$",
-      "path": "/switzerland/chur/chur/Mekong"
+      "path": "/switzerland/chur/chur/mekong"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Goes",
-  "country": "netherlands",
-  "region": "goes",
-  "city": "goes",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "goes",
+  "city": "Goes",
+  "citySlug": "goes",
+  "path": "/netherlands/goes/goes/restaurants",
+  "canonicalPath": "/netherlands/goes/goes/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Codium",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/netherlands/goes/goes/codium"
+      "path": "/netherlands/goes/goes/codium",
+      "award": "★"
     },
     {
       "name": "De Kluizenaer",

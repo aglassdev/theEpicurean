@@ -1,9 +1,22 @@
 {
   "title": "Breda",
-  "country": "netherlands",
-  "region": "breda",
-  "city": "breda",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "breda",
+  "city": "Breda",
+  "citySlug": "breda",
+  "path": "/netherlands/breda/breda/restaurants",
+  "canonicalPath": "/netherlands/breda/breda/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "Restaurant Wolfslaar",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/netherlands/breda/breda/restaurant-wolfslaar",
+      "award": "★"
+    },
     {
       "name": "Amí Bistro",
       "cuisine": "Modern French",
@@ -45,12 +58,6 @@
       "cuisine": "French Contemporary",
       "price": "€€€",
       "path": "/netherlands/breda/breda/restaurant-uijttewaal"
-    },
-    {
-      "name": "Restaurant Wolfslaar",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/netherlands/breda/breda/restaurant-wolfslaar"
     },
     {
       "name": "Salon de Provence",

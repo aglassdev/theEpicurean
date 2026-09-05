@@ -1,11 +1,20 @@
 {
-  "title": "Saint-Crépin",
+  "title": "Saint Crpin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-crpin",
+  "city": "Saint Crpin",
+  "citySlug": "saint-crpin",
+  "path": "/france/saint-crpin/saint-crpin/restaurants",
+  "canonicalPath": "/france/saint-crpin/saint-crpin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Tables de Gaspard",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/saint-crpin/saint-crpin/LesTablesDeGaspard"
+      "path": "/france/saint-crpin/saint-crpin/les-tables-de-gaspard"
     }
   ]
 }

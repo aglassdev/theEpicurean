@@ -1,20 +1,28 @@
 {
   "title": "Sintra",
-  "country": "portugal",
-  "region": "sintra",
-  "city": "sintra",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "sintra",
+  "city": "Sintra",
+  "citySlug": "sintra",
+  "path": "/portugal/sintra/sintra/restaurants",
+  "canonicalPath": "/portugal/sintra/sintra/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Lab by Sergi Arola",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/portugal/sintra/sintra/lab-by-sergi-arola"
+      "path": "/portugal/sintra/sintra/lab-by-sergi-arola",
+      "award": "★"
     },
     {
       "name": "Midori",
       "cuisine": "Japanese, Creative",
       "price": "€€€€",
-      "path": "/portugal/sintra/sintra/midori"
+      "path": "/portugal/sintra/sintra/midori",
+      "award": "★"
     }
   ]
 }

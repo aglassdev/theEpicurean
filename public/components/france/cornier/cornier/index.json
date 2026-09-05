@@ -1,8 +1,14 @@
 {
   "title": "Cornier",
-  "country": "france",
-  "region": "cornier",
-  "city": "cornier",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cornier",
+  "city": "Cornier",
+  "citySlug": "cornier",
+  "path": "/france/cornier/cornier/restaurants",
+  "canonicalPath": "/france/cornier/cornier/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chez Mosse",

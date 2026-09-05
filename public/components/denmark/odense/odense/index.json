@@ -1,17 +1,27 @@
 {
   "title": "Odense",
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "region": null,
+  "regionSlug": "odense",
+  "city": "Odense",
+  "citySlug": "odense",
+  "path": "/denmark/odense/odense/restaurants",
+  "canonicalPath": "/denmark/odense/odense/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "ARO",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/denmark/odense/odense/aro"
+      "path": "/denmark/odense/odense/aro",
+      "award": "★"
     },
     {
       "name": "Madeleine",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/denmark/odense/odense/Madeleine"
+      "path": "/denmark/odense/odense/madeleine"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Le Havre",
-  "country": "france",
-  "region": "le-havre",
-  "city": "le-havre",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-havre",
+  "city": "Le Havre",
+  "citySlug": "le-havre",
+  "path": "/france/le-havre/le-havre/restaurants",
+  "canonicalPath": "/france/le-havre/le-havre/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Jean-Luc Tartarin",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/le-havre/le-havre/jean-luc-tartarin"
+      "path": "/france/le-havre/le-havre/jeanluc-tartarin",
+      "award": "★"
     },
     {
       "name": "Le Bouche à Oreille",

@@ -1,0 +1,26 @@
+{
+  "title": "Vail",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Colorado",
+  "regionSlug": "colorado",
+  "city": "Vail",
+  "citySlug": "vail",
+  "path": "/usa/colorado/vail/restaurants",
+  "canonicalPath": "/usa/colorado/vail/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Osaki's",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$",
+      "path": "/usa/colorado/vail/osakis"
+    },
+    {
+      "name": "Sweet Basil",
+      "cuisine": "Fusion",
+      "price": "$$$$",
+      "path": "/usa/colorado/vail/sweet-basil"
+    }
+  ]
+}

@@ -1,8 +1,14 @@
 {
   "title": "Ridgeway",
-  "country": "uk",
-  "region": "ridgeway",
-  "city": "ridgeway",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "ridgeway",
+  "city": "Ridgeway",
+  "citySlug": "ridgeway",
+  "path": "/uk/ridgeway/ridgeway/restaurants",
+  "canonicalPath": "/uk/ridgeway/ridgeway/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Old Vicarage",

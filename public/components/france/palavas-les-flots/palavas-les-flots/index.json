@@ -1,14 +1,20 @@
 {
-  "title": "Palavas Les Flots",
-  "country": "france",
-  "region": "palavas-les-flots",
-  "city": "palavas-les-flots",
+  "title": "Palavas les Flots",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "palavas-les-flots",
+  "city": "Palavas les Flots",
+  "citySlug": "palavas-les-flots",
+  "path": "/france/palavas-les-flots/palavas-les-flots/restaurants",
+  "canonicalPath": "/france/palavas-les-flots/palavas-les-flots/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Saint-Georges",
       "cuisine": "Regional Cuisine",
       "price": "€€",
-      "path": "/france/palavas-les-flots/palavas-les-flots/le-saint-georges"
+      "path": "/france/palavas-les-flots/palavas-les-flots/le-saintgeorges"
     }
   ]
 }

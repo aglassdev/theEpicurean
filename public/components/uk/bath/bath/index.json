@@ -1,9 +1,28 @@
 {
   "title": "Bath",
-  "country": "uk",
-  "region": "bath",
-  "city": "bath",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South West",
+  "regionSlug": "bath",
+  "city": "Bath",
+  "citySlug": "bath",
+  "path": "/uk/bath/bath/restaurants",
+  "canonicalPath": "/uk/bath/bath/restaurants",
+  "count": 20,
   "restaurants": [
+    {
+      "name": "Olive Tree",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/bath/bath/olive-tree",
+      "award": "★"
+    },
+    {
+      "name": "Apex City of Bath Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "26.00",
+      "path": "/uk/south-west/bath/apex-city-of-bath-hotel"
+    },
     {
       "name": "Bath Priory",
       "cuisine": "Modern British",
@@ -29,6 +48,12 @@
       "path": "/uk/bath/bath/emberwood"
     },
     {
+      "name": "Macdonald Bath Spa Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/south-west/bath/macdonald-bath-spa-hotel"
+    },
+    {
       "name": "Menu Gordon Jones",
       "cuisine": "Modern Cuisine",
       "price": "££££",
@@ -44,13 +69,7 @@
       "name": "Oak",
       "cuisine": "Vegetarian, Vegan",
       "price": "££",
-      "path": "/uk/bath/bath/oak"
-    },
-    {
-      "name": "Olive Tree",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/bath/bath/olive-tree"
+      "path": "/uk/bath/bath/oak-b-a-t"
     },
     {
       "name": "Robun",
@@ -59,10 +78,46 @@
       "path": "/uk/bath/bath/robun"
     },
     {
+      "name": "Roseate Villa",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/south-west/bath/roseate-villa"
+    },
+    {
+      "name": "The Bath Priory Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "50.00",
+      "path": "/uk/south-west/bath/the-bath-priory-hotel"
+    },
+    {
       "name": "The Chequers",
       "cuisine": "Traditional Cuisine",
       "price": "££",
       "path": "/uk/bath/bath/the-chequers"
+    },
+    {
+      "name": "The Francis Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "31.00",
+      "path": "/uk/south-west/bath/the-francis-hotel"
+    },
+    {
+      "name": "The Gainsborough Bath Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/south-west/bath/the-gainsborough-bath-spa"
+    },
+    {
+      "name": "The Ivy Bath Brasserie",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/south-west/bath/the-ivy-bath-brasserie"
+    },
+    {
+      "name": "The Royal Crescent Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "42.00",
+      "path": "/uk/south-west/bath/the-royal-crescent-hotel"
     },
     {
       "name": "Upstairs at Landrace",

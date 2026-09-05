@@ -1,23 +1,35 @@
 {
   "title": "Moscow",
+  "country": "Russia",
+  "countrySlug": "russia",
+  "region": null,
+  "regionSlug": "moscow",
+  "city": "Moscow",
+  "citySlug": "moscow",
+  "path": "/russia/moscow/moscow/restaurants",
+  "canonicalPath": "/russia/moscow/moscow/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Twins Garden",
+      "cuisine": "",
+      "price": "",
+      "path": "/russia/moscow/moscow/twins-garden",
+      "award": "World's 50 Best"
+    },
     {
       "name": "Varvary",
       "cuisine": "",
       "price": "",
-      "path": "/russia/moscow/moscow/Varvary"
+      "path": "/russia/moscow/moscow/varvary",
+      "award": "World's 50 Best"
     },
     {
       "name": "White Rabbit",
       "cuisine": "",
       "price": "",
-      "path": "/russia/moscow/moscow/WhiteRabbit"
-    },
-    {
-      "name": "Twins Garden",
-      "cuisine": "",
-      "price": "",
-      "path": "/russia/moscow/moscow/TwinsGarden"
+      "path": "/russia/moscow/moscow/white-rabbit",
+      "award": "World's 50 Best"
     }
   ]
 }

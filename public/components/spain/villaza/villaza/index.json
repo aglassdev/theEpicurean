@@ -1,11 +1,20 @@
 {
   "title": "Villaza",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "villaza",
+  "city": "Villaza",
+  "citySlug": "villaza",
+  "path": "/spain/villaza/villaza/restaurants",
+  "canonicalPath": "/spain/villaza/villaza/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "O Segredo do Retiro",
       "cuisine": "Galician",
       "price": "$$",
-      "path": "/spain/villaza/villaza/OSegredoDoRetiro"
+      "path": "/spain/villaza/villaza/o-segredo-do-retiro"
     }
   ]
 }

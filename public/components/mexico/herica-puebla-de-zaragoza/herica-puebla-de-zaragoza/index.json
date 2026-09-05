@@ -1,71 +1,87 @@
 {
-  "title": "Heróica Puebla de Zaragoza",
+  "title": "Herica Puebla de Zaragoza",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "herica-puebla-de-zaragoza",
+  "city": "Herica Puebla de Zaragoza",
+  "citySlug": "herica-puebla-de-zaragoza",
+  "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/restaurants",
+  "canonicalPath": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/restaurants",
+  "count": 11,
   "restaurants": [
     {
       "name": "Cultivo",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/Cultivo"
+      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/cultivo",
+      "award": "Bib Gourmand"
     },
     {
       "name": "El Güero Marinero",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/ElGeroMarinero"
+      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/el-gero-marinero",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Jacinto y Yo",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/JacintoYYo"
+      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/jacinto-y-yo",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Los Camellos",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/LosCamellos"
+      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/los-camellos",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Moyuelo",
       "cuisine": "Fusion",
       "price": "$$",
-      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/Moyuelo"
+      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/moyuelo",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Restaurante Casareyna",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/RestauranteCasareyna"
+      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/restaurante-casareyna",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Semitas \"Beto\"",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/SemitasBeto"
+      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/semitas-beto",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Casa Bacuuza",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/CasaBacuuza"
+      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/casa-bacuuza"
     },
     {
       "name": "Mural de los Poblanos",
       "cuisine": "Mexican",
       "price": "$$$",
-      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/MuralDeLosPoblanos"
+      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/mural-de-los-poblanos"
     },
     {
       "name": "Restaurante La Noria",
       "cuisine": "Mexican",
       "price": "$$$",
-      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/RestauranteLaNoria"
+      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/restaurante-la-noria"
     },
     {
       "name": "Salón Mezcalli",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/SalnMezcalli"
+      "path": "/mexico/herica-puebla-de-zaragoza/herica-puebla-de-zaragoza/saln-mezcalli"
     }
   ]
 }

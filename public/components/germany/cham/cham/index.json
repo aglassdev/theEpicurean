@@ -1,8 +1,14 @@
 {
   "title": "Cham",
-  "country": "germany",
-  "region": "cham",
-  "city": "cham",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "cham",
+  "city": "Cham",
+  "citySlug": "cham",
+  "path": "/germany/cham/cham/restaurants",
+  "canonicalPath": "/germany/cham/cham/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthaus Ödenturm",

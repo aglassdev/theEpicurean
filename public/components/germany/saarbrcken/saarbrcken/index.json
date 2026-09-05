@@ -1,20 +1,28 @@
 {
   "title": "Saarbrcken",
-  "country": "germany",
-  "region": "saarbrcken",
-  "city": "saarbrcken",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "saarbrcken",
+  "city": "Saarbrcken",
+  "citySlug": "saarbrcken",
+  "path": "/germany/saarbrcken/saarbrcken/restaurants",
+  "canonicalPath": "/germany/saarbrcken/saarbrcken/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Esplanade",
       "cuisine": "Classic Cuisine, Creative",
       "price": "€€€€",
-      "path": "/germany/saarbrcken/saarbrcken/esplanade"
+      "path": "/germany/saarbrcken/saarbrcken/esplanade",
+      "award": "★★"
     },
     {
       "name": "GästeHaus Klaus Erfort",
       "cuisine": "Classic French",
       "price": "€€€€",
-      "path": "/germany/saarbrcken/saarbrcken/gstehaus-klaus-erfort"
+      "path": "/germany/saarbrcken/saarbrcken/gstehaus-klaus-erfort",
+      "award": "★★"
     },
     {
       "name": "Le Comptoir",

@@ -1,6 +1,64 @@
 {
   "title": "Helsinki",
+  "country": "Finland",
+  "countrySlug": "finland",
+  "region": null,
+  "regionSlug": "helsinki",
+  "city": "Helsinki",
+  "citySlug": "helsinki",
+  "path": "/finland/helsinki/helsinki/restaurants",
+  "canonicalPath": "/finland/helsinki/helsinki/restaurants",
+  "count": 31,
   "restaurants": [
+    {
+      "name": "Palace",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/finland/helsinki/helsinki/palace",
+      "award": "★★"
+    },
+    {
+      "name": "Boreal",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/finland/helsinki/helsinki/boreal",
+      "award": "★"
+    },
+    {
+      "name": "Demo",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/finland/helsinki/helsinki/demo",
+      "award": "★"
+    },
+    {
+      "name": "Finnjävel Salonki",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/finland/helsinki/helsinki/finnjvel-salonki",
+      "award": "★"
+    },
+    {
+      "name": "Grön",
+      "cuisine": "Creative, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/finland/helsinki/helsinki/grn",
+      "award": "★"
+    },
+    {
+      "name": "Olo",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/finland/helsinki/helsinki/olo",
+      "award": "★"
+    },
+    {
+      "name": "Chez Dominique",
+      "cuisine": "",
+      "price": "",
+      "path": "/finland/helsinki/helsinki/chez-dominique",
+      "award": "World's 50 Best"
+    },
     {
       "name": "305",
       "cuisine": "Modern Cuisine",
@@ -50,18 +108,6 @@
       "path": "/finland/helsinki/helsinki/caf-savoy"
     },
     {
-      "name": "Demo",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/finland/helsinki/helsinki/demo"
-    },
-    {
-      "name": "Finnjävel Salonki",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/finland/helsinki/helsinki/finnjvel-salonki"
-    },
-    {
       "name": "Flor",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -74,16 +120,16 @@
       "path": "/finland/helsinki/helsinki/gaijin"
     },
     {
-      "name": "Grön",
-      "cuisine": "Creative, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/finland/helsinki/helsinki/grn"
-    },
-    {
       "name": "Kuurna",
       "cuisine": "Finnish",
       "price": "€€",
       "path": "/finland/helsinki/helsinki/kuurna"
+    },
+    {
+      "name": "Latitude 25",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/finland/helsinki/helsinki/latitude25"
     },
     {
       "name": "Le Ankka",
@@ -122,18 +168,6 @@
       "path": "/finland/helsinki/helsinki/nolla"
     },
     {
-      "name": "Olo",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/finland/helsinki/helsinki/olo"
-    },
-    {
-      "name": "Palace",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/finland/helsinki/helsinki/palace"
-    },
-    {
       "name": "plein",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -152,6 +186,12 @@
       "path": "/finland/helsinki/helsinki/shelter"
     },
     {
+      "name": "Spis",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/finland/helsinki/helsinki/spis"
+    },
+    {
       "name": "Vinkkeli",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
@@ -162,30 +202,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/finland/helsinki/helsinki/young-hearts"
-    },
-    {
-      "name": "Boreal",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/finland/helsinki/helsinki/Boreal"
-    },
-    {
-      "name": "Latitude 25",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/finland/helsinki/helsinki/Latitude25"
-    },
-    {
-      "name": "Spis",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/finland/helsinki/helsinki/Spis"
-    },
-    {
-      "name": "Chez Dominique",
-      "cuisine": "",
-      "price": "",
-      "path": "/finland/helsinki/helsinki/ChezDominique"
     }
   ]
 }

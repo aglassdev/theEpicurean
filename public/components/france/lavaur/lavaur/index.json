@@ -1,8 +1,14 @@
 {
   "title": "Lavaur",
-  "country": "france",
-  "region": "lavaur",
-  "city": "lavaur",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lavaur",
+  "city": "Lavaur",
+  "citySlug": "lavaur",
+  "path": "/france/lavaur/lavaur/restaurants",
+  "canonicalPath": "/france/lavaur/lavaur/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Œuf de Coq",

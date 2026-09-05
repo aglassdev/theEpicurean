@@ -1,11 +1,20 @@
 {
   "title": "Brancaster",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "brancaster",
+  "city": "Brancaster",
+  "citySlug": "brancaster",
+  "path": "/uk/brancaster/brancaster/restaurants",
+  "canonicalPath": "/uk/brancaster/brancaster/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Ship",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/uk/brancaster/brancaster/TheShip"
+      "path": "/uk/brancaster/brancaster/the-ship"
     }
   ]
 }

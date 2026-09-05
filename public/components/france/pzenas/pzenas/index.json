@@ -1,20 +1,27 @@
 {
   "title": "Pzenas",
-  "country": "france",
-  "region": "pzenas",
-  "city": "pzenas",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pzenas",
+  "city": "Pzenas",
+  "citySlug": "pzenas",
+  "path": "/france/pzenas/pzenas/restaurants",
+  "canonicalPath": "/france/pzenas/pzenas/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Restaurant De Lauzun",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/pzenas/pzenas/restaurant-de-lauzun",
+      "award": "★"
+    },
     {
       "name": "Le Pré Saint Jean",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/pzenas/pzenas/le-pr-saint-jean"
-    },
-    {
-      "name": "Restaurant De Lauzun",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/pzenas/pzenas/restaurant-de-lauzun"
     }
   ]
 }

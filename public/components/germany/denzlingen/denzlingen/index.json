@@ -1,14 +1,20 @@
 {
   "title": "Denzlingen",
-  "country": "germany",
-  "region": "denzlingen",
-  "city": "denzlingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "denzlingen",
+  "city": "Denzlingen",
+  "citySlug": "denzlingen",
+  "path": "/germany/denzlingen/denzlingen/restaurants",
+  "canonicalPath": "/germany/denzlingen/denzlingen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Rebstock-Stube",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
-      "path": "/germany/denzlingen/denzlingen/rebstock-stube"
+      "path": "/germany/denzlingen/denzlingen/rebstockstube"
     }
   ]
 }

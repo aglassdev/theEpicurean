@@ -1,14 +1,20 @@
 {
   "title": "Nevers",
-  "country": "france",
-  "region": "nevers",
-  "city": "nevers",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "nevers",
+  "city": "Nevers",
+  "citySlug": "nevers",
+  "path": "/france/nevers/nevers/restaurants",
+  "canonicalPath": "/france/nevers/nevers/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Jean-Michel Couron",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/nevers/nevers/jean-michel-couron"
+      "path": "/france/nevers/nevers/jeanmichel-couron"
     }
   ]
 }

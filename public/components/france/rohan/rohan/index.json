@@ -1,8 +1,14 @@
 {
   "title": "Rohan",
-  "country": "france",
-  "region": "rohan",
-  "city": "rohan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "rohan",
+  "city": "Rohan",
+  "citySlug": "rohan",
+  "path": "/france/rohan/rohan/restaurants",
+  "canonicalPath": "/france/rohan/rohan/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Eau d'Oust",

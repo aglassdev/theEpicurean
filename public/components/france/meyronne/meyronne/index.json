@@ -1,8 +1,14 @@
 {
   "title": "Meyronne",
-  "country": "france",
-  "region": "meyronne",
-  "city": "meyronne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "meyronne",
+  "city": "Meyronne",
+  "citySlug": "meyronne",
+  "path": "/france/meyronne/meyronne/restaurants",
+  "canonicalPath": "/france/meyronne/meyronne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Terrasse",

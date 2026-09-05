@@ -1,65 +1,74 @@
 {
-  "title": "Victoria & Westminster",
+  "title": "Victoria Westminster",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "Victoria Westminster",
+  "citySlug": "victoria-westminster",
+  "path": "/uk/london/victoria-westminster/restaurants",
+  "canonicalPath": "/uk/london/victoria-westminster/restaurants",
+  "count": 10,
   "restaurants": [
     {
-      "name": "Bustronome London",
+      "name": "bbar",
       "cuisine": "Afternoon Tea",
-      "price": "69.00",
-      "path": "/uk/london/victoria-westminster/BustronomeLondon"
+      "price": "30.00",
+      "path": "/uk/london/victoria-westminster/bbar"
     },
     {
       "name": "Biscuiteers Belgravia",
       "cuisine": "Afternoon Tea",
       "price": "45.00",
-      "path": "/uk/london/victoria-westminster/BiscuiteersBelgravia"
+      "path": "/uk/london/victoria-westminster/biscuiteers-belgravia"
     },
     {
-      "name": "bbar",
+      "name": "Bustronome London",
       "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/london/victoria-westminster/Bbar"
-    },
-    {
-      "name": "Wizard Afternoon Tea at Georgian House Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/london/victoria-westminster/WizardAfternoonTeaAtGeorgianHouseHotel"
-    },
-    {
-      "name": "Wellington by Blue Orchid Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "27.00",
-      "path": "/uk/london/victoria-westminster/WellingtonByBlueOrchidHotel"
-    },
-    {
-      "name": "The Tea Lounge at The Clermont Victoria",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/london/victoria-westminster/TheTeaLoungeAtTheClermontVictoria"
-    },
-    {
-      "name": "The Rubens at The Palace",
-      "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/london/victoria-westminster/TheRubensAtThePalace"
-    },
-    {
-      "name": "The Guardsman",
-      "cuisine": "Afternoon Tea",
-      "price": "65.00",
-      "path": "/uk/london/victoria-westminster/TheGuardsman"
-    },
-    {
-      "name": "DoubleTree by Hilton London Victoria",
-      "cuisine": "Afternoon Tea",
-      "price": "28.95",
-      "path": "/uk/london/victoria-westminster/DoubletreeByHiltonLondonVictoria"
+      "price": "69.00",
+      "path": "/uk/london/victoria-westminster/bustronome-london"
     },
     {
       "name": "Cellarium Café and Terrace at Westminster Abbey",
       "cuisine": "Afternoon Tea",
       "price": "32.50",
-      "path": "/uk/london/victoria-westminster/CellariumCafAndTerraceAtWestminsterAbbey"
+      "path": "/uk/london/victoria-westminster/cellarium-caf-and-terrace-at-westminster-abbey"
+    },
+    {
+      "name": "DoubleTree by Hilton London Victoria",
+      "cuisine": "Afternoon Tea",
+      "price": "28.95",
+      "path": "/uk/london/victoria-westminster/doubletree-by-hilton-london-victoria"
+    },
+    {
+      "name": "The Guardsman",
+      "cuisine": "Afternoon Tea",
+      "price": "65.00",
+      "path": "/uk/london/victoria-westminster/the-guardsman"
+    },
+    {
+      "name": "The Rubens at The Palace",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/london/victoria-westminster/the-rubens-at-the-palace"
+    },
+    {
+      "name": "The Tea Lounge at The Clermont Victoria",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/london/victoria-westminster/the-tea-lounge-at-the-clermont-victoria"
+    },
+    {
+      "name": "Wellington by Blue Orchid Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "27.00",
+      "path": "/uk/london/victoria-westminster/wellington-by-blue-orchid-hotel"
+    },
+    {
+      "name": "Wizard Afternoon Tea at Georgian House Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/london/victoria-westminster/wizard-afternoon-tea-at-georgian-house-hotel"
     }
   ]
 }

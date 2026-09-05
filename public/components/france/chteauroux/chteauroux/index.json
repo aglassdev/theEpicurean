@@ -1,14 +1,20 @@
 {
   "title": "Chteauroux",
-  "country": "france",
-  "region": "chteauroux",
-  "city": "chteauroux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chteauroux",
+  "city": "Chteauroux",
+  "citySlug": "chteauroux",
+  "path": "/france/chteauroux/chteauroux/restaurants",
+  "canonicalPath": "/france/chteauroux/chteauroux/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Jeux 2 Goûts",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/chteauroux/chteauroux/jeux-2-gots"
+      "path": "/france/chteauroux/chteauroux/jeux2-gots"
     },
     {
       "name": "L'Écrin des Saveurs",

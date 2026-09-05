@@ -1,14 +1,20 @@
 {
   "title": "Gouy En Artois",
-  "country": "france",
-  "region": "gouy-en-artois",
-  "city": "gouy-en-artois",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gouy-en-artois",
+  "city": "Gouy En Artois",
+  "citySlug": "gouy-en-artois",
+  "path": "/france/gouy-en-artois/gouy-en-artois/restaurants",
+  "canonicalPath": "/france/gouy-en-artois/gouy-en-artois/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Origine",
       "cuisine": "Creative",
       "price": "€€",
-      "path": "/france/gouy-en-artois/gouy-en-artois/origine"
+      "path": "/france/gouy-en-artois/gouy-en-artois/origine-g-o-u"
     }
   ]
 }

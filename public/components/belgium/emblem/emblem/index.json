@@ -1,11 +1,21 @@
 {
   "title": "Emblem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "emblem",
+  "city": "Emblem",
+  "citySlug": "emblem",
+  "path": "/belgium/emblem/emblem/restaurants",
+  "canonicalPath": "/belgium/emblem/emblem/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ching Ching",
       "cuisine": "Chinese",
       "price": "$$",
-      "path": "/belgium/emblem/emblem/ChingChing"
+      "path": "/belgium/emblem/emblem/ching-ching",
+      "award": "Bib Gourmand"
     }
   ]
 }

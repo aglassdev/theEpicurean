@@ -1,95 +1,104 @@
 {
   "title": "Cheshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "North West",
+  "regionSlug": "north-west",
+  "city": "Cheshire",
+  "citySlug": "cheshire",
+  "path": "/uk/north-west/cheshire/restaurants",
+  "canonicalPath": "/uk/north-west/cheshire/restaurants",
+  "count": 15,
   "restaurants": [
     {
-      "name": "Victors Hale",
-      "cuisine": "Afternoon Tea",
-      "price": "32.50",
-      "path": "/uk/north-west/cheshire/VictorsHale"
-    },
-    {
-      "name": "Victors Alderley Edge",
-      "cuisine": "Afternoon Tea",
-      "price": "32.50",
-      "path": "/uk/north-west/cheshire/VictorsAlderleyEdge"
-    },
-    {
-      "name": "Vale Royal Abbey",
-      "cuisine": "Afternoon Tea",
-      "price": "21.95",
-      "path": "/uk/north-west/cheshire/ValeRoyalAbbey"
-    },
-    {
-      "name": "Thornton Hall Hotel and Spa",
-      "cuisine": "Afternoon Tea",
-      "price": "27.00",
-      "path": "/uk/north-west/cheshire/ThorntonHallHotelAndSpa"
-    },
-    {
-      "name": "The Secret Garden Restaurant",
-      "cuisine": "Afternoon Tea",
-      "price": "24.00",
-      "path": "/uk/north-west/cheshire/TheSecretGardenRestaurant"
-    },
-    {
-      "name": "Rookery Hall Hotel & Spa",
-      "cuisine": "Afternoon Tea",
-      "price": "34.00",
-      "path": "/uk/north-west/cheshire/RookeryHallHotelSpa"
-    },
-    {
-      "name": "Peckforton Castle",
-      "cuisine": "Afternoon Tea",
-      "price": "22.00",
-      "path": "/uk/north-west/cheshire/PeckfortonCastle"
-    },
-    {
-      "name": "Nunsmere Hall",
-      "cuisine": "Afternoon Tea",
-      "price": "34.00",
-      "path": "/uk/north-west/cheshire/NunsmereHall"
-    },
-    {
-      "name": "Inglewood Manor Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/north-west/cheshire/InglewoodManorHotel"
-    },
-    {
-      "name": "Grosvenor Pulford Hotel & Spa",
-      "cuisine": "Afternoon Tea",
-      "price": "49.99",
-      "path": "/uk/north-west/cheshire/GrosvenorPulfordHotelSpa"
-    },
-    {
-      "name": "Georgian Tea Rooms",
+      "name": "ABode Chester",
       "cuisine": "Afternoon Tea",
       "price": "25.00",
-      "path": "/uk/north-west/cheshire/GeorgianTeaRooms"
-    },
-    {
-      "name": "Crewe Hall",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/north-west/cheshire/CreweHall"
-    },
-    {
-      "name": "The Chester Grosvenor",
-      "cuisine": "Afternoon Tea",
-      "price": "37.50",
-      "path": "/uk/north-west/cheshire/TheChesterGrosvenor"
+      "path": "/uk/north-west/cheshire/abode-chester"
     },
     {
       "name": "Champagne Bar at Mottram Hall",
       "cuisine": "Afternoon Tea",
       "price": "34.00",
-      "path": "/uk/north-west/cheshire/ChampagneBarAtMottramHall"
+      "path": "/uk/north-west/cheshire/champagne-bar-at-mottram-hall"
     },
     {
-      "name": "ABode Chester",
+      "name": "Crewe Hall",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/north-west/cheshire/crewe-hall"
+    },
+    {
+      "name": "Georgian Tea Rooms",
       "cuisine": "Afternoon Tea",
       "price": "25.00",
-      "path": "/uk/north-west/cheshire/AbodeChester"
+      "path": "/uk/north-west/cheshire/georgian-tea-rooms"
+    },
+    {
+      "name": "Grosvenor Pulford Hotel & Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "49.99",
+      "path": "/uk/north-west/cheshire/grosvenor-pulford-hotel-spa"
+    },
+    {
+      "name": "Inglewood Manor Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/north-west/cheshire/inglewood-manor-hotel"
+    },
+    {
+      "name": "Nunsmere Hall",
+      "cuisine": "Afternoon Tea",
+      "price": "34.00",
+      "path": "/uk/north-west/cheshire/nunsmere-hall"
+    },
+    {
+      "name": "Peckforton Castle",
+      "cuisine": "Afternoon Tea",
+      "price": "22.00",
+      "path": "/uk/north-west/cheshire/peckforton-castle"
+    },
+    {
+      "name": "Rookery Hall Hotel & Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "34.00",
+      "path": "/uk/north-west/cheshire/rookery-hall-hotel-spa"
+    },
+    {
+      "name": "The Chester Grosvenor",
+      "cuisine": "Afternoon Tea",
+      "price": "37.50",
+      "path": "/uk/north-west/cheshire/the-chester-grosvenor"
+    },
+    {
+      "name": "The Secret Garden Restaurant",
+      "cuisine": "Afternoon Tea",
+      "price": "24.00",
+      "path": "/uk/north-west/cheshire/the-secret-garden-restaurant"
+    },
+    {
+      "name": "Thornton Hall Hotel and Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "27.00",
+      "path": "/uk/north-west/cheshire/thornton-hall-hotel-and-spa"
+    },
+    {
+      "name": "Vale Royal Abbey",
+      "cuisine": "Afternoon Tea",
+      "price": "21.95",
+      "path": "/uk/north-west/cheshire/vale-royal-abbey"
+    },
+    {
+      "name": "Victors Alderley Edge",
+      "cuisine": "Afternoon Tea",
+      "price": "32.50",
+      "path": "/uk/north-west/cheshire/victors-alderley-edge"
+    },
+    {
+      "name": "Victors Hale",
+      "cuisine": "Afternoon Tea",
+      "price": "32.50",
+      "path": "/uk/north-west/cheshire/victors-hale"
     }
   ]
 }

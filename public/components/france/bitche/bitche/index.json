@@ -1,8 +1,14 @@
 {
   "title": "Bitche",
-  "country": "france",
-  "region": "bitche",
-  "city": "bitche",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bitche",
+  "city": "Bitche",
+  "citySlug": "bitche",
+  "path": "/france/bitche/bitche/restaurants",
+  "canonicalPath": "/france/bitche/bitche/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Strasbourg",

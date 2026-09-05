@@ -1,8 +1,14 @@
 {
   "title": "Fursac",
-  "country": "france",
-  "region": "fursac",
-  "city": "fursac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "fursac",
+  "city": "Fursac",
+  "citySlug": "fursac",
+  "path": "/france/fursac/fursac/restaurants",
+  "canonicalPath": "/france/fursac/fursac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Nougier",

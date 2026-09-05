@@ -1,14 +1,20 @@
 {
   "title": "Dullin",
-  "country": "france",
-  "region": "dullin",
-  "city": "dullin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "dullin",
+  "city": "Dullin",
+  "citySlug": "dullin",
+  "path": "/france/dullin/dullin/restaurants",
+  "canonicalPath": "/france/dullin/dullin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Quatre Saisons",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/dullin/dullin/les-quatre-saisons"
+      "path": "/france/dullin/dullin/les-quatre-saisons-d-u-l"
     }
   ]
 }

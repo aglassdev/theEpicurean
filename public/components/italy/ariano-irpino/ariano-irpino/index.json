@@ -1,20 +1,27 @@
 {
   "title": "Ariano Irpino",
-  "country": "italy",
-  "region": "ariano-irpino",
-  "city": "ariano-irpino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ariano-irpino",
+  "city": "Ariano Irpino",
+  "citySlug": "ariano-irpino",
+  "path": "/italy/ariano-irpino/ariano-irpino/restaurants",
+  "canonicalPath": "/italy/ariano-irpino/ariano-irpino/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Maeba Restaurant",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€",
+      "path": "/italy/ariano-irpino/ariano-irpino/maeba-restaurant",
+      "award": "★"
+    },
     {
       "name": "La Pignata",
       "cuisine": "Campanian, Traditional Cuisine",
       "price": "€",
       "path": "/italy/ariano-irpino/ariano-irpino/la-pignata"
-    },
-    {
-      "name": "Maeba Restaurant",
-      "cuisine": "Italian Contemporary",
-      "price": "€€€",
-      "path": "/italy/ariano-irpino/ariano-irpino/maeba-restaurant"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "title": "Chartres",
-  "country": "france",
-  "region": "chartres",
-  "city": "chartres",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chartres",
+  "city": "Chartres",
+  "citySlug": "chartres",
+  "path": "/france/chartres/chartres/restaurants",
+  "canonicalPath": "/france/chartres/chartres/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Le Georges",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/chartres/chartres/le-georges",
+      "award": "★"
+    },
     {
       "name": "Bistrot Racines",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/chartres/chartres/bistrot-racines"
-    },
-    {
-      "name": "Le Georges",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/chartres/chartres/le-georges"
     },
     {
       "name": "Le Moulin de Ponceau",
@@ -26,7 +33,7 @@
       "name": "Terra",
       "cuisine": "Italian",
       "price": "€€",
-      "path": "/france/chartres/chartres/terra"
+      "path": "/france/chartres/chartres/terra-c-h-a"
     }
   ]
 }

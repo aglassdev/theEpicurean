@@ -1,14 +1,20 @@
 {
   "title": "Segovia",
-  "country": "spain",
-  "region": "segovia",
-  "city": "segovia",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "segovia",
+  "city": "Segovia",
+  "citySlug": "segovia",
+  "path": "/spain/segovia/segovia/restaurants",
+  "canonicalPath": "/spain/segovia/segovia/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Casa Silvano-Maracaibo",
       "cuisine": "Contemporary, Traditional Cuisine",
       "price": "€€",
-      "path": "/spain/segovia/segovia/casa-silvano-maracaibo"
+      "path": "/spain/segovia/segovia/casa-silvanomaracaibo"
     },
     {
       "name": "José María",

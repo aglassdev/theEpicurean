@@ -1,167 +1,183 @@
 {
   "title": "Hsinchu City",
+  "country": "Taiwan",
+  "countrySlug": "taiwan",
+  "region": null,
+  "regionSlug": "hsinchu-city",
+  "city": "Hsinchu City",
+  "citySlug": "hsinchu-city",
+  "path": "/taiwan/hsinchu-city/hsinchu-city/restaurants",
+  "canonicalPath": "/taiwan/hsinchu-city/hsinchu-city/restaurants",
+  "count": 27,
   "restaurants": [
     {
       "name": "Cat House",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/CatHouse"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/cat-house",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Dongmen Rice Noodle Soup",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/DongmenRiceNoodleSoup"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/dongmen-rice-noodle-soup",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Garden.V",
       "cuisine": "Jiangzhe",
       "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/Gardenv"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/gardenv",
+      "award": "Bib Gourmand"
     },
     {
       "name": "He Jih Hsiang (Minzu Road)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/HeJihHsiangMinzuRoad"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/he-jih-hsiang-minzu-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Jiu Tian Fu",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/JiuTianFu"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/jiu-tian-fu",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Nung Wei Hsiao Chu",
       "cuisine": "Hakkanese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/NungWeiHsiaoChu"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/nung-wei-hsiao-chu",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yuan Wei Duck Noodle",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/YuanWeiDuckNoodle"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/yuan-wei-duck-noodle",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Chang Chang Kitchen",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/ChangChangKitchen"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/chang-chang-kitchen"
     },
     {
       "name": "Hai Kou Guabao",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/HaiKouGuabao"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/hai-kou-guabao"
     },
     {
       "name": "Ho Chu Yuan",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/HoChuYuan"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/ho-chu-yuan"
     },
     {
       "name": "Jun",
       "cuisine": "Japanese",
       "price": "$$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/Jun"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/jun"
     },
     {
       "name": "Kao Jai",
       "cuisine": "Thai",
       "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/KaoJai"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/kao-jai"
     },
     {
       "name": "Lao Chen Chia",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/LaoChenChia"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/lao-chen-chia"
     },
     {
       "name": "Lao Dian Ginger Chicken (North)",
       "cuisine": "Hotpot",
       "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/LaoDianGingerChickenNorth"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/lao-dian-ginger-chicken-north"
     },
     {
       "name": "Miao Kou Ya Xiang Fan (Zhongshan Road)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/MiaoKouYaXiangFanZhongshanRoad"
-    },
-    {
-      "name": "Mo Chien Tan",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/MoChienTan"
-    },
-    {
-      "name": "Mu Fan Bloom",
-      "cuisine": "Noodles",
-      "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/MuFanBloom"
-    },
-    {
-      "name": "No.10 Nanmen",
-      "cuisine": "Noodles",
-      "price": "$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/No10Nanmen"
-    },
-    {
-      "name": "Shih Fang Hsiao Ching",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/ShihFangHsiaoChing"
-    },
-    {
-      "name": "TAIVII",
-      "cuisine": "Taiwanese contemporary",
-      "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/Taivii"
-    },
-    {
-      "name": "Tang Ming",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/TangMing"
-    },
-    {
-      "name": "Very Good Vegan Gua Bao",
-      "cuisine": "Small eats",
-      "price": "$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/VeryGoodVeganGuaBao"
-    },
-    {
-      "name": "Yeh Shu",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/YehShu"
-    },
-    {
-      "name": "Yi Hsuan",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/YiHsuan"
-    },
-    {
-      "name": "Ying Wang Meatball",
-      "cuisine": "Small eats",
-      "price": "$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/YingWangMeatball"
-    },
-    {
-      "name": "Yummy",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/Yummy"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/miao-kou-ya-xiang-fan-zhongshan-road"
     },
     {
       "name": "min food",
       "cuisine": "Asian",
       "price": "$$",
-      "path": "/taiwan/hsinchu-city/hsinchu-city/MinFood"
+      "path": "/taiwan/hsinchu-city/hsinchu-city/min-food"
+    },
+    {
+      "name": "Mo Chien Tan",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/hsinchu-city/hsinchu-city/mo-chien-tan"
+    },
+    {
+      "name": "Mu Fan Bloom",
+      "cuisine": "Noodles",
+      "price": "$$",
+      "path": "/taiwan/hsinchu-city/hsinchu-city/mu-fan-bloom"
+    },
+    {
+      "name": "No.10 Nanmen",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/taiwan/hsinchu-city/hsinchu-city/no10-nanmen"
+    },
+    {
+      "name": "Shih Fang Hsiao Ching",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/hsinchu-city/hsinchu-city/shih-fang-hsiao-ching"
+    },
+    {
+      "name": "TAIVII",
+      "cuisine": "Taiwanese contemporary",
+      "price": "$$",
+      "path": "/taiwan/hsinchu-city/hsinchu-city/taivii"
+    },
+    {
+      "name": "Tang Ming",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/hsinchu-city/hsinchu-city/tang-ming"
+    },
+    {
+      "name": "Very Good Vegan Gua Bao",
+      "cuisine": "Small eats",
+      "price": "$",
+      "path": "/taiwan/hsinchu-city/hsinchu-city/very-good-vegan-gua-bao"
+    },
+    {
+      "name": "Yeh Shu",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/hsinchu-city/hsinchu-city/yeh-shu"
+    },
+    {
+      "name": "Yi Hsuan",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/hsinchu-city/hsinchu-city/yi-hsuan"
+    },
+    {
+      "name": "Ying Wang Meatball",
+      "cuisine": "Small eats",
+      "price": "$",
+      "path": "/taiwan/hsinchu-city/hsinchu-city/ying-wang-meatball"
+    },
+    {
+      "name": "Yummy",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/hsinchu-city/hsinchu-city/yummy"
     }
   ]
 }

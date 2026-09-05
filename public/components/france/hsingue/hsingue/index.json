@@ -1,8 +1,14 @@
 {
   "title": "Hsingue",
-  "country": "france",
-  "region": "hsingue",
-  "city": "hsingue",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "hsingue",
+  "city": "Hsingue",
+  "citySlug": "hsingue",
+  "path": "/france/hsingue/hsingue/restaurants",
+  "canonicalPath": "/france/hsingue/hsingue/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Bœuf Noir",

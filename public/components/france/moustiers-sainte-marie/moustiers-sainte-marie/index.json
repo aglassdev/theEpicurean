@@ -1,20 +1,27 @@
 {
   "title": "Moustiers Sainte Marie",
-  "country": "france",
-  "region": "moustiers-sainte-marie",
-  "city": "moustiers-sainte-marie",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "moustiers-sainte-marie",
+  "city": "Moustiers Sainte Marie",
+  "citySlug": "moustiers-sainte-marie",
+  "path": "/france/moustiers-sainte-marie/moustiers-sainte-marie/restaurants",
+  "canonicalPath": "/france/moustiers-sainte-marie/moustiers-sainte-marie/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Bastide de Moustiers",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/france/moustiers-sainte-marie/moustiers-sainte-marie/la-bastide-de-moustiers"
+      "path": "/france/moustiers-sainte-marie/moustiers-sainte-marie/la-bastide-de-moustiers",
+      "award": "★"
     },
     {
       "name": "La Ferme Sainte-Cécile",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/moustiers-sainte-marie/moustiers-sainte-marie/la-ferme-sainte-ccile"
+      "path": "/france/moustiers-sainte-marie/moustiers-sainte-marie/la-ferme-sainteccile"
     }
   ]
 }

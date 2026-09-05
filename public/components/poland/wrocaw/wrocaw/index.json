@@ -1,11 +1,33 @@
 {
   "title": "Wrocaw",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "wrocaw",
+  "city": "Wrocaw",
+  "citySlug": "wrocaw",
+  "path": "/poland/wrocaw/wrocaw/restaurants",
+  "canonicalPath": "/poland/wrocaw/wrocaw/restaurants",
+  "count": 31,
   "restaurants": [
+    {
+      "name": "Pijalni",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/poland/wrocaw/wrocaw/pijalni",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Acquario",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/poland/wrocaw/wrocaw/acquario"
+    },
+    {
+      "name": "Arche Klasztor",
+      "cuisine": "Polish",
+      "price": "$$",
+      "path": "/poland/wrocaw/wrocaw/arche-klasztor"
     },
     {
       "name": "BABA",
@@ -62,6 +84,12 @@
       "path": "/poland/wrocaw/wrocaw/martim"
     },
     {
+      "name": "Mercado Nuevo",
+      "cuisine": "Spanish",
+      "price": "$",
+      "path": "/poland/wrocaw/wrocaw/mercado-nuevo"
+    },
+    {
       "name": "Mercado Tapas Bistro",
       "cuisine": "Spanish",
       "price": "€",
@@ -72,6 +100,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/poland/wrocaw/wrocaw/midzy-mostami"
+    },
+    {
+      "name": "Milo",
+      "cuisine": "Contemporary",
+      "price": "$",
+      "path": "/poland/wrocaw/wrocaw/milo"
     },
     {
       "name": "Młoda Polska",
@@ -98,6 +132,12 @@
       "path": "/poland/wrocaw/wrocaw/nafta-neo-bistro"
     },
     {
+      "name": "ODRé",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/poland/wrocaw/wrocaw/odr"
+    },
+    {
       "name": "OK Wine Bar",
       "cuisine": "Seafood",
       "price": "€€€",
@@ -116,10 +156,22 @@
       "path": "/poland/wrocaw/wrocaw/przysta-marina"
     },
     {
+      "name": "Stacja Breslau",
+      "cuisine": "Contemporary",
+      "price": "$",
+      "path": "/poland/wrocaw/wrocaw/stacja-breslau"
+    },
+    {
       "name": "Tarasowa",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€",
       "path": "/poland/wrocaw/wrocaw/tarasowa"
+    },
+    {
+      "name": "Usta Usta",
+      "cuisine": "Contemporary",
+      "price": "$",
+      "path": "/poland/wrocaw/wrocaw/usta-usta"
     },
     {
       "name": "Warsztat - Food & Garden",
@@ -131,61 +183,19 @@
       "name": "Wierzbowa 15",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/poland/wrocaw/wrocaw/wierzbowa-15"
+      "path": "/poland/wrocaw/wrocaw/wierzbowa15"
+    },
+    {
+      "name": "Wierzbowa 15 by Juanlu Fernández",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/poland/wrocaw/wrocaw/wierzbowa15-by-juanlu-fernndez"
     },
     {
       "name": "Wrocławska",
       "cuisine": "Regional Cuisine",
       "price": "€",
       "path": "/poland/wrocaw/wrocaw/wrocawska"
-    },
-    {
-      "name": "Pijalni",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/poland/wrocaw/wrocaw/Pijalni"
-    },
-    {
-      "name": "Arche Klasztor",
-      "cuisine": "Polish",
-      "price": "$$",
-      "path": "/poland/wrocaw/wrocaw/ArcheKlasztor"
-    },
-    {
-      "name": "Mercado Nuevo",
-      "cuisine": "Spanish",
-      "price": "$",
-      "path": "/poland/wrocaw/wrocaw/MercadoNuevo"
-    },
-    {
-      "name": "Milo",
-      "cuisine": "Contemporary",
-      "price": "$",
-      "path": "/poland/wrocaw/wrocaw/Milo"
-    },
-    {
-      "name": "ODRé",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/poland/wrocaw/wrocaw/Odr"
-    },
-    {
-      "name": "Stacja Breslau",
-      "cuisine": "Contemporary",
-      "price": "$",
-      "path": "/poland/wrocaw/wrocaw/StacjaBreslau"
-    },
-    {
-      "name": "Usta Usta",
-      "cuisine": "Contemporary",
-      "price": "$",
-      "path": "/poland/wrocaw/wrocaw/UstaUsta"
-    },
-    {
-      "name": "Wierzbowa 15 by Juanlu Fernández",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/poland/wrocaw/wrocaw/Wierzbowa15ByJuanluFernndez"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Gruffy",
-  "country": "france",
-  "region": "gruffy",
-  "city": "gruffy",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gruffy",
+  "city": "Gruffy",
+  "citySlug": "gruffy",
+  "path": "/france/gruffy/gruffy/restaurants",
+  "canonicalPath": "/france/gruffy/gruffy/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Abîme - L'Auberge du Pont",

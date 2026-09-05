@@ -1,8 +1,14 @@
 {
   "title": "Brls",
-  "country": "france",
-  "region": "brls",
-  "city": "brls",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "brls",
+  "city": "Brls",
+  "citySlug": "brls",
+  "path": "/france/brls/brls/restaurants",
+  "canonicalPath": "/france/brls/brls/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de Bel Air",

@@ -1,17 +1,28 @@
 {
   "title": "Frisange",
+  "country": "Luxembourg",
+  "countrySlug": "luxembourg",
+  "region": null,
+  "regionSlug": "frisange",
+  "city": "Frisange",
+  "citySlug": "frisange",
+  "path": "/luxembourg/frisange/frisange/restaurants",
+  "canonicalPath": "/luxembourg/frisange/frisange/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Léa Linster",
       "cuisine": "Modern French",
       "price": "€€€€",
-      "path": "/luxembourg/frisange/frisange/la-linster"
+      "path": "/luxembourg/frisange/frisange/la-linster",
+      "award": "★★"
     },
     {
       "name": "Louis Linster",
       "cuisine": "Modern French",
       "price": "$$$$",
-      "path": "/luxembourg/frisange/frisange/LouisLinster"
+      "path": "/luxembourg/frisange/frisange/louis-linster",
+      "award": "★★"
     }
   ]
 }

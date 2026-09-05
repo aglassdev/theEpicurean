@@ -1,20 +1,28 @@
 {
   "title": "Larrabetzu",
-  "country": "spain",
-  "region": "larrabetzu",
-  "city": "larrabetzu",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "larrabetzu",
+  "city": "Larrabetzu",
+  "citySlug": "larrabetzu",
+  "path": "/spain/larrabetzu/larrabetzu/restaurants",
+  "canonicalPath": "/spain/larrabetzu/larrabetzu/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Azurmendi",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/larrabetzu/larrabetzu/azurmendi"
+      "path": "/spain/larrabetzu/larrabetzu/azurmendi",
+      "award": "★★★"
     },
     {
       "name": "Eneko",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/spain/larrabetzu/larrabetzu/eneko"
+      "path": "/spain/larrabetzu/larrabetzu/eneko",
+      "award": "★"
     }
   ]
 }

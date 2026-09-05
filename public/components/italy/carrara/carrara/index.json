@@ -1,8 +1,14 @@
 {
   "title": "Carrara",
-  "country": "italy",
-  "region": "carrara",
-  "city": "carrara",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "carrara",
+  "city": "Carrara",
+  "citySlug": "carrara",
+  "path": "/italy/carrara/carrara/restaurants",
+  "canonicalPath": "/italy/carrara/carrara/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Extra",

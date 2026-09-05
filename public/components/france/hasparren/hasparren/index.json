@@ -1,20 +1,27 @@
 {
   "title": "Hasparren",
-  "country": "france",
-  "region": "hasparren",
-  "city": "hasparren",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "hasparren",
+  "city": "Hasparren",
+  "citySlug": "hasparren",
+  "path": "/france/hasparren/hasparren/restaurants",
+  "canonicalPath": "/france/hasparren/hasparren/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "La Maison de Pierre",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/hasparren/hasparren/la-maison-de-pierre",
+      "award": "★"
+    },
     {
       "name": "Elizaberriko Etxeberria",
       "cuisine": "Traditional Cuisine, Basque",
       "price": "€€",
       "path": "/france/hasparren/hasparren/elizaberriko-etxeberria"
-    },
-    {
-      "name": "La Maison de Pierre",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/hasparren/hasparren/la-maison-de-pierre"
     }
   ]
 }

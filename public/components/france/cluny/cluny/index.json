@@ -1,8 +1,14 @@
 {
   "title": "Cluny",
-  "country": "france",
-  "region": "cluny",
-  "city": "cluny",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cluny",
+  "city": "Cluny",
+  "citySlug": "cluny",
+  "path": "/france/cluny/cluny/restaurants",
+  "canonicalPath": "/france/cluny/cluny/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hostellerie d'Héloïse",

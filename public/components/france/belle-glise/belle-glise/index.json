@@ -1,14 +1,21 @@
 {
   "title": "Belle Glise",
-  "country": "france",
-  "region": "belle-glise",
-  "city": "belle-glise",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "belle-glise",
+  "city": "Belle Glise",
+  "citySlug": "belle-glise",
+  "path": "/france/belle-glise/belle-glise/restaurants",
+  "canonicalPath": "/france/belle-glise/belle-glise/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Grange de Belle-Église",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
-      "path": "/france/belle-glise/belle-glise/la-grange-de-belle-glise"
+      "path": "/france/belle-glise/belle-glise/la-grange-de-belleglise",
+      "award": "★"
     }
   ]
 }

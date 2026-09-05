@@ -1,14 +1,21 @@
 {
   "title": "Zgornja Kungota",
-  "country": "slovenia",
-  "region": "zgornja-kungota",
-  "city": "zgornja-kungota",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "zgornja-kungota",
+  "city": "Zgornja Kungota",
+  "citySlug": "zgornja-kungota",
+  "path": "/slovenia/zgornja-kungota/zgornja-kungota/restaurants",
+  "canonicalPath": "/slovenia/zgornja-kungota/zgornja-kungota/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hiša Denk",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/slovenia/zgornja-kungota/zgornja-kungota/hia-denk"
+      "path": "/slovenia/zgornja-kungota/zgornja-kungota/hia-denk",
+      "award": "★"
     }
   ]
 }

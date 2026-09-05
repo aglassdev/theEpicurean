@@ -1,5 +1,14 @@
 {
   "title": "Toulon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "toulon",
+  "city": "Toulon",
+  "citySlug": "toulon",
+  "path": "/france/toulon/toulon/restaurants",
+  "canonicalPath": "/france/toulon/toulon/restaurants",
+  "count": 7,
   "restaurants": [
     {
       "name": "Au Sourd",
@@ -12,6 +21,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/toulon/toulon/beam"
+    },
+    {
+      "name": "Canova",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/toulon/toulon/canova"
     },
     {
       "name": "Le Pastel",
@@ -29,19 +44,13 @@
       "name": "Racines",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/toulon/toulon/racines"
+      "path": "/france/toulon/toulon/racines-t-o-u"
     },
     {
       "name": "Shanael",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/toulon/toulon/shanael"
-    },
-    {
-      "name": "Canova",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/toulon/toulon/Canova"
     }
   ]
 }

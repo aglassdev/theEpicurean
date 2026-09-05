@@ -1,14 +1,21 @@
 {
   "title": "Nerano",
-  "country": "italy",
-  "region": "nerano",
-  "city": "nerano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "nerano",
+  "city": "Nerano",
+  "citySlug": "nerano",
+  "path": "/italy/nerano/nerano/restaurants",
+  "canonicalPath": "/italy/nerano/nerano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Quattro Passi",
       "cuisine": "Mediterranean Cuisine, Contemporary",
       "price": "€€€€",
-      "path": "/italy/nerano/nerano/quattro-passi"
+      "path": "/italy/nerano/nerano/quattro-passi",
+      "award": "★★★"
     }
   ]
 }

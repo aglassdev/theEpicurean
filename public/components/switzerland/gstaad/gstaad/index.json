@@ -1,9 +1,22 @@
 {
   "title": "Gstaad",
-  "country": "switzerland",
-  "region": "gstaad",
-  "city": "gstaad",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "gstaad",
+  "city": "Gstaad",
+  "citySlug": "gstaad",
+  "path": "/switzerland/gstaad/gstaad/restaurants",
+  "canonicalPath": "/switzerland/gstaad/gstaad/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Martin Göschel",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/gstaad/gstaad/martin-gschel",
+      "award": "★"
+    },
     {
       "name": "Gildo's Ristorante",
       "cuisine": "Italian",
@@ -15,12 +28,6 @@
       "cuisine": "Classic French",
       "price": "€€€",
       "path": "/switzerland/gstaad/gstaad/la-bagatelle"
-    },
-    {
-      "name": "Martin Göschel",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/gstaad/gstaad/martin-gschel"
     },
     {
       "name": "MEGU",

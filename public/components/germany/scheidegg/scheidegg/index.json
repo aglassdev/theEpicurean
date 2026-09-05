@@ -1,20 +1,26 @@
 {
   "title": "Scheidegg",
-  "country": "germany",
-  "region": "scheidegg",
-  "city": "scheidegg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "scheidegg",
+  "city": "Scheidegg",
+  "citySlug": "scheidegg",
+  "path": "/germany/scheidegg/scheidegg/restaurants",
+  "canonicalPath": "/germany/scheidegg/scheidegg/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "ZUM HIRSCHEN beim stöckeler",
-      "cuisine": "Country cooking, Seasonal Cuisine",
-      "price": "€€",
-      "path": "/germany/scheidegg/scheidegg/zum-hirschen-beim-stckeler"
-    },
     {
       "name": "Zum Hirschen & Gasthaus beim Stöckeler",
       "cuisine": "Country cooking, Seasonal Cuisine",
       "price": "€€",
       "path": "/germany/scheidegg/scheidegg/zum-hirschen-gasthaus-beim-stckeler"
+    },
+    {
+      "name": "ZUM HIRSCHEN beim stöckeler",
+      "cuisine": "Country cooking, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/germany/scheidegg/scheidegg/zum-hirschen-beim-stckeler"
     }
   ]
 }

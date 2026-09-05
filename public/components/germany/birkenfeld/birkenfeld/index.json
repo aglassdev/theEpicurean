@@ -1,8 +1,14 @@
 {
   "title": "Birkenfeld",
-  "country": "germany",
-  "region": "birkenfeld",
-  "city": "birkenfeld",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "birkenfeld",
+  "city": "Birkenfeld",
+  "citySlug": "birkenfeld",
+  "path": "/germany/birkenfeld/birkenfeld/restaurants",
+  "canonicalPath": "/germany/birkenfeld/birkenfeld/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Benders",

@@ -1,8 +1,14 @@
 {
   "title": "Perk",
-  "country": "belgium",
-  "region": "perk",
-  "city": "perk",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "perk",
+  "city": "Perk",
+  "citySlug": "perk",
+  "path": "/belgium/perk/perk/restaurants",
+  "canonicalPath": "/belgium/perk/perk/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Greenroom",

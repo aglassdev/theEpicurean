@@ -1,20 +1,27 @@
 {
   "title": "Guer",
-  "country": "france",
-  "region": "guer",
-  "city": "guer",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "guer",
+  "city": "Guer",
+  "citySlug": "guer",
+  "path": "/france/guer/guer/restaurants",
+  "canonicalPath": "/france/guer/guer/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Maison Tiegezh",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/guer/guer/maison-tiegezh",
+      "award": "★"
+    },
     {
       "name": "Bistrot de la Maison Tiegezh",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/guer/guer/bistrot-de-la-maison-tiegezh"
-    },
-    {
-      "name": "Maison Tiegezh",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/guer/guer/maison-tiegezh"
     }
   ]
 }

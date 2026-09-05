@@ -1,8 +1,14 @@
 {
   "title": "Sillery",
-  "country": "france",
-  "region": "sillery",
-  "city": "sillery",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sillery",
+  "city": "Sillery",
+  "citySlug": "sillery",
+  "path": "/france/sillery/sillery/restaurants",
+  "canonicalPath": "/france/sillery/sillery/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Relais de Sillery",

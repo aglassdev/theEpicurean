@@ -1,20 +1,21 @@
 {
   "title": "Kinsale",
-  "country": "ireland",
-  "region": "kinsale",
-  "city": "kinsale",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "kinsale",
+  "city": "Kinsale",
+  "citySlug": "kinsale",
+  "path": "/ireland/kinsale/kinsale/restaurants",
+  "canonicalPath": "/ireland/kinsale/kinsale/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Bastion",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/ireland/kinsale/kinsale/bastion"
-    },
-    {
-      "name": "Bastion",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/ireland/kinsale/kinsale/bastion"
+      "path": "/ireland/kinsale/kinsale/bastion",
+      "award": "★"
     },
     {
       "name": "Max's",

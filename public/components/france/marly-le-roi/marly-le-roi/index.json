@@ -1,20 +1,27 @@
 {
-  "title": "Marly Le Roi",
-  "country": "france",
-  "region": "marly-le-roi",
-  "city": "marly-le-roi",
+  "title": "Marly le Roi",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "marly-le-roi",
+  "city": "Marly le Roi",
+  "citySlug": "marly-le-roi",
+  "path": "/france/marly-le-roi/marly-le-roi/restaurants",
+  "canonicalPath": "/france/marly-le-roi/marly-le-roi/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Village Tomohiro",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/marly-le-roi/marly-le-roi/le-village-tomohiro",
+      "award": "★"
+    },
     {
       "name": "Le Point d'Origine",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/marly-le-roi/marly-le-roi/le-point-dorigine"
-    },
-    {
-      "name": "Le Village Tomohiro",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/marly-le-roi/marly-le-roi/le-village-tomohiro"
     }
   ]
 }

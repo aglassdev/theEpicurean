@@ -1,11 +1,21 @@
 {
   "title": "Grindavik",
+  "country": "Iceland",
+  "countrySlug": "iceland",
+  "region": null,
+  "regionSlug": "grindavik",
+  "city": "Grindavik",
+  "citySlug": "grindavik",
+  "path": "/iceland/grindavik/grindavik/restaurants",
+  "canonicalPath": "/iceland/grindavik/grindavik/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Blue Lagoon",
       "cuisine": "",
       "price": "",
-      "path": "/iceland/grindavik/grindavik/BlueLagoon"
+      "path": "/iceland/grindavik/grindavik/blue-lagoon",
+      "award": "World's 50 Best"
     }
   ]
 }

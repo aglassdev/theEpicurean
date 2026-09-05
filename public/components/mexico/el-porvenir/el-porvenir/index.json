@@ -1,9 +1,22 @@
 {
   "title": "El Porvenir",
-  "country": "mexico",
-  "region": "el-porvenir",
-  "city": "el-porvenir",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "el-porvenir",
+  "city": "El Porvenir",
+  "citySlug": "el-porvenir",
+  "path": "/mexico/el-porvenir/el-porvenir/restaurants",
+  "canonicalPath": "/mexico/el-porvenir/el-porvenir/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Lunario",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$$",
+      "path": "/mexico/el-porvenir/el-porvenir/lunario",
+      "award": "★"
+    },
     {
       "name": "Corazón D'Petra",
       "cuisine": "Mexican",
@@ -26,13 +39,7 @@
       "name": "Latitud 32",
       "cuisine": "Mexican",
       "price": "$$$",
-      "path": "/mexico/el-porvenir/el-porvenir/latitud-32"
-    },
-    {
-      "name": "Lunario",
-      "cuisine": "Mexican, Contemporary",
-      "price": "$$$$",
-      "path": "/mexico/el-porvenir/el-porvenir/lunario"
+      "path": "/mexico/el-porvenir/el-porvenir/latitud32"
     }
   ]
 }

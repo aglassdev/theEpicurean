@@ -1,185 +1,217 @@
 {
   "title": "Taizhou",
+  "country": "China",
+  "countrySlug": "chinese-mainland",
+  "region": null,
+  "regionSlug": "taizhou",
+  "city": "Taizhou",
+  "citySlug": "taizhou",
+  "path": "/chinese-mainland/taizhou/taizhou/restaurants",
+  "canonicalPath": "/chinese-mainland/taizhou/taizhou/restaurants",
+  "count": 30,
   "restaurants": [
     {
       "name": "Carved Dragons (Jiaojiang)",
       "cuisine": "Taizhou",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/CarvedDragonsJiaojiang"
+      "path": "/chinese-mainland/taizhou/taizhou/carved-dragons-jiaojiang",
+      "award": "★"
     },
     {
       "name": "Lao Bian Jiu Jia (Jindai Road)",
       "cuisine": "Taizhou",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/LaoBianJiuJiaJindaiRoad"
+      "path": "/chinese-mainland/taizhou/taizhou/lao-bian-jiu-jia-jindai-road",
+      "award": "★"
     },
     {
       "name": "Xin Rong Ji (Jiaojiang)",
       "cuisine": "Taizhou",
       "price": "$$$",
-      "path": "/chinese-mainland/taizhou/taizhou/XinRongJiJiaojiang"
+      "path": "/chinese-mainland/taizhou/taizhou/xin-rong-ji-jiaojiang",
+      "award": "★"
     },
     {
       "name": "Xin Rong Ji (Linhai)",
       "cuisine": "Taizhou",
       "price": "$$$",
-      "path": "/chinese-mainland/taizhou/taizhou/XinRongJiLinhai"
+      "path": "/chinese-mainland/taizhou/taizhou/xin-rong-ji-linhai",
+      "award": "★"
     },
     {
       "name": "Bei Men Niu Xie Geng",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/BeiMenNiuXieGeng"
+      "path": "/chinese-mainland/taizhou/taizhou/bei-men-niu-xie-geng",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Fullie's Seafood House",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/FulliesSeafoodHouse"
+      "path": "/chinese-mainland/taizhou/taizhou/fullies-seafood-house",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Guoping Seafood",
       "cuisine": "Taizhou",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/GuopingSeafood"
+      "path": "/chinese-mainland/taizhou/taizhou/guoping-seafood",
+      "award": "Bib Gourmand"
     },
     {
       "name": "He Wei Xiao Chao",
       "cuisine": "Taizhou",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/HeWeiXiaoChao"
+      "path": "/chinese-mainland/taizhou/taizhou/he-wei-xiao-chao",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hong Da Xing Li Fan Dian",
       "cuisine": "Taizhou",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/HongDaXingLiFanDian"
+      "path": "/chinese-mainland/taizhou/taizhou/hong-da-xing-li-fan-dian",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hui Pu Pai Dang",
       "cuisine": "Taizhou",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/HuiPuPaiDang"
+      "path": "/chinese-mainland/taizhou/taizhou/hui-pu-pai-dang",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Jiu Wei",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/JiuWei"
+      "path": "/chinese-mainland/taizhou/taizhou/jiu-wei",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Lao Huang Chao Ma Ci",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/LaoHuangChaoMaCi"
+      "path": "/chinese-mainland/taizhou/taizhou/lao-huang-chao-ma-ci",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Lao Tai Zhou",
       "cuisine": "Zhejiang",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/LaoTaiZhou"
+      "path": "/chinese-mainland/taizhou/taizhou/lao-tai-zhou",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Li Ji Gu Tou Tang",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/LiJiGuTouTang"
+      "path": "/chinese-mainland/taizhou/taizhou/li-ji-gu-tou-tang",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Ma Lu Qiao Jiang Tang Mian",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/MaLuQiaoJiangTangMian"
+      "path": "/chinese-mainland/taizhou/taizhou/ma-lu-qiao-jiang-tang-mian",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Mr. Liang Seafood",
       "cuisine": "Taizhou",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/MrLiangSeafood"
+      "path": "/chinese-mainland/taizhou/taizhou/mr-liang-seafood",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Rong Cun (Gucheng Street)",
       "cuisine": "Taizhou",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/RongCunGuchengStreet"
+      "path": "/chinese-mainland/taizhou/taizhou/rong-cun-gucheng-street",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Rong Jia Xiao Chi (Ziyang Street)",
       "cuisine": "Taizhou",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/RongJiaXiaoChiZiyangStreet"
+      "path": "/chinese-mainland/taizhou/taizhou/rong-jia-xiao-chi-ziyang-street",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Shen Ji Mai Xia Mian Pi Dian",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/ShenJiMaiXiaMianPiDian"
+      "path": "/chinese-mainland/taizhou/taizhou/shen-ji-mai-xia-mian-pi-dian",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tang A Yi Bian Shi",
       "cuisine": "Dim Sum",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/TangAYiBianShi"
+      "path": "/chinese-mainland/taizhou/taizhou/tang-a-yi-bian-shi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Wei Chen Xiao Chi",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/WeiChenXiaoChi"
+      "path": "/chinese-mainland/taizhou/taizhou/wei-chen-xiao-chi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yi Qin Shou Da Mian",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/YiQinShouDaMian"
+      "path": "/chinese-mainland/taizhou/taizhou/yi-qin-shou-da-mian",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Zhang Yuan Chui Fan (Yanyu Road)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/ZhangYuanChuiFanYanyuRoad"
+      "path": "/chinese-mainland/taizhou/taizhou/zhang-yuan-chui-fan-yanyu-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Arch",
       "cuisine": "Taizhou",
       "price": "$$$",
-      "path": "/chinese-mainland/taizhou/taizhou/Arch"
+      "path": "/chinese-mainland/taizhou/taizhou/arch"
     },
     {
       "name": "Du Ji Mai Bing",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/chinese-mainland/taizhou/taizhou/DuJiMaiBing"
+      "path": "/chinese-mainland/taizhou/taizhou/du-ji-mai-bing"
     },
     {
       "name": "Lin Jia Tai Cai (Henghu North Road)",
       "cuisine": "Taizhou",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/LinJiaTaiCaiHenghuNorthRoad"
+      "path": "/chinese-mainland/taizhou/taizhou/lin-jia-tai-cai-henghu-north-road"
     },
     {
       "name": "Long Yan (Jiaojiang)",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/LongYanJiaojiang"
+      "path": "/chinese-mainland/taizhou/taizhou/long-yan-jiaojiang"
     },
     {
       "name": "Mei's Cuisine",
       "cuisine": "Sichuan",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/MeisCuisine"
+      "path": "/chinese-mainland/taizhou/taizhou/meis-cuisine"
     },
     {
       "name": "Tu Zao Tou (Yulong Road)",
       "cuisine": "Jiangzhe",
       "price": "$$",
-      "path": "/chinese-mainland/taizhou/taizhou/TuZaoTouYulongRoad"
+      "path": "/chinese-mainland/taizhou/taizhou/tu-zao-tou-yulong-road"
     },
     {
       "name": "Xinye Xuan",
       "cuisine": "Cantonese",
       "price": "$$$",
-      "path": "/chinese-mainland/taizhou/taizhou/XinyeXuan"
+      "path": "/chinese-mainland/taizhou/taizhou/xinye-xuan"
     }
   ]
 }

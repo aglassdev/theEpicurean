@@ -1,14 +1,21 @@
 {
   "title": "Fontevraud Labbaye",
-  "country": "france",
-  "region": "fontevraud-labbaye",
-  "city": "fontevraud-labbaye",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "fontevraud-labbaye",
+  "city": "Fontevraud Labbaye",
+  "citySlug": "fontevraud-labbaye",
+  "path": "/france/fontevraud-labbaye/fontevraud-labbaye/restaurants",
+  "canonicalPath": "/france/fontevraud-labbaye/fontevraud-labbaye/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fontevraud L'Ermitage",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/fontevraud-labbaye/fontevraud-labbaye/fontevraud-lermitage"
+      "path": "/france/fontevraud-labbaye/fontevraud-labbaye/fontevraud-lermitage",
+      "award": "★"
     }
   ]
 }

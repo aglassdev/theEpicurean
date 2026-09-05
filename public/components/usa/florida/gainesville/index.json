@@ -1,11 +1,20 @@
 {
   "title": "Gainesville",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Gainesville",
+  "citySlug": "gainesville",
+  "path": "/usa/florida/gainesville/restaurants",
+  "canonicalPath": "/usa/florida/gainesville/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Afternoon",
       "cuisine": "American",
       "price": "$$",
-      "path": "/usa/florida/gainesville/Afternoon"
+      "path": "/usa/florida/gainesville/afternoon"
     }
   ]
 }

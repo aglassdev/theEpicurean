@@ -1,20 +1,27 @@
 {
   "title": "Norcia",
-  "country": "italy",
-  "region": "norcia",
-  "city": "norcia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "norcia",
+  "city": "Norcia",
+  "citySlug": "norcia",
+  "path": "/italy/norcia/norcia/restaurants",
+  "canonicalPath": "/italy/norcia/norcia/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Vespasia",
+      "cuisine": "Umbrian, Creative",
+      "price": "€€€€",
+      "path": "/italy/norcia/norcia/vespasia",
+      "award": "★"
+    },
     {
       "name": "Granaro del Monte",
       "cuisine": "Regional Cuisine",
       "price": "€",
       "path": "/italy/norcia/norcia/granaro-del-monte"
-    },
-    {
-      "name": "Vespasia",
-      "cuisine": "Umbrian, Creative",
-      "price": "€€€€",
-      "path": "/italy/norcia/norcia/vespasia"
     }
   ]
 }

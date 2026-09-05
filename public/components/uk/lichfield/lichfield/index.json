@@ -1,9 +1,22 @@
 {
   "title": "Lichfield",
-  "country": "uk",
-  "region": "lichfield",
-  "city": "lichfield",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "lichfield",
+  "city": "Lichfield",
+  "citySlug": "lichfield",
+  "path": "/uk/lichfield/lichfield/restaurants",
+  "canonicalPath": "/uk/lichfield/lichfield/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Upstairs by Tom Shepherd",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/lichfield/lichfield/upstairs-by-tom-shepherd",
+      "award": "★"
+    },
     {
       "name": "Larder",
       "cuisine": "Modern Cuisine",
@@ -21,12 +34,6 @@
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/lichfield/lichfield/the-boat"
-    },
-    {
-      "name": "Upstairs by Tom Shepherd",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/lichfield/lichfield/upstairs-by-tom-shepherd"
     }
   ]
 }

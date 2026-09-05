@@ -1,8 +1,14 @@
 {
   "title": "Meppen",
-  "country": "germany",
-  "region": "meppen",
-  "city": "meppen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "meppen",
+  "city": "Meppen",
+  "citySlug": "meppen",
+  "path": "/germany/meppen/meppen/restaurants",
+  "canonicalPath": "/germany/meppen/meppen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "von Euch",

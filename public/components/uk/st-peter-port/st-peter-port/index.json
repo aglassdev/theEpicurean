@@ -1,11 +1,27 @@
 {
-  "title": "St Peter Port",
+  "title": "St. Peter Port",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "st-peter-port",
+  "city": "St. Peter Port",
+  "citySlug": "st-peter-port",
+  "path": "/uk/st-peter-port/st-peter-port/restaurants",
+  "canonicalPath": "/uk/st-peter-port/st-peter-port/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Alba Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/uk/st-peter-port/st-peter-port/alba-restaurant",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Alba",
       "cuisine": "Modern Cuisine",
       "price": "££",
-      "path": "/uk/st-peter-port/st-peter-port/alba"
+      "path": "/uk/st-peter-port/st-peter-port/alba-s-t-p"
     },
     {
       "name": "Fukku",
@@ -14,22 +30,16 @@
       "path": "/uk/st-peter-port/st-peter-port/fukku"
     },
     {
-      "name": "Alba Restaurant",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/uk/st-peter-port/st-peter-port/AlbaRestaurant"
-    },
-    {
       "name": "Hook",
       "cuisine": "Meats and Grills",
       "price": "$$",
-      "path": "/uk/st-peter-port/st-peter-port/Hook"
+      "path": "/uk/st-peter-port/st-peter-port/hook"
     },
     {
       "name": "Le Nautique",
       "cuisine": "Seafood",
       "price": "$$$",
-      "path": "/uk/st-peter-port/st-peter-port/LeNautique"
+      "path": "/uk/st-peter-port/st-peter-port/le-nautique"
     }
   ]
 }

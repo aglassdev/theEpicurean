@@ -1,0 +1,26 @@
+{
+  "title": "Garden Grove",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Garden Grove",
+  "citySlug": "garden-grove",
+  "path": "/usa/other/garden-grove/restaurants",
+  "canonicalPath": "/usa/california/garden-grove/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Phở 79",
+      "cuisine": "Vietnamese, Noodles",
+      "price": "$",
+      "path": "/usa/california/garden-grove/ph79"
+    },
+    {
+      "name": "Taira Sushi & Sake",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$",
+      "path": "/usa/california/garden-grove/taira-sushi-sake"
+    }
+  ]
+}

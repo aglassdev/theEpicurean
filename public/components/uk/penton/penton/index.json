@@ -1,14 +1,21 @@
 {
   "title": "Penton",
-  "country": "uk",
-  "region": "penton",
-  "city": "penton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "penton",
+  "city": "Penton",
+  "citySlug": "penton",
+  "path": "/uk/penton/penton/restaurants",
+  "canonicalPath": "/uk/penton/penton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pentonbridge Inn",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/penton/penton/pentonbridge-inn"
+      "path": "/uk/penton/penton/pentonbridge-inn",
+      "award": "★"
     }
   ]
 }

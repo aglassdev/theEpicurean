@@ -1,14 +1,21 @@
 {
   "title": "Grassau",
-  "country": "germany",
-  "region": "grassau",
-  "city": "grassau",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "grassau",
+  "city": "Grassau",
+  "citySlug": "grassau",
+  "path": "/germany/grassau/grassau/restaurants",
+  "canonicalPath": "/germany/grassau/grassau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "ES:SENZ",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/grassau/grassau/essenz"
+      "path": "/germany/grassau/grassau/essenz",
+      "award": "★★★"
     }
   ]
 }

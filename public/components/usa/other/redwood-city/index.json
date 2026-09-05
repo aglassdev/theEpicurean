@@ -1,0 +1,26 @@
+{
+  "title": "Redwood City",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Redwood City",
+  "citySlug": "redwood-city",
+  "path": "/usa/other/redwood-city/restaurants",
+  "canonicalPath": "/usa/california/redwood-city/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "La Viga Seafood & Cocina Mexicana",
+      "cuisine": "Mexican, Seafood",
+      "price": "$$",
+      "path": "/usa/california/redwood-city/la-viga-seafood-cocina-mexicana"
+    },
+    {
+      "name": "Sushi Shin",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/redwood-city/sushi-shin"
+    }
+  ]
+}

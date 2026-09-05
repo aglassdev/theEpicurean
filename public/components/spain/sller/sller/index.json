@@ -1,14 +1,21 @@
 {
   "title": "Sller",
-  "country": "spain",
-  "region": "sller",
-  "city": "sller",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "sller",
+  "city": "Sller",
+  "citySlug": "sller",
+  "path": "/spain/sller/sller/restaurants",
+  "canonicalPath": "/spain/sller/sller/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Béns d'Avall",
       "cuisine": "Contemporary",
       "price": "€€€€",
-      "path": "/spain/sller/sller/bns-davall"
+      "path": "/spain/sller/sller/bns-davall",
+      "award": "★"
     },
     {
       "name": "Ca´n Boqueta",

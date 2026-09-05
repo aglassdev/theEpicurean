@@ -1,14 +1,20 @@
 {
   "title": "Maintal",
-  "country": "germany",
-  "region": "maintal",
-  "city": "maintal",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "maintal",
+  "city": "Maintal",
+  "citySlug": "maintal",
+  "path": "/germany/maintal/maintal/restaurants",
+  "canonicalPath": "/germany/maintal/maintal/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fleur de Sel",
       "cuisine": "Classic French, Farm to table",
       "price": "€€",
-      "path": "/germany/maintal/maintal/fleur-de-sel"
+      "path": "/germany/maintal/maintal/fleur-de-sel-m-a-i"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Montlimar",
-  "country": "france",
-  "region": "montlimar",
-  "city": "montlimar",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montlimar",
+  "city": "Montlimar",
+  "citySlug": "montlimar",
+  "path": "/france/montlimar/montlimar/restaurants",
+  "canonicalPath": "/france/montlimar/montlimar/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Petite France",

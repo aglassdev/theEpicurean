@@ -1,14 +1,21 @@
 {
   "title": "Llanddewi Skirrid",
-  "country": "uk",
-  "region": "llanddewi-skirrid",
-  "city": "llanddewi-skirrid",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "llanddewi-skirrid",
+  "city": "Llanddewi Skirrid",
+  "citySlug": "llanddewi-skirrid",
+  "path": "/uk/llanddewi-skirrid/llanddewi-skirrid/restaurants",
+  "canonicalPath": "/uk/llanddewi-skirrid/llanddewi-skirrid/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Walnut Tree",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/llanddewi-skirrid/llanddewi-skirrid/walnut-tree"
+      "path": "/uk/llanddewi-skirrid/llanddewi-skirrid/walnut-tree",
+      "award": "★"
     }
   ]
 }

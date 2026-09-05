@@ -1,14 +1,21 @@
 {
   "title": "Es Capdell",
-  "country": "spain",
-  "region": "es-capdell",
-  "city": "es-capdell",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "es-capdell",
+  "city": "Es Capdell",
+  "citySlug": "es-capdell",
+  "path": "/spain/es-capdell/es-capdell/restaurants",
+  "canonicalPath": "/spain/es-capdell/es-capdell/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sa Clastra",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/es-capdell/es-capdell/sa-clastra"
+      "path": "/spain/es-capdell/es-capdell/sa-clastra",
+      "award": "★"
     }
   ]
 }

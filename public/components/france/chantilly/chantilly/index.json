@@ -1,20 +1,27 @@
 {
   "title": "Chantilly",
-  "country": "france",
-  "region": "chantilly",
-  "city": "chantilly",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chantilly",
+  "city": "Chantilly",
+  "citySlug": "chantilly",
+  "path": "/france/chantilly/chantilly/restaurants",
+  "canonicalPath": "/france/chantilly/chantilly/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Verbois",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/chantilly/chantilly/le-verbois",
+      "award": "★"
+    },
     {
       "name": "La Table du Connétable - Auberge du Jeu de Paume",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/chantilly/chantilly/la-table-du-conntable-auberge-du-jeu-de-paume"
-    },
-    {
-      "name": "Le Verbois",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/chantilly/chantilly/le-verbois"
     }
   ]
 }

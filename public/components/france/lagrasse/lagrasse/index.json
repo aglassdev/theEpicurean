@@ -1,8 +1,14 @@
 {
   "title": "Lagrasse",
-  "country": "france",
-  "region": "lagrasse",
-  "city": "lagrasse",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lagrasse",
+  "city": "Lagrasse",
+  "citySlug": "lagrasse",
+  "path": "/france/lagrasse/lagrasse/restaurants",
+  "canonicalPath": "/france/lagrasse/lagrasse/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Bastion",

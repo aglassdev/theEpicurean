@@ -1,8 +1,14 @@
 {
   "title": "Mrindol",
-  "country": "france",
-  "region": "mrindol",
-  "city": "mrindol",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "mrindol",
+  "city": "Mrindol",
+  "citySlug": "mrindol",
+  "path": "/france/mrindol/mrindol/restaurants",
+  "canonicalPath": "/france/mrindol/mrindol/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Terrasse des Cigales",

@@ -1,14 +1,21 @@
 {
   "title": "Sardas",
-  "country": "spain",
-  "region": "sardas",
-  "city": "sardas",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "sardas",
+  "city": "Sardas",
+  "citySlug": "sardas",
+  "path": "/spain/sardas/sardas/restaurants",
+  "canonicalPath": "/spain/sardas/sardas/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Era de los Nogales",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/spain/sardas/sardas/la-era-de-los-nogales"
+      "path": "/spain/sardas/sardas/la-era-de-los-nogales",
+      "award": "★"
     }
   ]
 }

@@ -1,6 +1,21 @@
 {
   "title": "Arbois",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "arbois",
+  "city": "Arbois",
+  "citySlug": "arbois",
+  "path": "/france/arbois/arbois/restaurants",
+  "canonicalPath": "/france/arbois/arbois/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Circus",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/arbois/arbois/circus"
+    },
     {
       "name": "Le Bistronôme",
       "cuisine": "Modern Cuisine",
@@ -12,12 +27,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/arbois/arbois/les-caudalies"
-    },
-    {
-      "name": "Circus",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/arbois/arbois/Circus"
     }
   ]
 }

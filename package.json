@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "convert": "node scripts/convertToJSON.js",
-    "build": "node scripts/convertToJSON.js && vite build",
+    "destinations": "node scripts/buildDestinations.js",
+    "build": "node scripts/convertToJSON.js && node scripts/buildDestinations.js --quiet && vite build",
     "build-fast": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",

@@ -1,8 +1,14 @@
 {
   "title": "Varenna",
-  "country": "italy",
-  "region": "varenna",
-  "city": "varenna",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "varenna",
+  "city": "Varenna",
+  "citySlug": "varenna",
+  "path": "/italy/varenna/varenna/restaurants",
+  "canonicalPath": "/italy/varenna/varenna/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Hosteria del Platano",

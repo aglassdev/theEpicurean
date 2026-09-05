@@ -1,17 +1,26 @@
 {
   "title": "Bovec",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "bovec",
+  "city": "Bovec",
+  "citySlug": "bovec",
+  "path": "/slovenia/bovec/bovec/restaurants",
+  "canonicalPath": "/slovenia/bovec/bovec/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bistro 9:45",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/slovenia/bovec/bovec/Bistro945"
+      "path": "/slovenia/bovec/bovec/bistro945"
     },
     {
       "name": "Restavracija Mangrt",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/slovenia/bovec/bovec/RestavracijaMangrt"
+      "path": "/slovenia/bovec/bovec/restavracija-mangrt"
     }
   ]
 }

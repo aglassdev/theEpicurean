@@ -1,20 +1,27 @@
 {
   "title": "Blaregnies",
-  "country": "belgium",
-  "region": "blaregnies",
-  "city": "blaregnies",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "blaregnies",
+  "city": "Blaregnies",
+  "citySlug": "blaregnies",
+  "path": "/belgium/blaregnies/blaregnies/restaurants",
+  "canonicalPath": "/belgium/blaregnies/blaregnies/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Les Gourmands",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/belgium/blaregnies/blaregnies/les-gourmands",
+      "award": "★"
+    },
     {
       "name": "La Marelle Café",
       "cuisine": "Traditional Cuisine, Farm to table",
       "price": "€€",
       "path": "/belgium/blaregnies/blaregnies/la-marelle-caf"
-    },
-    {
-      "name": "Les Gourmands",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€",
-      "path": "/belgium/blaregnies/blaregnies/les-gourmands"
     }
   ]
 }

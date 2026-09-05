@@ -1,14 +1,21 @@
 {
   "title": "Crieff",
-  "country": "uk",
-  "region": "crieff",
-  "city": "crieff",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "crieff",
+  "city": "Crieff",
+  "citySlug": "crieff",
+  "path": "/uk/crieff/crieff/restaurants",
+  "canonicalPath": "/uk/crieff/crieff/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Glenturret Lalique",
       "cuisine": "Modern Cuisine",
       "price": "££££",
-      "path": "/uk/crieff/crieff/the-glenturret-lalique"
+      "path": "/uk/crieff/crieff/the-glenturret-lalique",
+      "award": "★★"
     }
   ]
 }

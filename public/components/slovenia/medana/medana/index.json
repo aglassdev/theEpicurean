@@ -1,11 +1,21 @@
 {
   "title": "Medana",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "medana",
+  "city": "Medana",
+  "citySlug": "medana",
+  "path": "/slovenia/medana/medana/restaurants",
+  "canonicalPath": "/slovenia/medana/medana/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Klinec",
       "cuisine": "Regional Cuisine",
       "price": "$",
-      "path": "/slovenia/medana/medana/Klinec"
+      "path": "/slovenia/medana/medana/klinec",
+      "award": "Bib Gourmand"
     }
   ]
 }

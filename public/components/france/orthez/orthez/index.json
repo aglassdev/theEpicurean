@@ -1,8 +1,14 @@
 {
   "title": "Orthez",
-  "country": "france",
-  "region": "orthez",
-  "city": "orthez",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "orthez",
+  "city": "Orthez",
+  "citySlug": "orthez",
+  "path": "/france/orthez/orthez/restaurants",
+  "canonicalPath": "/france/orthez/orthez/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Maison",

@@ -1,8 +1,14 @@
 {
   "title": "Mercus",
-  "country": "france",
-  "region": "mercus",
-  "city": "mercus",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "mercus",
+  "city": "Mercus",
+  "citySlug": "mercus",
+  "path": "/france/mercus/mercus/restaurants",
+  "canonicalPath": "/france/mercus/mercus/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de Mercuès",

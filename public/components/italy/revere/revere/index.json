@@ -1,8 +1,14 @@
 {
   "title": "Revere",
-  "country": "italy",
-  "region": "revere",
-  "city": "revere",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "revere",
+  "city": "Revere",
+  "citySlug": "revere",
+  "path": "/italy/revere/revere/restaurants",
+  "canonicalPath": "/italy/revere/revere/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Tartufo",

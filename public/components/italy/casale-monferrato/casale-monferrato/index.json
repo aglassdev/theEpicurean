@@ -1,8 +1,14 @@
 {
   "title": "Casale Monferrato",
-  "country": "italy",
-  "region": "casale-monferrato",
-  "city": "casale-monferrato",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "casale-monferrato",
+  "city": "Casale Monferrato",
+  "citySlug": "casale-monferrato",
+  "path": "/italy/casale-monferrato/casale-monferrato/restaurants",
+  "canonicalPath": "/italy/casale-monferrato/casale-monferrato/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Accademia Ristorante",
@@ -14,7 +20,7 @@
       "name": "Faletta 1881",
       "cuisine": "Piedmontese, Contemporary",
       "price": "€€",
-      "path": "/italy/casale-monferrato/casale-monferrato/faletta-1881"
+      "path": "/italy/casale-monferrato/casale-monferrato/faletta1881"
     },
     {
       "name": "Osteria Bar Sport",

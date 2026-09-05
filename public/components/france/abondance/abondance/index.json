@@ -1,8 +1,14 @@
 {
   "title": "Abondance",
-  "country": "france",
-  "region": "abondance",
-  "city": "abondance",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "abondance",
+  "city": "Abondance",
+  "citySlug": "abondance",
+  "path": "/france/abondance/abondance/restaurants",
+  "canonicalPath": "/france/abondance/abondance/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chalet Flachaire",

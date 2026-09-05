@@ -1,83 +1,92 @@
 {
-  "title": "St. James's",
+  "title": "St. Jamess",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "St. Jamess",
+  "citySlug": "st-jamess",
+  "path": "/uk/london/st-jamess/restaurants",
+  "canonicalPath": "/uk/london/st-jamess/restaurants",
+  "count": 13,
   "restaurants": [
     {
-      "name": "The Stafford London",
+      "name": "Caffe Concerto - Haymarket",
       "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/london/st-jamess/TheStaffordLondon"
-    },
-    {
-      "name": "St. James's Hotel and Club",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/st-jamess/StJamessHotelAndClub"
-    },
-    {
-      "name": "St Ermin's Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "47.00",
-      "path": "/uk/london/st-jamess/StErminsHotel"
-    },
-    {
-      "name": "The Rose Lounge at Sofitel London St James",
-      "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/london/st-jamess/TheRoseLoungeAtSofitelLondonStJames"
-    },
-    {
-      "name": "Mayfair Lounge and Grill at The Cavendish London",
-      "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/london/st-jamess/MayfairLoungeAndGrillAtTheCavendishLondon"
-    },
-    {
-      "name": "Kona at Taj 51 Buckingham Gate",
-      "cuisine": "Afternoon Tea",
-      "price": "75.00",
-      "path": "/uk/london/st-jamess/KonaAtTaj51BuckinghamGate"
-    },
-    {
-      "name": "Japanese Afternoon Tea at Ginza St James's",
-      "cuisine": "Afternoon Tea",
-      "price": "49.00",
-      "path": "/uk/london/st-jamess/JapaneseAfternoonTeaAtGinzaStJamess"
-    },
-    {
-      "name": "InfiniTEA at Conrad London St. James",
-      "cuisine": "Afternoon Tea",
-      "price": "60.00",
-      "path": "/uk/london/st-jamess/InfiniteaAtConradLondonStJames"
-    },
-    {
-      "name": "Haymarket Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/st-jamess/HaymarketHotel"
-    },
-    {
-      "name": "Drawing Room at DUKES London",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/st-jamess/DrawingRoomAtDukesLondon"
-    },
-    {
-      "name": "The Diamond Jubilee Tea Salon at Fortnum & Mason",
-      "cuisine": "Afternoon Tea",
-      "price": "80.00",
-      "path": "/uk/london/st-jamess/TheDiamondJubileeTeaSalonAtFortnumMason"
+      "price": "32.95",
+      "path": "/uk/london/st-jamess/caffe-concerto-haymarket"
     },
     {
       "name": "Caffe Concerto - Regent Street",
       "cuisine": "Afternoon Tea",
       "price": "32.95",
-      "path": "/uk/london/st-jamess/CaffeConcertoRegentStreet"
+      "path": "/uk/london/st-jamess/caffe-concerto-regent-street"
     },
     {
-      "name": "Caffe Concerto - Haymarket",
+      "name": "Drawing Room at DUKES London",
       "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/london/st-jamess/CaffeConcertoHaymarket"
+      "price": "45.00",
+      "path": "/uk/london/st-jamess/drawing-room-at-dukes-london"
+    },
+    {
+      "name": "Haymarket Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/st-jamess/haymarket-hotel"
+    },
+    {
+      "name": "InfiniTEA at Conrad London St. James",
+      "cuisine": "Afternoon Tea",
+      "price": "60.00",
+      "path": "/uk/london/st-jamess/infinitea-at-conrad-london-st-james"
+    },
+    {
+      "name": "Japanese Afternoon Tea at Ginza St James's",
+      "cuisine": "Afternoon Tea",
+      "price": "49.00",
+      "path": "/uk/london/st-jamess/japanese-afternoon-tea-at-ginza-st-jamess"
+    },
+    {
+      "name": "Kona at Taj 51 Buckingham Gate",
+      "cuisine": "Afternoon Tea",
+      "price": "75.00",
+      "path": "/uk/london/st-jamess/kona-at-taj51-buckingham-gate"
+    },
+    {
+      "name": "Mayfair Lounge and Grill at The Cavendish London",
+      "cuisine": "Afternoon Tea",
+      "price": "55.00",
+      "path": "/uk/london/st-jamess/mayfair-lounge-and-grill-at-the-cavendish-london"
+    },
+    {
+      "name": "St Ermin's Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "47.00",
+      "path": "/uk/london/st-jamess/st-ermins-hotel"
+    },
+    {
+      "name": "St. James's Hotel and Club",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/st-jamess/st-jamess-hotel-and-club"
+    },
+    {
+      "name": "The Diamond Jubilee Tea Salon at Fortnum & Mason",
+      "cuisine": "Afternoon Tea",
+      "price": "80.00",
+      "path": "/uk/london/st-jamess/the-diamond-jubilee-tea-salon-at-fortnum-mason"
+    },
+    {
+      "name": "The Rose Lounge at Sofitel London St James",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/london/st-jamess/the-rose-lounge-at-sofitel-london-st-james"
+    },
+    {
+      "name": "The Stafford London",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/london/st-jamess/the-stafford-london"
     }
   ]
 }

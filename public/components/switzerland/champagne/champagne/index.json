@@ -1,14 +1,20 @@
 {
   "title": "Champagne",
-  "country": "switzerland",
-  "region": "champagne",
-  "city": "champagne",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "champagne",
+  "city": "Champagne",
+  "citySlug": "champagne",
+  "path": "/switzerland/champagne/champagne/restaurants",
+  "canonicalPath": "/switzerland/champagne/champagne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le 1424, La Fabrique Cornu",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/switzerland/champagne/champagne/le-1424-la-fabrique-cornu"
+      "path": "/switzerland/champagne/champagne/le1424-la-fabrique-cornu"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
-  "title": "Saint Georges Sur Meuse",
-  "country": "belgium",
-  "region": "saint-georges-sur-meuse",
-  "city": "saint-georges-sur-meuse",
+  "title": "Saint Georges sur Meuse",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "saint-georges-sur-meuse",
+  "city": "Saint Georges sur Meuse",
+  "citySlug": "saint-georges-sur-meuse",
+  "path": "/belgium/saint-georges-sur-meuse/saint-georges-sur-meuse/restaurants",
+  "canonicalPath": "/belgium/saint-georges-sur-meuse/saint-georges-sur-meuse/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Philippe Fauchet",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/belgium/saint-georges-sur-meuse/saint-georges-sur-meuse/philippe-fauchet"
+      "path": "/belgium/saint-georges-sur-meuse/saint-georges-sur-meuse/philippe-fauchet",
+      "award": "★"
     }
   ]
 }

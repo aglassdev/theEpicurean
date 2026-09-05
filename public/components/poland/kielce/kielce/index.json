@@ -1,11 +1,21 @@
 {
   "title": "Kielce",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "kielce",
+  "city": "Kielce",
+  "citySlug": "kielce",
+  "path": "/poland/kielce/kielce/restaurants",
+  "canonicalPath": "/poland/kielce/kielce/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Moment",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/poland/kielce/kielce/TheMoment"
+      "path": "/poland/kielce/kielce/the-moment",
+      "award": "Bib Gourmand"
     }
   ]
 }

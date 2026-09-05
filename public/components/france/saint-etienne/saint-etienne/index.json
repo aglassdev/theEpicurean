@@ -1,8 +1,14 @@
 {
   "title": "Saint Etienne",
-  "country": "france",
-  "region": "saint-etienne",
-  "city": "saint-etienne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-etienne",
+  "city": "Saint Etienne",
+  "citySlug": "saint-etienne",
+  "path": "/france/saint-etienne/saint-etienne/restaurants",
+  "canonicalPath": "/france/saint-etienne/saint-etienne/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "À la Table des Lys",

@@ -1,6 +1,22 @@
 {
   "title": "Belgrade",
+  "country": "Serbia",
+  "countrySlug": "serbia",
+  "region": null,
+  "regionSlug": "belgrade",
+  "city": "Belgrade",
+  "citySlug": "belgrade",
+  "path": "/serbia/belgrade/belgrade/restaurants",
+  "canonicalPath": "/serbia/belgrade/belgrade/restaurants",
+  "count": 25,
   "restaurants": [
+    {
+      "name": "Langouste",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€",
+      "path": "/serbia/belgrade/belgrade/langouste",
+      "award": "★"
+    },
     {
       "name": "Bela Reka",
       "cuisine": "Traditional Cuisine",
@@ -32,6 +48,12 @@
       "path": "/serbia/belgrade/belgrade/homa"
     },
     {
+      "name": "Homa Central",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/serbia/belgrade/belgrade/homa-central"
+    },
+    {
       "name": "Istok",
       "cuisine": "Vietnamese, Asian",
       "price": "€",
@@ -53,19 +75,13 @@
       "name": "L'Adresse",
       "cuisine": "European, International",
       "price": "€€",
-      "path": "/serbia/belgrade/belgrade/ladresse"
-    },
-    {
-      "name": "Langouste",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "€€€",
-      "path": "/serbia/belgrade/belgrade/langouste"
+      "path": "/serbia/belgrade/belgrade/ladresse-b-e-l"
     },
     {
       "name": "Legat 1903",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/serbia/belgrade/belgrade/legat-1903"
+      "path": "/serbia/belgrade/belgrade/legat1903"
     },
     {
       "name": "Magellan",
@@ -107,7 +123,7 @@
       "name": "Restoran 27",
       "cuisine": "Classic Cuisine, Seasonal Cuisine",
       "price": "€€",
-      "path": "/serbia/belgrade/belgrade/restoran-27"
+      "path": "/serbia/belgrade/belgrade/restoran27"
     },
     {
       "name": "S5 by Angie",
@@ -119,7 +135,7 @@
       "name": "Salon 1905",
       "cuisine": "Modern Cuisine, Balkan",
       "price": "€€€€",
-      "path": "/serbia/belgrade/belgrade/salon-1905"
+      "path": "/serbia/belgrade/belgrade/salon1905"
     },
     {
       "name": "SkyLounge",
@@ -144,12 +160,6 @@
       "cuisine": "International",
       "price": "€€",
       "path": "/serbia/belgrade/belgrade/the-twenty-two"
-    },
-    {
-      "name": "Homa Central",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/serbia/belgrade/belgrade/HomaCentral"
     }
   ]
 }

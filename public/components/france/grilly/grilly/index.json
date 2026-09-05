@@ -1,8 +1,14 @@
 {
   "title": "Grilly",
-  "country": "france",
-  "region": "grilly",
-  "city": "grilly",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "grilly",
+  "city": "Grilly",
+  "citySlug": "grilly",
+  "path": "/france/grilly/grilly/restaurants",
+  "canonicalPath": "/france/grilly/grilly/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de Grilly",

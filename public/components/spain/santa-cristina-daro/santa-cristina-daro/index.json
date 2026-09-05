@@ -1,14 +1,20 @@
 {
   "title": "Santa Cristina Daro",
-  "country": "spain",
-  "region": "santa-cristina-daro",
-  "city": "santa-cristina-daro",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "santa-cristina-daro",
+  "city": "Santa Cristina Daro",
+  "citySlug": "santa-cristina-daro",
+  "path": "/spain/santa-cristina-daro/santa-cristina-daro/restaurants",
+  "canonicalPath": "/spain/santa-cristina-daro/santa-cristina-daro/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bell-Lloc",
       "cuisine": "Catalan",
       "price": "€€",
-      "path": "/spain/santa-cristina-daro/santa-cristina-daro/bell-lloc"
+      "path": "/spain/santa-cristina-daro/santa-cristina-daro/belllloc"
     }
   ]
 }

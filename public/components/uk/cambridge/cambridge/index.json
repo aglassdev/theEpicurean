@@ -1,14 +1,58 @@
 {
   "title": "Cambridge",
-  "country": "uk",
-  "region": "cambridge",
-  "city": "cambridge",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "East of England",
+  "regionSlug": "cambridge",
+  "city": "Cambridge",
+  "citySlug": "cambridge",
+  "path": "/uk/cambridge/cambridge/restaurants",
+  "canonicalPath": "/uk/east-of-england/cambridge/restaurants",
+  "count": 15,
   "restaurants": [
+    {
+      "name": "Midsummer House",
+      "cuisine": "Creative",
+      "price": "££££",
+      "path": "/uk/cambridge/cambridge/midsummer-house",
+      "award": "★★"
+    },
+    {
+      "name": "Restaurant Twenty-Two",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/cambridge/cambridge/restaurant-twentytwo",
+      "award": "★"
+    },
+    {
+      "name": "Clayton Hotel Cambridge",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/east-of-england/cambridge/clayton-hotel-cambridge"
+    },
     {
       "name": "Fancett's",
       "cuisine": "Classic French",
       "price": "£££",
       "path": "/uk/cambridge/cambridge/fancetts"
+    },
+    {
+      "name": "Graduate Cambridge",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/east-of-england/cambridge/graduate-cambridge"
+    },
+    {
+      "name": "Hilton Cambridge City Centre",
+      "cuisine": "Afternoon Tea",
+      "price": "26.00",
+      "path": "/uk/east-of-england/cambridge/hilton-cambridge-city-centre"
+    },
+    {
+      "name": "Hotel du Vin Cambridge",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/east-of-england/cambridge/hotel-du-vin-cambridge"
     },
     {
       "name": "Margaret's",
@@ -23,16 +67,34 @@
       "path": "/uk/cambridge/cambridge/mercado-central"
     },
     {
-      "name": "Midsummer House",
-      "cuisine": "Creative",
-      "price": "££££",
-      "path": "/uk/cambridge/cambridge/midsummer-house"
+      "name": "Parker's Tavern",
+      "cuisine": "Afternoon Tea",
+      "price": "39.00",
+      "path": "/uk/east-of-england/cambridge/parkers-tavern"
     },
     {
-      "name": "Restaurant Twenty-Two",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/cambridge/cambridge/restaurant-twenty-two"
+      "name": "Quy Mill Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "22.50",
+      "path": "/uk/east-of-england/cambridge/quy-mill-hotel"
+    },
+    {
+      "name": "The Fellows House Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "27.00",
+      "path": "/uk/east-of-england/cambridge/the-fellows-house-hotel"
+    },
+    {
+      "name": "The Ivy Cambridge Brasserie",
+      "cuisine": "Afternoon Tea",
+      "price": "34.95",
+      "path": "/uk/east-of-england/cambridge/the-ivy-cambridge-brasserie"
+    },
+    {
+      "name": "The Lodge, Duxford",
+      "cuisine": "Afternoon Tea",
+      "price": "17.95",
+      "path": "/uk/east-of-england/cambridge/the-lodge-duxford"
     },
     {
       "name": "Vanderlyle",

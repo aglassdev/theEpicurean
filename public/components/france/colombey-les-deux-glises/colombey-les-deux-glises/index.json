@@ -1,14 +1,21 @@
 {
-  "title": "Colombey Les Deux Glises",
-  "country": "france",
-  "region": "colombey-les-deux-glises",
-  "city": "colombey-les-deux-glises",
+  "title": "Colombey les Deux Glises",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "colombey-les-deux-glises",
+  "city": "Colombey les Deux Glises",
+  "citySlug": "colombey-les-deux-glises",
+  "path": "/france/colombey-les-deux-glises/colombey-les-deux-glises/restaurants",
+  "canonicalPath": "/france/colombey-les-deux-glises/colombey-les-deux-glises/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hostellerie la Montagne",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/colombey-les-deux-glises/colombey-les-deux-glises/hostellerie-la-montagne"
+      "path": "/france/colombey-les-deux-glises/colombey-les-deux-glises/hostellerie-la-montagne",
+      "award": "★"
     }
   ]
 }

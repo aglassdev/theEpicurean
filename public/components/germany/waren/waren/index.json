@@ -1,8 +1,14 @@
 {
   "title": "Waren",
-  "country": "germany",
-  "region": "waren",
-  "city": "waren",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "waren",
+  "city": "Waren",
+  "citySlug": "waren",
+  "path": "/germany/waren/waren/restaurants",
+  "canonicalPath": "/germany/waren/waren/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Kleines Meer",

@@ -1,8 +1,14 @@
 {
   "title": "Friedberg",
-  "country": "germany",
-  "region": "friedberg",
-  "city": "friedberg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "friedberg",
+  "city": "Friedberg",
+  "citySlug": "friedberg",
+  "path": "/germany/friedberg/friedberg/restaurants",
+  "canonicalPath": "/germany/friedberg/friedberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthaus Goldener Stern",

@@ -1,20 +1,27 @@
 {
   "title": "Odenthal",
-  "country": "germany",
-  "region": "odenthal",
-  "city": "odenthal",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "odenthal",
+  "city": "Odenthal",
+  "citySlug": "odenthal",
+  "path": "/germany/odenthal/odenthal/restaurants",
+  "canonicalPath": "/germany/odenthal/odenthal/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Zur Post",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/odenthal/odenthal/zur-post",
+      "award": "★"
+    },
     {
       "name": "Postschänke",
       "cuisine": "Farm to table",
       "price": "€€",
       "path": "/germany/odenthal/odenthal/postschnke"
-    },
-    {
-      "name": "Zur Post",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/odenthal/odenthal/zur-post"
     }
   ]
 }

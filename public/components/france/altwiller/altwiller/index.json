@@ -1,14 +1,20 @@
 {
   "title": "Altwiller",
-  "country": "france",
-  "region": "altwiller",
-  "city": "altwiller",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "altwiller",
+  "city": "Altwiller",
+  "citySlug": "altwiller",
+  "path": "/france/altwiller/altwiller/restaurants",
+  "canonicalPath": "/france/altwiller/altwiller/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant de l'Écluse 16",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/altwiller/altwiller/restaurant-de-lcluse-16"
+      "path": "/france/altwiller/altwiller/restaurant-de-lcluse16"
     }
   ]
 }

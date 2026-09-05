@@ -1,8 +1,14 @@
 {
   "title": "Jena",
-  "country": "germany",
-  "region": "jena",
-  "city": "jena",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "jena",
+  "city": "Jena",
+  "citySlug": "jena",
+  "path": "/germany/jena/jena/restaurants",
+  "canonicalPath": "/germany/jena/jena/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Landgrafen",

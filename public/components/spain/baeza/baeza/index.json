@@ -1,9 +1,22 @@
 {
   "title": "Baeza",
-  "country": "spain",
-  "region": "baeza",
-  "city": "baeza",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "baeza",
+  "city": "Baeza",
+  "citySlug": "baeza",
+  "path": "/spain/baeza/baeza/restaurants",
+  "canonicalPath": "/spain/baeza/baeza/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Vandelvira",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/baeza/baeza/vandelvira",
+      "award": "★"
+    },
     {
       "name": "Acebuche",
       "cuisine": "Contemporary",
@@ -15,12 +28,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€",
       "path": "/spain/baeza/baeza/taberna-canela-en-rama"
-    },
-    {
-      "name": "Vandelvira",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/baeza/baeza/vandelvira"
     }
   ]
 }

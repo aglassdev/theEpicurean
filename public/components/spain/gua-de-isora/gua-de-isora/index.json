@@ -1,14 +1,21 @@
 {
-  "title": "Gua De Isora",
-  "country": "spain",
-  "region": "gua-de-isora",
-  "city": "gua-de-isora",
+  "title": "Gua de Isora",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "gua-de-isora",
+  "city": "Gua de Isora",
+  "citySlug": "gua-de-isora",
+  "path": "/spain/gua-de-isora/gua-de-isora/restaurants",
+  "canonicalPath": "/spain/gua-de-isora/gua-de-isora/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "M.B",
       "cuisine": "Contemporary",
       "price": "€€€€",
-      "path": "/spain/gua-de-isora/gua-de-isora/mb"
+      "path": "/spain/gua-de-isora/gua-de-isora/mb",
+      "award": "★★"
     },
     {
       "name": "Txoko",

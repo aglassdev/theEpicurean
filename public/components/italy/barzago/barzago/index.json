@@ -1,8 +1,14 @@
 {
   "title": "Barzago",
-  "country": "italy",
-  "region": "barzago",
-  "city": "barzago",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "barzago",
+  "city": "Barzago",
+  "citySlug": "barzago",
+  "path": "/italy/barzago/barzago/restaurants",
+  "canonicalPath": "/italy/barzago/barzago/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Osteria Manzoni",

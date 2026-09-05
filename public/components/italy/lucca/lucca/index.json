@@ -1,8 +1,14 @@
 {
   "title": "Lucca",
-  "country": "italy",
-  "region": "lucca",
-  "city": "lucca",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "lucca",
+  "city": "Lucca",
+  "citySlug": "lucca",
+  "path": "/italy/lucca/lucca/restaurants",
+  "canonicalPath": "/italy/lucca/lucca/restaurants",
+  "count": 7,
   "restaurants": [
     {
       "name": "All'Olivo",

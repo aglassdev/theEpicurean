@@ -1,14 +1,21 @@
 {
   "title": "Sint Willebrord",
-  "country": "netherlands",
-  "region": "sint-willebrord",
-  "city": "sint-willebrord",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "sint-willebrord",
+  "city": "Sint Willebrord",
+  "citySlug": "sint-willebrord",
+  "path": "/netherlands/sint-willebrord/sint-willebrord/restaurants",
+  "canonicalPath": "/netherlands/sint-willebrord/sint-willebrord/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "O&O",
       "cuisine": "Asian, Asian Influences",
       "price": "€€€€",
-      "path": "/netherlands/sint-willebrord/sint-willebrord/oo"
+      "path": "/netherlands/sint-willebrord/sint-willebrord/oo",
+      "award": "★"
     }
   ]
 }

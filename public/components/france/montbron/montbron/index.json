@@ -1,14 +1,21 @@
 {
   "title": "Montbron",
-  "country": "france",
-  "region": "montbron",
-  "city": "montbron",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montbron",
+  "city": "Montbron",
+  "citySlug": "montbron",
+  "path": "/france/montbron/montbron/restaurants",
+  "canonicalPath": "/france/montbron/montbron/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Moulin de la Tardoire",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/montbron/montbron/moulin-de-la-tardoire"
+      "path": "/france/montbron/montbron/moulin-de-la-tardoire",
+      "award": "★"
     }
   ]
 }

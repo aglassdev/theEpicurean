@@ -1,8 +1,14 @@
 {
   "title": "La Flche",
-  "country": "france",
-  "region": "la-flche",
-  "city": "la-flche",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-flche",
+  "city": "La Flche",
+  "citySlug": "la-flche",
+  "path": "/france/la-flche/la-flche/restaurants",
+  "canonicalPath": "/france/la-flche/la-flche/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Moulin des Quatre Saisons",

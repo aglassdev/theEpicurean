@@ -1,11 +1,47 @@
 {
   "title": "Viareggio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "viareggio",
+  "city": "Viareggio",
+  "citySlug": "viareggio",
+  "path": "/italy/viareggio/viareggio/restaurants",
+  "canonicalPath": "/italy/viareggio/viareggio/restaurants",
+  "count": 8,
   "restaurants": [
+    {
+      "name": "Il Piccolo Principe",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/viareggio/viareggio/il-piccolo-principe",
+      "award": "★★"
+    },
+    {
+      "name": "Lunasia",
+      "cuisine": "Modern Cuisine, Country cooking",
+      "price": "€€€€",
+      "path": "/italy/viareggio/viareggio/lunasia",
+      "award": "★"
+    },
+    {
+      "name": "Romano",
+      "cuisine": "Seafood",
+      "price": "€€€€",
+      "path": "/italy/viareggio/viareggio/romano",
+      "award": "★"
+    },
     {
       "name": "Da Miro alla Lanterna",
       "cuisine": "Seafood, Traditional Cuisine",
       "price": "€€€",
       "path": "/italy/viareggio/viareggio/da-miro-alla-lanterna"
+    },
+    {
+      "name": "Giardino di Mari",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/italy/viareggio/viareggio/giardino-di-mari"
     },
     {
       "name": "Henri Restaurant",
@@ -14,40 +50,16 @@
       "path": "/italy/viareggio/viareggio/henri-restaurant"
     },
     {
-      "name": "Il Piccolo Principe",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/viareggio/viareggio/il-piccolo-principe"
-    },
-    {
-      "name": "Lunasia",
-      "cuisine": "Modern Cuisine, Country cooking",
-      "price": "€€€€",
-      "path": "/italy/viareggio/viareggio/lunasia"
-    },
-    {
       "name": "MaMe Restaurant",
       "cuisine": "Seafood, Modern Cuisine",
       "price": "€€",
       "path": "/italy/viareggio/viareggio/mame-restaurant"
     },
     {
-      "name": "Romano",
-      "cuisine": "Seafood",
-      "price": "€€€€",
-      "path": "/italy/viareggio/viareggio/romano"
-    },
-    {
       "name": "Teresita by Giardino di Mari",
       "cuisine": "Seafood, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/italy/viareggio/viareggio/teresita-by-giardino-di-mari"
-    },
-    {
-      "name": "Giardino di Mari",
-      "cuisine": "Seafood",
-      "price": "$$$",
-      "path": "/italy/viareggio/viareggio/GiardinoDiMari"
     }
   ]
 }

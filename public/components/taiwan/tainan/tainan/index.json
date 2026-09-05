@@ -1,365 +1,405 @@
 {
   "title": "Tainan",
+  "country": "Taiwan",
+  "countrySlug": "taiwan",
+  "region": null,
+  "regionSlug": "tainan",
+  "city": "Tainan",
+  "citySlug": "tainan",
+  "path": "/taiwan/tainan/tainan/restaurants",
+  "canonicalPath": "/taiwan/tainan/tainan/restaurants",
+  "count": 60,
   "restaurants": [
     {
       "name": "Yu Dao",
       "cuisine": "Taiwanese contemporary",
       "price": "$$$$",
-      "path": "/taiwan/tainan/tainan/YuDao"
+      "path": "/taiwan/tainan/tainan/yu-dao",
+      "award": "★"
     },
     {
       "name": "A Hsing Congee",
       "cuisine": "Congee",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/AHsingCongee"
+      "path": "/taiwan/tainan/tainan/a-hsing-congee",
+      "award": "Bib Gourmand"
     },
     {
       "name": "A Wen Rice Cake",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/AWenRiceCake"
+      "path": "/taiwan/tainan/tainan/a-wen-rice-cake",
+      "award": "Bib Gourmand"
     },
     {
       "name": "A Xing Shi Mu Yu",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/AXingShiMuYu"
+      "path": "/taiwan/tainan/tainan/a-xing-shi-mu-yu",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Amei",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/Amei"
+      "path": "/taiwan/tainan/tainan/amei",
+      "award": "Bib Gourmand"
     },
     {
       "name": "BAA Wanli Goat",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/BaaWanliGoat"
+      "path": "/taiwan/tainan/tainan/baa-wanli-goat",
+      "award": "Bib Gourmand"
     },
     {
       "name": "CHAN CHI",
       "cuisine": "Taiwanese",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/ChanChi"
+      "path": "/taiwan/tainan/tainan/chan-chi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Chang Ying Seafood House",
       "cuisine": "Small eats",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/ChangYingSeafoodHouse"
+      "path": "/taiwan/tainan/tainan/chang-ying-seafood-house",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Cheng Shi",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/ChengShi"
+      "path": "/taiwan/tainan/tainan/cheng-shi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Dayong Street No Name Congee",
       "cuisine": "Congee",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/DayongStreetNoNameCongee"
+      "path": "/taiwan/tainan/tainan/dayong-street-no-name-congee",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Eat to Fat",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/EatToFat"
+      "path": "/taiwan/tainan/tainan/eat-to-fat",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Fu Tai Table Third Generation",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/FuTaiTableThirdGeneration"
+      "path": "/taiwan/tainan/tainan/fu-tai-table-third-generation",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hao Nung Chia Migao",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/HaoNungChiaMigao"
+      "path": "/taiwan/tainan/tainan/hao-nung-chia-migao",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hsi Lo Tien Beef Soup",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/HsiLoTienBeefSoup"
+      "path": "/taiwan/tainan/tainan/hsi-lo-tien-beef-soup",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Huang Chia Shrimp Roll",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/HuangChiaShrimpRoll"
+      "path": "/taiwan/tainan/tainan/huang-chia-shrimp-roll",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Jai Mi Ba",
       "cuisine": "Noodles",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/JaiMiBa"
+      "path": "/taiwan/tainan/tainan/jai-mi-ba",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Kaiyuan Red-cook Spanish Mackerel",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/KaiyuanRedcookSpanishMackerel"
+      "path": "/taiwan/tainan/tainan/kaiyuan-redcook-spanish-mackerel",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Lien Wu Chiao Lamb Soup",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/LienWuChiaoLambSoup"
+      "path": "/taiwan/tainan/tainan/lien-wu-chiao-lamb-soup",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Lo Cheng Migao",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/LoChengMigao"
+      "path": "/taiwan/tainan/tainan/lo-cheng-migao",
+      "award": "Bib Gourmand"
     },
     {
       "name": "No Name Lamb Soup",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/NoNameLambSoup"
+      "path": "/taiwan/tainan/tainan/no-name-lamb-soup",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Po Jen Tang",
       "cuisine": "Taiwanese",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/PoJenTang"
+      "path": "/taiwan/tainan/tainan/po-jen-tang",
+      "award": "Bib Gourmand"
     },
     {
       "name": "San Hao Yi Kung Tao Angelica Duck",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/SanHaoYiKungTaoAngelicaDuck"
+      "path": "/taiwan/tainan/tainan/san-hao-yi-kung-tao-angelica-duck",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Shang Hao Chih Beef Soup",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/ShangHaoChihBeefSoup"
+      "path": "/taiwan/tainan/tainan/shang-hao-chih-beef-soup",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Shian Jeng Shrimp Bawan",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/ShianJengShrimpBawan"
+      "path": "/taiwan/tainan/tainan/shian-jeng-shrimp-bawan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Small Park Danzai Noodles",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/SmallParkDanzaiNoodles"
+      "path": "/taiwan/tainan/tainan/small-park-danzai-noodles",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Xie Shopkeeper",
       "cuisine": "Small eats",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/XieShopkeeper"
+      "path": "/taiwan/tainan/tainan/xie-shopkeeper",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yeh Jia Calamari Rice Noodle Soup",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/YehJiaCalamariRiceNoodleSoup"
+      "path": "/taiwan/tainan/tainan/yeh-jia-calamari-rice-noodle-soup",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yeh San Duck Thick Soup",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/YehSanDuckThickSoup"
+      "path": "/taiwan/tainan/tainan/yeh-san-duck-thick-soup",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yi Wei Pin",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/YiWeiPin"
+      "path": "/taiwan/tainan/tainan/yi-wei-pin",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yuan Zai Hui (Guohua Street)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/YuanZaiHuiGuohuaStreet"
+      "path": "/taiwan/tainan/tainan/yuan-zai-hui-guohua-street",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Zhu-Ji Dong Tsai Ya",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/ZhujiDongTsaiYa"
+      "path": "/taiwan/tainan/tainan/zhuji-dong-tsai-ya",
+      "award": "Bib Gourmand"
     },
     {
       "name": "A Cun Beef Soup (Baoan Road)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/ACunBeefSoupBaoanRoad"
+      "path": "/taiwan/tainan/tainan/a-cun-beef-soup-baoan-road"
     },
     {
       "name": "A Hai Taiwanese Oden",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/AHaiTaiwaneseOden"
+      "path": "/taiwan/tainan/tainan/a-hai-taiwanese-oden"
     },
     {
       "name": "A Ming Zhu Xing (Baoan Road)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/AMingZhuXingBaoanRoad"
+      "path": "/taiwan/tainan/tainan/a-ming-zhu-xing-baoan-road"
     },
     {
       "name": "A-Yu Beef Shabu Shabu",
       "cuisine": "Hotpot",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/AyuBeefShabuShabu"
+      "path": "/taiwan/tainan/tainan/ayu-beef-shabu-shabu"
     },
     {
       "name": "Black-faced Spoonbill Canteen",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/BlackfacedSpoonbillCanteen"
+      "path": "/taiwan/tainan/tainan/blackfaced-spoonbill-canteen"
     },
     {
       "name": "Chuan Chia Congee",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/ChuanChiaCongee"
+      "path": "/taiwan/tainan/tainan/chuan-chia-congee"
     },
     {
       "name": "Chuan Tai Hao Milkfish Ball",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/ChuanTaiHaoMilkfishBall"
+      "path": "/taiwan/tainan/tainan/chuan-tai-hao-milkfish-ball"
     },
     {
       "name": "Di Yi Ding",
       "cuisine": "Seafood",
       "price": "$$$",
-      "path": "/taiwan/tainan/tainan/DiYiDing"
+      "path": "/taiwan/tainan/tainan/di-yi-ding"
     },
     {
       "name": "Eastern Castle Noodles",
       "cuisine": "Small eats",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/EasternCastleNoodles"
-    },
-    {
-      "name": "FUKAI",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/taiwan/tainan/tainan/Fukai"
+      "path": "/taiwan/tainan/tainan/eastern-castle-noodles"
     },
     {
       "name": "Feng No Seafood",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/FengNoSeafood"
+      "path": "/taiwan/tainan/tainan/feng-no-seafood"
+    },
+    {
+      "name": "FUKAI",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/taiwan/tainan/tainan/fukai"
     },
     {
       "name": "Good Hunan Cuisine",
       "cuisine": "Hunanese",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/GoodHunanCuisine"
+      "path": "/taiwan/tainan/tainan/good-hunan-cuisine"
     },
     {
       "name": "Hara Peko",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/taiwan/tainan/tainan/HaraPeko"
+      "path": "/taiwan/tainan/tainan/hara-peko"
     },
     {
       "name": "Jyu Dim",
       "cuisine": "Dim Sum",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/JyuDim"
+      "path": "/taiwan/tainan/tainan/jyu-dim"
     },
     {
       "name": "Kaiyuan Road No Name Milkfish",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/KaiyuanRoadNoNameMilkfish"
+      "path": "/taiwan/tainan/tainan/kaiyuan-road-no-name-milkfish"
     },
     {
       "name": "L'herbe",
       "cuisine": "European Contemporary",
       "price": "$$$",
-      "path": "/taiwan/tainan/tainan/Lherbe"
+      "path": "/taiwan/tainan/tainan/lherbe"
     },
     {
       "name": "Liang Liang Table",
       "cuisine": "European Contemporary",
       "price": "$$$",
-      "path": "/taiwan/tainan/tainan/LiangLiangTable"
+      "path": "/taiwan/tainan/tainan/liang-liang-table"
     },
     {
       "name": "Maan",
       "cuisine": "European Contemporary",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/Maan"
+      "path": "/taiwan/tainan/tainan/maan"
     },
     {
       "name": "Mao Su",
       "cuisine": "Vegetarian",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/MaoSu"
+      "path": "/taiwan/tainan/tainan/mao-su"
     },
     {
       "name": "Mayu Cocoon",
       "cuisine": "Creative",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/MayuCocoon"
+      "path": "/taiwan/tainan/tainan/mayu-cocoon"
     },
     {
       "name": "Musa",
       "cuisine": "Thai",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/Musa"
+      "path": "/taiwan/tainan/tainan/musa"
     },
     {
       "name": "Principe",
       "cuisine": "French Contemporary",
       "price": "$$$",
-      "path": "/taiwan/tainan/tainan/Principe"
+      "path": "/taiwan/tainan/tainan/principe"
     },
     {
       "name": "Shun Te Beef Soup",
       "cuisine": "Small eats",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/ShunTeBeefSoup"
+      "path": "/taiwan/tainan/tainan/shun-te-beef-soup"
     },
     {
       "name": "The Temple-front Eatery",
       "cuisine": "Taiwanese",
       "price": "$",
-      "path": "/taiwan/tainan/tainan/TheTemplefrontEatery"
+      "path": "/taiwan/tainan/tainan/the-templefront-eatery"
     },
     {
       "name": "Tucheng Seafood",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/TuchengSeafood"
+      "path": "/taiwan/tainan/tainan/tucheng-seafood"
     },
     {
       "name": "Wang Jia Smoked Lamb",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/WangJiaSmokedLamb"
+      "path": "/taiwan/tainan/tainan/wang-jia-smoked-lamb"
     },
     {
       "name": "Wenpapa Goose",
       "cuisine": "Small eats",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/WenpapaGoose"
+      "path": "/taiwan/tainan/tainan/wenpapa-goose"
     },
     {
       "name": "Yang Mei Tu Chi",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/YangMeiTuChi"
+      "path": "/taiwan/tainan/tainan/yang-mei-tu-chi"
     },
     {
       "name": "Zhu Xin Ju",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/tainan/tainan/ZhuXinJu"
+      "path": "/taiwan/tainan/tainan/zhu-xin-ju"
     }
   ]
 }

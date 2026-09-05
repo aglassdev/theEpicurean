@@ -1,6 +1,29 @@
 {
   "title": "Rennes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "rennes",
+  "city": "Rennes",
+  "citySlug": "rennes",
+  "path": "/france/rennes/rennes/restaurants",
+  "canonicalPath": "/france/rennes/rennes/restaurants",
+  "count": 14,
   "restaurants": [
+    {
+      "name": "Ima",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/rennes/rennes/ima",
+      "award": "★"
+    },
+    {
+      "name": "Racines",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/rennes/rennes/racines",
+      "award": "★"
+    },
     {
       "name": "Bombance",
       "cuisine": "Modern Cuisine",
@@ -26,16 +49,22 @@
       "path": "/france/rennes/rennes/fezi"
     },
     {
-      "name": "Ima",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/rennes/rennes/ima"
+      "name": "Jozy",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/rennes/rennes/jozy"
     },
     {
       "name": "La Petite Ourse",
       "cuisine": "Farm to table",
       "price": "€",
       "path": "/france/rennes/rennes/la-petite-ourse"
+    },
+    {
+      "name": "La Table de Balthazar",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/rennes/rennes/la-table-de-balthazar"
     },
     {
       "name": "La Table du Balthazar",
@@ -47,13 +76,13 @@
       "name": "Le Paris-Brest",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/rennes/rennes/le-paris-brest"
+      "path": "/france/rennes/rennes/le-parisbrest"
     },
     {
       "name": "Le Paris-Brest by Christian Le Squer",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/rennes/rennes/le-paris-brest-by-christian-le-squer"
+      "path": "/france/rennes/rennes/le-parisbrest-by-christian-le-squer"
     },
     {
       "name": "POF",
@@ -62,28 +91,10 @@
       "path": "/france/rennes/rennes/pof"
     },
     {
-      "name": "Racines",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/rennes/rennes/racines"
-    },
-    {
       "name": "YOKO",
       "cuisine": "Japanese",
       "price": "€",
       "path": "/france/rennes/rennes/yoko"
-    },
-    {
-      "name": "Jozy",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/rennes/rennes/Jozy"
-    },
-    {
-      "name": "La Table de Balthazar",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/france/rennes/rennes/LaTableDeBalthazar"
     }
   ]
 }

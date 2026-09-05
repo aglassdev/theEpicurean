@@ -1,11 +1,55 @@
 {
   "title": "Gothenburg",
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "region": null,
+  "regionSlug": "gothenburg",
+  "city": "Gothenburg",
+  "citySlug": "gothenburg",
+  "path": "/sweden/gothenburg/gothenburg/restaurants",
+  "canonicalPath": "/sweden/gothenburg/gothenburg/restaurants",
+  "count": 17,
   "restaurants": [
     {
       "name": "28+",
       "cuisine": "Modern Cuisine, Classic French",
       "price": "€€",
-      "path": "/sweden/gothenburg/gothenburg/28"
+      "path": "/sweden/gothenburg/gothenburg/28",
+      "award": "★"
+    },
+    {
+      "name": "HOZE",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/sweden/gothenburg/gothenburg/hoze",
+      "award": "★"
+    },
+    {
+      "name": "Koka",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/sweden/gothenburg/gothenburg/koka",
+      "award": "★"
+    },
+    {
+      "name": "Project",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/sweden/gothenburg/gothenburg/project",
+      "award": "★"
+    },
+    {
+      "name": "SK Mat & Människor",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/sweden/gothenburg/gothenburg/sk-mat-mnniskor",
+      "award": "★"
+    },
+    {
+      "name": "bhoga",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/sweden/gothenburg/gothenburg/bhoga"
     },
     {
       "name": "Bulot",
@@ -26,12 +70,6 @@
       "path": "/sweden/gothenburg/gothenburg/familjen"
     },
     {
-      "name": "HOZE",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/sweden/gothenburg/gothenburg/hoze"
-    },
-    {
       "name": "Human",
       "cuisine": "Creative",
       "price": "€€€",
@@ -42,12 +80,6 @@
       "cuisine": "Japanese",
       "price": "€€€",
       "path": "/sweden/gothenburg/gothenburg/koizen"
-    },
-    {
-      "name": "Koka",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/sweden/gothenburg/gothenburg/koka"
     },
     {
       "name": "La Cucina Italiana",
@@ -62,12 +94,6 @@
       "path": "/sweden/gothenburg/gothenburg/poppy"
     },
     {
-      "name": "Project",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/sweden/gothenburg/gothenburg/project"
-    },
-    {
       "name": "Restaurant vRÅ",
       "cuisine": "Fusion",
       "price": "€",
@@ -77,13 +103,7 @@
       "name": "Sjömagasinet",
       "cuisine": "Seafood",
       "price": "€€",
-      "path": "/sweden/gothenburg/gothenburg/sjmagasinet"
-    },
-    {
-      "name": "SK Mat & Människor",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/sweden/gothenburg/gothenburg/sk-mat-mnniskor"
+      "path": "/sweden/gothenburg/gothenburg/sjmagasinet-g-o-t"
     },
     {
       "name": "Tavolo",
@@ -96,12 +116,6 @@
       "cuisine": "Italian",
       "price": "€€",
       "path": "/sweden/gothenburg/gothenburg/trattoria-la-strega"
-    },
-    {
-      "name": "bhoga",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/sweden/gothenburg/gothenburg/Bhoga"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Saint Lary Soulan",
-  "country": "france",
-  "region": "saint-lary-soulan",
-  "city": "saint-lary-soulan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-lary-soulan",
+  "city": "Saint Lary Soulan",
+  "citySlug": "saint-lary-soulan",
+  "path": "/france/saint-lary-soulan/saint-lary-soulan/restaurants",
+  "canonicalPath": "/france/saint-lary-soulan/saint-lary-soulan/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Grange",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/saint-lary-soulan/saint-lary-soulan/la-grange"
+      "path": "/france/saint-lary-soulan/saint-lary-soulan/la-grange-s-a-i"
     }
   ]
 }

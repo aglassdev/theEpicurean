@@ -1,14 +1,20 @@
 {
   "title": "Gest",
-  "country": "france",
-  "region": "gest",
-  "city": "gest",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gest",
+  "city": "Gest",
+  "citySlug": "gest",
+  "path": "/france/gest/gest/restaurants",
+  "canonicalPath": "/france/gest/gest/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le 1825 - La Table",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/gest/gest/le-1825-la-table"
+      "path": "/france/gest/gest/le1825-la-table"
     }
   ]
 }

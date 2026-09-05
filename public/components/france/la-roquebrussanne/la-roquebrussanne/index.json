@@ -1,11 +1,20 @@
 {
   "title": "La Roquebrussanne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-roquebrussanne",
+  "city": "La Roquebrussanne",
+  "citySlug": "la-roquebrussanne",
+  "path": "/france/la-roquebrussanne/la-roquebrussanne/restaurants",
+  "canonicalPath": "/france/la-roquebrussanne/la-roquebrussanne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table du Baguier",
       "cuisine": "Provençal",
       "price": "$$$",
-      "path": "/france/la-roquebrussanne/la-roquebrussanne/LaTableDuBaguier"
+      "path": "/france/la-roquebrussanne/la-roquebrussanne/la-table-du-baguier"
     }
   ]
 }

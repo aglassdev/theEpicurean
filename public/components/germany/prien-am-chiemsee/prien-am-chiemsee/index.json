@@ -1,14 +1,21 @@
 {
-  "title": "Prien Am Chiemsee",
-  "country": "germany",
-  "region": "prien-am-chiemsee",
-  "city": "prien-am-chiemsee",
+  "title": "Prien am Chiemsee",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "prien-am-chiemsee",
+  "city": "Prien am Chiemsee",
+  "citySlug": "prien-am-chiemsee",
+  "path": "/germany/prien-am-chiemsee/prien-am-chiemsee/restaurants",
+  "canonicalPath": "/germany/prien-am-chiemsee/prien-am-chiemsee/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Wachter Foodbar",
       "cuisine": "Modern Cuisine, Regional Cuisine",
       "price": "€€€€",
-      "path": "/germany/prien-am-chiemsee/prien-am-chiemsee/wachter-foodbar"
+      "path": "/germany/prien-am-chiemsee/prien-am-chiemsee/wachter-foodbar",
+      "award": "★"
     },
     {
       "name": "Zum Fischer am See",

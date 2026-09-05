@@ -1,9 +1,22 @@
 {
   "title": "Nijmegen",
-  "country": "netherlands",
-  "region": "nijmegen",
-  "city": "nijmegen",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "nijmegen",
+  "city": "Nijmegen",
+  "citySlug": "nijmegen",
+  "path": "/netherlands/nijmegen/nijmegen/restaurants",
+  "canonicalPath": "/netherlands/nijmegen/nijmegen/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "De Nieuwe Winkel",
+      "cuisine": "Organic, Vegan",
+      "price": "€€€€",
+      "path": "/netherlands/nijmegen/nijmegen/de-nieuwe-winkel",
+      "award": "★★"
+    },
     {
       "name": "Bistrobar Berlin",
       "cuisine": "Modern Cuisine, Sharing",
@@ -15,18 +28,6 @@
       "cuisine": "French, Traditional Cuisine",
       "price": "€€",
       "path": "/netherlands/nijmegen/nijmegen/bistrot-regent"
-    },
-    {
-      "name": "De Nieuwe Winkel",
-      "cuisine": "Organic, Vegan",
-      "price": "€€€€",
-      "path": "/netherlands/nijmegen/nijmegen/de-nieuwe-winkel"
-    },
-    {
-      "name": "Flores",
-      "cuisine": "Country cooking, Contemporary",
-      "price": "€€€",
-      "path": "/netherlands/nijmegen/nijmegen/flores"
     },
     {
       "name": "Flores",

@@ -1,14 +1,21 @@
 {
   "title": "Bacoli",
-  "country": "italy",
-  "region": "bacoli",
-  "city": "bacoli",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bacoli",
+  "city": "Bacoli",
+  "citySlug": "bacoli",
+  "path": "/italy/bacoli/bacoli/restaurants",
+  "canonicalPath": "/italy/bacoli/bacoli/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Caracol",
       "cuisine": "Mediterranean Cuisine, Creative",
       "price": "€€€€",
-      "path": "/italy/bacoli/bacoli/caracol"
+      "path": "/italy/bacoli/bacoli/caracol",
+      "award": "★"
     },
     {
       "name": "Riccio Restaurant",

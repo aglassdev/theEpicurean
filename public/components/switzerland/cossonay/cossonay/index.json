@@ -1,14 +1,20 @@
 {
   "title": "Cossonay",
-  "country": "switzerland",
-  "region": "cossonay",
-  "city": "cossonay",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "cossonay",
+  "city": "Cossonay",
+  "citySlug": "cossonay",
+  "path": "/switzerland/cossonay/cossonay/restaurants",
+  "canonicalPath": "/switzerland/cossonay/cossonay/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Fleur de Sel",
       "cuisine": "Modern Cuisine, French",
       "price": "€€",
-      "path": "/switzerland/cossonay/cossonay/la-fleur-de-sel"
+      "path": "/switzerland/cossonay/cossonay/la-fleur-de-sel-c-o-s"
     }
   ]
 }

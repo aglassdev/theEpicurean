@@ -1,8 +1,14 @@
 {
   "title": "Vetrego",
-  "country": "italy",
-  "region": "vetrego",
-  "city": "vetrego",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "vetrego",
+  "city": "Vetrego",
+  "citySlug": "vetrego",
+  "path": "/italy/vetrego/vetrego/restaurants",
+  "canonicalPath": "/italy/vetrego/vetrego/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Sogno",

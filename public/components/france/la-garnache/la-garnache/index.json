@@ -1,8 +1,14 @@
 {
   "title": "La Garnache",
-  "country": "france",
-  "region": "la-garnache",
-  "city": "la-garnache",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-garnache",
+  "city": "La Garnache",
+  "citySlug": "la-garnache",
+  "path": "/france/la-garnache/la-garnache/restaurants",
+  "canonicalPath": "/france/la-garnache/la-garnache/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Petit Saint Thomas",

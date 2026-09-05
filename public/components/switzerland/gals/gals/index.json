@@ -1,8 +1,14 @@
 {
   "title": "Gals",
-  "country": "switzerland",
-  "region": "gals",
-  "city": "gals",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "gals",
+  "city": "Gals",
+  "citySlug": "gals",
+  "path": "/switzerland/gals/gals/restaurants",
+  "canonicalPath": "/switzerland/gals/gals/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Kreuz",

@@ -1,20 +1,27 @@
 {
   "title": "Civitella Casanova",
-  "country": "italy",
-  "region": "civitella-casanova",
-  "city": "civitella-casanova",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "civitella-casanova",
+  "city": "Civitella Casanova",
+  "citySlug": "civitella-casanova",
+  "path": "/italy/civitella-casanova/civitella-casanova/restaurants",
+  "canonicalPath": "/italy/civitella-casanova/civitella-casanova/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "La Bandiera",
+      "cuisine": "Cuisine from Abruzzo, Contemporary",
+      "price": "€€€",
+      "path": "/italy/civitella-casanova/civitella-casanova/la-bandiera",
+      "award": "★"
+    },
     {
       "name": "Il Ritrovo d'Abruzzo",
       "cuisine": "Country cooking, Modern Cuisine",
       "price": "€€",
       "path": "/italy/civitella-casanova/civitella-casanova/il-ritrovo-dabruzzo"
-    },
-    {
-      "name": "La Bandiera",
-      "cuisine": "Cuisine from Abruzzo, Contemporary",
-      "price": "€€€",
-      "path": "/italy/civitella-casanova/civitella-casanova/la-bandiera"
     }
   ]
 }

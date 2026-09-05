@@ -1,8 +1,14 @@
 {
   "title": "Montagne",
-  "country": "france",
-  "region": "montagne",
-  "city": "montagne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montagne",
+  "city": "Montagne",
+  "citySlug": "montagne",
+  "path": "/france/montagne/montagne/restaurants",
+  "canonicalPath": "/france/montagne/montagne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Réserve du Presbytère",

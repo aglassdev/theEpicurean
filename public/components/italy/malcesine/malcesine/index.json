@@ -1,14 +1,21 @@
 {
   "title": "Malcesine",
-  "country": "italy",
-  "region": "malcesine",
-  "city": "malcesine",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "malcesine",
+  "city": "Malcesine",
+  "citySlug": "malcesine",
+  "path": "/italy/malcesine/malcesine/restaurants",
+  "canonicalPath": "/italy/malcesine/malcesine/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vecchia Malcesine",
       "cuisine": "Country cooking, Creative",
       "price": "€€€€",
-      "path": "/italy/malcesine/malcesine/vecchia-malcesine"
+      "path": "/italy/malcesine/malcesine/vecchia-malcesine",
+      "award": "★"
     }
   ]
 }

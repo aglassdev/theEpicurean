@@ -1,14 +1,21 @@
 {
   "title": "Santarm",
-  "country": "portugal",
-  "region": "santarm",
-  "city": "santarm",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "santarm",
+  "city": "Santarm",
+  "citySlug": "santarm",
+  "path": "/portugal/santarm/santarm/restaurants",
+  "canonicalPath": "/portugal/santarm/santarm/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ó Balcão",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/portugal/santarm/santarm/balco"
+      "path": "/portugal/santarm/santarm/balco",
+      "award": "★"
     }
   ]
 }

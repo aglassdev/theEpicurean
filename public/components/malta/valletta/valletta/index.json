@@ -1,9 +1,36 @@
 {
   "title": "Valletta",
-  "country": "malta",
-  "region": "valletta",
-  "city": "valletta",
+  "country": "Malta",
+  "countrySlug": "malta",
+  "region": null,
+  "regionSlug": "valletta",
+  "city": "Valletta",
+  "citySlug": "valletta",
+  "path": "/malta/valletta/valletta/restaurants",
+  "canonicalPath": "/malta/valletta/valletta/restaurants",
+  "count": 15,
   "restaurants": [
+    {
+      "name": "ION Harbour by Simon Rogan",
+      "cuisine": "Contemporary, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/malta/valletta/valletta/ion-harbour-by-simon-rogan",
+      "award": "★★"
+    },
+    {
+      "name": "Noni",
+      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/malta/valletta/valletta/noni",
+      "award": "★"
+    },
+    {
+      "name": "Under Grain",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/malta/valletta/valletta/under-grain",
+      "award": "★"
+    },
     {
       "name": "59 Republic",
       "cuisine": "Classic Cuisine, International",
@@ -35,12 +62,6 @@
       "path": "/malta/valletta/valletta/guz"
     },
     {
-      "name": "ION Harbour by Simon Rogan",
-      "cuisine": "Contemporary, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/malta/valletta/valletta/ion-harbour-by-simon-rogan"
-    },
-    {
       "name": "Kaiseki",
       "cuisine": "Mediterranean Cuisine, Asian Influences",
       "price": "€€",
@@ -57,12 +78,6 @@
       "cuisine": "Regional Cuisine, Mediterranean Cuisine",
       "price": "€€",
       "path": "/malta/valletta/valletta/legligin"
-    },
-    {
-      "name": "Noni",
-      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/malta/valletta/valletta/noni"
     },
     {
       "name": "One80 St.Christopher Street",
@@ -87,12 +102,6 @@
       "cuisine": "Modern Cuisine, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/malta/valletta/valletta/the-harbour-club"
-    },
-    {
-      "name": "Under Grain",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€",
-      "path": "/malta/valletta/valletta/under-grain"
     }
   ]
 }

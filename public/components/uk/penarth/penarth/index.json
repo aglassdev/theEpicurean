@@ -1,17 +1,27 @@
 {
   "title": "Penarth",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "penarth",
+  "city": "Penarth",
+  "citySlug": "penarth",
+  "path": "/uk/penarth/penarth/restaurants",
+  "canonicalPath": "/uk/penarth/penarth/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Home",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/uk/penarth/penarth/home",
+      "award": "★"
+    },
     {
       "name": "Touring Club",
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/penarth/penarth/touring-club"
-    },
-    {
-      "name": "Home",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/uk/penarth/penarth/Home"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Fondo",
-  "country": "italy",
-  "region": "fondo",
-  "city": "fondo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "fondo",
+  "city": "Fondo",
+  "citySlug": "fondo",
+  "path": "/italy/fondo/fondo/restaurants",
+  "canonicalPath": "/italy/fondo/fondo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Alle Ciaspole",

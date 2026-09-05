@@ -1,20 +1,27 @@
 {
   "title": "Sabran",
-  "country": "france",
-  "region": "sabran",
-  "city": "sabran",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sabran",
+  "city": "Sabran",
+  "citySlug": "sabran",
+  "path": "/france/sabran/sabran/restaurants",
+  "canonicalPath": "/france/sabran/sabran/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Cèdre de Montcaud",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/sabran/sabran/le-cdre-de-montcaud",
+      "award": "★"
+    },
     {
       "name": "Bistro de Montcaud",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/sabran/sabran/bistro-de-montcaud"
-    },
-    {
-      "name": "Le Cèdre de Montcaud",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/sabran/sabran/le-cdre-de-montcaud"
     }
   ]
 }

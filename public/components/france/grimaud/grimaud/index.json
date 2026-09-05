@@ -1,8 +1,14 @@
 {
   "title": "Grimaud",
-  "country": "france",
-  "region": "grimaud",
-  "city": "grimaud",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "grimaud",
+  "city": "Grimaud",
+  "citySlug": "grimaud",
+  "path": "/france/grimaud/grimaud/restaurants",
+  "canonicalPath": "/france/grimaud/grimaud/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Les Santons",

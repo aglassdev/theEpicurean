@@ -1,9 +1,29 @@
 {
   "title": "Uccle",
-  "country": "belgium",
-  "region": "uccle",
-  "city": "uccle",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "uccle",
+  "city": "Uccle",
+  "citySlug": "uccle",
+  "path": "/belgium/uccle/uccle/restaurants",
+  "canonicalPath": "/belgium/uccle/uccle/restaurants",
+  "count": 12,
   "restaurants": [
+    {
+      "name": "Le Chalet de la Forêt",
+      "cuisine": "Creative, Modern French",
+      "price": "€€€€",
+      "path": "/belgium/uccle/uccle/le-chalet-de-la-fort",
+      "award": "★★"
+    },
+    {
+      "name": "Le Pigeon Noir",
+      "cuisine": "Country cooking, Classic French",
+      "price": "€€€",
+      "path": "/belgium/uccle/uccle/le-pigeon-noir",
+      "award": "★"
+    },
     {
       "name": "Au repos de la montagne",
       "cuisine": "Traditional Cuisine",
@@ -47,22 +67,10 @@
       "path": "/belgium/uccle/uccle/la-branche-dolivier"
     },
     {
-      "name": "Le Chalet de la Forêt",
-      "cuisine": "Creative, Modern French",
-      "price": "€€€€",
-      "path": "/belgium/uccle/uccle/le-chalet-de-la-fort"
-    },
-    {
       "name": "Le Passage",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
       "path": "/belgium/uccle/uccle/le-passage"
-    },
-    {
-      "name": "Le Pigeon Noir",
-      "cuisine": "Country cooking, Classic French",
-      "price": "€€€",
-      "path": "/belgium/uccle/uccle/le-pigeon-noir"
     },
     {
       "name": "St Kilda",

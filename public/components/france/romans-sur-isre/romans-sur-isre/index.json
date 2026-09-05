@@ -1,14 +1,20 @@
 {
-  "title": "Romans Sur Isre",
-  "country": "france",
-  "region": "romans-sur-isre",
-  "city": "romans-sur-isre",
+  "title": "Romans sur Isre",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "romans-sur-isre",
+  "city": "Romans sur Isre",
+  "citySlug": "romans-sur-isre",
+  "path": "/france/romans-sur-isre/romans-sur-isre/restaurants",
+  "canonicalPath": "/france/romans-sur-isre/romans-sur-isre/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Instant",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/romans-sur-isre/romans-sur-isre/linstant"
+      "path": "/france/romans-sur-isre/romans-sur-isre/linstant-r-o-m"
     }
   ]
 }

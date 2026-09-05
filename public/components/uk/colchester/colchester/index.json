@@ -1,8 +1,14 @@
 {
   "title": "Colchester",
-  "country": "uk",
-  "region": "colchester",
-  "city": "colchester",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "colchester",
+  "city": "Colchester",
+  "citySlug": "colchester",
+  "path": "/uk/colchester/colchester/restaurants",
+  "canonicalPath": "/uk/colchester/colchester/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Church Street Tavern",

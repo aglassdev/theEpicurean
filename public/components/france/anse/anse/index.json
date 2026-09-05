@@ -1,5 +1,14 @@
 {
   "title": "Anse",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "anse",
+  "city": "Anse",
+  "citySlug": "anse",
+  "path": "/france/anse/anse/restaurants",
+  "canonicalPath": "/france/anse/anse/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Au Colombier",
@@ -11,7 +20,7 @@
       "name": "Café Terroir Chez Saint-Cyr",
       "cuisine": "Country cooking",
       "price": "$$",
-      "path": "/france/anse/anse/CafTerroirChezSaintcyr"
+      "path": "/france/anse/anse/caf-terroir-chez-saintcyr"
     }
   ]
 }

@@ -1,11 +1,21 @@
 {
   "title": "North Miami",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "North Miami",
+  "citySlug": "north-miami",
+  "path": "/usa/florida/north-miami/restaurants",
+  "canonicalPath": "/usa/florida/north-miami/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mutra",
       "cuisine": "Middle Eastern",
       "price": "$$$$",
-      "path": "/usa/florida/north-miami/Mutra"
+      "path": "/usa/florida/north-miami/mutra",
+      "award": "★"
     }
   ]
 }

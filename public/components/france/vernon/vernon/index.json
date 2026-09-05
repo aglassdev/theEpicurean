@@ -1,8 +1,14 @@
 {
   "title": "Vernon",
-  "country": "france",
-  "region": "vernon",
-  "city": "vernon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vernon",
+  "city": "Vernon",
+  "citySlug": "vernon",
+  "path": "/france/vernon/vernon/restaurants",
+  "canonicalPath": "/france/vernon/vernon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Blossom Bistrot",

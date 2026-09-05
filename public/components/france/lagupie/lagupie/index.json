@@ -1,8 +1,14 @@
 {
   "title": "Lagupie",
-  "country": "france",
-  "region": "lagupie",
-  "city": "lagupie",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lagupie",
+  "city": "Lagupie",
+  "citySlug": "lagupie",
+  "path": "/france/lagupie/lagupie/restaurants",
+  "canonicalPath": "/france/lagupie/lagupie/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Angle",

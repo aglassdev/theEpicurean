@@ -1,9 +1,28 @@
 {
   "title": "Aalst",
-  "country": "belgium",
-  "region": "aalst",
-  "city": "aalst",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "aalst",
+  "city": "Aalst",
+  "citySlug": "aalst",
+  "path": "/belgium/aalst/aalst/restaurants",
+  "canonicalPath": "/belgium/aalst/aalst/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Kelderman",
+      "cuisine": "Traditional Cuisine, Seafood",
+      "price": "€€€€",
+      "path": "/belgium/aalst/aalst/kelderman",
+      "award": "★"
+    },
+    {
+      "name": "'t Overhamme",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/belgium/aalst/aalst/t-overhamme"
+    },
     {
       "name": "Controverse",
       "cuisine": "Farm to table",
@@ -15,18 +34,6 @@
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/belgium/aalst/aalst/culeau"
-    },
-    {
-      "name": "Kelderman",
-      "cuisine": "Traditional Cuisine, Seafood",
-      "price": "€€€€",
-      "path": "/belgium/aalst/aalst/kelderman"
-    },
-    {
-      "name": "'t Overhamme",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/belgium/aalst/aalst/t-overhamme"
     }
   ]
 }

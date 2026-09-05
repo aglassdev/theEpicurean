@@ -1,14 +1,21 @@
 {
-  "title": "Comblain Au Pont",
-  "country": "belgium",
-  "region": "comblain-au-pont",
-  "city": "comblain-au-pont",
+  "title": "Comblain au Pont",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "comblain-au-pont",
+  "city": "Comblain au Pont",
+  "citySlug": "comblain-au-pont",
+  "path": "/belgium/comblain-au-pont/comblain-au-pont/restaurants",
+  "canonicalPath": "/belgium/comblain-au-pont/comblain-au-pont/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Un Max de Goût",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/comblain-au-pont/comblain-au-pont/un-max-de-got"
+      "path": "/belgium/comblain-au-pont/comblain-au-pont/un-max-de-got",
+      "award": "★"
     }
   ]
 }

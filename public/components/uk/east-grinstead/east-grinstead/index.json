@@ -1,14 +1,21 @@
 {
   "title": "East Grinstead",
-  "country": "uk",
-  "region": "east-grinstead",
-  "city": "east-grinstead",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "east-grinstead",
+  "city": "East Grinstead",
+  "citySlug": "east-grinstead",
+  "path": "/uk/east-grinstead/east-grinstead/restaurants",
+  "canonicalPath": "/uk/east-grinstead/east-grinstead/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gravetye Manor",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/east-grinstead/east-grinstead/gravetye-manor"
+      "path": "/uk/east-grinstead/east-grinstead/gravetye-manor",
+      "award": "★"
     }
   ]
 }

@@ -1,155 +1,164 @@
 {
   "title": "Hampshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South East",
+  "regionSlug": "south-east",
+  "city": "Hampshire",
+  "citySlug": "hampshire",
+  "path": "/uk/south-east/hampshire/restaurants",
+  "canonicalPath": "/uk/south-east/hampshire/restaurants",
+  "count": 25,
   "restaurants": [
     {
-      "name": "Burley Manor",
+      "name": "Audleys Wood Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/south-east/hampshire/BurleyManor"
-    },
-    {
-      "name": "Beaulieu Inn",
-      "cuisine": "Afternoon Tea",
-      "price": "24.50",
-      "path": "/uk/south-east/hampshire/BeaulieuInn"
-    },
-    {
-      "name": "Bartley Lodge",
-      "cuisine": "Afternoon Tea",
-      "price": "24.50",
-      "path": "/uk/south-east/hampshire/BartleyLodge"
-    },
-    {
-      "name": "The Wellington Arms",
-      "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/south-east/hampshire/TheWellingtonArms"
-    },
-    {
-      "name": "Tylney Hall",
-      "cuisine": "Afternoon Tea",
-      "price": "39.00",
-      "path": "/uk/south-east/hampshire/TylneyHall"
-    },
-    {
-      "name": "Spinnaker Tower",
-      "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/south-east/hampshire/SpinnakerTower"
-    },
-    {
-      "name": "South Lawn Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "17.50",
-      "path": "/uk/south-east/hampshire/SouthLawnHotel"
-    },
-    {
-      "name": "Solent Hotel and Spa",
-      "cuisine": "Afternoon Tea",
-      "price": "29.00",
-      "path": "/uk/south-east/hampshire/SolentHotelAndSpa"
-    },
-    {
-      "name": "Rhinefield House Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "39.50",
-      "path": "/uk/south-east/hampshire/RhinefieldHouseHotel"
-    },
-    {
-      "name": "The Queens Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/south-east/hampshire/TheQueensHotel"
-    },
-    {
-      "name": "Oakley Hall Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/south-east/hampshire/OakleyHallHotel"
-    },
-    {
-      "name": "Norton Park",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/south-east/hampshire/NortonPark"
-    },
-    {
-      "name": "New Park Manor",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/south-east/hampshire/NewParkManor"
-    },
-    {
-      "name": "The Montfort at Stanbridge Earls",
-      "cuisine": "Afternoon Tea",
-      "price": "22.50",
-      "path": "/uk/south-east/hampshire/TheMontfortAtStanbridgeEarls"
-    },
-    {
-      "name": "Macdonald Elmers Court",
-      "cuisine": "Afternoon Tea",
-      "price": "23.00",
-      "path": "/uk/south-east/hampshire/MacdonaldElmersCourt"
-    },
-    {
-      "name": "The Ivy Winchester",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/south-east/hampshire/TheIvyWinchester"
-    },
-    {
-      "name": "Hotel du Vin Winchester",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/south-east/hampshire/HotelDuVinWinchester"
-    },
-    {
-      "name": "Four Seasons Hotel Hampshire",
-      "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/south-east/hampshire/FourSeasonsHotelHampshire"
-    },
-    {
-      "name": "Forest Lodge Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "24.50",
-      "path": "/uk/south-east/hampshire/ForestLodgeHotel"
-    },
-    {
-      "name": "The Exchequer",
-      "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/south-east/hampshire/TheExchequer"
-    },
-    {
-      "name": "The Crown Manor House Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "36.00",
-      "path": "/uk/south-east/hampshire/TheCrownManorHouseHotel"
-    },
-    {
-      "name": "The Concorde",
-      "cuisine": "Afternoon Tea",
-      "price": "15.95",
-      "path": "/uk/south-east/hampshire/TheConcorde"
-    },
-    {
-      "name": "Chewton Glen",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/south-east/hampshire/ChewtonGlen"
+      "price": "37.50",
+      "path": "/uk/south-east/hampshire/audleys-wood-hotel"
     },
     {
       "name": "Aviator",
       "cuisine": "Afternoon Tea",
       "price": "35.00",
-      "path": "/uk/south-east/hampshire/Aviator"
+      "path": "/uk/south-east/hampshire/aviator"
     },
     {
-      "name": "Audleys Wood Hotel",
+      "name": "Bartley Lodge",
       "cuisine": "Afternoon Tea",
-      "price": "37.50",
-      "path": "/uk/south-east/hampshire/AudleysWoodHotel"
+      "price": "24.50",
+      "path": "/uk/south-east/hampshire/bartley-lodge"
+    },
+    {
+      "name": "Beaulieu Inn",
+      "cuisine": "Afternoon Tea",
+      "price": "24.50",
+      "path": "/uk/south-east/hampshire/beaulieu-inn"
+    },
+    {
+      "name": "Burley Manor",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/south-east/hampshire/burley-manor"
+    },
+    {
+      "name": "Chewton Glen",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/south-east/hampshire/chewton-glen"
+    },
+    {
+      "name": "Forest Lodge Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "24.50",
+      "path": "/uk/south-east/hampshire/forest-lodge-hotel"
+    },
+    {
+      "name": "Four Seasons Hotel Hampshire",
+      "cuisine": "Afternoon Tea",
+      "price": "55.00",
+      "path": "/uk/south-east/hampshire/four-seasons-hotel-hampshire"
+    },
+    {
+      "name": "Hotel du Vin Winchester",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/south-east/hampshire/hotel-du-vin-winchester"
+    },
+    {
+      "name": "Macdonald Elmers Court",
+      "cuisine": "Afternoon Tea",
+      "price": "23.00",
+      "path": "/uk/south-east/hampshire/macdonald-elmers-court"
+    },
+    {
+      "name": "New Park Manor",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/south-east/hampshire/new-park-manor"
+    },
+    {
+      "name": "Norton Park",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/south-east/hampshire/norton-park"
+    },
+    {
+      "name": "Oakley Hall Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/south-east/hampshire/oakley-hall-hotel"
+    },
+    {
+      "name": "Rhinefield House Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "39.50",
+      "path": "/uk/south-east/hampshire/rhinefield-house-hotel"
+    },
+    {
+      "name": "Solent Hotel and Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "29.00",
+      "path": "/uk/south-east/hampshire/solent-hotel-and-spa"
+    },
+    {
+      "name": "South Lawn Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "17.50",
+      "path": "/uk/south-east/hampshire/south-lawn-hotel"
+    },
+    {
+      "name": "Spinnaker Tower",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/south-east/hampshire/spinnaker-tower"
+    },
+    {
+      "name": "The Concorde",
+      "cuisine": "Afternoon Tea",
+      "price": "15.95",
+      "path": "/uk/south-east/hampshire/the-concorde"
+    },
+    {
+      "name": "The Crown Manor House Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "36.00",
+      "path": "/uk/south-east/hampshire/the-crown-manor-house-hotel"
+    },
+    {
+      "name": "The Exchequer",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/south-east/hampshire/the-exchequer"
+    },
+    {
+      "name": "The Ivy Winchester",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/south-east/hampshire/the-ivy-winchester"
+    },
+    {
+      "name": "The Montfort at Stanbridge Earls",
+      "cuisine": "Afternoon Tea",
+      "price": "22.50",
+      "path": "/uk/south-east/hampshire/the-montfort-at-stanbridge-earls"
+    },
+    {
+      "name": "The Queens Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/south-east/hampshire/the-queens-hotel"
+    },
+    {
+      "name": "The Wellington Arms",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/south-east/hampshire/the-wellington-arms"
+    },
+    {
+      "name": "Tylney Hall",
+      "cuisine": "Afternoon Tea",
+      "price": "39.00",
+      "path": "/uk/south-east/hampshire/tylney-hall"
     }
   ]
 }

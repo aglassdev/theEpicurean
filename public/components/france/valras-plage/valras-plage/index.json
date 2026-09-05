@@ -1,14 +1,20 @@
 {
   "title": "Valras Plage",
-  "country": "france",
-  "region": "valras-plage",
-  "city": "valras-plage",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "valras-plage",
+  "city": "Valras Plage",
+  "citySlug": "valras-plage",
+  "path": "/france/valras-plage/valras-plage/restaurants",
+  "canonicalPath": "/france/valras-plage/valras-plage/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sépia",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/valras-plage/valras-plage/spia"
+      "path": "/france/valras-plage/valras-plage/spia-v-a-l"
     }
   ]
 }

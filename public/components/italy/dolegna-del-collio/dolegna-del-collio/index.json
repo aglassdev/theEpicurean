@@ -1,14 +1,21 @@
 {
-  "title": "Dolegna Del Collio",
-  "country": "italy",
-  "region": "dolegna-del-collio",
-  "city": "dolegna-del-collio",
+  "title": "Dolegna del Collio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "dolegna-del-collio",
+  "city": "Dolegna del Collio",
+  "citySlug": "dolegna-del-collio",
+  "path": "/italy/dolegna-del-collio/dolegna-del-collio/restaurants",
+  "canonicalPath": "/italy/dolegna-del-collio/dolegna-del-collio/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Argine a Vencò",
       "cuisine": "Country cooking, Creative",
       "price": "€€€€",
-      "path": "/italy/dolegna-del-collio/dolegna-del-collio/largine-a-venc"
+      "path": "/italy/dolegna-del-collio/dolegna-del-collio/largine-a-venc",
+      "award": "★"
     },
     {
       "name": "Ronchi Rò",

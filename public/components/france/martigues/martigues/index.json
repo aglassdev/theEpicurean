@@ -1,5 +1,14 @@
 {
   "title": "Martigues",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "martigues",
+  "city": "Martigues",
+  "citySlug": "martigues",
+  "path": "/france/martigues/martigues/restaurants",
+  "canonicalPath": "/france/martigues/martigues/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gusto Caffe",
@@ -11,7 +20,7 @@
       "name": "Le Gusto",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/france/martigues/martigues/LeGusto"
+      "path": "/france/martigues/martigues/le-gusto"
     }
   ]
 }

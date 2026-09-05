@@ -1,14 +1,21 @@
 {
   "title": "Quimper",
-  "country": "france",
-  "region": "quimper",
-  "city": "quimper",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "quimper",
+  "city": "Quimper",
+  "citySlug": "quimper",
+  "path": "/france/quimper/quimper/restaurants",
+  "canonicalPath": "/france/quimper/quimper/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Allium",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/quimper/quimper/allium"
+      "path": "/france/quimper/quimper/allium",
+      "award": "★"
     },
     {
       "name": "Éclosion",
@@ -38,7 +45,7 @@
       "name": "Ti-Coz",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/quimper/quimper/ti-coz"
+      "path": "/france/quimper/quimper/ticoz"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Montrab",
-  "country": "france",
-  "region": "montrab",
-  "city": "montrab",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montrab",
+  "city": "Montrab",
+  "citySlug": "montrab",
+  "path": "/france/montrab/montrab/restaurants",
+  "canonicalPath": "/france/montrab/montrab/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Aparté",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/montrab/montrab/lapart"
+      "path": "/france/montrab/montrab/lapart",
+      "award": "★"
     },
     {
       "name": "L'Instant...",

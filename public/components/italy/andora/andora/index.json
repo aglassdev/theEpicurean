@@ -1,14 +1,21 @@
 {
   "title": "Andora",
-  "country": "italy",
-  "region": "andora",
-  "city": "andora",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "andora",
+  "city": "Andora",
+  "citySlug": "andora",
+  "path": "/italy/andora/andora/restaurants",
+  "canonicalPath": "/italy/andora/andora/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vignamare",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€€€",
-      "path": "/italy/andora/andora/vignamare"
+      "path": "/italy/andora/andora/vignamare",
+      "award": "★"
     }
   ]
 }

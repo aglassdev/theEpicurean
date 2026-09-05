@@ -1,8 +1,14 @@
 {
   "title": "Gambsheim",
-  "country": "france",
-  "region": "gambsheim",
-  "city": "gambsheim",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gambsheim",
+  "city": "Gambsheim",
+  "citySlug": "gambsheim",
+  "path": "/france/gambsheim/gambsheim/restaurants",
+  "canonicalPath": "/france/gambsheim/gambsheim/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fleur de Sureau",

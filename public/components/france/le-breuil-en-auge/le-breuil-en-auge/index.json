@@ -1,14 +1,20 @@
 {
   "title": "Le Breuil En Auge",
-  "country": "france",
-  "region": "le-breuil-en-auge",
-  "city": "le-breuil-en-auge",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-breuil-en-auge",
+  "city": "Le Breuil En Auge",
+  "citySlug": "le-breuil-en-auge",
+  "path": "/france/le-breuil-en-auge/le-breuil-en-auge/restaurants",
+  "canonicalPath": "/france/le-breuil-en-auge/le-breuil-en-auge/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Dauphin",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/le-breuil-en-auge/le-breuil-en-auge/le-dauphin"
+      "path": "/france/le-breuil-en-auge/le-breuil-en-auge/le-dauphin-l-e-b"
     }
   ]
 }

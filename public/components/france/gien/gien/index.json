@@ -1,14 +1,21 @@
 {
   "title": "Gien",
-  "country": "france",
-  "region": "gien",
-  "city": "gien",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gien",
+  "city": "Gien",
+  "citySlug": "gien",
+  "path": "/france/gien/gien/restaurants",
+  "canonicalPath": "/france/gien/gien/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Côté Jardin",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€",
-      "path": "/france/gien/gien/ct-jardin"
+      "path": "/france/gien/gien/ct-jardin",
+      "award": "★"
     },
     {
       "name": "Le P'tit Bouchon",

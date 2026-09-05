@@ -1,14 +1,21 @@
 {
   "title": "Noto",
-  "country": "italy",
-  "region": "noto",
-  "city": "noto",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "noto",
+  "city": "Noto",
+  "citySlug": "noto",
+  "path": "/italy/noto/noto/restaurants",
+  "canonicalPath": "/italy/noto/noto/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Crocifisso",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/italy/noto/noto/crocifisso"
+      "path": "/italy/noto/noto/crocifisso",
+      "award": "★"
     },
     {
       "name": "Orti Villadorata",

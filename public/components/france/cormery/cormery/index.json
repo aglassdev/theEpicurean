@@ -1,8 +1,14 @@
 {
   "title": "Cormery",
-  "country": "france",
-  "region": "cormery",
-  "city": "cormery",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cormery",
+  "city": "Cormery",
+  "citySlug": "cormery",
+  "path": "/france/cormery/cormery/restaurants",
+  "canonicalPath": "/france/cormery/cormery/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Roseaux Pensants",

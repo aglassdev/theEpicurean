@@ -1,8 +1,14 @@
 {
   "title": "Tarbes",
-  "country": "france",
-  "region": "tarbes",
-  "city": "tarbes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tarbes",
+  "city": "Tarbes",
+  "citySlug": "tarbes",
+  "path": "/france/tarbes/tarbes/restaurants",
+  "canonicalPath": "/france/tarbes/tarbes/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "L'Arpège",
@@ -11,22 +17,16 @@
       "path": "/france/tarbes/tarbes/larpge"
     },
     {
+      "name": "L'Empreinte",
+      "cuisine": "Creative",
+      "price": "€€",
+      "path": "/france/tarbes/tarbes/lempreinte"
+    },
+    {
       "name": "Le Petit Gourmand",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/tarbes/tarbes/le-petit-gourmand"
-    },
-    {
-      "name": "L'Empreinte",
-      "cuisine": "Creative",
-      "price": "€€",
-      "path": "/france/tarbes/tarbes/lempreinte"
-    },
-    {
-      "name": "L'Empreinte",
-      "cuisine": "Creative",
-      "price": "€€",
-      "path": "/france/tarbes/tarbes/lempreinte"
     },
     {
       "name": "Popôte",

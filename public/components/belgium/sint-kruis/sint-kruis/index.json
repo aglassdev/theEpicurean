@@ -1,26 +1,34 @@
 {
   "title": "Sint Kruis",
-  "country": "belgium",
-  "region": "sint-kruis",
-  "city": "sint-kruis",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "sint-kruis",
+  "city": "Sint Kruis",
+  "citySlug": "sint-kruis",
+  "path": "/belgium/sint-kruis/sint-kruis/restaurants",
+  "canonicalPath": "/belgium/sint-kruis/sint-kruis/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Bistro Rombaux",
-      "cuisine": "Modern French",
-      "price": "€€€",
-      "path": "/belgium/sint-kruis/sint-kruis/bistro-rombaux"
-    },
     {
       "name": "De Jonkman",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/belgium/sint-kruis/sint-kruis/de-jonkman"
+      "path": "/belgium/sint-kruis/sint-kruis/de-jonkman",
+      "award": "★★"
     },
     {
       "name": "Goffin",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/sint-kruis/sint-kruis/goffin"
+      "path": "/belgium/sint-kruis/sint-kruis/goffin",
+      "award": "★"
+    },
+    {
+      "name": "Bistro Rombaux",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/belgium/sint-kruis/sint-kruis/bistro-rombaux"
     }
   ]
 }

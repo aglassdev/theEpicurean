@@ -1,8 +1,14 @@
 {
   "title": "Casalgrande",
-  "country": "italy",
-  "region": "casalgrande",
-  "city": "casalgrande",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "casalgrande",
+  "city": "Casalgrande",
+  "citySlug": "casalgrande",
+  "path": "/italy/casalgrande/casalgrande/restaurants",
+  "canonicalPath": "/italy/casalgrande/casalgrande/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Badessa",

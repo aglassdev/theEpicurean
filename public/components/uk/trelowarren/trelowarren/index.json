@@ -1,14 +1,20 @@
 {
   "title": "Trelowarren",
-  "country": "uk",
-  "region": "trelowarren",
-  "city": "trelowarren",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "trelowarren",
+  "city": "Trelowarren",
+  "citySlug": "trelowarren",
+  "path": "/uk/trelowarren/trelowarren/restaurants",
+  "canonicalPath": "/uk/trelowarren/trelowarren/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Flora",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/trelowarren/trelowarren/flora"
+      "path": "/uk/trelowarren/trelowarren/flora-t-r-e"
     }
   ]
 }

@@ -1,20 +1,21 @@
 {
   "title": "Cham",
-  "country": "switzerland",
-  "region": "cham",
-  "city": "cham",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "cham",
+  "city": "Cham",
+  "citySlug": "cham",
+  "path": "/switzerland/cham/cham/restaurants",
+  "canonicalPath": "/switzerland/cham/cham/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Dining Room",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/cham/cham/the-dining-room"
-    },
-    {
-      "name": "The Dining Room",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/cham/cham/the-dining-room"
+      "path": "/switzerland/cham/cham/the-dining-room",
+      "award": "★"
     }
   ]
 }

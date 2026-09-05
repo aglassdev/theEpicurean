@@ -1,8 +1,14 @@
 {
   "title": "Saint Pray",
-  "country": "france",
-  "region": "saint-pray",
-  "city": "saint-pray",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-pray",
+  "city": "Saint Pray",
+  "citySlug": "saint-pray",
+  "path": "/france/saint-pray/saint-pray/restaurants",
+  "canonicalPath": "/france/saint-pray/saint-pray/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Auberge de Crussol",

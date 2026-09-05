@@ -1,14 +1,21 @@
 {
   "title": "Maasbracht",
-  "country": "netherlands",
-  "region": "maasbracht",
-  "city": "maasbracht",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "maasbracht",
+  "city": "Maasbracht",
+  "citySlug": "maasbracht",
+  "path": "/netherlands/maasbracht/maasbracht/restaurants",
+  "canonicalPath": "/netherlands/maasbracht/maasbracht/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Da Vinci",
       "cuisine": "Classic French",
       "price": "€€€€",
-      "path": "/netherlands/maasbracht/maasbracht/da-vinci"
+      "path": "/netherlands/maasbracht/maasbracht/da-vinci",
+      "award": "★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Croutelle",
-  "country": "france",
-  "region": "croutelle",
-  "city": "croutelle",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "croutelle",
+  "city": "Croutelle",
+  "citySlug": "croutelle",
+  "path": "/france/croutelle/croutelle/restaurants",
+  "canonicalPath": "/france/croutelle/croutelle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Chênaie",

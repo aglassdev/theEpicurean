@@ -1,14 +1,21 @@
 {
   "title": "Menzingen",
-  "country": "switzerland",
-  "region": "menzingen",
-  "city": "menzingen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "menzingen",
+  "city": "Menzingen",
+  "citySlug": "menzingen",
+  "path": "/switzerland/menzingen/menzingen/restaurants",
+  "canonicalPath": "/switzerland/menzingen/menzingen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthaus Löwen",
       "cuisine": "Classic Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/menzingen/menzingen/gasthaus-lwen"
+      "path": "/switzerland/menzingen/menzingen/gasthaus-lwen",
+      "award": "★"
     }
   ]
 }

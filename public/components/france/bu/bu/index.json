@@ -1,8 +1,14 @@
 {
   "title": "Bu",
-  "country": "france",
-  "region": "bu",
-  "city": "bu",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bu",
+  "city": "Bu",
+  "citySlug": "bu",
+  "path": "/france/bu/bu/restaurants",
+  "canonicalPath": "/france/bu/bu/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Flacons",

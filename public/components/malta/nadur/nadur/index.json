@@ -1,17 +1,26 @@
 {
   "title": "Nadur",
+  "country": "Malta",
+  "countrySlug": "malta",
+  "region": null,
+  "regionSlug": "nadur",
+  "city": "Nadur",
+  "citySlug": "nadur",
+  "path": "/malta/nadur/nadur/restaurants",
+  "canonicalPath": "/malta/nadur/nadur/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Osteria Scottadito",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/malta/nadur/nadur/osteria-scottadito"
+    },
     {
       "name": "Scottadito",
       "cuisine": "Italian",
       "price": "€€",
       "path": "/malta/nadur/nadur/scottadito"
-    },
-    {
-      "name": "Osteria Scottadito",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/malta/nadur/nadur/OsteriaScottadito"
     }
   ]
 }

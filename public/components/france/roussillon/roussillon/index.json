@@ -1,8 +1,14 @@
 {
   "title": "Roussillon",
-  "country": "france",
-  "region": "roussillon",
-  "city": "roussillon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "roussillon",
+  "city": "Roussillon",
+  "citySlug": "roussillon",
+  "path": "/france/roussillon/roussillon/restaurants",
+  "canonicalPath": "/france/roussillon/roussillon/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Piquebaure",

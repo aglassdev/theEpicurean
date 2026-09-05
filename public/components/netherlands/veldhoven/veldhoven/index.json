@@ -1,20 +1,20 @@
 {
   "title": "Veldhoven",
-  "country": "netherlands",
-  "region": "veldhoven",
-  "city": "veldhoven",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "veldhoven",
+  "city": "Veldhoven",
+  "citySlug": "veldhoven",
+  "path": "/netherlands/veldhoven/veldhoven/restaurants",
+  "canonicalPath": "/netherlands/veldhoven/veldhoven/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Restaurant Le Sable",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/netherlands/veldhoven/veldhoven/restaurant-le-sable"
-    },
-    {
-      "name": "Reverie",
-      "cuisine": "Modern Cuisine, Indonesian",
-      "price": "€€€",
-      "path": "/netherlands/veldhoven/veldhoven/reverie"
     },
     {
       "name": "Reverie",

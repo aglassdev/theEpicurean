@@ -1,8 +1,14 @@
 {
   "title": "Goldegg",
-  "country": "austria",
-  "region": "goldegg",
-  "city": "goldegg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "goldegg",
+  "city": "Goldegg",
+  "citySlug": "goldegg",
+  "path": "/austria/goldegg/goldegg/restaurants",
+  "canonicalPath": "/austria/goldegg/goldegg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "KETCHUP",

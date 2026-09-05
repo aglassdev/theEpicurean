@@ -1,14 +1,20 @@
 {
   "title": "Dunires",
-  "country": "france",
-  "region": "dunires",
-  "city": "dunires",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "dunires",
+  "city": "Dunires",
+  "citySlug": "dunires",
+  "path": "/france/dunires/dunires/restaurants",
+  "canonicalPath": "/france/dunires/dunires/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Tour",
       "cuisine": "Country cooking, Modern Cuisine",
       "price": "€€",
-      "path": "/france/dunires/dunires/la-tour"
+      "path": "/france/dunires/dunires/la-tour-d-u-n"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "title": "Hauteluce",
-  "country": "france",
-  "region": "hauteluce",
-  "city": "hauteluce",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "hauteluce",
+  "city": "Hauteluce",
+  "citySlug": "hauteluce",
+  "path": "/france/hauteluce/hauteluce/restaurants",
+  "canonicalPath": "/france/hauteluce/hauteluce/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Mont Blanc Restaurant & Goûter",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/hauteluce/hauteluce/mont-blanc-restaurant-goter",
+      "award": "★"
+    },
     {
       "name": "La Ferme du Chozal",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/hauteluce/hauteluce/la-ferme-du-chozal"
-    },
-    {
-      "name": "Mont Blanc Restaurant & Goûter",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/hauteluce/hauteluce/mont-blanc-restaurant-goter"
     }
   ]
 }

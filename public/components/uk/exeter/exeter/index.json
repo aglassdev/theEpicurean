@@ -1,19 +1,19 @@
 {
   "title": "Exeter",
-  "country": "uk",
-  "region": "exeter",
-  "city": "exeter",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "exeter",
+  "city": "Exeter",
+  "citySlug": "exeter",
+  "path": "/uk/exeter/exeter/restaurants",
+  "canonicalPath": "/uk/exeter/exeter/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Stage",
       "cuisine": "Modern Cuisine",
       "price": "££",
-      "path": "/uk/exeter/exeter/stage"
-    },
-    {
-      "name": "Stage",
-      "cuisine": "Modern Cuisine",
-      "price": "£££",
       "path": "/uk/exeter/exeter/stage"
     }
   ]

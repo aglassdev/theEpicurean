@@ -1,14 +1,20 @@
 {
   "title": "Enter",
-  "country": "netherlands",
-  "region": "enter",
-  "city": "enter",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "enter",
+  "city": "Enter",
+  "citySlug": "enter",
+  "path": "/netherlands/enter/enter/restaurants",
+  "canonicalPath": "/netherlands/enter/enter/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bistro T-bone",
       "cuisine": "Meats and Grills",
       "price": "€€€",
-      "path": "/netherlands/enter/enter/bistro-t-bone"
+      "path": "/netherlands/enter/enter/bistro-tbone"
     }
   ]
 }

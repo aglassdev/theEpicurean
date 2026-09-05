@@ -1,11 +1,47 @@
 {
   "title": "Biarritz",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "biarritz",
+  "city": "Biarritz",
+  "citySlug": "biarritz",
+  "path": "/france/biarritz/biarritz/restaurants",
+  "canonicalPath": "/france/biarritz/biarritz/restaurants",
+  "count": 20,
   "restaurants": [
+    {
+      "name": "L'Impertinent",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/biarritz/biarritz/limpertinent",
+      "award": "★"
+    },
+    {
+      "name": "La Table d'Aurélien Largeau",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/biarritz/biarritz/la-table-daurlien-largeau",
+      "award": "★"
+    },
+    {
+      "name": "Les Rosiers",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/biarritz/biarritz/les-rosiers",
+      "award": "★"
+    },
     {
       "name": "AHPĒ",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/biarritz/biarritz/ahp"
+    },
+    {
+      "name": "Bar mada",
+      "cuisine": "Creative",
+      "price": "$$",
+      "path": "/france/biarritz/biarritz/bar-mada"
     },
     {
       "name": "Cheri Bibi",
@@ -38,16 +74,22 @@
       "path": "/france/biarritz/biarritz/freya"
     },
     {
+      "name": "Kaldera",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/biarritz/biarritz/kaldera"
+    },
+    {
+      "name": "L'Entre Deux",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/biarritz/biarritz/lentre-deux-b-i-a"
+    },
+    {
       "name": "La Rotonde",
       "cuisine": "Traditional Cuisine",
       "price": "€€€€",
       "path": "/france/biarritz/biarritz/la-rotonde"
-    },
-    {
-      "name": "La Table d'Aurélien Largeau",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/biarritz/biarritz/la-table-daurlien-largeau"
     },
     {
       "name": "Le Café de Paris",
@@ -74,24 +116,6 @@
       "path": "/france/biarritz/biarritz/le-sin"
     },
     {
-      "name": "L'Entre Deux",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/biarritz/biarritz/lentre-deux"
-    },
-    {
-      "name": "Les Rosiers",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/biarritz/biarritz/les-rosiers"
-    },
-    {
-      "name": "L'Impertinent",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/biarritz/biarritz/limpertinent"
-    },
-    {
       "name": "Léonie",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -101,25 +125,13 @@
       "name": "Marius",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/biarritz/biarritz/marius"
-    },
-    {
-      "name": "Bar mada",
-      "cuisine": "Creative",
-      "price": "$$",
-      "path": "/france/biarritz/biarritz/BarMada"
-    },
-    {
-      "name": "Kaldera",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/biarritz/biarritz/Kaldera"
+      "path": "/france/biarritz/biarritz/marius-b-i-a"
     },
     {
       "name": "Pluma",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/biarritz/biarritz/Pluma"
+      "path": "/france/biarritz/biarritz/pluma"
     }
   ]
 }

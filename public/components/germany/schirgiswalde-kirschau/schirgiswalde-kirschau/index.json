@@ -1,20 +1,27 @@
 {
   "title": "Schirgiswalde Kirschau",
-  "country": "germany",
-  "region": "schirgiswalde-kirschau",
-  "city": "schirgiswalde-kirschau",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "schirgiswalde-kirschau",
+  "city": "Schirgiswalde Kirschau",
+  "citySlug": "schirgiswalde-kirschau",
+  "path": "/germany/schirgiswalde-kirschau/schirgiswalde-kirschau/restaurants",
+  "canonicalPath": "/germany/schirgiswalde-kirschau/schirgiswalde-kirschau/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "JUWEL",
+      "cuisine": "Modern French, Creative",
+      "price": "€€€€",
+      "path": "/germany/schirgiswalde-kirschau/schirgiswalde-kirschau/juwel",
+      "award": "★"
+    },
     {
       "name": "AL FORNO",
       "cuisine": "Italian, Pizza",
       "price": "€€",
       "path": "/germany/schirgiswalde-kirschau/schirgiswalde-kirschau/al-forno"
-    },
-    {
-      "name": "JUWEL",
-      "cuisine": "Modern French, Creative",
-      "price": "€€€€",
-      "path": "/germany/schirgiswalde-kirschau/schirgiswalde-kirschau/juwel"
     },
     {
       "name": "WEBERSTUBE",

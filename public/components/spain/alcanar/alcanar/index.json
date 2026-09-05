@@ -1,14 +1,21 @@
 {
   "title": "Alcanar",
-  "country": "spain",
-  "region": "alcanar",
-  "city": "alcanar",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "alcanar",
+  "city": "Alcanar",
+  "citySlug": "alcanar",
+  "path": "/spain/alcanar/alcanar/restaurants",
+  "canonicalPath": "/spain/alcanar/alcanar/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Citrus del Tancat",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/alcanar/alcanar/citrus-del-tancat"
+      "path": "/spain/alcanar/alcanar/citrus-del-tancat",
+      "award": "★"
     },
     {
       "name": "Els Jardins del Tancat",

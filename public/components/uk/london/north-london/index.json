@@ -1,35 +1,44 @@
 {
   "title": "North London",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "North London",
+  "citySlug": "north-london",
+  "path": "/uk/london/north-london/restaurants",
+  "canonicalPath": "/uk/london/north-london/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Betsy's Tea Room at St James",
       "cuisine": "Afternoon Tea",
       "price": "22.50",
-      "path": "/uk/london/north-london/BetsysTeaRoomAtStJames"
-    },
-    {
-      "name": "Whiskers and Cream Cat Cafe",
-      "cuisine": "Afternoon Tea",
-      "price": "89.99",
-      "path": "/uk/london/north-london/WhiskersAndCreamCatCafe"
-    },
-    {
-      "name": "MAP Maison",
-      "cuisine": "Afternoon Tea",
-      "price": "27.50",
-      "path": "/uk/london/north-london/MapMaison"
-    },
-    {
-      "name": "M Bar and Kitchen at Mayfield Villages",
-      "cuisine": "Afternoon Tea",
-      "price": "22.50",
-      "path": "/uk/london/north-london/MBarAndKitchenAtMayfieldVillages"
+      "path": "/uk/london/north-london/betsys-tea-room-at-st-james"
     },
     {
       "name": "Courthouse Hotel",
       "cuisine": "Afternoon Tea",
       "price": "35.00",
-      "path": "/uk/london/north-london/CourthouseHotel"
+      "path": "/uk/london/north-london/courthouse-hotel"
+    },
+    {
+      "name": "M Bar and Kitchen at Mayfield Villages",
+      "cuisine": "Afternoon Tea",
+      "price": "22.50",
+      "path": "/uk/london/north-london/m-bar-and-kitchen-at-mayfield-villages"
+    },
+    {
+      "name": "MAP Maison",
+      "cuisine": "Afternoon Tea",
+      "price": "27.50",
+      "path": "/uk/london/north-london/map-maison"
+    },
+    {
+      "name": "Whiskers and Cream Cat Cafe",
+      "cuisine": "Afternoon Tea",
+      "price": "89.99",
+      "path": "/uk/london/north-london/whiskers-and-cream-cat-cafe"
     }
   ]
 }

@@ -1,119 +1,128 @@
 {
   "title": "The City",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "The City",
+  "citySlug": "the-city",
+  "path": "/uk/london/the-city/restaurants",
+  "canonicalPath": "/uk/london/the-city/restaurants",
+  "count": 19,
   "restaurants": [
     {
-      "name": "The Westin London City",
+      "name": "1901 Wine Lounge at Andaz London",
       "cuisine": "Afternoon Tea",
       "price": "45.00",
-      "path": "/uk/london/the-city/TheWestinLondonCity"
-    },
-    {
-      "name": "Vicinity at The Tower Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/the-city/VicinityAtTheTowerHotel"
-    },
-    {
-      "name": "Tower Suites by Blue Orchid",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/the-city/TowerSuitesByBlueOrchid"
-    },
-    {
-      "name": "Slug and Lettuce - Aldgate",
-      "cuisine": "Afternoon Tea",
-      "price": "16.00",
-      "path": "/uk/london/the-city/SlugAndLettuceAldgate"
-    },
-    {
-      "name": "Sabine Rooftop Bar",
-      "cuisine": "Afternoon Tea",
-      "price": "43.00",
-      "path": "/uk/london/the-city/SabineRooftopBar"
-    },
-    {
-      "name": "Rotunda Bar & Lounge at Four Seasons Ten Trinity Square",
-      "cuisine": "Afternoon Tea",
-      "price": "65.00",
-      "path": "/uk/london/the-city/RotundaBarLoungeAtFourSeasonsTenTrinitySquare"
-    },
-    {
-      "name": "River Thames Afternoon Tea Cruise",
-      "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/london/the-city/RiverThamesAfternoonTeaCruise"
-    },
-    {
-      "name": "Ping Pong St Katharine Docks",
-      "cuisine": "Afternoon Tea",
-      "price": "20.00",
-      "path": "/uk/london/the-city/PingPongStKatharineDocks"
-    },
-    {
-      "name": "Pan Pacific London",
-      "cuisine": "Afternoon Tea",
-      "price": "58.00",
-      "path": "/uk/london/the-city/PanPacificLondon"
-    },
-    {
-      "name": "Millie's Lounge at The Ned",
-      "cuisine": "Afternoon Tea",
-      "price": "50.00",
-      "path": "/uk/london/the-city/MilliesLoungeAtTheNed"
-    },
-    {
-      "name": "La Bibliotheque",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/london/the-city/LaBibliotheque"
-    },
-    {
-      "name": "The Ivy Asia St Paul’s",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/london/the-city/TheIvyAsiaStPauls"
-    },
-    {
-      "name": "Found Restaurant & Bar - The Lost Property Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "39.50",
-      "path": "/uk/london/the-city/FoundRestaurantBarTheLostPropertyHotel"
-    },
-    {
-      "name": "The Fortnum's Bar & Restaurant at The Royal Exchange",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/the-city/TheFortnumsBarRestaurantAtTheRoyalExchange"
-    },
-    {
-      "name": "Crown Afternoon Tea @ Vintry and Mercer",
-      "cuisine": "Afternoon Tea",
-      "price": "49.50",
-      "path": "/uk/london/the-city/CrownAfternoonTeaVintryAndMercer"
-    },
-    {
-      "name": "Cinnamon Kitchen London City",
-      "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/london/the-city/CinnamonKitchenLondonCity"
-    },
-    {
-      "name": "Cinnamon Kitchen Battersea",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/london/the-city/CinnamonKitchenBattersea"
+      "path": "/uk/london/the-city/1901-wine-lounge-at-andaz-london"
     },
     {
       "name": "Caffe Concerto - Whitehall",
       "cuisine": "Afternoon Tea",
       "price": "32.95",
-      "path": "/uk/london/the-city/CaffeConcertoWhitehall"
+      "path": "/uk/london/the-city/caffe-concerto-whitehall"
     },
     {
-      "name": "1901 Wine Lounge at Andaz London",
+      "name": "Cinnamon Kitchen Battersea",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/london/the-city/cinnamon-kitchen-battersea"
+    },
+    {
+      "name": "Cinnamon Kitchen London City",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/london/the-city/cinnamon-kitchen-london-city"
+    },
+    {
+      "name": "Crown Afternoon Tea @ Vintry and Mercer",
+      "cuisine": "Afternoon Tea",
+      "price": "49.50",
+      "path": "/uk/london/the-city/crown-afternoon-tea-vintry-and-mercer"
+    },
+    {
+      "name": "Found Restaurant & Bar - The Lost Property Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "39.50",
+      "path": "/uk/london/the-city/found-restaurant-bar-the-lost-property-hotel"
+    },
+    {
+      "name": "La Bibliotheque",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/london/the-city/la-bibliotheque"
+    },
+    {
+      "name": "Millie's Lounge at The Ned",
+      "cuisine": "Afternoon Tea",
+      "price": "50.00",
+      "path": "/uk/london/the-city/millies-lounge-at-the-ned"
+    },
+    {
+      "name": "Pan Pacific London",
+      "cuisine": "Afternoon Tea",
+      "price": "58.00",
+      "path": "/uk/london/the-city/pan-pacific-london"
+    },
+    {
+      "name": "Ping Pong St Katharine Docks",
+      "cuisine": "Afternoon Tea",
+      "price": "20.00",
+      "path": "/uk/london/the-city/ping-pong-st-katharine-docks"
+    },
+    {
+      "name": "River Thames Afternoon Tea Cruise",
+      "cuisine": "Afternoon Tea",
+      "price": "55.00",
+      "path": "/uk/london/the-city/river-thames-afternoon-tea-cruise"
+    },
+    {
+      "name": "Rotunda Bar & Lounge at Four Seasons Ten Trinity Square",
+      "cuisine": "Afternoon Tea",
+      "price": "65.00",
+      "path": "/uk/london/the-city/rotunda-bar-lounge-at-four-seasons-ten-trinity-square"
+    },
+    {
+      "name": "Sabine Rooftop Bar",
+      "cuisine": "Afternoon Tea",
+      "price": "43.00",
+      "path": "/uk/london/the-city/sabine-rooftop-bar"
+    },
+    {
+      "name": "Slug and Lettuce - Aldgate",
+      "cuisine": "Afternoon Tea",
+      "price": "16.00",
+      "path": "/uk/london/the-city/slug-and-lettuce-aldgate"
+    },
+    {
+      "name": "The Fortnum's Bar & Restaurant at The Royal Exchange",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/london/the-city/the-fortnums-bar-restaurant-at-the-royal-exchange"
+    },
+    {
+      "name": "The Ivy Asia St Paul’s",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/london/the-city/the-ivy-asia-st-pauls"
+    },
+    {
+      "name": "The Westin London City",
       "cuisine": "Afternoon Tea",
       "price": "45.00",
-      "path": "/uk/london/the-city/1901WineLoungeAtAndazLondon"
+      "path": "/uk/london/the-city/the-westin-london-city"
+    },
+    {
+      "name": "Tower Suites by Blue Orchid",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/london/the-city/tower-suites-by-blue-orchid"
+    },
+    {
+      "name": "Vicinity at The Tower Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/london/the-city/vicinity-at-the-tower-hotel"
     }
   ]
 }

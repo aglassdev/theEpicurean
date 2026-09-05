@@ -1,8 +1,14 @@
 {
   "title": "Brgstadt",
-  "country": "germany",
-  "region": "brgstadt",
-  "city": "brgstadt",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "brgstadt",
+  "city": "Brgstadt",
+  "citySlug": "brgstadt",
+  "path": "/germany/brgstadt/brgstadt/restaurants",
+  "canonicalPath": "/germany/brgstadt/brgstadt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Weinhaus Stern",

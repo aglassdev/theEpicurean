@@ -1,14 +1,20 @@
 {
   "title": "Cavaillon",
-  "country": "france",
-  "region": "cavaillon",
-  "city": "cavaillon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cavaillon",
+  "city": "Cavaillon",
+  "citySlug": "cavaillon",
+  "path": "/france/cavaillon/cavaillon/restaurants",
+  "canonicalPath": "/france/cavaillon/cavaillon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Envol",
       "cuisine": "Farm to table",
       "price": "€€",
-      "path": "/france/cavaillon/cavaillon/lenvol"
+      "path": "/france/cavaillon/cavaillon/lenvol-c-a-v"
     }
   ]
 }

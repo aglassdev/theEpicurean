@@ -1,20 +1,28 @@
 {
-  "title": "Le Bourget Du Lac",
-  "country": "france",
-  "region": "le-bourget-du-lac",
-  "city": "le-bourget-du-lac",
+  "title": "Le Bourget du Lac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-bourget-du-lac",
+  "city": "Le Bourget du Lac",
+  "citySlug": "le-bourget-du-lac",
+  "path": "/france/le-bourget-du-lac/le-bourget-du-lac/restaurants",
+  "canonicalPath": "/france/le-bourget-du-lac/le-bourget-du-lac/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Atmosphères",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/le-bourget-du-lac/le-bourget-du-lac/atmosphres"
+      "path": "/france/le-bourget-du-lac/le-bourget-du-lac/atmosphres",
+      "award": "★"
     },
     {
       "name": "Lamartine",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/le-bourget-du-lac/le-bourget-du-lac/lamartine"
+      "path": "/france/le-bourget-du-lac/le-bourget-du-lac/lamartine",
+      "award": "★"
     }
   ]
 }

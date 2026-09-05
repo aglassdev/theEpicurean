@@ -1,9 +1,22 @@
 {
   "title": "Brunico",
-  "country": "italy",
-  "region": "brunico",
-  "city": "brunico",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "brunico",
+  "city": "Brunico",
+  "citySlug": "brunico",
+  "path": "/italy/brunico/brunico/restaurants",
+  "canonicalPath": "/italy/brunico/brunico/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Atelier Moessmer Norbert Niederkofler",
+      "cuisine": "Creative, Alpine",
+      "price": "€€€€",
+      "path": "/italy/brunico/brunico/atelier-moessmer-norbert-niederkofler",
+      "award": "★★★"
+    },
     {
       "name": "AlpiNN",
       "cuisine": "Alpine, Seasonal Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Alpine, Seasonal Cuisine",
       "price": "€€€",
       "path": "/italy/brunico/brunico/alpinn-by-norbert-niederkofler"
-    },
-    {
-      "name": "Atelier Moessmer Norbert Niederkofler",
-      "cuisine": "Creative, Alpine",
-      "price": "€€€€",
-      "path": "/italy/brunico/brunico/atelier-moessmer-norbert-niederkofler"
     }
   ]
 }

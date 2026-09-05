@@ -1,8 +1,14 @@
 {
   "title": "Tessenderlo",
-  "country": "belgium",
-  "region": "tessenderlo",
-  "city": "tessenderlo",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "tessenderlo",
+  "city": "Tessenderlo",
+  "citySlug": "tessenderlo",
+  "path": "/belgium/tessenderlo/tessenderlo/restaurants",
+  "canonicalPath": "/belgium/tessenderlo/tessenderlo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "De Lindehoeve",

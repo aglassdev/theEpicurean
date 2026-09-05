@@ -1,14 +1,21 @@
 {
   "title": "Imola",
-  "country": "italy",
-  "region": "imola",
-  "city": "imola",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "imola",
+  "city": "Imola",
+  "citySlug": "imola",
+  "path": "/italy/imola/imola/restaurants",
+  "canonicalPath": "/italy/imola/imola/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "San Domenico",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/italy/imola/imola/san-domenico"
+      "path": "/italy/imola/imola/san-domenico-i-m-o",
+      "award": "★★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Slestat",
-  "country": "france",
-  "region": "slestat",
-  "city": "slestat",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "slestat",
+  "city": "Slestat",
+  "citySlug": "slestat",
+  "path": "/france/slestat/slestat/restaurants",
+  "canonicalPath": "/france/slestat/slestat/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Acolytes",

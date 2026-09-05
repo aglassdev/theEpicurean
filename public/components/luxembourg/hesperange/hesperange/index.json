@@ -1,14 +1,20 @@
 {
   "title": "Hesperange",
-  "country": "luxembourg",
-  "region": "hesperange",
-  "city": "hesperange",
+  "country": "Luxembourg",
+  "countrySlug": "luxembourg",
+  "region": null,
+  "regionSlug": "hesperange",
+  "city": "Hesperange",
+  "citySlug": "hesperange",
+  "path": "/luxembourg/hesperange/hesperange/restaurants",
+  "canonicalPath": "/luxembourg/hesperange/hesperange/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Artis",
       "cuisine": "Modern French",
       "price": "€€",
-      "path": "/luxembourg/hesperange/hesperange/artis"
+      "path": "/luxembourg/hesperange/hesperange/artis-h-e-s"
     }
   ]
 }

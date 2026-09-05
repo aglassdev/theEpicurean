@@ -1,8 +1,14 @@
 {
   "title": "Portofino",
-  "country": "italy",
-  "region": "portofino",
-  "city": "portofino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "portofino",
+  "city": "Portofino",
+  "citySlug": "portofino",
+  "path": "/italy/portofino/portofino/restaurants",
+  "canonicalPath": "/italy/portofino/portofino/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Cracco Portofino",

@@ -1,6 +1,36 @@
 {
   "title": "Saragossa",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "saragossa",
+  "city": "Saragossa",
+  "citySlug": "saragossa",
+  "path": "/spain/saragossa/saragossa/restaurants",
+  "canonicalPath": "/spain/saragossa/saragossa/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Cancook",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/saragossa/saragossa/cancook",
+      "award": "★"
+    },
+    {
+      "name": "Gente Rara",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€",
+      "path": "/spain/saragossa/saragossa/gente-rara",
+      "award": "★"
+    },
+    {
+      "name": "La Prensa",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/saragossa/saragossa/la-prensa",
+      "award": "★"
+    },
     {
       "name": "Bistrónomo",
       "cuisine": "Contemporary",
@@ -8,16 +38,10 @@
       "path": "/spain/saragossa/saragossa/bistrnomo"
     },
     {
-      "name": "Cancook",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/saragossa/saragossa/cancook"
-    },
-    {
       "name": "Crudo",
       "cuisine": "Fusion",
       "price": "€",
-      "path": "/spain/saragossa/saragossa/crudo"
+      "path": "/spain/saragossa/saragossa/crudo-s-a-r"
     },
     {
       "name": "es.TABLE",
@@ -32,18 +56,6 @@
       "path": "/spain/saragossa/saragossa/gamberro"
     },
     {
-      "name": "Gente Rara",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€",
-      "path": "/spain/saragossa/saragossa/gente-rara"
-    },
-    {
-      "name": "La Prensa",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/saragossa/saragossa/la-prensa"
-    },
-    {
       "name": "La Senda",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -56,16 +68,16 @@
       "path": "/spain/saragossa/saragossa/maite"
     },
     {
+      "name": "Novo Maite Anduriña",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/saragossa/saragossa/novo-maite-anduria"
+    },
+    {
       "name": "Quema",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/saragossa/saragossa/quema"
-    },
-    {
-      "name": "Novo Maite Anduriña",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/spain/saragossa/saragossa/NovoMaiteAnduria"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Lescala",
-  "country": "spain",
-  "region": "lescala",
-  "city": "lescala",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "lescala",
+  "city": "Lescala",
+  "citySlug": "lescala",
+  "path": "/spain/lescala/lescala/restaurants",
+  "canonicalPath": "/spain/lescala/lescala/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "El Roser 2",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/spain/lescala/lescala/el-roser-2"
+      "path": "/spain/lescala/lescala/el-roser2"
     },
     {
       "name": "La Gruta",

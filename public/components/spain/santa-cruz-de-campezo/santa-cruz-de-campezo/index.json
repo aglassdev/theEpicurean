@@ -1,14 +1,21 @@
 {
-  "title": "Santa Cruz De Campezo",
-  "country": "spain",
-  "region": "santa-cruz-de-campezo",
-  "city": "santa-cruz-de-campezo",
+  "title": "Santa Cruz de Campezo",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "santa-cruz-de-campezo",
+  "city": "Santa Cruz de Campezo",
+  "citySlug": "santa-cruz-de-campezo",
+  "path": "/spain/santa-cruz-de-campezo/santa-cruz-de-campezo/restaurants",
+  "canonicalPath": "/spain/santa-cruz-de-campezo/santa-cruz-de-campezo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "ARREA!",
       "cuisine": "Regional Cuisine",
       "price": "€€€€",
-      "path": "/spain/santa-cruz-de-campezo/santa-cruz-de-campezo/arrea"
+      "path": "/spain/santa-cruz-de-campezo/santa-cruz-de-campezo/arrea",
+      "award": "★"
     }
   ]
 }

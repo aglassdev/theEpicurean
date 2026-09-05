@@ -1,8 +1,14 @@
 {
   "title": "Porspoder",
-  "country": "france",
-  "region": "porspoder",
-  "city": "porspoder",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "porspoder",
+  "city": "Porspoder",
+  "citySlug": "porspoder",
+  "path": "/france/porspoder/porspoder/restaurants",
+  "canonicalPath": "/france/porspoder/porspoder/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Château de Sable",

@@ -1,8 +1,14 @@
 {
   "title": "Outer",
-  "country": "belgium",
-  "region": "outer",
-  "city": "outer",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "outer",
+  "city": "Outer",
+  "citySlug": "outer",
+  "path": "/belgium/outer/outer/restaurants",
+  "canonicalPath": "/belgium/outer/outer/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Oltra",

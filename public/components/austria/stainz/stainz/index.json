@@ -1,14 +1,20 @@
 {
   "title": "Stainz",
-  "country": "austria",
-  "region": "stainz",
-  "city": "stainz",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "stainz",
+  "city": "Stainz",
+  "citySlug": "stainz",
+  "path": "/austria/stainz/stainz/restaurants",
+  "canonicalPath": "/austria/stainz/stainz/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Terra",
       "cuisine": "Seasonal Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/austria/stainz/stainz/terra"
+      "path": "/austria/stainz/stainz/terra-s-t-a"
     }
   ]
 }

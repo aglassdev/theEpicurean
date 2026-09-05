@@ -1,17 +1,28 @@
 {
   "title": "Franschhoek",
+  "country": "South Africa",
+  "countrySlug": "south-africa",
+  "region": null,
+  "regionSlug": "franschhoek",
+  "city": "Franschhoek",
+  "citySlug": "franschhoek",
+  "path": "/south-africa/franschhoek/franschhoek/restaurants",
+  "canonicalPath": "/south-africa/franschhoek/franschhoek/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Le Quartier Français",
-      "cuisine": "",
-      "price": "",
-      "path": "/south-africa/franschhoek/franschhoek/LeQuartierFranais"
-    },
     {
       "name": "Le Quartier Francais",
       "cuisine": "",
       "price": "",
-      "path": "/south-africa/franschhoek/franschhoek/LeQuartierFrancais"
+      "path": "/south-africa/franschhoek/franschhoek/le-quartier-francais",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Le Quartier Français",
+      "cuisine": "",
+      "price": "",
+      "path": "/south-africa/franschhoek/franschhoek/le-quartier-franais",
+      "award": "World's 50 Best"
     }
   ]
 }

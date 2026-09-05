@@ -1,14 +1,20 @@
 {
   "title": "Hostalric",
-  "country": "spain",
-  "region": "hostalric",
-  "city": "hostalric",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "hostalric",
+  "city": "Hostalric",
+  "citySlug": "hostalric",
+  "path": "/spain/hostalric/hostalric/restaurants",
+  "canonicalPath": "/spain/hostalric/hostalric/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Quatre Vents 3.0",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/spain/hostalric/hostalric/quatre-vents-30"
+      "path": "/spain/hostalric/hostalric/quatre-vents30"
     }
   ]
 }

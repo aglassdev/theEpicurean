@@ -1,11 +1,20 @@
 {
   "title": "Ridgewood",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "New York",
+  "regionSlug": "new-york",
+  "city": "Ridgewood",
+  "citySlug": "ridgewood",
+  "path": "/usa/new-york/ridgewood/restaurants",
+  "canonicalPath": "/usa/new-york/ridgewood/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pierogi Boys",
       "cuisine": "Polish",
       "price": "$",
-      "path": "/usa/new-york/ridgewood/PierogiBoys"
+      "path": "/usa/new-york/ridgewood/pierogi-boys"
     }
   ]
 }

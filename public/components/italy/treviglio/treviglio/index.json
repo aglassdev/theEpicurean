@@ -1,26 +1,27 @@
 {
   "title": "Treviglio",
-  "country": "italy",
-  "region": "treviglio",
-  "city": "treviglio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "treviglio",
+  "city": "Treviglio",
+  "citySlug": "treviglio",
+  "path": "/italy/treviglio/treviglio/restaurants",
+  "canonicalPath": "/italy/treviglio/treviglio/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "San Martino",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/italy/treviglio/treviglio/san-martino",
+      "award": "★"
+    },
     {
       "name": "Marelet",
       "cuisine": "Modern Cuisine, Italian",
       "price": "€€",
       "path": "/italy/treviglio/treviglio/marelet"
-    },
-    {
-      "name": "San Martino",
-      "cuisine": "Seafood",
-      "price": "€€€",
-      "path": "/italy/treviglio/treviglio/san-martino"
-    },
-    {
-      "name": "San Martino",
-      "cuisine": "Seafood",
-      "price": "€€€",
-      "path": "/italy/treviglio/treviglio/san-martino"
     }
   ]
 }

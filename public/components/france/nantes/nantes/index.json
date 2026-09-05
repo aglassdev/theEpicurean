@@ -1,6 +1,57 @@
 {
   "title": "Nantes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "nantes",
+  "city": "Nantes",
+  "citySlug": "nantes",
+  "path": "/france/nantes/nantes/restaurants",
+  "canonicalPath": "/france/nantes/nantes/restaurants",
+  "count": 29,
   "restaurants": [
+    {
+      "name": "Freia",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/nantes/nantes/freia",
+      "award": "★"
+    },
+    {
+      "name": "L'Atlantide 1874 - Maison Guého",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/nantes/nantes/latlantide1874-maison-guho",
+      "award": "★"
+    },
+    {
+      "name": "Le Manoir de la Régate",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/nantes/nantes/le-manoir-de-la-rgate",
+      "award": "★"
+    },
+    {
+      "name": "Les Cadets",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/nantes/nantes/les-cadets",
+      "award": "★"
+    },
+    {
+      "name": "LuluRouget",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/nantes/nantes/lulurouget",
+      "award": "★"
+    },
+    {
+      "name": "Omija",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/nantes/nantes/omija",
+      "award": "★"
+    },
     {
       "name": "Bairoz",
       "cuisine": "Modern Cuisine",
@@ -8,10 +59,10 @@
       "path": "/france/nantes/nantes/bairoz"
     },
     {
-      "name": "Freia",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/nantes/nantes/freia"
+      "name": "Gwaien",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/nantes/nantes/gwaien"
     },
     {
       "name": "ICI",
@@ -20,28 +71,28 @@
       "path": "/france/nantes/nantes/ici"
     },
     {
-      "name": "La Mandale",
-      "cuisine": "Farm to table",
-      "price": "€",
-      "path": "/france/nantes/nantes/la-mandale"
-    },
-    {
       "name": "L'Abélia",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/nantes/nantes/lablia"
     },
     {
+      "name": "L'Océanide",
+      "cuisine": "Seafood, Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/nantes/nantes/locanide"
+    },
+    {
+      "name": "La Mandale",
+      "cuisine": "Farm to table",
+      "price": "€",
+      "path": "/france/nantes/nantes/la-mandale"
+    },
+    {
       "name": "Lamaccotte",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/nantes/nantes/lamaccotte"
-    },
-    {
-      "name": "L'Atlantide 1874 - Maison Guého",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/nantes/nantes/latlantide-1874-maison-guho"
     },
     {
       "name": "Le Bouchon",
@@ -56,22 +107,10 @@
       "path": "/france/nantes/nantes/le-lion-et-lagneau"
     },
     {
-      "name": "Le Manoir de la Régate",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/nantes/nantes/le-manoir-de-la-rgate"
-    },
-    {
       "name": "Les Bouteilles",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/nantes/nantes/les-bouteilles"
-    },
-    {
-      "name": "Les Cadets",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/nantes/nantes/les-cadets"
     },
     {
       "name": "Les Chants d'Avril",
@@ -80,22 +119,10 @@
       "path": "/france/nantes/nantes/les-chants-davril"
     },
     {
-      "name": "L'Océanide",
-      "cuisine": "Seafood, Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/nantes/nantes/locanide"
-    },
-    {
       "name": "Lulu le Bistrot",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/nantes/nantes/lulu-le-bistrot"
-    },
-    {
-      "name": "LuluRouget",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/nantes/nantes/lulurouget"
     },
     {
       "name": "Maison Bagarre",
@@ -116,22 +143,16 @@
       "path": "/france/nantes/nantes/obbo"
     },
     {
-      "name": "Omija",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/nantes/nantes/omija"
+      "name": "P'tite Pomme",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/nantes/nantes/ptite-pomme"
     },
     {
       "name": "Pickles",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/nantes/nantes/pickles"
-    },
-    {
-      "name": "P'tite Pomme",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/nantes/nantes/ptite-pomme"
     },
     {
       "name": "Roza",
@@ -146,16 +167,16 @@
       "path": "/france/nantes/nantes/sain"
     },
     {
-      "name": "Song, Saveurs & Sens",
-      "cuisine": "Asian Contemporary",
-      "price": "€€",
-      "path": "/france/nantes/nantes/song-saveurs-sens"
-    },
-    {
       "name": "Sépia",
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/france/nantes/nantes/spia"
+    },
+    {
+      "name": "Song, Saveurs & Sens",
+      "cuisine": "Asian Contemporary",
+      "price": "€€",
+      "path": "/france/nantes/nantes/song-saveurs-sens"
     },
     {
       "name": "Thelma",
@@ -168,12 +189,6 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/france/nantes/nantes/vacarme"
-    },
-    {
-      "name": "Gwaien",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/nantes/nantes/Gwaien"
     }
   ]
 }

@@ -1,59 +1,68 @@
 {
   "title": "Suffolk",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "East of England",
+  "regionSlug": "east-of-england",
+  "city": "Suffolk",
+  "citySlug": "suffolk",
+  "path": "/uk/east-of-england/suffolk/restaurants",
+  "canonicalPath": "/uk/east-of-england/suffolk/restaurants",
+  "count": 9,
   "restaurants": [
-    {
-      "name": "The Best Western Priory Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "15.95",
-      "path": "/uk/east-of-england/suffolk/TheBestWesternPrioryHotel"
-    },
     {
       "name": "Bannatyne Spa Bury St. Edmunds",
       "cuisine": "Afternoon Tea",
       "price": "21.00",
-      "path": "/uk/east-of-england/suffolk/BannatyneSpaBuryStEdmunds"
-    },
-    {
-      "name": "Seckford Hall Hotel & Spa",
-      "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/east-of-england/suffolk/SeckfordHallHotelSpa"
-    },
-    {
-      "name": "Riverside House Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "17.95",
-      "path": "/uk/east-of-england/suffolk/RiversideHouseHotel"
-    },
-    {
-      "name": "Riverhills",
-      "cuisine": "Afternoon Tea",
-      "price": "49.00",
-      "path": "/uk/east-of-england/suffolk/Riverhills"
-    },
-    {
-      "name": "Ravenwood Hall Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/east-of-england/suffolk/RavenwoodHallHotel"
-    },
-    {
-      "name": "The Mill Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "18.95",
-      "path": "/uk/east-of-england/suffolk/TheMillHotel"
+      "path": "/uk/east-of-england/suffolk/bannatyne-spa-bury-st-edmunds"
     },
     {
       "name": "Mill Bar and Grill",
       "cuisine": "Afternoon Tea",
       "price": "34.00",
-      "path": "/uk/east-of-england/suffolk/MillBarAndGrill"
+      "path": "/uk/east-of-england/suffolk/mill-bar-and-grill"
+    },
+    {
+      "name": "Ravenwood Hall Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/east-of-england/suffolk/ravenwood-hall-hotel"
+    },
+    {
+      "name": "Riverhills",
+      "cuisine": "Afternoon Tea",
+      "price": "49.00",
+      "path": "/uk/east-of-england/suffolk/riverhills"
+    },
+    {
+      "name": "Riverside House Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "17.95",
+      "path": "/uk/east-of-england/suffolk/riverside-house-hotel"
+    },
+    {
+      "name": "Seckford Hall Hotel & Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/east-of-england/suffolk/seckford-hall-hotel-spa"
+    },
+    {
+      "name": "The Best Western Priory Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "15.95",
+      "path": "/uk/east-of-england/suffolk/the-best-western-priory-hotel"
     },
     {
       "name": "The Ickworth",
       "cuisine": "Afternoon Tea",
       "price": "30.00",
-      "path": "/uk/east-of-england/suffolk/TheIckworth"
+      "path": "/uk/east-of-england/suffolk/the-ickworth"
+    },
+    {
+      "name": "The Mill Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "18.95",
+      "path": "/uk/east-of-england/suffolk/the-mill-hotel"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Tinnum",
-  "country": "germany",
-  "region": "tinnum",
-  "city": "tinnum",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "tinnum",
+  "city": "Tinnum",
+  "citySlug": "tinnum",
+  "path": "/germany/tinnum/tinnum/restaurants",
+  "canonicalPath": "/germany/tinnum/tinnum/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "BODENDORF'S",
       "cuisine": "Modern French, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/germany/tinnum/tinnum/bodendorfs"
+      "path": "/germany/tinnum/tinnum/bodendorfs",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Torno",
-  "country": "italy",
-  "region": "torno",
-  "city": "torno",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "torno",
+  "city": "Torno",
+  "citySlug": "torno",
+  "path": "/italy/torno/torno/restaurants",
+  "canonicalPath": "/italy/torno/torno/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Sereno Al Lago",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€€€",
-      "path": "/italy/torno/torno/il-sereno-al-lago"
+      "path": "/italy/torno/torno/il-sereno-al-lago",
+      "award": "★"
     }
   ]
 }

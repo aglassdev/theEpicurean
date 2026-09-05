@@ -1,8 +1,14 @@
 {
   "title": "Ripley",
-  "country": "uk",
-  "region": "ripley",
-  "city": "ripley",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "ripley",
+  "city": "Ripley",
+  "citySlug": "ripley",
+  "path": "/uk/ripley/ripley/restaurants",
+  "canonicalPath": "/uk/ripley/ripley/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Anchor",

@@ -1,11 +1,20 @@
 {
   "title": "Sittard",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "sittard",
+  "city": "Sittard",
+  "citySlug": "sittard",
+  "path": "/netherlands/sittard/sittard/restaurants",
+  "canonicalPath": "/netherlands/sittard/sittard/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Tara",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/netherlands/sittard/sittard/RestaurantTara"
+      "path": "/netherlands/sittard/sittard/restaurant-tara"
     }
   ]
 }

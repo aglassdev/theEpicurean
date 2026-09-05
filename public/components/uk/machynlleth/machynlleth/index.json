@@ -1,26 +1,27 @@
 {
   "title": "Machynlleth",
-  "country": "uk",
-  "region": "machynlleth",
-  "city": "machynlleth",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "machynlleth",
+  "city": "Machynlleth",
+  "citySlug": "machynlleth",
+  "path": "/uk/machynlleth/machynlleth/restaurants",
+  "canonicalPath": "/uk/machynlleth/machynlleth/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Gwen",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/machynlleth/machynlleth/gwen"
-    },
-    {
-      "name": "Gwen",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/machynlleth/machynlleth/gwen"
-    },
     {
       "name": "Ynyshir",
       "cuisine": "Creative",
       "price": "££££",
-      "path": "/uk/machynlleth/machynlleth/ynyshir"
+      "path": "/uk/machynlleth/machynlleth/ynyshir",
+      "award": "★★"
+    },
+    {
+      "name": "Gwen",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/machynlleth/machynlleth/gwen"
     }
   ]
 }

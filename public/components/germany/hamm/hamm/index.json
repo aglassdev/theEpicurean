@@ -1,14 +1,20 @@
 {
   "title": "Hamm",
-  "country": "germany",
-  "region": "hamm",
-  "city": "hamm",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hamm",
+  "city": "Hamm",
+  "citySlug": "hamm",
+  "path": "/germany/hamm/hamm/restaurants",
+  "canonicalPath": "/germany/hamm/hamm/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Wieland-Stuben",
       "cuisine": "Classic French, Farm to table",
       "price": "€€€",
-      "path": "/germany/hamm/hamm/wieland-stuben"
+      "path": "/germany/hamm/hamm/wielandstuben"
     }
   ]
 }

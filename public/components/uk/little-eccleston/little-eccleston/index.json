@@ -1,5 +1,14 @@
 {
   "title": "Little Eccleston",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "little-eccleston",
+  "city": "Little Eccleston",
+  "citySlug": "little-eccleston",
+  "path": "/uk/little-eccleston/little-eccleston/restaurants",
+  "canonicalPath": "/uk/little-eccleston/little-eccleston/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Cartford Inn",
@@ -11,7 +20,7 @@
       "name": "The Cartford",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/uk/little-eccleston/little-eccleston/TheCartford"
+      "path": "/uk/little-eccleston/little-eccleston/the-cartford"
     }
   ]
 }

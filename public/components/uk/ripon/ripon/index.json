@@ -1,20 +1,27 @@
 {
   "title": "Ripon",
-  "country": "uk",
-  "region": "ripon",
-  "city": "ripon",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "ripon",
+  "city": "Ripon",
+  "citySlug": "ripon",
+  "path": "/uk/ripon/ripon/restaurants",
+  "canonicalPath": "/uk/ripon/ripon/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Shaun Rankin at Grantley Hall",
+      "cuisine": "Modern British, Regional Cuisine",
+      "price": "££££",
+      "path": "/uk/ripon/ripon/shaun-rankin-at-grantley-hall",
+      "award": "★"
+    },
     {
       "name": "Fletchers",
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/ripon/ripon/fletchers"
-    },
-    {
-      "name": "Shaun Rankin at Grantley Hall",
-      "cuisine": "Modern British, Regional Cuisine",
-      "price": "££££",
-      "path": "/uk/ripon/ripon/shaun-rankin-at-grantley-hall"
     },
     {
       "name": "The Old Deanery",

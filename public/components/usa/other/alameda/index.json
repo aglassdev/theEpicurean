@@ -1,0 +1,26 @@
+{
+  "title": "Alameda",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Alameda",
+  "citySlug": "alameda",
+  "path": "/usa/other/alameda/restaurants",
+  "canonicalPath": "/usa/california/alameda/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Spinning Bones",
+      "cuisine": "Californian",
+      "price": "$$",
+      "path": "/usa/california/alameda/spinning-bones"
+    },
+    {
+      "name": "Utzutzu",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/alameda/utzutzu"
+    }
+  ]
+}

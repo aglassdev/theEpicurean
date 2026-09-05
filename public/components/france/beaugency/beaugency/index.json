@@ -1,8 +1,14 @@
 {
   "title": "Beaugency",
-  "country": "france",
-  "region": "beaugency",
-  "city": "beaugency",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "beaugency",
+  "city": "Beaugency",
+  "citySlug": "beaugency",
+  "path": "/france/beaugency/beaugency/restaurants",
+  "canonicalPath": "/france/beaugency/beaugency/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le P'tit Bateau",

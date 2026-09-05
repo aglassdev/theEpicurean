@@ -1,8 +1,14 @@
 {
   "title": "Cartosio",
-  "country": "italy",
-  "region": "cartosio",
-  "city": "cartosio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cartosio",
+  "city": "Cartosio",
+  "citySlug": "cartosio",
+  "path": "/italy/cartosio/cartosio/restaurants",
+  "canonicalPath": "/italy/cartosio/cartosio/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cacciatori",

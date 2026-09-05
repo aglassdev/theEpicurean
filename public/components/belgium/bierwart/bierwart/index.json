@@ -1,8 +1,14 @@
 {
   "title": "Bierwart",
-  "country": "belgium",
-  "region": "bierwart",
-  "city": "bierwart",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "bierwart",
+  "city": "Bierwart",
+  "citySlug": "bierwart",
+  "path": "/belgium/bierwart/bierwart/restaurants",
+  "canonicalPath": "/belgium/bierwart/bierwart/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Coquo",

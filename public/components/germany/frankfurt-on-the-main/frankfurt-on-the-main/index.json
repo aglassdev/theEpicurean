@@ -1,11 +1,91 @@
 {
-  "title": "Frankfurt On The Main",
+  "title": "Frankfurt on the Main",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "frankfurt-on-the-main",
+  "city": "Frankfurt on the Main",
+  "citySlug": "frankfurt-on-the-main",
+  "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/restaurants",
+  "canonicalPath": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/restaurants",
+  "count": 27,
   "restaurants": [
+    {
+      "name": "Lafleur",
+      "cuisine": "Modern French, Creative",
+      "price": "€€€€",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/lafleur",
+      "award": "★★"
+    },
+    {
+      "name": "the dune",
+      "cuisine": "International",
+      "price": "$$$$",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/the-dune",
+      "award": "★★"
+    },
     {
       "name": "bidlabu",
       "cuisine": "Farm to table, Contemporary",
       "price": "€€€",
-      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/bidlabu"
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/bidlabu",
+      "award": "★"
+    },
+    {
+      "name": "Carmelo Greco",
+      "cuisine": "Italian",
+      "price": "€€€",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/carmelo-greco",
+      "award": "★"
+    },
+    {
+      "name": "Erno's Bistro",
+      "cuisine": "Classic French, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/ernos-bistro",
+      "award": "★"
+    },
+    {
+      "name": "MAIN TOWER Restaurant & Lounge",
+      "cuisine": "Asian Influences, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/main-tower-restaurant-lounge",
+      "award": "★"
+    },
+    {
+      "name": "Masa Japanese Cuisine",
+      "cuisine": "Japanese, Japanese Contemporary",
+      "price": "€€€€",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/masa-japanese-cuisine",
+      "award": "★"
+    },
+    {
+      "name": "Restaurant Villa Merton",
+      "cuisine": "Classic Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/restaurant-villa-merton",
+      "award": "★"
+    },
+    {
+      "name": "Seven Swans",
+      "cuisine": "Vegan, Creative",
+      "price": "€€€€",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/seven-swans",
+      "award": "★"
+    },
+    {
+      "name": "Sommerfeld",
+      "cuisine": "International, Creative",
+      "price": "€€€€",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/sommerfeld",
+      "award": "★"
+    },
+    {
+      "name": "Bornheimer Ratskeller",
+      "cuisine": "Regional Cuisine",
+      "price": "$$",
+      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/bornheimer-ratskeller",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Bistro Villa Merton",
@@ -14,22 +94,10 @@
       "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/bistro-villa-merton"
     },
     {
-      "name": "Carmelo Greco",
-      "cuisine": "Italian",
-      "price": "€€€",
-      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/carmelo-greco"
-    },
-    {
       "name": "Carte blanche",
       "cuisine": "Farm to table, Modern Cuisine",
       "price": "€€€",
       "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/carte-blanche"
-    },
-    {
-      "name": "Erno's Bistro",
-      "cuisine": "Classic French, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/ernos-bistro"
     },
     {
       "name": "Frankfurter Botschaft",
@@ -56,12 +124,6 @@
       "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/greta-oto-frankfurt"
     },
     {
-      "name": "Lafleur",
-      "cuisine": "Modern French, Creative",
-      "price": "€€€€",
-      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/lafleur"
-    },
-    {
       "name": "l'Ecume",
       "cuisine": "Modern French, French Contemporary",
       "price": "€€€",
@@ -72,18 +134,6 @@
       "cuisine": "Austrian, International",
       "price": "€€€€",
       "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/lohninger"
-    },
-    {
-      "name": "MAIN TOWER Restaurant & Lounge",
-      "cuisine": "Asian Influences, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/main-tower-restaurant-lounge"
-    },
-    {
-      "name": "Masa Japanese Cuisine",
-      "cuisine": "Japanese, Japanese Contemporary",
-      "price": "€€€€",
-      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/masa-japanese-cuisine"
     },
     {
       "name": "Medici",
@@ -110,24 +160,6 @@
       "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/rausch"
     },
     {
-      "name": "Restaurant Villa Merton",
-      "cuisine": "Classic Cuisine, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/restaurant-villa-merton"
-    },
-    {
-      "name": "Seven Swans",
-      "cuisine": "Vegan, Creative",
-      "price": "€€€€",
-      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/seven-swans"
-    },
-    {
-      "name": "Sommerfeld",
-      "cuisine": "International, Creative",
-      "price": "€€€€",
-      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/sommerfeld"
-    },
-    {
       "name": "Sorriso",
       "cuisine": "Contemporary, Mediterranean Cuisine",
       "price": "€€€",
@@ -150,18 +182,6 @@
       "cuisine": "Asian",
       "price": "€€€",
       "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/zenzakan"
-    },
-    {
-      "name": "the dune",
-      "cuisine": "International",
-      "price": "$$$$",
-      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/TheDune"
-    },
-    {
-      "name": "Bornheimer Ratskeller",
-      "cuisine": "Regional Cuisine",
-      "price": "$$",
-      "path": "/germany/frankfurt-on-the-main/frankfurt-on-the-main/BornheimerRatskeller"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Orbetello",
-  "country": "italy",
-  "region": "orbetello",
-  "city": "orbetello",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "orbetello",
+  "city": "Orbetello",
+  "citySlug": "orbetello",
+  "path": "/italy/orbetello/orbetello/restaurants",
+  "canonicalPath": "/italy/orbetello/orbetello/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Oste Dispensa",

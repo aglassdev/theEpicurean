@@ -1,20 +1,26 @@
 {
   "title": "Issigeac",
-  "country": "france",
-  "region": "issigeac",
-  "city": "issigeac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "issigeac",
+  "city": "Issigeac",
+  "citySlug": "issigeac",
+  "path": "/france/issigeac/issigeac/restaurants",
+  "canonicalPath": "/france/issigeac/issigeac/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "L'Atelier",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/issigeac/issigeac/latelier-i-s-s"
+    },
     {
       "name": "La Brucelière",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/issigeac/issigeac/la-brucelire"
-    },
-    {
-      "name": "L'Atelier",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/issigeac/issigeac/latelier"
     }
   ]
 }

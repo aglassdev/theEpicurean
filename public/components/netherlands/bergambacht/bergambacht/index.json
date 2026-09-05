@@ -1,14 +1,21 @@
 {
   "title": "Bergambacht",
-  "country": "netherlands",
-  "region": "bergambacht",
-  "city": "bergambacht",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "bergambacht",
+  "city": "Bergambacht",
+  "citySlug": "bergambacht",
+  "path": "/netherlands/bergambacht/bergambacht/restaurants",
+  "canonicalPath": "/netherlands/bergambacht/bergambacht/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pieters Restaurant",
       "cuisine": "Modern French, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/netherlands/bergambacht/bergambacht/pieters-restaurant"
+      "path": "/netherlands/bergambacht/bergambacht/pieters-restaurant",
+      "award": "★"
     }
   ]
 }

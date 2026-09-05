@@ -1,8 +1,14 @@
 {
   "title": "Werdohl",
-  "country": "germany",
-  "region": "werdohl",
-  "city": "werdohl",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "werdohl",
+  "city": "Werdohl",
+  "citySlug": "werdohl",
+  "path": "/germany/werdohl/werdohl/restaurants",
+  "canonicalPath": "/germany/werdohl/werdohl/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Thuns Dorfkrug",

@@ -1,11 +1,20 @@
 {
-  "title": "Bielsko-Biała",
+  "title": "Bielsko Biaa",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "bielsko-biaa",
+  "city": "Bielsko Biaa",
+  "citySlug": "bielsko-biaa",
+  "path": "/poland/bielsko-biaa/bielsko-biaa/restaurants",
+  "canonicalPath": "/poland/bielsko-biaa/bielsko-biaa/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Dworek New Restaurant",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/poland/bielsko-biaa/bielsko-biaa/DworekNewRestaurant"
+      "path": "/poland/bielsko-biaa/bielsko-biaa/dworek-new-restaurant"
     }
   ]
 }

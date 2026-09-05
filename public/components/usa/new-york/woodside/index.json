@@ -1,11 +1,20 @@
 {
   "title": "Woodside",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "New York",
+  "regionSlug": "new-york",
+  "city": "Woodside",
+  "citySlug": "woodside",
+  "path": "/usa/new-york/woodside/restaurants",
+  "canonicalPath": "/usa/new-york/woodside/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bolivian Llama Party",
       "cuisine": "South American",
       "price": "$$",
-      "path": "/usa/new-york/woodside/BolivianLlamaParty"
+      "path": "/usa/new-york/woodside/bolivian-llama-party"
     }
   ]
 }

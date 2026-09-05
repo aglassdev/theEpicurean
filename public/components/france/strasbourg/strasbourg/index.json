@@ -1,23 +1,62 @@
 {
   "title": "Strasbourg",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "strasbourg",
+  "city": "Strasbourg",
+  "citySlug": "strasbourg",
+  "path": "/france/strasbourg/strasbourg/restaurants",
+  "canonicalPath": "/france/strasbourg/strasbourg/restaurants",
+  "count": 24,
   "restaurants": [
     {
       "name": "1741",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/strasbourg/strasbourg/1741"
+      "path": "/france/strasbourg/strasbourg/1741",
+      "award": "★"
+    },
+    {
+      "name": "Au Crocodile",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/strasbourg/strasbourg/au-crocodile",
+      "award": "★"
+    },
+    {
+      "name": "de:ja",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/strasbourg/strasbourg/deja",
+      "award": "★"
+    },
+    {
+      "name": "Guillaume Scheer - Les Plaisirs Gourmands",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/strasbourg/strasbourg/guillaume-scheer-les-plaisirs-gourmands",
+      "award": "★"
+    },
+    {
+      "name": "Les Funambules",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/strasbourg/strasbourg/les-funambules",
+      "award": "★"
+    },
+    {
+      "name": "Umami",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/strasbourg/strasbourg/umami",
+      "award": "★"
     },
     {
       "name": "Au Coin des Pucelles",
       "cuisine": "Traditional Cuisine, Alsatian",
       "price": "€€",
       "path": "/france/strasbourg/strasbourg/au-coin-des-pucelles"
-    },
-    {
-      "name": "Au Crocodile",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/strasbourg/strasbourg/au-crocodile"
     },
     {
       "name": "Au Pont Corbeau",
@@ -44,6 +83,12 @@
       "path": "/france/strasbourg/strasbourg/buerehiesel"
     },
     {
+      "name": "Chère Amie",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/strasbourg/strasbourg/chre-amie"
+    },
+    {
       "name": "Chez Yvonne - S'Burjerstuewel",
       "cuisine": "Alsatian, Country cooking",
       "price": "€€",
@@ -56,28 +101,22 @@
       "path": "/france/strasbourg/strasbourg/colbert"
     },
     {
-      "name": "de:ja",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/strasbourg/strasbourg/deja"
-    },
-    {
       "name": "Gavroche",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/strasbourg/strasbourg/gavroche"
     },
     {
-      "name": "Guillaume Scheer - Les Plaisirs Gourmands",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/strasbourg/strasbourg/guillaume-scheer-les-plaisirs-gourmands"
-    },
-    {
       "name": "In Vino Veritas",
       "cuisine": "Italian",
       "price": "€€",
-      "path": "/france/strasbourg/strasbourg/in-vino-veritas"
+      "path": "/france/strasbourg/strasbourg/in-vino-veritas-s-t-r"
+    },
+    {
+      "name": "Køkken",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/strasbourg/strasbourg/kkken"
     },
     {
       "name": "La Casserole",
@@ -95,19 +134,13 @@
       "name": "La Vieille Tour",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
-      "path": "/france/strasbourg/strasbourg/la-vieille-tour"
+      "path": "/france/strasbourg/strasbourg/la-vieille-tour-s-t-r"
     },
     {
       "name": "Le Banquet des Sophistes",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/strasbourg/strasbourg/le-banquet-des-sophistes"
-    },
-    {
-      "name": "Les Funambules",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/strasbourg/strasbourg/les-funambules"
     },
     {
       "name": "Léonor",
@@ -126,24 +159,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/strasbourg/strasbourg/rgent-petite-france"
-    },
-    {
-      "name": "Umami",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/strasbourg/strasbourg/umami"
-    },
-    {
-      "name": "Chère Amie",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/france/strasbourg/strasbourg/ChreAmie"
-    },
-    {
-      "name": "Køkken",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/france/strasbourg/strasbourg/Kkken"
     }
   ]
 }

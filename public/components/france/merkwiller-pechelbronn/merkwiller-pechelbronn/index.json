@@ -1,14 +1,20 @@
 {
   "title": "Merkwiller Pechelbronn",
-  "country": "france",
-  "region": "merkwiller-pechelbronn",
-  "city": "merkwiller-pechelbronn",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "merkwiller-pechelbronn",
+  "city": "Merkwiller Pechelbronn",
+  "citySlug": "merkwiller-pechelbronn",
+  "path": "/france/merkwiller-pechelbronn/merkwiller-pechelbronn/restaurants",
+  "canonicalPath": "/france/merkwiller-pechelbronn/merkwiller-pechelbronn/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge Baechel-Brunn",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/merkwiller-pechelbronn/merkwiller-pechelbronn/auberge-baechel-brunn"
+      "path": "/france/merkwiller-pechelbronn/merkwiller-pechelbronn/auberge-baechelbrunn"
     }
   ]
 }

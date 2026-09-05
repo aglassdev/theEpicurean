@@ -1,11 +1,21 @@
 {
   "title": "Illschwang",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "illschwang",
+  "city": "Illschwang",
+  "citySlug": "illschwang",
+  "path": "/germany/illschwang/illschwang/restaurants",
+  "canonicalPath": "/germany/illschwang/illschwang/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Cheval Blanc",
       "cuisine": "Classic Cuisine, Modern French",
       "price": "€€€€",
-      "path": "/germany/illschwang/illschwang/cheval-blanc"
+      "path": "/germany/illschwang/illschwang/cheval-blanc",
+      "award": "★"
     },
     {
       "name": "Weißes Roß",
@@ -17,7 +27,7 @@
       "name": "Wurzel",
       "cuisine": "Vegan",
       "price": "$$",
-      "path": "/germany/illschwang/illschwang/Wurzel"
+      "path": "/germany/illschwang/illschwang/wurzel"
     }
   ]
 }

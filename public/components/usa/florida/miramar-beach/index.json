@@ -1,11 +1,20 @@
 {
   "title": "Miramar Beach",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Miramar Beach",
+  "citySlug": "miramar-beach",
+  "path": "/usa/florida/miramar-beach/restaurants",
+  "canonicalPath": "/usa/florida/miramar-beach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Evie Mae's BBQ",
       "cuisine": "Barbecue",
       "price": "$$",
-      "path": "/usa/florida/miramar-beach/EvieMaesBbq"
+      "path": "/usa/florida/miramar-beach/evie-maes-bbq"
     }
   ]
 }

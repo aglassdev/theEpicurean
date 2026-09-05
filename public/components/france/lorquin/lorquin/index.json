@@ -1,8 +1,14 @@
 {
   "title": "Lorquin",
-  "country": "france",
-  "region": "lorquin",
-  "city": "lorquin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lorquin",
+  "city": "Lorquin",
+  "citySlug": "lorquin",
+  "path": "/france/lorquin/lorquin/restaurants",
+  "canonicalPath": "/france/lorquin/lorquin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Bout des Canards",

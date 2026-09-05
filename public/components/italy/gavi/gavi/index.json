@@ -1,8 +1,14 @@
 {
   "title": "Gavi",
-  "country": "italy",
-  "region": "gavi",
-  "city": "gavi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "gavi",
+  "city": "Gavi",
+  "citySlug": "gavi",
+  "path": "/italy/gavi/gavi/restaurants",
+  "canonicalPath": "/italy/gavi/gavi/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Gallina",

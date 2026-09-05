@@ -1,5 +1,14 @@
 {
   "title": "Cologny",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "cologny",
+  "city": "Cologny",
+  "citySlug": "cologny",
+  "path": "/switzerland/cologny/cologny/restaurants",
+  "canonicalPath": "/switzerland/cologny/cologny/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Auberge du Lion d'Or",
@@ -11,7 +20,7 @@
       "name": "Le bistrot du Lion d’Or",
       "cuisine": "Traditional Cuisine",
       "price": "$$$",
-      "path": "/switzerland/cologny/cologny/LeBistrotDuLionDor"
+      "path": "/switzerland/cologny/cologny/le-bistrot-du-lion-dor"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Sainte Maure",
-  "country": "france",
-  "region": "sainte-maure",
-  "city": "sainte-maure",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sainte-maure",
+  "city": "Sainte Maure",
+  "citySlug": "sainte-maure",
+  "path": "/france/sainte-maure/sainte-maure/restaurants",
+  "canonicalPath": "/france/sainte-maure/sainte-maure/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de Sainte-Maure",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/sainte-maure/sainte-maure/auberge-de-sainte-maure"
+      "path": "/france/sainte-maure/sainte-maure/auberge-de-saintemaure"
     }
   ]
 }

@@ -1,6 +1,36 @@
 {
   "title": "Saint Moritz",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "saint-moritz",
+  "city": "Saint Moritz",
+  "citySlug": "saint-moritz",
+  "path": "/switzerland/saint-moritz/saint-moritz/restaurants",
+  "canonicalPath": "/switzerland/saint-moritz/saint-moritz/restaurants",
+  "count": 17,
   "restaurants": [
+    {
+      "name": "Da Vittorio - St. Moritz",
+      "cuisine": "Italian",
+      "price": "€€€€",
+      "path": "/switzerland/saint-moritz/saint-moritz/da-vittorio-st-moritz",
+      "award": "★★"
+    },
+    {
+      "name": "Ecco St. Moritz",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/saint-moritz/saint-moritz/ecco-st-moritz",
+      "award": "★★"
+    },
+    {
+      "name": "Talvo",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/saint-moritz/saint-moritz/talvo",
+      "award": "★"
+    },
     {
       "name": "Amaru by Claudia Canessa",
       "cuisine": "Peruvian",
@@ -26,22 +56,16 @@
       "path": "/switzerland/saint-moritz/saint-moritz/da-adriano"
     },
     {
-      "name": "Da Vittorio - St. Moritz",
-      "cuisine": "Italian",
-      "price": "€€€€",
-      "path": "/switzerland/saint-moritz/saint-moritz/da-vittorio-st-moritz"
-    },
-    {
       "name": "Dal Mulin",
       "cuisine": "Country cooking, Modern Cuisine",
       "price": "€€€",
       "path": "/switzerland/saint-moritz/saint-moritz/dal-mulin"
     },
     {
-      "name": "Ecco St. Moritz",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/saint-moritz/saint-moritz/ecco-st-moritz"
+      "name": "Grand Restaurant",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/switzerland/saint-moritz/saint-moritz/grand-restaurant"
     },
     {
       "name": "HATECKE",
@@ -52,12 +76,6 @@
     {
       "name": "Hide & Seek",
       "cuisine": "Mediterranean Cuisine, Regional Cuisine",
-      "price": "€€€",
-      "path": "/switzerland/saint-moritz/saint-moritz/hide-seek"
-    },
-    {
-      "name": "Hide & Seek",
-      "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
       "path": "/switzerland/saint-moritz/saint-moritz/hide-seek"
     },
@@ -77,13 +95,13 @@
       "name": "La Scarpetta",
       "cuisine": "Italian Contemporary",
       "price": "€€",
-      "path": "/switzerland/saint-moritz/saint-moritz/la-scarpetta"
+      "path": "/switzerland/saint-moritz/saint-moritz/la-scarpetta-s-a-i"
     },
     {
       "name": "Langosteria",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/switzerland/saint-moritz/saint-moritz/langosteria"
+      "path": "/switzerland/saint-moritz/saint-moritz/langosteria-s-a-i"
     },
     {
       "name": "Le Restaurant / Le Relais",
@@ -96,18 +114,6 @@
       "cuisine": "Traditional Cuisine, Alpine",
       "price": "€€€€",
       "path": "/switzerland/saint-moritz/saint-moritz/paradiso"
-    },
-    {
-      "name": "Talvo",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/saint-moritz/saint-moritz/talvo"
-    },
-    {
-      "name": "Grand Restaurant",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/switzerland/saint-moritz/saint-moritz/GrandRestaurant"
     }
   ]
 }

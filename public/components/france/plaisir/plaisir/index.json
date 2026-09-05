@@ -1,8 +1,14 @@
 {
   "title": "Plaisir",
-  "country": "france",
-  "region": "plaisir",
-  "city": "plaisir",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "plaisir",
+  "city": "Plaisir",
+  "citySlug": "plaisir",
+  "path": "/france/plaisir/plaisir/restaurants",
+  "canonicalPath": "/france/plaisir/plaisir/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Maison des Bois",

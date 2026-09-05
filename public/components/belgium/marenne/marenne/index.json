@@ -1,14 +1,21 @@
 {
   "title": "Marenne",
-  "country": "belgium",
-  "region": "marenne",
-  "city": "marenne",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "marenne",
+  "city": "Marenne",
+  "citySlug": "marenne",
+  "path": "/belgium/marenne/marenne/restaurants",
+  "canonicalPath": "/belgium/marenne/marenne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Pieds dans le Plat",
       "cuisine": "Classic Cuisine, Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/marenne/marenne/les-pieds-dans-le-plat"
+      "path": "/belgium/marenne/marenne/les-pieds-dans-le-plat",
+      "award": "★"
     }
   ]
 }

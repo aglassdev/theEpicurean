@@ -1,26 +1,34 @@
 {
-  "title": "Les Baux De Provence",
-  "country": "france",
-  "region": "les-baux-de-provence",
-  "city": "les-baux-de-provence",
+  "title": "Les Baux de Provence",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "les-baux-de-provence",
+  "city": "Les Baux de Provence",
+  "citySlug": "les-baux-de-provence",
+  "path": "/france/les-baux-de-provence/les-baux-de-provence/restaurants",
+  "canonicalPath": "/france/les-baux-de-provence/les-baux-de-provence/restaurants",
+  "count": 3,
   "restaurants": [
     {
-      "name": "La Cabro d'Or",
-      "cuisine": "Provençal",
+      "name": "L'Oustau de Baumanière",
+      "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/les-baux-de-provence/les-baux-de-provence/la-cabro-dor"
+      "path": "/france/les-baux-de-provence/les-baux-de-provence/loustau-de-baumanire",
+      "award": "★★★"
     },
     {
       "name": "L'Aupiho - Domaine de Manville",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/les-baux-de-provence/les-baux-de-provence/laupiho-domaine-de-manville"
+      "path": "/france/les-baux-de-provence/les-baux-de-provence/laupiho-domaine-de-manville",
+      "award": "★"
     },
     {
-      "name": "L'Oustau de Baumanière",
-      "cuisine": "Creative",
+      "name": "La Cabro d'Or",
+      "cuisine": "Provençal",
       "price": "€€€€",
-      "path": "/france/les-baux-de-provence/les-baux-de-provence/loustau-de-baumanire"
+      "path": "/france/les-baux-de-provence/les-baux-de-provence/la-cabro-dor"
     }
   ]
 }

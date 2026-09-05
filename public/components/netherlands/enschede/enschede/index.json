@@ -1,20 +1,27 @@
 {
   "title": "Enschede",
-  "country": "netherlands",
-  "region": "enschede",
-  "city": "enschede",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "enschede",
+  "city": "Enschede",
+  "citySlug": "enschede",
+  "path": "/netherlands/enschede/enschede/restaurants",
+  "canonicalPath": "/netherlands/enschede/enschede/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Joann",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€",
+      "path": "/netherlands/enschede/enschede/joann",
+      "award": "★"
+    },
     {
       "name": "Bistro Bruut",
       "cuisine": "Creative, International",
       "price": "€€€",
       "path": "/netherlands/enschede/enschede/bistro-bruut"
-    },
-    {
-      "name": "Joann",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€",
-      "path": "/netherlands/enschede/enschede/joann"
     }
   ]
 }

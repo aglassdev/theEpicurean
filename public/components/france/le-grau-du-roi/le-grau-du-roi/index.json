@@ -1,11 +1,20 @@
 {
-  "title": "Le Grau-du-Roi",
+  "title": "Le Grau du Roi",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-grau-du-roi",
+  "city": "Le Grau du Roi",
+  "citySlug": "le-grau-du-roi",
+  "path": "/france/le-grau-du-roi/le-grau-du-roi/restaurants",
+  "canonicalPath": "/france/le-grau-du-roi/le-grau-du-roi/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Amarette",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/france/le-grau-du-roi/le-grau-du-roi/Lamarette"
+      "path": "/france/le-grau-du-roi/le-grau-du-roi/lamarette"
     }
   ]
 }

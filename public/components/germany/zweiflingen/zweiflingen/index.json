@@ -1,14 +1,21 @@
 {
   "title": "Zweiflingen",
-  "country": "germany",
-  "region": "zweiflingen",
-  "city": "zweiflingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "zweiflingen",
+  "city": "Zweiflingen",
+  "citySlug": "zweiflingen",
+  "path": "/germany/zweiflingen/zweiflingen/restaurants",
+  "canonicalPath": "/germany/zweiflingen/zweiflingen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Cerf",
       "cuisine": "Classic French",
       "price": "€€€€",
-      "path": "/germany/zweiflingen/zweiflingen/le-cerf"
+      "path": "/germany/zweiflingen/zweiflingen/le-cerf",
+      "award": "★★"
     }
   ]
 }

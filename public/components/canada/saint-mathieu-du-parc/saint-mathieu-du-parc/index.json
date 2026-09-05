@@ -1,20 +1,20 @@
 {
-  "title": "Saint Mathieu Du Parc",
-  "country": "canada",
-  "region": "saint-mathieu-du-parc",
-  "city": "saint-mathieu-du-parc",
+  "title": "Saint Mathieu du Parc",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "saint-mathieu-du-parc",
+  "city": "Saint Mathieu du Parc",
+  "citySlug": "saint-mathieu-du-parc",
+  "path": "/canada/saint-mathieu-du-parc/saint-mathieu-du-parc/restaurants",
+  "canonicalPath": "/canada/saint-mathieu-du-parc/saint-mathieu-du-parc/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge Saint-Mathieu",
       "cuisine": "Creative",
       "price": "$$$$",
-      "path": "/canada/saint-mathieu-du-parc/saint-mathieu-du-parc/auberge-saint-mathieu"
-    },
-    {
-      "name": "Auberge Saint-Mathieu",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/canada/saint-mathieu-du-parc/saint-mathieu-du-parc/auberge-saint-mathieu"
+      "path": "/canada/saint-mathieu-du-parc/saint-mathieu-du-parc/auberge-saintmathieu"
     }
   ]
 }

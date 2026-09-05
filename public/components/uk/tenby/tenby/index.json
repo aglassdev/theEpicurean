@@ -1,8 +1,14 @@
 {
   "title": "Tenby",
-  "country": "uk",
-  "region": "tenby",
-  "city": "tenby",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "tenby",
+  "city": "Tenby",
+  "citySlug": "tenby",
+  "path": "/uk/tenby/tenby/restaurants",
+  "canonicalPath": "/uk/tenby/tenby/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Links",

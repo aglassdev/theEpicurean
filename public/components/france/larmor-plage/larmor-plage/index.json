@@ -1,11 +1,20 @@
 {
-  "title": "Larmor-Plage",
+  "title": "Larmor Plage",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "larmor-plage",
+  "city": "Larmor Plage",
+  "citySlug": "larmor-plage",
+  "path": "/france/larmor-plage/larmor-plage/restaurants",
+  "canonicalPath": "/france/larmor-plage/larmor-plage/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Érin - Bistrot de la Dune",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/france/larmor-plage/larmor-plage/RinBistrotDeLaDune"
+      "path": "/france/larmor-plage/larmor-plage/rin-bistrot-de-la-dune"
     }
   ]
 }

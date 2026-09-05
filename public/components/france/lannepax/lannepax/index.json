@@ -1,8 +1,14 @@
 {
   "title": "Lannepax",
-  "country": "france",
-  "region": "lannepax",
-  "city": "lannepax",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lannepax",
+  "city": "Lannepax",
+  "citySlug": "lannepax",
+  "path": "/france/lannepax/lannepax/restaurants",
+  "canonicalPath": "/france/lannepax/lannepax/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Falène Bleue",

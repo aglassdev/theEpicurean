@@ -1,6 +1,127 @@
 {
   "title": "Antwerpen",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "antwerpen",
+  "city": "Antwerpen",
+  "citySlug": "antwerpen",
+  "path": "/belgium/antwerpen/antwerpen/restaurants",
+  "canonicalPath": "/belgium/antwerpen/antwerpen/restaurants",
+  "count": 55,
   "restaurants": [
+    {
+      "name": "Zilte",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/belgium/antwerpen/antwerpen/zilte",
+      "award": "★★★"
+    },
+    {
+      "name": "Hertog Jan at Botanic",
+      "cuisine": "Creative, Asian Influences",
+      "price": "€€€€",
+      "path": "/belgium/antwerpen/antwerpen/hertog-jan-at-botanic",
+      "award": "★★"
+    },
+    {
+      "name": "'t Fornuis",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/belgium/antwerpen/antwerpen/t-fornuis",
+      "award": "★"
+    },
+    {
+      "name": "Bistrot du Nord",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/belgium/antwerpen/antwerpen/bistrot-du-nord",
+      "award": "★"
+    },
+    {
+      "name": "DIM Dining",
+      "cuisine": "Asian, Creative",
+      "price": "€€€€",
+      "path": "/belgium/antwerpen/antwerpen/dim-dining",
+      "award": "★"
+    },
+    {
+      "name": "Dôme",
+      "cuisine": "Classic French",
+      "price": "€€€€",
+      "path": "/belgium/antwerpen/antwerpen/dme",
+      "award": "★"
+    },
+    {
+      "name": "Fine Fleur",
+      "cuisine": "Creative, Modern French",
+      "price": "€€€€",
+      "path": "/belgium/antwerpen/antwerpen/fine-fleur",
+      "award": "★"
+    },
+    {
+      "name": "Het Gebaar",
+      "cuisine": "Creative, Asian Influences",
+      "price": "€€€€",
+      "path": "/belgium/antwerpen/antwerpen/het-gebaar",
+      "award": "★"
+    },
+    {
+      "name": "Kommilfoo",
+      "cuisine": "Creative French",
+      "price": "€€€",
+      "path": "/belgium/antwerpen/antwerpen/kommilfoo",
+      "award": "★"
+    },
+    {
+      "name": "Le Pristine",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€€",
+      "path": "/belgium/antwerpen/antwerpen/le-pristine",
+      "award": "★"
+    },
+    {
+      "name": "Misera",
+      "cuisine": "Creative French, Modern French",
+      "price": "€€€€",
+      "path": "/belgium/antwerpen/antwerpen/misera",
+      "award": "★"
+    },
+    {
+      "name": "Nathan",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/belgium/antwerpen/antwerpen/nathan",
+      "award": "★"
+    },
+    {
+      "name": "Nebo",
+      "cuisine": "Contemporary, Modern French",
+      "price": "€€€€",
+      "path": "/belgium/antwerpen/antwerpen/nebo",
+      "award": "★"
+    },
+    {
+      "name": "Pont neuf",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/belgium/antwerpen/antwerpen/pont-neuf",
+      "award": "★"
+    },
+    {
+      "name": "The Butcher's son",
+      "cuisine": "Traditional Cuisine, Meats and Grills",
+      "price": "€€€",
+      "path": "/belgium/antwerpen/antwerpen/the-butchers-son",
+      "award": "★"
+    },
+    {
+      "name": "Instroom by Seppe Nobels",
+      "cuisine": "World Cuisine",
+      "price": "$$$",
+      "path": "/belgium/antwerpen/antwerpen/instroom-by-seppe-nobels",
+      "award": "Green Star"
+    },
     {
       "name": "ALBUM",
       "cuisine": "Modern Cuisine",
@@ -26,6 +147,12 @@
       "path": "/belgium/antwerpen/antwerpen/bar-misera"
     },
     {
+      "name": "Bar Pêche",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/belgium/antwerpen/antwerpen/bar-pche"
+    },
+    {
       "name": "Bar Raket",
       "cuisine": "Sharing, International",
       "price": "€€",
@@ -35,7 +162,7 @@
       "name": "Bar(t)-à-vin",
       "cuisine": "Classic Cuisine",
       "price": "€€",
-      "path": "/belgium/antwerpen/antwerpen/bart-vin"
+      "path": "/belgium/antwerpen/antwerpen/bartvin"
     },
     {
       "name": "Bistro Glass",
@@ -48,12 +175,6 @@
       "cuisine": "French, Belgian",
       "price": "€€€€",
       "path": "/belgium/antwerpen/antwerpen/bistrot-de-pottenbrug"
-    },
-    {
-      "name": "Bistrot du Nord",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€€",
-      "path": "/belgium/antwerpen/antwerpen/bistrot-du-nord"
     },
     {
       "name": "Bistrot L'îlot",
@@ -116,18 +237,6 @@
       "path": "/belgium/antwerpen/antwerpen/cuichine"
     },
     {
-      "name": "DIM Dining",
-      "cuisine": "Asian, Creative",
-      "price": "€€€€",
-      "path": "/belgium/antwerpen/antwerpen/dim-dining"
-    },
-    {
-      "name": "Dôme",
-      "cuisine": "Classic French",
-      "price": "€€€€",
-      "path": "/belgium/antwerpen/antwerpen/dme"
-    },
-    {
       "name": "Dôme Sur Mer",
       "cuisine": "Seafood",
       "price": "€€€",
@@ -137,31 +246,13 @@
       "name": "Essenz",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/belgium/antwerpen/antwerpen/essenz"
-    },
-    {
-      "name": "Fine Fleur",
-      "cuisine": "Creative, Modern French",
-      "price": "€€€€",
-      "path": "/belgium/antwerpen/antwerpen/fine-fleur"
+      "path": "/belgium/antwerpen/antwerpen/essenz-a-n-t"
     },
     {
       "name": "FRANQ",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/belgium/antwerpen/antwerpen/franq"
-    },
-    {
-      "name": "Hertog Jan at Botanic",
-      "cuisine": "Creative, Asian Influences",
-      "price": "€€€€",
-      "path": "/belgium/antwerpen/antwerpen/hertog-jan-at-botanic"
-    },
-    {
-      "name": "Het Gebaar",
-      "cuisine": "Creative, Asian Influences",
-      "price": "€€€€",
-      "path": "/belgium/antwerpen/antwerpen/het-gebaar"
     },
     {
       "name": "Het Nieuwe Palinghuis",
@@ -176,12 +267,6 @@
       "path": "/belgium/antwerpen/antwerpen/invincible"
     },
     {
-      "name": "Kommilfoo",
-      "cuisine": "Creative French",
-      "price": "€€€",
-      "path": "/belgium/antwerpen/antwerpen/kommilfoo"
-    },
-    {
       "name": "Ko'uzi",
       "cuisine": "Japanese, Sushi",
       "price": "€€",
@@ -191,13 +276,19 @@
       "name": "l'Amitié",
       "cuisine": "Sharing, Fusion",
       "price": "€€",
-      "path": "/belgium/antwerpen/antwerpen/lamiti"
+      "path": "/belgium/antwerpen/antwerpen/lamiti-a-n-t"
     },
     {
-      "name": "Le Pristine",
-      "cuisine": "Italian Contemporary",
-      "price": "€€€€",
-      "path": "/belgium/antwerpen/antwerpen/le-pristine"
+      "name": "La Brasserie du Dôme",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/belgium/antwerpen/antwerpen/la-brasserie-du-dme"
+    },
+    {
+      "name": "Les Années Folles",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/belgium/antwerpen/antwerpen/les-annes-folles"
     },
     {
       "name": "Minerva",
@@ -206,28 +297,10 @@
       "path": "/belgium/antwerpen/antwerpen/minerva"
     },
     {
-      "name": "Misera",
-      "cuisine": "Creative French, Modern French",
-      "price": "€€€€",
-      "path": "/belgium/antwerpen/antwerpen/misera"
-    },
-    {
       "name": "Nage",
       "cuisine": "French Contemporary, Creative",
       "price": "€€€",
       "path": "/belgium/antwerpen/antwerpen/nage"
-    },
-    {
-      "name": "Nathan",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/belgium/antwerpen/antwerpen/nathan"
-    },
-    {
-      "name": "Nebo",
-      "cuisine": "Contemporary, Modern French",
-      "price": "€€€€",
-      "path": "/belgium/antwerpen/antwerpen/nebo"
     },
     {
       "name": "Ni Shifu",
@@ -240,12 +313,6 @@
       "cuisine": "Fusion, Italian Contemporary",
       "price": "€€€",
       "path": "/belgium/antwerpen/antwerpen/pazzo"
-    },
-    {
-      "name": "Pont neuf",
-      "cuisine": "Seafood",
-      "price": "€€€",
-      "path": "/belgium/antwerpen/antwerpen/pont-neuf"
     },
     {
       "name": "Qin",
@@ -264,18 +331,6 @@
       "cuisine": "Sharing",
       "price": "€€",
       "path": "/belgium/antwerpen/antwerpen/schnitzel"
-    },
-    {
-      "name": "'t Fornuis",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/belgium/antwerpen/antwerpen/t-fornuis"
-    },
-    {
-      "name": "The Butcher's son",
-      "cuisine": "Traditional Cuisine, Meats and Grills",
-      "price": "€€€",
-      "path": "/belgium/antwerpen/antwerpen/the-butchers-son"
     },
     {
       "name": "The Jane",
@@ -300,36 +355,6 @@
       "cuisine": "Italian, Modern Cuisine",
       "price": "€€€",
       "path": "/belgium/antwerpen/antwerpen/upton"
-    },
-    {
-      "name": "Zilte",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/belgium/antwerpen/antwerpen/zilte"
-    },
-    {
-      "name": "Bar Pêche",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/belgium/antwerpen/antwerpen/BarPche"
-    },
-    {
-      "name": "Instroom by Seppe Nobels",
-      "cuisine": "World Cuisine",
-      "price": "$$$",
-      "path": "/belgium/antwerpen/antwerpen/InstroomBySeppeNobels"
-    },
-    {
-      "name": "La Brasserie du Dôme",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/belgium/antwerpen/antwerpen/LaBrasserieDuDme"
-    },
-    {
-      "name": "Les Années Folles",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/belgium/antwerpen/antwerpen/LesAnnesFolles"
     }
   ]
 }

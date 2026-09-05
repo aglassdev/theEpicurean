@@ -1,8 +1,14 @@
 {
   "title": "Saint Louis",
-  "country": "france",
-  "region": "saint-louis",
-  "city": "saint-louis",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-louis",
+  "city": "Saint Louis",
+  "citySlug": "saint-louis",
+  "path": "/france/saint-louis/saint-louis/restaurants",
+  "canonicalPath": "/france/saint-louis/saint-louis/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Yam",

@@ -1,20 +1,27 @@
 {
   "title": "Neerharen",
-  "country": "belgium",
-  "region": "neerharen",
-  "city": "neerharen",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "neerharen",
+  "city": "Neerharen",
+  "citySlug": "neerharen",
+  "path": "/belgium/neerharen/neerharen/restaurants",
+  "canonicalPath": "/belgium/neerharen/neerharen/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Ralf Berendsen",
+      "cuisine": "Creative, Modern French",
+      "price": "€€€€",
+      "path": "/belgium/neerharen/neerharen/ralf-berendsen",
+      "award": "★★"
+    },
     {
       "name": "Bistrôt Le Ciel",
       "cuisine": "Classic French, Italian Contemporary",
       "price": "€€€",
       "path": "/belgium/neerharen/neerharen/bistrt-le-ciel"
-    },
-    {
-      "name": "Ralf Berendsen",
-      "cuisine": "Creative, Modern French",
-      "price": "€€€€",
-      "path": "/belgium/neerharen/neerharen/ralf-berendsen"
     }
   ]
 }

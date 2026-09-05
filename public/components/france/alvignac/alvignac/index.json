@@ -1,8 +1,14 @@
 {
   "title": "Alvignac",
-  "country": "france",
-  "region": "alvignac",
-  "city": "alvignac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "alvignac",
+  "city": "Alvignac",
+  "citySlug": "alvignac",
+  "path": "/france/alvignac/alvignac/restaurants",
+  "canonicalPath": "/france/alvignac/alvignac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Voyage d'Ernestine",

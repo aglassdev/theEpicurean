@@ -1,11 +1,20 @@
 {
   "title": "Champdieu",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "champdieu",
+  "city": "Champdieu",
+  "citySlug": "champdieu",
+  "path": "/france/champdieu/champdieu/restaurants",
+  "canonicalPath": "/france/champdieu/champdieu/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Bistrot de la Gare",
       "cuisine": "Modern Cuisine",
       "price": "$",
-      "path": "/france/champdieu/champdieu/LeBistrotDeLaGare"
+      "path": "/france/champdieu/champdieu/le-bistrot-de-la-gare"
     }
   ]
 }

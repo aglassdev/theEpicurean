@@ -1,9 +1,22 @@
 {
   "title": "Dinard",
-  "country": "france",
-  "region": "dinard",
-  "city": "dinard",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "dinard",
+  "city": "Dinard",
+  "citySlug": "dinard",
+  "path": "/france/dinard/dinard/restaurants",
+  "canonicalPath": "/france/dinard/dinard/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Pourquoi Pas",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/dinard/dinard/pourquoi-pas",
+      "award": "★"
+    },
     {
       "name": "Didier Méril",
       "cuisine": "Modern Cuisine",
@@ -21,18 +34,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/dinard/dinard/ombelle"
-    },
-    {
-      "name": "Pourquoi Pas",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/dinard/dinard/pourquoi-pas"
-    },
-    {
-      "name": "Pourquoi Pas",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/dinard/dinard/pourquoi-pas"
     }
   ]
 }

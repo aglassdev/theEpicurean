@@ -1,5 +1,14 @@
 {
   "title": "Wetteren",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "wetteren",
+  "city": "Wetteren",
+  "citySlug": "wetteren",
+  "path": "/belgium/wetteren/wetteren/restaurants",
+  "canonicalPath": "/belgium/wetteren/wetteren/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Lesco",
@@ -11,7 +20,7 @@
       "name": "Lesco Wetteren",
       "cuisine": "Creative",
       "price": "$$$",
-      "path": "/belgium/wetteren/wetteren/LescoWetteren"
+      "path": "/belgium/wetteren/wetteren/lesco-wetteren"
     }
   ]
 }

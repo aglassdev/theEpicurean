@@ -1,8 +1,14 @@
 {
   "title": "Moulins",
-  "country": "france",
-  "region": "moulins",
-  "city": "moulins",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "moulins",
+  "city": "Moulins",
+  "citySlug": "moulins",
+  "path": "/france/moulins/moulins/restaurants",
+  "canonicalPath": "/france/moulins/moulins/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Bulle d'Air",

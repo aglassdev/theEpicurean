@@ -1,8 +1,14 @@
 {
   "title": "Aups",
-  "country": "france",
-  "region": "aups",
-  "city": "aups",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "aups",
+  "city": "Aups",
+  "citySlug": "aups",
+  "path": "/france/aups/aups/restaurants",
+  "canonicalPath": "/france/aups/aups/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Saint Marc",

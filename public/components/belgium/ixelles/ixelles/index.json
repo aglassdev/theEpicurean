@@ -1,6 +1,36 @@
 {
   "title": "Ixelles",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "ixelles",
+  "city": "Ixelles",
+  "citySlug": "ixelles",
+  "path": "/belgium/ixelles/ixelles/restaurants",
+  "canonicalPath": "/belgium/ixelles/ixelles/restaurants",
+  "count": 27,
   "restaurants": [
+    {
+      "name": "Humus x Hortense",
+      "cuisine": "Creative, Organic",
+      "price": "€€€€",
+      "path": "/belgium/ixelles/ixelles/humus-x-hortense",
+      "award": "★"
+    },
+    {
+      "name": "Kamo",
+      "cuisine": "Japanese, Sushi",
+      "price": "€€€",
+      "path": "/belgium/ixelles/ixelles/kamo",
+      "award": "★"
+    },
+    {
+      "name": "ÔNGBÀ",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/belgium/ixelles/ixelles/ngb",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Amen",
       "cuisine": "Farm to table",
@@ -32,16 +62,10 @@
       "path": "/belgium/ixelles/ixelles/fico"
     },
     {
-      "name": "Humus x Hortense",
-      "cuisine": "Creative, Organic",
-      "price": "€€€€",
-      "path": "/belgium/ixelles/ixelles/humus-x-hortense"
-    },
-    {
-      "name": "Kamo",
-      "cuisine": "Japanese, Sushi",
-      "price": "€€€",
-      "path": "/belgium/ixelles/ixelles/kamo"
+      "name": "L'épicerie Nomad",
+      "cuisine": "Mediterranean Cuisine, Classic French",
+      "price": "€€",
+      "path": "/belgium/ixelles/ixelles/lpicerie-nomad"
     },
     {
       "name": "Le Saint Boniface",
@@ -66,12 +90,6 @@
       "cuisine": "French",
       "price": "€€€",
       "path": "/belgium/ixelles/ixelles/les-caves-dalex"
-    },
-    {
-      "name": "L'épicerie Nomad",
-      "cuisine": "Mediterranean Cuisine, Classic French",
-      "price": "€€",
-      "path": "/belgium/ixelles/ixelles/lpicerie-nomad"
     },
     {
       "name": "Lune Siamoise",
@@ -131,7 +149,7 @@
       "name": "Racines",
       "cuisine": "Italian",
       "price": "€€",
-      "path": "/belgium/ixelles/ixelles/racines"
+      "path": "/belgium/ixelles/ixelles/racines-i-x-e"
     },
     {
       "name": "Ricciocapriccio",
@@ -143,7 +161,7 @@
       "name": "Savage",
       "cuisine": "Organic, Vegetarian",
       "price": "€€",
-      "path": "/belgium/ixelles/ixelles/savage"
+      "path": "/belgium/ixelles/ixelles/savage-i-x-e"
     },
     {
       "name": "Toucan Brasserie",
@@ -156,12 +174,6 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/belgium/ixelles/ixelles/toucan-sur-mer"
-    },
-    {
-      "name": "ÔNGBÀ",
-      "cuisine": "Vietnamese",
-      "price": "$$",
-      "path": "/belgium/ixelles/ixelles/Ngb"
     }
   ]
 }

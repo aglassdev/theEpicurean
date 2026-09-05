@@ -1,14 +1,21 @@
 {
-  "title": "Sant Antoni De Portmany",
-  "country": "spain",
-  "region": "sant-antoni-de-portmany",
-  "city": "sant-antoni-de-portmany",
+  "title": "Sant Antoni de Portmany",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "sant-antoni-de-portmany",
+  "city": "Sant Antoni de Portmany",
+  "citySlug": "sant-antoni-de-portmany",
+  "path": "/spain/sant-antoni-de-portmany/sant-antoni-de-portmany/restaurants",
+  "canonicalPath": "/spain/sant-antoni-de-portmany/sant-antoni-de-portmany/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Es Tragón",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/sant-antoni-de-portmany/sant-antoni-de-portmany/es-tragn"
+      "path": "/spain/sant-antoni-de-portmany/sant-antoni-de-portmany/es-tragn",
+      "award": "★"
     },
     {
       "name": "Es Ventall",

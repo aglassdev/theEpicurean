@@ -1,11 +1,21 @@
 {
-  "title": "Chocholá",
+  "title": "Chochol",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "chochol",
+  "city": "Chochol",
+  "citySlug": "chochol",
+  "path": "/mexico/chochol/chochol/restaurants",
+  "canonicalPath": "/mexico/chochol/chochol/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ixi'im",
       "cuisine": "Mexican",
       "price": "$$$$",
-      "path": "/mexico/chochol/chochol/Ixiim"
+      "path": "/mexico/chochol/chochol/ixiim",
+      "award": "★"
     }
   ]
 }

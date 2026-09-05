@@ -1,14 +1,21 @@
 {
-  "title": "Azay Le Rideau",
-  "country": "france",
-  "region": "azay-le-rideau",
-  "city": "azay-le-rideau",
+  "title": "Azay le Rideau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "azay-le-rideau",
+  "city": "Azay le Rideau",
+  "citySlug": "azay-le-rideau",
+  "path": "/france/azay-le-rideau/azay-le-rideau/restaurants",
+  "canonicalPath": "/france/azay-le-rideau/azay-le-rideau/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Auberge Pom'Poire",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/azay-le-rideau/azay-le-rideau/auberge-pompoire"
+      "path": "/france/azay-le-rideau/azay-le-rideau/auberge-pompoire",
+      "award": "★"
     },
     {
       "name": "L'Aigle d'Or",

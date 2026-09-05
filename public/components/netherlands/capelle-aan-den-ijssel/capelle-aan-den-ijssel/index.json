@@ -1,14 +1,21 @@
 {
-  "title": "Capelle Aan Den Ijssel",
-  "country": "netherlands",
-  "region": "capelle-aan-den-ijssel",
-  "city": "capelle-aan-den-ijssel",
+  "title": "Capelle aan den Ijssel",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "capelle-aan-den-ijssel",
+  "city": "Capelle aan den Ijssel",
+  "citySlug": "capelle-aan-den-ijssel",
+  "path": "/netherlands/capelle-aan-den-ijssel/capelle-aan-den-ijssel/restaurants",
+  "canonicalPath": "/netherlands/capelle-aan-den-ijssel/capelle-aan-den-ijssel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Perceel",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/netherlands/capelle-aan-den-ijssel/capelle-aan-den-ijssel/perceel"
+      "path": "/netherlands/capelle-aan-den-ijssel/capelle-aan-den-ijssel/perceel",
+      "award": "★"
     }
   ]
 }

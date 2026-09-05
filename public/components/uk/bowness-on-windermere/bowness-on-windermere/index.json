@@ -1,9 +1,22 @@
 {
-  "title": "Bowness On Windermere",
-  "country": "uk",
-  "region": "bowness-on-windermere",
-  "city": "bowness-on-windermere",
+  "title": "Bowness on Windermere",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "bowness-on-windermere",
+  "city": "Bowness on Windermere",
+  "citySlug": "bowness-on-windermere",
+  "path": "/uk/bowness-on-windermere/bowness-on-windermere/restaurants",
+  "canonicalPath": "/uk/bowness-on-windermere/bowness-on-windermere/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "SOURCE at Gilpin Hotel",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/bowness-on-windermere/bowness-on-windermere/source-at-gilpin-hotel",
+      "award": "★"
+    },
     {
       "name": "Gilpin Spice",
       "cuisine": "Asian, Fusion",
@@ -15,12 +28,6 @@
       "cuisine": "Modern Cuisine",
       "price": "££££",
       "path": "/uk/bowness-on-windermere/bowness-on-windermere/henrock"
-    },
-    {
-      "name": "SOURCE at Gilpin Hotel",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/bowness-on-windermere/bowness-on-windermere/source-at-gilpin-hotel"
     }
   ]
 }

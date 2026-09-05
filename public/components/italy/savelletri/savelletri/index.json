@@ -1,14 +1,21 @@
 {
   "title": "Savelletri",
-  "country": "italy",
-  "region": "savelletri",
-  "city": "savelletri",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "savelletri",
+  "city": "Savelletri",
+  "citySlug": "savelletri",
+  "path": "/italy/savelletri/savelletri/restaurants",
+  "canonicalPath": "/italy/savelletri/savelletri/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Due Camini",
       "cuisine": "Mediterranean Cuisine, Vegetarian",
       "price": "€€€€",
-      "path": "/italy/savelletri/savelletri/due-camini"
+      "path": "/italy/savelletri/savelletri/due-camini",
+      "award": "★"
     }
   ]
 }

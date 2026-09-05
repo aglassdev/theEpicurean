@@ -1,8 +1,14 @@
 {
   "title": "Loos",
-  "country": "france",
-  "region": "loos",
-  "city": "loos",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "loos",
+  "city": "Loos",
+  "citySlug": "loos",
+  "path": "/france/loos/loos/restaurants",
+  "canonicalPath": "/france/loos/loos/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Félicie",

@@ -1,14 +1,20 @@
 {
   "title": "Zerbst",
-  "country": "germany",
-  "region": "zerbst",
-  "city": "zerbst",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "zerbst",
+  "city": "Zerbst",
+  "citySlug": "zerbst",
+  "path": "/germany/zerbst/zerbst/restaurants",
+  "canonicalPath": "/germany/zerbst/zerbst/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Park-Restaurant Vogelherd",
       "cuisine": "Farm to table",
       "price": "€€",
-      "path": "/germany/zerbst/zerbst/park-restaurant-vogelherd"
+      "path": "/germany/zerbst/zerbst/parkrestaurant-vogelherd"
     }
   ]
 }

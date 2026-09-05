@@ -1,14 +1,20 @@
 {
   "title": "Mhlhausen",
-  "country": "germany",
-  "region": "mhlhausen",
-  "city": "mhlhausen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "mhlhausen",
+  "city": "Mhlhausen",
+  "citySlug": "mhlhausen",
+  "path": "/germany/mhlhausen/mhlhausen/restaurants",
+  "canonicalPath": "/germany/mhlhausen/mhlhausen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Die Bürgermeisterei 1728",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/germany/mhlhausen/mhlhausen/die-brgermeisterei-1728"
+      "path": "/germany/mhlhausen/mhlhausen/die-brgermeisterei1728"
     }
   ]
 }

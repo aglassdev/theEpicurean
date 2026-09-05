@@ -1,8 +1,14 @@
 {
   "title": "Swansea",
-  "country": "uk",
-  "region": "swansea",
-  "city": "swansea",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "swansea",
+  "city": "Swansea",
+  "citySlug": "swansea",
+  "path": "/uk/swansea/swansea/restaurants",
+  "canonicalPath": "/uk/swansea/swansea/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Slice",

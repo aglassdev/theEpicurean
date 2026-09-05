@@ -1,14 +1,21 @@
 {
   "title": "Aumont Aubrac",
-  "country": "france",
-  "region": "aumont-aubrac",
-  "city": "aumont-aubrac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "aumont-aubrac",
+  "city": "Aumont Aubrac",
+  "citySlug": "aumont-aubrac",
+  "path": "/france/aumont-aubrac/aumont-aubrac/restaurants",
+  "canonicalPath": "/france/aumont-aubrac/aumont-aubrac/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Cyril Attrazic",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/aumont-aubrac/aumont-aubrac/cyril-attrazic"
+      "path": "/france/aumont-aubrac/aumont-aubrac/cyril-attrazic",
+      "award": "★★"
     },
     {
       "name": "La Gabale",

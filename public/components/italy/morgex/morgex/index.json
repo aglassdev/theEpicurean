@@ -1,8 +1,14 @@
 {
   "title": "Morgex",
-  "country": "italy",
-  "region": "morgex",
-  "city": "morgex",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "morgex",
+  "city": "Morgex",
+  "citySlug": "morgex",
+  "path": "/italy/morgex/morgex/restaurants",
+  "canonicalPath": "/italy/morgex/morgex/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Café Quinson",

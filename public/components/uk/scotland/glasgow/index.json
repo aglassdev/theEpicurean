@@ -1,71 +1,80 @@
 {
   "title": "Glasgow",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "Scotland",
+  "regionSlug": "scotland",
+  "city": "Glasgow",
+  "citySlug": "glasgow",
+  "path": "/uk/scotland/glasgow/restaurants",
+  "canonicalPath": "/uk/scotland/glasgow/restaurants",
+  "count": 11,
   "restaurants": [
     {
-      "name": "The Westerwood Hotel & Golf Resort",
+      "name": "Carlton George Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "21.00",
-      "path": "/uk/scotland/glasgow/TheWesterwoodHotelGolfResort"
-    },
-    {
-      "name": "Vintage Red Bistro Bus Glasgow",
-      "cuisine": "Afternoon Tea",
-      "price": "78.00",
-      "path": "/uk/scotland/glasgow/VintageRedBistroBusGlasgow"
-    },
-    {
-      "name": "Sherbrooke Castle",
-      "cuisine": "Afternoon Tea",
-      "price": "22.95",
-      "path": "/uk/scotland/glasgow/SherbrookeCastle"
-    },
-    {
-      "name": "Mar Hall Golf & Spa Resort",
-      "cuisine": "Afternoon Tea",
-      "price": "29.00",
-      "path": "/uk/scotland/glasgow/MarHallGolfSpaResort"
-    },
-    {
-      "name": "Malmaison Glasgow",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/scotland/glasgow/MalmaisonGlasgow"
-    },
-    {
-      "name": "Mackintosh at the Willow",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/scotland/glasgow/MackintoshAtTheWillow"
-    },
-    {
-      "name": "Hotel du Vin Glasgow",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/scotland/glasgow/HotelDuVinGlasgow"
-    },
-    {
-      "name": "Glasgow Marriott Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "22.00",
-      "path": "/uk/scotland/glasgow/GlasgowMarriottHotel"
-    },
-    {
-      "name": "Cup Tea Lounge - Renfield St",
-      "cuisine": "Afternoon Tea",
-      "price": "26.00",
-      "path": "/uk/scotland/glasgow/CupTeaLoungeRenfieldSt"
+      "price": "19.95",
+      "path": "/uk/scotland/glasgow/carlton-george-hotel"
     },
     {
       "name": "Cup Tea Lounge - Glasgow Merchant City",
       "cuisine": "Afternoon Tea",
       "price": "26.00",
-      "path": "/uk/scotland/glasgow/CupTeaLoungeGlasgowMerchantCity"
+      "path": "/uk/scotland/glasgow/cup-tea-lounge-glasgow-merchant-city"
     },
     {
-      "name": "Carlton George Hotel",
+      "name": "Cup Tea Lounge - Renfield St",
       "cuisine": "Afternoon Tea",
-      "price": "19.95",
-      "path": "/uk/scotland/glasgow/CarltonGeorgeHotel"
+      "price": "26.00",
+      "path": "/uk/scotland/glasgow/cup-tea-lounge-renfield-st"
+    },
+    {
+      "name": "Glasgow Marriott Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "22.00",
+      "path": "/uk/scotland/glasgow/glasgow-marriott-hotel"
+    },
+    {
+      "name": "Hotel du Vin Glasgow",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/scotland/glasgow/hotel-du-vin-glasgow"
+    },
+    {
+      "name": "Mackintosh at the Willow",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/scotland/glasgow/mackintosh-at-the-willow"
+    },
+    {
+      "name": "Malmaison Glasgow",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/scotland/glasgow/malmaison-glasgow"
+    },
+    {
+      "name": "Mar Hall Golf & Spa Resort",
+      "cuisine": "Afternoon Tea",
+      "price": "29.00",
+      "path": "/uk/scotland/glasgow/mar-hall-golf-spa-resort"
+    },
+    {
+      "name": "Sherbrooke Castle",
+      "cuisine": "Afternoon Tea",
+      "price": "22.95",
+      "path": "/uk/scotland/glasgow/sherbrooke-castle"
+    },
+    {
+      "name": "The Westerwood Hotel & Golf Resort",
+      "cuisine": "Afternoon Tea",
+      "price": "21.00",
+      "path": "/uk/scotland/glasgow/the-westerwood-hotel-golf-resort"
+    },
+    {
+      "name": "Vintage Red Bistro Bus Glasgow",
+      "cuisine": "Afternoon Tea",
+      "price": "78.00",
+      "path": "/uk/scotland/glasgow/vintage-red-bistro-bus-glasgow"
     }
   ]
 }

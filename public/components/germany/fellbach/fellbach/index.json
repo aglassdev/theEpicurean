@@ -1,14 +1,21 @@
 {
   "title": "Fellbach",
-  "country": "germany",
-  "region": "fellbach",
-  "city": "fellbach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "fellbach",
+  "city": "Fellbach",
+  "citySlug": "fellbach",
+  "path": "/germany/fellbach/fellbach/restaurants",
+  "canonicalPath": "/germany/fellbach/fellbach/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Oettinger's Restaurant",
       "cuisine": "Modern French, Country cooking",
       "price": "€€€€",
-      "path": "/germany/fellbach/fellbach/oettingers-restaurant"
+      "path": "/germany/fellbach/fellbach/oettingers-restaurant",
+      "award": "★"
     },
     {
       "name": "Waldschlössle",

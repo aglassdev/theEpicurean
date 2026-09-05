@@ -1,0 +1,33 @@
+{
+  "title": "Laguna Beach",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Laguna Beach",
+  "citySlug": "laguna-beach",
+  "path": "/usa/other/laguna-beach/restaurants",
+  "canonicalPath": "/usa/california/laguna-beach/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "R|O-Rebel Omakase",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/laguna-beach/rorebel-omakase",
+      "award": "★"
+    },
+    {
+      "name": "Oliver's Osteria",
+      "cuisine": "Italian, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/california/laguna-beach/olivers-osteria"
+    },
+    {
+      "name": "Selanne Steak Tavern",
+      "cuisine": "Steakhouse, American Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/laguna-beach/selanne-steak-tavern"
+    }
+  ]
+}

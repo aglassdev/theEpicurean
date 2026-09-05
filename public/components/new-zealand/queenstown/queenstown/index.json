@@ -1,65 +1,78 @@
 {
   "title": "Queenstown",
+  "country": "New Zealand",
+  "countrySlug": "new-zealand",
+  "region": null,
+  "regionSlug": "queenstown",
+  "city": "Queenstown",
+  "citySlug": "queenstown",
+  "path": "/new-zealand/queenstown/queenstown/restaurants",
+  "canonicalPath": "/new-zealand/queenstown/queenstown/restaurants",
+  "count": 10,
   "restaurants": [
     {
       "name": "Amisfield",
       "cuisine": "Innovative",
       "price": "$$$$",
-      "path": "/new-zealand/queenstown/queenstown/Amisfield"
+      "path": "/new-zealand/queenstown/queenstown/amisfield",
+      "award": "★"
     },
     {
       "name": "Rātā",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/queenstown/queenstown/Rt"
+      "path": "/new-zealand/queenstown/queenstown/rt",
+      "award": "★"
     },
     {
       "name": "Sherwood",
       "cuisine": "New Zealand",
       "price": "$$",
-      "path": "/new-zealand/queenstown/queenstown/Sherwood"
+      "path": "/new-zealand/queenstown/queenstown/sherwood",
+      "award": "★"
     },
     {
       "name": "The Cow (Queenstown)",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/new-zealand/queenstown/queenstown/TheCowQueenstown"
+      "path": "/new-zealand/queenstown/queenstown/the-cow-queenstown",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Botswana Butchery",
       "cuisine": "Steakhouse",
       "price": "$$",
-      "path": "/new-zealand/queenstown/queenstown/BotswanaButchery"
+      "path": "/new-zealand/queenstown/queenstown/botswana-butchery"
     },
     {
       "name": "Jervois Steak House",
       "cuisine": "Steakhouse",
       "price": "$$",
-      "path": "/new-zealand/queenstown/queenstown/JervoisSteakHouse"
+      "path": "/new-zealand/queenstown/queenstown/jervois-steak-house"
     },
     {
       "name": "Rodd & Gunn The Lodge",
       "cuisine": "New Zealand",
       "price": "$$",
-      "path": "/new-zealand/queenstown/queenstown/RoddGunnTheLodge"
+      "path": "/new-zealand/queenstown/queenstown/rodd-gunn-the-lodge"
     },
     {
       "name": "Soda",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/new-zealand/queenstown/queenstown/Soda"
+      "path": "/new-zealand/queenstown/queenstown/soda"
     },
     {
       "name": "Toast & Oak",
       "cuisine": "European Contemporary",
       "price": "$$$",
-      "path": "/new-zealand/queenstown/queenstown/ToastOak"
+      "path": "/new-zealand/queenstown/queenstown/toast-oak"
     },
     {
       "name": "True South Dining Room",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/queenstown/queenstown/TrueSouthDiningRoom"
+      "path": "/new-zealand/queenstown/queenstown/true-south-dining-room"
     }
   ]
 }

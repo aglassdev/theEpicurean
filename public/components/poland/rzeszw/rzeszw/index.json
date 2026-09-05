@@ -1,23 +1,33 @@
 {
-  "title": "Rzeszów",
+  "title": "Rzeszw",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "rzeszw",
+  "city": "Rzeszw",
+  "citySlug": "rzeszw",
+  "path": "/poland/rzeszw/rzeszw/restaurants",
+  "canonicalPath": "/poland/rzeszw/rzeszw/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Naama",
       "cuisine": "Moroccan",
       "price": "$$",
-      "path": "/poland/rzeszw/rzeszw/Naama"
+      "path": "/poland/rzeszw/rzeszw/naama",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Muro",
       "cuisine": "Meats and Seafood",
       "price": "$$",
-      "path": "/poland/rzeszw/rzeszw/Muro"
+      "path": "/poland/rzeszw/rzeszw/muro"
     },
     {
       "name": "Okovita",
       "cuisine": "Seasonal Cuisine",
       "price": "$$",
-      "path": "/poland/rzeszw/rzeszw/Okovita"
+      "path": "/poland/rzeszw/rzeszw/okovita"
     }
   ]
 }

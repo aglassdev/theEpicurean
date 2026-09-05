@@ -1,14 +1,20 @@
 {
   "title": "Cevins",
-  "country": "france",
-  "region": "cevins",
-  "city": "cevins",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cevins",
+  "city": "Cevins",
+  "citySlug": "cevins",
+  "path": "/france/cevins/cevins/restaurants",
+  "canonicalPath": "/france/cevins/cevins/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Fleur de Sel",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/cevins/cevins/la-fleur-de-sel"
+      "path": "/france/cevins/cevins/la-fleur-de-sel-c-e-v"
     }
   ]
 }

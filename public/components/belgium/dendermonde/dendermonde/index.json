@@ -1,20 +1,26 @@
 {
   "title": "Dendermonde",
-  "country": "belgium",
-  "region": "dendermonde",
-  "city": "dendermonde",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "dendermonde",
+  "city": "Dendermonde",
+  "citySlug": "dendermonde",
+  "path": "/belgium/dendermonde/dendermonde/restaurants",
+  "canonicalPath": "/belgium/dendermonde/dendermonde/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Steeg",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€",
-      "path": "/belgium/dendermonde/dendermonde/steeg"
-    },
     {
       "name": "'t Truffeltje",
       "cuisine": "Modern French, Modern Cuisine",
       "price": "€€€",
       "path": "/belgium/dendermonde/dendermonde/t-truffeltje"
+    },
+    {
+      "name": "Steeg",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/belgium/dendermonde/dendermonde/steeg"
     }
   ]
 }

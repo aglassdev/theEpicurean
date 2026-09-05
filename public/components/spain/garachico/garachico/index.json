@@ -1,8 +1,14 @@
 {
   "title": "Garachico",
-  "country": "spain",
-  "region": "garachico",
-  "city": "garachico",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "garachico",
+  "city": "Garachico",
+  "citySlug": "garachico",
+  "path": "/spain/garachico/garachico/restaurants",
+  "canonicalPath": "/spain/garachico/garachico/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "El Rebojo",

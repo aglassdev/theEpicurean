@@ -1,14 +1,20 @@
 {
-  "title": "Schnwald Im Schwarzwald",
-  "country": "germany",
-  "region": "schnwald-im-schwarzwald",
-  "city": "schnwald-im-schwarzwald",
+  "title": "Schnwald im Schwarzwald",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "schnwald-im-schwarzwald",
+  "city": "Schnwald im Schwarzwald",
+  "citySlug": "schnwald-im-schwarzwald",
+  "path": "/germany/schnwald-im-schwarzwald/schnwald-im-schwarzwald/restaurants",
+  "canonicalPath": "/germany/schnwald-im-schwarzwald/schnwald-im-schwarzwald/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Zum Ochsen",
       "cuisine": "Country cooking",
       "price": "€€",
-      "path": "/germany/schnwald-im-schwarzwald/schnwald-im-schwarzwald/zum-ochsen"
+      "path": "/germany/schnwald-im-schwarzwald/schnwald-im-schwarzwald/zum-ochsen-s-c-h"
     }
   ]
 }

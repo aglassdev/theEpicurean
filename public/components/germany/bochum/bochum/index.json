@@ -1,11 +1,20 @@
 {
   "title": "Bochum",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bochum",
+  "city": "Bochum",
+  "citySlug": "bochum",
+  "path": "/germany/bochum/bochum/restaurants",
+  "canonicalPath": "/germany/bochum/bochum/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Kantine.WTF",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/germany/bochum/bochum/Kantinewtf"
+      "path": "/germany/bochum/bochum/kantinewtf"
     }
   ]
 }

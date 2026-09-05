@@ -1,9 +1,22 @@
 {
   "title": "Braga",
-  "country": "portugal",
-  "region": "braga",
-  "city": "braga",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "braga",
+  "city": "Braga",
+  "citySlug": "braga",
+  "path": "/portugal/braga/braga/restaurants",
+  "canonicalPath": "/portugal/braga/braga/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Palatial",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€€",
+      "path": "/portugal/braga/braga/palatial",
+      "award": "★"
+    },
     {
       "name": "Esperança Verde",
       "cuisine": "Modern Cuisine",
@@ -21,12 +34,6 @@
       "cuisine": "South American",
       "price": "€",
       "path": "/portugal/braga/braga/o-filho-da-me"
-    },
-    {
-      "name": "Palatial",
-      "cuisine": "Contemporary, Modern Cuisine",
-      "price": "€€€",
-      "path": "/portugal/braga/braga/palatial"
     }
   ]
 }

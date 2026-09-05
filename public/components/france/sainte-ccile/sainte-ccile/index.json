@@ -1,14 +1,20 @@
 {
   "title": "Sainte Ccile",
-  "country": "france",
-  "region": "sainte-ccile",
-  "city": "sainte-ccile",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "sainte-ccile",
+  "city": "Sainte Ccile",
+  "citySlug": "sainte-ccile",
+  "path": "/france/sainte-ccile/sainte-ccile/restaurants",
+  "canonicalPath": "/france/sainte-ccile/sainte-ccile/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Embellie",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/sainte-ccile/sainte-ccile/lembellie"
+      "path": "/france/sainte-ccile/sainte-ccile/lembellie-s-a-i"
     }
   ]
 }

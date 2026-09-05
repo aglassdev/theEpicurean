@@ -1,9 +1,29 @@
 {
   "title": "Leuven",
-  "country": "belgium",
-  "region": "leuven",
-  "city": "leuven",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "leuven",
+  "city": "Leuven",
+  "citySlug": "leuven",
+  "path": "/belgium/leuven/leuven/restaurants",
+  "canonicalPath": "/belgium/leuven/leuven/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "EED",
+      "cuisine": "Modern Cuisine, French Contemporary",
+      "price": "€€€€",
+      "path": "/belgium/leuven/leuven/eed",
+      "award": "★"
+    },
+    {
+      "name": "EssenCiel",
+      "cuisine": "Contemporary, Modern French",
+      "price": "€€€€",
+      "path": "/belgium/leuven/leuven/essenciel",
+      "award": "★"
+    },
     {
       "name": "Bistro Tribunal Chez Yf",
       "cuisine": "Meats and Grills, Classic Cuisine",
@@ -21,18 +41,6 @@
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/belgium/leuven/leuven/dartagnan"
-    },
-    {
-      "name": "EED",
-      "cuisine": "Modern Cuisine, French Contemporary",
-      "price": "€€€€",
-      "path": "/belgium/leuven/leuven/eed"
-    },
-    {
-      "name": "EssenCiel",
-      "cuisine": "Contemporary, Modern French",
-      "price": "€€€€",
-      "path": "/belgium/leuven/leuven/essenciel"
     },
     {
       "name": "Gastrobar Hop",

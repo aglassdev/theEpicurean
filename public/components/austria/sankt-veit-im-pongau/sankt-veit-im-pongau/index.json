@@ -1,14 +1,21 @@
 {
-  "title": "Sankt Veit Im Pongau",
-  "country": "austria",
-  "region": "sankt-veit-im-pongau",
-  "city": "sankt-veit-im-pongau",
+  "title": "Sankt Veit im Pongau",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "sankt-veit-im-pongau",
+  "city": "Sankt Veit im Pongau",
+  "citySlug": "sankt-veit-im-pongau",
+  "path": "/austria/sankt-veit-im-pongau/sankt-veit-im-pongau/restaurants",
+  "canonicalPath": "/austria/sankt-veit-im-pongau/sankt-veit-im-pongau/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Kräuterreich by Vitus Winkler",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/austria/sankt-veit-im-pongau/sankt-veit-im-pongau/kruterreich-by-vitus-winkler"
+      "path": "/austria/sankt-veit-im-pongau/sankt-veit-im-pongau/kruterreich-by-vitus-winkler",
+      "award": "★★"
     },
     {
       "name": "Wirtshaus by Vitus Winkler",

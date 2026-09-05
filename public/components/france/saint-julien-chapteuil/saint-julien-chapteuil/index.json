@@ -1,23 +1,26 @@
 {
   "title": "Saint Julien Chapteuil",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-julien-chapteuil",
+  "city": "Saint Julien Chapteuil",
+  "citySlug": "saint-julien-chapteuil",
+  "path": "/france/saint-julien-chapteuil/saint-julien-chapteuil/restaurants",
+  "canonicalPath": "/france/saint-julien-chapteuil/saint-julien-chapteuil/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Maison Vidal - Le Bistrot de Justin",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/saint-julien-chapteuil/saint-julien-chapteuil/maison-vidal-le-bistrot-de-justin"
-    },
-    {
-      "name": "Maison Vidal - Le Bistrot de Justin",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/saint-julien-chapteuil/saint-julien-chapteuil/maison-vidal-le-bistrot-de-justin"
-    },
     {
       "name": "Maison Vidal - La Table gastronomique",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/saint-julien-chapteuil/saint-julien-chapteuil/MaisonVidalLaTableGastronomique"
+      "path": "/france/saint-julien-chapteuil/saint-julien-chapteuil/maison-vidal-la-table-gastronomique"
+    },
+    {
+      "name": "Maison Vidal - Le Bistrot de Justin",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/saint-julien-chapteuil/saint-julien-chapteuil/maison-vidal-le-bistrot-de-justin"
     }
   ]
 }

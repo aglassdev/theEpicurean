@@ -1,14 +1,21 @@
 {
   "title": "Canale",
-  "country": "italy",
-  "region": "canale",
-  "city": "canale",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "canale",
+  "city": "Canale",
+  "citySlug": "canale",
+  "path": "/italy/canale/canale/restaurants",
+  "canonicalPath": "/italy/canale/canale/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "All'Enoteca",
       "cuisine": "Piedmontese, Contemporary",
       "price": "€€€",
-      "path": "/italy/canale/canale/allenoteca"
+      "path": "/italy/canale/canale/allenoteca",
+      "award": "★"
     },
     {
       "name": "Villa Tiboldi",

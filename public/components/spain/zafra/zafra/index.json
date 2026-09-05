@@ -1,20 +1,20 @@
 {
   "title": "Zafra",
-  "country": "spain",
-  "region": "zafra",
-  "city": "zafra",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "zafra",
+  "city": "Zafra",
+  "citySlug": "zafra",
+  "path": "/spain/zafra/zafra/restaurants",
+  "canonicalPath": "/spain/zafra/zafra/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "acebuche",
       "cuisine": "Fusion",
       "price": "€€",
-      "path": "/spain/zafra/zafra/acebuche"
-    },
-    {
-      "name": "La Rebotica",
-      "cuisine": "Traditional Cuisine, Regional Cuisine",
-      "price": "€€",
-      "path": "/spain/zafra/zafra/la-rebotica"
+      "path": "/spain/zafra/zafra/acebuche-z-a-f"
     },
     {
       "name": "La Rebotica",

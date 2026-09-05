@@ -1,6 +1,694 @@
 {
   "title": "Kyoto",
+  "country": "Japan",
+  "countrySlug": "japan",
+  "region": null,
+  "regionSlug": "kyoto",
+  "city": "Kyoto",
+  "citySlug": "kyoto",
+  "path": "/japan/kyoto/kyoto/restaurants",
+  "canonicalPath": "/japan/kyoto/kyoto/restaurants",
+  "count": 269,
   "restaurants": [
+    {
+      "name": "Gion Sasaki",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/gion-sasaki",
+      "award": "★★★"
+    },
+    {
+      "name": "Hyotei",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/hyotei",
+      "award": "★★★"
+    },
+    {
+      "name": "Isshisoden Nakamura",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/isshisoden-nakamura",
+      "award": "★★★"
+    },
+    {
+      "name": "Kikunoi Honten",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/kikunoi-honten",
+      "award": "★★★"
+    },
+    {
+      "name": "Mizai",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/mizai",
+      "award": "★★★"
+    },
+    {
+      "name": "Gion Maruyama",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/gion-maruyama",
+      "award": "★★"
+    },
+    {
+      "name": "Gion Matayoshi",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/gion-matayoshi",
+      "award": "★★"
+    },
+    {
+      "name": "Gion Nishikawa",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/gion-nishikawa",
+      "award": "★★"
+    },
+    {
+      "name": "Kenninji Gion Maruyama",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/kenninji-gion-maruyama",
+      "award": "★★"
+    },
+    {
+      "name": "Kikunoi Roan",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/kikunoi-roan",
+      "award": "★★"
+    },
+    {
+      "name": "Kodaiji Jugyuan",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/kodaiji-jugyuan",
+      "award": "★★"
+    },
+    {
+      "name": "Kodaiji Wakuden",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/kodaiji-wakuden",
+      "award": "★★"
+    },
+    {
+      "name": "Kyokaiseki Kichisen",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/kyokaiseki-kichisen",
+      "award": "★★"
+    },
+    {
+      "name": "Miyamaso",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/miyamaso",
+      "award": "★★"
+    },
+    {
+      "name": "Ogata",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/ogata",
+      "award": "★★"
+    },
+    {
+      "name": "Otagi",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/otagi",
+      "award": "★★"
+    },
+    {
+      "name": "Ryō-shō",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/rysh",
+      "award": "★★"
+    },
+    {
+      "name": "Sanso Kyoyamato",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/sanso-kyoyamato",
+      "award": "★★"
+    },
+    {
+      "name": "Sojiki Nakahigashi",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/sojiki-nakahigashi",
+      "award": "★★"
+    },
+    {
+      "name": "Sumibi Kappo Ifuki",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/sumibi-kappo-ifuki",
+      "award": "★★"
+    },
+    {
+      "name": "Yusokuryori Mankamero",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/yusokuryori-mankamero",
+      "award": "★★"
+    },
+    {
+      "name": "anpeiji",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/anpeiji",
+      "award": "★"
+    },
+    {
+      "name": "Ayanokoji Karatsu",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/ayanokoji-karatsu",
+      "award": "★"
+    },
+    {
+      "name": "Bini",
+      "cuisine": "Italian",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/bini",
+      "award": "★"
+    },
+    {
+      "name": "cenci",
+      "cuisine": "Italian",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/cenci",
+      "award": "★"
+    },
+    {
+      "name": "DODICI",
+      "cuisine": "Italian",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/dodici",
+      "award": "★"
+    },
+    {
+      "name": "Doppo",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/doppo",
+      "award": "★"
+    },
+    {
+      "name": "Droit",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/droit",
+      "award": "★"
+    },
+    {
+      "name": "Enyuan Kobayashi",
+      "cuisine": "Tempura, Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/enyuan-kobayashi",
+      "award": "★"
+    },
+    {
+      "name": "Gion Fukushi",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/gion-fukushi",
+      "award": "★"
+    },
+    {
+      "name": "Gion Kida",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/gion-kida",
+      "award": "★"
+    },
+    {
+      "name": "Gion Mamma",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/gion-mamma",
+      "award": "★"
+    },
+    {
+      "name": "Gion Okada",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/gion-okada",
+      "award": "★"
+    },
+    {
+      "name": "Gion Owatari",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/gion-owatari",
+      "award": "★"
+    },
+    {
+      "name": "Godan Miyazawa",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/godan-miyazawa",
+      "award": "★"
+    },
+    {
+      "name": "Gokomachi Tagawa",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/gokomachi-tagawa",
+      "award": "★"
+    },
+    {
+      "name": "Gosho Iwasaki",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/gosho-iwasaki",
+      "award": "★"
+    },
+    {
+      "name": "HANA-Kitcho",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/hanakitcho",
+      "award": "★"
+    },
+    {
+      "name": "Higashiyama Ogata",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/japan/kyoto/kyoto/higashiyama-ogata",
+      "award": "★"
+    },
+    {
+      "name": "Higashiyama Yoshihisa",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/higashiyama-yoshihisa",
+      "award": "★"
+    },
+    {
+      "name": "Hiramatsu Kodaiji",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/hiramatsu-kodaiji",
+      "award": "★"
+    },
+    {
+      "name": "Jean-Georges at The Shinmonzen",
+      "cuisine": "French, Contemporary",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/jeangeorges-at-the-shinmonzen",
+      "award": "★"
+    },
+    {
+      "name": "Jiki Miyazawa",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/jiki-miyazawa",
+      "award": "★"
+    },
+    {
+      "name": "Kako Okamoto",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/kako-okamoto",
+      "award": "★"
+    },
+    {
+      "name": "Kamanza Nagashima",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/kamanza-nagashima",
+      "award": "★"
+    },
+    {
+      "name": "Kanamean Nishitomiya",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/kanamean-nishitomiya",
+      "award": "★"
+    },
+    {
+      "name": "Kappo Hassun",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/kappo-hassun",
+      "award": "★"
+    },
+    {
+      "name": "Kentan Horibe",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/kentan-horibe",
+      "award": "★"
+    },
+    {
+      "name": "Kenya",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/kenya",
+      "award": "★"
+    },
+    {
+      "name": "Kikunoi Sushi Ao",
+      "cuisine": "Sushi, Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/kikunoi-sushi-ao",
+      "award": "★"
+    },
+    {
+      "name": "Kinobu",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/kinobu",
+      "award": "★"
+    },
+    {
+      "name": "Kiyama",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/kiyama",
+      "award": "★"
+    },
+    {
+      "name": "KOKE",
+      "cuisine": "Innovative",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/koke",
+      "award": "★"
+    },
+    {
+      "name": "Kokyu",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/kokyu",
+      "award": "★"
+    },
+    {
+      "name": "Kyo Seika",
+      "cuisine": "Chinese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/kyo-seika",
+      "award": "★"
+    },
+    {
+      "name": "Kyoboshi",
+      "cuisine": "Tempura",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/kyoboshi",
+      "award": "★"
+    },
+    {
+      "name": "Kyoryori Fujimoto",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/kyoryori-fujimoto",
+      "award": "★"
+    },
+    {
+      "name": "La Biographie···",
+      "cuisine": "French",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/la-biographie",
+      "award": "★"
+    },
+    {
+      "name": "la bûche",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/la-bche",
+      "award": "★"
+    },
+    {
+      "name": "MASHIRO",
+      "cuisine": "Contemporary",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/mashiro",
+      "award": "★"
+    },
+    {
+      "name": "Mirei",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/mirei",
+      "award": "★"
+    },
+    {
+      "name": "Miyawaki",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/miyawaki",
+      "award": "★"
+    },
+    {
+      "name": "Mizuno",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/mizuno",
+      "award": "★"
+    },
+    {
+      "name": "MOKO",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/moko",
+      "award": "★"
+    },
+    {
+      "name": "MUNI ALAIN DUCASSE",
+      "cuisine": "French",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/muni-alain-ducasse",
+      "award": "★"
+    },
+    {
+      "name": "Muromachi Wakuden",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/muromachi-wakuden",
+      "award": "★"
+    },
+    {
+      "name": "Muromachi Yui",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/muromachi-yui",
+      "award": "★"
+    },
+    {
+      "name": "Nakamitsu",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/nakamitsu",
+      "award": "★"
+    },
+    {
+      "name": "Nakazen",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/nakazen",
+      "award": "★"
+    },
+    {
+      "name": "Nijo Minami",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/nijo-minami",
+      "award": "★"
+    },
+    {
+      "name": "Nijojo Furuta",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/nijojo-furuta",
+      "award": "★"
+    },
+    {
+      "name": "Noguchi Tsunagu",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/noguchi-tsunagu",
+      "award": "★"
+    },
+    {
+      "name": "Ogawa",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/ogawa-k-y-o",
+      "award": "★"
+    },
+    {
+      "name": "Okina",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/okina",
+      "award": "★"
+    },
+    {
+      "name": "Oryori Mashita",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/oryori-mashita",
+      "award": "★"
+    },
+    {
+      "name": "Oryori Mitsuyasu",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/oryori-mitsuyasu",
+      "award": "★"
+    },
+    {
+      "name": "Reine des prés",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/reine-des-prs",
+      "award": "★"
+    },
+    {
+      "name": "Restaurant Hiramatsu Kodaiji",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/restaurant-hiramatsu-kodaiji",
+      "award": "★"
+    },
+    {
+      "name": "Ryoriya Maekawa",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/ryoriya-maekawa",
+      "award": "★"
+    },
+    {
+      "name": "SEN",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/sen",
+      "award": "★"
+    },
+    {
+      "name": "Shimmonzen Yonemura",
+      "cuisine": "Innovative",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/shimmonzen-yonemura",
+      "award": "★"
+    },
+    {
+      "name": "shiro",
+      "cuisine": "Contemporary, Italian",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/shiro",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Kappo Nakaichi",
+      "cuisine": "Japanese, Sushi",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/sushi-kappo-nakaichi",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Matsumoto",
+      "cuisine": "Sushi",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/sushi-matsumoto",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Rakumi",
+      "cuisine": "Sushi",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/sushi-rakumi",
+      "award": "★"
+    },
+    {
+      "name": "TAKAYAMA",
+      "cuisine": "Italian",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/takayama",
+      "award": "★"
+    },
+    {
+      "name": "Tenjaku",
+      "cuisine": "Tempura, Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/tenjaku",
+      "award": "★"
+    },
+    {
+      "name": "Tokuha Motonari",
+      "cuisine": "Japanese",
+      "price": "¥¥¥¥",
+      "path": "/japan/kyoto/kyoto/tokuha-motonari",
+      "award": "★"
+    },
+    {
+      "name": "Torisaki",
+      "cuisine": "Yakitori",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/torisaki",
+      "award": "★"
+    },
+    {
+      "name": "Tozentei",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/tozentei",
+      "award": "★"
+    },
+    {
+      "name": "Tsujifusa",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/tsujifusa",
+      "award": "★"
+    },
+    {
+      "name": "Uozuya",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/uozuya",
+      "award": "★"
+    },
+    {
+      "name": "VELROSIER",
+      "cuisine": "Chinese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/velrosier",
+      "award": "★"
+    },
+    {
+      "name": "Vena",
+      "cuisine": "Italian",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/vena",
+      "award": "★"
+    },
+    {
+      "name": "Wagokoro Izumi",
+      "cuisine": "Japanese",
+      "price": "¥¥¥",
+      "path": "/japan/kyoto/kyoto/wagokoro-izumi",
+      "award": "★"
+    },
+    {
+      "name": "KOKAGE",
+      "cuisine": "Soba",
+      "price": "$",
+      "path": "/japan/kyoto/kyoto/kokage",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Ramenya Fujitora",
+      "cuisine": "Ramen",
+      "price": "$",
+      "path": "/japan/kyoto/kyoto/ramenya-fujitora",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Aji Fukushima",
       "cuisine": "Japanese",
@@ -18,12 +706,6 @@
       "cuisine": "Chinese",
       "price": "¥¥",
       "path": "/japan/kyoto/kyoto/akihana"
-    },
-    {
-      "name": "anpeiji",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/anpeiji"
     },
     {
       "name": "Aoike",
@@ -50,22 +732,10 @@
       "path": "/japan/kyoto/kyoto/ava"
     },
     {
-      "name": "Ayanokoji Karatsu",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/ayanokoji-karatsu"
-    },
-    {
       "name": "Benoit",
       "cuisine": "French",
       "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/benoit"
-    },
-    {
-      "name": "Bini",
-      "cuisine": "Italian",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/bini"
+      "path": "/japan/kyoto/kyoto/benoit-k-y-o"
     },
     {
       "name": "Bistro Cerisier",
@@ -90,12 +760,6 @@
       "cuisine": "Chinese",
       "price": "¥¥",
       "path": "/japan/kyoto/kyoto/canton-shunsai-ikki"
-    },
-    {
-      "name": "cenci",
-      "cuisine": "Italian",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/cenci"
     },
     {
       "name": "Chikuyuan Taro no Atsumori",
@@ -134,24 +798,6 @@
       "path": "/japan/kyoto/kyoto/deux-filles"
     },
     {
-      "name": "DODICI",
-      "cuisine": "Italian",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/dodici"
-    },
-    {
-      "name": "Doppo",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/doppo"
-    },
-    {
-      "name": "Droit",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/droit"
-    },
-    {
       "name": "Eitaroya",
       "cuisine": "Izakaya",
       "price": "¥¥",
@@ -162,12 +808,6 @@
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/en"
-    },
-    {
-      "name": "Enyuan Kobayashi",
-      "cuisine": "Tempura, Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/enyuan-kobayashi"
     },
     {
       "name": "Etto",
@@ -185,7 +825,7 @@
       "name": "Fuyacho 103",
       "cuisine": "Oden",
       "price": "¥¥",
-      "path": "/japan/kyoto/kyoto/fuyacho-103"
+      "path": "/japan/kyoto/kyoto/fuyacho103"
     },
     {
       "name": "Fuyacho Kuraku",
@@ -194,16 +834,16 @@
       "path": "/japan/kyoto/kyoto/fuyacho-kuraku"
     },
     {
+      "name": "Fuyacho Nozaki",
+      "cuisine": "Japanese",
+      "price": "$$",
+      "path": "/japan/kyoto/kyoto/fuyacho-nozaki"
+    },
+    {
       "name": "Germoglio",
       "cuisine": "Italian",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/germoglio"
-    },
-    {
-      "name": "Gion Fukushi",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/gion-fukushi"
     },
     {
       "name": "Gion Kajisho",
@@ -212,52 +852,10 @@
       "path": "/japan/kyoto/kyoto/gion-kajisho"
     },
     {
-      "name": "Gion Kida",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/gion-kida"
-    },
-    {
-      "name": "Gion Mamma",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/gion-mamma"
-    },
-    {
-      "name": "Gion Maruyama",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/gion-maruyama"
-    },
-    {
-      "name": "Gion Matayoshi",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/gion-matayoshi"
-    },
-    {
-      "name": "Gion Nishikawa",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/gion-nishikawa"
-    },
-    {
       "name": "Gion Nishimura",
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/gion-nishimura"
-    },
-    {
-      "name": "Gion Okada",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/gion-okada"
-    },
-    {
-      "name": "Gion Owatari",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/gion-owatari"
     },
     {
       "name": "Gion Rakumi",
@@ -270,12 +868,6 @@
       "cuisine": "Japanese",
       "price": "¥¥",
       "path": "/japan/kyoto/kyoto/gion-rohan"
-    },
-    {
-      "name": "Gion Sasaki",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/gion-sasaki"
     },
     {
       "name": "Gion Senryu",
@@ -296,28 +888,10 @@
       "path": "/japan/kyoto/kyoto/gion-yorozuya"
     },
     {
-      "name": "Godan Miyazawa",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/godan-miyazawa"
-    },
-    {
-      "name": "Gokomachi Tagawa",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/gokomachi-tagawa"
-    },
-    {
       "name": "Gombei",
       "cuisine": "Soba",
       "price": "¥",
       "path": "/japan/kyoto/kyoto/gombei"
-    },
-    {
-      "name": "Gosho Iwasaki",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/gosho-iwasaki"
     },
     {
       "name": "Hachiraku",
@@ -332,12 +906,6 @@
       "path": "/japan/kyoto/kyoto/hakubi"
     },
     {
-      "name": "HANA-Kitcho",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/hana-kitcho"
-    },
-    {
       "name": "Hanhan",
       "cuisine": "Japanese",
       "price": "¥¥¥",
@@ -350,18 +918,6 @@
       "path": "/japan/kyoto/kyoto/higashiyama-tsukasa"
     },
     {
-      "name": "Higashiyama Yoshihisa",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/higashiyama-yoshihisa"
-    },
-    {
-      "name": "Hiramatsu Kodaiji",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/hiramatsu-kodaiji"
-    },
-    {
       "name": "Hirosawa",
       "cuisine": "Chinese",
       "price": "¥¥¥",
@@ -372,12 +928,6 @@
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/hosun-nagashima"
-    },
-    {
-      "name": "Hyotei",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/hyotei"
     },
     {
       "name": "Ichihana",
@@ -395,19 +945,13 @@
       "name": "ima",
       "cuisine": "French",
       "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/ima"
+      "path": "/japan/kyoto/kyoto/ima-k-y-o"
     },
     {
       "name": "Isoyama",
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/isoyama"
-    },
-    {
-      "name": "Isshisoden Nakamura",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/isshisoden-nakamura"
     },
     {
       "name": "Itsutsu",
@@ -426,18 +970,6 @@
       "cuisine": "Sushi",
       "price": "¥",
       "path": "/japan/kyoto/kyoto/izuu"
-    },
-    {
-      "name": "Jean-Georges at The Shinmonzen",
-      "cuisine": "French, Contemporary",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/jean-georges-at-the-shinmonzen"
-    },
-    {
-      "name": "Jiki Miyazawa",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/jiki-miyazawa"
     },
     {
       "name": "Jikiba Ono",
@@ -461,19 +993,7 @@
       "name": "Juu-go",
       "cuisine": "Soba",
       "price": "¥",
-      "path": "/japan/kyoto/kyoto/juu-go"
-    },
-    {
-      "name": "Kako Okamoto",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/kako-okamoto"
-    },
-    {
-      "name": "Kamanza Nagashima",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/kamanza-nagashima"
+      "path": "/japan/kyoto/kyoto/juugo"
     },
     {
       "name": "Kamoryori Tabuchi",
@@ -486,12 +1006,6 @@
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/kan"
-    },
-    {
-      "name": "Kanamean Nishitomiya",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/kanamean-nishitomiya"
     },
     {
       "name": "Kanesho",
@@ -512,10 +1026,10 @@
       "path": "/japan/kyoto/kyoto/kappo-harada"
     },
     {
-      "name": "Kappo Hassun",
+      "name": "Kappo Ichikawa",
       "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/kappo-hassun"
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/kappo-ichikawa"
     },
     {
       "name": "Kappo Shinatomi",
@@ -542,34 +1056,10 @@
       "path": "/japan/kyoto/kyoto/kashiwai"
     },
     {
-      "name": "Kenninji Gion Maruyama",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/kenninji-gion-maruyama"
-    },
-    {
-      "name": "Kentan Horibe",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/kentan-horibe"
-    },
-    {
-      "name": "Kenya",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/kenya"
-    },
-    {
       "name": "Keri",
       "cuisine": "Duck Specialities",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/keri"
-    },
-    {
-      "name": "Kikunoi Honten",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/kikunoi-honten"
     },
     {
       "name": "Kikunoi Mugesambo",
@@ -578,64 +1068,16 @@
       "path": "/japan/kyoto/kyoto/kikunoi-mugesambo"
     },
     {
-      "name": "Kikunoi Roan",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/kikunoi-roan"
-    },
-    {
-      "name": "Kikunoi Sushi Ao",
-      "cuisine": "Sushi, Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/kikunoi-sushi-ao"
-    },
-    {
-      "name": "Kinobu",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/kinobu"
-    },
-    {
-      "name": "Kiyama",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/kiyama"
-    },
-    {
       "name": "Kiyamachi Ran",
       "cuisine": "Sushi",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/kiyamachi-ran"
     },
     {
-      "name": "Kodaiji Jugyuan",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/kodaiji-jugyuan"
-    },
-    {
-      "name": "Kodaiji Wakuden",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/kodaiji-wakuden"
-    },
-    {
       "name": "KOGA",
       "cuisine": "French",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/koga"
-    },
-    {
-      "name": "KOKE",
-      "cuisine": "Innovative",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/koke"
-    },
-    {
-      "name": "Kokyu",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/kokyu"
     },
     {
       "name": "Komatsu Cucina Italiana",
@@ -686,18 +1128,6 @@
       "path": "/japan/kyoto/kyoto/kushi-tanaka"
     },
     {
-      "name": "Kyo Seika",
-      "cuisine": "Chinese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/kyo-seika"
-    },
-    {
-      "name": "Kyoboshi",
-      "cuisine": "Tempura",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/kyoboshi"
-    },
-    {
       "name": "Kyochuka Makisada",
       "cuisine": "Chinese",
       "price": "¥¥¥",
@@ -716,40 +1146,16 @@
       "path": "/japan/kyoto/kyoto/kyogoku-kaneyo"
     },
     {
-      "name": "Kyokaiseki Kichisen",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/kyokaiseki-kichisen"
-    },
-    {
-      "name": "Kyoryori Fujimoto",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/kyoryori-fujimoto"
-    },
-    {
       "name": "Kyoryori Hachisei",
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/kyoryori-hachisei"
     },
     {
-      "name": "la bûche",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/la-bche"
-    },
-    {
-      "name": "La Biographie···",
-      "cuisine": "French",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/la-biographie"
-    },
-    {
       "name": "L'aparté",
       "cuisine": "French",
       "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/lapart"
+      "path": "/japan/kyoto/kyoto/lapart-k-y-o"
     },
     {
       "name": "Lapintaika",
@@ -761,7 +1167,7 @@
       "name": "le 14e",
       "cuisine": "French",
       "price": "¥¥",
-      "path": "/japan/kyoto/kyoto/le-14e"
+      "path": "/japan/kyoto/kyoto/le14e"
     },
     {
       "name": "Le cadeau",
@@ -776,10 +1182,10 @@
       "path": "/japan/kyoto/kyoto/luca"
     },
     {
-      "name": "Luca",
-      "cuisine": "French",
+      "name": "måne",
+      "cuisine": "Italian",
       "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/luca"
+      "path": "/japan/kyoto/kyoto/mne"
     },
     {
       "name": "Manjuji Hakuran",
@@ -792,12 +1198,6 @@
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/masaki"
-    },
-    {
-      "name": "MASHIRO",
-      "cuisine": "Contemporary",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/mashiro"
     },
     {
       "name": "Masumasu Masuda",
@@ -818,12 +1218,6 @@
       "path": "/japan/kyoto/kyoto/middle"
     },
     {
-      "name": "Mirei",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/mirei"
-    },
-    {
       "name": "Mishimatei",
       "cuisine": "Sukiyaki",
       "price": "¥¥¥",
@@ -840,42 +1234,6 @@
       "cuisine": "Tempura",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/miyagawacho-tensho"
-    },
-    {
-      "name": "Miyamaso",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/miyamaso"
-    },
-    {
-      "name": "Miyawaki",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/miyawaki"
-    },
-    {
-      "name": "Mizai",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/mizai"
-    },
-    {
-      "name": "Mizuno",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/mizuno"
-    },
-    {
-      "name": "måne",
-      "cuisine": "Italian",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/mne"
-    },
-    {
-      "name": "MOKO",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/moko"
     },
     {
       "name": "Mokubei",
@@ -902,58 +1260,16 @@
       "path": "/japan/kyoto/kyoto/muginoyoake"
     },
     {
-      "name": "MUNI ALAIN DUCASSE",
-      "cuisine": "French",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/muni-alain-ducasse"
-    },
-    {
       "name": "Muromachi Kaji",
       "cuisine": "Izakaya",
       "price": "¥¥",
       "path": "/japan/kyoto/kyoto/muromachi-kaji"
     },
     {
-      "name": "Muromachi Wakuden",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/muromachi-wakuden"
-    },
-    {
-      "name": "Muromachi Yui",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/muromachi-yui"
-    },
-    {
-      "name": "Nakamitsu",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/nakamitsu"
-    },
-    {
-      "name": "Nakazen",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/nakazen"
-    },
-    {
       "name": "Nijo Aritsune",
       "cuisine": "Izakaya",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/nijo-aritsune"
-    },
-    {
-      "name": "Nijo Minami",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/nijo-minami"
-    },
-    {
-      "name": "Nijojo Furuta",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/nijojo-furuta"
     },
     {
       "name": "Nikuryori Shibuya",
@@ -974,12 +1290,6 @@
       "path": "/japan/kyoto/kyoto/nishijin-hashimoto"
     },
     {
-      "name": "Noguchi Tsunagu",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/noguchi-tsunagu"
-    },
-    {
       "name": "Nominokoji Yamagishi",
       "cuisine": "Izakaya",
       "price": "¥¥¥",
@@ -992,28 +1302,16 @@
       "path": "/japan/kyoto/kyoto/noodle-shop-rennosuke"
     },
     {
-      "name": "Ogata",
+      "name": "Nose",
       "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/ogata"
-    },
-    {
-      "name": "Ogawa",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/ogawa"
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/nose"
     },
     {
       "name": "Oito",
       "cuisine": "Oden",
       "price": "¥¥",
       "path": "/japan/kyoto/kyoto/oito"
-    },
-    {
-      "name": "Okina",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/okina"
     },
     {
       "name": "Okuniya Mambei",
@@ -1034,28 +1332,16 @@
       "path": "/japan/kyoto/kyoto/oryori-maeshiro"
     },
     {
-      "name": "Oryori Mashita",
+      "name": "Oshikoji Okada",
       "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/oryori-mashita"
-    },
-    {
-      "name": "Oryori Mitsuyasu",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/oryori-mitsuyasu"
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/oshikoji-okada"
     },
     {
       "name": "OSTERIA IL CANTO DEL MAGGIO",
       "cuisine": "Italian",
       "price": "¥¥",
       "path": "/japan/kyoto/kyoto/osteria-il-canto-del-maggio"
-    },
-    {
-      "name": "Otagi",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/otagi"
     },
     {
       "name": "Pontocho Masuda",
@@ -1088,18 +1374,6 @@
       "path": "/japan/kyoto/kyoto/ramen-touhichi"
     },
     {
-      "name": "Reine des prés",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/reine-des-prs"
-    },
-    {
-      "name": "Restaurant Hiramatsu Kodaiji",
-      "cuisine": "French",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/restaurant-hiramatsu-kodaiji"
-    },
-    {
       "name": "ristorante DONO",
       "cuisine": "Italian",
       "price": "¥¥¥",
@@ -1124,12 +1398,6 @@
       "path": "/japan/kyoto/kyoto/ryoriya-kanemitsu"
     },
     {
-      "name": "Ryoriya Maekawa",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/ryoriya-maekawa"
-    },
-    {
       "name": "Ryoriya Otaya",
       "cuisine": "Japanese",
       "price": "¥¥",
@@ -1142,16 +1410,16 @@
       "path": "/japan/kyoto/kyoto/ryoriya-stephan-pantel"
     },
     {
-      "name": "Ryō-shō",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/ry-sh"
-    },
-    {
       "name": "Sakaimachi Kamokura",
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/sakaimachi-kamokura"
+    },
+    {
+      "name": "Saketokoro Tanaka",
+      "cuisine": "Izakaya",
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/saketokoro-tanaka"
     },
     {
       "name": "Saketosakana DNA",
@@ -1166,12 +1434,6 @@
       "path": "/japan/kyoto/kyoto/sambongi-shoten"
     },
     {
-      "name": "Sanso Kyoyamato",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/sanso-kyoyamato"
-    },
-    {
       "name": "Saryo Tesshin",
       "cuisine": "Soba",
       "price": "¥",
@@ -1182,12 +1444,6 @@
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/satowa"
-    },
-    {
-      "name": "SEN",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/sen"
     },
     {
       "name": "Senda",
@@ -1208,12 +1464,6 @@
       "path": "/japan/kyoto/kyoto/shigetsu"
     },
     {
-      "name": "Shimmonzen Yonemura",
-      "cuisine": "Innovative",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/shimmonzen-yonemura"
-    },
-    {
       "name": "Shimogamo Ichima",
       "cuisine": "Sushi",
       "price": "¥¥¥",
@@ -1226,10 +1476,10 @@
       "path": "/japan/kyoto/kyoto/shimogamo-saryo"
     },
     {
-      "name": "shiro",
-      "cuisine": "Contemporary, Italian",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/shiro"
+      "name": "Shinka",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/shinka"
     },
     {
       "name": "Shuhaku",
@@ -1244,12 +1494,6 @@
       "path": "/japan/kyoto/kyoto/soba-rojina"
     },
     {
-      "name": "Sojiki Nakahigashi",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/sojiki-nakahigashi"
-    },
-    {
       "name": "Sokkon Fujimoto",
       "cuisine": "Japanese",
       "price": "¥¥¥¥",
@@ -1262,10 +1506,10 @@
       "path": "/japan/kyoto/kyoto/sonoba"
     },
     {
-      "name": "Sumibi Kappo Ifuki",
+      "name": "Sumi Ryori Hiyori",
       "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/sumibi-kappo-ifuki"
+      "price": "$$$",
+      "path": "/japan/kyoto/kyoto/sumi-ryori-hiyori"
     },
     {
       "name": "Sumiyakisosaitoriya Hitomi",
@@ -1286,40 +1530,16 @@
       "path": "/japan/kyoto/kyoto/sushi-imagine"
     },
     {
-      "name": "Sushi Kappo Nakaichi",
-      "cuisine": "Japanese, Sushi",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/sushi-kappo-nakaichi"
-    },
-    {
       "name": "Sushi Kawano",
       "cuisine": "Sushi",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/sushi-kawano"
     },
     {
-      "name": "Sushi Matsumoto",
-      "cuisine": "Sushi",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/sushi-matsumoto"
-    },
-    {
-      "name": "Sushi Rakumi",
-      "cuisine": "Sushi",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/sushi-rakumi"
-    },
-    {
       "name": "Sushizen",
       "cuisine": "Sushi",
       "price": "¥",
       "path": "/japan/kyoto/kyoto/sushizen"
-    },
-    {
-      "name": "TAKAYAMA",
-      "cuisine": "Italian",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/takayama"
     },
     {
       "name": "Takehisa",
@@ -1358,22 +1578,22 @@
       "path": "/japan/kyoto/kyoto/tan"
     },
     {
+      "name": "Tempura Hashimoto",
+      "cuisine": "Tempura",
+      "price": "$$",
+      "path": "/japan/kyoto/kyoto/tempura-hashimoto"
+    },
+    {
       "name": "Tempura Mizuki",
       "cuisine": "Tempura",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/tempura-mizuki"
     },
     {
-      "name": "Tenjaku",
-      "cuisine": "Tempura, Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/tenjaku"
-    },
-    {
       "name": "Ten-you",
       "cuisine": "Tempura",
       "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/ten-you"
+      "path": "/japan/kyoto/kyoto/tenyou"
     },
     {
       "name": "Teuchisoba Kanei",
@@ -1388,12 +1608,6 @@
       "path": "/japan/kyoto/kyoto/toki"
     },
     {
-      "name": "Tokuha Motonari",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/tokuha-motonari"
-    },
-    {
       "name": "Tokumaru",
       "cuisine": "Japanese",
       "price": "¥¥",
@@ -1404,12 +1618,6 @@
       "cuisine": "Japanese",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/tokuo"
-    },
-    {
-      "name": "Torisaki",
-      "cuisine": "Yakitori",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/torisaki"
     },
     {
       "name": "Torisho sai",
@@ -1424,18 +1632,6 @@
       "path": "/japan/kyoto/kyoto/totoyoshi"
     },
     {
-      "name": "Tozentei",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/tozentei"
-    },
-    {
-      "name": "Tsujifusa",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/tsujifusa"
-    },
-    {
       "name": "Tsuneya Densuke",
       "cuisine": "Izakaya",
       "price": "¥¥¥",
@@ -1448,40 +1644,16 @@
       "path": "/japan/kyoto/kyoto/tsuroku"
     },
     {
-      "name": "Uozuya",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/uozuya"
-    },
-    {
       "name": "Vegan Ramen UZU",
       "cuisine": "Ramen",
       "price": "¥¥",
       "path": "/japan/kyoto/kyoto/vegan-ramen-uzu"
     },
     {
-      "name": "VELROSIER",
-      "cuisine": "Chinese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/velrosier"
-    },
-    {
-      "name": "Vena",
-      "cuisine": "Italian",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/vena"
-    },
-    {
       "name": "wabiya",
       "cuisine": "Yakitori, Chicken Specialities",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/wabiya"
-    },
-    {
-      "name": "Wagokoro Izumi",
-      "cuisine": "Japanese",
-      "price": "¥¥¥",
-      "path": "/japan/kyoto/kyoto/wagokoro-izumi"
     },
     {
       "name": "Wakasugi",
@@ -1538,12 +1710,6 @@
       "path": "/japan/kyoto/kyoto/yoshoku-ogata"
     },
     {
-      "name": "Yusokuryori Mankamero",
-      "cuisine": "Japanese",
-      "price": "¥¥¥¥",
-      "path": "/japan/kyoto/kyoto/yusokuryori-mankamero"
-    },
-    {
       "name": "Yuyu",
       "cuisine": "Japanese",
       "price": "¥¥¥",
@@ -1554,72 +1720,6 @@
       "cuisine": "Italian",
       "price": "¥¥",
       "path": "/japan/kyoto/kyoto/zucchero"
-    },
-    {
-      "name": "Higashiyama Ogata",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/japan/kyoto/kyoto/HigashiyamaOgata"
-    },
-    {
-      "name": "KOKAGE",
-      "cuisine": "Soba",
-      "price": "$",
-      "path": "/japan/kyoto/kyoto/Kokage"
-    },
-    {
-      "name": "Ramenya Fujitora",
-      "cuisine": "Ramen",
-      "price": "$",
-      "path": "/japan/kyoto/kyoto/RamenyaFujitora"
-    },
-    {
-      "name": "Fuyacho Nozaki",
-      "cuisine": "Japanese",
-      "price": "$$",
-      "path": "/japan/kyoto/kyoto/FuyachoNozaki"
-    },
-    {
-      "name": "Kappo Ichikawa",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/japan/kyoto/kyoto/KappoIchikawa"
-    },
-    {
-      "name": "Nose",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/japan/kyoto/kyoto/Nose"
-    },
-    {
-      "name": "Oshikoji Okada",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/japan/kyoto/kyoto/OshikojiOkada"
-    },
-    {
-      "name": "Saketokoro Tanaka",
-      "cuisine": "Izakaya",
-      "price": "$$$",
-      "path": "/japan/kyoto/kyoto/SaketokoroTanaka"
-    },
-    {
-      "name": "Shinka",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/japan/kyoto/kyoto/Shinka"
-    },
-    {
-      "name": "Sumi Ryori Hiyori",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/japan/kyoto/kyoto/SumiRyoriHiyori"
-    },
-    {
-      "name": "Tempura Hashimoto",
-      "cuisine": "Tempura",
-      "price": "$$",
-      "path": "/japan/kyoto/kyoto/TempuraHashimoto"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "title": "Bragana",
-  "country": "portugal",
-  "region": "bragana",
-  "city": "bragana",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "bragana",
+  "city": "Bragana",
+  "citySlug": "bragana",
+  "path": "/portugal/bragana/bragana/restaurants",
+  "canonicalPath": "/portugal/bragana/bragana/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "G Pousada",
+      "cuisine": "Creative, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/bragana/bragana/g-pousada",
+      "award": "★"
+    },
     {
       "name": "Contradição",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/portugal/bragana/bragana/contradio"
-    },
-    {
-      "name": "G Pousada",
-      "cuisine": "Creative, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/bragana/bragana/g-pousada"
     },
     {
       "name": "O Javali",

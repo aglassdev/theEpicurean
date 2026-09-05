@@ -1,11 +1,20 @@
 {
   "title": "Samobor",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "samobor",
+  "city": "Samobor",
+  "citySlug": "samobor",
+  "path": "/croatia/samobor/samobor/restaurants",
+  "canonicalPath": "/croatia/samobor/samobor/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cantilly Garden",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/croatia/samobor/samobor/CantillyGarden"
+      "path": "/croatia/samobor/samobor/cantilly-garden"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Roucourt",
-  "country": "belgium",
-  "region": "roucourt",
-  "city": "roucourt",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "roucourt",
+  "city": "Roucourt",
+  "citySlug": "roucourt",
+  "path": "/belgium/roucourt/roucourt/restaurants",
+  "canonicalPath": "/belgium/roucourt/roucourt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vicomté",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/belgium/roucourt/roucourt/vicomt"
+      "path": "/belgium/roucourt/roucourt/vicomt",
+      "award": "★"
     }
   ]
 }

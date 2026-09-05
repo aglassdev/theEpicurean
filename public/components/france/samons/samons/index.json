@@ -1,8 +1,14 @@
 {
   "title": "Samons",
-  "country": "france",
-  "region": "samons",
-  "city": "samons",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "samons",
+  "city": "Samons",
+  "citySlug": "samons",
+  "path": "/france/samons/samons/restaurants",
+  "canonicalPath": "/france/samons/samons/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Lodge",

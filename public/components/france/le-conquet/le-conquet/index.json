@@ -1,14 +1,20 @@
 {
   "title": "Le Conquet",
-  "country": "france",
-  "region": "le-conquet",
-  "city": "le-conquet",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-conquet",
+  "city": "Le Conquet",
+  "citySlug": "le-conquet",
+  "path": "/france/le-conquet/le-conquet/restaurants",
+  "canonicalPath": "/france/le-conquet/le-conquet/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Corniche - Sainte-Barbe",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/le-conquet/le-conquet/la-corniche-sainte-barbe"
+      "path": "/france/le-conquet/le-conquet/la-corniche-saintebarbe"
     }
   ]
 }

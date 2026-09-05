@@ -1,0 +1,45 @@
+{
+  "title": "Yountville",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Yountville",
+  "citySlug": "yountville",
+  "path": "/usa/california/yountville/restaurants",
+  "canonicalPath": "/usa/california/yountville/restaurants",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "The French Laundry",
+      "cuisine": "Contemporary, French",
+      "price": "$$$$",
+      "path": "/usa/california/yountville/the-french-laundry",
+      "award": "★★★"
+    },
+    {
+      "name": "Ad Hoc",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/california/yountville/ad-hoc-y-o-u"
+    },
+    {
+      "name": "Bouchon",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/usa/california/yountville/bouchon"
+    },
+    {
+      "name": "Ciccio",
+      "cuisine": "Italian, Pizza",
+      "price": "$$",
+      "path": "/usa/california/yountville/ciccio"
+    },
+    {
+      "name": "North Block",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/yountville/north-block"
+    }
+  ]
+}

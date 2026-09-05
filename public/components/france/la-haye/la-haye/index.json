@@ -1,8 +1,14 @@
 {
   "title": "La Haye",
-  "country": "france",
-  "region": "la-haye",
-  "city": "la-haye",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-haye",
+  "city": "La Haye",
+  "citySlug": "la-haye",
+  "path": "/france/la-haye/la-haye/restaurants",
+  "canonicalPath": "/france/la-haye/la-haye/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Petit Nor’Cat",

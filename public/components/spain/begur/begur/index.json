@@ -1,8 +1,14 @@
 {
   "title": "Begur",
-  "country": "spain",
-  "region": "begur",
-  "city": "begur",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "begur",
+  "city": "Begur",
+  "citySlug": "begur",
+  "path": "/spain/begur/begur/restaurants",
+  "canonicalPath": "/spain/begur/begur/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "AlKostat del Mar",

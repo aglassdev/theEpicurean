@@ -1,9 +1,22 @@
 {
   "title": "Wiesbaden",
-  "country": "germany",
-  "region": "wiesbaden",
-  "city": "wiesbaden",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "wiesbaden",
+  "city": "Wiesbaden",
+  "citySlug": "wiesbaden",
+  "path": "/germany/wiesbaden/wiesbaden/restaurants",
+  "canonicalPath": "/germany/wiesbaden/wiesbaden/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Ente",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/wiesbaden/wiesbaden/ente",
+      "award": "★"
+    },
     {
       "name": "DAS GOLDSTEIN BY GOLLNER'S",
       "cuisine": "Seasonal Cuisine, Farm to table",
@@ -11,16 +24,10 @@
       "path": "/germany/wiesbaden/wiesbaden/das-goldstein-by-gollners"
     },
     {
-      "name": "Ente",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/wiesbaden/wiesbaden/ente"
-    },
-    {
       "name": "Ente-Bistro",
       "cuisine": "Classic French, Farm to table",
       "price": "€€€",
-      "path": "/germany/wiesbaden/wiesbaden/ente-bistro"
+      "path": "/germany/wiesbaden/wiesbaden/entebistro"
     },
     {
       "name": "martino KITCHEN",

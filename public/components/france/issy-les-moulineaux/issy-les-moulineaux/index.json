@@ -1,9 +1,22 @@
 {
-  "title": "Issy Les Moulineaux",
-  "country": "france",
-  "region": "issy-les-moulineaux",
-  "city": "issy-les-moulineaux",
+  "title": "Issy les Moulineaux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "issy-les-moulineaux",
+  "city": "Issy les Moulineaux",
+  "citySlug": "issy-les-moulineaux",
+  "path": "/france/issy-les-moulineaux/issy-les-moulineaux/restaurants",
+  "canonicalPath": "/france/issy-les-moulineaux/issy-les-moulineaux/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Maison Avoise",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/issy-les-moulineaux/issy-les-moulineaux/maison-avoise",
+      "award": "★"
+    },
     {
       "name": "Koji",
       "cuisine": "Teppanyaki",
@@ -14,13 +27,7 @@
       "name": "La Passerelle",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/issy-les-moulineaux/issy-les-moulineaux/la-passerelle"
-    },
-    {
-      "name": "Maison Avoise",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/issy-les-moulineaux/issy-les-moulineaux/maison-avoise"
+      "path": "/france/issy-les-moulineaux/issy-les-moulineaux/la-passerelle-i-s-s"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Amboise",
-  "country": "france",
-  "region": "amboise",
-  "city": "amboise",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "amboise",
+  "city": "Amboise",
+  "citySlug": "amboise",
+  "path": "/france/amboise/amboise/restaurants",
+  "canonicalPath": "/france/amboise/amboise/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Château de Pray",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/amboise/amboise/chteau-de-pray"
+      "path": "/france/amboise/amboise/chteau-de-pray",
+      "award": "★"
     },
     {
       "name": "L'Écluse",

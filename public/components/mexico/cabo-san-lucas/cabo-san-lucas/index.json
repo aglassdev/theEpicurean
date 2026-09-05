@@ -1,20 +1,27 @@
 {
   "title": "Cabo San Lucas",
-  "country": "mexico",
-  "region": "cabo-san-lucas",
-  "city": "cabo-san-lucas",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "cabo-san-lucas",
+  "city": "Cabo San Lucas",
+  "citySlug": "cabo-san-lucas",
+  "path": "/mexico/cabo-san-lucas/cabo-san-lucas/restaurants",
+  "canonicalPath": "/mexico/cabo-san-lucas/cabo-san-lucas/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Cocina de Autor Los Cabos",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/cabo-san-lucas/cabo-san-lucas/cocina-de-autor-los-cabos",
+      "award": "★"
+    },
     {
       "name": "Al Pairo at Solaz",
       "cuisine": "Mexican",
       "price": "$$$$",
       "path": "/mexico/cabo-san-lucas/cabo-san-lucas/al-pairo-at-solaz"
-    },
-    {
-      "name": "Cocina de Autor Los Cabos",
-      "cuisine": "Mexican",
-      "price": "$$$$",
-      "path": "/mexico/cabo-san-lucas/cabo-san-lucas/cocina-de-autor-los-cabos"
     },
     {
       "name": "Comal",

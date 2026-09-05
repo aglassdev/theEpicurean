@@ -1,9 +1,22 @@
 {
   "title": "Oberstdorf",
-  "country": "germany",
-  "region": "oberstdorf",
-  "city": "oberstdorf",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "oberstdorf",
+  "city": "Oberstdorf",
+  "citySlug": "oberstdorf",
+  "path": "/germany/oberstdorf/oberstdorf/restaurants",
+  "canonicalPath": "/germany/oberstdorf/oberstdorf/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "ESS ATELIER STRAUSS",
+      "cuisine": "Classic Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/oberstdorf/oberstdorf/ess-atelier-strauss",
+      "award": "★"
+    },
     {
       "name": "Das Fetzwerk",
       "cuisine": "International, Country cooking",
@@ -21,12 +34,6 @@
       "cuisine": "Seasonal Cuisine, International",
       "price": "€€€",
       "path": "/germany/oberstdorf/oberstdorf/das-maxi-genussreich"
-    },
-    {
-      "name": "ESS ATELIER STRAUSS",
-      "cuisine": "Classic Cuisine, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/oberstdorf/oberstdorf/ess-atelier-strauss"
     },
     {
       "name": "Ondersch Genusswirtschaft",

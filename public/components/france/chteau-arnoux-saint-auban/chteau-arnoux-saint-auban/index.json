@@ -1,20 +1,27 @@
 {
   "title": "Chteau Arnoux Saint Auban",
-  "country": "france",
-  "region": "chteau-arnoux-saint-auban",
-  "city": "chteau-arnoux-saint-auban",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chteau-arnoux-saint-auban",
+  "city": "Chteau Arnoux Saint Auban",
+  "citySlug": "chteau-arnoux-saint-auban",
+  "path": "/france/chteau-arnoux-saint-auban/chteau-arnoux-saint-auban/restaurants",
+  "canonicalPath": "/france/chteau-arnoux-saint-auban/chteau-arnoux-saint-auban/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "La Bonne Étape",
+      "cuisine": "Provençal",
+      "price": "€€€€",
+      "path": "/france/chteau-arnoux-saint-auban/chteau-arnoux-saint-auban/la-bonne-tape",
+      "award": "★"
+    },
     {
       "name": "Bistro Gaby",
       "cuisine": "Provençal",
       "price": "€€",
       "path": "/france/chteau-arnoux-saint-auban/chteau-arnoux-saint-auban/bistro-gaby"
-    },
-    {
-      "name": "La Bonne Étape",
-      "cuisine": "Provençal",
-      "price": "€€€€",
-      "path": "/france/chteau-arnoux-saint-auban/chteau-arnoux-saint-auban/la-bonne-tape"
     }
   ]
 }

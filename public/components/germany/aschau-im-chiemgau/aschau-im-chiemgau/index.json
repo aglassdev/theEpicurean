@@ -1,20 +1,27 @@
 {
-  "title": "Aschau Im Chiemgau",
-  "country": "germany",
-  "region": "aschau-im-chiemgau",
-  "city": "aschau-im-chiemgau",
+  "title": "Aschau im Chiemgau",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "aschau-im-chiemgau",
+  "city": "Aschau im Chiemgau",
+  "citySlug": "aschau-im-chiemgau",
+  "path": "/germany/aschau-im-chiemgau/aschau-im-chiemgau/restaurants",
+  "canonicalPath": "/germany/aschau-im-chiemgau/aschau-im-chiemgau/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Epicures",
+      "cuisine": "Modern French",
+      "price": "€€€€",
+      "path": "/germany/aschau-im-chiemgau/aschau-im-chiemgau/epicures",
+      "award": "★"
+    },
     {
       "name": "Brasserie Tafern",
       "cuisine": "Classic Cuisine, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/germany/aschau-im-chiemgau/aschau-im-chiemgau/brasserie-tafern"
-    },
-    {
-      "name": "Epicures",
-      "cuisine": "Modern French",
-      "price": "€€€€",
-      "path": "/germany/aschau-im-chiemgau/aschau-im-chiemgau/epicures"
     }
   ]
 }

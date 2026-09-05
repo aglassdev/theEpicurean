@@ -1,14 +1,21 @@
 {
-  "title": "La Vall De Bianya",
-  "country": "spain",
-  "region": "la-vall-de-bianya",
-  "city": "la-vall-de-bianya",
+  "title": "La Vall de Bianya",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "la-vall-de-bianya",
+  "city": "La Vall de Bianya",
+  "citySlug": "la-vall-de-bianya",
+  "path": "/spain/la-vall-de-bianya/la-vall-de-bianya/restaurants",
+  "canonicalPath": "/spain/la-vall-de-bianya/la-vall-de-bianya/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Ca l'Enric",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/la-vall-de-bianya/la-vall-de-bianya/ca-lenric"
+      "path": "/spain/la-vall-de-bianya/la-vall-de-bianya/ca-lenric",
+      "award": "★"
     },
     {
       "name": "L’Hostal de Ca l’Enric",

@@ -1,11 +1,21 @@
 {
   "title": "Santiago",
+  "country": "Chile",
+  "countrySlug": "chile",
+  "region": null,
+  "regionSlug": "santiago",
+  "city": "Santiago",
+  "citySlug": "santiago",
+  "path": "/chile/santiago/santiago/restaurants",
+  "canonicalPath": "/chile/santiago/santiago/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Boragó",
       "cuisine": "",
       "price": "",
-      "path": "/chile/santiago/santiago/Borag"
+      "path": "/chile/santiago/santiago/borag",
+      "award": "World's 50 Best"
     }
   ]
 }

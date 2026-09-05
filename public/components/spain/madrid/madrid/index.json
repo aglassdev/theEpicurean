@@ -1,17 +1,230 @@
 {
   "title": "Madrid",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "madrid",
+  "city": "Madrid",
+  "citySlug": "madrid",
+  "path": "/spain/madrid/madrid/restaurants",
+  "canonicalPath": "/spain/madrid/madrid/restaurants",
+  "count": 175,
   "restaurants": [
     {
-      "name": "99 sushi bar",
-      "cuisine": "Japanese",
+      "name": "DiverXO",
+      "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/madrid/madrid/99-sushi-bar"
+      "path": "/spain/madrid/madrid/diverxo",
+      "award": "★★★"
+    },
+    {
+      "name": "Coque",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/coque",
+      "award": "★★"
+    },
+    {
+      "name": "Deessa",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/deessa",
+      "award": "★★"
+    },
+    {
+      "name": "DSTAgE",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/dstage",
+      "award": "★★"
+    },
+    {
+      "name": "Paco Roncero",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/paco-roncero",
+      "award": "★★"
+    },
+    {
+      "name": "Ramón Freixa Atelier",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/ramn-freixa-atelier",
+      "award": "★★"
+    },
+    {
+      "name": "Smoked Room",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/smoked-room-m-a-d",
+      "award": "★★"
     },
     {
       "name": "A'Barra",
       "cuisine": "International",
       "price": "€€€€",
-      "path": "/spain/madrid/madrid/abarra"
+      "path": "/spain/madrid/madrid/abarra",
+      "award": "★"
+    },
+    {
+      "name": "CEBO",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/cebo",
+      "award": "★"
+    },
+    {
+      "name": "Chispa Bistró",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/madrid/madrid/chispa-bistr",
+      "award": "★"
+    },
+    {
+      "name": "Clos Madrid",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/madrid/madrid/clos-madrid",
+      "award": "★"
+    },
+    {
+      "name": "Corral de la Morería Gastronómico",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/corral-de-la-morera-gastronmico",
+      "award": "★"
+    },
+    {
+      "name": "Desde 1911",
+      "cuisine": "Seafood",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/desde1911",
+      "award": "★"
+    },
+    {
+      "name": "El Invernadero",
+      "cuisine": "Vegetarian, Vegan",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/el-invernadero",
+      "award": "★"
+    },
+    {
+      "name": "EMi",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/emi",
+      "award": "★"
+    },
+    {
+      "name": "Gaytán",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/gaytn",
+      "award": "★"
+    },
+    {
+      "name": "Gofio",
+      "cuisine": "Contemporary, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/gofio",
+      "award": "★"
+    },
+    {
+      "name": "La Tasquería",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/madrid/madrid/la-tasquera",
+      "award": "★"
+    },
+    {
+      "name": "OSA",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/osa",
+      "award": "★"
+    },
+    {
+      "name": "Pabú",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/pab",
+      "award": "★"
+    },
+    {
+      "name": "Quimbaya",
+      "cuisine": "Colombian",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/quimbaya",
+      "award": "★"
+    },
+    {
+      "name": "RavioXO",
+      "cuisine": "Creative, Dumplings",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/ravioxo",
+      "award": "★"
+    },
+    {
+      "name": "Ricardo Sanz Wellington",
+      "cuisine": "Japanese Contemporary",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/ricardo-sanz-wellington",
+      "award": "★"
+    },
+    {
+      "name": "Saddle",
+      "cuisine": "Modern Cuisine, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/saddle",
+      "award": "★"
+    },
+    {
+      "name": "Santerra",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/madrid/madrid/santerra",
+      "award": "★"
+    },
+    {
+      "name": "Sen Omakase",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/sen-omakase",
+      "award": "★"
+    },
+    {
+      "name": "Toki",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/toki-m-a-d",
+      "award": "★"
+    },
+    {
+      "name": "Ugo Chan",
+      "cuisine": "Fusion",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/ugo-chan",
+      "award": "★"
+    },
+    {
+      "name": "VelascoAbellà",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/spain/madrid/madrid/velascoabell",
+      "award": "★"
+    },
+    {
+      "name": "Yugo The Bunker",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/yugo-the-bunker",
+      "award": "★"
+    },
+    {
+      "name": "99 sushi bar",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/99-sushi-bar-m-a-d"
     },
     {
       "name": "ABYA",
@@ -24,6 +237,12 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/madrid/madrid/adaly"
+    },
+    {
+      "name": "Agarimo",
+      "cuisine": "Galician",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/agarimo"
     },
     {
       "name": "Alabaster",
@@ -44,16 +263,16 @@
       "path": "/spain/madrid/madrid/allgorie"
     },
     {
-      "name": "Amparito Roca",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€€",
-      "path": "/spain/madrid/madrid/amparito-roca"
-    },
-    {
       "name": "Amós",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€€",
       "path": "/spain/madrid/madrid/ams"
+    },
+    {
+      "name": "Amparito Roca",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/madrid/madrid/amparito-roca"
     },
     {
       "name": "Ayantar",
@@ -66,6 +285,12 @@
       "cuisine": "Fusion",
       "price": "€€",
       "path": "/spain/madrid/madrid/bacira"
+    },
+    {
+      "name": "Bākkō",
+      "cuisine": "Japanese, Fusion",
+      "price": "€€€€",
+      "path": "/spain/madrid/madrid/bkk"
     },
     {
       "name": "BANCAL",
@@ -104,12 +329,6 @@
       "path": "/spain/madrid/madrid/benares"
     },
     {
-      "name": "Benares",
-      "cuisine": "Indian",
-      "price": "€€",
-      "path": "/spain/madrid/madrid/benares"
-    },
-    {
       "name": "BiBo Madrid",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -126,12 +345,6 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/spain/madrid/madrid/bistronmika"
-    },
-    {
-      "name": "Bākkō",
-      "cuisine": "Japanese, Fusion",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/bkk"
     },
     {
       "name": "Bolboreta",
@@ -158,40 +371,16 @@
       "path": "/spain/madrid/madrid/casa-mortero"
     },
     {
-      "name": "CEBO",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/cebo"
-    },
-    {
       "name": "China Crown",
       "cuisine": "Chinese",
       "price": "€€",
       "path": "/spain/madrid/madrid/china-crown"
     },
     {
-      "name": "Chispa Bistró",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/madrid/madrid/chispa-bistr"
-    },
-    {
-      "name": "Clos Madrid",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/madrid/madrid/clos-madrid"
-    },
-    {
       "name": "Contrastes by Diego Ferreira",
       "cuisine": "Creative",
       "price": "€€",
       "path": "/spain/madrid/madrid/contrastes-by-diego-ferreira"
-    },
-    {
-      "name": "Coque",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/coque"
     },
     {
       "name": "Coquetto Bar",
@@ -206,12 +395,6 @@
       "path": "/spain/madrid/madrid/cornamusa-cibeles"
     },
     {
-      "name": "Corral de la Morería Gastronómico",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/corral-de-la-morera-gastronmico"
-    },
-    {
       "name": "Corsario Madrid",
       "cuisine": "International",
       "price": "€€",
@@ -224,40 +407,16 @@
       "path": "/spain/madrid/madrid/dantte"
     },
     {
-      "name": "Deessa",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/deessa"
-    },
-    {
       "name": "Desborre",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/madrid/madrid/desborre"
     },
     {
-      "name": "Desde 1911",
-      "cuisine": "Seafood",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/desde-1911"
-    },
-    {
-      "name": "DiverXO",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/diverxo"
-    },
-    {
       "name": "Doppelgänger Bar",
       "cuisine": "Fusion",
       "price": "€€",
       "path": "/spain/madrid/madrid/doppelgnger-bar"
-    },
-    {
-      "name": "DSTAgE",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/dstage"
     },
     {
       "name": "Ebisu by Kobos",
@@ -284,12 +443,6 @@
       "path": "/spain/madrid/madrid/el-gran-asador-lecanda"
     },
     {
-      "name": "El Invernadero",
-      "cuisine": "Vegetarian, Vegan",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/el-invernadero"
-    },
-    {
       "name": "El Patio de Claudio",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
@@ -308,16 +461,16 @@
       "path": "/spain/madrid/madrid/el-seor-martn"
     },
     {
-      "name": "EMi",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/emi"
-    },
-    {
       "name": "Estimar Madrid",
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/spain/madrid/madrid/estimar-madrid"
+    },
+    {
+      "name": "Èter",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/madrid/madrid/ter"
     },
     {
       "name": "Ferretería Restaurante",
@@ -330,6 +483,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/spain/madrid/madrid/filandn"
+    },
+    {
+      "name": "Fisgón",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/fisgn"
     },
     {
       "name": "Fismuler",
@@ -356,22 +515,34 @@
       "path": "/spain/madrid/madrid/garelos"
     },
     {
-      "name": "Gaytán",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/gaytn"
+      "name": "Gianna Ristorante",
+      "cuisine": "Italian Contemporary",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/gianna-ristorante"
     },
     {
       "name": "Gioia",
       "cuisine": "Italian",
       "price": "€€€",
-      "path": "/spain/madrid/madrid/gioia"
+      "path": "/spain/madrid/madrid/gioia-m-a-d"
     },
     {
-      "name": "Gofio",
-      "cuisine": "Contemporary, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/gofio"
+      "name": "Goicolea",
+      "cuisine": "Basque",
+      "price": "$$$",
+      "path": "/spain/madrid/madrid/goicolea"
+    },
+    {
+      "name": "GRANDUKE",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/granduke"
+    },
+    {
+      "name": "Gurisa",
+      "cuisine": "Grills",
+      "price": "$$$",
+      "path": "/spain/madrid/madrid/gurisa"
     },
     {
       "name": "Haramboure",
@@ -407,7 +578,7 @@
       "name": "In-Pulso",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/spain/madrid/madrid/in-pulso"
+      "path": "/spain/madrid/madrid/inpulso"
     },
     {
       "name": "Isa",
@@ -443,7 +614,7 @@
       "name": "Kappo",
       "cuisine": "Japanese",
       "price": "€€€€",
-      "path": "/spain/madrid/madrid/kappo"
+      "path": "/spain/madrid/madrid/kappo-m-a-d"
     },
     {
       "name": "Kuoco",
@@ -456,12 +627,6 @@
       "cuisine": "Japanese",
       "price": "€€€",
       "path": "/spain/madrid/madrid/kyoshi-las-cortes"
-    },
-    {
-      "name": "Lúa",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/madrid/madrid/la"
     },
     {
       "name": "La Barra de la Tasquería",
@@ -536,12 +701,6 @@
       "path": "/spain/madrid/madrid/la-tajada"
     },
     {
-      "name": "La Tasquería",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/spain/madrid/madrid/la-tasquera"
-    },
-    {
       "name": "La Tasquita de Enfrente",
       "cuisine": "Farm to table",
       "price": "€€€",
@@ -599,7 +758,13 @@
       "name": "Los 33",
       "cuisine": "Meats and Grills",
       "price": "€€€",
-      "path": "/spain/madrid/madrid/los-33"
+      "path": "/spain/madrid/madrid/los33"
+    },
+    {
+      "name": "Lúa",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/madrid/madrid/la"
     },
     {
       "name": "LUR",
@@ -611,7 +776,7 @@
       "name": "Manifesto 13",
       "cuisine": "Italian",
       "price": "€€",
-      "path": "/spain/madrid/madrid/manifesto-13"
+      "path": "/spain/madrid/madrid/manifesto13"
     },
     {
       "name": "Mar Mía",
@@ -636,6 +801,12 @@
       "cuisine": "Vegetarian",
       "price": "€€",
       "path": "/spain/madrid/madrid/mudr"
+    },
+    {
+      "name": "Nacha",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/nacha"
     },
     {
       "name": "Nantes",
@@ -668,10 +839,10 @@
       "path": "/spain/madrid/madrid/omeraki"
     },
     {
-      "name": "OSA",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/osa"
+      "name": "Otoro Jukusei",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/spain/madrid/madrid/otoro-jukusei"
     },
     {
       "name": "Ovillo",
@@ -684,18 +855,6 @@
       "cuisine": "Italian",
       "price": "€€",
       "path": "/spain/madrid/madrid/ozio-gastronmico"
-    },
-    {
-      "name": "Pabú",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/pab"
-    },
-    {
-      "name": "Paco Roncero",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/paco-roncero"
     },
     {
       "name": "Pacto Raíz",
@@ -740,10 +899,16 @@
       "path": "/spain/madrid/madrid/puntarena"
     },
     {
-      "name": "Quimbaya",
-      "cuisine": "Colombian",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/quimbaya"
+      "name": "Qorte",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/spain/madrid/madrid/qorte"
+    },
+    {
+      "name": "Quincé",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/madrid/madrid/quinc"
     },
     {
       "name": "Quinqué",
@@ -752,28 +917,10 @@
       "path": "/spain/madrid/madrid/quinqu"
     },
     {
-      "name": "Ramón Freixa Atelier",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/ramn-freixa-atelier"
-    },
-    {
       "name": "Ramón Freixa Tradición",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/spain/madrid/madrid/ramn-freixa-tradicin"
-    },
-    {
-      "name": "RavioXO",
-      "cuisine": "Creative, Dumplings",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/ravioxo"
-    },
-    {
-      "name": "Ricardo Sanz Wellington",
-      "cuisine": "Japanese Contemporary",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/ricardo-sanz-wellington"
     },
     {
       "name": "Rocacho Plaza",
@@ -794,24 +941,6 @@
       "path": "/spain/madrid/madrid/rural"
     },
     {
-      "name": "Saddle",
-      "cuisine": "Modern Cuisine, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/saddle"
-    },
-    {
-      "name": "Santerra",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/madrid/madrid/santerra"
-    },
-    {
-      "name": "Sen Omakase",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/sen-omakase"
-    },
-    {
       "name": "Shibari Sushi and Grill",
       "cuisine": "Japanese Contemporary",
       "price": "€€",
@@ -822,12 +951,6 @@
       "cuisine": "Fusion",
       "price": "€€",
       "path": "/spain/madrid/madrid/sisapo"
-    },
-    {
-      "name": "Smoked Room",
-      "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/smoked-room"
     },
     {
       "name": "Soy Kitchen",
@@ -860,16 +983,16 @@
       "path": "/spain/madrid/madrid/sushi-bar-tottori"
     },
     {
+      "name": "TA-KUMI",
+      "cuisine": "Japanese",
+      "price": "€€€",
+      "path": "/spain/madrid/madrid/takumi-m-a-d"
+    },
+    {
       "name": "Taberna Pedraza",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/spain/madrid/madrid/taberna-pedraza"
-    },
-    {
-      "name": "TA-KUMI",
-      "cuisine": "Japanese",
-      "price": "€€€",
-      "path": "/spain/madrid/madrid/ta-kumi"
     },
     {
       "name": "TAMPU",
@@ -884,12 +1007,6 @@
       "path": "/spain/madrid/madrid/tepic"
     },
     {
-      "name": "Èter",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/madrid/madrid/ter"
-    },
-    {
       "name": "Tetsu",
       "cuisine": "Teppanyaki, Mediterranean Cuisine",
       "price": "€€",
@@ -900,12 +1017,6 @@
       "cuisine": "Mexican",
       "price": "€€€",
       "path": "/spain/madrid/madrid/ticu"
-    },
-    {
-      "name": "Toki",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/toki"
     },
     {
       "name": "TonTon",
@@ -923,7 +1034,7 @@
       "name": "Tori-Key",
       "cuisine": "Yakitori",
       "price": "€€",
-      "path": "/spain/madrid/madrid/tori-key"
+      "path": "/spain/madrid/madrid/torikey"
     },
     {
       "name": "Tramo",
@@ -938,6 +1049,12 @@
       "path": "/spain/madrid/madrid/tres-por-cuatro"
     },
     {
+      "name": "Trèsde",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/madrid/madrid/trsde"
+    },
+    {
       "name": "Treze",
       "cuisine": "Seasonal Cuisine",
       "price": "€€",
@@ -948,18 +1065,6 @@
       "cuisine": "Creative",
       "price": "€€",
       "path": "/spain/madrid/madrid/triciclo"
-    },
-    {
-      "name": "Trèsde",
-      "cuisine": "Contemporary",
-      "price": "€€",
-      "path": "/spain/madrid/madrid/trsde"
-    },
-    {
-      "name": "Ugo Chan",
-      "cuisine": "Fusion",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/ugo-chan"
     },
     {
       "name": "Umiko",
@@ -974,88 +1079,16 @@
       "path": "/spain/madrid/madrid/varra"
     },
     {
-      "name": "VelascoAbellà",
-      "cuisine": "Farm to table",
-      "price": "€€€",
-      "path": "/spain/madrid/madrid/velascoabell"
-    },
-    {
       "name": "Vinoteca Moratín",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/spain/madrid/madrid/vinoteca-moratn"
     },
     {
-      "name": "Yugo The Bunker",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/spain/madrid/madrid/yugo-the-bunker"
-    },
-    {
       "name": "Zalacaín",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
       "path": "/spain/madrid/madrid/zalacan"
-    },
-    {
-      "name": "Agarimo",
-      "cuisine": "Galician",
-      "price": "$$",
-      "path": "/spain/madrid/madrid/Agarimo"
-    },
-    {
-      "name": "Fisgón",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/spain/madrid/madrid/Fisgn"
-    },
-    {
-      "name": "GRANDUKE",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/spain/madrid/madrid/Granduke"
-    },
-    {
-      "name": "Gianna Ristorante",
-      "cuisine": "Italian Contemporary",
-      "price": "$$",
-      "path": "/spain/madrid/madrid/GiannaRistorante"
-    },
-    {
-      "name": "Goicolea",
-      "cuisine": "Basque",
-      "price": "$$$",
-      "path": "/spain/madrid/madrid/Goicolea"
-    },
-    {
-      "name": "Gurisa",
-      "cuisine": "Grills",
-      "price": "$$$",
-      "path": "/spain/madrid/madrid/Gurisa"
-    },
-    {
-      "name": "Nacha",
-      "cuisine": "Fusion",
-      "price": "$$",
-      "path": "/spain/madrid/madrid/Nacha"
-    },
-    {
-      "name": "Otoro Jukusei",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/spain/madrid/madrid/OtoroJukusei"
-    },
-    {
-      "name": "Qorte",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$$",
-      "path": "/spain/madrid/madrid/Qorte"
-    },
-    {
-      "name": "Quincé",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/spain/madrid/madrid/Quinc"
     }
   ]
 }

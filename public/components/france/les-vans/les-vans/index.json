@@ -1,14 +1,21 @@
 {
   "title": "Les Vans",
-  "country": "france",
-  "region": "les-vans",
-  "city": "les-vans",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "les-vans",
+  "city": "Les Vans",
+  "citySlug": "les-vans",
+  "path": "/france/les-vans/les-vans/restaurants",
+  "canonicalPath": "/france/les-vans/les-vans/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Likoké",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/les-vans/les-vans/likok"
+      "path": "/france/les-vans/les-vans/likok",
+      "award": "★"
     }
   ]
 }

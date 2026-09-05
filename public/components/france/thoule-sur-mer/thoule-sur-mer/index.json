@@ -1,26 +1,34 @@
 {
-  "title": "Thoule Sur Mer",
-  "country": "france",
-  "region": "thoule-sur-mer",
-  "city": "thoule-sur-mer",
+  "title": "Thoule sur Mer",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "thoule-sur-mer",
+  "city": "Thoule sur Mer",
+  "citySlug": "thoule-sur-mer",
+  "path": "/france/thoule-sur-mer/thoule-sur-mer/restaurants",
+  "canonicalPath": "/france/thoule-sur-mer/thoule-sur-mer/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "La Maréa",
-      "cuisine": "Seafood",
-      "price": "€€€",
-      "path": "/france/thoule-sur-mer/thoule-sur-mer/la-mara"
-    },
     {
       "name": "L'Or Bleu",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/thoule-sur-mer/thoule-sur-mer/lor-bleu"
+      "path": "/france/thoule-sur-mer/thoule-sur-mer/lor-bleu",
+      "award": "★"
     },
     {
       "name": "Mareluna",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/thoule-sur-mer/thoule-sur-mer/mareluna"
+      "path": "/france/thoule-sur-mer/thoule-sur-mer/mareluna",
+      "award": "★"
+    },
+    {
+      "name": "La Maréa",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/france/thoule-sur-mer/thoule-sur-mer/la-mara"
     }
   ]
 }

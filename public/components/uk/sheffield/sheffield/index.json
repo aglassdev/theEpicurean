@@ -1,5 +1,14 @@
 {
   "title": "Sheffield",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "sheffield",
+  "city": "Sheffield",
+  "citySlug": "sheffield",
+  "path": "/uk/sheffield/sheffield/restaurants",
+  "canonicalPath": "/uk/sheffield/sheffield/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "JÖRO",
@@ -14,16 +23,16 @@
       "path": "/uk/sheffield/sheffield/rafters-restaurant"
     },
     {
+      "name": "Restaurant ELM",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/uk/sheffield/sheffield/restaurant-elm"
+    },
+    {
       "name": "Tom Lawson at the Psalter",
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/sheffield/sheffield/tom-lawson-at-the-psalter"
-    },
-    {
-      "name": "Restaurant ELM",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/uk/sheffield/sheffield/RestaurantElm"
     }
   ]
 }

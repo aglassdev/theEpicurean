@@ -1,14 +1,21 @@
 {
   "title": "Conca Dei Marini",
-  "country": "italy",
-  "region": "conca-dei-marini",
-  "city": "conca-dei-marini",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "conca-dei-marini",
+  "city": "Conca Dei Marini",
+  "citySlug": "conca-dei-marini",
+  "path": "/italy/conca-dei-marini/conca-dei-marini/restaurants",
+  "canonicalPath": "/italy/conca-dei-marini/conca-dei-marini/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Refettorio",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/italy/conca-dei-marini/conca-dei-marini/il-refettorio"
+      "path": "/italy/conca-dei-marini/conca-dei-marini/il-refettorio",
+      "award": "★"
     }
   ]
 }

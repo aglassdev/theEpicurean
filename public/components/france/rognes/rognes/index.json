@@ -1,8 +1,14 @@
 {
   "title": "Rognes",
-  "country": "france",
-  "region": "rognes",
-  "city": "rognes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "rognes",
+  "city": "Rognes",
+  "citySlug": "rognes",
+  "path": "/france/rognes/rognes/restaurants",
+  "canonicalPath": "/france/rognes/rognes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Préau",

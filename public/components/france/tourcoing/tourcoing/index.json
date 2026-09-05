@@ -1,8 +1,14 @@
 {
   "title": "Tourcoing",
-  "country": "france",
-  "region": "tourcoing",
-  "city": "tourcoing",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tourcoing",
+  "city": "Tourcoing",
+  "citySlug": "tourcoing",
+  "path": "/france/tourcoing/tourcoing/restaurants",
+  "canonicalPath": "/france/tourcoing/tourcoing/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Baratte",

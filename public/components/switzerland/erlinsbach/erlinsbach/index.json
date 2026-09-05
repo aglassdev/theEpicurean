@@ -1,14 +1,20 @@
 {
   "title": "Erlinsbach",
-  "country": "switzerland",
-  "region": "erlinsbach",
-  "city": "erlinsbach",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "erlinsbach",
+  "city": "Erlinsbach",
+  "citySlug": "erlinsbach",
+  "path": "/switzerland/erlinsbach/erlinsbach/restaurants",
+  "canonicalPath": "/switzerland/erlinsbach/erlinsbach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hirschen",
       "cuisine": "Classic Cuisine, Farm to table",
       "price": "€€",
-      "path": "/switzerland/erlinsbach/erlinsbach/hirschen"
+      "path": "/switzerland/erlinsbach/erlinsbach/hirschen-e-r-l"
     }
   ]
 }

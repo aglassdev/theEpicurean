@@ -1,11 +1,21 @@
 {
-  "title": "Järpen",
+  "title": "Jrpen",
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "region": null,
+  "regionSlug": "jrpen",
+  "city": "Jrpen",
+  "citySlug": "jrpen",
+  "path": "/sweden/jrpen/jrpen/restaurants",
+  "canonicalPath": "/sweden/jrpen/jrpen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fäviken",
       "cuisine": "",
       "price": "",
-      "path": "/sweden/jrpen/jrpen/Fviken"
+      "path": "/sweden/jrpen/jrpen/fviken",
+      "award": "World's 50 Best"
     }
   ]
 }

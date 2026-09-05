@@ -1,14 +1,20 @@
 {
   "title": "Fonyd",
-  "country": "hungary",
-  "region": "fonyd",
-  "city": "fonyd",
+  "country": "Hungary",
+  "countrySlug": "hungary",
+  "region": null,
+  "regionSlug": "fonyd",
+  "city": "Fonyd",
+  "citySlug": "fonyd",
+  "path": "/hungary/fonyd/fonyd/restaurants",
+  "canonicalPath": "/hungary/fonyd/fonyd/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "A Konyhám Stúdió 365",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/hungary/fonyd/fonyd/a-konyhm-stdi-365"
+      "path": "/hungary/fonyd/fonyd/a-konyhm-stdi365"
     },
     {
       "name": "Lokal at the Lake",

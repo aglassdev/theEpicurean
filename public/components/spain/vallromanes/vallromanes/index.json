@@ -1,8 +1,14 @@
 {
   "title": "Vallromanes",
-  "country": "spain",
-  "region": "vallromanes",
-  "city": "vallromanes",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "vallromanes",
+  "city": "Vallromanes",
+  "citySlug": "vallromanes",
+  "path": "/spain/vallromanes/vallromanes/restaurants",
+  "canonicalPath": "/spain/vallromanes/vallromanes/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Can Poal",
@@ -14,7 +20,7 @@
       "name": "Restaurante 1497",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/spain/vallromanes/vallromanes/restaurante-1497"
+      "path": "/spain/vallromanes/vallromanes/restaurante1497"
     },
     {
       "name": "Sant Miquel",

@@ -1,14 +1,21 @@
 {
-  "title": "Pyla Sur Mer",
-  "country": "france",
-  "region": "pyla-sur-mer",
-  "city": "pyla-sur-mer",
+  "title": "Pyla sur Mer",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pyla-sur-mer",
+  "city": "Pyla sur Mer",
+  "citySlug": "pyla-sur-mer",
+  "path": "/france/pyla-sur-mer/pyla-sur-mer/restaurants",
+  "canonicalPath": "/france/pyla-sur-mer/pyla-sur-mer/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Skiff Club",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/pyla-sur-mer/pyla-sur-mer/le-skiff-club"
+      "path": "/france/pyla-sur-mer/pyla-sur-mer/le-skiff-club",
+      "award": "★★"
     }
   ]
 }

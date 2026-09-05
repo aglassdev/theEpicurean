@@ -1,209 +1,232 @@
 {
   "title": "Auckland",
+  "country": "New Zealand",
+  "countrySlug": "new-zealand",
+  "region": null,
+  "regionSlug": "auckland",
+  "city": "Auckland",
+  "citySlug": "auckland",
+  "path": "/new-zealand/auckland/auckland/restaurants",
+  "canonicalPath": "/new-zealand/auckland/auckland/restaurants",
+  "count": 34,
   "restaurants": [
     {
       "name": "Ahi.",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/auckland/auckland/Ahi"
+      "path": "/new-zealand/auckland/auckland/ahi",
+      "award": "★"
     },
     {
       "name": "Paris Butter",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/auckland/auckland/ParisButter"
+      "path": "/new-zealand/auckland/auckland/paris-butter",
+      "award": "★"
     },
     {
       "name": "Tala",
       "cuisine": "Samoan Cuisine",
       "price": "$$$",
-      "path": "/new-zealand/auckland/auckland/Tala"
+      "path": "/new-zealand/auckland/auckland/tala",
+      "award": "★"
     },
     {
       "name": "Apéro Food & Wine",
       "cuisine": "French",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/AproFoodWine"
+      "path": "/new-zealand/auckland/auckland/apro-food-wine",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Bianca",
       "cuisine": "New Zealand",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Bianca"
+      "path": "/new-zealand/auckland/auckland/bianca",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Bistro Saine",
       "cuisine": "French",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/BistroSaine"
+      "path": "/new-zealand/auckland/auckland/bistro-saine",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Boda",
       "cuisine": "Korean Contemporary",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Boda"
+      "path": "/new-zealand/auckland/auckland/boda",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Cazador",
       "cuisine": "New Zealand",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Cazador"
+      "path": "/new-zealand/auckland/auckland/cazador",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Gemmayze Street",
       "cuisine": "Lebanese",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/GemmayzeStreet"
+      "path": "/new-zealand/auckland/auckland/gemmayze-street",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Milenta",
       "cuisine": "Latin American",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Milenta"
+      "path": "/new-zealand/auckland/auckland/milenta",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Osteria Uno",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/OsteriaUno"
+      "path": "/new-zealand/auckland/auckland/osteria-uno",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Parro",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Parro"
+      "path": "/new-zealand/auckland/auckland/parro",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Pasta & Cuore",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/PastaCuore"
+      "path": "/new-zealand/auckland/auckland/pasta-cuore",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tempero",
       "cuisine": "Latin American",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Tempero"
+      "path": "/new-zealand/auckland/auckland/tempero",
+      "award": "Bib Gourmand"
     },
     {
       "name": "1947 Eatery",
       "cuisine": "Indian",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/1947Eatery"
+      "path": "/new-zealand/auckland/auckland/1947-eatery"
     },
     {
       "name": "Advieh",
       "cuisine": "Middle Eastern",
       "price": "$$$",
-      "path": "/new-zealand/auckland/auckland/Advieh"
+      "path": "/new-zealand/auckland/auckland/advieh"
     },
     {
       "name": "Baduzzi",
       "cuisine": "Italian-American",
       "price": "$$$",
-      "path": "/new-zealand/auckland/auckland/Baduzzi"
+      "path": "/new-zealand/auckland/auckland/baduzzi"
     },
     {
       "name": "Bar Magda",
       "cuisine": "Filipino",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/BarMagda"
+      "path": "/new-zealand/auckland/auckland/bar-magda"
     },
     {
       "name": "Bossi",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Bossi"
+      "path": "/new-zealand/auckland/auckland/bossi"
     },
     {
       "name": "Cassia",
       "cuisine": "Indian",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Cassia"
+      "path": "/new-zealand/auckland/auckland/cassia"
     },
     {
       "name": "Esther",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$$",
-      "path": "/new-zealand/auckland/auckland/Esther"
+      "path": "/new-zealand/auckland/auckland/esther"
     },
     {
       "name": "Gilt",
       "cuisine": "European",
       "price": "$$$",
-      "path": "/new-zealand/auckland/auckland/Gilt"
+      "path": "/new-zealand/auckland/auckland/gilt"
     },
     {
       "name": "Hello Beasty",
       "cuisine": "Asian Contemporary",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/HelloBeasty"
+      "path": "/new-zealand/auckland/auckland/hello-beasty"
     },
     {
       "name": "Jervois Steak House",
       "cuisine": "Steakhouse",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/JervoisSteakHouse"
+      "path": "/new-zealand/auckland/auckland/jervois-steak-house"
     },
     {
       "name": "Kingi",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Kingi"
+      "path": "/new-zealand/auckland/auckland/kingi"
     },
     {
       "name": "Lillius",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/auckland/auckland/Lillius"
+      "path": "/new-zealand/auckland/auckland/lillius"
     },
     {
       "name": "Metita",
       "cuisine": "Samoan Cuisine",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Metita"
+      "path": "/new-zealand/auckland/auckland/metita"
     },
     {
       "name": "Morell",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Morell"
+      "path": "/new-zealand/auckland/auckland/morell"
     },
     {
       "name": "Mr Morris",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/auckland/auckland/MrMorris"
+      "path": "/new-zealand/auckland/auckland/mr-morris"
     },
     {
       "name": "One Tree Grill",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/auckland/auckland/OneTreeGrill"
+      "path": "/new-zealand/auckland/auckland/one-tree-grill"
     },
     {
       "name": "Ragtag",
       "cuisine": "International",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Ragtag"
+      "path": "/new-zealand/auckland/auckland/ragtag"
     },
     {
       "name": "Rodd & Gunn The Lodge",
       "cuisine": "New Zealand",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/RoddGunnTheLodge"
+      "path": "/new-zealand/auckland/auckland/rodd-gunn-the-lodge"
     },
     {
       "name": "Sails",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/new-zealand/auckland/auckland/Sails"
+      "path": "/new-zealand/auckland/auckland/sails"
     },
     {
       "name": "The French Café",
       "cuisine": "New Zealand",
       "price": "$$$",
-      "path": "/new-zealand/auckland/auckland/TheFrenchCaf"
+      "path": "/new-zealand/auckland/auckland/the-french-caf"
     }
   ]
 }

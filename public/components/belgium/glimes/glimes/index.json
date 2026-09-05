@@ -1,8 +1,14 @@
 {
   "title": "Glimes",
-  "country": "belgium",
-  "region": "glimes",
-  "city": "glimes",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "glimes",
+  "city": "Glimes",
+  "citySlug": "glimes",
+  "path": "/belgium/glimes/glimes/restaurants",
+  "canonicalPath": "/belgium/glimes/glimes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chez Louis",

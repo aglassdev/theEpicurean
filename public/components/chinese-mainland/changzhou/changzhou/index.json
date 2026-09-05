@@ -1,95 +1,112 @@
 {
   "title": "Changzhou",
+  "country": "China",
+  "countrySlug": "chinese-mainland",
+  "region": null,
+  "regionSlug": "changzhou",
+  "city": "Changzhou",
+  "citySlug": "changzhou",
+  "path": "/chinese-mainland/changzhou/changzhou/restaurants",
+  "canonicalPath": "/chinese-mainland/changzhou/changzhou/restaurants",
+  "count": 15,
   "restaurants": [
     {
       "name": "Chang Xian De (Tianning)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/chinese-mainland/changzhou/changzhou/ChangXianDeTianning"
+      "path": "/chinese-mainland/changzhou/changzhou/chang-xian-de-tianning",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Fang Xiang by Detan (Zhonglou)",
       "cuisine": "Jiangsu Cuisine",
       "price": "$$",
-      "path": "/chinese-mainland/changzhou/changzhou/FangXiangByDetanZhonglou"
+      "path": "/chinese-mainland/changzhou/changzhou/fang-xiang-by-detan-zhonglou",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hua Yue Dou Xiang",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/chinese-mainland/changzhou/changzhou/HuaYueDouXiang"
+      "path": "/chinese-mainland/changzhou/changzhou/hua-yue-dou-xiang",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Jiu Yan (Hehai East Road)",
       "cuisine": "Jiangsu Cuisine",
       "price": "$$",
-      "path": "/chinese-mainland/changzhou/changzhou/JiuYanHehaiEastRoad"
+      "path": "/chinese-mainland/changzhou/changzhou/jiu-yan-hehai-east-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Qing Wa Xiang (Tianning)",
       "cuisine": "Jiangsu Cuisine",
       "price": "$",
-      "path": "/chinese-mainland/changzhou/changzhou/QingWaXiangTianning"
+      "path": "/chinese-mainland/changzhou/changzhou/qing-wa-xiang-tianning",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Sheng Xing Mian Guan",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/changzhou/changzhou/ShengXingMianGuan"
+      "path": "/chinese-mainland/changzhou/changzhou/sheng-xing-mian-guan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "South Garden",
       "cuisine": "Jiangsu Cuisine",
       "price": "$$",
-      "path": "/chinese-mainland/changzhou/changzhou/SouthGarden"
+      "path": "/chinese-mainland/changzhou/changzhou/south-garden",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tai Hu San Bai Guan",
       "cuisine": "Jiangsu Cuisine",
       "price": "$$",
-      "path": "/chinese-mainland/changzhou/changzhou/TaiHuSanBaiGuan"
+      "path": "/chinese-mainland/changzhou/changzhou/tai-hu-san-bai-guan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hong Kong Old Restaurant (Wujin)",
       "cuisine": "Cantonese",
       "price": "$$",
-      "path": "/chinese-mainland/changzhou/changzhou/HongKongOldRestaurantWujin"
+      "path": "/chinese-mainland/changzhou/changzhou/hong-kong-old-restaurant-wujin"
     },
     {
       "name": "Jia Yuan Xiao Guan",
       "cuisine": "Huaiyang",
       "price": "$$",
-      "path": "/chinese-mainland/changzhou/changzhou/JiaYuanXiaoGuan"
+      "path": "/chinese-mainland/changzhou/changzhou/jia-yuan-xiao-guan"
     },
     {
       "name": "Qingguo Art Restaurant",
       "cuisine": "Jiangzhe",
       "price": "$$",
-      "path": "/chinese-mainland/changzhou/changzhou/QingguoArtRestaurant"
+      "path": "/chinese-mainland/changzhou/changzhou/qingguo-art-restaurant"
     },
     {
       "name": "Song Yun",
       "cuisine": "Jiangsu Cuisine",
       "price": "$$$",
-      "path": "/chinese-mainland/changzhou/changzhou/SongYun"
+      "path": "/chinese-mainland/changzhou/changzhou/song-yun"
     },
     {
       "name": "Tingsonglou",
       "cuisine": "Jiangsu Cuisine",
       "price": "$$$",
-      "path": "/chinese-mainland/changzhou/changzhou/Tingsonglou"
+      "path": "/chinese-mainland/changzhou/changzhou/tingsonglou"
     },
     {
       "name": "Xi Jiu",
       "cuisine": "Cantonese",
       "price": "$$$",
-      "path": "/chinese-mainland/changzhou/changzhou/XiJiu"
+      "path": "/chinese-mainland/changzhou/changzhou/xi-jiu"
     },
     {
       "name": "Yuxiu",
       "cuisine": "Jiangsu Cuisine",
       "price": "$$",
-      "path": "/chinese-mainland/changzhou/changzhou/Yuxiu"
+      "path": "/chinese-mainland/changzhou/changzhou/yuxiu"
     }
   ]
 }

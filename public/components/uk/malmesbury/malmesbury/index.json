@@ -1,26 +1,27 @@
 {
   "title": "Malmesbury",
-  "country": "uk",
-  "region": "malmesbury",
-  "city": "malmesbury",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "malmesbury",
+  "city": "Malmesbury",
+  "citySlug": "malmesbury",
+  "path": "/uk/malmesbury/malmesbury/restaurants",
+  "canonicalPath": "/uk/malmesbury/malmesbury/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "The Dining Room",
+      "cuisine": "Creative",
+      "price": "££££",
+      "path": "/uk/malmesbury/malmesbury/the-dining-room",
+      "award": "★"
+    },
     {
       "name": "Grey's",
       "cuisine": "International",
       "price": "£££",
       "path": "/uk/malmesbury/malmesbury/greys"
-    },
-    {
-      "name": "The Dining Room",
-      "cuisine": "Creative",
-      "price": "££££",
-      "path": "/uk/malmesbury/malmesbury/the-dining-room"
-    },
-    {
-      "name": "The Dining Room",
-      "cuisine": "Creative",
-      "price": "££££",
-      "path": "/uk/malmesbury/malmesbury/the-dining-room"
     }
   ]
 }

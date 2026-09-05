@@ -1,14 +1,20 @@
 {
   "title": "Freiamt",
-  "country": "germany",
-  "region": "freiamt",
-  "city": "freiamt",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "freiamt",
+  "city": "Freiamt",
+  "citySlug": "freiamt",
+  "path": "/germany/freiamt/freiamt/restaurants",
+  "canonicalPath": "/germany/freiamt/freiamt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Zur Krone",
       "cuisine": "Country cooking, Classic Cuisine",
       "price": "€€",
-      "path": "/germany/freiamt/freiamt/zur-krone"
+      "path": "/germany/freiamt/freiamt/zur-krone-f-r-e"
     }
   ]
 }

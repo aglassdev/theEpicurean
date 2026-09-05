@@ -1,21 +1,15 @@
 {
   "title": "Hamilton",
-  "country": "canada",
-  "region": "hamilton",
-  "city": "hamilton",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "hamilton",
+  "city": "Hamilton",
+  "citySlug": "hamilton",
+  "path": "/canada/hamilton/hamilton/restaurants",
+  "canonicalPath": "/canada/hamilton/hamilton/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Berkeley North",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/canada/hamilton/hamilton/berkeley-north"
-    },
-    {
-      "name": "Quatrefoil",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/canada/hamilton/hamilton/quatrefoil"
-    },
     {
       "name": "Berkeley North",
       "cuisine": "Contemporary",

@@ -1,8 +1,14 @@
 {
   "title": "Wolfsberg",
-  "country": "austria",
-  "region": "wolfsberg",
-  "city": "wolfsberg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "wolfsberg",
+  "city": "Wolfsberg",
+  "citySlug": "wolfsberg",
+  "path": "/austria/wolfsberg/wolfsberg/restaurants",
+  "canonicalPath": "/austria/wolfsberg/wolfsberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Roots Restaurant",

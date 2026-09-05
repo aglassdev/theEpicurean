@@ -1,14 +1,21 @@
 {
   "title": "Asiago",
-  "country": "italy",
-  "region": "asiago",
-  "city": "asiago",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "asiago",
+  "city": "Asiago",
+  "citySlug": "asiago",
+  "path": "/italy/asiago/asiago/restaurants",
+  "canonicalPath": "/italy/asiago/asiago/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "La Tana Gourmet",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/asiago/asiago/la-tana-gourmet"
+      "path": "/italy/asiago/asiago/la-tana-gourmet",
+      "award": "★"
     },
     {
       "name": "Osteria della Tana",

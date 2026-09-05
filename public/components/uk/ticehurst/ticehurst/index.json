@@ -1,14 +1,20 @@
 {
   "title": "Ticehurst",
-  "country": "uk",
-  "region": "ticehurst",
-  "city": "ticehurst",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "ticehurst",
+  "city": "Ticehurst",
+  "citySlug": "ticehurst",
+  "path": "/uk/ticehurst/ticehurst/restaurants",
+  "canonicalPath": "/uk/ticehurst/ticehurst/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bell",
       "cuisine": "Traditional British",
       "price": "££",
-      "path": "/uk/ticehurst/ticehurst/bell"
+      "path": "/uk/ticehurst/ticehurst/bell-t-i-c"
     },
     {
       "name": "The Bell",

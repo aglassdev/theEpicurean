@@ -1,14 +1,21 @@
 {
   "title": "Martillac",
-  "country": "france",
-  "region": "martillac",
-  "city": "martillac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "martillac",
+  "city": "Martillac",
+  "citySlug": "martillac",
+  "path": "/france/martillac/martillac/restaurants",
+  "canonicalPath": "/france/martillac/martillac/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Grand'Vigne - Les Sources de Caudalie",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/martillac/martillac/la-grandvigne-les-sources-de-caudalie"
+      "path": "/france/martillac/martillac/la-grandvigne-les-sources-de-caudalie",
+      "award": "★★"
     },
     {
       "name": "La Table du Lavoir - Les Sources de Caudalie",

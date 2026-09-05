@@ -1,0 +1,32 @@
+{
+  "title": "Half Moon Bay",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Half Moon Bay",
+  "citySlug": "half-moon-bay",
+  "path": "/usa/california/half-moon-bay/restaurants",
+  "canonicalPath": "/usa/california/half-moon-bay/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "La Costanera",
+      "cuisine": "Peruvian, Latin American",
+      "price": "$$$",
+      "path": "/usa/california/half-moon-bay/la-costanera"
+    },
+    {
+      "name": "Navio",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/half-moon-bay/navio"
+    },
+    {
+      "name": "Pasta Moon",
+      "cuisine": "Italian, Californian",
+      "price": "$$$",
+      "path": "/usa/california/half-moon-bay/pasta-moon"
+    }
+  ]
+}

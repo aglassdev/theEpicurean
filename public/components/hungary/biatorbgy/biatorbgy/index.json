@@ -1,14 +1,20 @@
 {
   "title": "Biatorbgy",
-  "country": "hungary",
-  "region": "biatorbgy",
-  "city": "biatorbgy",
+  "country": "Hungary",
+  "countrySlug": "hungary",
+  "region": null,
+  "regionSlug": "biatorbgy",
+  "city": "Biatorbgy",
+  "citySlug": "biatorbgy",
+  "path": "/hungary/biatorbgy/biatorbgy/restaurants",
+  "canonicalPath": "/hungary/biatorbgy/biatorbgy/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Füge",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/hungary/biatorbgy/biatorbgy/fge"
+      "path": "/hungary/biatorbgy/biatorbgy/fge-b-i-a"
     }
   ]
 }

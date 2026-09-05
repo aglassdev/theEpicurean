@@ -1,20 +1,27 @@
 {
-  "title": "Wingen Sur Moder",
-  "country": "france",
-  "region": "wingen-sur-moder",
-  "city": "wingen-sur-moder",
+  "title": "Wingen sur Moder",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "wingen-sur-moder",
+  "city": "Wingen sur Moder",
+  "citySlug": "wingen-sur-moder",
+  "path": "/france/wingen-sur-moder/wingen-sur-moder/restaurants",
+  "canonicalPath": "/france/wingen-sur-moder/wingen-sur-moder/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Villa René Lalique",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/wingen-sur-moder/wingen-sur-moder/villa-ren-lalique",
+      "award": "★★"
+    },
     {
       "name": "Château Hochberg",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/wingen-sur-moder/wingen-sur-moder/chteau-hochberg"
-    },
-    {
-      "name": "Villa René Lalique",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/wingen-sur-moder/wingen-sur-moder/villa-ren-lalique"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Dax",
-  "country": "france",
-  "region": "dax",
-  "city": "dax",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "dax",
+  "city": "Dax",
+  "citySlug": "dax",
+  "path": "/france/dax/dax/restaurants",
+  "canonicalPath": "/france/dax/dax/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Complices",

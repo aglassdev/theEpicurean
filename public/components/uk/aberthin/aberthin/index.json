@@ -1,8 +1,14 @@
 {
   "title": "Aberthin",
-  "country": "uk",
-  "region": "aberthin",
-  "city": "aberthin",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "aberthin",
+  "city": "Aberthin",
+  "citySlug": "aberthin",
+  "path": "/uk/aberthin/aberthin/restaurants",
+  "canonicalPath": "/uk/aberthin/aberthin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hare & Hounds",

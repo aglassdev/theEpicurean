@@ -1,9 +1,22 @@
 {
   "title": "Pompei",
-  "country": "italy",
-  "region": "pompei",
-  "city": "pompei",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pompei",
+  "city": "Pompei",
+  "citySlug": "pompei",
+  "path": "/italy/pompei/pompei/restaurants",
+  "canonicalPath": "/italy/pompei/pompei/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "President",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/italy/pompei/pompei/president",
+      "award": "★"
+    },
     {
       "name": "Capasanta",
       "cuisine": "Seafood, Contemporary",
@@ -27,12 +40,6 @@
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€",
       "path": "/italy/pompei/pompei/il-principe"
-    },
-    {
-      "name": "President",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€",
-      "path": "/italy/pompei/pompei/president"
     }
   ]
 }

@@ -1,9 +1,29 @@
 {
   "title": "Aosta",
-  "country": "italy",
-  "region": "aosta",
-  "city": "aosta",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "aosta",
+  "city": "Aosta",
+  "citySlug": "aosta",
+  "path": "/italy/aosta/aosta/restaurants",
+  "canonicalPath": "/italy/aosta/aosta/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Paolo Griffa al Caffè Nazionale",
+      "cuisine": "Creative, Italian Contemporary",
+      "price": "€€€€",
+      "path": "/italy/aosta/aosta/paolo-griffa-al-caff-nazionale",
+      "award": "★"
+    },
+    {
+      "name": "Vecchio Ristoro",
+      "cuisine": "Cuisine from the Aosta Valley, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/aosta/aosta/vecchio-ristoro",
+      "award": "★"
+    },
     {
       "name": "Gina",
       "cuisine": "Modern Cuisine, Italian Contemporary",
@@ -23,22 +43,10 @@
       "path": "/italy/aosta/aosta/osteria-da-nando"
     },
     {
-      "name": "Paolo Griffa al Caffè Nazionale",
-      "cuisine": "Creative, Italian Contemporary",
-      "price": "€€€€",
-      "path": "/italy/aosta/aosta/paolo-griffa-al-caff-nazionale"
-    },
-    {
       "name": "Stefenelli Desk",
       "cuisine": "Italian Contemporary, Modern Cuisine",
       "price": "€€",
       "path": "/italy/aosta/aosta/stefenelli-desk"
-    },
-    {
-      "name": "Vecchio Ristoro",
-      "cuisine": "Cuisine from the Aosta Valley, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/aosta/aosta/vecchio-ristoro"
     }
   ]
 }

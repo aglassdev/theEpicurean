@@ -1,14 +1,21 @@
 {
   "title": "Rives En Seine",
-  "country": "france",
-  "region": "rives-en-seine",
-  "city": "rives-en-seine",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "rives-en-seine",
+  "city": "Rives En Seine",
+  "citySlug": "rives-en-seine",
+  "path": "/france/rives-en-seine/rives-en-seine/restaurants",
+  "canonicalPath": "/france/rives-en-seine/rives-en-seine/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "G.a. au Manoir de Rétival",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/france/rives-en-seine/rives-en-seine/ga-au-manoir-de-rtival"
+      "path": "/france/rives-en-seine/rives-en-seine/ga-au-manoir-de-rtival",
+      "award": "★"
     },
     {
       "name": "Skáli",

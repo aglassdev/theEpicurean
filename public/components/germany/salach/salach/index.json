@@ -1,14 +1,21 @@
 {
   "title": "Salach",
-  "country": "germany",
-  "region": "salach",
-  "city": "salach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "salach",
+  "city": "Salach",
+  "citySlug": "salach",
+  "path": "/germany/salach/salach/restaurants",
+  "canonicalPath": "/germany/salach/salach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gourmetrestaurant fine dining RS",
       "cuisine": "French Contemporary, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/salach/salach/gourmetrestaurant-fine-dining-rs"
+      "path": "/germany/salach/salach/gourmetrestaurant-fine-dining-rs",
+      "award": "★"
     }
   ]
 }

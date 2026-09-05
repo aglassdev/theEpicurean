@@ -1,23 +1,33 @@
 {
   "title": "Bergisch Gladbach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bergisch-gladbach",
+  "city": "Bergisch Gladbach",
+  "citySlug": "bergisch-gladbach",
+  "path": "/germany/bergisch-gladbach/bergisch-gladbach/restaurants",
+  "canonicalPath": "/germany/bergisch-gladbach/bergisch-gladbach/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Schote",
-      "cuisine": "International, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/bergisch-gladbach/bergisch-gladbach/schote"
-    },
     {
       "name": "Vendôme",
       "cuisine": "Creative, Classic French",
       "price": "€€€€",
-      "path": "/germany/bergisch-gladbach/bergisch-gladbach/vendme"
+      "path": "/germany/bergisch-gladbach/bergisch-gladbach/vendme",
+      "award": "★★"
     },
     {
       "name": "Müllers in der Mühle",
       "cuisine": "International",
       "price": "$$$",
-      "path": "/germany/bergisch-gladbach/bergisch-gladbach/MllersInDerMhle"
+      "path": "/germany/bergisch-gladbach/bergisch-gladbach/mllers-in-der-mhle"
+    },
+    {
+      "name": "Schote",
+      "cuisine": "International, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/bergisch-gladbach/bergisch-gladbach/schote"
     }
   ]
 }

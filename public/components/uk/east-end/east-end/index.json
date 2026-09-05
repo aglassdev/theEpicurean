@@ -1,11 +1,20 @@
 {
   "title": "East End",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "east-end",
+  "city": "East End",
+  "citySlug": "east-end",
+  "path": "/uk/east-end/east-end/restaurants",
+  "canonicalPath": "/uk/east-end/east-end/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Malverleys",
       "cuisine": "Modern British",
       "price": "$$$",
-      "path": "/uk/east-end/east-end/Malverleys"
+      "path": "/uk/east-end/east-end/malverleys"
     }
   ]
 }

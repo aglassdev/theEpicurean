@@ -1,8 +1,14 @@
 {
   "title": "Preston",
-  "country": "uk",
-  "region": "preston",
-  "city": "preston",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "preston",
+  "city": "Preston",
+  "citySlug": "preston",
+  "path": "/uk/preston/preston/restaurants",
+  "canonicalPath": "/uk/preston/preston/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Aven",

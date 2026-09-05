@@ -1,14 +1,21 @@
 {
   "title": "Sonceboz",
-  "country": "switzerland",
-  "region": "sonceboz",
-  "city": "sonceboz",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "sonceboz",
+  "city": "Sonceboz",
+  "citySlug": "sonceboz",
+  "path": "/switzerland/sonceboz/sonceboz/restaurants",
+  "canonicalPath": "/switzerland/sonceboz/sonceboz/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Du Cerf",
       "cuisine": "Classic French, Farm to table",
       "price": "€€€€",
-      "path": "/switzerland/sonceboz/sonceboz/du-cerf"
+      "path": "/switzerland/sonceboz/sonceboz/du-cerf",
+      "award": "★"
     }
   ]
 }

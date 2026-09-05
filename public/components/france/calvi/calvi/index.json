@@ -1,8 +1,14 @@
 {
   "title": "Calvi",
-  "country": "france",
-  "region": "calvi",
-  "city": "calvi",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "calvi",
+  "city": "Calvi",
+  "citySlug": "calvi",
+  "path": "/france/calvi/calvi/restaurants",
+  "canonicalPath": "/france/calvi/calvi/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Signoria",

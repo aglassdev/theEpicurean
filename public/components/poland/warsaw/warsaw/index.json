@@ -1,6 +1,71 @@
 {
   "title": "Warsaw",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "warsaw",
+  "city": "Warsaw",
+  "citySlug": "warsaw",
+  "path": "/poland/warsaw/warsaw/restaurants",
+  "canonicalPath": "/poland/warsaw/warsaw/restaurants",
+  "count": 39,
   "restaurants": [
+    {
+      "name": "Alon Omakase",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/poland/warsaw/warsaw/alon-omakase",
+      "award": "★"
+    },
+    {
+      "name": "hub.praga",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/poland/warsaw/warsaw/hubpraga",
+      "award": "★"
+    },
+    {
+      "name": "NUTA",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/poland/warsaw/warsaw/nuta",
+      "award": "★"
+    },
+    {
+      "name": "Rozbrat 20",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/poland/warsaw/warsaw/rozbrat20",
+      "award": "★"
+    },
+    {
+      "name": "AHAAN",
+      "cuisine": "Thai",
+      "price": "$",
+      "path": "/poland/warsaw/warsaw/ahaan",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Blisko Bar",
+      "cuisine": "Modern Cuisine",
+      "price": "$",
+      "path": "/poland/warsaw/warsaw/blisko-bar",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "WANDAL",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/poland/warsaw/warsaw/wandal",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "WIN wine bar & shop",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/warsaw/warsaw/win-wine-bar-shop",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "alewino",
       "cuisine": "Traditional Cuisine",
@@ -17,7 +82,7 @@
       "name": "Butchery & Wine",
       "cuisine": "Meats and Grills, Traditional Cuisine",
       "price": "€€",
-      "path": "/poland/warsaw/warsaw/butchery-wine"
+      "path": "/poland/warsaw/warsaw/butchery-wine-w-a-r"
     },
     {
       "name": "Ceviche Bar",
@@ -44,10 +109,10 @@
       "path": "/poland/warsaw/warsaw/europejski-grill"
     },
     {
-      "name": "hub.praga",
+      "name": "GreenTable",
       "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/poland/warsaw/warsaw/hubpraga"
+      "price": "$$",
+      "path": "/poland/warsaw/warsaw/greentable"
     },
     {
       "name": "Kieliszki na Próżnej",
@@ -74,10 +139,34 @@
       "path": "/poland/warsaw/warsaw/la-luce"
     },
     {
+      "name": "Łaskawość Tytusa",
+      "cuisine": "Modern Cuisine",
+      "price": "$",
+      "path": "/poland/warsaw/warsaw/askawo-tytusa"
+    },
+    {
       "name": "Le Braci",
       "cuisine": "Italian",
       "price": "€€",
       "path": "/poland/warsaw/warsaw/le-braci"
+    },
+    {
+      "name": "mayo",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/warsaw/warsaw/mayo"
+    },
+    {
+      "name": "MUND",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/warsaw/warsaw/mund"
+    },
+    {
+      "name": "Murena",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/poland/warsaw/warsaw/murena"
     },
     {
       "name": "Muzealna",
@@ -98,28 +187,28 @@
       "path": "/poland/warsaw/warsaw/noriko-omakase"
     },
     {
-      "name": "NUTA",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/poland/warsaw/warsaw/nuta"
+      "name": "Peaches",
+      "cuisine": "Vegan",
+      "price": "$",
+      "path": "/poland/warsaw/warsaw/peaches"
     },
     {
-      "name": "Źródło",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/poland/warsaw/warsaw/rdo"
-    },
-    {
-      "name": "Rozbrat 20",
+      "name": "Rozdział",
       "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/poland/warsaw/warsaw/rozbrat-20"
+      "price": "$$$$",
+      "path": "/poland/warsaw/warsaw/rozdzia"
     },
     {
       "name": "Rusiko",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/poland/warsaw/warsaw/rusiko"
+    },
+    {
+      "name": "Stary Dom",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/poland/warsaw/warsaw/stary-dom"
     },
     {
       "name": "The Farm",
@@ -134,106 +223,34 @@
       "path": "/poland/warsaw/warsaw/tuna"
     },
     {
+      "name": "Viva Tango",
+      "cuisine": "Steakhouse",
+      "price": "$$$",
+      "path": "/poland/warsaw/warsaw/viva-tango"
+    },
+    {
+      "name": "Warszawski Tygrys",
+      "cuisine": "Asian Influences",
+      "price": "$$",
+      "path": "/poland/warsaw/warsaw/warszawski-tygrys"
+    },
+    {
+      "name": "Willa Biała",
+      "cuisine": "Eastern European",
+      "price": "$$$",
+      "path": "/poland/warsaw/warsaw/willa-biaa"
+    },
+    {
       "name": "Wyraj",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/poland/warsaw/warsaw/wyraj"
     },
     {
-      "name": "Alon Omakase",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/poland/warsaw/warsaw/AlonOmakase"
-    },
-    {
-      "name": "AHAAN",
-      "cuisine": "Thai",
-      "price": "$",
-      "path": "/poland/warsaw/warsaw/Ahaan"
-    },
-    {
-      "name": "Blisko Bar",
-      "cuisine": "Modern Cuisine",
-      "price": "$",
-      "path": "/poland/warsaw/warsaw/BliskoBar"
-    },
-    {
-      "name": "WANDAL",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/poland/warsaw/warsaw/Wandal"
-    },
-    {
-      "name": "WIN wine bar & shop",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/poland/warsaw/warsaw/WinWineBarShop"
-    },
-    {
-      "name": "GreenTable",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/poland/warsaw/warsaw/Greentable"
-    },
-    {
-      "name": "MUND",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/poland/warsaw/warsaw/Mund"
-    },
-    {
-      "name": "Murena",
-      "cuisine": "Seafood",
-      "price": "$$$",
-      "path": "/poland/warsaw/warsaw/Murena"
-    },
-    {
-      "name": "Peaches",
-      "cuisine": "Vegan",
-      "price": "$",
-      "path": "/poland/warsaw/warsaw/Peaches"
-    },
-    {
-      "name": "Rozdział",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/poland/warsaw/warsaw/Rozdzia"
-    },
-    {
-      "name": "Stary Dom",
+      "name": "Źródło",
       "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/poland/warsaw/warsaw/StaryDom"
-    },
-    {
-      "name": "Viva Tango",
-      "cuisine": "Steakhouse",
-      "price": "$$$",
-      "path": "/poland/warsaw/warsaw/VivaTango"
-    },
-    {
-      "name": "Warszawski Tygrys",
-      "cuisine": "Asian Influences",
-      "price": "$$",
-      "path": "/poland/warsaw/warsaw/WarszawskiTygrys"
-    },
-    {
-      "name": "Willa Biała",
-      "cuisine": "Eastern European",
-      "price": "$$$",
-      "path": "/poland/warsaw/warsaw/WillaBiaa"
-    },
-    {
-      "name": "mayo",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/poland/warsaw/warsaw/Mayo"
-    },
-    {
-      "name": "Łaskawość Tytusa",
-      "cuisine": "Modern Cuisine",
-      "price": "$",
-      "path": "/poland/warsaw/warsaw/AskawoTytusa"
+      "price": "€€",
+      "path": "/poland/warsaw/warsaw/rdo"
     }
   ]
 }

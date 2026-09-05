@@ -1,14 +1,21 @@
 {
   "title": "Wilderswil",
-  "country": "switzerland",
-  "region": "wilderswil",
-  "city": "wilderswil",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "wilderswil",
+  "city": "Wilderswil",
+  "citySlug": "wilderswil",
+  "path": "/switzerland/wilderswil/wilderswil/restaurants",
+  "canonicalPath": "/switzerland/wilderswil/wilderswil/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Alpenblick",
       "cuisine": "Contemporary, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/wilderswil/wilderswil/alpenblick"
+      "path": "/switzerland/wilderswil/wilderswil/alpenblick",
+      "award": "★"
     },
     {
       "name": "Alpenblick - Swiss Bistro",

@@ -1,14 +1,20 @@
 {
   "title": "Elsegem",
-  "country": "belgium",
-  "region": "elsegem",
-  "city": "elsegem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "elsegem",
+  "city": "Elsegem",
+  "citySlug": "elsegem",
+  "path": "/belgium/elsegem/elsegem/restaurants",
+  "canonicalPath": "/belgium/elsegem/elsegem/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Plein 25",
       "cuisine": "Seasonal Cuisine, French",
       "price": "€€€",
-      "path": "/belgium/elsegem/elsegem/plein-25"
+      "path": "/belgium/elsegem/elsegem/plein25"
     }
   ]
 }

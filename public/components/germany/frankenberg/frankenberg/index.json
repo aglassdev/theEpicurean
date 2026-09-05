@@ -1,14 +1,21 @@
 {
   "title": "Frankenberg",
-  "country": "germany",
-  "region": "frankenberg",
-  "city": "frankenberg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "frankenberg",
+  "city": "Frankenberg",
+  "citySlug": "frankenberg",
+  "path": "/germany/frankenberg/frankenberg/restaurants",
+  "canonicalPath": "/germany/frankenberg/frankenberg/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Philipp Soldan",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/frankenberg/frankenberg/philipp-soldan"
+      "path": "/germany/frankenberg/frankenberg/philipp-soldan",
+      "award": "★"
     },
     {
       "name": "SonneStuben",

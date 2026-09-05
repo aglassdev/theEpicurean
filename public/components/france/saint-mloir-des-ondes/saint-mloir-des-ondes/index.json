@@ -1,26 +1,33 @@
 {
-  "title": "Saint Mloir Des Ondes",
-  "country": "france",
-  "region": "saint-mloir-des-ondes",
-  "city": "saint-mloir-des-ondes",
+  "title": "Saint Mloir des Ondes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-mloir-des-ondes",
+  "city": "Saint Mloir des Ondes",
+  "citySlug": "saint-mloir-des-ondes",
+  "path": "/france/saint-mloir-des-ondes/saint-mloir-des-ondes/restaurants",
+  "canonicalPath": "/france/saint-mloir-des-ondes/saint-mloir-des-ondes/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Le Coquillage",
+      "cuisine": "Creative, Seafood",
+      "price": "€€€€",
+      "path": "/france/saint-mloir-des-ondes/saint-mloir-des-ondes/le-coquillage",
+      "award": "★★★"
+    },
     {
       "name": "Bistrot 1936 - Domaine du Limonay",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/saint-mloir-des-ondes/saint-mloir-des-ondes/bistrot-1936-domaine-du-limonay"
+      "path": "/france/saint-mloir-des-ondes/saint-mloir-des-ondes/bistrot1936-domaine-du-limonay"
     },
     {
       "name": "La Gouesnière - Domaine du Limonay",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/saint-mloir-des-ondes/saint-mloir-des-ondes/la-gouesnire-domaine-du-limonay"
-    },
-    {
-      "name": "Le Coquillage",
-      "cuisine": "Creative, Seafood",
-      "price": "€€€€",
-      "path": "/france/saint-mloir-des-ondes/saint-mloir-des-ondes/le-coquillage"
     }
   ]
 }

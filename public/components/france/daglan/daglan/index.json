@@ -1,8 +1,14 @@
 {
   "title": "Daglan",
-  "country": "france",
-  "region": "daglan",
-  "city": "daglan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "daglan",
+  "city": "Daglan",
+  "citySlug": "daglan",
+  "path": "/france/daglan/daglan/restaurants",
+  "canonicalPath": "/france/daglan/daglan/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Petit Paris",

@@ -1,11 +1,20 @@
 {
-  "title": "Égletons",
+  "title": "Gletons",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gletons",
+  "city": "Gletons",
+  "citySlug": "gletons",
+  "path": "/france/gletons/gletons/restaurants",
+  "canonicalPath": "/france/gletons/gletons/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ekaina",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/gletons/gletons/Ekaina"
+      "path": "/france/gletons/gletons/ekaina"
     }
   ]
 }

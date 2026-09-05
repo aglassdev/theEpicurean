@@ -1,20 +1,27 @@
 {
   "title": "Jongieux",
-  "country": "france",
-  "region": "jongieux",
-  "city": "jongieux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "jongieux",
+  "city": "Jongieux",
+  "citySlug": "jongieux",
+  "path": "/france/jongieux/jongieux/restaurants",
+  "canonicalPath": "/france/jongieux/jongieux/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "La Table 1625",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/jongieux/jongieux/la-table-1625"
-    },
     {
       "name": "Les Morainières",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/jongieux/jongieux/les-morainires"
+      "path": "/france/jongieux/jongieux/les-morainires",
+      "award": "★★"
+    },
+    {
+      "name": "La Table 1625",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/jongieux/jongieux/la-table1625"
     }
   ]
 }

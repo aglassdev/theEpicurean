@@ -1,8 +1,14 @@
 {
   "title": "Sent",
-  "country": "switzerland",
-  "region": "sent",
-  "city": "sent",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "sent",
+  "city": "Sent",
+  "citySlug": "sent",
+  "path": "/switzerland/sent/sent/restaurants",
+  "canonicalPath": "/switzerland/sent/sent/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pensiun Aldier",

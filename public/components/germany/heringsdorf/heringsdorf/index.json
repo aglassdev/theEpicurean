@@ -1,9 +1,29 @@
 {
   "title": "Heringsdorf",
-  "country": "germany",
-  "region": "heringsdorf",
-  "city": "heringsdorf",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "heringsdorf",
+  "city": "Heringsdorf",
+  "citySlug": "heringsdorf",
+  "path": "/germany/heringsdorf/heringsdorf/restaurants",
+  "canonicalPath": "/germany/heringsdorf/heringsdorf/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Kulmeck by Tom Wickboldt",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/heringsdorf/heringsdorf/kulmeck-by-tom-wickboldt",
+      "award": "★"
+    },
+    {
+      "name": "The O'ROOM",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/germany/heringsdorf/heringsdorf/the-oroom",
+      "award": "★"
+    },
     {
       "name": "Belvedere",
       "cuisine": "Modern Cuisine, Regional Cuisine",
@@ -11,22 +31,10 @@
       "path": "/germany/heringsdorf/heringsdorf/belvedere"
     },
     {
-      "name": "Kulmeck by Tom Wickboldt",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/germany/heringsdorf/heringsdorf/kulmeck-by-tom-wickboldt"
-    },
-    {
       "name": "O'NE",
       "cuisine": "International, Farm to table",
       "price": "€€",
-      "path": "/germany/heringsdorf/heringsdorf/one"
-    },
-    {
-      "name": "The O'ROOM",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/germany/heringsdorf/heringsdorf/the-oroom"
+      "path": "/germany/heringsdorf/heringsdorf/one-h-e-r"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
-  "title": "Blainville Sur Mer",
-  "country": "france",
-  "region": "blainville-sur-mer",
-  "city": "blainville-sur-mer",
+  "title": "Blainville sur Mer",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "blainville-sur-mer",
+  "city": "Blainville sur Mer",
+  "citySlug": "blainville-sur-mer",
+  "path": "/france/blainville-sur-mer/blainville-sur-mer/restaurants",
+  "canonicalPath": "/france/blainville-sur-mer/blainville-sur-mer/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Mascaret",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/blainville-sur-mer/blainville-sur-mer/le-mascaret",
+      "award": "★"
+    },
     {
       "name": "L'Athome",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/blainville-sur-mer/blainville-sur-mer/lathome"
-    },
-    {
-      "name": "Le Mascaret",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/blainville-sur-mer/blainville-sur-mer/le-mascaret"
     }
   ]
 }

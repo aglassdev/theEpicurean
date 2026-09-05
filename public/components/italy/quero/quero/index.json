@@ -1,8 +1,14 @@
 {
   "title": "Quero",
-  "country": "italy",
-  "region": "quero",
-  "city": "quero",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "quero",
+  "city": "Quero",
+  "citySlug": "quero",
+  "path": "/italy/quero/quero/restaurants",
+  "canonicalPath": "/italy/quero/quero/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Locanda Solagna",

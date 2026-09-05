@@ -1,14 +1,20 @@
 {
   "title": "Osthouse",
-  "country": "france",
-  "region": "osthouse",
-  "city": "osthouse",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "osthouse",
+  "city": "Osthouse",
+  "citySlug": "osthouse",
+  "path": "/france/osthouse/osthouse/restaurants",
+  "canonicalPath": "/france/osthouse/osthouse/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "À l'Aigle d'Or",
       "cuisine": "Classic Cuisine, Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/osthouse/osthouse/laigle-dor"
+      "path": "/france/osthouse/osthouse/laigle-dor-o-s-t"
     }
   ]
 }

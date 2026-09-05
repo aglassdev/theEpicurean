@@ -1,8 +1,14 @@
 {
   "title": "Brianon",
-  "country": "france",
-  "region": "brianon",
-  "city": "brianon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "brianon",
+  "city": "Brianon",
+  "citySlug": "brianon",
+  "path": "/france/brianon/brianon/restaurants",
+  "canonicalPath": "/france/brianon/brianon/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Au Plaisir Ambré",

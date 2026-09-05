@@ -1,8 +1,14 @@
 {
   "title": "Cambrai",
-  "country": "france",
-  "region": "cambrai",
-  "city": "cambrai",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cambrai",
+  "city": "Cambrai",
+  "citySlug": "cambrai",
+  "path": "/france/cambrai/cambrai/restaurants",
+  "canonicalPath": "/france/cambrai/cambrai/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison Demarcq",

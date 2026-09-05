@@ -1,26 +1,34 @@
 {
   "title": "Busnes",
-  "country": "france",
-  "region": "busnes",
-  "city": "busnes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "busnes",
+  "city": "Busnes",
+  "citySlug": "busnes",
+  "path": "/france/busnes/busnes/restaurants",
+  "canonicalPath": "/france/busnes/busnes/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Château de Beaulieu - Christophe Dufossé",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/busnes/busnes/chteau-de-beaulieu-christophe-dufoss"
-    },
-    {
-      "name": "Côté Jardin",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/busnes/busnes/ct-jardin"
+      "path": "/france/busnes/busnes/chteau-de-beaulieu-christophe-dufoss",
+      "award": "★★"
     },
     {
       "name": "La Table de Christophe Dufossé",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/busnes/busnes/la-table-de-christophe-dufoss"
+      "path": "/france/busnes/busnes/la-table-de-christophe-dufoss",
+      "award": "★★"
+    },
+    {
+      "name": "Côté Jardin",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/busnes/busnes/ct-jardin-b-u-s"
     }
   ]
 }

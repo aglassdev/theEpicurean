@@ -1,5 +1,14 @@
 {
   "title": "Marmande",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "marmande",
+  "city": "Marmande",
+  "citySlug": "marmande",
+  "path": "/france/marmande/marmande/restaurants",
+  "canonicalPath": "/france/marmande/marmande/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Boat aux Saveurs",
@@ -11,7 +20,7 @@
       "name": "Boat aux Saveurs - La Table d'Annabelle",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/marmande/marmande/BoatAuxSaveursLaTableDannabelle"
+      "path": "/france/marmande/marmande/boat-aux-saveurs-la-table-dannabelle"
     }
   ]
 }

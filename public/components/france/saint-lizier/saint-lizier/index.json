@@ -1,8 +1,14 @@
 {
   "title": "Saint Lizier",
-  "country": "france",
-  "region": "saint-lizier",
-  "city": "saint-lizier",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-lizier",
+  "city": "Saint Lizier",
+  "citySlug": "saint-lizier",
+  "path": "/france/saint-lizier/saint-lizier/restaurants",
+  "canonicalPath": "/france/saint-lizier/saint-lizier/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Carré de l'Ange",

@@ -1,20 +1,27 @@
 {
   "title": "Heverlee",
-  "country": "belgium",
-  "region": "heverlee",
-  "city": "heverlee",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "heverlee",
+  "city": "Heverlee",
+  "citySlug": "heverlee",
+  "path": "/belgium/heverlee/heverlee/restaurants",
+  "canonicalPath": "/belgium/heverlee/heverlee/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Couvert Couvert",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/belgium/heverlee/heverlee/couvert-couvert"
+      "path": "/belgium/heverlee/heverlee/couvert-couvert",
+      "award": "★"
     },
     {
       "name": "EST",
       "cuisine": "French",
       "price": "€€€€",
-      "path": "/belgium/heverlee/heverlee/est"
+      "path": "/belgium/heverlee/heverlee/est-h-e-v"
     },
     {
       "name": "Furbetto",

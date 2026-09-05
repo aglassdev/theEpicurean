@@ -1,17 +1,27 @@
 {
   "title": "Bridge",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "bridge",
+  "city": "Bridge",
+  "citySlug": "bridge",
+  "path": "/uk/bridge/bridge/restaurants",
+  "canonicalPath": "/uk/bridge/bridge/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bridge Arms",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/bridge/bridge/bridge-arms"
+      "path": "/uk/bridge/bridge/bridge-arms",
+      "award": "★"
     },
     {
       "name": "The Bridge Arms",
       "cuisine": "Modern British",
       "price": "$$",
-      "path": "/uk/bridge/bridge/TheBridgeArms"
+      "path": "/uk/bridge/bridge/the-bridge-arms"
     }
   ]
 }

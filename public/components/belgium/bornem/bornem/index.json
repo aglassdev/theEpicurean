@@ -1,14 +1,20 @@
 {
   "title": "Bornem",
-  "country": "belgium",
-  "region": "bornem",
-  "city": "bornem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "bornem",
+  "city": "Bornem",
+  "citySlug": "bornem",
+  "path": "/belgium/bornem/bornem/restaurants",
+  "canonicalPath": "/belgium/bornem/bornem/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Biestro H-eat",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€",
-      "path": "/belgium/bornem/bornem/biestro-h-eat"
+      "path": "/belgium/bornem/bornem/biestro-heat"
     },
     {
       "name": "Eyckerhof by Nicolas Mylle",

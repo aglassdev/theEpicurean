@@ -1,14 +1,20 @@
 {
   "title": "Bonnevaux",
-  "country": "france",
-  "region": "bonnevaux",
-  "city": "bonnevaux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bonnevaux",
+  "city": "Bonnevaux",
+  "citySlug": "bonnevaux",
+  "path": "/france/bonnevaux/bonnevaux/restaurants",
+  "canonicalPath": "/france/bonnevaux/bonnevaux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de la Haute-Joux",
       "cuisine": "Modern Cuisine, Traditional Cuisine",
       "price": "€€",
-      "path": "/france/bonnevaux/bonnevaux/auberge-de-la-haute-joux"
+      "path": "/france/bonnevaux/bonnevaux/auberge-de-la-hautejoux"
     }
   ]
 }

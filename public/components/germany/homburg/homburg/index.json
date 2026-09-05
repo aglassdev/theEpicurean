@@ -1,14 +1,20 @@
 {
   "title": "Homburg",
-  "country": "germany",
-  "region": "homburg",
-  "city": "homburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "homburg",
+  "city": "Homburg",
+  "citySlug": "homburg",
+  "path": "/germany/homburg/homburg/restaurants",
+  "canonicalPath": "/germany/homburg/homburg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Schlossberg",
       "cuisine": "International, Seasonal Cuisine",
       "price": "€€",
-      "path": "/germany/homburg/homburg/schlossberg"
+      "path": "/germany/homburg/homburg/schlossberg-h-o-m"
     }
   ]
 }

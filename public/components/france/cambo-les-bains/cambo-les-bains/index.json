@@ -1,8 +1,14 @@
 {
-  "title": "Cambo Les Bains",
-  "country": "france",
-  "region": "cambo-les-bains",
-  "city": "cambo-les-bains",
+  "title": "Cambo les Bains",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cambo-les-bains",
+  "city": "Cambo les Bains",
+  "citySlug": "cambo-les-bains",
+  "path": "/france/cambo-les-bains/cambo-les-bains/restaurants",
+  "canonicalPath": "/france/cambo-les-bains/cambo-les-bains/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Ama",
@@ -14,7 +20,7 @@
       "name": "Le Bellevue",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/cambo-les-bains/cambo-les-bains/le-bellevue"
+      "path": "/france/cambo-les-bains/cambo-les-bains/le-bellevue-c-a-m"
     },
     {
       "name": "Terrae",

@@ -1,26 +1,34 @@
 {
   "title": "Frstenau",
-  "country": "switzerland",
-  "region": "frstenau",
-  "city": "frstenau",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "frstenau",
+  "city": "Frstenau",
+  "citySlug": "frstenau",
+  "path": "/switzerland/frstenau/frstenau/restaurants",
+  "canonicalPath": "/switzerland/frstenau/frstenau/restaurants",
+  "count": 3,
   "restaurants": [
     {
-      "name": "Casa Caminada",
-      "cuisine": "Country cooking, Seasonal Cuisine",
-      "price": "€€",
-      "path": "/switzerland/frstenau/frstenau/casa-caminada"
+      "name": "Schloss Schauenstein",
+      "cuisine": "Creative, Country cooking",
+      "price": "€€€€",
+      "path": "/switzerland/frstenau/frstenau/schloss-schauenstein",
+      "award": "★★★"
     },
     {
       "name": "OZ",
       "cuisine": "Vegetarian, Creative",
       "price": "€€€€",
-      "path": "/switzerland/frstenau/frstenau/oz"
+      "path": "/switzerland/frstenau/frstenau/oz",
+      "award": "★"
     },
     {
-      "name": "Schloss Schauenstein",
-      "cuisine": "Creative, Country cooking",
-      "price": "€€€€",
-      "path": "/switzerland/frstenau/frstenau/schloss-schauenstein"
+      "name": "Casa Caminada",
+      "cuisine": "Country cooking, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/switzerland/frstenau/frstenau/casa-caminada"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Carspach",
-  "country": "france",
-  "region": "carspach",
-  "city": "carspach",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "carspach",
+  "city": "Carspach",
+  "citySlug": "carspach",
+  "path": "/france/carspach/carspach/restaurants",
+  "canonicalPath": "/france/carspach/carspach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge Sundgovienne",

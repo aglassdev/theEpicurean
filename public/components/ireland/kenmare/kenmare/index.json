@@ -1,5 +1,14 @@
 {
   "title": "Kenmare",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "kenmare",
+  "city": "Kenmare",
+  "citySlug": "kenmare",
+  "path": "/ireland/kenmare/kenmare/restaurants",
+  "canonicalPath": "/ireland/kenmare/kenmare/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Landline",
@@ -17,7 +26,7 @@
       "name": "The Falls Restaurant",
       "cuisine": "French Contemporary",
       "price": "$$$$",
-      "path": "/ireland/kenmare/kenmare/TheFallsRestaurant"
+      "path": "/ireland/kenmare/kenmare/the-falls-restaurant"
     }
   ]
 }

@@ -1,6 +1,43 @@
 {
   "title": "Edinburgh",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "Scotland",
+  "regionSlug": "edinburgh",
+  "city": "Edinburgh",
+  "citySlug": "edinburgh",
+  "path": "/uk/edinburgh/edinburgh/restaurants",
+  "canonicalPath": "/uk/edinburgh/edinburgh/restaurants",
+  "count": 56,
   "restaurants": [
+    {
+      "name": "AVERY",
+      "cuisine": "Creative",
+      "price": "££££",
+      "path": "/uk/edinburgh/edinburgh/avery",
+      "award": "★"
+    },
+    {
+      "name": "Condita",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/edinburgh/edinburgh/condita",
+      "award": "★"
+    },
+    {
+      "name": "LYLA",
+      "cuisine": "Modern British, Creative",
+      "price": "££££",
+      "path": "/uk/edinburgh/edinburgh/lyla",
+      "award": "★"
+    },
+    {
+      "name": "Timberyard",
+      "cuisine": "Modern British, Contemporary",
+      "price": "££££",
+      "path": "/uk/edinburgh/edinburgh/timberyard",
+      "award": "★"
+    },
     {
       "name": "1925 at Pompadour",
       "cuisine": "Modern British",
@@ -26,16 +63,10 @@
       "path": "/uk/edinburgh/edinburgh/argile"
     },
     {
-      "name": "Argile",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/edinburgh/edinburgh/argile"
-    },
-    {
-      "name": "AVERY",
-      "cuisine": "Creative",
-      "price": "££££",
-      "path": "/uk/edinburgh/edinburgh/avery"
+      "name": "Brewhemia",
+      "cuisine": "Afternoon Tea",
+      "price": "22.00",
+      "path": "/uk/scotland/edinburgh/brewhemia"
     },
     {
       "name": "Cardinal",
@@ -44,16 +75,22 @@
       "path": "/uk/edinburgh/edinburgh/cardinal"
     },
     {
-      "name": "Condita",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/edinburgh/edinburgh/condita"
+      "name": "Colonnades at the Signet Library",
+      "cuisine": "Afternoon Tea",
+      "price": "65.00",
+      "path": "/uk/scotland/edinburgh/colonnades-at-the-signet-library"
     },
     {
       "name": "Dean Banks at the Pompadour",
       "cuisine": "Creative",
       "price": "££££",
       "path": "/uk/edinburgh/edinburgh/dean-banks-at-the-pompadour"
+    },
+    {
+      "name": "DoubleTree by Hilton Edinburgh – Queensferry Crossing",
+      "cuisine": "Afternoon Tea",
+      "price": "17.50",
+      "path": "/uk/scotland/edinburgh/doubletree-by-hilton-edinburgh-queensferry-crossing"
     },
     {
       "name": "Dulse",
@@ -80,10 +117,34 @@
       "path": "/uk/edinburgh/edinburgh/fhior"
     },
     {
+      "name": "Firth Of Forth Cruise",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/scotland/edinburgh/firth-of-forth-cruise"
+    },
+    {
+      "name": "Harvey Nichols Edinburgh",
+      "cuisine": "Afternoon Tea",
+      "price": "50.00",
+      "path": "/uk/scotland/edinburgh/harvey-nichols-edinburgh"
+    },
+    {
       "name": "Hendersons",
       "cuisine": "Vegetarian, Vegan",
       "price": "££",
       "path": "/uk/edinburgh/edinburgh/hendersons"
+    },
+    {
+      "name": "Hotel du Vin Edinburgh",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/scotland/edinburgh/hotel-du-vin-edinburgh"
+    },
+    {
+      "name": "Le Monde Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "23.00",
+      "path": "/uk/scotland/edinburgh/le-monde-hotel"
     },
     {
       "name": "LeftField",
@@ -98,16 +159,34 @@
       "path": "/uk/edinburgh/edinburgh/little-capo"
     },
     {
-      "name": "LYLA",
-      "cuisine": "Modern British, Creative",
-      "price": "££££",
-      "path": "/uk/edinburgh/edinburgh/lyla"
+      "name": "LUCKY YU",
+      "cuisine": "Asian Influences",
+      "price": "$$",
+      "path": "/uk/edinburgh/edinburgh/lucky-yu"
     },
     {
-      "name": "LYLA",
-      "cuisine": "Modern British, Creative",
-      "price": "££££",
-      "path": "/uk/edinburgh/edinburgh/lyla"
+      "name": "Malmaison Edinburgh City",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/scotland/edinburgh/malmaison-edinburgh-city"
+    },
+    {
+      "name": "Malmaison Edinburgh Leith",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/scotland/edinburgh/malmaison-edinburgh-leith"
+    },
+    {
+      "name": "Mimi's Bakehouse - Corstorphine",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/scotland/edinburgh/mimis-bakehouse-corstorphine"
+    },
+    {
+      "name": "Mimi's Bakehouse - Leith",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/scotland/edinburgh/mimis-bakehouse-leith"
     },
     {
       "name": "Montrose",
@@ -122,6 +201,18 @@
       "path": "/uk/edinburgh/edinburgh/moss"
     },
     {
+      "name": "No. 35 at The Bonham Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "27.95",
+      "path": "/uk/scotland/edinburgh/no35-at-the-bonham-hotel"
+    },
+    {
+      "name": "Norton House Hotel and Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/scotland/edinburgh/norton-house-hotel-and-spa"
+    },
+    {
       "name": "Noto",
       "cuisine": "Asian Influences, Modern Cuisine",
       "price": "££",
@@ -132,6 +223,18 @@
       "cuisine": "Modern Cuisine",
       "price": "££££",
       "path": "/uk/edinburgh/edinburgh/number-one"
+    },
+    {
+      "name": "One Square Brasserie",
+      "cuisine": "Afternoon Tea",
+      "price": "59.00",
+      "path": "/uk/scotland/edinburgh/one-square-brasserie"
+    },
+    {
+      "name": "Prestonfield House",
+      "cuisine": "Afternoon Tea",
+      "price": "60.00",
+      "path": "/uk/scotland/edinburgh/prestonfield-house"
     },
     {
       "name": "Purslane",
@@ -158,16 +261,58 @@
       "path": "/uk/edinburgh/edinburgh/spry"
     },
     {
+      "name": "Surf & Turf Restaurant at the Edinburgh Holyrood Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "18.50",
+      "path": "/uk/scotland/edinburgh/surf-turf-restaurant-at-the-edinburgh-holyrood-hotel"
+    },
+    {
       "name": "The Broughton",
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/edinburgh/edinburgh/the-broughton"
     },
     {
+      "name": "The Glasshouse Hotel, Edinburgh",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/scotland/edinburgh/the-glasshouse-hotel-edinburgh"
+    },
+    {
+      "name": "The Ivy Edinburgh",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/scotland/edinburgh/the-ivy-edinburgh"
+    },
+    {
+      "name": "The Lounge at The Caledonian",
+      "cuisine": "Afternoon Tea",
+      "price": "60.00",
+      "path": "/uk/scotland/edinburgh/the-lounge-at-the-caledonian"
+    },
+    {
+      "name": "The Palace Holyroodhouse",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/scotland/edinburgh/the-palace-holyroodhouse"
+    },
+    {
       "name": "The Palmerston",
       "cuisine": "Modern Cuisine",
       "price": "££",
       "path": "/uk/edinburgh/edinburgh/the-palmerston"
+    },
+    {
+      "name": "The Roseate Edinburgh",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/scotland/edinburgh/the-roseate-edinburgh"
+    },
+    {
+      "name": "The Scottish Cafe & Restaurant",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/scotland/edinburgh/the-scottish-cafe-restaurant"
     },
     {
       "name": "The Scran & Scallie",
@@ -182,16 +327,16 @@
       "path": "/uk/edinburgh/edinburgh/the-spence"
     },
     {
-      "name": "Timberyard",
-      "cuisine": "Modern British, Contemporary",
-      "price": "££££",
-      "path": "/uk/edinburgh/edinburgh/timberyard"
-    },
-    {
       "name": "tipo",
       "cuisine": "Italian",
       "price": "££",
       "path": "/uk/edinburgh/edinburgh/tipo"
+    },
+    {
+      "name": "Twenty Princes Street",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/scotland/edinburgh/twenty-princes-street"
     },
     {
       "name": "Vinette",
@@ -200,10 +345,10 @@
       "path": "/uk/edinburgh/edinburgh/vinette"
     },
     {
-      "name": "LUCKY YU",
-      "cuisine": "Asian Influences",
-      "price": "$$",
-      "path": "/uk/edinburgh/edinburgh/LuckyYu"
+      "name": "Vintage Red Bistro Bus Edinburgh",
+      "cuisine": "Afternoon Tea",
+      "price": "78.00",
+      "path": "/uk/scotland/edinburgh/vintage-red-bistro-bus-edinburgh"
     }
   ]
 }

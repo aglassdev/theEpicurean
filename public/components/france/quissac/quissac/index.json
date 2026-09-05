@@ -1,8 +1,14 @@
 {
   "title": "Quissac",
-  "country": "france",
-  "region": "quissac",
-  "city": "quissac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "quissac",
+  "city": "Quissac",
+  "citySlug": "quissac",
+  "path": "/france/quissac/quissac/restaurants",
+  "canonicalPath": "/france/quissac/quissac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'ArtYsan",

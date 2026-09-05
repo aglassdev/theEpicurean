@@ -1,23 +1,34 @@
 {
   "title": "Rust",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "rust",
+  "city": "Rust",
+  "citySlug": "rust",
+  "path": "/germany/rust/rust/restaurants",
+  "canonicalPath": "/germany/rust/rust/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Ammolite - House of Light",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/germany/rust/rust/ammolite-house-of-light",
+      "award": "★★"
+    },
     {
       "name": "ammolite - The Lighthouse Restaurant",
       "cuisine": "Modern Cuisine, Classic French",
       "price": "€€€€",
-      "path": "/germany/rust/rust/ammolite-the-lighthouse-restaurant"
+      "path": "/germany/rust/rust/ammolite-the-lighthouse-restaurant",
+      "award": "★★"
     },
     {
       "name": "Eatrenalin",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
       "path": "/germany/rust/rust/eatrenalin"
-    },
-    {
-      "name": "Ammolite - House of Light",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/germany/rust/rust/AmmoliteHouseOfLight"
     }
   ]
 }

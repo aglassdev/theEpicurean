@@ -1,20 +1,27 @@
 {
   "title": "Breskens",
-  "country": "netherlands",
-  "region": "breskens",
-  "city": "breskens",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "breskens",
+  "city": "Breskens",
+  "citySlug": "breskens",
+  "path": "/netherlands/breskens/breskens/restaurants",
+  "canonicalPath": "/netherlands/breskens/breskens/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Spetters",
+      "cuisine": "Farm to table, Modern Cuisine",
+      "price": "€€€",
+      "path": "/netherlands/breskens/breskens/spetters",
+      "award": "★"
+    },
     {
       "name": "Escobar",
       "cuisine": "Mediterranean Cuisine, Spanish",
       "price": "€€",
       "path": "/netherlands/breskens/breskens/escobar"
-    },
-    {
-      "name": "Spetters",
-      "cuisine": "Farm to table, Modern Cuisine",
-      "price": "€€€",
-      "path": "/netherlands/breskens/breskens/spetters"
     }
   ]
 }

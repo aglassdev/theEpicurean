@@ -1,8 +1,14 @@
 {
   "title": "Moosburg",
-  "country": "austria",
-  "region": "moosburg",
-  "city": "moosburg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "moosburg",
+  "city": "Moosburg",
+  "citySlug": "moosburg",
+  "path": "/austria/moosburg/moosburg/restaurants",
+  "canonicalPath": "/austria/moosburg/moosburg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "fischerhaus",

@@ -1,17 +1,26 @@
 {
   "title": "Montescudaio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "montescudaio",
+  "city": "Montescudaio",
+  "citySlug": "montescudaio",
+  "path": "/italy/montescudaio/montescudaio/restaurants",
+  "canonicalPath": "/italy/montescudaio/montescudaio/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "SaQua - Ristorante in Collina",
+      "cuisine": "Tuscan",
+      "price": "$$",
+      "path": "/italy/montescudaio/montescudaio/saqua-ristorante-in-collina"
+    },
     {
       "name": "SaQua by Il Frantoio",
       "cuisine": "Tuscan, Contemporary",
       "price": "€€",
       "path": "/italy/montescudaio/montescudaio/saqua-by-il-frantoio"
-    },
-    {
-      "name": "SaQua - Ristorante in Collina",
-      "cuisine": "Tuscan",
-      "price": "$$",
-      "path": "/italy/montescudaio/montescudaio/SaquaRistoranteInCollina"
     }
   ]
 }

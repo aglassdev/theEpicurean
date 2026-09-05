@@ -1,14 +1,20 @@
 {
   "title": "Gaujac",
-  "country": "france",
-  "region": "gaujac",
-  "city": "gaujac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gaujac",
+  "city": "Gaujac",
+  "citySlug": "gaujac",
+  "path": "/france/gaujac/gaujac/restaurants",
+  "canonicalPath": "/france/gaujac/gaujac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Maison",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/gaujac/gaujac/la-maison"
+      "path": "/france/gaujac/gaujac/la-maison-g-a-u"
     }
   ]
 }

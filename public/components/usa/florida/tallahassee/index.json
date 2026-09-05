@@ -1,17 +1,26 @@
 {
   "title": "Tallahassee",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Tallahassee",
+  "citySlug": "tallahassee",
+  "path": "/usa/florida/tallahassee/restaurants",
+  "canonicalPath": "/usa/florida/tallahassee/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Black Radish",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/usa/florida/tallahassee/BlackRadish"
+      "path": "/usa/florida/tallahassee/black-radish"
     },
     {
       "name": "The Huntsman",
       "cuisine": "American",
       "price": "$$$",
-      "path": "/usa/florida/tallahassee/TheHuntsman"
+      "path": "/usa/florida/tallahassee/the-huntsman"
     }
   ]
 }

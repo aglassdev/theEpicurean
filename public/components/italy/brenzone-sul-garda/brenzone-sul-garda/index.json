@@ -1,14 +1,21 @@
 {
   "title": "Brenzone Sul Garda",
-  "country": "italy",
-  "region": "brenzone-sul-garda",
-  "city": "brenzone-sul-garda",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "brenzone-sul-garda",
+  "city": "Brenzone Sul Garda",
+  "citySlug": "brenzone-sul-garda",
+  "path": "/italy/brenzone-sul-garda/brenzone-sul-garda/restaurants",
+  "canonicalPath": "/italy/brenzone-sul-garda/brenzone-sul-garda/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Nin",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/italy/brenzone-sul-garda/brenzone-sul-garda/nin"
+      "path": "/italy/brenzone-sul-garda/brenzone-sul-garda/nin",
+      "award": "★"
     }
   ]
 }

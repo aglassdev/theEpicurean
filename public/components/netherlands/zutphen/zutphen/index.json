@@ -1,5 +1,14 @@
 {
   "title": "Zutphen",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "zutphen",
+  "city": "Zutphen",
+  "citySlug": "zutphen",
+  "path": "/netherlands/zutphen/zutphen/restaurants",
+  "canonicalPath": "/netherlands/zutphen/zutphen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Broederenklooster",
@@ -11,7 +20,7 @@
       "name": "Restaurant Nectar",
       "cuisine": "French Contemporary",
       "price": "$$",
-      "path": "/netherlands/zutphen/zutphen/RestaurantNectar"
+      "path": "/netherlands/zutphen/zutphen/restaurant-nectar"
     }
   ]
 }

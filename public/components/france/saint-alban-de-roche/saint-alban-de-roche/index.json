@@ -1,14 +1,21 @@
 {
-  "title": "Saint Alban De Roche",
-  "country": "france",
-  "region": "saint-alban-de-roche",
-  "city": "saint-alban-de-roche",
+  "title": "Saint Alban de Roche",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-alban-de-roche",
+  "city": "Saint Alban de Roche",
+  "citySlug": "saint-alban-de-roche",
+  "path": "/france/saint-alban-de-roche/saint-alban-de-roche/restaurants",
+  "canonicalPath": "/france/saint-alban-de-roche/saint-alban-de-roche/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Émulsion",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
-      "path": "/france/saint-alban-de-roche/saint-alban-de-roche/lmulsion"
+      "path": "/france/saint-alban-de-roche/saint-alban-de-roche/lmulsion",
+      "award": "★"
     },
     {
       "name": "Lo Fieu",

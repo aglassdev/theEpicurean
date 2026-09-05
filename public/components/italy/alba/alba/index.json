@@ -1,9 +1,29 @@
 {
   "title": "Alba",
-  "country": "italy",
-  "region": "alba",
-  "city": "alba",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "alba",
+  "city": "Alba",
+  "citySlug": "alba",
+  "path": "/italy/alba/alba/restaurants",
+  "canonicalPath": "/italy/alba/alba/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "Piazza Duomo",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/italy/alba/alba/piazza-duomo",
+      "award": "★★★"
+    },
+    {
+      "name": "Locanda del Pilone",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/italy/alba/alba/locanda-del-pilone",
+      "award": "★"
+    },
     {
       "name": "Ape Vino e Cucina",
       "cuisine": "Piedmontese, Contemporary",
@@ -29,22 +49,10 @@
       "path": "/italy/alba/alba/lalibera"
     },
     {
-      "name": "Locanda del Pilone",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/italy/alba/alba/locanda-del-pilone"
-    },
-    {
       "name": "Osteria dell'Arco",
       "cuisine": "Piedmontese, Traditional Cuisine",
       "price": "€",
       "path": "/italy/alba/alba/osteria-dellarco"
-    },
-    {
-      "name": "Piazza Duomo",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/italy/alba/alba/piazza-duomo"
     },
     {
       "name": "Trattoria del Bollito",

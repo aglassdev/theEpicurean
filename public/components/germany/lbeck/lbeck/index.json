@@ -1,9 +1,22 @@
 {
   "title": "Lbeck",
-  "country": "germany",
-  "region": "lbeck",
-  "city": "lbeck",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "lbeck",
+  "city": "Lbeck",
+  "citySlug": "lbeck",
+  "path": "/germany/lbeck/lbeck/restaurants",
+  "canonicalPath": "/germany/lbeck/lbeck/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Wullenwever",
+      "cuisine": "Classic Cuisine, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/germany/lbeck/lbeck/wullenwever",
+      "award": "★"
+    },
     {
       "name": "Fangfrisch",
       "cuisine": "Regional Cuisine, Seafood",
@@ -21,12 +34,6 @@
       "cuisine": "Contemporary",
       "price": "€€€",
       "path": "/germany/lbeck/lbeck/meilenstein"
-    },
-    {
-      "name": "Wullenwever",
-      "cuisine": "Classic Cuisine, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/germany/lbeck/lbeck/wullenwever"
     }
   ]
 }

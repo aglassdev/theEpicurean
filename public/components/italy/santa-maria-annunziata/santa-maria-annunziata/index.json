@@ -1,14 +1,20 @@
 {
   "title": "Santa Maria Annunziata",
-  "country": "italy",
-  "region": "santa-maria-annunziata",
-  "city": "santa-maria-annunziata",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "santa-maria-annunziata",
+  "city": "Santa Maria Annunziata",
+  "citySlug": "santa-maria-annunziata",
+  "path": "/italy/santa-maria-annunziata/santa-maria-annunziata/restaurants",
+  "canonicalPath": "/italy/santa-maria-annunziata/santa-maria-annunziata/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Torre",
       "cuisine": "Campanian, Home Cooking",
       "price": "€",
-      "path": "/italy/santa-maria-annunziata/santa-maria-annunziata/la-torre"
+      "path": "/italy/santa-maria-annunziata/santa-maria-annunziata/la-torre-s-a-n"
     }
   ]
 }

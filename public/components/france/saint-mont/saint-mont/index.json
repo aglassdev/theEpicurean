@@ -1,14 +1,20 @@
 {
   "title": "Saint Mont",
-  "country": "france",
-  "region": "saint-mont",
-  "city": "saint-mont",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-mont",
+  "city": "Saint Mont",
+  "citySlug": "saint-mont",
+  "path": "/france/saint-mont/saint-mont/restaurants",
+  "canonicalPath": "/france/saint-mont/saint-mont/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de Jean-Paul Tossens - Monastère de Saint-Mont",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/saint-mont/saint-mont/la-table-de-jean-paul-tossens-monastre-de-saint-mont"
+      "path": "/france/saint-mont/saint-mont/la-table-de-jeanpaul-tossens-monastre-de-saintmont"
     }
   ]
 }

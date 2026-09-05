@@ -1,20 +1,34 @@
 {
   "title": "Burgos",
-  "country": "spain",
-  "region": "burgos",
-  "city": "burgos",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "burgos",
+  "city": "Burgos",
+  "citySlug": "burgos",
+  "path": "/spain/burgos/burgos/restaurants",
+  "canonicalPath": "/spain/burgos/burgos/restaurants",
+  "count": 5,
   "restaurants": [
-    {
-      "name": "Boccaccio 70",
-      "cuisine": "Italian Contemporary",
-      "price": "€€",
-      "path": "/spain/burgos/burgos/boccaccio-70"
-    },
     {
       "name": "Cobo Evolución",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/burgos/burgos/cobo-evolucin"
+      "path": "/spain/burgos/burgos/cobo-evolucin",
+      "award": "★"
+    },
+    {
+      "name": "Ricardo Temiño",
+      "cuisine": "Modern Cuisine, Regional Cuisine",
+      "price": "€€€",
+      "path": "/spain/burgos/burgos/ricardo-temio",
+      "award": "★"
+    },
+    {
+      "name": "Boccaccio 70",
+      "cuisine": "Italian Contemporary",
+      "price": "€€",
+      "path": "/spain/burgos/burgos/boccaccio70"
     },
     {
       "name": "Cobo Tradición",
@@ -27,12 +41,6 @@
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/burgos/burgos/la-fbrica"
-    },
-    {
-      "name": "Ricardo Temiño",
-      "cuisine": "Modern Cuisine, Regional Cuisine",
-      "price": "€€€",
-      "path": "/spain/burgos/burgos/ricardo-temio"
     }
   ]
 }

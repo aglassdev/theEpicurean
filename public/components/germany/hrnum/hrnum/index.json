@@ -1,14 +1,21 @@
 {
   "title": "Hrnum",
-  "country": "germany",
-  "region": "hrnum",
-  "city": "hrnum",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hrnum",
+  "city": "Hrnum",
+  "citySlug": "hrnum",
+  "path": "/germany/hrnum/hrnum/restaurants",
+  "canonicalPath": "/germany/hrnum/hrnum/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "KAI3",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/germany/hrnum/hrnum/kai3"
+      "path": "/germany/hrnum/hrnum/kai3",
+      "award": "★"
     }
   ]
 }

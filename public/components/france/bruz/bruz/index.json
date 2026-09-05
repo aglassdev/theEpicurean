@@ -1,8 +1,14 @@
 {
   "title": "Bruz",
-  "country": "france",
-  "region": "bruz",
-  "city": "bruz",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bruz",
+  "city": "Bruz",
+  "citySlug": "bruz",
+  "path": "/france/bruz/bruz/restaurants",
+  "canonicalPath": "/france/bruz/bruz/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Récolte",

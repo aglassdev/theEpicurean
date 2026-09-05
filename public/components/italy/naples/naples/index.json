@@ -1,9 +1,36 @@
 {
   "title": "Naples",
-  "country": "italy",
-  "region": "naples",
-  "city": "naples",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "naples",
+  "city": "Naples",
+  "citySlug": "naples",
+  "path": "/italy/naples/naples/restaurants",
+  "canonicalPath": "/italy/naples/naples/restaurants",
+  "count": 30,
   "restaurants": [
+    {
+      "name": "George Restaurant",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/italy/naples/naples/george-restaurant",
+      "award": "★★"
+    },
+    {
+      "name": "ARIA",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/naples/naples/aria-n-a-p",
+      "award": "★"
+    },
+    {
+      "name": "Veritas",
+      "cuisine": "Campanian, Contemporary",
+      "price": "€€€",
+      "path": "/italy/naples/naples/veritas",
+      "award": "★"
+    },
     {
       "name": "177 toledo",
       "cuisine": "Italian Contemporary, Creative",
@@ -21,12 +48,6 @@
       "cuisine": "Pizza",
       "price": "€",
       "path": "/italy/naples/naples/50-kal"
-    },
-    {
-      "name": "ARIA",
-      "cuisine": "Contemporary, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/naples/naples/aria"
     },
     {
       "name": "Caruso Roof Garden",
@@ -65,12 +86,6 @@
       "path": "/italy/naples/naples/essencia-restaurant"
     },
     {
-      "name": "George Restaurant",
-      "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/italy/naples/naples/george-restaurant"
-    },
-    {
       "name": "Gino Sorbillo",
       "cuisine": "Pizza",
       "price": "€",
@@ -101,6 +116,12 @@
       "path": "/italy/naples/naples/joca"
     },
     {
+      "name": "L'antica Pizzeria da Michele",
+      "cuisine": "Pizza",
+      "price": "€",
+      "path": "/italy/naples/naples/lantica-pizzeria-da-michele-n-a-p"
+    },
+    {
       "name": "La Locanda Gesù Vecchio",
       "cuisine": "Campanian, Traditional Cuisine",
       "price": "€",
@@ -110,13 +131,7 @@
       "name": "La Notizia 53",
       "cuisine": "Pizza",
       "price": "€",
-      "path": "/italy/naples/naples/la-notizia-53"
-    },
-    {
-      "name": "L'antica Pizzeria da Michele",
-      "cuisine": "Pizza",
-      "price": "€",
-      "path": "/italy/naples/naples/lantica-pizzeria-da-michele"
+      "path": "/italy/naples/naples/la-notizia53"
     },
     {
       "name": "Luminist Cafè Bistrot",
@@ -177,12 +192,6 @@
       "cuisine": "Fusion",
       "price": "€€€",
       "path": "/italy/naples/naples/urubamba"
-    },
-    {
-      "name": "Veritas",
-      "cuisine": "Campanian, Contemporary",
-      "price": "€€€",
-      "path": "/italy/naples/naples/veritas"
     }
   ]
 }

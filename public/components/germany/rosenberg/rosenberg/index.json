@@ -1,8 +1,14 @@
 {
   "title": "Rosenberg",
-  "country": "germany",
-  "region": "rosenberg",
-  "city": "rosenberg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "rosenberg",
+  "city": "Rosenberg",
+  "citySlug": "rosenberg",
+  "path": "/germany/rosenberg/rosenberg/restaurants",
+  "canonicalPath": "/germany/rosenberg/rosenberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Landgasthof Adler",

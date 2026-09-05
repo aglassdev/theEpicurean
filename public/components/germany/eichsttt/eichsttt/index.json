@@ -1,11 +1,21 @@
 {
-  "title": "Eichstätt",
+  "title": "Eichsttt",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "eichsttt",
+  "city": "Eichsttt",
+  "citySlug": "eichsttt",
+  "path": "/germany/eichsttt/eichsttt/restaurants",
+  "canonicalPath": "/germany/eichsttt/eichsttt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Staderer",
       "cuisine": "Creative",
       "price": "$$$$",
-      "path": "/germany/eichsttt/eichsttt/Staderer"
+      "path": "/germany/eichsttt/eichsttt/staderer",
+      "award": "★"
     }
   ]
 }

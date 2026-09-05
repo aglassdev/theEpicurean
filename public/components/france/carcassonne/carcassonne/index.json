@@ -1,14 +1,27 @@
 {
   "title": "Carcassonne",
-  "country": "france",
-  "region": "carcassonne",
-  "city": "carcassonne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "carcassonne",
+  "city": "Carcassonne",
+  "citySlug": "carcassonne",
+  "path": "/france/carcassonne/carcassonne/restaurants",
+  "canonicalPath": "/france/carcassonne/carcassonne/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "La Table de Franck Putelat",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/carcassonne/carcassonne/la-table-de-franck-putelat",
+      "award": "★★"
+    },
     {
       "name": "Brasserie à 4 Temps",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/carcassonne/carcassonne/brasserie-4-temps"
+      "path": "/france/carcassonne/carcassonne/brasserie4-temps"
     },
     {
       "name": "Comte Roger",
@@ -33,12 +46,6 @@
       "cuisine": "Modern Cuisine, Traditional Cuisine",
       "price": "€€",
       "path": "/france/carcassonne/carcassonne/la-table-dalas"
-    },
-    {
-      "name": "La Table de Franck Putelat",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/carcassonne/carcassonne/la-table-de-franck-putelat"
     }
   ]
 }

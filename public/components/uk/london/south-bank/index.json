@@ -1,119 +1,128 @@
 {
   "title": "South Bank",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "South Bank",
+  "citySlug": "south-bank",
+  "path": "/uk/london/south-bank/restaurants",
+  "canonicalPath": "/uk/london/south-bank/restaurants",
+  "count": 19,
   "restaurants": [
     {
-      "name": "Swan London",
+      "name": "art’otel London Battersea Power Station",
       "cuisine": "Afternoon Tea",
-      "price": "39.50",
-      "path": "/uk/london/south-bank/SwanLondon"
-    },
-    {
-      "name": "TOZI Grand Cafe @ Battersea Power Station",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/south-bank/ToziGrandCafeBatterseaPowerStation"
-    },
-    {
-      "name": "TING at Shangri-La The Shard, London",
-      "cuisine": "Afternoon Tea",
-      "price": "78.00",
-      "path": "/uk/london/south-bank/TingAtShangrilaTheShardLondon"
-    },
-    {
-      "name": "The Shard",
-      "cuisine": "Afternoon Tea",
-      "price": "79.00",
-      "path": "/uk/london/south-bank/TheShard"
-    },
-    {
-      "name": "Shakedown Restaurant at The Dixon Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/south-bank/ShakedownRestaurantAtTheDixonHotel"
-    },
-    {
-      "name": "Roast",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/south-bank/Roast"
-    },
-    {
-      "name": "Peter Pan Afternoon Tea at Aqua Shard",
-      "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/london/south-bank/PeterPanAfternoonTeaAtAquaShard"
-    },
-    {
-      "name": "OXO Tower Restaurant",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/london/south-bank/OxoTowerRestaurant"
-    },
-    {
-      "name": "Oblix at The Shard",
-      "cuisine": "Afternoon Tea",
-      "price": "61.00",
-      "path": "/uk/london/south-bank/OblixAtTheShard"
-    },
-    {
-      "name": "Novotel London Bridge",
-      "cuisine": "Afternoon Tea",
-      "price": "34.99",
-      "path": "/uk/london/south-bank/NovotelLondonBridge"
-    },
-    {
-      "name": "Marco Pierre White's New York Italian",
-      "cuisine": "Afternoon Tea",
-      "price": "29.00",
-      "path": "/uk/london/south-bank/MarcoPierreWhitesNewYorkItalian"
-    },
-    {
-      "name": "London Bridge Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "32.00",
-      "path": "/uk/london/south-bank/LondonBridgeHotel"
-    },
-    {
-      "name": "The Library County Hall",
-      "cuisine": "Afternoon Tea",
-      "price": "60.00",
-      "path": "/uk/london/south-bank/TheLibraryCountyHall"
-    },
-    {
-      "name": "KIBOU Battersea",
-      "cuisine": "Afternoon Tea",
-      "price": "19.00",
-      "path": "/uk/london/south-bank/KibouBattersea"
-    },
-    {
-      "name": "Hotel Rafayel",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/london/south-bank/HotelRafayel"
-    },
-    {
-      "name": "Hotel Chocolat's Rabot 1745",
-      "cuisine": "Afternoon Tea",
-      "price": "60.00",
-      "path": "/uk/london/south-bank/HotelChocolatsRabot1745"
-    },
-    {
-      "name": "Gillray's Steakhouse & Bar",
-      "cuisine": "Afternoon Tea",
-      "price": "82.00",
-      "path": "/uk/london/south-bank/GillraysSteakhouseBar"
+      "price": "55.00",
+      "path": "/uk/london/south-bank/artotel-london-battersea-power-station"
     },
     {
       "name": "Cake Boy",
       "cuisine": "Afternoon Tea",
       "price": "95.00",
-      "path": "/uk/london/south-bank/CakeBoy"
+      "path": "/uk/london/south-bank/cake-boy"
     },
     {
-      "name": "art’otel London Battersea Power Station",
+      "name": "Gillray's Steakhouse & Bar",
       "cuisine": "Afternoon Tea",
-      "price": "55.00",
-      "path": "/uk/london/south-bank/ArtotelLondonBatterseaPowerStation"
+      "price": "82.00",
+      "path": "/uk/london/south-bank/gillrays-steakhouse-bar"
+    },
+    {
+      "name": "Hotel Chocolat's Rabot 1745",
+      "cuisine": "Afternoon Tea",
+      "price": "60.00",
+      "path": "/uk/london/south-bank/hotel-chocolats-rabot1745"
+    },
+    {
+      "name": "Hotel Rafayel",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/london/south-bank/hotel-rafayel"
+    },
+    {
+      "name": "KIBOU Battersea",
+      "cuisine": "Afternoon Tea",
+      "price": "19.00",
+      "path": "/uk/london/south-bank/kibou-battersea"
+    },
+    {
+      "name": "London Bridge Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "32.00",
+      "path": "/uk/london/south-bank/london-bridge-hotel"
+    },
+    {
+      "name": "Marco Pierre White's New York Italian",
+      "cuisine": "Afternoon Tea",
+      "price": "29.00",
+      "path": "/uk/london/south-bank/marco-pierre-whites-new-york-italian"
+    },
+    {
+      "name": "Novotel London Bridge",
+      "cuisine": "Afternoon Tea",
+      "price": "34.99",
+      "path": "/uk/london/south-bank/novotel-london-bridge"
+    },
+    {
+      "name": "Oblix at The Shard",
+      "cuisine": "Afternoon Tea",
+      "price": "61.00",
+      "path": "/uk/london/south-bank/oblix-at-the-shard"
+    },
+    {
+      "name": "OXO Tower Restaurant",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/london/south-bank/oxo-tower-restaurant"
+    },
+    {
+      "name": "Peter Pan Afternoon Tea at Aqua Shard",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/london/south-bank/peter-pan-afternoon-tea-at-aqua-shard"
+    },
+    {
+      "name": "Roast",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/south-bank/roast"
+    },
+    {
+      "name": "Shakedown Restaurant at The Dixon Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/south-bank/shakedown-restaurant-at-the-dixon-hotel"
+    },
+    {
+      "name": "Swan London",
+      "cuisine": "Afternoon Tea",
+      "price": "39.50",
+      "path": "/uk/london/south-bank/swan-london"
+    },
+    {
+      "name": "The Library County Hall",
+      "cuisine": "Afternoon Tea",
+      "price": "60.00",
+      "path": "/uk/london/south-bank/the-library-county-hall"
+    },
+    {
+      "name": "The Shard",
+      "cuisine": "Afternoon Tea",
+      "price": "79.00",
+      "path": "/uk/london/south-bank/the-shard"
+    },
+    {
+      "name": "TING at Shangri-La The Shard, London",
+      "cuisine": "Afternoon Tea",
+      "price": "78.00",
+      "path": "/uk/london/south-bank/ting-at-shangrila-the-shard-london"
+    },
+    {
+      "name": "TOZI Grand Cafe @ Battersea Power Station",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/london/south-bank/tozi-grand-cafe-battersea-power-station"
     }
   ]
 }

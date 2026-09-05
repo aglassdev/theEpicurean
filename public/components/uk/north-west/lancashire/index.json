@@ -1,41 +1,50 @@
 {
   "title": "Lancashire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "North West",
+  "regionSlug": "north-west",
+  "city": "Lancashire",
+  "citySlug": "lancashire",
+  "path": "/uk/north-west/lancashire/restaurants",
+  "canonicalPath": "/uk/north-west/lancashire/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Bridgewater Cruises",
       "cuisine": "Afternoon Tea",
       "price": "62.00",
-      "path": "/uk/north-west/lancashire/BridgewaterCruises"
-    },
-    {
-      "name": "Park Hall Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "16.00",
-      "path": "/uk/north-west/lancashire/ParkHallHotel"
-    },
-    {
-      "name": "Macdonald Tickled Trout Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "16.00",
-      "path": "/uk/north-west/lancashire/MacdonaldTickledTroutHotel"
-    },
-    {
-      "name": "Last Drop Village Hotel & Spa",
-      "cuisine": "Afternoon Tea",
-      "price": "24.95",
-      "path": "/uk/north-west/lancashire/LastDropVillageHotelSpa"
-    },
-    {
-      "name": "The Grand Southport",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/north-west/lancashire/TheGrandSouthport"
+      "path": "/uk/north-west/lancashire/bridgewater-cruises"
     },
     {
       "name": "Farington Lodge - Lancashire",
       "cuisine": "Afternoon Tea",
       "price": "35.00",
-      "path": "/uk/north-west/lancashire/FaringtonLodgeLancashire"
+      "path": "/uk/north-west/lancashire/farington-lodge-lancashire"
+    },
+    {
+      "name": "Last Drop Village Hotel & Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "24.95",
+      "path": "/uk/north-west/lancashire/last-drop-village-hotel-spa"
+    },
+    {
+      "name": "Macdonald Tickled Trout Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "16.00",
+      "path": "/uk/north-west/lancashire/macdonald-tickled-trout-hotel"
+    },
+    {
+      "name": "Park Hall Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "16.00",
+      "path": "/uk/north-west/lancashire/park-hall-hotel"
+    },
+    {
+      "name": "The Grand Southport",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/north-west/lancashire/the-grand-southport"
     }
   ]
 }

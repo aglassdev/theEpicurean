@@ -1,8 +1,14 @@
 {
   "title": "Orange",
-  "country": "france",
-  "region": "orange",
-  "city": "orange",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "orange",
+  "city": "Orange",
+  "citySlug": "orange",
+  "path": "/france/orange/orange/restaurants",
+  "canonicalPath": "/france/orange/orange/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Mas des Aigras - Table du Verger",

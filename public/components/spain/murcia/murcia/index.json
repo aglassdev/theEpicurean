@@ -1,9 +1,29 @@
 {
   "title": "Murcia",
-  "country": "spain",
-  "region": "murcia",
-  "city": "murcia",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "murcia",
+  "city": "Murcia",
+  "citySlug": "murcia",
+  "path": "/spain/murcia/murcia/restaurants",
+  "canonicalPath": "/spain/murcia/murcia/restaurants",
+  "count": 12,
   "restaurants": [
+    {
+      "name": "Almo de Juan Guillamón",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/spain/murcia/murcia/almo-de-juan-guillamn",
+      "award": "★"
+    },
+    {
+      "name": "Frases",
+      "cuisine": "Contemporary",
+      "price": "€€",
+      "path": "/spain/murcia/murcia/frases",
+      "award": "★"
+    },
     {
       "name": "Alborada",
       "cuisine": "Traditional Cuisine",
@@ -11,28 +31,10 @@
       "path": "/spain/murcia/murcia/alborada"
     },
     {
-      "name": "Almo de Juan Guillamón",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/spain/murcia/murcia/almo-de-juan-guillamn"
-    },
-    {
       "name": "Demo",
       "cuisine": "Farm to table",
       "price": "€€",
       "path": "/spain/murcia/murcia/demo"
-    },
-    {
-      "name": "Demo",
-      "cuisine": "Farm to table",
-      "price": "€€",
-      "path": "/spain/murcia/murcia/demo"
-    },
-    {
-      "name": "Frases",
-      "cuisine": "Contemporary",
-      "price": "€€",
-      "path": "/spain/murcia/murcia/frases"
     },
     {
       "name": "Kappou Makoto",
@@ -71,16 +73,16 @@
       "path": "/spain/murcia/murcia/por-herencia"
     },
     {
-      "name": "Taúlla",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/spain/murcia/murcia/talla"
-    },
-    {
       "name": "Tándem",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
       "path": "/spain/murcia/murcia/tndem"
+    },
+    {
+      "name": "Taúlla",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/spain/murcia/murcia/talla"
     }
   ]
 }

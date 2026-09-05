@@ -1,8 +1,14 @@
 {
   "title": "Arvigna",
-  "country": "france",
-  "region": "arvigna",
-  "city": "arvigna",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "arvigna",
+  "city": "Arvigna",
+  "citySlug": "arvigna",
+  "path": "/france/arvigna/arvigna/restaurants",
+  "canonicalPath": "/france/arvigna/arvigna/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Clos Saint Martin - La Métairie",

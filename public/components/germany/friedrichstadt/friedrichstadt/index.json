@@ -1,14 +1,20 @@
 {
   "title": "Friedrichstadt",
-  "country": "germany",
-  "region": "friedrichstadt",
-  "city": "friedrichstadt",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "friedrichstadt",
+  "city": "Friedrichstadt",
+  "citySlug": "friedrichstadt",
+  "path": "/germany/friedrichstadt/friedrichstadt/restaurants",
+  "canonicalPath": "/germany/friedrichstadt/friedrichstadt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ursprung",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/germany/friedrichstadt/friedrichstadt/ursprung"
+      "path": "/germany/friedrichstadt/friedrichstadt/ursprung-f-r-i"
     }
   ]
 }

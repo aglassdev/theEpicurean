@@ -1,8 +1,14 @@
 {
   "title": "Tres Cantos",
-  "country": "spain",
-  "region": "tres-cantos",
-  "city": "tres-cantos",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "tres-cantos",
+  "city": "Tres Cantos",
+  "citySlug": "tres-cantos",
+  "path": "/spain/tres-cantos/tres-cantos/restaurants",
+  "canonicalPath": "/spain/tres-cantos/tres-cantos/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Sartén",

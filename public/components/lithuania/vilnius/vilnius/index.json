@@ -1,6 +1,43 @@
 {
   "title": "Vilnius",
+  "country": "Lithuania",
+  "countrySlug": "lithuania",
+  "region": null,
+  "regionSlug": "vilnius",
+  "city": "Vilnius",
+  "citySlug": "vilnius",
+  "path": "/lithuania/vilnius/vilnius/restaurants",
+  "canonicalPath": "/lithuania/vilnius/vilnius/restaurants",
+  "count": 33,
   "restaurants": [
+    {
+      "name": "Deep Roots",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/lithuania/vilnius/vilnius/deep-roots",
+      "award": "★"
+    },
+    {
+      "name": "Demo",
+      "cuisine": "Innovative",
+      "price": "€€€€",
+      "path": "/lithuania/vilnius/vilnius/demo-v-i-l",
+      "award": "★"
+    },
+    {
+      "name": "Džiaugsmas",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/lithuania/vilnius/vilnius/diaugsmas",
+      "award": "★"
+    },
+    {
+      "name": "Nineteen18",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/lithuania/vilnius/vilnius/nineteen18",
+      "award": "★"
+    },
     {
       "name": "14Horses",
       "cuisine": "Modern Cuisine, Creative",
@@ -26,22 +63,16 @@
       "path": "/lithuania/vilnius/vilnius/barn-bistro"
     },
     {
+      "name": "Buff On",
+      "cuisine": "Steakhouse",
+      "price": "$$$",
+      "path": "/lithuania/vilnius/vilnius/buff-on"
+    },
+    {
       "name": "Da Antonio",
       "cuisine": "Italian",
       "price": "€€€",
       "path": "/lithuania/vilnius/vilnius/da-antonio"
-    },
-    {
-      "name": "Demo",
-      "cuisine": "Innovative",
-      "price": "€€€€",
-      "path": "/lithuania/vilnius/vilnius/demo"
-    },
-    {
-      "name": "Džiaugsmas",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/lithuania/vilnius/vilnius/diaugsmas"
     },
     {
       "name": "Dine",
@@ -54,6 +85,12 @@
       "cuisine": "Mexican",
       "price": "€",
       "path": "/lithuania/vilnius/vilnius/el-gato-negro"
+    },
+    {
+      "name": "Elēno",
+      "cuisine": "Creative French",
+      "price": "$$$$",
+      "path": "/lithuania/vilnius/vilnius/elno"
     },
     {
       "name": "elven",
@@ -122,10 +159,10 @@
       "path": "/lithuania/vilnius/vilnius/motf"
     },
     {
-      "name": "Nineteen18",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/lithuania/vilnius/vilnius/nineteen18"
+      "name": "OMAKASE by Vaidas Užgerys",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/lithuania/vilnius/vilnius/omakase-by-vaidas-ugerys"
     },
     {
       "name": "PACAI Restaurant",
@@ -138,6 +175,18 @@
       "cuisine": "Beef",
       "price": "€€€",
       "path": "/lithuania/vilnius/vilnius/protviai"
+    },
+    {
+      "name": "Saint-Malo",
+      "cuisine": "French",
+      "price": "$$",
+      "path": "/lithuania/vilnius/vilnius/saintmalo"
+    },
+    {
+      "name": "Skóg",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/lithuania/vilnius/vilnius/skg"
     },
     {
       "name": "Somm",
@@ -162,42 +211,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/lithuania/vilnius/vilnius/telegrafas"
-    },
-    {
-      "name": "Deep Roots",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/lithuania/vilnius/vilnius/DeepRoots"
-    },
-    {
-      "name": "Buff On",
-      "cuisine": "Steakhouse",
-      "price": "$$$",
-      "path": "/lithuania/vilnius/vilnius/BuffOn"
-    },
-    {
-      "name": "Elēno",
-      "cuisine": "Creative French",
-      "price": "$$$$",
-      "path": "/lithuania/vilnius/vilnius/Elno"
-    },
-    {
-      "name": "OMAKASE by Vaidas Užgerys",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/lithuania/vilnius/vilnius/OmakaseByVaidasUgerys"
-    },
-    {
-      "name": "Saint-Malo",
-      "cuisine": "French",
-      "price": "$$",
-      "path": "/lithuania/vilnius/vilnius/Saintmalo"
-    },
-    {
-      "name": "Skóg",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/lithuania/vilnius/vilnius/Skg"
     }
   ]
 }

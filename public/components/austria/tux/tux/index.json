@@ -1,20 +1,27 @@
 {
   "title": "Tux",
-  "country": "austria",
-  "region": "tux",
-  "city": "tux",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "tux",
+  "city": "Tux",
+  "citySlug": "tux",
+  "path": "/austria/tux/tux/restaurants",
+  "canonicalPath": "/austria/tux/tux/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Die Geniesserstube im Alpenhof",
+      "cuisine": "Alpine, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/austria/tux/tux/die-geniesserstube-im-alpenhof",
+      "award": "★"
+    },
     {
       "name": "Bergfried - Chefs Table",
       "cuisine": "Modern Cuisine, Regional Cuisine",
       "price": "€€€€",
       "path": "/austria/tux/tux/bergfried-chefs-table"
-    },
-    {
-      "name": "Die Geniesserstube im Alpenhof",
-      "cuisine": "Alpine, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/austria/tux/tux/die-geniesserstube-im-alpenhof"
     }
   ]
 }

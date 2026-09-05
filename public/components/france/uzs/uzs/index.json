@@ -1,14 +1,21 @@
 {
   "title": "Uzs",
-  "country": "france",
-  "region": "uzs",
-  "city": "uzs",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "uzs",
+  "city": "Uzs",
+  "citySlug": "uzs",
+  "path": "/france/uzs/uzs/restaurants",
+  "canonicalPath": "/france/uzs/uzs/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table d'Uzès",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/uzs/uzs/la-table-duzs"
+      "path": "/france/uzs/uzs/la-table-duzs",
+      "award": "★"
     }
   ]
 }

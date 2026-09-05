@@ -1,14 +1,21 @@
 {
   "title": "Traunkirchen",
-  "country": "austria",
-  "region": "traunkirchen",
-  "city": "traunkirchen",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "traunkirchen",
+  "city": "Traunkirchen",
+  "citySlug": "traunkirchen",
+  "path": "/austria/traunkirchen/traunkirchen/restaurants",
+  "canonicalPath": "/austria/traunkirchen/traunkirchen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bootshaus",
       "cuisine": "Creative, Regional Cuisine",
       "price": "€€€€",
-      "path": "/austria/traunkirchen/traunkirchen/bootshaus"
+      "path": "/austria/traunkirchen/traunkirchen/bootshaus",
+      "award": "★"
     },
     {
       "name": "'s Paul Restaurant",

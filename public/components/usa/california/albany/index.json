@@ -1,0 +1,26 @@
+{
+  "title": "Albany",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Albany",
+  "citySlug": "albany",
+  "path": "/usa/california/albany/restaurants",
+  "canonicalPath": "/usa/california/albany/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "China Village",
+      "cuisine": "Chinese, Sichuan",
+      "price": "$",
+      "path": "/usa/california/albany/china-village"
+    },
+    {
+      "name": "Juanita & Maude",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/albany/juanita-maude"
+    }
+  ]
+}

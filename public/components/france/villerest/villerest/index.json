@@ -1,8 +1,14 @@
 {
   "title": "Villerest",
-  "country": "france",
-  "region": "villerest",
-  "city": "villerest",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "villerest",
+  "city": "Villerest",
+  "citySlug": "villerest",
+  "path": "/france/villerest/villerest/restaurants",
+  "canonicalPath": "/france/villerest/villerest/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Essensiel - Domaine de Champlong",

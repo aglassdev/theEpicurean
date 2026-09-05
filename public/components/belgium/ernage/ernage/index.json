@@ -1,14 +1,20 @@
 {
   "title": "Ernage",
-  "country": "belgium",
-  "region": "ernage",
-  "city": "ernage",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "ernage",
+  "city": "Ernage",
+  "citySlug": "ernage",
+  "path": "/belgium/ernage/ernage/restaurants",
+  "canonicalPath": "/belgium/ernage/ernage/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hors-Champs",
       "cuisine": "Organic, Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/ernage/ernage/hors-champs"
+      "path": "/belgium/ernage/ernage/horschamps"
     }
   ]
 }

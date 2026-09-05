@@ -1,8 +1,14 @@
 {
   "title": "Cerci",
-  "country": "france",
-  "region": "cerci",
-  "city": "cerci",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cerci",
+  "city": "Cerci",
+  "citySlug": "cerci",
+  "path": "/france/cerci/cerci/restaurants",
+  "canonicalPath": "/france/cerci/cerci/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Écume Gourmande",

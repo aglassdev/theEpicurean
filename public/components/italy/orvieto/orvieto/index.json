@@ -1,14 +1,20 @@
 {
   "title": "Orvieto",
-  "country": "italy",
-  "region": "orvieto",
-  "city": "orvieto",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "orvieto",
+  "city": "Orvieto",
+  "citySlug": "orvieto",
+  "path": "/italy/orvieto/orvieto/restaurants",
+  "canonicalPath": "/italy/orvieto/orvieto/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Coro",
       "cuisine": "Contemporary, Creative",
       "price": "€€€",
-      "path": "/italy/orvieto/orvieto/coro"
+      "path": "/italy/orvieto/orvieto/coro-o-r-v"
     },
     {
       "name": "I Sette Consoli",

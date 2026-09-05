@@ -1,8 +1,14 @@
 {
   "title": "Bari",
-  "country": "italy",
-  "region": "bari",
-  "city": "bari",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bari",
+  "city": "Bari",
+  "citySlug": "bari",
+  "path": "/italy/bari/bari/restaurants",
+  "canonicalPath": "/italy/bari/bari/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Bul",

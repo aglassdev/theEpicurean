@@ -1,17 +1,152 @@
 {
   "title": "Hamburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hamburg",
+  "city": "Hamburg",
+  "citySlug": "hamburg",
+  "path": "/germany/hamburg/hamburg/restaurants",
+  "canonicalPath": "/germany/hamburg/hamburg/restaurants",
+  "count": 64,
   "restaurants": [
+    {
+      "name": "Restaurant Haerlin",
+      "cuisine": "Creative French, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/restaurant-haerlin",
+      "award": "★★★"
+    },
+    {
+      "name": "The Table Kevin Fehling",
+      "cuisine": "Creative, International",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/the-table-kevin-fehling",
+      "award": "★★★"
+    },
     {
       "name": "100/200 Kitchen",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/100200-kitchen"
+      "path": "/germany/hamburg/hamburg/100200-kitchen",
+      "award": "★★"
+    },
+    {
+      "name": "bianc",
+      "cuisine": "Mediterranean Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/bianc",
+      "award": "★★"
+    },
+    {
+      "name": "Lakeside",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/lakeside",
+      "award": "★★"
+    },
+    {
+      "name": "Atlantic Restaurant",
+      "cuisine": "French Contemporary",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/atlantic-restaurant",
+      "award": "★"
+    },
+    {
+      "name": "GLORIE",
+      "cuisine": "Classic Cuisine, Contemporary",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/glorie",
+      "award": "★"
+    },
+    {
+      "name": "haebel",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/haebel",
+      "award": "★"
+    },
+    {
+      "name": "Heimatjuwel",
+      "cuisine": "Creative, Country cooking",
+      "price": "€€€",
+      "path": "/germany/hamburg/hamburg/heimatjuwel",
+      "award": "★"
+    },
+    {
+      "name": "Jellyfish",
+      "cuisine": "Seafood, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/jellyfish",
+      "award": "★"
+    },
+    {
+      "name": "Koer",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/koer",
+      "award": "★"
+    },
+    {
+      "name": "Landhaus Scherrer",
+      "cuisine": "Classic Cuisine, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/landhaus-scherrer",
+      "award": "★"
+    },
+    {
+      "name": "Petit Amour",
+      "cuisine": "Contemporary, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/petit-amour",
+      "award": "★"
+    },
+    {
+      "name": "Piment",
+      "cuisine": "Creative, North African",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/piment",
+      "award": "★"
+    },
+    {
+      "name": "THE LISBETH",
+      "cuisine": "Regional Cuisine, Modern Cuisine",
+      "price": "€€€",
+      "path": "/germany/hamburg/hamburg/the-lisbeth",
+      "award": "★"
+    },
+    {
+      "name": "Zeik",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/hamburg/hamburg/zeik",
+      "award": "★"
+    },
+    {
+      "name": "CYN CYN",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/germany/hamburg/hamburg/cyn-cyn",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "GASSENHAUR",
+      "cuisine": "Austrian",
+      "price": "$$",
+      "path": "/germany/hamburg/hamburg/gassenhaur",
+      "award": "Bib Gourmand"
     },
     {
       "name": "am kai",
       "cuisine": "Seafood, International",
       "price": "€€€",
       "path": "/germany/hamburg/hamburg/am-kai"
+    },
+    {
+      "name": "am kai | restaurant. seafood. drinks. elbblick",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/germany/hamburg/hamburg/am-kai-restaurant-seafood-drinks-elbblick"
     },
     {
       "name": "am kai | restaurnt. seafood. drinks. elbblick",
@@ -26,18 +161,6 @@
       "path": "/germany/hamburg/hamburg/arc-restaurant"
     },
     {
-      "name": "Atlantic Restaurant",
-      "cuisine": "French Contemporary",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/atlantic-restaurant"
-    },
-    {
-      "name": "bianc",
-      "cuisine": "Mediterranean Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/bianc"
-    },
-    {
       "name": "Bootshaus Bar & Grill",
       "cuisine": "Meats and Grills",
       "price": "€€€",
@@ -48,6 +171,12 @@
       "cuisine": "International",
       "price": "€€",
       "path": "/germany/hamburg/hamburg/brook"
+    },
+    {
+      "name": "Bullerei",
+      "cuisine": "Meats and Grills",
+      "price": "$$$",
+      "path": "/germany/hamburg/hamburg/bullerei"
     },
     {
       "name": "Butcher's american steakhouse",
@@ -86,22 +215,22 @@
       "path": "/germany/hamburg/hamburg/east"
     },
     {
-      "name": "Fischereihafen Restaurant",
-      "cuisine": "Seafood, Classic Cuisine",
-      "price": "€€€",
-      "path": "/germany/hamburg/hamburg/fischereihafen-restaurant"
-    },
-    {
       "name": "Félix",
       "cuisine": "French, Classic Cuisine",
       "price": "€€€",
       "path": "/germany/hamburg/hamburg/flix"
     },
     {
-      "name": "GLORIE",
-      "cuisine": "Classic Cuisine, Contemporary",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/glorie"
+      "name": "Fischereihafen Restaurant",
+      "cuisine": "Seafood, Classic Cuisine",
+      "price": "€€€",
+      "path": "/germany/hamburg/hamburg/fischereihafen-restaurant"
+    },
+    {
+      "name": "GRETA OTO Hamburg",
+      "cuisine": "Latin American",
+      "price": "$$$",
+      "path": "/germany/hamburg/hamburg/greta-oto-hamburg"
     },
     {
       "name": "GRILL",
@@ -114,18 +243,6 @@
       "cuisine": "Meats and Grills, Seafood",
       "price": "€€€",
       "path": "/germany/hamburg/hamburg/grill-royal-hamburg"
-    },
-    {
-      "name": "haebel",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/haebel"
-    },
-    {
-      "name": "Heimatjuwel",
-      "cuisine": "Creative, Country cooking",
-      "price": "€€€",
-      "path": "/germany/hamburg/hamburg/heimatjuwel"
     },
     {
       "name": "Henriks",
@@ -158,10 +275,10 @@
       "path": "/germany/hamburg/hamburg/jacobs-restaurant"
     },
     {
-      "name": "Jellyfish",
-      "cuisine": "Seafood, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/jellyfish"
+      "name": "jfk.",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/germany/hamburg/hamburg/jfk"
     },
     {
       "name": "Kinfelts Kitchen & Wine",
@@ -176,28 +293,10 @@
       "path": "/germany/hamburg/hamburg/klinker"
     },
     {
-      "name": "Koer",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/koer"
-    },
-    {
       "name": "La Maison d'Avignon",
       "cuisine": "French, Provençal",
       "price": "€€€",
       "path": "/germany/hamburg/hamburg/la-maison-davignon"
-    },
-    {
-      "name": "Lakeside",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/lakeside"
-    },
-    {
-      "name": "Landhaus Scherrer",
-      "cuisine": "Classic Cuisine, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/landhaus-scherrer"
     },
     {
       "name": "Le Canard",
@@ -236,34 +335,16 @@
       "path": "/germany/hamburg/hamburg/oechsle"
     },
     {
-      "name": "Petit Amour",
-      "cuisine": "Contemporary, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/petit-amour"
-    },
-    {
       "name": "philipps restaurant",
       "cuisine": "International",
       "price": "€€",
       "path": "/germany/hamburg/hamburg/philipps-restaurant"
     },
     {
-      "name": "Piment",
-      "cuisine": "Creative, North African",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/piment"
-    },
-    {
       "name": "Portomarin",
       "cuisine": "Spanish",
       "price": "€€",
       "path": "/germany/hamburg/hamburg/portomarin"
-    },
-    {
-      "name": "Restaurant Haerlin",
-      "cuisine": "Creative French, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/restaurant-haerlin"
     },
     {
       "name": "Rive Fish & Faible",
@@ -278,28 +359,16 @@
       "path": "/germany/hamburg/hamburg/salt-silver"
     },
     {
-      "name": "Stüffel",
-      "cuisine": "Farm to table, Mediterranean Cuisine",
-      "price": "€€",
-      "path": "/germany/hamburg/hamburg/stffel"
-    },
-    {
       "name": "STRAUCHS FALCO",
       "cuisine": "International, Meats and Grills",
       "price": "€€€",
       "path": "/germany/hamburg/hamburg/strauchs-falco"
     },
     {
-      "name": "THE LISBETH",
-      "cuisine": "Regional Cuisine, Modern Cuisine",
-      "price": "€€€",
-      "path": "/germany/hamburg/hamburg/the-lisbeth"
-    },
-    {
-      "name": "The Table Kevin Fehling",
-      "cuisine": "Creative, International",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/the-table-kevin-fehling"
+      "name": "Stüffel",
+      "cuisine": "Farm to table, Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/germany/hamburg/hamburg/stffel"
     },
     {
       "name": "Tschebull",
@@ -332,12 +401,6 @@
       "path": "/germany/hamburg/hamburg/xo-seafoodbar"
     },
     {
-      "name": "Zeik",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/hamburg/hamburg/zeik"
-    },
-    {
       "name": "Zipang",
       "cuisine": "Japanese",
       "price": "€€€",
@@ -348,42 +411,6 @@
       "cuisine": "Portuguese, Mediterranean Cuisine",
       "price": "€€",
       "path": "/germany/hamburg/hamburg/zur-flottbeker-schmiede"
-    },
-    {
-      "name": "CYN CYN",
-      "cuisine": "Noodles",
-      "price": "$",
-      "path": "/germany/hamburg/hamburg/CynCyn"
-    },
-    {
-      "name": "GASSENHAUR",
-      "cuisine": "Austrian",
-      "price": "$$",
-      "path": "/germany/hamburg/hamburg/Gassenhaur"
-    },
-    {
-      "name": "Bullerei",
-      "cuisine": "Meats and Grills",
-      "price": "$$$",
-      "path": "/germany/hamburg/hamburg/Bullerei"
-    },
-    {
-      "name": "GRETA OTO Hamburg",
-      "cuisine": "Latin American",
-      "price": "$$$",
-      "path": "/germany/hamburg/hamburg/GretaOtoHamburg"
-    },
-    {
-      "name": "am kai | restaurant. seafood. drinks. elbblick",
-      "cuisine": "Seafood",
-      "price": "$$$",
-      "path": "/germany/hamburg/hamburg/AmKaiRestaurantSeafoodDrinksElbblick"
-    },
-    {
-      "name": "jfk.",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/germany/hamburg/hamburg/Jfk"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "San Casciano Dei Bagni",
-  "country": "italy",
-  "region": "san-casciano-dei-bagni",
-  "city": "san-casciano-dei-bagni",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-casciano-dei-bagni",
+  "city": "San Casciano Dei Bagni",
+  "citySlug": "san-casciano-dei-bagni",
+  "path": "/italy/san-casciano-dei-bagni/san-casciano-dei-bagni/restaurants",
+  "canonicalPath": "/italy/san-casciano-dei-bagni/san-casciano-dei-bagni/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Castello di Fighine",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/italy/san-casciano-dei-bagni/san-casciano-dei-bagni/castello-di-fighine"
+      "path": "/italy/san-casciano-dei-bagni/san-casciano-dei-bagni/castello-di-fighine",
+      "award": "★"
     },
     {
       "name": "Daniela",

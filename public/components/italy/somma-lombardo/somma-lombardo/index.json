@@ -1,8 +1,14 @@
 {
   "title": "Somma Lombardo",
-  "country": "italy",
-  "region": "somma-lombardo",
-  "city": "somma-lombardo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "somma-lombardo",
+  "city": "Somma Lombardo",
+  "citySlug": "somma-lombardo",
+  "path": "/italy/somma-lombardo/somma-lombardo/restaurants",
+  "canonicalPath": "/italy/somma-lombardo/somma-lombardo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Corte Visconti",

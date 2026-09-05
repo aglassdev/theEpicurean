@@ -1,14 +1,21 @@
 {
   "title": "Kriens",
-  "country": "switzerland",
-  "region": "kriens",
-  "city": "kriens",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "kriens",
+  "city": "Kriens",
+  "citySlug": "kriens",
+  "path": "/switzerland/kriens/kriens/restaurants",
+  "canonicalPath": "/switzerland/kriens/kriens/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sonnenberg le soir",
       "cuisine": "French, International",
       "price": "€€€",
-      "path": "/switzerland/kriens/kriens/sonnenberg-le-soir"
+      "path": "/switzerland/kriens/kriens/sonnenberg-le-soir",
+      "award": "★"
     }
   ]
 }

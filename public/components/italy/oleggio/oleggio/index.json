@@ -1,11 +1,20 @@
 {
   "title": "Oleggio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "oleggio",
+  "city": "Oleggio",
+  "citySlug": "oleggio",
+  "path": "/italy/oleggio/oleggio/restaurants",
+  "canonicalPath": "/italy/oleggio/oleggio/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Casa Celesia",
       "cuisine": "Italian Contemporary",
       "price": "$$$",
-      "path": "/italy/oleggio/oleggio/CasaCelesia"
+      "path": "/italy/oleggio/oleggio/casa-celesia"
     }
   ]
 }

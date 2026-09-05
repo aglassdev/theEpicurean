@@ -1,14 +1,20 @@
 {
   "title": "Mlheim Krlich",
-  "country": "germany",
-  "region": "mlheim-krlich",
-  "city": "mlheim-krlich",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "mlheim-krlich",
+  "city": "Mlheim Krlich",
+  "citySlug": "mlheim-krlich",
+  "path": "/germany/mlheim-krlich/mlheim-krlich/restaurants",
+  "canonicalPath": "/germany/mlheim-krlich/mlheim-krlich/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Zur Linde",
       "cuisine": "Farm to table, Country cooking",
       "price": "€€",
-      "path": "/germany/mlheim-krlich/mlheim-krlich/zur-linde"
+      "path": "/germany/mlheim-krlich/mlheim-krlich/zur-linde-m-l-h"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "San Bernardo",
-  "country": "spain",
-  "region": "san-bernardo",
-  "city": "san-bernardo",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "san-bernardo",
+  "city": "San Bernardo",
+  "citySlug": "san-bernardo",
+  "path": "/spain/san-bernardo/san-bernardo/restaurants",
+  "canonicalPath": "/spain/san-bernardo/san-bernardo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Converso",

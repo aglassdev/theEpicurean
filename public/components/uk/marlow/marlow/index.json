@@ -1,26 +1,34 @@
 {
   "title": "Marlow",
-  "country": "uk",
-  "region": "marlow",
-  "city": "marlow",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "marlow",
+  "city": "Marlow",
+  "citySlug": "marlow",
+  "path": "/uk/marlow/marlow/restaurants",
+  "canonicalPath": "/uk/marlow/marlow/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Hand and Flowers",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/marlow/marlow/hand-and-flowers"
+      "path": "/uk/marlow/marlow/hand-and-flowers",
+      "award": "★★"
+    },
+    {
+      "name": "The Coach",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/marlow/marlow/the-coach",
+      "award": "★"
     },
     {
       "name": "The Butcher's Tap and Grill",
       "cuisine": "Meats and Grills",
       "price": "££",
       "path": "/uk/marlow/marlow/the-butchers-tap-and-grill"
-    },
-    {
-      "name": "The Coach",
-      "cuisine": "Modern British",
-      "price": "£££",
-      "path": "/uk/marlow/marlow/the-coach"
     },
     {
       "name": "The Oarsman",

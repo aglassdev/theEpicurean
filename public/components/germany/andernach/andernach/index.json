@@ -1,20 +1,27 @@
 {
   "title": "Andernach",
-  "country": "germany",
-  "region": "andernach",
-  "city": "andernach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "andernach",
+  "city": "Andernach",
+  "citySlug": "andernach",
+  "path": "/germany/andernach/andernach/restaurants",
+  "canonicalPath": "/germany/andernach/andernach/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "PURS NEW NORDIC JAPANESE CUISINE",
+      "cuisine": "Fusion, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/andernach/andernach/purs-new-nordic-japanese-cuisine",
+      "award": "★"
+    },
     {
       "name": "Ai Pero",
       "cuisine": "Italian, Contemporary",
       "price": "€€",
       "path": "/germany/andernach/andernach/ai-pero"
-    },
-    {
-      "name": "PURS NEW NORDIC JAPANESE CUISINE",
-      "cuisine": "Fusion, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/andernach/andernach/purs-new-nordic-japanese-cuisine"
     },
     {
       "name": "YOSO Asian Comfort Food",

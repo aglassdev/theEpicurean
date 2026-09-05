@@ -1,11 +1,20 @@
 {
-  "title": "Kamp-Lintfort",
+  "title": "Kamp Lintfort",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "kamp-lintfort",
+  "city": "Kamp Lintfort",
+  "citySlug": "kamp-lintfort",
+  "path": "/germany/kamp-lintfort/kamp-lintfort/restaurants",
+  "canonicalPath": "/germany/kamp-lintfort/kamp-lintfort/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "ABC by Michi & Leo",
       "cuisine": "International",
       "price": "$$$",
-      "path": "/germany/kamp-lintfort/kamp-lintfort/AbcByMichiLeo"
+      "path": "/germany/kamp-lintfort/kamp-lintfort/abc-by-michi-leo"
     }
   ]
 }

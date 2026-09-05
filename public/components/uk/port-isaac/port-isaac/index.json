@@ -1,20 +1,28 @@
 {
   "title": "Port Isaac",
-  "country": "uk",
-  "region": "port-isaac",
-  "city": "port-isaac",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "port-isaac",
+  "city": "Port Isaac",
+  "citySlug": "port-isaac",
+  "path": "/uk/port-isaac/port-isaac/restaurants",
+  "canonicalPath": "/uk/port-isaac/port-isaac/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Outlaw's Fish Kitchen",
       "cuisine": "Seafood",
       "price": "££££",
-      "path": "/uk/port-isaac/port-isaac/outlaws-fish-kitchen"
+      "path": "/uk/port-isaac/port-isaac/outlaws-fish-kitchen",
+      "award": "★"
     },
     {
       "name": "Outlaw's New Road",
       "cuisine": "Seafood",
       "price": "££££",
-      "path": "/uk/port-isaac/port-isaac/outlaws-new-road"
+      "path": "/uk/port-isaac/port-isaac/outlaws-new-road",
+      "award": "★"
     }
   ]
 }

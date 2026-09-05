@@ -1,8 +1,14 @@
 {
   "title": "Whitby",
-  "country": "uk",
-  "region": "whitby",
-  "city": "whitby",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "whitby",
+  "city": "Whitby",
+  "citySlug": "whitby",
+  "path": "/uk/whitby/whitby/restaurants",
+  "canonicalPath": "/uk/whitby/whitby/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Brasserie at Saltmoore",

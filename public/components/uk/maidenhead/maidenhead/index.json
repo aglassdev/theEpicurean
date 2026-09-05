@@ -1,8 +1,14 @@
 {
   "title": "Maidenhead",
-  "country": "uk",
-  "region": "maidenhead",
-  "city": "maidenhead",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "maidenhead",
+  "city": "Maidenhead",
+  "citySlug": "maidenhead",
+  "path": "/uk/maidenhead/maidenhead/restaurants",
+  "canonicalPath": "/uk/maidenhead/maidenhead/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Seasonality",

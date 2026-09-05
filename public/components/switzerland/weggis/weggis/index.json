@@ -1,14 +1,20 @@
 {
   "title": "Weggis",
-  "country": "switzerland",
-  "region": "weggis",
-  "city": "weggis",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "weggis",
+  "city": "Weggis",
+  "citySlug": "weggis",
+  "path": "/switzerland/weggis/weggis/restaurants",
+  "canonicalPath": "/switzerland/weggis/weggis/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Equo 1706",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/switzerland/weggis/weggis/equo-1706"
+      "path": "/switzerland/weggis/weggis/equo1706"
     },
     {
       "name": "HYG Restaurant & Bar",

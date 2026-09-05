@@ -1,8 +1,14 @@
 {
   "title": "Ligr",
-  "country": "france",
-  "region": "ligr",
-  "city": "ligr",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ligr",
+  "city": "Ligr",
+  "citySlug": "ligr",
+  "path": "/france/ligr/ligr/restaurants",
+  "canonicalPath": "/france/ligr/ligr/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Jardiniers",

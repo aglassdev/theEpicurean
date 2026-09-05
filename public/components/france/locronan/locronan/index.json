@@ -1,8 +1,14 @@
 {
   "title": "Locronan",
-  "country": "france",
-  "region": "locronan",
-  "city": "locronan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "locronan",
+  "city": "Locronan",
+  "citySlug": "locronan",
+  "path": "/france/locronan/locronan/restaurants",
+  "canonicalPath": "/france/locronan/locronan/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ar Maen Hir",

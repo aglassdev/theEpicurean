@@ -1,14 +1,20 @@
 {
   "title": "Burford",
-  "country": "uk",
-  "region": "burford",
-  "city": "burford",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "burford",
+  "city": "Burford",
+  "citySlug": "burford",
+  "path": "/uk/burford/burford/restaurants",
+  "canonicalPath": "/uk/burford/burford/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Wild",
       "cuisine": "Modern Cuisine",
       "price": "££££",
-      "path": "/uk/burford/burford/wild"
+      "path": "/uk/burford/burford/wild-b-u-r"
     }
   ]
 }

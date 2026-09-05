@@ -1,20 +1,27 @@
 {
   "title": "Schaffhausen",
-  "country": "switzerland",
-  "region": "schaffhausen",
-  "city": "schaffhausen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "schaffhausen",
+  "city": "Schaffhausen",
+  "citySlug": "schaffhausen",
+  "path": "/switzerland/schaffhausen/schaffhausen/restaurants",
+  "canonicalPath": "/switzerland/schaffhausen/schaffhausen/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Villa Sommerlust",
+      "cuisine": "Innovative, Creative",
+      "price": "€€€",
+      "path": "/switzerland/schaffhausen/schaffhausen/villa-sommerlust",
+      "award": "★"
+    },
     {
       "name": "D'Chuchi",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€",
       "path": "/switzerland/schaffhausen/schaffhausen/dchuchi"
-    },
-    {
-      "name": "Villa Sommerlust",
-      "cuisine": "Innovative, Creative",
-      "price": "€€€",
-      "path": "/switzerland/schaffhausen/schaffhausen/villa-sommerlust"
     },
     {
       "name": "Wirtschaft zum Frieden",

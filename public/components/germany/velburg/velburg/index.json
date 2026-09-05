@@ -1,11 +1,20 @@
 {
   "title": "Velburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "velburg",
+  "city": "Velburg",
+  "citySlug": "velburg",
+  "path": "/germany/velburg/velburg/restaurants",
+  "canonicalPath": "/germany/velburg/velburg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Winkler Bräu",
       "cuisine": "Regional Cuisine",
       "price": "$$",
-      "path": "/germany/velburg/velburg/WinklerBru"
+      "path": "/germany/velburg/velburg/winkler-bru"
     }
   ]
 }

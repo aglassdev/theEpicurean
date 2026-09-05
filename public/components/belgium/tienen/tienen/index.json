@@ -1,20 +1,27 @@
 {
   "title": "Tienen",
-  "country": "belgium",
-  "region": "tienen",
-  "city": "tienen",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "tienen",
+  "city": "Tienen",
+  "citySlug": "tienen",
+  "path": "/belgium/tienen/tienen/restaurants",
+  "canonicalPath": "/belgium/tienen/tienen/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Melchior",
+      "cuisine": "Modern French, Fusion",
+      "price": "€€€€",
+      "path": "/belgium/tienen/tienen/melchior",
+      "award": "★"
+    },
     {
       "name": "De Refugie",
       "cuisine": "Farm to table, French",
       "price": "€€",
       "path": "/belgium/tienen/tienen/de-refugie"
-    },
-    {
-      "name": "Melchior",
-      "cuisine": "Modern French, Fusion",
-      "price": "€€€€",
-      "path": "/belgium/tienen/tienen/melchior"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
-  "title": "Lea Da Palmeira",
-  "country": "portugal",
-  "region": "lea-da-palmeira",
-  "city": "lea-da-palmeira",
+  "title": "Lea da Palmeira",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "lea-da-palmeira",
+  "city": "Lea da Palmeira",
+  "citySlug": "lea-da-palmeira",
+  "path": "/portugal/lea-da-palmeira/lea-da-palmeira/restaurants",
+  "canonicalPath": "/portugal/lea-da-palmeira/lea-da-palmeira/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Casa de Chá da Boa Nova",
       "cuisine": "Seafood",
       "price": "€€€€",
-      "path": "/portugal/lea-da-palmeira/lea-da-palmeira/casa-de-ch-da-boa-nova"
+      "path": "/portugal/lea-da-palmeira/lea-da-palmeira/casa-de-ch-da-boa-nova",
+      "award": "★★"
     },
     {
       "name": "Cibû",

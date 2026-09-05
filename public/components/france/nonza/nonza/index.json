@@ -1,5 +1,14 @@
 {
   "title": "Nonza",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "nonza",
+  "city": "Nonza",
+  "citySlug": "nonza",
+  "path": "/france/nonza/nonza/restaurants",
+  "canonicalPath": "/france/nonza/nonza/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Boccafine",
@@ -8,16 +17,16 @@
       "path": "/france/nonza/nonza/boccafine"
     },
     {
+      "name": "Da Noi",
+      "cuisine": "Corsican",
+      "price": "$$",
+      "path": "/france/nonza/nonza/da-noi"
+    },
+    {
       "name": "La Sassa",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
       "path": "/france/nonza/nonza/la-sassa"
-    },
-    {
-      "name": "Da Noi",
-      "cuisine": "Corsican",
-      "price": "$$",
-      "path": "/france/nonza/nonza/DaNoi"
     }
   ]
 }

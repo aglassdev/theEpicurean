@@ -1,8 +1,14 @@
 {
   "title": "Laval",
-  "country": "france",
-  "region": "laval",
-  "city": "laval",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "laval",
+  "city": "Laval",
+  "citySlug": "laval",
+  "path": "/france/laval/laval/restaurants",
+  "canonicalPath": "/france/laval/laval/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "L'Antiquaire",
@@ -20,7 +26,7 @@
       "name": "Racines",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/laval/laval/racines"
+      "path": "/france/laval/laval/racines-l-a-v"
     }
   ]
 }

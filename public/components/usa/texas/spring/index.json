@@ -1,0 +1,33 @@
+{
+  "title": "Spring",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Texas",
+  "regionSlug": "texas",
+  "city": "Spring",
+  "citySlug": "spring",
+  "path": "/usa/texas/spring/restaurants",
+  "canonicalPath": "/usa/other/spring/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "CorkScrew BBQ",
+      "cuisine": "Barbecue",
+      "price": "$$",
+      "path": "/usa/other/spring/corkscrew-bbq",
+      "award": "★"
+    },
+    {
+      "name": "Belly of the Beast",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$",
+      "path": "/usa/other/spring/belly-of-the-beast"
+    },
+    {
+      "name": "Rosemeyer Bar-B-Q",
+      "cuisine": "Barbecue",
+      "price": "$$",
+      "path": "/usa/other/spring/rosemeyer-barbq"
+    }
+  ]
+}

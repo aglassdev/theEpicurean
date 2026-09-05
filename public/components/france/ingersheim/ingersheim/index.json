@@ -1,8 +1,14 @@
 {
   "title": "Ingersheim",
-  "country": "france",
-  "region": "ingersheim",
-  "city": "ingersheim",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ingersheim",
+  "city": "Ingersheim",
+  "citySlug": "ingersheim",
+  "path": "/france/ingersheim/ingersheim/restaurants",
+  "canonicalPath": "/france/ingersheim/ingersheim/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Taverne Alsacienne",

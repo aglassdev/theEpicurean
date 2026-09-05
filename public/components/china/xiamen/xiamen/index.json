@@ -1,9 +1,36 @@
 {
   "title": "Xiamen",
-  "country": "china",
-  "region": "xiamen",
-  "city": "xiamen",
+  "country": "China",
+  "countrySlug": "china",
+  "region": null,
+  "regionSlug": "xiamen",
+  "city": "Xiamen",
+  "citySlug": "xiamen",
+  "path": "/china/xiamen/xiamen/restaurants",
+  "canonicalPath": "/china/xiamen/xiamen/restaurants",
+  "count": 45,
   "restaurants": [
+    {
+      "name": "Fleurs Et Festin",
+      "cuisine": "Chao Zhou",
+      "price": "¥¥",
+      "path": "/china/xiamen/xiamen/fleurs-et-festin",
+      "award": "★"
+    },
+    {
+      "name": "Hokklo",
+      "cuisine": "Fujian",
+      "price": "¥¥¥",
+      "path": "/china/xiamen/xiamen/hokklo",
+      "award": "★"
+    },
+    {
+      "name": "Yanyu (Jiahe Road)",
+      "cuisine": "Fujian",
+      "price": "¥¥¥",
+      "path": "/china/xiamen/xiamen/yanyu-jiahe-road",
+      "award": "★"
+    },
     {
       "name": "1927 Dong Yuan Si Chu",
       "cuisine": "Fujian",
@@ -44,7 +71,7 @@
       "name": "Chic 1699",
       "cuisine": "Fujian",
       "price": "¥¥",
-      "path": "/china/xiamen/xiamen/chic-1699"
+      "path": "/china/xiamen/xiamen/chic1699-x-i-a"
     },
     {
       "name": "Coast",
@@ -71,12 +98,6 @@
       "path": "/china/xiamen/xiamen/dai-tai"
     },
     {
-      "name": "Fleurs Et Festin",
-      "cuisine": "Chao Zhou",
-      "price": "¥¥",
-      "path": "/china/xiamen/xiamen/fleurs-et-festin"
-    },
-    {
       "name": "Fu Yu Da Tong Ya Rou Zhou",
       "cuisine": "Congee",
       "price": "¥",
@@ -93,12 +114,6 @@
       "cuisine": "Seafood",
       "price": "¥¥",
       "path": "/china/xiamen/xiamen/hao-shi-lai"
-    },
-    {
-      "name": "Hokklo",
-      "cuisine": "Fujian",
-      "price": "¥¥¥",
-      "path": "/china/xiamen/xiamen/hokklo"
     },
     {
       "name": "Homeme18 (Huming Road)",
@@ -243,12 +258,6 @@
       "cuisine": "Seafood",
       "price": "¥¥¥",
       "path": "/china/xiamen/xiamen/xing-wang-seafood-rongting-hui-siming"
-    },
-    {
-      "name": "Yanyu (Jiahe Road)",
-      "cuisine": "Fujian",
-      "price": "¥¥¥",
-      "path": "/china/xiamen/xiamen/yanyu-jiahe-road"
     },
     {
       "name": "Yin Lu",

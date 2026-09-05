@@ -1,17 +1,28 @@
 {
   "title": "Illhaeusern",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "illhaeusern",
+  "city": "Illhaeusern",
+  "citySlug": "illhaeusern",
+  "path": "/france/illhaeusern/illhaeusern/restaurants",
+  "canonicalPath": "/france/illhaeusern/illhaeusern/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Auberge de l'Ill",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/france/illhaeusern/illhaeusern/auberge-de-lill"
+      "path": "/france/illhaeusern/illhaeusern/auberge-de-lill",
+      "award": "★★"
     },
     {
       "name": "L'Auberge de l'Ill",
       "cuisine": "",
       "price": "",
-      "path": "/france/illhaeusern/illhaeusern/LaubergeDeLill"
+      "path": "/france/illhaeusern/illhaeusern/lauberge-de-lill",
+      "award": "World's 50 Best"
     }
   ]
 }

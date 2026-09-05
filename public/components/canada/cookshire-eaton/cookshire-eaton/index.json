@@ -1,20 +1,20 @@
 {
   "title": "Cookshire Eaton",
-  "country": "canada",
-  "region": "cookshire-eaton",
-  "city": "cookshire-eaton",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "cookshire-eaton",
+  "city": "Cookshire Eaton",
+  "citySlug": "cookshire-eaton",
+  "path": "/canada/cookshire-eaton/cookshire-eaton/restaurants",
+  "canonicalPath": "/canada/cookshire-eaton/cookshire-eaton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Mal-Aimés",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/canada/cookshire-eaton/cookshire-eaton/les-mal-aims"
-    },
-    {
-      "name": "Les Mal-Aimés",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/canada/cookshire-eaton/cookshire-eaton/les-mal-aims"
+      "path": "/canada/cookshire-eaton/cookshire-eaton/les-malaims"
     }
   ]
 }

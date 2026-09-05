@@ -1,11 +1,21 @@
 {
   "title": "Skagen",
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "region": null,
+  "regionSlug": "skagen",
+  "city": "Skagen",
+  "citySlug": "skagen",
+  "path": "/denmark/skagen/skagen/restaurants",
+  "canonicalPath": "/denmark/skagen/skagen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Okê",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/denmark/skagen/skagen/Ok"
+      "path": "/denmark/skagen/skagen/ok",
+      "award": "★"
     }
   ]
 }

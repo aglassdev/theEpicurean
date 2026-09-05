@@ -1,8 +1,14 @@
 {
   "title": "Rdental",
-  "country": "germany",
-  "region": "rdental",
-  "city": "rdental",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "rdental",
+  "city": "Rdental",
+  "citySlug": "rdental",
+  "path": "/germany/rdental/rdental/restaurants",
+  "canonicalPath": "/germany/rdental/rdental/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Alte Mühle",

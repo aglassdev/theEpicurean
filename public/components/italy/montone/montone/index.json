@@ -1,8 +1,14 @@
 {
   "title": "Montone",
-  "country": "italy",
-  "region": "montone",
-  "city": "montone",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "montone",
+  "city": "Montone",
+  "citySlug": "montone",
+  "path": "/italy/montone/montone/restaurants",
+  "canonicalPath": "/italy/montone/montone/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Locanda del Capitano & Tipico Osteria",

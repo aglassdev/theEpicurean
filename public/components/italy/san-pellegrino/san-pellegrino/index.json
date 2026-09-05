@@ -1,8 +1,14 @@
 {
   "title": "San Pellegrino",
-  "country": "italy",
-  "region": "san-pellegrino",
-  "city": "san-pellegrino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-pellegrino",
+  "city": "San Pellegrino",
+  "citySlug": "san-pellegrino",
+  "path": "/italy/san-pellegrino/san-pellegrino/restaurants",
+  "canonicalPath": "/italy/san-pellegrino/san-pellegrino/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Rifugio Fuciade",

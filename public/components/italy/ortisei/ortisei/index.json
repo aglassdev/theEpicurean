@@ -1,14 +1,21 @@
 {
   "title": "Ortisei",
-  "country": "italy",
-  "region": "ortisei",
-  "city": "ortisei",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ortisei",
+  "city": "Ortisei",
+  "citySlug": "ortisei",
+  "path": "/italy/ortisei/ortisei/restaurants",
+  "canonicalPath": "/italy/ortisei/ortisei/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Anna Stuben",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/ortisei/ortisei/anna-stuben"
+      "path": "/italy/ortisei/ortisei/anna-stuben",
+      "award": "★"
     },
     {
       "name": "Tubladel",

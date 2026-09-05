@@ -1,20 +1,27 @@
 {
   "title": "Deggendorf",
-  "country": "germany",
-  "region": "deggendorf",
-  "city": "deggendorf",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "deggendorf",
+  "city": "Deggendorf",
+  "citySlug": "deggendorf",
+  "path": "/germany/deggendorf/deggendorf/restaurants",
+  "canonicalPath": "/germany/deggendorf/deggendorf/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "edl.eins",
       "cuisine": "Modern Cuisine, French",
       "price": "€€€€",
-      "path": "/germany/deggendorf/deggendorf/edleins"
+      "path": "/germany/deggendorf/deggendorf/edleins",
+      "award": "★"
     },
     {
       "name": "[KOOK] 36",
       "cuisine": "Asian, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/deggendorf/deggendorf/kook-36"
+      "path": "/germany/deggendorf/deggendorf/kook36"
     }
   ]
 }

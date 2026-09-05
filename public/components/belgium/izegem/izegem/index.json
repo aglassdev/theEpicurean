@@ -1,14 +1,21 @@
 {
   "title": "Izegem",
-  "country": "belgium",
-  "region": "izegem",
-  "city": "izegem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "izegem",
+  "city": "Izegem",
+  "citySlug": "izegem",
+  "path": "/belgium/izegem/izegem/restaurants",
+  "canonicalPath": "/belgium/izegem/izegem/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "La Durée",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/belgium/izegem/izegem/la-dure"
+      "path": "/belgium/izegem/izegem/la-dure",
+      "award": "★★"
     },
     {
       "name": "Nast",

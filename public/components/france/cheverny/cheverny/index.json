@@ -1,20 +1,27 @@
 {
   "title": "Cheverny",
-  "country": "france",
-  "region": "cheverny",
-  "city": "cheverny",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cheverny",
+  "city": "Cheverny",
+  "citySlug": "cheverny",
+  "path": "/france/cheverny/cheverny/restaurants",
+  "canonicalPath": "/france/cheverny/cheverny/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Favori - Les Sources de Cheverny",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/cheverny/cheverny/le-favori-les-sources-de-cheverny",
+      "award": "★"
+    },
     {
       "name": "L'Auberge - Les Sources de Cheverny",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/cheverny/cheverny/lauberge-les-sources-de-cheverny"
-    },
-    {
-      "name": "Le Favori - Les Sources de Cheverny",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/cheverny/cheverny/le-favori-les-sources-de-cheverny"
     }
   ]
 }

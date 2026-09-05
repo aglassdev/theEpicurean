@@ -1,11 +1,21 @@
 {
   "title": "Saarburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "saarburg",
+  "city": "Saarburg",
+  "citySlug": "saarburg",
+  "path": "/germany/saarburg/saarburg/restaurants",
+  "canonicalPath": "/germany/saarburg/saarburg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Dopamin",
       "cuisine": "Creative",
       "price": "$$$$",
-      "path": "/germany/saarburg/saarburg/Dopamin"
+      "path": "/germany/saarburg/saarburg/dopamin",
+      "award": "★"
     }
   ]
 }

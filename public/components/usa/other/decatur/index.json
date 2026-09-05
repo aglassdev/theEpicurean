@@ -1,0 +1,44 @@
+{
+  "title": "Decatur",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Georgia",
+  "regionSlug": "other",
+  "city": "Decatur",
+  "citySlug": "decatur",
+  "path": "/usa/other/decatur/restaurants",
+  "canonicalPath": "/usa/georgia/decatur/restaurants",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "Chai Pani",
+      "cuisine": "Indian, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/georgia/decatur/chai-pani"
+    },
+    {
+      "name": "Fawn",
+      "cuisine": "Seafood",
+      "price": "$$$$",
+      "path": "/usa/georgia/decatur/fawn"
+    },
+    {
+      "name": "Kimball House",
+      "cuisine": "Contemporary, Shellfish Specialities",
+      "price": "$$$$",
+      "path": "/usa/georgia/decatur/kimball-house"
+    },
+    {
+      "name": "The Deer and the Dove",
+      "cuisine": "Contemporary, Southern",
+      "price": "$$$$",
+      "path": "/usa/georgia/decatur/the-deer-and-the-dove"
+    },
+    {
+      "name": "The White Bull",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/georgia/decatur/the-white-bull"
+    }
+  ]
+}

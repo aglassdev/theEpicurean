@@ -1,6 +1,36 @@
 {
   "title": "Valence",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "valence",
+  "city": "Valence",
+  "citySlug": "valence",
+  "path": "/france/valence/valence/restaurants",
+  "canonicalPath": "/france/valence/valence/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Pic",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/valence/valence/pic",
+      "award": "★★★"
+    },
+    {
+      "name": "Épithèque",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/valence/valence/pithque",
+      "award": "★"
+    },
+    {
+      "name": "La Cachette",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/valence/valence/la-cachette",
+      "award": "★"
+    },
     {
       "name": "Almacita",
       "cuisine": "Latin American",
@@ -14,34 +44,16 @@
       "path": "/france/valence/valence/andr"
     },
     {
-      "name": "La Cachette",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/valence/valence/la-cachette"
+      "name": "Bistrot André",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$$",
+      "path": "/france/valence/valence/bistrot-andr"
     },
     {
       "name": "Le Bac à Traille",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/valence/valence/le-bac-traille"
-    },
-    {
-      "name": "Pic",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/valence/valence/pic"
-    },
-    {
-      "name": "Épithèque",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/valence/valence/pithque"
-    },
-    {
-      "name": "Bistrot André",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$$",
-      "path": "/france/valence/valence/BistrotAndr"
     }
   ]
 }

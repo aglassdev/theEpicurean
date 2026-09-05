@@ -1,14 +1,21 @@
 {
   "title": "Paderborn",
-  "country": "germany",
-  "region": "paderborn",
-  "city": "paderborn",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "paderborn",
+  "city": "Paderborn",
+  "citySlug": "paderborn",
+  "path": "/germany/paderborn/paderborn/restaurants",
+  "canonicalPath": "/germany/paderborn/paderborn/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Balthasar",
       "cuisine": "Modern French, Farm to table",
       "price": "€€€€",
-      "path": "/germany/paderborn/paderborn/balthasar"
+      "path": "/germany/paderborn/paderborn/balthasar",
+      "award": "★"
     }
   ]
 }

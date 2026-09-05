@@ -1,9 +1,22 @@
 {
-  "title": "Endingen Am Kaiserstuhl",
-  "country": "germany",
-  "region": "endingen-am-kaiserstuhl",
-  "city": "endingen-am-kaiserstuhl",
+  "title": "Endingen am Kaiserstuhl",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "endingen-am-kaiserstuhl",
+  "city": "Endingen am Kaiserstuhl",
+  "citySlug": "endingen-am-kaiserstuhl",
+  "path": "/germany/endingen-am-kaiserstuhl/endingen-am-kaiserstuhl/restaurants",
+  "canonicalPath": "/germany/endingen-am-kaiserstuhl/endingen-am-kaiserstuhl/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Merkles Restaurant",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/endingen-am-kaiserstuhl/endingen-am-kaiserstuhl/merkles-restaurant",
+      "award": "★"
+    },
     {
       "name": "Die Pfarrwirtschaft",
       "cuisine": "Country cooking, International",
@@ -15,12 +28,6 @@
       "cuisine": "Country cooking, Farm to table",
       "price": "€€",
       "path": "/germany/endingen-am-kaiserstuhl/endingen-am-kaiserstuhl/dutters-stube"
-    },
-    {
-      "name": "Merkles Restaurant",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€€",
-      "path": "/germany/endingen-am-kaiserstuhl/endingen-am-kaiserstuhl/merkles-restaurant"
     }
   ]
 }

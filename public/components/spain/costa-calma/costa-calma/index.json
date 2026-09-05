@@ -1,11 +1,20 @@
 {
   "title": "Costa Calma",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "costa-calma",
+  "city": "Costa Calma",
+  "citySlug": "costa-calma",
+  "path": "/spain/costa-calma/costa-calma/restaurants",
+  "canonicalPath": "/spain/costa-calma/costa-calma/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "El Pellizco by Rigoberto Almeida",
       "cuisine": "Creative",
       "price": "$$$",
-      "path": "/spain/costa-calma/costa-calma/ElPellizcoByRigobertoAlmeida"
+      "path": "/spain/costa-calma/costa-calma/el-pellizco-by-rigoberto-almeida"
     }
   ]
 }

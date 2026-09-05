@@ -1,20 +1,21 @@
 {
   "title": "Olgiate Olona",
-  "country": "italy",
-  "region": "olgiate-olona",
-  "city": "olgiate-olona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "olgiate-olona",
+  "city": "Olgiate Olona",
+  "citySlug": "olgiate-olona",
+  "path": "/italy/olgiate-olona/olgiate-olona/restaurants",
+  "canonicalPath": "/italy/olgiate-olona/olgiate-olona/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Acqua",
       "cuisine": "Seafood, Contemporary",
       "price": "€€€",
-      "path": "/italy/olgiate-olona/olgiate-olona/acqua"
-    },
-    {
-      "name": "Ma.Ri.Na.",
-      "cuisine": "Seafood",
-      "price": "€€€€",
-      "path": "/italy/olgiate-olona/olgiate-olona/marina"
+      "path": "/italy/olgiate-olona/olgiate-olona/acqua-o-l-g",
+      "award": "★"
     },
     {
       "name": "Ma.Ri.Na.",

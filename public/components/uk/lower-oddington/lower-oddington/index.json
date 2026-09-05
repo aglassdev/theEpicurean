@@ -1,14 +1,20 @@
 {
   "title": "Lower Oddington",
-  "country": "uk",
-  "region": "lower-oddington",
-  "city": "lower-oddington",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "lower-oddington",
+  "city": "Lower Oddington",
+  "citySlug": "lower-oddington",
+  "path": "/uk/lower-oddington/lower-oddington/restaurants",
+  "canonicalPath": "/uk/lower-oddington/lower-oddington/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Fox",
       "cuisine": "Modern British",
       "price": "££",
-      "path": "/uk/lower-oddington/lower-oddington/the-fox"
+      "path": "/uk/lower-oddington/lower-oddington/the-fox-l-o-w"
     }
   ]
 }

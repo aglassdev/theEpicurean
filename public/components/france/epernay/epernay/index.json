@@ -1,8 +1,14 @@
 {
   "title": "Epernay",
-  "country": "france",
-  "region": "epernay",
-  "city": "epernay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "epernay",
+  "city": "Epernay",
+  "citySlug": "epernay",
+  "path": "/france/epernay/epernay/restaurants",
+  "canonicalPath": "/france/epernay/epernay/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Cook'in",
@@ -20,7 +26,7 @@
       "name": "Symbiose",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/epernay/epernay/symbiose"
+      "path": "/france/epernay/epernay/symbiose-e-p-e"
     }
   ]
 }

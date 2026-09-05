@@ -1,23 +1,47 @@
 {
   "title": "Zwolle",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "zwolle",
+  "city": "Zwolle",
+  "citySlug": "zwolle",
+  "path": "/netherlands/zwolle/zwolle/restaurants",
+  "canonicalPath": "/netherlands/zwolle/zwolle/restaurants",
+  "count": 11,
   "restaurants": [
     {
-      "name": "Bar Senang",
-      "cuisine": "Asian Contemporary, Sharing",
-      "price": "€€",
-      "path": "/netherlands/zwolle/zwolle/bar-senang"
+      "name": "De Librije",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/netherlands/zwolle/zwolle/de-librije",
+      "award": "★★★"
     },
     {
       "name": "Brass Boer Thuis",
       "cuisine": "Regional Cuisine, Modern Cuisine",
       "price": "€€€",
-      "path": "/netherlands/zwolle/zwolle/brass-boer-thuis"
+      "path": "/netherlands/zwolle/zwolle/brass-boer-thuis",
+      "award": "★"
     },
     {
-      "name": "De Librije",
+      "name": "Restaurant Affect",
       "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/netherlands/zwolle/zwolle/de-librije"
+      "price": "€€€",
+      "path": "/netherlands/zwolle/zwolle/restaurant-affect",
+      "award": "★"
+    },
+    {
+      "name": "'t Pestengasthuys",
+      "cuisine": "Farm to table",
+      "price": "€€€",
+      "path": "/netherlands/zwolle/zwolle/t-pestengasthuys"
+    },
+    {
+      "name": "Bar Senang",
+      "cuisine": "Asian Contemporary, Sharing",
+      "price": "€€",
+      "path": "/netherlands/zwolle/zwolle/bar-senang"
     },
     {
       "name": "L'église",
@@ -32,10 +56,10 @@
       "path": "/netherlands/zwolle/zwolle/nos"
     },
     {
-      "name": "Restaurant Affect",
+      "name": "Restaurant L'église",
       "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/netherlands/zwolle/zwolle/restaurant-affect"
+      "price": "$$$",
+      "path": "/netherlands/zwolle/zwolle/restaurant-lglise"
     },
     {
       "name": "Salty Seafood Restaurant",
@@ -54,18 +78,6 @@
       "cuisine": "Farm to table",
       "price": "€€€",
       "path": "/netherlands/zwolle/zwolle/sukerieje"
-    },
-    {
-      "name": "'t Pestengasthuys",
-      "cuisine": "Farm to table",
-      "price": "€€€",
-      "path": "/netherlands/zwolle/zwolle/t-pestengasthuys"
-    },
-    {
-      "name": "Restaurant L'église",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/netherlands/zwolle/zwolle/RestaurantLglise"
     }
   ]
 }

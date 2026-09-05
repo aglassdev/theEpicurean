@@ -1,20 +1,28 @@
 {
   "title": "Cellettes",
-  "country": "france",
-  "region": "cellettes",
-  "city": "cellettes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cellettes",
+  "city": "Cellettes",
+  "citySlug": "cellettes",
+  "path": "/france/cellettes/cellettes/restaurants",
+  "canonicalPath": "/france/cellettes/cellettes/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Granica",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/cellettes/cellettes/granica"
+      "path": "/france/cellettes/cellettes/granica",
+      "award": "★"
     },
     {
       "name": "La Vieille Tour",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/cellettes/cellettes/la-vieille-tour"
+      "path": "/france/cellettes/cellettes/la-vieille-tour",
+      "award": "★"
     }
   ]
 }

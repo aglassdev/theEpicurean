@@ -1,9 +1,29 @@
 {
   "title": "Huesca",
-  "country": "spain",
-  "region": "huesca",
-  "city": "huesca",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "huesca",
+  "city": "Huesca",
+  "citySlug": "huesca",
+  "path": "/spain/huesca/huesca/restaurants",
+  "canonicalPath": "/spain/huesca/huesca/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Lillas Pastia",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€",
+      "path": "/spain/huesca/huesca/lillas-pastia",
+      "award": "★"
+    },
+    {
+      "name": "Tatau",
+      "cuisine": "Creative, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/huesca/huesca/tatau",
+      "award": "★"
+    },
     {
       "name": "El Origen",
       "cuisine": "Traditional Cuisine",
@@ -15,18 +35,6 @@
       "cuisine": "Contemporary, Traditional Cuisine",
       "price": "€€",
       "path": "/spain/huesca/huesca/las-torres"
-    },
-    {
-      "name": "Lillas Pastia",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€",
-      "path": "/spain/huesca/huesca/lillas-pastia"
-    },
-    {
-      "name": "Tatau",
-      "cuisine": "Creative, Traditional Cuisine",
-      "price": "€€€",
-      "path": "/spain/huesca/huesca/tatau"
     }
   ]
 }

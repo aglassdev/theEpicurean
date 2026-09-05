@@ -1,8 +1,14 @@
 {
   "title": "Chteaubriant",
-  "country": "france",
-  "region": "chteaubriant",
-  "city": "chteaubriant",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chteaubriant",
+  "city": "Chteaubriant",
+  "citySlug": "chteaubriant",
+  "path": "/france/chteaubriant/chteaubriant/restaurants",
+  "canonicalPath": "/france/chteaubriant/chteaubriant/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Citadelle",

@@ -1,8 +1,14 @@
 {
   "title": "Cruseilles",
-  "country": "france",
-  "region": "cruseilles",
-  "city": "cruseilles",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cruseilles",
+  "city": "Cruseilles",
+  "citySlug": "cruseilles",
+  "path": "/france/cruseilles/cruseilles/restaurants",
+  "canonicalPath": "/france/cruseilles/cruseilles/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Arborescence",

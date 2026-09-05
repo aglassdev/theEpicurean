@@ -1,14 +1,21 @@
 {
   "title": "Vreeland",
-  "country": "netherlands",
-  "region": "vreeland",
-  "city": "vreeland",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "vreeland",
+  "city": "Vreeland",
+  "citySlug": "vreeland",
+  "path": "/netherlands/vreeland/vreeland/restaurants",
+  "canonicalPath": "/netherlands/vreeland/vreeland/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "De Nederlanden",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/netherlands/vreeland/vreeland/de-nederlanden"
+      "path": "/netherlands/vreeland/vreeland/de-nederlanden",
+      "award": "★"
     }
   ]
 }

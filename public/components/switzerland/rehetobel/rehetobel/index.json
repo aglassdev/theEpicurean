@@ -1,20 +1,27 @@
 {
   "title": "Rehetobel",
-  "country": "switzerland",
-  "region": "rehetobel",
-  "city": "rehetobel",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "rehetobel",
+  "city": "Rehetobel",
+  "citySlug": "rehetobel",
+  "path": "/switzerland/rehetobel/rehetobel/restaurants",
+  "canonicalPath": "/switzerland/rehetobel/rehetobel/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Gasthaus Zum Gupf",
+      "cuisine": "Traditional Cuisine, Classic Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/rehetobel/rehetobel/gasthaus-zum-gupf",
+      "award": "★"
+    },
     {
       "name": "Dorfhus Gupf",
       "cuisine": "Grills, International",
       "price": "€€",
       "path": "/switzerland/rehetobel/rehetobel/dorfhus-gupf"
-    },
-    {
-      "name": "Gasthaus Zum Gupf",
-      "cuisine": "Traditional Cuisine, Classic Cuisine",
-      "price": "€€€",
-      "path": "/switzerland/rehetobel/rehetobel/gasthaus-zum-gupf"
     }
   ]
 }

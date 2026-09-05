@@ -1,14 +1,20 @@
 {
   "title": "Chardonne",
-  "country": "switzerland",
-  "region": "chardonne",
-  "city": "chardonne",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "chardonne",
+  "city": "Chardonne",
+  "citySlug": "chardonne",
+  "path": "/switzerland/chardonne/chardonne/restaurants",
+  "canonicalPath": "/switzerland/chardonne/chardonne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Là-Haut",
       "cuisine": "Farm to table",
       "price": "€€",
-      "path": "/switzerland/chardonne/chardonne/l-haut"
+      "path": "/switzerland/chardonne/chardonne/lhaut-c-h-a"
     }
   ]
 }

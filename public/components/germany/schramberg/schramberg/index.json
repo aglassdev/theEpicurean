@@ -1,8 +1,14 @@
 {
   "title": "Schramberg",
-  "country": "germany",
-  "region": "schramberg",
-  "city": "schramberg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "schramberg",
+  "city": "Schramberg",
+  "citySlug": "schramberg",
+  "path": "/germany/schramberg/schramberg/restaurants",
+  "canonicalPath": "/germany/schramberg/schramberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthof Hirsch",

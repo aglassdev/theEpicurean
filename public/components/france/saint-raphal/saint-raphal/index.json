@@ -1,20 +1,27 @@
 {
   "title": "Saint Raphal",
-  "country": "france",
-  "region": "saint-raphal",
-  "city": "saint-raphal",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-raphal",
+  "city": "Saint Raphal",
+  "citySlug": "saint-raphal",
+  "path": "/france/saint-raphal/saint-raphal/restaurants",
+  "canonicalPath": "/france/saint-raphal/saint-raphal/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Récif",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/saint-raphal/saint-raphal/rcif",
+      "award": "★"
+    },
     {
       "name": "Le Bougainvillier",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/saint-raphal/saint-raphal/le-bougainvillier"
-    },
-    {
-      "name": "Récif",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/saint-raphal/saint-raphal/rcif"
     }
   ]
 }

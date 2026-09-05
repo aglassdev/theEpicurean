@@ -1,8 +1,14 @@
 {
   "title": "Newbury",
-  "country": "uk",
-  "region": "newbury",
-  "city": "newbury",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "newbury",
+  "city": "Newbury",
+  "citySlug": "newbury",
+  "path": "/uk/newbury/newbury/restaurants",
+  "canonicalPath": "/uk/newbury/newbury/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Goat On The Roof",

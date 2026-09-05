@@ -1,20 +1,28 @@
 {
   "title": "Wernigerode",
-  "country": "germany",
-  "region": "wernigerode",
-  "city": "wernigerode",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "wernigerode",
+  "city": "Wernigerode",
+  "citySlug": "wernigerode",
+  "path": "/germany/wernigerode/wernigerode/restaurants",
+  "canonicalPath": "/germany/wernigerode/wernigerode/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Pietsch",
       "cuisine": "Creative, Asian Contemporary",
       "price": "€€€€",
-      "path": "/germany/wernigerode/wernigerode/pietsch"
+      "path": "/germany/wernigerode/wernigerode/pietsch",
+      "award": "★★"
     },
     {
       "name": "Zeitwerk",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/wernigerode/wernigerode/zeitwerk"
+      "path": "/germany/wernigerode/wernigerode/zeitwerk",
+      "award": "★"
     }
   ]
 }

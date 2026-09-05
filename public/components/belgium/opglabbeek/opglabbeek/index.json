@@ -1,20 +1,28 @@
 {
   "title": "Opglabbeek",
-  "country": "belgium",
-  "region": "opglabbeek",
-  "city": "opglabbeek",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "opglabbeek",
+  "city": "Opglabbeek",
+  "citySlug": "opglabbeek",
+  "path": "/belgium/opglabbeek/opglabbeek/restaurants",
+  "canonicalPath": "/belgium/opglabbeek/opglabbeek/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Modest",
-      "cuisine": "Creative French, Modern French",
-      "price": "€€€",
-      "path": "/belgium/opglabbeek/opglabbeek/modest"
-    },
     {
       "name": "Slagmolen",
       "cuisine": "Traditional Cuisine, French",
       "price": "€€€€",
-      "path": "/belgium/opglabbeek/opglabbeek/slagmolen"
+      "path": "/belgium/opglabbeek/opglabbeek/slagmolen",
+      "award": "★★"
+    },
+    {
+      "name": "Modest",
+      "cuisine": "Creative French, Modern French",
+      "price": "€€€",
+      "path": "/belgium/opglabbeek/opglabbeek/modest",
+      "award": "★"
     }
   ]
 }

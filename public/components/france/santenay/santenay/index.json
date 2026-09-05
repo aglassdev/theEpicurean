@@ -1,8 +1,14 @@
 {
   "title": "Santenay",
-  "country": "france",
-  "region": "santenay",
-  "city": "santenay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "santenay",
+  "city": "Santenay",
+  "citySlug": "santenay",
+  "path": "/france/santenay/santenay/restaurants",
+  "canonicalPath": "/france/santenay/santenay/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Ouillette",

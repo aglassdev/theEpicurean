@@ -1,14 +1,20 @@
 {
   "title": "Stiring Wendel",
-  "country": "france",
-  "region": "stiring-wendel",
-  "city": "stiring-wendel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "stiring-wendel",
+  "city": "Stiring Wendel",
+  "citySlug": "stiring-wendel",
+  "path": "/france/stiring-wendel/stiring-wendel/restaurants",
+  "canonicalPath": "/france/stiring-wendel/stiring-wendel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Bonne Auberge",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/stiring-wendel/stiring-wendel/la-bonne-auberge"
+      "path": "/france/stiring-wendel/stiring-wendel/la-bonne-auberge-s-t-i"
     }
   ]
 }

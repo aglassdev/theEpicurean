@@ -1,20 +1,27 @@
 {
   "title": "Sasso Marconi",
-  "country": "italy",
-  "region": "sasso-marconi",
-  "city": "sasso-marconi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "sasso-marconi",
+  "city": "Sasso Marconi",
+  "citySlug": "sasso-marconi",
+  "path": "/italy/sasso-marconi/sasso-marconi/restaurants",
+  "canonicalPath": "/italy/sasso-marconi/sasso-marconi/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Antica Trattoria la Grotta dal 1918",
-      "cuisine": "Emilian, Country cooking",
-      "price": "€",
-      "path": "/italy/sasso-marconi/sasso-marconi/antica-trattoria-la-grotta-dal-1918"
-    },
     {
       "name": "Casa Mazzucchelli",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/sasso-marconi/sasso-marconi/casa-mazzucchelli"
+      "path": "/italy/sasso-marconi/sasso-marconi/casa-mazzucchelli",
+      "award": "★"
+    },
+    {
+      "name": "Antica Trattoria la Grotta dal 1918",
+      "cuisine": "Emilian, Country cooking",
+      "price": "€",
+      "path": "/italy/sasso-marconi/sasso-marconi/antica-trattoria-la-grotta-dal1918"
     },
     {
       "name": "Nuova Roma",

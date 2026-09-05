@@ -1,11 +1,21 @@
 {
-  "title": "Đakovo",
+  "title": "Akovo",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "akovo",
+  "city": "Akovo",
+  "citySlug": "akovo",
+  "path": "/croatia/akovo/akovo/restaurants",
+  "canonicalPath": "/croatia/akovo/akovo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bistro Loora",
       "cuisine": "Croatian",
       "price": "$",
-      "path": "/croatia/akovo/akovo/BistroLoora"
+      "path": "/croatia/akovo/akovo/bistro-loora",
+      "award": "Bib Gourmand"
     }
   ]
 }

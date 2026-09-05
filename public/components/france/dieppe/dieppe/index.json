@@ -1,20 +1,27 @@
 {
   "title": "Dieppe",
-  "country": "france",
-  "region": "dieppe",
-  "city": "dieppe",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "dieppe",
+  "city": "Dieppe",
+  "citySlug": "dieppe",
+  "path": "/france/dieppe/dieppe/restaurants",
+  "canonicalPath": "/france/dieppe/dieppe/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Les Voiles d'Or",
+      "cuisine": "Modern Cuisine, Seafood",
+      "price": "€€€",
+      "path": "/france/dieppe/dieppe/les-voiles-dor",
+      "award": "★"
+    },
     {
       "name": "Bistrot du Pollet",
       "cuisine": "Seafood, Traditional Cuisine",
       "price": "€€",
       "path": "/france/dieppe/dieppe/bistrot-du-pollet"
-    },
-    {
-      "name": "Les Voiles d'Or",
-      "cuisine": "Modern Cuisine, Seafood",
-      "price": "€€€",
-      "path": "/france/dieppe/dieppe/les-voiles-dor"
     }
   ]
 }

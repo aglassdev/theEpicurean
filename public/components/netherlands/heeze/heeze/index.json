@@ -1,14 +1,21 @@
 {
   "title": "Heeze",
-  "country": "netherlands",
-  "region": "heeze",
-  "city": "heeze",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "heeze",
+  "city": "Heeze",
+  "citySlug": "heeze",
+  "path": "/netherlands/heeze/heeze/restaurants",
+  "canonicalPath": "/netherlands/heeze/heeze/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Tribeca",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/netherlands/heeze/heeze/tribeca"
+      "path": "/netherlands/heeze/heeze/tribeca",
+      "award": "★★"
     }
   ]
 }

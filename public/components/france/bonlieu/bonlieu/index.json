@@ -1,8 +1,14 @@
 {
   "title": "Bonlieu",
-  "country": "france",
-  "region": "bonlieu",
-  "city": "bonlieu",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bonlieu",
+  "city": "Bonlieu",
+  "citySlug": "bonlieu",
+  "path": "/france/bonlieu/bonlieu/restaurants",
+  "canonicalPath": "/france/bonlieu/bonlieu/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de la Poutre",

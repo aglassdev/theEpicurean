@@ -1,14 +1,85 @@
 {
   "title": "Girona",
-  "country": "spain",
-  "region": "catalonia",
-  "city": "girona",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": "Catalonia",
+  "regionSlug": "catalonia",
+  "city": "Girona",
+  "citySlug": "girona",
+  "path": "/spain/catalonia/girona/restaurants",
+  "canonicalPath": "/spain/girona/girona/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "El Celler de Can Roca",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/girona/girona/el-celler-de-can-roca",
+      "award": "★★★"
+    },
     {
       "name": "Geranium",
       "cuisine": "Contemporary Nordic",
       "price": "€€€€ · Prix Fixe",
-      "path": "/spain/catalonia/girona/geranium"
+      "path": "/spain/catalonia/girona/el-cellerde-can-roca",
+      "award": "★★★",
+      "image": "/images/geranium1.png"
+    },
+    {
+      "name": "Divinum",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/girona/girona/divinum",
+      "award": "★"
+    },
+    {
+      "name": "Massana",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/girona/girona/massana",
+      "award": "★"
+    },
+    {
+      "name": "Cipresaia",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/girona/girona/cipresaia"
+    },
+    {
+      "name": "Dit i Fet",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/spain/girona/girona/dit-i-fet"
+    },
+    {
+      "name": "Nexe",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/girona/girona/nexe"
+    },
+    {
+      "name": "Normal",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/spain/girona/girona/normal"
+    },
+    {
+      "name": "Pocavergonya",
+      "cuisine": "Fusion, Farm to table",
+      "price": "€€",
+      "path": "/spain/girona/girona/pocavergonya"
+    },
+    {
+      "name": "Pocavergonya Bistró",
+      "cuisine": "Farm to table, Catalan",
+      "price": "€€",
+      "path": "/spain/girona/girona/pocavergonya-bistr"
+    },
+    {
+      "name": "SiNoFos",
+      "cuisine": "Contemporary, Modern Cuisine",
+      "price": "€€€",
+      "path": "/spain/girona/girona/sinofos"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "title": "Val Thorens",
-  "country": "france",
-  "region": "val-thorens",
-  "city": "val-thorens",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "val-thorens",
+  "city": "Val Thorens",
+  "citySlug": "val-thorens",
+  "path": "/france/val-thorens/val-thorens/restaurants",
+  "canonicalPath": "/france/val-thorens/val-thorens/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Les Explorateurs - Hôtel Pashmina",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/val-thorens/val-thorens/les-explorateurs-htel-pashmina",
+      "award": "★"
+    },
     {
       "name": "Le Diamant Noir",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/val-thorens/val-thorens/le-diamant-noir"
-    },
-    {
-      "name": "Les Explorateurs - Hôtel Pashmina",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/val-thorens/val-thorens/les-explorateurs-htel-pashmina"
     }
   ]
 }

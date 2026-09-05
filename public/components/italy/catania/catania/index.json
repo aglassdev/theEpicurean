@@ -1,26 +1,40 @@
 {
   "title": "Catania",
-  "country": "italy",
-  "region": "catania",
-  "city": "catania",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "catania",
+  "city": "Catania",
+  "citySlug": "catania",
+  "path": "/italy/catania/catania/restaurants",
+  "canonicalPath": "/italy/catania/catania/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Coria",
+      "cuisine": "Italian Contemporary, Sicilian",
+      "price": "€€€",
+      "path": "/italy/catania/catania/coria",
+      "award": "★"
+    },
+    {
+      "name": "Sapio",
+      "cuisine": "Sicilian, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/catania/catania/sapio",
+      "award": "★"
+    },
     {
       "name": "Angiò-Macelleria di Mare",
       "cuisine": "Seafood",
       "price": "€€€",
-      "path": "/italy/catania/catania/angi-macelleria-di-mare"
+      "path": "/italy/catania/catania/angimacelleria-di-mare"
     },
     {
       "name": "Concezione Restaurant",
       "cuisine": "Creative, Sicilian",
       "price": "€€€",
       "path": "/italy/catania/catania/concezione-restaurant"
-    },
-    {
-      "name": "Coria",
-      "cuisine": "Italian Contemporary, Sicilian",
-      "price": "€€€",
-      "path": "/italy/catania/catania/coria"
     },
     {
       "name": "Materia | Spazio Cucina",
@@ -39,12 +53,6 @@
       "cuisine": "Sicilian, Contemporary",
       "price": "€€",
       "path": "/italy/catania/catania/mnage"
-    },
-    {
-      "name": "Sapio",
-      "cuisine": "Sicilian, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/catania/catania/sapio"
     }
   ]
 }

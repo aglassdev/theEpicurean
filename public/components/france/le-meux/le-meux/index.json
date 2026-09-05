@@ -1,8 +1,14 @@
 {
   "title": "Le Meux",
-  "country": "france",
-  "region": "le-meux",
-  "city": "le-meux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-meux",
+  "city": "Le Meux",
+  "citySlug": "le-meux",
+  "path": "/france/le-meux/le-meux/restaurants",
+  "canonicalPath": "/france/le-meux/le-meux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de la Vieille Ferme",

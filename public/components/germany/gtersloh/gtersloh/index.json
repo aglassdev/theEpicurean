@@ -1,11 +1,20 @@
 {
-  "title": "Gütersloh",
+  "title": "Gtersloh",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "gtersloh",
+  "city": "Gtersloh",
+  "citySlug": "gtersloh",
+  "path": "/germany/gtersloh/gtersloh/restaurants",
+  "canonicalPath": "/germany/gtersloh/gtersloh/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bellini",
       "cuisine": "Contemporary",
       "price": "$$$$",
-      "path": "/germany/gtersloh/gtersloh/Bellini"
+      "path": "/germany/gtersloh/gtersloh/bellini"
     }
   ]
 }

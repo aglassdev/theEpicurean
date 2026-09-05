@@ -1,5 +1,14 @@
 {
   "title": "Krefeld",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "krefeld",
+  "city": "Krefeld",
+  "citySlug": "krefeld",
+  "path": "/germany/krefeld/krefeld/restaurants",
+  "canonicalPath": "/germany/krefeld/krefeld/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "KRasserie im verve⁵",
@@ -11,7 +20,7 @@
       "name": "Verve",
       "cuisine": "International",
       "price": "$$$",
-      "path": "/germany/krefeld/krefeld/Verve"
+      "path": "/germany/krefeld/krefeld/verve"
     }
   ]
 }

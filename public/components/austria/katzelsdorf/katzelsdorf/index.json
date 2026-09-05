@@ -1,11 +1,20 @@
 {
   "title": "Katzelsdorf",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "katzelsdorf",
+  "city": "Katzelsdorf",
+  "citySlug": "katzelsdorf",
+  "path": "/austria/katzelsdorf/katzelsdorf/restaurants",
+  "canonicalPath": "/austria/katzelsdorf/katzelsdorf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "GÖRG",
       "cuisine": "Seasonal Cuisine",
       "price": "$$",
-      "path": "/austria/katzelsdorf/katzelsdorf/Grg"
+      "path": "/austria/katzelsdorf/katzelsdorf/grg"
     }
   ]
 }

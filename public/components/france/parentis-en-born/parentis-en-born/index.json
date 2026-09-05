@@ -1,14 +1,20 @@
 {
   "title": "Parentis En Born",
-  "country": "france",
-  "region": "parentis-en-born",
-  "city": "parentis-en-born",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "parentis-en-born",
+  "city": "Parentis En Born",
+  "citySlug": "parentis-en-born",
+  "path": "/france/parentis-en-born/parentis-en-born/restaurants",
+  "canonicalPath": "/france/parentis-en-born/parentis-en-born/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chez Flo",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/parentis-en-born/parentis-en-born/chez-flo"
+      "path": "/france/parentis-en-born/parentis-en-born/chez-flo-p-a-r"
     }
   ]
 }

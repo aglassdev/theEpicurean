@@ -1,14 +1,21 @@
 {
   "title": "Valdemorillo",
-  "country": "spain",
-  "region": "valdemorillo",
-  "city": "valdemorillo",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "valdemorillo",
+  "city": "Valdemorillo",
+  "citySlug": "valdemorillo",
+  "path": "/spain/valdemorillo/valdemorillo/restaurants",
+  "canonicalPath": "/spain/valdemorillo/valdemorillo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Casa de Manolo Franco",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/spain/valdemorillo/valdemorillo/la-casa-de-manolo-franco"
+      "path": "/spain/valdemorillo/valdemorillo/la-casa-de-manolo-franco",
+      "award": "★"
     }
   ]
 }

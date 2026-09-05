@@ -1,14 +1,20 @@
 {
-  "title": "Saint Laurent Sur Sane",
-  "country": "france",
-  "region": "saint-laurent-sur-sane",
-  "city": "saint-laurent-sur-sane",
+  "title": "Saint Laurent sur Sane",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-laurent-sur-sane",
+  "city": "Saint Laurent sur Sane",
+  "citySlug": "saint-laurent-sur-sane",
+  "path": "/france/saint-laurent-sur-sane/saint-laurent-sur-sane/restaurants",
+  "canonicalPath": "/france/saint-laurent-sur-sane/saint-laurent-sur-sane/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Saint-Laurent",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/saint-laurent-sur-sane/saint-laurent-sur-sane/le-saint-laurent"
+      "path": "/france/saint-laurent-sur-sane/saint-laurent-sur-sane/le-saintlaurent"
     }
   ]
 }

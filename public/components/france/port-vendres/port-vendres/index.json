@@ -1,8 +1,14 @@
 {
   "title": "Port Vendres",
-  "country": "france",
-  "region": "port-vendres",
-  "city": "port-vendres",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "port-vendres",
+  "city": "Port Vendres",
+  "citySlug": "port-vendres",
+  "path": "/france/port-vendres/port-vendres/restaurants",
+  "canonicalPath": "/france/port-vendres/port-vendres/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "La Côte Vermeille",

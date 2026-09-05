@@ -1,6 +1,36 @@
 {
-  "title": "City Of Bristol",
+  "title": "City of Bristol",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "city-of-bristol",
+  "city": "City of Bristol",
+  "citySlug": "city-of-bristol",
+  "path": "/uk/city-of-bristol/city-of-bristol/restaurants",
+  "canonicalPath": "/uk/city-of-bristol/city-of-bristol/restaurants",
+  "count": 20,
   "restaurants": [
+    {
+      "name": "Bulrush",
+      "cuisine": "Modern British",
+      "price": "££££",
+      "path": "/uk/city-of-bristol/city-of-bristol/bulrush",
+      "award": "★"
+    },
+    {
+      "name": "Wilsons",
+      "cuisine": "Modern British",
+      "price": "£££",
+      "path": "/uk/city-of-bristol/city-of-bristol/wilsons",
+      "award": "★"
+    },
+    {
+      "name": "RAGÙ Restaurant",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/uk/city-of-bristol/city-of-bristol/rag-restaurant",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "1 York Place",
       "cuisine": "European",
@@ -17,19 +47,13 @@
       "name": "BOX-E",
       "cuisine": "Modern British",
       "price": "££",
-      "path": "/uk/city-of-bristol/city-of-bristol/box-e"
+      "path": "/uk/city-of-bristol/city-of-bristol/boxe"
     },
     {
-      "name": "Bulrush",
-      "cuisine": "Modern British",
-      "price": "££££",
-      "path": "/uk/city-of-bristol/city-of-bristol/bulrush"
-    },
-    {
-      "name": "Chef's Table",
-      "cuisine": "Modern British",
-      "price": "£££",
-      "path": "/uk/city-of-bristol/city-of-bristol/chefs-table"
+      "name": "Bristol Lido",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/uk/city-of-bristol/city-of-bristol/bristol-lido"
     },
     {
       "name": "Chef's Table",
@@ -74,10 +98,10 @@
       "path": "/uk/city-of-bristol/city-of-bristol/marmo"
     },
     {
-      "name": "Marmo",
-      "cuisine": "Italian",
-      "price": "££",
-      "path": "/uk/city-of-bristol/city-of-bristol/marmo"
+      "name": "One Fish Street",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/uk/city-of-bristol/city-of-bristol/one-fish-street"
     },
     {
       "name": "OTHER",
@@ -108,30 +132,6 @@
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/city-of-bristol/city-of-bristol/the-clifton"
-    },
-    {
-      "name": "Wilsons",
-      "cuisine": "Modern British",
-      "price": "£££",
-      "path": "/uk/city-of-bristol/city-of-bristol/wilsons"
-    },
-    {
-      "name": "RAGÙ Restaurant",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/uk/city-of-bristol/city-of-bristol/RagRestaurant"
-    },
-    {
-      "name": "Bristol Lido",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$$",
-      "path": "/uk/city-of-bristol/city-of-bristol/BristolLido"
-    },
-    {
-      "name": "One Fish Street",
-      "cuisine": "Seafood",
-      "price": "$$",
-      "path": "/uk/city-of-bristol/city-of-bristol/OneFishStreet"
     }
   ]
 }

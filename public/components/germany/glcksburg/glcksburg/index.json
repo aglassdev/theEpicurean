@@ -1,20 +1,27 @@
 {
   "title": "Glcksburg",
-  "country": "germany",
-  "region": "glcksburg",
-  "city": "glcksburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "glcksburg",
+  "city": "Glcksburg",
+  "citySlug": "glcksburg",
+  "path": "/germany/glcksburg/glcksburg/restaurants",
+  "canonicalPath": "/germany/glcksburg/glcksburg/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Meierei Dirk Luther",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/glcksburg/glcksburg/meierei-dirk-luther",
+      "award": "★★"
+    },
     {
       "name": "Brasserie",
       "cuisine": "International",
       "price": "€€",
       "path": "/germany/glcksburg/glcksburg/brasserie"
-    },
-    {
-      "name": "Meierei Dirk Luther",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/germany/glcksburg/glcksburg/meierei-dirk-luther"
     }
   ]
 }

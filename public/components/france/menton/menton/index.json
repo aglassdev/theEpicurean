@@ -1,9 +1,30 @@
 {
   "title": "Menton",
-  "country": "france",
-  "region": "menton",
-  "city": "menton",
+  "country": "France",
+  "countrySlug": "france",
+  "region": "Provence Alpes Cote Dazur",
+  "regionSlug": "menton",
+  "city": "Menton",
+  "citySlug": "menton",
+  "path": "/france/menton/menton/restaurants",
+  "canonicalPath": "/france/menton/menton/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Geranium",
+      "cuisine": "Contemporary Nordic",
+      "price": "€€€€ · Prix Fixe",
+      "path": "/france/provence-alpes-cote-dazur/menton/le-mirazur",
+      "award": "★★★",
+      "image": "/images/geranium1.png"
+    },
+    {
+      "name": "Mirazur",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/menton/menton/mirazur",
+      "award": "★★★"
+    },
     {
       "name": "Casa Fuego",
       "cuisine": "Grills, Argentinian",
@@ -20,13 +41,7 @@
       "name": "L'Orangerie",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/menton/menton/lorangerie"
-    },
-    {
-      "name": "Mirazur",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/menton/menton/mirazur"
+      "path": "/france/menton/menton/lorangerie-m-e-n"
     }
   ]
 }

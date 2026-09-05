@@ -1,11 +1,82 @@
 {
   "title": "Boulder",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Colorado",
+  "regionSlug": "colorado",
+  "city": "Boulder",
+  "citySlug": "boulder",
+  "path": "/usa/colorado/boulder/restaurants",
+  "canonicalPath": "/usa/colorado/boulder/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Frasca Food and Wine",
+      "cuisine": "Italian, Regional Cuisine",
+      "price": "$$$$",
+      "path": "/usa/colorado/boulder/frasca-food-and-wine",
+      "award": "★"
+    },
     {
       "name": "Blackbelly Market & Restaurant",
       "cuisine": "American",
       "price": "$$$",
-      "path": "/usa/colorado/boulder/BlackbellyMarketRestaurant"
+      "path": "/usa/colorado/boulder/blackbelly-market-restaurant",
+      "award": "Green Star"
+    },
+    {
+      "name": "Basta",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/usa/colorado/boulder/basta"
+    },
+    {
+      "name": "Blackbelly Market",
+      "cuisine": "American, Steakhouse",
+      "price": "$$$",
+      "path": "/usa/colorado/boulder/blackbelly-market"
+    },
+    {
+      "name": "Boulder Dushanbe Tea House",
+      "cuisine": "Eastern European",
+      "price": "$$$",
+      "path": "/usa/colorado/boulder/boulder-dushanbe-tea-house"
+    },
+    {
+      "name": "Bramble & Hare",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/colorado/boulder/bramble-hare"
+    },
+    {
+      "name": "Cozobi Fonda Fina",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$",
+      "path": "/usa/colorado/boulder/cozobi-fonda-fina"
+    },
+    {
+      "name": "Oak at Fourteenth",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/colorado/boulder/oak-at-fourteenth"
+    },
+    {
+      "name": "Santo",
+      "cuisine": "American, Mexican",
+      "price": "$$",
+      "path": "/usa/colorado/boulder/santo"
+    },
+    {
+      "name": "Stella's Cucina",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/colorado/boulder/stellas-cucina"
+    },
+    {
+      "name": "Zoe Ma Ma",
+      "cuisine": "Chinese",
+      "price": "$",
+      "path": "/usa/colorado/boulder/zoe-ma-ma"
     }
   ]
 }

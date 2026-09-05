@@ -1,20 +1,27 @@
 {
   "title": "Montluon",
-  "country": "france",
-  "region": "montluon",
-  "city": "montluon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montluon",
+  "city": "Montluon",
+  "citySlug": "montluon",
+  "path": "/france/montluon/montluon/restaurants",
+  "canonicalPath": "/france/montluon/montluon/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Bistrot Saint-Jean",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/montluon/montluon/bistrot-saint-jean"
-    },
     {
       "name": "La Chapelle - Château Saint-Jean",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/montluon/montluon/la-chapelle-chteau-saint-jean"
+      "path": "/france/montluon/montluon/la-chapelle-chteau-saintjean",
+      "award": "★"
+    },
+    {
+      "name": "Bistrot Saint-Jean",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/montluon/montluon/bistrot-saintjean"
     }
   ]
 }

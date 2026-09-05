@@ -1,14 +1,21 @@
 {
   "title": "Soldeu",
-  "country": "andorra",
-  "region": "soldeu",
-  "city": "soldeu",
+  "country": "Andorra",
+  "countrySlug": "andorra",
+  "region": null,
+  "regionSlug": "soldeu",
+  "city": "Soldeu",
+  "citySlug": "soldeu",
+  "path": "/andorra/soldeu/soldeu/restaurants",
+  "canonicalPath": "/andorra/soldeu/soldeu/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Ibaya",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/andorra/soldeu/soldeu/ibaya"
+      "path": "/andorra/soldeu/soldeu/ibaya",
+      "award": "★"
     },
     {
       "name": "Koy Hermitage",

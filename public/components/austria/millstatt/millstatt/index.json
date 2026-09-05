@@ -1,14 +1,20 @@
 {
   "title": "Millstatt",
-  "country": "austria",
-  "region": "millstatt",
-  "city": "millstatt",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "millstatt",
+  "city": "Millstatt",
+  "citySlug": "millstatt",
+  "path": "/austria/millstatt/millstatt/restaurants",
+  "canonicalPath": "/austria/millstatt/millstatt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Seerestaurant 1884",
       "cuisine": "Seasonal Cuisine",
       "price": "€€",
-      "path": "/austria/millstatt/millstatt/seerestaurant-1884"
+      "path": "/austria/millstatt/millstatt/seerestaurant1884"
     }
   ]
 }

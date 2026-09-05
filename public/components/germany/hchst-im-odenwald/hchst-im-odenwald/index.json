@@ -1,8 +1,14 @@
 {
-  "title": "Hchst Im Odenwald",
-  "country": "germany",
-  "region": "hchst-im-odenwald",
-  "city": "hchst-im-odenwald",
+  "title": "Hchst im Odenwald",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hchst-im-odenwald",
+  "city": "Hchst im Odenwald",
+  "citySlug": "hchst-im-odenwald",
+  "path": "/germany/hchst-im-odenwald/hchst-im-odenwald/restaurants",
+  "canonicalPath": "/germany/hchst-im-odenwald/hchst-im-odenwald/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gaststube",
@@ -14,7 +20,7 @@
       "name": "Krone",
       "cuisine": "Classic Cuisine, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/germany/hchst-im-odenwald/hchst-im-odenwald/krone"
+      "path": "/germany/hchst-im-odenwald/hchst-im-odenwald/krone-h-c-h"
     }
   ]
 }

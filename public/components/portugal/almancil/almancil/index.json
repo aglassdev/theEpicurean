@@ -1,6 +1,22 @@
 {
   "title": "Almancil",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "almancil",
+  "city": "Almancil",
+  "citySlug": "almancil",
+  "path": "/portugal/almancil/almancil/restaurants",
+  "canonicalPath": "/portugal/almancil/almancil/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Gusto by Heinz Beck",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/portugal/almancil/almancil/gusto-by-heinz-beck",
+      "award": "★"
+    },
     {
       "name": "2 Passos",
       "cuisine": "Seafood",
@@ -8,28 +24,22 @@
       "path": "/portugal/almancil/almancil/2-passos"
     },
     {
-      "name": "Gusto by Heinz Beck",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/portugal/almancil/almancil/gusto-by-heinz-beck"
+      "name": "austa",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/portugal/almancil/almancil/austa"
+    },
+    {
+      "name": "Authentic",
+      "cuisine": "International",
+      "price": "$$$",
+      "path": "/portugal/almancil/almancil/authentic"
     },
     {
       "name": "Pequeno Mundo",
       "cuisine": "International",
       "price": "€€",
       "path": "/portugal/almancil/almancil/pequeno-mundo"
-    },
-    {
-      "name": "Authentic",
-      "cuisine": "International",
-      "price": "$$$",
-      "path": "/portugal/almancil/almancil/Authentic"
-    },
-    {
-      "name": "austa",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/portugal/almancil/almancil/Austa"
     }
   ]
 }

@@ -1,20 +1,26 @@
 {
   "title": "Plouguerneau",
-  "country": "france",
-  "region": "plouguerneau",
-  "city": "plouguerneau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "plouguerneau",
+  "city": "Plouguerneau",
+  "citySlug": "plouguerneau",
+  "path": "/france/plouguerneau/plouguerneau/restaurants",
+  "canonicalPath": "/france/plouguerneau/plouguerneau/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "À la Maison",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/plouguerneau/plouguerneau/la-maison-p-l-o"
+    },
     {
       "name": "Castel Ac'h",
       "cuisine": "Modern Cuisine, Seafood",
       "price": "€€",
       "path": "/france/plouguerneau/plouguerneau/castel-ach"
-    },
-    {
-      "name": "À la Maison",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/plouguerneau/plouguerneau/la-maison"
     }
   ]
 }

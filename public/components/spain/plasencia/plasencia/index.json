@@ -1,14 +1,20 @@
 {
   "title": "Plasencia",
-  "country": "spain",
-  "region": "plasencia",
-  "city": "plasencia",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "plasencia",
+  "city": "Plasencia",
+  "citySlug": "plasencia",
+  "path": "/spain/plasencia/plasencia/restaurants",
+  "canonicalPath": "/spain/plasencia/plasencia/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Parada de la Reina-Martina Bistró",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/spain/plasencia/plasencia/parada-de-la-reina-martina-bistr"
+      "path": "/spain/plasencia/plasencia/parada-de-la-reinamartina-bistr"
     }
   ]
 }

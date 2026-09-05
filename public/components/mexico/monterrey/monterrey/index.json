@@ -1,6 +1,28 @@
 {
   "title": "Monterrey",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "monterrey",
+  "city": "Monterrey",
+  "citySlug": "monterrey",
+  "path": "/mexico/monterrey/monterrey/restaurants",
+  "canonicalPath": "/mexico/monterrey/monterrey/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "KOLI Cocina de Origen",
+      "cuisine": "Mexican, Creative",
+      "price": "$$$$",
+      "path": "/mexico/monterrey/monterrey/koli-cocina-de-origen",
+      "award": "★"
+    },
+    {
+      "name": "Casa El Hidalgo",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/mexico/monterrey/monterrey/casa-el-hidalgo"
+    },
     {
       "name": "Fonda San Francisco",
       "cuisine": "Mexican",
@@ -12,12 +34,6 @@
       "cuisine": "Mexican",
       "price": "$$",
       "path": "/mexico/monterrey/monterrey/jabalina"
-    },
-    {
-      "name": "KOLI Cocina de Origen",
-      "cuisine": "Mexican, Creative",
-      "price": "$$$$",
-      "path": "/mexico/monterrey/monterrey/koli-cocina-de-origen"
     },
     {
       "name": "Tacos Doña Mary La Gritona",
@@ -35,13 +51,7 @@
       "name": "Tacos Piedra 1",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/mexico/monterrey/monterrey/tacos-piedra-1"
-    },
-    {
-      "name": "Casa El Hidalgo",
-      "cuisine": "Mexican",
-      "price": "$$",
-      "path": "/mexico/monterrey/monterrey/CasaElHidalgo"
+      "path": "/mexico/monterrey/monterrey/tacos-piedra1"
     }
   ]
 }

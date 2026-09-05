@@ -1,14 +1,21 @@
 {
   "title": "Vila Do Conde",
-  "country": "portugal",
-  "region": "vila-do-conde",
-  "city": "vila-do-conde",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "vila-do-conde",
+  "city": "Vila Do Conde",
+  "citySlug": "vila-do-conde",
+  "path": "/portugal/vila-do-conde/vila-do-conde/restaurants",
+  "canonicalPath": "/portugal/vila-do-conde/vila-do-conde/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Oculto",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€€€",
-      "path": "/portugal/vila-do-conde/vila-do-conde/oculto"
+      "path": "/portugal/vila-do-conde/vila-do-conde/oculto",
+      "award": "★"
     },
     {
       "name": "Rio by Paulo André",

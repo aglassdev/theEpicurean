@@ -1,8 +1,14 @@
 {
   "title": "Montrouge",
-  "country": "france",
-  "region": "montrouge",
-  "city": "montrouge",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montrouge",
+  "city": "Montrouge",
+  "citySlug": "montrouge",
+  "path": "/france/montrouge/montrouge/restaurants",
+  "canonicalPath": "/france/montrouge/montrouge/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Farouche",

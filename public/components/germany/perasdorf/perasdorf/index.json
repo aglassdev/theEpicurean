@@ -1,14 +1,21 @@
 {
   "title": "Perasdorf",
-  "country": "germany",
-  "region": "perasdorf",
-  "city": "perasdorf",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "perasdorf",
+  "city": "Perasdorf",
+  "citySlug": "perasdorf",
+  "path": "/germany/perasdorf/perasdorf/restaurants",
+  "canonicalPath": "/germany/perasdorf/perasdorf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthaus Jakob",
       "cuisine": "Classic Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/perasdorf/perasdorf/gasthaus-jakob"
+      "path": "/germany/perasdorf/perasdorf/gasthaus-jakob",
+      "award": "★"
     }
   ]
 }

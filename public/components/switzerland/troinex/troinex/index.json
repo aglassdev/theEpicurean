@@ -1,14 +1,21 @@
 {
   "title": "Troinex",
-  "country": "switzerland",
-  "region": "troinex",
-  "city": "troinex",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "troinex",
+  "city": "Troinex",
+  "citySlug": "troinex",
+  "path": "/switzerland/troinex/troinex/restaurants",
+  "canonicalPath": "/switzerland/troinex/troinex/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Chaumière by Serge Labrosse",
       "cuisine": "Modern French, Farm to table",
       "price": "€€€",
-      "path": "/switzerland/troinex/troinex/la-chaumire-by-serge-labrosse"
+      "path": "/switzerland/troinex/troinex/la-chaumire-by-serge-labrosse",
+      "award": "★"
     }
   ]
 }

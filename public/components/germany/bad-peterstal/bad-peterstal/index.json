@@ -1,20 +1,27 @@
 {
   "title": "Bad Peterstal",
-  "country": "germany",
-  "region": "bad-peterstal",
-  "city": "bad-peterstal",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bad-peterstal",
+  "city": "Bad Peterstal",
+  "citySlug": "bad-peterstal",
+  "path": "/germany/bad-peterstal/bad-peterstal/restaurants",
+  "canonicalPath": "/germany/bad-peterstal/bad-peterstal/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Pavillon",
+      "cuisine": "Classic French, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/bad-peterstal/bad-peterstal/le-pavillon",
+      "award": "★★"
+    },
     {
       "name": "Kamin- und Bauernstube",
       "cuisine": "Seasonal Cuisine, Traditional Cuisine",
       "price": "€€",
       "path": "/germany/bad-peterstal/bad-peterstal/kamin-und-bauernstube"
-    },
-    {
-      "name": "Le Pavillon",
-      "cuisine": "Classic French, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/bad-peterstal/bad-peterstal/le-pavillon"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Oppeano",
-  "country": "italy",
-  "region": "oppeano",
-  "city": "oppeano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "oppeano",
+  "city": "Oppeano",
+  "citySlug": "oppeano",
+  "path": "/italy/oppeano/oppeano/restaurants",
+  "canonicalPath": "/italy/oppeano/oppeano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Famiglia Rana",
       "cuisine": "Contemporary, Creative",
       "price": "€€€€",
-      "path": "/italy/oppeano/oppeano/famiglia-rana"
+      "path": "/italy/oppeano/oppeano/famiglia-rana",
+      "award": "★"
     }
   ]
 }

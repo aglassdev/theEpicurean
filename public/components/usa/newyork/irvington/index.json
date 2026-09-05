@@ -1,0 +1,26 @@
+{
+  "title": "Irvington",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "New York",
+  "regionSlug": "newyork",
+  "city": "Irvington",
+  "citySlug": "irvington",
+  "path": "/usa/newyork/irvington/restaurants",
+  "canonicalPath": "/usa/newyork/irvington/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Chutney Masala",
+      "cuisine": "Indian, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/newyork/irvington/chutney-masala"
+    },
+    {
+      "name": "MP Taverna",
+      "cuisine": "Greek, Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/irvington/mp-taverna"
+    }
+  ]
+}

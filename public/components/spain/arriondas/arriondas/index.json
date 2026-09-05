@@ -1,20 +1,28 @@
 {
   "title": "Arriondas",
-  "country": "spain",
-  "region": "arriondas",
-  "city": "arriondas",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "arriondas",
+  "city": "Arriondas",
+  "citySlug": "arriondas",
+  "path": "/spain/arriondas/arriondas/restaurants",
+  "canonicalPath": "/spain/arriondas/arriondas/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Casa Marcial",
       "cuisine": "Creative, Asturian",
       "price": "€€€€",
-      "path": "/spain/arriondas/arriondas/casa-marcial"
+      "path": "/spain/arriondas/arriondas/casa-marcial",
+      "award": "★★★"
     },
     {
       "name": "El Corral del Indianu",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/arriondas/arriondas/el-corral-del-indianu"
+      "path": "/spain/arriondas/arriondas/el-corral-del-indianu",
+      "award": "★"
     }
   ]
 }

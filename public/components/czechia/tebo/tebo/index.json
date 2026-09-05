@@ -1,8 +1,14 @@
 {
   "title": "Tebo",
-  "country": "czechia",
-  "region": "tebo",
-  "city": "tebo",
+  "country": "Czechia",
+  "countrySlug": "czechia",
+  "region": null,
+  "regionSlug": "tebo",
+  "city": "Tebo",
+  "citySlug": "tebo",
+  "path": "/czechia/tebo/tebo/restaurants",
+  "canonicalPath": "/czechia/tebo/tebo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Šupina a Šupinka",

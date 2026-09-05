@@ -1,14 +1,21 @@
 {
   "title": "Manduria",
-  "country": "italy",
-  "region": "manduria",
-  "city": "manduria",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "manduria",
+  "city": "Manduria",
+  "citySlug": "manduria",
+  "path": "/italy/manduria/manduria/restaurants",
+  "canonicalPath": "/italy/manduria/manduria/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Casamatta",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/italy/manduria/manduria/casamatta"
+      "path": "/italy/manduria/manduria/casamatta",
+      "award": "★"
     },
     {
       "name": "ES Cantina&Ristorante",

@@ -1,11 +1,119 @@
 {
   "title": "Munich",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "munich",
+  "city": "Munich",
+  "citySlug": "munich",
+  "path": "/germany/munich/munich/restaurants",
+  "canonicalPath": "/germany/munich/munich/restaurants",
+  "count": 72,
   "restaurants": [
+    {
+      "name": "JAN",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/jan",
+      "award": "★★★"
+    },
+    {
+      "name": "Tohru in der Schreiberei",
+      "cuisine": "Modern Cuisine, Japanese Contemporary",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/tohru-in-der-schreiberei",
+      "award": "★★★"
+    },
+    {
+      "name": "Alois - Dallmayr Fine Dining",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/alois-dallmayr-fine-dining",
+      "award": "★★"
+    },
+    {
+      "name": "Atelier",
+      "cuisine": "Creative French, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/atelier",
+      "award": "★★"
+    },
+    {
+      "name": "KOMU",
+      "cuisine": "Classic Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/komu",
+      "award": "★★"
+    },
+    {
+      "name": "Tantris",
+      "cuisine": "French Contemporary, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/tantris",
+      "award": "★★"
+    },
     {
       "name": "1804 Hirschau",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/germany/munich/munich/1804-hirschau"
+      "path": "/germany/munich/munich/1804-hirschau",
+      "award": "★"
+    },
+    {
+      "name": "Brothers",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/brothers",
+      "award": "★"
+    },
+    {
+      "name": "Gabelspiel",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/gabelspiel",
+      "award": "★"
+    },
+    {
+      "name": "Les Deux",
+      "cuisine": "Modern French, Creative",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/les-deux",
+      "award": "★"
+    },
+    {
+      "name": "Mountain Hub Gourmet",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/mountain-hub-gourmet",
+      "award": "★"
+    },
+    {
+      "name": "Showroom",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/showroom",
+      "award": "★"
+    },
+    {
+      "name": "Sparkling Bistro",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/sparkling-bistro",
+      "award": "★"
+    },
+    {
+      "name": "Tantris DNA",
+      "cuisine": "Classic French, French",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/tantris-dna",
+      "award": "★"
+    },
+    {
+      "name": "Werneckhof Sigi Schelling",
+      "cuisine": "French Contemporary",
+      "price": "€€€€",
+      "path": "/germany/munich/munich/werneckhof-sigi-schelling",
+      "award": "★"
     },
     {
       "name": "Acetaia",
@@ -20,22 +128,10 @@
       "path": "/germany/munich/munich/aimy"
     },
     {
-      "name": "Alois - Dallmayr Fine Dining",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/alois-dallmayr-fine-dining"
-    },
-    {
       "name": "Asam Schlössl",
       "cuisine": "Bavarian, International",
       "price": "€€€",
       "path": "/germany/munich/munich/asam-schlssl"
-    },
-    {
-      "name": "Atelier",
-      "cuisine": "Creative French, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/atelier"
     },
     {
       "name": "Atelier Gourmet",
@@ -104,12 +200,6 @@
       "path": "/germany/munich/munich/broeding"
     },
     {
-      "name": "Brothers",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/brothers"
-    },
-    {
       "name": "buffet Kull bar",
       "cuisine": "International, Steakhouse",
       "price": "€€€",
@@ -158,12 +248,6 @@
       "path": "/germany/munich/munich/freisinger-hof"
     },
     {
-      "name": "Gabelspiel",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/gabelspiel"
-    },
-    {
       "name": "Galleria",
       "cuisine": "Italian, Mediterranean Cuisine",
       "price": "€€€",
@@ -173,7 +257,7 @@
       "name": "Garden-Restaurant",
       "cuisine": "Contemporary, International",
       "price": "€€€",
-      "path": "/germany/munich/munich/garden-restaurant"
+      "path": "/germany/munich/munich/gardenrestaurant"
     },
     {
       "name": "Gasthaus Waltz",
@@ -212,12 +296,6 @@
       "path": "/germany/munich/munich/il-sommelier"
     },
     {
-      "name": "JAN",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/jan"
-    },
-    {
       "name": "JAPATAPA TOSHIBAR",
       "cuisine": "Japanese",
       "price": "€€€",
@@ -239,7 +317,7 @@
       "name": "Käfer-Schänke",
       "cuisine": "Seasonal Cuisine",
       "price": "€€€",
-      "path": "/germany/munich/munich/kfer-schnke"
+      "path": "/germany/munich/munich/kferschnke"
     },
     {
       "name": "KOI",
@@ -248,28 +326,22 @@
       "path": "/germany/munich/munich/koi"
     },
     {
-      "name": "KOMU",
-      "cuisine": "Classic Cuisine, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/komu"
-    },
-    {
       "name": "La Bohème",
       "cuisine": "Meats and Grills, Seasonal Cuisine",
       "price": "€€€",
       "path": "/germany/munich/munich/la-bohme"
     },
     {
+      "name": "Landersdorfer & Innerhofer",
+      "cuisine": "Classic Cuisine",
+      "price": "$$$$",
+      "path": "/germany/munich/munich/landersdorfer-innerhofer"
+    },
+    {
       "name": "Le Stollberg",
       "cuisine": "Classic Cuisine, Mediterranean Cuisine",
       "price": "€€",
       "path": "/germany/munich/munich/le-stollberg"
-    },
-    {
-      "name": "Les Deux",
-      "cuisine": "Modern French, Creative",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/les-deux"
     },
     {
       "name": "Little London",
@@ -296,16 +368,16 @@
       "path": "/germany/munich/munich/mokum"
     },
     {
-      "name": "Mountain Hub Gourmet",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/mountain-hub-gourmet"
-    },
-    {
       "name": "mural",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
       "path": "/germany/munich/munich/mural"
+    },
+    {
+      "name": "NICE",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/germany/munich/munich/nice"
     },
     {
       "name": "Nymphenburger Hof",
@@ -332,6 +404,12 @@
       "path": "/germany/munich/munich/pure-wine-food"
     },
     {
+      "name": "Randale",
+      "cuisine": "Modern French",
+      "price": "$$$",
+      "path": "/germany/munich/munich/randale"
+    },
+    {
       "name": "sansaro",
       "cuisine": "Japanese",
       "price": "€€",
@@ -344,40 +422,10 @@
       "path": "/germany/munich/munich/schwarzreiter-restaurant"
     },
     {
-      "name": "Showroom",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/showroom"
-    },
-    {
-      "name": "Sparkling Bistro",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/sparkling-bistro"
-    },
-    {
-      "name": "Tantris",
-      "cuisine": "French Contemporary, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/tantris"
-    },
-    {
-      "name": "Tantris DNA",
-      "cuisine": "Classic French, French",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/tantris-dna"
-    },
-    {
       "name": "THE CLOUD by Käfer",
       "cuisine": "International, Contemporary",
       "price": "€€€€",
       "path": "/germany/munich/munich/the-cloud-by-kfer"
-    },
-    {
-      "name": "Tohru in der Schreiberei",
-      "cuisine": "Modern Cuisine, Japanese Contemporary",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/tohru-in-der-schreiberei"
     },
     {
       "name": "Trichards",
@@ -404,34 +452,10 @@
       "path": "/germany/munich/munich/weinhaus-neuner"
     },
     {
-      "name": "Werneckhof Sigi Schelling",
-      "cuisine": "French Contemporary",
-      "price": "€€€€",
-      "path": "/germany/munich/munich/werneckhof-sigi-schelling"
-    },
-    {
       "name": "Zauberberg",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
       "path": "/germany/munich/munich/zauberberg"
-    },
-    {
-      "name": "Landersdorfer & Innerhofer",
-      "cuisine": "Classic Cuisine",
-      "price": "$$$$",
-      "path": "/germany/munich/munich/LandersdorferInnerhofer"
-    },
-    {
-      "name": "NICE",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/germany/munich/munich/Nice"
-    },
-    {
-      "name": "Randale",
-      "cuisine": "Modern French",
-      "price": "$$$",
-      "path": "/germany/munich/munich/Randale"
     }
   ]
 }

@@ -1,17 +1,27 @@
 {
   "title": "Manigod",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "manigod",
+  "city": "Manigod",
+  "citySlug": "manigod",
+  "path": "/france/manigod/manigod/restaurants",
+  "canonicalPath": "/france/manigod/manigod/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "La Table de Marie-Ange",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€€",
-      "path": "/france/manigod/manigod/la-table-de-marie-ange"
-    },
     {
       "name": "Le Maison de Marc Veyrat",
       "cuisine": "",
       "price": "",
-      "path": "/france/manigod/manigod/LeMaisonDeMarcVeyrat"
+      "path": "/france/manigod/manigod/le-maison-de-marc-veyrat",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "La Table de Marie-Ange",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/manigod/manigod/la-table-de-marieange"
     }
   ]
 }

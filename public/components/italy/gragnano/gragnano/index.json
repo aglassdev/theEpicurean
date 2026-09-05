@@ -1,14 +1,21 @@
 {
   "title": "Gragnano",
-  "country": "italy",
-  "region": "gragnano",
-  "city": "gragnano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "gragnano",
+  "city": "Gragnano",
+  "citySlug": "gragnano",
+  "path": "/italy/gragnano/gragnano/restaurants",
+  "canonicalPath": "/italy/gragnano/gragnano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "O Me O Il Mare",
       "cuisine": "Italian Contemporary, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/gragnano/gragnano/o-me-o-il-mare"
+      "path": "/italy/gragnano/gragnano/o-me-o-il-mare",
+      "award": "★"
     }
   ]
 }

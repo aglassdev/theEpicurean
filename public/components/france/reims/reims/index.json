@@ -1,26 +1,61 @@
 {
   "title": "Reims",
-  "country": "france",
-  "region": "reims",
-  "city": "reims",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "reims",
+  "city": "Reims",
+  "citySlug": "reims",
+  "path": "/france/reims/reims/restaurants",
+  "canonicalPath": "/france/reims/reims/restaurants",
+  "count": 11,
   "restaurants": [
-    {
-      "name": "Arbane",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/reims/reims/arbane"
-    },
     {
       "name": "Assiette Champenoise",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/reims/reims/assiette-champenoise"
+      "path": "/france/reims/reims/assiette-champenoise",
+      "award": "★★★"
+    },
+    {
+      "name": "Le Parc Les Crayères",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/reims/reims/le-parc-les-crayres",
+      "award": "★★"
+    },
+    {
+      "name": "Racine",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/reims/reims/racine",
+      "award": "★★"
+    },
+    {
+      "name": "Arbane",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/reims/reims/arbane",
+      "award": "★"
+    },
+    {
+      "name": "Le Millénaire",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/reims/reims/le-millnaire",
+      "award": "★"
     },
     {
       "name": "Brasserie Le Jardin",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/reims/reims/brasserie-le-jardin"
+    },
+    {
+      "name": "L'ExtrA",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/reims/reims/lextra"
     },
     {
       "name": "La Grande Georgette",
@@ -45,30 +80,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/reims/reims/le-foch"
-    },
-    {
-      "name": "Le Millénaire",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/reims/reims/le-millnaire"
-    },
-    {
-      "name": "Le Parc Les Crayères",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/reims/reims/le-parc-les-crayres"
-    },
-    {
-      "name": "L'ExtrA",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/reims/reims/lextra"
-    },
-    {
-      "name": "Racine",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/reims/reims/racine"
     }
   ]
 }

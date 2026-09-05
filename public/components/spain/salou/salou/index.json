@@ -1,14 +1,21 @@
 {
   "title": "Salou",
-  "country": "spain",
-  "region": "salou",
-  "city": "salou",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "salou",
+  "city": "Salou",
+  "citySlug": "salou",
+  "path": "/spain/salou/salou/restaurants",
+  "canonicalPath": "/spain/salou/salou/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Deliranto",
       "cuisine": "Contemporary, Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/salou/salou/deliranto"
+      "path": "/spain/salou/salou/deliranto",
+      "award": "★"
     },
     {
       "name": "La Morera de Pablo & Ester",

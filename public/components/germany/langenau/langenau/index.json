@@ -1,14 +1,21 @@
 {
   "title": "Langenau",
-  "country": "germany",
-  "region": "langenau",
-  "city": "langenau",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "langenau",
+  "city": "Langenau",
+  "citySlug": "langenau",
+  "path": "/germany/langenau/langenau/restaurants",
+  "canonicalPath": "/germany/langenau/langenau/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "HOCHZWEI",
       "cuisine": "Classic Cuisine, Farm to table",
       "price": "€€",
-      "path": "/germany/langenau/langenau/hochzwei"
+      "path": "/germany/langenau/langenau/hochzwei",
+      "award": "★"
     },
     {
       "name": "Stube ZWEI.NULL",

@@ -1,14 +1,21 @@
 {
   "title": "Staphorst",
-  "country": "netherlands",
-  "region": "staphorst",
-  "city": "staphorst",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "staphorst",
+  "city": "Staphorst",
+  "citySlug": "staphorst",
+  "path": "/netherlands/staphorst/staphorst/restaurants",
+  "canonicalPath": "/netherlands/staphorst/staphorst/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "De Groene Lantaarn",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/netherlands/staphorst/staphorst/de-groene-lantaarn"
+      "path": "/netherlands/staphorst/staphorst/de-groene-lantaarn",
+      "award": "★★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Donk",
-  "country": "belgium",
-  "region": "donk",
-  "city": "donk",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "donk",
+  "city": "Donk",
+  "citySlug": "donk",
+  "path": "/belgium/donk/donk/restaurants",
+  "canonicalPath": "/belgium/donk/donk/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lijsterbes",

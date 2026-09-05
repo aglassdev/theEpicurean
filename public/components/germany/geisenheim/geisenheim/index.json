@@ -1,5 +1,14 @@
 {
   "title": "Geisenheim",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "geisenheim",
+  "city": "Geisenheim",
+  "citySlug": "geisenheim",
+  "path": "/germany/geisenheim/geisenheim/restaurants",
+  "canonicalPath": "/germany/geisenheim/geisenheim/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "BRASSERIE Schwarzenstein",
@@ -17,7 +26,7 @@
       "name": "Schlossschänke auf dem Johannisberg",
       "cuisine": "Classic French",
       "price": "$$$",
-      "path": "/germany/geisenheim/geisenheim/SchlossschnkeAufDemJohannisberg"
+      "path": "/germany/geisenheim/geisenheim/schlossschnke-auf-dem-johannisberg"
     }
   ]
 }

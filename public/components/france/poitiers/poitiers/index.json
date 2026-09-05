@@ -1,8 +1,14 @@
 {
   "title": "Poitiers",
-  "country": "france",
-  "region": "poitiers",
-  "city": "poitiers",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "poitiers",
+  "city": "Poitiers",
+  "citySlug": "poitiers",
+  "path": "/france/poitiers/poitiers/restaurants",
+  "canonicalPath": "/france/poitiers/poitiers/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Les Archives",

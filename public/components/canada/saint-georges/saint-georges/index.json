@@ -1,11 +1,20 @@
 {
-  "title": "Saint-Georges",
+  "title": "Saint Georges",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "saint-georges",
+  "city": "Saint Georges",
+  "citySlug": "saint-georges",
+  "path": "/canada/saint-georges/saint-georges/restaurants",
+  "canonicalPath": "/canada/saint-georges/saint-georges/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant 1668",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/canada/saint-georges/saint-georges/Restaurant1668"
+      "path": "/canada/saint-georges/saint-georges/restaurant1668"
     }
   ]
 }

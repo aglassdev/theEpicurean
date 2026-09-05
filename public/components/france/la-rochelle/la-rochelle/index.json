@@ -1,6 +1,22 @@
 {
   "title": "La Rochelle",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-rochelle",
+  "city": "La Rochelle",
+  "citySlug": "la-rochelle",
+  "path": "/france/la-rochelle/la-rochelle/restaurants",
+  "canonicalPath": "/france/la-rochelle/la-rochelle/restaurants",
+  "count": 12,
   "restaurants": [
+    {
+      "name": "Christopher Coutanceau",
+      "cuisine": "Seafood, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/la-rochelle/la-rochelle/christopher-coutanceau",
+      "award": "★★★"
+    },
     {
       "name": "Annette",
       "cuisine": "Modern Cuisine",
@@ -12,12 +28,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/la-rochelle/la-rochelle/arco"
-    },
-    {
-      "name": "Christopher Coutanceau",
-      "cuisine": "Seafood, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/la-rochelle/la-rochelle/christopher-coutanceau"
     },
     {
       "name": "Host",
@@ -32,46 +42,46 @@
       "path": "/france/la-rochelle/la-rochelle/impressions"
     },
     {
-      "name": "La Yole de Chris",
-      "cuisine": "Seafood",
-      "price": "€€€",
-      "path": "/france/la-rochelle/la-rochelle/la-yole-de-chris"
-    },
-    {
       "name": "L'Astrolabe",
       "cuisine": "Fusion",
       "price": "€€€",
       "path": "/france/la-rochelle/la-rochelle/lastrolabe"
     },
     {
+      "name": "La Yole de Chris",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/france/la-rochelle/la-rochelle/la-yole-de-chris"
+    },
+    {
       "name": "Le Bouillon",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/la-rochelle/la-rochelle/le-bouillon"
+      "path": "/france/la-rochelle/la-rochelle/le-bouillon-l-a-r"
     },
     {
       "name": "Les Flots",
       "cuisine": "Seafood, Modern Cuisine",
       "price": "€€€",
-      "path": "/france/la-rochelle/la-rochelle/les-flots"
+      "path": "/france/la-rochelle/la-rochelle/les-flots-l-a-r"
+    },
+    {
+      "name": "MARAH",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/la-rochelle/la-rochelle/marah"
+    },
+    {
+      "name": "Nouche",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/la-rochelle/la-rochelle/nouche"
     },
     {
       "name": "Opaline",
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/france/la-rochelle/la-rochelle/opaline"
-    },
-    {
-      "name": "MARAH",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/la-rochelle/la-rochelle/Marah"
-    },
-    {
-      "name": "Nouche",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/la-rochelle/la-rochelle/Nouche"
     }
   ]
 }

@@ -1,149 +1,177 @@
 {
   "title": "Wenzhou",
+  "country": "China",
+  "countrySlug": "chinese-mainland",
+  "region": null,
+  "regionSlug": "wenzhou",
+  "city": "Wenzhou",
+  "citySlug": "wenzhou",
+  "path": "/chinese-mainland/wenzhou/wenzhou/restaurants",
+  "canonicalPath": "/chinese-mainland/wenzhou/wenzhou/restaurants",
+  "count": 24,
   "restaurants": [
     {
       "name": "Ayu Renjiashao",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/AyuRenjiashao"
+      "path": "/chinese-mainland/wenzhou/wenzhou/ayu-renjiashao",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Bai Nian Hun Tun Lao Dian",
       "cuisine": "Dim Sum",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/BaiNianHunTunLaoDian"
+      "path": "/chinese-mainland/wenzhou/wenzhou/bai-nian-hun-tun-lao-dian",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Chang Ren Hun Tun Pu",
       "cuisine": "Dim Sum",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/ChangRenHunTunPu"
+      "path": "/chinese-mainland/wenzhou/wenzhou/chang-ren-hun-tun-pu",
+      "award": "Bib Gourmand"
     },
     {
       "name": "He Jiu Jia",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/HeJiuJia"
+      "path": "/chinese-mainland/wenzhou/wenzhou/he-jiu-jia",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Heng Qian Kou Huang Zhu Ying San Xian Mian",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/HengQianKouHuangZhuYingSanXianMian"
+      "path": "/chinese-mainland/wenzhou/wenzhou/heng-qian-kou-huang-zhu-ying-san-xian-mian",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Jin Hong Lao Zi Hao Zhu Zang Fen",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/JinHongLaoZiHaoZhuZangFen"
+      "path": "/chinese-mainland/wenzhou/wenzhou/jin-hong-lao-zi-hao-zhu-zang-fen",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Jin Wen Yu Yuan (Huiyuan Road)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/JinWenYuYuanHuiyuanRoad"
+      "path": "/chinese-mainland/wenzhou/wenzhou/jin-wen-yu-yuan-huiyuan-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Juan Juan Zao Dian Dian",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/JuanJuanZaoDianDian"
+      "path": "/chinese-mainland/wenzhou/wenzhou/juan-juan-zao-dian-dian",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Lao Wen Zhou Hun Tun Dan",
       "cuisine": "Dim Sum",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/LaoWenZhouHunTunDan"
+      "path": "/chinese-mainland/wenzhou/wenzhou/lao-wen-zhou-hun-tun-dan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Mao Chang Lao Mian Guan",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/MaoChangLaoMianGuan"
+      "path": "/chinese-mainland/wenzhou/wenzhou/mao-chang-lao-mian-guan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Run Feng He Niu Za",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/RunFengHeNiuZa"
+      "path": "/chinese-mainland/wenzhou/wenzhou/run-feng-he-niu-za",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Shuang Jing Tou",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/ShuangJingTou"
+      "path": "/chinese-mainland/wenzhou/wenzhou/shuang-jing-tou",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Sun Guo Hua Qing Jiang San Xian Mian (Renmin North Road)",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/SunGuoHuaQingJiangSanXianMianRenminNorthRoad"
+      "path": "/chinese-mainland/wenzhou/wenzhou/sun-guo-hua-qing-jiang-san-xian-mian-renmin-north-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Xiao Cai Yuan",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/XiaoCaiYuan"
+      "path": "/chinese-mainland/wenzhou/wenzhou/xiao-cai-yuan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Xue Miao Zhu Zang Fen",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/XueMiaoZhuZangFen"
+      "path": "/chinese-mainland/wenzhou/wenzhou/xue-miao-zhu-zang-fen",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yan Ji Gao Tou Pu",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/YanJiGaoTouPu"
+      "path": "/chinese-mainland/wenzhou/wenzhou/yan-ji-gao-tou-pu",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yangjia Shantou Mai Mian Lao Dian (Canghe Lane)",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/YangjiaShantouMaiMianLaoDianCangheLane"
+      "path": "/chinese-mainland/wenzhou/wenzhou/yangjia-shantou-mai-mian-lao-dian-canghe-lane",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yu Ji Seafood",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/YuJiSeafood"
+      "path": "/chinese-mainland/wenzhou/wenzhou/yu-ji-seafood",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Zheng Zhengliang Seafood (Nantang Street)",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/ZhengZhengliangSeafoodNantangStreet"
+      "path": "/chinese-mainland/wenzhou/wenzhou/zheng-zhengliang-seafood-nantang-street",
+      "award": "Bib Gourmand"
     },
     {
       "name": "A Wai Lou",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/AWaiLou"
+      "path": "/chinese-mainland/wenzhou/wenzhou/a-wai-lou"
     },
     {
       "name": "Fu Qi Yu Yuan",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/FuQiYuYuan"
+      "path": "/chinese-mainland/wenzhou/wenzhou/fu-qi-yu-yuan"
     },
     {
       "name": "Ou Jiang Nan",
       "cuisine": "Zhejiang",
       "price": "$$$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/OuJiangNan"
+      "path": "/chinese-mainland/wenzhou/wenzhou/ou-jiang-nan"
     },
     {
       "name": "Ou Ju Hai",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/OuJuHai"
+      "path": "/chinese-mainland/wenzhou/wenzhou/ou-ju-hai"
     },
     {
       "name": "Pudi",
       "cuisine": "Zhejiang",
       "price": "$$$",
-      "path": "/chinese-mainland/wenzhou/wenzhou/Pudi"
+      "path": "/chinese-mainland/wenzhou/wenzhou/pudi"
     }
   ]
 }

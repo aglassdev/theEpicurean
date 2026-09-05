@@ -1,14 +1,21 @@
 {
   "title": "Romorantin Lanthenay",
-  "country": "france",
-  "region": "romorantin-lanthenay",
-  "city": "romorantin-lanthenay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "romorantin-lanthenay",
+  "city": "Romorantin Lanthenay",
+  "citySlug": "romorantin-lanthenay",
+  "path": "/france/romorantin-lanthenay/romorantin-lanthenay/restaurants",
+  "canonicalPath": "/france/romorantin-lanthenay/romorantin-lanthenay/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Grand Hôtel du Lion d'Or",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/romorantin-lanthenay/romorantin-lanthenay/grand-htel-du-lion-dor"
+      "path": "/france/romorantin-lanthenay/romorantin-lanthenay/grand-htel-du-lion-dor",
+      "award": "★"
     },
     {
       "name": "Le Bois Blanc",

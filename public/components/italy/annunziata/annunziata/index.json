@@ -1,11 +1,21 @@
 {
   "title": "Annunziata",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "annunziata",
+  "city": "Annunziata",
+  "citySlug": "annunziata",
+  "path": "/italy/annunziata/annunziata/restaurants",
+  "canonicalPath": "/italy/annunziata/annunziata/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Torre One Fire",
       "cuisine": "Campanian",
       "price": "$$",
-      "path": "/italy/annunziata/annunziata/LaTorreOneFire"
+      "path": "/italy/annunziata/annunziata/la-torre-one-fire",
+      "award": "Bib Gourmand"
     }
   ]
 }

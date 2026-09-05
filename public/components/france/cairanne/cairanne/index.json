@@ -1,8 +1,14 @@
 {
   "title": "Cairanne",
-  "country": "france",
-  "region": "cairanne",
-  "city": "cairanne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cairanne",
+  "city": "Cairanne",
+  "citySlug": "cairanne",
+  "path": "/france/cairanne/cairanne/restaurants",
+  "canonicalPath": "/france/cairanne/cairanne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Coteaux et Fourchettes",

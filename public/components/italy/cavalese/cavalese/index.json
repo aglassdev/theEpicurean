@@ -1,17 +1,27 @@
 {
   "title": "Cavalese",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cavalese",
+  "city": "Cavalese",
+  "citySlug": "cavalese",
+  "path": "/italy/cavalese/cavalese/restaurants",
+  "canonicalPath": "/italy/cavalese/cavalese/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "El Molin",
       "cuisine": "Alpine, Creative",
       "price": "€€€€",
-      "path": "/italy/cavalese/cavalese/el-molin"
+      "path": "/italy/cavalese/cavalese/el-molin",
+      "award": "★"
     },
     {
       "name": "Orso Grigio",
       "cuisine": "Alpine",
       "price": "$$$",
-      "path": "/italy/cavalese/cavalese/OrsoGrigio"
+      "path": "/italy/cavalese/cavalese/orso-grigio"
     }
   ]
 }

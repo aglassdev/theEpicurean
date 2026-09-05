@@ -1,26 +1,35 @@
 {
   "title": "Koblenz",
-  "country": "germany",
-  "region": "koblenz",
-  "city": "koblenz",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "koblenz",
+  "city": "Koblenz",
+  "citySlug": "koblenz",
+  "path": "/germany/koblenz/koblenz/restaurants",
+  "canonicalPath": "/germany/koblenz/koblenz/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Gotthardt's by Yannick Noack",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/germany/koblenz/koblenz/gotthardts-by-yannick-noack"
+      "path": "/germany/koblenz/koblenz/gotthardts-by-yannick-noack",
+      "award": "★★"
     },
     {
       "name": "Schiller's Manufaktur",
       "cuisine": "Classic Cuisine, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/germany/koblenz/koblenz/schillers-manufaktur"
+      "path": "/germany/koblenz/koblenz/schillers-manufaktur",
+      "award": "★"
     },
     {
       "name": "Verbene",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€€€",
-      "path": "/germany/koblenz/koblenz/verbene"
+      "path": "/germany/koblenz/koblenz/verbene",
+      "award": "★"
     }
   ]
 }

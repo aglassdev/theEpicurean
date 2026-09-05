@@ -1,14 +1,546 @@
 {
   "title": "Hong Kong",
-  "country": "china",
-  "region": "hong-kong",
-  "city": "hong-kong",
+  "country": "China",
+  "countrySlug": "china",
+  "region": null,
+  "regionSlug": "hong-kong",
+  "city": "Hong Kong",
+  "citySlug": "hong-kong",
+  "path": "/china/hong-kong/hong-kong/restaurants",
+  "canonicalPath": "/china/hong-kong/hong-kong/restaurants",
+  "count": 223,
   "restaurants": [
     {
       "name": "8 1/2 Otto e Mezzo - Bombana",
       "cuisine": "Italian",
       "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/8-12-otto-e-mezzo-bombana"
+      "path": "/china/hong-kong/hong-kong/812-otto-e-mezzo-bombana",
+      "award": "★★★"
+    },
+    {
+      "name": "Amber",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/amber",
+      "award": "★★★"
+    },
+    {
+      "name": "Caprice",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/caprice",
+      "award": "★★★"
+    },
+    {
+      "name": "Forum",
+      "cuisine": "Cantonese",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/forum",
+      "award": "★★★"
+    },
+    {
+      "name": "Sushi Shikon",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/sushi-shikon",
+      "award": "★★★"
+    },
+    {
+      "name": "T'ang Court",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/tang-court",
+      "award": "★★★"
+    },
+    {
+      "name": "Ta Vie",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/ta-vie",
+      "award": "★★★"
+    },
+    {
+      "name": "Arbor",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/arbor",
+      "award": "★★"
+    },
+    {
+      "name": "Bo Innovation",
+      "cuisine": "Innovative",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/bo-innovation",
+      "award": "★★"
+    },
+    {
+      "name": "L'Envol",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/lenvol",
+      "award": "★★"
+    },
+    {
+      "name": "Lai Ching Heen",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/lai-ching-heen",
+      "award": "★★"
+    },
+    {
+      "name": "Lung King Heen",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/lung-king-heen",
+      "award": "★★"
+    },
+    {
+      "name": "Noi by Paulo Airaudo",
+      "cuisine": "Italian Contemporary",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/noi-by-paulo-airaudo",
+      "award": "★★"
+    },
+    {
+      "name": "Octavium",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/octavium",
+      "award": "★★"
+    },
+    {
+      "name": "Rùn",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/rn",
+      "award": "★★"
+    },
+    {
+      "name": "Tate",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/tate",
+      "award": "★★"
+    },
+    {
+      "name": "Tin Lung Heen",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/tin-lung-heen",
+      "award": "★★"
+    },
+    {
+      "name": "Ying Jee Club",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/ying-jee-club",
+      "award": "★★"
+    },
+    {
+      "name": "Ami",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/ami",
+      "award": "★"
+    },
+    {
+      "name": "Andō",
+      "cuisine": "Innovative",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/and",
+      "award": "★"
+    },
+    {
+      "name": "Arcane",
+      "cuisine": "European Contemporary",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/arcane",
+      "award": "★"
+    },
+    {
+      "name": "Beefbar",
+      "cuisine": "Steakhouse",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/beefbar",
+      "award": "★"
+    },
+    {
+      "name": "Belon",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/belon",
+      "award": "★"
+    },
+    {
+      "name": "Chaat",
+      "cuisine": "Indian",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/chaat",
+      "award": "★"
+    },
+    {
+      "name": "Cristal Room by Anne-Sophie Pic",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/cristal-room-by-annesophie-pic",
+      "award": "★"
+    },
+    {
+      "name": "Duddell's",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/duddells",
+      "award": "★"
+    },
+    {
+      "name": "Épure",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/pure",
+      "award": "★"
+    },
+    {
+      "name": "Estro",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/estro",
+      "award": "★"
+    },
+    {
+      "name": "Feuille",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/feuille",
+      "award": "★"
+    },
+    {
+      "name": "Fook Lam Moon (Wan Chai)",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/fook-lam-moon-wan-chai",
+      "award": "★"
+    },
+    {
+      "name": "Fu Ho",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/fu-ho",
+      "award": "★"
+    },
+    {
+      "name": "Gaddi's",
+      "cuisine": "French",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/gaddis",
+      "award": "★"
+    },
+    {
+      "name": "Godenya",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/godenya",
+      "award": "★"
+    },
+    {
+      "name": "Hansik Goo",
+      "cuisine": "Korean",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/hansik-goo",
+      "award": "★"
+    },
+    {
+      "name": "Ho Hung Kee (Causeway Bay)",
+      "cuisine": "Noodles and Congee",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/ho-hung-kee-causeway-bay",
+      "award": "★"
+    },
+    {
+      "name": "I M Teppanyaki & Wine",
+      "cuisine": "Teppanyaki",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/i-m-teppanyaki-wine",
+      "award": "★"
+    },
+    {
+      "name": "Imperial Treasure Fine Chinese Cuisine (Tsim Sha Tsui)",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/imperial-treasure-fine-chinese-cuisine-tsim-sha-tsui",
+      "award": "★"
+    },
+    {
+      "name": "Kam's Roast Goose",
+      "cuisine": "Cantonese Roast Meats",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/kams-roast-goose",
+      "award": "★"
+    },
+    {
+      "name": "Kappo Rin",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/kappo-rin",
+      "award": "★"
+    },
+    {
+      "name": "Liu Yuan Pavilion",
+      "cuisine": "Shanghainese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/liu-yuan-pavilion",
+      "award": "★"
+    },
+    {
+      "name": "Loaf On",
+      "cuisine": "Seafood",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/loaf-on",
+      "award": "★"
+    },
+    {
+      "name": "Louise",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/louise-h-o-n",
+      "award": "★"
+    },
+    {
+      "name": "Man Ho (Admiralty)",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/man-ho-admiralty",
+      "award": "★"
+    },
+    {
+      "name": "Man Wah",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/man-wah",
+      "award": "★"
+    },
+    {
+      "name": "Mono",
+      "cuisine": "Latin American",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/mono",
+      "award": "★"
+    },
+    {
+      "name": "Mora",
+      "cuisine": "Innovative",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/mora",
+      "award": "★"
+    },
+    {
+      "name": "Nagamoto",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/nagamoto",
+      "award": "★"
+    },
+    {
+      "name": "Neighborhood",
+      "cuisine": "European Contemporary",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/neighborhood",
+      "award": "★"
+    },
+    {
+      "name": "New Punjab Club",
+      "cuisine": "Indian, Pakistani",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/new-punjab-club",
+      "award": "★"
+    },
+    {
+      "name": "Pang's Kitchen",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/pangs-kitchen",
+      "award": "★"
+    },
+    {
+      "name": "Petrus",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/petrus",
+      "award": "★"
+    },
+    {
+      "name": "Plaisance by Mauro Colagreco",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/plaisance-by-mauro-colagreco",
+      "award": "★"
+    },
+    {
+      "name": "Racines",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/racines-h-o-n",
+      "award": "★"
+    },
+    {
+      "name": "Roganic",
+      "cuisine": "European Contemporary",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/roganic",
+      "award": "★"
+    },
+    {
+      "name": "Ryota Kappou Modern",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/ryota-kappou-modern",
+      "award": "★"
+    },
+    {
+      "name": "Seventh Son (Wan Chai)",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/seventh-son-wan-chai",
+      "award": "★"
+    },
+    {
+      "name": "Shang Palace",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/shang-palace-h-o-n",
+      "award": "★"
+    },
+    {
+      "name": "Spring Moon",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/spring-moon",
+      "award": "★"
+    },
+    {
+      "name": "Summer Palace",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/summer-palace",
+      "award": "★"
+    },
+    {
+      "name": "Sun Tung Lok",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/sun-tung-lok",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Saito",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/sushi-saito",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Wadatsumi",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/sushi-wadatsumi",
+      "award": "★"
+    },
+    {
+      "name": "The Chairman",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/the-chairman",
+      "award": "★"
+    },
+    {
+      "name": "The Legacy House",
+      "cuisine": "Shun Tak",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/the-legacy-house",
+      "award": "★"
+    },
+    {
+      "name": "Tosca di Angelo",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/tosca-di-angelo",
+      "award": "★"
+    },
+    {
+      "name": "Tuber Umberto Bombana",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/tuber-umberto-bombana",
+      "award": "★"
+    },
+    {
+      "name": "Vea",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/vea",
+      "award": "★"
+    },
+    {
+      "name": "Whey",
+      "cuisine": "Asian Contemporary",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/whey",
+      "award": "★"
+    },
+    {
+      "name": "Xin Rong Ji",
+      "cuisine": "Taizhou",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/xin-rong-ji-h-o-n",
+      "award": "★"
+    },
+    {
+      "name": "Yardbird",
+      "cuisine": "Yakitori",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/yardbird",
+      "award": "★"
+    },
+    {
+      "name": "Yat Lok (Central)",
+      "cuisine": "Cantonese Roast Meats",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/yat-lok-central",
+      "award": "★"
+    },
+    {
+      "name": "Yat Tung Heen",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/yat-tung-heen",
+      "award": "★"
+    },
+    {
+      "name": "Yè Shanghai (Tsim Sha Tsui)",
+      "cuisine": "Shanghainese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/y-shanghai-tsim-sha-tsui",
+      "award": "★"
+    },
+    {
+      "name": "Yong Fu",
+      "cuisine": "Ningbo",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/yong-fu",
+      "award": "★"
+    },
+    {
+      "name": "Zhejiang Heen",
+      "cuisine": "Zhejiang",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/zhejiang-heen",
+      "award": "★"
+    },
+    {
+      "name": "Zuicho",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/zuicho",
+      "award": "★"
     },
     {
       "name": "Above & Beyond",
@@ -32,43 +564,19 @@
       "name": "Akira Back",
       "cuisine": "Asian Contemporary",
       "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/akira-back"
+      "path": "/china/hong-kong/hong-kong/akira-back-h-o-n"
     },
     {
-      "name": "Amber",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/amber"
-    },
-    {
-      "name": "Ami",
-      "cuisine": "French Contemporary",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/ami"
-    },
-    {
-      "name": "Andō",
-      "cuisine": "Innovative",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/and"
+      "name": "Ăn Chơi",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/n-chi"
     },
     {
       "name": "Ankôma",
       "cuisine": "European Contemporary",
       "price": "$$$",
       "path": "/china/hong-kong/hong-kong/ankma"
-    },
-    {
-      "name": "Arbor",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/arbor"
-    },
-    {
-      "name": "Arcane",
-      "cuisine": "European Contemporary",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/arcane"
     },
     {
       "name": "Art & Taste",
@@ -89,40 +597,16 @@
       "path": "/china/hong-kong/hong-kong/banana-boy"
     },
     {
-      "name": "Beanmountain",
-      "cuisine": "Street Food",
-      "price": "$",
-      "path": "/china/hong-kong/hong-kong/beanmountain"
-    },
-    {
-      "name": "Beefbar",
-      "cuisine": "Steakhouse",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/beefbar"
-    },
-    {
-      "name": "Belon",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/belon"
-    },
-    {
       "name": "Bánh Mì Nếm (Wan Chai)",
       "cuisine": "Street Food",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/bnh-m-nm-wan-chai"
     },
     {
-      "name": "Bo Innovation",
-      "cuisine": "Innovative",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/bo-innovation"
-    },
-    {
-      "name": "Café Hunan (Western District)",
-      "cuisine": "Hunanese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/caf-hunan-western-district"
+      "name": "Beanmountain",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/china/hong-kong/hong-kong/beanmountain"
     },
     {
       "name": "Cafe Bau",
@@ -131,10 +615,10 @@
       "path": "/china/hong-kong/hong-kong/cafe-bau"
     },
     {
-      "name": "Caprice",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/caprice"
+      "name": "Café Hunan (Western District)",
+      "cuisine": "Hunanese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/caf-hunan-western-district"
     },
     {
       "name": "Carbone",
@@ -153,12 +637,6 @@
       "cuisine": "Cantonese",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/celestial-court"
-    },
-    {
-      "name": "Chaat",
-      "cuisine": "Indian",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/chaat"
     },
     {
       "name": "Chesa",
@@ -197,12 +675,6 @@
       "path": "/china/hong-kong/hong-kong/citrino-da-yoshinaga-jinbo"
     },
     {
-      "name": "Cristal Room by Anne-Sophie Pic",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/cristal-room-by-anne-sophie-pic"
-    },
-    {
       "name": "Cuisine Cuisine at The Mira",
       "cuisine": "Cantonese",
       "price": "$$$",
@@ -233,22 +705,10 @@
       "path": "/china/hong-kong/hong-kong/dragons-den"
     },
     {
-      "name": "Duddell's",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/duddells"
-    },
-    {
       "name": "Eng Kee Noodle Shop",
       "cuisine": "Noodles",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/eng-kee-noodle-shop"
-    },
-    {
-      "name": "Estro",
-      "cuisine": "Italian",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/estro"
     },
     {
       "name": "Eton",
@@ -269,12 +729,6 @@
       "path": "/china/hong-kong/hong-kong/fat-boy"
     },
     {
-      "name": "Feuille",
-      "cuisine": "French Contemporary",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/feuille"
-    },
-    {
       "name": "Fiata",
       "cuisine": "Pizza",
       "price": "$$",
@@ -293,52 +747,16 @@
       "path": "/china/hong-kong/hong-kong/fisholic-north-point"
     },
     {
-      "name": "Fook Lam Moon (Wan Chai)",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/fook-lam-moon-wan-chai"
-    },
-    {
-      "name": "Forum",
-      "cuisine": "Cantonese",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/forum"
-    },
-    {
-      "name": "Fu Ho",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/fu-ho"
-    },
-    {
       "name": "Fung Shing (North Point)",
       "cuisine": "Shun Tak",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/fung-shing-north-point"
     },
     {
-      "name": "Gaddi's",
-      "cuisine": "French",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/gaddis"
-    },
-    {
       "name": "Glorious Cuisine",
       "cuisine": "Cantonese",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/glorious-cuisine"
-    },
-    {
-      "name": "Godenya",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/godenya"
-    },
-    {
-      "name": "Hansik Goo",
-      "cuisine": "Korean",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/hansik-goo"
     },
     {
       "name": "Hao Tang Hao Mian (Tai Wai)",
@@ -365,12 +783,6 @@
       "path": "/china/hong-kong/hong-kong/heimat"
     },
     {
-      "name": "Heimat",
-      "cuisine": "German",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/heimat"
-    },
-    {
       "name": "Hing Kee",
       "cuisine": "Seafood",
       "price": "$$",
@@ -381,12 +793,6 @@
       "cuisine": "Chiu Chow",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/ho-ho-chak"
-    },
-    {
-      "name": "Ho Hung Kee (Causeway Bay)",
-      "cuisine": "Noodles and Congee",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/ho-hung-kee-causeway-bay"
     },
     {
       "name": "Ho Kee Dessert (To Kwa Wan)",
@@ -437,18 +843,6 @@
       "path": "/china/hong-kong/hong-kong/hyde-park-garden"
     },
     {
-      "name": "I M Teppanyaki & Wine",
-      "cuisine": "Teppanyaki",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/i-m-teppanyaki-wine"
-    },
-    {
-      "name": "Imperial Treasure Fine Chinese Cuisine (Tsim Sha Tsui)",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/imperial-treasure-fine-chinese-cuisine-tsim-sha-tsui"
-    },
-    {
       "name": "Involtini",
       "cuisine": "Italian",
       "price": "$$",
@@ -470,7 +864,7 @@
       "name": "Jean-Pierre",
       "cuisine": "French",
       "price": "$$",
-      "path": "/china/hong-kong/hong-kong/jean-pierre"
+      "path": "/china/hong-kong/hong-kong/jeanpierre"
     },
     {
       "name": "Jee",
@@ -485,12 +879,6 @@
       "path": "/china/hong-kong/hong-kong/jija"
     },
     {
-      "name": "Ju Xing Home",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/ju-xing-home"
-    },
-    {
       "name": "Juno",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
@@ -501,18 +889,6 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/kai-kai-jordan"
-    },
-    {
-      "name": "Kam's Roast Goose",
-      "cuisine": "Cantonese Roast Meats",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/kams-roast-goose"
-    },
-    {
-      "name": "Kappo Rin",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/kappo-rin"
     },
     {
       "name": "Kau Kee",
@@ -557,28 +933,22 @@
       "path": "/china/hong-kong/hong-kong/kwan-kee-clay-pot-rice-queens-road-west"
     },
     {
+      "name": "L'Atelier de Joël Robuchon",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/china/hong-kong/hong-kong/latelier-de-jol-robuchon-h-o-n"
+    },
+    {
       "name": "La Volta",
       "cuisine": "Italian",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/la-volta"
     },
     {
-      "name": "Lai Ching Heen",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/lai-ching-heen"
-    },
-    {
       "name": "Lai's Kitchen",
       "cuisine": "Cantonese",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/lais-kitchen"
-    },
-    {
-      "name": "L'Atelier de Joël Robuchon",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/latelier-de-jol-robuchon"
     },
     {
       "name": "Lau Sum Kee (Fuk Wing Street)",
@@ -599,34 +969,10 @@
       "path": "/china/hong-kong/hong-kong/lei-garden-wan-chai"
     },
     {
-      "name": "L'Envol",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/lenvol"
-    },
-    {
       "name": "Little Napoli",
       "cuisine": "Pizza",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/little-napoli"
-    },
-    {
-      "name": "Liu Yuan Pavilion",
-      "cuisine": "Shanghainese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/liu-yuan-pavilion"
-    },
-    {
-      "name": "Loaf On",
-      "cuisine": "Seafood",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/loaf-on"
-    },
-    {
-      "name": "Louise",
-      "cuisine": "French Contemporary",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/louise"
     },
     {
       "name": "Lucale",
@@ -659,12 +1005,6 @@
       "path": "/china/hong-kong/hong-kong/lulu-baobao-wong-chuk-hang"
     },
     {
-      "name": "Lung King Heen",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/lung-king-heen"
-    },
-    {
       "name": "Magistracy Dining Room",
       "cuisine": "European, English",
       "price": "$$",
@@ -683,10 +1023,10 @@
       "path": "/china/hong-kong/hong-kong/mak-man-kee"
     },
     {
-      "name": "Man Ho (Admiralty)",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/man-ho-admiralty"
+      "name": "Mâm Amis",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/mm-amis"
     },
     {
       "name": "Man Kee Cart Noodle",
@@ -699,12 +1039,6 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/man-kee-cart-noodles-sham-shui-po"
-    },
-    {
-      "name": "Man Wah",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/man-wah"
     },
     {
       "name": "Mandarin Grill + Bar",
@@ -725,24 +1059,6 @@
       "path": "/china/hong-kong/hong-kong/ming-court-mong-kok"
     },
     {
-      "name": "Mâm Amis",
-      "cuisine": "Vietnamese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/mm-amis"
-    },
-    {
-      "name": "Mono",
-      "cuisine": "Latin American",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/mono"
-    },
-    {
-      "name": "Mora",
-      "cuisine": "Innovative",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/mora"
-    },
-    {
       "name": "Mosu",
       "cuisine": "Innovative",
       "price": "$$$$",
@@ -753,42 +1069,6 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/mrs-fong-chinese-desserts"
-    },
-    {
-      "name": "Ăn Chơi",
-      "cuisine": "Vietnamese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/n-chi"
-    },
-    {
-      "name": "Nagamoto",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/nagamoto"
-    },
-    {
-      "name": "Neighborhood",
-      "cuisine": "European Contemporary",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/neighborhood"
-    },
-    {
-      "name": "New Punjab Club",
-      "cuisine": "Indian, Pakistani",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/new-punjab-club"
-    },
-    {
-      "name": "Noi by Paulo Airaudo",
-      "cuisine": "Italian Contemporary",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/noi-by-paulo-airaudo"
-    },
-    {
-      "name": "Octavium",
-      "cuisine": "Italian",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/octavium"
     },
     {
       "name": "One Harbour Road",
@@ -803,24 +1083,6 @@
       "path": "/china/hong-kong/hong-kong/owls"
     },
     {
-      "name": "Pang's Kitchen",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/pangs-kitchen"
-    },
-    {
-      "name": "Petrus",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/petrus"
-    },
-    {
-      "name": "Plaisance by Mauro Colagreco",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/plaisance-by-mauro-colagreco"
-    },
-    {
       "name": "Po Kee",
       "cuisine": "Cantonese Roast Meats",
       "price": "$",
@@ -833,46 +1095,16 @@
       "path": "/china/hong-kong/hong-kong/prince-and-the-peacock"
     },
     {
-      "name": "Épure",
-      "cuisine": "French Contemporary",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/pure"
-    },
-    {
       "name": "Putien (Causeway Bay)",
       "cuisine": "Fujian",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/putien-causeway-bay"
     },
     {
-      "name": "Racines",
-      "cuisine": "French Contemporary",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/racines"
-    },
-    {
-      "name": "Rùn",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/rn"
-    },
-    {
-      "name": "Roganic",
-      "cuisine": "European Contemporary",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/roganic"
-    },
-    {
       "name": "Roucou",
       "cuisine": "Innovative",
       "price": "$$$",
       "path": "/china/hong-kong/hong-kong/roucou"
-    },
-    {
-      "name": "Ryota Kappou Modern",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/ryota-kappou-modern"
     },
     {
       "name": "Sabah",
@@ -905,16 +1137,10 @@
       "path": "/china/hong-kong/hong-kong/saya"
     },
     {
-      "name": "Seventh Son (Wan Chai)",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/seventh-son-wan-chai"
-    },
-    {
-      "name": "Shang Palace",
-      "cuisine": "Cantonese",
+      "name": "Sếp",
+      "cuisine": "Vietnamese",
       "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/shang-palace"
+      "path": "/china/hong-kong/hong-kong/sp"
     },
     {
       "name": "She Wong Hei",
@@ -995,64 +1221,10 @@
       "path": "/china/hong-kong/hong-kong/sol"
     },
     {
-      "name": "Sếp",
-      "cuisine": "Vietnamese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/sp"
-    },
-    {
-      "name": "Spring Moon",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/spring-moon"
-    },
-    {
-      "name": "Summer Palace",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/summer-palace"
-    },
-    {
-      "name": "Sun Tung Lok",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/sun-tung-lok"
-    },
-    {
-      "name": "Sushi Saito",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/sushi-saito"
-    },
-    {
-      "name": "Sushi Shikon",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/sushi-shikon"
-    },
-    {
       "name": "Sushi Takeshi",
       "cuisine": "Sushi",
       "price": "$$$$",
       "path": "/china/hong-kong/hong-kong/sushi-takeshi"
-    },
-    {
-      "name": "Sushi Wadatsumi",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/sushi-wadatsumi"
-    },
-    {
-      "name": "Té Bo",
-      "cuisine": "French Contemporary",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/t-bo"
-    },
-    {
-      "name": "Ta Vie",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/ta-vie"
     },
     {
       "name": "Tai Tsai (Tsuen Wan)",
@@ -1091,22 +1263,16 @@
       "path": "/china/hong-kong/hong-kong/takeya"
     },
     {
-      "name": "T'ang Court",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/tang-court"
-    },
-    {
       "name": "Tasty (Central)",
       "cuisine": "Noodles and Congee",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/tasty-central"
     },
     {
-      "name": "Tate",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/tate"
+      "name": "Té Bo",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/china/hong-kong/hong-kong/t-bo"
     },
     {
       "name": "Temple Street Beef Offal",
@@ -1133,18 +1299,6 @@
       "path": "/china/hong-kong/hong-kong/thai-pai-dong-jordan"
     },
     {
-      "name": "The Chairman",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/the-chairman"
-    },
-    {
-      "name": "The Legacy House",
-      "cuisine": "Shun Tak",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/the-legacy-house"
-    },
-    {
       "name": "The Merchants",
       "cuisine": "Shanghainese",
       "price": "$$$",
@@ -1169,22 +1323,10 @@
       "path": "/china/hong-kong/hong-kong/tin-hung"
     },
     {
-      "name": "Tin Lung Heen",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/tin-lung-heen"
-    },
-    {
       "name": "Toritama",
       "cuisine": "Yakitori",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/toritama"
-    },
-    {
-      "name": "Tosca di Angelo",
-      "cuisine": "Italian",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/tosca-di-angelo"
     },
     {
       "name": "Trattoria Felino",
@@ -1203,12 +1345,6 @@
       "cuisine": "Noodles",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/tsim-chai-kee-wellington-street"
-    },
-    {
-      "name": "Tuber Umberto Bombana",
-      "cuisine": "Italian",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/tuber-umberto-bombana"
     },
     {
       "name": "Twins Liangpi Limited (Mong Kok)",
@@ -1235,22 +1371,10 @@
       "path": "/china/hong-kong/hong-kong/uncle-quek"
     },
     {
-      "name": "Vea",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/vea"
-    },
-    {
       "name": "Wang Fu",
       "cuisine": "Dumplings",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/wang-fu"
-    },
-    {
-      "name": "Whey",
-      "cuisine": "Asian Contemporary",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/whey"
     },
     {
       "name": "Wing",
@@ -1265,64 +1389,10 @@
       "path": "/china/hong-kong/hong-kong/wing-lai-yuen"
     },
     {
-      "name": "Xin Rong Ji",
-      "cuisine": "Taizhou",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/xin-rong-ji"
-    },
-    {
-      "name": "Yè Shanghai (Tsim Sha Tsui)",
-      "cuisine": "Shanghainese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/y-shanghai-tsim-sha-tsui"
-    },
-    {
-      "name": "Yardbird",
-      "cuisine": "Yakitori",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/yardbird"
-    },
-    {
-      "name": "Yat Lok (Central)",
-      "cuisine": "Cantonese Roast Meats",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/yat-lok-central"
-    },
-    {
-      "name": "Yat Tung Heen",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/yat-tung-heen"
-    },
-    {
       "name": "Yi Jia",
       "cuisine": "Shanghainese, Sichuan",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/yi-jia"
-    },
-    {
-      "name": "Ying Jee Club",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/china/hong-kong/hong-kong/ying-jee-club"
-    },
-    {
-      "name": "Yong Fu",
-      "cuisine": "Ningbo",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/yong-fu"
-    },
-    {
-      "name": "Yuè (Causeway Bay)",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/yu-causeway-bay"
-    },
-    {
-      "name": "Yuè (Gold Coast)",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/yu-gold-coast"
     },
     {
       "name": "Yuan",
@@ -1337,22 +1407,22 @@
       "path": "/china/hong-kong/hong-kong/yuan-is-here-western-district"
     },
     {
+      "name": "Yuè (Causeway Bay)",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/yu-causeway-bay"
+    },
+    {
+      "name": "Yuè (Gold Coast)",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/china/hong-kong/hong-kong/yu-gold-coast"
+    },
+    {
       "name": "Yue Kee",
       "cuisine": "Cantonese",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/yue-kee"
-    },
-    {
-      "name": "Zhejiang Heen",
-      "cuisine": "Zhejiang",
-      "price": "$$",
-      "path": "/china/hong-kong/hong-kong/zhejiang-heen"
-    },
-    {
-      "name": "Zuicho",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/china/hong-kong/hong-kong/zuicho"
     }
   ]
 }

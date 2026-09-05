@@ -1,8 +1,14 @@
 {
   "title": "Crawley",
-  "country": "uk",
-  "region": "crawley",
-  "city": "crawley",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "crawley",
+  "city": "Crawley",
+  "citySlug": "crawley",
+  "path": "/uk/crawley/crawley/restaurants",
+  "canonicalPath": "/uk/crawley/crawley/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Lamb Inn",

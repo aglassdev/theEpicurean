@@ -1,0 +1,26 @@
+{
+  "title": "Ojai",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Ojai",
+  "citySlug": "ojai",
+  "path": "/usa/other/ojai/restaurants",
+  "canonicalPath": "/usa/california/ojai/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Rory's Place",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/ojai/rorys-place"
+    },
+    {
+      "name": "The Dutchess",
+      "cuisine": "Burmese",
+      "price": "$$$",
+      "path": "/usa/california/ojai/the-dutchess"
+    }
+  ]
+}

@@ -1,29 +1,38 @@
 {
   "title": "Belfast",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": "Ireland",
+  "regionSlug": "ireland",
+  "city": "Belfast",
+  "citySlug": "belfast",
+  "path": "/ireland/ireland/belfast/restaurants",
+  "canonicalPath": "/ireland/ireland/belfast/restaurants",
+  "count": 4,
   "restaurants": [
     {
-      "name": "Titanic Hotel Belfast",
+      "name": "Malmaison Belfast",
       "cuisine": "Afternoon Tea",
-      "price": "39.00",
-      "path": "/ireland/ireland/belfast/TitanicHotelBelfast"
+      "price": "29.50",
+      "path": "/ireland/ireland/belfast/malmaison-belfast"
     },
     {
       "name": "Parisien",
       "cuisine": "Afternoon Tea",
       "price": "33.95",
-      "path": "/ireland/ireland/belfast/Parisien"
-    },
-    {
-      "name": "Malmaison Belfast",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/ireland/ireland/belfast/MalmaisonBelfast"
+      "path": "/ireland/ireland/belfast/parisien"
     },
     {
       "name": "The Fitzwilliam Hotel",
       "cuisine": "Afternoon Tea",
       "price": "35.00",
-      "path": "/ireland/ireland/belfast/TheFitzwilliamHotel"
+      "path": "/ireland/ireland/belfast/the-fitzwilliam-hotel"
+    },
+    {
+      "name": "Titanic Hotel Belfast",
+      "cuisine": "Afternoon Tea",
+      "price": "39.00",
+      "path": "/ireland/ireland/belfast/titanic-hotel-belfast"
     }
   ]
 }

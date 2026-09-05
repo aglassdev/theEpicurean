@@ -1,8 +1,14 @@
 {
   "title": "Mittelberg",
-  "country": "austria",
-  "region": "mittelberg",
-  "city": "mittelberg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "mittelberg",
+  "city": "Mittelberg",
+  "citySlug": "mittelberg",
+  "path": "/austria/mittelberg/mittelberg/restaurants",
+  "canonicalPath": "/austria/mittelberg/mittelberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Haller's",

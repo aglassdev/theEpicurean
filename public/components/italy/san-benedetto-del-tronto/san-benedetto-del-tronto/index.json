@@ -1,14 +1,20 @@
 {
-  "title": "San Benedetto Del Tronto",
-  "country": "italy",
-  "region": "san-benedetto-del-tronto",
-  "city": "san-benedetto-del-tronto",
+  "title": "San Benedetto del Tronto",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-benedetto-del-tronto",
+  "city": "San Benedetto del Tronto",
+  "citySlug": "san-benedetto-del-tronto",
+  "path": "/italy/san-benedetto-del-tronto/san-benedetto-del-tronto/restaurants",
+  "canonicalPath": "/italy/san-benedetto-del-tronto/san-benedetto-del-tronto/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Arca",
       "cuisine": "Modern Cuisine, Cuisine from Abruzzo",
       "price": "€€€",
-      "path": "/italy/san-benedetto-del-tronto/san-benedetto-del-tronto/arca"
+      "path": "/italy/san-benedetto-del-tronto/san-benedetto-del-tronto/arca-s-a-n"
     },
     {
       "name": "Degusteria del Gigante",

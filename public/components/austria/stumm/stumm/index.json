@@ -1,17 +1,27 @@
 {
   "title": "Stumm",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "stumm",
+  "city": "Stumm",
+  "citySlug": "stumm",
+  "path": "/austria/stumm/stumm/restaurants",
+  "canonicalPath": "/austria/stumm/stumm/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Guat'z Essen",
       "cuisine": "Vegetarian, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/austria/stumm/stumm/guatz-essen"
+      "path": "/austria/stumm/stumm/guatz-essen",
+      "award": "★"
     },
     {
       "name": "zum Nester",
       "cuisine": "Austrian",
       "price": "$$",
-      "path": "/austria/stumm/stumm/ZumNester"
+      "path": "/austria/stumm/stumm/zum-nester"
     }
   ]
 }

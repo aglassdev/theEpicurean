@@ -1,14 +1,20 @@
 {
   "title": "Encamp",
-  "country": "andorra",
-  "region": "encamp",
-  "city": "encamp",
+  "country": "Andorra",
+  "countrySlug": "andorra",
+  "region": null,
+  "regionSlug": "encamp",
+  "city": "Encamp",
+  "citySlug": "encamp",
+  "path": "/andorra/encamp/encamp/restaurants",
+  "canonicalPath": "/andorra/encamp/encamp/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Pardines 1819",
       "cuisine": "Contemporary",
       "price": "€€",
-      "path": "/andorra/encamp/encamp/les-pardines-1819"
+      "path": "/andorra/encamp/encamp/les-pardines1819"
     }
   ]
 }

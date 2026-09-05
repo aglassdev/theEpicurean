@@ -1,8 +1,14 @@
 {
   "title": "Pella",
-  "country": "italy",
-  "region": "pella",
-  "city": "pella",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pella",
+  "city": "Pella",
+  "citySlug": "pella",
+  "path": "/italy/pella/pella/restaurants",
+  "canonicalPath": "/italy/pella/pella/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Casa Fantini/Lake Time",

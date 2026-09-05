@@ -1,8 +1,14 @@
 {
   "title": "Tlalpan",
-  "country": "mexico",
-  "region": "tlalpan",
-  "city": "tlalpan",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "tlalpan",
+  "city": "Tlalpan",
+  "citySlug": "tlalpan",
+  "path": "/mexico/tlalpan/tlalpan/restaurants",
+  "canonicalPath": "/mexico/tlalpan/tlalpan/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Tacos Charly",

@@ -1,8 +1,14 @@
 {
   "title": "Rungis",
-  "country": "france",
-  "region": "rungis",
-  "city": "rungis",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "rungis",
+  "city": "Rungis",
+  "citySlug": "rungis",
+  "path": "/france/rungis/rungis/restaurants",
+  "canonicalPath": "/france/rungis/rungis/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Au Cœur du Marché",

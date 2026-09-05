@@ -1,14 +1,21 @@
 {
-  "title": "Colombires Sur Orb",
-  "country": "france",
-  "region": "colombires-sur-orb",
-  "city": "colombires-sur-orb",
+  "title": "Colombires sur Orb",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "colombires-sur-orb",
+  "city": "Colombires sur Orb",
+  "citySlug": "colombires-sur-orb",
+  "path": "/france/colombires-sur-orb/colombires-sur-orb/restaurants",
+  "canonicalPath": "/france/colombires-sur-orb/colombires-sur-orb/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Granit - La Mécanique des Frères Bonano",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/colombires-sur-orb/colombires-sur-orb/granit-la-mcanique-des-frres-bonano"
+      "path": "/france/colombires-sur-orb/colombires-sur-orb/granit-la-mcanique-des-frres-bonano",
+      "award": "★"
     }
   ]
 }

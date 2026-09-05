@@ -1,14 +1,20 @@
 {
   "title": "Nivelles",
-  "country": "belgium",
-  "region": "nivelles",
-  "city": "nivelles",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "nivelles",
+  "city": "Nivelles",
+  "citySlug": "nivelles",
+  "path": "/belgium/nivelles/nivelles/restaurants",
+  "canonicalPath": "/belgium/nivelles/nivelles/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "dis-moi où ?",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/belgium/nivelles/nivelles/dis-moi-o"
+      "path": "/belgium/nivelles/nivelles/dismoi-o"
     },
     {
       "name": "Divino Gusto",

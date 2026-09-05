@@ -1,8 +1,14 @@
 {
   "title": "Geneston",
-  "country": "france",
-  "region": "geneston",
-  "city": "geneston",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "geneston",
+  "city": "Geneston",
+  "citySlug": "geneston",
+  "path": "/france/geneston/geneston/restaurants",
+  "canonicalPath": "/france/geneston/geneston/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Pélican",

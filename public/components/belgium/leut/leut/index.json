@@ -1,8 +1,14 @@
 {
   "title": "Leut",
-  "country": "belgium",
-  "region": "leut",
-  "city": "leut",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "leut",
+  "city": "Leut",
+  "citySlug": "leut",
+  "path": "/belgium/leut/leut/restaurants",
+  "canonicalPath": "/belgium/leut/leut/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Osteria Cellini",

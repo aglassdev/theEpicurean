@@ -1,9 +1,22 @@
 {
   "title": "Slden",
-  "country": "austria",
-  "region": "slden",
-  "city": "slden",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "slden",
+  "city": "Slden",
+  "citySlug": "slden",
+  "path": "/austria/slden/slden/restaurants",
+  "canonicalPath": "/austria/slden/slden/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Ötztaler Stube",
+      "cuisine": "Modern Cuisine, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/austria/slden/slden/tztaler-stube",
+      "award": "★"
+    },
     {
       "name": "AD VINUM",
       "cuisine": "Regional Cuisine",
@@ -21,12 +34,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/austria/slden/slden/ice-q"
-    },
-    {
-      "name": "Ötztaler Stube",
-      "cuisine": "Modern Cuisine, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/austria/slden/slden/tztaler-stube"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Missillac",
-  "country": "france",
-  "region": "missillac",
-  "city": "missillac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "missillac",
+  "city": "Missillac",
+  "citySlug": "missillac",
+  "path": "/france/missillac/missillac/restaurants",
+  "canonicalPath": "/france/missillac/missillac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Montaigu - Domaine de la Bretesche",

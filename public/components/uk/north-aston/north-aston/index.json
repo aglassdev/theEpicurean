@@ -1,17 +1,27 @@
 {
   "title": "North Aston",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "north-aston",
+  "city": "North Aston",
+  "citySlug": "north-aston",
+  "path": "/uk/north-aston/north-aston/restaurants",
+  "canonicalPath": "/uk/north-aston/north-aston/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "The Yurt",
+      "cuisine": "Modern British",
+      "price": "$$",
+      "path": "/uk/north-aston/north-aston/the-yurt",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "The Yurt at Nicholsons",
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/north-aston/north-aston/the-yurt-at-nicholsons"
-    },
-    {
-      "name": "The Yurt",
-      "cuisine": "Modern British",
-      "price": "$$",
-      "path": "/uk/north-aston/north-aston/TheYurt"
     }
   ]
 }

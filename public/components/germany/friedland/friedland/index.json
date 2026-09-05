@@ -1,8 +1,14 @@
 {
   "title": "Friedland",
-  "country": "germany",
-  "region": "friedland",
-  "city": "friedland",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "friedland",
+  "city": "Friedland",
+  "citySlug": "friedland",
+  "path": "/germany/friedland/friedland/restaurants",
+  "canonicalPath": "/germany/friedland/friedland/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Genießer Stube - Daniel Raub",

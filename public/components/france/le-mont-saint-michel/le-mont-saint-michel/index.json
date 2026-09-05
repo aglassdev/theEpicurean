@@ -1,11 +1,20 @@
 {
-  "title": "Le Mont-Saint-Michel",
+  "title": "Le Mont Saint Michel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-mont-saint-michel",
+  "city": "Le Mont Saint Michel",
+  "citySlug": "le-mont-saint-michel",
+  "path": "/france/le-mont-saint-michel/le-mont-saint-michel/restaurants",
+  "canonicalPath": "/france/le-mont-saint-michel/le-mont-saint-michel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Logis Sainte Catherine",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/le-mont-saint-michel/le-mont-saint-michel/LeLogisSainteCatherine"
+      "path": "/france/le-mont-saint-michel/le-mont-saint-michel/le-logis-sainte-catherine"
     }
   ]
 }

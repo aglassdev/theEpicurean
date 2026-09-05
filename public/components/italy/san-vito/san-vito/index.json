@@ -1,11 +1,20 @@
 {
   "title": "San Vito",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-vito",
+  "city": "San Vito",
+  "citySlug": "san-vito",
+  "path": "/italy/san-vito/san-vito/restaurants",
+  "canonicalPath": "/italy/san-vito/san-vito/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Thelema - Maison de Cuisine",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/italy/san-vito/san-vito/ThelemaMaisonDeCuisine"
+      "path": "/italy/san-vito/san-vito/thelema-maison-de-cuisine"
     }
   ]
 }

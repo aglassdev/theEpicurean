@@ -1,26 +1,35 @@
 {
-  "title": "Valle De Guadalupe",
-  "country": "mexico",
-  "region": "valle-de-guadalupe",
-  "city": "valle-de-guadalupe",
+  "title": "Valle de Guadalupe",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "valle-de-guadalupe",
+  "city": "Valle de Guadalupe",
+  "citySlug": "valle-de-guadalupe",
+  "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/restaurants",
+  "canonicalPath": "/mexico/valle-de-guadalupe/valle-de-guadalupe/restaurants",
+  "count": 7,
   "restaurants": [
     {
       "name": "Animalón",
       "cuisine": "Mexican, Contemporary",
       "price": "$$$$",
-      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/animaln"
+      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/animaln",
+      "award": "★"
     },
     {
       "name": "Conchas de Piedra",
       "cuisine": "Seafood, Mexican",
       "price": "$$$",
-      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/conchas-de-piedra"
+      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/conchas-de-piedra",
+      "award": "★"
     },
     {
       "name": "Damiana",
       "cuisine": "Mexican, Fusion",
       "price": "$$$$",
-      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/damiana"
+      "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/damiana",
+      "award": "★"
     },
     {
       "name": "Deckman's En El Mogor",

@@ -1,14 +1,21 @@
 {
   "title": "Askham",
-  "country": "uk",
-  "region": "askham",
-  "city": "askham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "askham",
+  "city": "Askham",
+  "citySlug": "askham",
+  "path": "/uk/askham/askham/restaurants",
+  "canonicalPath": "/uk/askham/askham/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Allium at Askham Hall",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/askham/askham/allium-at-askham-hall"
+      "path": "/uk/askham/askham/allium-at-askham-hall",
+      "award": "★"
     }
   ]
 }

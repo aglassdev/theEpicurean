@@ -1,14 +1,21 @@
 {
   "title": "Puos Dalpago",
-  "country": "italy",
-  "region": "puos-dalpago",
-  "city": "puos-dalpago",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "puos-dalpago",
+  "city": "Puos Dalpago",
+  "citySlug": "puos-dalpago",
+  "path": "/italy/puos-dalpago/puos-dalpago/restaurants",
+  "canonicalPath": "/italy/puos-dalpago/puos-dalpago/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Locanda San Lorenzo",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/italy/puos-dalpago/puos-dalpago/locanda-san-lorenzo"
+      "path": "/italy/puos-dalpago/puos-dalpago/locanda-san-lorenzo",
+      "award": "★"
     }
   ]
 }

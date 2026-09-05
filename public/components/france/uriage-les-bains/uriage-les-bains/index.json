@@ -1,20 +1,27 @@
 {
-  "title": "Uriage Les Bains",
-  "country": "france",
-  "region": "uriage-les-bains",
-  "city": "uriage-les-bains",
+  "title": "Uriage les Bains",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "uriage-les-bains",
+  "city": "Uriage les Bains",
+  "citySlug": "uriage-les-bains",
+  "path": "/france/uriage-les-bains/uriage-les-bains/restaurants",
+  "canonicalPath": "/france/uriage-les-bains/uriage-les-bains/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Maison Aribert",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/uriage-les-bains/uriage-les-bains/maison-aribert",
+      "award": "★★"
+    },
     {
       "name": "Café A",
       "cuisine": "Traditional Cuisine, Modern Cuisine",
       "price": "€€",
       "path": "/france/uriage-les-bains/uriage-les-bains/caf-a"
-    },
-    {
-      "name": "Maison Aribert",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/uriage-les-bains/uriage-les-bains/maison-aribert"
     }
   ]
 }

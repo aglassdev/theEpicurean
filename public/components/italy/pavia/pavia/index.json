@@ -1,11 +1,20 @@
 {
   "title": "Pavia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pavia",
+  "city": "Pavia",
+  "citySlug": "pavia",
+  "path": "/italy/pavia/pavia/restaurants",
+  "canonicalPath": "/italy/pavia/pavia/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lino Bistrot",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/italy/pavia/pavia/LinoBistrot"
+      "path": "/italy/pavia/pavia/lino-bistrot"
     }
   ]
 }

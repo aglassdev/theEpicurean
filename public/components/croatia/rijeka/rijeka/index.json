@@ -1,9 +1,29 @@
 {
   "title": "Rijeka",
-  "country": "croatia",
-  "region": "rijeka",
-  "city": "rijeka",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "rijeka",
+  "city": "Rijeka",
+  "citySlug": "rijeka",
+  "path": "/croatia/rijeka/rijeka/restaurants",
+  "canonicalPath": "/croatia/rijeka/rijeka/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Nebo",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/croatia/rijeka/rijeka/nebo-r-i-j",
+      "award": "★"
+    },
+    {
+      "name": "Nebo by Deni Srdoč",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/croatia/rijeka/rijeka/nebo-by-deni-srdo",
+      "award": "★"
+    },
     {
       "name": "Bistro Grad",
       "cuisine": "Contemporary, Croatian",
@@ -15,18 +35,6 @@
       "cuisine": "Farm to table, Seasonal Cuisine",
       "price": "€€",
       "path": "/croatia/rijeka/rijeka/hidden-wine-bistro"
-    },
-    {
-      "name": "Nebo by Deni Srdoč",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/croatia/rijeka/rijeka/nebo-by-deni-srdo"
-    },
-    {
-      "name": "Nebo",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/croatia/rijeka/rijeka/nebo"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Vello",
-  "country": "italy",
-  "region": "vello",
-  "city": "vello",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "vello",
+  "city": "Vello",
+  "citySlug": "vello",
+  "path": "/italy/vello/vello/restaurants",
+  "canonicalPath": "/italy/vello/vello/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Trattoria Glisenti",

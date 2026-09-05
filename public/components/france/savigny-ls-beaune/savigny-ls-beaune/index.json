@@ -1,14 +1,20 @@
 {
   "title": "Savigny Ls Beaune",
-  "country": "france",
-  "region": "savigny-ls-beaune",
-  "city": "savigny-ls-beaune",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "savigny-ls-beaune",
+  "city": "Savigny Ls Beaune",
+  "citySlug": "savigny-ls-beaune",
+  "path": "/france/savigny-ls-beaune/savigny-ls-beaune/restaurants",
+  "canonicalPath": "/france/savigny-ls-beaune/savigny-ls-beaune/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le 428",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/savigny-ls-beaune/savigny-ls-beaune/le-428"
+      "path": "/france/savigny-ls-beaune/savigny-ls-beaune/le428"
     }
   ]
 }

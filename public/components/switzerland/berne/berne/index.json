@@ -1,6 +1,36 @@
 {
   "title": "Berne",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "berne",
+  "city": "Berne",
+  "citySlug": "berne",
+  "path": "/switzerland/berne/berne/restaurants",
+  "canonicalPath": "/switzerland/berne/berne/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Steinhalle",
+      "cuisine": "Creative, International",
+      "price": "€€€€",
+      "path": "/switzerland/berne/berne/steinhalle",
+      "award": "★"
+    },
+    {
+      "name": "Wein & Sein",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€€",
+      "path": "/switzerland/berne/berne/wein-sein",
+      "award": "★"
+    },
+    {
+      "name": "ZOE",
+      "cuisine": "Vegetarian, Modern Cuisine",
+      "price": "€€€",
+      "path": "/switzerland/berne/berne/zoe",
+      "award": "★"
+    },
     {
       "name": "Casa Novo",
       "cuisine": "Mediterranean Cuisine, Seasonal Cuisine",
@@ -29,7 +59,13 @@
       "name": "moment",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€",
-      "path": "/switzerland/berne/berne/moment"
+      "path": "/switzerland/berne/berne/moment-b-e-r"
+    },
+    {
+      "name": "MYLE",
+      "cuisine": "World Cuisine",
+      "price": "$$$$",
+      "path": "/switzerland/berne/berne/myle"
     },
     {
       "name": "noumi",
@@ -38,34 +74,10 @@
       "path": "/switzerland/berne/berne/noumi"
     },
     {
-      "name": "Steinhalle",
-      "cuisine": "Creative, International",
-      "price": "€€€€",
-      "path": "/switzerland/berne/berne/steinhalle"
-    },
-    {
-      "name": "Wein & Sein",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€€",
-      "path": "/switzerland/berne/berne/wein-sein"
-    },
-    {
-      "name": "ZOE",
-      "cuisine": "Vegetarian, Modern Cuisine",
-      "price": "€€€",
-      "path": "/switzerland/berne/berne/zoe"
-    },
-    {
       "name": "Zum Zähringer",
       "cuisine": "Classic French",
       "price": "€€€",
       "path": "/switzerland/berne/berne/zum-zhringer"
-    },
-    {
-      "name": "MYLE",
-      "cuisine": "World Cuisine",
-      "price": "$$$$",
-      "path": "/switzerland/berne/berne/Myle"
     }
   ]
 }

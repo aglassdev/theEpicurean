@@ -1,14 +1,21 @@
 {
   "title": "Benissa",
-  "country": "spain",
-  "region": "benissa",
-  "city": "benissa",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "benissa",
+  "city": "Benissa",
+  "citySlug": "benissa",
+  "path": "/spain/benissa/benissa/restaurants",
+  "canonicalPath": "/spain/benissa/benissa/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Casa Bernardi",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/spain/benissa/benissa/casa-bernardi"
+      "path": "/spain/benissa/benissa/casa-bernardi",
+      "award": "★"
     },
     {
       "name": "Casa Cantó",

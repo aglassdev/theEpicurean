@@ -1,59 +1,68 @@
 {
   "title": "Cumbria",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "North West",
+  "regionSlug": "north-west",
+  "city": "Cumbria",
+  "citySlug": "cumbria",
+  "path": "/uk/north-west/cumbria/restaurants",
+  "canonicalPath": "/uk/north-west/cumbria/restaurants",
+  "count": 9,
   "restaurants": [
     {
-      "name": "Sawrey House",
+      "name": "Armathwaite Hall Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "19.95",
-      "path": "/uk/north-west/cumbria/SawreyHouse"
-    },
-    {
-      "name": "Ravenglass Railway",
-      "cuisine": "Afternoon Tea",
-      "price": "60.00",
-      "path": "/uk/north-west/cumbria/RavenglassRailway"
-    },
-    {
-      "name": "Macdonald Old England Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/north-west/cumbria/MacdonaldOldEnglandHotel"
-    },
-    {
-      "name": "Macdonald Leeming House",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/north-west/cumbria/MacdonaldLeemingHouse"
-    },
-    {
-      "name": "Holbeck Ghyll Country House Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "36.00",
-      "path": "/uk/north-west/cumbria/HolbeckGhyllCountryHouseHotel"
-    },
-    {
-      "name": "Hillthwaite",
-      "cuisine": "Afternoon Tea",
-      "price": "56.00",
-      "path": "/uk/north-west/cumbria/Hillthwaite"
-    },
-    {
-      "name": "Cragwood Country House Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "259.00",
-      "path": "/uk/north-west/cumbria/CragwoodCountryHouseHotel"
+      "price": "53.00",
+      "path": "/uk/north-west/cumbria/armathwaite-hall-hotel"
     },
     {
       "name": "BAHA",
       "cuisine": "Afternoon Tea",
       "price": "32.00",
-      "path": "/uk/north-west/cumbria/Baha"
+      "path": "/uk/north-west/cumbria/baha"
     },
     {
-      "name": "Armathwaite Hall Hotel",
+      "name": "Cragwood Country House Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "53.00",
-      "path": "/uk/north-west/cumbria/ArmathwaiteHallHotel"
+      "price": "259.00",
+      "path": "/uk/north-west/cumbria/cragwood-country-house-hotel"
+    },
+    {
+      "name": "Hillthwaite",
+      "cuisine": "Afternoon Tea",
+      "price": "56.00",
+      "path": "/uk/north-west/cumbria/hillthwaite"
+    },
+    {
+      "name": "Holbeck Ghyll Country House Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "36.00",
+      "path": "/uk/north-west/cumbria/holbeck-ghyll-country-house-hotel"
+    },
+    {
+      "name": "Macdonald Leeming House",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/north-west/cumbria/macdonald-leeming-house"
+    },
+    {
+      "name": "Macdonald Old England Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/north-west/cumbria/macdonald-old-england-hotel"
+    },
+    {
+      "name": "Ravenglass Railway",
+      "cuisine": "Afternoon Tea",
+      "price": "60.00",
+      "path": "/uk/north-west/cumbria/ravenglass-railway"
+    },
+    {
+      "name": "Sawrey House",
+      "cuisine": "Afternoon Tea",
+      "price": "19.95",
+      "path": "/uk/north-west/cumbria/sawrey-house"
     }
   ]
 }

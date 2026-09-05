@@ -1,17 +1,27 @@
 {
   "title": "Rivoli",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "rivoli",
+  "city": "Rivoli",
+  "citySlug": "rivoli",
+  "path": "/italy/rivoli/rivoli/restaurants",
+  "canonicalPath": "/italy/rivoli/rivoli/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Combal Zero",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/rivoli/rivoli/combal-zero",
+      "award": "World's 50 Best"
+    },
     {
       "name": "Between",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/italy/rivoli/rivoli/between"
-    },
-    {
-      "name": "Combal Zero",
-      "cuisine": "",
-      "price": "",
-      "path": "/italy/rivoli/rivoli/CombalZero"
     }
   ]
 }

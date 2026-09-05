@@ -1,14 +1,35 @@
 {
   "title": "Bergen",
-  "country": "norway",
-  "region": "bergen",
-  "city": "bergen",
+  "country": "Norway",
+  "countrySlug": "norway",
+  "region": null,
+  "regionSlug": "bergen",
+  "city": "Bergen",
+  "citySlug": "bergen",
+  "path": "/norway/bergen/bergen/restaurants",
+  "canonicalPath": "/norway/bergen/bergen/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Gaptrast",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/norway/bergen/bergen/gaptrast"
+      "path": "/norway/bergen/bergen/gaptrast",
+      "award": "★"
+    },
+    {
+      "name": "Lysverket",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/norway/bergen/bergen/lysverket",
+      "award": "★"
+    },
+    {
+      "name": "Omakase by Sergey Pak",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/norway/bergen/bergen/omakase-by-sergey-pak",
+      "award": "★"
     },
     {
       "name": "Izakaya Skostredet",
@@ -17,28 +38,10 @@
       "path": "/norway/bergen/bergen/izakaya-skostredet"
     },
     {
-      "name": "Lysverket",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/norway/bergen/bergen/lysverket"
-    },
-    {
       "name": "Moon",
       "cuisine": "French",
       "price": "€€",
       "path": "/norway/bergen/bergen/moon"
-    },
-    {
-      "name": "Moon",
-      "cuisine": "French",
-      "price": "€€€",
-      "path": "/norway/bergen/bergen/moon"
-    },
-    {
-      "name": "Omakase by Sergey Pak",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/norway/bergen/bergen/omakase-by-sergey-pak"
     }
   ]
 }

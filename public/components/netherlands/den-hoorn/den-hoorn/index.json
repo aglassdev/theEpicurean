@@ -1,20 +1,27 @@
 {
   "title": "Den Hoorn",
-  "country": "netherlands",
-  "region": "den-hoorn",
-  "city": "den-hoorn",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "den-hoorn",
+  "city": "Den Hoorn",
+  "citySlug": "den-hoorn",
+  "path": "/netherlands/den-hoorn/den-hoorn/restaurants",
+  "canonicalPath": "/netherlands/den-hoorn/den-hoorn/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bij Jef",
       "cuisine": "Regional Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/netherlands/den-hoorn/den-hoorn/bij-jef"
+      "path": "/netherlands/den-hoorn/den-hoorn/bij-jef",
+      "award": "★"
     },
     {
       "name": "Bosq",
       "cuisine": "Contemporary, Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/netherlands/den-hoorn/den-hoorn/bosq"
+      "path": "/netherlands/den-hoorn/den-hoorn/bosq-d-e-n"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Lunden",
-  "country": "germany",
-  "region": "lunden",
-  "city": "lunden",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "lunden",
+  "city": "Lunden",
+  "citySlug": "lunden",
+  "path": "/germany/lunden/lunden/restaurants",
+  "canonicalPath": "/germany/lunden/lunden/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lindenhof 1887",
       "cuisine": "Country cooking, Farm to table",
       "price": "€€",
-      "path": "/germany/lunden/lunden/lindenhof-1887"
+      "path": "/germany/lunden/lunden/lindenhof1887"
     }
   ]
 }

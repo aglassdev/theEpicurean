@@ -1,8 +1,14 @@
 {
   "title": "Kilchberg",
-  "country": "switzerland",
-  "region": "kilchberg",
-  "city": "kilchberg",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "kilchberg",
+  "city": "Kilchberg",
+  "citySlug": "kilchberg",
+  "path": "/switzerland/kilchberg/kilchberg/restaurants",
+  "canonicalPath": "/switzerland/kilchberg/kilchberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Oberer Mönchhof",

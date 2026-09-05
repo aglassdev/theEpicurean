@@ -1,14 +1,21 @@
 {
   "title": "Hayingen",
-  "country": "germany",
-  "region": "hayingen",
-  "city": "hayingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hayingen",
+  "city": "Hayingen",
+  "citySlug": "hayingen",
+  "path": "/germany/hayingen/hayingen/restaurants",
+  "canonicalPath": "/germany/hayingen/hayingen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Restaurant 1950",
       "cuisine": "Regional Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/hayingen/hayingen/restaurant-1950"
+      "path": "/germany/hayingen/hayingen/restaurant1950",
+      "award": "★"
     },
     {
       "name": "ROSE",

@@ -1,9 +1,22 @@
 {
   "title": "Tignes",
-  "country": "france",
-  "region": "tignes",
-  "city": "tignes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tignes",
+  "city": "Tignes",
+  "citySlug": "tignes",
+  "path": "/france/tignes/tignes/restaurants",
+  "canonicalPath": "/france/tignes/tignes/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Ursus",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/tignes/tignes/ursus",
+      "award": "★"
+    },
     {
       "name": "La Table de Jeanne",
       "cuisine": "Savoyard",
@@ -15,12 +28,6 @@
       "cuisine": "Traditional Cuisine, Grills",
       "price": "€€€€",
       "path": "/france/tignes/tignes/le-panoramic"
-    },
-    {
-      "name": "Ursus",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/tignes/tignes/ursus"
     }
   ]
 }

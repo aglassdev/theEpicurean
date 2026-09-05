@@ -1,9 +1,29 @@
 {
   "title": "Karlsruhe",
-  "country": "germany",
-  "region": "karlsruhe",
-  "city": "karlsruhe",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "karlsruhe",
+  "city": "Karlsruhe",
+  "citySlug": "karlsruhe",
+  "path": "/germany/karlsruhe/karlsruhe/restaurants",
+  "canonicalPath": "/germany/karlsruhe/karlsruhe/restaurants",
+  "count": 12,
   "restaurants": [
+    {
+      "name": "sein",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/karlsruhe/karlsruhe/sein",
+      "award": "★★"
+    },
+    {
+      "name": "TAWA YAMA FINE",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/karlsruhe/karlsruhe/tawa-yama-fine",
+      "award": "★"
+    },
     {
       "name": "5 SEN:SES by Mario Aliberti",
       "cuisine": "International, Italian",
@@ -50,13 +70,7 @@
       "name": "Restaurant 1463",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
-      "path": "/germany/karlsruhe/karlsruhe/restaurant-1463"
-    },
-    {
-      "name": "sein",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/germany/karlsruhe/karlsruhe/sein"
+      "path": "/germany/karlsruhe/karlsruhe/restaurant1463"
     },
     {
       "name": "Stilbruch",
@@ -69,12 +83,6 @@
       "cuisine": "Asian Contemporary",
       "price": "€€",
       "path": "/germany/karlsruhe/karlsruhe/tawa-yama-easy"
-    },
-    {
-      "name": "TAWA YAMA FINE",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€€",
-      "path": "/germany/karlsruhe/karlsruhe/tawa-yama-fine"
     }
   ]
 }

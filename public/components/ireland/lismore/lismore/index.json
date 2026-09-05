@@ -1,8 +1,14 @@
 {
   "title": "Lismore",
-  "country": "ireland",
-  "region": "lismore",
-  "city": "lismore",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "lismore",
+  "city": "Lismore",
+  "citySlug": "lismore",
+  "path": "/ireland/lismore/lismore/restaurants",
+  "canonicalPath": "/ireland/lismore/lismore/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Farmgate Lismore",

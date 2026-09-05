@@ -1,8 +1,14 @@
 {
   "title": "Deurle",
-  "country": "belgium",
-  "region": "deurle",
-  "city": "deurle",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "deurle",
+  "city": "Deurle",
+  "citySlug": "deurle",
+  "path": "/belgium/deurle/deurle/restaurants",
+  "canonicalPath": "/belgium/deurle/deurle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Deboeveries",

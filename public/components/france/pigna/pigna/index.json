@@ -1,8 +1,14 @@
 {
   "title": "Pigna",
-  "country": "france",
-  "region": "pigna",
-  "city": "pigna",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pigna",
+  "city": "Pigna",
+  "citySlug": "pigna",
+  "path": "/france/pigna/pigna/restaurants",
+  "canonicalPath": "/france/pigna/pigna/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "A Mandria di Pigna",

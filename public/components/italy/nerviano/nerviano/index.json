@@ -1,8 +1,14 @@
 {
   "title": "Nerviano",
-  "country": "italy",
-  "region": "nerviano",
-  "city": "nerviano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "nerviano",
+  "city": "Nerviano",
+  "citySlug": "nerviano",
+  "path": "/italy/nerviano/nerviano/restaurants",
+  "canonicalPath": "/italy/nerviano/nerviano/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Antica Locanda del Villoresi",

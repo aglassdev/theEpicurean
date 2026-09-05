@@ -1,53 +1,62 @@
 {
   "title": "Cornwall",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South West",
+  "regionSlug": "south-west",
+  "city": "Cornwall",
+  "citySlug": "cornwall",
+  "path": "/uk/south-west/cornwall/restaurants",
+  "canonicalPath": "/uk/south-west/cornwall/restaurants",
+  "count": 8,
   "restaurants": [
-    {
-      "name": "Boscundle Manor",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/south-west/cornwall/BoscundleManor"
-    },
     {
       "name": "Bedruthan Hotel & Spa",
       "cuisine": "Afternoon Tea",
       "price": "25.00",
-      "path": "/uk/south-west/cornwall/BedruthanHotelSpa"
+      "path": "/uk/south-west/cornwall/bedruthan-hotel-spa"
     },
     {
-      "name": "Ugly Butterfly",
+      "name": "Boscundle Manor",
       "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/south-west/cornwall/UglyButterfly"
-    },
-    {
-      "name": "St Michaels Resort",
-      "cuisine": "Afternoon Tea",
-      "price": "19.50",
-      "path": "/uk/south-west/cornwall/StMichaelsResort"
-    },
-    {
-      "name": "Scarlet Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "30.00",
-      "path": "/uk/south-west/cornwall/ScarletHotel"
-    },
-    {
-      "name": "Polurrian Bay Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "39.00",
-      "path": "/uk/south-west/cornwall/PolurrianBayHotel"
-    },
-    {
-      "name": "Harbour Loft at St Michael's Mount",
-      "cuisine": "Afternoon Tea",
-      "price": "32.50",
-      "path": "/uk/south-west/cornwall/HarbourLoftAtStMichaelsMount"
+      "price": "29.50",
+      "path": "/uk/south-west/cornwall/boscundle-manor"
     },
     {
       "name": "Fowey Hall",
       "cuisine": "Afternoon Tea",
       "price": "30.00",
-      "path": "/uk/south-west/cornwall/FoweyHall"
+      "path": "/uk/south-west/cornwall/fowey-hall"
+    },
+    {
+      "name": "Harbour Loft at St Michael's Mount",
+      "cuisine": "Afternoon Tea",
+      "price": "32.50",
+      "path": "/uk/south-west/cornwall/harbour-loft-at-st-michaels-mount"
+    },
+    {
+      "name": "Polurrian Bay Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "39.00",
+      "path": "/uk/south-west/cornwall/polurrian-bay-hotel"
+    },
+    {
+      "name": "Scarlet Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "30.00",
+      "path": "/uk/south-west/cornwall/scarlet-hotel"
+    },
+    {
+      "name": "St Michaels Resort",
+      "cuisine": "Afternoon Tea",
+      "price": "19.50",
+      "path": "/uk/south-west/cornwall/st-michaels-resort"
+    },
+    {
+      "name": "Ugly Butterfly",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/south-west/cornwall/ugly-butterfly"
     }
   ]
 }

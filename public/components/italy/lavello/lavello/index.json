@@ -1,14 +1,21 @@
 {
   "title": "Lavello",
-  "country": "italy",
-  "region": "lavello",
-  "city": "lavello",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "lavello",
+  "city": "Lavello",
+  "citySlug": "lavello",
+  "path": "/italy/lavello/lavello/restaurants",
+  "canonicalPath": "/italy/lavello/lavello/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Don Alfonso 1890 San Barbato",
       "cuisine": "Country cooking, Creative",
       "price": "€€€",
-      "path": "/italy/lavello/lavello/don-alfonso-1890-san-barbato"
+      "path": "/italy/lavello/lavello/don-alfonso1890-san-barbato",
+      "award": "★"
     },
     {
       "name": "Forentum",

@@ -1,20 +1,27 @@
 {
   "title": "Arezzo",
-  "country": "italy",
-  "region": "arezzo",
-  "city": "arezzo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "arezzo",
+  "city": "Arezzo",
+  "citySlug": "arezzo",
+  "path": "/italy/arezzo/arezzo/restaurants",
+  "canonicalPath": "/italy/arezzo/arezzo/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Octavin",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/arezzo/arezzo/octavin",
+      "award": "★"
+    },
     {
       "name": "Le Chiavi d'Oro",
       "cuisine": "Modern Cuisine, Traditional Cuisine",
       "price": "€€",
       "path": "/italy/arezzo/arezzo/le-chiavi-doro"
-    },
-    {
-      "name": "Octavin",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/arezzo/arezzo/octavin"
     },
     {
       "name": "Osteria Grande",
@@ -26,7 +33,7 @@
       "name": "Saffron",
       "cuisine": "Seafood",
       "price": "€€",
-      "path": "/italy/arezzo/arezzo/saffron"
+      "path": "/italy/arezzo/arezzo/saffron-a-r-e"
     }
   ]
 }

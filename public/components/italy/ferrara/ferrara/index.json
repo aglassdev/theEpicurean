@@ -1,8 +1,14 @@
 {
   "title": "Ferrara",
-  "country": "italy",
-  "region": "ferrara",
-  "city": "ferrara",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ferrara",
+  "city": "Ferrara",
+  "citySlug": "ferrara",
+  "path": "/italy/ferrara/ferrara/restaurants",
+  "canonicalPath": "/italy/ferrara/ferrara/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Ca' d'Frara",

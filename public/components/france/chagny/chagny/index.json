@@ -1,14 +1,21 @@
 {
   "title": "Chagny",
-  "country": "france",
-  "region": "chagny",
-  "city": "chagny",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chagny",
+  "city": "Chagny",
+  "citySlug": "chagny",
+  "path": "/france/chagny/chagny/restaurants",
+  "canonicalPath": "/france/chagny/chagny/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maison Lameloise",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/chagny/chagny/maison-lameloise"
+      "path": "/france/chagny/chagny/maison-lameloise",
+      "award": "★★★"
     }
   ]
 }

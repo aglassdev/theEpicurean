@@ -1,20 +1,27 @@
 {
   "title": "Holten",
-  "country": "netherlands",
-  "region": "holten",
-  "city": "holten",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "holten",
+  "city": "Holten",
+  "citySlug": "holten",
+  "path": "/netherlands/holten/holten/restaurants",
+  "canonicalPath": "/netherlands/holten/holten/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "De Swarte Ruijter",
+      "cuisine": "Modern Cuisine, Modern French",
+      "price": "€€€",
+      "path": "/netherlands/holten/holten/de-swarte-ruijter",
+      "award": "★"
+    },
     {
       "name": "Bistro de Holterberg",
       "cuisine": "Classic Cuisine",
       "price": "€€",
       "path": "/netherlands/holten/holten/bistro-de-holterberg"
-    },
-    {
-      "name": "De Swarte Ruijter",
-      "cuisine": "Modern Cuisine, Modern French",
-      "price": "€€€",
-      "path": "/netherlands/holten/holten/de-swarte-ruijter"
     },
     {
       "name": "Hoog Holten",

@@ -1,14 +1,21 @@
 {
-  "title": "Castellammare Di Stabia",
-  "country": "italy",
-  "region": "castellammare-di-stabia",
-  "city": "castellammare-di-stabia",
+  "title": "Castellammare di Stabia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "castellammare-di-stabia",
+  "city": "Castellammare di Stabia",
+  "citySlug": "castellammare-di-stabia",
+  "path": "/italy/castellammare-di-stabia/castellammare-di-stabia/restaurants",
+  "canonicalPath": "/italy/castellammare-di-stabia/castellammare-di-stabia/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Piazzetta Milù",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/castellammare-di-stabia/castellammare-di-stabia/piazzetta-mil"
+      "path": "/italy/castellammare-di-stabia/castellammare-di-stabia/piazzetta-mil",
+      "award": "★★"
     }
   ]
 }

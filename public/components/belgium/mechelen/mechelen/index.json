@@ -1,9 +1,28 @@
 {
   "title": "Mechelen",
-  "country": "belgium",
-  "region": "mechelen",
-  "city": "mechelen",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "mechelen",
+  "city": "Mechelen",
+  "citySlug": "mechelen",
+  "path": "/belgium/mechelen/mechelen/restaurants",
+  "canonicalPath": "/belgium/mechelen/mechelen/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Tinèlle",
+      "cuisine": "French Contemporary",
+      "price": "€€€",
+      "path": "/belgium/mechelen/mechelen/tinlle",
+      "award": "★"
+    },
+    {
+      "name": "'t Gasthuis by InstroomArt",
+      "cuisine": "Farm to table, International",
+      "price": "€€€€",
+      "path": "/belgium/mechelen/mechelen/t-gasthuis-by-instroomart"
+    },
     {
       "name": "Cosma",
       "cuisine": "Sharing, Contemporary",
@@ -23,22 +42,10 @@
       "path": "/belgium/mechelen/mechelen/graspoort"
     },
     {
-      "name": "'t Gasthuis by InstroomArt",
-      "cuisine": "Farm to table, International",
-      "price": "€€€€",
-      "path": "/belgium/mechelen/mechelen/t-gasthuis-by-instroomart"
-    },
-    {
       "name": "The Chick",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/belgium/mechelen/mechelen/the-chick"
-    },
-    {
-      "name": "Tinèlle",
-      "cuisine": "French Contemporary",
-      "price": "€€€",
-      "path": "/belgium/mechelen/mechelen/tinlle"
     }
   ]
 }

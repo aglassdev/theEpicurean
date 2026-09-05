@@ -1,8 +1,14 @@
 {
   "title": "Padua",
-  "country": "italy",
-  "region": "padua",
-  "city": "padua",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "padua",
+  "city": "Padua",
+  "citySlug": "padua",
+  "path": "/italy/padua/padua/restaurants",
+  "canonicalPath": "/italy/padua/padua/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Ai Porteghi Bistrot",

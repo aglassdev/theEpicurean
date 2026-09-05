@@ -1,26 +1,34 @@
 {
   "title": "Dortmund",
-  "country": "germany",
-  "region": "dortmund",
-  "city": "dortmund",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "dortmund",
+  "city": "Dortmund",
+  "citySlug": "dortmund",
+  "path": "/germany/dortmund/dortmund/restaurants",
+  "canonicalPath": "/germany/dortmund/dortmund/restaurants",
+  "count": 5,
   "restaurants": [
-    {
-      "name": "La Cuisine Mario Kalweit",
-      "cuisine": "Classic French",
-      "price": "€€€",
-      "path": "/germany/dortmund/dortmund/la-cuisine-mario-kalweit"
-    },
     {
       "name": "SchwarzGold",
       "cuisine": "Regional Cuisine, International",
       "price": "€€€€",
-      "path": "/germany/dortmund/dortmund/schwarzgold"
+      "path": "/germany/dortmund/dortmund/schwarzgold",
+      "award": "★"
     },
     {
       "name": "The Stage",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/germany/dortmund/dortmund/the-stage"
+      "path": "/germany/dortmund/dortmund/the-stage",
+      "award": "★"
+    },
+    {
+      "name": "La Cuisine Mario Kalweit",
+      "cuisine": "Classic French",
+      "price": "€€€",
+      "path": "/germany/dortmund/dortmund/la-cuisine-mario-kalweit"
     },
     {
       "name": "VIDA",

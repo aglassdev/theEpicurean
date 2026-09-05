@@ -1,8 +1,14 @@
 {
   "title": "Cortona",
-  "country": "italy",
-  "region": "cortona",
-  "city": "cortona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cortona",
+  "city": "Cortona",
+  "citySlug": "cortona",
+  "path": "/italy/cortona/cortona/restaurants",
+  "canonicalPath": "/italy/cortona/cortona/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Enoteca Meucci",

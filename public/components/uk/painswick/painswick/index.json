@@ -1,8 +1,14 @@
 {
   "title": "Painswick",
-  "country": "uk",
-  "region": "painswick",
-  "city": "painswick",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "painswick",
+  "city": "Painswick",
+  "citySlug": "painswick",
+  "path": "/uk/painswick/painswick/restaurants",
+  "canonicalPath": "/uk/painswick/painswick/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sauce",

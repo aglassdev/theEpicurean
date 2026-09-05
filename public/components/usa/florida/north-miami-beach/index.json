@@ -1,11 +1,21 @@
 {
   "title": "North Miami Beach",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "North Miami Beach",
+  "citySlug": "north-miami-beach",
+  "path": "/usa/florida/north-miami-beach/restaurants",
+  "canonicalPath": "/usa/florida/north-miami-beach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Barra Callao",
       "cuisine": "Peruvian",
       "price": "$$",
-      "path": "/usa/florida/north-miami-beach/BarraCallao"
+      "path": "/usa/florida/north-miami-beach/barra-callao",
+      "award": "Bib Gourmand"
     }
   ]
 }

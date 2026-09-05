@@ -1,14 +1,21 @@
 {
   "title": "Gummersbach",
-  "country": "germany",
-  "region": "gummersbach",
-  "city": "gummersbach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "gummersbach",
+  "city": "Gummersbach",
+  "citySlug": "gummersbach",
+  "path": "/germany/gummersbach/gummersbach/restaurants",
+  "canonicalPath": "/germany/gummersbach/gummersbach/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Mühlenhelle",
       "cuisine": "Modern French",
       "price": "€€€€",
-      "path": "/germany/gummersbach/gummersbach/mhlenhelle"
+      "path": "/germany/gummersbach/gummersbach/mhlenhelle",
+      "award": "★"
     },
     {
       "name": "Mühlenhelle - Bistro",

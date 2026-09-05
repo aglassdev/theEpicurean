@@ -1,8 +1,14 @@
 {
   "title": "Tor",
-  "country": "spain",
-  "region": "tor",
-  "city": "tor",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "tor",
+  "city": "Tor",
+  "citySlug": "tor",
+  "path": "/spain/tor/tor/restaurants",
+  "canonicalPath": "/spain/tor/tor/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hostal Jaumet",

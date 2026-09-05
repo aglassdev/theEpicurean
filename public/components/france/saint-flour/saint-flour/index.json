@@ -1,8 +1,14 @@
 {
   "title": "Saint Flour",
-  "country": "france",
-  "region": "saint-flour",
-  "city": "saint-flour",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-flour",
+  "city": "Saint Flour",
+  "citySlug": "saint-flour",
+  "path": "/france/saint-flour/saint-flour/restaurants",
+  "canonicalPath": "/france/saint-flour/saint-flour/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Folie des Sens",

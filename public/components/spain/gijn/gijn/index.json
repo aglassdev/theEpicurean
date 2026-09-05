@@ -1,20 +1,34 @@
 {
   "title": "Gijn",
-  "country": "spain",
-  "region": "gijn",
-  "city": "gijn",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "gijn",
+  "city": "Gijn",
+  "citySlug": "gijn",
+  "path": "/spain/gijn/gijn/restaurants",
+  "canonicalPath": "/spain/gijn/gijn/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Auga",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/gijn/gijn/auga",
+      "award": "★"
+    },
+    {
+      "name": "Marcos",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/gijn/gijn/marcos",
+      "award": "★"
+    },
     {
       "name": "Abarike",
       "cuisine": "Seafood, Contemporary",
       "price": "€€",
       "path": "/spain/gijn/gijn/abarike"
-    },
-    {
-      "name": "Auga",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€€",
-      "path": "/spain/gijn/gijn/auga"
     },
     {
       "name": "El Recetario",
@@ -39,18 +53,6 @@
       "cuisine": "Contemporary, Regional Cuisine",
       "price": "€€",
       "path": "/spain/gijn/gijn/gloria"
-    },
-    {
-      "name": "Gloria",
-      "cuisine": "Contemporary, Regional Cuisine",
-      "price": "€€",
-      "path": "/spain/gijn/gijn/gloria"
-    },
-    {
-      "name": "Marcos",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/gijn/gijn/marcos"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "title": "Olot",
-  "country": "spain",
-  "region": "olot",
-  "city": "olot",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "olot",
+  "city": "Olot",
+  "citySlug": "olot",
+  "path": "/spain/olot/olot/restaurants",
+  "canonicalPath": "/spain/olot/olot/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Les Cols",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/olot/olot/les-cols",
+      "award": "★★"
+    },
     {
       "name": "Equilibri",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/olot/olot/equilibri"
-    },
-    {
-      "name": "Les Cols",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/olot/olot/les-cols"
     }
   ]
 }

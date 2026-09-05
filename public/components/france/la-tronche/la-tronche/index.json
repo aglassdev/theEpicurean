@@ -1,8 +1,14 @@
 {
   "title": "La Tronche",
-  "country": "france",
-  "region": "la-tronche",
-  "city": "la-tronche",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-tronche",
+  "city": "La Tronche",
+  "citySlug": "la-tronche",
+  "path": "/france/la-tronche/la-tronche/restaurants",
+  "canonicalPath": "/france/la-tronche/la-tronche/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Maison Badine",

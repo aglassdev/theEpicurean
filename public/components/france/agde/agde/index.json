@@ -1,8 +1,14 @@
 {
   "title": "Agde",
-  "country": "france",
-  "region": "agde",
-  "city": "agde",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "agde",
+  "city": "Agde",
+  "citySlug": "agde",
+  "path": "/france/agde/agde/restaurants",
+  "canonicalPath": "/france/agde/agde/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Bistro d'Hervé",

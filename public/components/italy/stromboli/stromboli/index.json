@@ -1,8 +1,14 @@
 {
   "title": "Stromboli",
-  "country": "italy",
-  "region": "stromboli",
-  "city": "stromboli",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "stromboli",
+  "city": "Stromboli",
+  "citySlug": "stromboli",
+  "path": "/italy/stromboli/stromboli/restaurants",
+  "canonicalPath": "/italy/stromboli/stromboli/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Punta Lena",

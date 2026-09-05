@@ -1,8 +1,14 @@
 {
   "title": "Evreux",
-  "country": "france",
-  "region": "evreux",
-  "city": "evreux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "evreux",
+  "city": "Evreux",
+  "citySlug": "evreux",
+  "path": "/france/evreux/evreux/restaurants",
+  "canonicalPath": "/france/evreux/evreux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Gazette",

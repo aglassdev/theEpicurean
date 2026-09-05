@@ -1,23 +1,33 @@
 {
   "title": "Nideggen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "nideggen",
+  "city": "Nideggen",
+  "citySlug": "nideggen",
+  "path": "/germany/nideggen/nideggen/restaurants",
+  "canonicalPath": "/germany/nideggen/nideggen/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Burg Nideggen - Brockel Schlimbach",
       "cuisine": "Modern Cuisine, Modern French",
       "price": "€€€€",
-      "path": "/germany/nideggen/nideggen/burg-nideggen-brockel-schlimbach"
+      "path": "/germany/nideggen/nideggen/burg-nideggen-brockel-schlimbach",
+      "award": "★"
+    },
+    {
+      "name": "Burg Nideggen - Kaiserblick",
+      "cuisine": "Farm to table",
+      "price": "$$",
+      "path": "/germany/nideggen/nideggen/burg-nideggen-kaiserblick"
     },
     {
       "name": "Kaiserblick",
       "cuisine": "Farm to table",
       "price": "€€",
       "path": "/germany/nideggen/nideggen/kaiserblick"
-    },
-    {
-      "name": "Burg Nideggen - Kaiserblick",
-      "cuisine": "Farm to table",
-      "price": "$$",
-      "path": "/germany/nideggen/nideggen/BurgNideggenKaiserblick"
     }
   ]
 }

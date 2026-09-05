@@ -1,20 +1,21 @@
 {
   "title": "Dorking",
-  "country": "uk",
-  "region": "dorking",
-  "city": "dorking",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "dorking",
+  "city": "Dorking",
+  "citySlug": "dorking",
+  "path": "/uk/dorking/dorking/restaurants",
+  "canonicalPath": "/uk/dorking/dorking/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sorrel",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/dorking/dorking/sorrel"
-    },
-    {
-      "name": "Sorrel",
-      "cuisine": "Modern British",
-      "price": "££££",
-      "path": "/uk/dorking/dorking/sorrel"
+      "path": "/uk/dorking/dorking/sorrel-d-o-r",
+      "award": "★"
     }
   ]
 }

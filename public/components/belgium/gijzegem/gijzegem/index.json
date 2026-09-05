@@ -1,14 +1,20 @@
 {
   "title": "Gijzegem",
-  "country": "belgium",
-  "region": "gijzegem",
-  "city": "gijzegem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "gijzegem",
+  "city": "Gijzegem",
+  "citySlug": "gijzegem",
+  "path": "/belgium/gijzegem/gijzegem/restaurants",
+  "canonicalPath": "/belgium/gijzegem/gijzegem/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pacht 26",
       "cuisine": "Farm to table",
       "price": "€€€",
-      "path": "/belgium/gijzegem/gijzegem/pacht-26"
+      "path": "/belgium/gijzegem/gijzegem/pacht26"
     }
   ]
 }

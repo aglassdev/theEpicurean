@@ -1,8 +1,14 @@
 {
   "title": "Saint Maurice",
-  "country": "france",
-  "region": "saint-maurice",
-  "city": "saint-maurice",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-maurice",
+  "city": "Saint Maurice",
+  "citySlug": "saint-maurice",
+  "path": "/france/saint-maurice/saint-maurice/restaurants",
+  "canonicalPath": "/france/saint-maurice/saint-maurice/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Tandem Saveurs Nomades",

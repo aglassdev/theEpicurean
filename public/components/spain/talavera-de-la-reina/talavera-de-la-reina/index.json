@@ -1,6 +1,22 @@
 {
-  "title": "Talavera De La Reina",
+  "title": "Talavera de la Reina",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "talavera-de-la-reina",
+  "city": "Talavera de la Reina",
+  "citySlug": "talavera-de-la-reina",
+  "path": "/spain/talavera-de-la-reina/talavera-de-la-reina/restaurants",
+  "canonicalPath": "/spain/talavera-de-la-reina/talavera-de-la-reina/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Raíces-Carlos Maldonado",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/spain/talavera-de-la-reina/talavera-de-la-reina/racescarlos-maldonado",
+      "award": "★"
+    },
     {
       "name": "Los Trujis",
       "cuisine": "Creative",
@@ -8,16 +24,10 @@
       "path": "/spain/talavera-de-la-reina/talavera-de-la-reina/los-trujis"
     },
     {
-      "name": "Raíces-Carlos Maldonado",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/spain/talavera-de-la-reina/talavera-de-la-reina/races-carlos-maldonado"
-    },
-    {
       "name": "Zinco Zentido",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/spain/talavera-de-la-reina/talavera-de-la-reina/ZincoZentido"
+      "path": "/spain/talavera-de-la-reina/talavera-de-la-reina/zinco-zentido"
     }
   ]
 }

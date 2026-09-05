@@ -1,8 +1,14 @@
 {
   "title": "Porcia",
-  "country": "italy",
-  "region": "porcia",
-  "city": "porcia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "porcia",
+  "city": "Porcia",
+  "citySlug": "porcia",
+  "path": "/italy/porcia/porcia/restaurants",
+  "canonicalPath": "/italy/porcia/porcia/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Ciotola",

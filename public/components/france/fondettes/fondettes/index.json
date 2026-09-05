@@ -1,20 +1,27 @@
 {
   "title": "Fondettes",
-  "country": "france",
-  "region": "fondettes",
-  "city": "fondettes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "fondettes",
+  "city": "Fondettes",
+  "citySlug": "fondettes",
+  "path": "/france/fondettes/fondettes/restaurants",
+  "canonicalPath": "/france/fondettes/fondettes/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "L'Opidom",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/fondettes/fondettes/lopidom",
+      "award": "★"
+    },
     {
       "name": "Auberge de Port Vallières",
       "cuisine": "Traditional Cuisine, Modern Cuisine",
       "price": "€€",
       "path": "/france/fondettes/fondettes/auberge-de-port-vallires"
-    },
-    {
-      "name": "L'Opidom",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/fondettes/fondettes/lopidom"
     }
   ]
 }

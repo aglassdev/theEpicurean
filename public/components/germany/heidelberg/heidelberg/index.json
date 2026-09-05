@@ -1,6 +1,22 @@
 {
   "title": "Heidelberg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "heidelberg",
+  "city": "Heidelberg",
+  "citySlug": "heidelberg",
+  "path": "/germany/heidelberg/heidelberg/restaurants",
+  "canonicalPath": "/germany/heidelberg/heidelberg/restaurants",
+  "count": 8,
   "restaurants": [
+    {
+      "name": "Oben",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/heidelberg/heidelberg/oben",
+      "award": "★"
+    },
     {
       "name": "959",
       "cuisine": "Contemporary, Classic Cuisine",
@@ -12,6 +28,12 @@
       "cuisine": "International, Mediterranean Cuisine",
       "price": "€€",
       "path": "/germany/heidelberg/heidelberg/chambao"
+    },
+    {
+      "name": "Der Philosoph",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/germany/heidelberg/heidelberg/der-philosoph"
     },
     {
       "name": "Die Kurfürstenstube",
@@ -26,28 +48,16 @@
       "path": "/germany/heidelberg/heidelberg/grenzhof"
     },
     {
-      "name": "Oben",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/heidelberg/heidelberg/oben"
-    },
-    {
       "name": "Traube",
       "cuisine": "Regional Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/heidelberg/heidelberg/traube"
+      "path": "/germany/heidelberg/heidelberg/traube-h-e-i"
     },
     {
       "name": "Weisser Bock",
       "cuisine": "International",
       "price": "€€€",
       "path": "/germany/heidelberg/heidelberg/weisser-bock"
-    },
-    {
-      "name": "Der Philosoph",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/germany/heidelberg/heidelberg/DerPhilosoph"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Hambledon",
-  "country": "uk",
-  "region": "hambledon",
-  "city": "hambledon",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "hambledon",
+  "city": "Hambledon",
+  "citySlug": "hambledon",
+  "path": "/uk/hambledon/hambledon/restaurants",
+  "canonicalPath": "/uk/hambledon/hambledon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hambledon Vineyard",

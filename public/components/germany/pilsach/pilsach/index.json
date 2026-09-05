@@ -1,8 +1,14 @@
 {
   "title": "Pilsach",
-  "country": "germany",
-  "region": "pilsach",
-  "city": "pilsach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "pilsach",
+  "city": "Pilsach",
+  "citySlug": "pilsach",
+  "path": "/germany/pilsach/pilsach/restaurants",
+  "canonicalPath": "/germany/pilsach/pilsach/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "HIO",

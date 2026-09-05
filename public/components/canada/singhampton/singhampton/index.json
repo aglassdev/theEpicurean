@@ -1,11 +1,21 @@
 {
   "title": "Singhampton",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "singhampton",
+  "city": "Singhampton",
+  "citySlug": "singhampton",
+  "path": "/canada/singhampton/singhampton/restaurants",
+  "canonicalPath": "/canada/singhampton/singhampton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Eigensinn Farm",
       "cuisine": "",
       "price": "",
-      "path": "/canada/singhampton/singhampton/EigensinnFarm"
+      "path": "/canada/singhampton/singhampton/eigensinn-farm",
+      "award": "World's 50 Best"
     }
   ]
 }

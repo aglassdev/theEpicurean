@@ -1,8 +1,14 @@
 {
   "title": "Capbreton",
-  "country": "france",
-  "region": "capbreton",
-  "city": "capbreton",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "capbreton",
+  "city": "Capbreton",
+  "citySlug": "capbreton",
+  "path": "/france/capbreton/capbreton/restaurants",
+  "canonicalPath": "/france/capbreton/capbreton/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Goustut",

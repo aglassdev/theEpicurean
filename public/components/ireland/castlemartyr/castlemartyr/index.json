@@ -1,20 +1,21 @@
 {
   "title": "Castlemartyr",
-  "country": "ireland",
-  "region": "castlemartyr",
-  "city": "castlemartyr",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "castlemartyr",
+  "city": "Castlemartyr",
+  "citySlug": "castlemartyr",
+  "path": "/ireland/castlemartyr/castlemartyr/restaurants",
+  "canonicalPath": "/ireland/castlemartyr/castlemartyr/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Terre",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/ireland/castlemartyr/castlemartyr/terre"
-    },
-    {
-      "name": "Terre",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/ireland/castlemartyr/castlemartyr/terre"
+      "path": "/ireland/castlemartyr/castlemartyr/terre",
+      "award": "★★"
     }
   ]
 }

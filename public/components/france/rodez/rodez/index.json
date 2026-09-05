@@ -1,9 +1,22 @@
 {
   "title": "Rodez",
-  "country": "france",
-  "region": "rodez",
-  "city": "rodez",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "rodez",
+  "city": "Rodez",
+  "citySlug": "rodez",
+  "path": "/france/rodez/rodez/restaurants",
+  "canonicalPath": "/france/rodez/rodez/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Restaurant Hervé Busset",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/rodez/rodez/restaurant-herv-busset",
+      "award": "★"
+    },
     {
       "name": "Café Bras",
       "cuisine": "Modern Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/rodez/rodez/opra"
-    },
-    {
-      "name": "Restaurant Hervé Busset",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/rodez/rodez/restaurant-herv-busset"
     }
   ]
 }

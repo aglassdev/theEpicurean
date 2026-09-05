@@ -1,14 +1,20 @@
 {
   "title": "Digoin",
-  "country": "france",
-  "region": "digoin",
-  "city": "digoin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "digoin",
+  "city": "Digoin",
+  "citySlug": "digoin",
+  "path": "/france/digoin/digoin/restaurants",
+  "canonicalPath": "/france/digoin/digoin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Évidence",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/digoin/digoin/lvidence"
+      "path": "/france/digoin/digoin/lvidence-d-i-g"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Lumio",
-  "country": "france",
-  "region": "lumio",
-  "city": "lumio",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lumio",
+  "city": "Lumio",
+  "citySlug": "lumio",
+  "path": "/france/lumio/lumio/restaurants",
+  "canonicalPath": "/france/lumio/lumio/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "A Casa di Mà",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/lumio/lumio/a-casa-di-m"
+      "path": "/france/lumio/lumio/a-casa-di-m",
+      "award": "★"
     }
   ]
 }

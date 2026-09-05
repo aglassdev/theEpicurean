@@ -1,14 +1,20 @@
 {
   "title": "Le Creusot",
-  "country": "france",
-  "region": "le-creusot",
-  "city": "le-creusot",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-creusot",
+  "city": "Le Creusot",
+  "citySlug": "le-creusot",
+  "path": "/france/le-creusot/le-creusot/restaurants",
+  "canonicalPath": "/france/le-creusot/le-creusot/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La fleur de Sel",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/le-creusot/le-creusot/la-fleur-de-sel"
+      "path": "/france/le-creusot/le-creusot/la-fleur-de-sel-l-e-c"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "title": "Markham",
-  "country": "canada",
-  "region": "markham",
-  "city": "markham",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "markham",
+  "city": "Markham",
+  "citySlug": "markham",
+  "path": "/canada/markham/markham/restaurants",
+  "canonicalPath": "/canada/markham/markham/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Zen",
       "cuisine": "Japanese, Sushi",
       "price": "$$$$",
-      "path": "/canada/markham/markham/zen"
-    },
-    {
-      "name": "Zen",
-      "cuisine": "Japanese, Sushi",
-      "price": "$$$$",
-      "path": "/canada/markham/markham/zen"
+      "path": "/canada/markham/markham/rzen"
     }
   ]
 }

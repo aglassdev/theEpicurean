@@ -1,8 +1,14 @@
 {
   "title": "Le Perrier",
-  "country": "france",
-  "region": "le-perrier",
-  "city": "le-perrier",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-perrier",
+  "city": "Le Perrier",
+  "citySlug": "le-perrier",
+  "path": "/france/le-perrier/le-perrier/restaurants",
+  "canonicalPath": "/france/le-perrier/le-perrier/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Rosô",

@@ -1,14 +1,21 @@
 {
-  "title": "Pont De Vaux",
-  "country": "france",
-  "region": "pont-de-vaux",
-  "city": "pont-de-vaux",
+  "title": "Pont de Vaux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pont-de-vaux",
+  "city": "Pont de Vaux",
+  "citySlug": "pont-de-vaux",
+  "path": "/france/pont-de-vaux/pont-de-vaux/restaurants",
+  "canonicalPath": "/france/pont-de-vaux/pont-de-vaux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Raisin",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/pont-de-vaux/pont-de-vaux/le-raisin"
+      "path": "/france/pont-de-vaux/pont-de-vaux/le-raisin",
+      "award": "★"
     }
   ]
 }

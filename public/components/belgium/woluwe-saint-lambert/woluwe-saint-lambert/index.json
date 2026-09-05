@@ -1,14 +1,21 @@
 {
   "title": "Woluwe Saint Lambert",
-  "country": "belgium",
-  "region": "woluwe-saint-lambert",
-  "city": "woluwe-saint-lambert",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "woluwe-saint-lambert",
+  "city": "Woluwe Saint Lambert",
+  "citySlug": "woluwe-saint-lambert",
+  "path": "/belgium/woluwe-saint-lambert/woluwe-saint-lambert/restaurants",
+  "canonicalPath": "/belgium/woluwe-saint-lambert/woluwe-saint-lambert/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Da Mimmo",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/belgium/woluwe-saint-lambert/woluwe-saint-lambert/da-mimmo"
+      "path": "/belgium/woluwe-saint-lambert/woluwe-saint-lambert/da-mimmo",
+      "award": "★"
     },
     {
       "name": "De Maurice à Olivier",

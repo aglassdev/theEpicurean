@@ -1,8 +1,14 @@
 {
   "title": "Eisenach",
-  "country": "germany",
-  "region": "eisenach",
-  "city": "eisenach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "eisenach",
+  "city": "Eisenach",
+  "citySlug": "eisenach",
+  "path": "/germany/eisenach/eisenach/restaurants",
+  "canonicalPath": "/germany/eisenach/eisenach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Weinrestaurant Turmschänke",

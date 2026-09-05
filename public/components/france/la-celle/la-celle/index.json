@@ -1,8 +1,14 @@
 {
   "title": "La Celle",
-  "country": "france",
-  "region": "la-celle",
-  "city": "la-celle",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-celle",
+  "city": "La Celle",
+  "citySlug": "la-celle",
+  "path": "/france/la-celle/la-celle/restaurants",
+  "canonicalPath": "/france/la-celle/la-celle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hostellerie de l'Abbaye de la Celle",

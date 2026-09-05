@@ -1,14 +1,21 @@
 {
   "title": "Baudour",
-  "country": "belgium",
-  "region": "baudour",
-  "city": "baudour",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "baudour",
+  "city": "Baudour",
+  "citySlug": "baudour",
+  "path": "/belgium/baudour/baudour/restaurants",
+  "canonicalPath": "/belgium/baudour/baudour/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "d'Eugénie à Emilie",
       "cuisine": "Classic French, Traditional Cuisine",
       "price": "€€€€",
-      "path": "/belgium/baudour/baudour/deugnie-emilie"
+      "path": "/belgium/baudour/baudour/deugnie-emilie",
+      "award": "★★"
     },
     {
       "name": "Le Faitout",

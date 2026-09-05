@@ -1,8 +1,14 @@
 {
   "title": "Frjus",
-  "country": "france",
-  "region": "frjus",
-  "city": "frjus",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "frjus",
+  "city": "Frjus",
+  "citySlug": "frjus",
+  "path": "/france/frjus/frjus/restaurants",
+  "canonicalPath": "/france/frjus/frjus/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Amandier",

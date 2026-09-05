@@ -1,6 +1,22 @@
 {
   "title": "The Hague",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "the-hague",
+  "city": "The Hague",
+  "citySlug": "the-hague",
+  "path": "/netherlands/the-hague/the-hague/restaurants",
+  "canonicalPath": "/netherlands/the-hague/the-hague/restaurants",
+  "count": 20,
   "restaurants": [
+    {
+      "name": "Calla's",
+      "cuisine": "Creative French",
+      "price": "€€€€",
+      "path": "/netherlands/the-hague/the-hague/callas",
+      "award": "★"
+    },
     {
       "name": "6&24",
       "cuisine": "Modern Cuisine, International",
@@ -14,16 +30,16 @@
       "path": "/netherlands/the-hague/the-hague/basaal"
     },
     {
+      "name": "Bog",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/netherlands/the-hague/the-hague/bog"
+    },
+    {
       "name": "Bøg",
       "cuisine": "Creative, Scandinavian",
       "price": "€€€",
       "path": "/netherlands/the-hague/the-hague/bg"
-    },
-    {
-      "name": "Calla's",
-      "cuisine": "Creative French",
-      "price": "€€€€",
-      "path": "/netherlands/the-hague/the-hague/callas"
     },
     {
       "name": "Catch by Simonis",
@@ -62,6 +78,12 @@
       "path": "/netherlands/the-hague/the-hague/portfolio"
     },
     {
+      "name": "Ramen Kitanoya",
+      "cuisine": "Ramen",
+      "price": "$",
+      "path": "/netherlands/the-hague/the-hague/ramen-kitanoya"
+    },
+    {
       "name": "Restaurant ñ",
       "cuisine": "Spanish",
       "price": "€€",
@@ -71,7 +93,7 @@
       "name": "Resumé by 6&24",
       "cuisine": "International",
       "price": "€€",
-      "path": "/netherlands/the-hague/the-hague/resum-by-624"
+      "path": "/netherlands/the-hague/the-hague/resum-by624"
     },
     {
       "name": "Sequenza",
@@ -95,7 +117,7 @@
       "name": "Villa Coucou-La cuisine d'Alexandre",
       "cuisine": "French, Seasonal Cuisine",
       "price": "€€",
-      "path": "/netherlands/the-hague/the-hague/villa-coucou-la-cuisine-dalexandre"
+      "path": "/netherlands/the-hague/the-hague/villa-coucoula-cuisine-dalexandre"
     },
     {
       "name": "Wox",
@@ -108,18 +130,6 @@
       "cuisine": "Fusion",
       "price": "€€€",
       "path": "/netherlands/the-hague/the-hague/zheng"
-    },
-    {
-      "name": "Bog",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/netherlands/the-hague/the-hague/Bog"
-    },
-    {
-      "name": "Ramen Kitanoya",
-      "cuisine": "Ramen",
-      "price": "$",
-      "path": "/netherlands/the-hague/the-hague/RamenKitanoya"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Tresserve",
-  "country": "france",
-  "region": "tresserve",
-  "city": "tresserve",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tresserve",
+  "city": "Tresserve",
+  "citySlug": "tresserve",
+  "path": "/france/tresserve/tresserve/restaurants",
+  "canonicalPath": "/france/tresserve/tresserve/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de L'Incomparable",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/tresserve/tresserve/la-table-de-lincomparable"
+      "path": "/france/tresserve/tresserve/la-table-de-lincomparable",
+      "award": "★"
     }
   ]
 }

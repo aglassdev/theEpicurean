@@ -1,8 +1,14 @@
 {
   "title": "Khon Kaen",
-  "country": "thailand",
-  "region": "khon-kaen",
-  "city": "khon-kaen",
+  "country": "Thailand",
+  "countrySlug": "thailand",
+  "region": null,
+  "regionSlug": "khon-kaen",
+  "city": "Khon Kaen",
+  "citySlug": "khon-kaen",
+  "path": "/thailand/khon-kaen/khon-kaen/restaurants",
+  "canonicalPath": "/thailand/khon-kaen/khon-kaen/restaurants",
+  "count": 27,
   "restaurants": [
     {
       "name": "Baan Heng",
@@ -95,12 +101,6 @@
       "path": "/thailand/khon-kaen/khon-kaen/mana"
     },
     {
-      "name": "Mana",
-      "cuisine": "Thai-Chinese",
-      "price": "฿฿",
-      "path": "/thailand/khon-kaen/khon-kaen/mana"
-    },
-    {
       "name": "Mekin Farm",
       "cuisine": "Isan",
       "price": "฿฿",
@@ -140,7 +140,7 @@
       "name": "Song 24 Nor",
       "cuisine": "Thai",
       "price": "฿",
-      "path": "/thailand/khon-kaen/khon-kaen/song-24-nor"
+      "path": "/thailand/khon-kaen/khon-kaen/song24-nor"
     },
     {
       "name": "Sookjailand",

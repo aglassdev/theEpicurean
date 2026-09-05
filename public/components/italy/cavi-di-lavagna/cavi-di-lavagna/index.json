@@ -1,14 +1,21 @@
 {
-  "title": "Cavi Di Lavagna",
-  "country": "italy",
-  "region": "cavi-di-lavagna",
-  "city": "cavi-di-lavagna",
+  "title": "Cavi di Lavagna",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cavi-di-lavagna",
+  "city": "Cavi di Lavagna",
+  "citySlug": "cavi-di-lavagna",
+  "path": "/italy/cavi-di-lavagna/cavi-di-lavagna/restaurants",
+  "canonicalPath": "/italy/cavi-di-lavagna/cavi-di-lavagna/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Impronta d'Acqua",
       "cuisine": "Italian Contemporary, Creative",
       "price": "€€€",
-      "path": "/italy/cavi-di-lavagna/cavi-di-lavagna/impronta-dacqua"
+      "path": "/italy/cavi-di-lavagna/cavi-di-lavagna/impronta-dacqua",
+      "award": "★"
     },
     {
       "name": "Raieü",

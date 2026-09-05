@@ -1,14 +1,20 @@
 {
   "title": "Eybens",
-  "country": "france",
-  "region": "eybens",
-  "city": "eybens",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "eybens",
+  "city": "Eybens",
+  "citySlug": "eybens",
+  "path": "/france/eybens/eybens/restaurants",
+  "canonicalPath": "/france/eybens/eybens/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table du 20",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/eybens/eybens/la-table-du-20"
+      "path": "/france/eybens/eybens/la-table-du20"
     }
   ]
 }

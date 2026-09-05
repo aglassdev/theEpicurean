@@ -1,14 +1,21 @@
 {
   "title": "Feldberger Seenlandschaft",
-  "country": "germany",
-  "region": "feldberger-seenlandschaft",
-  "city": "feldberger-seenlandschaft",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "feldberger-seenlandschaft",
+  "city": "Feldberger Seenlandschaft",
+  "citySlug": "feldberger-seenlandschaft",
+  "path": "/germany/feldberger-seenlandschaft/feldberger-seenlandschaft/restaurants",
+  "canonicalPath": "/germany/feldberger-seenlandschaft/feldberger-seenlandschaft/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Alte Schule - Klassenzimmer",
       "cuisine": "Modern Cuisine, Country cooking",
       "price": "€€€€",
-      "path": "/germany/feldberger-seenlandschaft/feldberger-seenlandschaft/alte-schule-klassenzimmer"
+      "path": "/germany/feldberger-seenlandschaft/feldberger-seenlandschaft/alte-schule-klassenzimmer",
+      "award": "★"
     }
   ]
 }

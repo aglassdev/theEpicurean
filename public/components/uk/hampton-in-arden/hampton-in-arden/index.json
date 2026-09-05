@@ -1,14 +1,21 @@
 {
-  "title": "Hampton In Arden",
-  "country": "uk",
-  "region": "hampton-in-arden",
-  "city": "hampton-in-arden",
+  "title": "Hampton in Arden",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "hampton-in-arden",
+  "city": "Hampton in Arden",
+  "citySlug": "hampton-in-arden",
+  "path": "/uk/hampton-in-arden/hampton-in-arden/restaurants",
+  "canonicalPath": "/uk/hampton-in-arden/hampton-in-arden/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Grace & Savour",
       "cuisine": "Modern Cuisine",
       "price": "££££",
-      "path": "/uk/hampton-in-arden/hampton-in-arden/grace-savour"
+      "path": "/uk/hampton-in-arden/hampton-in-arden/grace-savour",
+      "award": "★"
     },
     {
       "name": "Kynd",

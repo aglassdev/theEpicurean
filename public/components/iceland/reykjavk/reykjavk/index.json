@@ -1,47 +1,57 @@
 {
-  "title": "Reykjavík",
+  "title": "Reykjavk",
+  "country": "Iceland",
+  "countrySlug": "iceland",
+  "region": null,
+  "regionSlug": "reykjavk",
+  "city": "Reykjavk",
+  "citySlug": "reykjavk",
+  "path": "/iceland/reykjavk/reykjavk/restaurants",
+  "canonicalPath": "/iceland/reykjavk/reykjavk/restaurants",
+  "count": 7,
   "restaurants": [
     {
       "name": "ÓX",
       "cuisine": "Creative",
       "price": "$$$$",
-      "path": "/iceland/reykjavk/reykjavk/X"
+      "path": "/iceland/reykjavk/reykjavk/x",
+      "award": "★"
     },
     {
       "name": "Hosiló",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/iceland/reykjavk/reykjavk/Hosil"
+      "path": "/iceland/reykjavk/reykjavk/hosil"
     },
     {
       "name": "Lóla",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/iceland/reykjavk/reykjavk/Lla"
+      "path": "/iceland/reykjavk/reykjavk/lla"
     },
     {
       "name": "Matur og Drykkur",
       "cuisine": "Traditional Cuisine",
       "price": "$$$$",
-      "path": "/iceland/reykjavk/reykjavk/MaturOgDrykkur"
+      "path": "/iceland/reykjavk/reykjavk/matur-og-drykkur"
     },
     {
       "name": "OTO",
       "cuisine": "Fusion",
       "price": "$$$$",
-      "path": "/iceland/reykjavk/reykjavk/Oto"
+      "path": "/iceland/reykjavk/reykjavk/oto"
     },
     {
       "name": "Sümac",
       "cuisine": "Middle Eastern",
       "price": "$$$",
-      "path": "/iceland/reykjavk/reykjavk/Smac"
+      "path": "/iceland/reykjavk/reykjavk/smac"
     },
     {
       "name": "TIDES",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/iceland/reykjavk/reykjavk/Tides"
+      "path": "/iceland/reykjavk/reykjavk/tides"
     }
   ]
 }

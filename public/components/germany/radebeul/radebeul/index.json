@@ -1,14 +1,21 @@
 {
   "title": "Radebeul",
-  "country": "germany",
-  "region": "radebeul",
-  "city": "radebeul",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "radebeul",
+  "city": "Radebeul",
+  "citySlug": "radebeul",
+  "path": "/germany/radebeul/radebeul/restaurants",
+  "canonicalPath": "/germany/radebeul/radebeul/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Atelier Sanssouci",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/radebeul/radebeul/atelier-sanssouci"
+      "path": "/germany/radebeul/radebeul/atelier-sanssouci",
+      "award": "★"
     }
   ]
 }

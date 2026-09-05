@@ -1,14 +1,20 @@
 {
   "title": "Goult",
-  "country": "france",
-  "region": "goult",
-  "city": "goult",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "goult",
+  "city": "Goult",
+  "citySlug": "goult",
+  "path": "/france/goult/goult/restaurants",
+  "canonicalPath": "/france/goult/goult/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Bartavelle",
       "cuisine": "Provençal",
       "price": "€€",
-      "path": "/france/goult/goult/la-bartavelle"
+      "path": "/france/goult/goult/la-bartavelle-g-o-u"
     },
     {
       "name": "Le Carillon",

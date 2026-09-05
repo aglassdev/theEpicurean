@@ -1,14 +1,21 @@
 {
   "title": "Bernried",
-  "country": "germany",
-  "region": "bernried",
-  "city": "bernried",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bernried",
+  "city": "Bernried",
+  "citySlug": "bernried",
+  "path": "/germany/bernried/bernried/restaurants",
+  "canonicalPath": "/germany/bernried/bernried/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Schwingshackl ESSKULTUR",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/germany/bernried/bernried/schwingshackl-esskultur"
+      "path": "/germany/bernried/bernried/schwingshackl-esskultur",
+      "award": "★"
     },
     {
       "name": "Schwingshackl HEIMATKÜCHE",

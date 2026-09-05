@@ -1,20 +1,27 @@
 {
   "title": "Combrit",
-  "country": "france",
-  "region": "combrit",
-  "city": "combrit",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "combrit",
+  "city": "Combrit",
+  "citySlug": "combrit",
+  "path": "/france/combrit/combrit/restaurants",
+  "canonicalPath": "/france/combrit/combrit/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Les Trois Rochers",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/combrit/combrit/les-trois-rochers",
+      "award": "★"
+    },
     {
       "name": "Bistrot du Bac",
       "cuisine": "Seafood",
       "price": "€€",
       "path": "/france/combrit/combrit/bistrot-du-bac"
-    },
-    {
-      "name": "Les Trois Rochers",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/combrit/combrit/les-trois-rochers"
     }
   ]
 }

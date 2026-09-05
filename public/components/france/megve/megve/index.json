@@ -1,9 +1,36 @@
 {
   "title": "Megve",
-  "country": "france",
-  "region": "megve",
-  "city": "megve",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "megve",
+  "city": "Megve",
+  "citySlug": "megve",
+  "path": "/france/megve/megve/restaurants",
+  "canonicalPath": "/france/megve/megve/restaurants",
+  "count": 10,
   "restaurants": [
+    {
+      "name": "Flocons de Sel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/megve/megve/flocons-de-sel",
+      "award": "★★★"
+    },
+    {
+      "name": "La Table de l'Alpaga",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/megve/megve/la-table-de-lalpaga",
+      "award": "★"
+    },
+    {
+      "name": "Vous",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/megve/megve/vous",
+      "award": "★"
+    },
     {
       "name": "Anata",
       "cuisine": "Japanese",
@@ -23,28 +50,16 @@
       "path": "/france/megve/megve/breizh-caf-megve"
     },
     {
-      "name": "Flocons de Sel",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/megve/megve/flocons-de-sel"
-    },
-    {
       "name": "Kaito",
       "cuisine": "Japanese, Fusion",
       "price": "€€€€",
       "path": "/france/megve/megve/kaito"
     },
     {
-      "name": "La Table de l'Alpaga",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/megve/megve/la-table-de-lalpaga"
-    },
-    {
       "name": "Le Prieuré",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/megve/megve/le-prieur"
+      "path": "/france/megve/megve/le-prieur-m-e-g"
     },
     {
       "name": "Le Refuge",
@@ -56,13 +71,7 @@
       "name": "Le Saint-Nicolas - Au Coin du Feu",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/megve/megve/le-saint-nicolas-au-coin-du-feu"
-    },
-    {
-      "name": "Vous",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/megve/megve/vous"
+      "path": "/france/megve/megve/le-saintnicolas-au-coin-du-feu"
     }
   ]
 }

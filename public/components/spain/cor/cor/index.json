@@ -1,14 +1,21 @@
 {
   "title": "Cor",
-  "country": "spain",
-  "region": "cor",
-  "city": "cor",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "cor",
+  "city": "Cor",
+  "citySlug": "cor",
+  "path": "/spain/cor/cor/restaurants",
+  "canonicalPath": "/spain/cor/cor/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bo.TiC",
       "cuisine": "Creative, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/spain/cor/cor/botic"
+      "path": "/spain/cor/cor/botic",
+      "award": "★★"
     }
   ]
 }

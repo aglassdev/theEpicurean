@@ -1,14 +1,20 @@
 {
   "title": "Clisson",
-  "country": "france",
-  "region": "clisson",
-  "city": "clisson",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "clisson",
+  "city": "Clisson",
+  "citySlug": "clisson",
+  "path": "/france/clisson/clisson/restaurants",
+  "canonicalPath": "/france/clisson/clisson/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Villa Saint-Antoine",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/clisson/clisson/villa-saint-antoine"
+      "path": "/france/clisson/clisson/villa-saintantoine"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Castor",
-  "country": "uk",
-  "region": "castor",
-  "city": "castor",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "castor",
+  "city": "Castor",
+  "citySlug": "castor",
+  "path": "/uk/castor/castor/restaurants",
+  "canonicalPath": "/uk/castor/castor/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chubby Castor",

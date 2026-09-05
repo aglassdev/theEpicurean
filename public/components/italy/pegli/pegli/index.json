@@ -1,14 +1,20 @@
 {
   "title": "Pegli",
-  "country": "italy",
-  "region": "pegli",
-  "city": "pegli",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pegli",
+  "city": "Pegli",
+  "citySlug": "pegli",
+  "path": "/italy/pegli/pegli/restaurants",
+  "canonicalPath": "/italy/pegli/pegli/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Teresa dal 1968",
       "cuisine": "Seafood, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/pegli/pegli/teresa-dal-1968"
+      "path": "/italy/pegli/pegli/teresa-dal1968"
     }
   ]
 }

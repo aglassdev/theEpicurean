@@ -1,11 +1,20 @@
 {
   "title": "Lochaline",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "lochaline",
+  "city": "Lochaline",
+  "citySlug": "lochaline",
+  "path": "/uk/lochaline/lochaline/restaurants",
+  "canonicalPath": "/uk/lochaline/lochaline/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Whitehouse",
       "cuisine": "Modern British",
       "price": "$$$",
-      "path": "/uk/lochaline/lochaline/TheWhitehouse"
+      "path": "/uk/lochaline/lochaline/the-whitehouse"
     }
   ]
 }

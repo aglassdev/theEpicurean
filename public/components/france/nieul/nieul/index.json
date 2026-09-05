@@ -1,14 +1,21 @@
 {
   "title": "Nieul",
-  "country": "france",
-  "region": "nieul",
-  "city": "nieul",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "nieul",
+  "city": "Nieul",
+  "citySlug": "nieul",
+  "path": "/france/nieul/nieul/restaurants",
+  "canonicalPath": "/france/nieul/nieul/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Chapelle Saint-Martin",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/nieul/nieul/la-chapelle-saint-martin"
+      "path": "/france/nieul/nieul/la-chapelle-saintmartin",
+      "award": "★"
     }
   ]
 }

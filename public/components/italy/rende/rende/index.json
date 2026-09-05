@@ -1,14 +1,20 @@
 {
   "title": "Rende",
-  "country": "italy",
-  "region": "rende",
-  "city": "rende",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "rende",
+  "city": "Rende",
+  "citySlug": "rende",
+  "path": "/italy/rende/rende/restaurants",
+  "canonicalPath": "/italy/rende/rende/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Agorà",
       "cuisine": "Seafood, Contemporary",
       "price": "€€",
-      "path": "/italy/rende/rende/agor"
+      "path": "/italy/rende/rende/agor-r-e-n"
     }
   ]
 }

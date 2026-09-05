@@ -1,14 +1,20 @@
 {
   "title": "Feldbach",
-  "country": "france",
-  "region": "feldbach",
-  "city": "feldbach",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "feldbach",
+  "city": "Feldbach",
+  "citySlug": "feldbach",
+  "path": "/france/feldbach/feldbach/restaurants",
+  "canonicalPath": "/france/feldbach/feldbach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cheval Blanc",
       "cuisine": "Traditional Cuisine, Farm to table",
       "price": "€€",
-      "path": "/france/feldbach/feldbach/cheval-blanc"
+      "path": "/france/feldbach/feldbach/cheval-blanc-f-e-l"
     }
   ]
 }

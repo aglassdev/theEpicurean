@@ -1,14 +1,20 @@
 {
   "title": "Luon",
-  "country": "france",
-  "region": "luon",
-  "city": "luon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "luon",
+  "city": "Luon",
+  "citySlug": "luon",
+  "path": "/france/luon/luon/restaurants",
+  "canonicalPath": "/france/luon/luon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Fil des Saisons",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/luon/luon/au-fil-des-saisons"
+      "path": "/france/luon/luon/au-fil-des-saisons-l-u-o"
     }
   ]
 }

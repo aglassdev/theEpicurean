@@ -1,11 +1,20 @@
 {
   "title": "Giens",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "giens",
+  "city": "Giens",
+  "citySlug": "giens",
+  "path": "/france/giens/giens/restaurants",
+  "canonicalPath": "/france/giens/giens/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Rascasse",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$$",
-      "path": "/france/giens/giens/LaRascasse"
+      "path": "/france/giens/giens/la-rascasse"
     }
   ]
 }

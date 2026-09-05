@@ -1,14 +1,34 @@
 {
   "title": "Crdoba",
-  "country": "spain",
-  "region": "crdoba",
-  "city": "crdoba",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "crdoba",
+  "city": "Crdoba",
+  "citySlug": "crdoba",
+  "path": "/spain/crdoba/crdoba/restaurants",
+  "canonicalPath": "/spain/crdoba/crdoba/restaurants",
+  "count": 18,
   "restaurants": [
+    {
+      "name": "Noor",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/crdoba/crdoba/noor-c-r-d",
+      "award": "★★★"
+    },
+    {
+      "name": "Choco",
+      "cuisine": "Creative, Andalusian",
+      "price": "€€€€",
+      "path": "/spain/crdoba/crdoba/choco",
+      "award": "★"
+    },
     {
       "name": "Arbequina",
       "cuisine": "Modern Cuisine, International",
       "price": "€€",
-      "path": "/spain/crdoba/crdoba/arbequina"
+      "path": "/spain/crdoba/crdoba/arbequina-c-r-d"
     },
     {
       "name": "Casa Pepe de la Judería",
@@ -29,12 +49,6 @@
       "path": "/spain/crdoba/crdoba/celia-jimnez"
     },
     {
-      "name": "Choco",
-      "cuisine": "Creative, Andalusian",
-      "price": "€€€€",
-      "path": "/spain/crdoba/crdoba/choco"
-    },
-    {
       "name": "El Envero",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -44,7 +58,7 @@
       "name": "Garum 2.1",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/spain/crdoba/crdoba/garum-21"
+      "path": "/spain/crdoba/crdoba/garum21"
     },
     {
       "name": "La Casa de Manolete Bistró",
@@ -71,12 +85,6 @@
       "path": "/spain/crdoba/crdoba/los-berengueles"
     },
     {
-      "name": "Noor",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/crdoba/crdoba/noor"
-    },
-    {
       "name": "ReComiendo",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
@@ -92,7 +100,7 @@
       "name": "Taberna el nº 10",
       "cuisine": "Traditional Cuisine",
       "price": "€",
-      "path": "/spain/crdoba/crdoba/taberna-el-n-10"
+      "path": "/spain/crdoba/crdoba/taberna-el-n10"
     },
     {
       "name": "Tellus",

@@ -1,8 +1,14 @@
 {
   "title": "Litomyl",
-  "country": "czechia",
-  "region": "litomyl",
-  "city": "litomyl",
+  "country": "Czechia",
+  "countrySlug": "czechia",
+  "region": null,
+  "regionSlug": "litomyl",
+  "city": "Litomyl",
+  "citySlug": "litomyl",
+  "path": "/czechia/litomyl/litomyl/restaurants",
+  "canonicalPath": "/czechia/litomyl/litomyl/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bohém",

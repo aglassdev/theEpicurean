@@ -1,14 +1,21 @@
 {
   "title": "Muro",
-  "country": "spain",
-  "region": "muro",
-  "city": "muro",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "muro",
+  "city": "Muro",
+  "citySlug": "muro",
+  "path": "/spain/muro/muro/restaurants",
+  "canonicalPath": "/spain/muro/muro/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fusion19",
       "cuisine": "Fusion",
       "price": "€€€€",
-      "path": "/spain/muro/muro/fusion19"
+      "path": "/spain/muro/muro/fusion19",
+      "award": "★"
     }
   ]
 }

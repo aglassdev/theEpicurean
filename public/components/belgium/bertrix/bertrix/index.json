@@ -1,14 +1,20 @@
 {
   "title": "Bertrix",
-  "country": "belgium",
-  "region": "bertrix",
-  "city": "bertrix",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "bertrix",
+  "city": "Bertrix",
+  "citySlug": "bertrix",
+  "path": "/belgium/bertrix/bertrix/restaurants",
+  "canonicalPath": "/belgium/bertrix/bertrix/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cuisinez-Nous",
       "cuisine": "Classic French",
       "price": "€€",
-      "path": "/belgium/bertrix/bertrix/cuisinez-nous"
+      "path": "/belgium/bertrix/bertrix/cuisineznous"
     }
   ]
 }

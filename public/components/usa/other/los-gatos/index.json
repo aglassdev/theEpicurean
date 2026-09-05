@@ -1,11 +1,45 @@
 {
   "title": "Los Gatos",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Los Gatos",
+  "citySlug": "los-gatos",
+  "path": "/usa/other/los-gatos/restaurants",
+  "canonicalPath": "/usa/california/los-gatos/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Manresa",
       "cuisine": "",
       "price": "",
-      "path": "/usa/other/los-gatos/Manresa"
+      "path": "/usa/other/los-gatos/manresa",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Asa South",
+      "cuisine": "Californian, Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/usa/california/los-gatos/asa-south"
+    },
+    {
+      "name": "Dio Deka",
+      "cuisine": "Greek, Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/usa/california/los-gatos/dio-deka"
+    },
+    {
+      "name": "The Bywater",
+      "cuisine": "Southern, Creole",
+      "price": "$$",
+      "path": "/usa/california/los-gatos/the-bywater"
+    },
+    {
+      "name": "Vicinity",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/usa/california/los-gatos/vicinity"
     }
   ]
 }

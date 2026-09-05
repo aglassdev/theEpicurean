@@ -1,14 +1,21 @@
 {
   "title": "Thun",
-  "country": "switzerland",
-  "region": "thun",
-  "city": "thun",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "thun",
+  "city": "Thun",
+  "citySlug": "thun",
+  "path": "/switzerland/thun/thun/restaurants",
+  "canonicalPath": "/switzerland/thun/thun/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Centric Dining",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/thun/thun/centric-dining"
+      "path": "/switzerland/thun/thun/centric-dining",
+      "award": "★"
     },
     {
       "name": "Restaurant Burgstrasse9",

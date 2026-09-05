@@ -1,8 +1,14 @@
 {
   "title": "Pordenone",
-  "country": "italy",
-  "region": "pordenone",
-  "city": "pordenone",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pordenone",
+  "city": "Pordenone",
+  "citySlug": "pordenone",
+  "path": "/italy/pordenone/pordenone/restaurants",
+  "canonicalPath": "/italy/pordenone/pordenone/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Ferrata",

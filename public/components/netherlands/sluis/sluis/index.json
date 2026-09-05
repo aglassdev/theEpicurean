@@ -1,17 +1,27 @@
 {
   "title": "Sluis",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "sluis",
+  "city": "Sluis",
+  "citySlug": "sluis",
+  "path": "/netherlands/sluis/sluis/restaurants",
+  "canonicalPath": "/netherlands/sluis/sluis/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Oud Sluis",
+      "cuisine": "",
+      "price": "",
+      "path": "/netherlands/sluis/sluis/oud-sluis",
+      "award": "World's 50 Best"
+    },
     {
       "name": "La Trinité",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/netherlands/sluis/sluis/la-trinit"
-    },
-    {
-      "name": "Oud Sluis",
-      "cuisine": "",
-      "price": "",
-      "path": "/netherlands/sluis/sluis/OudSluis"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Cheste",
-  "country": "spain",
-  "region": "cheste",
-  "city": "cheste",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "cheste",
+  "city": "Cheste",
+  "citySlug": "cheste",
+  "path": "/spain/cheste/cheste/restaurants",
+  "canonicalPath": "/spain/cheste/cheste/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Huerto Martínez",

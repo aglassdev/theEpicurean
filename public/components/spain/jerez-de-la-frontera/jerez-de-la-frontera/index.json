@@ -1,6 +1,29 @@
 {
-  "title": "Jerez De La Frontera",
+  "title": "Jerez de la Frontera",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "jerez-de-la-frontera",
+  "city": "Jerez de la Frontera",
+  "citySlug": "jerez-de-la-frontera",
+  "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/restaurants",
+  "canonicalPath": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/restaurants",
+  "count": 8,
   "restaurants": [
+    {
+      "name": "LÚ Cocina y Alma",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/l-cocina-y-alma",
+      "award": "★★"
+    },
+    {
+      "name": "Mantúa",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/manta-j-e-r",
+      "award": "★"
+    },
     {
       "name": "A Mar",
       "cuisine": "Traditional Cuisine",
@@ -20,10 +43,10 @@
       "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/albal"
     },
     {
-      "name": "LÚ Cocina y Alma",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/l-cocina-y-alma"
+      "name": "Bina Bar",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/bina-bar"
     },
     {
       "name": "La Carboná",
@@ -32,22 +55,10 @@
       "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/la-carbon"
     },
     {
-      "name": "Mantúa",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/manta"
-    },
-    {
       "name": "Tsuro",
       "cuisine": "Japanese",
       "price": "€€€",
       "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/tsuro"
-    },
-    {
-      "name": "Bina Bar",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/spain/jerez-de-la-frontera/jerez-de-la-frontera/BinaBar"
     }
   ]
 }

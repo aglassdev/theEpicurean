@@ -1,9 +1,43 @@
 {
   "title": "Lucerne",
-  "country": "switzerland",
-  "region": "lucerne",
-  "city": "lucerne",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "lucerne",
+  "city": "Lucerne",
+  "citySlug": "lucerne",
+  "path": "/switzerland/lucerne/lucerne/restaurants",
+  "canonicalPath": "/switzerland/lucerne/lucerne/restaurants",
+  "count": 16,
   "restaurants": [
+    {
+      "name": "Colonnade",
+      "cuisine": "Modern French, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/lucerne/lucerne/colonnade",
+      "award": "★★"
+    },
+    {
+      "name": "de MATOS",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/switzerland/lucerne/lucerne/de-matos",
+      "award": "★"
+    },
+    {
+      "name": "Lucide",
+      "cuisine": "Contemporary, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/lucerne/lucerne/lucide",
+      "award": "★"
+    },
+    {
+      "name": "Maihöfli by UniQuisine",
+      "cuisine": "Creative, Innovative",
+      "price": "€€€",
+      "path": "/switzerland/lucerne/lucerne/maihfli-by-uniquisine",
+      "award": "★"
+    },
     {
       "name": "Bayts",
       "cuisine": "Vegan, Modern Cuisine",
@@ -15,18 +49,6 @@
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
       "path": "/switzerland/lucerne/lucerne/caaa-by-pietro-catalano"
-    },
-    {
-      "name": "Colonnade",
-      "cuisine": "Modern French, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/lucerne/lucerne/colonnade"
-    },
-    {
-      "name": "de MATOS",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/switzerland/lucerne/lucerne/de-matos"
     },
     {
       "name": "Des Balances",
@@ -47,22 +69,10 @@
       "path": "/switzerland/lucerne/lucerne/franz"
     },
     {
-      "name": "Lucide",
-      "cuisine": "Contemporary, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/lucerne/lucerne/lucide"
-    },
-    {
       "name": "Lumières",
       "cuisine": "Mediterranean Cuisine, Modern Cuisine",
       "price": "€€€",
       "path": "/switzerland/lucerne/lucerne/lumires"
-    },
-    {
-      "name": "Maihöfli by UniQuisine",
-      "cuisine": "Creative, Innovative",
-      "price": "€€€",
-      "path": "/switzerland/lucerne/lucerne/maihfli-by-uniquisine"
     },
     {
       "name": "Minamo",

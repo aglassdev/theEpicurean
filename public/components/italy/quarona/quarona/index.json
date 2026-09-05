@@ -1,8 +1,14 @@
 {
   "title": "Quarona",
-  "country": "italy",
-  "region": "quarona",
-  "city": "quarona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "quarona",
+  "city": "Quarona",
+  "citySlug": "quarona",
+  "path": "/italy/quarona/quarona/restaurants",
+  "canonicalPath": "/italy/quarona/quarona/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Italia",

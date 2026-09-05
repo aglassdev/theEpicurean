@@ -1,8 +1,14 @@
 {
   "title": "Sint Niklaas",
-  "country": "belgium",
-  "region": "sint-niklaas",
-  "city": "sint-niklaas",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "sint-niklaas",
+  "city": "Sint Niklaas",
+  "citySlug": "sint-niklaas",
+  "path": "/belgium/sint-niklaas/sint-niklaas/restaurants",
+  "canonicalPath": "/belgium/sint-niklaas/sint-niklaas/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Den Silveren Harynck",
@@ -20,12 +26,6 @@
       "name": "Nova",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/belgium/sint-niklaas/sint-niklaas/nova"
-    },
-    {
-      "name": "Nova",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€€€",
       "path": "/belgium/sint-niklaas/sint-niklaas/nova"
     }
   ]

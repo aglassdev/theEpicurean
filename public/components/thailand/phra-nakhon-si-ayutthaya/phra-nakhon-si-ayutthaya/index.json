@@ -1,5 +1,14 @@
 {
   "title": "Phra Nakhon Si Ayutthaya",
+  "country": "Thailand",
+  "countrySlug": "thailand",
+  "region": null,
+  "regionSlug": "phra-nakhon-si-ayutthaya",
+  "city": "Phra Nakhon Si Ayutthaya",
+  "citySlug": "phra-nakhon-si-ayutthaya",
+  "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/restaurants",
+  "canonicalPath": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/restaurants",
+  "count": 37,
   "restaurants": [
     {
       "name": "Angeum",
@@ -176,10 +185,16 @@
       "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/rimsaun"
     },
     {
+      "name": "Rimsuan",
+      "cuisine": "Southern Thai",
+      "price": "$$",
+      "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/rimsuan"
+    },
+    {
       "name": "Roti Sai Mai Abeedeen-Pranom Sangaroon",
       "cuisine": "Street Food",
       "price": "฿",
-      "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/roti-sai-mai-abeedeen-pranom-sangaroon"
+      "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/roti-sai-mai-abeedeenpranom-sangaroon"
     },
     {
       "name": "Ruan Thai Kung Pao",
@@ -206,22 +221,16 @@
       "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/tonnam-riverview"
     },
     {
+      "name": "U-Khao",
+      "cuisine": "Thai",
+      "price": "฿฿",
+      "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/ukhao"
+    },
+    {
       "name": "Uan Ja Noodle",
       "cuisine": "Noodles",
       "price": "฿",
       "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/uan-ja-noodle"
-    },
-    {
-      "name": "U-Khao",
-      "cuisine": "Thai",
-      "price": "฿฿",
-      "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/u-khao"
-    },
-    {
-      "name": "Rimsuan",
-      "cuisine": "Southern Thai",
-      "price": "$$",
-      "path": "/thailand/phra-nakhon-si-ayutthaya/phra-nakhon-si-ayutthaya/Rimsuan"
     }
   ]
 }

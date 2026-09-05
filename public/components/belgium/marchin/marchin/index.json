@@ -1,14 +1,21 @@
 {
   "title": "Marchin",
-  "country": "belgium",
-  "region": "marchin",
-  "city": "marchin",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "marchin",
+  "city": "Marchin",
+  "citySlug": "marchin",
+  "path": "/belgium/marchin/marchin/restaurants",
+  "canonicalPath": "/belgium/marchin/marchin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Arabelle Meirlaen",
       "cuisine": "Organic, Creative",
       "price": "€€€",
-      "path": "/belgium/marchin/marchin/arabelle-meirlaen"
+      "path": "/belgium/marchin/marchin/arabelle-meirlaen",
+      "award": "★"
     }
   ]
 }

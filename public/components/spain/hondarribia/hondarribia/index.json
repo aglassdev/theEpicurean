@@ -1,14 +1,21 @@
 {
   "title": "Hondarribia",
-  "country": "spain",
-  "region": "hondarribia",
-  "city": "hondarribia",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "hondarribia",
+  "city": "Hondarribia",
+  "citySlug": "hondarribia",
+  "path": "/spain/hondarribia/hondarribia/restaurants",
+  "canonicalPath": "/spain/hondarribia/hondarribia/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Alameda",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/hondarribia/hondarribia/alameda"
+      "path": "/spain/hondarribia/hondarribia/alameda-h-o-n",
+      "award": "★"
     },
     {
       "name": "Gran Sol",

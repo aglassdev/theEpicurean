@@ -1,8 +1,14 @@
 {
   "title": "Saint Savin",
-  "country": "france",
-  "region": "saint-savin",
-  "city": "saint-savin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-savin",
+  "city": "Saint Savin",
+  "citySlug": "saint-savin",
+  "path": "/france/saint-savin/saint-savin/restaurants",
+  "canonicalPath": "/france/saint-savin/saint-savin/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Viscos",
@@ -14,7 +20,7 @@
       "name": "Les 3 Faisans",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/saint-savin/saint-savin/les-3-faisans"
+      "path": "/france/saint-savin/saint-savin/les3-faisans"
     }
   ]
 }

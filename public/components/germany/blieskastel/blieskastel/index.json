@@ -1,14 +1,21 @@
 {
   "title": "Blieskastel",
-  "country": "germany",
-  "region": "blieskastel",
-  "city": "blieskastel",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "blieskastel",
+  "city": "Blieskastel",
+  "citySlug": "blieskastel",
+  "path": "/germany/blieskastel/blieskastel/restaurants",
+  "canonicalPath": "/germany/blieskastel/blieskastel/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Hämmerle's Restaurant",
       "cuisine": "Modern French, Creative",
       "price": "€€€€",
-      "path": "/germany/blieskastel/blieskastel/hmmerles-restaurant"
+      "path": "/germany/blieskastel/blieskastel/hmmerles-restaurant",
+      "award": "★"
     },
     {
       "name": "Landgenuss",

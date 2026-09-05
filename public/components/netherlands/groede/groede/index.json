@@ -1,14 +1,20 @@
 {
   "title": "Groede",
-  "country": "netherlands",
-  "region": "groede",
-  "city": "groede",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "groede",
+  "city": "Groede",
+  "citySlug": "groede",
+  "path": "/netherlands/groede/groede/restaurants",
+  "canonicalPath": "/netherlands/groede/groede/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Etablissement 1880",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/netherlands/groede/groede/etablissement-1880"
+      "path": "/netherlands/groede/groede/etablissement1880"
     }
   ]
 }

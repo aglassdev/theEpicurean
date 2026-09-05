@@ -1,0 +1,26 @@
+{
+  "title": "Gardena",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Gardena",
+  "citySlug": "gardena",
+  "path": "/usa/other/gardena/restaurants",
+  "canonicalPath": "/usa/california/gardena/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Sushi Sonagi",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/gardena/sushi-sonagi"
+    },
+    {
+      "name": "Sweet Rice",
+      "cuisine": "Thai",
+      "price": "$",
+      "path": "/usa/california/gardena/sweet-rice"
+    }
+  ]
+}

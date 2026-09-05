@@ -1,8 +1,14 @@
 {
   "title": "Hamont",
-  "country": "belgium",
-  "region": "hamont",
-  "city": "hamont",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "hamont",
+  "city": "Hamont",
+  "citySlug": "hamont",
+  "path": "/belgium/hamont/hamont/restaurants",
+  "canonicalPath": "/belgium/hamont/hamont/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bonnetti’s",
@@ -14,7 +20,7 @@
       "name": "Stad 10",
       "cuisine": "Modern French, Creative French",
       "price": "€€€",
-      "path": "/belgium/hamont/hamont/stad-10"
+      "path": "/belgium/hamont/hamont/stad10"
     }
   ]
 }

@@ -1,9 +1,22 @@
 {
   "title": "Kortrijk",
-  "country": "belgium",
-  "region": "kortrijk",
-  "city": "kortrijk",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "kortrijk",
+  "city": "Kortrijk",
+  "citySlug": "kortrijk",
+  "path": "/belgium/kortrijk/kortrijk/restaurants",
+  "canonicalPath": "/belgium/kortrijk/kortrijk/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Table d'Amis",
+      "cuisine": "Modern French, Farm to table",
+      "price": "€€€",
+      "path": "/belgium/kortrijk/kortrijk/table-damis",
+      "award": "★"
+    },
     {
       "name": "De Garage",
       "cuisine": "Farm to table",
@@ -26,13 +39,7 @@
       "name": "Saint-Christophe",
       "cuisine": "Creative French",
       "price": "€€€",
-      "path": "/belgium/kortrijk/kortrijk/saint-christophe"
-    },
-    {
-      "name": "Table d'Amis",
-      "cuisine": "Modern French, Farm to table",
-      "price": "€€€",
-      "path": "/belgium/kortrijk/kortrijk/table-damis"
+      "path": "/belgium/kortrijk/kortrijk/saintchristophe"
     },
     {
       "name": "Va et Vient",

@@ -1,11 +1,20 @@
 {
   "title": "Edgworth",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "edgworth",
+  "city": "Edgworth",
+  "citySlug": "edgworth",
+  "path": "/uk/edgworth/edgworth/restaurants",
+  "canonicalPath": "/uk/edgworth/edgworth/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Spread Eagle by McLeod 9",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/uk/edgworth/edgworth/TheSpreadEagleByMcleod9"
+      "path": "/uk/edgworth/edgworth/the-spread-eagle-by-mcleod9"
     }
   ]
 }

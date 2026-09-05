@@ -1,14 +1,20 @@
 {
-  "title": "Barbotan Les Thermes",
-  "country": "france",
-  "region": "barbotan-les-thermes",
-  "city": "barbotan-les-thermes",
+  "title": "Barbotan les Thermes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "barbotan-les-thermes",
+  "city": "Barbotan les Thermes",
+  "citySlug": "barbotan-les-thermes",
+  "path": "/france/barbotan-les-thermes/barbotan-les-thermes/restaurants",
+  "canonicalPath": "/france/barbotan-les-thermes/barbotan-les-thermes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Bastide",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/barbotan-les-thermes/barbotan-les-thermes/la-bastide"
+      "path": "/france/barbotan-les-thermes/barbotan-les-thermes/la-bastide-b-a-r"
     }
   ]
 }

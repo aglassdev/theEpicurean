@@ -1,8 +1,14 @@
 {
   "title": "Emsworth",
-  "country": "uk",
-  "region": "emsworth",
-  "city": "emsworth",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "emsworth",
+  "city": "Emsworth",
+  "citySlug": "emsworth",
+  "path": "/uk/emsworth/emsworth/restaurants",
+  "canonicalPath": "/uk/emsworth/emsworth/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "36 on the Quay",

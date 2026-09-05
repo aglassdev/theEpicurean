@@ -1,17 +1,26 @@
 {
   "title": "Busto Arsizio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "busto-arsizio",
+  "city": "Busto Arsizio",
+  "citySlug": "busto-arsizio",
+  "path": "/italy/busto-arsizio/busto-arsizio/restaurants",
+  "canonicalPath": "/italy/busto-arsizio/busto-arsizio/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "I 5 Campanili",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/italy/busto-arsizio/busto-arsizio/i-5-campanili"
-    },
     {
       "name": "DEG Ristorante",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/italy/busto-arsizio/busto-arsizio/DegRistorante"
+      "path": "/italy/busto-arsizio/busto-arsizio/deg-ristorante"
+    },
+    {
+      "name": "I 5 Campanili",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/busto-arsizio/busto-arsizio/i5-campanili"
     }
   ]
 }

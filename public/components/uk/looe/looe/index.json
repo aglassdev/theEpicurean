@@ -1,8 +1,14 @@
 {
   "title": "Looe",
-  "country": "uk",
-  "region": "looe",
-  "city": "looe",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "looe",
+  "city": "Looe",
+  "citySlug": "looe",
+  "path": "/uk/looe/looe/restaurants",
+  "canonicalPath": "/uk/looe/looe/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Sardine Factory",

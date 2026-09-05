@@ -1,8 +1,14 @@
 {
   "title": "Compigne",
-  "country": "france",
-  "region": "compigne",
-  "city": "compigne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "compigne",
+  "city": "Compigne",
+  "citySlug": "compigne",
+  "path": "/france/compigne/compigne/restaurants",
+  "canonicalPath": "/france/compigne/compigne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Rhizome",

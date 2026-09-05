@@ -1,6 +1,21 @@
 {
   "title": "Hoorn",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "hoorn",
+  "city": "Hoorn",
+  "citySlug": "hoorn",
+  "path": "/netherlands/hoorn/hoorn/restaurants",
+  "canonicalPath": "/netherlands/hoorn/hoorn/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "AEST",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/netherlands/hoorn/hoorn/aest"
+    },
     {
       "name": "HAVN",
       "cuisine": "Modern Cuisine, International",
@@ -18,12 +33,6 @@
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/netherlands/hoorn/hoorn/quidine"
-    },
-    {
-      "name": "AEST",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/netherlands/hoorn/hoorn/Aest"
     }
   ]
 }

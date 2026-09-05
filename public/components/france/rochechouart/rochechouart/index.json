@@ -1,11 +1,20 @@
 {
   "title": "Rochechouart",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "rochechouart",
+  "city": "Rochechouart",
+  "citySlug": "rochechouart",
+  "path": "/france/rochechouart/rochechouart/restaurants",
+  "canonicalPath": "/france/rochechouart/rochechouart/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de Florent",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/rochechouart/rochechouart/LaTableDeFlorent"
+      "path": "/france/rochechouart/rochechouart/la-table-de-florent"
     }
   ]
 }

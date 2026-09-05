@@ -1,8 +1,14 @@
 {
   "title": "Velluire",
-  "country": "france",
-  "region": "velluire",
-  "city": "velluire",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "velluire",
+  "city": "Velluire",
+  "citySlug": "velluire",
+  "path": "/france/velluire/velluire/restaurants",
+  "canonicalPath": "/france/velluire/velluire/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de la Rivière",

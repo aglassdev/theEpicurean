@@ -1,8 +1,14 @@
 {
   "title": "Fort William",
-  "country": "uk",
-  "region": "fort-william",
-  "city": "fort-william",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "fort-william",
+  "city": "Fort William",
+  "citySlug": "fort-william",
+  "path": "/uk/fort-william/fort-william/restaurants",
+  "canonicalPath": "/uk/fort-william/fort-william/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "'Seasgair' by Michel Roux Jr",

@@ -1,14 +1,21 @@
 {
   "title": "Amstelveen",
-  "country": "netherlands",
-  "region": "amstelveen",
-  "city": "amstelveen",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "amstelveen",
+  "city": "Amstelveen",
+  "citySlug": "amstelveen",
+  "path": "/netherlands/amstelveen/amstelveen/restaurants",
+  "canonicalPath": "/netherlands/amstelveen/amstelveen/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Aan de Poel",
       "cuisine": "Creative, Modern French",
       "price": "€€€€",
-      "path": "/netherlands/amstelveen/amstelveen/aan-de-poel"
+      "path": "/netherlands/amstelveen/amstelveen/aan-de-poel",
+      "award": "★★"
     },
     {
       "name": "Amber Garden",

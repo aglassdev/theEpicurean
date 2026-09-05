@@ -1,11 +1,21 @@
 {
   "title": "Seesen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "seesen",
+  "city": "Seesen",
+  "citySlug": "seesen",
+  "path": "/germany/seesen/seesen/restaurants",
+  "canonicalPath": "/germany/seesen/seesen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Harzfenster by Johannes Steingrüber",
       "cuisine": "Creative",
       "price": "$$$$",
-      "path": "/germany/seesen/seesen/HarzfensterByJohannesSteingrber"
+      "path": "/germany/seesen/seesen/harzfenster-by-johannes-steingrber",
+      "award": "★"
     }
   ]
 }

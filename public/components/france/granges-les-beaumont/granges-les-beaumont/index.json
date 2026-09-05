@@ -1,14 +1,21 @@
 {
-  "title": "Granges Les Beaumont",
-  "country": "france",
-  "region": "granges-les-beaumont",
-  "city": "granges-les-beaumont",
+  "title": "Granges les Beaumont",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "granges-les-beaumont",
+  "city": "Granges les Beaumont",
+  "citySlug": "granges-les-beaumont",
+  "path": "/france/granges-les-beaumont/granges-les-beaumont/restaurants",
+  "canonicalPath": "/france/granges-les-beaumont/granges-les-beaumont/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Cèdres",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/france/granges-les-beaumont/granges-les-beaumont/les-cdres"
+      "path": "/france/granges-les-beaumont/granges-les-beaumont/les-cdres",
+      "award": "★"
     }
   ]
 }

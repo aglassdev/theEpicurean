@@ -1,8 +1,14 @@
 {
   "title": "Balma",
-  "country": "france",
-  "region": "balma",
-  "city": "balma",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "balma",
+  "city": "Balma",
+  "citySlug": "balma",
+  "path": "/france/balma/balma/restaurants",
+  "canonicalPath": "/france/balma/balma/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Équilibre",

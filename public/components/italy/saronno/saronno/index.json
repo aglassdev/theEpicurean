@@ -1,17 +1,27 @@
 {
   "title": "Saronno",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "saronno",
+  "city": "Saronno",
+  "citySlug": "saronno",
+  "path": "/italy/saronno/saronno/restaurants",
+  "canonicalPath": "/italy/saronno/saronno/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "sui generis.",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/italy/saronno/saronno/sui-generis"
+      "path": "/italy/saronno/saronno/sui-generis",
+      "award": "★"
     },
     {
       "name": "Olio Fishbar",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/italy/saronno/saronno/OlioFishbar"
+      "path": "/italy/saronno/saronno/olio-fishbar"
     }
   ]
 }

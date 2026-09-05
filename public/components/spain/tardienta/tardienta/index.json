@@ -1,11 +1,20 @@
 {
   "title": "Tardienta",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "tardienta",
+  "city": "Tardienta",
+  "citySlug": "tardienta",
+  "path": "/spain/tardienta/tardienta/restaurants",
+  "canonicalPath": "/spain/tardienta/tardienta/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Asador Galino Pueyo",
       "cuisine": "Farm to table",
       "price": "$$",
-      "path": "/spain/tardienta/tardienta/AsadorGalinoPueyo"
+      "path": "/spain/tardienta/tardienta/asador-galino-pueyo"
     }
   ]
 }

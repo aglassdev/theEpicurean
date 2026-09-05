@@ -1,20 +1,27 @@
 {
   "title": "Adelboden",
-  "country": "switzerland",
-  "region": "adelboden",
-  "city": "adelboden",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "adelboden",
+  "city": "Adelboden",
+  "citySlug": "adelboden",
+  "path": "/switzerland/adelboden/adelboden/restaurants",
+  "canonicalPath": "/switzerland/adelboden/adelboden/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Alpenblick - Stuba",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/adelboden/adelboden/alpenblick-stuba",
+      "award": "★"
+    },
     {
       "name": "Alpenblick - Bistro",
       "cuisine": "Farm to table, Regional Cuisine",
       "price": "€€",
       "path": "/switzerland/adelboden/adelboden/alpenblick-bistro"
-    },
-    {
-      "name": "Alpenblick - Stuba",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/adelboden/adelboden/alpenblick-stuba"
     },
     {
       "name": "Belle Vue",

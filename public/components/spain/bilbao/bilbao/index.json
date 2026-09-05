@@ -1,9 +1,43 @@
 {
   "title": "Bilbao",
-  "country": "spain",
-  "region": "bilbao",
-  "city": "bilbao",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "bilbao",
+  "city": "Bilbao",
+  "citySlug": "bilbao",
+  "path": "/spain/bilbao/bilbao/restaurants",
+  "canonicalPath": "/spain/bilbao/bilbao/restaurants",
+  "count": 21,
   "restaurants": [
+    {
+      "name": "Mina",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/spain/bilbao/bilbao/mina",
+      "award": "★"
+    },
+    {
+      "name": "Nerua Guggenheim Bilbao",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/spain/bilbao/bilbao/nerua-guggenheim-bilbao",
+      "award": "★"
+    },
+    {
+      "name": "Ola Martín Berasategui",
+      "cuisine": "Traditional Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/bilbao/bilbao/ola-martn-berasategui",
+      "award": "★"
+    },
+    {
+      "name": "Zarate",
+      "cuisine": "Seafood, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/bilbao/bilbao/zarate",
+      "award": "★"
+    },
     {
       "name": "Aitor Rauleaga",
       "cuisine": "Basque",
@@ -62,7 +96,7 @@
       "name": "Lasai",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/spain/bilbao/bilbao/lasai"
+      "path": "/spain/bilbao/bilbao/lasai-b-i-l"
     },
     {
       "name": "Los Fueros",
@@ -71,28 +105,10 @@
       "path": "/spain/bilbao/bilbao/los-fueros"
     },
     {
-      "name": "Mina",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/spain/bilbao/bilbao/mina"
-    },
-    {
-      "name": "Nerua Guggenheim Bilbao",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/spain/bilbao/bilbao/nerua-guggenheim-bilbao"
-    },
-    {
       "name": "Odoloste",
       "cuisine": "Pork",
       "price": "€€",
       "path": "/spain/bilbao/bilbao/odoloste"
-    },
-    {
-      "name": "Ola Martín Berasategui",
-      "cuisine": "Traditional Cuisine, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/bilbao/bilbao/ola-martn-berasategui"
     },
     {
       "name": "San Mamés Jatetxea",
@@ -123,12 +139,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/spain/bilbao/bilbao/zapirain"
-    },
-    {
-      "name": "Zarate",
-      "cuisine": "Seafood, Traditional Cuisine",
-      "price": "€€€",
-      "path": "/spain/bilbao/bilbao/zarate"
     }
   ]
 }

@@ -1,71 +1,80 @@
 {
   "title": "Buckinghamshire",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South East",
+  "regionSlug": "south-east",
+  "city": "Buckinghamshire",
+  "citySlug": "buckinghamshire",
+  "path": "/uk/south-east/buckinghamshire/restaurants",
+  "canonicalPath": "/uk/south-east/buckinghamshire/restaurants",
+  "count": 11,
   "restaurants": [
     {
       "name": "Bletchley Park",
       "cuisine": "Afternoon Tea",
       "price": "82.00",
-      "path": "/uk/south-east/buckinghamshire/BletchleyPark"
-    },
-    {
-      "name": "The Tea Room at Burnham Beeches",
-      "cuisine": "Afternoon Tea",
-      "price": "27.00",
-      "path": "/uk/south-east/buckinghamshire/TheTeaRoomAtBurnhamBeeches"
-    },
-    {
-      "name": "Pinewood Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/south-east/buckinghamshire/PinewoodHotel"
-    },
-    {
-      "name": "Macdonald Compleat Angler",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/south-east/buckinghamshire/MacdonaldCompleatAngler"
-    },
-    {
-      "name": "The Lytton at Chalfont Dene",
-      "cuisine": "Afternoon Tea",
-      "price": "22.95",
-      "path": "/uk/south-east/buckinghamshire/TheLyttonAtChalfontDene"
-    },
-    {
-      "name": "Laura Ashley The Tea Room at Villiers Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "32.00",
-      "path": "/uk/south-east/buckinghamshire/LauraAshleyTheTeaRoomAtVilliersHotel"
-    },
-    {
-      "name": "The Ivy Marlow",
-      "cuisine": "Afternoon Tea",
-      "price": "34.95",
-      "path": "/uk/south-east/buckinghamshire/TheIvyMarlow"
-    },
-    {
-      "name": "Denham Grove",
-      "cuisine": "Afternoon Tea",
-      "price": "27.50",
-      "path": "/uk/south-east/buckinghamshire/DenhamGrove"
-    },
-    {
-      "name": "De Vere Latimer Estate",
-      "cuisine": "Afternoon Tea",
-      "price": "31.00",
-      "path": "/uk/south-east/buckinghamshire/DeVereLatimerEstate"
-    },
-    {
-      "name": "The Crowne Plaza Marlow",
-      "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/south-east/buckinghamshire/TheCrownePlazaMarlow"
+      "path": "/uk/south-east/buckinghamshire/bletchley-park"
     },
     {
       "name": "Crazy Bear Beaconsfield",
       "cuisine": "Afternoon Tea",
       "price": "36.00",
-      "path": "/uk/south-east/buckinghamshire/CrazyBearBeaconsfield"
+      "path": "/uk/south-east/buckinghamshire/crazy-bear-beaconsfield"
+    },
+    {
+      "name": "De Vere Latimer Estate",
+      "cuisine": "Afternoon Tea",
+      "price": "31.00",
+      "path": "/uk/south-east/buckinghamshire/de-vere-latimer-estate"
+    },
+    {
+      "name": "Denham Grove",
+      "cuisine": "Afternoon Tea",
+      "price": "27.50",
+      "path": "/uk/south-east/buckinghamshire/denham-grove"
+    },
+    {
+      "name": "Laura Ashley The Tea Room at Villiers Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "32.00",
+      "path": "/uk/south-east/buckinghamshire/laura-ashley-the-tea-room-at-villiers-hotel"
+    },
+    {
+      "name": "Macdonald Compleat Angler",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/south-east/buckinghamshire/macdonald-compleat-angler"
+    },
+    {
+      "name": "Pinewood Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/south-east/buckinghamshire/pinewood-hotel"
+    },
+    {
+      "name": "The Crowne Plaza Marlow",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/south-east/buckinghamshire/the-crowne-plaza-marlow"
+    },
+    {
+      "name": "The Ivy Marlow",
+      "cuisine": "Afternoon Tea",
+      "price": "34.95",
+      "path": "/uk/south-east/buckinghamshire/the-ivy-marlow"
+    },
+    {
+      "name": "The Lytton at Chalfont Dene",
+      "cuisine": "Afternoon Tea",
+      "price": "22.95",
+      "path": "/uk/south-east/buckinghamshire/the-lytton-at-chalfont-dene"
+    },
+    {
+      "name": "The Tea Room at Burnham Beeches",
+      "cuisine": "Afternoon Tea",
+      "price": "27.00",
+      "path": "/uk/south-east/buckinghamshire/the-tea-room-at-burnham-beeches"
     }
   ]
 }

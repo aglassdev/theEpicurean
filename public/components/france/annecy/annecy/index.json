@@ -1,9 +1,43 @@
 {
   "title": "Annecy",
-  "country": "france",
-  "region": "annecy",
-  "city": "annecy",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "annecy",
+  "city": "Annecy",
+  "citySlug": "annecy",
+  "path": "/france/annecy/annecy/restaurants",
+  "canonicalPath": "/france/annecy/annecy/restaurants",
+  "count": 19,
   "restaurants": [
+    {
+      "name": "Le Clos des Sens",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/annecy/annecy/le-clos-des-sens",
+      "award": "★★★"
+    },
+    {
+      "name": "Maison Benoît Vidal",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/annecy/annecy/maison-benot-vidal",
+      "award": "★★"
+    },
+    {
+      "name": "L'Esquisse",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/annecy/annecy/lesquisse",
+      "award": "★"
+    },
+    {
+      "name": "La Rotonde des Trésoms",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/annecy/annecy/la-rotonde-des-trsoms",
+      "award": "★"
+    },
     {
       "name": "ANTO",
       "cuisine": "Modern Cuisine",
@@ -41,10 +75,10 @@
       "path": "/france/annecy/annecy/cozna"
     },
     {
-      "name": "La Rotonde des Trésoms",
+      "name": "Là-Haut",
       "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/annecy/annecy/la-rotonde-des-trsoms"
+      "price": "€€",
+      "path": "/france/annecy/annecy/lhaut"
     },
     {
       "name": "Le Binôme",
@@ -59,12 +93,6 @@
       "path": "/france/annecy/annecy/le-bouillon"
     },
     {
-      "name": "Le Clos des Sens",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/annecy/annecy/le-clos-des-sens"
-    },
-    {
       "name": "Le Denti",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -75,30 +103,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/annecy/annecy/le-restaurant"
-    },
-    {
-      "name": "Le Restaurant",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/annecy/annecy/le-restaurant"
-    },
-    {
-      "name": "L'Esquisse",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/annecy/annecy/lesquisse"
-    },
-    {
-      "name": "Là-Haut",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/annecy/annecy/l-haut"
-    },
-    {
-      "name": "Maison Benoît Vidal",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/annecy/annecy/maison-benot-vidal"
     },
     {
       "name": "Mazette !",
@@ -116,7 +120,7 @@
       "name": "Racines",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/annecy/annecy/racines"
+      "path": "/france/annecy/annecy/racines-a-n-n"
     },
     {
       "name": "Saba",

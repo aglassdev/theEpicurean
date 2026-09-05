@@ -1,11 +1,20 @@
 {
   "title": "Grantley",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "grantley",
+  "city": "Grantley",
+  "citySlug": "grantley",
+  "path": "/uk/grantley/grantley/restaurants",
+  "canonicalPath": "/uk/grantley/grantley/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Grantley Arms",
       "cuisine": "Traditional British",
       "price": "$$",
-      "path": "/uk/grantley/grantley/GrantleyArms"
+      "path": "/uk/grantley/grantley/grantley-arms"
     }
   ]
 }

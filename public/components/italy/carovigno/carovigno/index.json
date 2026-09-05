@@ -1,14 +1,21 @@
 {
   "title": "Carovigno",
-  "country": "italy",
-  "region": "carovigno",
-  "city": "carovigno",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "carovigno",
+  "city": "Carovigno",
+  "citySlug": "carovigno",
+  "path": "/italy/carovigno/carovigno/restaurants",
+  "canonicalPath": "/italy/carovigno/carovigno/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Dissapore di Andrea Catalano",
       "cuisine": "Modern Cuisine, Apulian",
       "price": "€€€",
-      "path": "/italy/carovigno/carovigno/dissapore-di-andrea-catalano"
+      "path": "/italy/carovigno/carovigno/dissapore-di-andrea-catalano",
+      "award": "★"
     },
     {
       "name": "Già Sotto l'Arco",

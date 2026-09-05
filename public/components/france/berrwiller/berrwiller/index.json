@@ -1,8 +1,14 @@
 {
   "title": "Berrwiller",
-  "country": "france",
-  "region": "berrwiller",
-  "city": "berrwiller",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "berrwiller",
+  "city": "Berrwiller",
+  "citySlug": "berrwiller",
+  "path": "/france/berrwiller/berrwiller/restaurants",
+  "canonicalPath": "/france/berrwiller/berrwiller/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Arbre Vert",

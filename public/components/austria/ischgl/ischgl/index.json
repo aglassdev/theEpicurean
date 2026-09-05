@@ -1,6 +1,42 @@
 {
   "title": "Ischgl",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "ischgl",
+  "city": "Ischgl",
+  "citySlug": "ischgl",
+  "path": "/austria/ischgl/ischgl/restaurants",
+  "canonicalPath": "/austria/ischgl/ischgl/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Stüva",
+      "cuisine": "Creative French, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/austria/ischgl/ischgl/stva",
+      "award": "★★"
+    },
+    {
+      "name": "Paznaunerstube",
+      "cuisine": "Contemporary, Innovative",
+      "price": "€€€€",
+      "path": "/austria/ischgl/ischgl/paznaunerstube",
+      "award": "★"
+    },
+    {
+      "name": "Schlossherrnstube",
+      "cuisine": "Contemporary, French",
+      "price": "€€€€",
+      "path": "/austria/ischgl/ischgl/schlossherrnstube",
+      "award": "★"
+    },
+    {
+      "name": "Fliana Chef's Table",
+      "cuisine": "Classic Cuisine",
+      "price": "$$$$",
+      "path": "/austria/ischgl/ischgl/fliana-chefs-table"
+    },
     {
       "name": "Fliana Gourmet",
       "cuisine": "International, Modern Cuisine",
@@ -12,30 +48,6 @@
       "cuisine": "Austrian, Regional Cuisine",
       "price": "€€€",
       "path": "/austria/ischgl/ischgl/heimatbhne"
-    },
-    {
-      "name": "Paznaunerstube",
-      "cuisine": "Contemporary, Innovative",
-      "price": "€€€€",
-      "path": "/austria/ischgl/ischgl/paznaunerstube"
-    },
-    {
-      "name": "Schlossherrnstube",
-      "cuisine": "Contemporary, French",
-      "price": "€€€€",
-      "path": "/austria/ischgl/ischgl/schlossherrnstube"
-    },
-    {
-      "name": "Stüva",
-      "cuisine": "Creative French, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/austria/ischgl/ischgl/stva"
-    },
-    {
-      "name": "Fliana Chef's Table",
-      "cuisine": "Classic Cuisine",
-      "price": "$$$$",
-      "path": "/austria/ischgl/ischgl/FlianaChefsTable"
     }
   ]
 }

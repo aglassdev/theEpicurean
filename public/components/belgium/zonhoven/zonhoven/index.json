@@ -1,14 +1,21 @@
 {
   "title": "Zonhoven",
-  "country": "belgium",
-  "region": "zonhoven",
-  "city": "zonhoven",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "zonhoven",
+  "city": "Zonhoven",
+  "citySlug": "zonhoven",
+  "path": "/belgium/zonhoven/zonhoven/restaurants",
+  "canonicalPath": "/belgium/zonhoven/zonhoven/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Innesto",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/belgium/zonhoven/zonhoven/innesto"
+      "path": "/belgium/zonhoven/zonhoven/innesto",
+      "award": "★"
     }
   ]
 }

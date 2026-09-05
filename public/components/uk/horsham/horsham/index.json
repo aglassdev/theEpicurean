@@ -1,14 +1,21 @@
 {
   "title": "Horsham",
-  "country": "uk",
-  "region": "horsham",
-  "city": "horsham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "horsham",
+  "city": "Horsham",
+  "citySlug": "horsham",
+  "path": "/uk/horsham/horsham/restaurants",
+  "canonicalPath": "/uk/horsham/horsham/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Ben Wilkinson at The Pass",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/horsham/horsham/ben-wilkinson-at-the-pass"
+      "path": "/uk/horsham/horsham/ben-wilkinson-at-the-pass",
+      "award": "★"
     },
     {
       "name": "Knepp Wilding Kitchen",

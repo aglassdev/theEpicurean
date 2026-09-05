@@ -1,20 +1,27 @@
 {
   "title": "Hergiswil",
-  "country": "switzerland",
-  "region": "hergiswil",
-  "city": "hergiswil",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "hergiswil",
+  "city": "Hergiswil",
+  "citySlug": "hergiswil",
+  "path": "/switzerland/hergiswil/hergiswil/restaurants",
+  "canonicalPath": "/switzerland/hergiswil/hergiswil/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Seerestaurant Belvédère",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/switzerland/hergiswil/hergiswil/seerestaurant-belvdre",
+      "award": "★"
+    },
     {
       "name": "Seebistro Belvédère",
       "cuisine": "French Contemporary, Farm to table",
       "price": "€€",
       "path": "/switzerland/hergiswil/hergiswil/seebistro-belvdre"
-    },
-    {
-      "name": "Seerestaurant Belvédère",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€€",
-      "path": "/switzerland/hergiswil/hergiswil/seerestaurant-belvdre"
     }
   ]
 }

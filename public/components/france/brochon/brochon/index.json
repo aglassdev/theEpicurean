@@ -1,8 +1,14 @@
 {
   "title": "Brochon",
-  "country": "france",
-  "region": "brochon",
-  "city": "brochon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "brochon",
+  "city": "Brochon",
+  "citySlug": "brochon",
+  "path": "/france/brochon/brochon/restaurants",
+  "canonicalPath": "/france/brochon/brochon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table d'Éole",

@@ -1,8 +1,14 @@
 {
   "title": "Vence",
-  "country": "france",
-  "region": "vence",
-  "city": "vence",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vence",
+  "city": "Vence",
+  "citySlug": "vence",
+  "path": "/france/vence/vence/restaurants",
+  "canonicalPath": "/france/vence/vence/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "La Cassolette",
@@ -14,7 +20,7 @@
       "name": "Le Saint-Martin",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/vence/vence/le-saint-martin"
+      "path": "/france/vence/vence/le-saintmartin"
     },
     {
       "name": "Nacl",

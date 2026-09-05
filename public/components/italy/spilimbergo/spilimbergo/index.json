@@ -1,14 +1,20 @@
 {
   "title": "Spilimbergo",
-  "country": "italy",
-  "region": "spilimbergo",
-  "city": "spilimbergo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "spilimbergo",
+  "city": "Spilimbergo",
+  "citySlug": "spilimbergo",
+  "path": "/italy/spilimbergo/spilimbergo/restaurants",
+  "canonicalPath": "/italy/spilimbergo/spilimbergo/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Torre",
       "cuisine": "Regional Cuisine, Modern Cuisine",
       "price": "€€",
-      "path": "/italy/spilimbergo/spilimbergo/la-torre"
+      "path": "/italy/spilimbergo/spilimbergo/la-torre-s-p-i"
     },
     {
       "name": "Osteria da Afro",

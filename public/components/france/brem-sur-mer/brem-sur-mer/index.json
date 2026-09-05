@@ -1,14 +1,21 @@
 {
-  "title": "Brem Sur Mer",
-  "country": "france",
-  "region": "brem-sur-mer",
-  "city": "brem-sur-mer",
+  "title": "Brem sur Mer",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "brem-sur-mer",
+  "city": "Brem sur Mer",
+  "citySlug": "brem-sur-mer",
+  "path": "/france/brem-sur-mer/brem-sur-mer/restaurants",
+  "canonicalPath": "/france/brem-sur-mer/brem-sur-mer/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Genêts",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/brem-sur-mer/brem-sur-mer/les-gents"
+      "path": "/france/brem-sur-mer/brem-sur-mer/les-gents",
+      "award": "★"
     }
   ]
 }

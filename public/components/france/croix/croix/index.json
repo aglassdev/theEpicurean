@@ -1,14 +1,21 @@
 {
   "title": "Croix",
-  "country": "france",
-  "region": "croix",
-  "city": "croix",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "croix",
+  "city": "Croix",
+  "citySlug": "croix",
+  "path": "/france/croix/croix/restaurants",
+  "canonicalPath": "/france/croix/croix/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Arborescence",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/croix/croix/arborescence"
+      "path": "/france/croix/croix/arborescence",
+      "award": "★"
     }
   ]
 }

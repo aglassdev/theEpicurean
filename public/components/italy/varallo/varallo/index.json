@@ -1,8 +1,14 @@
 {
   "title": "Varallo",
-  "country": "italy",
-  "region": "varallo",
-  "city": "varallo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "varallo",
+  "city": "Varallo",
+  "citySlug": "varallo",
+  "path": "/italy/varallo/varallo/restaurants",
+  "canonicalPath": "/italy/varallo/varallo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hostaria di Bricai",

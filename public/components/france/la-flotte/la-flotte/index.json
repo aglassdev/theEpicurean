@@ -1,17 +1,27 @@
 {
   "title": "La Flotte",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-flotte",
+  "city": "La Flotte",
+  "citySlug": "la-flotte",
+  "path": "/france/la-flotte/la-flotte/restaurants",
+  "canonicalPath": "/france/la-flotte/la-flotte/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "L'Écailler",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/la-flotte/la-flotte/lcailler",
+      "award": "★"
+    },
     {
       "name": "Chai nous comme Chai vous",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/france/la-flotte/la-flotte/chai-nous-comme-chai-vous"
-    },
-    {
-      "name": "L'Écailler",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/france/la-flotte/la-flotte/Lcailler"
     }
   ]
 }

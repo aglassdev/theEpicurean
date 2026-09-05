@@ -1,56 +1,65 @@
 {
   "title": "Rottach Egern",
-  "country": "germany",
-  "region": "rottach-egern",
-  "city": "rottach-egern",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "rottach-egern",
+  "city": "Rottach Egern",
+  "citySlug": "rottach-egern",
+  "path": "/germany/rottach-egern/rottach-egern/restaurants",
+  "canonicalPath": "/germany/rottach-egern/rottach-egern/restaurants",
+  "count": 8,
   "restaurants": [
-    {
-      "name": "Alois-Anton Kaminrestaurant",
-      "cuisine": "Country cooking, Farm to table",
-      "price": "€€€",
-      "path": "/germany/rottach-egern/rottach-egern/alois-anton-kaminrestaurant"
-    },
-    {
-      "name": "au lac 51",
-      "cuisine": "International, Seasonal Cuisine",
-      "price": "€€",
-      "path": "/germany/rottach-egern/rottach-egern/au-lac-51"
-    },
-    {
-      "name": "EGERN 51",
-      "cuisine": "International, Seasonal Cuisine",
-      "price": "€€",
-      "path": "/germany/rottach-egern/rottach-egern/egern-51"
-    },
-    {
-      "name": "Fährhütte 14",
-      "cuisine": "International, Farm to table",
-      "price": "€€",
-      "path": "/germany/rottach-egern/rottach-egern/fhrhtte-14"
-    },
     {
       "name": "Gourmetrestaurant Dichter",
       "cuisine": "Modern Cuisine, Creative French",
       "price": "€€€€",
-      "path": "/germany/rottach-egern/rottach-egern/gourmetrestaurant-dichter"
+      "path": "/germany/rottach-egern/rottach-egern/gourmetrestaurant-dichter",
+      "award": "★★"
     },
     {
       "name": "Haubentaucher",
       "cuisine": "International, Farm to table",
       "price": "€€€",
-      "path": "/germany/rottach-egern/rottach-egern/haubentaucher"
+      "path": "/germany/rottach-egern/rottach-egern/haubentaucher",
+      "award": "★"
+    },
+    {
+      "name": "Restaurant Überfahrt",
+      "cuisine": "Classic Cuisine, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/rottach-egern/rottach-egern/restaurant-berfahrt",
+      "award": "★"
+    },
+    {
+      "name": "Alois-Anton Kaminrestaurant",
+      "cuisine": "Country cooking, Farm to table",
+      "price": "€€€",
+      "path": "/germany/rottach-egern/rottach-egern/aloisanton-kaminrestaurant"
+    },
+    {
+      "name": "au lac 51",
+      "cuisine": "International, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/germany/rottach-egern/rottach-egern/au-lac51"
+    },
+    {
+      "name": "EGERN 51",
+      "cuisine": "International, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/germany/rottach-egern/rottach-egern/egern51"
+    },
+    {
+      "name": "Fährhütte 14",
+      "cuisine": "International, Farm to table",
+      "price": "€€",
+      "path": "/germany/rottach-egern/rottach-egern/fhrhtte14"
     },
     {
       "name": "Kirschner Stuben",
       "cuisine": "Regional European, Country cooking",
       "price": "€€",
       "path": "/germany/rottach-egern/rottach-egern/kirschner-stuben"
-    },
-    {
-      "name": "Restaurant Überfahrt",
-      "cuisine": "Classic Cuisine, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/rottach-egern/rottach-egern/restaurant-berfahrt"
     }
   ]
 }

@@ -1,11 +1,20 @@
 {
   "title": "Santa Rosa Beach",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Santa Rosa Beach",
+  "citySlug": "santa-rosa-beach",
+  "path": "/usa/florida/santa-rosa-beach/restaurants",
+  "canonicalPath": "/usa/florida/santa-rosa-beach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Roux 30A",
       "cuisine": "Contemporary",
       "price": "$$$$",
-      "path": "/usa/florida/santa-rosa-beach/Roux30a"
+      "path": "/usa/florida/santa-rosa-beach/roux30a"
     }
   ]
 }

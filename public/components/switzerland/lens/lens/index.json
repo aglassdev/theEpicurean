@@ -1,14 +1,20 @@
 {
   "title": "Lens",
-  "country": "switzerland",
-  "region": "lens",
-  "city": "lens",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "lens",
+  "city": "Lens",
+  "citySlug": "lens",
+  "path": "/switzerland/lens/lens/restaurants",
+  "canonicalPath": "/switzerland/lens/lens/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Monument",
       "cuisine": "Classic Cuisine",
       "price": "€€",
-      "path": "/switzerland/lens/lens/le-monument"
+      "path": "/switzerland/lens/lens/le-monument-l-e-n"
     }
   ]
 }

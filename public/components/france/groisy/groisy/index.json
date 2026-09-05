@@ -1,8 +1,14 @@
 {
   "title": "Groisy",
-  "country": "france",
-  "region": "groisy",
-  "city": "groisy",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "groisy",
+  "city": "Groisy",
+  "citySlug": "groisy",
+  "path": "/france/groisy/groisy/restaurants",
+  "canonicalPath": "/france/groisy/groisy/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de Groisy",

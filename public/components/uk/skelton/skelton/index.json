@@ -1,14 +1,21 @@
 {
   "title": "Skelton",
-  "country": "uk",
-  "region": "skelton",
-  "city": "skelton",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "skelton",
+  "city": "Skelton",
+  "citySlug": "skelton",
+  "path": "/uk/skelton/skelton/restaurants",
+  "canonicalPath": "/uk/skelton/skelton/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Dog and Gun Inn",
       "cuisine": "British Contemporary",
       "price": "£££",
-      "path": "/uk/skelton/skelton/dog-and-gun-inn"
+      "path": "/uk/skelton/skelton/dog-and-gun-inn",
+      "award": "★"
     }
   ]
 }

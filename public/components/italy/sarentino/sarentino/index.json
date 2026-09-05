@@ -1,9 +1,22 @@
 {
   "title": "Sarentino",
-  "country": "italy",
-  "region": "sarentino",
-  "city": "sarentino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "sarentino",
+  "city": "Sarentino",
+  "citySlug": "sarentino",
+  "path": "/italy/sarentino/sarentino/restaurants",
+  "canonicalPath": "/italy/sarentino/sarentino/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Terra The Magic Place",
+      "cuisine": "Creative, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/italy/sarentino/sarentino/terra-the-magic-place",
+      "award": "★★"
+    },
     {
       "name": "Alpes",
       "cuisine": "Modern Cuisine, Innovative",
@@ -21,12 +34,6 @@
       "cuisine": "Modern Cuisine, Innovative",
       "price": "€€€",
       "path": "/italy/sarentino/sarentino/ristorante-alpes-la-fuga"
-    },
-    {
-      "name": "Terra The Magic Place",
-      "cuisine": "Creative, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/italy/sarentino/sarentino/terra-the-magic-place"
     }
   ]
 }

@@ -1,20 +1,26 @@
 {
   "title": "Tulle",
-  "country": "france",
-  "region": "tulle",
-  "city": "tulle",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tulle",
+  "city": "Tulle",
+  "citySlug": "tulle",
+  "path": "/france/tulle/tulle/restaurants",
+  "canonicalPath": "/france/tulle/tulle/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Bouche à Oreille",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/tulle/tulle/le-bouche-oreille"
+      "path": "/france/tulle/tulle/le-bouche-oreille-t-u-l"
     },
     {
       "name": "Les 7",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/tulle/tulle/les-7"
+      "path": "/france/tulle/tulle/les7"
     }
   ]
 }

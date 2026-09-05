@@ -1,8 +1,14 @@
 {
   "title": "Cartes",
-  "country": "spain",
-  "region": "cartes",
-  "city": "cartes",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "cartes",
+  "city": "Cartes",
+  "citySlug": "cartes",
+  "path": "/spain/cartes/cartes/restaurants",
+  "canonicalPath": "/spain/cartes/cartes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Cartería",

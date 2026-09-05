@@ -1,8 +1,14 @@
 {
   "title": "Nanterre",
-  "country": "france",
-  "region": "nanterre",
-  "city": "nanterre",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "nanterre",
+  "city": "Nanterre",
+  "citySlug": "nanterre",
+  "path": "/france/nanterre/nanterre/restaurants",
+  "canonicalPath": "/france/nanterre/nanterre/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cabane",

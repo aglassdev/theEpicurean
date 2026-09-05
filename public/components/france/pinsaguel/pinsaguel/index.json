@@ -1,8 +1,14 @@
 {
   "title": "Pinsaguel",
-  "country": "france",
-  "region": "pinsaguel",
-  "city": "pinsaguel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pinsaguel",
+  "city": "Pinsaguel",
+  "citySlug": "pinsaguel",
+  "path": "/france/pinsaguel/pinsaguel/restaurants",
+  "canonicalPath": "/france/pinsaguel/pinsaguel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Gentiane",

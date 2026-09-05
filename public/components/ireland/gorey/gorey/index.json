@@ -1,8 +1,14 @@
 {
   "title": "Gorey",
-  "country": "ireland",
-  "region": "gorey",
-  "city": "gorey",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "gorey",
+  "city": "Gorey",
+  "citySlug": "gorey",
+  "path": "/ireland/gorey/gorey/restaurants",
+  "canonicalPath": "/ireland/gorey/gorey/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Table Forty One",

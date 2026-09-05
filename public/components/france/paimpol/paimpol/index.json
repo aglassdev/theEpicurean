@@ -1,8 +1,14 @@
 {
   "title": "Paimpol",
-  "country": "france",
-  "region": "paimpol",
-  "city": "paimpol",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "paimpol",
+  "city": "Paimpol",
+  "citySlug": "paimpol",
+  "path": "/france/paimpol/paimpol/restaurants",
+  "canonicalPath": "/france/paimpol/paimpol/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Serre",

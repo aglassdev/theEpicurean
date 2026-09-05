@@ -1,14 +1,20 @@
 {
   "title": "Floirac",
-  "country": "france",
-  "region": "floirac",
-  "city": "floirac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "floirac",
+  "city": "Floirac",
+  "citySlug": "floirac",
+  "path": "/france/floirac/floirac/restaurants",
+  "canonicalPath": "/france/floirac/floirac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Mangeoire",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/floirac/floirac/la-mangeoire"
+      "path": "/france/floirac/floirac/la-mangeoire-f-l-o"
     }
   ]
 }

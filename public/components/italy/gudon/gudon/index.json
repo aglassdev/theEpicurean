@@ -1,14 +1,20 @@
 {
   "title": "Gudon",
-  "country": "italy",
-  "region": "gudon",
-  "city": "gudon",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "gudon",
+  "city": "Gudon",
+  "citySlug": "gudon",
+  "path": "/italy/gudon/gudon/restaurants",
+  "canonicalPath": "/italy/gudon/gudon/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Der Unterwirt",
       "cuisine": "Modern Cuisine, Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/italy/gudon/gudon/der-unterwirt"
+      "path": "/italy/gudon/gudon/der-unterwirt-g-u-d"
     },
     {
       "name": "Unterwirt",

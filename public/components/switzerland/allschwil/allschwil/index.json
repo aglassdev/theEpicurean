@@ -1,8 +1,14 @@
 {
   "title": "Allschwil",
-  "country": "switzerland",
-  "region": "allschwil",
-  "city": "allschwil",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "allschwil",
+  "city": "Allschwil",
+  "citySlug": "allschwil",
+  "path": "/switzerland/allschwil/allschwil/restaurants",
+  "canonicalPath": "/switzerland/allschwil/allschwil/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Villa Winzerpark",

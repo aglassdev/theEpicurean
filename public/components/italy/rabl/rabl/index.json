@@ -1,8 +1,14 @@
 {
   "title": "Rabl",
-  "country": "italy",
-  "region": "rabl",
-  "city": "rabl",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "rabl",
+  "city": "Rabl",
+  "citySlug": "rabl",
+  "path": "/italy/rabl/rabl/restaurants",
+  "canonicalPath": "/italy/rabl/rabl/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hanswirt",

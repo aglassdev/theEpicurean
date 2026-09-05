@@ -1,8 +1,14 @@
 {
   "title": "Villegenon",
-  "country": "france",
-  "region": "villegenon",
-  "city": "villegenon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "villegenon",
+  "city": "Villegenon",
+  "citySlug": "villegenon",
+  "path": "/france/villegenon/villegenon/restaurants",
+  "canonicalPath": "/france/villegenon/villegenon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Récréation Gourmande",

@@ -1,8 +1,14 @@
 {
   "title": "Royan",
-  "country": "france",
-  "region": "royan",
-  "city": "royan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "royan",
+  "city": "Royan",
+  "citySlug": "royan",
+  "path": "/france/royan/royan/restaurants",
+  "canonicalPath": "/france/royan/royan/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Rafales",

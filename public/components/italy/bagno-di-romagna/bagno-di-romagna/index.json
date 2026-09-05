@@ -1,20 +1,27 @@
 {
-  "title": "Bagno Di Romagna",
-  "country": "italy",
-  "region": "bagno-di-romagna",
-  "city": "bagno-di-romagna",
+  "title": "Bagno di Romagna",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bagno-di-romagna",
+  "city": "Bagno di Romagna",
+  "citySlug": "bagno-di-romagna",
+  "path": "/italy/bagno-di-romagna/bagno-di-romagna/restaurants",
+  "canonicalPath": "/italy/bagno-di-romagna/bagno-di-romagna/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Ristorante del Lago",
+      "cuisine": "Cuisine from Romagna, Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/bagno-di-romagna/bagno-di-romagna/ristorante-del-lago",
+      "award": "★"
+    },
     {
       "name": "Paolo Teverini",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
       "path": "/italy/bagno-di-romagna/bagno-di-romagna/paolo-teverini"
-    },
-    {
-      "name": "Ristorante del Lago",
-      "cuisine": "Cuisine from Romagna, Modern Cuisine",
-      "price": "€€€",
-      "path": "/italy/bagno-di-romagna/bagno-di-romagna/ristorante-del-lago"
     }
   ]
 }

@@ -1,17 +1,104 @@
 {
   "title": "Oslo",
+  "country": "Norway",
+  "countrySlug": "norway",
+  "region": null,
+  "regionSlug": "oslo",
+  "city": "Oslo",
+  "citySlug": "oslo",
+  "path": "/norway/oslo/oslo/restaurants",
+  "canonicalPath": "/norway/oslo/oslo/restaurants",
+  "count": 33,
   "restaurants": [
     {
-      "name": "Arakataka",
+      "name": "Maaemo",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/norway/oslo/oslo/maaemo",
+      "award": "★★★"
+    },
+    {
+      "name": "Kontrast",
+      "cuisine": "Scandinavian",
+      "price": "€€€€",
+      "path": "/norway/oslo/oslo/kontrast",
+      "award": "★★"
+    },
+    {
+      "name": "À L'aise",
       "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/norway/oslo/oslo/arakataka"
+      "price": "€€€€",
+      "path": "/norway/oslo/oslo/laise",
+      "award": "★"
     },
     {
       "name": "Bar Amour",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/norway/oslo/oslo/bar-amour"
+      "path": "/norway/oslo/oslo/bar-amour",
+      "award": "★"
+    },
+    {
+      "name": "Credo",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/norway/oslo/oslo/credo",
+      "award": "★"
+    },
+    {
+      "name": "Hot Shop",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/norway/oslo/oslo/hot-shop",
+      "award": "★"
+    },
+    {
+      "name": "HYDE",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/norway/oslo/oslo/hyde",
+      "award": "★"
+    },
+    {
+      "name": "Mon Oncle",
+      "cuisine": "French",
+      "price": "€€€€",
+      "path": "/norway/oslo/oslo/mon-oncle",
+      "award": "★"
+    },
+    {
+      "name": "Sabi Omakase Oslo",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/norway/oslo/oslo/sabi-omakase-oslo",
+      "award": "★"
+    },
+    {
+      "name": "SAVAGE",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/norway/oslo/oslo/savage",
+      "award": "★"
+    },
+    {
+      "name": "Stallen",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/norway/oslo/oslo/stallen",
+      "award": "★"
+    },
+    {
+      "name": "Statholdergaarden",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/norway/oslo/oslo/statholdergaarden",
+      "award": "★"
+    },
+    {
+      "name": "Arakataka",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/norway/oslo/oslo/arakataka"
     },
     {
       "name": "Betong",
@@ -56,6 +143,12 @@
       "path": "/norway/oslo/oslo/festningen"
     },
     {
+      "name": "Festningen Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/norway/oslo/oslo/festningen-restaurant"
+    },
+    {
       "name": "Frances Vinbar",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
@@ -68,16 +161,10 @@
       "path": "/norway/oslo/oslo/fyr-bistronomi-bar"
     },
     {
-      "name": "Hot Shop",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/norway/oslo/oslo/hot-shop"
-    },
-    {
-      "name": "HYDE",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/norway/oslo/oslo/hyde"
+      "name": "Izakaya by Vladimir Pak",
+      "cuisine": "Japanese",
+      "price": "$$",
+      "path": "/norway/oslo/oslo/izakaya-by-vladimir-pak"
     },
     {
       "name": "Kolonialen Bislett",
@@ -86,52 +173,16 @@
       "path": "/norway/oslo/oslo/kolonialen-bislett"
     },
     {
-      "name": "Kontrast",
-      "cuisine": "Scandinavian",
-      "price": "€€€€",
-      "path": "/norway/oslo/oslo/kontrast"
-    },
-    {
-      "name": "À L'aise",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/norway/oslo/oslo/laise"
-    },
-    {
-      "name": "Maaemo",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/norway/oslo/oslo/maaemo"
-    },
-    {
       "name": "Madonna",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/norway/oslo/oslo/madonna"
     },
     {
-      "name": "Mon Oncle",
-      "cuisine": "French",
-      "price": "€€€€",
-      "path": "/norway/oslo/oslo/mon-oncle"
-    },
-    {
       "name": "Plah",
       "cuisine": "Thai",
       "price": "€€€€",
       "path": "/norway/oslo/oslo/plah"
-    },
-    {
-      "name": "Sabi Omakase Oslo",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/norway/oslo/oslo/sabi-omakase-oslo"
-    },
-    {
-      "name": "SAVAGE",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/norway/oslo/oslo/savage"
     },
     {
       "name": "Sjømagasinet",
@@ -146,22 +197,10 @@
       "path": "/norway/oslo/oslo/smalhans"
     },
     {
-      "name": "Stallen",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/norway/oslo/oslo/stallen"
-    },
-    {
       "name": "Statholderens Mat og Vinkjeller",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
       "path": "/norway/oslo/oslo/statholderens-mat-og-vinkjeller"
-    },
-    {
-      "name": "Statholdergaarden",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/norway/oslo/oslo/statholdergaarden"
     },
     {
       "name": "The Little Pickle",
@@ -180,24 +219,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/norway/oslo/oslo/varemottaket"
-    },
-    {
-      "name": "Credo",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/norway/oslo/oslo/Credo"
-    },
-    {
-      "name": "Festningen Restaurant",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/norway/oslo/oslo/FestningenRestaurant"
-    },
-    {
-      "name": "Izakaya by Vladimir Pak",
-      "cuisine": "Japanese",
-      "price": "$$",
-      "path": "/norway/oslo/oslo/IzakayaByVladimirPak"
     }
   ]
 }

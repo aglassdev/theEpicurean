@@ -1,11 +1,20 @@
 {
   "title": "Martel",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "martel",
+  "city": "Martel",
+  "citySlug": "martel",
+  "path": "/france/martel/martel/restaurants",
+  "canonicalPath": "/france/martel/martel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Petit Moulin",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/martel/martel/LePetitMoulin"
+      "path": "/france/martel/martel/le-petit-moulin"
     }
   ]
 }

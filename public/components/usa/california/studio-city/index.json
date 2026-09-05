@@ -1,0 +1,26 @@
+{
+  "title": "Studio City",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Studio City",
+  "citySlug": "studio-city",
+  "path": "/usa/california/studio-city/restaurants",
+  "canonicalPath": "/usa/california/studio-city/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Asanebo",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/studio-city/asanebo"
+    },
+    {
+      "name": "Leona’s Sushi House",
+      "cuisine": "Japanese, Peruvian",
+      "price": "$$$",
+      "path": "/usa/california/studio-city/leonas-sushi-house"
+    }
+  ]
+}

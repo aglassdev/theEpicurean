@@ -1,14 +1,20 @@
 {
   "title": "Cuorgn",
-  "country": "italy",
-  "region": "cuorgn",
-  "city": "cuorgn",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cuorgn",
+  "city": "Cuorgn",
+  "citySlug": "cuorgn",
+  "path": "/italy/cuorgn/cuorgn/restaurants",
+  "canonicalPath": "/italy/cuorgn/cuorgn/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Rosselli 77",
       "cuisine": "Piedmontese, Traditional Cuisine",
       "price": "€",
-      "path": "/italy/cuorgn/cuorgn/rosselli-77"
+      "path": "/italy/cuorgn/cuorgn/rosselli77"
     }
   ]
 }

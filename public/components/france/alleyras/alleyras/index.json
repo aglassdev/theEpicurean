@@ -1,14 +1,21 @@
 {
   "title": "Alleyras",
-  "country": "france",
-  "region": "alleyras",
-  "city": "alleyras",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "alleyras",
+  "city": "Alleyras",
+  "citySlug": "alleyras",
+  "path": "/france/alleyras/alleyras/restaurants",
+  "canonicalPath": "/france/alleyras/alleyras/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Haut-Allier",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/alleyras/alleyras/le-haut-allier"
+      "path": "/france/alleyras/alleyras/le-hautallier",
+      "award": "★"
     }
   ]
 }

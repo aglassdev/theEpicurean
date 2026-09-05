@@ -1,20 +1,27 @@
 {
   "title": "Ascot",
-  "country": "uk",
-  "region": "ascot",
-  "city": "ascot",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "ascot",
+  "city": "Ascot",
+  "citySlug": "ascot",
+  "path": "/uk/ascot/ascot/restaurants",
+  "canonicalPath": "/uk/ascot/ascot/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Woven by Adam Smith",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/ascot/ascot/woven-by-adam-smith",
+      "award": "★"
+    },
     {
       "name": "Bluebells Restaurant",
       "cuisine": "Modern Cuisine",
       "price": "££",
       "path": "/uk/ascot/ascot/bluebells-restaurant"
-    },
-    {
-      "name": "Woven by Adam Smith",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/ascot/ascot/woven-by-adam-smith"
     }
   ]
 }

@@ -1,17 +1,26 @@
 {
   "title": "Stans",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "stans",
+  "city": "Stans",
+  "citySlug": "stans",
+  "path": "/switzerland/stans/stans/restaurants",
+  "canonicalPath": "/switzerland/stans/stans/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Culinarium Alpinum",
+      "cuisine": "Regional European",
+      "price": "$$",
+      "path": "/switzerland/stans/stans/culinarium-alpinum"
+    },
     {
       "name": "Wirtschaft zur Rosenburg",
       "cuisine": "Country cooking",
       "price": "€€",
       "path": "/switzerland/stans/stans/wirtschaft-zur-rosenburg"
-    },
-    {
-      "name": "Culinarium Alpinum",
-      "cuisine": "Regional European",
-      "price": "$$",
-      "path": "/switzerland/stans/stans/CulinariumAlpinum"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Pau",
-  "country": "france",
-  "region": "pau",
-  "city": "pau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pau",
+  "city": "Pau",
+  "citySlug": "pau",
+  "path": "/france/pau/pau/restaurants",
+  "canonicalPath": "/france/pau/pau/restaurants",
+  "count": 10,
   "restaurants": [
     {
       "name": "Bistrot Ruffet - Villa Navarre",
@@ -17,12 +23,6 @@
       "path": "/france/pau/pau/jumo-co"
     },
     {
-      "name": "Les Pipelettes",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/pau/pau/les-pipelettes"
-    },
-    {
       "name": "L'Interprète",
       "cuisine": "Creative",
       "price": "€€",
@@ -33,6 +33,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/pau/pau/lossau"
+    },
+    {
+      "name": "Les Pipelettes",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/pau/pau/les-pipelettes"
     },
     {
       "name": "Maison Ruffet - Villa Navarre",

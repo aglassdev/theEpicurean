@@ -1,9 +1,21 @@
 {
   "title": "Besanon",
-  "country": "france",
-  "region": "besanon",
-  "city": "besanon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "besanon",
+  "city": "Besanon",
+  "citySlug": "besanon",
+  "path": "/france/besanon/besanon/restaurants",
+  "canonicalPath": "/france/besanon/besanon/restaurants",
+  "count": 8,
   "restaurants": [
+    {
+      "name": "Épicéa",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/besanon/besanon/pica"
+    },
     {
       "name": "Le Manège",
       "cuisine": "Modern Cuisine",
@@ -14,7 +26,7 @@
       "name": "Le Parc",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/besanon/besanon/le-parc"
+      "path": "/france/besanon/besanon/le-parc-b-e-s"
     },
     {
       "name": "Le Saint Cerf",
@@ -26,7 +38,7 @@
       "name": "Le Saint-Pierre",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/besanon/besanon/le-saint-pierre"
+      "path": "/france/besanon/besanon/le-saintpierre"
     },
     {
       "name": "Le Sauvage",
@@ -45,12 +57,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/besanon/besanon/loiseau-du-temps"
-    },
-    {
-      "name": "Épicéa",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/besanon/besanon/pica"
     }
   ]
 }

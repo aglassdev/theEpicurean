@@ -1,9 +1,22 @@
 {
-  "title": "Bury St Edmunds",
-  "country": "uk",
-  "region": "bury-st-edmunds",
-  "city": "bury-st-edmunds",
+  "title": "Bury St. Edmunds",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "bury-st-edmunds",
+  "city": "Bury St. Edmunds",
+  "citySlug": "bury-st-edmunds",
+  "path": "/uk/bury-st-edmunds/bury-st-edmunds/restaurants",
+  "canonicalPath": "/uk/bury-st-edmunds/bury-st-edmunds/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Pea Porridge",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "£££",
+      "path": "/uk/bury-st-edmunds/bury-st-edmunds/pea-porridge",
+      "award": "★"
+    },
     {
       "name": "Bellota",
       "cuisine": "Modern Cuisine",
@@ -21,12 +34,6 @@
       "cuisine": "French",
       "price": "£££",
       "path": "/uk/bury-st-edmunds/bury-st-edmunds/maison-bleue"
-    },
-    {
-      "name": "Pea Porridge",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "£££",
-      "path": "/uk/bury-st-edmunds/bury-st-edmunds/pea-porridge"
     }
   ]
 }

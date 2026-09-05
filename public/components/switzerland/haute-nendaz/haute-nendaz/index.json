@@ -1,8 +1,14 @@
 {
   "title": "Haute Nendaz",
-  "country": "switzerland",
-  "region": "haute-nendaz",
-  "city": "haute-nendaz",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "haute-nendaz",
+  "city": "Haute Nendaz",
+  "citySlug": "haute-nendaz",
+  "path": "/switzerland/haute-nendaz/haute-nendaz/restaurants",
+  "canonicalPath": "/switzerland/haute-nendaz/haute-nendaz/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Au Vieux Nendaz",
@@ -14,7 +20,7 @@
       "name": "Mont-Rouge",
       "cuisine": "International",
       "price": "€€€",
-      "path": "/switzerland/haute-nendaz/haute-nendaz/mont-rouge"
+      "path": "/switzerland/haute-nendaz/haute-nendaz/montrouge"
     }
   ]
 }

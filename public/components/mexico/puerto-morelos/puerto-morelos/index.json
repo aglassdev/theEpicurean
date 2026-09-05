@@ -1,14 +1,21 @@
 {
   "title": "Puerto Morelos",
-  "country": "mexico",
-  "region": "puerto-morelos",
-  "city": "puerto-morelos",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "puerto-morelos",
+  "city": "Puerto Morelos",
+  "citySlug": "puerto-morelos",
+  "path": "/mexico/puerto-morelos/puerto-morelos/restaurants",
+  "canonicalPath": "/mexico/puerto-morelos/puerto-morelos/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Chique",
       "cuisine": "Contemporary, Mexican",
       "price": "$$$$",
-      "path": "/mexico/puerto-morelos/puerto-morelos/le-chique"
+      "path": "/mexico/puerto-morelos/puerto-morelos/le-chique",
+      "award": "★"
     },
     {
       "name": "Punta Corcho",

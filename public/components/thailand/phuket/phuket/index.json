@@ -1,6 +1,22 @@
 {
   "title": "Phuket",
+  "country": "Thailand",
+  "countrySlug": "thailand",
+  "region": null,
+  "regionSlug": "phuket",
+  "city": "Phuket",
+  "citySlug": "phuket",
+  "path": "/thailand/phuket/phuket/restaurants",
+  "canonicalPath": "/thailand/phuket/phuket/restaurants",
+  "count": 68,
   "restaurants": [
+    {
+      "name": "PRU",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "฿฿฿฿",
+      "path": "/thailand/phuket/phuket/pru",
+      "award": "★"
+    },
     {
       "name": "A Pong Mae Sunee",
       "cuisine": "Street Food",
@@ -137,7 +153,7 @@
       "name": "Kin-Kub-Ei",
       "cuisine": "Southern Thai",
       "price": "฿฿",
-      "path": "/thailand/phuket/phuket/kin-kub-ei"
+      "path": "/thailand/phuket/phuket/kinkubei"
     },
     {
       "name": "Krua Baan Platong",
@@ -164,22 +180,28 @@
       "path": "/thailand/phuket/phuket/kruvit-raft-ban-laem-hin"
     },
     {
-      "name": "La Gaetana",
-      "cuisine": "Italian",
-      "price": "฿฿",
-      "path": "/thailand/phuket/phuket/la-gaetana"
-    },
-    {
       "name": "L'Arôme by the Sea",
       "cuisine": "French Contemporary, Creative",
       "price": "฿฿฿฿",
       "path": "/thailand/phuket/phuket/larme-by-the-sea"
     },
     {
+      "name": "La Gaetana",
+      "cuisine": "Italian",
+      "price": "฿฿",
+      "path": "/thailand/phuket/phuket/la-gaetana"
+    },
+    {
       "name": "Lertrod",
       "cuisine": "Thai",
       "price": "฿฿",
       "path": "/thailand/phuket/phuket/lertrod"
+    },
+    {
+      "name": "lob-baan",
+      "cuisine": "Southern Thai",
+      "price": "$$",
+      "path": "/thailand/phuket/phuket/lobbaan"
     },
     {
       "name": "Loba Bang Niao",
@@ -236,6 +258,12 @@
       "path": "/thailand/phuket/phuket/o-tao-bang-niao"
     },
     {
+      "name": "Omemo",
+      "cuisine": "Swiss",
+      "price": "$$$",
+      "path": "/thailand/phuket/phuket/omemo"
+    },
+    {
       "name": "One Chun",
       "cuisine": "Southern Thai",
       "price": "฿฿",
@@ -251,13 +279,7 @@
       "name": "Peang-Prai",
       "cuisine": "Thai",
       "price": "฿฿",
-      "path": "/thailand/phuket/phuket/peang-prai"
-    },
-    {
-      "name": "PRU",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "฿฿฿฿",
-      "path": "/thailand/phuket/phuket/pru"
+      "path": "/thailand/phuket/phuket/peangprai"
     },
     {
       "name": "Roti Chaofa",
@@ -396,18 +418,6 @@
       "cuisine": "Steakhouse",
       "price": "฿฿฿",
       "path": "/thailand/phuket/phuket/wagyu-steakhouse"
-    },
-    {
-      "name": "Omemo",
-      "cuisine": "Swiss",
-      "price": "$$$",
-      "path": "/thailand/phuket/phuket/Omemo"
-    },
-    {
-      "name": "lob-baan",
-      "cuisine": "Southern Thai",
-      "price": "$$",
-      "path": "/thailand/phuket/phuket/Lobbaan"
     }
   ]
 }

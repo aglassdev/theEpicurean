@@ -1,8 +1,14 @@
 {
   "title": "Meucon",
-  "country": "france",
-  "region": "meucon",
-  "city": "meucon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "meucon",
+  "city": "Meucon",
+  "citySlug": "meucon",
+  "path": "/france/meucon/meucon/restaurants",
+  "canonicalPath": "/france/meucon/meucon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge du Rohan",

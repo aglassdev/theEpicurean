@@ -1,14 +1,20 @@
 {
   "title": "Les Contamines Montjoie",
-  "country": "france",
-  "region": "les-contamines-montjoie",
-  "city": "les-contamines-montjoie",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "les-contamines-montjoie",
+  "city": "Les Contamines Montjoie",
+  "citySlug": "les-contamines-montjoie",
+  "path": "/france/les-contamines-montjoie/les-contamines-montjoie/restaurants",
+  "canonicalPath": "/france/les-contamines-montjoie/les-contamines-montjoie/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Ô à la Bouche",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/les-contamines-montjoie/les-contamines-montjoie/l-la-bouche"
+      "path": "/france/les-contamines-montjoie/les-contamines-montjoie/l-la-bouche-l-e-s"
     }
   ]
 }

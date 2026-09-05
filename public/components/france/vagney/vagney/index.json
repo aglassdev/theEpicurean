@@ -1,8 +1,14 @@
 {
   "title": "Vagney",
-  "country": "france",
-  "region": "vagney",
-  "city": "vagney",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vagney",
+  "city": "Vagney",
+  "citySlug": "vagney",
+  "path": "/france/vagney/vagney/restaurants",
+  "canonicalPath": "/france/vagney/vagney/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Lilas",

@@ -1,20 +1,27 @@
 {
   "title": "Brantme",
-  "country": "france",
-  "region": "brantme",
-  "city": "brantme",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "brantme",
+  "city": "Brantme",
+  "citySlug": "brantme",
+  "path": "/france/brantme/brantme/restaurants",
+  "canonicalPath": "/france/brantme/brantme/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Moulin de l'Abbaye",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/brantme/brantme/le-moulin-de-labbaye",
+      "award": "★"
+    },
     {
       "name": "Charbonnel",
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/france/brantme/brantme/charbonnel"
-    },
-    {
-      "name": "Le Moulin de l'Abbaye",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/brantme/brantme/le-moulin-de-labbaye"
     }
   ]
 }

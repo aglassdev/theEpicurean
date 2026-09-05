@@ -1,11 +1,20 @@
 {
   "title": "Sommerein",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "sommerein",
+  "city": "Sommerein",
+  "citySlug": "sommerein",
+  "path": "/austria/sommerein/sommerein/restaurants",
+  "canonicalPath": "/austria/sommerein/sommerein/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Landgasthaus Schiller",
       "cuisine": "Seasonal Cuisine",
       "price": "$$",
-      "path": "/austria/sommerein/sommerein/LandgasthausSchiller"
+      "path": "/austria/sommerein/sommerein/landgasthaus-schiller"
     }
   ]
 }

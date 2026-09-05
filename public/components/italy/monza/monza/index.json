@@ -1,20 +1,27 @@
 {
   "title": "Monza",
-  "country": "italy",
-  "region": "monza",
-  "city": "monza",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "monza",
+  "city": "Monza",
+  "citySlug": "monza",
+  "path": "/italy/monza/monza/restaurants",
+  "canonicalPath": "/italy/monza/monza/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Il Circolino",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€",
+      "path": "/italy/monza/monza/il-circolino",
+      "award": "★"
+    },
     {
       "name": "Derby Grill",
       "cuisine": "Italian Contemporary",
       "price": "€€€",
       "path": "/italy/monza/monza/derby-grill"
-    },
-    {
-      "name": "Il Circolino",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€",
-      "path": "/italy/monza/monza/il-circolino"
     },
     {
       "name": "Punto G",

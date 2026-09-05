@@ -1,8 +1,14 @@
 {
   "title": "Sion",
-  "country": "switzerland",
-  "region": "sion",
-  "city": "sion",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "sion",
+  "city": "Sion",
+  "citySlug": "sion",
+  "path": "/switzerland/sion/sion/restaurants",
+  "canonicalPath": "/switzerland/sion/sion/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Sitterie",

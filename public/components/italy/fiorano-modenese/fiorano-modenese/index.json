@@ -1,14 +1,21 @@
 {
   "title": "Fiorano Modenese",
-  "country": "italy",
-  "region": "fiorano-modenese",
-  "city": "fiorano-modenese",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "fiorano-modenese",
+  "city": "Fiorano Modenese",
+  "citySlug": "fiorano-modenese",
+  "path": "/italy/fiorano-modenese/fiorano-modenese/restaurants",
+  "canonicalPath": "/italy/fiorano-modenese/fiorano-modenese/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Alto",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/italy/fiorano-modenese/fiorano-modenese/alto"
+      "path": "/italy/fiorano-modenese/fiorano-modenese/alto-f-i-o",
+      "award": "★"
     },
     {
       "name": "Exé Restaurant",

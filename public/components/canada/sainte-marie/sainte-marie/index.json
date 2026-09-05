@@ -1,11 +1,21 @@
 {
-  "title": "Sainte-Marie",
+  "title": "Sainte Marie",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "sainte-marie",
+  "city": "Sainte Marie",
+  "citySlug": "sainte-marie",
+  "path": "/canada/sainte-marie/sainte-marie/restaurants",
+  "canonicalPath": "/canada/sainte-marie/sainte-marie/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Saindoux Restaurant BBQ",
       "cuisine": "Barbecue",
       "price": "$$",
-      "path": "/canada/sainte-marie/sainte-marie/SaindouxRestaurantBbq"
+      "path": "/canada/sainte-marie/sainte-marie/saindoux-restaurant-bbq",
+      "award": "Bib Gourmand"
     }
   ]
 }

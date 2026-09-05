@@ -1,11 +1,68 @@
 {
   "title": "Palm Springs",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Palm Springs",
+  "citySlug": "palm-springs",
+  "path": "/usa/california/palm-springs/restaurants",
+  "canonicalPath": "/usa/california/palm-springs/restaurants",
+  "count": 9,
   "restaurants": [
+    {
+      "name": "4 Saints",
+      "cuisine": "American",
+      "price": "$$",
+      "path": "/usa/california/palm-springs/4-saints"
+    },
     {
       "name": "Alice B.",
       "cuisine": "American Contemporary",
       "price": "$$$",
-      "path": "/usa/california/palm-springs/AliceB"
+      "path": "/usa/california/palm-springs/alice-b"
+    },
+    {
+      "name": "Bar Cecil",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/california/palm-springs/bar-cecil"
+    },
+    {
+      "name": "Boozehounds",
+      "cuisine": "International",
+      "price": "$$",
+      "path": "/usa/california/palm-springs/boozehounds"
+    },
+    {
+      "name": "Cheeky's",
+      "cuisine": "American, Californian",
+      "price": "$$",
+      "path": "/usa/california/palm-springs/cheekys"
+    },
+    {
+      "name": "Colony Club",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/california/palm-springs/colony-club"
+    },
+    {
+      "name": "Tac/Quila",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/usa/california/palm-springs/tacquila"
+    },
+    {
+      "name": "The Barn Kitchen at Sparrows Lodge",
+      "cuisine": "Californian",
+      "price": "$$",
+      "path": "/usa/california/palm-springs/the-barn-kitchen-at-sparrows-lodge"
+    },
+    {
+      "name": "Workshop Kitchen & Bar",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/palm-springs/workshop-kitchen-bar"
     }
   ]
 }

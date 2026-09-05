@@ -1,14 +1,20 @@
 {
   "title": "Colmenar Viejo",
-  "country": "spain",
-  "region": "colmenar-viejo",
-  "city": "colmenar-viejo",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "colmenar-viejo",
+  "city": "Colmenar Viejo",
+  "citySlug": "colmenar-viejo",
+  "path": "/spain/colmenar-viejo/colmenar-viejo/restaurants",
+  "canonicalPath": "/spain/colmenar-viejo/colmenar-viejo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "El 22",
       "cuisine": "Fusion",
       "price": "€€",
-      "path": "/spain/colmenar-viejo/colmenar-viejo/el-22"
+      "path": "/spain/colmenar-viejo/colmenar-viejo/el22"
     }
   ]
 }

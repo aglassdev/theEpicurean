@@ -1,26 +1,34 @@
 {
   "title": "Talloires Montmin",
-  "country": "france",
-  "region": "talloires-montmin",
-  "city": "talloires-montmin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "talloires-montmin",
+  "city": "Talloires Montmin",
+  "citySlug": "talloires-montmin",
+  "path": "/france/talloires-montmin/talloires-montmin/restaurants",
+  "canonicalPath": "/france/talloires-montmin/talloires-montmin/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Jean Sulpice",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/talloires-montmin/talloires-montmin/jean-sulpice"
+      "path": "/france/talloires-montmin/talloires-montmin/jean-sulpice",
+      "award": "★★"
     },
     {
       "name": "L'Auberge de Montmin",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/talloires-montmin/talloires-montmin/lauberge-de-montmin"
+      "path": "/france/talloires-montmin/talloires-montmin/lauberge-de-montmin",
+      "award": "★★"
     },
     {
       "name": "Le 1903",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/talloires-montmin/talloires-montmin/le-1903"
+      "path": "/france/talloires-montmin/talloires-montmin/le1903"
     },
     {
       "name": "Les Terrasses - Le Cottage Bise",

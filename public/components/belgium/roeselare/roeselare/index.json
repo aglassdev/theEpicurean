@@ -1,20 +1,27 @@
 {
   "title": "Roeselare",
-  "country": "belgium",
-  "region": "roeselare",
-  "city": "roeselare",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "roeselare",
+  "city": "Roeselare",
+  "citySlug": "roeselare",
+  "path": "/belgium/roeselare/roeselare/restaurants",
+  "canonicalPath": "/belgium/roeselare/roeselare/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Boury",
+      "cuisine": "Creative French",
+      "price": "€€€€",
+      "path": "/belgium/roeselare/roeselare/boury",
+      "award": "★★★"
+    },
     {
       "name": "Bistro Le Nord",
       "cuisine": "French Contemporary",
       "price": "€€€",
       "path": "/belgium/roeselare/roeselare/bistro-le-nord"
-    },
-    {
-      "name": "Boury",
-      "cuisine": "Creative French",
-      "price": "€€€€",
-      "path": "/belgium/roeselare/roeselare/boury"
     },
     {
       "name": "CRKL",

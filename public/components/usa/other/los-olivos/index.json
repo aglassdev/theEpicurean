@@ -1,0 +1,32 @@
+{
+  "title": "Los Olivos",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Los Olivos",
+  "citySlug": "los-olivos",
+  "path": "/usa/other/los-olivos/restaurants",
+  "canonicalPath": "/usa/california/los-olivos/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Bar Le Côte",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/usa/california/los-olivos/bar-le-cte"
+    },
+    {
+      "name": "Mattei's Tavern",
+      "cuisine": "American",
+      "price": "$$$$",
+      "path": "/usa/california/los-olivos/matteis-tavern"
+    },
+    {
+      "name": "The Tavern",
+      "cuisine": "American",
+      "price": "$$$$",
+      "path": "/usa/california/los-olivos/the-tavern"
+    }
+  ]
+}

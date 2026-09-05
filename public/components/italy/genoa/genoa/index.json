@@ -1,6 +1,43 @@
 {
   "title": "Genoa",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "genoa",
+  "city": "Genoa",
+  "citySlug": "genoa",
+  "path": "/italy/genoa/genoa/restaurants",
+  "canonicalPath": "/italy/genoa/genoa/restaurants",
+  "count": 21,
   "restaurants": [
+    {
+      "name": "Il Marin",
+      "cuisine": "Seafood, Contemporary",
+      "price": "€€€",
+      "path": "/italy/genoa/genoa/il-marin",
+      "award": "★"
+    },
+    {
+      "name": "San Giorgio",
+      "cuisine": "Modern Cuisine, Ligurian",
+      "price": "€€€",
+      "path": "/italy/genoa/genoa/san-giorgio",
+      "award": "★"
+    },
+    {
+      "name": "The Cook",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/genoa/genoa/the-cook",
+      "award": "★"
+    },
+    {
+      "name": "Trattoria Rosmarino",
+      "cuisine": "Ligurian",
+      "price": "$$",
+      "path": "/italy/genoa/genoa/trattoria-rosmarino",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "20Tre",
       "cuisine": "Farm to table, Modern Cuisine",
@@ -14,6 +51,12 @@
       "path": "/italy/genoa/genoa/bottega-del-re"
     },
     {
+      "name": "Cucina di Sintesi",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/italy/genoa/genoa/cucina-di-sintesi"
+    },
+    {
       "name": "Etra",
       "cuisine": "Creative, Italian Contemporary",
       "price": "€€€",
@@ -24,12 +67,6 @@
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€",
       "path": "/italy/genoa/genoa/hostaria-ducale"
-    },
-    {
-      "name": "Il Marin",
-      "cuisine": "Seafood, Contemporary",
-      "price": "€€€",
-      "path": "/italy/genoa/genoa/il-marin"
     },
     {
       "name": "Il Michelaccio",
@@ -48,12 +85,6 @@
       "cuisine": "Modern Cuisine, Ligurian",
       "price": "€€€€",
       "path": "/italy/genoa/genoa/isi-ivano-ricchebono-chef"
-    },
-    {
-      "name": "La Pineta",
-      "cuisine": "Traditional Cuisine, Meats and Grills",
-      "price": "€€",
-      "path": "/italy/genoa/genoa/la-pineta"
     },
     {
       "name": "La Pineta",
@@ -86,12 +117,6 @@
       "path": "/italy/genoa/genoa/rosmarino"
     },
     {
-      "name": "San Giorgio",
-      "cuisine": "Modern Cuisine, Ligurian",
-      "price": "€€€",
-      "path": "/italy/genoa/genoa/san-giorgio"
-    },
-    {
       "name": "Santa Teresa",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€",
@@ -110,28 +135,10 @@
       "path": "/italy/genoa/genoa/soho"
     },
     {
-      "name": "The Cook",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/genoa/genoa/the-cook"
-    },
-    {
       "name": "Voltalacarta",
       "cuisine": "Seafood, Modern Cuisine",
       "price": "€€",
       "path": "/italy/genoa/genoa/voltalacarta"
-    },
-    {
-      "name": "Trattoria Rosmarino",
-      "cuisine": "Ligurian",
-      "price": "$$",
-      "path": "/italy/genoa/genoa/TrattoriaRosmarino"
-    },
-    {
-      "name": "Cucina di Sintesi",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/italy/genoa/genoa/CucinaDiSintesi"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Steige",
-  "country": "france",
-  "region": "steige",
-  "city": "steige",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "steige",
+  "city": "Steige",
+  "citySlug": "steige",
+  "path": "/france/steige/steige/restaurants",
+  "canonicalPath": "/france/steige/steige/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge Chez Guth",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/steige/steige/auberge-chez-guth"
+      "path": "/france/steige/steige/auberge-chez-guth",
+      "award": "★"
     }
   ]
 }

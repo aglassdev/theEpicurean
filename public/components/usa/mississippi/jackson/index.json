@@ -1,0 +1,32 @@
+{
+  "title": "Jackson",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Mississippi",
+  "regionSlug": "mississippi",
+  "city": "Jackson",
+  "citySlug": "jackson",
+  "path": "/usa/mississippi/jackson/restaurants",
+  "canonicalPath": "/usa/mississippi/jackson/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Elvie's",
+      "cuisine": "French, American",
+      "price": "$$$",
+      "path": "/usa/mississippi/jackson/elvies"
+    },
+    {
+      "name": "Pulito Osteria",
+      "cuisine": "Italian-American",
+      "price": "$$$",
+      "path": "/usa/mississippi/jackson/pulito-osteria"
+    },
+    {
+      "name": "Sacred Ground Barbecue",
+      "cuisine": "Barbecue, American",
+      "price": "$$",
+      "path": "/usa/mississippi/jackson/sacred-ground-barbecue"
+    }
+  ]
+}

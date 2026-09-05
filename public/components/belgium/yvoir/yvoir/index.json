@@ -1,8 +1,14 @@
 {
   "title": "Yvoir",
-  "country": "belgium",
-  "region": "yvoir",
-  "city": "yvoir",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "yvoir",
+  "city": "Yvoir",
+  "citySlug": "yvoir",
+  "path": "/belgium/yvoir/yvoir/restaurants",
+  "canonicalPath": "/belgium/yvoir/yvoir/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mona Lisa",

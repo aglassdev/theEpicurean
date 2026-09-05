@@ -1,14 +1,35 @@
 {
   "title": "Doha",
-  "country": "qatar",
-  "region": "doha",
-  "city": "doha",
+  "country": "Qatar",
+  "countrySlug": "qatar",
+  "region": null,
+  "regionSlug": "doha",
+  "city": "Doha",
+  "citySlug": "doha",
+  "path": "/qatar/doha/doha/restaurants",
+  "canonicalPath": "/qatar/doha/doha/restaurants",
+  "count": 44,
   "restaurants": [
     {
       "name": "Alba",
       "cuisine": "Italian",
       "price": "﷼﷼﷼﷼",
-      "path": "/qatar/doha/doha/alba"
+      "path": "/qatar/doha/doha/alba-d-o-h",
+      "award": "★"
+    },
+    {
+      "name": "IDAM by Alain Ducasse",
+      "cuisine": "French Contemporary",
+      "price": "﷼﷼﷼﷼",
+      "path": "/qatar/doha/doha/idam-by-alain-ducasse",
+      "award": "★"
+    },
+    {
+      "name": "Jamavar",
+      "cuisine": "Indian",
+      "price": "﷼﷼﷼",
+      "path": "/qatar/doha/doha/jamavar-d-o-h",
+      "award": "★"
     },
     {
       "name": "Argan",
@@ -56,13 +77,13 @@
       "name": "Coya",
       "cuisine": "Peruvian",
       "price": "﷼﷼﷼﷼",
-      "path": "/qatar/doha/doha/coya"
+      "path": "/qatar/doha/doha/coya-d-o-h"
     },
     {
       "name": "Curiosa by Jean-Georges",
       "cuisine": "Latin American",
       "price": "﷼﷼﷼",
-      "path": "/qatar/doha/doha/curiosa-by-jean-georges"
+      "path": "/qatar/doha/doha/curiosa-by-jeangeorges"
     },
     {
       "name": "Dalchini",
@@ -86,7 +107,7 @@
       "name": "Em Sherif",
       "cuisine": "Lebanese",
       "price": "﷼﷼﷼﷼",
-      "path": "/qatar/doha/doha/em-sherif"
+      "path": "/qatar/doha/doha/em-sherif-d-o-h"
     },
     {
       "name": "Fenyal",
@@ -104,13 +125,13 @@
       "name": "Hakkasan",
       "cuisine": "Chinese",
       "price": "﷼﷼﷼﷼",
-      "path": "/qatar/doha/doha/hakkasan"
+      "path": "/qatar/doha/doha/hakkasan-d-o-h"
     },
     {
       "name": "Hoppers",
       "cuisine": "Sri Lankan, South Indian",
       "price": "﷼﷼",
-      "path": "/qatar/doha/doha/hoppers"
+      "path": "/qatar/doha/doha/hoppers-d-o-h"
     },
     {
       "name": "Hunters Room & Grill",
@@ -119,22 +140,10 @@
       "path": "/qatar/doha/doha/hunters-room-grill"
     },
     {
-      "name": "IDAM by Alain Ducasse",
-      "cuisine": "French Contemporary",
-      "price": "﷼﷼﷼﷼",
-      "path": "/qatar/doha/doha/idam-by-alain-ducasse"
-    },
-    {
       "name": "Isaan",
       "cuisine": "Thai",
       "price": "﷼﷼",
       "path": "/qatar/doha/doha/isaan"
-    },
-    {
-      "name": "Jamavar",
-      "cuisine": "Indian",
-      "price": "﷼﷼﷼",
-      "path": "/qatar/doha/doha/jamavar"
     },
     {
       "name": "Jiwan",
@@ -158,13 +167,13 @@
       "name": "La Mar by Gastón Acurio",
       "cuisine": "Peruvian",
       "price": "﷼﷼﷼",
-      "path": "/qatar/doha/doha/la-mar-by-gastn-acurio"
+      "path": "/qatar/doha/doha/la-mar-by-gastn-acurio-d-o-h"
     },
     {
       "name": "La Petite Maison (LPM)",
       "cuisine": "French",
       "price": "﷼﷼﷼",
-      "path": "/qatar/doha/doha/la-petite-maison-lpm"
+      "path": "/qatar/doha/doha/la-petite-maison-lpm-d-o-h"
     },
     {
       "name": "Liang",
@@ -206,7 +215,7 @@
       "name": "MURU",
       "cuisine": "Contemporary",
       "price": "﷼﷼﷼﷼",
-      "path": "/qatar/doha/doha/muru"
+      "path": "/qatar/doha/doha/muru-d-o-h"
     },
     {
       "name": "Nobu",
@@ -266,7 +275,7 @@
       "name": "Zuma",
       "cuisine": "Japanese Contemporary",
       "price": "﷼﷼﷼﷼",
-      "path": "/qatar/doha/doha/zuma"
+      "path": "/qatar/doha/doha/zuma-d-o-h"
     }
   ]
 }

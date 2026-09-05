@@ -1,20 +1,27 @@
 {
   "title": "Groningen",
-  "country": "netherlands",
-  "region": "groningen",
-  "city": "groningen",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "groningen",
+  "city": "Groningen",
+  "citySlug": "groningen",
+  "path": "/netherlands/groningen/groningen/restaurants",
+  "canonicalPath": "/netherlands/groningen/groningen/restaurants",
+  "count": 10,
   "restaurants": [
+    {
+      "name": "Noor",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/netherlands/groningen/groningen/noor",
+      "award": "★"
+    },
     {
       "name": "Bisque",
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/netherlands/groningen/groningen/bisque"
-    },
-    {
-      "name": "Blumé",
-      "cuisine": "Modern French",
-      "price": "€€€",
-      "path": "/netherlands/groningen/groningen/blum"
     },
     {
       "name": "Blumé",
@@ -57,12 +64,6 @@
       "cuisine": "Creative French",
       "price": "€€",
       "path": "/netherlands/groningen/groningen/niemeijer"
-    },
-    {
-      "name": "Noor",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/netherlands/groningen/groningen/noor"
     },
     {
       "name": "Vive La Vie",

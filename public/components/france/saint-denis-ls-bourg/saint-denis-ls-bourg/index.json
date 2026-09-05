@@ -1,14 +1,20 @@
 {
   "title": "Saint Denis Ls Bourg",
-  "country": "france",
-  "region": "saint-denis-ls-bourg",
-  "city": "saint-denis-ls-bourg",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-denis-ls-bourg",
+  "city": "Saint Denis Ls Bourg",
+  "citySlug": "saint-denis-ls-bourg",
+  "path": "/france/saint-denis-ls-bourg/saint-denis-ls-bourg/restaurants",
+  "canonicalPath": "/france/saint-denis-ls-bourg/saint-denis-ls-bourg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Racines",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/saint-denis-ls-bourg/saint-denis-ls-bourg/racines"
+      "path": "/france/saint-denis-ls-bourg/saint-denis-ls-bourg/racines-s-a-i"
     }
   ]
 }

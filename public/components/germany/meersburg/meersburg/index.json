@@ -1,14 +1,21 @@
 {
   "title": "Meersburg",
-  "country": "germany",
-  "region": "meersburg",
-  "city": "meersburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "meersburg",
+  "city": "Meersburg",
+  "citySlug": "meersburg",
+  "path": "/germany/meersburg/meersburg/restaurants",
+  "canonicalPath": "/germany/meersburg/meersburg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Casala - das Restaurant",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€€€",
-      "path": "/germany/meersburg/meersburg/casala-das-restaurant"
+      "path": "/germany/meersburg/meersburg/casala-das-restaurant",
+      "award": "★"
     }
   ]
 }

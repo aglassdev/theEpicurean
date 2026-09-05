@@ -1,11 +1,20 @@
 {
   "title": "Obertauern",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "obertauern",
+  "city": "Obertauern",
+  "citySlug": "obertauern",
+  "path": "/austria/obertauern/obertauern/restaurants",
+  "canonicalPath": "/austria/obertauern/obertauern/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Das Seekarhaus",
       "cuisine": "Austrian",
       "price": "$$$",
-      "path": "/austria/obertauern/obertauern/DasSeekarhaus"
+      "path": "/austria/obertauern/obertauern/das-seekarhaus"
     }
   ]
 }

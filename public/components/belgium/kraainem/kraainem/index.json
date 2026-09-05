@@ -1,8 +1,14 @@
 {
   "title": "Kraainem",
-  "country": "belgium",
-  "region": "kraainem",
-  "city": "kraainem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "kraainem",
+  "city": "Kraainem",
+  "citySlug": "kraainem",
+  "path": "/belgium/kraainem/kraainem/restaurants",
+  "canonicalPath": "/belgium/kraainem/kraainem/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Maxime Colin",
@@ -14,7 +20,7 @@
       "name": "Station 3",
       "cuisine": "Chinese",
       "price": "€€",
-      "path": "/belgium/kraainem/kraainem/station-3"
+      "path": "/belgium/kraainem/kraainem/station3"
     }
   ]
 }

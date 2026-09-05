@@ -1,20 +1,27 @@
 {
   "title": "Rigi Kaltbad",
-  "country": "switzerland",
-  "region": "rigi-kaltbad",
-  "city": "rigi-kaltbad",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "rigi-kaltbad",
+  "city": "Rigi Kaltbad",
+  "citySlug": "rigi-kaltbad",
+  "path": "/switzerland/rigi-kaltbad/rigi-kaltbad/restaurants",
+  "canonicalPath": "/switzerland/rigi-kaltbad/rigi-kaltbad/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Regina Montium",
+      "cuisine": "Creative, Swiss",
+      "price": "€€€€",
+      "path": "/switzerland/rigi-kaltbad/rigi-kaltbad/regina-montium",
+      "award": "★"
+    },
     {
       "name": "Bistro by Regina Montium",
       "cuisine": "Swiss",
       "price": "€€",
       "path": "/switzerland/rigi-kaltbad/rigi-kaltbad/bistro-by-regina-montium"
-    },
-    {
-      "name": "Regina Montium",
-      "cuisine": "Creative, Swiss",
-      "price": "€€€€",
-      "path": "/switzerland/rigi-kaltbad/rigi-kaltbad/regina-montium"
     }
   ]
 }

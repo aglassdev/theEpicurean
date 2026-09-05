@@ -1,14 +1,20 @@
 {
   "title": "Stfa",
-  "country": "switzerland",
-  "region": "stfa",
-  "city": "stfa",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "stfa",
+  "city": "Stfa",
+  "citySlug": "stfa",
+  "path": "/switzerland/stfa/stfa/restaurants",
+  "canonicalPath": "/switzerland/stfa/stfa/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthof zur Sonne",
       "cuisine": "Swiss, Traditional Cuisine",
       "price": "€€",
-      "path": "/switzerland/stfa/stfa/gasthof-zur-sonne"
+      "path": "/switzerland/stfa/stfa/gasthof-zur-sonne-s-t-f"
     }
   ]
 }

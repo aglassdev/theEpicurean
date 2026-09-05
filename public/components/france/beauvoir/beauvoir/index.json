@@ -1,8 +1,14 @@
 {
   "title": "Beauvoir",
-  "country": "france",
-  "region": "beauvoir",
-  "city": "beauvoir",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "beauvoir",
+  "city": "Beauvoir",
+  "citySlug": "beauvoir",
+  "path": "/france/beauvoir/beauvoir/restaurants",
+  "canonicalPath": "/france/beauvoir/beauvoir/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de l'Ermitage",

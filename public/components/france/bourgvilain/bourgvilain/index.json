@@ -1,8 +1,14 @@
 {
   "title": "Bourgvilain",
-  "country": "france",
-  "region": "bourgvilain",
-  "city": "bourgvilain",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bourgvilain",
+  "city": "Bourgvilain",
+  "citySlug": "bourgvilain",
+  "path": "/france/bourgvilain/bourgvilain/restaurants",
+  "canonicalPath": "/france/bourgvilain/bourgvilain/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge Larochette",

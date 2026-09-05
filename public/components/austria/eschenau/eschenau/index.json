@@ -1,11 +1,20 @@
 {
   "title": "Eschenau",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "eschenau",
+  "city": "Eschenau",
+  "citySlug": "eschenau",
+  "path": "/austria/eschenau/eschenau/restaurants",
+  "canonicalPath": "/austria/eschenau/eschenau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthof Pils",
       "cuisine": "Austrian",
       "price": "$$",
-      "path": "/austria/eschenau/eschenau/GasthofPils"
+      "path": "/austria/eschenau/eschenau/gasthof-pils"
     }
   ]
 }

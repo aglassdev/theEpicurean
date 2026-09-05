@@ -1,20 +1,27 @@
 {
   "title": "Wangels",
-  "country": "germany",
-  "region": "wangels",
-  "city": "wangels",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "wangels",
+  "city": "Wangels",
+  "citySlug": "wangels",
+  "path": "/germany/wangels/wangels/restaurants",
+  "canonicalPath": "/germany/wangels/wangels/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Bootshaus",
-      "cuisine": "International",
-      "price": "€€",
-      "path": "/germany/wangels/wangels/bootshaus"
-    },
     {
       "name": "Courtier",
       "cuisine": "Creative, Classic Cuisine",
       "price": "€€€€",
-      "path": "/germany/wangels/wangels/courtier"
+      "path": "/germany/wangels/wangels/courtier",
+      "award": "★★"
+    },
+    {
+      "name": "Bootshaus",
+      "cuisine": "International",
+      "price": "€€",
+      "path": "/germany/wangels/wangels/bootshaus-w-a-n"
     }
   ]
 }

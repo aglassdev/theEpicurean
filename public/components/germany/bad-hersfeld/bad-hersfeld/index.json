@@ -1,14 +1,21 @@
 {
   "title": "Bad Hersfeld",
-  "country": "germany",
-  "region": "bad-hersfeld",
-  "city": "bad-hersfeld",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bad-hersfeld",
+  "city": "Bad Hersfeld",
+  "citySlug": "bad-hersfeld",
+  "path": "/germany/bad-hersfeld/bad-hersfeld/restaurants",
+  "canonicalPath": "/germany/bad-hersfeld/bad-hersfeld/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'étable",
       "cuisine": "Classic Cuisine, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/germany/bad-hersfeld/bad-hersfeld/ltable"
+      "path": "/germany/bad-hersfeld/bad-hersfeld/ltable",
+      "award": "★"
     },
     {
       "name": "Stern's Restaurant",

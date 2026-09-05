@@ -1,8 +1,14 @@
 {
   "title": "Hodnet",
-  "country": "uk",
-  "region": "hodnet",
-  "city": "hodnet",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "hodnet",
+  "city": "Hodnet",
+  "citySlug": "hodnet",
+  "path": "/uk/hodnet/hodnet/restaurants",
+  "canonicalPath": "/uk/hodnet/hodnet/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Bear Inn",

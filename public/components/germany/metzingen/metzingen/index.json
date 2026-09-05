@@ -1,14 +1,20 @@
 {
   "title": "Metzingen",
-  "country": "germany",
-  "region": "metzingen",
-  "city": "metzingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "metzingen",
+  "city": "Metzingen",
+  "citySlug": "metzingen",
+  "path": "/germany/metzingen/metzingen/restaurants",
+  "canonicalPath": "/germany/metzingen/metzingen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Schwanen",
       "cuisine": "Farm to table, Country cooking",
       "price": "€€",
-      "path": "/germany/metzingen/metzingen/schwanen"
+      "path": "/germany/metzingen/metzingen/schwanen-m-e-t"
     },
     {
       "name": "Zur Schwane",

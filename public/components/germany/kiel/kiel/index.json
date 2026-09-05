@@ -1,14 +1,21 @@
 {
   "title": "Kiel",
-  "country": "germany",
-  "region": "kiel",
-  "city": "kiel",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "kiel",
+  "city": "Kiel",
+  "citySlug": "kiel",
+  "path": "/germany/kiel/kiel/restaurants",
+  "canonicalPath": "/germany/kiel/kiel/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Ahlmanns",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/germany/kiel/kiel/ahlmanns"
+      "path": "/germany/kiel/kiel/ahlmanns",
+      "award": "★"
     },
     {
       "name": "FLYGGE",

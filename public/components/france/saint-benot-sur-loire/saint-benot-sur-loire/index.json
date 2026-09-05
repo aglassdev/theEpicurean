@@ -1,14 +1,20 @@
 {
-  "title": "Saint Benot Sur Loire",
-  "country": "france",
-  "region": "saint-benot-sur-loire",
-  "city": "saint-benot-sur-loire",
+  "title": "Saint Benot sur Loire",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-benot-sur-loire",
+  "city": "Saint Benot sur Loire",
+  "citySlug": "saint-benot-sur-loire",
+  "path": "/france/saint-benot-sur-loire/saint-benot-sur-loire/restaurants",
+  "canonicalPath": "/france/saint-benot-sur-loire/saint-benot-sur-loire/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Grand Saint-Benoît",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/saint-benot-sur-loire/saint-benot-sur-loire/le-grand-saint-benot"
+      "path": "/france/saint-benot-sur-loire/saint-benot-sur-loire/le-grand-saintbenot"
     }
   ]
 }

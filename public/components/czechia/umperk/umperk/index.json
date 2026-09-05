@@ -1,17 +1,27 @@
 {
   "title": "Umperk",
+  "country": "Czechia",
+  "countrySlug": "czechia",
+  "region": null,
+  "regionSlug": "umperk",
+  "city": "Umperk",
+  "citySlug": "umperk",
+  "path": "/czechia/umperk/umperk/restaurants",
+  "canonicalPath": "/czechia/umperk/umperk/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Restaurant Perk",
+      "cuisine": "Seasonal Cuisine",
+      "price": "$$",
+      "path": "/czechia/umperk/umperk/restaurant-perk",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Perk Restaurant",
       "cuisine": "Seasonal Cuisine, Modern Cuisine",
       "price": "€€",
       "path": "/czechia/umperk/umperk/perk-restaurant"
-    },
-    {
-      "name": "Restaurant Perk",
-      "cuisine": "Seasonal Cuisine",
-      "price": "$$",
-      "path": "/czechia/umperk/umperk/RestaurantPerk"
     }
   ]
 }

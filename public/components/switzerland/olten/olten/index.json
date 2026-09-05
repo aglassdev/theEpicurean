@@ -1,8 +1,14 @@
 {
   "title": "Olten",
-  "country": "switzerland",
-  "region": "olten",
-  "city": "olten",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "olten",
+  "city": "Olten",
+  "citySlug": "olten",
+  "path": "/switzerland/olten/olten/restaurants",
+  "canonicalPath": "/switzerland/olten/olten/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "National da Sergio",

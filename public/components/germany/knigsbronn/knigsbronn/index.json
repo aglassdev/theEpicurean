@@ -1,20 +1,27 @@
 {
   "title": "Knigsbronn",
-  "country": "germany",
-  "region": "knigsbronn",
-  "city": "knigsbronn",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "knigsbronn",
+  "city": "Knigsbronn",
+  "citySlug": "knigsbronn",
+  "path": "/germany/knigsbronn/knigsbronn/restaurants",
+  "canonicalPath": "/germany/knigsbronn/knigsbronn/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Ursprung",
+      "cuisine": "Creative, Country cooking",
+      "price": "€€€€",
+      "path": "/germany/knigsbronn/knigsbronn/ursprung",
+      "award": "★"
+    },
     {
       "name": "Gasthaus Widmann's Löwen",
       "cuisine": "Traditional Cuisine, Country cooking",
       "price": "€€",
       "path": "/germany/knigsbronn/knigsbronn/gasthaus-widmanns-lwen"
-    },
-    {
-      "name": "Ursprung",
-      "cuisine": "Creative, Country cooking",
-      "price": "€€€€",
-      "path": "/germany/knigsbronn/knigsbronn/ursprung"
     }
   ]
 }

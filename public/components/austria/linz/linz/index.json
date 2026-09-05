@@ -1,9 +1,29 @@
 {
   "title": "Linz",
-  "country": "austria",
-  "region": "linz",
-  "city": "linz",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "linz",
+  "city": "Linz",
+  "citySlug": "linz",
+  "path": "/austria/linz/linz/restaurants",
+  "canonicalPath": "/austria/linz/linz/restaurants",
+  "count": 8,
   "restaurants": [
+    {
+      "name": "Rossbarth",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/austria/linz/linz/rossbarth",
+      "award": "★"
+    },
+    {
+      "name": "Verdi",
+      "cuisine": "International, Creative",
+      "price": "€€€",
+      "path": "/austria/linz/linz/verdi",
+      "award": "★"
+    },
     {
       "name": "Essig's",
       "cuisine": "Contemporary, Classic Cuisine",
@@ -29,28 +49,16 @@
       "path": "/austria/linz/linz/muto"
     },
     {
-      "name": "Rossbarth",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/austria/linz/linz/rossbarth"
-    },
-    {
       "name": "Rosso di Acqua e Sole",
       "cuisine": "Italian, Seasonal Cuisine",
       "price": "€€€",
       "path": "/austria/linz/linz/rosso-di-acqua-e-sole"
     },
     {
-      "name": "Verdi",
-      "cuisine": "International, Creative",
-      "price": "€€€",
-      "path": "/austria/linz/linz/verdi"
-    },
-    {
       "name": "Verdi-Einkehr",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/austria/linz/linz/verdi-einkehr"
+      "path": "/austria/linz/linz/verdieinkehr"
     }
   ]
 }

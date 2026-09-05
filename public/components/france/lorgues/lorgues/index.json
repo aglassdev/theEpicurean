@@ -1,26 +1,33 @@
 {
   "title": "Lorgues",
-  "country": "france",
-  "region": "lorgues",
-  "city": "lorgues",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lorgues",
+  "city": "Lorgues",
+  "citySlug": "lorgues",
+  "path": "/france/lorgues/lorgues/restaurants",
+  "canonicalPath": "/france/lorgues/lorgues/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Bruno",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/france/lorgues/lorgues/bruno"
-    },
-    {
-      "name": "La Table de Pôl",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/lorgues/lorgues/la-table-de-pl"
+      "path": "/france/lorgues/lorgues/bruno",
+      "award": "★"
     },
     {
       "name": "L'Estellan",
       "cuisine": "Farm to table",
       "price": "€€",
       "path": "/france/lorgues/lorgues/lestellan"
+    },
+    {
+      "name": "La Table de Pôl",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/lorgues/lorgues/la-table-de-pl"
     }
   ]
 }

@@ -1,6 +1,120 @@
 {
   "title": "Toronto",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "toronto",
+  "city": "Toronto",
+  "citySlug": "toronto",
+  "path": "/canada/toronto/toronto/restaurants",
+  "canonicalPath": "/canada/toronto/toronto/restaurants",
+  "count": 95,
   "restaurants": [
+    {
+      "name": "Sushi Masaki Saito",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/rsushimasakisaito",
+      "award": "★★"
+    },
+    {
+      "name": "Aburi Hana",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/aburi-hana",
+      "award": "★"
+    },
+    {
+      "name": "aKin",
+      "cuisine": "Asian, Contemporary",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/akin",
+      "award": "★"
+    },
+    {
+      "name": "Alo",
+      "cuisine": "Contemporary, French",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/alo",
+      "award": "★"
+    },
+    {
+      "name": "DaNico",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/danico",
+      "award": "★"
+    },
+    {
+      "name": "Don Alfonso 1890",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/don-alfonso1890",
+      "award": "★"
+    },
+    {
+      "name": "Edulis",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/edulis",
+      "award": "★"
+    },
+    {
+      "name": "Enigma Yorkville",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/enigma-yorkville",
+      "award": "★"
+    },
+    {
+      "name": "Kaiseki Yu-zen Hashimoto",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/kaiseki-yuzen-hashimoto",
+      "award": "★"
+    },
+    {
+      "name": "Kappo Sato",
+      "cuisine": "Japanese, Contemporary",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/kappo-sato",
+      "award": "★"
+    },
+    {
+      "name": "Osteria Giulia",
+      "cuisine": "Italian, Seafood",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/osteria-giulia",
+      "award": "★"
+    },
+    {
+      "name": "Quetzal",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/quetzal",
+      "award": "★"
+    },
+    {
+      "name": "Restaurant 20 Victoria",
+      "cuisine": "Contemporary, Seafood",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/restaurant20-victoria",
+      "award": "★"
+    },
+    {
+      "name": "Shoushin",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/canada/toronto/toronto/rshoushin",
+      "award": "★"
+    },
+    {
+      "name": "Susar",
+      "cuisine": "",
+      "price": "",
+      "path": "/canada/toronto/toronto/susar",
+      "award": "World's 50 Best"
+    },
     {
       "name": "156 Cumberland",
       "cuisine": "Korean, Fusion",
@@ -12,12 +126,6 @@
       "cuisine": "Indian",
       "price": "$$$",
       "path": "/canada/toronto/toronto/aanch"
-    },
-    {
-      "name": "Aburi Hana",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/aburi-hana"
     },
     {
       "name": "Actinolite",
@@ -32,12 +140,6 @@
       "path": "/canada/toronto/toronto/adrak-yorkville"
     },
     {
-      "name": "aKin",
-      "cuisine": "Asian, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/akin"
-    },
-    {
       "name": "Alder",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$$",
@@ -48,24 +150,6 @@
       "cuisine": "Asian",
       "price": "$$$",
       "path": "/canada/toronto/toronto/alma"
-    },
-    {
-      "name": "Alma",
-      "cuisine": "Asian",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/alma"
-    },
-    {
-      "name": "Alo",
-      "cuisine": "Contemporary, French",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/alo"
-    },
-    {
-      "name": "Alo",
-      "cuisine": "Contemporary, French",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/alo"
     },
     {
       "name": "Alobar Yorkville",
@@ -173,7 +257,7 @@
       "name": "Cherry Street Bar-B-Que",
       "cuisine": "Barbecue",
       "price": "$$",
-      "path": "/canada/toronto/toronto/cherry-street-bar-b-que"
+      "path": "/canada/toronto/toronto/cherry-street-barbque"
     },
     {
       "name": "Chica's Chicken",
@@ -194,46 +278,16 @@
       "path": "/canada/toronto/toronto/conejo-negro"
     },
     {
-      "name": "DaNico",
-      "cuisine": "Italian, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/danico"
-    },
-    {
       "name": "Dil Se",
       "cuisine": "Indian",
       "price": "$$",
       "path": "/canada/toronto/toronto/dil-se"
     },
     {
-      "name": "Don Alfonso 1890",
-      "cuisine": "Italian, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/don-alfonso-1890"
-    },
-    {
-      "name": "Don Alfonso 1890",
-      "cuisine": "Italian, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/don-alfonso-1890"
-    },
-    {
       "name": "Dreyfus",
       "cuisine": "French",
       "price": "$$$",
       "path": "/canada/toronto/toronto/dreyfus"
-    },
-    {
-      "name": "Edulis",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/edulis"
-    },
-    {
-      "name": "Enigma Yorkville",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/enigma-yorkville"
     },
     {
       "name": "Enoteca Sociale",
@@ -272,12 +326,6 @@
       "path": "/canada/toronto/toronto/gia"
     },
     {
-      "name": "Gia",
-      "cuisine": "Italian, Vegetarian",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/gia"
-    },
-    {
       "name": "Giulietta",
       "cuisine": "Italian, Pizza",
       "price": "$$$",
@@ -306,18 +354,6 @@
       "cuisine": "Steakhouse, Contemporary",
       "price": "$$$$",
       "path": "/canada/toronto/toronto/jacobs-co-steakhouse"
-    },
-    {
-      "name": "Kaiseki Yu-zen Hashimoto",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/kaiseki-yu-zen-hashimoto"
-    },
-    {
-      "name": "Kappo Sato",
-      "cuisine": "Japanese, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/kappo-sato"
     },
     {
       "name": "Kiin",
@@ -404,12 +440,6 @@
       "path": "/canada/toronto/toronto/okeya-kyujiro-toronto"
     },
     {
-      "name": "Osteria Giulia",
-      "cuisine": "Italian, Seafood",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/osteria-giulia"
-    },
-    {
       "name": "PAI",
       "cuisine": "Northern Thai",
       "price": "$$",
@@ -440,538 +470,22 @@
       "path": "/canada/toronto/toronto/puerto-bravo"
     },
     {
-      "name": "Quetzal",
-      "cuisine": "Mexican",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/quetzal"
-    },
-    {
-      "name": "156 Cumberland",
-      "cuisine": "Korean, Fusion",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/156-cumberland"
-    },
-    {
-      "name": "Aanch",
-      "cuisine": "Indian",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/aanch"
-    },
-    {
-      "name": "Aburi Hana",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/aburi-hana"
-    },
-    {
-      "name": "Actinolite",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/actinolite"
-    },
-    {
-      "name": "Adrak Yorkville",
-      "cuisine": "Indian, Regional Cuisine",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/adrak-yorkville"
-    },
-    {
-      "name": "Alder",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/alder"
-    },
-    {
-      "name": "Alma",
-      "cuisine": "Asian",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/alma"
-    },
-    {
-      "name": "Alo",
-      "cuisine": "Contemporary, French",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/alo"
-    },
-    {
-      "name": "Alobar Yorkville",
-      "cuisine": "French, Seafood",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/alobar-yorkville"
-    },
-    {
-      "name": "Aloette",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/aloette"
-    },
-    {
-      "name": "Amal",
-      "cuisine": "Lebanese",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/amal"
-    },
-    {
-      "name": "Antler",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/antler"
-    },
-    {
-      "name": "Ardo",
-      "cuisine": "Italian, Sicilian",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/ardo"
-    },
-    {
-      "name": "Rasa",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/rasa"
-    },
-    {
-      "name": "Azura",
-      "cuisine": "Mediterranean Cuisine, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/azura"
-    },
-    {
-      "name": "Bar Chica",
-      "cuisine": "Spanish",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/bar-chica"
-    },
-    {
-      "name": "Bar Goa",
-      "cuisine": "Indian",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/bar-goa"
-    },
-    {
-      "name": "Bar Isabel",
-      "cuisine": "Spanish",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/bar-isabel"
-    },
-    {
-      "name": "Bar Raval",
-      "cuisine": "Spanish",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/bar-raval"
-    },
-    {
-      "name": "Bar Vendetta",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/bar-vendetta"
-    },
-    {
-      "name": "BB's",
-      "cuisine": "Filipino",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/bbs"
-    },
-    {
-      "name": "Buca",
-      "cuisine": "Italian",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/buca"
-    },
-    {
-      "name": "Campechano",
-      "cuisine": "Mexican",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/campechano"
-    },
-    {
-      "name": "Canoe",
-      "cuisine": "Contemporary, Regional Cuisine",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/canoe"
-    },
-    {
-      "name": "Cherry Street Bar-B-Que",
-      "cuisine": "Barbecue",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/cherry-street-bar-b-que"
-    },
-    {
-      "name": "Chica's Chicken",
-      "cuisine": "American",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/chicas-chicken"
-    },
-    {
-      "name": "Chubby's Jamaican Kitchen",
-      "cuisine": "Jamaican",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/chubbys-jamaican-kitchen"
-    },
-    {
-      "name": "Conejo Negro",
-      "cuisine": "Caribbean, Latin American",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/conejo-negro"
-    },
-    {
-      "name": "CÀ PHÊ RANG",
-      "cuisine": "Vietnamese",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/c-ph-rang"
-    },
-    {
       "name": "R&D",
       "cuisine": "Fusion, Chinese",
       "price": "$$$",
       "path": "/canada/toronto/toronto/rd"
     },
     {
-      "name": "DaNico",
-      "cuisine": "Italian, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/danico"
-    },
-    {
-      "name": "Dil Se",
-      "cuisine": "Indian",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/dil-se"
-    },
-    {
-      "name": "Don Alfonso 1890",
-      "cuisine": "Italian, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/don-alfonso-1890"
-    },
-    {
-      "name": "Dreyfus",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/dreyfus"
-    },
-    {
-      "name": "Edulis",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/edulis"
-    },
-    {
-      "name": "Enigma Yorkville",
+      "name": "Rasa",
       "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/enigma-yorkville"
-    },
-    {
-      "name": "Enoteca Sociale",
-      "cuisine": "Italian, Roman",
       "price": "$$",
-      "path": "/canada/toronto/toronto/enoteca-sociale"
-    },
-    {
-      "name": "Restaurant 20 Victoria",
-      "cuisine": "Contemporary, Seafood",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/restaurant-20-victoria"
-    },
-    {
-      "name": "Famiglia Baldassarre",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/famiglia-baldassarre"
-    },
-    {
-      "name": "Favorites Thai",
-      "cuisine": "Thai",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/favorites-thai"
-    },
-    {
-      "name": "FK",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/fk"
-    },
-    {
-      "name": "George",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/george"
-    },
-    {
-      "name": "Gia",
-      "cuisine": "Italian, Vegetarian",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/gia"
-    },
-    {
-      "name": "Giulietta",
-      "cuisine": "Italian, Pizza",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/giulietta"
-    },
-    {
-      "name": "Grey Gardens",
-      "cuisine": "Contemporary, Seafood",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/grey-gardens"
-    },
-    {
-      "name": "Henry's",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/henrys"
+      "path": "/canada/toronto/toronto/rasa"
     },
     {
       "name": "Ricky + Olivia",
       "cuisine": "Creative",
       "price": "$$",
       "path": "/canada/toronto/toronto/ricky-olivia"
-    },
-    {
-      "name": "Indian Street Food Company",
-      "cuisine": "Indian",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/indian-street-food-company"
-    },
-    {
-      "name": "Jacobs & Co. Steakhouse",
-      "cuisine": "Steakhouse, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/jacobs-co-steakhouse"
-    },
-    {
-      "name": "Kappo Sato",
-      "cuisine": "Japanese, Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/kappo-sato"
-    },
-    {
-      "name": "Kiin",
-      "cuisine": "Thai",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/kiin"
-    },
-    {
-      "name": "Koh Lipe Thai Kitchen",
-      "cuisine": "Thai, Southern Thai",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/koh-lipe-thai-kitchen"
-    },
-    {
-      "name": "La Banane",
-      "cuisine": "French, Steakhouse",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/la-banane"
-    },
-    {
-      "name": "Lapinou",
-      "cuisine": "French, Contemporary",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/lapinou"
-    },
-    {
-      "name": "Lucie",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/lucie"
-    },
-    {
-      "name": "Madrina Bar y Tapas",
-      "cuisine": "Spanish",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/madrina-bar-y-tapas"
-    },
-    {
-      "name": "Maha's",
-      "cuisine": "Egyptian, Regional Cuisine",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/mahas"
-    },
-    {
-      "name": "Mimi Chinese",
-      "cuisine": "Chinese",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/mimi-chinese"
-    },
-    {
-      "name": "Mother's Dumplings",
-      "cuisine": "Chinese, Dumplings",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/mothers-dumplings"
-    },
-    {
-      "name": "Musoshin Ramen",
-      "cuisine": "Japanese, Ramen",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/musoshin-ramen"
-    },
-    {
-      "name": "Osteria Giulia",
-      "cuisine": "Italian, Seafood",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/osteria-giulia"
-    },
-    {
-      "name": "PAI",
-      "cuisine": "Northern Thai",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/pai"
-    },
-    {
-      "name": "Parquet",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/parquet"
-    },
-    {
-      "name": "Pho Tien Thanh",
-      "cuisine": "Vietnamese",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/pho-tien-thanh"
-    },
-    {
-      "name": "Prime Seafood Palace",
-      "cuisine": "Steakhouse, Seafood",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/prime-seafood-palace"
-    },
-    {
-      "name": "Puerto Bravo",
-      "cuisine": "Mexican, Regional Cuisine",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/puerto-bravo"
-    },
-    {
-      "name": "Quetzal",
-      "cuisine": "Mexican",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/quetzal"
-    },
-    {
-      "name": "Rasa",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/rasa"
-    },
-    {
-      "name": "R&D",
-      "cuisine": "Fusion, Chinese",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/rd"
-    },
-    {
-      "name": "Restaurant 20 Victoria",
-      "cuisine": "Contemporary, Seafood",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/restaurant-20-victoria"
-    },
-    {
-      "name": "SARA",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/sara"
-    },
-    {
-      "name": "Scaramouche",
-      "cuisine": "French",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/scaramouche"
-    },
-    {
-      "name": "Shoushin",
-      "cuisine": "Japanese, Sushi",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/shoushin"
-    },
-    {
-      "name": "Som Tum Jinda",
-      "cuisine": "Thai",
-      "price": "$",
-      "path": "/canada/toronto/toronto/som-tum-jinda"
-    },
-    {
-      "name": "SumiLicious Smoked Meat & Deli",
-      "cuisine": "Deli",
-      "price": "$",
-      "path": "/canada/toronto/toronto/sumilicious-smoked-meat-deli"
-    },
-    {
-      "name": "Sunnys Chinese",
-      "cuisine": "Chinese",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/sunnys-chinese"
-    },
-    {
-      "name": "Sushi Masaki Saito",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/sushi-masaki-saito"
-    },
-    {
-      "name": "Taline",
-      "cuisine": "Armenian",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/taline"
-    },
-    {
-      "name": "Ten",
-      "cuisine": "Contemporary, Vegetarian",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/ten"
-    },
-    {
-      "name": "The Ace",
-      "cuisine": "Gastropub",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/the-ace"
-    },
-    {
-      "name": "The Wood Owl",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/the-wood-owl"
-    },
-    {
-      "name": "Tiflisi",
-      "cuisine": "Central Asian",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/tiflisi"
-    },
-    {
-      "name": "Union",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/union"
-    },
-    {
-      "name": "Vela",
-      "cuisine": "American, Asian",
-      "price": "$$$",
-      "path": "/canada/toronto/toronto/vela"
-    },
-    {
-      "name": "Viaggio",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/viaggio"
-    },
-    {
-      "name": "White Lily Diner",
-      "cuisine": "Creative, Bakery",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/white-lily-diner"
-    },
-    {
-      "name": "Wynona",
-      "cuisine": "Italian, Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/canada/toronto/toronto/wynona"
-    },
-    {
-      "name": "Yukashi",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/yukashi"
     },
     {
       "name": "Sammarco",
@@ -983,61 +497,49 @@
       "name": "SARA",
       "cuisine": "Contemporary",
       "price": "$$$$",
-      "path": "/canada/toronto/toronto/sara"
+      "path": "/canada/toronto/toronto/rsara"
     },
     {
       "name": "Scaramouche",
       "cuisine": "French",
       "price": "$$$$",
-      "path": "/canada/toronto/toronto/scaramouche"
-    },
-    {
-      "name": "Shoushin",
-      "cuisine": "Japanese, Sushi",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/shoushin"
+      "path": "/canada/toronto/toronto/rscaramouche"
     },
     {
       "name": "Som Tum Jinda",
       "cuisine": "Thai",
       "price": "$",
-      "path": "/canada/toronto/toronto/som-tum-jinda"
+      "path": "/canada/toronto/toronto/rsomtumjinda"
     },
     {
       "name": "SumiLicious Smoked Meat & Deli",
       "cuisine": "Deli",
       "price": "$",
-      "path": "/canada/toronto/toronto/sumilicious-smoked-meat-deli"
+      "path": "/canada/toronto/toronto/rsumilicioussmokedmeatdeli"
     },
     {
       "name": "Sunnys Chinese",
       "cuisine": "Chinese",
       "price": "$$",
-      "path": "/canada/toronto/toronto/sunnys-chinese"
-    },
-    {
-      "name": "Sushi Masaki Saito",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/canada/toronto/toronto/sushi-masaki-saito"
+      "path": "/canada/toronto/toronto/rsunnyschinese"
     },
     {
       "name": "Taline",
       "cuisine": "Armenian",
       "price": "$$",
-      "path": "/canada/toronto/toronto/taline"
+      "path": "/canada/toronto/toronto/rtaline"
     },
     {
       "name": "Ten",
       "cuisine": "Contemporary, Vegetarian",
       "price": "$$$$",
-      "path": "/canada/toronto/toronto/ten"
+      "path": "/canada/toronto/toronto/rten"
     },
     {
       "name": "The Ace",
       "cuisine": "Gastropub",
       "price": "$$",
-      "path": "/canada/toronto/toronto/the-ace"
+      "path": "/canada/toronto/toronto/rtheace"
     },
     {
       "name": "The Cottage Cheese",
@@ -1049,55 +551,49 @@
       "name": "The Wood Owl",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/canada/toronto/toronto/the-wood-owl"
+      "path": "/canada/toronto/toronto/rthewoodowl"
     },
     {
       "name": "Tiflisi",
       "cuisine": "Central Asian",
       "price": "$$",
-      "path": "/canada/toronto/toronto/tiflisi"
+      "path": "/canada/toronto/toronto/rtiflisi"
     },
     {
       "name": "Union",
       "cuisine": "French",
       "price": "$$$",
-      "path": "/canada/toronto/toronto/union"
+      "path": "/canada/toronto/toronto/runion"
     },
     {
       "name": "Vela",
       "cuisine": "American, Asian",
       "price": "$$$",
-      "path": "/canada/toronto/toronto/vela"
+      "path": "/canada/toronto/toronto/rvela"
     },
     {
       "name": "Viaggio",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/canada/toronto/toronto/viaggio"
+      "path": "/canada/toronto/toronto/rviaggio"
     },
     {
       "name": "White Lily Diner",
       "cuisine": "Creative, Bakery",
       "price": "$$",
-      "path": "/canada/toronto/toronto/white-lily-diner"
+      "path": "/canada/toronto/toronto/rwhitelilydiner"
     },
     {
       "name": "Wynona",
       "cuisine": "Italian, Mediterranean Cuisine",
       "price": "$$",
-      "path": "/canada/toronto/toronto/wynona"
+      "path": "/canada/toronto/toronto/rwynona"
     },
     {
       "name": "Yukashi",
       "cuisine": "Japanese",
       "price": "$$$$",
-      "path": "/canada/toronto/toronto/yukashi"
-    },
-    {
-      "name": "Susar",
-      "cuisine": "",
-      "price": "",
-      "path": "/canada/toronto/toronto/Susar"
+      "path": "/canada/toronto/toronto/ryukashi"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Oetrange",
-  "country": "luxembourg",
-  "region": "oetrange",
-  "city": "oetrange",
+  "country": "Luxembourg",
+  "countrySlug": "luxembourg",
+  "region": null,
+  "regionSlug": "oetrange",
+  "city": "Oetrange",
+  "citySlug": "oetrange",
+  "path": "/luxembourg/oetrange/oetrange/restaurants",
+  "canonicalPath": "/luxembourg/oetrange/oetrange/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ma Langue Sourit",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/luxembourg/oetrange/oetrange/ma-langue-sourit"
+      "path": "/luxembourg/oetrange/oetrange/ma-langue-sourit",
+      "award": "★★"
     }
   ]
 }

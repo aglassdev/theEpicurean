@@ -1,0 +1,33 @@
+{
+  "title": "Saint Helena",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Saint Helena",
+  "citySlug": "saint-helena",
+  "path": "/usa/other/saint-helena/restaurants",
+  "canonicalPath": "/usa/california/saint-helena/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Press",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/usa/california/saint-helena/press",
+      "award": "★"
+    },
+    {
+      "name": "Farmstead",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/saint-helena/farmstead"
+    },
+    {
+      "name": "The Charter Oak",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/saint-helena/the-charter-oak"
+    }
+  ]
+}

@@ -1,6 +1,64 @@
 {
   "title": "Cuauhtmoc",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "cuauhtmoc",
+  "city": "Cuauhtmoc",
+  "citySlug": "cuauhtmoc",
+  "path": "/mexico/cuauhtmoc/cuauhtmoc/restaurants",
+  "canonicalPath": "/mexico/cuauhtmoc/cuauhtmoc/restaurants",
+  "count": 62,
   "restaurants": [
+    {
+      "name": "Em",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/em",
+      "award": "★"
+    },
+    {
+      "name": "Esquina Común",
+      "cuisine": "Mexican, Creative",
+      "price": "$$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/esquina-comn",
+      "award": "★"
+    },
+    {
+      "name": "Expendio de Maíz",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/expendio-de-maz",
+      "award": "★"
+    },
+    {
+      "name": "Masala y Maíz",
+      "cuisine": "Fusion",
+      "price": "$$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/masala-y-maz",
+      "award": "★"
+    },
+    {
+      "name": "Máximo",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/mximo",
+      "award": "★"
+    },
+    {
+      "name": "Rosetta",
+      "cuisine": "Creative, Mexican",
+      "price": "$$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/rosetta",
+      "award": "★"
+    },
+    {
+      "name": "Taquería El Califa de León",
+      "cuisine": "Mexican",
+      "price": "$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/taquera-el-califa-de-len",
+      "award": "★"
+    },
     {
       "name": "Aleli Rooftop",
       "cuisine": "Spanish, Mexican",
@@ -92,24 +150,6 @@
       "path": "/mexico/cuauhtmoc/cuauhtmoc/el-tigre-silencioso"
     },
     {
-      "name": "Em",
-      "cuisine": "Mexican, Contemporary",
-      "price": "$$$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/em"
-    },
-    {
-      "name": "Esquina Común",
-      "cuisine": "Mexican, Creative",
-      "price": "$$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/esquina-comn"
-    },
-    {
-      "name": "Expendio de Maíz",
-      "cuisine": "Mexican",
-      "price": "$$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/expendio-de-maz"
-    },
-    {
       "name": "Filigrana",
       "cuisine": "Mexican, Contemporary",
       "price": "$$",
@@ -155,7 +195,7 @@
       "name": "La 89",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/la-89"
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/la89"
     },
     {
       "name": "Lalo!",
@@ -182,6 +222,12 @@
       "path": "/mexico/cuauhtmoc/cuauhtmoc/lorea"
     },
     {
+      "name": "Lotti",
+      "cuisine": "European",
+      "price": "$$$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/lotti"
+    },
+    {
       "name": "Maizajo",
       "cuisine": "Mexican",
       "price": "$$",
@@ -192,12 +238,6 @@
       "cuisine": "Contemporary",
       "price": "$$",
       "path": "/mexico/cuauhtmoc/cuauhtmoc/martnez"
-    },
-    {
-      "name": "Masala y Maíz",
-      "cuisine": "Fusion",
-      "price": "$$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/masala-y-maz"
     },
     {
       "name": "Meroma",
@@ -222,12 +262,6 @@
       "cuisine": "Mexican",
       "price": "$",
       "path": "/mexico/cuauhtmoc/cuauhtmoc/molino-el-pujol"
-    },
-    {
-      "name": "Máximo",
-      "cuisine": "Mexican",
-      "price": "$$$$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/mximo"
     },
     {
       "name": "Pargot",
@@ -260,12 +294,6 @@
       "path": "/mexico/cuauhtmoc/cuauhtmoc/ricos-tacos-toluca"
     },
     {
-      "name": "Rosetta",
-      "cuisine": "Creative, Mexican",
-      "price": "$$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/rosetta"
-    },
-    {
       "name": "Sarde",
       "cuisine": "Contemporary",
       "price": "$$",
@@ -276,6 +304,12 @@
       "cuisine": "Italian, Italian Contemporary",
       "price": "$$",
       "path": "/mexico/cuauhtmoc/cuauhtmoc/sartoria"
+    },
+    {
+      "name": "Taco Tasting Room",
+      "cuisine": "Mexican",
+      "price": "$$$$",
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/taco-tasting-room"
     },
     {
       "name": "Tacos de Canasta Los Especiales",
@@ -302,22 +336,16 @@
       "path": "/mexico/cuauhtmoc/cuauhtmoc/tacos-los-alexis"
     },
     {
-      "name": "Taquería El Califa de León",
+      "name": "Taqueria El Gran Abanico",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/taquera-el-califa-de-len"
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/taqueria-el-gran-abanico"
     },
     {
       "name": "Taquería El Jarocho",
       "cuisine": "Mexican",
       "price": "$",
       "path": "/mexico/cuauhtmoc/cuauhtmoc/taquera-el-jarocho"
-    },
-    {
-      "name": "Taqueria El Gran Abanico",
-      "cuisine": "Mexican",
-      "price": "$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/taqueria-el-gran-abanico"
     },
     {
       "name": "Taqueria El Paisa",
@@ -356,22 +384,10 @@
       "path": "/mexico/cuauhtmoc/cuauhtmoc/voraz"
     },
     {
-      "name": "Lotti",
-      "cuisine": "European",
-      "price": "$$$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/Lotti"
-    },
-    {
-      "name": "Taco Tasting Room",
-      "cuisine": "Mexican",
-      "price": "$$$$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/TacoTastingRoom"
-    },
-    {
       "name": "Xuna",
       "cuisine": "Mexican",
       "price": "$$$$",
-      "path": "/mexico/cuauhtmoc/cuauhtmoc/Xuna"
+      "path": "/mexico/cuauhtmoc/cuauhtmoc/xuna"
     }
   ]
 }

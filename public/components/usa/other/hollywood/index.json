@@ -1,0 +1,34 @@
+{
+  "title": "Hollywood",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Hollywood",
+  "citySlug": "hollywood",
+  "path": "/usa/other/hollywood/restaurants",
+  "canonicalPath": "/usa/california/hollywood/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Providence",
+      "cuisine": "Seafood",
+      "price": "$$$$",
+      "path": "/usa/california/hollywood/providence",
+      "award": "★★★"
+    },
+    {
+      "name": "Kali",
+      "cuisine": "Steakhouse, Californian",
+      "price": "$$$$",
+      "path": "/usa/california/hollywood/kali",
+      "award": "★"
+    },
+    {
+      "name": "République",
+      "cuisine": "Mediterranean Cuisine, American",
+      "price": "$$$$",
+      "path": "/usa/california/hollywood/rpublique"
+    }
+  ]
+}

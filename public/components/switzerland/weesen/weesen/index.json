@@ -1,8 +1,14 @@
 {
   "title": "Weesen",
-  "country": "switzerland",
-  "region": "weesen",
-  "city": "weesen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "weesen",
+  "city": "Weesen",
+  "citySlug": "weesen",
+  "path": "/switzerland/weesen/weesen/restaurants",
+  "canonicalPath": "/switzerland/weesen/weesen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Fischerstube",

@@ -1,14 +1,20 @@
 {
   "title": "Comines",
-  "country": "belgium",
-  "region": "comines",
-  "city": "comines",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "comines",
+  "city": "Comines",
+  "citySlug": "comines",
+  "path": "/belgium/comines/comines/restaurants",
+  "canonicalPath": "/belgium/comines/comines/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fleur de Sel",
       "cuisine": "Seasonal Cuisine, Country cooking",
       "price": "€€",
-      "path": "/belgium/comines/comines/fleur-de-sel"
+      "path": "/belgium/comines/comines/fleur-de-sel-c-o-m"
     }
   ]
 }

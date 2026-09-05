@@ -1,26 +1,33 @@
 {
   "title": "Trshavn",
-  "country": "denmark",
-  "region": "trshavn",
-  "city": "trshavn",
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "region": null,
+  "regionSlug": "trshavn",
+  "city": "Trshavn",
+  "citySlug": "trshavn",
+  "path": "/denmark/trshavn/trshavn/restaurants",
+  "canonicalPath": "/denmark/trshavn/trshavn/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "PAZ",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/denmark/trshavn/trshavn/paz"
-    },
-    {
-      "name": "ROKS",
-      "cuisine": "Seafood",
-      "price": "€€",
-      "path": "/denmark/trshavn/trshavn/roks"
+      "path": "/denmark/trshavn/trshavn/paz",
+      "award": "★★"
     },
     {
       "name": "Ræst",
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/denmark/trshavn/trshavn/rst"
+    },
+    {
+      "name": "ROKS",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/denmark/trshavn/trshavn/roks"
     }
   ]
 }

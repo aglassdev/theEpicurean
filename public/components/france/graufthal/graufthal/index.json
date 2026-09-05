@@ -1,8 +1,14 @@
 {
   "title": "Graufthal",
-  "country": "france",
-  "region": "graufthal",
-  "city": "graufthal",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "graufthal",
+  "city": "Graufthal",
+  "citySlug": "graufthal",
+  "path": "/france/graufthal/graufthal/restaurants",
+  "canonicalPath": "/france/graufthal/graufthal/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Vieux Moulin",

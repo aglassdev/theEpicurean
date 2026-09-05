@@ -1,14 +1,20 @@
 {
   "title": "Lyme Regis",
-  "country": "uk",
-  "region": "lyme-regis",
-  "city": "lyme-regis",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "lyme-regis",
+  "city": "Lyme Regis",
+  "citySlug": "lyme-regis",
+  "path": "/uk/lyme-regis/lyme-regis/restaurants",
+  "canonicalPath": "/uk/lyme-regis/lyme-regis/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Lilac",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/lyme-regis/lyme-regis/lilac"
+      "path": "/uk/lyme-regis/lyme-regis/lilac-l-y-m"
     },
     {
       "name": "Sandro's",

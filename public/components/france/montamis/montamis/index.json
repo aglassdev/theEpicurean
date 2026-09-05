@@ -1,8 +1,14 @@
 {
   "title": "Montamis",
-  "country": "france",
-  "region": "montamis",
-  "city": "montamis",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montamis",
+  "city": "Montamis",
+  "citySlug": "montamis",
+  "path": "/france/montamis/montamis/restaurants",
+  "canonicalPath": "/france/montamis/montamis/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Ouvrière",

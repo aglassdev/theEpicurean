@@ -1,8 +1,14 @@
 {
   "title": "Montagnac",
-  "country": "france",
-  "region": "montagnac",
-  "city": "montagnac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montagnac",
+  "city": "Montagnac",
+  "citySlug": "montagnac",
+  "path": "/france/montagnac/montagnac/restaurants",
+  "canonicalPath": "/france/montagnac/montagnac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Côté Mas",

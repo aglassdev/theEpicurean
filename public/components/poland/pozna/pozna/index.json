@@ -1,11 +1,33 @@
 {
   "title": "Pozna",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "pozna",
+  "city": "Pozna",
+  "citySlug": "pozna",
+  "path": "/poland/pozna/pozna/restaurants",
+  "canonicalPath": "/poland/pozna/pozna/restaurants",
+  "count": 20,
   "restaurants": [
+    {
+      "name": "Muga",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/poland/pozna/pozna/muga",
+      "award": "★"
+    },
     {
       "name": "A nóż widelec",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/poland/pozna/pozna/a-n-widelec"
+    },
+    {
+      "name": "arte",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/poland/pozna/pozna/arte"
     },
     {
       "name": "Cucina",
@@ -26,16 +48,16 @@
       "path": "/poland/pozna/pozna/fromaeria"
     },
     {
+      "name": "Maremma",
+      "cuisine": "Italian",
+      "price": "$$",
+      "path": "/poland/pozna/pozna/maremma"
+    },
+    {
       "name": "Marino Bistrot",
       "cuisine": "Italian",
       "price": "€€",
       "path": "/poland/pozna/pozna/marino-bistrot"
-    },
-    {
-      "name": "Muga",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/poland/pozna/pozna/muga"
     },
     {
       "name": "NOOKS",
@@ -68,10 +90,22 @@
       "path": "/poland/pozna/pozna/posto"
     },
     {
+      "name": "Rytm Natury",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/pozna/pozna/rytm-natury"
+    },
+    {
       "name": "SPOT.",
       "cuisine": "Modern Cuisine",
       "price": "€",
       "path": "/poland/pozna/pozna/spot"
+    },
+    {
+      "name": "Strona",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/poland/pozna/pozna/strona"
     },
     {
       "name": "The Time",
@@ -86,40 +120,16 @@
       "path": "/poland/pozna/pozna/turestaurant"
     },
     {
+      "name": "Yes Butcher! Shop & Bistro",
+      "cuisine": "Meats and Grills",
+      "price": "$$",
+      "path": "/poland/pozna/pozna/yes-butcher-shop-bistro"
+    },
+    {
       "name": "Zen On",
       "cuisine": "Ramen, Japanese",
       "price": "€",
       "path": "/poland/pozna/pozna/zen-on"
-    },
-    {
-      "name": "Maremma",
-      "cuisine": "Italian",
-      "price": "$$",
-      "path": "/poland/pozna/pozna/Maremma"
-    },
-    {
-      "name": "Rytm Natury",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/poland/pozna/pozna/RytmNatury"
-    },
-    {
-      "name": "Strona",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/poland/pozna/pozna/Strona"
-    },
-    {
-      "name": "Yes Butcher! Shop & Bistro",
-      "cuisine": "Meats and Grills",
-      "price": "$$",
-      "path": "/poland/pozna/pozna/YesButcherShopBistro"
-    },
-    {
-      "name": "arte",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/poland/pozna/pozna/Arte"
     }
   ]
 }

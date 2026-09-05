@@ -1,14 +1,21 @@
 {
   "title": "Doolin",
-  "country": "ireland",
-  "region": "doolin",
-  "city": "doolin",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "doolin",
+  "city": "Doolin",
+  "citySlug": "doolin",
+  "path": "/ireland/doolin/doolin/restaurants",
+  "canonicalPath": "/ireland/doolin/doolin/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Homestead Cottage",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/ireland/doolin/doolin/homestead-cottage"
+      "path": "/ireland/doolin/doolin/homestead-cottage",
+      "award": "★"
     },
     {
       "name": "Oar",

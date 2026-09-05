@@ -1,26 +1,34 @@
 {
   "title": "Wrzburg",
-  "country": "germany",
-  "region": "wrzburg",
-  "city": "wrzburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "wrzburg",
+  "city": "Wrzburg",
+  "citySlug": "wrzburg",
+  "path": "/germany/wrzburg/wrzburg/restaurants",
+  "canonicalPath": "/germany/wrzburg/wrzburg/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Aifach Reisers",
-      "cuisine": "Seasonal Cuisine, Classic Cuisine",
-      "price": "€€",
-      "path": "/germany/wrzburg/wrzburg/aifach-reisers"
-    },
     {
       "name": "KUNO 1408",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/wrzburg/wrzburg/kuno-1408"
+      "path": "/germany/wrzburg/wrzburg/kuno1408",
+      "award": "★"
     },
     {
       "name": "MiZAR",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/germany/wrzburg/wrzburg/mizar"
+      "path": "/germany/wrzburg/wrzburg/mizar",
+      "award": "★"
+    },
+    {
+      "name": "Aifach Reisers",
+      "cuisine": "Seasonal Cuisine, Classic Cuisine",
+      "price": "€€",
+      "path": "/germany/wrzburg/wrzburg/aifach-reisers"
     }
   ]
 }

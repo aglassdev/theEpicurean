@@ -1,14 +1,27 @@
 {
   "title": "Como",
-  "country": "italy",
-  "region": "como",
-  "city": "como",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "como",
+  "city": "Como",
+  "citySlug": "como",
+  "path": "/italy/como/como/restaurants",
+  "canonicalPath": "/italy/como/como/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Kitchen",
+      "cuisine": "Italian Contemporary",
+      "price": "€€€€",
+      "path": "/italy/como/como/kitchen",
+      "award": "★"
+    },
     {
       "name": "Comi 107",
       "cuisine": "Contemporary, Seafood",
       "price": "€€€",
-      "path": "/italy/como/como/comi-107"
+      "path": "/italy/como/como/comi107"
     },
     {
       "name": "Feel Como",
@@ -17,16 +30,10 @@
       "path": "/italy/como/como/feel-como"
     },
     {
-      "name": "Kitchen",
-      "cuisine": "Italian Contemporary",
-      "price": "€€€€",
-      "path": "/italy/como/como/kitchen"
-    },
-    {
       "name": "Sottovoce",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/como/como/sottovoce"
+      "path": "/italy/como/como/sottovoce-c-o-m"
     }
   ]
 }

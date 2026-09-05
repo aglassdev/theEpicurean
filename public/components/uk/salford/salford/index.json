@@ -1,8 +1,14 @@
 {
   "title": "Salford",
-  "country": "uk",
-  "region": "salford",
-  "city": "salford",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "salford",
+  "city": "Salford",
+  "citySlug": "salford",
+  "path": "/uk/salford/salford/restaurants",
+  "canonicalPath": "/uk/salford/salford/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Kallos Cafe & Wine Bar",

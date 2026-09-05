@@ -1,8 +1,14 @@
 {
   "title": "Brilon",
-  "country": "germany",
-  "region": "brilon",
-  "city": "brilon",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "brilon",
+  "city": "Brilon",
+  "citySlug": "brilon",
+  "path": "/germany/brilon/brilon/restaurants",
+  "canonicalPath": "/germany/brilon/brilon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Almer Schlossmühle",

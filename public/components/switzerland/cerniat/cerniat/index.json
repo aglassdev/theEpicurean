@@ -1,14 +1,21 @@
 {
   "title": "Cerniat",
-  "country": "switzerland",
-  "region": "cerniat",
-  "city": "cerniat",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "cerniat",
+  "city": "Cerniat",
+  "citySlug": "cerniat",
+  "path": "/switzerland/cerniat/cerniat/restaurants",
+  "canonicalPath": "/switzerland/cerniat/cerniat/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Pinte des Mossettes",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/cerniat/cerniat/la-pinte-des-mossettes"
+      "path": "/switzerland/cerniat/cerniat/la-pinte-des-mossettes",
+      "award": "★"
     }
   ]
 }

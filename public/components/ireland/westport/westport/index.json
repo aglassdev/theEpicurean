@@ -1,8 +1,14 @@
 {
   "title": "Westport",
-  "country": "ireland",
-  "region": "westport",
-  "city": "westport",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "westport",
+  "city": "Westport",
+  "citySlug": "westport",
+  "path": "/ireland/westport/westport/restaurants",
+  "canonicalPath": "/ireland/westport/westport/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "An Port Mór",

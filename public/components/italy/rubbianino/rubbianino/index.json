@@ -1,14 +1,21 @@
 {
   "title": "Rubbianino",
-  "country": "italy",
-  "region": "rubbianino",
-  "city": "rubbianino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "rubbianino",
+  "city": "Rubbianino",
+  "citySlug": "rubbianino",
+  "path": "/italy/rubbianino/rubbianino/restaurants",
+  "canonicalPath": "/italy/rubbianino/rubbianino/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ca' Matilde",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/rubbianino/rubbianino/ca-matilde"
+      "path": "/italy/rubbianino/rubbianino/ca-matilde",
+      "award": "★"
     }
   ]
 }

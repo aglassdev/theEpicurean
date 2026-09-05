@@ -1,14 +1,21 @@
 {
   "title": "Porto Vecchio",
-  "country": "france",
-  "region": "porto-vecchio",
-  "city": "porto-vecchio",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "porto-vecchio",
+  "city": "Porto Vecchio",
+  "citySlug": "porto-vecchio",
+  "path": "/france/porto-vecchio/porto-vecchio/restaurants",
+  "canonicalPath": "/france/porto-vecchio/porto-vecchio/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Casadelmar",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/porto-vecchio/porto-vecchio/casadelmar"
+      "path": "/france/porto-vecchio/porto-vecchio/casadelmar",
+      "award": "★★"
     },
     {
       "name": "Don Cesar",
@@ -26,7 +33,7 @@
       "name": "Le Belvédère",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/porto-vecchio/porto-vecchio/le-belvdre"
+      "path": "/france/porto-vecchio/porto-vecchio/le-belvdre-p-o-r"
     },
     {
       "name": "U Santa Marina",

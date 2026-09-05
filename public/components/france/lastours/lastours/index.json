@@ -1,14 +1,21 @@
 {
   "title": "Lastours",
-  "country": "france",
-  "region": "lastours",
-  "city": "lastours",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lastours",
+  "city": "Lastours",
+  "citySlug": "lastours",
+  "path": "/france/lastours/lastours/restaurants",
+  "canonicalPath": "/france/lastours/lastours/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Puits du Trésor",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/lastours/lastours/le-puits-du-trsor"
+      "path": "/france/lastours/lastours/le-puits-du-trsor",
+      "award": "★"
     }
   ]
 }

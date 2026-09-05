@@ -1,8 +1,14 @@
 {
   "title": "Flumet",
-  "country": "france",
-  "region": "flumet",
-  "city": "flumet",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "flumet",
+  "city": "Flumet",
+  "citySlug": "flumet",
+  "path": "/france/flumet/flumet/restaurants",
+  "canonicalPath": "/france/flumet/flumet/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge des Églantiers",

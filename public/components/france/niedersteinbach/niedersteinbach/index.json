@@ -1,14 +1,20 @@
 {
   "title": "Niedersteinbach",
-  "country": "france",
-  "region": "niedersteinbach",
-  "city": "niedersteinbach",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "niedersteinbach",
+  "city": "Niedersteinbach",
+  "citySlug": "niedersteinbach",
+  "path": "/france/niedersteinbach/niedersteinbach/restaurants",
+  "canonicalPath": "/france/niedersteinbach/niedersteinbach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Cheval Blanc",
       "cuisine": "Traditional Cuisine, Alsatian",
       "price": "€€",
-      "path": "/france/niedersteinbach/niedersteinbach/au-cheval-blanc"
+      "path": "/france/niedersteinbach/niedersteinbach/au-cheval-blanc-n-i-e"
     }
   ]
 }

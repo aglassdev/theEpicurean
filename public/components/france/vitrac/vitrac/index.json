@@ -1,11 +1,20 @@
 {
   "title": "Vitrac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vitrac",
+  "city": "Vitrac",
+  "citySlug": "vitrac",
+  "path": "/france/vitrac/vitrac/restaurants",
+  "canonicalPath": "/france/vitrac/vitrac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le M - Domaine de Rochebois",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/vitrac/vitrac/LeMDomaineDeRochebois"
+      "path": "/france/vitrac/vitrac/le-m-domaine-de-rochebois"
     }
   ]
 }

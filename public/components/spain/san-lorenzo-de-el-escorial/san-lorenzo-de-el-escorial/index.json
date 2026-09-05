@@ -1,20 +1,27 @@
 {
-  "title": "San Lorenzo De El Escorial",
-  "country": "spain",
-  "region": "san-lorenzo-de-el-escorial",
-  "city": "san-lorenzo-de-el-escorial",
+  "title": "San Lorenzo de el Escorial",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "san-lorenzo-de-el-escorial",
+  "city": "San Lorenzo de el Escorial",
+  "citySlug": "san-lorenzo-de-el-escorial",
+  "path": "/spain/san-lorenzo-de-el-escorial/san-lorenzo-de-el-escorial/restaurants",
+  "canonicalPath": "/spain/san-lorenzo-de-el-escorial/san-lorenzo-de-el-escorial/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Montia",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/san-lorenzo-de-el-escorial/san-lorenzo-de-el-escorial/montia",
+      "award": "★"
+    },
     {
       "name": "Charolés",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/spain/san-lorenzo-de-el-escorial/san-lorenzo-de-el-escorial/charols"
-    },
-    {
-      "name": "Montia",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/san-lorenzo-de-el-escorial/san-lorenzo-de-el-escorial/montia"
     }
   ]
 }

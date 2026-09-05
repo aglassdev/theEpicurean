@@ -1,8 +1,14 @@
 {
   "title": "Pirna",
-  "country": "germany",
-  "region": "pirna",
-  "city": "pirna",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "pirna",
+  "city": "Pirna",
+  "citySlug": "pirna",
+  "path": "/germany/pirna/pirna/restaurants",
+  "canonicalPath": "/germany/pirna/pirna/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Felsenbirne",

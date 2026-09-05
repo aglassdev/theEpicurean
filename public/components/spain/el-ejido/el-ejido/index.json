@@ -1,20 +1,27 @@
 {
   "title": "El Ejido",
-  "country": "spain",
-  "region": "el-ejido",
-  "city": "el-ejido",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "el-ejido",
+  "city": "El Ejido",
+  "citySlug": "el-ejido",
+  "path": "/spain/el-ejido/el-ejido/restaurants",
+  "canonicalPath": "/spain/el-ejido/el-ejido/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "La Costa",
+      "cuisine": "Contemporary, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/spain/el-ejido/el-ejido/la-costa",
+      "award": "★"
+    },
     {
       "name": "Barra de José Álvarez",
       "cuisine": "Contemporary, Andalusian",
       "price": "€€",
       "path": "/spain/el-ejido/el-ejido/barra-de-jos-lvarez"
-    },
-    {
-      "name": "La Costa",
-      "cuisine": "Contemporary, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/spain/el-ejido/el-ejido/la-costa"
     }
   ]
 }

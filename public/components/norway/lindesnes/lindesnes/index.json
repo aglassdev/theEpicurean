@@ -1,14 +1,21 @@
 {
   "title": "Lindesnes",
-  "country": "norway",
-  "region": "lindesnes",
-  "city": "lindesnes",
+  "country": "Norway",
+  "countrySlug": "norway",
+  "region": null,
+  "regionSlug": "lindesnes",
+  "city": "Lindesnes",
+  "citySlug": "lindesnes",
+  "path": "/norway/lindesnes/lindesnes/restaurants",
+  "canonicalPath": "/norway/lindesnes/lindesnes/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Under",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/norway/lindesnes/lindesnes/under"
+      "path": "/norway/lindesnes/lindesnes/under",
+      "award": "★"
     }
   ]
 }

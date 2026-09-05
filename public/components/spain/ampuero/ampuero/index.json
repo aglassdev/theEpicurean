@@ -1,14 +1,21 @@
 {
   "title": "Ampuero",
-  "country": "spain",
-  "region": "ampuero",
-  "city": "ampuero",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "ampuero",
+  "city": "Ampuero",
+  "citySlug": "ampuero",
+  "path": "/spain/ampuero/ampuero/restaurants",
+  "canonicalPath": "/spain/ampuero/ampuero/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Solana",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/ampuero/ampuero/solana"
+      "path": "/spain/ampuero/ampuero/solana",
+      "award": "★"
     }
   ]
 }

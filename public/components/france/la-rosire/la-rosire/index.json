@@ -1,8 +1,14 @@
 {
   "title": "La Rosire",
-  "country": "france",
-  "region": "la-rosire",
-  "city": "la-rosire",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-rosire",
+  "city": "La Rosire",
+  "citySlug": "la-rosire",
+  "path": "/france/la-rosire/la-rosire/restaurants",
+  "canonicalPath": "/france/la-rosire/la-rosire/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Terroir des Vignobles",

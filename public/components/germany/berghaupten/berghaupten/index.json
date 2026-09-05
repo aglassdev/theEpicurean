@@ -1,14 +1,20 @@
 {
   "title": "Berghaupten",
-  "country": "germany",
-  "region": "berghaupten",
-  "city": "berghaupten",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "berghaupten",
+  "city": "Berghaupten",
+  "citySlug": "berghaupten",
+  "path": "/germany/berghaupten/berghaupten/restaurants",
+  "canonicalPath": "/germany/berghaupten/berghaupten/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hirsch",
       "cuisine": "Country cooking, Traditional Cuisine",
       "price": "€",
-      "path": "/germany/berghaupten/berghaupten/hirsch"
+      "path": "/germany/berghaupten/berghaupten/hirsch-b-e-r"
     }
   ]
 }

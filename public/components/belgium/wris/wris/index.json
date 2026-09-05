@@ -1,14 +1,21 @@
 {
   "title": "Wris",
-  "country": "belgium",
-  "region": "wris",
-  "city": "wris",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "wris",
+  "city": "Wris",
+  "citySlug": "wris",
+  "path": "/belgium/wris/wris/restaurants",
+  "canonicalPath": "/belgium/wris/wris/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Cor de Chasse",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/belgium/wris/wris/le-cor-de-chasse"
+      "path": "/belgium/wris/wris/le-cor-de-chasse",
+      "award": "★"
     }
   ]
 }

@@ -1,23 +1,33 @@
 {
   "title": "Sarasota",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Florida",
+  "regionSlug": "florida",
+  "city": "Sarasota",
+  "citySlug": "sarasota",
+  "path": "/usa/florida/sarasota/restaurants",
+  "canonicalPath": "/usa/florida/sarasota/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Lucky 8",
       "cuisine": "American",
       "price": "$$",
-      "path": "/usa/florida/sarasota/Lucky8"
+      "path": "/usa/florida/sarasota/lucky8",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Focaccia Sandwich + Bakery",
       "cuisine": "American",
       "price": "$",
-      "path": "/usa/florida/sarasota/FocacciaSandwichBakery"
+      "path": "/usa/florida/sarasota/focaccia-sandwich-bakery"
     },
     {
       "name": "Tralia",
       "cuisine": "Pizza",
       "price": "$",
-      "path": "/usa/florida/sarasota/Tralia"
+      "path": "/usa/florida/sarasota/tralia"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Wolfsburg",
-  "country": "germany",
-  "region": "wolfsburg",
-  "city": "wolfsburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "wolfsburg",
+  "city": "Wolfsburg",
+  "citySlug": "wolfsburg",
+  "path": "/germany/wolfsburg/wolfsburg/restaurants",
+  "canonicalPath": "/germany/wolfsburg/wolfsburg/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Aqua",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/wolfsburg/wolfsburg/aqua"
+      "path": "/germany/wolfsburg/wolfsburg/aqua",
+      "award": "★★★"
     },
     {
       "name": "Lang is her",

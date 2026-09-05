@@ -1,11 +1,21 @@
 {
   "title": "Spiegelau",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "spiegelau",
+  "city": "Spiegelau",
+  "citySlug": "spiegelau",
+  "path": "/germany/spiegelau/spiegelau/restaurants",
+  "canonicalPath": "/germany/spiegelau/spiegelau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Das Palmberger - hoamART",
       "cuisine": "Farm to table",
       "price": "$$",
-      "path": "/germany/spiegelau/spiegelau/DasPalmbergerHoamart"
+      "path": "/germany/spiegelau/spiegelau/das-palmberger-hoamart",
+      "award": "Bib Gourmand"
     }
   ]
 }

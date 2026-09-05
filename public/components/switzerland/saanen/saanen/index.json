@@ -1,14 +1,20 @@
 {
   "title": "Saanen",
-  "country": "switzerland",
-  "region": "saanen",
-  "city": "saanen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "saanen",
+  "city": "Saanen",
+  "citySlug": "saanen",
+  "path": "/switzerland/saanen/saanen/restaurants",
+  "canonicalPath": "/switzerland/saanen/saanen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "16 ART-BAR-RESTAURANT",
       "cuisine": "Country cooking, International",
       "price": "€€",
-      "path": "/switzerland/saanen/saanen/16-art-bar-restaurant"
+      "path": "/switzerland/saanen/saanen/16-artbarrestaurant"
     },
     {
       "name": "Sonnenhof",

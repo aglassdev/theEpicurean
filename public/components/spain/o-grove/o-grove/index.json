@@ -1,9 +1,22 @@
 {
   "title": "O Grove",
-  "country": "spain",
-  "region": "o-grove",
-  "city": "o-grove",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "o-grove",
+  "city": "O Grove",
+  "citySlug": "o-grove",
+  "path": "/spain/o-grove/o-grove/restaurants",
+  "canonicalPath": "/spain/o-grove/o-grove/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Culler de Pau",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/spain/o-grove/o-grove/culler-de-pau",
+      "award": "★★"
+    },
     {
       "name": "Beiramar",
       "cuisine": "Seafood",
@@ -15,12 +28,6 @@
       "cuisine": "Grills",
       "price": "€€€",
       "path": "/spain/o-grove/o-grove/brasera-sansibar"
-    },
-    {
-      "name": "Culler de Pau",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/spain/o-grove/o-grove/culler-de-pau"
     },
     {
       "name": "D'Berto",

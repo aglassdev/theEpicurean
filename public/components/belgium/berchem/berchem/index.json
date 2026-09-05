@@ -1,6 +1,21 @@
 {
   "title": "Berchem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "berchem",
+  "city": "Berchem",
+  "citySlug": "berchem",
+  "path": "/belgium/berchem/berchem/restaurants",
+  "canonicalPath": "/belgium/berchem/berchem/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "De Aarde",
+      "cuisine": "Modern French",
+      "price": "$$$$",
+      "path": "/belgium/berchem/berchem/de-aarde"
+    },
     {
       "name": "Decan",
       "cuisine": "Modern French",
@@ -18,12 +33,6 @@
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/belgium/berchem/berchem/soixante"
-    },
-    {
-      "name": "De Aarde",
-      "cuisine": "Modern French",
-      "price": "$$$$",
-      "path": "/belgium/berchem/berchem/DeAarde"
     }
   ]
 }

@@ -1,9 +1,22 @@
 {
   "title": "Pesaro",
-  "country": "italy",
-  "region": "pesaro",
-  "city": "pesaro",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pesaro",
+  "city": "Pesaro",
+  "citySlug": "pesaro",
+  "path": "/italy/pesaro/pesaro/restaurants",
+  "canonicalPath": "/italy/pesaro/pesaro/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Nostrano",
+      "cuisine": "Country cooking, Creative",
+      "price": "€€€",
+      "path": "/italy/pesaro/pesaro/nostrano",
+      "award": "★"
+    },
     {
       "name": "Gibas",
       "cuisine": "Seafood, Italian",
@@ -21,12 +34,6 @@
       "cuisine": "Contemporary, Fusion",
       "price": "€€€",
       "path": "/italy/pesaro/pesaro/marino"
-    },
-    {
-      "name": "Nostrano",
-      "cuisine": "Country cooking, Creative",
-      "price": "€€€",
-      "path": "/italy/pesaro/pesaro/nostrano"
     }
   ]
 }

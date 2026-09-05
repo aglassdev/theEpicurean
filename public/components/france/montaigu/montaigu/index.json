@@ -1,14 +1,21 @@
 {
   "title": "Montaigu",
-  "country": "france",
-  "region": "montaigu",
-  "city": "montaigu",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montaigu",
+  "city": "Montaigu",
+  "citySlug": "montaigu",
+  "path": "/france/montaigu/montaigu/restaurants",
+  "canonicalPath": "/france/montaigu/montaigu/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Robe",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/montaigu/montaigu/la-robe"
+      "path": "/france/montaigu/montaigu/la-robe",
+      "award": "★"
     },
     {
       "name": "L'Atelier",

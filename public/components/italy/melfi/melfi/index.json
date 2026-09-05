@@ -1,14 +1,20 @@
 {
   "title": "Melfi",
-  "country": "italy",
-  "region": "melfi",
-  "city": "melfi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "melfi",
+  "city": "Melfi",
+  "citySlug": "melfi",
+  "path": "/italy/melfi/melfi/restaurants",
+  "canonicalPath": "/italy/melfi/melfi/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Villa",
       "cuisine": "Cuisine from Basilicata, Traditional Cuisine",
       "price": "€",
-      "path": "/italy/melfi/melfi/la-villa"
+      "path": "/italy/melfi/melfi/la-villa-m-e-l"
     }
   ]
 }

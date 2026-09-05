@@ -1,20 +1,27 @@
 {
   "title": "Cherbourg En Cotentin",
-  "country": "france",
-  "region": "cherbourg-en-cotentin",
-  "city": "cherbourg-en-cotentin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cherbourg-en-cotentin",
+  "city": "Cherbourg En Cotentin",
+  "citySlug": "cherbourg-en-cotentin",
+  "path": "/france/cherbourg-en-cotentin/cherbourg-en-cotentin/restaurants",
+  "canonicalPath": "/france/cherbourg-en-cotentin/cherbourg-en-cotentin/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Le Patio",
-      "cuisine": "Farm to table",
-      "price": "€€",
-      "path": "/france/cherbourg-en-cotentin/cherbourg-en-cotentin/le-patio"
-    },
     {
       "name": "Le Pily",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/cherbourg-en-cotentin/cherbourg-en-cotentin/le-pily"
+      "path": "/france/cherbourg-en-cotentin/cherbourg-en-cotentin/le-pily",
+      "award": "★"
+    },
+    {
+      "name": "Le Patio",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/france/cherbourg-en-cotentin/cherbourg-en-cotentin/le-patio-c-h-e"
     }
   ]
 }

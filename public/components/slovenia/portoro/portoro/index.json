@@ -1,14 +1,21 @@
 {
   "title": "Portoro",
-  "country": "slovenia",
-  "region": "portoro",
-  "city": "portoro",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "portoro",
+  "city": "Portoro",
+  "citySlug": "portoro",
+  "path": "/slovenia/portoro/portoro/restaurants",
+  "canonicalPath": "/slovenia/portoro/portoro/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "COB",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/slovenia/portoro/portoro/cob"
+      "path": "/slovenia/portoro/portoro/cob",
+      "award": "★"
     },
     {
       "name": "Rizibizi",

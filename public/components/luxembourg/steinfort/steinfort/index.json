@@ -1,14 +1,21 @@
 {
   "title": "Steinfort",
-  "country": "luxembourg",
-  "region": "steinfort",
-  "city": "steinfort",
+  "country": "Luxembourg",
+  "countrySlug": "luxembourg",
+  "region": null,
+  "regionSlug": "steinfort",
+  "city": "Steinfort",
+  "citySlug": "steinfort",
+  "path": "/luxembourg/steinfort/steinfort/restaurants",
+  "canonicalPath": "/luxembourg/steinfort/steinfort/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Apdikt",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/luxembourg/steinfort/steinfort/apdikt"
+      "path": "/luxembourg/steinfort/steinfort/apdikt",
+      "award": "★"
     }
   ]
 }

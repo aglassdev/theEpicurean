@@ -1,15 +1,15 @@
 {
   "title": "Tadoussac",
-  "country": "canada",
-  "region": "tadoussac",
-  "city": "tadoussac",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "tadoussac",
+  "city": "Tadoussac",
+  "citySlug": "tadoussac",
+  "path": "/canada/tadoussac/tadoussac/restaurants",
+  "canonicalPath": "/canada/tadoussac/tadoussac/restaurants",
+  "count": 1,
   "restaurants": [
-    {
-      "name": "Chez Mathilde",
-      "cuisine": "Regional Cuisine",
-      "price": "$$$",
-      "path": "/canada/tadoussac/tadoussac/chez-mathilde"
-    },
     {
       "name": "Chez Mathilde",
       "cuisine": "Regional Cuisine",

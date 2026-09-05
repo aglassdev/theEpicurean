@@ -1,11 +1,20 @@
 {
   "title": "Coburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "coburg",
+  "city": "Coburg",
+  "citySlug": "coburg",
+  "path": "/germany/coburg/coburg/restaurants",
+  "canonicalPath": "/germany/coburg/coburg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lisa Marie",
       "cuisine": "Farm to table",
       "price": "$$",
-      "path": "/germany/coburg/coburg/LisaMarie"
+      "path": "/germany/coburg/coburg/lisa-marie"
     }
   ]
 }

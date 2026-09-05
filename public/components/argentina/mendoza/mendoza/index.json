@@ -1,6 +1,64 @@
 {
   "title": "Mendoza",
+  "country": "Argentina",
+  "countrySlug": "argentina",
+  "region": null,
+  "regionSlug": "mendoza",
+  "city": "Mendoza",
+  "citySlug": "mendoza",
+  "path": "/argentina/mendoza/mendoza/restaurants",
+  "canonicalPath": "/argentina/mendoza/mendoza/restaurants",
+  "count": 32,
   "restaurants": [
+    {
+      "name": "Angélica Cocina Maestra",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/argentina/mendoza/mendoza/anglica-cocina-maestra",
+      "award": "★"
+    },
+    {
+      "name": "Azafrán",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/argentina/mendoza/mendoza/azafrn",
+      "award": "★"
+    },
+    {
+      "name": "Brindillas",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/argentina/mendoza/mendoza/brindillas",
+      "award": "★"
+    },
+    {
+      "name": "Cal",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/argentina/mendoza/mendoza/cal",
+      "award": "★"
+    },
+    {
+      "name": "Casa Vigil",
+      "cuisine": "Contemporary, Regional Cuisine",
+      "price": "$$$$",
+      "path": "/argentina/mendoza/mendoza/casa-vigil",
+      "award": "★"
+    },
+    {
+      "name": "Riccitelli Bistró",
+      "cuisine": "Seasonal Cuisine, Innovative",
+      "price": "$$$",
+      "path": "/argentina/mendoza/mendoza/riccitelli-bistr",
+      "award": "★"
+    },
+    {
+      "name": "Zonda Cocina de Paisaje",
+      "cuisine": "Traditional Cuisine, Creative",
+      "price": "$$$",
+      "path": "/argentina/mendoza/mendoza/zonda-cocina-de-paisaje",
+      "award": "★"
+    },
     {
       "name": "1884 Francis Mallmann",
       "cuisine": "Traditional Cuisine, Argentinian",
@@ -20,16 +78,16 @@
       "path": "/argentina/mendoza/mendoza/abrasado"
     },
     {
-      "name": "Angélica Cocina Maestra",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/argentina/mendoza/mendoza/anglica-cocina-maestra"
-    },
-    {
       "name": "Anna Bistró",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
       "path": "/argentina/mendoza/mendoza/anna-bistr"
+    },
+    {
+      "name": "Antigal Authentic Flavors",
+      "cuisine": "Argentinian",
+      "price": "$$$",
+      "path": "/argentina/mendoza/mendoza/antigal-authentic-flavors"
     },
     {
       "name": "Assemblage",
@@ -44,16 +102,10 @@
       "path": "/argentina/mendoza/mendoza/assemblage-maison-alta-vista"
     },
     {
-      "name": "Azafrán",
-      "cuisine": "Modern Cuisine",
+      "name": "Awasi - Mendoza",
+      "cuisine": "Contemporary",
       "price": "$$$$",
-      "path": "/argentina/mendoza/mendoza/azafrn"
-    },
-    {
-      "name": "Brindillas",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/argentina/mendoza/mendoza/brindillas"
+      "path": "/argentina/mendoza/mendoza/awasi-mendoza"
     },
     {
       "name": "Brutal",
@@ -62,16 +114,28 @@
       "path": "/argentina/mendoza/mendoza/brutal"
     },
     {
-      "name": "Casa Vigil",
-      "cuisine": "Contemporary, Regional Cuisine",
-      "price": "$$$$",
-      "path": "/argentina/mendoza/mendoza/casa-vigil"
-    },
-    {
       "name": "Centauro",
       "cuisine": "Contemporary",
       "price": "$$",
       "path": "/argentina/mendoza/mendoza/centauro"
+    },
+    {
+      "name": "Clos de Chacras",
+      "cuisine": "Argentinian",
+      "price": "$$",
+      "path": "/argentina/mendoza/mendoza/clos-de-chacras"
+    },
+    {
+      "name": "Crux Cocina",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/mendoza/mendoza/crux-cocina"
+    },
+    {
+      "name": "Diam's",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/argentina/mendoza/mendoza/diams"
     },
     {
       "name": "Espacio Trapiche",
@@ -110,6 +174,12 @@
       "path": "/argentina/mendoza/mendoza/martino-wines"
     },
     {
+      "name": "Nube",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/argentina/mendoza/mendoza/nube"
+    },
+    {
       "name": "Osadía de Crear",
       "cuisine": "Contemporary",
       "price": "$$$",
@@ -128,12 +198,6 @@
       "path": "/argentina/mendoza/mendoza/renacer"
     },
     {
-      "name": "Riccitelli Bistró",
-      "cuisine": "Seasonal Cuisine, Innovative",
-      "price": "$$$",
-      "path": "/argentina/mendoza/mendoza/riccitelli-bistr"
-    },
-    {
       "name": "Ruca Malen",
       "cuisine": "Contemporary",
       "price": "$$$",
@@ -144,54 +208,6 @@
       "cuisine": "Contemporary",
       "price": "$$$",
       "path": "/argentina/mendoza/mendoza/soberana"
-    },
-    {
-      "name": "Zonda Cocina de Paisaje",
-      "cuisine": "Traditional Cuisine, Creative",
-      "price": "$$$",
-      "path": "/argentina/mendoza/mendoza/zonda-cocina-de-paisaje"
-    },
-    {
-      "name": "Cal",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/argentina/mendoza/mendoza/Cal"
-    },
-    {
-      "name": "Antigal Authentic Flavors",
-      "cuisine": "Argentinian",
-      "price": "$$$",
-      "path": "/argentina/mendoza/mendoza/AntigalAuthenticFlavors"
-    },
-    {
-      "name": "Awasi - Mendoza",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/argentina/mendoza/mendoza/AwasiMendoza"
-    },
-    {
-      "name": "Clos de Chacras",
-      "cuisine": "Argentinian",
-      "price": "$$",
-      "path": "/argentina/mendoza/mendoza/ClosDeChacras"
-    },
-    {
-      "name": "Crux Cocina",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/argentina/mendoza/mendoza/CruxCocina"
-    },
-    {
-      "name": "Diam's",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/argentina/mendoza/mendoza/Diams"
-    },
-    {
-      "name": "Nube",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/argentina/mendoza/mendoza/Nube"
     }
   ]
 }

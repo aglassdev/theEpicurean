@@ -1,14 +1,21 @@
 {
   "title": "Saint Mdard",
-  "country": "france",
-  "region": "saint-mdard",
-  "city": "saint-mdard",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-mdard",
+  "city": "Saint Mdard",
+  "citySlug": "saint-mdard",
+  "path": "/france/saint-mdard/saint-mdard/restaurants",
+  "canonicalPath": "/france/saint-mdard/saint-mdard/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Gindreau",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/saint-mdard/saint-mdard/le-gindreau"
+      "path": "/france/saint-mdard/saint-mdard/le-gindreau",
+      "award": "★"
     }
   ]
 }

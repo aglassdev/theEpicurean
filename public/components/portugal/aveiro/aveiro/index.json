@@ -1,6 +1,21 @@
 {
   "title": "Aveiro",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "aveiro",
+  "city": "Aveiro",
+  "citySlug": "aveiro",
+  "path": "/portugal/aveiro/aveiro/restaurants",
+  "canonicalPath": "/portugal/aveiro/aveiro/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Mercantel",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/portugal/aveiro/aveiro/mercantel"
+    },
     {
       "name": "Prosa",
       "cuisine": "Contemporary",
@@ -12,12 +27,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/portugal/aveiro/aveiro/salpoente"
-    },
-    {
-      "name": "Mercantel",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/portugal/aveiro/aveiro/Mercantel"
     }
   ]
 }

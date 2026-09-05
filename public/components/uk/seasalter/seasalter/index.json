@@ -1,14 +1,21 @@
 {
   "title": "Seasalter",
-  "country": "uk",
-  "region": "seasalter",
-  "city": "seasalter",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "seasalter",
+  "city": "Seasalter",
+  "citySlug": "seasalter",
+  "path": "/uk/seasalter/seasalter/restaurants",
+  "canonicalPath": "/uk/seasalter/seasalter/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Sportsman",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/seasalter/seasalter/the-sportsman"
+      "path": "/uk/seasalter/seasalter/the-sportsman",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
-  "title": "Saint Didier De La Tour",
-  "country": "france",
-  "region": "saint-didier-de-la-tour",
-  "city": "saint-didier-de-la-tour",
+  "title": "Saint Didier de la Tour",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-didier-de-la-tour",
+  "city": "Saint Didier de la Tour",
+  "citySlug": "saint-didier-de-la-tour",
+  "path": "/france/saint-didier-de-la-tour/saint-didier-de-la-tour/restaurants",
+  "canonicalPath": "/france/saint-didier-de-la-tour/saint-didier-de-la-tour/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ambroisie",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/saint-didier-de-la-tour/saint-didier-de-la-tour/ambroisie"
+      "path": "/france/saint-didier-de-la-tour/saint-didier-de-la-tour/ambroisie",
+      "award": "★"
     }
   ]
 }

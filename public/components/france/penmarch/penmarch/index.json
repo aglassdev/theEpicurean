@@ -1,14 +1,20 @@
 {
   "title": "Penmarch",
-  "country": "france",
-  "region": "penmarch",
-  "city": "penmarch",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "penmarch",
+  "city": "Penmarch",
+  "citySlug": "penmarch",
+  "path": "/france/penmarch/penmarch/restaurants",
+  "canonicalPath": "/france/penmarch/penmarch/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Haut-Linage",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/penmarch/penmarch/haut-linage"
+      "path": "/france/penmarch/penmarch/hautlinage"
     },
     {
       "name": "Sterenn",

@@ -1,11 +1,42 @@
 {
   "title": "Sankt Gallen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "sankt-gallen",
+  "city": "Sankt Gallen",
+  "citySlug": "sankt-gallen",
+  "path": "/switzerland/sankt-gallen/sankt-gallen/restaurants",
+  "canonicalPath": "/switzerland/sankt-gallen/sankt-gallen/restaurants",
+  "count": 10,
   "restaurants": [
     {
-      "name": "Candela",
-      "cuisine": "International",
-      "price": "€€",
-      "path": "/switzerland/sankt-gallen/sankt-gallen/candela"
+      "name": "Einstein Gourmet",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/sankt-gallen/sankt-gallen/einstein-gourmet",
+      "award": "★★"
+    },
+    {
+      "name": "Jägerhof",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€",
+      "path": "/switzerland/sankt-gallen/sankt-gallen/jgerhof",
+      "award": "★"
+    },
+    {
+      "name": "Soleil d’Or by Benjamin Geisser",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/switzerland/sankt-gallen/sankt-gallen/soleil-dor-by-benjamin-geisser",
+      "award": "★"
+    },
+    {
+      "name": "Soleil d’Or by David Geisser",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/switzerland/sankt-gallen/sankt-gallen/soleil-dor-by-david-geisser",
+      "award": "★"
     },
     {
       "name": "Candela",
@@ -20,22 +51,10 @@
       "path": "/switzerland/sankt-gallen/sankt-gallen/corso"
     },
     {
-      "name": "Einstein Gourmet",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/sankt-gallen/sankt-gallen/einstein-gourmet"
-    },
-    {
       "name": "Helvetia",
       "cuisine": "Contemporary, Regional Cuisine",
       "price": "€€€",
       "path": "/switzerland/sankt-gallen/sankt-gallen/helvetia"
-    },
-    {
-      "name": "Jägerhof",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€",
-      "path": "/switzerland/sankt-gallen/sankt-gallen/jgerhof"
     },
     {
       "name": "Netts Schützengarten",
@@ -50,22 +69,10 @@
       "path": "/switzerland/sankt-gallen/sankt-gallen/osteria-san-gallo"
     },
     {
-      "name": "Soleil d’Or by David Geisser",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/switzerland/sankt-gallen/sankt-gallen/soleil-dor-by-david-geisser"
-    },
-    {
       "name": "Zum Goldenen Schäfli",
       "cuisine": "Classic Cuisine",
       "price": "€",
       "path": "/switzerland/sankt-gallen/sankt-gallen/zum-goldenen-schfli"
-    },
-    {
-      "name": "Soleil d’Or by Benjamin Geisser",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/switzerland/sankt-gallen/sankt-gallen/SoleilDorByBenjaminGeisser"
     }
   ]
 }

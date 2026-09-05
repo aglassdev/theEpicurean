@@ -1,14 +1,20 @@
 {
-  "title": "Castrillo De Duero",
-  "country": "spain",
-  "region": "castrillo-de-duero",
-  "city": "castrillo-de-duero",
+  "title": "Castrillo de Duero",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "castrillo-de-duero",
+  "city": "Castrillo de Duero",
+  "citySlug": "castrillo-de-duero",
+  "path": "/spain/castrillo-de-duero/castrillo-de-duero/restaurants",
+  "canonicalPath": "/spain/castrillo-de-duero/castrillo-de-duero/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cepa 21",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/spain/castrillo-de-duero/castrillo-de-duero/cepa-21"
+      "path": "/spain/castrillo-de-duero/castrillo-de-duero/cepa21"
     }
   ]
 }

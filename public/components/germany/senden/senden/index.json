@@ -1,14 +1,20 @@
 {
   "title": "Senden",
-  "country": "germany",
-  "region": "senden",
-  "city": "senden",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "senden",
+  "city": "Senden",
+  "citySlug": "senden",
+  "path": "/germany/senden/senden/restaurants",
+  "canonicalPath": "/germany/senden/senden/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hof Grothues-Potthoff - Hasenklee",
       "cuisine": "Farm to table, Modern Cuisine",
       "price": "€€€",
-      "path": "/germany/senden/senden/hof-grothues-potthoff-hasenklee"
+      "path": "/germany/senden/senden/hof-grothuespotthoff-hasenklee"
     }
   ]
 }

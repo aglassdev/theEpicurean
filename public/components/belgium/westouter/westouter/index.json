@@ -1,8 +1,14 @@
 {
   "title": "Westouter",
-  "country": "belgium",
-  "region": "westouter",
-  "city": "westouter",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "westouter",
+  "city": "Westouter",
+  "citySlug": "westouter",
+  "path": "/belgium/westouter/westouter/restaurants",
+  "canonicalPath": "/belgium/westouter/westouter/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vinke",

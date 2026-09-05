@@ -1,8 +1,14 @@
 {
   "title": "Bandol",
-  "country": "france",
-  "region": "bandol",
-  "city": "bandol",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bandol",
+  "city": "Bandol",
+  "citySlug": "bandol",
+  "path": "/france/bandol/bandol/restaurants",
+  "canonicalPath": "/france/bandol/bandol/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Au Clair de la Vigne",
@@ -17,6 +23,12 @@
       "path": "/france/bandol/bandol/lami"
     },
     {
+      "name": "L'Espérance",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/bandol/bandol/lesprance"
+    },
+    {
       "name": "Le Shardana",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -27,12 +39,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/bandol/bandol/les-oliviers"
-    },
-    {
-      "name": "L'Espérance",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/bandol/bandol/lesprance"
     }
   ]
 }

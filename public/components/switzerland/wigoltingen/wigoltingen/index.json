@@ -1,14 +1,21 @@
 {
   "title": "Wigoltingen",
-  "country": "switzerland",
-  "region": "wigoltingen",
-  "city": "wigoltingen",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "wigoltingen",
+  "city": "Wigoltingen",
+  "citySlug": "wigoltingen",
+  "path": "/switzerland/wigoltingen/wigoltingen/restaurants",
+  "canonicalPath": "/switzerland/wigoltingen/wigoltingen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Taverne zum Schäfli",
       "cuisine": "Creative, Farm to table",
       "price": "€€€€",
-      "path": "/switzerland/wigoltingen/wigoltingen/taverne-zum-schfli"
+      "path": "/switzerland/wigoltingen/wigoltingen/taverne-zum-schfli",
+      "award": "★★"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
-  "title": "Manerba Del Garda",
-  "country": "italy",
-  "region": "manerba-del-garda",
-  "city": "manerba-del-garda",
+  "title": "Manerba del Garda",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "manerba-del-garda",
+  "city": "Manerba del Garda",
+  "citySlug": "manerba-del-garda",
+  "path": "/italy/manerba-del-garda/manerba-del-garda/restaurants",
+  "canonicalPath": "/italy/manerba-del-garda/manerba-del-garda/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Capriccio",
       "cuisine": "Modern Cuisine, Seafood",
       "price": "€€€",
-      "path": "/italy/manerba-del-garda/manerba-del-garda/capriccio"
+      "path": "/italy/manerba-del-garda/manerba-del-garda/capriccio-m-a-n",
+      "award": "★"
     },
     {
       "name": "Osteria Dalie e Fagioli",

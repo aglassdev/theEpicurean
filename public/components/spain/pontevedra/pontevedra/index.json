@@ -1,11 +1,21 @@
 {
   "title": "Pontevedra",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "pontevedra",
+  "city": "Pontevedra",
+  "citySlug": "pontevedra",
+  "path": "/spain/pontevedra/pontevedra/restaurants",
+  "canonicalPath": "/spain/pontevedra/pontevedra/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Eirado",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/spain/pontevedra/pontevedra/eirado"
+      "path": "/spain/pontevedra/pontevedra/eirado",
+      "award": "★"
     },
     {
       "name": "La Ultramar",
@@ -20,16 +30,16 @@
       "path": "/spain/pontevedra/pontevedra/loaira-xantar"
     },
     {
+      "name": "Os Maristas",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/pontevedra/pontevedra/os-maristas"
+    },
+    {
       "name": "Trasmallo",
       "cuisine": "Contemporary, International",
       "price": "€",
       "path": "/spain/pontevedra/pontevedra/trasmallo"
-    },
-    {
-      "name": "Os Maristas",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/spain/pontevedra/pontevedra/OsMaristas"
     }
   ]
 }

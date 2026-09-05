@@ -1,14 +1,20 @@
 {
   "title": "Villeblevin",
-  "country": "france",
-  "region": "villeblevin",
-  "city": "villeblevin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "villeblevin",
+  "city": "Villeblevin",
+  "citySlug": "villeblevin",
+  "path": "/france/villeblevin/villeblevin/restaurants",
+  "canonicalPath": "/france/villeblevin/villeblevin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge L'Escale 87",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/villeblevin/villeblevin/auberge-lescale-87"
+      "path": "/france/villeblevin/villeblevin/auberge-lescale87"
     }
   ]
 }

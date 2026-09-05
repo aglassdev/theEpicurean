@@ -1,14 +1,21 @@
 {
   "title": "Madulain",
-  "country": "switzerland",
-  "region": "madulain",
-  "city": "madulain",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "madulain",
+  "city": "Madulain",
+  "citySlug": "madulain",
+  "path": "/switzerland/madulain/madulain/restaurants",
+  "canonicalPath": "/switzerland/madulain/madulain/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Chesa Stüva Colani",
       "cuisine": "Innovative, Italian",
       "price": "€€€",
-      "path": "/switzerland/madulain/madulain/chesa-stva-colani"
+      "path": "/switzerland/madulain/madulain/chesa-stva-colani",
+      "award": "★"
     },
     {
       "name": "Colani Bistrot",

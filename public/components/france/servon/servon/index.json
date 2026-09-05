@@ -1,14 +1,21 @@
 {
   "title": "Servon",
-  "country": "france",
-  "region": "servon",
-  "city": "servon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "servon",
+  "city": "Servon",
+  "citySlug": "servon",
+  "path": "/france/servon/servon/restaurants",
+  "canonicalPath": "/france/servon/servon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge Sauvage",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/servon/servon/auberge-sauvage"
+      "path": "/france/servon/servon/auberge-sauvage",
+      "award": "★"
     }
   ]
 }

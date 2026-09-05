@@ -1,17 +1,21 @@
 {
   "title": "Wolvega",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "wolvega",
+  "city": "Wolvega",
+  "citySlug": "wolvega",
+  "path": "/netherlands/wolvega/wolvega/restaurants",
+  "canonicalPath": "/netherlands/wolvega/wolvega/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Smink",
       "cuisine": "Creative, Modern French",
       "price": "€€€",
-      "path": "/netherlands/wolvega/wolvega/restaurant-smink"
-    },
-    {
-      "name": "Restaurant Smink",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/netherlands/wolvega/wolvega/RestaurantSmink"
+      "path": "/netherlands/wolvega/wolvega/restaurant-smink",
+      "award": "★"
     }
   ]
 }

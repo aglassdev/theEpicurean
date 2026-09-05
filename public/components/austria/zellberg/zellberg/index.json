@@ -1,8 +1,14 @@
 {
   "title": "Zellberg",
-  "country": "austria",
-  "region": "zellberg",
-  "city": "zellberg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "zellberg",
+  "city": "Zellberg",
+  "citySlug": "zellberg",
+  "path": "/austria/zellberg/zellberg/restaurants",
+  "canonicalPath": "/austria/zellberg/zellberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Schulhaus Tirol",

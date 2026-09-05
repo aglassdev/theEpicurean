@@ -1,8 +1,14 @@
 {
   "title": "Dunkirk",
-  "country": "france",
-  "region": "dunkirk",
-  "city": "dunkirk",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "dunkirk",
+  "city": "Dunkirk",
+  "citySlug": "dunkirk",
+  "path": "/france/dunkirk/dunkirk/restaurants",
+  "canonicalPath": "/france/dunkirk/dunkirk/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Renée",

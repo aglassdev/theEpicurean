@@ -1,20 +1,20 @@
 {
   "title": "Aalbeke",
-  "country": "belgium",
-  "region": "aalbeke",
-  "city": "aalbeke",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "aalbeke",
+  "city": "Aalbeke",
+  "citySlug": "aalbeke",
+  "path": "/belgium/aalbeke/aalbeke/restaurants",
+  "canonicalPath": "/belgium/aalbeke/aalbeke/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Octo",
       "cuisine": "Classic Cuisine",
       "price": "€€",
-      "path": "/belgium/aalbeke/aalbeke/octo"
-    },
-    {
-      "name": "Octo",
-      "cuisine": "Classic Cuisine",
-      "price": "€€",
-      "path": "/belgium/aalbeke/aalbeke/octo"
+      "path": "/belgium/aalbeke/aalbeke/octo-a-a-l"
     }
   ]
 }

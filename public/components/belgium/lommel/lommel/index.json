@@ -1,20 +1,27 @@
 {
   "title": "Lommel",
-  "country": "belgium",
-  "region": "lommel",
-  "city": "lommel",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "lommel",
+  "city": "Lommel",
+  "citySlug": "lommel",
+  "path": "/belgium/lommel/lommel/restaurants",
+  "canonicalPath": "/belgium/lommel/lommel/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Cuchara",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/belgium/lommel/lommel/cuchara",
+      "award": "★★"
+    },
     {
       "name": "Cocotte",
       "cuisine": "Modern French, Classic French",
       "price": "€€€",
       "path": "/belgium/lommel/lommel/cocotte"
-    },
-    {
-      "name": "Cuchara",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/belgium/lommel/lommel/cuchara"
     }
   ]
 }

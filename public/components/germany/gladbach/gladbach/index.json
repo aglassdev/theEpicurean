@@ -1,11 +1,21 @@
 {
   "title": "Gladbach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "gladbach",
+  "city": "Gladbach",
+  "citySlug": "gladbach",
+  "path": "/germany/gladbach/gladbach/restaurants",
+  "canonicalPath": "/germany/gladbach/gladbach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Dieter Mueller",
       "cuisine": "",
       "price": "",
-      "path": "/germany/gladbach/gladbach/DieterMueller"
+      "path": "/germany/gladbach/gladbach/dieter-mueller",
+      "award": "World's 50 Best"
     }
   ]
 }

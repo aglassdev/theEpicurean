@@ -1,0 +1,28 @@
+{
+  "title": "Encino",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Encino",
+  "citySlug": "encino",
+  "path": "/usa/other/encino/restaurants",
+  "canonicalPath": "/usa/california/encino/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Pasta|Bar",
+      "cuisine": "Contemporary, American",
+      "price": "$$$$",
+      "path": "/usa/california/encino/pastabar",
+      "award": "★"
+    },
+    {
+      "name": "Shin Sushi",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/encino/shin-sushi",
+      "award": "★"
+    }
+  ]
+}

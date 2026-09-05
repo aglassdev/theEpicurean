@@ -1,8 +1,14 @@
 {
   "title": "Niort",
-  "country": "france",
-  "region": "niort",
-  "city": "niort",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "niort",
+  "city": "Niort",
+  "citySlug": "niort",
+  "path": "/france/niort/niort/restaurants",
+  "canonicalPath": "/france/niort/niort/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de la Roussille",

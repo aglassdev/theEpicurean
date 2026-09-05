@@ -1,20 +1,27 @@
 {
   "title": "Sint Martens Bodegem",
-  "country": "belgium",
-  "region": "sint-martens-bodegem",
-  "city": "sint-martens-bodegem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "sint-martens-bodegem",
+  "city": "Sint Martens Bodegem",
+  "citySlug": "sint-martens-bodegem",
+  "path": "/belgium/sint-martens-bodegem/sint-martens-bodegem/restaurants",
+  "canonicalPath": "/belgium/sint-martens-bodegem/sint-martens-bodegem/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Brasserie Julie",
+      "cuisine": "Home Cooking, Creative French",
+      "price": "€€€",
+      "path": "/belgium/sint-martens-bodegem/sint-martens-bodegem/brasserie-julie",
+      "award": "★"
+    },
     {
       "name": "Agnes",
       "cuisine": "Sharing",
       "price": "€€",
       "path": "/belgium/sint-martens-bodegem/sint-martens-bodegem/agnes"
-    },
-    {
-      "name": "Brasserie Julie",
-      "cuisine": "Home Cooking, Creative French",
-      "price": "€€€",
-      "path": "/belgium/sint-martens-bodegem/sint-martens-bodegem/brasserie-julie"
     }
   ]
 }

@@ -1,17 +1,48 @@
 {
   "title": "Marseille",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "marseille",
+  "city": "Marseille",
+  "citySlug": "marseille",
+  "path": "/france/marseille/marseille/restaurants",
+  "canonicalPath": "/france/marseille/marseille/restaurants",
+  "count": 31,
   "restaurants": [
+    {
+      "name": "AM par Alexandre Mazzia",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/marseille/marseille/am-par-alexandre-mazzia",
+      "award": "★★★"
+    },
+    {
+      "name": "Le Petit Nice",
+      "cuisine": "Seafood",
+      "price": "€€€€",
+      "path": "/france/marseille/marseille/le-petit-nice",
+      "award": "★★★"
+    },
+    {
+      "name": "Belle de Mars",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/marseille/marseille/belle-de-mars",
+      "award": "★"
+    },
+    {
+      "name": "Une Table, au Sud",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/marseille/marseille/une-table-au-sud",
+      "award": "★"
+    },
     {
       "name": "Alivetu",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
       "path": "/france/marseille/marseille/alivetu"
-    },
-    {
-      "name": "AM par Alexandre Mazzia",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/marseille/marseille/am-par-alexandre-mazzia"
     },
     {
       "name": "Auffo",
@@ -24,12 +55,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/marseille/marseille/bbo"
-    },
-    {
-      "name": "Belle de Mars",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/marseille/marseille/belle-de-mars"
     },
     {
       "name": "Bucado",
@@ -48,6 +73,12 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/france/marseille/marseille/chez-fonfon"
+    },
+    {
+      "name": "Dame Jeanne",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/marseille/marseille/dame-jeanne"
     },
     {
       "name": "Ekume",
@@ -78,12 +109,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/marseille/marseille/la-mercerie"
-    },
-    {
-      "name": "Le Petit Nice",
-      "cuisine": "Seafood",
-      "price": "€€€€",
-      "path": "/france/marseille/marseille/le-petit-nice"
     },
     {
       "name": "Les Bords de Mer",
@@ -143,13 +168,13 @@
       "name": "Prosper",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
-      "path": "/france/marseille/marseille/prosper"
+      "path": "/france/marseille/marseille/prosper-m-a-r"
     },
     {
       "name": "Regain",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/marseille/marseille/regain"
+      "path": "/france/marseille/marseille/regain-m-a-r"
     },
     {
       "name": "SAGE",
@@ -161,31 +186,19 @@
       "name": "Sépia",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/marseille/marseille/spia"
+      "path": "/france/marseille/marseille/spia-m-a-r"
+    },
+    {
+      "name": "Suffren",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/marseille/marseille/suffren"
     },
     {
       "name": "Tabi - Ippei Uemura",
       "cuisine": "Japanese Contemporary",
       "price": "€€€",
       "path": "/france/marseille/marseille/tabi-ippei-uemura"
-    },
-    {
-      "name": "Une Table, au Sud",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/marseille/marseille/une-table-au-sud"
-    },
-    {
-      "name": "Dame Jeanne",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/france/marseille/marseille/DameJeanne"
-    },
-    {
-      "name": "Suffren",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/france/marseille/marseille/Suffren"
     }
   ]
 }

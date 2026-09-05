@@ -1,14 +1,20 @@
 {
   "title": "Montellano",
-  "country": "spain",
-  "region": "montellano",
-  "city": "montellano",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "montellano",
+  "city": "Montellano",
+  "citySlug": "montellano",
+  "path": "/spain/montellano/montellano/restaurants",
+  "canonicalPath": "/spain/montellano/montellano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Deli",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/spain/montellano/montellano/deli"
+      "path": "/spain/montellano/montellano/deli-m-o-n"
     }
   ]
 }

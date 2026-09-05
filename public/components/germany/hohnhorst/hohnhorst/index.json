@@ -1,11 +1,21 @@
 {
   "title": "Hohnhorst",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hohnhorst",
+  "city": "Hohnhorst",
+  "citySlug": "hohnhorst",
+  "path": "/germany/hohnhorst/hohnhorst/restaurants",
+  "canonicalPath": "/germany/hohnhorst/hohnhorst/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Mohn",
       "cuisine": "Seasonal Cuisine",
       "price": "$$$",
-      "path": "/germany/hohnhorst/hohnhorst/RestaurantMohn"
+      "path": "/germany/hohnhorst/hohnhorst/restaurant-mohn",
+      "award": "★"
     }
   ]
 }

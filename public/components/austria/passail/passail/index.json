@@ -1,11 +1,20 @@
 {
   "title": "Passail",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "passail",
+  "city": "Passail",
+  "citySlug": "passail",
+  "path": "/austria/passail/passail/restaurants",
+  "canonicalPath": "/austria/passail/passail/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Der Schrenk",
       "cuisine": "Regional Cuisine",
       "price": "$$",
-      "path": "/austria/passail/passail/DerSchrenk"
+      "path": "/austria/passail/passail/der-schrenk"
     }
   ]
 }

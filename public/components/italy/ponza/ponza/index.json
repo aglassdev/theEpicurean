@@ -1,14 +1,21 @@
 {
   "title": "Ponza",
-  "country": "italy",
-  "region": "ponza",
-  "city": "ponza",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ponza",
+  "city": "Ponza",
+  "citySlug": "ponza",
+  "path": "/italy/ponza/ponza/restaurants",
+  "canonicalPath": "/italy/ponza/ponza/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Acqua Pazza",
       "cuisine": "Seafood, Classic Cuisine",
       "price": "€€€",
-      "path": "/italy/ponza/ponza/acqua-pazza"
+      "path": "/italy/ponza/ponza/acqua-pazza-p-o-n",
+      "award": "★"
     },
     {
       "name": "Eea",

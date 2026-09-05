@@ -1,11 +1,21 @@
 {
-  "title": "Sainte-Anne-de-Beaupré",
+  "title": "Sainte Anne de Beaupr",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "sainte-anne-de-beaupr",
+  "city": "Sainte Anne de Beaupr",
+  "citySlug": "sainte-anne-de-beaupr",
+  "path": "/canada/sainte-anne-de-beaupr/sainte-anne-de-beaupr/restaurants",
+  "canonicalPath": "/canada/sainte-anne-de-beaupr/sainte-anne-de-beaupr/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Coquette",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/canada/sainte-anne-de-beaupr/sainte-anne-de-beaupr/Coquette"
+      "path": "/canada/sainte-anne-de-beaupr/sainte-anne-de-beaupr/coquette",
+      "award": "Bib Gourmand"
     }
   ]
 }

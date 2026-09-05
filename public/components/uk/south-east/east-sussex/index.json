@@ -1,113 +1,122 @@
 {
   "title": "East Sussex",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "South East",
+  "regionSlug": "south-east",
+  "city": "East Sussex",
+  "citySlug": "east-sussex",
+  "path": "/uk/south-east/east-sussex/restaurants",
+  "canonicalPath": "/uk/south-east/east-sussex/restaurants",
+  "count": 18,
   "restaurants": [
     {
-      "name": "Buxted Park Hotel",
+      "name": "Ashdown Park",
       "cuisine": "Afternoon Tea",
-      "price": "35.00",
-      "path": "/uk/south-east/east-sussex/BuxtedParkHotel"
+      "price": "34.50",
+      "path": "/uk/south-east/east-sussex/ashdown-park"
     },
     {
       "name": "Bannatyne Spa Hotel Hastings",
       "cuisine": "Afternoon Tea",
       "price": "20.00",
-      "path": "/uk/south-east/east-sussex/BannatyneSpaHotelHastings"
+      "path": "/uk/south-east/east-sussex/bannatyne-spa-hotel-hastings"
     },
     {
-      "name": "Patisserie Valerie - Eastbourne",
+      "name": "Buxted Park Hotel",
       "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/south-east/east-sussex/PatisserieValerieEastbourne"
-    },
-    {
-      "name": "Terre a Terre",
-      "cuisine": "Afternoon Tea",
-      "price": "26.00",
-      "path": "/uk/south-east/east-sussex/TerreATerre"
-    },
-    {
-      "name": "Royal Pavilion",
-      "cuisine": "Afternoon Tea",
-      "price": "115.00",
-      "path": "/uk/south-east/east-sussex/RoyalPavilion"
-    },
-    {
-      "name": "Metrodeco",
-      "cuisine": "Afternoon Tea",
-      "price": "59.00",
-      "path": "/uk/south-east/east-sussex/Metrodeco"
-    },
-    {
-      "name": "Malmaison Brighton",
-      "cuisine": "Afternoon Tea",
-      "price": "29.50",
-      "path": "/uk/south-east/east-sussex/MalmaisonBrighton"
-    },
-    {
-      "name": "Light at Towner",
-      "cuisine": "Afternoon Tea",
-      "price": "28.00",
-      "path": "/uk/south-east/east-sussex/LightAtTowner"
-    },
-    {
-      "name": "Lansdowne Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "22.95",
-      "path": "/uk/south-east/east-sussex/LansdowneHotel"
-    },
-    {
-      "name": "La Mucca Nera",
-      "cuisine": "Afternoon Tea",
-      "price": "80.00",
-      "path": "/uk/south-east/east-sussex/LaMuccaNera"
-    },
-    {
-      "name": "The Ivy Brighton",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/south-east/east-sussex/TheIvyBrighton"
-    },
-    {
-      "name": "The Ivy Asia Brighton",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/south-east/east-sussex/TheIvyAsiaBrighton"
-    },
-    {
-      "name": "Hotel du Vin Brighton",
-      "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/south-east/east-sussex/HotelDuVinBrighton"
-    },
-    {
-      "name": "The Grand Hotel Eastbourne",
-      "cuisine": "Afternoon Tea",
-      "price": "34.00",
-      "path": "/uk/south-east/east-sussex/TheGrandHotelEastbourne"
-    },
-    {
-      "name": "East Sussex National Resort",
-      "cuisine": "Afternoon Tea",
-      "price": "26.50",
-      "path": "/uk/south-east/east-sussex/EastSussexNationalResort"
+      "price": "35.00",
+      "path": "/uk/south-east/east-sussex/buxted-park-hotel"
     },
     {
       "name": "DoubleTree by Hilton Brighton Metropole",
       "cuisine": "Afternoon Tea",
       "price": "32.00",
-      "path": "/uk/south-east/east-sussex/DoubletreeByHiltonBrightonMetropole"
+      "path": "/uk/south-east/east-sussex/doubletree-by-hilton-brighton-metropole"
+    },
+    {
+      "name": "East Sussex National Resort",
+      "cuisine": "Afternoon Tea",
+      "price": "26.50",
+      "path": "/uk/south-east/east-sussex/east-sussex-national-resort"
+    },
+    {
+      "name": "Hotel du Vin Brighton",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/south-east/east-sussex/hotel-du-vin-brighton"
+    },
+    {
+      "name": "La Mucca Nera",
+      "cuisine": "Afternoon Tea",
+      "price": "80.00",
+      "path": "/uk/south-east/east-sussex/la-mucca-nera"
+    },
+    {
+      "name": "Lansdowne Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "22.95",
+      "path": "/uk/south-east/east-sussex/lansdowne-hotel"
+    },
+    {
+      "name": "Light at Towner",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/south-east/east-sussex/light-at-towner"
+    },
+    {
+      "name": "Malmaison Brighton",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/south-east/east-sussex/malmaison-brighton"
+    },
+    {
+      "name": "Metrodeco",
+      "cuisine": "Afternoon Tea",
+      "price": "59.00",
+      "path": "/uk/south-east/east-sussex/metrodeco"
+    },
+    {
+      "name": "Patisserie Valerie - Eastbourne",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/south-east/east-sussex/patisserie-valerie-eastbourne"
+    },
+    {
+      "name": "Royal Pavilion",
+      "cuisine": "Afternoon Tea",
+      "price": "115.00",
+      "path": "/uk/south-east/east-sussex/royal-pavilion"
+    },
+    {
+      "name": "Terre a Terre",
+      "cuisine": "Afternoon Tea",
+      "price": "26.00",
+      "path": "/uk/south-east/east-sussex/terre-a-terre"
     },
     {
       "name": "The Claremont",
       "cuisine": "Afternoon Tea",
       "price": "22.50",
-      "path": "/uk/south-east/east-sussex/TheClaremont"
+      "path": "/uk/south-east/east-sussex/the-claremont"
     },
     {
-      "name": "Ashdown Park",
+      "name": "The Grand Hotel Eastbourne",
       "cuisine": "Afternoon Tea",
-      "price": "34.50",
-      "path": "/uk/south-east/east-sussex/AshdownPark"
+      "price": "34.00",
+      "path": "/uk/south-east/east-sussex/the-grand-hotel-eastbourne"
+    },
+    {
+      "name": "The Ivy Asia Brighton",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/south-east/east-sussex/the-ivy-asia-brighton"
+    },
+    {
+      "name": "The Ivy Brighton",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/south-east/east-sussex/the-ivy-brighton"
     }
   ]
 }

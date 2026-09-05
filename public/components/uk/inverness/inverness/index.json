@@ -1,8 +1,14 @@
 {
   "title": "Inverness",
-  "country": "uk",
-  "region": "inverness",
-  "city": "inverness",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "inverness",
+  "city": "Inverness",
+  "citySlug": "inverness",
+  "path": "/uk/inverness/inverness/restaurants",
+  "canonicalPath": "/uk/inverness/inverness/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Rocpool",

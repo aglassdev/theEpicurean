@@ -1,14 +1,20 @@
 {
-  "title": "Villefranche Sur Mer",
-  "country": "france",
-  "region": "villefranche-sur-mer",
-  "city": "villefranche-sur-mer",
+  "title": "Villefranche sur Mer",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "villefranche-sur-mer",
+  "city": "Villefranche sur Mer",
+  "citySlug": "villefranche-sur-mer",
+  "path": "/france/villefranche-sur-mer/villefranche-sur-mer/restaurants",
+  "canonicalPath": "/france/villefranche-sur-mer/villefranche-sur-mer/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Mère Germaine",
       "cuisine": "Seafood",
       "price": "€€€",
-      "path": "/france/villefranche-sur-mer/villefranche-sur-mer/la-mre-germaine"
+      "path": "/france/villefranche-sur-mer/villefranche-sur-mer/la-mre-germaine-v-i-l"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
-  "title": "Les Eyzies De Tayac Sireuil",
-  "country": "france",
-  "region": "les-eyzies-de-tayac-sireuil",
-  "city": "les-eyzies-de-tayac-sireuil",
+  "title": "Les Eyzies de Tayac Sireuil",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "les-eyzies-de-tayac-sireuil",
+  "city": "Les Eyzies de Tayac Sireuil",
+  "citySlug": "les-eyzies-de-tayac-sireuil",
+  "path": "/france/les-eyzies-de-tayac-sireuil/les-eyzies-de-tayac-sireuil/restaurants",
+  "canonicalPath": "/france/les-eyzies-de-tayac-sireuil/les-eyzies-de-tayac-sireuil/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Le 1862 - Les Glycines",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/les-eyzies-de-tayac-sireuil/les-eyzies-de-tayac-sireuil/le1862-les-glycines",
+      "award": "★"
+    },
     {
       "name": "La Table du Centenaire",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/les-eyzies-de-tayac-sireuil/les-eyzies-de-tayac-sireuil/la-table-du-centenaire"
-    },
-    {
-      "name": "Le 1862 - Les Glycines",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/les-eyzies-de-tayac-sireuil/les-eyzies-de-tayac-sireuil/le-1862-les-glycines"
     },
     {
       "name": "Le Bistro des Glycines",

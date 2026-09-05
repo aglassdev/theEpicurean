@@ -1,9 +1,22 @@
 {
   "title": "Schluchsee",
-  "country": "germany",
-  "region": "schluchsee",
-  "city": "schluchsee",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "schluchsee",
+  "city": "Schluchsee",
+  "citySlug": "schluchsee",
+  "path": "/germany/schluchsee/schluchsee/restaurants",
+  "canonicalPath": "/germany/schluchsee/schluchsee/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Mühle",
+      "cuisine": "Modern French, Creative",
+      "price": "€€€€",
+      "path": "/germany/schluchsee/schluchsee/mhle",
+      "award": "★"
+    },
     {
       "name": "Auerhahn",
       "cuisine": "International, Seasonal Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Farm to table, German",
       "price": "€€",
       "path": "/germany/schluchsee/schluchsee/brasserie-barbara"
-    },
-    {
-      "name": "Mühle",
-      "cuisine": "Modern French, Creative",
-      "price": "€€€€",
-      "path": "/germany/schluchsee/schluchsee/mhle"
     }
   ]
 }

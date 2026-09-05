@@ -1,14 +1,20 @@
 {
   "title": "Le Subdray",
-  "country": "france",
-  "region": "le-subdray",
-  "city": "le-subdray",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-subdray",
+  "city": "Le Subdray",
+  "citySlug": "le-subdray",
+  "path": "/france/le-subdray/le-subdray/restaurants",
+  "canonicalPath": "/france/le-subdray/le-subdray/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Forge",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/le-subdray/le-subdray/la-forge"
+      "path": "/france/le-subdray/le-subdray/la-forge-l-e-s"
     }
   ]
 }

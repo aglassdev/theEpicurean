@@ -1,29 +1,41 @@
 {
   "title": "Axpe",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "axpe",
+  "city": "Axpe",
+  "citySlug": "axpe",
+  "path": "/spain/axpe/axpe/restaurants",
+  "canonicalPath": "/spain/axpe/axpe/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Etxebarri",
       "cuisine": "Grills",
       "price": "€€€€",
-      "path": "/spain/axpe/axpe/etxebarri"
+      "path": "/spain/axpe/axpe/etxebarri",
+      "award": "★"
+    },
+    {
+      "name": "Txispa",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/spain/axpe/axpe/txispa",
+      "award": "★"
+    },
+    {
+      "name": "Asador Etxebarri",
+      "cuisine": "",
+      "price": "",
+      "path": "/spain/axpe/axpe/asador-etxebarri",
+      "award": "World's 50 Best"
     },
     {
       "name": "Mendi Goikoa Bekoa",
       "cuisine": "Basque",
       "price": "€€",
       "path": "/spain/axpe/axpe/mendi-goikoa-bekoa"
-    },
-    {
-      "name": "Txispa",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/spain/axpe/axpe/txispa"
-    },
-    {
-      "name": "Asador Etxebarri",
-      "cuisine": "",
-      "price": "",
-      "path": "/spain/axpe/axpe/AsadorEtxebarri"
     }
   ]
 }

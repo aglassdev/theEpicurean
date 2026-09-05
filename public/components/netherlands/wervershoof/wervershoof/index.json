@@ -1,14 +1,20 @@
 {
   "title": "Wervershoof",
-  "country": "netherlands",
-  "region": "wervershoof",
-  "city": "wervershoof",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "wervershoof",
+  "city": "Wervershoof",
+  "citySlug": "wervershoof",
+  "path": "/netherlands/wervershoof/wervershoof/restaurants",
+  "canonicalPath": "/netherlands/wervershoof/wervershoof/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Oxalis",
       "cuisine": "Creative, Modern French",
       "price": "€€€",
-      "path": "/netherlands/wervershoof/wervershoof/oxalis"
+      "path": "/netherlands/wervershoof/wervershoof/oxalis-w-e-r"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Snderborg",
-  "country": "denmark",
-  "region": "snderborg",
-  "city": "snderborg",
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "region": null,
+  "regionSlug": "snderborg",
+  "city": "Snderborg",
+  "citySlug": "snderborg",
+  "path": "/denmark/snderborg/snderborg/restaurants",
+  "canonicalPath": "/denmark/snderborg/snderborg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Syttende",
       "cuisine": "Modern Cuisine, Danish",
       "price": "€€€€",
-      "path": "/denmark/snderborg/snderborg/syttende"
+      "path": "/denmark/snderborg/snderborg/syttende",
+      "award": "★"
     }
   ]
 }

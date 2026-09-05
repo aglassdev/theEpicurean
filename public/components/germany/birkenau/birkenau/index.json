@@ -1,8 +1,14 @@
 {
   "title": "Birkenau",
-  "country": "germany",
-  "region": "birkenau",
-  "city": "birkenau",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "birkenau",
+  "city": "Birkenau",
+  "citySlug": "birkenau",
+  "path": "/germany/birkenau/birkenau/restaurants",
+  "canonicalPath": "/germany/birkenau/birkenau/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Lammershof Stuben",

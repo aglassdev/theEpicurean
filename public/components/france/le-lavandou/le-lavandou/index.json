@@ -1,11 +1,28 @@
 {
   "title": "Le Lavandou",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-lavandou",
+  "city": "Le Lavandou",
+  "citySlug": "le-lavandou",
+  "path": "/france/le-lavandou/le-lavandou/restaurants",
+  "canonicalPath": "/france/le-lavandou/le-lavandou/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "L'Arbre au Soleil",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/le-lavandou/le-lavandou/larbre-au-soleil"
+      "path": "/france/le-lavandou/le-lavandou/larbre-au-soleil",
+      "award": "★"
+    },
+    {
+      "name": "L'Oursin - Hôtel Les Roches",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$$",
+      "path": "/france/le-lavandou/le-lavandou/loursin-htel-les-roches",
+      "award": "★"
     },
     {
       "name": "Le Mazet",
@@ -18,12 +35,6 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/france/le-lavandou/le-lavandou/les-tamaris-chez-raymond"
-    },
-    {
-      "name": "L'Oursin - Hôtel Les Roches",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$$$",
-      "path": "/france/le-lavandou/le-lavandou/LoursinHtelLesRoches"
     }
   ]
 }

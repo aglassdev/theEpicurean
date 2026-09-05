@@ -1,8 +1,14 @@
 {
   "title": "Bedoin",
-  "country": "france",
-  "region": "bedoin",
-  "city": "bedoin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bedoin",
+  "city": "Bedoin",
+  "citySlug": "bedoin",
+  "path": "/france/bedoin/bedoin/restaurants",
+  "canonicalPath": "/france/bedoin/bedoin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Colombe",

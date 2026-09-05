@@ -1,8 +1,14 @@
 {
   "title": "Traenheim",
-  "country": "france",
-  "region": "traenheim",
-  "city": "traenheim",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "traenheim",
+  "city": "Traenheim",
+  "citySlug": "traenheim",
+  "path": "/france/traenheim/traenheim/restaurants",
+  "canonicalPath": "/france/traenheim/traenheim/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Zum Loejelgucker",

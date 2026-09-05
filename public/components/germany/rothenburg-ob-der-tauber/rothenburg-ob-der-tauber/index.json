@@ -1,20 +1,27 @@
 {
-  "title": "Rothenburg Ob Der Tauber",
-  "country": "germany",
-  "region": "rothenburg-ob-der-tauber",
-  "city": "rothenburg-ob-der-tauber",
+  "title": "Rothenburg Ob der Tauber",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "rothenburg-ob-der-tauber",
+  "city": "Rothenburg Ob der Tauber",
+  "citySlug": "rothenburg-ob-der-tauber",
+  "path": "/germany/rothenburg-ob-der-tauber/rothenburg-ob-der-tauber/restaurants",
+  "canonicalPath": "/germany/rothenburg-ob-der-tauber/rothenburg-ob-der-tauber/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Mittermeier",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€€",
+      "path": "/germany/rothenburg-ob-der-tauber/rothenburg-ob-der-tauber/mittermeier",
+      "award": "★"
+    },
     {
       "name": "HerR",
       "cuisine": "International, Seasonal Cuisine",
       "price": "€€€€",
       "path": "/germany/rothenburg-ob-der-tauber/rothenburg-ob-der-tauber/herr"
-    },
-    {
-      "name": "Mittermeier",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€€",
-      "path": "/germany/rothenburg-ob-der-tauber/rothenburg-ob-der-tauber/mittermeier"
     }
   ]
 }

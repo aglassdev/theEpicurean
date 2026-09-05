@@ -1,14 +1,21 @@
 {
   "title": "Saint Omer",
-  "country": "france",
-  "region": "saint-omer",
-  "city": "saint-omer",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-omer",
+  "city": "Saint Omer",
+  "citySlug": "saint-omer",
+  "path": "/france/saint-omer/saint-omer/restaurants",
+  "canonicalPath": "/france/saint-omer/saint-omer/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bacôve",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/saint-omer/saint-omer/bacve"
+      "path": "/france/saint-omer/saint-omer/bacve",
+      "award": "★"
     },
     {
       "name": "Boucan",

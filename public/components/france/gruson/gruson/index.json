@@ -1,14 +1,20 @@
 {
   "title": "Gruson",
-  "country": "france",
-  "region": "gruson",
-  "city": "gruson",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gruson",
+  "city": "Gruson",
+  "citySlug": "gruson",
+  "path": "/france/gruson/gruson/restaurants",
+  "canonicalPath": "/france/gruson/gruson/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Arbre",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/gruson/gruson/larbre"
+      "path": "/france/gruson/gruson/larbre-g-r-u"
     }
   ]
 }

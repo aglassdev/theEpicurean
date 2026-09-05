@@ -1,6 +1,22 @@
 {
   "title": "Cassis",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cassis",
+  "city": "Cassis",
+  "citySlug": "cassis",
+  "path": "/france/cassis/cassis/restaurants",
+  "canonicalPath": "/france/cassis/cassis/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "La Villa Madie",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/cassis/cassis/la-villa-madie",
+      "award": "★★★"
+    },
     {
       "name": "La Brasserie du Corton",
       "cuisine": "Modern Cuisine",
@@ -8,22 +24,16 @@
       "path": "/france/cassis/cassis/la-brasserie-du-corton"
     },
     {
-      "name": "La Villa Madie",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/cassis/cassis/la-villa-madie"
+      "name": "La Presqu'île",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/france/cassis/cassis/la-presqule"
     },
     {
       "name": "Les Belles Canailles",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
       "path": "/france/cassis/cassis/les-belles-canailles"
-    },
-    {
-      "name": "La Presqu'île",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$$",
-      "path": "/france/cassis/cassis/LaPresqule"
     }
   ]
 }

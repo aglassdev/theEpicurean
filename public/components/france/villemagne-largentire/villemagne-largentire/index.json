@@ -1,14 +1,20 @@
 {
   "title": "Villemagne Largentire",
-  "country": "france",
-  "region": "villemagne-largentire",
-  "city": "villemagne-largentire",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "villemagne-largentire",
+  "city": "Villemagne Largentire",
+  "citySlug": "villemagne-largentire",
+  "path": "/france/villemagne-largentire/villemagne-largentire/restaurants",
+  "canonicalPath": "/france/villemagne-largentire/villemagne-largentire/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de l'Abbaye",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/villemagne-largentire/villemagne-largentire/auberge-de-labbaye"
+      "path": "/france/villemagne-largentire/villemagne-largentire/auberge-de-labbaye-v-i-l"
     }
   ]
 }

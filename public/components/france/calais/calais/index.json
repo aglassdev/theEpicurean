@@ -1,8 +1,14 @@
 {
   "title": "Calais",
-  "country": "france",
-  "region": "calais",
-  "city": "calais",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "calais",
+  "city": "Calais",
+  "citySlug": "calais",
+  "path": "/france/calais/calais/restaurants",
+  "canonicalPath": "/france/calais/calais/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Aquar'aile",

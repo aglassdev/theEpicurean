@@ -1,6 +1,71 @@
 {
   "title": "Nice",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "nice",
+  "city": "Nice",
+  "citySlug": "nice",
+  "path": "/france/nice/nice/restaurants",
+  "canonicalPath": "/france/nice/nice/restaurants",
+  "count": 38,
   "restaurants": [
+    {
+      "name": "Flaveur",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/nice/nice/flaveur",
+      "award": "★★"
+    },
+    {
+      "name": "JAN",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/nice/nice/jan-n-i-c",
+      "award": "★"
+    },
+    {
+      "name": "L'Aromate",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/nice/nice/laromate",
+      "award": "★"
+    },
+    {
+      "name": "Le Chantecler",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/nice/nice/le-chantecler",
+      "award": "★"
+    },
+    {
+      "name": "Les Agitateurs",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/nice/nice/les-agitateurs",
+      "award": "★"
+    },
+    {
+      "name": "ONICE",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/nice/nice/onice",
+      "award": "★"
+    },
+    {
+      "name": "Pure & V",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/nice/nice/pure-v",
+      "award": "★"
+    },
+    {
+      "name": "Racines - Bruno Cirino",
+      "cuisine": "Vegetarian, Mediterranean Cuisine",
+      "price": "€€€",
+      "path": "/france/nice/nice/racines-bruno-cirino",
+      "award": "★"
+    },
     {
       "name": "Apopino",
       "cuisine": "Mediterranean Cuisine, Modern Cuisine",
@@ -44,6 +109,12 @@
       "path": "/france/nice/nice/comptoir-du-march"
     },
     {
+      "name": "Épicentre",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/nice/nice/picentre"
+    },
+    {
       "name": "Epiro",
       "cuisine": "Italian",
       "price": "€€",
@@ -56,16 +127,16 @@
       "path": "/france/nice/nice/fine-gueule"
     },
     {
-      "name": "Flaveur",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/nice/nice/flaveur"
+      "name": "L'Alchimie",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/nice/nice/lalchimie"
     },
     {
-      "name": "JAN",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/nice/nice/jan"
+      "name": "L'Atelier",
+      "cuisine": "Regional Cuisine",
+      "price": "€€€",
+      "path": "/france/nice/nice/latelier-n-i-c"
     },
     {
       "name": "La Merenda",
@@ -74,34 +145,16 @@
       "path": "/france/nice/nice/la-merenda"
     },
     {
-      "name": "La Rotonde",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€",
-      "path": "/france/nice/nice/la-rotonde"
-    },
-    {
       "name": "La Réserve de Nice",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/nice/nice/la-rserve-de-nice"
     },
     {
-      "name": "L'Alchimie",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/nice/nice/lalchimie"
-    },
-    {
-      "name": "L'Aromate",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/nice/nice/laromate"
-    },
-    {
-      "name": "L'Atelier",
-      "cuisine": "Regional Cuisine",
+      "name": "La Rotonde",
+      "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/france/nice/nice/latelier"
+      "path": "/france/nice/nice/la-rotonde-n-i-c"
     },
     {
       "name": "Le Bistrot de Jan",
@@ -128,18 +181,6 @@
       "path": "/france/nice/nice/le-cdre"
     },
     {
-      "name": "Le Cèdre",
-      "cuisine": "Lebanese",
-      "price": "€€",
-      "path": "/france/nice/nice/le-cdre"
-    },
-    {
-      "name": "Le Chantecler",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/nice/nice/le-chantecler"
-    },
-    {
       "name": "Le Séjour Café",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -150,12 +191,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/nice/nice/le-socle"
-    },
-    {
-      "name": "Les Agitateurs",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/nice/nice/les-agitateurs"
     },
     {
       "name": "Les Deux Canailles",
@@ -176,10 +211,10 @@
       "path": "/france/nice/nice/olive-artichaut"
     },
     {
-      "name": "ONICE",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/nice/nice/onice"
+      "name": "Onakaya",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/france/nice/nice/onakaya"
     },
     {
       "name": "Peixes Bonaparte",
@@ -194,46 +229,22 @@
       "path": "/france/nice/nice/peixes-opra"
     },
     {
-      "name": "Épicentre",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/nice/nice/picentre"
-    },
-    {
       "name": "Pirouette",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/nice/nice/pirouette"
     },
     {
-      "name": "Pure & V",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/nice/nice/pure-v"
-    },
-    {
-      "name": "Racines - Bruno Cirino",
-      "cuisine": "Vegetarian, Mediterranean Cuisine",
-      "price": "€€€",
-      "path": "/france/nice/nice/racines-bruno-cirino"
-    },
-    {
       "name": "Rouge",
       "cuisine": "Sharing, Modern Cuisine",
       "price": "€€",
-      "path": "/france/nice/nice/rouge"
+      "path": "/france/nice/nice/rouge-n-i-c"
     },
     {
       "name": "Taulissa",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
       "path": "/france/nice/nice/taulissa"
-    },
-    {
-      "name": "Onakaya",
-      "cuisine": "Japanese",
-      "price": "$$$",
-      "path": "/france/nice/nice/Onakaya"
     }
   ]
 }

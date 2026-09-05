@@ -1,20 +1,27 @@
 {
   "title": "Vienne",
-  "country": "france",
-  "region": "vienne",
-  "city": "vienne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vienne",
+  "city": "Vienne",
+  "citySlug": "vienne",
+  "path": "/france/vienne/vienne/restaurants",
+  "canonicalPath": "/france/vienne/vienne/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "La Pyramide - Maison Henriroux",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/vienne/vienne/la-pyramide-maison-henriroux",
+      "award": "★★"
+    },
     {
       "name": "Alquimia",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
       "path": "/france/vienne/vienne/alquimia"
-    },
-    {
-      "name": "La Pyramide - Maison Henriroux",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/vienne/vienne/la-pyramide-maison-henriroux"
     },
     {
       "name": "L'Espace PH3",

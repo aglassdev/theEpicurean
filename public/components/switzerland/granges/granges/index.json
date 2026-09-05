@@ -1,14 +1,20 @@
 {
   "title": "Granges",
-  "country": "switzerland",
-  "region": "granges",
-  "city": "granges",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "granges",
+  "city": "Granges",
+  "citySlug": "granges",
+  "path": "/switzerland/granges/granges/restaurants",
+  "canonicalPath": "/switzerland/granges/granges/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'instinct",
       "cuisine": "Seasonal Cuisine",
       "price": "€€",
-      "path": "/switzerland/granges/granges/linstinct"
+      "path": "/switzerland/granges/granges/linstinct-g-r-a"
     }
   ]
 }

@@ -1,20 +1,28 @@
 {
   "title": "La Wantzenau",
-  "country": "france",
-  "region": "la-wantzenau",
-  "city": "la-wantzenau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-wantzenau",
+  "city": "La Wantzenau",
+  "citySlug": "la-wantzenau",
+  "path": "/france/la-wantzenau/la-wantzenau/restaurants",
+  "canonicalPath": "/france/la-wantzenau/la-wantzenau/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Le Jardin Secret",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/la-wantzenau/la-wantzenau/le-jardin-secret"
+      "path": "/france/la-wantzenau/la-wantzenau/le-jardin-secret",
+      "award": "★"
     },
     {
       "name": "Le Relais de la Poste",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/la-wantzenau/la-wantzenau/le-relais-de-la-poste"
+      "path": "/france/la-wantzenau/la-wantzenau/le-relais-de-la-poste",
+      "award": "★"
     },
     {
       "name": "Les Semailles",

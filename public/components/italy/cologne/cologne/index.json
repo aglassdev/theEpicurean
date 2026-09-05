@@ -1,8 +1,14 @@
 {
   "title": "Cologne",
-  "country": "italy",
-  "region": "cologne",
-  "city": "cologne",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cologne",
+  "city": "Cologne",
+  "citySlug": "cologne",
+  "path": "/italy/cologne/cologne/restaurants",
+  "canonicalPath": "/italy/cologne/cologne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cappuccini Cucina San Francesco",

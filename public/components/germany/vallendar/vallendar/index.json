@@ -1,8 +1,14 @@
 {
   "title": "Vallendar",
-  "country": "germany",
-  "region": "vallendar",
-  "city": "vallendar",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "vallendar",
+  "city": "Vallendar",
+  "citySlug": "vallendar",
+  "path": "/germany/vallendar/vallendar/restaurants",
+  "canonicalPath": "/germany/vallendar/vallendar/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Die Traube",

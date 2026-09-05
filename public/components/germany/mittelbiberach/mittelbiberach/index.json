@@ -1,14 +1,20 @@
 {
   "title": "Mittelbiberach",
-  "country": "germany",
-  "region": "mittelbiberach",
-  "city": "mittelbiberach",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "mittelbiberach",
+  "city": "Mittelbiberach",
+  "citySlug": "mittelbiberach",
+  "path": "/germany/mittelbiberach/mittelbiberach/restaurants",
+  "canonicalPath": "/germany/mittelbiberach/mittelbiberach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Esszimmer",
       "cuisine": "Regional Cuisine, Seasonal Cuisine",
       "price": "€€",
-      "path": "/germany/mittelbiberach/mittelbiberach/esszimmer"
+      "path": "/germany/mittelbiberach/mittelbiberach/esszimmer-m-i-t"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "title": "Esztergom",
-  "country": "hungary",
-  "region": "esztergom",
-  "city": "esztergom",
+  "country": "Hungary",
+  "countrySlug": "hungary",
+  "region": null,
+  "regionSlug": "esztergom",
+  "city": "Esztergom",
+  "citySlug": "esztergom",
+  "path": "/hungary/esztergom/esztergom/restaurants",
+  "canonicalPath": "/hungary/esztergom/esztergom/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "42",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/hungary/esztergom/esztergom/42"
+      "path": "/hungary/esztergom/esztergom/42",
+      "award": "★"
     },
     {
       "name": "Piac 42",
       "cuisine": "Traditional Cuisine",
       "price": "€",
-      "path": "/hungary/esztergom/esztergom/piac-42"
+      "path": "/hungary/esztergom/esztergom/piac42"
     }
   ]
 }

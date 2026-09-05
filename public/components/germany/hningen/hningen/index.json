@@ -1,14 +1,21 @@
 {
   "title": "Hningen",
-  "country": "germany",
-  "region": "hningen",
-  "city": "hningen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hningen",
+  "city": "Hningen",
+  "citySlug": "hningen",
+  "path": "/germany/hningen/hningen/restaurants",
+  "canonicalPath": "/germany/hningen/hningen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Falconera",
       "cuisine": "Classic French, Farm to table",
       "price": "€€€",
-      "path": "/germany/hningen/hningen/falconera"
+      "path": "/germany/hningen/hningen/falconera",
+      "award": "★"
     }
   ]
 }

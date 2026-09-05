@@ -1,14 +1,21 @@
 {
   "title": "Aalborg",
-  "country": "denmark",
-  "region": "aalborg",
-  "city": "aalborg",
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "region": null,
+  "regionSlug": "aalborg",
+  "city": "Aalborg",
+  "citySlug": "aalborg",
+  "path": "/denmark/aalborg/aalborg/restaurants",
+  "canonicalPath": "/denmark/aalborg/aalborg/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Alimentum",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/denmark/aalborg/aalborg/alimentum"
+      "path": "/denmark/aalborg/aalborg/alimentum",
+      "award": "★"
     },
     {
       "name": "Bach & Nurup",

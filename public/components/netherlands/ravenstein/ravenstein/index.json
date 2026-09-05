@@ -1,14 +1,21 @@
 {
   "title": "Ravenstein",
-  "country": "netherlands",
-  "region": "ravenstein",
-  "city": "ravenstein",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "ravenstein",
+  "city": "Ravenstein",
+  "citySlug": "ravenstein",
+  "path": "/netherlands/ravenstein/ravenstein/restaurants",
+  "canonicalPath": "/netherlands/ravenstein/ravenstein/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Versaen",
       "cuisine": "Creative, French Contemporary",
       "price": "€€€",
-      "path": "/netherlands/ravenstein/ravenstein/versaen"
+      "path": "/netherlands/ravenstein/ravenstein/versaen",
+      "award": "★"
     }
   ]
 }

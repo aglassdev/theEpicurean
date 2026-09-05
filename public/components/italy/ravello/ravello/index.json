@@ -1,20 +1,28 @@
 {
   "title": "Ravello",
-  "country": "italy",
-  "region": "ravello",
-  "city": "ravello",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ravello",
+  "city": "Ravello",
+  "citySlug": "ravello",
+  "path": "/italy/ravello/ravello/restaurants",
+  "canonicalPath": "/italy/ravello/ravello/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Il Flauto di Pan",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/italy/ravello/ravello/il-flauto-di-pan"
+      "path": "/italy/ravello/ravello/il-flauto-di-pan",
+      "award": "★"
     },
     {
       "name": "Rossellinis",
       "cuisine": "Mediterranean Cuisine, Contemporary",
       "price": "€€€€",
-      "path": "/italy/ravello/ravello/rossellinis"
+      "path": "/italy/ravello/ravello/rossellinis",
+      "award": "★"
     }
   ]
 }

@@ -1,11 +1,27 @@
 {
   "title": "Perpignan",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "perpignan",
+  "city": "Perpignan",
+  "citySlug": "perpignan",
+  "path": "/france/perpignan/perpignan/restaurants",
+  "canonicalPath": "/france/perpignan/perpignan/restaurants",
+  "count": 9,
   "restaurants": [
     {
       "name": "La Galinette",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/perpignan/perpignan/la-galinette"
+      "path": "/france/perpignan/perpignan/la-galinette",
+      "award": "★"
+    },
+    {
+      "name": "L'Épicentre",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/perpignan/perpignan/lpicentre"
     },
     {
       "name": "La Passerelle",
@@ -14,22 +30,16 @@
       "path": "/france/perpignan/perpignan/la-passerelle"
     },
     {
-      "name": "La Passerelle",
+      "name": "Lazare",
       "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/perpignan/perpignan/la-passerelle"
+      "price": "€€",
+      "path": "/france/perpignan/perpignan/lazare-p-e-r"
     },
     {
       "name": "Lazare Escarguel",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/perpignan/perpignan/lazare-escarguel"
-    },
-    {
-      "name": "Lazare",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/perpignan/perpignan/lazare"
     },
     {
       "name": "Le Divil",
@@ -54,12 +64,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/perpignan/perpignan/manat"
-    },
-    {
-      "name": "L'Épicentre",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/perpignan/perpignan/Lpicentre"
     }
   ]
 }

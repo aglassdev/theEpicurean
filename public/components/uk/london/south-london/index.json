@@ -1,53 +1,62 @@
 {
   "title": "South London",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "South London",
+  "citySlug": "south-london",
+  "path": "/uk/london/south-london/restaurants",
+  "canonicalPath": "/uk/london/south-london/restaurants",
+  "count": 8,
   "restaurants": [
     {
       "name": "Bromley Court Hotel",
       "cuisine": "Afternoon Tea",
       "price": "19.95",
-      "path": "/uk/london/south-london/BromleyCourtHotel"
-    },
-    {
-      "name": "Oval Cricket Ground",
-      "cuisine": "Afternoon Tea",
-      "price": "90.00",
-      "path": "/uk/london/south-london/OvalCricketGround"
-    },
-    {
-      "name": "Old Royal Naval College - Painted Hall Cafe",
-      "cuisine": "Afternoon Tea",
-      "price": "63.00",
-      "path": "/uk/london/south-london/OldRoyalNavalCollegePaintedHallCafe"
-    },
-    {
-      "name": "No3 at Nightingale Place",
-      "cuisine": "Afternoon Tea",
-      "price": "34.50",
-      "path": "/uk/london/south-london/No3AtNightingalePlace"
-    },
-    {
-      "name": "Kew Gardens",
-      "cuisine": "Afternoon Tea",
-      "price": "95.00",
-      "path": "/uk/london/south-london/KewGardens"
-    },
-    {
-      "name": "Cutty Sark",
-      "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/london/south-london/CuttySark"
-    },
-    {
-      "name": "Champagne + Fromage Greenwich",
-      "cuisine": "Afternoon Tea",
-      "price": "24.00",
-      "path": "/uk/london/south-london/ChampagneFromageGreenwich"
+      "path": "/uk/london/south-london/bromley-court-hotel"
     },
     {
       "name": "Champagne + Fromage",
       "cuisine": "Afternoon Tea",
       "price": "27.00",
-      "path": "/uk/london/south-london/ChampagneFromage"
+      "path": "/uk/london/south-london/champagne-fromage"
+    },
+    {
+      "name": "Champagne + Fromage Greenwich",
+      "cuisine": "Afternoon Tea",
+      "price": "24.00",
+      "path": "/uk/london/south-london/champagne-fromage-greenwich"
+    },
+    {
+      "name": "Cutty Sark",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/london/south-london/cutty-sark"
+    },
+    {
+      "name": "Kew Gardens",
+      "cuisine": "Afternoon Tea",
+      "price": "95.00",
+      "path": "/uk/london/south-london/kew-gardens"
+    },
+    {
+      "name": "No3 at Nightingale Place",
+      "cuisine": "Afternoon Tea",
+      "price": "34.50",
+      "path": "/uk/london/south-london/no3-at-nightingale-place"
+    },
+    {
+      "name": "Old Royal Naval College - Painted Hall Cafe",
+      "cuisine": "Afternoon Tea",
+      "price": "63.00",
+      "path": "/uk/london/south-london/old-royal-naval-college-painted-hall-cafe"
+    },
+    {
+      "name": "Oval Cricket Ground",
+      "cuisine": "Afternoon Tea",
+      "price": "90.00",
+      "path": "/uk/london/south-london/oval-cricket-ground"
     }
   ]
 }

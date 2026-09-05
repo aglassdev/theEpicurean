@@ -1,8 +1,14 @@
 {
   "title": "La Turbie",
-  "country": "france",
-  "region": "la-turbie",
-  "city": "la-turbie",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "la-turbie",
+  "city": "La Turbie",
+  "citySlug": "la-turbie",
+  "path": "/france/la-turbie/la-turbie/restaurants",
+  "canonicalPath": "/france/la-turbie/la-turbie/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Café de la Fontaine",

@@ -1,8 +1,14 @@
 {
   "title": "Bernex",
-  "country": "switzerland",
-  "region": "bernex",
-  "city": "bernex",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "bernex",
+  "city": "Bernex",
+  "citySlug": "bernex",
+  "path": "/switzerland/bernex/bernex/restaurants",
+  "canonicalPath": "/switzerland/bernex/bernex/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Curiades",

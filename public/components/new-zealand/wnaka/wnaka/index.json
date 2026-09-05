@@ -1,41 +1,55 @@
 {
-  "title": "Wānaka",
+  "title": "Wnaka",
+  "country": "New Zealand",
+  "countrySlug": "new-zealand",
+  "region": null,
+  "regionSlug": "wnaka",
+  "city": "Wnaka",
+  "citySlug": "wnaka",
+  "path": "/new-zealand/wnaka/wnaka/restaurants",
+  "canonicalPath": "/new-zealand/wnaka/wnaka/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Bombay Palace (Wānaka)",
       "cuisine": "Indian",
       "price": "$$",
-      "path": "/new-zealand/wnaka/wnaka/BombayPalaceWnaka"
+      "path": "/new-zealand/wnaka/wnaka/bombay-palace-wnaka",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Francesca",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/new-zealand/wnaka/wnaka/Francesca"
+      "path": "/new-zealand/wnaka/wnaka/francesca",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Muttonbird",
       "cuisine": "New Zealand",
       "price": "$$",
-      "path": "/new-zealand/wnaka/wnaka/Muttonbird"
+      "path": "/new-zealand/wnaka/wnaka/muttonbird",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Paloma Taqueria",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/new-zealand/wnaka/wnaka/PalomaTaqueria"
+      "path": "/new-zealand/wnaka/wnaka/paloma-taqueria",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Treehouse",
       "cuisine": "New Zealand",
       "price": "$$",
-      "path": "/new-zealand/wnaka/wnaka/Treehouse"
+      "path": "/new-zealand/wnaka/wnaka/treehouse",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Arc",
       "cuisine": "New Zealand",
       "price": "$$",
-      "path": "/new-zealand/wnaka/wnaka/Arc"
+      "path": "/new-zealand/wnaka/wnaka/arc"
     }
   ]
 }

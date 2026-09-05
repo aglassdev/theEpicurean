@@ -1,14 +1,20 @@
 {
   "title": "Vauvenargues",
-  "country": "france",
-  "region": "vauvenargues",
-  "city": "vauvenargues",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vauvenargues",
+  "city": "Vauvenargues",
+  "citySlug": "vauvenargues",
+  "path": "/france/vauvenargues/vauvenargues/restaurants",
+  "canonicalPath": "/france/vauvenargues/vauvenargues/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de l'Hôtel Sainte-Victoire",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/vauvenargues/vauvenargues/la-table-de-lhtel-sainte-victoire"
+      "path": "/france/vauvenargues/vauvenargues/la-table-de-lhtel-saintevictoire"
     }
   ]
 }

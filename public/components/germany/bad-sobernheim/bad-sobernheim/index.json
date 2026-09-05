@@ -1,20 +1,27 @@
 {
   "title": "Bad Sobernheim",
-  "country": "germany",
-  "region": "bad-sobernheim",
-  "city": "bad-sobernheim",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bad-sobernheim",
+  "city": "Bad Sobernheim",
+  "citySlug": "bad-sobernheim",
+  "path": "/germany/bad-sobernheim/bad-sobernheim/restaurants",
+  "canonicalPath": "/germany/bad-sobernheim/bad-sobernheim/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Jungborn",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/bad-sobernheim/bad-sobernheim/jungborn",
+      "award": "★"
+    },
     {
       "name": "Hermannshof",
       "cuisine": "Mediterranean Cuisine, Country cooking",
       "price": "€€",
       "path": "/germany/bad-sobernheim/bad-sobernheim/hermannshof"
-    },
-    {
-      "name": "Jungborn",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€€",
-      "path": "/germany/bad-sobernheim/bad-sobernheim/jungborn"
     }
   ]
 }

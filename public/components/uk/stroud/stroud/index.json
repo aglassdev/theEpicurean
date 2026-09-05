@@ -1,14 +1,20 @@
 {
   "title": "Stroud",
-  "country": "uk",
-  "region": "stroud",
-  "city": "stroud",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "stroud",
+  "city": "Stroud",
+  "citySlug": "stroud",
+  "path": "/uk/stroud/stroud/restaurants",
+  "canonicalPath": "/uk/stroud/stroud/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Juliet",
       "cuisine": "Traditional Cuisine",
       "price": "££",
-      "path": "/uk/stroud/stroud/juliet"
+      "path": "/uk/stroud/stroud/juliet-s-t-r"
     }
   ]
 }

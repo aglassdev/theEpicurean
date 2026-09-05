@@ -1,71 +1,80 @@
 {
   "title": "South Wales",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "Wales",
+  "regionSlug": "wales",
+  "city": "South Wales",
+  "citySlug": "south-wales",
+  "path": "/uk/wales/south-wales/restaurants",
+  "canonicalPath": "/uk/wales/south-wales/restaurants",
+  "count": 11,
   "restaurants": [
     {
-      "name": "Park Plaza Cardiff",
-      "cuisine": "Afternoon Tea",
-      "price": "25.95",
-      "path": "/uk/wales/south-wales/ParkPlazaCardiff"
-    },
-    {
-      "name": "Park House",
-      "cuisine": "Afternoon Tea",
-      "price": "25.00",
-      "path": "/uk/wales/south-wales/ParkHouse"
-    },
-    {
-      "name": "Twr y Felin Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "29.00",
-      "path": "/uk/wales/south-wales/TwrYFelinHotel"
-    },
-    {
-      "name": "Tir a Môr at voco St David's Cardiff",
-      "cuisine": "Afternoon Tea",
-      "price": "32.00",
-      "path": "/uk/wales/south-wales/TirAMrAtVocoStDavidsCardiff"
-    },
-    {
-      "name": "The Ivy Cardiff",
-      "cuisine": "Afternoon Tea",
-      "price": "32.95",
-      "path": "/uk/wales/south-wales/TheIvyCardiff"
-    },
-    {
-      "name": "The Ivy Asia Cardiff",
+      "name": "Coed-y-Mwstwr Hotel",
       "cuisine": "Afternoon Tea",
       "price": "29.95",
-      "path": "/uk/wales/south-wales/TheIvyAsiaCardiff"
-    },
-    {
-      "name": "Henry's Cafe Bar Cardiff",
-      "cuisine": "Afternoon Tea",
-      "price": "15.00",
-      "path": "/uk/wales/south-wales/HenrysCafeBarCardiff"
-    },
-    {
-      "name": "The Great House Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "16.95",
-      "path": "/uk/wales/south-wales/TheGreatHouseHotel"
+      "path": "/uk/wales/south-wales/coedymwstwr-hotel"
     },
     {
       "name": "Graze Restaurant & Bar",
       "cuisine": "Afternoon Tea",
       "price": "35.00",
-      "path": "/uk/wales/south-wales/GrazeRestaurantBar"
+      "path": "/uk/wales/south-wales/graze-restaurant-bar"
     },
     {
-      "name": "Coed-y-Mwstwr Hotel",
+      "name": "Henry's Cafe Bar Cardiff",
       "cuisine": "Afternoon Tea",
-      "price": "29.95",
-      "path": "/uk/wales/south-wales/CoedymwstwrHotel"
+      "price": "15.00",
+      "path": "/uk/wales/south-wales/henrys-cafe-bar-cardiff"
+    },
+    {
+      "name": "Park House",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/uk/wales/south-wales/park-house"
+    },
+    {
+      "name": "Park Plaza Cardiff",
+      "cuisine": "Afternoon Tea",
+      "price": "25.95",
+      "path": "/uk/wales/south-wales/park-plaza-cardiff"
     },
     {
       "name": "The Angel Hotel",
       "cuisine": "Afternoon Tea",
       "price": "48.00",
-      "path": "/uk/wales/south-wales/TheAngelHotel"
+      "path": "/uk/wales/south-wales/the-angel-hotel"
+    },
+    {
+      "name": "The Great House Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "16.95",
+      "path": "/uk/wales/south-wales/the-great-house-hotel"
+    },
+    {
+      "name": "The Ivy Asia Cardiff",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/wales/south-wales/the-ivy-asia-cardiff"
+    },
+    {
+      "name": "The Ivy Cardiff",
+      "cuisine": "Afternoon Tea",
+      "price": "32.95",
+      "path": "/uk/wales/south-wales/the-ivy-cardiff"
+    },
+    {
+      "name": "Tir a Môr at voco St David's Cardiff",
+      "cuisine": "Afternoon Tea",
+      "price": "32.00",
+      "path": "/uk/wales/south-wales/tir-a-mr-at-voco-st-davids-cardiff"
+    },
+    {
+      "name": "Twr y Felin Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "29.00",
+      "path": "/uk/wales/south-wales/twr-y-felin-hotel"
     }
   ]
 }

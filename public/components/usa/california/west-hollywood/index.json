@@ -1,0 +1,52 @@
+{
+  "title": "West Hollywood",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "West Hollywood",
+  "citySlug": "west-hollywood",
+  "path": "/usa/california/west-hollywood/restaurants",
+  "canonicalPath": "/usa/california/west-hollywood/restaurants",
+  "count": 6,
+  "restaurants": [
+    {
+      "name": "Somni",
+      "cuisine": "Contemporary, Spanish",
+      "price": "$$$$",
+      "path": "/usa/california/west-hollywood/somni",
+      "award": "★★★"
+    },
+    {
+      "name": "Sushi Ginza Onodera",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/west-hollywood/sushi-ginza-onodera",
+      "award": "★"
+    },
+    {
+      "name": "Amour",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/usa/california/west-hollywood/amour-w-e-s"
+    },
+    {
+      "name": "Ardor",
+      "cuisine": "Californian, Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/usa/california/west-hollywood/ardor"
+    },
+    {
+      "name": "Connie & Ted’s",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/usa/california/west-hollywood/connie-teds"
+    },
+    {
+      "name": "Stella",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/usa/california/west-hollywood/stella"
+    }
+  ]
+}

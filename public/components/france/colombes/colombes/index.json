@@ -1,8 +1,14 @@
 {
   "title": "Colombes",
-  "country": "france",
-  "region": "colombes",
-  "city": "colombes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "colombes",
+  "city": "Colombes",
+  "citySlug": "colombes",
+  "path": "/france/colombes/colombes/restaurants",
+  "canonicalPath": "/france/colombes/colombes/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bistrot Pas Parisien",

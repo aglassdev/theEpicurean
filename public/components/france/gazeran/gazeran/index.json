@@ -1,8 +1,14 @@
 {
   "title": "Gazeran",
-  "country": "france",
-  "region": "gazeran",
-  "city": "gazeran",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gazeran",
+  "city": "Gazeran",
+  "citySlug": "gazeran",
+  "path": "/france/gazeran/gazeran/restaurants",
+  "canonicalPath": "/france/gazeran/gazeran/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Villa Marinette",

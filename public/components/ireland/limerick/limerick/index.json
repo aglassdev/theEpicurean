@@ -1,8 +1,14 @@
 {
   "title": "Limerick",
-  "country": "ireland",
-  "region": "limerick",
-  "city": "limerick",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "limerick",
+  "city": "Limerick",
+  "citySlug": "limerick",
+  "path": "/ireland/limerick/limerick/restaurants",
+  "canonicalPath": "/ireland/limerick/limerick/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "East Room Restaurant",

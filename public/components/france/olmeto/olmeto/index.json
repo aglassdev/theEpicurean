@@ -1,14 +1,21 @@
 {
   "title": "Olmeto",
-  "country": "france",
-  "region": "olmeto",
-  "city": "olmeto",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "olmeto",
+  "city": "Olmeto",
+  "citySlug": "olmeto",
+  "path": "/france/olmeto/olmeto/restaurants",
+  "canonicalPath": "/france/olmeto/olmeto/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Verrière",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/olmeto/olmeto/la-verrire"
+      "path": "/france/olmeto/olmeto/la-verrire",
+      "award": "★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Lescar",
-  "country": "france",
-  "region": "lescar",
-  "city": "lescar",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lescar",
+  "city": "Lescar",
+  "citySlug": "lescar",
+  "path": "/france/lescar/lescar/restaurants",
+  "canonicalPath": "/france/lescar/lescar/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Arraditz",

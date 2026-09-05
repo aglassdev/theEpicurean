@@ -1,23 +1,34 @@
 {
   "title": "Ohain",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "ohain",
+  "city": "Ohain",
+  "citySlug": "ohain",
+  "path": "/belgium/ohain/ohain/restaurants",
+  "canonicalPath": "/belgium/ohain/ohain/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Auberge de la Roseraie",
-      "cuisine": "French, Traditional Cuisine",
-      "price": "€€€",
-      "path": "/belgium/ohain/ohain/auberge-de-la-roseraie"
-    },
     {
       "name": "La Table Benjamin Laborie",
       "cuisine": "French Contemporary, Creative French",
       "price": "€€€",
-      "path": "/belgium/ohain/ohain/la-table-benjamin-laborie"
+      "path": "/belgium/ohain/ohain/la-table-benjamin-laborie",
+      "award": "★"
     },
     {
       "name": "La Table-Lasne by Alain Bianchin",
       "cuisine": "French",
       "price": "$$$$",
-      "path": "/belgium/ohain/ohain/LaTablelasneByAlainBianchin"
+      "path": "/belgium/ohain/ohain/la-tablelasne-by-alain-bianchin",
+      "award": "★"
+    },
+    {
+      "name": "Auberge de la Roseraie",
+      "cuisine": "French, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/belgium/ohain/ohain/auberge-de-la-roseraie"
     }
   ]
 }

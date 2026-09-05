@@ -1,14 +1,21 @@
 {
   "title": "Erfurt",
-  "country": "germany",
-  "region": "erfurt",
-  "city": "erfurt",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "erfurt",
+  "city": "Erfurt",
+  "citySlug": "erfurt",
+  "path": "/germany/erfurt/erfurt/restaurants",
+  "canonicalPath": "/germany/erfurt/erfurt/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Clara - Restaurant im Kaisersaal",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/erfurt/erfurt/clara-restaurant-im-kaisersaal"
+      "path": "/germany/erfurt/erfurt/clara-restaurant-im-kaisersaal",
+      "award": "★"
     },
     {
       "name": "Das Ballenberger",
@@ -26,7 +33,7 @@
       "name": "Il Cortile",
       "cuisine": "Italian, Mediterranean Cuisine",
       "price": "€€",
-      "path": "/germany/erfurt/erfurt/il-cortile"
+      "path": "/germany/erfurt/erfurt/il-cortile-e-r-f"
     },
     {
       "name": "La Cantina by Catalana",

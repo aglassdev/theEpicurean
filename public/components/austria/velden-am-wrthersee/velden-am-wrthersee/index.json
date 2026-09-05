@@ -1,17 +1,27 @@
 {
-  "title": "Velden Am Wrthersee",
+  "title": "Velden am Wrthersee",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "velden-am-wrthersee",
+  "city": "Velden am Wrthersee",
+  "citySlug": "velden-am-wrthersee",
+  "path": "/austria/velden-am-wrthersee/velden-am-wrthersee/restaurants",
+  "canonicalPath": "/austria/velden-am-wrthersee/velden-am-wrthersee/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Im Garten",
+      "cuisine": "Farm to table",
+      "price": "$$$",
+      "path": "/austria/velden-am-wrthersee/velden-am-wrthersee/im-garten",
+      "award": "Green Star"
+    },
     {
       "name": "Seespitz",
       "cuisine": "Seasonal Cuisine",
       "price": "€€€",
       "path": "/austria/velden-am-wrthersee/velden-am-wrthersee/seespitz"
-    },
-    {
-      "name": "Im Garten",
-      "cuisine": "Farm to table",
-      "price": "$$$",
-      "path": "/austria/velden-am-wrthersee/velden-am-wrthersee/ImGarten"
     }
   ]
 }

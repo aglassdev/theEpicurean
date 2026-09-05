@@ -1,9 +1,29 @@
 {
   "title": "Ulldecona",
-  "country": "spain",
-  "region": "ulldecona",
-  "city": "ulldecona",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "ulldecona",
+  "city": "Ulldecona",
+  "citySlug": "ulldecona",
+  "path": "/spain/ulldecona/ulldecona/restaurants",
+  "canonicalPath": "/spain/ulldecona/ulldecona/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "L'Antic Molí",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/spain/ulldecona/ulldecona/lantic-mol",
+      "award": "★"
+    },
+    {
+      "name": "Les Moles",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€",
+      "path": "/spain/ulldecona/ulldecona/les-moles",
+      "award": "★"
+    },
     {
       "name": "Bistró Amunt",
       "cuisine": "Traditional Cuisine",
@@ -15,18 +35,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/spain/ulldecona/ulldecona/espacio-amunt"
-    },
-    {
-      "name": "L'Antic Molí",
-      "cuisine": "Modern Cuisine, Traditional Cuisine",
-      "price": "€€€",
-      "path": "/spain/ulldecona/ulldecona/lantic-mol"
-    },
-    {
-      "name": "Les Moles",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€",
-      "path": "/spain/ulldecona/ulldecona/les-moles"
     }
   ]
 }

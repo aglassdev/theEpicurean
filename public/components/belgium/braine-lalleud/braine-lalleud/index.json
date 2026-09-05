@@ -1,32 +1,40 @@
 {
   "title": "Braine Lalleud",
-  "country": "belgium",
-  "region": "braine-lalleud",
-  "city": "braine-lalleud",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "braine-lalleud",
+  "city": "Braine Lalleud",
+  "citySlug": "braine-lalleud",
+  "path": "/belgium/braine-lalleud/braine-lalleud/restaurants",
+  "canonicalPath": "/belgium/braine-lalleud/braine-lalleud/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Maison Marit",
       "cuisine": "Classic French",
       "price": "€€€",
-      "path": "/belgium/braine-lalleud/braine-lalleud/maison-marit"
+      "path": "/belgium/braine-lalleud/braine-lalleud/maison-marit",
+      "award": "★"
+    },
+    {
+      "name": "Philippe Meyers",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/belgium/braine-lalleud/braine-lalleud/philippe-meyers",
+      "award": "★"
     },
     {
       "name": "Maïnoï",
       "cuisine": "Thai",
       "price": "€€",
-      "path": "/belgium/braine-lalleud/braine-lalleud/mano"
+      "path": "/belgium/braine-lalleud/braine-lalleud/mano-b-r-a"
     },
     {
       "name": "Max & Moi",
       "cuisine": "Modern Cuisine, French",
       "price": "€€€",
       "path": "/belgium/braine-lalleud/braine-lalleud/max-moi"
-    },
-    {
-      "name": "Philippe Meyers",
-      "cuisine": "Modern French",
-      "price": "€€€",
-      "path": "/belgium/braine-lalleud/braine-lalleud/philippe-meyers"
     },
     {
       "name": "Toit",

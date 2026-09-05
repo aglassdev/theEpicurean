@@ -1,8 +1,14 @@
 {
   "title": "Saludecio",
-  "country": "italy",
-  "region": "saludecio",
-  "city": "saludecio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "saludecio",
+  "city": "Saludecio",
+  "citySlug": "saludecio",
+  "path": "/italy/saludecio/saludecio/restaurants",
+  "canonicalPath": "/italy/saludecio/saludecio/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Locanda Belvedere",

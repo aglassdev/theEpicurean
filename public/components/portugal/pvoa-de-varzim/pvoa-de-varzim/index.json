@@ -1,17 +1,26 @@
 {
-  "title": "Pvoa De Varzim",
+  "title": "Pvoa de Varzim",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "pvoa-de-varzim",
+  "city": "Pvoa de Varzim",
+  "citySlug": "pvoa-de-varzim",
+  "path": "/portugal/pvoa-de-varzim/pvoa-de-varzim/restaurants",
+  "canonicalPath": "/portugal/pvoa-de-varzim/pvoa-de-varzim/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Manjar dos Leitões",
+      "cuisine": "Regional Cuisine",
+      "price": "$$",
+      "path": "/portugal/pvoa-de-varzim/pvoa-de-varzim/manjar-dos-leites"
+    },
     {
       "name": "Marinheiro",
       "cuisine": "Seafood",
       "price": "€€",
       "path": "/portugal/pvoa-de-varzim/pvoa-de-varzim/marinheiro"
-    },
-    {
-      "name": "Manjar dos Leitões",
-      "cuisine": "Regional Cuisine",
-      "price": "$$",
-      "path": "/portugal/pvoa-de-varzim/pvoa-de-varzim/ManjarDosLeites"
     }
   ]
 }

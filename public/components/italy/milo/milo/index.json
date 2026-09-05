@@ -1,8 +1,14 @@
 {
   "title": "Milo",
-  "country": "italy",
-  "region": "milo",
-  "city": "milo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "milo",
+  "city": "Milo",
+  "citySlug": "milo",
+  "path": "/italy/milo/milo/restaurants",
+  "canonicalPath": "/italy/milo/milo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Da Rinuccio",

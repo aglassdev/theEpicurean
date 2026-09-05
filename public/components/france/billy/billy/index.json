@@ -1,14 +1,20 @@
 {
   "title": "Billy",
-  "country": "france",
-  "region": "billy",
-  "city": "billy",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "billy",
+  "city": "Billy",
+  "citySlug": "billy",
+  "path": "/france/billy/billy/restaurants",
+  "canonicalPath": "/france/billy/billy/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge du Pont",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/billy/billy/auberge-du-pont"
+      "path": "/france/billy/billy/auberge-du-pont-b-i-l"
     }
   ]
 }

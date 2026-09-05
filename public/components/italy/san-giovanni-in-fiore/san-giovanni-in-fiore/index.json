@@ -1,14 +1,21 @@
 {
-  "title": "San Giovanni In Fiore",
-  "country": "italy",
-  "region": "san-giovanni-in-fiore",
-  "city": "san-giovanni-in-fiore",
+  "title": "San Giovanni in Fiore",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-giovanni-in-fiore",
+  "city": "San Giovanni in Fiore",
+  "citySlug": "san-giovanni-in-fiore",
+  "path": "/italy/san-giovanni-in-fiore/san-giovanni-in-fiore/restaurants",
+  "canonicalPath": "/italy/san-giovanni-in-fiore/san-giovanni-in-fiore/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Hyle",
       "cuisine": "Modern Cuisine, Calabrian",
       "price": "€€€€",
-      "path": "/italy/san-giovanni-in-fiore/san-giovanni-in-fiore/hyle"
+      "path": "/italy/san-giovanni-in-fiore/san-giovanni-in-fiore/hyle",
+      "award": "★"
     }
   ]
 }

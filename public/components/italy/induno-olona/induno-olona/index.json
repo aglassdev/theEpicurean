@@ -1,14 +1,20 @@
 {
   "title": "Induno Olona",
-  "country": "italy",
-  "region": "induno-olona",
-  "city": "induno-olona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "induno-olona",
+  "city": "Induno Olona",
+  "citySlug": "induno-olona",
+  "path": "/italy/induno-olona/induno-olona/restaurants",
+  "canonicalPath": "/italy/induno-olona/induno-olona/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Olona - Da Venanzio dal 1922",
       "cuisine": "Country cooking",
       "price": "€€€",
-      "path": "/italy/induno-olona/induno-olona/olona-da-venanzio-dal-1922"
+      "path": "/italy/induno-olona/induno-olona/olona-da-venanzio-dal1922"
     }
   ]
 }

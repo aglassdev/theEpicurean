@@ -1,14 +1,21 @@
 {
   "title": "Francorchamps",
-  "country": "belgium",
-  "region": "francorchamps",
-  "city": "francorchamps",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "francorchamps",
+  "city": "Francorchamps",
+  "citySlug": "francorchamps",
+  "path": "/belgium/francorchamps/francorchamps/restaurants",
+  "canonicalPath": "/belgium/francorchamps/francorchamps/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Roannay",
       "cuisine": "Modern French",
       "price": "€€€",
-      "path": "/belgium/francorchamps/francorchamps/le-roannay"
+      "path": "/belgium/francorchamps/francorchamps/le-roannay",
+      "award": "★"
     },
     {
       "name": "Lounge Roannay",

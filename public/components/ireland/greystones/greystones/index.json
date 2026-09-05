@@ -1,8 +1,14 @@
 {
   "title": "Greystones",
-  "country": "ireland",
-  "region": "greystones",
-  "city": "greystones",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "greystones",
+  "city": "Greystones",
+  "citySlug": "greystones",
+  "path": "/ireland/greystones/greystones/restaurants",
+  "canonicalPath": "/ireland/greystones/greystones/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Caladh",

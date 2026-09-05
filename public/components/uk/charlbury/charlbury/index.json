@@ -1,15 +1,15 @@
 {
   "title": "Charlbury",
-  "country": "uk",
-  "region": "charlbury",
-  "city": "charlbury",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "charlbury",
+  "city": "Charlbury",
+  "citySlug": "charlbury",
+  "path": "/uk/charlbury/charlbury/restaurants",
+  "canonicalPath": "/uk/charlbury/charlbury/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "The Bell",
-      "cuisine": "Modern British",
-      "price": "££",
-      "path": "/uk/charlbury/charlbury/the-bell"
-    },
     {
       "name": "The Bell",
       "cuisine": "Modern British",

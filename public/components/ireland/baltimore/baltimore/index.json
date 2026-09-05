@@ -1,20 +1,27 @@
 {
   "title": "Baltimore",
-  "country": "ireland",
-  "region": "baltimore",
-  "city": "baltimore",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "baltimore",
+  "city": "Baltimore",
+  "citySlug": "baltimore",
+  "path": "/ireland/baltimore/baltimore/restaurants",
+  "canonicalPath": "/ireland/baltimore/baltimore/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "dede",
+      "cuisine": "Turkish, Creative",
+      "price": "€€€€",
+      "path": "/ireland/baltimore/baltimore/dede",
+      "award": "★★"
+    },
     {
       "name": "Baba'de",
       "cuisine": "Turkish",
       "price": "€€",
       "path": "/ireland/baltimore/baltimore/babade"
-    },
-    {
-      "name": "dede",
-      "cuisine": "Turkish, Creative",
-      "price": "€€€€",
-      "path": "/ireland/baltimore/baltimore/dede"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Hagondange",
-  "country": "france",
-  "region": "hagondange",
-  "city": "hagondange",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "hagondange",
+  "city": "Hagondange",
+  "citySlug": "hagondange",
+  "path": "/france/hagondange/hagondange/restaurants",
+  "canonicalPath": "/france/hagondange/hagondange/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Quai des Saveurs",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/hagondange/hagondange/quai-des-saveurs"
+      "path": "/france/hagondange/hagondange/quai-des-saveurs",
+      "award": "★"
     }
   ]
 }

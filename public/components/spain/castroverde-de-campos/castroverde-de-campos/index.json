@@ -1,14 +1,21 @@
 {
-  "title": "Castroverde De Campos",
-  "country": "spain",
-  "region": "castroverde-de-campos",
-  "city": "castroverde-de-campos",
+  "title": "Castroverde de Campos",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "castroverde-de-campos",
+  "city": "Castroverde de Campos",
+  "citySlug": "castroverde-de-campos",
+  "path": "/spain/castroverde-de-campos/castroverde-de-campos/restaurants",
+  "canonicalPath": "/spain/castroverde-de-campos/castroverde-de-campos/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lera",
       "cuisine": "Regional Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/castroverde-de-campos/castroverde-de-campos/lera"
+      "path": "/spain/castroverde-de-campos/castroverde-de-campos/lera",
+      "award": "★"
     }
   ]
 }

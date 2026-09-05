@@ -1,20 +1,76 @@
 {
   "title": "Monaco",
-  "country": "france",
-  "region": "monaco",
-  "city": "monaco",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "monaco",
+  "city": "Monaco",
+  "citySlug": "monaco",
+  "path": "/france/monaco/monaco/restaurants",
+  "canonicalPath": "/france/monaco/monaco/restaurants",
+  "count": 16,
   "restaurants": [
     {
-      "name": "Beefbar",
-      "cuisine": "Meats and Grills",
-      "price": "€€€",
-      "path": "/france/monaco/monaco/beefbar"
+      "name": "Le Louis XV - Alain Ducasse à l'Hôtel de Paris",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/monaco/monaco/le-louis-xv-alain-ducasse-lhtel-de-paris",
+      "award": "★★★"
     },
     {
       "name": "Blue Bay Marcel Ravin",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/monaco/monaco/blue-bay-marcel-ravin"
+      "path": "/france/monaco/monaco/blue-bay-marcel-ravin",
+      "award": "★★"
+    },
+    {
+      "name": "L'Abysse Monte-Carlo",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/france/monaco/monaco/labysse-montecarlo",
+      "award": "★★"
+    },
+    {
+      "name": "Les Ambassadeurs by Christophe Cussac",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/monaco/monaco/les-ambassadeurs-by-christophe-cussac",
+      "award": "★★"
+    },
+    {
+      "name": "Elsa",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/monaco/monaco/elsa",
+      "award": "★"
+    },
+    {
+      "name": "La Table d'Antonio Salvatore au Rampoldi",
+      "cuisine": "Italian, Creative",
+      "price": "€€€€",
+      "path": "/france/monaco/monaco/la-table-dantonio-salvatore-au-rampoldi",
+      "award": "★"
+    },
+    {
+      "name": "Le Grill",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/france/monaco/monaco/le-grill",
+      "award": "★"
+    },
+    {
+      "name": "Pavyllon, un restaurant de Yannick Alléno, Monte-Carlo",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/monaco/monaco/pavyllon-un-restaurant-de-yannick-allno-montecarlo",
+      "award": "★"
+    },
+    {
+      "name": "Beefbar",
+      "cuisine": "Meats and Grills",
+      "price": "€€€",
+      "path": "/france/monaco/monaco/beefbar-m-o-n"
     },
     {
       "name": "Café de Paris",
@@ -23,22 +79,10 @@
       "path": "/france/monaco/monaco/caf-de-paris"
     },
     {
-      "name": "Elsa",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/france/monaco/monaco/elsa"
-    },
-    {
       "name": "Em Sherif",
       "cuisine": "Lebanese",
       "price": "€€€€",
       "path": "/france/monaco/monaco/em-sherif"
-    },
-    {
-      "name": "La Table d'Antonio Salvatore au Rampoldi",
-      "cuisine": "Italian, Creative",
-      "price": "€€€€",
-      "path": "/france/monaco/monaco/la-table-dantonio-salvatore-au-rampoldi"
     },
     {
       "name": "La Table d'Élise",
@@ -47,40 +91,10 @@
       "path": "/france/monaco/monaco/la-table-dlise"
     },
     {
-      "name": "L'Abysse Monte-Carlo",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/france/monaco/monaco/labysse-monte-carlo"
-    },
-    {
-      "name": "Le Grill",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/france/monaco/monaco/le-grill"
-    },
-    {
-      "name": "Le Louis XV - Alain Ducasse à l'Hôtel de Paris",
-      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/monaco/monaco/le-louis-xv-alain-ducasse-lhtel-de-paris"
-    },
-    {
-      "name": "Les Ambassadeurs by Christophe Cussac",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/france/monaco/monaco/les-ambassadeurs-by-christophe-cussac"
-    },
-    {
       "name": "Marius",
       "cuisine": "Provençal",
       "price": "€€€",
       "path": "/france/monaco/monaco/marius"
-    },
-    {
-      "name": "Pavyllon, un restaurant de Yannick Alléno, Monte-Carlo",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/monaco/monaco/pavyllon-un-restaurant-de-yannick-allno-monte-carlo"
     },
     {
       "name": "Song Qi",
@@ -98,7 +112,7 @@
       "name": "Zeffirino",
       "cuisine": "Italian",
       "price": "€€€",
-      "path": "/france/monaco/monaco/zeffirino"
+      "path": "/france/monaco/monaco/zeffirino-m-o-n"
     }
   ]
 }

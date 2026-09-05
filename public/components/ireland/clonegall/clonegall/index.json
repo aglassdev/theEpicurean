@@ -1,14 +1,20 @@
 {
   "title": "Clonegall",
-  "country": "ireland",
-  "region": "clonegall",
-  "city": "clonegall",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "clonegall",
+  "city": "Clonegall",
+  "citySlug": "clonegall",
+  "path": "/ireland/clonegall/clonegall/restaurants",
+  "canonicalPath": "/ireland/clonegall/clonegall/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sha-Roe Bistro",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/ireland/clonegall/clonegall/sha-roe-bistro"
+      "path": "/ireland/clonegall/clonegall/sharoe-bistro"
     }
   ]
 }

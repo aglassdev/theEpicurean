@@ -1,269 +1,296 @@
 {
   "title": "New Taipei",
+  "country": "Taiwan",
+  "countrySlug": "taiwan",
+  "region": null,
+  "regionSlug": "new-taipei",
+  "city": "New Taipei",
+  "citySlug": "new-taipei",
+  "path": "/taiwan/new-taipei/new-taipei/restaurants",
+  "canonicalPath": "/taiwan/new-taipei/new-taipei/restaurants",
+  "count": 44,
   "restaurants": [
     {
       "name": "A-ba's Taro Ball",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/AbasTaroBall"
+      "path": "/taiwan/new-taipei/new-taipei/abas-taro-ball",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Abba Hakka",
       "cuisine": "Hakkanese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/AbbaHakka"
+      "path": "/taiwan/new-taipei/new-taipei/abba-hakka",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Bei Ya Duck Thick Soup",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/BeiYaDuckThickSoup"
+      "path": "/taiwan/new-taipei/new-taipei/bei-ya-duck-thick-soup",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Bitan Chiao Tou Goose",
       "cuisine": "Small eats",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/BitanChiaoTouGoose"
+      "path": "/taiwan/new-taipei/new-taipei/bitan-chiao-tou-goose",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Da One Gone Lamb",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/DaOneGoneLamb"
+      "path": "/taiwan/new-taipei/new-taipei/da-one-gone-lamb",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Dian Xiao Er (Datong North Road)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/DianXiaoErDatongNorthRoad"
+      "path": "/taiwan/new-taipei/new-taipei/dian-xiao-er-datong-north-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "GARDEN h",
       "cuisine": "Hakkanese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/GardenH"
+      "path": "/taiwan/new-taipei/new-taipei/garden-h",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Guang Xing Pork Knuckle",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/GuangXingPorkKnuckle"
+      "path": "/taiwan/new-taipei/new-taipei/guang-xing-pork-knuckle",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Jhen Pin",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/JhenPin"
+      "path": "/taiwan/new-taipei/new-taipei/jhen-pin",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Lai Kang Shan",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/LaiKangShan"
+      "path": "/taiwan/new-taipei/new-taipei/lai-kang-shan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "San Chieh Mei Nung Chia Le",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/SanChiehMeiNungChiaLe"
+      "path": "/taiwan/new-taipei/new-taipei/san-chieh-mei-nung-chia-le",
+      "award": "Bib Gourmand"
     },
     {
       "name": "San Tung",
       "cuisine": "Chinese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/SanTung"
+      "path": "/taiwan/new-taipei/new-taipei/san-tung",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Shang Hao",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/ShangHao"
-    },
-    {
-      "name": "Superman",
-      "cuisine": "Small eats",
-      "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/Superman"
+      "path": "/taiwan/new-taipei/new-taipei/shang-hao",
+      "award": "Bib Gourmand"
     },
     {
       "name": "SÒNG JHAO",
       "cuisine": "Taiwanese",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/SngJhao"
+      "path": "/taiwan/new-taipei/new-taipei/sng-jhao",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Superman",
+      "cuisine": "Small eats",
+      "price": "$$",
+      "path": "/taiwan/new-taipei/new-taipei/superman",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tsai Chia Beef Noodles",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/TsaiChiaBeefNoodles"
+      "path": "/taiwan/new-taipei/new-taipei/tsai-chia-beef-noodles",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yeh Chia Pork Ribs Medicinal Herbs Soup",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/YehChiaPorkRibsMedicinalHerbsSoup"
+      "path": "/taiwan/new-taipei/new-taipei/yeh-chia-pork-ribs-medicinal-herbs-soup",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yonghe Chia Hsiang Soy Milk",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/YongheChiaHsiangSoyMilk"
+      "path": "/taiwan/new-taipei/new-taipei/yonghe-chia-hsiang-soy-milk",
+      "award": "Bib Gourmand"
     },
     {
       "name": "A Gan Yi Taro Balls",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/AGanYiTaroBalls"
+      "path": "/taiwan/new-taipei/new-taipei/a-gan-yi-taro-balls"
     },
     {
       "name": "Amajia",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/Amajia"
+      "path": "/taiwan/new-taipei/new-taipei/amajia"
     },
     {
       "name": "Bak Kut Pan",
       "cuisine": "Malaysian",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/BakKutPan"
+      "path": "/taiwan/new-taipei/new-taipei/bak-kut-pan"
     },
     {
       "name": "Chi Yuan",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/ChiYuan"
+      "path": "/taiwan/new-taipei/new-taipei/chi-yuan"
     },
     {
       "name": "Chia I",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/ChiaI"
+      "path": "/taiwan/new-taipei/new-taipei/chia-i"
     },
     {
       "name": "Chin Ta Lu Rou Fan",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/ChinTaLuRouFan"
+      "path": "/taiwan/new-taipei/new-taipei/chin-ta-lu-rou-fan"
     },
     {
       "name": "Chun Yu Garden",
       "cuisine": "Creative",
       "price": "$$$",
-      "path": "/taiwan/new-taipei/new-taipei/ChunYuGarden"
+      "path": "/taiwan/new-taipei/new-taipei/chun-yu-garden"
     },
     {
       "name": "Dark Palace Taiwanese Gourmet",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/DarkPalaceTaiwaneseGourmet"
+      "path": "/taiwan/new-taipei/new-taipei/dark-palace-taiwanese-gourmet"
     },
     {
       "name": "Hai Shan",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/HaiShan"
+      "path": "/taiwan/new-taipei/new-taipei/hai-shan"
     },
     {
       "name": "Happy Garden",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/HappyGarden"
+      "path": "/taiwan/new-taipei/new-taipei/happy-garden"
     },
     {
       "name": "Huí Huí",
       "cuisine": "European Contemporary",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/HuHu"
+      "path": "/taiwan/new-taipei/new-taipei/hu-hu"
     },
     {
       "name": "JIA YEN",
       "cuisine": "Jiangzhe",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/JiaYen"
+      "path": "/taiwan/new-taipei/new-taipei/jia-yen"
     },
     {
       "name": "Joy Vegetarian Restaurant",
       "cuisine": "Vegetarian",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/JoyVegetarianRestaurant"
+      "path": "/taiwan/new-taipei/new-taipei/joy-vegetarian-restaurant"
     },
     {
       "name": "Lao Hsu",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/LaoHsu"
+      "path": "/taiwan/new-taipei/new-taipei/lao-hsu"
     },
     {
       "name": "Le Mei Studio",
       "cuisine": "European",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/LeMeiStudio"
+      "path": "/taiwan/new-taipei/new-taipei/le-mei-studio"
     },
     {
       "name": "Le Yeh",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/LeYeh"
-    },
-    {
-      "name": "NATURAL TEA MANOR",
-      "cuisine": "Taiwanese",
-      "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/NaturalTeaManor"
+      "path": "/taiwan/new-taipei/new-taipei/le-yeh"
     },
     {
       "name": "Na Ka Seafood",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/NaKaSeafood"
+      "path": "/taiwan/new-taipei/new-taipei/na-ka-seafood"
+    },
+    {
+      "name": "NATURAL TEA MANOR",
+      "cuisine": "Taiwanese",
+      "price": "$$",
+      "path": "/taiwan/new-taipei/new-taipei/natural-tea-manor"
     },
     {
       "name": "San Fen Su Chi",
       "cuisine": "Jiangzhe",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/SanFenSuChi"
+      "path": "/taiwan/new-taipei/new-taipei/san-fen-su-chi"
     },
     {
       "name": "Shi Yang",
       "cuisine": "Taiwanese contemporary",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/ShiYang"
+      "path": "/taiwan/new-taipei/new-taipei/shi-yang"
     },
     {
       "name": "Shou Wu",
       "cuisine": "Hakkanese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/ShouWu"
+      "path": "/taiwan/new-taipei/new-taipei/shou-wu"
     },
     {
       "name": "Wonderful Baba Bak Kut Teh King Of King",
       "cuisine": "Malaysian",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/WonderfulBabaBakKutTehKingOfKing"
+      "path": "/taiwan/new-taipei/new-taipei/wonderful-baba-bak-kut-teh-king-of-king"
     },
     {
       "name": "Woogu House",
       "cuisine": "Creative",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/WooguHouse"
+      "path": "/taiwan/new-taipei/new-taipei/woogu-house"
     },
     {
       "name": "Xun Kitchen",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/new-taipei/new-taipei/XunKitchen"
+      "path": "/taiwan/new-taipei/new-taipei/xun-kitchen"
     },
     {
       "name": "Zhang Ji Fish Ball",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/ZhangJiFishBall"
+      "path": "/taiwan/new-taipei/new-taipei/zhang-ji-fish-ball"
     },
     {
       "name": "Zhulin Chicken (Yonghe)",
       "cuisine": "Taiwanese",
       "price": "$",
-      "path": "/taiwan/new-taipei/new-taipei/ZhulinChickenYonghe"
+      "path": "/taiwan/new-taipei/new-taipei/zhulin-chicken-yonghe"
     }
   ]
 }

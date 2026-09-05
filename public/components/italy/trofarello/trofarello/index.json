@@ -1,14 +1,20 @@
 {
   "title": "Trofarello",
-  "country": "italy",
-  "region": "trofarello",
-  "city": "trofarello",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "trofarello",
+  "city": "Trofarello",
+  "citySlug": "trofarello",
+  "path": "/italy/trofarello/trofarello/restaurants",
+  "canonicalPath": "/italy/trofarello/trofarello/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Valle",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/italy/trofarello/trofarello/la-valle"
+      "path": "/italy/trofarello/trofarello/la-valle-t-r-o"
     }
   ]
 }

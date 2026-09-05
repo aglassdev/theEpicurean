@@ -1,11 +1,20 @@
 {
   "title": "La Paz",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "la-paz",
+  "city": "La Paz",
+  "citySlug": "la-paz",
+  "path": "/mexico/la-paz/la-paz/restaurants",
+  "canonicalPath": "/mexico/la-paz/la-paz/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "NEMI",
       "cuisine": "Mexican",
       "price": "$$$$",
-      "path": "/mexico/la-paz/la-paz/Nemi"
+      "path": "/mexico/la-paz/la-paz/nemi"
     }
   ]
 }

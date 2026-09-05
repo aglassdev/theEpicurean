@@ -1,8 +1,14 @@
 {
   "title": "Kingham",
-  "country": "uk",
-  "region": "kingham",
-  "city": "kingham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "kingham",
+  "city": "Kingham",
+  "citySlug": "kingham",
+  "path": "/uk/kingham/kingham/restaurants",
+  "canonicalPath": "/uk/kingham/kingham/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Wild Rabbit",

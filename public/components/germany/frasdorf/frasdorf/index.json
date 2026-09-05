@@ -1,20 +1,28 @@
 {
   "title": "Frasdorf",
-  "country": "germany",
-  "region": "frasdorf",
-  "city": "frasdorf",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "frasdorf",
+  "city": "Frasdorf",
+  "citySlug": "frasdorf",
+  "path": "/germany/frasdorf/frasdorf/restaurants",
+  "canonicalPath": "/germany/frasdorf/frasdorf/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Michaels Leitenberg",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/germany/frasdorf/frasdorf/michaels-leitenberg"
+      "path": "/germany/frasdorf/frasdorf/michaels-leitenberg",
+      "award": "★"
     },
     {
       "name": "Restaurant Karner",
       "cuisine": "Creative, Regional Cuisine",
       "price": "€€€€",
-      "path": "/germany/frasdorf/frasdorf/restaurant-karner"
+      "path": "/germany/frasdorf/frasdorf/restaurant-karner",
+      "award": "★"
     },
     {
       "name": "STUBN in der Frasdorfer Hütte",

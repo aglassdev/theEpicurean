@@ -1,8 +1,14 @@
 {
   "title": "Belley",
-  "country": "france",
-  "region": "belley",
-  "city": "belley",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "belley",
+  "city": "Belley",
+  "citySlug": "belley",
+  "path": "/france/belley/belley/restaurants",
+  "canonicalPath": "/france/belley/belley/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Fine Fourchette",

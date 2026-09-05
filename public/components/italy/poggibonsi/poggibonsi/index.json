@@ -1,8 +1,14 @@
 {
   "title": "Poggibonsi",
-  "country": "italy",
-  "region": "poggibonsi",
-  "city": "poggibonsi",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "poggibonsi",
+  "city": "Poggibonsi",
+  "citySlug": "poggibonsi",
+  "path": "/italy/poggibonsi/poggibonsi/restaurants",
+  "canonicalPath": "/italy/poggibonsi/poggibonsi/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Innocenti Wine Experiences",
@@ -14,7 +20,7 @@
       "name": "Osteria 1126",
       "cuisine": "Tuscan",
       "price": "€",
-      "path": "/italy/poggibonsi/poggibonsi/osteria-1126"
+      "path": "/italy/poggibonsi/poggibonsi/osteria1126"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Goathland",
-  "country": "uk",
-  "region": "goathland",
-  "city": "goathland",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "goathland",
+  "city": "Goathland",
+  "citySlug": "goathland",
+  "path": "/uk/goathland/goathland/restaurants",
+  "canonicalPath": "/uk/goathland/goathland/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Homestead Kitchen",

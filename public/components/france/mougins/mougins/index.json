@@ -1,6 +1,22 @@
 {
   "title": "Mougins",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "mougins",
+  "city": "Mougins",
+  "citySlug": "mougins",
+  "path": "/france/mougins/mougins/restaurants",
+  "canonicalPath": "/france/mougins/mougins/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Moulin de Mougin",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/mougins/mougins/moulin-de-mougin",
+      "award": "World's 50 Best"
+    },
     {
       "name": "Bohème",
       "cuisine": "Modern Cuisine",
@@ -12,12 +28,6 @@
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/france/mougins/mougins/la-place-de-mougins"
-    },
-    {
-      "name": "Moulin de Mougin",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/mougins/mougins/MoulinDeMougin"
     }
   ]
 }

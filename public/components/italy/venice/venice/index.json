@@ -1,6 +1,64 @@
 {
   "title": "Venice",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "venice",
+  "city": "Venice",
+  "citySlug": "venice",
+  "path": "/italy/venice/venice/restaurants",
+  "canonicalPath": "/italy/venice/venice/restaurants",
+  "count": 37,
   "restaurants": [
+    {
+      "name": "Glam Enrico Bartolini",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/venice/venice/glam-enrico-bartolini",
+      "award": "★★"
+    },
+    {
+      "name": "Local",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/italy/venice/venice/local",
+      "award": "★"
+    },
+    {
+      "name": "Oro Restaurant",
+      "cuisine": "Italian Contemporary, Creative",
+      "price": "€€€€",
+      "path": "/italy/venice/venice/oro-restaurant",
+      "award": "★"
+    },
+    {
+      "name": "Palais Royal Restaurant",
+      "cuisine": "Creative, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/italy/venice/venice/palais-royal-restaurant-v-e-n",
+      "award": "★"
+    },
+    {
+      "name": "Quadri",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/venice/venice/quadri",
+      "award": "★"
+    },
+    {
+      "name": "Wistèria",
+      "cuisine": "Venetian, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/venice/venice/wistria",
+      "award": "★"
+    },
+    {
+      "name": "Alle Testiere",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/venice/venice/alle-testiere",
+      "award": "World's 50 Best"
+    },
     {
       "name": "Agli Amici Dopolavoro",
       "cuisine": "Creative, Contemporary",
@@ -32,6 +90,12 @@
       "path": "/italy/venice/venice/alessandro-borghese"
     },
     {
+      "name": "Alessandro Borghese - Il lusso della semplicità",
+      "cuisine": "Venetian",
+      "price": "$$$$",
+      "path": "/italy/venice/venice/alessandro-borghese-il-lusso-della-semplicit"
+    },
+    {
       "name": "Alle Corone",
       "cuisine": "Modern Cuisine, Traditional Cuisine",
       "price": "€€€",
@@ -47,7 +111,7 @@
       "name": "Arva",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€€€",
-      "path": "/italy/venice/venice/arva"
+      "path": "/italy/venice/venice/arva-v-e-n"
     },
     {
       "name": "Bistrot de Venise",
@@ -98,12 +162,6 @@
       "path": "/italy/venice/venice/estro-vino-e-cucina"
     },
     {
-      "name": "Glam Enrico Bartolini",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/venice/venice/glam-enrico-bartolini"
-    },
-    {
       "name": "Hostaria da Franz",
       "cuisine": "Seafood, Modern Cuisine",
       "price": "€€€",
@@ -116,34 +174,22 @@
       "path": "/italy/venice/venice/il-ridotto"
     },
     {
-      "name": "Lineadombra",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/italy/venice/venice/lineadombra"
-    },
-    {
-      "name": "Local",
-      "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/italy/venice/venice/local"
-    },
-    {
       "name": "L'Osteria di Santa Marina",
       "cuisine": "Country cooking, Modern Cuisine",
       "price": "€€€",
       "path": "/italy/venice/venice/losteria-di-santa-marina"
     },
     {
+      "name": "Lineadombra",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/italy/venice/venice/lineadombra"
+    },
+    {
       "name": "LPV Ristorante & Bistrot",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
       "path": "/italy/venice/venice/lpv-ristorante-bistrot"
-    },
-    {
-      "name": "Oro Restaurant",
-      "cuisine": "Italian Contemporary, Creative",
-      "price": "€€€€",
-      "path": "/italy/venice/venice/oro-restaurant"
     },
     {
       "name": "Osteria alle Testiere",
@@ -162,18 +208,6 @@
       "cuisine": "Fusion, Venetian",
       "price": "€€",
       "path": "/italy/venice/venice/osteria-giorgione-da-masa"
-    },
-    {
-      "name": "Palais Royal Restaurant",
-      "cuisine": "Creative, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/italy/venice/venice/palais-royal-restaurant"
-    },
-    {
-      "name": "Quadri",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/venice/venice/quadri"
     },
     {
       "name": "Terrazza Danieli",
@@ -200,28 +234,10 @@
       "path": "/italy/venice/venice/vini-da-gigio"
     },
     {
-      "name": "Wistèria",
-      "cuisine": "Venetian, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/venice/venice/wistria"
-    },
-    {
       "name": "Zanze XVI",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
       "path": "/italy/venice/venice/zanze-xvi"
-    },
-    {
-      "name": "Alessandro Borghese - Il lusso della semplicità",
-      "cuisine": "Venetian",
-      "price": "$$$$",
-      "path": "/italy/venice/venice/AlessandroBorgheseIlLussoDellaSemplicit"
-    },
-    {
-      "name": "Alle Testiere",
-      "cuisine": "",
-      "price": "",
-      "path": "/italy/venice/venice/AlleTestiere"
     }
   ]
 }

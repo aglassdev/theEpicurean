@@ -1,23 +1,35 @@
 {
   "title": "Ouches",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ouches",
+  "city": "Ouches",
+  "citySlug": "ouches",
+  "path": "/france/ouches/ouches/restaurants",
+  "canonicalPath": "/france/ouches/ouches/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Château d'Origny",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/ouches/ouches/chteau-dorigny"
-    },
     {
       "name": "Troisgros - Le Bois sans Feuilles",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/ouches/ouches/troisgros-le-bois-sans-feuilles"
+      "path": "/france/ouches/ouches/troisgros-le-bois-sans-feuilles",
+      "award": "★★★"
+    },
+    {
+      "name": "Château d'Origny",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/ouches/ouches/chteau-dorigny",
+      "award": "★"
     },
     {
       "name": "Troisgros",
       "cuisine": "",
       "price": "",
-      "path": "/france/ouches/ouches/Troisgros"
+      "path": "/france/ouches/ouches/troisgros",
+      "award": "World's 50 Best"
     }
   ]
 }

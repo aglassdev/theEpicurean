@@ -1,8 +1,14 @@
 {
   "title": "Bussum",
-  "country": "netherlands",
-  "region": "bussum",
-  "city": "bussum",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "bussum",
+  "city": "Bussum",
+  "citySlug": "bussum",
+  "path": "/netherlands/bussum/bussum/restaurants",
+  "canonicalPath": "/netherlands/bussum/bussum/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Faulk",
@@ -14,7 +20,7 @@
       "name": "Soigné",
       "cuisine": "Farm to table, Modern Cuisine",
       "price": "€€€",
-      "path": "/netherlands/bussum/bussum/soign"
+      "path": "/netherlands/bussum/bussum/soign-b-u-s"
     }
   ]
 }

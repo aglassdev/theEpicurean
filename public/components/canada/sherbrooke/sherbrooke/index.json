@@ -1,20 +1,20 @@
 {
   "title": "Sherbrooke",
-  "country": "canada",
-  "region": "sherbrooke",
-  "city": "sherbrooke",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "sherbrooke",
+  "city": "Sherbrooke",
+  "citySlug": "sherbrooke",
+  "path": "/canada/sherbrooke/sherbrooke/restaurants",
+  "canonicalPath": "/canada/sherbrooke/sherbrooke/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Vin Polisson",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/canada/sherbrooke/sherbrooke/vin-polisson"
-    },
-    {
-      "name": "Vin Polisson",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/canada/sherbrooke/sherbrooke/vin-polisson"
+      "path": "/canada/sherbrooke/sherbrooke/rvinpolisson"
     }
   ]
 }

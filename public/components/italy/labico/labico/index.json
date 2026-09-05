@@ -1,14 +1,21 @@
 {
   "title": "Labico",
-  "country": "italy",
-  "region": "labico",
-  "city": "labico",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "labico",
+  "city": "Labico",
+  "citySlug": "labico",
+  "path": "/italy/labico/labico/restaurants",
+  "canonicalPath": "/italy/labico/labico/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Antonello Colonna Labico",
       "cuisine": "Italian Contemporary",
       "price": "€€€€",
-      "path": "/italy/labico/labico/antonello-colonna-labico"
+      "path": "/italy/labico/labico/antonello-colonna-labico",
+      "award": "★"
     }
   ]
 }

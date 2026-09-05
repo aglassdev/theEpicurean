@@ -1,9 +1,36 @@
 {
   "title": "Ascona",
-  "country": "switzerland",
-  "region": "ascona",
-  "city": "ascona",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "ascona",
+  "city": "Ascona",
+  "citySlug": "ascona",
+  "path": "/switzerland/ascona/ascona/restaurants",
+  "canonicalPath": "/switzerland/ascona/ascona/restaurants",
+  "count": 8,
   "restaurants": [
+    {
+      "name": "Ecco",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/ascona/ascona/ecco",
+      "award": "★★"
+    },
+    {
+      "name": "La Brezza",
+      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/ascona/ascona/la-brezza",
+      "award": "★★"
+    },
+    {
+      "name": "Locanda Barbarossa",
+      "cuisine": "Mediterranean Cuisine, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/ascona/ascona/locanda-barbarossa",
+      "award": "★"
+    },
     {
       "name": "al lago",
       "cuisine": "Italian Contemporary",
@@ -17,40 +44,16 @@
       "path": "/switzerland/ascona/ascona/asia"
     },
     {
-      "name": "Ecco",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/ascona/ascona/ecco"
-    },
-    {
       "name": "Hide & Seek",
       "cuisine": "International, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/switzerland/ascona/ascona/hide-seek"
-    },
-    {
-      "name": "Hide & Seek",
-      "cuisine": "International, Mediterranean Cuisine",
-      "price": "€€€",
-      "path": "/switzerland/ascona/ascona/hide-seek"
-    },
-    {
-      "name": "La Brezza",
-      "cuisine": "Mediterranean Cuisine, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/ascona/ascona/la-brezza"
-    },
-    {
-      "name": "Locanda Barbarossa",
-      "cuisine": "Mediterranean Cuisine, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/ascona/ascona/locanda-barbarossa"
     },
     {
       "name": "Riva",
       "cuisine": "Seafood",
       "price": "€€€",
-      "path": "/switzerland/ascona/ascona/riva"
+      "path": "/switzerland/ascona/ascona/riva-a-s-c"
     },
     {
       "name": "Seven Toc Toc",

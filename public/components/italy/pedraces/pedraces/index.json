@@ -1,14 +1,20 @@
 {
   "title": "Pedraces",
-  "country": "italy",
-  "region": "pedraces",
-  "city": "pedraces",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pedraces",
+  "city": "Pedraces",
+  "citySlug": "pedraces",
+  "path": "/italy/pedraces/pedraces/restaurants",
+  "canonicalPath": "/italy/pedraces/pedraces/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Maso Runch-Hof",
       "cuisine": "Regional Cuisine, South Tyrolean",
       "price": "€€",
-      "path": "/italy/pedraces/pedraces/maso-runch-hof"
+      "path": "/italy/pedraces/pedraces/maso-runchhof"
     }
   ]
 }

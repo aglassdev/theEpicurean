@@ -1,14 +1,21 @@
 {
   "title": "Borgonovo Val Tidone",
-  "country": "italy",
-  "region": "borgonovo-val-tidone",
-  "city": "borgonovo-val-tidone",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "borgonovo-val-tidone",
+  "city": "Borgonovo Val Tidone",
+  "citySlug": "borgonovo-val-tidone",
+  "path": "/italy/borgonovo-val-tidone/borgonovo-val-tidone/restaurants",
+  "canonicalPath": "/italy/borgonovo-val-tidone/borgonovo-val-tidone/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Palta",
       "cuisine": "Country cooking, Creative",
       "price": "€€€",
-      "path": "/italy/borgonovo-val-tidone/borgonovo-val-tidone/la-palta"
+      "path": "/italy/borgonovo-val-tidone/borgonovo-val-tidone/la-palta",
+      "award": "★"
     },
     {
       "name": "Novo Osteria",

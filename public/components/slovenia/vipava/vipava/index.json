@@ -1,20 +1,27 @@
 {
   "title": "Vipava",
-  "country": "slovenia",
-  "region": "vipava",
-  "city": "vipava",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "vipava",
+  "city": "Vipava",
+  "citySlug": "vipava",
+  "path": "/slovenia/vipava/vipava/restaurants",
+  "canonicalPath": "/slovenia/vipava/vipava/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Gostilna Pri Lojzetu",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/slovenia/vipava/vipava/gostilna-pri-lojzetu",
+      "award": "★"
+    },
     {
       "name": "Gostilna in vinoteka Faladur",
       "cuisine": "Country cooking",
       "price": "€€",
       "path": "/slovenia/vipava/vipava/gostilna-in-vinoteka-faladur"
-    },
-    {
-      "name": "Gostilna Pri Lojzetu",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/slovenia/vipava/vipava/gostilna-pri-lojzetu"
     }
   ]
 }

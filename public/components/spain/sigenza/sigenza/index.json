@@ -1,20 +1,28 @@
 {
   "title": "Sigenza",
-  "country": "spain",
-  "region": "sigenza",
-  "city": "sigenza",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "sigenza",
+  "city": "Sigenza",
+  "citySlug": "sigenza",
+  "path": "/spain/sigenza/sigenza/restaurants",
+  "canonicalPath": "/spain/sigenza/sigenza/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "El Doncel",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/sigenza/sigenza/el-doncel"
+      "path": "/spain/sigenza/sigenza/el-doncel",
+      "award": "★"
     },
     {
       "name": "El Molino de Alcuneza",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/sigenza/sigenza/el-molino-de-alcuneza"
+      "path": "/spain/sigenza/sigenza/el-molino-de-alcuneza",
+      "award": "★"
     }
   ]
 }

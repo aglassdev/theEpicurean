@@ -1,14 +1,21 @@
 {
   "title": "Cabourg",
-  "country": "france",
-  "region": "cabourg",
-  "city": "cabourg",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cabourg",
+  "city": "Cabourg",
+  "citySlug": "cabourg",
+  "path": "/france/cabourg/cabourg/restaurants",
+  "canonicalPath": "/france/cabourg/cabourg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Symbiose",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/cabourg/cabourg/symbiose"
+      "path": "/france/cabourg/cabourg/symbiose",
+      "award": "★"
     }
   ]
 }

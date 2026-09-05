@@ -1,14 +1,21 @@
 {
-  "title": "Quintanilla De Onsimo",
-  "country": "spain",
-  "region": "quintanilla-de-onsimo",
-  "city": "quintanilla-de-onsimo",
+  "title": "Quintanilla de Onsimo",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "quintanilla-de-onsimo",
+  "city": "Quintanilla de Onsimo",
+  "citySlug": "quintanilla-de-onsimo",
+  "path": "/spain/quintanilla-de-onsimo/quintanilla-de-onsimo/restaurants",
+  "canonicalPath": "/spain/quintanilla-de-onsimo/quintanilla-de-onsimo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Taller Arzuaga",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
-      "path": "/spain/quintanilla-de-onsimo/quintanilla-de-onsimo/taller-arzuaga"
+      "path": "/spain/quintanilla-de-onsimo/quintanilla-de-onsimo/taller-arzuaga",
+      "award": "★"
     }
   ]
 }

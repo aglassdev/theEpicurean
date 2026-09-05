@@ -1,8 +1,14 @@
 {
   "title": "Chevreuse",
-  "country": "france",
-  "region": "chevreuse",
-  "city": "chevreuse",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chevreuse",
+  "city": "Chevreuse",
+  "citySlug": "chevreuse",
+  "path": "/france/chevreuse/chevreuse/restaurants",
+  "canonicalPath": "/france/chevreuse/chevreuse/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Clos de Chevreuse",

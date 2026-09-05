@@ -1,20 +1,27 @@
 {
   "title": "Hoofdplaat",
-  "country": "netherlands",
-  "region": "hoofdplaat",
-  "city": "hoofdplaat",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "hoofdplaat",
+  "city": "Hoofdplaat",
+  "citySlug": "hoofdplaat",
+  "path": "/netherlands/hoofdplaat/hoofdplaat/restaurants",
+  "canonicalPath": "/netherlands/hoofdplaat/hoofdplaat/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "De Kromme Watergang",
+      "cuisine": "Country cooking, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/netherlands/hoofdplaat/hoofdplaat/de-kromme-watergang",
+      "award": "★"
+    },
     {
       "name": "De Kromme Bistro",
       "cuisine": "Grills, Meats and Seafood",
       "price": "€€€",
       "path": "/netherlands/hoofdplaat/hoofdplaat/de-kromme-bistro"
-    },
-    {
-      "name": "De Kromme Watergang",
-      "cuisine": "Country cooking, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/netherlands/hoofdplaat/hoofdplaat/de-kromme-watergang"
     }
   ]
 }

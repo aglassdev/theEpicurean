@@ -1,26 +1,33 @@
 {
   "title": "Narbonne",
-  "country": "france",
-  "region": "narbonne",
-  "city": "narbonne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "narbonne",
+  "city": "Narbonne",
+  "citySlug": "narbonne",
+  "path": "/france/narbonne/narbonne/restaurants",
+  "canonicalPath": "/france/narbonne/narbonne/restaurants",
+  "count": 5,
   "restaurants": [
-    {
-      "name": "Cave à Vin & à Manger - Maison Saint-Crescent",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/narbonne/narbonne/cave-vin-manger-maison-saint-crescent"
-    },
     {
       "name": "La Table Lionel Giraud",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/narbonne/narbonne/la-table-lionel-giraud"
+      "path": "/france/narbonne/narbonne/la-table-lionel-giraud",
+      "award": "★★"
+    },
+    {
+      "name": "Cave à Vin & à Manger - Maison Saint-Crescent",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/narbonne/narbonne/cave-vin-manger-maison-saintcrescent"
     },
     {
       "name": "L'Art de Vivre",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/narbonne/narbonne/lart-de-vivre"
+      "path": "/france/narbonne/narbonne/lart-de-vivre-n-a-r"
     },
     {
       "name": "Le Petit Comptoir",

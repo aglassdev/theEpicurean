@@ -1,20 +1,27 @@
 {
   "title": "Angoulme",
-  "country": "france",
-  "region": "angoulme",
-  "city": "angoulme",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "angoulme",
+  "city": "Angoulme",
+  "citySlug": "angoulme",
+  "path": "/france/angoulme/angoulme/restaurants",
+  "canonicalPath": "/france/angoulme/angoulme/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Les Sources de Fontbelle",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/angoulme/angoulme/les-sources-de-fontbelle",
+      "award": "★"
+    },
     {
       "name": "La Bistronomie",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/angoulme/angoulme/la-bistronomie"
-    },
-    {
-      "name": "Les Sources de Fontbelle",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/angoulme/angoulme/les-sources-de-fontbelle"
     }
   ]
 }

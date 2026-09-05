@@ -1,9 +1,29 @@
 {
   "title": "Utrecht",
-  "country": "netherlands",
-  "region": "utrecht",
-  "city": "utrecht",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "utrecht",
+  "city": "Utrecht",
+  "citySlug": "utrecht",
+  "path": "/netherlands/utrecht/utrecht/restaurants",
+  "canonicalPath": "/netherlands/utrecht/utrecht/restaurants",
+  "count": 15,
   "restaurants": [
+    {
+      "name": "Karel 5",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/netherlands/utrecht/utrecht/karel5",
+      "award": "★"
+    },
+    {
+      "name": "Maeve",
+      "cuisine": "Creative French, French Contemporary",
+      "price": "€€€",
+      "path": "/netherlands/utrecht/utrecht/maeve",
+      "award": "★"
+    },
     {
       "name": "Bistro Madeleine",
       "cuisine": "Classic French",
@@ -26,7 +46,7 @@
       "name": "Heimat",
       "cuisine": "Farm to table",
       "price": "€€€",
-      "path": "/netherlands/utrecht/utrecht/heimat"
+      "path": "/netherlands/utrecht/utrecht/heimat-u-t-r"
     },
     {
       "name": "Hemel & Aarde",
@@ -41,28 +61,16 @@
       "path": "/netherlands/utrecht/utrecht/hron"
     },
     {
-      "name": "Karel 5",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/netherlands/utrecht/utrecht/karel-5"
-    },
-    {
       "name": "Le Jardin",
       "cuisine": "Vegetarian, French",
       "price": "€€",
-      "path": "/netherlands/utrecht/utrecht/le-jardin"
-    },
-    {
-      "name": "Maeve",
-      "cuisine": "Creative French, French Contemporary",
-      "price": "€€€",
-      "path": "/netherlands/utrecht/utrecht/maeve"
+      "path": "/netherlands/utrecht/utrecht/le-jardin-u-t-r"
     },
     {
       "name": "Restaurant 273",
       "cuisine": "International",
       "price": "€€€",
-      "path": "/netherlands/utrecht/utrecht/restaurant-273"
+      "path": "/netherlands/utrecht/utrecht/restaurant273"
     },
     {
       "name": "Restaurant Blauw",

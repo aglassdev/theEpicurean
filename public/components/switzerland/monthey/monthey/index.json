@@ -1,8 +1,14 @@
 {
   "title": "Monthey",
-  "country": "switzerland",
-  "region": "monthey",
-  "city": "monthey",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "monthey",
+  "city": "Monthey",
+  "citySlug": "monthey",
+  "path": "/switzerland/monthey/monthey/restaurants",
+  "canonicalPath": "/switzerland/monthey/monthey/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Au Vieux Manoir",

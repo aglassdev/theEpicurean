@@ -1,8 +1,14 @@
 {
   "title": "Jumiges",
-  "country": "france",
-  "region": "jumiges",
-  "city": "jumiges",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "jumiges",
+  "city": "Jumiges",
+  "citySlug": "jumiges",
+  "path": "/france/jumiges/jumiges/restaurants",
+  "canonicalPath": "/france/jumiges/jumiges/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge des Ruines",

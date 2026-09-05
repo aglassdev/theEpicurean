@@ -1,20 +1,27 @@
 {
   "title": "Gevrey Chambertin",
-  "country": "france",
-  "region": "gevrey-chambertin",
-  "city": "gevrey-chambertin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gevrey-chambertin",
+  "city": "Gevrey Chambertin",
+  "citySlug": "gevrey-chambertin",
+  "path": "/france/gevrey-chambertin/gevrey-chambertin/restaurants",
+  "canonicalPath": "/france/gevrey-chambertin/gevrey-chambertin/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "La Table d'Hôtes - La Rôtisserie du Chambertin",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/gevrey-chambertin/gevrey-chambertin/la-table-dhtes-la-rtisserie-du-chambertin",
+      "award": "★"
+    },
     {
       "name": "Bistrot Lucien",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/gevrey-chambertin/gevrey-chambertin/bistrot-lucien"
-    },
-    {
-      "name": "La Table d'Hôtes - La Rôtisserie du Chambertin",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/gevrey-chambertin/gevrey-chambertin/la-table-dhtes-la-rtisserie-du-chambertin"
     }
   ]
 }

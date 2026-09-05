@@ -1,32 +1,41 @@
 {
   "title": "Logrono",
-  "country": "spain",
-  "region": "logrono",
-  "city": "logrono",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "logrono",
+  "city": "Logrono",
+  "citySlug": "logrono",
+  "path": "/spain/logrono/logrono/restaurants",
+  "canonicalPath": "/spain/logrono/logrono/restaurants",
+  "count": 8,
   "restaurants": [
     {
       "name": "Ajonegro",
       "cuisine": "Fusion",
       "price": "€€€",
-      "path": "/spain/logrono/logrono/ajonegro"
+      "path": "/spain/logrono/logrono/ajonegro",
+      "award": "★"
     },
     {
       "name": "Ikaro",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/spain/logrono/logrono/ikaro"
+      "path": "/spain/logrono/logrono/ikaro",
+      "award": "★"
+    },
+    {
+      "name": "Kiro Sushi",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/spain/logrono/logrono/kiro-sushi",
+      "award": "★"
     },
     {
       "name": "Juan Carlos Ferrando",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/logrono/logrono/juan-carlos-ferrando"
-    },
-    {
-      "name": "Kiro Sushi",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/spain/logrono/logrono/kiro-sushi"
     },
     {
       "name": "La Cocina de Ramón",

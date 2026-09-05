@@ -1,161 +1,181 @@
 {
   "title": "Hsinchu County",
+  "country": "Taiwan",
+  "countrySlug": "taiwan",
+  "region": null,
+  "regionSlug": "hsinchu-county",
+  "city": "Hsinchu County",
+  "citySlug": "hsinchu-county",
+  "path": "/taiwan/hsinchu-county/hsinchu-county/restaurants",
+  "canonicalPath": "/taiwan/hsinchu-county/hsinchu-county/restaurants",
+  "count": 26,
   "restaurants": [
     {
       "name": "Sushi An",
       "cuisine": "Sushi",
       "price": "$$$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/SushiAn"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/sushi-an",
+      "award": "★"
     },
     {
       "name": "Ang Gu",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/AngGu"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/ang-gu",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Bebu",
       "cuisine": "Hakkanese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/Bebu"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/bebu",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Hung Chin",
       "cuisine": "Hakkanese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/HungChin"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/hung-chin",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Monsoon",
       "cuisine": "Vegetarian",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/Monsoon"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/monsoon",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Noon Turnip Cake",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/NoonTurnipCake"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/noon-turnip-cake",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Shan Guo Tang",
       "cuisine": "Vegetarian",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/ShanGuoTang"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/shan-guo-tang",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Shou Wu EAT",
       "cuisine": "Hakkanese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/ShouWuEat"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/shou-wu-eat",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tang Tsao Yuan",
       "cuisine": "Noodles",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/TangTsaoYuan"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/tang-tsao-yuan",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tsou Chi Cai Bao (Zhongzheng Road)",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/TsouChiCaiBaoZhongzhengRoad"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/tsou-chi-cai-bao-zhongzheng-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yi Ge Rice Vermicelli",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/YiGeRiceVermicelli"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/yi-ge-rice-vermicelli",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Firoo",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/Firoo"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/firoo"
     },
     {
       "name": "Geng Ye Yue Mei",
       "cuisine": "Hakkanese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/GengYeYueMei"
-    },
-    {
-      "name": "HOYA",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/Hoya"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/geng-ye-yue-mei"
     },
     {
       "name": "Happy Hwa",
       "cuisine": "Small eats",
       "price": "$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/HappyHwa"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/happy-hwa"
     },
     {
       "name": "Home Dishes",
       "cuisine": "Chinese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/HomeDishes"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/home-dishes"
+    },
+    {
+      "name": "HOYA",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/taiwan/hsinchu-county/hsinchu-county/hoya"
     },
     {
       "name": "Ko Chia Pen Se",
       "cuisine": "Hakkanese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/KoChiaPenSe"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/ko-chia-pen-se"
     },
     {
       "name": "Lao Tou Pai",
       "cuisine": "Hakkanese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/LaoTouPai"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/lao-tou-pai"
     },
     {
       "name": "Li Yueh",
       "cuisine": "Japanese",
       "price": "$$$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/LiYueh"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/li-yueh"
     },
     {
       "name": "Mud Brick House",
       "cuisine": "Hakkanese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/MudBrickHouse"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/mud-brick-house"
     },
     {
       "name": "Pho Xŭ",
       "cuisine": "Vietnamese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/PhoX"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/pho-x"
     },
     {
       "name": "Piccola Enoteca",
       "cuisine": "Italian",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/PiccolaEnoteca"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/piccola-enoteca"
     },
     {
       "name": "SABI",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/Sabi"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/sabi"
     },
     {
       "name": "Wan Wan",
       "cuisine": "Taiwanese",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/WanWan"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/wan-wan"
     },
     {
       "name": "ZenA",
       "cuisine": "European Contemporary",
       "price": "$$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/Zena"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/zena"
     },
     {
       "name": "Zhudong Fried Sparerib Noodle (Zhudong)",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/taiwan/hsinchu-county/hsinchu-county/ZhudongFriedSpareribNoodleZhudong"
+      "path": "/taiwan/hsinchu-county/hsinchu-county/zhudong-fried-sparerib-noodle-zhudong"
     }
   ]
 }

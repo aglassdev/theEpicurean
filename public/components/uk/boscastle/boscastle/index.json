@@ -1,5 +1,14 @@
 {
   "title": "Boscastle",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "boscastle",
+  "city": "Boscastle",
+  "citySlug": "boscastle",
+  "path": "/uk/boscastle/boscastle/restaurants",
+  "canonicalPath": "/uk/boscastle/boscastle/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Rocket Store",
@@ -11,7 +20,7 @@
       "name": "The Rocket Store",
       "cuisine": "Seafood",
       "price": "$$$",
-      "path": "/uk/boscastle/boscastle/TheRocketStore"
+      "path": "/uk/boscastle/boscastle/the-rocket-store"
     }
   ]
 }

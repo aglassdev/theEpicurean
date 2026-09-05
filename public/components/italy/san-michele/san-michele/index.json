@@ -1,26 +1,34 @@
 {
   "title": "San Michele",
-  "country": "italy",
-  "region": "san-michele",
-  "city": "san-michele",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-michele",
+  "city": "San Michele",
+  "citySlug": "san-michele",
+  "path": "/italy/san-michele/san-michele/restaurants",
+  "canonicalPath": "/italy/san-michele/san-michele/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Osteria Acquarol",
       "cuisine": "Modern Cuisine, Alpine",
       "price": "€€€",
-      "path": "/italy/san-michele/san-michele/osteria-acquarol"
+      "path": "/italy/san-michele/san-michele/osteria-acquarol",
+      "award": "★"
+    },
+    {
+      "name": "Zur Rose",
+      "cuisine": "Regional Cuisine, Classic Cuisine",
+      "price": "€€€",
+      "path": "/italy/san-michele/san-michele/zur-rose",
+      "award": "★"
     },
     {
       "name": "Osteria Platzegg",
       "cuisine": "Regional Cuisine, Classic Cuisine",
       "price": "€€",
       "path": "/italy/san-michele/san-michele/osteria-platzegg"
-    },
-    {
-      "name": "Zur Rose",
-      "cuisine": "Regional Cuisine, Classic Cuisine",
-      "price": "€€€",
-      "path": "/italy/san-michele/san-michele/zur-rose"
     }
   ]
 }

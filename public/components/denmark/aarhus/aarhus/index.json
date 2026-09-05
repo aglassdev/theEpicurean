@@ -1,9 +1,43 @@
 {
   "title": "Aarhus",
-  "country": "denmark",
-  "region": "aarhus",
-  "city": "aarhus",
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "region": null,
+  "regionSlug": "aarhus",
+  "city": "Aarhus",
+  "citySlug": "aarhus",
+  "path": "/denmark/aarhus/aarhus/restaurants",
+  "canonicalPath": "/denmark/aarhus/aarhus/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Frederikshøj",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/aarhus/aarhus/frederikshj",
+      "award": "★★"
+    },
+    {
+      "name": "Domestic",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/denmark/aarhus/aarhus/domestic",
+      "award": "★"
+    },
+    {
+      "name": "Gastromé",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/denmark/aarhus/aarhus/gastrom",
+      "award": "★"
+    },
+    {
+      "name": "Substans",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/denmark/aarhus/aarhus/substans",
+      "award": "★"
+    },
     {
       "name": "anx",
       "cuisine": "Smørrebrød",
@@ -14,25 +48,7 @@
       "name": "Atelier 33",
       "cuisine": "French",
       "price": "€€",
-      "path": "/denmark/aarhus/aarhus/atelier-33"
-    },
-    {
-      "name": "Domestic",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/denmark/aarhus/aarhus/domestic"
-    },
-    {
-      "name": "Frederikshøj",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/denmark/aarhus/aarhus/frederikshj"
-    },
-    {
-      "name": "Gastromé",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/denmark/aarhus/aarhus/gastrom"
+      "path": "/denmark/aarhus/aarhus/atelier33"
     },
     {
       "name": "Hærværk",
@@ -63,12 +79,6 @@
       "cuisine": "French",
       "price": "€",
       "path": "/denmark/aarhus/aarhus/restaurant-et"
-    },
-    {
-      "name": "Substans",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/denmark/aarhus/aarhus/substans"
     }
   ]
 }

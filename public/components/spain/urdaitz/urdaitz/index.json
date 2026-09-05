@@ -1,20 +1,21 @@
 {
   "title": "Urdaitz",
-  "country": "spain",
-  "region": "urdaitz",
-  "city": "urdaitz",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "urdaitz",
+  "city": "Urdaitz",
+  "citySlug": "urdaitz",
+  "path": "/spain/urdaitz/urdaitz/restaurants",
+  "canonicalPath": "/spain/urdaitz/urdaitz/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Molino de Urdániz",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/spain/urdaitz/urdaitz/molino-de-urdniz"
-    },
-    {
-      "name": "Origen",
-      "cuisine": "Contemporary",
-      "price": "€",
-      "path": "/spain/urdaitz/urdaitz/origen"
+      "path": "/spain/urdaitz/urdaitz/molino-de-urdniz",
+      "award": "★★"
     },
     {
       "name": "Origen",

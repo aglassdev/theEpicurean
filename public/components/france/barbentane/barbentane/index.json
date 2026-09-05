@@ -1,14 +1,21 @@
 {
   "title": "Barbentane",
-  "country": "france",
-  "region": "barbentane",
-  "city": "barbentane",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "barbentane",
+  "city": "Barbentane",
+  "citySlug": "barbentane",
+  "path": "/france/barbentane/barbentane/restaurants",
+  "canonicalPath": "/france/barbentane/barbentane/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ineffable",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/barbentane/barbentane/ineffable"
+      "path": "/france/barbentane/barbentane/ineffable",
+      "award": "★"
     }
   ]
 }

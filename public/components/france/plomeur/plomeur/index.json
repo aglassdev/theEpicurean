@@ -1,14 +1,21 @@
 {
   "title": "Plomeur",
-  "country": "france",
-  "region": "plomeur",
-  "city": "plomeur",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "plomeur",
+  "city": "Plomeur",
+  "citySlug": "plomeur",
+  "path": "/france/plomeur/plomeur/restaurants",
+  "canonicalPath": "/france/plomeur/plomeur/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Nuance",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/plomeur/plomeur/nuance"
+      "path": "/france/plomeur/plomeur/nuance-p-l-o",
+      "award": "★"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Appels",
-  "country": "belgium",
-  "region": "appels",
-  "city": "appels",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "appels",
+  "city": "Appels",
+  "citySlug": "appels",
+  "path": "/belgium/appels/appels/restaurants",
+  "canonicalPath": "/belgium/appels/appels/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Appelsveer",

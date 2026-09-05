@@ -1,14 +1,21 @@
 {
   "title": "Pernand Vergelesses",
-  "country": "france",
-  "region": "pernand-vergelesses",
-  "city": "pernand-vergelesses",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pernand-vergelesses",
+  "city": "Pernand Vergelesses",
+  "citySlug": "pernand-vergelesses",
+  "path": "/france/pernand-vergelesses/pernand-vergelesses/restaurants",
+  "canonicalPath": "/france/pernand-vergelesses/pernand-vergelesses/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Charlemagne",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/pernand-vergelesses/pernand-vergelesses/le-charlemagne"
+      "path": "/france/pernand-vergelesses/pernand-vergelesses/le-charlemagne",
+      "award": "★"
     }
   ]
 }

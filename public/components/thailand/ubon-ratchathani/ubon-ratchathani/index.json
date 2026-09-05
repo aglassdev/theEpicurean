@@ -1,11 +1,20 @@
 {
   "title": "Ubon Ratchathani",
+  "country": "Thailand",
+  "countrySlug": "thailand",
+  "region": null,
+  "regionSlug": "ubon-ratchathani",
+  "city": "Ubon Ratchathani",
+  "citySlug": "ubon-ratchathani",
+  "path": "/thailand/ubon-ratchathani/ubon-ratchathani/restaurants",
+  "canonicalPath": "/thailand/ubon-ratchathani/ubon-ratchathani/restaurants",
+  "count": 14,
   "restaurants": [
     {
       "name": "Agave",
       "cuisine": "Vietnamese",
       "price": "฿฿",
-      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/agave"
+      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/agave-u-b-o"
     },
     {
       "name": "Chomjan",
@@ -24,6 +33,18 @@
       "cuisine": "Vietnamese",
       "price": "฿฿",
       "path": "/thailand/ubon-ratchathani/ubon-ratchathani/indochine"
+    },
+    {
+      "name": "Jae Nueang",
+      "cuisine": "Noodles",
+      "price": "$",
+      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/jae-nueang"
+    },
+    {
+      "name": "Kor Lhai Toh",
+      "cuisine": "Thai",
+      "price": "$$",
+      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/kor-lhai-toh"
     },
     {
       "name": "Krua Samchai",
@@ -59,31 +80,19 @@
       "name": "Santi",
       "cuisine": "Thai-Chinese",
       "price": "฿฿",
-      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/santi"
+      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/santi-u-b-o"
     },
     {
       "name": "Som Tum Jinda",
       "cuisine": "Isan",
       "price": "฿฿",
-      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/som-tum-jinda"
+      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/som-tum-jinda-u-b-o"
     },
     {
       "name": "View Mun",
       "cuisine": "Isan",
       "price": "฿฿",
       "path": "/thailand/ubon-ratchathani/ubon-ratchathani/view-mun"
-    },
-    {
-      "name": "Jae Nueang",
-      "cuisine": "Noodles",
-      "price": "$",
-      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/JaeNueang"
-    },
-    {
-      "name": "Kor Lhai Toh",
-      "cuisine": "Thai",
-      "price": "$$",
-      "path": "/thailand/ubon-ratchathani/ubon-ratchathani/KorLhaiToh"
     }
   ]
 }

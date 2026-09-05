@@ -1,8 +1,14 @@
 {
   "title": "Castre",
-  "country": "france",
-  "region": "castre",
-  "city": "castre",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "castre",
+  "city": "Castre",
+  "citySlug": "castre",
+  "path": "/france/castre/castre/restaurants",
+  "canonicalPath": "/france/castre/castre/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Auberge",

@@ -1,14 +1,21 @@
 {
-  "title": "Charmes Sur Rhne",
-  "country": "france",
-  "region": "charmes-sur-rhne",
-  "city": "charmes-sur-rhne",
+  "title": "Charmes sur Rhne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "charmes-sur-rhne",
+  "city": "Charmes sur Rhne",
+  "citySlug": "charmes-sur-rhne",
+  "path": "/france/charmes-sur-rhne/charmes-sur-rhne/restaurants",
+  "canonicalPath": "/france/charmes-sur-rhne/charmes-sur-rhne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Carré d'Alethius",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/charmes-sur-rhne/charmes-sur-rhne/le-carr-dalethius"
+      "path": "/france/charmes-sur-rhne/charmes-sur-rhne/le-carr-dalethius",
+      "award": "★"
     }
   ]
 }

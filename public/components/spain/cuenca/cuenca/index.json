@@ -1,20 +1,27 @@
 {
   "title": "Cuenca",
-  "country": "spain",
-  "region": "cuenca",
-  "city": "cuenca",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "cuenca",
+  "city": "Cuenca",
+  "citySlug": "cuenca",
+  "path": "/spain/cuenca/cuenca/restaurants",
+  "canonicalPath": "/spain/cuenca/cuenca/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Casas Colgadas Restaurante",
+      "cuisine": "Contemporary",
+      "price": "€€€",
+      "path": "/spain/cuenca/cuenca/casas-colgadas-restaurante",
+      "award": "★"
+    },
     {
       "name": "Casa de La Sirena",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/spain/cuenca/cuenca/casa-de-la-sirena"
-    },
-    {
-      "name": "Casas Colgadas Restaurante",
-      "cuisine": "Contemporary",
-      "price": "€€€",
-      "path": "/spain/cuenca/cuenca/casas-colgadas-restaurante"
     },
     {
       "name": "Olea Comedor",

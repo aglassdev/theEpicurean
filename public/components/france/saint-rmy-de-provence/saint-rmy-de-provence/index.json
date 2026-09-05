@@ -1,26 +1,28 @@
 {
-  "title": "Saint Rmy De Provence",
-  "country": "france",
-  "region": "saint-rmy-de-provence",
-  "city": "saint-rmy-de-provence",
+  "title": "Saint Rmy de Provence",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-rmy-de-provence",
+  "city": "Saint Rmy de Provence",
+  "citySlug": "saint-rmy-de-provence",
+  "path": "/france/saint-rmy-de-provence/saint-rmy-de-provence/restaurants",
+  "canonicalPath": "/france/saint-rmy-de-provence/saint-rmy-de-provence/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "La Table de Tourrel",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/saint-rmy-de-provence/saint-rmy-de-provence/la-table-de-tourrel"
-    },
-    {
-      "name": "La Table de Tourrel",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/saint-rmy-de-provence/saint-rmy-de-provence/la-table-de-tourrel"
-    },
     {
       "name": "L'Auberge de Saint-Rémy - Fanny Rey & Jonathan Wahid",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/saint-rmy-de-provence/saint-rmy-de-provence/lauberge-de-saint-rmy-fanny-rey-jonathan-wahid"
+      "path": "/france/saint-rmy-de-provence/saint-rmy-de-provence/lauberge-de-saintrmy-fanny-rey-jonathan-wahid",
+      "award": "★★"
+    },
+    {
+      "name": "La Table de Tourrel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/saint-rmy-de-provence/saint-rmy-de-provence/la-table-de-tourrel-s-a-i",
+      "award": "★"
     },
     {
       "name": "Le V",

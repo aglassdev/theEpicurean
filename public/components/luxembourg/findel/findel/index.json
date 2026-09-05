@@ -1,14 +1,21 @@
 {
   "title": "Findel",
-  "country": "luxembourg",
-  "region": "findel",
-  "city": "findel",
+  "country": "Luxembourg",
+  "countrySlug": "luxembourg",
+  "region": null,
+  "regionSlug": "findel",
+  "city": "Findel",
+  "citySlug": "findel",
+  "path": "/luxembourg/findel/findel/restaurants",
+  "canonicalPath": "/luxembourg/findel/findel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Fields by René Mathieu",
       "cuisine": "Seasonal Cuisine, Vegetarian",
       "price": "€€€€",
-      "path": "/luxembourg/findel/findel/fields-by-ren-mathieu"
+      "path": "/luxembourg/findel/findel/fields-by-ren-mathieu",
+      "award": "★"
     }
   ]
 }

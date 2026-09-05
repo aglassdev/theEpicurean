@@ -1,11 +1,20 @@
 {
   "title": "Puyloubier",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "puyloubier",
+  "city": "Puyloubier",
+  "citySlug": "puyloubier",
+  "path": "/france/puyloubier/puyloubier/restaurants",
+  "canonicalPath": "/france/puyloubier/puyloubier/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Relais de Saint Ser",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/puyloubier/puyloubier/LeRelaisDeSaintSer"
+      "path": "/france/puyloubier/puyloubier/le-relais-de-saint-ser"
     }
   ]
 }

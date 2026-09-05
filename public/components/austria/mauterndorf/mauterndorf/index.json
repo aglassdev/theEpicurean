@@ -1,14 +1,21 @@
 {
   "title": "Mauterndorf",
-  "country": "austria",
-  "region": "mauterndorf",
-  "city": "mauterndorf",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "mauterndorf",
+  "city": "Mauterndorf",
+  "citySlug": "mauterndorf",
+  "path": "/austria/mauterndorf/mauterndorf/restaurants",
+  "canonicalPath": "/austria/mauterndorf/mauterndorf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mesnerhaus",
       "cuisine": "Seasonal Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/austria/mauterndorf/mauterndorf/mesnerhaus"
+      "path": "/austria/mauterndorf/mauterndorf/mesnerhaus",
+      "award": "★"
     }
   ]
 }

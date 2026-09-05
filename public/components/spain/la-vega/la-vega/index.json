@@ -1,14 +1,20 @@
 {
   "title": "La Vega",
-  "country": "spain",
-  "region": "la-vega",
-  "city": "la-vega",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "la-vega",
+  "city": "La Vega",
+  "citySlug": "la-vega",
+  "path": "/spain/la-vega/la-vega/restaurants",
+  "canonicalPath": "/spain/la-vega/la-vega/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Güeyu-Mar",
       "cuisine": "Grills, Seafood",
       "price": "€€€",
-      "path": "/spain/la-vega/la-vega/geyu-mar"
+      "path": "/spain/la-vega/la-vega/geyumar"
     }
   ]
 }

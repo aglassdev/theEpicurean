@@ -1,11 +1,33 @@
 {
-  "title": "Saint Jean De Luz",
+  "title": "Saint Jean de Luz",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-jean-de-luz",
+  "city": "Saint Jean de Luz",
+  "citySlug": "saint-jean-de-luz",
+  "path": "/france/saint-jean-de-luz/saint-jean-de-luz/restaurants",
+  "canonicalPath": "/france/saint-jean-de-luz/saint-jean-de-luz/restaurants",
+  "count": 10,
   "restaurants": [
+    {
+      "name": "Le Kaïku",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/saint-jean-de-luz/saint-jean-de-luz/le-kaku",
+      "award": "★"
+    },
     {
       "name": "Alcalde",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/saint-jean-de-luz/saint-jean-de-luz/alcalde"
+    },
+    {
+      "name": "Brut, Table de saison",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/saint-jean-de-luz/saint-jean-de-luz/brut-table-de-saison"
     },
     {
       "name": "Erroa",
@@ -26,16 +48,16 @@
       "path": "/france/saint-jean-de-luz/saint-jean-de-luz/instincts"
     },
     {
-      "name": "Le Kaïku",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/saint-jean-de-luz/saint-jean-de-luz/le-kaku"
-    },
-    {
       "name": "L'Essentiel",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€",
-      "path": "/france/saint-jean-de-luz/saint-jean-de-luz/lessentiel"
+      "path": "/france/saint-jean-de-luz/saint-jean-de-luz/lessentiel-s-a-i"
+    },
+    {
+      "name": "Maison Amaé",
+      "cuisine": "Creative",
+      "price": "$$",
+      "path": "/france/saint-jean-de-luz/saint-jean-de-luz/maison-ama"
     },
     {
       "name": "Petit Grill Basque",
@@ -48,18 +70,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/saint-jean-de-luz/saint-jean-de-luz/pluvise"
-    },
-    {
-      "name": "Brut, Table de saison",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/saint-jean-de-luz/saint-jean-de-luz/BrutTableDeSaison"
-    },
-    {
-      "name": "Maison Amaé",
-      "cuisine": "Creative",
-      "price": "$$",
-      "path": "/france/saint-jean-de-luz/saint-jean-de-luz/MaisonAma"
     }
   ]
 }

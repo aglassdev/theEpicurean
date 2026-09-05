@@ -1,8 +1,14 @@
 {
   "title": "Favires",
-  "country": "france",
-  "region": "favires",
-  "city": "favires",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "favires",
+  "city": "Favires",
+  "citySlug": "favires",
+  "path": "/france/favires/favires/restaurants",
+  "canonicalPath": "/france/favires/favires/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Clé des Champs",

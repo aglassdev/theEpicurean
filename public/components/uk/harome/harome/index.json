@@ -1,14 +1,21 @@
 {
   "title": "Harome",
-  "country": "uk",
-  "region": "harome",
-  "city": "harome",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "harome",
+  "city": "Harome",
+  "citySlug": "harome",
+  "path": "/uk/harome/harome/restaurants",
+  "canonicalPath": "/uk/harome/harome/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Star Inn at Harome",
       "cuisine": "Modern British, Regional Cuisine",
       "price": "£££",
-      "path": "/uk/harome/harome/star-inn-at-harome"
+      "path": "/uk/harome/harome/star-inn-at-harome",
+      "award": "★"
     },
     {
       "name": "The Pheasant",

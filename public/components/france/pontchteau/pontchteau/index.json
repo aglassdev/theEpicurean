@@ -1,14 +1,20 @@
 {
   "title": "Pontchteau",
-  "country": "france",
-  "region": "pontchteau",
-  "city": "pontchteau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "pontchteau",
+  "city": "Pontchteau",
+  "citySlug": "pontchteau",
+  "path": "/france/pontchteau/pontchteau/restaurants",
+  "canonicalPath": "/france/pontchteau/pontchteau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le 11 Bistrot Gourmand",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/pontchteau/pontchteau/le-11-bistrot-gourmand"
+      "path": "/france/pontchteau/pontchteau/le11-bistrot-gourmand"
     }
   ]
 }

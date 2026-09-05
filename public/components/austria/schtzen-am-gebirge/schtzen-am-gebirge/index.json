@@ -1,20 +1,27 @@
 {
-  "title": "Schtzen Am Gebirge",
-  "country": "austria",
-  "region": "schtzen-am-gebirge",
-  "city": "schtzen-am-gebirge",
+  "title": "Schtzen am Gebirge",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "schtzen-am-gebirge",
+  "city": "Schtzen am Gebirge",
+  "citySlug": "schtzen-am-gebirge",
+  "path": "/austria/schtzen-am-gebirge/schtzen-am-gebirge/restaurants",
+  "canonicalPath": "/austria/schtzen-am-gebirge/schtzen-am-gebirge/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Taubenkobel",
+      "cuisine": "French Contemporary, Regional Cuisine",
+      "price": "€€€€",
+      "path": "/austria/schtzen-am-gebirge/schtzen-am-gebirge/taubenkobel",
+      "award": "★★"
+    },
     {
       "name": "Greisslerei beim Taubenkobel",
       "cuisine": "Farm to table, Classic French",
       "price": "€€",
       "path": "/austria/schtzen-am-gebirge/schtzen-am-gebirge/greisslerei-beim-taubenkobel"
-    },
-    {
-      "name": "Taubenkobel",
-      "cuisine": "French Contemporary, Regional Cuisine",
-      "price": "€€€€",
-      "path": "/austria/schtzen-am-gebirge/schtzen-am-gebirge/taubenkobel"
     }
   ]
 }

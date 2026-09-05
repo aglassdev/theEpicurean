@@ -1,8 +1,14 @@
 {
   "title": "Muralto",
-  "country": "switzerland",
-  "region": "muralto",
-  "city": "muralto",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "muralto",
+  "city": "Muralto",
+  "citySlug": "muralto",
+  "path": "/switzerland/muralto/muralto/restaurants",
+  "canonicalPath": "/switzerland/muralto/muralto/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Osteria del Centenario",

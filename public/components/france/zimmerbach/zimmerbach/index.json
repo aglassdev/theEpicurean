@@ -1,8 +1,14 @@
 {
   "title": "Zimmerbach",
-  "country": "france",
-  "region": "zimmerbach",
-  "city": "zimmerbach",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "zimmerbach",
+  "city": "Zimmerbach",
+  "citySlug": "zimmerbach",
+  "path": "/france/zimmerbach/zimmerbach/restaurants",
+  "canonicalPath": "/france/zimmerbach/zimmerbach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Raisin d'Or",

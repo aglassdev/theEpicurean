@@ -1,14 +1,21 @@
 {
   "title": "Sankt Wendel",
-  "country": "germany",
-  "region": "sankt-wendel",
-  "city": "sankt-wendel",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "sankt-wendel",
+  "city": "Sankt Wendel",
+  "citySlug": "sankt-wendel",
+  "path": "/germany/sankt-wendel/sankt-wendel/restaurants",
+  "canonicalPath": "/germany/sankt-wendel/sankt-wendel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Kunz",
       "cuisine": "Classic French",
       "price": "€€€",
-      "path": "/germany/sankt-wendel/sankt-wendel/restaurant-kunz"
+      "path": "/germany/sankt-wendel/sankt-wendel/restaurant-kunz",
+      "award": "★"
     }
   ]
 }

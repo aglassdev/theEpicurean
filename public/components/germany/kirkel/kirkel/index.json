@@ -1,8 +1,14 @@
 {
   "title": "Kirkel",
-  "country": "germany",
-  "region": "kirkel",
-  "city": "kirkel",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "kirkel",
+  "city": "Kirkel",
+  "citySlug": "kirkel",
+  "path": "/germany/kirkel/kirkel/restaurants",
+  "canonicalPath": "/germany/kirkel/kirkel/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ressmann's Residence",

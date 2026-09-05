@@ -1,11 +1,20 @@
 {
   "title": "Ellmau",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "ellmau",
+  "city": "Ellmau",
+  "citySlug": "ellmau",
+  "path": "/austria/ellmau/ellmau/restaurants",
+  "canonicalPath": "/austria/ellmau/ellmau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "jezz Alm Resort Ellmau",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/austria/ellmau/ellmau/JezzAlmResortEllmau"
+      "path": "/austria/ellmau/ellmau/jezz-alm-resort-ellmau"
     }
   ]
 }

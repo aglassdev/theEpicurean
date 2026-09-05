@@ -1,14 +1,21 @@
 {
   "title": "Birkweiler",
-  "country": "germany",
-  "region": "birkweiler",
-  "city": "birkweiler",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "birkweiler",
+  "city": "Birkweiler",
+  "citySlug": "birkweiler",
+  "path": "/germany/birkweiler/birkweiler/restaurants",
+  "canonicalPath": "/germany/birkweiler/birkweiler/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "St. Laurentiushof - Schockes Küche",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/germany/birkweiler/birkweiler/st-laurentiushof-schockes-kche"
+      "path": "/germany/birkweiler/birkweiler/st-laurentiushof-schockes-kche",
+      "award": "★"
     }
   ]
 }

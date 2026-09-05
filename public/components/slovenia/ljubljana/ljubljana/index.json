@@ -1,8 +1,14 @@
 {
   "title": "Ljubljana",
-  "country": "slovenia",
-  "region": "ljubljana",
-  "city": "ljubljana",
+  "country": "Slovenia",
+  "countrySlug": "slovenia",
+  "region": null,
+  "regionSlug": "ljubljana",
+  "city": "Ljubljana",
+  "citySlug": "ljubljana",
+  "path": "/slovenia/ljubljana/ljubljana/restaurants",
+  "canonicalPath": "/slovenia/ljubljana/ljubljana/restaurants",
+  "count": 18,
   "restaurants": [
     {
       "name": "AFTR",
@@ -17,16 +23,16 @@
       "path": "/slovenia/ljubljana/ljubljana/altrok"
     },
     {
+      "name": "B-Restaurant",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€",
+      "path": "/slovenia/ljubljana/ljubljana/brestaurant"
+    },
+    {
       "name": "Breg",
       "cuisine": "Contemporary",
       "price": "€€",
       "path": "/slovenia/ljubljana/ljubljana/breg"
-    },
-    {
-      "name": "B-Restaurant",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€",
-      "path": "/slovenia/ljubljana/ljubljana/b-restaurant"
     },
     {
       "name": "Georgie Bistro",
@@ -74,7 +80,7 @@
       "name": "Peti 181",
       "cuisine": "Mediterranean Cuisine, Seafood",
       "price": "€€€",
-      "path": "/slovenia/ljubljana/ljubljana/peti-181"
+      "path": "/slovenia/ljubljana/ljubljana/peti181"
     },
     {
       "name": "Restavracija CUBO",
@@ -105,12 +111,6 @@
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€€",
       "path": "/slovenia/ljubljana/ljubljana/tabar"
-    },
-    {
-      "name": "The Restaurant",
-      "cuisine": "Regional European, Grills",
-      "price": "€€€",
-      "path": "/slovenia/ljubljana/ljubljana/the-restaurant"
     },
     {
       "name": "The Restaurant",

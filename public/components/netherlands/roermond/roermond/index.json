@@ -1,9 +1,22 @@
 {
   "title": "Roermond",
-  "country": "netherlands",
-  "region": "roermond",
-  "city": "roermond",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "roermond",
+  "city": "Roermond",
+  "citySlug": "roermond",
+  "path": "/netherlands/roermond/roermond/restaurants",
+  "canonicalPath": "/netherlands/roermond/roermond/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "ONE",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/netherlands/roermond/roermond/one",
+      "award": "★"
+    },
     {
       "name": "Bistro TWO",
       "cuisine": "Farm to table",
@@ -15,12 +28,6 @@
       "cuisine": "French Contemporary, Asian Influences",
       "price": "€€€",
       "path": "/netherlands/roermond/roermond/damianz"
-    },
-    {
-      "name": "ONE",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/netherlands/roermond/roermond/one"
     },
     {
       "name": "Rura by Naomi & Joey",

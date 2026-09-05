@@ -1,9 +1,29 @@
 {
   "title": "Lige",
-  "country": "belgium",
-  "region": "lige",
-  "city": "lige",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "lige",
+  "city": "Lige",
+  "citySlug": "lige",
+  "path": "/belgium/lige/lige/restaurants",
+  "canonicalPath": "/belgium/lige/lige/restaurants",
+  "count": 12,
   "restaurants": [
+    {
+      "name": "¡Toma!",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/belgium/lige/lige/toma",
+      "award": "★"
+    },
+    {
+      "name": "Héliport Brasserie",
+      "cuisine": "Creative French",
+      "price": "€€€",
+      "path": "/belgium/lige/lige/hliport-brasserie",
+      "award": "★"
+    },
     {
       "name": "Al Piccolo Mondo",
       "cuisine": "Italian",
@@ -27,12 +47,6 @@
       "cuisine": "Italian, Mediterranean Cuisine",
       "price": "€€",
       "path": "/belgium/lige/lige/enoteca"
-    },
-    {
-      "name": "Héliport Brasserie",
-      "cuisine": "Creative French",
-      "price": "€€€",
-      "path": "/belgium/lige/lige/hliport-brasserie"
     },
     {
       "name": "La Cuisine de Yannick",
@@ -62,19 +76,13 @@
       "name": "Riva",
       "cuisine": "French, Belgian",
       "price": "€€€",
-      "path": "/belgium/lige/lige/riva"
+      "path": "/belgium/lige/lige/riva-l-i-g"
     },
     {
       "name": "Sébastian",
       "cuisine": "Farm to table, Creative French",
       "price": "€€",
       "path": "/belgium/lige/lige/sbastian"
-    },
-    {
-      "name": "¡Toma!",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/belgium/lige/lige/toma"
     }
   ]
 }

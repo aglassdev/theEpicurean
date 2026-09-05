@@ -1,14 +1,154 @@
 {
   "title": "Macau",
-  "country": "macau",
-  "region": "other",
-  "city": "macau",
+  "country": "Macau",
+  "countrySlug": "macau",
+  "region": "Other",
+  "regionSlug": "other",
+  "city": "Macau",
+  "citySlug": "macau",
+  "path": "/macau/other/macau/restaurants",
+  "canonicalPath": "/macau/other/macau/restaurants",
+  "count": 61,
   "restaurants": [
+    {
+      "name": "Jade Dragon",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/macau/other/macau/jade-dragon",
+      "award": "★★★"
+    },
+    {
+      "name": "Robuchon au Dôme",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/macau/other/macau/robuchon-au-dme",
+      "award": "★★★"
+    },
+    {
+      "name": "Alain Ducasse at Morpheus",
+      "cuisine": "French Contemporary",
+      "price": "$$$$",
+      "path": "/macau/other/macau/alain-ducasse-at-morpheus",
+      "award": "★★"
+    },
+    {
+      "name": "Chef Tam's Seasons",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/macau/other/macau/chef-tams-seasons",
+      "award": "★★"
+    },
+    {
+      "name": "Feng Wei Ju",
+      "cuisine": "Hunanese, Sichuan",
+      "price": "$$",
+      "path": "/macau/other/macau/feng-wei-ju",
+      "award": "★★"
+    },
+    {
+      "name": "The Eight",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/macau/other/macau/the-eight",
+      "award": "★★"
+    },
+    {
+      "name": "The Huaiyang Garden",
+      "cuisine": "Huaiyang",
+      "price": "$$$",
+      "path": "/macau/other/macau/the-huaiyang-garden",
+      "award": "★★"
+    },
+    {
+      "name": "Wing Lei",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/macau/other/macau/wing-lei",
+      "award": "★★"
+    },
     {
       "name": "8 1/2 Otto e Mezzo - Bombana",
       "cuisine": "Italian",
       "price": "$$$$",
-      "path": "/macau/other/macau/8-12-otto-e-mezzo-bombana"
+      "path": "/macau/other/macau/812-otto-e-mezzo-bombana-m-a-c",
+      "award": "★"
+    },
+    {
+      "name": "Aji",
+      "cuisine": "Innovative",
+      "price": "$$$$",
+      "path": "/macau/other/macau/aji",
+      "award": "★"
+    },
+    {
+      "name": "Five Foot Road",
+      "cuisine": "Sichuan",
+      "price": "$$",
+      "path": "/macau/other/macau/five-foot-road",
+      "award": "★"
+    },
+    {
+      "name": "Lai Heen",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/macau/other/macau/lai-heen",
+      "award": "★"
+    },
+    {
+      "name": "Mizumi",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/macau/other/macau/mizumi",
+      "award": "★"
+    },
+    {
+      "name": "Pearl Dragon",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/macau/other/macau/pearl-dragon",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Kinetsu",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/macau/other/macau/sushi-kinetsu",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Kissho by Miyakawa",
+      "cuisine": "Sushi",
+      "price": "$$$$",
+      "path": "/macau/other/macau/sushi-kissho-by-miyakawa",
+      "award": "★"
+    },
+    {
+      "name": "Ying",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/macau/other/macau/ying",
+      "award": "★"
+    },
+    {
+      "name": "Zi Yat Heen",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/macau/other/macau/zi-yat-heen",
+      "award": "★"
+    },
+    {
+      "name": "Zuicho",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/macau/other/macau/zuicho",
+      "award": "★"
+    },
+    {
+      "name": "O Castiço (Taipa)",
+      "cuisine": "Portuguese",
+      "price": "$$",
+      "path": "/macau/macau/macau/o-castio-taipa",
+      "award": "Bib Gourmand"
     },
     {
       "name": "A Lorcha",
@@ -17,34 +157,16 @@
       "path": "/macau/other/macau/a-lorcha"
     },
     {
-      "name": "Aji",
-      "cuisine": "Innovative",
-      "price": "$$$$",
-      "path": "/macau/other/macau/aji"
-    },
-    {
-      "name": "Alain Ducasse at Morpheus",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/macau/other/macau/alain-ducasse-at-morpheus"
-    },
-    {
       "name": "Albergue 1601",
       "cuisine": "Portuguese",
       "price": "$$",
-      "path": "/macau/other/macau/albergue-1601"
+      "path": "/macau/other/macau/albergue1601"
     },
     {
       "name": "Chan Seng Kei",
       "cuisine": "Cantonese",
       "price": "$$",
       "path": "/macau/other/macau/chan-seng-kei"
-    },
-    {
-      "name": "Chef Tam's Seasons",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/macau/other/macau/chef-tams-seasons"
     },
     {
       "name": "Cheong Kei",
@@ -68,25 +190,13 @@
       "name": "Don Alfonso 1890",
       "cuisine": "Italian",
       "price": "$$$$",
-      "path": "/macau/other/macau/don-alfonso-1890"
+      "path": "/macau/other/macau/don-alfonso1890"
     },
     {
       "name": "Drunken Fish",
       "cuisine": "Seafood",
       "price": "$$$",
       "path": "/macau/other/macau/drunken-fish"
-    },
-    {
-      "name": "Feng Wei Ju",
-      "cuisine": "Hunanese, Sichuan",
-      "price": "$$",
-      "path": "/macau/other/macau/feng-wei-ju"
-    },
-    {
-      "name": "Five Foot Road",
-      "cuisine": "Sichuan",
-      "price": "$$",
-      "path": "/macau/other/macau/five-foot-road"
     },
     {
       "name": "Fong Kei",
@@ -99,12 +209,6 @@
       "cuisine": "Cantonese",
       "price": "$$",
       "path": "/macau/other/macau/imperial-court"
-    },
-    {
-      "name": "Jade Dragon",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/macau/other/macau/jade-dragon"
     },
     {
       "name": "Justindia",
@@ -123,12 +227,6 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/macau/other/macau/kika"
-    },
-    {
-      "name": "Lai Heen",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/macau/other/macau/lai-heen"
     },
     {
       "name": "Lakeview Palace",
@@ -170,19 +268,19 @@
       "name": "Mesa",
       "cuisine": "Portuguese, Contemporary",
       "price": "$$$",
-      "path": "/macau/other/macau/mesa"
-    },
-    {
-      "name": "Mizumi",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/macau/other/macau/mizumi"
+      "path": "/macau/other/macau/mesa-m-a-c"
     },
     {
       "name": "Mok Yee Kei",
       "cuisine": "Street Food",
       "price": "$",
       "path": "/macau/other/macau/mok-yee-kei"
+    },
+    {
+      "name": "Ngao Kei Ka Lei Chon (1 Rua de Cinco de Outubro)",
+      "cuisine": "Noodles and Congee",
+      "price": "$",
+      "path": "/macau/macau/macau/ngao-kei-ka-lei-chon1-rua-de-cinco-de-outubro"
     },
     {
       "name": "Ngao Kei Ka Lei Chon (Macau)",
@@ -209,12 +307,6 @@
       "path": "/macau/other/macau/palace-garden"
     },
     {
-      "name": "Pearl Dragon",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/macau/other/macau/pearl-dragon"
-    },
-    {
       "name": "Pin Yue Xuan",
       "cuisine": "Cantonese",
       "price": "$$$",
@@ -233,12 +325,6 @@
       "path": "/macau/other/macau/restaurant-litoral-taipa"
     },
     {
-      "name": "Robuchon au Dôme",
-      "cuisine": "French Contemporary",
-      "price": "$$$$",
-      "path": "/macau/other/macau/robuchon-au-dme"
-    },
-    {
       "name": "Saffron",
       "cuisine": "Thai",
       "price": "$$",
@@ -251,34 +337,10 @@
       "path": "/macau/other/macau/son-tak-kong"
     },
     {
-      "name": "Sushi Kinetsu",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/macau/other/macau/sushi-kinetsu"
-    },
-    {
-      "name": "Sushi Kissho by Miyakawa",
-      "cuisine": "Sushi",
-      "price": "$$$$",
-      "path": "/macau/other/macau/sushi-kissho-by-miyakawa"
-    },
-    {
       "name": "SW Steakhouse",
       "cuisine": "Steakhouse",
       "price": "$$$",
       "path": "/macau/other/macau/sw-steakhouse"
-    },
-    {
-      "name": "The Eight",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/macau/other/macau/the-eight"
-    },
-    {
-      "name": "The Huaiyang Garden",
-      "cuisine": "Huaiyang",
-      "price": "$$$",
-      "path": "/macau/other/macau/the-huaiyang-garden"
     },
     {
       "name": "The Kitchen",
@@ -296,7 +358,7 @@
       "name": "The Ritz-Carlton Café",
       "cuisine": "French",
       "price": "$$",
-      "path": "/macau/other/macau/the-ritz-carlton-caf"
+      "path": "/macau/other/macau/the-ritzcarlton-caf"
     },
     {
       "name": "Twelve25",
@@ -323,12 +385,6 @@
       "path": "/macau/other/macau/ving-kei-macau"
     },
     {
-      "name": "Wing Lei",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/macau/other/macau/wing-lei"
-    },
-    {
       "name": "Yi",
       "cuisine": "Chinese Contemporary",
       "price": "$$$$",
@@ -339,24 +395,6 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/macau/other/macau/yi-shun-macau"
-    },
-    {
-      "name": "Ying",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/macau/other/macau/ying"
-    },
-    {
-      "name": "Zi Yat Heen",
-      "cuisine": "Cantonese",
-      "price": "$$$",
-      "path": "/macau/other/macau/zi-yat-heen"
-    },
-    {
-      "name": "Zuicho",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/macau/other/macau/zuicho"
     }
   ]
 }

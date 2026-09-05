@@ -1,8 +1,14 @@
 {
   "title": "Parnac",
-  "country": "france",
-  "region": "parnac",
-  "city": "parnac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "parnac",
+  "city": "Parnac",
+  "citySlug": "parnac",
+  "path": "/france/parnac/parnac/restaurants",
+  "canonicalPath": "/france/parnac/parnac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Jardins",

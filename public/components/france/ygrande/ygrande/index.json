@@ -1,8 +1,14 @@
 {
   "title": "Ygrande",
-  "country": "france",
-  "region": "ygrande",
-  "city": "ygrande",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ygrande",
+  "city": "Ygrande",
+  "citySlug": "ygrande",
+  "path": "/france/ygrande/ygrande/restaurants",
+  "canonicalPath": "/france/ygrande/ygrande/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L & Luy - Château d'Ygrande",

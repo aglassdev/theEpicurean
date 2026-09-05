@@ -1,0 +1,27 @@
+{
+  "title": "Calistoga",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Calistoga",
+  "citySlug": "calistoga",
+  "path": "/usa/other/calistoga/restaurants",
+  "canonicalPath": "/usa/california/calistoga/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Auro",
+      "cuisine": "Contemporary, French",
+      "price": "$$$$",
+      "path": "/usa/california/calistoga/auro",
+      "award": "★"
+    },
+    {
+      "name": "Solbar",
+      "cuisine": "Californian",
+      "price": "$$$",
+      "path": "/usa/california/calistoga/solbar"
+    }
+  ]
+}

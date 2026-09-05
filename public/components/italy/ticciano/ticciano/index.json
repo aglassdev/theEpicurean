@@ -1,14 +1,21 @@
 {
   "title": "Ticciano",
-  "country": "italy",
-  "region": "ticciano",
-  "city": "ticciano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ticciano",
+  "city": "Ticciano",
+  "citySlug": "ticciano",
+  "path": "/italy/ticciano/ticciano/restaurants",
+  "canonicalPath": "/italy/ticciano/ticciano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cannavacciuolo Countryside",
       "cuisine": "Mediterranean Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/italy/ticciano/ticciano/cannavacciuolo-countryside"
+      "path": "/italy/ticciano/ticciano/cannavacciuolo-countryside",
+      "award": "★"
     }
   ]
 }

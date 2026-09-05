@@ -1,20 +1,28 @@
 {
   "title": "Peralada",
-  "country": "spain",
-  "region": "peralada",
-  "city": "peralada",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "peralada",
+  "city": "Peralada",
+  "citySlug": "peralada",
+  "path": "/spain/peralada/peralada/restaurants",
+  "canonicalPath": "/spain/peralada/peralada/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Castell Peralada",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/peralada/peralada/castell-peralada"
+      "path": "/spain/peralada/peralada/castell-peralada",
+      "award": "★"
     },
     {
       "name": "Castell Perelada",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/spain/peralada/peralada/castell-perelada"
+      "path": "/spain/peralada/peralada/castell-perelada",
+      "award": "★"
     }
   ]
 }

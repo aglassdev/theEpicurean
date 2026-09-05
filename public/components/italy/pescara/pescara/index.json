@@ -1,8 +1,14 @@
 {
   "title": "Pescara",
-  "country": "italy",
-  "region": "pescara",
-  "city": "pescara",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "pescara",
+  "city": "Pescara",
+  "citySlug": "pescara",
+  "path": "/italy/pescara/pescara/restaurants",
+  "canonicalPath": "/italy/pescara/pescara/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Café Les Paillotes",
@@ -32,7 +38,7 @@
       "name": "Taverna 58",
       "cuisine": "Cuisine from Abruzzo, Traditional Cuisine",
       "price": "€",
-      "path": "/italy/pescara/pescara/taverna-58"
+      "path": "/italy/pescara/pescara/taverna58"
     }
   ]
 }

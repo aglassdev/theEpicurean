@@ -1,8 +1,14 @@
 {
   "title": "Briant",
-  "country": "france",
-  "region": "briant",
-  "city": "briant",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "briant",
+  "city": "Briant",
+  "citySlug": "briant",
+  "path": "/france/briant/briant/restaurants",
+  "canonicalPath": "/france/briant/briant/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de Briant",

@@ -1,14 +1,21 @@
 {
   "title": "Uhingen",
-  "country": "germany",
-  "region": "uhingen",
-  "city": "uhingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "uhingen",
+  "city": "Uhingen",
+  "citySlug": "uhingen",
+  "path": "/germany/uhingen/uhingen/restaurants",
+  "canonicalPath": "/germany/uhingen/uhingen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant auf Schloss Filseck",
       "cuisine": "Mediterranean Cuisine, Farm to table",
       "price": "€€€€",
-      "path": "/germany/uhingen/uhingen/restaurant-auf-schloss-filseck"
+      "path": "/germany/uhingen/uhingen/restaurant-auf-schloss-filseck",
+      "award": "★"
     }
   ]
 }

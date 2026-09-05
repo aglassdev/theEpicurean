@@ -1,11 +1,20 @@
 {
   "title": "Schellenberg",
+  "country": "Liechtenstein",
+  "countrySlug": "liechtenstein",
+  "region": null,
+  "regionSlug": "schellenberg",
+  "city": "Schellenberg",
+  "citySlug": "schellenberg",
+  "path": "/liechtenstein/schellenberg/schellenberg/restaurants",
+  "canonicalPath": "/liechtenstein/schellenberg/schellenberg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Weinlaube",
       "cuisine": "Classic Cuisine",
       "price": "$$$",
-      "path": "/liechtenstein/schellenberg/schellenberg/Weinlaube"
+      "path": "/liechtenstein/schellenberg/schellenberg/weinlaube"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Lleida",
-  "country": "spain",
-  "region": "lleida",
-  "city": "lleida",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "lleida",
+  "city": "Lleida",
+  "citySlug": "lleida",
+  "path": "/spain/lleida/lleida/restaurants",
+  "canonicalPath": "/spain/lleida/lleida/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Aimia",

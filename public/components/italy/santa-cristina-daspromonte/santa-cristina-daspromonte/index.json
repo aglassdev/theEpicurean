@@ -1,14 +1,21 @@
 {
   "title": "Santa Cristina Daspromonte",
-  "country": "italy",
-  "region": "santa-cristina-daspromonte",
-  "city": "santa-cristina-daspromonte",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "santa-cristina-daspromonte",
+  "city": "Santa Cristina Daspromonte",
+  "citySlug": "santa-cristina-daspromonte",
+  "path": "/italy/santa-cristina-daspromonte/santa-cristina-daspromonte/restaurants",
+  "canonicalPath": "/italy/santa-cristina-daspromonte/santa-cristina-daspromonte/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Qafiz",
       "cuisine": "Creative, Calabrian",
       "price": "€€€€",
-      "path": "/italy/santa-cristina-daspromonte/santa-cristina-daspromonte/qafiz"
+      "path": "/italy/santa-cristina-daspromonte/santa-cristina-daspromonte/qafiz",
+      "award": "★"
     }
   ]
 }

@@ -1,9 +1,29 @@
 {
   "title": "Cortina Dampezzo",
-  "country": "italy",
-  "region": "cortina-dampezzo",
-  "city": "cortina-dampezzo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cortina-dampezzo",
+  "city": "Cortina Dampezzo",
+  "citySlug": "cortina-dampezzo",
+  "path": "/italy/cortina-dampezzo/cortina-dampezzo/restaurants",
+  "canonicalPath": "/italy/cortina-dampezzo/cortina-dampezzo/restaurants",
+  "count": 8,
   "restaurants": [
+    {
+      "name": "SanBrite",
+      "cuisine": "Alpine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/italy/cortina-dampezzo/cortina-dampezzo/sanbrite",
+      "award": "★"
+    },
+    {
+      "name": "Tivoli",
+      "cuisine": "Modern Cuisine, Italian",
+      "price": "€€€€",
+      "path": "/italy/cortina-dampezzo/cortina-dampezzo/tivoli",
+      "award": "★"
+    },
     {
       "name": "Al Camin",
       "cuisine": "Country cooking, Modern Cuisine",
@@ -39,18 +59,6 @@
       "cuisine": "Regional Cuisine",
       "price": "€€",
       "path": "/italy/cortina-dampezzo/cortina-dampezzo/ristorante-de-len"
-    },
-    {
-      "name": "SanBrite",
-      "cuisine": "Alpine, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/italy/cortina-dampezzo/cortina-dampezzo/sanbrite"
-    },
-    {
-      "name": "Tivoli",
-      "cuisine": "Modern Cuisine, Italian",
-      "price": "€€€€",
-      "path": "/italy/cortina-dampezzo/cortina-dampezzo/tivoli"
     }
   ]
 }

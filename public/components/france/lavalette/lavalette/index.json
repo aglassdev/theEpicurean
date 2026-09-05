@@ -1,14 +1,21 @@
 {
   "title": "Lavalette",
-  "country": "france",
-  "region": "lavalette",
-  "city": "lavalette",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lavalette",
+  "city": "Lavalette",
+  "citySlug": "lavalette",
+  "path": "/france/lavalette/lavalette/restaurants",
+  "canonicalPath": "/france/lavalette/lavalette/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de la Forge",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/lavalette/lavalette/auberge-de-la-forge"
+      "path": "/france/lavalette/lavalette/auberge-de-la-forge",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Gujan Mestras",
-  "country": "france",
-  "region": "gujan-mestras",
-  "city": "gujan-mestras",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gujan-mestras",
+  "city": "Gujan Mestras",
+  "citySlug": "gujan-mestras",
+  "path": "/france/gujan-mestras/gujan-mestras/restaurants",
+  "canonicalPath": "/france/gujan-mestras/gujan-mestras/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bistro' 50",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/gujan-mestras/gujan-mestras/bistro-50"
+      "path": "/france/gujan-mestras/gujan-mestras/bistro50"
     }
   ]
 }

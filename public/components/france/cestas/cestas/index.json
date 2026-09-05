@@ -1,11 +1,20 @@
 {
   "title": "Cestas",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cestas",
+  "city": "Cestas",
+  "citySlug": "cestas",
+  "path": "/france/cestas/cestas/restaurants",
+  "canonicalPath": "/france/cestas/cestas/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chez GN",
       "cuisine": "Creative",
       "price": "$$",
-      "path": "/france/cestas/cestas/ChezGn"
+      "path": "/france/cestas/cestas/chez-gn"
     }
   ]
 }

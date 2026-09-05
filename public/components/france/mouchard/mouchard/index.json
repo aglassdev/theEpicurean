@@ -1,8 +1,14 @@
 {
   "title": "Mouchard",
-  "country": "france",
-  "region": "mouchard",
-  "city": "mouchard",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "mouchard",
+  "city": "Mouchard",
+  "citySlug": "mouchard",
+  "path": "/france/mouchard/mouchard/restaurants",
+  "canonicalPath": "/france/mouchard/mouchard/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Comptoir Kokagué",

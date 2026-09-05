@@ -1,9 +1,22 @@
 {
   "title": "Senigallia",
-  "country": "italy",
-  "region": "senigallia",
-  "city": "senigallia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "senigallia",
+  "city": "Senigallia",
+  "citySlug": "senigallia",
+  "path": "/italy/senigallia/senigallia/restaurants",
+  "canonicalPath": "/italy/senigallia/senigallia/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Uliassi",
+      "cuisine": "Creative, Seafood",
+      "price": "€€€€",
+      "path": "/italy/senigallia/senigallia/uliassi",
+      "award": "★★★"
+    },
     {
       "name": "Cuoco di Bordo",
       "cuisine": "Seafood, Classic Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Modern Cuisine, International",
       "price": "€€",
       "path": "/italy/senigallia/senigallia/nana-piccolo-bistr"
-    },
-    {
-      "name": "Uliassi",
-      "cuisine": "Creative, Seafood",
-      "price": "€€€€",
-      "path": "/italy/senigallia/senigallia/uliassi"
     }
   ]
 }

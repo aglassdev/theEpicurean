@@ -1,8 +1,14 @@
 {
   "title": "Crolles",
-  "country": "france",
-  "region": "crolles",
-  "city": "crolles",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "crolles",
+  "city": "Crolles",
+  "citySlug": "crolles",
+  "path": "/france/crolles/crolles/restaurants",
+  "canonicalPath": "/france/crolles/crolles/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Maison Haute",

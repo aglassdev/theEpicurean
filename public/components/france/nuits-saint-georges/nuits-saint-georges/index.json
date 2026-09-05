@@ -1,11 +1,20 @@
 {
-  "title": "Nuits-Saint-Georges",
+  "title": "Nuits Saint Georges",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "nuits-saint-georges",
+  "city": "Nuits Saint Georges",
+  "citySlug": "nuits-saint-georges",
+  "path": "/france/nuits-saint-georges/nuits-saint-georges/restaurants",
+  "canonicalPath": "/france/nuits-saint-georges/nuits-saint-georges/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bourgeon",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/nuits-saint-georges/nuits-saint-georges/Bourgeon"
+      "path": "/france/nuits-saint-georges/nuits-saint-georges/bourgeon"
     }
   ]
 }

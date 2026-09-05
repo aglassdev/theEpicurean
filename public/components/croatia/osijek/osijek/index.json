@@ -1,17 +1,27 @@
 {
   "title": "Osijek",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "osijek",
+  "city": "Osijek",
+  "citySlug": "osijek",
+  "path": "/croatia/osijek/osijek/restaurants",
+  "canonicalPath": "/croatia/osijek/osijek/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Lulu Fusion Bistro",
+      "cuisine": "Contemporary",
+      "price": "$",
+      "path": "/croatia/osijek/osijek/lulu-fusion-bistro",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Waldinger",
       "cuisine": "Regional Cuisine",
       "price": "€€",
       "path": "/croatia/osijek/osijek/waldinger"
-    },
-    {
-      "name": "Lulu Fusion Bistro",
-      "cuisine": "Contemporary",
-      "price": "$",
-      "path": "/croatia/osijek/osijek/LuluFusionBistro"
     }
   ]
 }

@@ -1,6 +1,21 @@
 {
   "title": "San Quirico Dorcia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-quirico-dorcia",
+  "city": "San Quirico Dorcia",
+  "citySlug": "san-quirico-dorcia",
+  "path": "/italy/san-quirico-dorcia/san-quirico-dorcia/restaurants",
+  "canonicalPath": "/italy/san-quirico-dorcia/san-quirico-dorcia/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Da Ciacco",
+      "cuisine": "Tuscan",
+      "price": "$$",
+      "path": "/italy/san-quirico-dorcia/san-quirico-dorcia/da-ciacco"
+    },
     {
       "name": "Taverna da Ciacco",
       "cuisine": "Tuscan, Traditional Cuisine",
@@ -12,12 +27,6 @@
       "cuisine": "Tuscan, Traditional Cuisine",
       "price": "€€",
       "path": "/italy/san-quirico-dorcia/san-quirico-dorcia/trattoria-toscana-al-vecchio-forno"
-    },
-    {
-      "name": "Da Ciacco",
-      "cuisine": "Tuscan",
-      "price": "$$",
-      "path": "/italy/san-quirico-dorcia/san-quirico-dorcia/DaCiacco"
     }
   ]
 }

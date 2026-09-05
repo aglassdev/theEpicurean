@@ -1,8 +1,14 @@
 {
   "title": "Esparron",
-  "country": "france",
-  "region": "esparron",
-  "city": "esparron",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "esparron",
+  "city": "Esparron",
+  "citySlug": "esparron",
+  "path": "/france/esparron/esparron/restaurants",
+  "canonicalPath": "/france/esparron/esparron/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bistrot École",

@@ -1,9 +1,29 @@
 {
   "title": "Bergamo",
-  "country": "italy",
-  "region": "bergamo",
-  "city": "bergamo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bergamo",
+  "city": "Bergamo",
+  "citySlug": "bergamo",
+  "path": "/italy/bergamo/bergamo/restaurants",
+  "canonicalPath": "/italy/bergamo/bergamo/restaurants",
+  "count": 7,
   "restaurants": [
+    {
+      "name": "Villa Elena",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/italy/bergamo/bergamo/villa-elena",
+      "award": "★★"
+    },
+    {
+      "name": "Impronte",
+      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/italy/bergamo/bergamo/impronte",
+      "award": "★"
+    },
     {
       "name": "Al Carroponte",
       "cuisine": "Modern Cuisine, Contemporary",
@@ -15,12 +35,6 @@
       "cuisine": "Classic Cuisine",
       "price": "€€",
       "path": "/italy/bergamo/bergamo/baretto-di-san-vigilio"
-    },
-    {
-      "name": "Impronte",
-      "cuisine": "Modern Cuisine, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/italy/bergamo/bergamo/impronte"
     },
     {
       "name": "Lio Pellegrini",
@@ -39,12 +53,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/italy/bergamo/bergamo/roof-garden"
-    },
-    {
-      "name": "Villa Elena",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/italy/bergamo/bergamo/villa-elena"
     }
   ]
 }

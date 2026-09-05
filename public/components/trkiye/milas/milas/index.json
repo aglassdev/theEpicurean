@@ -1,11 +1,21 @@
 {
   "title": "Milas",
+  "country": "Türkiye",
+  "countrySlug": "trkiye",
+  "region": null,
+  "regionSlug": "milas",
+  "city": "Milas",
+  "citySlug": "milas",
+  "path": "/trkiye/milas/milas/restaurants",
+  "canonicalPath": "/trkiye/milas/milas/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Agora Pansiyon",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/milas/milas/AgoraPansiyon"
+      "path": "/trkiye/milas/milas/agora-pansiyon",
+      "award": "Bib Gourmand"
     }
   ]
 }

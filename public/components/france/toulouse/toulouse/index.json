@@ -1,14 +1,49 @@
 {
   "title": "Toulouse",
-  "country": "france",
-  "region": "toulouse",
-  "city": "toulouse",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "toulouse",
+  "city": "Toulouse",
+  "citySlug": "toulouse",
+  "path": "/france/toulouse/toulouse/restaurants",
+  "canonicalPath": "/france/toulouse/toulouse/restaurants",
+  "count": 30,
   "restaurants": [
+    {
+      "name": "Py-r",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/toulouse/toulouse/pyr",
+      "award": "★★"
+    },
     {
       "name": "Acte 2 Yannick Delpech",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/toulouse/toulouse/acte-2-yannick-delpech"
+      "path": "/france/toulouse/toulouse/acte2-yannick-delpech",
+      "award": "★"
+    },
+    {
+      "name": "Michel Sarran",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/toulouse/toulouse/michel-sarran",
+      "award": "★"
+    },
+    {
+      "name": "SEPT",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/toulouse/toulouse/sept",
+      "award": "★"
+    },
+    {
+      "name": "Stéphane Tournié - Les Jardins de l'Opéra",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/toulouse/toulouse/stphane-tourni-les-jardins-de-lopra",
+      "award": "★"
     },
     {
       "name": "Agapes",
@@ -38,13 +73,19 @@
       "name": "Cécile",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/toulouse/toulouse/ccile"
+      "path": "/france/toulouse/toulouse/ccile-t-o-u"
     },
     {
       "name": "Chez Loustic",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/toulouse/toulouse/chez-loustic"
+    },
+    {
+      "name": "Émile",
+      "cuisine": "Country cooking",
+      "price": "€€",
+      "path": "/france/toulouse/toulouse/mile"
     },
     {
       "name": "Genty Magre",
@@ -89,6 +130,12 @@
       "path": "/france/toulouse/toulouse/lcorce"
     },
     {
+      "name": "L'Hippi'curien",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/toulouse/toulouse/lhippicurien"
+    },
+    {
       "name": "Le Cénacle",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
@@ -116,19 +163,13 @@
       "name": "Les Têtes d'Ail",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/toulouse/toulouse/les-ttes-dail"
+      "path": "/france/toulouse/toulouse/les-ttes-dail-t-o-u"
     },
     {
       "name": "Les Volets Rouges",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/toulouse/toulouse/les-volets-rouges"
-    },
-    {
-      "name": "L'Hippi'curien",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/toulouse/toulouse/lhippicurien"
     },
     {
       "name": "Mantesino",
@@ -143,40 +184,10 @@
       "path": "/france/toulouse/toulouse/mas-de-dardagna"
     },
     {
-      "name": "Michel Sarran",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/toulouse/toulouse/michel-sarran"
-    },
-    {
-      "name": "Émile",
-      "cuisine": "Country cooking",
-      "price": "€€",
-      "path": "/france/toulouse/toulouse/mile"
-    },
-    {
-      "name": "Py-r",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/toulouse/toulouse/py-r"
-    },
-    {
-      "name": "SEPT",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/toulouse/toulouse/sept"
-    },
-    {
       "name": "Solides",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/toulouse/toulouse/solides"
-    },
-    {
-      "name": "Stéphane Tournié - Les Jardins de l'Opéra",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/toulouse/toulouse/stphane-tourni-les-jardins-de-lopra"
     },
     {
       "name": "Une Table à Deux",

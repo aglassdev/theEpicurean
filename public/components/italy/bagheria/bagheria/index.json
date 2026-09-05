@@ -1,20 +1,28 @@
 {
   "title": "Bagheria",
-  "country": "italy",
-  "region": "bagheria",
-  "city": "bagheria",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bagheria",
+  "city": "Bagheria",
+  "citySlug": "bagheria",
+  "path": "/italy/bagheria/bagheria/restaurants",
+  "canonicalPath": "/italy/bagheria/bagheria/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "I Pupi",
       "cuisine": "Sicilian, Contemporary",
       "price": "€€€€",
-      "path": "/italy/bagheria/bagheria/i-pupi"
+      "path": "/italy/bagheria/bagheria/i-pupi",
+      "award": "★"
     },
     {
       "name": "Līmū",
       "cuisine": "Creative, Sicilian",
       "price": "€€€",
-      "path": "/italy/bagheria/bagheria/lm"
+      "path": "/italy/bagheria/bagheria/lm",
+      "award": "★"
     },
     {
       "name": "TuMa",

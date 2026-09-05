@@ -1,20 +1,27 @@
 {
   "title": "Pulheim",
-  "country": "germany",
-  "region": "pulheim",
-  "city": "pulheim",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "pulheim",
+  "city": "Pulheim",
+  "citySlug": "pulheim",
+  "path": "/germany/pulheim/pulheim/restaurants",
+  "canonicalPath": "/germany/pulheim/pulheim/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Bistro",
-      "cuisine": "Farm to table",
-      "price": "€€",
-      "path": "/germany/pulheim/pulheim/bistro"
-    },
     {
       "name": "Gut Lärchenhof",
       "cuisine": "Modern French, Creative",
       "price": "€€€€",
-      "path": "/germany/pulheim/pulheim/gut-lrchenhof"
+      "path": "/germany/pulheim/pulheim/gut-lrchenhof",
+      "award": "★"
+    },
+    {
+      "name": "Bistro",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/germany/pulheim/pulheim/bistro-p-u-l"
     }
   ]
 }

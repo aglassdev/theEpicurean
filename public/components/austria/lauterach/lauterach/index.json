@@ -1,14 +1,21 @@
 {
   "title": "Lauterach",
-  "country": "austria",
-  "region": "lauterach",
-  "city": "lauterach",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "lauterach",
+  "city": "Lauterach",
+  "citySlug": "lauterach",
+  "path": "/austria/lauterach/lauterach/restaurants",
+  "canonicalPath": "/austria/lauterach/lauterach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Guth",
       "cuisine": "Classic Cuisine, Traditional Cuisine",
       "price": "€€€",
-      "path": "/austria/lauterach/lauterach/guth"
+      "path": "/austria/lauterach/lauterach/guth",
+      "award": "★"
     }
   ]
 }

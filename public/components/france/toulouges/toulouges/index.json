@@ -1,11 +1,20 @@
 {
   "title": "Toulouges",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "toulouges",
+  "city": "Toulouges",
+  "citySlug": "toulouges",
+  "path": "/france/toulouges/toulouges/restaurants",
+  "canonicalPath": "/france/toulouges/toulouges/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Terrasse de la Galinette",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/toulouges/toulouges/LaTerrasseDeLaGalinette"
+      "path": "/france/toulouges/toulouges/la-terrasse-de-la-galinette"
     }
   ]
 }

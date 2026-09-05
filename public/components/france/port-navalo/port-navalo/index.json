@@ -1,8 +1,14 @@
 {
   "title": "Port Navalo",
-  "country": "france",
-  "region": "port-navalo",
-  "city": "port-navalo",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "port-navalo",
+  "city": "Port Navalo",
+  "citySlug": "port-navalo",
+  "path": "/france/port-navalo/port-navalo/restaurants",
+  "canonicalPath": "/france/port-navalo/port-navalo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Grand Largue",

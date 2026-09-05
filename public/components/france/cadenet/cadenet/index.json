@@ -1,14 +1,21 @@
 {
   "title": "Cadenet",
-  "country": "france",
-  "region": "cadenet",
-  "city": "cadenet",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cadenet",
+  "city": "Cadenet",
+  "citySlug": "cadenet",
+  "path": "/france/cadenet/cadenet/restaurants",
+  "canonicalPath": "/france/cadenet/cadenet/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Goût du Bonheur - La Fenière",
       "cuisine": "Creative, Farm to table",
       "price": "€€€€",
-      "path": "/france/cadenet/cadenet/le-got-du-bonheur-la-fenire"
+      "path": "/france/cadenet/cadenet/le-got-du-bonheur-la-fenire",
+      "award": "★"
     },
     {
       "name": "Une Table à la Campagne - La Fenière",

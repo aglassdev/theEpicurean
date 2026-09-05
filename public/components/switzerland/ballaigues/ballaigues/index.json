@@ -1,14 +1,20 @@
 {
   "title": "Ballaigues",
-  "country": "switzerland",
-  "region": "ballaigues",
-  "city": "ballaigues",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "ballaigues",
+  "city": "Ballaigues",
+  "citySlug": "ballaigues",
+  "path": "/switzerland/ballaigues/ballaigues/restaurants",
+  "canonicalPath": "/switzerland/ballaigues/ballaigues/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Croix d'Or",
       "cuisine": "French, Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/switzerland/ballaigues/ballaigues/la-croix-dor"
+      "path": "/switzerland/ballaigues/ballaigues/la-croix-dor-b-a-l"
     }
   ]
 }

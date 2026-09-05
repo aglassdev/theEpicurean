@@ -1,14 +1,21 @@
 {
   "title": "Saint Joachim",
-  "country": "france",
-  "region": "saint-joachim",
-  "city": "saint-joachim",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-joachim",
+  "city": "Saint Joachim",
+  "citySlug": "saint-joachim",
+  "path": "/france/saint-joachim/saint-joachim/restaurants",
+  "canonicalPath": "/france/saint-joachim/saint-joachim/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Mare aux Oiseaux",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/saint-joachim/saint-joachim/la-mare-aux-oiseaux"
+      "path": "/france/saint-joachim/saint-joachim/la-mare-aux-oiseaux",
+      "award": "★"
     }
   ]
 }

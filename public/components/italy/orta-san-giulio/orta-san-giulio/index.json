@@ -1,20 +1,28 @@
 {
   "title": "Orta San Giulio",
-  "country": "italy",
-  "region": "orta-san-giulio",
-  "city": "orta-san-giulio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "orta-san-giulio",
+  "city": "Orta San Giulio",
+  "citySlug": "orta-san-giulio",
+  "path": "/italy/orta-san-giulio/orta-san-giulio/restaurants",
+  "canonicalPath": "/italy/orta-san-giulio/orta-san-giulio/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Andrea Monesi - Locanda di Orta",
-      "cuisine": "Country cooking, Creative",
-      "price": "€€€€",
-      "path": "/italy/orta-san-giulio/orta-san-giulio/andrea-monesi-locanda-di-orta"
-    },
     {
       "name": "Villa Crespi",
       "cuisine": "Creative, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/italy/orta-san-giulio/orta-san-giulio/villa-crespi"
+      "path": "/italy/orta-san-giulio/orta-san-giulio/villa-crespi",
+      "award": "★★★"
+    },
+    {
+      "name": "Andrea Monesi - Locanda di Orta",
+      "cuisine": "Country cooking, Creative",
+      "price": "€€€€",
+      "path": "/italy/orta-san-giulio/orta-san-giulio/andrea-monesi-locanda-di-orta",
+      "award": "★"
     }
   ]
 }

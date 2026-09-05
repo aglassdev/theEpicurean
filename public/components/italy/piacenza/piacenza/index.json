@@ -1,5 +1,14 @@
 {
   "title": "Piacenza",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "piacenza",
+  "city": "Piacenza",
+  "citySlug": "piacenza",
+  "path": "/italy/piacenza/piacenza/restaurants",
+  "canonicalPath": "/italy/piacenza/piacenza/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "IO",
@@ -17,7 +26,7 @@
       "name": "Sant’Agostino",
       "cuisine": "Contemporary",
       "price": "$$",
-      "path": "/italy/piacenza/piacenza/Santagostino"
+      "path": "/italy/piacenza/piacenza/santagostino"
     }
   ]
 }

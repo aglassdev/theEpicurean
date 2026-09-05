@@ -1,59 +1,72 @@
 {
-  "title": "Mérida",
+  "title": "Mrida",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "mrida",
+  "city": "Mrida",
+  "citySlug": "mrida",
+  "path": "/mexico/mrida/mrida/restaurants",
+  "canonicalPath": "/mexico/mrida/mrida/restaurants",
+  "count": 9,
   "restaurants": [
     {
       "name": "Huniik",
       "cuisine": "Mexican",
       "price": "$$$$",
-      "path": "/mexico/mrida/mrida/Huniik"
+      "path": "/mexico/mrida/mrida/huniik",
+      "award": "★"
     },
     {
       "name": "La Barra de Huniik",
       "cuisine": "Mexican",
       "price": "$$$$",
-      "path": "/mexico/mrida/mrida/LaBarraDeHuniik"
+      "path": "/mexico/mrida/mrida/la-barra-de-huniik",
+      "award": "★"
     },
     {
       "name": "Pancho Maiz",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/mrida/mrida/PanchoMaiz"
+      "path": "/mexico/mrida/mrida/pancho-maiz",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Taquerías Kisín",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/mrida/mrida/TaquerasKisn"
+      "path": "/mexico/mrida/mrida/taqueras-kisn",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Micaela Mar y Leña",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/mrida/mrida/MicaelaMarYLea"
+      "path": "/mexico/mrida/mrida/micaela-mar-y-lea"
     },
     {
       "name": "Mimado",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/mrida/mrida/Mimado"
+      "path": "/mexico/mrida/mrida/mimado"
     },
     {
       "name": "Nectar",
       "cuisine": "Contemporary",
       "price": "$$$$",
-      "path": "/mexico/mrida/mrida/Nectar"
+      "path": "/mexico/mrida/mrida/nectar"
     },
     {
       "name": "Nol",
       "cuisine": "Mexican",
       "price": "$$$",
-      "path": "/mexico/mrida/mrida/Nol"
+      "path": "/mexico/mrida/mrida/nol"
     },
     {
       "name": "Ramiro Cocina",
       "cuisine": "Mexican",
       "price": "$",
-      "path": "/mexico/mrida/mrida/RamiroCocina"
+      "path": "/mexico/mrida/mrida/ramiro-cocina"
     }
   ]
 }

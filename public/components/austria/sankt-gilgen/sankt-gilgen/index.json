@@ -1,23 +1,33 @@
 {
   "title": "Sankt Gilgen",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "sankt-gilgen",
+  "city": "Sankt Gilgen",
+  "citySlug": "sankt-gilgen",
+  "path": "/austria/sankt-gilgen/sankt-gilgen/restaurants",
+  "canonicalPath": "/austria/sankt-gilgen/sankt-gilgen/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Atelier Fischer",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/austria/sankt-gilgen/sankt-gilgen/atelier-fischer"
+      "path": "/austria/sankt-gilgen/sankt-gilgen/atelier-fischer",
+      "award": "★"
+    },
+    {
+      "name": "Batzenhäusl",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/austria/sankt-gilgen/sankt-gilgen/batzenhusl"
     },
     {
       "name": "Luckys Restaurant Haus am Hang",
       "cuisine": "International, Classic Cuisine",
       "price": "€€€€",
       "path": "/austria/sankt-gilgen/sankt-gilgen/luckys-restaurant-haus-am-hang"
-    },
-    {
-      "name": "Batzenhäusl",
-      "cuisine": "French",
-      "price": "$$$",
-      "path": "/austria/sankt-gilgen/sankt-gilgen/Batzenhusl"
     }
   ]
 }

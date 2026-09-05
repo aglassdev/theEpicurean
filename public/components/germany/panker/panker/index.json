@@ -1,8 +1,14 @@
 {
   "title": "Panker",
-  "country": "germany",
-  "region": "panker",
-  "city": "panker",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "panker",
+  "city": "Panker",
+  "citySlug": "panker",
+  "path": "/germany/panker/panker/restaurants",
+  "canonicalPath": "/germany/panker/panker/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ole Liese",

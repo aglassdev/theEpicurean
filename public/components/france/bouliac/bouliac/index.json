@@ -1,14 +1,21 @@
 {
   "title": "Bouliac",
-  "country": "france",
-  "region": "bouliac",
-  "city": "bouliac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bouliac",
+  "city": "Bouliac",
+  "citySlug": "bouliac",
+  "path": "/france/bouliac/bouliac/restaurants",
+  "canonicalPath": "/france/bouliac/bouliac/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Saint-James",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/bouliac/bouliac/le-saint-james"
+      "path": "/france/bouliac/bouliac/le-saintjames",
+      "award": "★"
     }
   ]
 }

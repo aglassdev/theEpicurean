@@ -1,14 +1,20 @@
 {
   "title": "Winzendorf",
-  "country": "austria",
-  "region": "winzendorf",
-  "city": "winzendorf",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "winzendorf",
+  "city": "Winzendorf",
+  "citySlug": "winzendorf",
+  "path": "/austria/winzendorf/winzendorf/restaurants",
+  "canonicalPath": "/austria/winzendorf/winzendorf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Puchegger-Wirt",
       "cuisine": "Farm to table, Regional Cuisine",
       "price": "€€",
-      "path": "/austria/winzendorf/winzendorf/puchegger-wirt"
+      "path": "/austria/winzendorf/winzendorf/pucheggerwirt"
     }
   ]
 }

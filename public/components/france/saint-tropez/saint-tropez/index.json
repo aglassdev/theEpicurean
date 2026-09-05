@@ -1,23 +1,54 @@
 {
   "title": "Saint Tropez",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-tropez",
+  "city": "Saint Tropez",
+  "citySlug": "saint-tropez",
+  "path": "/france/saint-tropez/saint-tropez/restaurants",
+  "canonicalPath": "/france/saint-tropez/saint-tropez/restaurants",
+  "count": 10,
   "restaurants": [
+    {
+      "name": "La Vague d'Or - Cheval Blanc St-Tropez",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/saint-tropez/saint-tropez/la-vague-dor-cheval-blanc-sttropez",
+      "award": "★★★"
+    },
     {
       "name": "Arnaud Donckele & Maxime Frédéric at Louis Vuitton",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/france/saint-tropez/saint-tropez/arnaud-donckele-maxime-frdric-at-louis-vuitton"
-    },
-    {
-      "name": "Beefbar",
-      "cuisine": "Meats and Grills",
-      "price": "€€€€",
-      "path": "/france/saint-tropez/saint-tropez/beefbar"
+      "path": "/france/saint-tropez/saint-tropez/arnaud-donckele-maxime-frdric-at-louis-vuitton",
+      "award": "★"
     },
     {
       "name": "Colette",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/saint-tropez/saint-tropez/colette"
+      "path": "/france/saint-tropez/saint-tropez/colette",
+      "award": "★"
+    },
+    {
+      "name": "La Terrasse - Cheval Blanc St-Tropez",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/saint-tropez/saint-tropez/la-terrasse-cheval-blanc-sttropez",
+      "award": "★"
+    },
+    {
+      "name": "Beefbar",
+      "cuisine": "Meats and Grills",
+      "price": "€€€€",
+      "path": "/france/saint-tropez/saint-tropez/beefbar-s-a-i"
+    },
+    {
+      "name": "Il Giardino",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/france/saint-tropez/saint-tropez/il-giardino"
     },
     {
       "name": "La Petite Plage",
@@ -32,34 +63,16 @@
       "path": "/france/saint-tropez/saint-tropez/la-ponche"
     },
     {
-      "name": "La Terrasse - Cheval Blanc St-Tropez",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/france/saint-tropez/saint-tropez/la-terrasse-cheval-blanc-st-tropez"
-    },
-    {
-      "name": "La Vague d'Or - Cheval Blanc St-Tropez",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/saint-tropez/saint-tropez/la-vague-dor-cheval-blanc-st-tropez"
-    },
-    {
       "name": "Le Patio",
       "cuisine": "Italian",
       "price": "€€€€",
-      "path": "/france/saint-tropez/saint-tropez/le-patio"
+      "path": "/france/saint-tropez/saint-tropez/le-patio-s-a-i"
     },
     {
       "name": "Les Toits - Hôtel de Paris Saint-Tropez",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/france/saint-tropez/saint-tropez/les-toits-htel-de-paris-saint-tropez"
-    },
-    {
-      "name": "Il Giardino",
-      "cuisine": "Italian",
-      "price": "$$$$",
-      "path": "/france/saint-tropez/saint-tropez/IlGiardino"
+      "path": "/france/saint-tropez/saint-tropez/les-toits-htel-de-paris-sainttropez"
     }
   ]
 }

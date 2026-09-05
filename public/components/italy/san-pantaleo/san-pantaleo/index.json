@@ -1,23 +1,33 @@
 {
   "title": "San Pantaleo",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-pantaleo",
+  "city": "San Pantaleo",
+  "citySlug": "san-pantaleo",
+  "path": "/italy/san-pantaleo/san-pantaleo/restaurants",
+  "canonicalPath": "/italy/san-pantaleo/san-pantaleo/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Il Fuoco Sacro",
       "cuisine": "Italian, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/italy/san-pantaleo/san-pantaleo/il-fuoco-sacro"
+      "path": "/italy/san-pantaleo/san-pantaleo/il-fuoco-sacro",
+      "award": "★"
+    },
+    {
+      "name": "Mizuna Japanese Restaurant",
+      "cuisine": "Japanese",
+      "price": "$$$$",
+      "path": "/italy/san-pantaleo/san-pantaleo/mizuna-japanese-restaurant"
     },
     {
       "name": "Mizuna Restaurant",
       "cuisine": "Japanese, Fusion",
       "price": "€€€€",
       "path": "/italy/san-pantaleo/san-pantaleo/mizuna-restaurant"
-    },
-    {
-      "name": "Mizuna Japanese Restaurant",
-      "cuisine": "Japanese",
-      "price": "$$$$",
-      "path": "/italy/san-pantaleo/san-pantaleo/MizunaJapaneseRestaurant"
     }
   ]
 }

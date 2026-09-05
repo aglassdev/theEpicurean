@@ -1,6 +1,22 @@
 {
-  "title": "Brighton And Hove",
+  "title": "Brighton and Hove",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "brighton-and-hove",
+  "city": "Brighton and Hove",
+  "citySlug": "brighton-and-hove",
+  "path": "/uk/brighton-and-hove/brighton-and-hove/restaurants",
+  "canonicalPath": "/uk/brighton-and-hove/brighton-and-hove/restaurants",
+  "count": 19,
   "restaurants": [
+    {
+      "name": "Maré by Rafael Cagali",
+      "cuisine": "Modern Cuisine",
+      "price": "£££",
+      "path": "/uk/brighton-and-hove/brighton-and-hove/mar-by-rafael-cagali",
+      "award": "★"
+    },
     {
       "name": "64°",
       "cuisine": "Modern British",
@@ -68,16 +84,16 @@
       "path": "/uk/brighton-and-hove/brighton-and-hove/lucky-khao"
     },
     {
-      "name": "Maré by Rafael Cagali",
-      "cuisine": "Modern Cuisine",
-      "price": "£££",
-      "path": "/uk/brighton-and-hove/brighton-and-hove/mar-by-rafael-cagali"
-    },
-    {
       "name": "Palmito",
       "cuisine": "Asian, South American",
       "price": "££",
       "path": "/uk/brighton-and-hove/brighton-and-hove/palmito"
+    },
+    {
+      "name": "Stem",
+      "cuisine": "Modern British",
+      "price": "$$",
+      "path": "/uk/brighton-and-hove/brighton-and-hove/stem"
     },
     {
       "name": "The Flint House",
@@ -89,7 +105,7 @@
       "name": "The Ginger Pig",
       "cuisine": "Modern British",
       "price": "££",
-      "path": "/uk/brighton-and-hove/brighton-and-hove/the-ginger-pig"
+      "path": "/uk/brighton-and-hove/brighton-and-hove/the-ginger-pig-b-r-i"
     },
     {
       "name": "The Set",
@@ -108,12 +124,6 @@
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/brighton-and-hove/brighton-and-hove/wild-flor"
-    },
-    {
-      "name": "Stem",
-      "cuisine": "Modern British",
-      "price": "$$",
-      "path": "/uk/brighton-and-hove/brighton-and-hove/Stem"
     }
   ]
 }

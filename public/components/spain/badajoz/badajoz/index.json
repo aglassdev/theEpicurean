@@ -1,6 +1,21 @@
 {
   "title": "Badajoz",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "badajoz",
+  "city": "Badajoz",
+  "citySlug": "badajoz",
+  "path": "/spain/badajoz/badajoz/restaurants",
+  "canonicalPath": "/spain/badajoz/badajoz/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Bidaia",
+      "cuisine": "Contemporary",
+      "price": "$$",
+      "path": "/spain/badajoz/badajoz/bidaia"
+    },
     {
       "name": "Drómo",
       "cuisine": "Modern Cuisine",
@@ -12,12 +27,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/spain/badajoz/badajoz/galaxia-cocina-pepehillo"
-    },
-    {
-      "name": "Bidaia",
-      "cuisine": "Contemporary",
-      "price": "$$",
-      "path": "/spain/badajoz/badajoz/Bidaia"
     }
   ]
 }

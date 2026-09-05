@@ -1,8 +1,14 @@
 {
   "title": "Sherborne",
-  "country": "uk",
-  "region": "sherborne",
-  "city": "sherborne",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "sherborne",
+  "city": "Sherborne",
+  "citySlug": "sherborne",
+  "path": "/uk/sherborne/sherborne/restaurants",
+  "canonicalPath": "/uk/sherborne/sherborne/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Green",

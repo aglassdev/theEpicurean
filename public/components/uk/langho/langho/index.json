@@ -1,14 +1,21 @@
 {
   "title": "Langho",
-  "country": "uk",
-  "region": "langho",
-  "city": "langho",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "langho",
+  "city": "Langho",
+  "citySlug": "langho",
+  "path": "/uk/langho/langho/restaurants",
+  "canonicalPath": "/uk/langho/langho/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Northcote",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/langho/langho/northcote"
+      "path": "/uk/langho/langho/northcote",
+      "award": "★"
     }
   ]
 }

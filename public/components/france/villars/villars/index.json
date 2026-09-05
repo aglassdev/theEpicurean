@@ -1,8 +1,14 @@
 {
   "title": "Villars",
-  "country": "france",
-  "region": "villars",
-  "city": "villars",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "villars",
+  "city": "Villars",
+  "citySlug": "villars",
+  "path": "/france/villars/villars/restaurants",
+  "canonicalPath": "/france/villars/villars/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Table de Pablo",

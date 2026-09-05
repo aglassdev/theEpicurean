@@ -1,23 +1,32 @@
 {
   "title": "Canary Wharf",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "Canary Wharf",
+  "citySlug": "canary-wharf",
+  "path": "/uk/london/canary-wharf/restaurants",
+  "canonicalPath": "/uk/london/canary-wharf/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Sunborn London",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/london/canary-wharf/SunbornLondon"
-    },
     {
       "name": "Caffe Concerto - Westfield Shopping Centre Stratford",
       "cuisine": "Afternoon Tea",
       "price": "32.95",
-      "path": "/uk/london/canary-wharf/CaffeConcertoWestfieldShoppingCentreStratford"
+      "path": "/uk/london/canary-wharf/caffe-concerto-westfield-shopping-centre-stratford"
+    },
+    {
+      "name": "Sunborn London",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/london/canary-wharf/sunborn-london"
     },
     {
       "name": "The Angel of Bow",
       "cuisine": "Afternoon Tea",
       "price": "26.95",
-      "path": "/uk/london/canary-wharf/TheAngelOfBow"
+      "path": "/uk/london/canary-wharf/the-angel-of-bow"
     }
   ]
 }

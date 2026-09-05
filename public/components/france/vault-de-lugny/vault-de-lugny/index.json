@@ -1,14 +1,21 @@
 {
-  "title": "Vault De Lugny",
-  "country": "france",
-  "region": "vault-de-lugny",
-  "city": "vault-de-lugny",
+  "title": "Vault de Lugny",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vault-de-lugny",
+  "city": "Vault de Lugny",
+  "citySlug": "vault-de-lugny",
+  "path": "/france/vault-de-lugny/vault-de-lugny/restaurants",
+  "canonicalPath": "/france/vault-de-lugny/vault-de-lugny/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Valucien - Château de Vault-de-Lugny",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/vault-de-lugny/vault-de-lugny/le-valucien-chteau-de-vault-de-lugny"
+      "path": "/france/vault-de-lugny/vault-de-lugny/le-valucien-chteau-de-vaultdelugny",
+      "award": "★"
     }
   ]
 }

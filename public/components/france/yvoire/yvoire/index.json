@@ -1,8 +1,14 @@
 {
   "title": "Yvoire",
-  "country": "france",
-  "region": "yvoire",
-  "city": "yvoire",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "yvoire",
+  "city": "Yvoire",
+  "citySlug": "yvoire",
+  "path": "/france/yvoire/yvoire/restaurants",
+  "canonicalPath": "/france/yvoire/yvoire/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Pré de la Cure",

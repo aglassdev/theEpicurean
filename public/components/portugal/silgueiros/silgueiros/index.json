@@ -1,14 +1,21 @@
 {
   "title": "Silgueiros",
-  "country": "portugal",
-  "region": "silgueiros",
-  "city": "silgueiros",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "silgueiros",
+  "city": "Silgueiros",
+  "citySlug": "silgueiros",
+  "path": "/portugal/silgueiros/silgueiros/restaurants",
+  "canonicalPath": "/portugal/silgueiros/silgueiros/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mesa de Lemos",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/portugal/silgueiros/silgueiros/mesa-de-lemos"
+      "path": "/portugal/silgueiros/silgueiros/mesa-de-lemos",
+      "award": "★"
     }
   ]
 }

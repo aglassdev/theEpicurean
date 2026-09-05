@@ -1,8 +1,14 @@
 {
   "title": "Harpenden",
-  "country": "uk",
-  "region": "harpenden",
-  "city": "harpenden",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "harpenden",
+  "city": "Harpenden",
+  "citySlug": "harpenden",
+  "path": "/uk/harpenden/harpenden/restaurants",
+  "canonicalPath": "/uk/harpenden/harpenden/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Silver Cup",

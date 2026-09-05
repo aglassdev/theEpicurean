@@ -1,23 +1,32 @@
 {
-  "title": "Pasay - Metro Manila",
+  "title": "Pasay Metro Manila",
+  "country": "Philippines",
+  "countrySlug": "the-philippines",
+  "region": null,
+  "regionSlug": "pasay-metro-manila",
+  "city": "Pasay Metro Manila",
+  "citySlug": "pasay-metro-manila",
+  "path": "/the-philippines/pasay-metro-manila/pasay-metro-manila/restaurants",
+  "canonicalPath": "/the-philippines/pasay-metro-manila/pasay-metro-manila/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "China Blue",
       "cuisine": "Cantonese",
       "price": "$$",
-      "path": "/the-philippines/pasay-metro-manila/pasay-metro-manila/ChinaBlue"
+      "path": "/the-philippines/pasay-metro-manila/pasay-metro-manila/china-blue"
     },
     {
       "name": "Cru Steakhouse",
       "cuisine": "Grills",
       "price": "$$$",
-      "path": "/the-philippines/pasay-metro-manila/pasay-metro-manila/CruSteakhouse"
+      "path": "/the-philippines/pasay-metro-manila/pasay-metro-manila/cru-steakhouse"
     },
     {
       "name": "Gordon Ramsay Bar & Grill",
       "cuisine": "Meats and Seafood",
       "price": "$$$$",
-      "path": "/the-philippines/pasay-metro-manila/pasay-metro-manila/GordonRamsayBarGrill"
+      "path": "/the-philippines/pasay-metro-manila/pasay-metro-manila/gordon-ramsay-bar-grill"
     }
   ]
 }

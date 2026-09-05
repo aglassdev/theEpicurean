@@ -1,17 +1,27 @@
 {
   "title": "Pleiskirchen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "pleiskirchen",
+  "city": "Pleiskirchen",
+  "citySlug": "pleiskirchen",
+  "path": "/germany/pleiskirchen/pleiskirchen/restaurants",
+  "canonicalPath": "/germany/pleiskirchen/pleiskirchen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Restaurant Alexander Huber",
       "cuisine": "Modern Cuisine, Country cooking",
       "price": "€€€",
-      "path": "/germany/pleiskirchen/pleiskirchen/restaurant-alexander-huber"
+      "path": "/germany/pleiskirchen/pleiskirchen/restaurant-alexander-huber",
+      "award": "★"
     },
     {
       "name": "Wirtshaus Huberwirt",
       "cuisine": "Bavarian",
       "price": "$$$",
-      "path": "/germany/pleiskirchen/pleiskirchen/WirtshausHuberwirt"
+      "path": "/germany/pleiskirchen/pleiskirchen/wirtshaus-huberwirt"
     }
   ]
 }

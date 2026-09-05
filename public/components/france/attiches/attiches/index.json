@@ -1,14 +1,20 @@
 {
   "title": "Attiches",
-  "country": "france",
-  "region": "attiches",
-  "city": "attiches",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "attiches",
+  "city": "Attiches",
+  "citySlug": "attiches",
+  "path": "/france/attiches/attiches/restaurants",
+  "canonicalPath": "/france/attiches/attiches/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Essentiel",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/attiches/attiches/lessentiel"
+      "path": "/france/attiches/attiches/lessentiel-a-t-t"
     }
   ]
 }

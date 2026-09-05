@@ -1,14 +1,21 @@
 {
   "title": "Guardiagrele",
-  "country": "italy",
-  "region": "guardiagrele",
-  "city": "guardiagrele",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "guardiagrele",
+  "city": "Guardiagrele",
+  "citySlug": "guardiagrele",
+  "path": "/italy/guardiagrele/guardiagrele/restaurants",
+  "canonicalPath": "/italy/guardiagrele/guardiagrele/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Villa Maiella",
       "cuisine": "Cuisine from Abruzzo, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/guardiagrele/guardiagrele/villa-maiella"
+      "path": "/italy/guardiagrele/guardiagrele/villa-maiella",
+      "award": "★"
     }
   ]
 }

@@ -1,6 +1,22 @@
 {
   "title": "Roses",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "roses",
+  "city": "Roses",
+  "citySlug": "roses",
+  "path": "/spain/roses/roses/restaurants",
+  "canonicalPath": "/spain/roses/roses/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "El Bulli",
+      "cuisine": "",
+      "price": "",
+      "path": "/spain/roses/roses/el-bulli",
+      "award": "World's 50 Best"
+    },
     {
       "name": "ROM",
       "cuisine": "Traditional Cuisine",
@@ -12,12 +28,6 @@
       "cuisine": "Farm to table, Seasonal Cuisine",
       "price": "€€€",
       "path": "/spain/roses/roses/sumac"
-    },
-    {
-      "name": "El Bulli",
-      "cuisine": "",
-      "price": "",
-      "path": "/spain/roses/roses/ElBulli"
     }
   ]
 }

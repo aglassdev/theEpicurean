@@ -1,8 +1,14 @@
 {
   "title": "Martigny",
-  "country": "switzerland",
-  "region": "martigny",
-  "city": "martigny",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "martigny",
+  "city": "Martigny",
+  "citySlug": "martigny",
+  "path": "/switzerland/martigny/martigny/restaurants",
+  "canonicalPath": "/switzerland/martigny/martigny/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Touristes",

@@ -1,14 +1,20 @@
 {
   "title": "La Pulente",
-  "country": "uk",
-  "region": "la-pulente",
-  "city": "la-pulente",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "la-pulente",
+  "city": "La Pulente",
+  "citySlug": "la-pulente",
+  "path": "/uk/la-pulente/la-pulente/restaurants",
+  "canonicalPath": "/uk/la-pulente/la-pulente/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ocean",
       "cuisine": "Modern Cuisine",
       "price": "£££",
-      "path": "/uk/la-pulente/la-pulente/ocean"
+      "path": "/uk/la-pulente/la-pulente/ocean-l-a-p"
     }
   ]
 }

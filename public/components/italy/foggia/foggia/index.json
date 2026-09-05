@@ -1,5 +1,14 @@
 {
   "title": "Foggia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "foggia",
+  "city": "Foggia",
+  "citySlug": "foggia",
+  "path": "/italy/foggia/foggia/restaurants",
+  "canonicalPath": "/italy/foggia/foggia/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Kucina",
@@ -11,7 +20,7 @@
       "name": "Osteria Terra Arsa",
       "cuisine": "Apulian",
       "price": "$$",
-      "path": "/italy/foggia/foggia/OsteriaTerraArsa"
+      "path": "/italy/foggia/foggia/osteria-terra-arsa"
     }
   ]
 }

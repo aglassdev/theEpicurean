@@ -1,8 +1,14 @@
 {
   "title": "Annonay",
-  "country": "france",
-  "region": "annonay",
-  "city": "annonay",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "annonay",
+  "city": "Annonay",
+  "citySlug": "annonay",
+  "path": "/france/annonay/annonay/restaurants",
+  "canonicalPath": "/france/annonay/annonay/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Azimut",

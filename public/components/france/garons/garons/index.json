@@ -1,14 +1,21 @@
 {
   "title": "Garons",
-  "country": "france",
-  "region": "garons",
-  "city": "garons",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "garons",
+  "city": "Garons",
+  "citySlug": "garons",
+  "path": "/france/garons/garons/restaurants",
+  "canonicalPath": "/france/garons/garons/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Michel Kayser - Restaurant Alexandre",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/garons/garons/michel-kayser-restaurant-alexandre"
+      "path": "/france/garons/garons/michel-kayser-restaurant-alexandre",
+      "award": "★★"
     }
   ]
 }

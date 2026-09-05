@@ -1,14 +1,21 @@
 {
   "title": "Falkensee",
-  "country": "germany",
-  "region": "falkensee",
-  "city": "falkensee",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "falkensee",
+  "city": "Falkensee",
+  "citySlug": "falkensee",
+  "path": "/germany/falkensee/falkensee/restaurants",
+  "canonicalPath": "/germany/falkensee/falkensee/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sawito",
       "cuisine": "Farm to table, International",
       "price": "€€€",
-      "path": "/germany/falkensee/falkensee/sawito"
+      "path": "/germany/falkensee/falkensee/sawito",
+      "award": "★"
     }
   ]
 }

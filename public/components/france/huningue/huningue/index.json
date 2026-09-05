@@ -1,8 +1,14 @@
 {
   "title": "Huningue",
-  "country": "france",
-  "region": "huningue",
-  "city": "huningue",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "huningue",
+  "city": "Huningue",
+  "citySlug": "huningue",
+  "path": "/france/huningue/huningue/restaurants",
+  "canonicalPath": "/france/huningue/huningue/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Autour de la Table",

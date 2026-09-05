@@ -1,14 +1,21 @@
 {
-  "title": "Sankt Kathrein Am Offenegg",
-  "country": "austria",
-  "region": "sankt-kathrein-am-offenegg",
-  "city": "sankt-kathrein-am-offenegg",
+  "title": "Sankt Kathrein am Offenegg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "sankt-kathrein-am-offenegg",
+  "city": "Sankt Kathrein am Offenegg",
+  "citySlug": "sankt-kathrein-am-offenegg",
+  "path": "/austria/sankt-kathrein-am-offenegg/sankt-kathrein-am-offenegg/restaurants",
+  "canonicalPath": "/austria/sankt-kathrein-am-offenegg/sankt-kathrein-am-offenegg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "ZeitRAUM",
       "cuisine": "Creative, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/austria/sankt-kathrein-am-offenegg/sankt-kathrein-am-offenegg/zeitraum"
+      "path": "/austria/sankt-kathrein-am-offenegg/sankt-kathrein-am-offenegg/zeitraum",
+      "award": "★"
     }
   ]
 }

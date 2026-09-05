@@ -1,9 +1,22 @@
 {
   "title": "Montreuil",
-  "country": "france",
-  "region": "montreuil",
-  "city": "montreuil",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montreuil",
+  "city": "Montreuil",
+  "citySlug": "montreuil",
+  "path": "/france/montreuil/montreuil/restaurants",
+  "canonicalPath": "/france/montreuil/montreuil/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Villa9Trois",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/montreuil/montreuil/villa9trois",
+      "award": "★"
+    },
     {
       "name": "Anecdote",
       "cuisine": "Traditional Cuisine",
@@ -20,25 +33,19 @@
       "name": "La Table du Château",
       "cuisine": "Creative",
       "price": "€€€",
-      "path": "/france/montreuil/montreuil/la-table-du-chteau"
+      "path": "/france/montreuil/montreuil/la-table-du-chteau-m-o-n"
     },
     {
       "name": "Là-bas",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/montreuil/montreuil/l-bas"
+      "path": "/france/montreuil/montreuil/lbas"
     },
     {
       "name": "Le Bistrot du Château",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/montreuil/montreuil/le-bistrot-du-chteau"
-    },
-    {
-      "name": "Villa9Trois",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/montreuil/montreuil/villa9trois"
     }
   ]
 }

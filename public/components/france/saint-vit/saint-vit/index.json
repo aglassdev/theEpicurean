@@ -1,8 +1,14 @@
 {
   "title": "Saint Vit",
-  "country": "france",
-  "region": "saint-vit",
-  "city": "saint-vit",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-vit",
+  "city": "Saint Vit",
+  "citySlug": "saint-vit",
+  "path": "/france/saint-vit/saint-vit/restaurants",
+  "canonicalPath": "/france/saint-vit/saint-vit/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Prélude",

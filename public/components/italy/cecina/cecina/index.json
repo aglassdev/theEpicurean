@@ -1,8 +1,14 @@
 {
   "title": "Cecina",
-  "country": "italy",
-  "region": "cecina",
-  "city": "cecina",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cecina",
+  "city": "Cecina",
+  "citySlug": "cecina",
+  "path": "/italy/cecina/cecina/restaurants",
+  "canonicalPath": "/italy/cecina/cecina/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Doretto",

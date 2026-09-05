@@ -1,14 +1,21 @@
 {
-  "title": "Caistor St Edmund",
-  "country": "uk",
-  "region": "caistor-st-edmund",
-  "city": "caistor-st-edmund",
+  "title": "Caistor St. Edmund",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "caistor-st-edmund",
+  "city": "Caistor St. Edmund",
+  "citySlug": "caistor-st-edmund",
+  "path": "/uk/caistor-st-edmund/caistor-st-edmund/restaurants",
+  "canonicalPath": "/uk/caistor-st-edmund/caistor-st-edmund/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mark Poynton at Caistor Hall",
       "cuisine": "Modern Cuisine",
       "price": "£££",
-      "path": "/uk/caistor-st-edmund/caistor-st-edmund/mark-poynton-at-caistor-hall"
+      "path": "/uk/caistor-st-edmund/caistor-st-edmund/mark-poynton-at-caistor-hall",
+      "award": "★"
     }
   ]
 }

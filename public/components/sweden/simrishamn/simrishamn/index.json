@@ -1,17 +1,28 @@
 {
   "title": "Simrishamn",
+  "country": "Sweden",
+  "countrySlug": "sweden",
+  "region": null,
+  "regionSlug": "simrishamn",
+  "city": "Simrishamn",
+  "citySlug": "simrishamn",
+  "path": "/sweden/simrishamn/simrishamn/restaurants",
+  "canonicalPath": "/sweden/simrishamn/simrishamn/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "VYN",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/sweden/simrishamn/simrishamn/vyn"
+      "path": "/sweden/simrishamn/simrishamn/vyn",
+      "award": "★★"
     },
     {
       "name": "Vyn Food & Wine Bar",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/sweden/simrishamn/simrishamn/VynFoodWineBar"
+      "path": "/sweden/simrishamn/simrishamn/vyn-food-wine-bar",
+      "award": "Bib Gourmand"
     }
   ]
 }

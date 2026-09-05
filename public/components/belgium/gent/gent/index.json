@@ -1,11 +1,54 @@
 {
   "title": "Gent",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "gent",
+  "city": "Gent",
+  "citySlug": "gent",
+  "path": "/belgium/gent/gent/restaurants",
+  "canonicalPath": "/belgium/gent/gent/restaurants",
+  "count": 20,
   "restaurants": [
+    {
+      "name": "Vrijmoed",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/belgium/gent/gent/vrijmoed",
+      "award": "★★"
+    },
+    {
+      "name": "OAK",
+      "cuisine": "World Cuisine, Creative French",
+      "price": "€€€€",
+      "path": "/belgium/gent/gent/oak",
+      "award": "★"
+    },
+    {
+      "name": "Publiek",
+      "cuisine": "Modern Cuisine, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/belgium/gent/gent/publiek",
+      "award": "★"
+    },
+    {
+      "name": "Souvenir",
+      "cuisine": "Creative, Organic",
+      "price": "€€€",
+      "path": "/belgium/gent/gent/souvenir",
+      "award": "★"
+    },
     {
       "name": "a food affair",
       "cuisine": "Asian",
       "price": "€€€",
       "path": "/belgium/gent/gent/a-food-affair"
+    },
+    {
+      "name": "ARNO ristorante",
+      "cuisine": "Italian",
+      "price": "$$$$",
+      "path": "/belgium/gent/gent/arno-ristorante"
     },
     {
       "name": "Bar Bask",
@@ -18,6 +61,12 @@
       "cuisine": "Spanish Contemporary",
       "price": "€€€",
       "path": "/belgium/gent/gent/bask"
+    },
+    {
+      "name": "DEBRA",
+      "cuisine": "French Contemporary",
+      "price": "$$$",
+      "path": "/belgium/gent/gent/debra"
     },
     {
       "name": "DOOR73",
@@ -50,6 +99,12 @@
       "path": "/belgium/gent/gent/lof"
     },
     {
+      "name": "LOF Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/belgium/gent/gent/lof-restaurant"
+    },
+    {
       "name": "Lys d'Or",
       "cuisine": "French, Modern Cuisine",
       "price": "€€€",
@@ -62,22 +117,10 @@
       "path": "/belgium/gent/gent/nonam"
     },
     {
-      "name": "OAK",
-      "cuisine": "World Cuisine, Creative French",
-      "price": "€€€€",
-      "path": "/belgium/gent/gent/oak"
-    },
-    {
       "name": "Patyntje",
       "cuisine": "Flemish",
       "price": "€€€",
       "path": "/belgium/gent/gent/patyntje"
-    },
-    {
-      "name": "Publiek",
-      "cuisine": "Modern Cuisine, Seasonal Cuisine",
-      "price": "€€€",
-      "path": "/belgium/gent/gent/publiek"
     },
     {
       "name": "Rizoom",
@@ -90,42 +133,6 @@
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
       "path": "/belgium/gent/gent/roots"
-    },
-    {
-      "name": "Roots",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€",
-      "path": "/belgium/gent/gent/roots"
-    },
-    {
-      "name": "Souvenir",
-      "cuisine": "Creative, Organic",
-      "price": "€€€",
-      "path": "/belgium/gent/gent/souvenir"
-    },
-    {
-      "name": "Vrijmoed",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/belgium/gent/gent/vrijmoed"
-    },
-    {
-      "name": "ARNO ristorante",
-      "cuisine": "Italian",
-      "price": "$$$$",
-      "path": "/belgium/gent/gent/ArnoRistorante"
-    },
-    {
-      "name": "DEBRA",
-      "cuisine": "French Contemporary",
-      "price": "$$$",
-      "path": "/belgium/gent/gent/Debra"
-    },
-    {
-      "name": "LOF Restaurant",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/belgium/gent/gent/LofRestaurant"
     }
   ]
 }

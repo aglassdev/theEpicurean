@@ -1,9 +1,22 @@
 {
-  "title": "Lisle Sur La Sorgue",
-  "country": "france",
-  "region": "lisle-sur-la-sorgue",
-  "city": "lisle-sur-la-sorgue",
+  "title": "Lisle sur la Sorgue",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "lisle-sur-la-sorgue",
+  "city": "Lisle sur la Sorgue",
+  "citySlug": "lisle-sur-la-sorgue",
+  "path": "/france/lisle-sur-la-sorgue/lisle-sur-la-sorgue/restaurants",
+  "canonicalPath": "/france/lisle-sur-la-sorgue/lisle-sur-la-sorgue/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Le Vivier",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/lisle-sur-la-sorgue/lisle-sur-la-sorgue/le-vivier",
+      "award": "★"
+    },
     {
       "name": "La Balade des Saveurs",
       "cuisine": "Traditional Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Provençal",
       "price": "€€",
       "path": "/france/lisle-sur-la-sorgue/lisle-sur-la-sorgue/le-petit-henri"
-    },
-    {
-      "name": "Le Vivier",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/lisle-sur-la-sorgue/lisle-sur-la-sorgue/le-vivier"
     },
     {
       "name": "Solelh",

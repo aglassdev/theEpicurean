@@ -1,8 +1,14 @@
 {
   "title": "Tavistock",
-  "country": "uk",
-  "region": "tavistock",
-  "city": "tavistock",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "tavistock",
+  "city": "Tavistock",
+  "citySlug": "tavistock",
+  "path": "/uk/tavistock/tavistock/restaurants",
+  "canonicalPath": "/uk/tavistock/tavistock/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Cornish Arms",

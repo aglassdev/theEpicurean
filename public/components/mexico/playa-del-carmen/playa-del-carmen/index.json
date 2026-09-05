@@ -1,9 +1,36 @@
 {
-  "title": "Playa Del Carmen",
-  "country": "mexico",
-  "region": "playa-del-carmen",
-  "city": "playa-del-carmen",
+  "title": "Playa del Carmen",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "playa-del-carmen",
+  "city": "Playa del Carmen",
+  "citySlug": "playa-del-carmen",
+  "path": "/mexico/playa-del-carmen/playa-del-carmen/restaurants",
+  "canonicalPath": "/mexico/playa-del-carmen/playa-del-carmen/restaurants",
+  "count": 8,
   "restaurants": [
+    {
+      "name": "Cocina de Autor Riviera Maya",
+      "cuisine": "Creative, Mexican",
+      "price": "$$$$",
+      "path": "/mexico/playa-del-carmen/playa-del-carmen/cocina-de-autor-riviera-maya",
+      "award": "★"
+    },
+    {
+      "name": "HA'",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$$",
+      "path": "/mexico/playa-del-carmen/playa-del-carmen/ha",
+      "award": "★"
+    },
+    {
+      "name": "Le Chique",
+      "cuisine": "Contemporary, Mexican",
+      "price": "$$$$",
+      "path": "/mexico/playa-del-carmen/playa-del-carmen/le-chique",
+      "award": "★"
+    },
     {
       "name": "Axiote Cocina de Mexico",
       "cuisine": "Mexican",
@@ -17,34 +44,16 @@
       "path": "/mexico/playa-del-carmen/playa-del-carmen/buul"
     },
     {
-      "name": "Cocina de Autor Riviera Maya",
-      "cuisine": "Creative, Mexican",
-      "price": "$$$$",
-      "path": "/mexico/playa-del-carmen/playa-del-carmen/cocina-de-autor-riviera-maya"
-    },
-    {
       "name": "El Fogón",
       "cuisine": "Mexican",
       "price": "$",
       "path": "/mexico/playa-del-carmen/playa-del-carmen/el-fogn"
     },
     {
-      "name": "HA'",
-      "cuisine": "Mexican, Contemporary",
-      "price": "$$$$",
-      "path": "/mexico/playa-del-carmen/playa-del-carmen/ha"
-    },
-    {
       "name": "KI'IS",
       "cuisine": "Mexican, Contemporary",
       "price": "$$$",
       "path": "/mexico/playa-del-carmen/playa-del-carmen/kiis"
-    },
-    {
-      "name": "Le Chique",
-      "cuisine": "Contemporary, Mexican",
-      "price": "$$$$",
-      "path": "/mexico/playa-del-carmen/playa-del-carmen/le-chique"
     },
     {
       "name": "Woodend",

@@ -1,8 +1,14 @@
 {
   "title": "Ajaccio",
-  "country": "france",
-  "region": "ajaccio",
-  "city": "ajaccio",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "ajaccio",
+  "city": "Ajaccio",
+  "citySlug": "ajaccio",
+  "path": "/france/ajaccio/ajaccio/restaurants",
+  "canonicalPath": "/france/ajaccio/ajaccio/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "A Nepita",
@@ -11,22 +17,16 @@
       "path": "/france/ajaccio/ajaccio/a-nepita"
     },
     {
+      "name": "L'Écrin",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/ajaccio/ajaccio/lcrin"
+    },
+    {
       "name": "La Terrasse du Fesch",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/ajaccio/ajaccio/la-terrasse-du-fesch"
-    },
-    {
-      "name": "L'Écrin",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/ajaccio/ajaccio/lcrin"
-    },
-    {
-      "name": "L'Écrin",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/ajaccio/ajaccio/lcrin"
     },
     {
       "name": "Le Petit Restaurant",

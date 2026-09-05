@@ -1,8 +1,14 @@
 {
   "title": "Malling",
-  "country": "france",
-  "region": "malling",
-  "city": "malling",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "malling",
+  "city": "Malling",
+  "citySlug": "malling",
+  "path": "/france/malling/malling/restaurants",
+  "canonicalPath": "/france/malling/malling/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Alexis Baudin",

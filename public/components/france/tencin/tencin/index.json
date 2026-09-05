@@ -1,8 +1,14 @@
 {
   "title": "Tencin",
-  "country": "france",
-  "region": "tencin",
-  "city": "tencin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "tencin",
+  "city": "Tencin",
+  "citySlug": "tencin",
+  "path": "/france/tencin/tencin/restaurants",
+  "canonicalPath": "/france/tencin/tencin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Tour des Sens",

@@ -1,11 +1,20 @@
 {
-  "title": "Frépillon",
+  "title": "Frpillon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "frpillon",
+  "city": "Frpillon",
+  "citySlug": "frpillon",
+  "path": "/france/frpillon/frpillon/restaurants",
+  "canonicalPath": "/france/frpillon/frpillon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Chez Romuald",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/france/frpillon/frpillon/ChezRomuald"
+      "path": "/france/frpillon/frpillon/chez-romuald"
     }
   ]
 }

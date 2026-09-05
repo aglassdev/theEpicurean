@@ -1,0 +1,32 @@
+{
+  "title": "Solvang",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "other",
+  "city": "Solvang",
+  "citySlug": "solvang",
+  "path": "/usa/other/solvang/restaurants",
+  "canonicalPath": "/usa/california/solvang/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Coast Range",
+      "cuisine": "Steakhouse, American",
+      "price": "$$$$",
+      "path": "/usa/california/solvang/coast-range"
+    },
+    {
+      "name": "First & Oak",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/solvang/first-oak"
+    },
+    {
+      "name": "peasants FEAST",
+      "cuisine": "American",
+      "price": "$$",
+      "path": "/usa/california/solvang/peasants-feast"
+    }
+  ]
+}

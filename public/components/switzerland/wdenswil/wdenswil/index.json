@@ -1,8 +1,14 @@
 {
   "title": "Wdenswil",
-  "country": "switzerland",
-  "region": "wdenswil",
-  "city": "wdenswil",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "wdenswil",
+  "city": "Wdenswil",
+  "citySlug": "wdenswil",
+  "path": "/switzerland/wdenswil/wdenswil/restaurants",
+  "canonicalPath": "/switzerland/wdenswil/wdenswil/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Eder's Eichmühle",

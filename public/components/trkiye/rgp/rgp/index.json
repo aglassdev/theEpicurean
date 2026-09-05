@@ -1,41 +1,54 @@
 {
-  "title": "Ürgüp",
+  "title": "Rgp",
+  "country": "Türkiye",
+  "countrySlug": "trkiye",
+  "region": null,
+  "regionSlug": "rgp",
+  "city": "Rgp",
+  "citySlug": "rgp",
+  "path": "/trkiye/rgp/rgp/restaurants",
+  "canonicalPath": "/trkiye/rgp/rgp/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Revithia",
       "cuisine": "Country cooking",
       "price": "$$$$",
-      "path": "/trkiye/rgp/rgp/Revithia"
+      "path": "/trkiye/rgp/rgp/revithia",
+      "award": "★"
     },
     {
       "name": "Aravan Evi",
       "cuisine": "Farm to table",
       "price": "$",
-      "path": "/trkiye/rgp/rgp/AravanEvi"
+      "path": "/trkiye/rgp/rgp/aravan-evi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Babayan Evi Restaurant",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/trkiye/rgp/rgp/BabayanEviRestaurant"
+      "path": "/trkiye/rgp/rgp/babayan-evi-restaurant",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Old Greek House",
       "cuisine": "Country cooking",
       "price": "$$",
-      "path": "/trkiye/rgp/rgp/OldGreekHouse"
+      "path": "/trkiye/rgp/rgp/old-greek-house",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Gorgoli",
       "cuisine": "Regional Cuisine",
       "price": "$",
-      "path": "/trkiye/rgp/rgp/Gorgoli"
+      "path": "/trkiye/rgp/rgp/gorgoli"
     },
     {
       "name": "Tık Tık Kadın Emeği",
       "cuisine": "Traditional Cuisine",
       "price": "$",
-      "path": "/trkiye/rgp/rgp/TkTkKadnEmei"
+      "path": "/trkiye/rgp/rgp/tk-tk-kadn-emei"
     }
   ]
 }

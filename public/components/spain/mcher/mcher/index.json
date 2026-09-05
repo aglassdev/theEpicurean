@@ -1,11 +1,20 @@
 {
-  "title": "Mácher",
+  "title": "Mcher",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "mcher",
+  "city": "Mcher",
+  "citySlug": "mcher",
+  "path": "/spain/mcher/mcher/restaurants",
+  "canonicalPath": "/spain/mcher/mcher/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Tegala",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/spain/mcher/mcher/LaTegala"
+      "path": "/spain/mcher/mcher/la-tegala"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Urmatt",
-  "country": "france",
-  "region": "urmatt",
-  "city": "urmatt",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "urmatt",
+  "city": "Urmatt",
+  "citySlug": "urmatt",
+  "path": "/france/urmatt/urmatt/restaurants",
+  "canonicalPath": "/france/urmatt/urmatt/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Poste",

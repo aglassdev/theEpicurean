@@ -1,8 +1,14 @@
 {
   "title": "Scala",
-  "country": "italy",
-  "region": "scala",
-  "city": "scala",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "scala",
+  "city": "Scala",
+  "citySlug": "scala",
+  "path": "/italy/scala/scala/restaurants",
+  "canonicalPath": "/italy/scala/scala/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Da Lorenzo",

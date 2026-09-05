@@ -1,14 +1,20 @@
 {
   "title": "Bempflingen",
-  "country": "germany",
-  "region": "bempflingen",
-  "city": "bempflingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bempflingen",
+  "city": "Bempflingen",
+  "citySlug": "bempflingen",
+  "path": "/germany/bempflingen/bempflingen/restaurants",
+  "canonicalPath": "/germany/bempflingen/bempflingen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Krone",
       "cuisine": "Classic French, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/germany/bempflingen/bempflingen/krone"
+      "path": "/germany/bempflingen/bempflingen/krone-b-e-m"
     }
   ]
 }

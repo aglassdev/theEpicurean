@@ -1,20 +1,27 @@
 {
   "title": "Rubano",
-  "country": "italy",
-  "region": "rubano",
-  "city": "rubano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "rubano",
+  "city": "Rubano",
+  "citySlug": "rubano",
+  "path": "/italy/rubano/rubano/restaurants",
+  "canonicalPath": "/italy/rubano/rubano/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Le Calandre",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/italy/rubano/rubano/le-calandre",
+      "award": "★★★"
+    },
     {
       "name": "Il Calandrino",
       "cuisine": "Contemporary, Italian",
       "price": "€€€",
       "path": "/italy/rubano/rubano/il-calandrino"
-    },
-    {
-      "name": "Le Calandre",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/italy/rubano/rubano/le-calandre"
     }
   ]
 }

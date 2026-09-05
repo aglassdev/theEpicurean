@@ -1,20 +1,27 @@
 {
-  "title": "Oropesa Del Mar",
-  "country": "spain",
-  "region": "oropesa-del-mar",
-  "city": "oropesa-del-mar",
+  "title": "Oropesa del Mar",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "oropesa-del-mar",
+  "city": "Oropesa del Mar",
+  "citySlug": "oropesa-del-mar",
+  "path": "/spain/oropesa-del-mar/oropesa-del-mar/restaurants",
+  "canonicalPath": "/spain/oropesa-del-mar/oropesa-del-mar/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Le Vin Rouge Maître-Cavista",
-      "cuisine": "French",
-      "price": "€€€",
-      "path": "/spain/oropesa-del-mar/oropesa-del-mar/le-vin-rouge-matre-cavista"
-    },
     {
       "name": "Llavor",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/spain/oropesa-del-mar/oropesa-del-mar/llavor"
+      "path": "/spain/oropesa-del-mar/oropesa-del-mar/llavor",
+      "award": "★"
+    },
+    {
+      "name": "Le Vin Rouge Maître-Cavista",
+      "cuisine": "French",
+      "price": "€€€",
+      "path": "/spain/oropesa-del-mar/oropesa-del-mar/le-vin-rouge-matrecavista"
     }
   ]
 }

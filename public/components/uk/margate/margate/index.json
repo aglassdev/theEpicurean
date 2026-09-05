@@ -1,8 +1,14 @@
 {
   "title": "Margate",
-  "country": "uk",
-  "region": "margate",
-  "city": "margate",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "margate",
+  "city": "Margate",
+  "citySlug": "margate",
+  "path": "/uk/margate/margate/restaurants",
+  "canonicalPath": "/uk/margate/margate/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Angela's",

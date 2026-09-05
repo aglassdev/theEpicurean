@@ -1,14 +1,21 @@
 {
   "title": "Stansstad",
-  "country": "switzerland",
-  "region": "stansstad",
-  "city": "stansstad",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "stansstad",
+  "city": "Stansstad",
+  "citySlug": "stansstad",
+  "path": "/switzerland/stansstad/stansstad/restaurants",
+  "canonicalPath": "/switzerland/stansstad/stansstad/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "UniQuisine Atelier",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€€",
-      "path": "/switzerland/stansstad/stansstad/uniquisine-atelier"
+      "path": "/switzerland/stansstad/stansstad/uniquisine-atelier",
+      "award": "★"
     }
   ]
 }

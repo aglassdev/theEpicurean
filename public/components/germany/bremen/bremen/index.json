@@ -1,5 +1,14 @@
 {
   "title": "Bremen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bremen",
+  "city": "Bremen",
+  "citySlug": "bremen",
+  "path": "/germany/bremen/bremen/restaurants",
+  "canonicalPath": "/germany/bremen/bremen/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Al Pappagallo",
@@ -14,6 +23,12 @@
       "path": "/germany/bremen/bremen/alto"
     },
     {
+      "name": "Bar Rique Winehouse",
+      "cuisine": "Seasonal Cuisine",
+      "price": "$$",
+      "path": "/germany/bremen/bremen/bar-rique-winehouse"
+    },
+    {
       "name": "Chapeau La Vache",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
@@ -24,12 +39,6 @@
       "cuisine": "Contemporary, Classic Cuisine",
       "price": "€€€€",
       "path": "/germany/bremen/bremen/park-restaurant"
-    },
-    {
-      "name": "Bar Rique Winehouse",
-      "cuisine": "Seasonal Cuisine",
-      "price": "$$",
-      "path": "/germany/bremen/bremen/BarRiqueWinehouse"
     }
   ]
 }

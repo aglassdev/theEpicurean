@@ -1,185 +1,207 @@
 {
   "title": "Izmir",
+  "country": "Türkiye",
+  "countrySlug": "trkiye",
+  "region": null,
+  "regionSlug": "izmir",
+  "city": "Izmir",
+  "citySlug": "izmir",
+  "path": "/trkiye/izmir/izmir/restaurants",
+  "canonicalPath": "/trkiye/izmir/izmir/restaurants",
+  "count": 30,
   "restaurants": [
     {
       "name": "Vino Locale",
       "cuisine": "Turkish",
       "price": "$$$$",
-      "path": "/trkiye/izmir/izmir/VinoLocale"
+      "path": "/trkiye/izmir/izmir/vino-locale",
+      "award": "★★"
     },
     {
       "name": "Narımor",
       "cuisine": "Turkish",
       "price": "$$$$",
-      "path": "/trkiye/izmir/izmir/Narmor"
+      "path": "/trkiye/izmir/izmir/narmor",
+      "award": "★"
     },
     {
       "name": "OD Urla",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/trkiye/izmir/izmir/OdUrla"
+      "path": "/trkiye/izmir/izmir/od-urla",
+      "award": "★"
     },
     {
       "name": "Teruar Urla",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$$$",
-      "path": "/trkiye/izmir/izmir/TeruarUrla"
+      "path": "/trkiye/izmir/izmir/teruar-urla",
+      "award": "★"
     },
     {
       "name": "Adil Müftüoğlu",
       "cuisine": "Turkish",
       "price": "$",
-      "path": "/trkiye/izmir/izmir/AdilMftolu"
+      "path": "/trkiye/izmir/izmir/adil-mftolu",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Aslında Meyhane",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/izmir/izmir/AslndaMeyhane"
+      "path": "/trkiye/izmir/izmir/aslnda-meyhane",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Asma Yaprağı",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/trkiye/izmir/izmir/AsmaYapra"
+      "path": "/trkiye/izmir/izmir/asma-yapra",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Ayşa Boşnak Börekçisi",
       "cuisine": "Turkish",
       "price": "$",
-      "path": "/trkiye/izmir/izmir/AyaBonakBrekisi"
+      "path": "/trkiye/izmir/izmir/aya-bonak-brekisi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Beğendik Abi",
       "cuisine": "Turkish",
       "price": "$",
-      "path": "/trkiye/izmir/izmir/BeendikAbi"
+      "path": "/trkiye/izmir/izmir/beendik-abi",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Kemal'in Yeri",
       "cuisine": "Turkish",
       "price": "$",
-      "path": "/trkiye/izmir/izmir/KemalinYeri"
+      "path": "/trkiye/izmir/izmir/kemalin-yeri",
+      "award": "Bib Gourmand"
     },
     {
       "name": "LA Mahzen",
       "cuisine": "International",
       "price": "$$",
-      "path": "/trkiye/izmir/izmir/LaMahzen"
+      "path": "/trkiye/izmir/izmir/la-mahzen",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Partal Kardeşler Balık Restorant",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/trkiye/izmir/izmir/PartalKardelerBalkRestorant"
+      "path": "/trkiye/izmir/izmir/partal-kardeler-balk-restorant",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tavacı Recep Usta Alsancak",
       "cuisine": "Turkish",
       "price": "$$",
-      "path": "/trkiye/izmir/izmir/TavacRecepUstaAlsancak"
+      "path": "/trkiye/izmir/izmir/tavac-recep-usta-alsancak",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Balmumu Dükkan Lokanta",
       "cuisine": "Turkish",
       "price": "$",
-      "path": "/trkiye/izmir/izmir/BalmumuDkkanLokanta"
+      "path": "/trkiye/izmir/izmir/balmumu-dkkan-lokanta"
     },
     {
       "name": "Birinci Kordon Balık Restoran",
       "cuisine": "Seafood",
       "price": "$$",
-      "path": "/trkiye/izmir/izmir/BirinciKordonBalkRestoran"
-    },
-    {
-      "name": "Emektar Kebap",
-      "cuisine": "Turkish",
-      "price": "$",
-      "path": "/trkiye/izmir/izmir/EmektarKebap"
-    },
-    {
-      "name": "Esca",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/trkiye/izmir/izmir/Esca"
-    },
-    {
-      "name": "Hiç Lokanta",
-      "cuisine": "Regional Cuisine",
-      "price": "$$$",
-      "path": "/trkiye/izmir/izmir/HiLokanta"
-    },
-    {
-      "name": "Hus Şarapçılık",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$$",
-      "path": "/trkiye/izmir/izmir/HusAraplk"
-    },
-    {
-      "name": "Kasap Fuat Alsancak",
-      "cuisine": "Meats and Grills",
-      "price": "$$",
-      "path": "/trkiye/izmir/izmir/KasapFuatAlsancak"
-    },
-    {
-      "name": "Kasap Fuat Çeşme",
-      "cuisine": "Meats and Grills",
-      "price": "$$",
-      "path": "/trkiye/izmir/izmir/KasapFuatEme"
-    },
-    {
-      "name": "Levan",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/izmir/izmir/Levan"
-    },
-    {
-      "name": "Ritüel",
-      "cuisine": "Turkish",
-      "price": "$$$$",
-      "path": "/trkiye/izmir/izmir/Ritel"
-    },
-    {
-      "name": "Roka Bahçe",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/izmir/izmir/RokaBahe"
-    },
-    {
-      "name": "SOTA ALAÇATI",
-      "cuisine": "Seafood",
-      "price": "$$$",
-      "path": "/trkiye/izmir/izmir/SotaAlaati"
-    },
-    {
-      "name": "Scappi",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "$$",
-      "path": "/trkiye/izmir/izmir/Scappi"
-    },
-    {
-      "name": "Seyhan Et",
-      "cuisine": "Meats and Grills",
-      "price": "$$$",
-      "path": "/trkiye/izmir/izmir/SeyhanEt"
-    },
-    {
-      "name": "Terakki",
-      "cuisine": "Turkish",
-      "price": "$$",
-      "path": "/trkiye/izmir/izmir/Terakki"
+      "path": "/trkiye/izmir/izmir/birinci-kordon-balk-restoran"
     },
     {
       "name": "ÇARK balık Çeşme",
       "cuisine": "Seafood",
       "price": "$$$",
-      "path": "/trkiye/izmir/izmir/ArkBalkEme"
+      "path": "/trkiye/izmir/izmir/ark-balk-eme"
+    },
+    {
+      "name": "Emektar Kebap",
+      "cuisine": "Turkish",
+      "price": "$",
+      "path": "/trkiye/izmir/izmir/emektar-kebap"
+    },
+    {
+      "name": "Esca",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/trkiye/izmir/izmir/esca"
+    },
+    {
+      "name": "Hiç Lokanta",
+      "cuisine": "Regional Cuisine",
+      "price": "$$$",
+      "path": "/trkiye/izmir/izmir/hi-lokanta"
+    },
+    {
+      "name": "Hus Şarapçılık",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/trkiye/izmir/izmir/hus-araplk"
     },
     {
       "name": "İsabey Bağevi",
       "cuisine": "Mediterranean Cuisine",
       "price": "$",
-      "path": "/trkiye/izmir/izmir/SabeyBaevi"
+      "path": "/trkiye/izmir/izmir/sabey-baevi"
+    },
+    {
+      "name": "Kasap Fuat Alsancak",
+      "cuisine": "Meats and Grills",
+      "price": "$$",
+      "path": "/trkiye/izmir/izmir/kasap-fuat-alsancak"
+    },
+    {
+      "name": "Kasap Fuat Çeşme",
+      "cuisine": "Meats and Grills",
+      "price": "$$",
+      "path": "/trkiye/izmir/izmir/kasap-fuat-eme"
+    },
+    {
+      "name": "Levan",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/izmir/izmir/levan"
+    },
+    {
+      "name": "Ritüel",
+      "cuisine": "Turkish",
+      "price": "$$$$",
+      "path": "/trkiye/izmir/izmir/ritel"
+    },
+    {
+      "name": "Roka Bahçe",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/izmir/izmir/roka-bahe"
+    },
+    {
+      "name": "Scappi",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "$$",
+      "path": "/trkiye/izmir/izmir/scappi"
+    },
+    {
+      "name": "Seyhan Et",
+      "cuisine": "Meats and Grills",
+      "price": "$$$",
+      "path": "/trkiye/izmir/izmir/seyhan-et"
+    },
+    {
+      "name": "SOTA ALAÇATI",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/trkiye/izmir/izmir/sota-alaati"
+    },
+    {
+      "name": "Terakki",
+      "cuisine": "Turkish",
+      "price": "$$",
+      "path": "/trkiye/izmir/izmir/terakki"
     }
   ]
 }

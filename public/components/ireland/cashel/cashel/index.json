@@ -1,20 +1,27 @@
 {
   "title": "Cashel",
-  "country": "ireland",
-  "region": "cashel",
-  "city": "cashel",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "cashel",
+  "city": "Cashel",
+  "citySlug": "cashel",
+  "path": "/ireland/cashel/cashel/restaurants",
+  "canonicalPath": "/ireland/cashel/cashel/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "The Bishop's Buttery",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/ireland/cashel/cashel/the-bishops-buttery",
+      "award": "★"
+    },
     {
       "name": "Chez Hans",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
       "path": "/ireland/cashel/cashel/chez-hans"
-    },
-    {
-      "name": "The Bishop's Buttery",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/ireland/cashel/cashel/the-bishops-buttery"
     }
   ]
 }

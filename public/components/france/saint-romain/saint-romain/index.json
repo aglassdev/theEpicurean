@@ -1,8 +1,14 @@
 {
   "title": "Saint Romain",
-  "country": "france",
-  "region": "saint-romain",
-  "city": "saint-romain",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-romain",
+  "city": "Saint Romain",
+  "citySlug": "saint-romain",
+  "path": "/france/saint-romain/saint-romain/restaurants",
+  "canonicalPath": "/france/saint-romain/saint-romain/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bistrot des Falaises",

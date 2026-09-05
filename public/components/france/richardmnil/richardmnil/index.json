@@ -1,14 +1,20 @@
 {
   "title": "Richardmnil",
-  "country": "france",
-  "region": "richardmnil",
-  "city": "richardmnil",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "richardmnil",
+  "city": "Richardmnil",
+  "citySlug": "richardmnil",
+  "path": "/france/richardmnil/richardmnil/restaurants",
+  "canonicalPath": "/france/richardmnil/richardmnil/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Au Bon Accueil",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/richardmnil/richardmnil/au-bon-accueil"
+      "path": "/france/richardmnil/richardmnil/au-bon-accueil-r-i-c"
     }
   ]
 }

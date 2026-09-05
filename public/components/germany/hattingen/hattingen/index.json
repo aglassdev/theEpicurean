@@ -1,8 +1,14 @@
 {
   "title": "Hattingen",
-  "country": "germany",
-  "region": "hattingen",
-  "city": "hattingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "hattingen",
+  "city": "Hattingen",
+  "citySlug": "hattingen",
+  "path": "/germany/hattingen/hattingen/restaurants",
+  "canonicalPath": "/germany/hattingen/hattingen/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Diergardts Kühler Grund",
@@ -14,7 +20,7 @@
       "name": "Fachwerk",
       "cuisine": "Regional Cuisine, Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/germany/hattingen/hattingen/fachwerk"
+      "path": "/germany/hattingen/hattingen/fachwerk-h-a-t"
     }
   ]
 }

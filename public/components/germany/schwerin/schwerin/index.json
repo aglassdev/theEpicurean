@@ -1,8 +1,14 @@
 {
   "title": "Schwerin",
-  "country": "germany",
-  "region": "schwerin",
-  "city": "schwerin",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "schwerin",
+  "city": "Schwerin",
+  "citySlug": "schwerin",
+  "path": "/germany/schwerin/schwerin/restaurants",
+  "canonicalPath": "/germany/schwerin/schwerin/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Cube by Mika",
@@ -20,7 +26,7 @@
       "name": "Gourmetrestaurant 1751",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€€",
-      "path": "/germany/schwerin/schwerin/gourmetrestaurant-1751"
+      "path": "/germany/schwerin/schwerin/gourmetrestaurant1751"
     },
     {
       "name": "La Bouche et El Pato",

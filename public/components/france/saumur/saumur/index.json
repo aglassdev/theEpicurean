@@ -1,32 +1,20 @@
 {
   "title": "Saumur",
-  "country": "france",
-  "region": "saumur",
-  "city": "saumur",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saumur",
+  "city": "Saumur",
+  "citySlug": "saumur",
+  "path": "/france/saumur/saumur/restaurants",
+  "canonicalPath": "/france/saumur/saumur/restaurants",
+  "count": 8,
   "restaurants": [
-    {
-      "name": "La Table By Mi-K'L",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/saumur/saumur/la-table-by-mi-kl"
-    },
-    {
-      "name": "La Table du Château Gratien",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/saumur/saumur/la-table-du-chteau-gratien"
-    },
     {
       "name": "L'Alchimiste",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/saumur/saumur/lalchimiste"
-    },
-    {
-      "name": "Le Boeuf Noisette",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/saumur/saumur/le-boeuf-noisette"
     },
     {
       "name": "L'Escargot",
@@ -38,13 +26,31 @@
       "name": "L'Essentiel",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/saumur/saumur/lessentiel"
+      "path": "/france/saumur/saumur/lessentiel-s-a-u"
     },
     {
       "name": "L'Instinct",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/saumur/saumur/linstinct"
+    },
+    {
+      "name": "La Table By Mi-K'L",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/saumur/saumur/la-table-by-mikl"
+    },
+    {
+      "name": "La Table du Château Gratien",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/saumur/saumur/la-table-du-chteau-gratien"
+    },
+    {
+      "name": "Le Boeuf Noisette",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/saumur/saumur/le-boeuf-noisette"
     },
     {
       "name": "Masama",

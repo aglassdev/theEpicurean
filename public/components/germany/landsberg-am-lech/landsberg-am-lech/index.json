@@ -1,14 +1,21 @@
 {
-  "title": "Landsberg Am Lech",
-  "country": "germany",
-  "region": "landsberg-am-lech",
-  "city": "landsberg-am-lech",
+  "title": "Landsberg am Lech",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "landsberg-am-lech",
+  "city": "Landsberg am Lech",
+  "citySlug": "landsberg-am-lech",
+  "path": "/germany/landsberg-am-lech/landsberg-am-lech/restaurants",
+  "canonicalPath": "/germany/landsberg-am-lech/landsberg-am-lech/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lech-Line",
       "cuisine": "Modern Cuisine, International",
       "price": "€€€€",
-      "path": "/germany/landsberg-am-lech/landsberg-am-lech/lech-line"
+      "path": "/germany/landsberg-am-lech/landsberg-am-lech/lechline",
+      "award": "★"
     }
   ]
 }

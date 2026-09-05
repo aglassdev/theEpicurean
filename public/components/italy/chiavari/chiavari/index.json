@@ -1,20 +1,20 @@
 {
   "title": "Chiavari",
-  "country": "italy",
-  "region": "chiavari",
-  "city": "chiavari",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "chiavari",
+  "city": "Chiavari",
+  "citySlug": "chiavari",
+  "path": "/italy/chiavari/chiavari/restaurants",
+  "canonicalPath": "/italy/chiavari/chiavari/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Da Felice",
       "cuisine": "Ligurian, Seafood",
       "price": "€€",
       "path": "/italy/chiavari/chiavari/da-felice"
-    },
-    {
-      "name": "Duo",
-      "cuisine": "Contemporary, Italian",
-      "price": "€€",
-      "path": "/italy/chiavari/chiavari/duo"
     },
     {
       "name": "Duo",

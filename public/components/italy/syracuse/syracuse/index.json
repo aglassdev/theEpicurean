@@ -1,14 +1,21 @@
 {
   "title": "Syracuse",
-  "country": "italy",
-  "region": "syracuse",
-  "city": "syracuse",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "syracuse",
+  "city": "Syracuse",
+  "citySlug": "syracuse",
+  "path": "/italy/syracuse/syracuse/restaurants",
+  "canonicalPath": "/italy/syracuse/syracuse/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Cortile Spirito Santo",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/syracuse/syracuse/cortile-spirito-santo"
+      "path": "/italy/syracuse/syracuse/cortile-spirito-santo",
+      "award": "★"
     },
     {
       "name": "Don Camillo",

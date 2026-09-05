@@ -1,9 +1,43 @@
 {
   "title": "Stavanger",
-  "country": "norway",
-  "region": "stavanger",
-  "city": "stavanger",
+  "country": "Norway",
+  "countrySlug": "norway",
+  "region": null,
+  "regionSlug": "stavanger",
+  "city": "Stavanger",
+  "citySlug": "stavanger",
+  "path": "/norway/stavanger/stavanger/restaurants",
+  "canonicalPath": "/norway/stavanger/stavanger/restaurants",
+  "count": 8,
   "restaurants": [
+    {
+      "name": "RE-NAA",
+      "cuisine": "Creative, Seafood",
+      "price": "€€€€",
+      "path": "/norway/stavanger/stavanger/renaa",
+      "award": "★★★"
+    },
+    {
+      "name": "Hermetikken",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/norway/stavanger/stavanger/hermetikken",
+      "award": "★"
+    },
+    {
+      "name": "K2",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/norway/stavanger/stavanger/k2",
+      "award": "★"
+    },
+    {
+      "name": "Sabi Omakase Stavanger",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/norway/stavanger/stavanger/sabi-omakase-stavanger",
+      "award": "★"
+    },
     {
       "name": "BELLIES",
       "cuisine": "Vegan, Vegetarian",
@@ -15,36 +49,6 @@
       "cuisine": "Norwegian, Modern Cuisine",
       "price": "€€",
       "path": "/norway/stavanger/stavanger/bravo"
-    },
-    {
-      "name": "Hermetikken",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/norway/stavanger/stavanger/hermetikken"
-    },
-    {
-      "name": "K2",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/norway/stavanger/stavanger/k2"
-    },
-    {
-      "name": "RE-NAA",
-      "cuisine": "Creative, Seafood",
-      "price": "€€€€",
-      "path": "/norway/stavanger/stavanger/re-naa"
-    },
-    {
-      "name": "Sabi Omakase Stavanger",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/norway/stavanger/stavanger/sabi-omakase-stavanger"
-    },
-    {
-      "name": "Söl",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/norway/stavanger/stavanger/sl"
     },
     {
       "name": "Söl",

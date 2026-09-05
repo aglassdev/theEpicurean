@@ -1,8 +1,14 @@
 {
   "title": "Troyes",
-  "country": "france",
-  "region": "troyes",
-  "city": "troyes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "troyes",
+  "city": "Troyes",
+  "citySlug": "troyes",
+  "path": "/france/troyes/troyes/restaurants",
+  "canonicalPath": "/france/troyes/troyes/restaurants",
+  "count": 5,
   "restaurants": [
     {
       "name": "Aux Crieurs de Vin",

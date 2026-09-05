@@ -1,20 +1,84 @@
 {
   "title": "Geneva",
-  "country": "switzerland",
-  "region": "geneva",
-  "city": "geneva",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "geneva",
+  "city": "Geneva",
+  "citySlug": "geneva",
+  "path": "/switzerland/geneva/geneva/restaurants",
+  "canonicalPath": "/switzerland/geneva/geneva/restaurants",
+  "count": 35,
   "restaurants": [
+    {
+      "name": "L'Atelier Robuchon",
+      "cuisine": "French Contemporary",
+      "price": "€€€€",
+      "path": "/switzerland/geneva/geneva/latelier-robuchon",
+      "award": "★★"
+    },
     {
       "name": "Arakel",
       "cuisine": "Modern Cuisine, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/switzerland/geneva/geneva/arakel"
+      "path": "/switzerland/geneva/geneva/arakel",
+      "award": "★"
     },
     {
       "name": "Bayview by Michel Roth",
       "cuisine": "Creative, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/switzerland/geneva/geneva/bayview-by-michel-roth"
+      "path": "/switzerland/geneva/geneva/bayview-by-michel-roth",
+      "award": "★"
+    },
+    {
+      "name": "F.P.Journe Le Restaurant",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/switzerland/geneva/geneva/fpjourne-le-restaurant",
+      "award": "★"
+    },
+    {
+      "name": "Il Lago",
+      "cuisine": "Italian, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/geneva/geneva/il-lago",
+      "award": "★"
+    },
+    {
+      "name": "L'Aparté",
+      "cuisine": "Modern French, Farm to table",
+      "price": "€€€",
+      "path": "/switzerland/geneva/geneva/lapart-g-e-n",
+      "award": "★"
+    },
+    {
+      "name": "La Micheline",
+      "cuisine": "Mediterranean Cuisine, French Contemporary",
+      "price": "€€€",
+      "path": "/switzerland/geneva/geneva/la-micheline",
+      "award": "★"
+    },
+    {
+      "name": "Le Chat-Botté",
+      "cuisine": "Modern French, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/switzerland/geneva/geneva/le-chatbott",
+      "award": "★"
+    },
+    {
+      "name": "Tosca",
+      "cuisine": "Tuscan",
+      "price": "€€€€",
+      "path": "/switzerland/geneva/geneva/tosca",
+      "award": "★"
+    },
+    {
+      "name": "Tsé Fung",
+      "cuisine": "Chinese",
+      "price": "€€€",
+      "path": "/switzerland/geneva/geneva/ts-fung",
+      "award": "★"
     },
     {
       "name": "Bistrot du Boeuf Rouge",
@@ -53,18 +117,6 @@
       "path": "/switzerland/geneva/geneva/fiskebar"
     },
     {
-      "name": "F.P.Journe Le Restaurant",
-      "cuisine": "Modern French",
-      "price": "€€€",
-      "path": "/switzerland/geneva/geneva/fpjourne-le-restaurant"
-    },
-    {
-      "name": "Il Lago",
-      "cuisine": "Italian, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/geneva/geneva/il-lago"
-    },
-    {
       "name": "Izumi",
       "cuisine": "Japanese Contemporary",
       "price": "€€€",
@@ -77,28 +129,10 @@
       "path": "/switzerland/geneva/geneva/kakinuma"
     },
     {
-      "name": "La Cantine des Commerçants",
-      "cuisine": "Modern French, Seasonal Cuisine",
-      "price": "€€",
-      "path": "/switzerland/geneva/geneva/la-cantine-des-commerants"
-    },
-    {
-      "name": "La Micheline",
-      "cuisine": "Mediterranean Cuisine, French Contemporary",
-      "price": "€€€",
-      "path": "/switzerland/geneva/geneva/la-micheline"
-    },
-    {
       "name": "L'Agape",
       "cuisine": "Seasonal Cuisine, Contemporary",
       "price": "€€",
-      "path": "/switzerland/geneva/geneva/lagape"
-    },
-    {
-      "name": "L'Aparté",
-      "cuisine": "Modern French, Farm to table",
-      "price": "€€€",
-      "path": "/switzerland/geneva/geneva/lapart"
+      "path": "/switzerland/geneva/geneva/lagape-g-e-n"
     },
     {
       "name": "L'Arabesque",
@@ -107,22 +141,16 @@
       "path": "/switzerland/geneva/geneva/larabesque"
     },
     {
-      "name": "L'Atelier Robuchon",
-      "cuisine": "French Contemporary",
-      "price": "€€€€",
-      "path": "/switzerland/geneva/geneva/latelier-robuchon"
+      "name": "La Cantine des Commerçants",
+      "cuisine": "Modern French, Seasonal Cuisine",
+      "price": "€€",
+      "path": "/switzerland/geneva/geneva/la-cantine-des-commerants"
     },
     {
       "name": "Le Bologne",
       "cuisine": "Classic Cuisine",
       "price": "€€",
       "path": "/switzerland/geneva/geneva/le-bologne"
-    },
-    {
-      "name": "Le Chat-Botté",
-      "cuisine": "Modern French, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/switzerland/geneva/geneva/le-chat-bott"
     },
     {
       "name": "Le Dorian",
@@ -134,7 +162,7 @@
       "name": "Le Grill",
       "cuisine": "Meats and Grills",
       "price": "€€",
-      "path": "/switzerland/geneva/geneva/le-grill"
+      "path": "/switzerland/geneva/geneva/le-grill-g-e-n"
     },
     {
       "name": "Le Jardinier",
@@ -146,7 +174,7 @@
       "name": "Le Patio",
       "cuisine": "Creative French, Traditional Cuisine",
       "price": "€€",
-      "path": "/switzerland/geneva/geneva/le-patio"
+      "path": "/switzerland/geneva/geneva/le-patio-g-e-n"
     },
     {
       "name": "Matière",
@@ -191,28 +219,10 @@
       "path": "/switzerland/geneva/geneva/suahoy"
     },
     {
-      "name": "Tosca",
-      "cuisine": "Tuscan",
-      "price": "€€€€",
-      "path": "/switzerland/geneva/geneva/tosca"
-    },
-    {
-      "name": "Tosca",
-      "cuisine": "Tuscan",
-      "price": "€€€€",
-      "path": "/switzerland/geneva/geneva/tosca"
-    },
-    {
-      "name": "Tsé Fung",
-      "cuisine": "Chinese",
-      "price": "€€€",
-      "path": "/switzerland/geneva/geneva/ts-fung"
-    },
-    {
       "name": "Vieux-Bois",
       "cuisine": "French, Farm to table",
       "price": "€€",
-      "path": "/switzerland/geneva/geneva/vieux-bois"
+      "path": "/switzerland/geneva/geneva/vieuxbois"
     },
     {
       "name": "Windows",

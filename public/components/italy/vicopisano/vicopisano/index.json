@@ -1,8 +1,14 @@
 {
   "title": "Vicopisano",
-  "country": "italy",
-  "region": "vicopisano",
-  "city": "vicopisano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "vicopisano",
+  "city": "Vicopisano",
+  "citySlug": "vicopisano",
+  "path": "/italy/vicopisano/vicopisano/restaurants",
+  "canonicalPath": "/italy/vicopisano/vicopisano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Osteria Vecchia Noce",

@@ -1,14 +1,21 @@
 {
   "title": "Castiglione Della Pescaia",
-  "country": "italy",
-  "region": "castiglione-della-pescaia",
-  "city": "castiglione-della-pescaia",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "castiglione-della-pescaia",
+  "city": "Castiglione Della Pescaia",
+  "citySlug": "castiglione-della-pescaia",
+  "path": "/italy/castiglione-della-pescaia/castiglione-della-pescaia/restaurants",
+  "canonicalPath": "/italy/castiglione-della-pescaia/castiglione-della-pescaia/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Trattoria Enrico Bartolini",
       "cuisine": "Mediterranean Cuisine, Contemporary",
       "price": "€€€€",
-      "path": "/italy/castiglione-della-pescaia/castiglione-della-pescaia/la-trattoria-enrico-bartolini"
+      "path": "/italy/castiglione-della-pescaia/castiglione-della-pescaia/la-trattoria-enrico-bartolini",
+      "award": "★"
     },
     {
       "name": "Osteria del Mare già il Votapentole",

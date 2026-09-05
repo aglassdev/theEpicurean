@@ -1,14 +1,21 @@
 {
   "title": "Marburg",
-  "country": "germany",
-  "region": "marburg",
-  "city": "marburg",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "marburg",
+  "city": "Marburg",
+  "citySlug": "marburg",
+  "path": "/germany/marburg/marburg/restaurants",
+  "canonicalPath": "/germany/marburg/marburg/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "MARBURGER Esszimmer",
       "cuisine": "Modern French, Contemporary",
       "price": "€€€€",
-      "path": "/germany/marburg/marburg/marburger-esszimmer"
+      "path": "/germany/marburg/marburg/marburger-esszimmer",
+      "award": "★"
     }
   ]
 }

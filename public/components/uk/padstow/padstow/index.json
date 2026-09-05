@@ -1,20 +1,27 @@
 {
   "title": "Padstow",
-  "country": "uk",
-  "region": "padstow",
-  "city": "padstow",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "padstow",
+  "city": "Padstow",
+  "citySlug": "padstow",
+  "path": "/uk/padstow/padstow/restaurants",
+  "canonicalPath": "/uk/padstow/padstow/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Paul Ainsworth at No.6",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/padstow/padstow/paul-ainsworth-at-no6",
+      "award": "★"
+    },
     {
       "name": "Caffè Rojano",
       "cuisine": "Mediterranean Cuisine",
       "price": "££",
       "path": "/uk/padstow/padstow/caff-rojano"
-    },
-    {
-      "name": "Paul Ainsworth at No.6",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/padstow/padstow/paul-ainsworth-at-no6"
     },
     {
       "name": "Prawn on the Lawn",

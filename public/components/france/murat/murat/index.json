@@ -1,8 +1,14 @@
 {
   "title": "Murat",
-  "country": "france",
-  "region": "murat",
-  "city": "murat",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "murat",
+  "city": "Murat",
+  "citySlug": "murat",
+  "path": "/france/murat/murat/restaurants",
+  "canonicalPath": "/france/murat/murat/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Jarrousset",

@@ -1,8 +1,14 @@
 {
   "title": "Bastia",
-  "country": "france",
-  "region": "bastia",
-  "city": "bastia",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bastia",
+  "city": "Bastia",
+  "citySlug": "bastia",
+  "path": "/france/bastia/bastia/restaurants",
+  "canonicalPath": "/france/bastia/bastia/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "ADN",

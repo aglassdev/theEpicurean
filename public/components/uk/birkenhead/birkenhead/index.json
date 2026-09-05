@@ -1,8 +1,14 @@
 {
   "title": "Birkenhead",
-  "country": "uk",
-  "region": "birkenhead",
-  "city": "birkenhead",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "birkenhead",
+  "city": "Birkenhead",
+  "citySlug": "birkenhead",
+  "path": "/uk/birkenhead/birkenhead/restaurants",
+  "canonicalPath": "/uk/birkenhead/birkenhead/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "OXA",

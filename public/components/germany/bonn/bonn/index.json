@@ -1,11 +1,35 @@
 {
   "title": "Bonn",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "bonn",
+  "city": "Bonn",
+  "citySlug": "bonn",
+  "path": "/germany/bonn/bonn/restaurants",
+  "canonicalPath": "/germany/bonn/bonn/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "halbedel's Gasthaus",
       "cuisine": "Modern French",
       "price": "€€€€",
-      "path": "/germany/bonn/bonn/halbedels-gasthaus"
+      "path": "/germany/bonn/bonn/halbedels-gasthaus",
+      "award": "★"
+    },
+    {
+      "name": "Theodor's",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/germany/bonn/bonn/theodors",
+      "award": "★"
+    },
+    {
+      "name": "Yunico",
+      "cuisine": "Japanese, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/germany/bonn/bonn/yunico",
+      "award": "★"
     },
     {
       "name": "Konrad's",
@@ -24,18 +48,6 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
       "path": "/germany/bonn/bonn/strandhaus"
-    },
-    {
-      "name": "Yunico",
-      "cuisine": "Japanese, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/germany/bonn/bonn/yunico"
-    },
-    {
-      "name": "Theodor's",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/germany/bonn/bonn/Theodors"
     }
   ]
 }

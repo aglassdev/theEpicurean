@@ -1,20 +1,27 @@
 {
   "title": "Llan",
-  "country": "spain",
-  "region": "llan",
-  "city": "llan",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "llan",
+  "city": "Llan",
+  "citySlug": "llan",
+  "path": "/spain/llan/llan/restaurants",
+  "canonicalPath": "/spain/llan/llan/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Miramar",
+      "cuisine": "Creative, Seafood",
+      "price": "€€€€",
+      "path": "/spain/llan/llan/miramar-l-l-a",
+      "award": "★★"
+    },
     {
       "name": "El Vaixell",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/spain/llan/llan/el-vaixell"
-    },
-    {
-      "name": "Miramar",
-      "cuisine": "Creative, Seafood",
-      "price": "€€€€",
-      "path": "/spain/llan/llan/miramar"
     }
   ]
 }

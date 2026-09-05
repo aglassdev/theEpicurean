@@ -1,15 +1,15 @@
 {
   "title": "Spa",
-  "country": "belgium",
-  "region": "spa",
-  "city": "spa",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "spa",
+  "city": "Spa",
+  "citySlug": "spa",
+  "path": "/belgium/spa/spa/restaurants",
+  "canonicalPath": "/belgium/spa/spa/restaurants",
+  "count": 5,
   "restaurants": [
-    {
-      "name": "La Cour de la Reine",
-      "cuisine": "Modern French",
-      "price": "€€€",
-      "path": "/belgium/spa/spa/la-cour-de-la-reine"
-    },
     {
       "name": "L'Art de Vivre",
       "cuisine": "Modern French",
@@ -20,13 +20,19 @@
       "name": "L'Auberge",
       "cuisine": "French",
       "price": "€€",
-      "path": "/belgium/spa/spa/lauberge"
+      "path": "/belgium/spa/spa/lauberge-s-p-a"
+    },
+    {
+      "name": "La Cour de la Reine",
+      "cuisine": "Modern French",
+      "price": "€€€",
+      "path": "/belgium/spa/spa/la-cour-de-la-reine"
     },
     {
       "name": "Linéa",
       "cuisine": "Italian Contemporary",
       "price": "€€€",
-      "path": "/belgium/spa/spa/lina"
+      "path": "/belgium/spa/spa/lina-s-p-a"
     },
     {
       "name": "Manoir de Lébioles",

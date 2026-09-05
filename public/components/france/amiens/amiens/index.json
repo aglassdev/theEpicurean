@@ -1,8 +1,14 @@
 {
   "title": "Amiens",
-  "country": "france",
-  "region": "amiens",
-  "city": "amiens",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "amiens",
+  "city": "Amiens",
+  "citySlug": "amiens",
+  "path": "/france/amiens/amiens/restaurants",
+  "canonicalPath": "/france/amiens/amiens/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Ail des Ours",

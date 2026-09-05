@@ -1,14 +1,21 @@
 {
-  "title": "Reguengos De Monsaraz",
-  "country": "portugal",
-  "region": "reguengos-de-monsaraz",
-  "city": "reguengos-de-monsaraz",
+  "title": "Reguengos de Monsaraz",
+  "country": "Portugal",
+  "countrySlug": "portugal",
+  "region": null,
+  "regionSlug": "reguengos-de-monsaraz",
+  "city": "Reguengos de Monsaraz",
+  "citySlug": "reguengos-de-monsaraz",
+  "path": "/portugal/reguengos-de-monsaraz/reguengos-de-monsaraz/restaurants",
+  "canonicalPath": "/portugal/reguengos-de-monsaraz/reguengos-de-monsaraz/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Herdade do Esporão",
       "cuisine": "Contemporary",
       "price": "€€€",
-      "path": "/portugal/reguengos-de-monsaraz/reguengos-de-monsaraz/herdade-do-esporo"
+      "path": "/portugal/reguengos-de-monsaraz/reguengos-de-monsaraz/herdade-do-esporo",
+      "award": "★"
     }
   ]
 }

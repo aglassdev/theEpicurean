@@ -1,20 +1,28 @@
 {
   "title": "Dorsten",
-  "country": "germany",
-  "region": "dorsten",
-  "city": "dorsten",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "dorsten",
+  "city": "Dorsten",
+  "citySlug": "dorsten",
+  "path": "/germany/dorsten/dorsten/restaurants",
+  "canonicalPath": "/germany/dorsten/dorsten/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Goldener Anker",
       "cuisine": "Modern Cuisine, Classic French",
       "price": "€€€€",
-      "path": "/germany/dorsten/dorsten/goldener-anker"
+      "path": "/germany/dorsten/dorsten/goldener-anker",
+      "award": "★"
     },
     {
       "name": "Rosin",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/germany/dorsten/dorsten/rosin"
+      "path": "/germany/dorsten/dorsten/rosin",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
   "title": "Rekem",
-  "country": "belgium",
-  "region": "rekem",
-  "city": "rekem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "rekem",
+  "city": "Rekem",
+  "citySlug": "rekem",
+  "path": "/belgium/rekem/rekem/restaurants",
+  "canonicalPath": "/belgium/rekem/rekem/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Source",
       "cuisine": "Modern French",
       "price": "€€€€",
-      "path": "/belgium/rekem/rekem/la-source"
+      "path": "/belgium/rekem/rekem/la-source-r-e-k"
     },
     {
       "name": "Le Philippe",

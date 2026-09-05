@@ -1,15 +1,15 @@
 {
   "title": "Val David",
-  "country": "canada",
-  "region": "val-david",
-  "city": "val-david",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "val-david",
+  "city": "Val David",
+  "citySlug": "val-david",
+  "path": "/canada/val-david/val-david/restaurants",
+  "canonicalPath": "/canada/val-david/val-david/restaurants",
+  "count": 1,
   "restaurants": [
-    {
-      "name": "L’Épicurieux",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "$$$",
-      "path": "/canada/val-david/val-david/lpicurieux"
-    },
     {
       "name": "L’Épicurieux",
       "cuisine": "Modern Cuisine, Creative",

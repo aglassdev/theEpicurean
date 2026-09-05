@@ -94,7 +94,7 @@ async function processDirectory(dir, relativePath = '', skipExisting = false) {
       failed += result.failed;
       skipped += result.skipped || 0;
     } else if (entry.isFile() && entry.name.endsWith('.jsx')) {
-      const skipFiles = ['Home.jsx', 'App.jsx', 'Destinations.jsx', 'Methodology.jsx', 'InteractiveMap.jsx', 'main.jsx', 'RestaurantTemplate.jsx'];
+      const skipFiles = ['Restaurants.jsx', 'CityPage.jsx', 'EpiChrome.jsx', 'News.jsx', 'WorldMap.jsx', 'WorldMapPage.jsx', 'Home.jsx', 'App.jsx', 'Destinations.jsx', 'Methodology.jsx', 'InteractiveMap.jsx', 'main.jsx', 'RestaurantTemplate.jsx'];
       if (skipFiles.some(f => entry.name.includes(f)) || entry.name.includes('backup') || entry.name.includes('test')) continue;
 
       const jsonPath = join(publicDataDir, newRelativePath.replace('.jsx', '.json'));

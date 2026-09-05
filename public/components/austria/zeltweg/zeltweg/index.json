@@ -1,8 +1,14 @@
 {
   "title": "Zeltweg",
-  "country": "austria",
-  "region": "zeltweg",
-  "city": "zeltweg",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "zeltweg",
+  "city": "Zeltweg",
+  "citySlug": "zeltweg",
+  "path": "/austria/zeltweg/zeltweg/restaurants",
+  "canonicalPath": "/austria/zeltweg/zeltweg/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Schloss Farrach - Das Restaurant",

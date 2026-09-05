@@ -1,8 +1,14 @@
 {
   "title": "Peillon",
-  "country": "france",
-  "region": "peillon",
-  "city": "peillon",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "peillon",
+  "city": "Peillon",
+  "citySlug": "peillon",
+  "path": "/france/peillon/peillon/restaurants",
+  "canonicalPath": "/france/peillon/peillon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Plaisirs",

@@ -1,14 +1,21 @@
 {
   "title": "Vietri Sul Mare",
-  "country": "italy",
-  "region": "vietri-sul-mare",
-  "city": "vietri-sul-mare",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "vietri-sul-mare",
+  "city": "Vietri Sul Mare",
+  "citySlug": "vietri-sul-mare",
+  "path": "/italy/vietri-sul-mare/vietri-sul-mare/restaurants",
+  "canonicalPath": "/italy/vietri-sul-mare/vietri-sul-mare/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Volta del Fuenti by Michele De Blasio",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/vietri-sul-mare/vietri-sul-mare/volta-del-fuenti-by-michele-de-blasio"
+      "path": "/italy/vietri-sul-mare/vietri-sul-mare/volta-del-fuenti-by-michele-de-blasio",
+      "award": "★"
     }
   ]
 }

@@ -1,15 +1,24 @@
 {
   "title": "Bilthoven",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "bilthoven",
+  "city": "Bilthoven",
+  "citySlug": "bilthoven",
+  "path": "/netherlands/bilthoven/bilthoven/restaurants",
+  "canonicalPath": "/netherlands/bilthoven/bilthoven/restaurants",
+  "count": 4,
   "restaurants": [
     {
-      "name": "Le Nord",
-      "cuisine": "Classic French",
-      "price": "€€",
-      "path": "/netherlands/bilthoven/bilthoven/le-nord"
+      "name": "Bistrôt Le Nord",
+      "cuisine": "Creative French",
+      "price": "$$",
+      "path": "/netherlands/bilthoven/bilthoven/bistrt-le-nord"
     },
     {
       "name": "Le Nord",
-      "cuisine": "Creative French",
+      "cuisine": "Classic French",
       "price": "€€",
       "path": "/netherlands/bilthoven/bilthoven/le-nord"
     },
@@ -20,16 +29,10 @@
       "path": "/netherlands/bilthoven/bilthoven/norra"
     },
     {
-      "name": "Bistrôt Le Nord",
-      "cuisine": "Creative French",
-      "price": "$$",
-      "path": "/netherlands/bilthoven/bilthoven/BistrtLeNord"
-    },
-    {
       "name": "NORRA by Le Nord",
       "cuisine": "French Contemporary",
       "price": "$$$",
-      "path": "/netherlands/bilthoven/bilthoven/NorraByLeNord"
+      "path": "/netherlands/bilthoven/bilthoven/norra-by-le-nord"
     }
   ]
 }

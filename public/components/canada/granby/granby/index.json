@@ -1,12 +1,15 @@
 {
   "title": "Granby",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "granby",
+  "city": "Granby",
+  "citySlug": "granby",
+  "path": "/canada/granby/granby/restaurants",
+  "canonicalPath": "/canada/granby/granby/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Maison Boire",
-      "cuisine": "Traditional Cuisine, Steakhouse",
-      "price": "$$$",
-      "path": "/canada/granby/granby/maison-boire"
-    },
     {
       "name": "Maison Boire",
       "cuisine": "Traditional Cuisine, Steakhouse",
@@ -17,7 +20,7 @@
       "name": "Pavane",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/canada/granby/granby/Pavane"
+      "path": "/canada/granby/granby/pavane"
     }
   ]
 }

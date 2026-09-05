@@ -1,8 +1,14 @@
 {
   "title": "Poisson",
-  "country": "france",
-  "region": "poisson",
-  "city": "poisson",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "poisson",
+  "city": "Poisson",
+  "citySlug": "poisson",
+  "path": "/france/poisson/poisson/restaurants",
+  "canonicalPath": "/france/poisson/poisson/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Poste et Hôtel La Reconce",

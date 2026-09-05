@@ -1,8 +1,14 @@
 {
   "title": "Allex",
-  "country": "france",
-  "region": "allex",
-  "city": "allex",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "allex",
+  "city": "Allex",
+  "citySlug": "allex",
+  "path": "/france/allex/allex/restaurants",
+  "canonicalPath": "/france/allex/allex/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Auberge d'Allex",

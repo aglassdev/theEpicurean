@@ -1,14 +1,20 @@
 {
   "title": "Bracieux",
-  "country": "france",
-  "region": "bracieux",
-  "city": "bracieux",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bracieux",
+  "city": "Bracieux",
+  "citySlug": "bracieux",
+  "path": "/france/bracieux/bracieux/restaurants",
+  "canonicalPath": "/france/bracieux/bracieux/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Rendez-vous des Gourmets",
       "cuisine": "Traditional Cuisine, Classic Cuisine",
       "price": "€€",
-      "path": "/france/bracieux/bracieux/le-rendez-vous-des-gourmets"
+      "path": "/france/bracieux/bracieux/le-rendezvous-des-gourmets"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Hillion",
-  "country": "france",
-  "region": "hillion",
-  "city": "hillion",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "hillion",
+  "city": "Hillion",
+  "citySlug": "hillion",
+  "path": "/france/hillion/hillion/restaurants",
+  "canonicalPath": "/france/hillion/hillion/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Bon Abri",

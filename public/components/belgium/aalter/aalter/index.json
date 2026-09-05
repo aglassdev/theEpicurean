@@ -1,20 +1,26 @@
 {
   "title": "Aalter",
-  "country": "belgium",
-  "region": "aalter",
-  "city": "aalter",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "aalter",
+  "city": "Aalter",
+  "citySlug": "aalter",
+  "path": "/belgium/aalter/aalter/restaurants",
+  "canonicalPath": "/belgium/aalter/aalter/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "Calla's",
-      "cuisine": "Seasonal Cuisine",
-      "price": "€€€",
-      "path": "/belgium/aalter/aalter/callas"
-    },
     {
       "name": "'t Vijfde Seizoen",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/belgium/aalter/aalter/t-vijfde-seizoen"
+    },
+    {
+      "name": "Calla's",
+      "cuisine": "Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/belgium/aalter/aalter/callas-a-a-l"
     }
   ]
 }

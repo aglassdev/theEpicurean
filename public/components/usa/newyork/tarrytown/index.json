@@ -1,0 +1,33 @@
+{
+  "title": "Tarrytown",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "New York",
+  "regionSlug": "newyork",
+  "city": "Tarrytown",
+  "citySlug": "tarrytown",
+  "path": "/usa/newyork/tarrytown/restaurants",
+  "canonicalPath": "/usa/newyork/tarrytown/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Blue Hill at Stone Barns",
+      "cuisine": "American, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/newyork/tarrytown/blue-hill-at-stone-barns",
+      "award": "★★"
+    },
+    {
+      "name": "Goosefeather",
+      "cuisine": "Cantonese, Asian",
+      "price": "$$$",
+      "path": "/usa/newyork/tarrytown/goosefeather"
+    },
+    {
+      "name": "Mint Premium Foods",
+      "cuisine": "Mediterranean Cuisine, Gastropub",
+      "price": "$$$",
+      "path": "/usa/newyork/tarrytown/mint-premium-foods"
+    }
+  ]
+}

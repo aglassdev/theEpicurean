@@ -1,14 +1,27 @@
 {
-  "title": "St Julians",
-  "country": "malta",
-  "region": "st-julians",
-  "city": "st-julians",
+  "title": "St. Julians",
+  "country": "Malta",
+  "countrySlug": "malta",
+  "region": null,
+  "regionSlug": "st-julians",
+  "city": "St. Julians",
+  "citySlug": "st-julians",
+  "path": "/malta/st-julians/st-julians/restaurants",
+  "canonicalPath": "/malta/st-julians/st-julians/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Rosamì",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€",
+      "path": "/malta/st-julians/st-julians/rosam",
+      "award": "★"
+    },
     {
       "name": "Anima",
       "cuisine": "Italian, Sicilian",
       "price": "€€€",
-      "path": "/malta/st-julians/st-julians/anima"
+      "path": "/malta/st-julians/st-julians/anima-s-t-j"
     },
     {
       "name": "Caviar & Bull",
@@ -23,16 +36,10 @@
       "path": "/malta/st-julians/st-julians/le-majoliche"
     },
     {
-      "name": "Rosamì",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€",
-      "path": "/malta/st-julians/st-julians/rosam"
-    },
-    {
       "name": "Zest",
       "cuisine": "Asian",
       "price": "€€",
-      "path": "/malta/st-julians/st-julians/zest"
+      "path": "/malta/st-julians/st-julians/zest-s-t-j"
     }
   ]
 }

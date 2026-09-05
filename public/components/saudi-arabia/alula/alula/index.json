@@ -1,29 +1,40 @@
 {
-  "title": "AlUla",
+  "title": "Alula",
+  "country": "Saudi Arabia",
+  "countrySlug": "saudi-arabia",
+  "region": null,
+  "regionSlug": "alula",
+  "city": "Alula",
+  "citySlug": "alula",
+  "path": "/saudi-arabia/alula/alula/restaurants",
+  "canonicalPath": "/saudi-arabia/alula/alula/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Joontos",
       "cuisine": "Middle Eastern",
       "price": "$$",
-      "path": "/saudi-arabia/alula/alula/Joontos"
+      "path": "/saudi-arabia/alula/alula/joontos",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Tofareya",
       "cuisine": "Saudi Cuisine",
       "price": "$",
-      "path": "/saudi-arabia/alula/alula/Tofareya"
+      "path": "/saudi-arabia/alula/alula/tofareya",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Harrat",
       "cuisine": "Middle Eastern",
       "price": "$$$$",
-      "path": "/saudi-arabia/alula/alula/Harrat"
+      "path": "/saudi-arabia/alula/alula/harrat"
     },
     {
       "name": "Somewhere",
       "cuisine": "Middle Eastern",
       "price": "$$",
-      "path": "/saudi-arabia/alula/alula/Somewhere"
+      "path": "/saudi-arabia/alula/alula/somewhere"
     }
   ]
 }

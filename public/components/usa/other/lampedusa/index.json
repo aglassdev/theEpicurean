@@ -1,0 +1,38 @@
+{
+  "title": "Lampedusa",
+  "country": "Italy",
+  "countrySlug": "usa",
+  "region": null,
+  "regionSlug": "other",
+  "city": "Lampedusa",
+  "citySlug": "lampedusa",
+  "path": "/usa/other/lampedusa/restaurants",
+  "canonicalPath": "/italy/lampedusa/lampedusa/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Borgo Cala Creta-Giardino Arabo",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/italy/lampedusa/lampedusa/borgo-cala-cretagiardino-arabo"
+    },
+    {
+      "name": "Cavalluccio Marino",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/usa/other/lampedusa/cavalluccio-marino"
+    },
+    {
+      "name": "La Nigra",
+      "cuisine": "Seafood",
+      "price": "$$$",
+      "path": "/italy/lampedusa/lampedusa/la-nigra"
+    },
+    {
+      "name": "Lipadusa",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€",
+      "path": "/usa/other/lampedusa/lipadusa"
+    }
+  ]
+}

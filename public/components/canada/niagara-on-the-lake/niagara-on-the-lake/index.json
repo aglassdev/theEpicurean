@@ -1,20 +1,20 @@
 {
-  "title": "Niagara On The Lake",
-  "country": "canada",
-  "region": "niagara-on-the-lake",
-  "city": "niagara-on-the-lake",
+  "title": "Niagara on the Lake",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "niagara-on-the-lake",
+  "city": "Niagara on the Lake",
+  "citySlug": "niagara-on-the-lake",
+  "path": "/canada/niagara-on-the-lake/niagara-on-the-lake/restaurants",
+  "canonicalPath": "/canada/niagara-on-the-lake/niagara-on-the-lake/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Trius Winery & Restaurant",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/canada/niagara-on-the-lake/niagara-on-the-lake/trius-winery-restaurant"
-    },
-    {
-      "name": "Trius Winery & Restaurant",
-      "cuisine": "Contemporary",
-      "price": "$$$",
-      "path": "/canada/niagara-on-the-lake/niagara-on-the-lake/trius-winery-restaurant"
+      "path": "/canada/niagara-on-the-lake/niagara-on-the-lake/rtriuswineryrestaurant"
     }
   ]
 }

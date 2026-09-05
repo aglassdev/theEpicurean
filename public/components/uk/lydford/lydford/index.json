@@ -1,5 +1,14 @@
 {
   "title": "Lydford",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "lydford",
+  "city": "Lydford",
+  "citySlug": "lydford",
+  "path": "/uk/lydford/lydford/restaurants",
+  "canonicalPath": "/uk/lydford/lydford/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Dartmoor Inn",
@@ -11,7 +20,7 @@
       "name": "The Dartmoor Inn",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/uk/lydford/lydford/TheDartmoorInn"
+      "path": "/uk/lydford/lydford/the-dartmoor-inn"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Seaview",
-  "country": "uk",
-  "region": "seaview",
-  "city": "seaview",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "seaview",
+  "city": "Seaview",
+  "citySlug": "seaview",
+  "path": "/uk/seaview/seaview/restaurants",
+  "canonicalPath": "/uk/seaview/seaview/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Aquitania",

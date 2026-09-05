@@ -1,9 +1,22 @@
 {
   "title": "Split",
-  "country": "croatia",
-  "region": "split",
-  "city": "split",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "split",
+  "city": "Split",
+  "citySlug": "split",
+  "path": "/croatia/split/split/restaurants",
+  "canonicalPath": "/croatia/split/split/restaurants",
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Krug",
+      "cuisine": "Mediterranean Cuisine, Modern French",
+      "price": "€€€",
+      "path": "/croatia/split/split/krug",
+      "award": "★"
+    },
     {
       "name": "BÒME",
       "cuisine": "Mediterranean Cuisine",
@@ -17,6 +30,12 @@
       "path": "/croatia/split/split/dvor"
     },
     {
+      "name": "K.užina",
+      "cuisine": "Mediterranean Cuisine, Regional Cuisine",
+      "price": "€€",
+      "path": "/croatia/split/split/kuina"
+    },
+    {
       "name": "Kadena",
       "cuisine": "International, Seasonal Cuisine",
       "price": "€€€",
@@ -27,18 +46,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/croatia/split/split/konoba-fetivi"
-    },
-    {
-      "name": "Krug",
-      "cuisine": "Mediterranean Cuisine, Modern French",
-      "price": "€€€",
-      "path": "/croatia/split/split/krug"
-    },
-    {
-      "name": "K.užina",
-      "cuisine": "Mediterranean Cuisine, Regional Cuisine",
-      "price": "€€",
-      "path": "/croatia/split/split/kuina"
     },
     {
       "name": "PiNKU fish & wine",

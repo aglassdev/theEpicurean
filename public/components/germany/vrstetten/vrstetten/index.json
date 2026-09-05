@@ -1,8 +1,14 @@
 {
   "title": "Vrstetten",
-  "country": "germany",
-  "region": "vrstetten",
-  "city": "vrstetten",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "vrstetten",
+  "city": "Vrstetten",
+  "citySlug": "vrstetten",
+  "path": "/germany/vrstetten/vrstetten/restaurants",
+  "canonicalPath": "/germany/vrstetten/vrstetten/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gasthaus Sonne",
@@ -14,7 +20,7 @@
       "name": "Sonne",
       "cuisine": "Regional Cuisine, Contemporary",
       "price": "€",
-      "path": "/germany/vrstetten/vrstetten/sonne"
+      "path": "/germany/vrstetten/vrstetten/sonne-v-r-s"
     }
   ]
 }

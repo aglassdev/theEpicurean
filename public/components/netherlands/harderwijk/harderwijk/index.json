@@ -1,26 +1,34 @@
 {
   "title": "Harderwijk",
-  "country": "netherlands",
-  "region": "harderwijk",
-  "city": "harderwijk",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "harderwijk",
+  "city": "Harderwijk",
+  "citySlug": "harderwijk",
+  "path": "/netherlands/harderwijk/harderwijk/restaurants",
+  "canonicalPath": "/netherlands/harderwijk/harderwijk/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "'t Nonnetje",
+      "cuisine": "Creative, Modern French",
+      "price": "€€€€",
+      "path": "/netherlands/harderwijk/harderwijk/t-nonnetje",
+      "award": "★★"
+    },
     {
       "name": "Basiliek",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€",
-      "path": "/netherlands/harderwijk/harderwijk/basiliek"
+      "path": "/netherlands/harderwijk/harderwijk/basiliek",
+      "award": "★"
     },
     {
       "name": "Ratatouille",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/netherlands/harderwijk/harderwijk/ratatouille"
-    },
-    {
-      "name": "'t Nonnetje",
-      "cuisine": "Creative, Modern French",
-      "price": "€€€€",
-      "path": "/netherlands/harderwijk/harderwijk/t-nonnetje"
     }
   ]
 }

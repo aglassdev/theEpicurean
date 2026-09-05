@@ -1,23 +1,41 @@
 {
   "title": "Rovinj",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "rovinj",
+  "city": "Rovinj",
+  "citySlug": "rovinj",
+  "path": "/croatia/rovinj/rovinj/restaurants",
+  "canonicalPath": "/croatia/rovinj/rovinj/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Agli Amici Rovinj",
       "cuisine": "Italian Contemporary, Modern Cuisine",
       "price": "€€€€",
-      "path": "/croatia/rovinj/rovinj/agli-amici-rovinj"
+      "path": "/croatia/rovinj/rovinj/agli-amici-rovinj",
+      "award": "★★"
     },
     {
       "name": "Cap Aureo",
       "cuisine": "Creative, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/croatia/rovinj/rovinj/cap-aureo"
+      "path": "/croatia/rovinj/rovinj/cap-aureo",
+      "award": "★"
     },
     {
       "name": "Monte",
       "cuisine": "Creative, Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/croatia/rovinj/rovinj/monte"
+      "path": "/croatia/rovinj/rovinj/monte-r-o-v",
+      "award": "★"
+    },
+    {
+      "name": "Riva Lounge",
+      "cuisine": "Regional Cuisine",
+      "price": "$$$$",
+      "path": "/croatia/rovinj/rovinj/riva-lounge"
     },
     {
       "name": "Tekka by Lone",
@@ -30,12 +48,6 @@
       "cuisine": "Regional Cuisine, Contemporary",
       "price": "€€€€",
       "path": "/croatia/rovinj/rovinj/wine-vault-restaurant-levante-edition"
-    },
-    {
-      "name": "Riva Lounge",
-      "cuisine": "Regional Cuisine",
-      "price": "$$$$",
-      "path": "/croatia/rovinj/rovinj/RivaLounge"
     }
   ]
 }

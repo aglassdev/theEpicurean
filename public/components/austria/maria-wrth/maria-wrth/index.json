@@ -1,23 +1,33 @@
 {
   "title": "Maria Wrth",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "maria-wrth",
+  "city": "Maria Wrth",
+  "citySlug": "maria-wrth",
+  "path": "/austria/maria-wrth/maria-wrth/restaurants",
+  "canonicalPath": "/austria/maria-wrth/maria-wrth/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Bistro Südsee by Hubert Wallner",
-      "cuisine": "Regional European",
-      "price": "€€",
-      "path": "/austria/maria-wrth/maria-wrth/bistro-sdsee-by-hubert-wallner"
-    },
     {
       "name": "Hubert Wallner",
       "cuisine": "Modern Cuisine, Innovative",
       "price": "€€€€",
-      "path": "/austria/maria-wrth/maria-wrth/hubert-wallner"
+      "path": "/austria/maria-wrth/maria-wrth/hubert-wallner",
+      "award": "★"
     },
     {
       "name": "Bistro SEENSUCHT",
       "cuisine": "Farm to table",
       "price": "$$$",
-      "path": "/austria/maria-wrth/maria-wrth/BistroSeensucht"
+      "path": "/austria/maria-wrth/maria-wrth/bistro-seensucht"
+    },
+    {
+      "name": "Bistro Südsee by Hubert Wallner",
+      "cuisine": "Regional European",
+      "price": "€€",
+      "path": "/austria/maria-wrth/maria-wrth/bistro-sdsee-by-hubert-wallner"
     }
   ]
 }

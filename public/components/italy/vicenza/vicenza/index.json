@@ -1,14 +1,21 @@
 {
   "title": "Vicenza",
-  "country": "italy",
-  "region": "vicenza",
-  "city": "vicenza",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "vicenza",
+  "city": "Vicenza",
+  "citySlug": "vicenza",
+  "path": "/italy/vicenza/vicenza/restaurants",
+  "canonicalPath": "/italy/vicenza/vicenza/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Matteo Grandi in Basilica",
       "cuisine": "Farm to table, Contemporary",
       "price": "€€€€",
-      "path": "/italy/vicenza/vicenza/matteo-grandi-in-basilica"
+      "path": "/italy/vicenza/vicenza/matteo-grandi-in-basilica",
+      "award": "★"
     },
     {
       "name": "Remo Villa Cariolato",

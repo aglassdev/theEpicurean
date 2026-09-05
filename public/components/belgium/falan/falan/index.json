@@ -1,20 +1,26 @@
 {
   "title": "Falan",
-  "country": "belgium",
-  "region": "falan",
-  "city": "falan",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "falan",
+  "city": "Falan",
+  "citySlug": "falan",
+  "path": "/belgium/falan/falan/restaurants",
+  "canonicalPath": "/belgium/falan/falan/restaurants",
+  "count": 2,
   "restaurants": [
-    {
-      "name": "La Fermette",
-      "cuisine": "Modern French, French",
-      "price": "€€",
-      "path": "/belgium/falan/falan/la-fermette"
-    },
     {
       "name": "L'artiste",
       "cuisine": "Creative",
       "price": "€€",
       "path": "/belgium/falan/falan/lartiste"
+    },
+    {
+      "name": "La Fermette",
+      "cuisine": "Modern French, French",
+      "price": "€€",
+      "path": "/belgium/falan/falan/la-fermette"
     }
   ]
 }

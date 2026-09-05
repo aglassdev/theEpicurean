@@ -1,20 +1,27 @@
 {
   "title": "Saulieu",
-  "country": "france",
-  "region": "saulieu",
-  "city": "saulieu",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saulieu",
+  "city": "Saulieu",
+  "citySlug": "saulieu",
+  "path": "/france/saulieu/saulieu/restaurants",
+  "canonicalPath": "/france/saulieu/saulieu/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "La Côte d'Or",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/saulieu/saulieu/la-cte-dor",
+      "award": "★★"
+    },
     {
       "name": "Bistrot Loiseau du Morvan",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/saulieu/saulieu/bistrot-loiseau-du-morvan"
-    },
-    {
-      "name": "La Côte d'Or",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/saulieu/saulieu/la-cte-dor"
     }
   ]
 }

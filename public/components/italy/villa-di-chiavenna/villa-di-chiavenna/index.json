@@ -1,14 +1,21 @@
 {
-  "title": "Villa Di Chiavenna",
-  "country": "italy",
-  "region": "villa-di-chiavenna",
-  "city": "villa-di-chiavenna",
+  "title": "Villa di Chiavenna",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "villa-di-chiavenna",
+  "city": "Villa di Chiavenna",
+  "citySlug": "villa-di-chiavenna",
+  "path": "/italy/villa-di-chiavenna/villa-di-chiavenna/restaurants",
+  "canonicalPath": "/italy/villa-di-chiavenna/villa-di-chiavenna/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lanterna Verde",
       "cuisine": "Modern Cuisine, Regional Cuisine",
       "price": "€€€",
-      "path": "/italy/villa-di-chiavenna/villa-di-chiavenna/lanterna-verde"
+      "path": "/italy/villa-di-chiavenna/villa-di-chiavenna/lanterna-verde",
+      "award": "★"
     }
   ]
 }

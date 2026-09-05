@@ -1,9 +1,22 @@
 {
   "title": "Constance",
-  "country": "germany",
-  "region": "constance",
-  "city": "constance",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "constance",
+  "city": "Constance",
+  "citySlug": "constance",
+  "path": "/germany/constance/constance/restaurants",
+  "canonicalPath": "/germany/constance/constance/restaurants",
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Ophelia",
+      "cuisine": "Creative French, International",
+      "price": "€€€€",
+      "path": "/germany/constance/constance/ophelia",
+      "award": "★★"
+    },
     {
       "name": "Anglerstuben",
       "cuisine": "Regional Cuisine, Norwegian",
@@ -14,13 +27,7 @@
       "name": "Brasserie Colette Tim Raue",
       "cuisine": "French, Classic Cuisine",
       "price": "€€",
-      "path": "/germany/constance/constance/brasserie-colette-tim-raue"
-    },
-    {
-      "name": "Ophelia",
-      "cuisine": "Creative French, International",
-      "price": "€€€€",
-      "path": "/germany/constance/constance/ophelia"
+      "path": "/germany/constance/constance/brasserie-colette-tim-raue-c-o-n"
     },
     {
       "name": "Papageno",

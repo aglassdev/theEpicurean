@@ -1,8 +1,14 @@
 {
-  "title": "Saint Martin In Passeier",
-  "country": "italy",
-  "region": "saint-martin-in-passeier",
-  "city": "saint-martin-in-passeier",
+  "title": "Saint Martin in Passeier",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "saint-martin-in-passeier",
+  "city": "Saint Martin in Passeier",
+  "citySlug": "saint-martin-in-passeier",
+  "path": "/italy/saint-martin-in-passeier/saint-martin-in-passeier/restaurants",
+  "canonicalPath": "/italy/saint-martin-in-passeier/saint-martin-in-passeier/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Gasthaus Lamm",
@@ -14,7 +20,7 @@
       "name": "Quellenhof Gourmetstube 1897",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/italy/saint-martin-in-passeier/saint-martin-in-passeier/quellenhof-gourmetstube-1897"
+      "path": "/italy/saint-martin-in-passeier/saint-martin-in-passeier/quellenhof-gourmetstube1897"
     }
   ]
 }

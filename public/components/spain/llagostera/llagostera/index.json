@@ -1,14 +1,21 @@
 {
   "title": "Llagostera",
-  "country": "spain",
-  "region": "llagostera",
-  "city": "llagostera",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "llagostera",
+  "city": "Llagostera",
+  "citySlug": "llagostera",
+  "path": "/spain/llagostera/llagostera/restaurants",
+  "canonicalPath": "/spain/llagostera/llagostera/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Els Tinars",
       "cuisine": "Traditional Cuisine, Seasonal Cuisine",
       "price": "€€€",
-      "path": "/spain/llagostera/llagostera/els-tinars"
+      "path": "/spain/llagostera/llagostera/els-tinars",
+      "award": "★"
     },
     {
       "name": "L'Atelier Dagà Clos",

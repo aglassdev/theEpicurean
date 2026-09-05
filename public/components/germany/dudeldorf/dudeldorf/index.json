@@ -1,8 +1,14 @@
 {
   "title": "Dudeldorf",
-  "country": "germany",
-  "region": "dudeldorf",
-  "city": "dudeldorf",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "dudeldorf",
+  "city": "Dudeldorf",
+  "citySlug": "dudeldorf",
+  "path": "/germany/dudeldorf/dudeldorf/restaurants",
+  "canonicalPath": "/germany/dudeldorf/dudeldorf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Torschänke",

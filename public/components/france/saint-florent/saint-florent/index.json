@@ -1,12 +1,15 @@
 {
   "title": "Saint Florent",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-florent",
+  "city": "Saint Florent",
+  "citySlug": "saint-florent",
+  "path": "/france/saint-florent/saint-florent/restaurants",
+  "canonicalPath": "/france/saint-florent/saint-florent/restaurants",
+  "count": 4,
   "restaurants": [
-    {
-      "name": "La Gaffe",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/saint-florent/saint-florent/la-gaffe"
-    },
     {
       "name": "L'Auberge du Pêcheur",
       "cuisine": "Seafood",
@@ -14,16 +17,22 @@
       "path": "/france/saint-florent/saint-florent/lauberge-du-pcheur"
     },
     {
-      "name": "MaThy'S",
+      "name": "La Gaffe",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/saint-florent/saint-florent/mathys"
+      "path": "/france/saint-florent/saint-florent/la-gaffe"
     },
     {
       "name": "La Table de La Roya",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/saint-florent/saint-florent/LaTableDeLaRoya"
+      "path": "/france/saint-florent/saint-florent/la-table-de-la-roya"
+    },
+    {
+      "name": "MaThy'S",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/saint-florent/saint-florent/mathys"
     }
   ]
 }

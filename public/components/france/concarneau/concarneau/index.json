@@ -1,8 +1,14 @@
 {
   "title": "Concarneau",
-  "country": "france",
-  "region": "concarneau",
-  "city": "concarneau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "concarneau",
+  "city": "Concarneau",
+  "citySlug": "concarneau",
+  "path": "/france/concarneau/concarneau/restaurants",
+  "canonicalPath": "/france/concarneau/concarneau/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "L'Atelier du Nord",

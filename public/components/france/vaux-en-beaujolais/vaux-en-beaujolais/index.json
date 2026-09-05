@@ -1,14 +1,21 @@
 {
   "title": "Vaux En Beaujolais",
-  "country": "france",
-  "region": "vaux-en-beaujolais",
-  "city": "vaux-en-beaujolais",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vaux-en-beaujolais",
+  "city": "Vaux En Beaujolais",
+  "citySlug": "vaux-en-beaujolais",
+  "path": "/france/vaux-en-beaujolais/vaux-en-beaujolais/restaurants",
+  "canonicalPath": "/france/vaux-en-beaujolais/vaux-en-beaujolais/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Auberge de Clochemerle",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/vaux-en-beaujolais/vaux-en-beaujolais/auberge-de-clochemerle"
+      "path": "/france/vaux-en-beaujolais/vaux-en-beaujolais/auberge-de-clochemerle",
+      "award": "★"
     }
   ]
 }

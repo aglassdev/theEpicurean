@@ -1,15 +1,15 @@
 {
   "title": "Le Croisic",
-  "country": "france",
-  "region": "le-croisic",
-  "city": "le-croisic",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "le-croisic",
+  "city": "Le Croisic",
+  "citySlug": "le-croisic",
+  "path": "/france/le-croisic/le-croisic/restaurants",
+  "canonicalPath": "/france/le-croisic/le-croisic/restaurants",
+  "count": 3,
   "restaurants": [
-    {
-      "name": "Le Lénigo",
-      "cuisine": "Seafood",
-      "price": "€€",
-      "path": "/france/le-croisic/le-croisic/le-lnigo"
-    },
     {
       "name": "L'Estacade",
       "cuisine": "Modern Cuisine",
@@ -21,6 +21,12 @@
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/france/le-croisic/le-croisic/locan"
+    },
+    {
+      "name": "Le Lénigo",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "path": "/france/le-croisic/le-croisic/le-lnigo"
     }
   ]
 }

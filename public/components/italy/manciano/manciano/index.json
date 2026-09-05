@@ -1,20 +1,20 @@
 {
   "title": "Manciano",
-  "country": "italy",
-  "region": "manciano",
-  "city": "manciano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "manciano",
+  "city": "Manciano",
+  "citySlug": "manciano",
+  "path": "/italy/manciano/manciano/restaurants",
+  "canonicalPath": "/italy/manciano/manciano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Filanda",
       "cuisine": "Tuscan, Modern Cuisine",
       "price": "€€",
-      "path": "/italy/manciano/manciano/la-filanda"
-    },
-    {
-      "name": "La Filanda",
-      "cuisine": "Tuscan, Modern Cuisine",
-      "price": "€€",
-      "path": "/italy/manciano/manciano/la-filanda"
+      "path": "/italy/manciano/manciano/la-filanda-m-a-n"
     }
   ]
 }

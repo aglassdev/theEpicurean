@@ -1,14 +1,21 @@
 {
   "title": "Vonnas",
-  "country": "france",
-  "region": "vonnas",
-  "city": "vonnas",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "vonnas",
+  "city": "Vonnas",
+  "citySlug": "vonnas",
+  "path": "/france/vonnas/vonnas/restaurants",
+  "canonicalPath": "/france/vonnas/vonnas/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Georges Blanc",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/france/vonnas/vonnas/georges-blanc"
+      "path": "/france/vonnas/vonnas/georges-blanc",
+      "award": "★★"
     },
     {
       "name": "L'Ancienne Auberge",

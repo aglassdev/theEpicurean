@@ -1,8 +1,14 @@
 {
   "title": "Opio",
-  "country": "france",
-  "region": "opio",
-  "city": "opio",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "opio",
+  "city": "Opio",
+  "citySlug": "opio",
+  "path": "/france/opio/opio/restaurants",
+  "canonicalPath": "/france/opio/opio/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Caffé César L'initial",

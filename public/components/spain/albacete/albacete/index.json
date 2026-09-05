@@ -1,14 +1,21 @@
 {
   "title": "Albacete",
-  "country": "spain",
-  "region": "albacete",
-  "city": "albacete",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "albacete",
+  "city": "Albacete",
+  "citySlug": "albacete",
+  "path": "/spain/albacete/albacete/restaurants",
+  "canonicalPath": "/spain/albacete/albacete/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Ababol",
       "cuisine": "Contemporary, Regional Cuisine",
       "price": "€€€",
-      "path": "/spain/albacete/albacete/ababol"
+      "path": "/spain/albacete/albacete/ababol",
+      "award": "★"
     },
     {
       "name": "Asador Concepción",

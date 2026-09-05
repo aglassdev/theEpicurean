@@ -1,20 +1,21 @@
 {
   "title": "Maranello",
-  "country": "italy",
-  "region": "maranello",
-  "city": "maranello",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "maranello",
+  "city": "Maranello",
+  "citySlug": "maranello",
+  "path": "/italy/maranello/maranello/restaurants",
+  "canonicalPath": "/italy/maranello/maranello/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Cavallino",
       "cuisine": "Emilian, Contemporary",
       "price": "€€€",
-      "path": "/italy/maranello/maranello/cavallino"
-    },
-    {
-      "name": "Cavallino",
-      "cuisine": "Emilian, Contemporary",
-      "price": "€€€",
-      "path": "/italy/maranello/maranello/cavallino"
+      "path": "/italy/maranello/maranello/cavallino",
+      "award": "★"
     },
     {
       "name": "MikEle",

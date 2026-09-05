@@ -1,8 +1,14 @@
 {
   "title": "Cherisy",
-  "country": "france",
-  "region": "cherisy",
-  "city": "cherisy",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cherisy",
+  "city": "Cherisy",
+  "citySlug": "cherisy",
+  "path": "/france/cherisy/cherisy/restaurants",
+  "canonicalPath": "/france/cherisy/cherisy/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Vallon de Chérisy",

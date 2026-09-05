@@ -1,14 +1,20 @@
 {
   "title": "Martina Franca",
-  "country": "italy",
-  "region": "martina-franca",
-  "city": "martina-franca",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "martina-franca",
+  "city": "Martina Franca",
+  "citySlug": "martina-franca",
+  "path": "/italy/martina-franca/martina-franca/restaurants",
+  "canonicalPath": "/italy/martina-franca/martina-franca/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Bros'",
       "cuisine": "Creative, Contemporary",
       "price": "€€€€",
-      "path": "/italy/martina-franca/martina-franca/bros"
+      "path": "/italy/martina-franca/martina-franca/bros-m-a-r"
     },
     {
       "name": "Bros' Trattoria",

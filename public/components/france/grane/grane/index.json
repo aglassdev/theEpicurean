@@ -1,14 +1,21 @@
 {
   "title": "Grane",
-  "country": "france",
-  "region": "grane",
-  "city": "grane",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "grane",
+  "city": "Grane",
+  "citySlug": "grane",
+  "path": "/france/grane/grane/restaurants",
+  "canonicalPath": "/france/grane/grane/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Le Kléber - La Maison Bonnet",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/grane/grane/le-klber-la-maison-bonnet"
+      "path": "/france/grane/grane/le-klber-la-maison-bonnet",
+      "award": "★"
     },
     {
       "name": "Len'K - La Maison Bonnet",

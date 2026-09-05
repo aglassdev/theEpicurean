@@ -1,71 +1,80 @@
 {
-  "title": "Marylebone & Paddington",
+  "title": "Marylebone Paddington",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "London",
+  "regionSlug": "london",
+  "city": "Marylebone Paddington",
+  "citySlug": "marylebone-paddington",
+  "path": "/uk/london/marylebone-paddington/restaurants",
+  "canonicalPath": "/uk/london/marylebone-paddington/restaurants",
+  "count": 11,
   "restaurants": [
     {
       "name": "Blakemore Hyde Park Hotel",
       "cuisine": "Afternoon Tea",
       "price": "29.95",
-      "path": "/uk/london/marylebone-paddington/BlakemoreHydeParkHotel"
-    },
-    {
-      "name": "The Zetter Marylebone",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/marylebone-paddington/TheZetterMarylebone"
-    },
-    {
-      "name": "The Wallace Restaurant",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/marylebone-paddington/TheWallaceRestaurant"
-    },
-    {
-      "name": "Rose Garden at London Elizabeth Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/marylebone-paddington/RoseGardenAtLondonElizabethHotel"
-    },
-    {
-      "name": "Nobu Hotel London Portman Square",
-      "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/london/marylebone-paddington/NobuHotelLondonPortmanSquare"
-    },
-    {
-      "name": "The Mandeville Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "32.00",
-      "path": "/uk/london/marylebone-paddington/TheMandevilleHotel"
-    },
-    {
-      "name": "The Landmark London",
-      "cuisine": "Afternoon Tea",
-      "price": "70.00",
-      "path": "/uk/london/marylebone-paddington/TheLandmarkLondon"
-    },
-    {
-      "name": "Holmes Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/marylebone-paddington/HolmesHotel"
-    },
-    {
-      "name": "Durrants Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "45.00",
-      "path": "/uk/london/marylebone-paddington/DurrantsHotel"
-    },
-    {
-      "name": "Dorset Square Hotel",
-      "cuisine": "Afternoon Tea",
-      "price": "40.00",
-      "path": "/uk/london/marylebone-paddington/DorsetSquareHotel"
+      "path": "/uk/london/marylebone-paddington/blakemore-hyde-park-hotel"
     },
     {
       "name": "Corus Hyde Park Hotel",
       "cuisine": "Afternoon Tea",
       "price": "25.95",
-      "path": "/uk/london/marylebone-paddington/CorusHydeParkHotel"
+      "path": "/uk/london/marylebone-paddington/corus-hyde-park-hotel"
+    },
+    {
+      "name": "Dorset Square Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "40.00",
+      "path": "/uk/london/marylebone-paddington/dorset-square-hotel"
+    },
+    {
+      "name": "Durrants Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/marylebone-paddington/durrants-hotel"
+    },
+    {
+      "name": "Holmes Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/marylebone-paddington/holmes-hotel"
+    },
+    {
+      "name": "Nobu Hotel London Portman Square",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/london/marylebone-paddington/nobu-hotel-london-portman-square"
+    },
+    {
+      "name": "Rose Garden at London Elizabeth Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/marylebone-paddington/rose-garden-at-london-elizabeth-hotel"
+    },
+    {
+      "name": "The Landmark London",
+      "cuisine": "Afternoon Tea",
+      "price": "70.00",
+      "path": "/uk/london/marylebone-paddington/the-landmark-london"
+    },
+    {
+      "name": "The Mandeville Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "32.00",
+      "path": "/uk/london/marylebone-paddington/the-mandeville-hotel"
+    },
+    {
+      "name": "The Wallace Restaurant",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/marylebone-paddington/the-wallace-restaurant"
+    },
+    {
+      "name": "The Zetter Marylebone",
+      "cuisine": "Afternoon Tea",
+      "price": "45.00",
+      "path": "/uk/london/marylebone-paddington/the-zetter-marylebone"
     }
   ]
 }

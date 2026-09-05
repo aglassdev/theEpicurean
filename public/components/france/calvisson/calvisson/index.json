@@ -1,14 +1,21 @@
 {
   "title": "Calvisson",
-  "country": "france",
-  "region": "calvisson",
-  "city": "calvisson",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "calvisson",
+  "city": "Calvisson",
+  "citySlug": "calvisson",
+  "path": "/france/calvisson/calvisson/restaurants",
+  "canonicalPath": "/france/calvisson/calvisson/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Monique",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/calvisson/calvisson/monique"
+      "path": "/france/calvisson/calvisson/monique",
+      "award": "★"
     }
   ]
 }

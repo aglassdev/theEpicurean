@@ -1,8 +1,14 @@
 {
   "title": "Sint Martens Latem",
-  "country": "belgium",
-  "region": "sint-martens-latem",
-  "city": "sint-martens-latem",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "sint-martens-latem",
+  "city": "Sint Martens Latem",
+  "citySlug": "sint-martens-latem",
+  "path": "/belgium/sint-martens-latem/sint-martens-latem/restaurants",
+  "canonicalPath": "/belgium/sint-martens-latem/sint-martens-latem/restaurants",
+  "count": 6,
   "restaurants": [
     {
       "name": "Amici",
@@ -14,7 +20,7 @@
       "name": "Baarle 90",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/belgium/sint-martens-latem/sint-martens-latem/baarle-90"
+      "path": "/belgium/sint-martens-latem/sint-martens-latem/baarle90"
     },
     {
       "name": "Brasserie Boulevard",

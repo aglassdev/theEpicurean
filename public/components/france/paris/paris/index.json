@@ -1,23 +1,985 @@
 {
   "title": "Paris",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "paris",
+  "city": "Paris",
+  "citySlug": "paris",
+  "path": "/france/paris/paris/restaurants",
+  "canonicalPath": "/france/paris/paris/restaurants",
+  "count": 532,
   "restaurants": [
+    {
+      "name": "Alléno Paris au Pavillon Ledoyen",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/allno-paris-au-pavillon-ledoyen",
+      "award": "★★★"
+    },
+    {
+      "name": "Arpège",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/arpge",
+      "award": "★★★"
+    },
+    {
+      "name": "Épicure",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/picure",
+      "award": "★★★"
+    },
+    {
+      "name": "Kei",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/kei",
+      "award": "★★★"
+    },
+    {
+      "name": "L'Ambroisie",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/lambroisie",
+      "award": "★★★"
+    },
+    {
+      "name": "Le Cinq",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-cinq",
+      "award": "★★★"
+    },
+    {
+      "name": "Le Gabriel - La Réserve Paris",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-gabriel-la-rserve-paris",
+      "award": "★★★"
+    },
+    {
+      "name": "Le Pré Catelan",
+      "cuisine": "Creative, Contemporary",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-pr-catelan",
+      "award": "★★★"
+    },
+    {
+      "name": "Pierre Gagnaire",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/pierre-gagnaire",
+      "award": "★★★"
+    },
+    {
+      "name": "Plénitude - Cheval Blanc Paris",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/plnitude-cheval-blanc-paris",
+      "award": "★★★"
+    },
+    {
+      "name": "Blanc",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/blanc",
+      "award": "★★"
+    },
+    {
+      "name": "David Toutain",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/david-toutain",
+      "award": "★★"
+    },
+    {
+      "name": "Guy Savoy",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/guy-savoy",
+      "award": "★★"
+    },
+    {
+      "name": "L'Abysse au Pavillon Ledoyen",
+      "cuisine": "Japanese, Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/labysse-au-pavillon-ledoyen",
+      "award": "★★"
+    },
+    {
+      "name": "L'Abysse Paris",
+      "cuisine": "Japanese, Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/labysse-paris",
+      "award": "★★"
+    },
+    {
+      "name": "L'Oiseau Blanc",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/loiseau-blanc",
+      "award": "★★"
+    },
+    {
+      "name": "L'Orangerie",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/lorangerie",
+      "award": "★★"
+    },
+    {
+      "name": "La Scène",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/la-scne",
+      "award": "★★"
+    },
+    {
+      "name": "Le Clarence",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-clarence",
+      "award": "★★"
+    },
+    {
+      "name": "Le Grand Restaurant - Jean-François Piège",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-grand-restaurant-jeanfranois-pige",
+      "award": "★★"
+    },
+    {
+      "name": "Le Jules Verne",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-jules-verne",
+      "award": "★★"
+    },
+    {
+      "name": "Le Taillevent",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-taillevent",
+      "award": "★★"
+    },
+    {
+      "name": "Maison Rostang",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/maison-rostang",
+      "award": "★★"
+    },
+    {
+      "name": "Marsan par Hélène Darroze",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/marsan-par-hlne-darroze",
+      "award": "★★"
+    },
+    {
+      "name": "Palais Royal Restaurant",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/palais-royal-restaurant",
+      "award": "★★"
+    },
+    {
+      "name": "Restaurant Le Meurice Alain Ducasse",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/restaurant-le-meurice-alain-ducasse",
+      "award": "★★"
+    },
+    {
+      "name": "Sushi Yoshinaga",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/france/paris/paris/sushi-yoshinaga",
+      "award": "★★"
+    },
+    {
+      "name": "Table - Bruno Verjus",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/table-bruno-verjus",
+      "award": "★★"
+    },
     {
       "name": "114, Faubourg",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/paris/paris/114-faubourg"
+      "path": "/france/paris/paris/114-faubourg",
+      "award": "★"
     },
     {
-      "name": "19.20 by Norbert Tarayre",
+      "name": "Accents Table Bourse",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/accents-table-bourse",
+      "award": "★"
+    },
+    {
+      "name": "Agapé",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/agap",
+      "award": "★"
+    },
+    {
+      "name": "Aida",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/france/paris/paris/aida",
+      "award": "★"
+    },
+    {
+      "name": "Akrame",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/akrame",
+      "award": "★"
+    },
+    {
+      "name": "Alan Geaam",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/alan-geaam",
+      "award": "★"
+    },
+    {
+      "name": "Aldehyde",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/aldehyde",
+      "award": "★"
+    },
+    {
+      "name": "Alliance",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/alliance",
+      "award": "★"
+    },
+    {
+      "name": "Amâlia",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/amlia",
+      "award": "★"
+    },
+    {
+      "name": "Anne",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/anne",
+      "award": "★"
+    },
+    {
+      "name": "Anona",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/anona",
+      "award": "★"
+    },
+    {
+      "name": "Apicius",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/apicius-p-a-r",
+      "award": "★"
+    },
+    {
+      "name": "Armani Ristorante",
+      "cuisine": "Italian",
+      "price": "€€€€",
+      "path": "/france/paris/paris/armani-ristorante",
+      "award": "★"
+    },
+    {
+      "name": "Astrance",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/astrance",
+      "award": "★"
+    },
+    {
+      "name": "AT",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/at",
+      "award": "★"
+    },
+    {
+      "name": "Auguste",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/auguste",
+      "award": "★"
+    },
+    {
+      "name": "Automne",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/automne",
+      "award": "★"
+    },
+    {
+      "name": "Baieta",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/paris/paris/baieta",
+      "award": "★"
+    },
+    {
+      "name": "Bellefeuille - Saint James Paris",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/bellefeuille-saint-james-paris",
+      "award": "★"
+    },
+    {
+      "name": "Chakaiseki Akiyoshi",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/france/paris/paris/chakaiseki-akiyoshi",
+      "award": "★"
+    },
+    {
+      "name": "Comice",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/comice",
+      "award": "★"
+    },
+    {
+      "name": "Contraste",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/contraste",
+      "award": "★"
+    },
+    {
+      "name": "Datil",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/datil",
+      "award": "★"
+    },
+    {
+      "name": "Divellec",
+      "cuisine": "Seafood",
+      "price": "€€€€",
+      "path": "/france/paris/paris/divellec",
+      "award": "★"
+    },
+    {
+      "name": "Don Juan II",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/don-juan-ii",
+      "award": "★"
+    },
+    {
+      "name": "Épisodes",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/pisodes",
+      "award": "★"
+    },
+    {
+      "name": "ES",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/es",
+      "award": "★"
+    },
+    {
+      "name": "Espadon",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/espadon",
+      "award": "★"
+    },
+    {
+      "name": "FIEF",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/fief",
+      "award": "★"
+    },
+    {
+      "name": "Fleur de Pavé",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/paris/paris/fleur-de-pav",
+      "award": "★"
+    },
+    {
+      "name": "Frédéric Simonin",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/frdric-simonin",
+      "award": "★"
+    },
+    {
+      "name": "Frenchie",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/frenchie",
+      "award": "★"
+    },
+    {
+      "name": "Galanga",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/galanga",
+      "award": "★"
+    },
+    {
+      "name": "Gaya par Pierre Gagnaire",
+      "cuisine": "Modern Cuisine, Seafood",
+      "price": "€€€",
+      "path": "/france/paris/paris/gaya-par-pierre-gagnaire",
+      "award": "★"
+    },
+    {
+      "name": "Géosmine",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/gosmine",
+      "award": "★"
+    },
+    {
+      "name": "Granite",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/granite",
+      "award": "★"
+    },
+    {
+      "name": "Hakuba",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/france/paris/paris/hakuba",
+      "award": "★"
+    },
+    {
+      "name": "Helen",
+      "cuisine": "Seafood",
+      "price": "€€€€",
+      "path": "/france/paris/paris/helen",
+      "award": "★"
+    },
+    {
+      "name": "Hémicycle",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/hmicycle",
+      "award": "★"
+    },
+    {
+      "name": "Héritages",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/france/paris/paris/hritages",
+      "award": "★"
+    },
+    {
+      "name": "Il Carpaccio",
+      "cuisine": "Italian",
+      "price": "€€€€",
+      "path": "/france/paris/paris/il-carpaccio",
+      "award": "★"
+    },
+    {
+      "name": "Jacques Faussat",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/paris/paris/1920-by-norbert-tarayre"
+      "path": "/france/paris/paris/jacques-faussat",
+      "award": "★"
+    },
+    {
+      "name": "Jean Imbert au Plaza Athénée",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/jean-imbert-au-plaza-athne",
+      "award": "★"
+    },
+    {
+      "name": "L'Archeste",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/larcheste",
+      "award": "★"
+    },
+    {
+      "name": "L'Arôme",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/larme",
+      "award": "★"
+    },
+    {
+      "name": "L'Atelier de Joël Robuchon - Étoile",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/latelier-de-jol-robuchon-toile",
+      "award": "★"
+    },
+    {
+      "name": "L'Écrin",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/lcrin",
+      "award": "★"
+    },
+    {
+      "name": "La Dame de Pic",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/la-dame-de-pic",
+      "award": "★"
+    },
+    {
+      "name": "La Grande Cascade",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/la-grande-cascade",
+      "award": "★"
+    },
+    {
+      "name": "La Scène Thélème",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/la-scne-thlme",
+      "award": "★"
+    },
+    {
+      "name": "Lasserre",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/lasserre",
+      "award": "★"
+    },
+    {
+      "name": "Le Baudelaire",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-baudelaire",
+      "award": "★"
+    },
+    {
+      "name": "Le Chiberta",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-chiberta",
+      "award": "★"
+    },
+    {
+      "name": "Le Faham",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/paris/paris/le-faham-p-a-r",
+      "award": "★"
+    },
+    {
+      "name": "Le George",
+      "cuisine": "Italian",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-george",
+      "award": "★"
+    },
+    {
+      "name": "Le Sergent Recruteur",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-sergent-recruteur",
+      "award": "★"
+    },
+    {
+      "name": "Le Tout-Paris",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-toutparis",
+      "award": "★"
+    },
+    {
+      "name": "Le Violon d'Ingres",
+      "cuisine": "Traditional Cuisine, Classic Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/le-violon-dingres",
+      "award": "★"
+    },
+    {
+      "name": "Lucas Carton",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/lucas-carton",
+      "award": "★"
+    },
+    {
+      "name": "Maison Dubois",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/maison-dubois",
+      "award": "★"
+    },
+    {
+      "name": "Mallory Gabsi",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/mallory-gabsi",
+      "award": "★"
+    },
+    {
+      "name": "Mavrommatis",
+      "cuisine": "Greek, Mediterranean Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/mavrommatis",
+      "award": "★"
+    },
+    {
+      "name": "MoSuke",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/mosuke",
+      "award": "★"
+    },
+    {
+      "name": "Nakatani",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/nakatani",
+      "award": "★"
+    },
+    {
+      "name": "Neige d'Été",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/neige-dt",
+      "award": "★"
+    },
+    {
+      "name": "NESO",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/neso",
+      "award": "★"
+    },
+    {
+      "name": "Nhome",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/nhome",
+      "award": "★"
+    },
+    {
+      "name": "Nomicos",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/nomicos",
+      "award": "★"
+    },
+    {
+      "name": "Omar Dhiab",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/omar-dhiab",
+      "award": "★"
+    },
+    {
+      "name": "Onor",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/onor",
+      "award": "★"
+    },
+    {
+      "name": "Origines Restaurant",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/origines-restaurant",
+      "award": "★"
+    },
+    {
+      "name": "Ōrtensia",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/rtensia",
+      "award": "★"
+    },
+    {
+      "name": "Oxte",
+      "cuisine": "Mexican",
+      "price": "€€€€",
+      "path": "/france/paris/paris/oxte",
+      "award": "★"
+    },
+    {
+      "name": "Pages",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/pages",
+      "award": "★"
+    },
+    {
+      "name": "Pantagruel",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/pantagruel",
+      "award": "★"
+    },
+    {
+      "name": "Pavyllon Paris",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/pavyllon-paris",
+      "award": "★"
+    },
+    {
+      "name": "Pertinence",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/pertinence",
+      "award": "★"
+    },
+    {
+      "name": "Pur' - Jean-François Rouquette",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/pur-jeanfranois-rouquette",
+      "award": "★"
+    },
+    {
+      "name": "Qui Plume la Lune",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/qui-plume-la-lune",
+      "award": "★"
+    },
+    {
+      "name": "Quinsou",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/quinsou",
+      "award": "★"
+    },
+    {
+      "name": "Relais Louis XIII",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/relais-louis-xiii",
+      "award": "★"
+    },
+    {
+      "name": "Restaurant H",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/paris/paris/restaurant-h",
+      "award": "★"
+    },
+    {
+      "name": "Septime",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/septime",
+      "award": "★"
+    },
+    {
+      "name": "Shabour",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/shabour",
+      "award": "★"
+    },
+    {
+      "name": "Sola",
+      "cuisine": "Creative, Japanese",
+      "price": "€€€€",
+      "path": "/france/paris/paris/sola",
+      "award": "★"
+    },
+    {
+      "name": "Solstice",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/solstice",
+      "award": "★"
+    },
+    {
+      "name": "Substance",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/substance",
+      "award": "★"
+    },
+    {
+      "name": "Sushi B",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/france/paris/paris/sushi-b",
+      "award": "★"
+    },
+    {
+      "name": "Sushi Shunei",
+      "cuisine": "Japanese, Sushi",
+      "price": "€€€€",
+      "path": "/france/paris/paris/sushi-shunei",
+      "award": "★"
+    },
+    {
+      "name": "Tomy & Co",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/paris/paris/tomy-co",
+      "award": "★"
+    },
+    {
+      "name": "Tour d'Argent",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/tour-dargent",
+      "award": "★"
+    },
+    {
+      "name": "Trente-Trois",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/trentetrois",
+      "award": "★"
+    },
+    {
+      "name": "Vaisseau",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/vaisseau",
+      "award": "★"
+    },
+    {
+      "name": "Virtus",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/virtus",
+      "award": "★"
+    },
+    {
+      "name": "Yam'Tcha",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/yamtcha",
+      "award": "★"
+    },
+    {
+      "name": "Yoshinori",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/paris/paris/yoshinori",
+      "award": "★"
+    },
+    {
+      "name": "Ze Kitchen Galerie",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/ze-kitchen-galerie",
+      "award": "★"
+    },
+    {
+      "name": "Alain Ducasse",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/alain-ducasse",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Alain Ducasse au Plaza Athénée",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/alain-ducasse-au-plaza-athne",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "L'Ami Louis",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/lami-louis",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "L'Astrance",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/lastrance",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "L'Atelier Saint Germain De Joël Robuchon",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/latelier-saint-germain-de-jol-robuchon",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "La Tour D'Argent",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/la-tour-dargent",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Le Meurice",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/le-meurice",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Les Ambassadeurs",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/les-ambassadeurs",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Plénitude",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/plnitude",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Table by Bruno Verjus",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/table-by-bruno-verjus",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Taillevent",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/taillevent",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Troisgros",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/troisgros",
+      "award": "World's 50 Best"
     },
     {
       "name": "19 Saint Roch",
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/france/paris/paris/19-saint-roch"
+    },
+    {
+      "name": "19.20 by Norbert Tarayre",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/paris/paris/1920-by-norbert-tarayre"
     },
     {
       "name": "20 Eiffel",
@@ -35,19 +997,43 @@
       "name": "52 Faubourg St-Denis",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/paris/paris/52-faubourg-st-denis"
+      "path": "/france/paris/paris/52-faubourg-stdenis"
+    },
+    {
+      "name": "À l’Épi d’Or",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/lpi-dor"
+    },
+    {
+      "name": "À L'Improviste",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/limproviste"
+    },
+    {
+      "name": "À La Biche au Bois",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/la-biche-au-bois"
+    },
+    {
+      "name": "À Table",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/table"
+    },
+    {
+      "name": "a.lea",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€",
+      "path": "/france/paris/paris/alea"
     },
     {
       "name": "Abri Soba",
       "cuisine": "Japanese",
       "price": "€€",
       "path": "/france/paris/paris/abri-soba"
-    },
-    {
-      "name": "Accents Table Bourse",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/accents-table-bourse"
     },
     {
       "name": "Adami",
@@ -62,18 +1048,6 @@
       "path": "/france/paris/paris/adraba"
     },
     {
-      "name": "Agapé",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/agap"
-    },
-    {
-      "name": "Aida",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/france/paris/paris/aida"
-    },
-    {
       "name": "Akabeko",
       "cuisine": "Fusion",
       "price": "€€€€",
@@ -86,30 +1060,6 @@
       "path": "/france/paris/paris/akira-back-paris"
     },
     {
-      "name": "Akrame",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/akrame"
-    },
-    {
-      "name": "Alan Geaam",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/alan-geaam"
-    },
-    {
-      "name": "Aldehyde",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/aldehyde"
-    },
-    {
-      "name": "a.lea",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€",
-      "path": "/france/paris/paris/alea"
-    },
-    {
       "name": "Allard",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
@@ -120,18 +1070,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/alleudium"
-    },
-    {
-      "name": "Alliance",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/alliance"
-    },
-    {
-      "name": "Alléno Paris au Pavillon Ledoyen",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/allno-paris-au-pavillon-ledoyen"
     },
     {
       "name": "Alluma",
@@ -152,52 +1090,16 @@
       "path": "/france/paris/paris/ambos"
     },
     {
-      "name": "Amâlia",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/amlia"
-    },
-    {
       "name": "Anicia, table nature",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/anicia-table-nature"
     },
     {
-      "name": "Anne",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/anne"
-    },
-    {
-      "name": "Anona",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/anona"
-    },
-    {
-      "name": "Apicius",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/apicius"
-    },
-    {
       "name": "Argile",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/argile"
-    },
-    {
-      "name": "Argile",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/argile"
-    },
-    {
-      "name": "Armani Ristorante",
-      "cuisine": "Italian",
-      "price": "€€€€",
-      "path": "/france/paris/paris/armani-ristorante"
     },
     {
       "name": "Arnaud Nicolas",
@@ -206,28 +1108,10 @@
       "path": "/france/paris/paris/arnaud-nicolas"
     },
     {
-      "name": "Arpège",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/arpge"
-    },
-    {
       "name": "ASPIC",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/paris/paris/aspic"
-    },
-    {
-      "name": "Astrance",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/astrance"
-    },
-    {
-      "name": "AT",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/at"
     },
     {
       "name": "Atelier Maître Albert",
@@ -254,22 +1138,10 @@
       "path": "/france/paris/paris/auberge-pyrnes-cvennes"
     },
     {
-      "name": "Auguste",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/auguste"
-    },
-    {
-      "name": "Automne",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/automne"
-    },
-    {
       "name": "Aux 2 K",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/paris/paris/aux-2-k"
+      "path": "/france/paris/paris/aux2-k"
     },
     {
       "name": "Aux Lyonnais",
@@ -302,22 +1174,10 @@
       "path": "/france/paris/paris/baffo"
     },
     {
-      "name": "Baieta",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/baieta"
-    },
-    {
       "name": "Baillotte",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/baillotte"
-    },
-    {
-      "name": "Bellefeuille - Saint James Paris",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/bellefeuille-saint-james-paris"
     },
     {
       "name": "Benjamin Schmitt Restaurant",
@@ -330,6 +1190,12 @@
       "cuisine": "Classic Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/benoit"
+    },
+    {
+      "name": "Bếp Việt",
+      "cuisine": "Vietnamese",
+      "price": "$$",
+      "path": "/france/paris/paris/bp-vit"
     },
     {
       "name": "Beurre Noisette",
@@ -392,12 +1258,6 @@
       "path": "/france/paris/paris/bistrotters"
     },
     {
-      "name": "Blanc",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/blanc"
-    },
-    {
       "name": "Bloom",
       "cuisine": "Vegan, Vegetarian",
       "price": "€€",
@@ -410,16 +1270,16 @@
       "path": "/france/paris/paris/bloom-garden"
     },
     {
-      "name": "Ébène",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/bne"
+      "name": "Bolea",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/bolea"
     },
     {
       "name": "Bombance",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/paris/paris/bombance"
+      "path": "/france/paris/paris/bombance-p-a-r"
     },
     {
       "name": "Bon Kushikatsu",
@@ -506,10 +1366,22 @@
       "path": "/france/paris/paris/caillebotte"
     },
     {
+      "name": "Caïus",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/caus"
+    },
+    {
+      "name": "Calcifer",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/calcifer"
+    },
+    {
       "name": "Calice",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/paris/paris/calice"
+      "path": "/france/paris/paris/calice-p-a-r"
     },
     {
       "name": "Campelli",
@@ -530,22 +1402,10 @@
       "path": "/france/paris/paris/capsule"
     },
     {
-      "name": "Caïus",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/caus"
-    },
-    {
       "name": "Caves Pétrissans",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/caves-ptrissans"
-    },
-    {
-      "name": "Chakaiseki Akiyoshi",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/france/paris/paris/chakaiseki-akiyoshi"
     },
     {
       "name": "Chantoiseau",
@@ -608,12 +1468,6 @@
       "path": "/france/paris/paris/clover-grill"
     },
     {
-      "name": "Clover Saint-Germain",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/clover-saint-germain"
-    },
-    {
       "name": "Clutch",
       "cuisine": "Creative",
       "price": "€€",
@@ -632,22 +1486,10 @@
       "path": "/france/paris/paris/colvert"
     },
     {
-      "name": "Comice",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/comice"
-    },
-    {
       "name": "Comme Chez Maman",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/comme-chez-maman"
-    },
-    {
-      "name": "Contraste",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/contraste"
     },
     {
       "name": "Coretta",
@@ -677,19 +1519,7 @@
       "name": "Dante",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/paris/paris/dante"
-    },
-    {
-      "name": "Datil",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/datil"
-    },
-    {
-      "name": "David Toutain",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/david-toutain"
+      "path": "/france/paris/paris/dante-p-a-r"
     },
     {
       "name": "Dersou",
@@ -734,18 +1564,6 @@
       "path": "/france/paris/paris/disciples"
     },
     {
-      "name": "Divellec",
-      "cuisine": "Seafood",
-      "price": "€€€€",
-      "path": "/france/paris/paris/divellec"
-    },
-    {
-      "name": "Don Juan II",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/don-juan-ii"
-    },
-    {
       "name": "Double Dragon",
       "cuisine": "Asian",
       "price": "€€",
@@ -768,6 +1586,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/paris/paris/ducasse-sur-seine"
+    },
+    {
+      "name": "Ébène",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/paris/paris/bne"
     },
     {
       "name": "Eclipses",
@@ -800,10 +1624,22 @@
       "path": "/france/paris/paris/elsass"
     },
     {
+      "name": "eme",
+      "cuisine": "Creative",
+      "price": "$$$$",
+      "path": "/france/paris/paris/eme"
+    },
+    {
       "name": "Emporio Armani Caffè",
       "cuisine": "Italian",
       "price": "€€€",
       "path": "/france/paris/paris/emporio-armani-caff"
+    },
+    {
+      "name": "Épopée",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/pope"
     },
     {
       "name": "ERH",
@@ -818,22 +1654,28 @@
       "path": "/france/paris/paris/erso"
     },
     {
-      "name": "ES",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/es"
-    },
-    {
-      "name": "Espadon",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/espadon"
-    },
-    {
       "name": "Etsi",
       "cuisine": "Greek",
       "price": "€€",
       "path": "/france/paris/paris/etsi"
+    },
+    {
+      "name": "étsi - l'ouzeri",
+      "cuisine": "Greek",
+      "price": "€€",
+      "path": "/france/paris/paris/tsi-louzeri"
+    },
+    {
+      "name": "étsi - le bistro",
+      "cuisine": "Greek",
+      "price": "€€",
+      "path": "/france/paris/paris/tsi-le-bistro"
+    },
+    {
+      "name": "Étude",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/paris/paris/tude-p-a-r"
     },
     {
       "name": "Eunoé",
@@ -854,22 +1696,16 @@
       "path": "/france/paris/paris/faubourg-daimant"
     },
     {
+      "name": "Feel Ling - La Table",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/france/paris/paris/feel-ling-la-table"
+    },
+    {
       "name": "Felini",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/felini"
-    },
-    {
-      "name": "FIEF",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/fief"
-    },
-    {
-      "name": "Fleur de Pavé",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/fleur-de-pav"
     },
     {
       "name": "Flocon",
@@ -884,18 +1720,6 @@
       "path": "/france/paris/paris/fogo"
     },
     {
-      "name": "Frédéric Simonin",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/frdric-simonin"
-    },
-    {
-      "name": "Frenchie",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/frenchie"
-    },
-    {
       "name": "Frenchie Pigalle",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -908,22 +1732,10 @@
       "path": "/france/paris/paris/fugue"
     },
     {
-      "name": "Galanga",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/galanga"
-    },
-    {
       "name": "Gare au Gorille",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/gare-au-gorille"
-    },
-    {
-      "name": "Gaya par Pierre Gagnaire",
-      "cuisine": "Modern Cuisine, Seafood",
-      "price": "€€€",
-      "path": "/france/paris/paris/gaya-par-pierre-gagnaire"
     },
     {
       "name": "Gemellus",
@@ -944,22 +1756,10 @@
       "path": "/france/paris/paris/godaille"
     },
     {
-      "name": "Géosmine",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/gosmine"
-    },
-    {
       "name": "GrandCœur",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/grandcur"
-    },
-    {
-      "name": "Granite",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/granite"
     },
     {
       "name": "Guefen",
@@ -968,22 +1768,10 @@
       "path": "/france/paris/paris/guefen"
     },
     {
-      "name": "Guy Savoy",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/guy-savoy"
-    },
-    {
       "name": "Habile.",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/habile"
-    },
-    {
-      "name": "Hakuba",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/france/paris/paris/hakuba"
     },
     {
       "name": "Halle aux Grains",
@@ -1004,28 +1792,10 @@
       "path": "/france/paris/paris/hanada"
     },
     {
-      "name": "Helen",
-      "cuisine": "Seafood",
-      "price": "€€€€",
-      "path": "/france/paris/paris/helen"
-    },
-    {
       "name": "Hestia",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/hestia"
-    },
-    {
-      "name": "Hestia",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/hestia"
-    },
-    {
-      "name": "Hémicycle",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/hmicycle"
     },
     {
       "name": "Hokusaï",
@@ -1034,22 +1804,16 @@
       "path": "/france/paris/paris/hokusa"
     },
     {
+      "name": "Hugo & Co",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/hugo-co"
+    },
+    {
       "name": "HuThoPi",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/huthopi"
-    },
-    {
-      "name": "Ilô",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/il"
-    },
-    {
-      "name": "Il Carpaccio",
-      "cuisine": "Italian",
-      "price": "€€€€",
-      "path": "/france/paris/paris/il-carpaccio"
     },
     {
       "name": "Il Ristorante - Niko Romito",
@@ -1058,10 +1822,10 @@
       "path": "/france/paris/paris/il-ristorante-niko-romito"
     },
     {
-      "name": "Imperial Treasure",
-      "cuisine": "Chinese",
-      "price": "€€€€",
-      "path": "/france/paris/paris/imperial-treasure"
+      "name": "Ilô",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/paris/paris/il"
     },
     {
       "name": "Impérial Choisy",
@@ -1070,34 +1834,28 @@
       "path": "/france/paris/paris/imprial-choisy"
     },
     {
+      "name": "Imperial Treasure",
+      "cuisine": "Chinese",
+      "price": "€€€€",
+      "path": "/france/paris/paris/imperial-treasure"
+    },
+    {
       "name": "Irwin",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/paris/paris/irwin"
     },
     {
-      "name": "Jacques Faussat",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/jacques-faussat"
-    },
-    {
-      "name": "Jean Imbert au Plaza Athénée",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/jean-imbert-au-plaza-athne"
-    },
-    {
       "name": "Jeanne-Aimée",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/paris/paris/jeanne-aime"
+      "path": "/france/paris/paris/jeanneaime"
     },
     {
       "name": "Jin",
       "cuisine": "Japanese, Sushi",
       "price": "€€€€",
-      "path": "/france/paris/paris/jin"
+      "path": "/france/paris/paris/jin-p-a-r"
     },
     {
       "name": "Jip",
@@ -1142,12 +1900,6 @@
       "path": "/france/paris/paris/kapara"
     },
     {
-      "name": "Kei",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/kei"
-    },
-    {
       "name": "Ken Yamamoto",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -1190,10 +1942,136 @@
       "path": "/france/paris/paris/kwon"
     },
     {
-      "name": "À La Biche au Bois",
+      "name": "L'Accolade",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/laccolade"
+    },
+    {
+      "name": "L'Agrume",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/lagrume"
+    },
+    {
+      "name": "L'Altro Frenchie",
+      "cuisine": "Italian, Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/paris/paris/laltro-frenchie"
+    },
+    {
+      "name": "L'Ami Jean",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€€",
+      "path": "/france/paris/paris/lami-jean"
+    },
+    {
+      "name": "L'Antre Amis",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/lantre-amis"
+    },
+    {
+      "name": "L'Apibo",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/lapibo"
+    },
+    {
+      "name": "L'Ardoise",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/paris/paris/la-biche-au-bois"
+      "path": "/france/paris/paris/lardoise-p-a-r"
+    },
+    {
+      "name": "L'Arpaon",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/larpaon"
+    },
+    {
+      "name": "L'Assaggio",
+      "cuisine": "Italian",
+      "price": "€€€",
+      "path": "/france/paris/paris/lassaggio"
+    },
+    {
+      "name": "L'Assiette",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€",
+      "path": "/france/paris/paris/lassiette"
+    },
+    {
+      "name": "L'Atelier de Joël Robuchon - St-Germain",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$$",
+      "path": "/france/paris/paris/latelier-de-jol-robuchon-stgermain"
+    },
+    {
+      "name": "L'Attilio",
+      "cuisine": "Modern Cuisine, Italian",
+      "price": "€€€€",
+      "path": "/france/paris/paris/lattilio"
+    },
+    {
+      "name": "L'Auberge des Crus",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/lauberge-des-crus"
+    },
+    {
+      "name": "L'Escudella",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/lescudella"
+    },
+    {
+      "name": "L'Esquisse",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/lesquisse-p-a-r"
+    },
+    {
+      "name": "L'Évadé",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/lvad"
+    },
+    {
+      "name": "L'Hommage",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/lhommage"
+    },
+    {
+      "name": "L'Inconnu",
+      "cuisine": "Italian, Creative",
+      "price": "€€€",
+      "path": "/france/paris/paris/linconnu"
+    },
+    {
+      "name": "L'Initial",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "path": "/france/paris/paris/linitial"
+    },
+    {
+      "name": "L'Os à Moelle",
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/los-moelle"
+    },
+    {
+      "name": "L'Ouzeri",
+      "cuisine": "Greek",
+      "price": "€€",
+      "path": "/france/paris/paris/louzeri"
+    },
+    {
+      "name": "L’Oyat",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/loyat"
     },
     {
       "name": "La Borie",
@@ -1214,16 +2092,16 @@
       "path": "/france/paris/paris/la-causerie"
     },
     {
+      "name": "La Chaise Haute",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/la-chaise-haute"
+    },
+    {
       "name": "La Condesa",
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/france/paris/paris/la-condesa"
-    },
-    {
-      "name": "La Dame de Pic",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/la-dame-de-pic"
     },
     {
       "name": "La Datcha",
@@ -1242,12 +2120,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/la-fourchette-du-printemps"
-    },
-    {
-      "name": "La Grande Cascade",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/la-grande-cascade"
     },
     {
       "name": "La Grande Ourse",
@@ -1271,19 +2143,7 @@
       "name": "La Régalade Saint-Honoré",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/paris/paris/la-rgalade-saint-honor"
-    },
-    {
-      "name": "La Scène",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/la-scne"
-    },
-    {
-      "name": "La Scène Thélème",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/la-scne-thlme"
+      "path": "/france/paris/paris/la-rgalade-sainthonor"
     },
     {
       "name": "La Table Cachée par Michel Roth",
@@ -1310,52 +2170,10 @@
       "path": "/france/paris/paris/la-table-du-caviste-bio"
     },
     {
-      "name": "L'Abysse au Pavillon Ledoyen",
-      "cuisine": "Japanese, Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/labysse-au-pavillon-ledoyen"
-    },
-    {
-      "name": "L'Abysse Paris",
-      "cuisine": "Japanese, Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/labysse-paris"
-    },
-    {
-      "name": "L'Accolade",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/laccolade"
-    },
-    {
-      "name": "L'Agrume",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/lagrume"
-    },
-    {
       "name": "Lai'Tcha",
       "cuisine": "Asian",
       "price": "€",
       "path": "/france/paris/paris/laitcha"
-    },
-    {
-      "name": "L'Altro Frenchie",
-      "cuisine": "Italian, Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/laltro-frenchie"
-    },
-    {
-      "name": "L'Ambroisie",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/lambroisie"
-    },
-    {
-      "name": "L'Ami Jean",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/lami-jean"
     },
     {
       "name": "Langosteria",
@@ -1364,88 +2182,10 @@
       "path": "/france/paris/paris/langosteria"
     },
     {
-      "name": "L'Antre Amis",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/lantre-amis"
-    },
-    {
       "name": "Lao Siam",
       "cuisine": "Asian",
       "price": "€€",
       "path": "/france/paris/paris/lao-siam"
-    },
-    {
-      "name": "L'Apibo",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/lapibo"
-    },
-    {
-      "name": "L'Archeste",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/larcheste"
-    },
-    {
-      "name": "L'Ardoise",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/lardoise"
-    },
-    {
-      "name": "L'Arôme",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/larme"
-    },
-    {
-      "name": "L'Arpaon",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/larpaon"
-    },
-    {
-      "name": "L'Assaggio",
-      "cuisine": "Italian",
-      "price": "€€€",
-      "path": "/france/paris/paris/lassaggio"
-    },
-    {
-      "name": "Lasserre",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/lasserre"
-    },
-    {
-      "name": "L'Assiette",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/lassiette"
-    },
-    {
-      "name": "L'Atelier de Joël Robuchon - St-Germain",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/latelier-de-jol-robuchon-st-germain"
-    },
-    {
-      "name": "L'Atelier de Joël Robuchon - Étoile",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/latelier-de-jol-robuchon-toile"
-    },
-    {
-      "name": "L'Attilio",
-      "cuisine": "Modern Cuisine, Italian",
-      "price": "€€€€",
-      "path": "/france/paris/paris/lattilio"
-    },
-    {
-      "name": "L'Auberge des Crus",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/lauberge-des-crus"
     },
     {
       "name": "LAVA",
@@ -1472,28 +2212,22 @@
       "path": "/france/paris/paris/lazu"
     },
     {
-      "name": "L'Écrin",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/lcrin"
-    },
-    {
       "name": "Le 39V",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/paris/paris/le-39v"
+      "path": "/france/paris/paris/le39v"
     },
     {
       "name": "Le 6",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/paris/paris/le-6"
+      "path": "/france/paris/paris/le6"
     },
     {
       "name": "Le 703",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/paris/paris/le-703"
+      "path": "/france/paris/paris/le703"
     },
     {
       "name": "Le Baratin",
@@ -1502,10 +2236,10 @@
       "path": "/france/paris/paris/le-baratin"
     },
     {
-      "name": "Le Baudelaire",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-baudelaire"
+      "name": "Le Beurre Noisette",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/le-beurre-noisette"
     },
     {
       "name": "Le Bistrot Flaubert",
@@ -1517,7 +2251,7 @@
       "name": "Le Bon Saint-Pourçain",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/paris/paris/le-bon-saint-pourain"
+      "path": "/france/paris/paris/le-bon-saintpourain"
     },
     {
       "name": "Le Boréal",
@@ -1562,28 +2296,10 @@
       "path": "/france/paris/paris/le-cheval-dor"
     },
     {
-      "name": "Le Chiberta",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-chiberta"
-    },
-    {
       "name": "Le Christine",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/le-christine"
-    },
-    {
-      "name": "Le Cinq",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-cinq"
-    },
-    {
-      "name": "Le Clarence",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-clarence"
     },
     {
       "name": "Le Comptoir Boutary",
@@ -1628,28 +2344,10 @@
       "path": "/france/paris/paris/le-duc"
     },
     {
-      "name": "Le Faham",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/le-faham"
-    },
-    {
-      "name": "Le Faham",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/le-faham"
-    },
-    {
       "name": "Le Florimond",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/le-florimond"
-    },
-    {
-      "name": "Le Gabriel - La Réserve Paris",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-gabriel-la-rserve-paris"
     },
     {
       "name": "Le Gentil",
@@ -1658,28 +2356,16 @@
       "path": "/france/paris/paris/le-gentil"
     },
     {
-      "name": "Le George",
-      "cuisine": "Italian",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-george"
-    },
-    {
       "name": "Le Grand Bain",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/le-grand-bain"
     },
     {
-      "name": "Le Grand Restaurant - Jean-François Piège",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-grand-restaurant-jean-franois-pige"
-    },
-    {
-      "name": "Le Jules Verne",
+      "name": "Le Jourdain",
       "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-jules-verne"
+      "price": "$",
+      "path": "/france/paris/paris/le-jourdain"
     },
     {
       "name": "Le Maquis",
@@ -1724,12 +2410,6 @@
       "path": "/france/paris/paris/le-petit-lucas"
     },
     {
-      "name": "Le Pré Catelan",
-      "cuisine": "Creative, Contemporary",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-pr-catelan"
-    },
-    {
       "name": "Le Quincy",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
@@ -1760,12 +2440,6 @@
       "path": "/france/paris/paris/le-savarin"
     },
     {
-      "name": "Le Sergent Recruteur",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-sergent-recruteur"
-    },
-    {
       "name": "Le Servan",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -1778,22 +2452,10 @@
       "path": "/france/paris/paris/le-sirocco"
     },
     {
-      "name": "Le Taillevent",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-taillevent"
-    },
-    {
       "name": "Le Tire-Bouchon Rodier",
       "cuisine": "Traditional Cuisine, Classic Cuisine",
       "price": "€€",
-      "path": "/france/paris/paris/le-tire-bouchon-rodier"
-    },
-    {
-      "name": "Le Tout-Paris",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-tout-paris"
+      "path": "/france/paris/paris/le-tirebouchon-rodier"
     },
     {
       "name": "Le Villaret",
@@ -1802,16 +2464,10 @@
       "path": "/france/paris/paris/le-villaret"
     },
     {
-      "name": "Le Violon d'Ingres",
-      "cuisine": "Traditional Cuisine, Classic Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/le-violon-dingres"
-    },
-    {
       "name": "Les 110 de Taillevent",
       "cuisine": "Traditional Cuisine, Modern Cuisine",
       "price": "€€€",
-      "path": "/france/paris/paris/les-110-de-taillevent"
+      "path": "/france/paris/paris/les110-de-taillevent"
     },
     {
       "name": "Les Botanistes",
@@ -1824,6 +2480,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/les-canailles-pigalle"
+    },
+    {
+      "name": "Les Collonges",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/les-collonges"
     },
     {
       "name": "Les Délices d'Aphrodite",
@@ -1868,52 +2530,22 @@
       "path": "/france/paris/paris/les-rsistants-la-table"
     },
     {
+      "name": "Les Résistants - Le Bistrot",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/les-rsistants-le-bistrot"
+    },
+    {
       "name": "Lesar",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/lesar"
     },
     {
-      "name": "L'Escudella",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/lescudella"
-    },
-    {
-      "name": "L'Esquisse",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/lesquisse"
-    },
-    {
-      "name": "L'Hommage",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/lhommage"
-    },
-    {
       "name": "LiLi",
       "cuisine": "Chinese",
       "price": "€€€€",
       "path": "/france/paris/paris/lili"
-    },
-    {
-      "name": "À L'Improviste",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/limproviste"
-    },
-    {
-      "name": "L'Inconnu",
-      "cuisine": "Italian, Creative",
-      "price": "€€€",
-      "path": "/france/paris/paris/linconnu"
-    },
-    {
-      "name": "L'Initial",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/linitial"
     },
     {
       "name": "Liquide",
@@ -1934,24 +2566,6 @@
       "path": "/france/paris/paris/liza"
     },
     {
-      "name": "L'Oiseau Blanc",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/loiseau-blanc"
-    },
-    {
-      "name": "L'Orangerie",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/lorangerie"
-    },
-    {
-      "name": "L'Os à Moelle",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/los-moelle"
-    },
-    {
       "name": "Louis",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
@@ -1964,46 +2578,16 @@
       "path": "/france/paris/paris/loulou"
     },
     {
-      "name": "L'Ouzeri",
-      "cuisine": "Greek",
-      "price": "€€",
-      "path": "/france/paris/paris/louzeri"
-    },
-    {
-      "name": "L’Oyat",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/loyat"
-    },
-    {
-      "name": "À l’Épi d’Or",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/lpi-dor"
-    },
-    {
-      "name": "Lucas Carton",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/lucas-carton"
-    },
-    {
-      "name": "L'Évadé",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/lvad"
+      "name": "Mâche",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "path": "/france/paris/paris/mche"
     },
     {
       "name": "Madame FAN",
       "cuisine": "Chinese",
       "price": "€€",
       "path": "/france/paris/paris/madame-fan"
-    },
-    {
-      "name": "Magma",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/magma"
     },
     {
       "name": "Magma",
@@ -2036,28 +2620,16 @@
       "path": "/france/paris/paris/maison-cluny"
     },
     {
-      "name": "Maison Dubois",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/maison-dubois"
-    },
-    {
-      "name": "Maison Rostang",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/maison-rostang"
-    },
-    {
       "name": "Maison Ruggieri Palais Royal",
       "cuisine": "Creative",
       "price": "€€€€",
       "path": "/france/paris/paris/maison-ruggieri-palais-royal"
     },
     {
-      "name": "Mallory Gabsi",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/mallory-gabsi"
+      "name": "Mắm From Hanoï",
+      "cuisine": "Vietnamese",
+      "price": "€",
+      "path": "/france/paris/paris/mm-from-hano"
     },
     {
       "name": "Mandoobar",
@@ -2066,10 +2638,28 @@
       "path": "/france/paris/paris/mandoobar"
     },
     {
+      "name": "Mansou'",
+      "cuisine": "Moroccan",
+      "price": "$$",
+      "path": "/france/paris/paris/mansou"
+    },
+    {
+      "name": "Mantra",
+      "cuisine": "Creative",
+      "price": "$$$",
+      "path": "/france/paris/paris/mantra"
+    },
+    {
       "name": "Marie Akaneya",
       "cuisine": "Japanese, Barbecue",
       "price": "€€€€",
       "path": "/france/paris/paris/marie-akaneya"
+    },
+    {
+      "name": "Marius",
+      "cuisine": "Seafood",
+      "price": "€€€",
+      "path": "/france/paris/paris/marius-p-a-r"
     },
     {
       "name": "Marius et Janette",
@@ -2078,40 +2668,22 @@
       "path": "/france/paris/paris/marius-et-janette"
     },
     {
-      "name": "Marius",
-      "cuisine": "Seafood",
-      "price": "€€€",
-      "path": "/france/paris/paris/marius"
-    },
-    {
-      "name": "Marsan par Hélène Darroze",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/marsan-par-hlne-darroze"
-    },
-    {
       "name": "Marso & Co",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/marso-co"
     },
     {
+      "name": "Masaikuta",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/paris/paris/masaikuta"
+    },
+    {
       "name": "Matka",
       "cuisine": "Polish",
       "price": "€€",
       "path": "/france/paris/paris/matka"
-    },
-    {
-      "name": "Mavrommatis",
-      "cuisine": "Greek, Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/mavrommatis"
-    },
-    {
-      "name": "Mâche",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/paris/paris/mche"
     },
     {
       "name": "Mensae",
@@ -2136,12 +2708,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/minore"
-    },
-    {
-      "name": "Mắm From Hanoï",
-      "cuisine": "Vietnamese",
-      "price": "€",
-      "path": "/france/paris/paris/mm-from-hano"
     },
     {
       "name": "Mojju",
@@ -2180,34 +2746,10 @@
       "path": "/france/paris/paris/mori-venice-bar"
     },
     {
-      "name": "MoSuke",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/mosuke"
-    },
-    {
       "name": "Mova",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/mova"
-    },
-    {
-      "name": "Nakatani",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/nakatani"
-    },
-    {
-      "name": "Neige d'Été",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/neige-dt"
-    },
-    {
-      "name": "NESO",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/neso"
     },
     {
       "name": "Neva Cuisine",
@@ -2216,10 +2758,10 @@
       "path": "/france/paris/paris/neva-cuisine"
     },
     {
-      "name": "Nhome",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/nhome"
+      "name": "Néva Cuisine",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/nva-cuisine"
     },
     {
       "name": "Nodaïwa",
@@ -2240,12 +2782,6 @@
       "path": "/france/paris/paris/nolinski-le-restaurant"
     },
     {
-      "name": "Nomicos",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/nomicos"
-    },
-    {
       "name": "Nonos par Paul Pairet",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -2255,19 +2791,13 @@
       "name": "Nosso",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/paris/paris/nosso"
+      "path": "/france/paris/paris/nosso-p-a-r"
     },
     {
       "name": "Nous 4",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
-      "path": "/france/paris/paris/nous-4"
-    },
-    {
-      "name": "Néva Cuisine",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/nva-cuisine"
+      "path": "/france/paris/paris/nous4"
     },
     {
       "name": "Odette",
@@ -2279,7 +2809,7 @@
       "name": "Ogata",
       "cuisine": "Japanese",
       "price": "€€€€",
-      "path": "/france/paris/paris/ogata"
+      "path": "/france/paris/paris/ogata-p-a-r"
     },
     {
       "name": "Oktobre",
@@ -2288,22 +2818,10 @@
       "path": "/france/paris/paris/oktobre"
     },
     {
-      "name": "Omar Dhiab",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/omar-dhiab"
-    },
-    {
-      "name": "Onor",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/onor"
-    },
-    {
-      "name": "Origines Restaurant",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/origines-restaurant"
+      "name": "OMASAKE",
+      "cuisine": "Japanese",
+      "price": "$$",
+      "path": "/france/paris/paris/omasake"
     },
     {
       "name": "Ose",
@@ -2327,37 +2845,25 @@
       "name": "Otto",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/paris/paris/otto"
+      "path": "/france/paris/paris/otto-p-a-r"
     },
     {
-      "name": "Oxte",
-      "cuisine": "Mexican",
-      "price": "€€€€",
-      "path": "/france/paris/paris/oxte"
-    },
-    {
-      "name": "Pages",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/pages"
-    },
-    {
-      "name": "Palais Royal Restaurant",
-      "cuisine": "Creative, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/palais-royal-restaurant"
-    },
-    {
-      "name": "Pantagruel",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/pantagruel"
+      "name": "Panurge",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$$",
+      "path": "/france/paris/paris/panurge"
     },
     {
       "name": "Parcelles",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/parcelles"
+    },
+    {
+      "name": "Paris Bonheur",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/paris-bonheur"
     },
     {
       "name": "Passerini",
@@ -2372,16 +2878,22 @@
       "path": "/france/paris/paris/passionn"
     },
     {
+      "name": "Patine",
+      "cuisine": "Traditional Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/patine"
+    },
+    {
+      "name": "Patsy",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/patsy"
+    },
+    {
       "name": "Paulownia",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/paulownia"
-    },
-    {
-      "name": "Pavyllon Paris",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/pavyllon-paris"
     },
     {
       "name": "Penati al Baretto",
@@ -2396,12 +2908,6 @@
       "path": "/france/paris/paris/perception"
     },
     {
-      "name": "Pertinence",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/pertinence"
-    },
-    {
       "name": "Petit Boutary",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -2414,6 +2920,12 @@
       "path": "/france/paris/paris/petit-gris"
     },
     {
+      "name": "Pétrelle",
+      "cuisine": "Modern Cuisine, Farm to table",
+      "price": "€€€",
+      "path": "/france/paris/paris/ptrelle"
+    },
+    {
       "name": "Petrossian",
       "cuisine": "Seafood",
       "price": "€€€",
@@ -2423,7 +2935,7 @@
       "name": "Petrus",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/paris/paris/petrus"
+      "path": "/france/paris/paris/petrus-p-a-r"
     },
     {
       "name": "Phébé",
@@ -2444,22 +2956,10 @@
       "path": "/france/paris/paris/pianovins"
     },
     {
-      "name": "Épicure",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/picure"
-    },
-    {
       "name": "Piero TT",
       "cuisine": "Italian",
       "price": "€€€€",
       "path": "/france/paris/paris/piero-tt"
-    },
-    {
-      "name": "Pierre Gagnaire",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/pierre-gagnaire"
     },
     {
       "name": "Pierre Sang in Oberkampf",
@@ -2480,10 +2980,10 @@
       "path": "/france/paris/paris/pilgrim"
     },
     {
-      "name": "Épisodes",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/pisodes"
+      "name": "Pimpan",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/paris/paris/pimpan"
     },
     {
       "name": "Pleine Terre",
@@ -2492,22 +2992,10 @@
       "path": "/france/paris/paris/pleine-terre"
     },
     {
-      "name": "Plénitude - Cheval Blanc Paris",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/plnitude-cheval-blanc-paris"
-    },
-    {
       "name": "Ploc",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/ploc"
-    },
-    {
-      "name": "Épopée",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/pope"
     },
     {
       "name": "Pouliche",
@@ -2516,28 +3004,16 @@
       "path": "/france/paris/paris/pouliche"
     },
     {
-      "name": "Prunier",
-      "cuisine": "Seafood",
-      "price": "€€€€",
-      "path": "/france/paris/paris/prunier"
-    },
-    {
       "name": "Prévelle",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/france/paris/paris/prvelle"
     },
     {
-      "name": "Pétrelle",
-      "cuisine": "Modern Cuisine, Farm to table",
-      "price": "€€€",
-      "path": "/france/paris/paris/ptrelle"
-    },
-    {
-      "name": "Pur' - Jean-François Rouquette",
-      "cuisine": "Modern Cuisine",
+      "name": "Prunier",
+      "cuisine": "Seafood",
       "price": "€€€€",
-      "path": "/france/paris/paris/pur-jean-franois-rouquette"
+      "path": "/france/paris/paris/prunier"
     },
     {
       "name": "Qasti Green",
@@ -2564,34 +3040,16 @@
       "path": "/france/paris/paris/quelque-part-les-abysses"
     },
     {
-      "name": "Qui Plume la Lune",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/qui-plume-la-lune"
-    },
-    {
-      "name": "Quinsou",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/quinsou"
+      "name": "Racines",
+      "cuisine": "Italian",
+      "price": "€€",
+      "path": "/france/paris/paris/racines-p-a-r"
     },
     {
       "name": "Racines des Prés",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/racines-des-prs"
-    },
-    {
-      "name": "Racines",
-      "cuisine": "Italian",
-      "price": "€€",
-      "path": "/france/paris/paris/racines"
-    },
-    {
-      "name": "Relais Louis XIII",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/relais-louis-xiii"
     },
     {
       "name": "Restaurant des Grands Boulevards",
@@ -2612,18 +3070,6 @@
       "path": "/france/paris/paris/restaurant-grands-boulevards-experimental"
     },
     {
-      "name": "Restaurant H",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/paris/paris/restaurant-h"
-    },
-    {
-      "name": "Restaurant Le Meurice Alain Ducasse",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/restaurant-le-meurice-alain-ducasse"
-    },
-    {
       "name": "Rooster",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -2634,12 +3080,6 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/rosemarie"
-    },
-    {
-      "name": "Ōrtensia",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/rtensia"
     },
     {
       "name": "Sadarnac",
@@ -2684,22 +3124,16 @@
       "path": "/france/paris/paris/sensation"
     },
     {
-      "name": "Septime",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/septime"
-    },
-    {
-      "name": "Shabour",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/shabour"
+      "name": "Sétopa",
+      "cuisine": "Korean, Modern Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/stopa"
     },
     {
       "name": "Shang Palace",
       "cuisine": "Chinese",
       "price": "€€€€",
-      "path": "/france/paris/paris/shang-palace"
+      "path": "/france/paris/paris/shang-palace-p-a-r"
     },
     {
       "name": "Sharma Ji",
@@ -2732,28 +3166,16 @@
       "path": "/france/paris/paris/simone-le-resto"
     },
     {
-      "name": "Soé",
-      "cuisine": "Creative",
-      "price": "€€",
-      "path": "/france/paris/paris/so"
-    },
-    {
       "name": "Soces",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/soces"
     },
     {
-      "name": "Sola",
-      "cuisine": "Creative, Japanese",
-      "price": "€€€€",
-      "path": "/france/paris/paris/sola"
-    },
-    {
-      "name": "Solstice",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/solstice"
+      "name": "Soé",
+      "cuisine": "Creative",
+      "price": "€€",
+      "path": "/france/paris/paris/so-p-a-r"
     },
     {
       "name": "Sormani",
@@ -2774,52 +3196,10 @@
       "path": "/france/paris/paris/stern-ristorante"
     },
     {
-      "name": "Sétopa",
-      "cuisine": "Korean, Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/stopa"
-    },
-    {
-      "name": "Substance",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/substance"
-    },
-    {
       "name": "Super Huit",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/super-huit"
-    },
-    {
-      "name": "Sushi B",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/france/paris/paris/sushi-b"
-    },
-    {
-      "name": "Sushi Shunei",
-      "cuisine": "Japanese, Sushi",
-      "price": "€€€€",
-      "path": "/france/paris/paris/sushi-shunei"
-    },
-    {
-      "name": "Sushi Yoshinaga",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/france/paris/paris/sushi-yoshinaga"
-    },
-    {
-      "name": "À Table",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/table"
-    },
-    {
-      "name": "Table - Bruno Verjus",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/table-bruno-verjus"
     },
     {
       "name": "Table Penja",
@@ -2849,7 +3229,7 @@
       "name": "Terra",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/paris/paris/terra"
+      "path": "/france/paris/paris/terra-p-a-r"
     },
     {
       "name": "Thaï Spices",
@@ -2870,28 +3250,10 @@
       "path": "/france/paris/paris/to"
     },
     {
-      "name": "Tomy & Co",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/tomy-co"
-    },
-    {
       "name": "Tosca",
       "cuisine": "Italian",
       "price": "€€€",
       "path": "/france/paris/paris/tosca"
-    },
-    {
-      "name": "Tosca",
-      "cuisine": "Italian",
-      "price": "€€€",
-      "path": "/france/paris/paris/tosca"
-    },
-    {
-      "name": "Tour d'Argent",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/tour-dargent"
     },
     {
       "name": "Towa",
@@ -2912,36 +3274,6 @@
       "path": "/france/paris/paris/trac"
     },
     {
-      "name": "Trente-Trois",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/trente-trois"
-    },
-    {
-      "name": "étsi - le bistro",
-      "cuisine": "Greek",
-      "price": "€€",
-      "path": "/france/paris/paris/tsi-le-bistro"
-    },
-    {
-      "name": "étsi - l'ouzeri",
-      "cuisine": "Greek",
-      "price": "€€",
-      "path": "/france/paris/paris/tsi-louzeri"
-    },
-    {
-      "name": "Étude",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/tude"
-    },
-    {
-      "name": "Vaisseau",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/vaisseau"
-    },
-    {
       "name": "Vantre",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -2952,6 +3284,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/vendmiaire"
+    },
+    {
+      "name": "Vertueux",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/paris/paris/vertueux"
     },
     {
       "name": "Via del Campo",
@@ -2966,40 +3304,16 @@
       "path": "/france/paris/paris/vinello"
     },
     {
-      "name": "Virtus",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/virtus"
-    },
-    {
       "name": "VIVE, Maison Mer",
       "cuisine": "Seafood",
       "price": "€€€",
       "path": "/france/paris/paris/vive-maison-mer"
     },
     {
-      "name": "Yam'Tcha",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/yamtcha"
-    },
-    {
       "name": "Yen",
       "cuisine": "Japanese",
       "price": "€€€",
       "path": "/france/paris/paris/yen"
-    },
-    {
-      "name": "Yoshinori",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/paris/paris/yoshinori"
-    },
-    {
-      "name": "Ze Kitchen Galerie",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/paris/paris/ze-kitchen-galerie"
     },
     {
       "name": "Zeffirino",
@@ -3020,220 +3334,10 @@
       "path": "/france/paris/paris/zostera"
     },
     {
-      "name": "Héritages",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/france/paris/paris/Hritages"
-    },
-    {
-      "name": "Bolea",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/france/paris/paris/Bolea"
-    },
-    {
-      "name": "Bếp Việt",
-      "cuisine": "Vietnamese",
-      "price": "$$",
-      "path": "/france/paris/paris/BpVit"
-    },
-    {
-      "name": "Calcifer",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/paris/paris/Calcifer"
-    },
-    {
-      "name": "Feel Ling - La Table",
-      "cuisine": "Cantonese",
-      "price": "$$",
-      "path": "/france/paris/paris/FeelLingLaTable"
-    },
-    {
-      "name": "Hugo & Co",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/paris/paris/HugoCo"
-    },
-    {
-      "name": "L'Atelier de Joël Robuchon - St-Germain",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/france/paris/paris/LatelierDeJolRobuchonStgermain"
-    },
-    {
-      "name": "La Chaise Haute",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/paris/paris/LaChaiseHaute"
-    },
-    {
-      "name": "Le Beurre Noisette",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/france/paris/paris/LeBeurreNoisette"
-    },
-    {
-      "name": "Le Jourdain",
-      "cuisine": "Modern Cuisine",
-      "price": "$",
-      "path": "/france/paris/paris/LeJourdain"
-    },
-    {
-      "name": "Les Collonges",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/paris/paris/LesCollonges"
-    },
-    {
-      "name": "Les Résistants - Le Bistrot",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/paris/paris/LesRsistantsLeBistrot"
-    },
-    {
-      "name": "Mansou'",
-      "cuisine": "Moroccan",
-      "price": "$$",
-      "path": "/france/paris/paris/Mansou"
-    },
-    {
-      "name": "Mantra",
-      "cuisine": "Creative",
-      "price": "$$$",
-      "path": "/france/paris/paris/Mantra"
-    },
-    {
-      "name": "Masaikuta",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/france/paris/paris/Masaikuta"
-    },
-    {
-      "name": "OMASAKE",
-      "cuisine": "Japanese",
-      "price": "$$",
-      "path": "/france/paris/paris/Omasake"
-    },
-    {
-      "name": "Panurge",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$$",
-      "path": "/france/paris/paris/Panurge"
-    },
-    {
-      "name": "Paris Bonheur",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/france/paris/paris/ParisBonheur"
-    },
-    {
-      "name": "Patine",
-      "cuisine": "Traditional Cuisine",
-      "price": "$$",
-      "path": "/france/paris/paris/Patine"
-    },
-    {
-      "name": "Patsy",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/paris/paris/Patsy"
-    },
-    {
-      "name": "Pimpan",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/paris/paris/Pimpan"
-    },
-    {
-      "name": "Vertueux",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/france/paris/paris/Vertueux"
-    },
-    {
       "name": "Zoutra",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
-      "path": "/france/paris/paris/Zoutra"
-    },
-    {
-      "name": "eme",
-      "cuisine": "Creative",
-      "price": "$$$$",
-      "path": "/france/paris/paris/Eme"
-    },
-    {
-      "name": "L'Atelier Saint Germain De Joël Robuchon",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/LatelierSaintGermainDeJolRobuchon"
-    },
-    {
-      "name": "L'Ami Louis",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/LamiLouis"
-    },
-    {
-      "name": "Le Meurice",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/LeMeurice"
-    },
-    {
-      "name": "La Tour D'Argent",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/LaTourDargent"
-    },
-    {
-      "name": "Alain Ducasse",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/AlainDucasse"
-    },
-    {
-      "name": "L'Astrance",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/Lastrance"
-    },
-    {
-      "name": "Alain Ducasse au Plaza Athénée",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/AlainDucasseAuPlazaAthne"
-    },
-    {
-      "name": "Troisgros",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/Troisgros"
-    },
-    {
-      "name": "Taillevent",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/Taillevent"
-    },
-    {
-      "name": "Les Ambassadeurs",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/LesAmbassadeurs"
-    },
-    {
-      "name": "Table by Bruno Verjus",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/TableByBrunoVerjus"
-    },
-    {
-      "name": "Plénitude",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/Plnitude"
+      "path": "/france/paris/paris/zoutra"
     }
   ]
 }

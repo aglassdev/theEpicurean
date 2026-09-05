@@ -1,8 +1,14 @@
 {
   "title": "Sprockhvel",
-  "country": "germany",
-  "region": "sprockhvel",
-  "city": "sprockhvel",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "sprockhvel",
+  "city": "Sprockhvel",
+  "citySlug": "sprockhvel",
+  "path": "/germany/sprockhvel/sprockhvel/restaurants",
+  "canonicalPath": "/germany/sprockhvel/sprockhvel/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Habbel's",

@@ -1,20 +1,21 @@
 {
-  "title": "Wengi Bei Bren",
-  "country": "switzerland",
-  "region": "wengi-bei-bren",
-  "city": "wengi-bei-bren",
+  "title": "Wengi bei Bren",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "wengi-bei-bren",
+  "city": "Wengi bei Bren",
+  "citySlug": "wengi-bei-bren",
+  "path": "/switzerland/wengi-bei-bren/wengi-bei-bren/restaurants",
+  "canonicalPath": "/switzerland/wengi-bei-bren/wengi-bei-bren/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Sonne",
       "cuisine": "International, Contemporary",
       "price": "€€€€",
-      "path": "/switzerland/wengi-bei-bren/wengi-bei-bren/sonne"
-    },
-    {
-      "name": "Sonne",
-      "cuisine": "Contemporary, International",
-      "price": "€€€€",
-      "path": "/switzerland/wengi-bei-bren/wengi-bei-bren/sonne"
+      "path": "/switzerland/wengi-bei-bren/wengi-bei-bren/sonne",
+      "award": "★"
     }
   ]
 }

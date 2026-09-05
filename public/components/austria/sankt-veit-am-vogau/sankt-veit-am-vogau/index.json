@@ -1,20 +1,27 @@
 {
-  "title": "Sankt Veit Am Vogau",
-  "country": "austria",
-  "region": "sankt-veit-am-vogau",
-  "city": "sankt-veit-am-vogau",
+  "title": "Sankt Veit am Vogau",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "sankt-veit-am-vogau",
+  "city": "Sankt Veit am Vogau",
+  "citySlug": "sankt-veit-am-vogau",
+  "path": "/austria/sankt-veit-am-vogau/sankt-veit-am-vogau/restaurants",
+  "canonicalPath": "/austria/sankt-veit-am-vogau/sankt-veit-am-vogau/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Thaller - Restaurant",
+      "cuisine": "Seasonal Cuisine, Modern Cuisine",
+      "price": "€€€€",
+      "path": "/austria/sankt-veit-am-vogau/sankt-veit-am-vogau/thaller-restaurant",
+      "award": "★"
+    },
     {
       "name": "Thaller - Gasthaus",
       "cuisine": "Regional Cuisine, Seasonal Cuisine",
       "price": "€€",
       "path": "/austria/sankt-veit-am-vogau/sankt-veit-am-vogau/thaller-gasthaus"
-    },
-    {
-      "name": "Thaller - Restaurant",
-      "cuisine": "Seasonal Cuisine, Modern Cuisine",
-      "price": "€€€€",
-      "path": "/austria/sankt-veit-am-vogau/sankt-veit-am-vogau/thaller-restaurant"
     }
   ]
 }

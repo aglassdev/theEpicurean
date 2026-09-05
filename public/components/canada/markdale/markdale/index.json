@@ -1,23 +1,20 @@
 {
   "title": "Markdale",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "markdale",
+  "city": "Markdale",
+  "citySlug": "markdale",
+  "path": "/canada/markdale/markdale/restaurants",
+  "canonicalPath": "/canada/markdale/markdale/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Down Home",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/canada/markdale/markdale/down-home"
-    },
-    {
-      "name": "Down Home",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/canada/markdale/markdale/down-home"
-    },
-    {
-      "name": "Down Home",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$$",
-      "path": "/canada/markdale/markdale/DownHome"
+      "path": "/canada/markdale/markdale/rdownhome"
     }
   ]
 }

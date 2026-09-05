@@ -1,8 +1,14 @@
 {
   "title": "Bobbio",
-  "country": "italy",
-  "region": "bobbio",
-  "city": "bobbio",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "bobbio",
+  "city": "Bobbio",
+  "citySlug": "bobbio",
+  "path": "/italy/bobbio/bobbio/restaurants",
+  "canonicalPath": "/italy/bobbio/bobbio/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Enoteca San Nicola",

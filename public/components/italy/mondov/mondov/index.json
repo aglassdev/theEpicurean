@@ -1,8 +1,14 @@
 {
   "title": "Mondov",
-  "country": "italy",
-  "region": "mondov",
-  "city": "mondov",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "mondov",
+  "city": "Mondov",
+  "citySlug": "mondov",
+  "path": "/italy/mondov/mondov/restaurants",
+  "canonicalPath": "/italy/mondov/mondov/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Osteria Bertaina",

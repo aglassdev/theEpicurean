@@ -1,20 +1,21 @@
 {
   "title": "Torquay",
-  "country": "uk",
-  "region": "torquay",
-  "city": "torquay",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "torquay",
+  "city": "Torquay",
+  "citySlug": "torquay",
+  "path": "/uk/torquay/torquay/restaurants",
+  "canonicalPath": "/uk/torquay/torquay/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Elephant",
       "cuisine": "Modern British",
       "price": "£££",
-      "path": "/uk/torquay/torquay/elephant"
-    },
-    {
-      "name": "Elephant",
-      "cuisine": "Modern British",
-      "price": "£££",
-      "path": "/uk/torquay/torquay/elephant"
+      "path": "/uk/torquay/torquay/elephant",
+      "award": "★"
     }
   ]
 }

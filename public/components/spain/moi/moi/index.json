@@ -1,8 +1,14 @@
 {
   "title": "Moi",
-  "country": "spain",
-  "region": "moi",
-  "city": "moi",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "moi",
+  "city": "Moi",
+  "citySlug": "moi",
+  "path": "/spain/moi/moi/restaurants",
+  "canonicalPath": "/spain/moi/moi/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Les Voltes de Sant Sebastià",

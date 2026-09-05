@@ -1,14 +1,21 @@
 {
   "title": "Cucuron",
-  "country": "france",
-  "region": "cucuron",
-  "city": "cucuron",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cucuron",
+  "city": "Cucuron",
+  "citySlug": "cucuron",
+  "path": "/france/cucuron/cucuron/restaurants",
+  "canonicalPath": "/france/cucuron/cucuron/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "La Petite Maison de Cucuron",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
-      "path": "/france/cucuron/cucuron/la-petite-maison-de-cucuron"
+      "path": "/france/cucuron/cucuron/la-petite-maison-de-cucuron",
+      "award": "★"
     },
     {
       "name": "MatCha",

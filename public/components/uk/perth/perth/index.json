@@ -1,8 +1,14 @@
 {
   "title": "Perth",
-  "country": "uk",
-  "region": "perth",
-  "city": "perth",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "perth",
+  "city": "Perth",
+  "citySlug": "perth",
+  "path": "/uk/perth/perth/restaurants",
+  "canonicalPath": "/uk/perth/perth/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "North Port",

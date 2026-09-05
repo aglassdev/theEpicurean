@@ -1,14 +1,21 @@
 {
-  "title": "Marina Di Bibbona",
-  "country": "italy",
-  "region": "marina-di-bibbona",
-  "city": "marina-di-bibbona",
+  "title": "Marina di Bibbona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "marina-di-bibbona",
+  "city": "Marina di Bibbona",
+  "citySlug": "marina-di-bibbona",
+  "path": "/italy/marina-di-bibbona/marina-di-bibbona/restaurants",
+  "canonicalPath": "/italy/marina-di-bibbona/marina-di-bibbona/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "La Pineta",
       "cuisine": "Seafood, Classic Cuisine",
       "price": "€€€",
-      "path": "/italy/marina-di-bibbona/marina-di-bibbona/la-pineta"
+      "path": "/italy/marina-di-bibbona/marina-di-bibbona/la-pineta-m-a-r",
+      "award": "★"
     }
   ]
 }

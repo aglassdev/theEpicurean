@@ -1,14 +1,20 @@
 {
   "title": "Renaison",
-  "country": "france",
-  "region": "renaison",
-  "city": "renaison",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "renaison",
+  "city": "Renaison",
+  "citySlug": "renaison",
+  "path": "/france/renaison/renaison/restaurants",
+  "canonicalPath": "/france/renaison/renaison/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Restaurant 1451",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/renaison/renaison/le-restaurant-1451"
+      "path": "/france/renaison/renaison/le-restaurant1451"
     }
   ]
 }

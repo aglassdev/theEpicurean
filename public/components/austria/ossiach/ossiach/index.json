@@ -1,11 +1,21 @@
 {
   "title": "Ossiach",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "ossiach",
+  "city": "Ossiach",
+  "citySlug": "ossiach",
+  "path": "/austria/ossiach/ossiach/restaurants",
+  "canonicalPath": "/austria/ossiach/ossiach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Stiftsschmiede Fischrestaurant",
       "cuisine": "Contemporary",
       "price": "$$$",
-      "path": "/austria/ossiach/ossiach/StiftsschmiedeFischrestaurant"
+      "path": "/austria/ossiach/ossiach/stiftsschmiede-fischrestaurant",
+      "award": "Green Star"
     }
   ]
 }

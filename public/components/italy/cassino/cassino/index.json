@@ -1,8 +1,14 @@
 {
   "title": "Cassino",
-  "country": "italy",
-  "region": "cassino",
-  "city": "cassino",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "cassino",
+  "city": "Cassino",
+  "citySlug": "cassino",
+  "path": "/italy/cassino/cassino/restaurants",
+  "canonicalPath": "/italy/cassino/cassino/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Evan's",

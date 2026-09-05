@@ -1,14 +1,20 @@
 {
   "title": "Saint Christophe",
-  "country": "italy",
-  "region": "saint-christophe",
-  "city": "saint-christophe",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "saint-christophe",
+  "city": "Saint Christophe",
+  "citySlug": "saint-christophe",
+  "path": "/italy/saint-christophe/saint-christophe/restaurants",
+  "canonicalPath": "/italy/saint-christophe/saint-christophe/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Atelier 26",
       "cuisine": "French, Traditional Cuisine",
       "price": "€€",
-      "path": "/italy/saint-christophe/saint-christophe/latelier-26"
+      "path": "/italy/saint-christophe/saint-christophe/latelier26"
     }
   ]
 }

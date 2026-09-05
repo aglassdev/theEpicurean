@@ -1,9 +1,22 @@
 {
   "title": "Canyamel",
-  "country": "spain",
-  "region": "canyamel",
-  "city": "canyamel",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "canyamel",
+  "city": "Canyamel",
+  "citySlug": "canyamel",
+  "path": "/spain/canyamel/canyamel/restaurants",
+  "canonicalPath": "/spain/canyamel/canyamel/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Voro",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/spain/canyamel/canyamel/voro",
+      "award": "★★"
+    },
     {
       "name": "Can Simoneta",
       "cuisine": "Mediterranean Cuisine",
@@ -21,12 +34,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/spain/canyamel/canyamel/sa-pleta-by-marc-fosh"
-    },
-    {
-      "name": "Voro",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/spain/canyamel/canyamel/voro"
     }
   ]
 }

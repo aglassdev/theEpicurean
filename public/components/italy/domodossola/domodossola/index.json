@@ -1,14 +1,21 @@
 {
   "title": "Domodossola",
-  "country": "italy",
-  "region": "domodossola",
-  "city": "domodossola",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "domodossola",
+  "city": "Domodossola",
+  "citySlug": "domodossola",
+  "path": "/italy/domodossola/domodossola/restaurants",
+  "canonicalPath": "/italy/domodossola/domodossola/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Atelier",
       "cuisine": "Country cooking, Contemporary",
       "price": "€€€",
-      "path": "/italy/domodossola/domodossola/atelier"
+      "path": "/italy/domodossola/domodossola/atelier-d-o-m",
+      "award": "★"
     },
     {
       "name": "La Meridiana",

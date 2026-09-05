@@ -1,14 +1,21 @@
 {
   "title": "Mali Loinj",
-  "country": "croatia",
-  "region": "mali-loinj",
-  "city": "mali-loinj",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "mali-loinj",
+  "city": "Mali Loinj",
+  "citySlug": "mali-loinj",
+  "path": "/croatia/mali-loinj/mali-loinj/restaurants",
+  "canonicalPath": "/croatia/mali-loinj/mali-loinj/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Alfred Keller",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€",
-      "path": "/croatia/mali-loinj/mali-loinj/alfred-keller"
+      "path": "/croatia/mali-loinj/mali-loinj/alfred-keller",
+      "award": "★"
     },
     {
       "name": "Matsunoki",

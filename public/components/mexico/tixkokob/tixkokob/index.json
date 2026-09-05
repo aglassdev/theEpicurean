@@ -1,11 +1,21 @@
 {
   "title": "Tixkokob",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "tixkokob",
+  "city": "Tixkokob",
+  "citySlug": "tixkokob",
+  "path": "/mexico/tixkokob/tixkokob/restaurants",
+  "canonicalPath": "/mexico/tixkokob/tixkokob/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Pueblo Pibil",
       "cuisine": "Mexican",
       "price": "$$",
-      "path": "/mexico/tixkokob/tixkokob/PuebloPibil"
+      "path": "/mexico/tixkokob/tixkokob/pueblo-pibil",
+      "award": "Bib Gourmand"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Formello",
-  "country": "italy",
-  "region": "formello",
-  "city": "formello",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "formello",
+  "city": "Formello",
+  "citySlug": "formello",
+  "path": "/italy/formello/formello/restaurants",
+  "canonicalPath": "/italy/formello/formello/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mogano",

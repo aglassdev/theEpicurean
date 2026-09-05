@@ -1,17 +1,26 @@
 {
   "title": "Kassel",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "kassel",
+  "city": "Kassel",
+  "citySlug": "kassel",
+  "path": "/germany/kassel/kassel/restaurants",
+  "canonicalPath": "/germany/kassel/kassel/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "elfbuchen",
+      "cuisine": "Seasonal Cuisine",
+      "price": "$$",
+      "path": "/germany/kassel/kassel/elfbuchen"
+    },
     {
       "name": "mondi",
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€€",
       "path": "/germany/kassel/kassel/mondi"
-    },
-    {
-      "name": "elfbuchen",
-      "cuisine": "Seasonal Cuisine",
-      "price": "$$",
-      "path": "/germany/kassel/kassel/Elfbuchen"
     }
   ]
 }

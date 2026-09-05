@@ -1,14 +1,20 @@
 {
   "title": "Casole Delsa",
-  "country": "italy",
-  "region": "casole-delsa",
-  "city": "casole-delsa",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "casole-delsa",
+  "city": "Casole Delsa",
+  "citySlug": "casole-delsa",
+  "path": "/italy/casole-delsa/casole-delsa/restaurants",
+  "canonicalPath": "/italy/casole-delsa/casole-delsa/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Tosca",
       "cuisine": "Mediterranean Cuisine, Classic Cuisine",
       "price": "€€€€",
-      "path": "/italy/casole-delsa/casole-delsa/tosca"
+      "path": "/italy/casole-delsa/casole-delsa/tosca-c-a-s"
     }
   ]
 }

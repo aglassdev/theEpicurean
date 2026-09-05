@@ -1,14 +1,21 @@
 {
   "title": "Ponferrada",
-  "country": "spain",
-  "region": "ponferrada",
-  "city": "ponferrada",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "ponferrada",
+  "city": "Ponferrada",
+  "citySlug": "ponferrada",
+  "path": "/spain/ponferrada/ponferrada/restaurants",
+  "canonicalPath": "/spain/ponferrada/ponferrada/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Mu•na",
       "cuisine": "Fusion, Japanese Contemporary",
       "price": "€€€€",
-      "path": "/spain/ponferrada/ponferrada/muna"
+      "path": "/spain/ponferrada/ponferrada/muna",
+      "award": "★"
     }
   ]
 }

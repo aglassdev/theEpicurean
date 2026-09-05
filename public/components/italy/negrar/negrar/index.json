@@ -1,14 +1,20 @@
 {
   "title": "Negrar",
-  "country": "italy",
-  "region": "negrar",
-  "city": "negrar",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "negrar",
+  "city": "Negrar",
+  "citySlug": "negrar",
+  "path": "/italy/negrar/negrar/restaurants",
+  "canonicalPath": "/italy/negrar/negrar/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Locanda '800",
       "cuisine": "Seafood, Classic Cuisine",
       "price": "€€",
-      "path": "/italy/negrar/negrar/locanda-800"
+      "path": "/italy/negrar/negrar/locanda800"
     },
     {
       "name": "Trattoria alla Ruota",

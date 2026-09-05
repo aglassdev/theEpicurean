@@ -1,8 +1,14 @@
 {
   "title": "Sauris",
-  "country": "italy",
-  "region": "sauris",
-  "city": "sauris",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "sauris",
+  "city": "Sauris",
+  "citySlug": "sauris",
+  "path": "/italy/sauris/sauris/restaurants",
+  "canonicalPath": "/italy/sauris/sauris/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Alla Pace",

@@ -1,14 +1,21 @@
 {
   "title": "Bidarray",
-  "country": "france",
-  "region": "bidarray",
-  "city": "bidarray",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "bidarray",
+  "city": "Bidarray",
+  "citySlug": "bidarray",
+  "path": "/france/bidarray/bidarray/restaurants",
+  "canonicalPath": "/france/bidarray/bidarray/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lore Ttipia - Auberge Ostape",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/bidarray/bidarray/lore-ttipia-auberge-ostape"
+      "path": "/france/bidarray/bidarray/lore-ttipia-auberge-ostape",
+      "award": "★"
     }
   ]
 }

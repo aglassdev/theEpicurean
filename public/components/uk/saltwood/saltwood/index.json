@@ -1,14 +1,21 @@
 {
   "title": "Saltwood",
-  "country": "uk",
-  "region": "saltwood",
-  "city": "saltwood",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "saltwood",
+  "city": "Saltwood",
+  "citySlug": "saltwood",
+  "path": "/uk/saltwood/saltwood/restaurants",
+  "canonicalPath": "/uk/saltwood/saltwood/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "hide and fox",
       "cuisine": "Modern British",
       "price": "££££",
-      "path": "/uk/saltwood/saltwood/hide-and-fox"
+      "path": "/uk/saltwood/saltwood/hide-and-fox",
+      "award": "★★"
     }
   ]
 }

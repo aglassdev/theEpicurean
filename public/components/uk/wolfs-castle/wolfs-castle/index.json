@@ -1,8 +1,14 @@
 {
   "title": "Wolfs Castle",
-  "country": "uk",
-  "region": "wolfs-castle",
-  "city": "wolfs-castle",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "wolfs-castle",
+  "city": "Wolfs Castle",
+  "citySlug": "wolfs-castle",
+  "path": "/uk/wolfs-castle/wolfs-castle/restaurants",
+  "canonicalPath": "/uk/wolfs-castle/wolfs-castle/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Allt Yr Afon",

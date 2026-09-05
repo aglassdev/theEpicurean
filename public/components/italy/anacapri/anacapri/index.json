@@ -1,9 +1,22 @@
 {
   "title": "Anacapri",
-  "country": "italy",
-  "region": "anacapri",
-  "city": "anacapri",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "anacapri",
+  "city": "Anacapri",
+  "citySlug": "anacapri",
+  "path": "/italy/anacapri/anacapri/restaurants",
+  "canonicalPath": "/italy/anacapri/anacapri/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "L'Olivo",
+      "cuisine": "Italian Contemporary, Creative",
+      "price": "€€€€",
+      "path": "/italy/anacapri/anacapri/lolivo",
+      "award": "★★"
+    },
     {
       "name": "Da Gelsomina",
       "cuisine": "Regional Cuisine",
@@ -15,12 +28,6 @@
       "cuisine": "Seafood",
       "price": "€€€€",
       "path": "/italy/anacapri/anacapri/il-riccio"
-    },
-    {
-      "name": "L'Olivo",
-      "cuisine": "Italian Contemporary, Creative",
-      "price": "€€€€",
-      "path": "/italy/anacapri/anacapri/lolivo"
     }
   ]
 }

@@ -1,11 +1,21 @@
 {
   "title": "Siena",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "siena",
+  "city": "Siena",
+  "citySlug": "siena",
+  "path": "/italy/siena/siena/restaurants",
+  "canonicalPath": "/italy/siena/siena/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Canto",
       "cuisine": "",
       "price": "",
-      "path": "/italy/siena/siena/IlCanto"
+      "path": "/italy/siena/siena/il-canto",
+      "award": "World's 50 Best"
     }
   ]
 }

@@ -1,11 +1,20 @@
 {
-  "title": "Saint-Maximin",
+  "title": "Saint Maximin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "saint-maximin",
+  "city": "Saint Maximin",
+  "citySlug": "saint-maximin",
+  "path": "/france/saint-maximin/saint-maximin/restaurants",
+  "canonicalPath": "/france/saint-maximin/saint-maximin/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ousta Maï",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
-      "path": "/france/saint-maximin/saint-maximin/OustaMa"
+      "path": "/france/saint-maximin/saint-maximin/ousta-ma"
     }
   ]
 }

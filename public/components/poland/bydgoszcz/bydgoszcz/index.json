@@ -1,23 +1,32 @@
 {
   "title": "Bydgoszcz",
+  "country": "Poland",
+  "countrySlug": "poland",
+  "region": null,
+  "regionSlug": "bydgoszcz",
+  "city": "Bydgoszcz",
+  "citySlug": "bydgoszcz",
+  "path": "/poland/bydgoszcz/bydgoszcz/restaurants",
+  "canonicalPath": "/poland/bydgoszcz/bydgoszcz/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Czosnek i Oliwa",
       "cuisine": "Creative",
       "price": "$$",
-      "path": "/poland/bydgoszcz/bydgoszcz/CzosnekIOliwa"
+      "path": "/poland/bydgoszcz/bydgoszcz/czosnek-i-oliwa"
     },
     {
       "name": "Meluzyna",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
-      "path": "/poland/bydgoszcz/bydgoszcz/Meluzyna"
+      "path": "/poland/bydgoszcz/bydgoszcz/meluzyna"
     },
     {
       "name": "Scoria",
       "cuisine": "European",
       "price": "$$",
-      "path": "/poland/bydgoszcz/bydgoszcz/Scoria"
+      "path": "/poland/bydgoszcz/bydgoszcz/scoria"
     }
   ]
 }

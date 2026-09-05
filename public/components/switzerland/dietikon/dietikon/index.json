@@ -1,8 +1,14 @@
 {
   "title": "Dietikon",
-  "country": "switzerland",
-  "region": "dietikon",
-  "city": "dietikon",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "dietikon",
+  "city": "Dietikon",
+  "citySlug": "dietikon",
+  "path": "/switzerland/dietikon/dietikon/restaurants",
+  "canonicalPath": "/switzerland/dietikon/dietikon/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Taverne zur Krone",

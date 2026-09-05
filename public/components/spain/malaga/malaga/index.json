@@ -1,9 +1,36 @@
 {
   "title": "Malaga",
-  "country": "spain",
-  "region": "malaga",
-  "city": "malaga",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "malaga",
+  "city": "Malaga",
+  "citySlug": "malaga",
+  "path": "/spain/malaga/malaga/restaurants",
+  "canonicalPath": "/spain/malaga/malaga/restaurants",
+  "count": 18,
   "restaurants": [
+    {
+      "name": "Blossom",
+      "cuisine": "Fusion",
+      "price": "€€€€",
+      "path": "/spain/malaga/malaga/blossom",
+      "award": "★"
+    },
+    {
+      "name": "José Carlos García",
+      "cuisine": "Creative, Andalusian",
+      "price": "€€€€",
+      "path": "/spain/malaga/malaga/jos-carlos-garca",
+      "award": "★"
+    },
+    {
+      "name": "Kaleja",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "path": "/spain/malaga/malaga/kaleja",
+      "award": "★"
+    },
     {
       "name": "Aire",
       "cuisine": "Contemporary",
@@ -29,22 +56,10 @@
       "path": "/spain/malaga/malaga/beluga"
     },
     {
-      "name": "Blossom",
-      "cuisine": "Fusion",
-      "price": "€€€€",
-      "path": "/spain/malaga/malaga/blossom"
-    },
-    {
       "name": "Candado Golf",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/spain/malaga/malaga/candado-golf"
-    },
-    {
-      "name": "Clómada",
-      "cuisine": "International",
-      "price": "€€",
-      "path": "/spain/malaga/malaga/clmada"
     },
     {
       "name": "Cávala",
@@ -53,16 +68,10 @@
       "path": "/spain/malaga/malaga/cvala"
     },
     {
-      "name": "José Carlos García",
-      "cuisine": "Creative, Andalusian",
-      "price": "€€€€",
-      "path": "/spain/malaga/malaga/jos-carlos-garca"
-    },
-    {
-      "name": "Kaleja",
-      "cuisine": "Contemporary",
-      "price": "€€€€",
-      "path": "/spain/malaga/malaga/kaleja"
+      "name": "Clómada",
+      "cuisine": "International",
+      "price": "€€",
+      "path": "/spain/malaga/malaga/clmada"
     },
     {
       "name": "La Cosmo",
@@ -104,13 +113,7 @@
       "name": "TA-KUMI",
       "cuisine": "Japanese",
       "price": "€€€",
-      "path": "/spain/malaga/malaga/ta-kumi"
-    },
-    {
-      "name": "TA-KUMI",
-      "cuisine": "Japanese",
-      "price": "€€€",
-      "path": "/spain/malaga/malaga/ta-kumi"
+      "path": "/spain/malaga/malaga/takumi"
     },
     {
       "name": "Tragatá Málaga",

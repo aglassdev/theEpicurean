@@ -1,0 +1,26 @@
+{
+  "title": "Anaheim",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Anaheim",
+  "citySlug": "anaheim",
+  "path": "/usa/california/anaheim/restaurants",
+  "canonicalPath": "/usa/california/anaheim/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Poppy & Seed",
+      "cuisine": "Southern, American",
+      "price": "$$$",
+      "path": "/usa/california/anaheim/poppy-seed"
+    },
+    {
+      "name": "The Ranch",
+      "cuisine": "Steakhouse, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/california/anaheim/the-ranch"
+    }
+  ]
+}

@@ -1,17 +1,27 @@
 {
   "title": "Ellastone",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "ellastone",
+  "city": "Ellastone",
+  "citySlug": "ellastone",
+  "path": "/uk/ellastone/ellastone/restaurants",
+  "canonicalPath": "/uk/ellastone/ellastone/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "The Duncombe Arms",
+      "cuisine": "Modern British",
+      "price": "$$",
+      "path": "/uk/ellastone/ellastone/the-duncombe-arms",
+      "award": "Bib Gourmand"
+    },
     {
       "name": "Duncombe Arms",
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/ellastone/ellastone/duncombe-arms"
-    },
-    {
-      "name": "The Duncombe Arms",
-      "cuisine": "Modern British",
-      "price": "$$",
-      "path": "/uk/ellastone/ellastone/TheDuncombeArms"
     }
   ]
 }

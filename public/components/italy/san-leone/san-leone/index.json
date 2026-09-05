@@ -1,8 +1,14 @@
 {
   "title": "San Leone",
-  "country": "italy",
-  "region": "san-leone",
-  "city": "san-leone",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "san-leone",
+  "city": "San Leone",
+  "citySlug": "san-leone",
+  "path": "/italy/san-leone/san-leone/restaurants",
+  "canonicalPath": "/italy/san-leone/san-leone/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Il Molo",

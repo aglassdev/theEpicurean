@@ -1,14 +1,21 @@
 {
   "title": "Massa Lubrense",
-  "country": "italy",
-  "region": "massa-lubrense",
-  "city": "massa-lubrense",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "massa-lubrense",
+  "city": "Massa Lubrense",
+  "citySlug": "massa-lubrense",
+  "path": "/italy/massa-lubrense/massa-lubrense/restaurants",
+  "canonicalPath": "/italy/massa-lubrense/massa-lubrense/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Relais Blu",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/italy/massa-lubrense/massa-lubrense/relais-blu"
+      "path": "/italy/massa-lubrense/massa-lubrense/relais-blu",
+      "award": "★"
     },
     {
       "name": "Terrazza Fiorella",

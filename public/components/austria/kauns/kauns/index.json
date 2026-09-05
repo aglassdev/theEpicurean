@@ -1,11 +1,20 @@
 {
   "title": "Kauns",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "kauns",
+  "city": "Kauns",
+  "citySlug": "kauns",
+  "path": "/austria/kauns/kauns/restaurants",
+  "canonicalPath": "/austria/kauns/kauns/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gasthof Falkeis",
       "cuisine": "Austrian",
       "price": "$$$",
-      "path": "/austria/kauns/kauns/GasthofFalkeis"
+      "path": "/austria/kauns/kauns/gasthof-falkeis"
     }
   ]
 }

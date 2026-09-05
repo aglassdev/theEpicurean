@@ -1,8 +1,14 @@
 {
   "title": "Giesen",
-  "country": "germany",
-  "region": "giesen",
-  "city": "giesen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "giesen",
+  "city": "Giesen",
+  "citySlug": "giesen",
+  "path": "/germany/giesen/giesen/restaurants",
+  "canonicalPath": "/germany/giesen/giesen/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "heyligenstaedt",

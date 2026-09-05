@@ -1,8 +1,14 @@
 {
   "title": "Floressas",
-  "country": "france",
-  "region": "floressas",
-  "city": "floressas",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "floressas",
+  "city": "Floressas",
+  "citySlug": "floressas",
+  "path": "/france/floressas/floressas/restaurants",
+  "canonicalPath": "/france/floressas/floressas/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Holodeck",

@@ -1,14 +1,21 @@
 {
   "title": "Waiblingen",
-  "country": "germany",
-  "region": "waiblingen",
-  "city": "waiblingen",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "waiblingen",
+  "city": "Waiblingen",
+  "citySlug": "waiblingen",
+  "path": "/germany/waiblingen/waiblingen/restaurants",
+  "canonicalPath": "/germany/waiblingen/waiblingen/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Bachofer",
       "cuisine": "Creative, Fusion",
       "price": "€€€€",
-      "path": "/germany/waiblingen/waiblingen/bachofer"
+      "path": "/germany/waiblingen/waiblingen/bachofer",
+      "award": "★"
     },
     {
       "name": "Brunnenstuben",

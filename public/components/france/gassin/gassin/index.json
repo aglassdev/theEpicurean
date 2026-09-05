@@ -1,8 +1,14 @@
 {
   "title": "Gassin",
-  "country": "france",
-  "region": "gassin",
-  "city": "gassin",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "gassin",
+  "city": "Gassin",
+  "citySlug": "gassin",
+  "path": "/france/gassin/gassin/restaurants",
+  "canonicalPath": "/france/gassin/gassin/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "Bello Visto",

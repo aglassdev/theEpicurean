@@ -1,14 +1,21 @@
 {
-  "title": "Leutschach An Der Weinstrae",
-  "country": "austria",
-  "region": "leutschach-an-der-weinstrae",
-  "city": "leutschach-an-der-weinstrae",
+  "title": "Leutschach an der Weinstrae",
+  "country": "Austria",
+  "countrySlug": "austria",
+  "region": null,
+  "regionSlug": "leutschach-an-der-weinstrae",
+  "city": "Leutschach an der Weinstrae",
+  "citySlug": "leutschach-an-der-weinstrae",
+  "path": "/austria/leutschach-an-der-weinstrae/leutschach-an-der-weinstrae/restaurants",
+  "canonicalPath": "/austria/leutschach-an-der-weinstrae/leutschach-an-der-weinstrae/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Lieperts",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/austria/leutschach-an-der-weinstrae/leutschach-an-der-weinstrae/lieperts"
+      "path": "/austria/leutschach-an-der-weinstrae/leutschach-an-der-weinstrae/lieperts",
+      "award": "★"
     }
   ]
 }

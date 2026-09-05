@@ -1,6 +1,29 @@
 {
   "title": "Les Sables Dolonne",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "les-sables-dolonne",
+  "city": "Les Sables Dolonne",
+  "citySlug": "les-sables-dolonne",
+  "path": "/france/les-sables-dolonne/les-sables-dolonne/restaurants",
+  "canonicalPath": "/france/les-sables-dolonne/les-sables-dolonne/restaurants",
+  "count": 12,
   "restaurants": [
+    {
+      "name": "L'Abissiou",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/les-sables-dolonne/les-sables-dolonne/labissiou",
+      "award": "★"
+    },
+    {
+      "name": "GAIA - Manoir de la Mortière",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/france/les-sables-dolonne/les-sables-dolonne/gaia-manoir-de-la-mortire",
+      "award": "Green Star"
+    },
     {
       "name": "Alice, le bistrot - Le Manoir de la Mortière",
       "cuisine": "Traditional Cuisine",
@@ -18,6 +41,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/les-sables-dolonne/les-sables-dolonne/bistroquai"
+    },
+    {
+      "name": "L'Estran",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/les-sables-dolonne/les-sables-dolonne/lestran-l-e-s"
     },
     {
       "name": "La Cotriade",
@@ -44,12 +73,6 @@
       "path": "/france/les-sables-dolonne/les-sables-dolonne/la-table-de-villeneuve"
     },
     {
-      "name": "L'Abissiou",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/les-sables-dolonne/les-sables-dolonne/labissiou"
-    },
-    {
       "name": "Lacertus",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -60,18 +83,6 @@
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/france/les-sables-dolonne/les-sables-dolonne/le-quai-des-saveurs"
-    },
-    {
-      "name": "L'Estran",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/les-sables-dolonne/les-sables-dolonne/lestran"
-    },
-    {
-      "name": "GAIA - Manoir de la Mortière",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/france/les-sables-dolonne/les-sables-dolonne/GaiaManoirDeLaMortire"
     }
   ]
 }

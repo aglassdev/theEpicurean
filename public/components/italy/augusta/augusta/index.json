@@ -1,8 +1,14 @@
 {
   "title": "Augusta",
-  "country": "italy",
-  "region": "augusta",
-  "city": "augusta",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "augusta",
+  "city": "Augusta",
+  "citySlug": "augusta",
+  "path": "/italy/augusta/augusta/restaurants",
+  "canonicalPath": "/italy/augusta/augusta/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Capriccio",

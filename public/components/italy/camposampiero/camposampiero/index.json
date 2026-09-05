@@ -1,17 +1,26 @@
 {
   "title": "Camposampiero",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "camposampiero",
+  "city": "Camposampiero",
+  "citySlug": "camposampiero",
+  "path": "/italy/camposampiero/camposampiero/restaurants",
+  "canonicalPath": "/italy/camposampiero/camposampiero/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Caffè Grande - Osteria del Centro",
+      "cuisine": "Grills",
+      "price": "$$",
+      "path": "/italy/camposampiero/camposampiero/caff-grande-osteria-del-centro"
+    },
     {
       "name": "Storico Caffè Grande - Osteria del Centro",
       "cuisine": "Grills, Seasonal Cuisine",
       "price": "€€",
       "path": "/italy/camposampiero/camposampiero/storico-caff-grande-osteria-del-centro"
-    },
-    {
-      "name": "Caffè Grande - Osteria del Centro",
-      "cuisine": "Grills",
-      "price": "$$",
-      "path": "/italy/camposampiero/camposampiero/CaffGrandeOsteriaDelCentro"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Torgiano",
-  "country": "italy",
-  "region": "torgiano",
-  "city": "torgiano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "torgiano",
+  "city": "Torgiano",
+  "citySlug": "torgiano",
+  "path": "/italy/torgiano/torgiano/restaurants",
+  "canonicalPath": "/italy/torgiano/torgiano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Elementi",
       "cuisine": "Italian Contemporary, Umbrian",
       "price": "€€€€",
-      "path": "/italy/torgiano/torgiano/elementi"
+      "path": "/italy/torgiano/torgiano/elementi",
+      "award": "★"
     }
   ]
 }

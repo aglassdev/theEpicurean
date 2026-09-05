@@ -1,14 +1,21 @@
 {
   "title": "Balgach",
-  "country": "switzerland",
-  "region": "balgach",
-  "city": "balgach",
+  "country": "Switzerland",
+  "countrySlug": "switzerland",
+  "region": null,
+  "regionSlug": "balgach",
+  "city": "Balgach",
+  "citySlug": "balgach",
+  "path": "/switzerland/balgach/balgach/restaurants",
+  "canonicalPath": "/switzerland/balgach/balgach/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bad Balgach by Schützelhofer",
       "cuisine": "Classic Cuisine",
       "price": "€€€",
-      "path": "/switzerland/balgach/balgach/bad-balgach-by-schtzelhofer"
+      "path": "/switzerland/balgach/balgach/bad-balgach-by-schtzelhofer",
+      "award": "★"
     }
   ]
 }

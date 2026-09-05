@@ -1,9 +1,29 @@
 {
   "title": "George Town",
-  "country": "malaysia",
-  "region": "george-town",
-  "city": "george-town",
+  "country": "Malaysia",
+  "countrySlug": "malaysia",
+  "region": null,
+  "regionSlug": "george-town",
+  "city": "George Town",
+  "citySlug": "george-town",
+  "path": "/malaysia/george-town/george-town/restaurants",
+  "canonicalPath": "/malaysia/george-town/george-town/restaurants",
+  "count": 68,
   "restaurants": [
+    {
+      "name": "Au Jardin",
+      "cuisine": "European Contemporary",
+      "price": "$$$",
+      "path": "/malaysia/george-town/george-town/au-jardin",
+      "award": "★"
+    },
+    {
+      "name": "Auntie Gaik Lean's Old School Eatery",
+      "cuisine": "Peranakan",
+      "price": "$$",
+      "path": "/malaysia/george-town/george-town/auntie-gaik-leans-old-school-eatery",
+      "award": "★"
+    },
     {
       "name": "888 Hokkien Mee",
       "cuisine": "Street Food",
@@ -33,18 +53,6 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/malaysia/george-town/george-town/ali-nasi-lemak-daun-pisang"
-    },
-    {
-      "name": "Au Jardin",
-      "cuisine": "European Contemporary",
-      "price": "$$$",
-      "path": "/malaysia/george-town/george-town/au-jardin"
-    },
-    {
-      "name": "Auntie Gaik Lean's Old School Eatery",
-      "cuisine": "Peranakan",
-      "price": "$$",
-      "path": "/malaysia/george-town/george-town/auntie-gaik-leans-old-school-eatery"
     },
     {
       "name": "Awesome Char Koay Teow",
@@ -92,7 +100,7 @@
       "name": "Blanc",
       "cuisine": "European Contemporary",
       "price": "$$$",
-      "path": "/malaysia/george-town/george-town/blanc"
+      "path": "/malaysia/george-town/george-town/blanc-g-e-o"
     },
     {
       "name": "Bridge Street Prawn Noodle",
@@ -122,13 +130,13 @@
       "name": "Curios-City",
       "cuisine": "Innovative",
       "price": "$$$",
-      "path": "/malaysia/george-town/george-town/curios-city"
+      "path": "/malaysia/george-town/george-town/curioscity"
     },
     {
       "name": "Du-An (Lebuh Pantai)",
       "cuisine": "Malaysian",
       "price": "$$",
-      "path": "/malaysia/george-town/george-town/du-an-lebuh-pantai"
+      "path": "/malaysia/george-town/george-town/duan-lebuh-pantai"
     },
     {
       "name": "Duck Blood Curry Mee",
@@ -161,16 +169,16 @@
       "path": "/malaysia/george-town/george-town/fook-cheow-cafe"
     },
     {
-      "name": "Ghee Lian",
-      "cuisine": "Street Food",
-      "price": "$",
-      "path": "/malaysia/george-town/george-town/ghee-lian"
-    },
-    {
       "name": "Gēn",
       "cuisine": "Innovative",
       "price": "$$$",
       "path": "/malaysia/george-town/george-town/gn"
+    },
+    {
+      "name": "Ghee Lian",
+      "cuisine": "Street Food",
+      "price": "$",
+      "path": "/malaysia/george-town/george-town/ghee-lian"
     },
     {
       "name": "Goh Thew Chik Hainan Chicken Rice",
@@ -182,7 +190,7 @@
       "name": "Green House Prawn Mee & Loh Mee (223 Jalan Burma)",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/malaysia/george-town/george-town/green-house-prawn-mee-loh-mee-223-jalan-burma"
+      "path": "/malaysia/george-town/george-town/green-house-prawn-mee-loh-mee223-jalan-burma"
     },
     {
       "name": "Hot Bowl White Curry Mee",
@@ -368,7 +376,7 @@
       "name": "Super Star Koay Teow Soup (78 Lebuh Kimberley)",
       "cuisine": "Street Food",
       "price": "$",
-      "path": "/malaysia/george-town/george-town/super-star-koay-teow-soup-78-lebuh-kimberley"
+      "path": "/malaysia/george-town/george-town/super-star-koay-teow-soup78-lebuh-kimberley"
     },
     {
       "name": "Teksen",

@@ -17,6 +17,10 @@ dist-ssr
 .env.*
 !.env.example
 
+# Raw source datasets — kept locally, not committed (large; re-downloadable)
+# michelin_my_maps.csv · WorldsBestRestaurants.csv · afternoontea.csv · restaurants.csv
+/*.csv
+
 # Geocoding resume state
 .geocode_progress.json
 

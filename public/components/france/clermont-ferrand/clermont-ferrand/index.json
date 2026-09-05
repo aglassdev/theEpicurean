@@ -1,11 +1,42 @@
 {
   "title": "Clermont Ferrand",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "clermont-ferrand",
+  "city": "Clermont Ferrand",
+  "citySlug": "clermont-ferrand",
+  "path": "/france/clermont-ferrand/clermont-ferrand/restaurants",
+  "canonicalPath": "/france/clermont-ferrand/clermont-ferrand/restaurants",
+  "count": 15,
   "restaurants": [
+    {
+      "name": "Le Pré - Xavier Beaudiment",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/france/clermont-ferrand/clermont-ferrand/le-pr-xavier-beaudiment",
+      "award": "★★"
+    },
     {
       "name": "Apicius",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/clermont-ferrand/clermont-ferrand/apicius"
+      "path": "/france/clermont-ferrand/clermont-ferrand/apicius",
+      "award": "★"
+    },
+    {
+      "name": "Jean-Claude Leclerc",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/france/clermont-ferrand/clermont-ferrand/jeanclaude-leclerc",
+      "award": "★"
+    },
+    {
+      "name": "L'Ostal",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/france/clermont-ferrand/clermont-ferrand/lostal",
+      "award": "★"
     },
     {
       "name": "Il Visconti",
@@ -14,22 +45,28 @@
       "path": "/france/clermont-ferrand/clermont-ferrand/il-visconti"
     },
     {
-      "name": "Jean-Claude Leclerc",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/france/clermont-ferrand/clermont-ferrand/jean-claude-leclerc"
-    },
-    {
       "name": "L'Écureuil",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/clermont-ferrand/clermont-ferrand/lcureuil"
     },
     {
+      "name": "L'En-but",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/clermont-ferrand/clermont-ferrand/lenbut"
+    },
+    {
+      "name": "L'Instantané",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/clermont-ferrand/clermont-ferrand/linstantan"
+    },
+    {
       "name": "Le 62",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/clermont-ferrand/clermont-ferrand/le-62"
+      "path": "/france/clermont-ferrand/clermont-ferrand/le62"
     },
     {
       "name": "Le Bistrot d'à Côté",
@@ -50,46 +87,22 @@
       "path": "/france/clermont-ferrand/clermont-ferrand/le-duguesclin"
     },
     {
-      "name": "Le Pré - Xavier Beaudiment",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/france/clermont-ferrand/clermont-ferrand/le-pr-xavier-beaudiment"
-    },
-    {
       "name": "Le Sonney",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/clermont-ferrand/clermont-ferrand/le-sonney"
     },
     {
-      "name": "L'En-but",
+      "name": "Le Tamarinier",
       "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/clermont-ferrand/clermont-ferrand/len-but"
-    },
-    {
-      "name": "L'Instantané",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/clermont-ferrand/clermont-ferrand/linstantan"
-    },
-    {
-      "name": "L'Ostal",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/clermont-ferrand/clermont-ferrand/lostal"
+      "price": "$$",
+      "path": "/france/clermont-ferrand/clermont-ferrand/le-tamarinier"
     },
     {
       "name": "Mouffu",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/clermont-ferrand/clermont-ferrand/mouffu"
-    },
-    {
-      "name": "Le Tamarinier",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/clermont-ferrand/clermont-ferrand/LeTamarinier"
     }
   ]
 }

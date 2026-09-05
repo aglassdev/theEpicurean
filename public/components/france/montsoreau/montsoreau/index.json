@@ -1,8 +1,14 @@
 {
   "title": "Montsoreau",
-  "country": "france",
-  "region": "montsoreau",
-  "city": "montsoreau",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montsoreau",
+  "city": "Montsoreau",
+  "citySlug": "montsoreau",
+  "path": "/france/montsoreau/montsoreau/restaurants",
+  "canonicalPath": "/france/montsoreau/montsoreau/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ververt",

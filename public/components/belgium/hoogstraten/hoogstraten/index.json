@@ -1,14 +1,20 @@
 {
   "title": "Hoogstraten",
-  "country": "belgium",
-  "region": "hoogstraten",
-  "city": "hoogstraten",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "hoogstraten",
+  "city": "Hoogstraten",
+  "citySlug": "hoogstraten",
+  "path": "/belgium/hoogstraten/hoogstraten/restaurants",
+  "canonicalPath": "/belgium/hoogstraten/hoogstraten/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Resto 136",
       "cuisine": "French, Asian Influences",
       "price": "€€€",
-      "path": "/belgium/hoogstraten/hoogstraten/resto-136"
+      "path": "/belgium/hoogstraten/hoogstraten/resto136"
     }
   ]
 }

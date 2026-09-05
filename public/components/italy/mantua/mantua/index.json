@@ -1,6 +1,21 @@
 {
   "title": "Mantua",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "mantua",
+  "city": "Mantua",
+  "citySlug": "mantua",
+  "path": "/italy/mantua/mantua/restaurants",
+  "canonicalPath": "/italy/mantua/mantua/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Il Cigno",
+      "cuisine": "Modern Cuisine",
+      "price": "$$$",
+      "path": "/italy/mantua/mantua/il-cigno"
+    },
     {
       "name": "Lo Scalco Grasso",
       "cuisine": "Mantuan, Modern Cuisine",
@@ -12,12 +27,6 @@
       "cuisine": "Contemporary, Lombardian",
       "price": "€€",
       "path": "/italy/mantua/mantua/scar-brsc"
-    },
-    {
-      "name": "Il Cigno",
-      "cuisine": "Modern Cuisine",
-      "price": "$$$",
-      "path": "/italy/mantua/mantua/IlCigno"
     }
   ]
 }

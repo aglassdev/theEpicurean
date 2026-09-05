@@ -1,9 +1,22 @@
 {
   "title": "Salerno",
-  "country": "italy",
-  "region": "salerno",
-  "city": "salerno",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "salerno",
+  "city": "Salerno",
+  "citySlug": "salerno",
+  "path": "/italy/salerno/salerno/restaurants",
+  "canonicalPath": "/italy/salerno/salerno/restaurants",
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Re Maurì",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "path": "/italy/salerno/salerno/re-maur",
+      "award": "★"
+    },
     {
       "name": "Bistrot di Pescheria",
       "cuisine": "Seafood, Mediterranean Cuisine",
@@ -27,12 +40,6 @@
       "cuisine": "Seafood, Italian",
       "price": "€€€",
       "path": "/italy/salerno/salerno/pescheria"
-    },
-    {
-      "name": "Re Maurì",
-      "cuisine": "Creative",
-      "price": "€€€€",
-      "path": "/italy/salerno/salerno/re-maur"
     },
     {
       "name": "Suscettibile Salerno",

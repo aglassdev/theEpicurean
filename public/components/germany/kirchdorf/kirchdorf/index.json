@@ -1,14 +1,21 @@
 {
   "title": "Kirchdorf",
-  "country": "germany",
-  "region": "kirchdorf",
-  "city": "kirchdorf",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "kirchdorf",
+  "city": "Kirchdorf",
+  "citySlug": "kirchdorf",
+  "path": "/germany/kirchdorf/kirchdorf/restaurants",
+  "canonicalPath": "/germany/kirchdorf/kirchdorf/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Christian's Restaurant - Gasthof Grainer",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/germany/kirchdorf/kirchdorf/christians-restaurant-gasthof-grainer"
+      "path": "/germany/kirchdorf/kirchdorf/christians-restaurant-gasthof-grainer",
+      "award": "★"
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "title": "Ruda",
-  "country": "italy",
-  "region": "ruda",
-  "city": "ruda",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "ruda",
+  "city": "Ruda",
+  "citySlug": "ruda",
+  "path": "/italy/ruda/ruda/restaurants",
+  "canonicalPath": "/italy/ruda/ruda/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Osteria Altran",
       "cuisine": "Modern Cuisine, Italian Contemporary",
       "price": "€€€",
-      "path": "/italy/ruda/ruda/osteria-altran"
+      "path": "/italy/ruda/ruda/osteria-altran",
+      "award": "★"
     }
   ]
 }

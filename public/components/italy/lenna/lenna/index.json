@@ -1,8 +1,14 @@
 {
   "title": "Lenna",
-  "country": "italy",
-  "region": "lenna",
-  "city": "lenna",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "lenna",
+  "city": "Lenna",
+  "citySlug": "lenna",
+  "path": "/italy/lenna/lenna/restaurants",
+  "canonicalPath": "/italy/lenna/lenna/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Agriturismo Ferdy",

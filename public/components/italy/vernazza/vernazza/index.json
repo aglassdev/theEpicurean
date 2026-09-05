@@ -1,11 +1,21 @@
 {
   "title": "Vernazza",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "vernazza",
+  "city": "Vernazza",
+  "citySlug": "vernazza",
+  "path": "/italy/vernazza/vernazza/restaurants",
+  "canonicalPath": "/italy/vernazza/vernazza/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Gambero Roso",
       "cuisine": "",
       "price": "",
-      "path": "/italy/vernazza/vernazza/GamberoRoso"
+      "path": "/italy/vernazza/vernazza/gambero-roso",
+      "award": "World's 50 Best"
     }
   ]
 }

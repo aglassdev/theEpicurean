@@ -1,20 +1,27 @@
 {
   "title": "Cognac",
-  "country": "france",
-  "region": "cognac",
-  "city": "cognac",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "cognac",
+  "city": "Cognac",
+  "citySlug": "cognac",
+  "path": "/france/cognac/cognac/restaurants",
+  "canonicalPath": "/france/cognac/cognac/restaurants",
+  "count": 4,
   "restaurants": [
-    {
-      "name": "La Maison",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/cognac/cognac/la-maison"
-    },
     {
       "name": "Les Foudres",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/cognac/cognac/les-foudres"
+      "path": "/france/cognac/cognac/les-foudres",
+      "award": "★"
+    },
+    {
+      "name": "La Maison",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/cognac/cognac/la-maison-c-o-g"
     },
     {
       "name": "Notes",

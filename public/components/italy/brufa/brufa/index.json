@@ -1,8 +1,14 @@
 {
   "title": "Brufa",
-  "country": "italy",
-  "region": "brufa",
-  "city": "brufa",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "brufa",
+  "city": "Brufa",
+  "citySlug": "brufa",
+  "path": "/italy/brufa/brufa/restaurants",
+  "canonicalPath": "/italy/brufa/brufa/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Quattro Sensi",

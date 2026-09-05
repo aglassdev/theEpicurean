@@ -1,167 +1,1114 @@
 {
   "title": "Shanghai",
+  "country": "China",
+  "countrySlug": "chinese-mainland",
+  "region": null,
+  "regionSlug": "shanghai",
+  "city": "Shanghai",
+  "citySlug": "shanghai",
+  "path": "/chinese-mainland/shanghai/shanghai/restaurants",
+  "canonicalPath": "/china/shanghai/shanghai/restaurants",
+  "count": 172,
   "restaurants": [
+    {
+      "name": "Taian Table",
+      "cuisine": "Innovative",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/taian-table-s-h-a",
+      "award": "★★★"
+    },
+    {
+      "name": "102 House",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/102-house",
+      "award": "★★"
+    },
+    {
+      "name": "8 ½ Otto e Mezzo Bombana",
+      "cuisine": "Italian",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/8-otto-e-mezzo-bombana",
+      "award": "★★"
+    },
+    {
+      "name": "Bao Li Xuan",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/bao-li-xuan",
+      "award": "★★"
+    },
+    {
+      "name": "Canton 8 (Huangpu)",
+      "cuisine": "Cantonese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/canton8-huangpu",
+      "award": "★★"
+    },
+    {
+      "name": "Da Vittorio",
+      "cuisine": "Italian",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/da-vittorio",
+      "award": "★★"
+    },
+    {
+      "name": "Fu He Hui",
+      "cuisine": "Vegetarian",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/fu-he-hui",
+      "award": "★★"
+    },
+    {
+      "name": "Imperial Treasure Fine Chinese Cuisine",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/imperial-treasure-fine-chinese-cuisine-s-h-a",
+      "award": "★★"
+    },
+    {
+      "name": "Ji Pin Court",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/ji-pin-court",
+      "award": "★★"
+    },
+    {
+      "name": "The House of Rong",
+      "cuisine": "Taizhou",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/the-house-of-rong",
+      "award": "★★"
+    },
+    {
+      "name": "Amazing Chinese Cuisine (Changning)",
+      "cuisine": "Chao Zhou",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/amazing-chinese-cuisine-changning",
+      "award": "★"
+    },
+    {
+      "name": "Canton Table",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/canton-table",
+      "award": "★"
+    },
+    {
+      "name": "Cheng Long Hang (Huangpu)",
+      "cuisine": "Shanghainese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/cheng-long-hang-huangpu",
+      "award": "★"
+    },
+    {
+      "name": "Da Dong (Xuhui)",
+      "cuisine": "Chinese Contemporary",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/da-dong-xuhui",
+      "award": "★"
+    },
+    {
+      "name": "EHB",
+      "cuisine": "European Contemporary",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/ehb",
+      "award": "★"
+    },
     {
       "name": "Fabula",
       "cuisine": "Innovative",
       "price": "$$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/Fabula"
+      "path": "/chinese-mainland/shanghai/shanghai/fabula",
+      "award": "★"
+    },
+    {
+      "name": "Fu 1015",
+      "cuisine": "Shanghainese",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/fu1015",
+      "award": "★"
+    },
+    {
+      "name": "Fu 1039",
+      "cuisine": "Shanghainese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/fu1039",
+      "award": "★"
+    },
+    {
+      "name": "Fu 1088",
+      "cuisine": "Shanghainese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/fu1088",
+      "award": "★"
+    },
+    {
+      "name": "Gastro Esthetics at DaDong",
+      "cuisine": "Chinese Contemporary",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/gastro-esthetics-at-dadong",
+      "award": "★"
     },
     {
       "name": "Huaiyang Delights (Jingan)",
       "cuisine": "Huaiyang",
       "price": "$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/HuaiyangDelightsJingan"
+      "path": "/chinese-mainland/shanghai/shanghai/huaiyang-delights-jingan",
+      "award": "★"
+    },
+    {
+      "name": "Il Ristorante - Niko Romito",
+      "cuisine": "Italian",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/il-ristorante-niko-romito-s-h-a",
+      "award": "★"
+    },
+    {
+      "name": "Jin Xuan",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/jin-xuan",
+      "award": "★"
+    },
+    {
+      "name": "Lao Zheng Xing",
+      "cuisine": "Shanghainese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/lao-zheng-xing",
+      "award": "★"
+    },
+    {
+      "name": "Le Comptoir de Pierre Gagnaire",
+      "cuisine": "French",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/le-comptoir-de-pierre-gagnaire",
+      "award": "★"
+    },
+    {
+      "name": "Lei Garden (Pudong)",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/lei-garden-pudong",
+      "award": "★"
+    },
+    {
+      "name": "Lei Garden (Xuhui)",
+      "cuisine": "Cantonese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/lei-garden-xuhui",
+      "award": "★"
+    },
+    {
+      "name": "Ling Long",
+      "cuisine": "Innovative",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/ling-long",
+      "award": "★"
+    },
+    {
+      "name": "Lu Style (Huangpu)",
+      "cuisine": "Shandong",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/lu-style-huangpu",
+      "award": "★"
+    },
+    {
+      "name": "Maison Lameloise",
+      "cuisine": "French Contemporary",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/maison-lameloise-s-h-a",
+      "award": "★"
+    },
+    {
+      "name": "Meet the Bund (Zhongshan Dong Er Road)",
+      "cuisine": "Fujian",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/meet-the-bund-zhongshan-dong-er-road",
+      "award": "★"
+    },
+    {
+      "name": "Ming Court",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/ming-court",
+      "award": "★"
+    },
+    {
+      "name": "Ming Court (Minhang)",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/ming-court-minhang",
+      "award": "★"
+    },
+    {
+      "name": "Moose (Changning)",
+      "cuisine": "Jiangzhe",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/moose-changning",
+      "award": "★"
+    },
+    {
+      "name": "Moose (Pudong)",
+      "cuisine": "Jiangzhe",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/moose-pudong",
+      "award": "★"
+    },
+    {
+      "name": "Narisawa",
+      "cuisine": "Innovative",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/narisawa",
+      "award": "★"
+    },
+    {
+      "name": "Obscura",
+      "cuisine": "Innovative",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/obscura",
+      "award": "★"
+    },
+    {
+      "name": "Oriental Sense & Palate",
+      "cuisine": "Chao Zhou",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/oriental-sense-palate",
+      "award": "★"
+    },
+    {
+      "name": "Phénix",
+      "cuisine": "French",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/phnix",
+      "award": "★"
+    },
+    {
+      "name": "Ren He Guan (Xuhui)",
+      "cuisine": "Shanghainese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/ren-he-guan-xuhui",
+      "award": "★"
+    },
+    {
+      "name": "Seventh Son",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/seventh-son",
+      "award": "★"
+    },
+    {
+      "name": "Sheng Yong Xing (Huangpu)",
+      "cuisine": "Beijing Cuisine",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/sheng-yong-xing-huangpu",
+      "award": "★"
+    },
+    {
+      "name": "Sole",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/sole",
+      "award": "★"
+    },
+    {
+      "name": "T'ang Court",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/tang-court-s-h-a",
+      "award": "★"
+    },
+    {
+      "name": "Tou Zao",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/tou-zao",
+      "award": "★"
     },
     {
       "name": "Vivant by Johnny Pham",
       "cuisine": "French Contemporary",
       "price": "$$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/VivantByJohnnyPham"
+      "path": "/chinese-mainland/shanghai/shanghai/vivant-by-johnny-pham",
+      "award": "★"
+    },
+    {
+      "name": "Wu You Xian",
+      "cuisine": "Dim Sum",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/wu-you-xian",
+      "award": "★"
+    },
+    {
+      "name": "Xin Rong Ji (West Nanjing Road)",
+      "cuisine": "Taizhou",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/xin-rong-ji-west-nanjing-road",
+      "award": "★"
+    },
+    {
+      "name": "Yi Long Court",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/yi-long-court",
+      "award": "★"
+    },
+    {
+      "name": "Yong Fu (Hongkou)",
+      "cuisine": "Ningbo",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/yong-fu-hongkou",
+      "award": "★"
+    },
+    {
+      "name": "Yong Fu (Huangpu)",
+      "cuisine": "Ningbo",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/yong-fu-huangpu",
+      "award": "★"
+    },
+    {
+      "name": "Yong Yi Ting",
+      "cuisine": "Jiangzhe",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/yong-yi-ting",
+      "award": "★"
+    },
+    {
+      "name": "YongFoo Élite",
+      "cuisine": "Shanghainese",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/yongfoo-lite",
+      "award": "★"
+    },
+    {
+      "name": "Yue Hai Tang",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/yue-hai-tang",
+      "award": "★"
+    },
+    {
+      "name": "Zhou She (Minhang)",
+      "cuisine": "Shanghainese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/zhou-she-minhang",
+      "award": "★"
+    },
+    {
+      "name": "Mr and Mrs Bund",
+      "cuisine": "",
+      "price": "",
+      "path": "/china/shanghai/shanghai/mr-and-mrs-bund",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "Ultraviolet by Paul Pairet",
+      "cuisine": "",
+      "price": "",
+      "path": "/china/shanghai/shanghai/ultraviolet-by-paul-pairet",
+      "award": "World's 50 Best"
     },
     {
       "name": "157 Shi Fang",
       "cuisine": "Shanghainese",
       "price": "$$",
-      "path": "/chinese-mainland/shanghai/shanghai/157ShiFang"
+      "path": "/chinese-mainland/shanghai/shanghai/157-shi-fang",
+      "award": "Bib Gourmand"
     },
     {
       "name": "A Yong Mian Guan (Dongshufang Road)",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/shanghai/shanghai/AYongMianGuanDongshufangRoad"
+      "path": "/chinese-mainland/shanghai/shanghai/a-yong-mian-guan-dongshufang-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "He Shan Mian Jia",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/shanghai/shanghai/HeShanMianJia"
+      "path": "/chinese-mainland/shanghai/shanghai/he-shan-mian-jia",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Jingmei Wuxi Noodles (Yanping Road)",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/shanghai/shanghai/JingmeiWuxiNoodlesYanpingRoad"
+      "path": "/chinese-mainland/shanghai/shanghai/jingmei-wuxi-noodles-yanping-road",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Nanxiang Steamed Bun",
       "cuisine": "Dim Sum",
       "price": "$",
-      "path": "/chinese-mainland/shanghai/shanghai/NanxiangSteamedBun"
+      "path": "/chinese-mainland/shanghai/shanghai/nanxiang-steamed-bun",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Ning Hai Shi Fu",
       "cuisine": "Ningbo",
       "price": "$$",
-      "path": "/chinese-mainland/shanghai/shanghai/NingHaiShiFu"
+      "path": "/chinese-mainland/shanghai/shanghai/ning-hai-shi-fu",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Ou Yue Zun Xian",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/shanghai/shanghai/OuYueZunXian"
+      "path": "/chinese-mainland/shanghai/shanghai/ou-yue-zun-xian",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Rong Cuisine (Huangpu)",
       "cuisine": "Taizhou",
       "price": "$$",
-      "path": "/chinese-mainland/shanghai/shanghai/RongCuisineHuangpu"
+      "path": "/chinese-mainland/shanghai/shanghai/rong-cuisine-huangpu",
+      "award": "Bib Gourmand"
     },
     {
       "name": "The Taste of Huzhou",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/shanghai/shanghai/TheTasteOfHuzhou"
+      "path": "/chinese-mainland/shanghai/shanghai/the-taste-of-huzhou",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Wang Lu (Pudong)",
       "cuisine": "Chinese",
       "price": "$$",
-      "path": "/chinese-mainland/shanghai/shanghai/WangLuPudong"
+      "path": "/chinese-mainland/shanghai/shanghai/wang-lu-pudong",
+      "award": "Bib Gourmand"
     },
     {
       "name": "Yu Du Lao Wei Mian",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/shanghai/shanghai/YuDuLaoWeiMian"
+      "path": "/chinese-mainland/shanghai/shanghai/yu-du-lao-wei-mian",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "1515 West Chophouse",
+      "cuisine": "Steakhouse",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/1515-west-chophouse"
     },
     {
       "name": "1929 by Guillaume Galliot",
       "cuisine": "French Contemporary",
       "price": "$$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/1929ByGuillaumeGalliot"
+      "path": "/chinese-mainland/shanghai/shanghai/1929-by-guillaume-galliot"
+    },
+    {
+      "name": "A Niang Mian Guan",
+      "cuisine": "Noodles",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/a-niang-mian-guan"
+    },
+    {
+      "name": "Arva",
+      "cuisine": "Italian",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/arva"
     },
     {
       "name": "Aster by Joshua Paris",
       "cuisine": "European Contemporary",
       "price": "$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/AsterByJoshuaParis"
+      "path": "/chinese-mainland/shanghai/shanghai/aster-by-joshua-paris"
+    },
+    {
+      "name": "Bai Rong",
+      "cuisine": "Shandong",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/bai-rong"
+    },
+    {
+      "name": "Beef & Liberty (Jingan)",
+      "cuisine": "American",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/beef-liberty-jingan"
+    },
+    {
+      "name": "Cellar to Table",
+      "cuisine": "Italian",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/cellar-to-table"
+    },
+    {
+      "name": "Chaimen Hui (Pudong)",
+      "cuisine": "Sichuan",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/chaimen-hui-pudong"
+    },
+    {
+      "name": "Chic 1699",
+      "cuisine": "Fujian",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/chic1699-s-h-a"
     },
     {
       "name": "Chuan Yue Hai Tang (Changning)",
       "cuisine": "Sichuan",
       "price": "$$",
-      "path": "/chinese-mainland/shanghai/shanghai/ChuanYueHaiTangChangning"
+      "path": "/chinese-mainland/shanghai/shanghai/chuan-yue-hai-tang-changning"
+    },
+    {
+      "name": "Chun",
+      "cuisine": "Shanghainese",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/chun"
+    },
+    {
+      "name": "Cong's Kitchen",
+      "cuisine": "Shanghainese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/congs-kitchen"
+    },
+    {
+      "name": "Coquille",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/coquille"
+    },
+    {
+      "name": "Cuivre",
+      "cuisine": "French Contemporary",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/cuivre"
+    },
+    {
+      "name": "Da Hu Chun (Middle Sichuan Road)",
+      "cuisine": "Dim Sum",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/da-hu-chun-middle-sichuan-road"
+    },
+    {
+      "name": "De Xing Guan (Guangdong Road)",
+      "cuisine": "Shanghainese",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/de-xing-guan-guangdong-road"
+    },
+    {
+      "name": "Ding Te Le Zhou Mian Guan",
+      "cuisine": "Noodles and Congee",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/ding-te-le-zhou-mian-guan"
+    },
+    {
+      "name": "Dining Room",
+      "cuisine": "Jiangzhe",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/dining-room-s-h-a"
+    },
+    {
+      "name": "Dong Ping Chao",
+      "cuisine": "Chao Zhou",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/dong-ping-chao"
+    },
+    {
+      "name": "Easeful Cuisine (Jingan)",
+      "cuisine": "Jiangzhe",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/easeful-cuisine-jingan"
+    },
+    {
+      "name": "Épices & Foie Gras",
+      "cuisine": "French Contemporary",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/pices-foie-gras"
+    },
+    {
+      "name": "Frasca",
+      "cuisine": "Italian",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/frasca"
     },
     {
       "name": "Fucheng",
       "cuisine": "Fujian",
       "price": "$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/Fucheng"
+      "path": "/chinese-mainland/shanghai/shanghai/fucheng"
+    },
+    {
+      "name": "Gong De Lin (West Nanjing Road)",
+      "cuisine": "Vegetarian",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/gong-de-lin-west-nanjing-road"
     },
     {
       "name": "Gongxi Gongxi (Pudong)",
       "cuisine": "Ningbo",
       "price": "$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/GongxiGongxiPudong"
+      "path": "/chinese-mainland/shanghai/shanghai/gongxi-gongxi-pudong"
+    },
+    {
+      "name": "Hai Wei Guan (Jingan)",
+      "cuisine": "Shanghainese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/hai-wei-guan-jingan"
+    },
+    {
+      "name": "Hakkasan",
+      "cuisine": "Chinese Contemporary, Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/hakkasan"
+    },
+    {
+      "name": "Hang Yuen Hin",
+      "cuisine": "Cantonese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/hang-yuen-hin"
+    },
+    {
+      "name": "Hao Sheng",
+      "cuisine": "Shanghainese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/hao-sheng"
+    },
+    {
+      "name": "Ho Hung Kee",
+      "cuisine": "Noodles and Congee",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/ho-hung-kee"
+    },
+    {
+      "name": "Hokkien Huay Kuan",
+      "cuisine": "Fujian",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/hokkien-huay-kuan"
+    },
+    {
+      "name": "Hong 0871",
+      "cuisine": "Yunnanese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/hong0871"
+    },
+    {
+      "name": "Hong Yu Fang",
+      "cuisine": "Dim Sum",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/hong-yu-fang"
     },
     {
       "name": "Hui Ji",
       "cuisine": "Hui Cuisine",
       "price": "$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/HuiJi"
+      "path": "/chinese-mainland/shanghai/shanghai/hui-ji"
+    },
+    {
+      "name": "Jade on 36",
+      "cuisine": "French Contemporary",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/jade-on36"
+    },
+    {
+      "name": "Jean Georges",
+      "cuisine": "French",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/jean-georges"
+    },
+    {
+      "name": "Jingmei Wuxi Noodles (Jingan)",
+      "cuisine": "Noodles",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/jingmei-wuxi-noodles-jingan"
+    },
+    {
+      "name": "Kanpai Classic (Huangpu)",
+      "cuisine": "Barbecue",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/kanpai-classic-huangpu"
+    },
+    {
+      "name": "La Scene Ronde",
+      "cuisine": "Innovative",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/la-scene-ronde"
+    },
+    {
+      "name": "Lan Xin (Jinxian Road)",
+      "cuisine": "Shanghainese",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/lan-xin-jinxian-road"
+    },
+    {
+      "name": "Lao Di Fang Mian Guan",
+      "cuisine": "Noodles",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/lao-di-fang-mian-guan"
+    },
+    {
+      "name": "Lao Xing Xian (Huangpu)",
+      "cuisine": "Shanghainese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/lao-xing-xian-huangpu"
+    },
+    {
+      "name": "Legend Taste (Jingan)",
+      "cuisine": "Yunnanese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/legend-taste-jingan"
+    },
+    {
+      "name": "Les Nuages",
+      "cuisine": "Innovative",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/les-nuages"
+    },
+    {
+      "name": "Lin Family of One - The Bund",
+      "cuisine": "Taizhou",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/lin-family-of-one-the-bund"
+    },
+    {
+      "name": "Lin Jiang Yan",
+      "cuisine": "Jiangzhe",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/lin-jiang-yan"
+    },
+    {
+      "name": "Lu Bo Lang",
+      "cuisine": "Shanghainese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/lu-bo-lang"
+    },
+    {
+      "name": "Mao Long",
+      "cuisine": "Shanghainese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/mao-long"
+    },
+    {
+      "name": "Mercado 505",
+      "cuisine": "Spanish",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/mercado505"
+    },
+    {
+      "name": "Mercato",
+      "cuisine": "Italian",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/mercato-s-h-a"
     },
     {
       "name": "Mi Shang",
       "cuisine": "Italian",
       "price": "$$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/MiShang"
+      "path": "/chinese-mainland/shanghai/shanghai/mi-shang"
+    },
+    {
+      "name": "Mi Thai",
+      "cuisine": "Thai",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/mi-thai"
+    },
+    {
+      "name": "Min He Nan Huan Xi",
+      "cuisine": "Fujian",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/min-he-nan-huan-xi"
+    },
+    {
+      "name": "Mr & Mrs Bund",
+      "cuisine": "French Contemporary",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/mr-mrs-bund"
     },
     {
       "name": "Nabi",
       "cuisine": "Korean Contemporary",
       "price": "$$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/Nabi"
+      "path": "/chinese-mainland/shanghai/shanghai/nabi"
+    },
+    {
+      "name": "Nan Xing Yuan",
+      "cuisine": "Sichuan",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/nan-xing-yuan"
+    },
+    {
+      "name": "Nanxiang Steamed Bun (Yuyuan Road)",
+      "cuisine": "Dim Sum",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/nanxiang-steamed-bun-yuyuan-road"
+    },
+    {
+      "name": "Nuits",
+      "cuisine": "French Contemporary",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/nuits"
+    },
+    {
+      "name": "Numata Sou",
+      "cuisine": "Tempura",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/numata-sou-s-h-a"
+    },
+    {
+      "name": "Polux",
+      "cuisine": "French",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/polux"
+    },
+    {
+      "name": "Pop",
+      "cuisine": "European",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/pop"
+    },
+    {
+      "name": "Qiao Ai Lai Lai Xiao Long (Huangpu)",
+      "cuisine": "Dim Sum",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/qiao-ai-lai-lai-xiao-long-huangpu"
+    },
+    {
+      "name": "Rong Cuisine",
+      "cuisine": "Taizhou",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/rong-cuisine"
+    },
+    {
+      "name": "Rongjia Noodles Soup with Yellow Croaker (Jingan)",
+      "cuisine": "Noodles",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/rongjia-noodles-soup-with-yellow-croaker-jingan"
+    },
+    {
+      "name": "Royal China Club",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/royal-china-club"
+    },
+    {
+      "name": "Scarpetta",
+      "cuisine": "Italian",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/scarpetta"
+    },
+    {
+      "name": "Scilla",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/scilla"
+    },
+    {
+      "name": "Shanghai",
+      "cuisine": "Shanghainese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/shanghai"
+    },
+    {
+      "name": "Shanghai Club",
+      "cuisine": "Jiangzhe, Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/shanghai-club"
+    },
+    {
+      "name": "Shanghai Tavern",
+      "cuisine": "European Contemporary",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/shanghai-tavern"
+    },
+    {
+      "name": "Shaughnessy",
+      "cuisine": "Steakhouse",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/shaughnessy"
+    },
+    {
+      "name": "Shi Chuan Fei Chuan (Xuhui)",
+      "cuisine": "Sichuan",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/shi-chuan-fei-chuan-xuhui"
+    },
+    {
+      "name": "Sir Elly's",
+      "cuisine": "European Contemporary",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/sir-ellys"
+    },
+    {
+      "name": "Stonesal",
+      "cuisine": "Steakhouse",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/stonesal"
+    },
+    {
+      "name": "Sui Tang Li",
+      "cuisine": "Chinese Contemporary",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/sui-tang-li"
+    },
+    {
+      "name": "Summer Palace",
+      "cuisine": "Cantonese",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/summer-palace-s-h-a"
+    },
+    {
+      "name": "Tasty Congee & Noodle Wantun Shop",
+      "cuisine": "Noodles and Congee",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/tasty-congee-noodle-wantun-shop"
+    },
+    {
+      "name": "Tea Culture (East Beijing Road)",
+      "cuisine": "Huaiyang",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/tea-culture-east-beijing-road"
+    },
+    {
+      "name": "The Lakeside Veggie",
+      "cuisine": "Vegetarian",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/the-lakeside-veggie"
+    },
+    {
+      "name": "The Meat",
+      "cuisine": "Steakhouse",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/the-meat"
+    },
+    {
+      "name": "The Pine",
+      "cuisine": "European Contemporary",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/the-pine"
+    },
+    {
+      "name": "The Yidao (East Beijing Road)",
+      "cuisine": "Huaiyang",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/the-yidao-east-beijing-road"
     },
     {
       "name": "Toi Sihng Lauh Yuht",
       "cuisine": "Cantonese",
       "price": "$$",
-      "path": "/chinese-mainland/shanghai/shanghai/ToiSihngLauhYuht"
+      "path": "/chinese-mainland/shanghai/shanghai/toi-sihng-lauh-yuht"
     },
     {
       "name": "Torikaze",
       "cuisine": "Yakitori",
       "price": "$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/Torikaze"
+      "path": "/chinese-mainland/shanghai/shanghai/torikaze"
     },
     {
       "name": "Trine",
       "cuisine": "European Contemporary",
       "price": "$$$",
-      "path": "/chinese-mainland/shanghai/shanghai/Trine"
+      "path": "/chinese-mainland/shanghai/shanghai/trine"
+    },
+    {
+      "name": "Villa Le Bec - Bistro 321",
+      "cuisine": "French",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/villa-le-bec-bistro321"
+    },
+    {
+      "name": "Wan Yan (Changning)",
+      "cuisine": "Hui Cuisine",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/wan-yan-changning"
+    },
+    {
+      "name": "Wang Lu",
+      "cuisine": "Chinese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/wang-lu"
+    },
+    {
+      "name": "Wei Xiang Zhai (Yandang Road)",
+      "cuisine": "Noodles",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/wei-xiang-zhai-yandang-road"
     },
     {
       "name": "Wenzhou Said",
       "cuisine": "Zhejiang",
       "price": "$$",
-      "path": "/chinese-mainland/shanghai/shanghai/WenzhouSaid"
+      "path": "/chinese-mainland/shanghai/shanghai/wenzhou-said"
+    },
+    {
+      "name": "Xiao Tao Mian Guan",
+      "cuisine": "Noodles",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/xiao-tao-mian-guan"
+    },
+    {
+      "name": "Xin Yuan Lou",
+      "cuisine": "Cantonese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/xin-yuan-lou"
+    },
+    {
+      "name": "Xuji Seafood (Xuhui)",
+      "cuisine": "Seafood",
+      "price": "¥¥¥",
+      "path": "/china/shanghai/shanghai/xuji-seafood-xuhui"
+    },
+    {
+      "name": "Yangzhou Fan Dian (Huangpu)",
+      "cuisine": "Huaiyang",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/yangzhou-fan-dian-huangpu"
+    },
+    {
+      "name": "Yè Shanghai",
+      "cuisine": "Shanghainese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/y-shanghai"
+    },
+    {
+      "name": "Yong Feng Mian Guan",
+      "cuisine": "Noodles",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/yong-feng-mian-guan"
     },
     {
       "name": "Yong Feng Mian Guan (Huangpu)",
       "cuisine": "Noodles",
       "price": "$",
-      "path": "/chinese-mainland/shanghai/shanghai/YongFengMianGuanHuangpu"
+      "path": "/chinese-mainland/shanghai/shanghai/yong-feng-mian-guan-huangpu"
+    },
+    {
+      "name": "Yong Jiang Zhen",
+      "cuisine": "Jiangzhe",
+      "price": "¥¥¥¥",
+      "path": "/china/shanghai/shanghai/yong-jiang-zhen"
+    },
+    {
+      "name": "Yong Xing",
+      "cuisine": "Shanghainese",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/yong-xing"
+    },
+    {
+      "name": "YongFu Mini (Pudong)",
+      "cuisine": "Ningbo",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/yongfu-mini-pudong"
+    },
+    {
+      "name": "Yu Du Lao Wei Mian (Huangpu)",
+      "cuisine": "Noodles",
+      "price": "¥",
+      "path": "/china/shanghai/shanghai/yu-du-lao-wei-mian-huangpu"
+    },
+    {
+      "name": "Yu Ge Zhanjiang (Jingan)",
+      "cuisine": "Cantonese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/yu-ge-zhanjiang-jingan"
+    },
+    {
+      "name": "Yunhe Noodle (Huangpu)",
+      "cuisine": "Noodles, Shanghainese",
+      "price": "¥¥",
+      "path": "/china/shanghai/shanghai/yunhe-noodle-huangpu"
     }
   ]
 }

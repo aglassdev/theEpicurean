@@ -1,8 +1,14 @@
 {
   "title": "Tijuana",
-  "country": "mexico",
-  "region": "tijuana",
-  "city": "tijuana",
+  "country": "Mexico",
+  "countrySlug": "mexico",
+  "region": null,
+  "regionSlug": "tijuana",
+  "city": "Tijuana",
+  "citySlug": "tijuana",
+  "path": "/mexico/tijuana/tijuana/restaurants",
+  "canonicalPath": "/mexico/tijuana/tijuana/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Carmelita Molino y Cocina",
@@ -14,7 +20,7 @@
       "name": "Mision 19",
       "cuisine": "Mexican",
       "price": "$$$",
-      "path": "/mexico/tijuana/tijuana/mision-19"
+      "path": "/mexico/tijuana/tijuana/mision19"
     },
     {
       "name": "Oryx",

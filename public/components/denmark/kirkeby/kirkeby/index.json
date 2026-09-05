@@ -1,14 +1,21 @@
 {
   "title": "Kirkeby",
-  "country": "denmark",
-  "region": "kirkeby",
-  "city": "kirkeby",
+  "country": "Denmark",
+  "countrySlug": "denmark",
+  "region": null,
+  "regionSlug": "kirkeby",
+  "city": "Kirkeby",
+  "citySlug": "kirkeby",
+  "path": "/denmark/kirkeby/kirkeby/restaurants",
+  "canonicalPath": "/denmark/kirkeby/kirkeby/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Kadeau Bornholm",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/denmark/kirkeby/kirkeby/kadeau-bornholm"
+      "path": "/denmark/kirkeby/kirkeby/kadeau-bornholm",
+      "award": "★"
     }
   ]
 }

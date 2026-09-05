@@ -1,14 +1,20 @@
 {
   "title": "Montbliard",
-  "country": "france",
-  "region": "montbliard",
-  "city": "montbliard",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "montbliard",
+  "city": "Montbliard",
+  "citySlug": "montbliard",
+  "path": "/france/montbliard/montbliard/restaurants",
+  "canonicalPath": "/france/montbliard/montbliard/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Le Saint-Martin",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/montbliard/montbliard/le-saint-martin"
+      "path": "/france/montbliard/montbliard/le-saintmartin-m-o-n"
     }
   ]
 }

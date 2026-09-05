@@ -1,8 +1,14 @@
 {
   "title": "Poole",
-  "country": "uk",
-  "region": "poole",
-  "city": "poole",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "poole",
+  "city": "Poole",
+  "citySlug": "poole",
+  "path": "/uk/poole/poole/restaurants",
+  "canonicalPath": "/uk/poole/poole/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Guildhall Tavern",

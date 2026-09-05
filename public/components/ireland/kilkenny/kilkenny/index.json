@@ -1,14 +1,21 @@
 {
   "title": "Kilkenny",
-  "country": "ireland",
-  "region": "kilkenny",
-  "city": "kilkenny",
+  "country": "Ireland",
+  "countrySlug": "ireland",
+  "region": null,
+  "regionSlug": "kilkenny",
+  "city": "Kilkenny",
+  "citySlug": "kilkenny",
+  "path": "/ireland/kilkenny/kilkenny/restaurants",
+  "canonicalPath": "/ireland/kilkenny/kilkenny/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Campagne",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/ireland/kilkenny/kilkenny/campagne"
+      "path": "/ireland/kilkenny/kilkenny/campagne",
+      "award": "★"
     }
   ]
 }

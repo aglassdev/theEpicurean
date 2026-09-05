@@ -1,9 +1,21 @@
 {
   "title": "Deventer",
-  "country": "netherlands",
-  "region": "deventer",
-  "city": "deventer",
+  "country": "Netherlands",
+  "countrySlug": "netherlands",
+  "region": null,
+  "regionSlug": "deventer",
+  "city": "Deventer",
+  "citySlug": "deventer",
+  "path": "/netherlands/deventer/deventer/restaurants",
+  "canonicalPath": "/netherlands/deventer/deventer/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "'t Arsenaal",
+      "cuisine": "Farm to table",
+      "price": "€€",
+      "path": "/netherlands/deventer/deventer/t-arsenaal"
+    },
     {
       "name": "Bouwkunde",
       "cuisine": "French, Seasonal Cuisine",
@@ -15,12 +27,6 @@
       "cuisine": "Modern French, French Contemporary",
       "price": "€€",
       "path": "/netherlands/deventer/deventer/ijssel-restobar"
-    },
-    {
-      "name": "'t Arsenaal",
-      "cuisine": "Farm to table",
-      "price": "€€",
-      "path": "/netherlands/deventer/deventer/t-arsenaal"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Londonderry",
-  "country": "uk",
-  "region": "londonderry",
-  "city": "londonderry",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "londonderry",
+  "city": "Londonderry",
+  "citySlug": "londonderry",
+  "path": "/uk/londonderry/londonderry/restaurants",
+  "canonicalPath": "/uk/londonderry/londonderry/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Artis by Phelim O'Hagan",

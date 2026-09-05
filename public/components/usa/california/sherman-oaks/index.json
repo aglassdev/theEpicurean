@@ -1,0 +1,26 @@
+{
+  "title": "Sherman Oaks",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "California",
+  "regionSlug": "california",
+  "city": "Sherman Oaks",
+  "citySlug": "sherman-oaks",
+  "path": "/usa/california/sherman-oaks/restaurants",
+  "canonicalPath": "/usa/california/sherman-oaks/restaurants",
+  "count": 2,
+  "restaurants": [
+    {
+      "name": "Anajak Thai",
+      "cuisine": "Thai, Contemporary",
+      "price": "$$$",
+      "path": "/usa/california/sherman-oaks/anajak-thai"
+    },
+    {
+      "name": "Sushi Note",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/california/sherman-oaks/sushi-note"
+    }
+  ]
+}

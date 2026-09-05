@@ -1,8 +1,14 @@
 {
   "title": "Llandrillo",
-  "country": "uk",
-  "region": "llandrillo",
-  "city": "llandrillo",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "llandrillo",
+  "city": "Llandrillo",
+  "citySlug": "llandrillo",
+  "path": "/uk/llandrillo/llandrillo/restaurants",
+  "canonicalPath": "/uk/llandrillo/llandrillo/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Tyddyn Llan",

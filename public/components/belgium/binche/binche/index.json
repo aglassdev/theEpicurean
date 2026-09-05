@@ -1,8 +1,14 @@
 {
   "title": "Binche",
-  "country": "belgium",
-  "region": "binche",
-  "city": "binche",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "binche",
+  "city": "Binche",
+  "citySlug": "binche",
+  "path": "/belgium/binche/binche/restaurants",
+  "canonicalPath": "/belgium/binche/binche/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Cul de Poule",

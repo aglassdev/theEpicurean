@@ -1,8 +1,14 @@
 {
   "title": "Bag",
-  "country": "spain",
-  "region": "bag",
-  "city": "bag",
+  "country": "Spain",
+  "countrySlug": "spain",
+  "region": null,
+  "regionSlug": "bag",
+  "city": "Bag",
+  "citySlug": "bag",
+  "path": "/spain/bag/bag/restaurants",
+  "canonicalPath": "/spain/bag/bag/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Ca L'Amagat",

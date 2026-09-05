@@ -1,14 +1,20 @@
 {
   "title": "Rambouillet",
-  "country": "france",
-  "region": "rambouillet",
-  "city": "rambouillet",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "rambouillet",
+  "city": "Rambouillet",
+  "citySlug": "rambouillet",
+  "path": "/france/rambouillet/rambouillet/restaurants",
+  "canonicalPath": "/france/rambouillet/rambouillet/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Orangerie",
       "cuisine": "Seafood",
       "price": "€€€",
-      "path": "/france/rambouillet/rambouillet/lorangerie"
+      "path": "/france/rambouillet/rambouillet/lorangerie-r-a-m"
     }
   ]
 }

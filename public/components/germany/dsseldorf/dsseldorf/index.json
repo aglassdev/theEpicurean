@@ -1,26 +1,83 @@
 {
   "title": "Dsseldorf",
-  "country": "germany",
-  "region": "dsseldorf",
-  "city": "dsseldorf",
+  "country": "Germany",
+  "countrySlug": "germany",
+  "region": null,
+  "regionSlug": "dsseldorf",
+  "city": "Dsseldorf",
+  "citySlug": "dsseldorf",
+  "path": "/germany/dsseldorf/dsseldorf/restaurants",
+  "canonicalPath": "/germany/dsseldorf/dsseldorf/restaurants",
+  "count": 28,
   "restaurants": [
     {
       "name": "1876 Daniel Dal-Ben",
       "cuisine": "Creative, Modern Cuisine",
       "price": "€€€€",
-      "path": "/germany/dsseldorf/dsseldorf/1876-daniel-dal-ben"
+      "path": "/germany/dsseldorf/dsseldorf/1876-daniel-dalben",
+      "award": "★"
+    },
+    {
+      "name": "Agata's",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/dsseldorf/dsseldorf/agatas",
+      "award": "★"
+    },
+    {
+      "name": "Im Schiffchen",
+      "cuisine": "Classic Cuisine",
+      "price": "€€€€",
+      "path": "/germany/dsseldorf/dsseldorf/im-schiffchen",
+      "award": "★"
+    },
+    {
+      "name": "Jae",
+      "cuisine": "Fusion, Asian Influences",
+      "price": "€€€€",
+      "path": "/germany/dsseldorf/dsseldorf/jae",
+      "award": "★"
+    },
+    {
+      "name": "LA VIE by thomas bühner",
+      "cuisine": "Modern Cuisine, Creative",
+      "price": "€€€€",
+      "path": "/germany/dsseldorf/dsseldorf/la-vie-by-thomas-bhner",
+      "award": "★"
+    },
+    {
+      "name": "Nagaya",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/germany/dsseldorf/dsseldorf/nagaya",
+      "award": "★"
+    },
+    {
+      "name": "Setzkasten",
+      "cuisine": "Modern Cuisine, International",
+      "price": "€€€€",
+      "path": "/germany/dsseldorf/dsseldorf/setzkasten",
+      "award": "★"
+    },
+    {
+      "name": "Yoshi by Nagaya",
+      "cuisine": "Japanese, Sushi",
+      "price": "€€€€",
+      "path": "/germany/dsseldorf/dsseldorf/yoshi-by-nagaya",
+      "award": "★"
+    },
+    {
+      "name": "Zwanzig23 by Lukas Jakobi",
+      "cuisine": "Creative, Seasonal Cuisine",
+      "price": "€€€€",
+      "path": "/germany/dsseldorf/dsseldorf/zwanzig23-by-lukas-jakobi",
+      "award": "★"
     },
     {
       "name": "20° RESTOBAR",
       "cuisine": "Spanish Contemporary",
       "price": "€€",
       "path": "/germany/dsseldorf/dsseldorf/20-restobar"
-    },
-    {
-      "name": "Agata's",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/dsseldorf/dsseldorf/agatas"
     },
     {
       "name": "Bistro Fatal",
@@ -59,24 +116,6 @@
       "path": "/germany/dsseldorf/dsseldorf/grande-toile"
     },
     {
-      "name": "Im Schiffchen",
-      "cuisine": "Classic Cuisine",
-      "price": "€€€€",
-      "path": "/germany/dsseldorf/dsseldorf/im-schiffchen"
-    },
-    {
-      "name": "Jae",
-      "cuisine": "Fusion, Asian Influences",
-      "price": "€€€€",
-      "path": "/germany/dsseldorf/dsseldorf/jae"
-    },
-    {
-      "name": "LA VIE by thomas bühner",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/germany/dsseldorf/dsseldorf/la-vie-by-thomas-bhner"
-    },
-    {
       "name": "L'arte in cucina",
       "cuisine": "Italian, Tuscan",
       "price": "€€€",
@@ -99,12 +138,6 @@
       "cuisine": "International, Traditional Cuisine",
       "price": "€€",
       "path": "/germany/dsseldorf/dsseldorf/mnstermanns-kontor"
-    },
-    {
-      "name": "Nagaya",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/germany/dsseldorf/dsseldorf/nagaya"
     },
     {
       "name": "Roku - Japanese Dining & Wine",
@@ -131,12 +164,6 @@
       "path": "/germany/dsseldorf/dsseldorf/schorn-by-lukas-schild"
     },
     {
-      "name": "Setzkasten",
-      "cuisine": "Modern Cuisine, International",
-      "price": "€€€€",
-      "path": "/germany/dsseldorf/dsseldorf/setzkasten"
-    },
-    {
       "name": "Staudi's",
       "cuisine": "Contemporary, Seasonal Cuisine",
       "price": "€€€",
@@ -159,18 +186,6 @@
       "cuisine": "Japanese, Asian",
       "price": "€€€",
       "path": "/germany/dsseldorf/dsseldorf/yabase"
-    },
-    {
-      "name": "Yoshi by Nagaya",
-      "cuisine": "Japanese, Sushi",
-      "price": "€€€€",
-      "path": "/germany/dsseldorf/dsseldorf/yoshi-by-nagaya"
-    },
-    {
-      "name": "Zwanzig23 by Lukas Jakobi",
-      "cuisine": "Creative, Seasonal Cuisine",
-      "price": "€€€€",
-      "path": "/germany/dsseldorf/dsseldorf/zwanzig23-by-lukas-jakobi"
     }
   ]
 }

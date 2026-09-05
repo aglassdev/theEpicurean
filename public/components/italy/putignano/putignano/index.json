@@ -1,14 +1,21 @@
 {
   "title": "Putignano",
-  "country": "italy",
-  "region": "putignano",
-  "city": "putignano",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "putignano",
+  "city": "Putignano",
+  "citySlug": "putignano",
+  "path": "/italy/putignano/putignano/restaurants",
+  "canonicalPath": "/italy/putignano/putignano/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Angelo Sabatelli",
       "cuisine": "Modern Cuisine, Creative",
       "price": "€€€",
-      "path": "/italy/putignano/putignano/angelo-sabatelli"
+      "path": "/italy/putignano/putignano/angelo-sabatelli",
+      "award": "★"
     }
   ]
 }

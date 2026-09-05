@@ -1,8 +1,14 @@
 {
   "title": "Fordham",
-  "country": "uk",
-  "region": "fordham",
-  "city": "fordham",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "fordham",
+  "city": "Fordham",
+  "citySlug": "fordham",
+  "path": "/uk/fordham/fordham/restaurants",
+  "canonicalPath": "/uk/fordham/fordham/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "The Three Horseshoes",

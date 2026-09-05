@@ -1,20 +1,20 @@
 {
   "title": "Spoleto",
-  "country": "italy",
-  "region": "spoleto",
-  "city": "spoleto",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "spoleto",
+  "city": "Spoleto",
+  "citySlug": "spoleto",
+  "path": "/italy/spoleto/spoleto/restaurants",
+  "canonicalPath": "/italy/spoleto/spoleto/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Apollinare",
       "cuisine": "Italian Contemporary",
       "price": "€€",
       "path": "/italy/spoleto/spoleto/apollinare"
-    },
-    {
-      "name": "San Lorenzo",
-      "cuisine": "Seafood, Traditional Cuisine",
-      "price": "€€",
-      "path": "/italy/spoleto/spoleto/san-lorenzo"
     },
     {
       "name": "San Lorenzo",

@@ -1,14 +1,21 @@
 {
   "title": "Buxy",
-  "country": "france",
-  "region": "buxy",
-  "city": "buxy",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "buxy",
+  "city": "Buxy",
+  "citySlug": "buxy",
+  "path": "/france/buxy/buxy/restaurants",
+  "canonicalPath": "/france/buxy/buxy/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Empreinte",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/buxy/buxy/lempreinte"
+      "path": "/france/buxy/buxy/lempreinte",
+      "award": "★"
     }
   ]
 }

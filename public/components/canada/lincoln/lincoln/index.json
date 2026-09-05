@@ -1,20 +1,21 @@
 {
   "title": "Lincoln",
-  "country": "canada",
-  "region": "lincoln",
-  "city": "lincoln",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "lincoln",
+  "city": "Lincoln",
+  "citySlug": "lincoln",
+  "path": "/canada/lincoln/lincoln/restaurants",
+  "canonicalPath": "/canada/lincoln/lincoln/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Restaurant Pearl Morissette",
       "cuisine": "Contemporary",
       "price": "$$$$",
-      "path": "/canada/lincoln/lincoln/restaurant-pearl-morissette"
-    },
-    {
-      "name": "Restaurant Pearl Morissette",
-      "cuisine": "Contemporary",
-      "price": "$$$$",
-      "path": "/canada/lincoln/lincoln/restaurant-pearl-morissette"
+      "path": "/canada/lincoln/lincoln/restaurant-pearl-morissette",
+      "award": "★"
     }
   ]
 }

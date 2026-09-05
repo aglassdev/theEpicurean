@@ -1,14 +1,20 @@
 {
   "title": "Savona",
-  "country": "italy",
-  "region": "savona",
-  "city": "savona",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "savona",
+  "city": "Savona",
+  "citySlug": "savona",
+  "path": "/italy/savona/savona/restaurants",
+  "canonicalPath": "/italy/savona/savona/restaurants",
+  "count": 3,
   "restaurants": [
     {
       "name": "A Spurcacciun-a",
       "cuisine": "Seafood, Modern Cuisine",
       "price": "€€€",
-      "path": "/italy/savona/savona/a-spurcacciun-a"
+      "path": "/italy/savona/savona/a-spurcacciuna"
     },
     {
       "name": "Bino",

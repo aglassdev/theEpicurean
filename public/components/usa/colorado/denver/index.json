@@ -1,11 +1,231 @@
 {
   "title": "Denver",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "Colorado",
+  "regionSlug": "colorado",
+  "city": "Denver",
+  "citySlug": "denver",
+  "path": "/usa/colorado/denver/restaurants",
+  "canonicalPath": "/usa/colorado/denver/restaurants",
+  "count": 35,
   "restaurants": [
+    {
+      "name": "Alma Fonda Fina",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$",
+      "path": "/usa/colorado/denver/alma-fonda-fina",
+      "award": "★"
+    },
+    {
+      "name": "Beckon",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/colorado/denver/beckon",
+      "award": "★"
+    },
+    {
+      "name": "Brutø",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/colorado/denver/brut-d-e-n",
+      "award": "★"
+    },
+    {
+      "name": "Kizaki",
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/colorado/denver/kizaki",
+      "award": "★"
+    },
+    {
+      "name": "Margot",
+      "cuisine": "Contemporary",
+      "price": "$$$$",
+      "path": "/usa/colorado/denver/margot",
+      "award": "★"
+    },
+    {
+      "name": "Mezcaleria Alma",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/mezcaleria-alma",
+      "award": "★"
+    },
+    {
+      "name": "The Wolf's Tailor",
+      "cuisine": "Contemporary, Creative",
+      "price": "$$$$",
+      "path": "/usa/colorado/denver/the-wolfs-tailor",
+      "award": "★"
+    },
+    {
+      "name": "A5 Steakhouse",
+      "cuisine": "Steakhouse, American",
+      "price": "$$$$",
+      "path": "/usa/colorado/denver/a5-steakhouse"
+    },
+    {
+      "name": "Alteño",
+      "cuisine": "Mexican, Contemporary",
+      "price": "$$$$",
+      "path": "/usa/colorado/denver/alteo"
+    },
+    {
+      "name": "Ash'Kara",
+      "cuisine": "Israeli, Mediterranean Cuisine",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/ashkara"
+    },
+    {
+      "name": "Barolo Grill",
+      "cuisine": "Italian, Regional Cuisine",
+      "price": "$$$$",
+      "path": "/usa/colorado/denver/barolo-grill"
+    },
+    {
+      "name": "Brasserie Brixton",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/brasserie-brixton"
+    },
+    {
+      "name": "Dio Mio",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$",
+      "path": "/usa/colorado/denver/dio-mio"
+    },
+    {
+      "name": "Glo Noodle House",
+      "cuisine": "Ramen",
+      "price": "$$",
+      "path": "/usa/colorado/denver/glo-noodle-house"
+    },
+    {
+      "name": "Guard and Grace",
+      "cuisine": "Steakhouse, American Contemporary",
+      "price": "$$$$",
+      "path": "/usa/colorado/denver/guard-and-grace"
+    },
+    {
+      "name": "Hey Kiddo",
+      "cuisine": "Contemporary, Fusion",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/hey-kiddo"
+    },
+    {
+      "name": "Hop Alley",
+      "cuisine": "Chinese, Contemporary",
+      "price": "$$",
+      "path": "/usa/colorado/denver/hop-alley"
+    },
+    {
+      "name": "Kawa Ni",
+      "cuisine": "Japanese, Contemporary",
+      "price": "$$",
+      "path": "/usa/colorado/denver/kawa-ni"
+    },
+    {
+      "name": "La Diabla Pozole y Mezcal",
+      "cuisine": "Mexican",
+      "price": "$$",
+      "path": "/usa/colorado/denver/la-diabla-pozole-y-mezcal"
+    },
+    {
+      "name": "MAKfam",
+      "cuisine": "Chinese",
+      "price": "$",
+      "path": "/usa/colorado/denver/makfam"
+    },
+    {
+      "name": "Marco's Coal-Fired",
+      "cuisine": "Pizza",
+      "price": "$$",
+      "path": "/usa/colorado/denver/marcos-coalfired"
+    },
+    {
+      "name": "Mercantile",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/mercantile"
+    },
+    {
+      "name": "Mercantile Dining and Provision",
+      "cuisine": "American",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/mercantile-dining-and-provision"
+    },
+    {
+      "name": "Mister Oso",
+      "cuisine": "Latin American",
+      "price": "$$",
+      "path": "/usa/colorado/denver/mister-oso"
+    },
+    {
+      "name": "Noisette",
+      "cuisine": "French, Contemporary",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/noisette"
+    },
+    {
+      "name": "Olivia",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/olivia-d-e-n"
+    },
+    {
+      "name": "Q House",
+      "cuisine": "Chinese",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/q-house"
+    },
     {
       "name": "Restaurant Olivia",
       "cuisine": "Italian",
       "price": "$$$",
-      "path": "/usa/colorado/denver/RestaurantOlivia"
+      "path": "/usa/colorado/denver/restaurant-olivia"
+    },
+    {
+      "name": "Safta",
+      "cuisine": "Israeli",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/safta"
+    },
+    {
+      "name": "Smok",
+      "cuisine": "Barbecue, American",
+      "price": "$$",
+      "path": "/usa/colorado/denver/smok"
+    },
+    {
+      "name": "Tavernetta",
+      "cuisine": "Italian, Contemporary",
+      "price": "$$",
+      "path": "/usa/colorado/denver/tavernetta"
+    },
+    {
+      "name": "Temaki Den",
+      "cuisine": "Japanese",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/temaki-den"
+    },
+    {
+      "name": "The Ginger Pig",
+      "cuisine": "Chinese, Asian",
+      "price": "$$",
+      "path": "/usa/colorado/denver/the-ginger-pig"
+    },
+    {
+      "name": "Ukiyo",
+      "cuisine": "Japanese, Fusion",
+      "price": "$$$$",
+      "path": "/usa/colorado/denver/ukiyo-d-e-n"
+    },
+    {
+      "name": "Wildflower",
+      "cuisine": "Contemporary",
+      "price": "$$$",
+      "path": "/usa/colorado/denver/wildflower"
     }
   ]
 }

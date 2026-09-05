@@ -1,11 +1,21 @@
 {
   "title": "Drummondville",
+  "country": "Canada",
+  "countrySlug": "canada",
+  "region": null,
+  "regionSlug": "drummondville",
+  "city": "Drummondville",
+  "citySlug": "drummondville",
+  "path": "/canada/drummondville/drummondville/restaurants",
+  "canonicalPath": "/canada/drummondville/drummondville/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Bibine Buvette",
       "cuisine": "Modern Cuisine",
       "price": "$$",
-      "path": "/canada/drummondville/drummondville/BibineBuvette"
+      "path": "/canada/drummondville/drummondville/bibine-buvette",
+      "award": "Bib Gourmand"
     }
   ]
 }

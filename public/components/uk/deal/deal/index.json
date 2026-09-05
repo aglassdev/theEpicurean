@@ -1,8 +1,14 @@
 {
   "title": "Deal",
-  "country": "uk",
-  "region": "deal",
-  "city": "deal",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "deal",
+  "city": "Deal",
+  "citySlug": "deal",
+  "path": "/uk/deal/deal/restaurants",
+  "canonicalPath": "/uk/deal/deal/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "Updown Farmhouse",

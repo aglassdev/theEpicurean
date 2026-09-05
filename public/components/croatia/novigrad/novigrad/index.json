@@ -1,20 +1,20 @@
 {
   "title": "Novigrad",
-  "country": "croatia",
-  "region": "novigrad",
-  "city": "novigrad",
+  "country": "Croatia",
+  "countrySlug": "croatia",
+  "region": null,
+  "regionSlug": "novigrad",
+  "city": "Novigrad",
+  "citySlug": "novigrad",
+  "path": "/croatia/novigrad/novigrad/restaurants",
+  "canonicalPath": "/croatia/novigrad/novigrad/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Damir & Ornella",
       "cuisine": "Seafood, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/croatia/novigrad/novigrad/damir-ornella"
-    },
-    {
-      "name": "Marina",
-      "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/croatia/novigrad/novigrad/marina"
     },
     {
       "name": "Marina",

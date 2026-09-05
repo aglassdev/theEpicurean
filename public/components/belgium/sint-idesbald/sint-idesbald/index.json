@@ -1,20 +1,27 @@
 {
   "title": "Sint Idesbald",
-  "country": "belgium",
-  "region": "sint-idesbald",
-  "city": "sint-idesbald",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "sint-idesbald",
+  "city": "Sint Idesbald",
+  "citySlug": "sint-idesbald",
+  "path": "/belgium/sint-idesbald/sint-idesbald/restaurants",
+  "canonicalPath": "/belgium/sint-idesbald/sint-idesbald/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Carcasse",
+      "cuisine": "Meats and Grills",
+      "price": "€€€€",
+      "path": "/belgium/sint-idesbald/sint-idesbald/carcasse",
+      "award": "★"
+    },
     {
       "name": "Boîte",
       "cuisine": "World Cuisine",
       "price": "€€",
       "path": "/belgium/sint-idesbald/sint-idesbald/bote"
-    },
-    {
-      "name": "Carcasse",
-      "cuisine": "Meats and Grills",
-      "price": "€€€€",
-      "path": "/belgium/sint-idesbald/sint-idesbald/carcasse"
     },
     {
       "name": "De Kokkel",

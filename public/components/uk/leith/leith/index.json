@@ -1,6 +1,36 @@
 {
   "title": "Leith",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "leith",
+  "city": "Leith",
+  "citySlug": "leith",
+  "path": "/uk/leith/leith/restaurants",
+  "canonicalPath": "/uk/leith/leith/restaurants",
+  "count": 8,
   "restaurants": [
+    {
+      "name": "Heron",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/leith/leith/heron",
+      "award": "★"
+    },
+    {
+      "name": "Martin Wishart",
+      "cuisine": "Modern Cuisine, Contemporary",
+      "price": "££££",
+      "path": "/uk/leith/leith/martin-wishart",
+      "award": "★"
+    },
+    {
+      "name": "The Kitchin",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/leith/leith/the-kitchin",
+      "award": "★"
+    },
     {
       "name": "Ardfern",
       "cuisine": "International",
@@ -14,40 +44,22 @@
       "path": "/uk/leith/leith/barry-fish"
     },
     {
+      "name": "Dogstar",
+      "cuisine": "Modern British",
+      "price": "$$$",
+      "path": "/uk/leith/leith/dogstar"
+    },
+    {
       "name": "Dùthchas",
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/leith/leith/dthchas"
     },
     {
-      "name": "Heron",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/leith/leith/heron"
-    },
-    {
-      "name": "Martin Wishart",
-      "cuisine": "Modern Cuisine, Contemporary",
-      "price": "££££",
-      "path": "/uk/leith/leith/martin-wishart"
-    },
-    {
-      "name": "The Kitchin",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/leith/leith/the-kitchin"
-    },
-    {
       "name": "The Little Chartroom",
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/leith/leith/the-little-chartroom"
-    },
-    {
-      "name": "Dogstar",
-      "cuisine": "Modern British",
-      "price": "$$$",
-      "path": "/uk/leith/leith/Dogstar"
     }
   ]
 }

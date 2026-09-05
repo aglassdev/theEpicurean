@@ -1,8 +1,14 @@
 {
   "title": "Follonica",
-  "country": "italy",
-  "region": "follonica",
-  "city": "follonica",
+  "country": "Italy",
+  "countrySlug": "italy",
+  "region": null,
+  "regionSlug": "follonica",
+  "city": "Follonica",
+  "citySlug": "follonica",
+  "path": "/italy/follonica/follonica/restaurants",
+  "canonicalPath": "/italy/follonica/follonica/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Il Sottomarino",

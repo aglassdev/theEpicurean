@@ -1,20 +1,27 @@
 {
   "title": "Plymouth",
-  "country": "uk",
-  "region": "plymouth",
-  "city": "plymouth",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": null,
+  "regionSlug": "plymouth",
+  "city": "Plymouth",
+  "citySlug": "plymouth",
+  "path": "/uk/plymouth/plymouth/restaurants",
+  "canonicalPath": "/uk/plymouth/plymouth/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Àclèaf",
+      "cuisine": "Modern Cuisine",
+      "price": "££££",
+      "path": "/uk/plymouth/plymouth/claf",
+      "award": "★"
+    },
     {
       "name": "Barbican Kitchen",
       "cuisine": "International",
       "price": "££",
       "path": "/uk/plymouth/plymouth/barbican-kitchen"
-    },
-    {
-      "name": "Àclèaf",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/plymouth/plymouth/claf"
     },
     {
       "name": "Fletcher's Restaurant",

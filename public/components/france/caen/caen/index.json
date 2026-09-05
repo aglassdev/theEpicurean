@@ -1,14 +1,21 @@
 {
   "title": "Caen",
-  "country": "france",
-  "region": "caen",
-  "city": "caen",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "caen",
+  "city": "Caen",
+  "citySlug": "caen",
+  "path": "/france/caen/caen/restaurants",
+  "canonicalPath": "/france/caen/caen/restaurants",
+  "count": 10,
   "restaurants": [
     {
-      "name": "Augia",
+      "name": "Ivan Vautier",
       "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/caen/caen/augia"
+      "price": "€€€",
+      "path": "/france/caen/caen/ivan-vautier",
+      "award": "★"
     },
     {
       "name": "À Contre Sens",
@@ -17,10 +24,16 @@
       "path": "/france/caen/caen/contre-sens"
     },
     {
-      "name": "Ivan Vautier",
+      "name": "Augia",
       "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/caen/caen/ivan-vautier"
+      "price": "€€",
+      "path": "/france/caen/caen/augia"
+    },
+    {
+      "name": "L'Intuition d'André",
+      "cuisine": "Modern Cuisine, Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/caen/caen/lintuition-dandr"
     },
     {
       "name": "Le Bouchon du Vaugueux",
@@ -35,28 +48,22 @@
       "path": "/france/caen/caen/le-dauphin"
     },
     {
-      "name": "L'Intuition d'André",
-      "cuisine": "Modern Cuisine, Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/caen/caen/lintuition-dandr"
-    },
-    {
       "name": "Magma",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/caen/caen/magma"
-    },
-    {
-      "name": "Simplexité",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/caen/caen/simplexit"
+      "path": "/france/caen/caen/magma-c-a-e"
     },
     {
       "name": "Séquence",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/caen/caen/squence"
+    },
+    {
+      "name": "Simplexité",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/caen/caen/simplexit"
     },
     {
       "name": "Stéphane Carbone",

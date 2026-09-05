@@ -1,14 +1,21 @@
 {
   "title": "Sint Denijs",
-  "country": "belgium",
-  "region": "sint-denijs",
-  "city": "sint-denijs",
+  "country": "Belgium",
+  "countrySlug": "belgium",
+  "region": null,
+  "regionSlug": "sint-denijs",
+  "city": "Sint Denijs",
+  "citySlug": "sint-denijs",
+  "path": "/belgium/sint-denijs/sint-denijs/restaurants",
+  "canonicalPath": "/belgium/sint-denijs/sint-denijs/restaurants",
+  "count": 1,
   "restaurants": [
     {
       "name": "L'Envie",
       "cuisine": "Modern French",
       "price": "€€€€",
-      "path": "/belgium/sint-denijs/sint-denijs/lenvie"
+      "path": "/belgium/sint-denijs/sint-denijs/lenvie",
+      "award": "★"
     }
   ]
 }

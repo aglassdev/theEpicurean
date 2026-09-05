@@ -1,8 +1,14 @@
 {
   "title": "Chambry",
-  "country": "france",
-  "region": "chambry",
-  "city": "chambry",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "chambry",
+  "city": "Chambry",
+  "citySlug": "chambry",
+  "path": "/france/chambry/chambry/restaurants",
+  "canonicalPath": "/france/chambry/chambry/restaurants",
+  "count": 4,
   "restaurants": [
     {
       "name": "Carré des Sens",

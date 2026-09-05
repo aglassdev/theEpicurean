@@ -1,9 +1,43 @@
 {
   "title": "Luxembourg",
-  "country": "luxembourg",
-  "region": "other",
-  "city": "luxembourg",
+  "country": "Luxembourg",
+  "countrySlug": "luxembourg",
+  "region": "Other",
+  "regionSlug": "other",
+  "city": "Luxembourg",
+  "citySlug": "luxembourg",
+  "path": "/luxembourg/other/luxembourg/restaurants",
+  "canonicalPath": "/luxembourg/other/luxembourg/restaurants",
+  "count": 22,
   "restaurants": [
+    {
+      "name": "Grünewald Chef’s Table",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "path": "/luxembourg/other/luxembourg/grunewald-chefs-table",
+      "award": "★"
+    },
+    {
+      "name": "La Villa de Camille et Julien",
+      "cuisine": "French, Seasonal Cuisine",
+      "price": "€€€",
+      "path": "/luxembourg/other/luxembourg/la-villa-de-camille-et-julien",
+      "award": "★"
+    },
+    {
+      "name": "Mosconi",
+      "cuisine": "Italian",
+      "price": "€€€€",
+      "path": "/luxembourg/other/luxembourg/mosconi",
+      "award": "★"
+    },
+    {
+      "name": "Ryôdô",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "path": "/luxembourg/other/luxembourg/ryd",
+      "award": "★"
+    },
     {
       "name": "Amélys",
       "cuisine": "Modern Cuisine",
@@ -41,28 +75,28 @@
       "path": "/luxembourg/other/luxembourg/equilibrium"
     },
     {
-      "name": "Grünewald Chef’s Table",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€€",
-      "path": "/luxembourg/other/luxembourg/grunewald-chefs-table"
-    },
-    {
       "name": "Hostellerie du Grünewald",
       "cuisine": "Modern French",
       "price": "€€€",
       "path": "/luxembourg/other/luxembourg/hostellerie-du-grnewald"
     },
     {
-      "name": "La Villa de Camille et Julien",
-      "cuisine": "French, Seasonal Cuisine",
-      "price": "€€€",
-      "path": "/luxembourg/other/luxembourg/la-villa-de-camille-et-julien"
-    },
-    {
       "name": "L'Atelier Windsor",
       "cuisine": "Classic Cuisine",
       "price": "€€",
       "path": "/luxembourg/other/luxembourg/latelier-windsor"
+    },
+    {
+      "name": "L'Opéra",
+      "cuisine": "French, Traditional Cuisine",
+      "price": "€€€",
+      "path": "/luxembourg/other/luxembourg/lopra"
+    },
+    {
+      "name": "La Cristallerie",
+      "cuisine": "Modern French",
+      "price": "$$$$",
+      "path": "/luxembourg/luxembourg/luxembourg/la-cristallerie"
     },
     {
       "name": "Le Plëss",
@@ -75,18 +109,6 @@
       "cuisine": "Creative French",
       "price": "€€€€",
       "path": "/luxembourg/other/luxembourg/les-jardins-danas"
-    },
-    {
-      "name": "L'Opéra",
-      "cuisine": "French, Traditional Cuisine",
-      "price": "€€€",
-      "path": "/luxembourg/other/luxembourg/lopra"
-    },
-    {
-      "name": "Mosconi",
-      "cuisine": "Italian",
-      "price": "€€€€",
-      "path": "/luxembourg/other/luxembourg/mosconi"
     },
     {
       "name": "OiO",
@@ -111,12 +133,6 @@
       "cuisine": "Country cooking, Farm to table",
       "price": "€€€",
       "path": "/luxembourg/other/luxembourg/rtisserie-ardennaise"
-    },
-    {
-      "name": "Ryôdô",
-      "cuisine": "Japanese",
-      "price": "€€€€",
-      "path": "/luxembourg/other/luxembourg/ryd"
     },
     {
       "name": "Schéiss",

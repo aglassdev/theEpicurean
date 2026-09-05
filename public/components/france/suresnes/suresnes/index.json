@@ -1,11 +1,26 @@
 {
   "title": "Suresnes",
+  "country": "France",
+  "countrySlug": "france",
+  "region": null,
+  "regionSlug": "suresnes",
+  "city": "Suresnes",
+  "citySlug": "suresnes",
+  "path": "/france/suresnes/suresnes/restaurants",
+  "canonicalPath": "/france/suresnes/suresnes/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Arietis",
+      "cuisine": "Modern Cuisine",
+      "price": "$$",
+      "path": "/france/suresnes/suresnes/arietis"
+    },
     {
       "name": "Bistro Là-Haut",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/suresnes/suresnes/bistro-l-haut"
+      "path": "/france/suresnes/suresnes/bistro-lhaut"
     },
     {
       "name": "Et Toque !",
@@ -18,12 +33,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/suresnes/suresnes/les-petits-princes"
-    },
-    {
-      "name": "Arietis",
-      "cuisine": "Modern Cuisine",
-      "price": "$$",
-      "path": "/france/suresnes/suresnes/Arietis"
     }
   ]
 }
