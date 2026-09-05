@@ -128,7 +128,8 @@ const HomePage = () => {
       {/* Featured carousel — full-bleed, accessible, pausable */}
       <section aria-roledescription="carousel" aria-label="Featured restaurants" style={{ width: '100%' }}>
         <div
-          style={{ position: 'relative', width: '100%', height: 'min(78vh, 760px)', overflow: 'hidden', background: paperDeep }}
+          className="epi-hero"
+          style={{ position: 'relative', width: '100%', overflow: 'hidden', background: paperDeep }}
           onMouseEnter={() => setPaused(true)} onMouseLeave={() => setPaused(false)}
           onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}
         >

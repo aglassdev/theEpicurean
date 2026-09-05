@@ -63,6 +63,15 @@ export const useEpiStyles = () => {
       .epi-feature:hover .epi-feature-img { transform: scale(1.045); }
       .epi-cta-underline { background-image: linear-gradient(${tokens.gold}, ${tokens.gold}); background-size: 0% 1px; background-repeat: no-repeat; background-position: 0 100%; transition: background-size .5s cubic-bezier(.2,.7,.2,1); padding-bottom: 3px; }
       .epi-cta-underline:hover { background-size: 100% 1px; }
+      /* The home carousel fills the opening screen: everything below the sticky
+         masthead. The subtracted values are the nav's own height including its
+         hairline border (56px + 1px on mobile), measured against the live nav.
+         svh rather than vh so a mobile browser's collapsing toolbar can't make the
+         hero taller than the screen; the vh line is the fallback where svh is unknown. */
+      .epi-hero { height: calc(100vh - 80px); height: calc(100svh - 80px); min-height: 420px; }
+      @media (max-width: 860px) {
+        .epi-hero { height: calc(100vh - 57px); height: calc(100svh - 57px); min-height: 380px; }
+      }
       .epi-city-link { transition: color .25s ease, transform .25s ease; }
       .epi-city-link:hover { color: ${tokens.gold}; transform: translateX(6px); }
       .epi-row { transition: background .3s ease, transform .3s ease; }
