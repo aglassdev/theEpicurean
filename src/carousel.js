@@ -11,7 +11,7 @@ export const CAROUSEL = [
   { image: "/images/sezanne1.png", title: "SÉZANNE", location: "Tokyo, Japan", stars: ["michelinstar","michelinstar","michelinstar"], route: "/japan/tokyo/tokyo/szanne" },
   { image: "/images/suhring1.png", title: "Sühring", location: "Bangkok, Thailand", stars: ["michelinstar","michelinstar","michelinstar"], route: "/thailand/bangkok/bangkok/shring" },
   { image: "/images/odette1.png", title: "Odette", location: "Singapore", stars: ["michelinstar","michelinstar","michelinstar"], route: "/singapore/other/singapore/odette-s-i-n" },
-  { image: "/images/singlethread1.png", title: "SingleThread at the SingleThread Inn", location: "Healdsburg, California", stars: ["michelinstar","michelinstar","michelinstar"], route: "/usa/california/healdsburg/singlethread" },
+  { image: "/images/singlethread1.png", title: "SingleThread Inn", location: "Healdsburg, California", stars: ["michelinstar","michelinstar","michelinstar"], route: "/usa/california/healdsburg/singlethread" },
   { image: "/images/sketch1.png", title: "Sketch, The Lecture Room and Library", location: "London, United Kingdom", stars: ["michelinstar","michelinstar","michelinstar"], route: "/uk/london/london/sketch-the-lecture-room-and-library" },
   { image: "/images/arpege1.png", title: "L’Arpège by Alain Passard", location: "Paris, France", stars: ["michelinstar","michelinstar","michelinstar"], route: "/france/paris/paris/arpge" },
   { image: "/images/azurmendi1.png", title: "Azurmendi by Eneko Atxa", location: "Larrabetzu, Spain", stars: ["michelinstar","michelinstar","michelinstar"], route: "/spain/larrabetzu/larrabetzu/azurmendi" },
