@@ -24,7 +24,6 @@ const HomePage = () => {
   const { ink, inkSoft, inkMute, paper, paperDeep, rule, gold, goldDeep, serif, body, sans } = tokens;
 
   const [slide, setSlide] = useState(0);
-  const [paused, setPaused] = useState(false);
   const [counters, setCounters] = useState({ restaurants: 0, cities: 0, countries: 0 });
   const countersRef = useRef(null);
   const touch = useRef({ x: 0, active: false });
@@ -54,12 +53,13 @@ const HomePage = () => {
     });
   }, [slide, n]);
 
-  // Auto-advance — off under reduced motion, on pause, or while a touch is down.
+  // Auto-advance runs continuously; the only thing that stops it is the reader
+  // having asked the OS for reduced motion.
   useEffect(() => {
-    if (paused || reduceMotion) return undefined;
+    if (reduceMotion) return undefined;
     const t = setInterval(() => setSlide((s) => (s + 1) % n), 5200);
     return () => clearInterval(t);
-  }, [paused, reduceMotion, n]);
+  }, [reduceMotion, n]);
 
   // Count-up figures — totals come from the generated manifest so they can't go
   // stale; the constants below are only a floor if the fetch hasn't landed yet.
@@ -125,12 +125,11 @@ const HomePage = () => {
         The Epicurean: every great table in the world, reconciled into one atlas.
       </h1>
 
-      {/* Featured carousel — full-bleed, accessible, pausable */}
+      {/* Featured carousel: full-bleed, keyboard and swipe navigable, always looping */}
       <section aria-roledescription="carousel" aria-label="Featured restaurants" style={{ width: '100%' }}>
         <div
           className="epi-hero"
           style={{ position: 'relative', width: '100%', overflow: 'hidden', background: paperDeep }}
-          onMouseEnter={() => setPaused(true)} onMouseLeave={() => setPaused(false)}
           onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}
         >
           {CAROUSEL.map((s, i) => {
@@ -189,7 +188,7 @@ const HomePage = () => {
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M9 18l6-6-6-6" /></svg>
           </button>
 
-          {/* Indicators + pause */}
+          {/* Indicators */}
           <div style={{ position: 'absolute', bottom: '22px', right: 'clamp(1rem, 3vw, 2rem)', display: 'flex', gap: '10px', alignItems: 'center', zIndex: 3 }}>
             <div role="tablist" aria-label="Choose restaurant" style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
               {CAROUSEL.map((s, i) => (
@@ -199,14 +198,6 @@ const HomePage = () => {
                     transition: 'width .5s cubic-bezier(.2,.7,.2,1), background .4s ease' }} />
               ))}
             </div>
-            {!reduceMotion && (
-              <button aria-label={paused ? 'Play slideshow' : 'Pause slideshow'} onClick={() => setPaused((p) => !p)}
-                style={{ width: 26, height: 26, marginLeft: 4, border: `1px solid rgba(250,247,240,.55)`, borderRadius: '50%', background: 'rgba(31,26,20,.28)', color: paper, cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                {paused
-                  ? <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z" /></svg>
-                  : <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="5" width="4" height="14" /><rect x="14" y="5" width="4" height="14" /></svg>}
-              </button>
-            )}
           </div>
         </div>
       </section>
