@@ -23,6 +23,8 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { createRequire } from 'module';
+import { mesh } from 'topojson-client';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const COMPONENTS = path.join(__dirname, '../public/components');
@@ -446,8 +448,63 @@ if (geo?.restaurants?.length) {
     taken.add(key);
     points.push([+r.lng.toFixed(2), +r.lat.toFixed(2)]);
   }
-  fs.writeFileSync(path.join(DATA, 'globe.json'), JSON.stringify({ cell, points }));
-  stats.globePoints = points.length;
+
+  // Coastlines and borders, so the dots land on recognisable shapes rather than a
+  // bare sphere. Natural Earth 110m via world-atlas (public domain), reduced to
+  // plain polylines here so the browser needs no topojson at runtime.
+  //
+  // world-atlas is a devDependency; if a build environment skips those, keep the
+  // outlines already committed in globe.json rather than shipping a bare sphere.
+  let world = null;
+  try {
+    world = createRequire(import.meta.url)('world-atlas/countries-110m.json');
+  } catch {
+    const prev = readJson(path.join(DATA, 'globe.json'));
+    if (prev?.coast?.length) {
+      fs.writeFileSync(
+        path.join(DATA, 'globe.json'),
+        JSON.stringify({ cell, points, coast: prev.coast, borders: prev.borders || [] })
+      );
+      console.warn('  ! world-atlas not installed — kept the existing globe outlines');
+    } else {
+      fs.writeFileSync(path.join(DATA, 'globe.json'), JSON.stringify({ cell, points }));
+      console.warn('  ! world-atlas not installed and no outlines on disk — globe will be bare');
+    }
+    stats.globePoints = points.length;
+    world = undefined;
+  }
+
+  const toLines = (geom, minPoints) =>
+    geom.coordinates
+      .map((line) => {
+        const out = [];
+        let prev = null;
+        for (const [lng, lat] of line) {
+          // ~11 km of precision; the whole globe is 460 px, where 1° is about 1.3 px.
+          const p = [Math.round(lng * 10) / 10, Math.round(lat * 10) / 10];
+          if (prev && p[0] === prev[0] && p[1] === prev[1]) continue;
+          out.push(p);
+          prev = p;
+        }
+        return out;
+      })
+      // Drop specks that would only read as noise at this size.
+      .filter((line) => line.length >= minPoints);
+
+  if (world) {
+    const coast = toLines(mesh(world, world.objects.land), 5);
+    const borders = toLines(
+      mesh(world, world.objects.countries, (a, b) => a !== b),
+      4
+    );
+    fs.writeFileSync(
+      path.join(DATA, 'globe.json'),
+      JSON.stringify({ cell, points, coast, borders })
+    );
+    stats.globePoints = points.length;
+    stats.globeCoast = coast.reduce((s, l) => s + l.length, 0);
+    stats.globeBorders = borders.reduce((s, l) => s + l.length, 0);
+  }
 }
 
 fs.mkdirSync(DATA, { recursive: true });
@@ -484,5 +541,6 @@ if (!quiet) {
   countries             ${stats.countries.toLocaleString()}
   listed restaurants    ${totalListedRestaurants.toLocaleString()}
   globe sample          ${(stats.globePoints || 0).toLocaleString()} points
+  globe outlines        ${(stats.globeCoast || 0).toLocaleString()} coast + ${(stats.globeBorders || 0).toLocaleString()} border vertices
 `);
 }

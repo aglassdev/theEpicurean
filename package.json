@@ -36,7 +36,8 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.4",
-    "vite": "^7.1.2"
+    "vite": "^7.1.2",
+    "world-atlas": "^2.0.2"
   },
   "optionalDependencies": {
     "@rollup/rollup-linux-arm64-gnu": "^4.59.0"

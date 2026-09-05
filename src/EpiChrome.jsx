@@ -68,6 +68,11 @@ export const useEpiStyles = () => {
       .epi-row { transition: background .3s ease, transform .3s ease; }
       .epi-menu-item { transition: color .25s ease; }
       .epi-menu-item:hover { color: ${tokens.gold}; }
+      /* 24 source marks: 12 across on a wide screen (two rows), stepping down so
+         they never squeeze below a legible size. */
+      @media (max-width: 1200px) { .epi-logo-grid { grid-template-columns: repeat(8, minmax(0, 1fr)) !important; } }
+      @media (max-width: 860px)  { .epi-logo-grid { grid-template-columns: repeat(6, minmax(0, 1fr)) !important; } }
+      @media (max-width: 560px)  { .epi-logo-grid { grid-template-columns: repeat(4, minmax(0, 1fr)) !important; } }
       @media (max-width: 860px) {
         .epi-news-grid { grid-template-columns: 1fr !important; }
         .epi-news-lead { aspect-ratio: 4/3 !important; }

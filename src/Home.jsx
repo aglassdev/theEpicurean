@@ -310,18 +310,26 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* Sources — static logo row */}
+      {/* Sources. 24 marks on a fixed 12-wide grid, so a full-width viewport gets
+          two long rows rather than three ragged ones. Shown in their own colours. */}
       <section style={{ background: paperDeep, borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`, padding: 'clamp(3.5rem, 6vw, 5.5rem) 2.5rem' }}>
-        <div style={{ maxWidth: '1200px', margin: '0 auto', textAlign: 'center' }}>
+        <div style={{ maxWidth: '1500px', margin: '0 auto', textAlign: 'center' }}>
           <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(1.5rem, 2.4vw, 2.1rem)', letterSpacing: '-.01em', color: ink, margin: '0 0 2.75rem' }}>
             Curated from the journals of record.
           </h2>
-          <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'center', gap: 'clamp(2rem, 4vw, 3.5rem)' }}>
+          <div className="epi-logo-grid" style={{
+            display: 'grid', gridTemplateColumns: 'repeat(12, minmax(0, 1fr))',
+            columnGap: 'clamp(.9rem, 1.6vw, 2rem)', rowGap: 'clamp(2rem, 3.5vw, 3rem)',
+            alignItems: 'center', justifyItems: 'center',
+          }}>
             {LOGOS.map((l) => (
-              <img key={l.name} src={l.icon} alt={l.name} title={l.name}
-                style={{ height: 'clamp(30px, 4vw, 44px)', maxWidth: '130px', objectFit: 'contain', filter: 'grayscale(1)', opacity: .6, transition: 'opacity .3s ease, filter .3s ease' }}
-                onMouseEnter={(e) => { e.currentTarget.style.opacity = '1'; e.currentTarget.style.filter = 'grayscale(0)'; }}
-                onMouseLeave={(e) => { e.currentTarget.style.opacity = '.6'; e.currentTarget.style.filter = 'grayscale(1)'; }} />
+              <img key={l.name} src={l.icon} alt={l.name} title={l.name} loading="lazy"
+                style={{
+                  height: 'clamp(28px, 3.4vw, 46px)', maxWidth: '100%',
+                  objectFit: 'contain', opacity: .85, transition: 'opacity .3s ease',
+                }}
+                onMouseEnter={(e) => { e.currentTarget.style.opacity = '1'; }}
+                onMouseLeave={(e) => { e.currentTarget.style.opacity = '.85'; }} />
             ))}
           </div>
         </div>
