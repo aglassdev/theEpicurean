@@ -416,23 +416,18 @@ const countries = Object.keys(tree)
 
 stats.countries = countries.length;
 
-// The Atlas plots more than the guide can page — restaurants charted from the
-// geocoded set that have no detail page yet. Publish both so the figures shown
-// on Home and Destinations come from data instead of hand-typed constants.
+// The Atlas plots more than the guide can page: restaurants charted from the
+// geocoded set that have no detail page yet. Only the pin count is published.
+//
+// Deliberately NOT derived from the geo file: city and country counts. Those
+// fields are free text straight from the source datasets, so the distinct values
+// include '9620', 'San Francisco', 'Modena Italy', 'California' and 'Austraila'.
+// Counting them gave 169 countries against the tree's real 62. Anything needing
+// a place count must use the normalised totals above.
 let atlas = null;
 const geo = readJson(path.join(DATA, 'restaurants-geo.json'));
 if (geo?.restaurants?.length) {
-  const seenCountry = new Set();
-  const seenCity = new Set();
-  for (const r of geo.restaurants) {
-    if (r.co) seenCountry.add(r.co);
-    if (r.c) seenCity.add(`${r.co || ''}|${r.c}`);
-  }
-  atlas = {
-    restaurants: geo.restaurants.length,
-    cities: seenCity.size,
-    countries: seenCountry.size,
-  };
+  atlas = { restaurants: geo.restaurants.length };
 
   // A thinned sample of real coordinates for the spinning globe on Home. One point
   // per ~1.6° cell, so Paris doesn't become a blob while Patagonia disappears — the

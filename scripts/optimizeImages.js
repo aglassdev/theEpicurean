@@ -22,6 +22,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { CAROUSEL } from '../src/carousel.js';
 import { LOGOS } from '../src/logos.js';
+import { ARTICLES } from '../src/articles.js';
 
 // sharp is a devDependency and the derivatives are committed, so a build
 // environment that skips devDependencies should carry on with what is on disk
@@ -70,7 +71,11 @@ function headerSources() {
 
 // Carousel slides and detail-page headers get the same treatment: both are
 // full-bleed photography shown at up to half or all of the viewport width.
-const sources = [...new Set([...CAROUSEL.map((s) => s.image), ...headerSources()])];
+const sources = [...new Set([
+  ...CAROUSEL.map((s) => s.image),
+  ...ARTICLES.map((a) => a.image).filter(Boolean),
+  ...headerSources(),
+])];
 let srcBytes = 0;
 let outBytes = 0;
 let written = 0;

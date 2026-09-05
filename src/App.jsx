@@ -5,6 +5,7 @@ import Destinations from './Destinations';
 import Methodology from './Methodology';
 import WorldMapPage from './WorldMapPage';
 import News from './News';
+import Article from './Article';
 import CityPage from './CityPage';
 import RestaurantTemplate from './RestaurantTemplate';
 import { EpiPage, tokens } from './EpiChrome';
@@ -157,6 +158,7 @@ function App() {
           <Route path="/map" element={<WorldMapPage />} />
           <Route path="/atlas" element={<WorldMapPage />} />
           <Route path="/news" element={<News />} />
+          <Route path="/news/:slug" element={<Article />} />
           <Route path="/methodology" element={<Methodology />} />
           <Route path="*" element={<DynamicPage />} />
         </Routes>

@@ -84,7 +84,7 @@ export const useEpiStyles = () => {
       @media (max-width: 560px)  { .epi-logo-grid { grid-template-columns: repeat(4, minmax(0, 1fr)) !important; } }
       @media (max-width: 860px) {
         .epi-news-grid { grid-template-columns: 1fr !important; }
-        .epi-news-lead { aspect-ratio: 4/3 !important; }
+        .epi-news-lead { aspect-ratio: 1 !important; }   /* the lead stays square at every width */
         .epi-about-row { flex-direction: column !important; gap: 2.5rem !important; }
         .epi-grid-3 { grid-template-columns: 1fr !important; }
         .epi-grid-5 { grid-template-columns: repeat(2, 1fr) !important; }

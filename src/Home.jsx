@@ -61,14 +61,22 @@ const HomePage = () => {
     return () => clearInterval(t);
   }, [reduceMotion, n]);
 
-  // Count-up figures — totals come from the generated manifest so they can't go
-  // stale; the constants below are only a floor if the fetch hasn't landed yet.
-  const [targets, setTargets] = useState({ restaurants: 29026, cities: 7788, countries: 169 });
+  // Figures come from the generated manifest so they can't go stale. The counters
+  // report the browsable guide — the same basis the Destinations page counts on —
+  // while `charted` is the Atlas pin total, which is larger because the map plots
+  // restaurants that have no detail page yet.
+  const [targets, setTargets] = useState({ restaurants: 22363, cities: 6568, countries: 62 });
+  const [charted, setCharted] = useState(29025);
   useEffect(() => {
     let live = true;
     fetch('/data/destinations.json')
       .then((r) => (r.ok ? r.json() : null))
-      .then((d) => { if (live && d?.totals?.atlas) setTargets(d.totals.atlas); })
+      .then((d) => {
+        if (!live || !d?.totals) return;
+        const { countries, cities, restaurants, atlas } = d.totals;
+        setTargets({ restaurants, cities, countries });
+        if (atlas?.restaurants) setCharted(atlas.restaurants);
+      })
       .catch(() => {});
     return () => { live = false; };
   }, []);
@@ -248,7 +256,7 @@ const HomePage = () => {
               Traverse the globe by plate, not by passport.
             </h2>
             <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', color: '#CFC9BD', maxWidth: '560px', lineHeight: 1.6, margin: '.4rem 0 1rem' }}>
-              An interactive cartography of all {targets.restaurants.toLocaleString()} tables, from Tokyo to Tasmania, Lima to Ljubljana.
+              An interactive cartography of all {charted.toLocaleString()} tables, from Tokyo to Tasmania, Lima to Ljubljana.
             </p>
             <a href="/map" onClick={(e) => { e.preventDefault(); navigate('/map'); }} className="epi-cta-underline"
               style={{ fontFamily: sans, fontSize: '12px', letterSpacing: '.32em', textTransform: 'uppercase', color: paper, textDecoration: 'none', width: 'fit-content' }}>
