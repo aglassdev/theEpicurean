@@ -2,19 +2,12 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { EpiPage, Rule, tokens, useMediaQuery } from './EpiChrome';
 import Globe from './Globe';
+import { CAROUSEL } from './carousel';
+import { LOGOS } from './logos';
 
-const CAROUSEL = [
-  { image: "/images/geranium.png", title: "Geranium", location: "Copenhagen, Denmark", stars: ["michelinstar","michelinstar","michelinstar"], route: "/denmark/copenhagen/geranium" },
-  { image: "/images/evvai1.png", title: "Evvai", location: "São Paulo, Brazil", stars: ["michelinstar","michelinstar","michelinstar"], route: "/brazil/so-paulo/so-paulo/evvai" },
-  { image: "/images/tresindstudio1.png", title: "Trèsind Studio", location: "Dubai, United Arab Emirates", stars: ["michelinstar","michelinstar","michelinstar"], route: "/uae/other/dubai/trsind-studio" },
-  { image: "/images/sezanne1.png", title: "SÉZANNE", location: "Tokyo, Japan", stars: ["michelinstar","michelinstar","michelinstar"], route: "/japan/tokyo/tokyo/szanne" },
-  { image: "/images/suhring1.png", title: "Sühring", location: "Bangkok, Thailand", stars: ["michelinstar","michelinstar","michelinstar"], route: "/thailand/bangkok/bangkok/shring" },
-  { image: "/images/odette1.png", title: "Odette", location: "Singapore", stars: ["michelinstar","michelinstar","michelinstar"], route: "/singapore/other/singapore/odette-s-i-n" },
-  { image: "/images/singlethread1.png", title: "SingleThread at the SingleThread Inn", location: "Healdsburg, California", stars: ["michelinstar","michelinstar","michelinstar"], route: "/usa/california/healdsburg/singlethread" },
-  { image: "/images/sketch1.png", title: "Sketch, The Lecture Room and Library", location: "London, United Kingdom", stars: ["michelinstar","michelinstar","michelinstar"], route: "/uk/london/london/sketch-the-lecture-room-and-library" },
-  { image: "/images/arpege1.png", title: "L’Arpège by Alain Passard", location: "Paris, France", stars: ["michelinstar","michelinstar","michelinstar"], route: "/france/paris/paris/arpge" },
-  { image: "/images/azurmendi1.png", title: "Azurmendi by Eneko Atxa", location: "Larrabetzu, Spain", stars: ["michelinstar","michelinstar","michelinstar"], route: "/spain/larrabetzu/larrabetzu/azurmendi" },
-];
+// "/images/evvai1.png" -> "evvai1", the stem scripts/optimizeImages.js writes its
+// derivatives under as {stem}-1600.webp, {stem}-3200.webp and {stem}-mark.webp.
+const stem = (src) => src.replace(/^.*\//, '').replace(/\.[^.]+$/, '');
 
 const DISPATCHES = [
   { kicker: "Dispatch · New York", title: "The Times' Best NYC Restaurants of 2025", image: "/images/nyt2025.png",
@@ -25,33 +18,6 @@ const DISPATCHES = [
 
 // Recognizable source marks, shown statically (no marquee). A fuller sweep of the
 // hundred-plus journals behind the guide lives on the Methodology page.
-const LOGOS = [
-  { name: 'Michelin', icon: '/images/michelin.png' },
-  { name: "World's 50 Best", icon: '/images/worlds50best.png' },
-  { name: 'La Liste', icon: '/images/laliste.png' },
-  { name: 'James Beard', icon: '/images/jamesbeard.png' },
-  { name: 'Gault & Millau', icon: '/images/gaultmillau.png' },
-  { name: 'Relais & Châteaux', icon: '/images/relaischateaux.png' },
-  { name: 'Wine Spectator', icon: '/images/winespectator.png' },
-  { name: 'The New York Times', icon: '/images/nyt.png' },
-  { name: 'Forbes Travel Guide', icon: '/images/forbes.png' },
-  { name: 'AAA Travel', icon: '/images/aaatravel.png' },
-  { name: "Asia's 50 Best", icon: '/images/asias50best.png' },
-  { name: "North America's 50 Best", icon: '/images/nas50best.png' },
-  { name: "Latin America's 50 Best", icon: '/images/latams50best.png' },
-  { name: "MENA's 50 Best", icon: '/images/menas50best.png' },
-  { name: "World's 50 Best Bars", icon: '/images/worlds50bestbars.png' },
-  { name: 'The Washington Post', icon: '/images/washingtonpost.png' },
-  { name: 'Food & Wine', icon: '/images/foodandwine.png' },
-  { name: 'Slow Food', icon: '/images/slowfood.png' },
-  { name: 'Gambero Rosso', icon: '/images/gamberorosso.png' },
-  { name: 'Falstaff', icon: '/images/falstaff.png' },
-  { name: 'Opinionated About Dining', icon: '/images/oad.png' },
-  { name: 'The World of Fine Wine', icon: '/images/worldoffinewine.png' },
-  { name: 'DiRoNA', icon: '/images/dirona.png' },
-  { name: 'World Culinary Awards', icon: '/images/worldculinaryawards.png' },
-];
-
 const HomePage = () => {
   const navigate = useNavigate();
   const reduceMotion = useMediaQuery('(prefers-reduced-motion: reduce)');
@@ -73,6 +39,20 @@ const HomePage = () => {
 
   const go = useCallback((d) => setSlide((s) => (s + d + n) % n), [n]);
   const goto = useCallback((i) => setSlide(((i % n) + n) % n), [n]);
+
+  // Every slide sits in the viewport at opacity 0, so loading="lazy" would still
+  // fetch all ten. Mount the image only for the slide on screen and its immediate
+  // neighbours; once a slide has been armed it stays armed, so going back is instant.
+  const [armed, setArmed] = useState(() => new Set([0, 1, CAROUSEL.length - 1]));
+  useEffect(() => {
+    setArmed((prev) => {
+      const want = [slide, (slide + 1) % n, (slide - 1 + n) % n];
+      if (want.every((i) => prev.has(i))) return prev;   // no re-render when nothing new
+      const next = new Set(prev);
+      want.forEach((i) => next.add(i));
+      return next;
+    });
+  }, [slide, n]);
 
   // Auto-advance — off under reduced motion, on pause, or while a touch is down.
   useEffect(() => {
@@ -163,9 +143,26 @@ const HomePage = () => {
                   position: 'absolute', inset: 0, display: 'block', textDecoration: 'none',
                   opacity: on ? 1 : 0, pointerEvents: on ? 'auto' : 'none',
                   transition: 'opacity .9s cubic-bezier(.2,.7,.2,1)',
-                  backgroundImage: `url(${s.image})`, backgroundSize: 'cover', backgroundPosition: 'center', backgroundColor: paperDeep,
+                  backgroundColor: paperDeep,
                 }}
               >
+                {armed.has(i) && (
+                  <img
+                    src={`/images/opt/${stem(s.image)}-1600.webp`}
+                    srcSet={`/images/opt/${stem(s.image)}-1600.webp 1600w, /images/opt/${stem(s.image)}-3200.webp 3200w`}
+                    sizes="100vw"
+                    alt="" aria-hidden decoding="async"
+                    fetchpriority={i === 0 ? 'high' : 'auto'}
+                    // If a derivative is ever missing, fall back to the source PNG.
+                    onError={(e) => {
+                      if (e.currentTarget.dataset.fallback) return;
+                      e.currentTarget.dataset.fallback = '1';
+                      e.currentTarget.srcset = '';
+                      e.currentTarget.src = s.image;
+                    }}
+                    style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }}
+                  />
+                )}
                 <div aria-hidden style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to top, rgba(20,16,12,.66) 0%, rgba(20,16,12,.2) 30%, rgba(20,16,12,0) 58%)' }} />
                 <div style={{ position: 'absolute', left: 'clamp(1.5rem, 5vw, 4.5rem)', bottom: 'clamp(2rem, 6vw, 4.5rem)', color: paper, maxWidth: '620px', textShadow: '0 1px 20px rgba(0,0,0,.35)' }}>
                   <h2 style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(2.1rem, 4.4vw, 3.6rem)', lineHeight: 1.02, letterSpacing: '-.01em', margin: '0 0 .3rem' }}>{s.title}</h2>
@@ -323,7 +320,13 @@ const HomePage = () => {
             alignItems: 'center', justifyItems: 'center',
           }}>
             {LOGOS.map((l) => (
-              <img key={l.name} src={l.icon} alt={l.name} title={l.name} loading="lazy"
+              <img key={l.name} src={`/images/opt/${stem(l.icon)}-mark.webp`}
+                alt={l.name} title={l.name} loading="lazy" decoding="async"
+                onError={(e) => {
+                  if (e.currentTarget.dataset.fallback) return;
+                  e.currentTarget.dataset.fallback = '1';
+                  e.currentTarget.src = l.icon;
+                }}
                 style={{
                   height: 'clamp(28px, 3.4vw, 46px)', maxWidth: '100%',
                   objectFit: 'contain', opacity: .85, transition: 'opacity .3s ease',

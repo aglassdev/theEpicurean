@@ -7,7 +7,8 @@
     "dev": "vite",
     "convert": "node scripts/convertToJSON.js",
     "destinations": "node scripts/buildDestinations.js",
-    "build": "node scripts/convertToJSON.js && node scripts/buildDestinations.js --quiet && vite build",
+    "images": "node scripts/optimizeImages.js",
+    "build": "node scripts/convertToJSON.js && node scripts/buildDestinations.js --quiet && node scripts/optimizeImages.js --quiet && vite build",
     "build-fast": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
@@ -36,6 +37,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.4",
+    "sharp": "^0.35.4",
     "vite": "^7.1.2",
     "world-atlas": "^2.0.2"
   },
