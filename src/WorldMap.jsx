@@ -93,16 +93,76 @@ const popupHTML = (p) => {
     </div>`;
 };
 
+// ── Gazetteer ─────────────────────────────────────────────────────────
+// Places to search, built from the pins themselves so every suggestion has real
+// coordinates to fly to. The `c` and `co` fields are free text from the source
+// datasets, so entries that are plainly not place names are dropped.
+
+const isPlaceName = (v) =>
+  typeof v === 'string' &&
+  v.trim().length > 1 &&
+  /\p{L}/u.test(v) &&        // must contain a letter, so '9620' is out
+  !/^\d/.test(v.trim());
+
+function buildGazetteer(recs) {
+  const cities = new Map();
+  const countries = new Map();
+  const add = (bucket, key, label, kind, lng, lat) => {
+    let p = bucket.get(key);
+    if (!p) {
+      p = { key, label, kind, count: 0, bounds: [lng, lat, lng, lat] };
+      bucket.set(key, p);
+    }
+    p.count++;
+    const b = p.bounds;
+    if (lng < b[0]) b[0] = lng;
+    if (lat < b[1]) b[1] = lat;
+    if (lng > b[2]) b[2] = lng;
+    if (lat > b[3]) b[3] = lat;
+  };
+
+  for (const r of recs) {
+    const city = isPlaceName(r.c) ? r.c.trim() : null;
+    const country = isPlaceName(r.co) ? r.co.trim() : null;
+    if (city) {
+      add(cities, `${city.toLowerCase()}|${(country || '').toLowerCase()}`,
+        country ? `${city}, ${country}` : city, 'city', r.lng, r.lat);
+    }
+    if (country) add(countries, country.toLowerCase(), country, 'country', r.lng, r.lat);
+  }
+
+  // A city name that appears once is usually a stray label, not a destination.
+  return [...countries.values(), ...[...cities.values()].filter((c) => c.count >= 2)]
+    .sort((a, b) => b.count - a.count);
+}
+
+/** Prefix matches first, then substring, each by how many tables sit there. */
+function searchPlaces(places, raw, limit = 8) {
+  const q = raw.trim().toLowerCase();
+  if (q.length < 2) return [];
+  const starts = [];
+  const contains = [];
+  for (const p of places) {
+    const l = p.label.toLowerCase();
+    if (l.startsWith(q)) starts.push(p);
+    else if (l.includes(q)) contains.push(p);
+    if (starts.length >= limit) break;
+  }
+  return [...starts, ...contains].slice(0, limit);
+}
+
 const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', projection = 'mercator' }) => {
   const navigate = useNavigate();
   const nodeRef = useRef(null);
   const mapRef = useRef(null);
   const dataRef = useRef([]);
   const homeRef = useRef({ center: [10, 28], zoom: fullPage ? 1.85 : 1.05 });
+  const placesRef = useRef([]);
   const [status, setStatus] = useState('loading'); // loading | ready | no-data | error
-  const [total, setTotal] = useState(0);
-  const [visible, setVisible] = useState(0);
   const [query, setQuery] = useState('');
+  const [suggestions, setSuggestions] = useState([]);
+  const [highlight, setHighlight] = useState(0);
+  const [open, setOpen] = useState(false);
 
   // ── Init ─────────────────────────────────────────────────────────
   useEffect(() => {
@@ -123,9 +183,8 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
       const recs = (json.restaurants || []).filter((x) => x.lng != null && x.lat != null);
       if (!recs.length) { if (!cancelled) setStatus('no-data'); return; }
       dataRef.current = recs;
+      placesRef.current = buildGazetteer(recs);
       if (cancelled) return;
-      setTotal(recs.length);
-      setVisible(recs.length);
 
       map = new maplibregl.Map({
         container: nodeRef.current,
@@ -236,34 +295,48 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  // ── Search / filter ────────────────────────────────────────────────
-  const applyFilter = useCallback((raw) => {
+  // ── Search ─────────────────────────────────────────────────────────
+  // Searching moves the camera; it never hides pins. A reader looking up Lyon
+  // still wants to see that Vienne and Valence are an hour down the road.
+  const flyToPlace = useCallback((place) => {
     const map = mapRef.current;
-    if (!map || !map.getSource('r')) return;
-    const q = raw.trim().toLowerCase();
-    const recs = dataRef.current;
-    const subset = q
-      ? recs.filter((r) => `${r.c} ${r.co}`.toLowerCase().includes(q))
-      : recs;
-    map.getSource('r').setData(toGeo(subset));
-    setVisible(subset.length);
-
-    if (q && subset.length) {
-      const b = new maplibregl.LngLatBounds();
-      subset.slice(0, 3000).forEach((r) => b.extend([r.lng, r.lat]));
-      map.fitBounds(b, { padding: 90, maxZoom: 12, duration: 800 });
-    } else if (!q) {
-      map.easeTo({ ...homeRef.current, duration: 800 });
+    if (!map || !place) return;
+    setOpen(false);
+    setQuery(place.label);
+    const [w, s2, e, n2] = place.bounds;
+    if (w === e && s2 === n2) {
+      map.easeTo({ center: [w, s2], zoom: place.kind === 'city' ? 12 : 5, duration: 900 });
+    } else {
+      map.fitBounds([[w, s2], [e, n2]], {
+        padding: 80,
+        maxZoom: place.kind === 'city' ? 13 : 7,
+        duration: 900,
+      });
     }
   }, []);
 
   useEffect(() => {
-    const t = setTimeout(() => applyFilter(query), 220);
+    const t = setTimeout(() => setSuggestions(searchPlaces(placesRef.current, query)), 120);
     return () => clearTimeout(t);
-  }, [query, applyFilter]);
+  }, [query]);
+
+  useEffect(() => { setHighlight(0); }, [suggestions]);
+
+  const onSearchKeyDown = (e) => {
+    if (!open || !suggestions.length) {
+      if (e.key === 'ArrowDown' && suggestions.length) { setOpen(true); e.preventDefault(); }
+      return;
+    }
+    if (e.key === 'ArrowDown') { e.preventDefault(); setHighlight((h) => (h + 1) % suggestions.length); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); setHighlight((h) => (h - 1 + suggestions.length) % suggestions.length); }
+    else if (e.key === 'Enter') { e.preventDefault(); flyToPlace(suggestions[highlight]); }
+    else if (e.key === 'Escape') { setOpen(false); }
+  };
 
   const resetView = () => {
     setQuery('');
+    setSuggestions([]);
+    setOpen(false);
     const map = mapRef.current;
     if (map) map.easeTo({ ...homeRef.current, duration: 800 });
   };
@@ -288,29 +361,79 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
         <div style={{
           position: 'absolute', top: fullPage ? 24 : 16, left: fullPage ? 24 : 16,
           zIndex: 5, width: fullPage ? 340 : 300, maxWidth: 'calc(100% - 32px)',
-          background: 'rgba(250,247,240,.94)', backdropFilter: 'blur(6px)',
-          border: `1px solid ${INK}`, padding: '.7rem .9rem',
-          display: 'flex', alignItems: 'center', gap: '.6rem',
         }}>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={INK}
-            strokeWidth="1.6" strokeLinecap="round" style={{ flex: '0 0 auto' }}>
-            <circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" />
-          </svg>
-          <input
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search a city or country…"
-            style={{
-              flex: 1, minWidth: 0, background: 'transparent', border: 'none', outline: 'none',
-              fontFamily: tokens.body, fontSize: '1rem', color: INK,
-              fontStyle: 'normal',
-            }}
-          />
-          {query && (
-            <button onClick={resetView} aria-label="Clear search" style={{
-              flex: '0 0 auto', background: 'none', border: 'none', cursor: 'pointer',
-              color: GOLD, fontSize: '18px', lineHeight: 1, padding: 0,
-            }}>×</button>
+          <div style={{
+            background: 'rgba(250,247,240,.94)', backdropFilter: 'blur(6px)',
+            border: `1px solid ${INK}`, padding: '.7rem .9rem',
+            display: 'flex', alignItems: 'center', gap: '.6rem',
+          }}>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={INK}
+              strokeWidth="1.6" strokeLinecap="round" style={{ flex: '0 0 auto' }}>
+              <circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" />
+            </svg>
+            <input
+              value={query}
+              onChange={(e) => { setQuery(e.target.value); setOpen(true); }}
+              onKeyDown={onSearchKeyDown}
+              onFocus={() => setOpen(true)}
+              // Let a click on a suggestion land before the list unmounts.
+              onBlur={() => setTimeout(() => setOpen(false), 120)}
+              placeholder="Search a city or country…"
+              aria-label="Search a city or country"
+              role="combobox" aria-expanded={open && suggestions.length > 0}
+              aria-controls="epi-map-suggestions" aria-autocomplete="list"
+              aria-activedescendant={open && suggestions.length ? `epi-place-${highlight}` : undefined}
+              style={{
+                flex: 1, minWidth: 0, background: 'transparent', border: 'none', outline: 'none',
+                fontFamily: tokens.body, fontSize: '1rem', color: INK,
+                fontStyle: 'normal',
+              }}
+            />
+            {query && (
+              <button onClick={resetView} aria-label="Clear search" style={{
+                flex: '0 0 auto', background: 'none', border: 'none', cursor: 'pointer',
+                color: GOLD, fontSize: '18px', lineHeight: 1, padding: 0,
+              }}>&times;</button>
+            )}
+          </div>
+
+          {open && suggestions.length > 0 && (
+            <ul id="epi-map-suggestions" role="listbox" style={{
+              listStyle: 'none', margin: 0, padding: 0,
+              background: 'rgba(250,247,240,.98)', backdropFilter: 'blur(6px)',
+              border: `1px solid ${INK}`, borderTop: 'none',
+              maxHeight: 300, overflowY: 'auto',
+            }}>
+              {suggestions.map((p2, i) => (
+                <li key={p2.key} id={`epi-place-${i}`} role="option" aria-selected={i === highlight}>
+                  <button
+                    type="button"
+                    onMouseDown={(e) => e.preventDefault()}
+                    onMouseEnter={() => setHighlight(i)}
+                    onClick={() => flyToPlace(p2)}
+                    style={{
+                      width: '100%', textAlign: 'left', cursor: 'pointer',
+                      background: i === highlight ? 'rgba(168,130,74,.12)' : 'transparent',
+                      border: 'none', borderBottom: `1px solid ${tokens.rule}`,
+                      padding: '.6rem .9rem', display: 'flex', alignItems: 'baseline',
+                      justifyContent: 'space-between', gap: '.8rem',
+                    }}
+                  >
+                    <span style={{ fontFamily: tokens.body, fontSize: '.98rem', color: INK, minWidth: 0 }}>
+                      {p2.label}
+                    </span>
+                    <span style={{
+                      fontFamily: tokens.sans, fontSize: '9px', letterSpacing: '.2em',
+                      textTransform: 'uppercase', color: tokens.inkMute, whiteSpace: 'nowrap',
+                    }}>
+                      {p2.kind === 'country' ? 'Country' : 'City'}
+                      <span style={{ color: tokens.rule, margin: '0 .5em' }}>·</span>
+                      {p2.count.toLocaleString()}
+                    </span>
+                  </button>
+                </li>
+              ))}
+            </ul>
           )}
         </div>
       )}
