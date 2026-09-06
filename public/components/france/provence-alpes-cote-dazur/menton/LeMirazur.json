@@ -1,89 +1,24 @@
 {
-  "headerImages": [
-    "/images/geranium1.png",
-    "/images/geranium2.png"
-  ],
-  "restaurantName": "Geranium",
-  "address": "Per Henrik Lings Allé 4, 8. sal, 2100 København Ø, Denmark",
-  "cuisine": "Contemporary Nordic",
-  "priceRange": "€€€€ · Prix Fixe",
-  "phoneNumber": "+45 69 96 00 20",
-  "hours": {
-    "Monday": {
-      "lunch": "",
-      "dinner": "Closed"
-    },
-    "Tuesday": {
-      "lunch": "",
-      "dinner": "18:00 - 23:00"
-    },
-    "Thursday": {
-      "lunch": "12:00 - 15:30",
-      "dinner": "18:30 - 23:30"
-    },
-    "Friday": {
-      "lunch": "12:00 - 15:30",
-      "dinner": "18:30 - 23:30"
-    },
-    "Saturday": {
-      "lunch": "12:00 - 15:30",
-      "dinner": "18:30 - 23:30"
-    },
-    "Sunday": {
-      "lunch": "",
-      "dinner": "Closed"
-    }
-  },
-  "website": "https://geranium.dk",
-  "reservationProviders": "[\n        { type: \"direct\", name: \"Direct\", url: \"https://www.geranium.dk/en/\", logo: \"/images/geraniumbook.png\" }\n      ]",
+  "restaurantName": "Mirazur",
+  "address": "30 avenue Aristide-Briand, Menton, 06500, France",
+  "cuisine": "Creative",
+  "priceRange": "€€€€",
+  "phoneNumber": "+33492418686",
+  "website": "https://www.mirazur.fr/",
   "tags": [
     {
-      "name": "Vegetarian Friendly",
-      "iconUrl": "/images/vegetarian.png"
-    },
-    {
-      "name": "Extensive Wine List",
-      "iconUrl": "/images/wineglass.png"
+      "name": "Green Star"
     }
   ],
   "awards": [
     {
-      "name": "Three Michelin Stars",
+      "name": "Michelin Stars",
       "count": 3,
       "year": "2025",
-      "image": "/images/michelinstar.png",
       "organization": "Guide Michelin"
-    },
-    {
-      "name": "#1 World's Best Restaurant",
-      "count": "Sustainaiblity",
-      "year": "2022",
-      "image": "/images/worlds50best.png",
-      "organization": "The World's 50 Best Restaurants"
-    },
-    {
-      "name": "97.50 La Liste Score",
-      "count": "Sustainability",
-      "year": "2025",
-      "image": "/images/laliste.png",
-      "organization": "La Liste"
-    },
-    {
-      "name": "Denmark's Best Restaurant",
-      "count": "Sustainability",
-      "year": "2024",
-      "image": "/images/worldculinaryawards.png",
-      "organization": "World Culinary Awards"
-    },
-    {
-      "name": "Grand Award - Three Glasses",
-      "count": "Sustainability",
-      "year": "2025",
-      "image": "/images/threeglasses.png",
-      "organization": "Wine Spectator"
     }
   ],
-  "bio": "Geranium was the first ever Danish and Nordic three-Michelin star restaurant, recieving their first award in 2016. Located on the 8th floor of Parken Stadium, home to the Danish National Team and F.C. København, guests are treated not only to world-class cuisine but also to panoramic views over the city's expansive green spaces. Led by renowned Chef Rasmus Kofoed, a Bocuse d'Or gold medalist celebrated for his artistry and precision, the restaurant has become a global destination for modern Nordic dining. Its tasting menu offers an immersive journey through the seasons, highlighting the purity and delicacy of Scandinavian ingredients with an emphasis on vegetables, herbs, seafood, and foraged elements, all prepared with a philosophy rooted in sustainability and respect for nature. Each dish reflects Geranium's commitment to innovation and balance, creating a dining experience that is as visually striking as it is flavorful, blending contemporary technique with a deep sense of place.",
-  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2174.968779198461!2d12.569611012157047!3d55.703750995656144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465252f9c1210b01%3A0xb5b7c890c2f8d717!2sGeranium!5e1!3m2!1sen!2sus!4v1755493310623!5m2!1sen!2sus",
-  "pageTitle": "Geranium"
+  "bio": "Argentine chef Mauro Colagreco has taken up residence on the Italian border, between the mountains and the sea, in a restaurant boasting mesmerising views of the Mediterranean. His culinary creations now reflect the lunar calendar, with ingredients being gathered and dishes being concocted in accordance with the phases of the moon – an ancient practice revived by followers of biodynamic agriculture. He harvests his plants at peak ripeness to create daily alternating set menus based on realms of nature such as flowers, fruit, leaves and roots. This exacting philosophy allows the chef to get the very best from his vast vegetable gardens, as well as from his hand-picked supply of fish, shellfish and meat. Delivered by a talented kitchen team, his cuisine is in no danger of falling into routin...",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=30%20avenue%20Aristide-Briand%2C%20Menton%2C%2006500%2C%20France",
+  "pageTitle": "Mirazur"
 }
