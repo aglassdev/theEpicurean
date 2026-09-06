@@ -4,6 +4,23 @@ import { EpiPage, Rule, SmallCaps, tokens } from './EpiChrome';
 // "/images/evvai1.png" -> "evvai1", the stem optimizeImages.js writes derivatives under.
 const stem = (src) => String(src).replace(/^.*\//, '').replace(/\.[^.]+$/, '');
 
+// Hours arrive as 24-hour ranges ("11:30 - 16:00"). Reformat to 12-hour on request,
+// leaving anything that isn't a time (e.g. "Closed") exactly as written.
+const to12 = (hhmm) => {
+  const m = hhmm.match(/^(\d{1,2}):(\d{2})$/);
+  if (!m) return hhmm;
+  const h = Number(m[1]);
+  if (h > 23 || Number(m[2]) > 59) return hhmm;
+  const suffix = h < 12 ? 'am' : 'pm';
+  const h12 = h % 12 === 0 ? 12 : h % 12;
+  return `${h12}:${m[2]}${suffix}`;
+};
+
+const formatRange = (range, clock) => {
+  if (clock === 24) return range;
+  return String(range).replace(/\d{1,2}:\d{2}/g, to12);
+};
+
 const RestaurantPage = ({
   headerImages, restaurantName, address, cuisine, priceRange, phoneNumber,
   hours, website, reservationProviders, tags, awards, bio, googleMapsEmbed, pageTitle,
@@ -33,6 +50,8 @@ const RestaurantPage = ({
   const showMap = googleMapsEmbed && !googleMapsEmbed.includes('YOUR_GOOGLE_MAPS_API_KEY');
   const hasHeader = Array.isArray(headerImages) && headerImages.length > 0;
   const header = hasHeader ? headerImages.slice(0, 3) : [];
+
+  const [clock, setClock] = React.useState(24);
 
   const metaBits = [cuisine, priceRange].filter(Boolean);
 
@@ -140,16 +159,47 @@ const RestaurantPage = ({
 
             {hours && Object.keys(hours).length > 0 && (
               <div>
-                <SmallCaps>Hours</SmallCaps>
+                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '1rem' }}>
+                  <SmallCaps>Hours</SmallCaps>
+                  <div role="group" aria-label="Time format" style={{ display: 'flex', border: `1px solid ${rule}` }}>
+                    {[24, 12].map((fmt) => (
+                      <button
+                        key={fmt} type="button" onClick={() => setClock(fmt)}
+                        aria-pressed={clock === fmt}
+                        style={{
+                          fontFamily: sans, fontSize: '9.5px', letterSpacing: '.18em',
+                          textTransform: 'uppercase', cursor: 'pointer', lineHeight: 1,
+                          padding: '.42rem .55rem', border: 'none',
+                          borderLeft: fmt === 12 ? `1px solid ${rule}` : 'none',
+                          background: clock === fmt ? ink : 'transparent',
+                          color: clock === fmt ? paper : inkMute,
+                          transition: 'background .2s ease, color .2s ease',
+                        }}
+                      >
+                        {fmt}h
+                      </button>
+                    ))}
+                  </div>
+                </div>
                 <div style={{ marginTop: '.9rem', borderTop: `1px solid ${rule}` }}>
-                  {Object.entries(hours).map(([day, times]) => (
-                    <div key={day} style={{ display: 'flex', justifyContent: 'space-between', gap: '1rem', padding: '.55rem 0', borderBottom: `1px solid ${rule}` }}>
-                      <span style={{ fontFamily: sans, fontSize: '10.5px', letterSpacing: '.18em', textTransform: 'uppercase', color: ink }}>{day}</span>
-                      <span style={{ fontFamily: body, fontSize: '.98rem', color: inkSoft, textAlign: 'right' }}>
-                        {[times.lunch, times.dinner].filter(Boolean).join(' · ') || 'By enquiry'}
-                      </span>
-                    </div>
-                  ))}
+                  {Object.entries(hours).map(([day, times]) => {
+                    const spans = [times.lunch, times.dinner].filter(Boolean).map((t) => formatRange(t, clock));
+                    return (
+                      <div key={day} style={{ display: 'flex', justifyContent: 'space-between', gap: '1rem', padding: '.55rem 0', borderBottom: `1px solid ${rule}` }}>
+                        <span style={{ fontFamily: sans, fontSize: '10.5px', letterSpacing: '.18em', textTransform: 'uppercase', color: ink }}>{day}</span>
+                        <span style={{ fontFamily: body, fontSize: '.98rem', color: inkSoft, textAlign: 'right' }}>
+                          {spans.length
+                            ? spans.map((s, i) => (
+                              <React.Fragment key={i}>
+                                {i > 0 && <span style={{ color: rule, margin: '0 .5em' }}>|</span>}
+                                {s}
+                              </React.Fragment>
+                            ))
+                            : 'By enquiry'}
+                        </span>
+                      </div>
+                    );
+                  })}
                 </div>
               </div>
             )}

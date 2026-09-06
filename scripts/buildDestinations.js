@@ -153,6 +153,32 @@ const zipFromAddress = (address) => {
   return null;
 };
 
+// ── City banner artwork ──────────────────────────────────────────────────────
+// Convention: public/images/{citySlugWithoutPunctuation}header.png. A handful of
+// files were named before the convention existed, so those are mapped by hand.
+const HERO_OVERRIDES = {
+  copenhagen: 'kopenhagenheader.png',
+  'new-york': 'newyorkcityheader.png',
+  newyorkcity: 'newyorkcityheader.png',
+};
+// Keyed by "regionSlug/citySlug" where the city name alone is ambiguous.
+const HERO_OVERRIDES_BY_REGION = {
+  'dc/washington': 'washingtondcheader.png',
+  'virginia/washington': 'washingtonva.png',
+};
+
+function cityHero(regionSlug, citySlug) {
+  const candidates = [
+    HERO_OVERRIDES_BY_REGION[`${regionSlug}/${citySlug}`],
+    HERO_OVERRIDES[citySlug],
+    `${citySlug.replace(/[^a-z0-9]/g, '')}header.png`,
+  ].filter(Boolean);
+  for (const file of candidates) {
+    if (fs.existsSync(path.join(__dirname, '../public/images', file))) return `/images/${file}`;
+  }
+  return null;
+}
+
 const countryName = (slug) => COUNTRY_NAMES[slug] || titleCase(slug);
 const regionName = (countrySlug, slug) =>
   countrySlug === 'usa' ? STATE_NAMES[slug] || titleCase(slug) : titleCase(slug);
@@ -361,6 +387,9 @@ for (const place of places.values()) {
   )[0];
   const canonicalPath = `/${canonical.rel.join('/')}/restaurants`;
 
+  // One banner for the place, taken from whichever variant has artwork.
+  const hero = place.variants.map((v) => cityHero(v.regionSlug, v.citySlug)).find(Boolean) || null;
+
   for (const v of place.variants) {
     const listing = {
       title: place.city,
@@ -373,6 +402,7 @@ for (const place of places.values()) {
       path: `/${v.rel.join('/')}/restaurants`,
       canonicalPath,
       count: restaurants.length,
+      ...(hero ? { hero } : {}),
       restaurants,
     };
     fs.writeFileSync(path.join(v.dir, 'index.json'), JSON.stringify(listing, null, 2));

@@ -50,16 +50,18 @@ fs.mkdirSync(OUT, { recursive: true });
 
 const mb = (n) => (n / 1048576).toFixed(2);
 
-/** Every headerImages entry across the guide's detail pages. */
+/** Every headerImages entry on a detail page, plus every city banner. */
 function headerSources() {
   const found = new Set();
   const walk = (dir) => {
     for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
       const p = path.join(dir, e.name);
       if (e.isDirectory()) { walk(p); continue; }
-      if (!e.name.endsWith('.json') || e.name === 'index.json') continue;
+      if (!e.name.endsWith('.json')) continue;
       let d;
       try { d = JSON.parse(fs.readFileSync(p, 'utf8')); } catch { continue; }
+      // City banners live on the listing; restaurant artwork on the detail pages.
+      if (typeof d.hero === 'string' && d.hero.startsWith('/images/')) found.add(d.hero);
       for (const i of d.headerImages || []) {
         if (typeof i === 'string' && i.startsWith('/images/')) found.add(i);
       }
