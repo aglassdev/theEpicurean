@@ -27,6 +27,30 @@ export const EXCLUDED_CHAINS = [
   // The unsuffixed Puck rooms, told apart from the other CUTs by their address.
   { brand: 'CUT', site: 'wolfgangpuck.com' },
   { brand: 'CUT', site: '45-park-lane' },
+
+  // Corporate steakhouse groups. These use `prefix` because their branches are
+  // not consistently punctuated: "Mastro's City Hall", "Wolfgang's Steakhouse
+  // Grill" and "Hy's Steak House — Honolulu" carry no separable branch suffix.
+  { prefix: "Mastro's" },
+  { prefix: "Wolfgang's Steakhouse" },
+  { prefix: "Stefan's Steakhouse" },
+  { prefix: '801 Chophouse' },
+  { prefix: 'Smith & Wollensky' },
+  { prefix: "Bob's Steak & Chop House" },
+  { prefix: "Vic & Anthony's Steakhouse" },
+  { prefix: "Jeff Ruby's" },
+  { brand: 'The Precinct By Jeff Ruby' },
+  { prefix: 'Strip House' },
+  { prefix: 'Pappas Bros' },
+  // Spelt both ways; the boundary rule means one prefix cannot cover both.
+  { prefix: "Hy's Steakhouse" },
+  { prefix: "Hy's Steak House" },
+  { prefix: 'Charlie Palmer Steak' },
+  { prefix: "Joe's Seafood" },
+
+  // Volume chains.
+  { prefix: 'Sweetfin' },
+  { prefix: 'Big Bad Breakfast' },
 ];
 
 const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
@@ -41,7 +65,11 @@ export const isExcludedChain = (name, website = '') => {
   const w = String(website || '').toLowerCase();
   return EXCLUDED_CHAINS.some((rule) => {
     const brandHit = !rule.brand || norm(rule.brand) === n || norm(rule.brand) === b;
+    // A prefix must end on a word boundary, so "Strip House" cannot swallow
+    // "Strip Housely" and "Mastro's" cannot reach an unrelated "Mastrossimo".
+    const p = rule.prefix ? norm(rule.prefix) : null;
+    const prefixHit = !p || n === p || n.startsWith(`${p} `);
     const siteHit = !rule.site || w.includes(rule.site.toLowerCase());
-    return brandHit && siteHit && (rule.brand || rule.site);
+    return brandHit && prefixHit && siteHit && (rule.brand || rule.prefix || rule.site);
   });
 };

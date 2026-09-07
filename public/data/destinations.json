@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-07T15:06:09.155Z",
+  "generatedAt": "2026-09-07T15:12:29.607Z",
   "totals": {
     "countries": 62,
     "cities": 6568,
-    "restaurants": 22348,
+    "restaurants": 22346,
     "atlas": {
-      "restaurants": 28905
+      "restaurants": 28795
     }
   },
   "countries": [
@@ -3580,7 +3580,7 @@
             {
               "name": "Beijing",
               "path": "/china/beijing/beijing/restaurants",
-              "count": 114
+              "count": 113
             },
             {
               "name": "Changzhou",
@@ -3658,11 +3658,11 @@
               "count": 16
             }
           ],
-          "count": 1089
+          "count": 1088
         }
       ],
       "cityCount": 16,
-      "count": 1089
+      "count": 1088
     },
     {
       "name": "Colombia",
@@ -33778,7 +33778,7 @@
             {
               "name": "Houston",
               "path": "/usa/other/houston/restaurants",
-              "count": 38
+              "count": 37
             },
             {
               "name": "Katy",
@@ -33821,7 +33821,7 @@
               "count": 1
             }
           ],
-          "count": 143
+          "count": 142
         },
         {
           "name": "Virginia",
@@ -33841,7 +33841,7 @@
         }
       ],
       "cityCount": 279,
-      "count": 2039
+      "count": 2038
     },
     {
       "name": "Vietnam",
