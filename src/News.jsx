@@ -72,7 +72,7 @@ const News = () => {
             <article>
               <a href={href(lead)} onClick={goTo(href(lead))} className="epi-feature"
                 style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}>
-                <div className="epi-news-lead" style={{ aspectRatio: '1', overflow: 'hidden', background: paperDeep, marginBottom: '1.5rem' }}>
+                <div className="epi-news-lead" style={{ aspectRatio: '3 / 2', overflow: 'hidden', background: paperDeep, marginBottom: '1.5rem' }}>
                   <Art src={lead.image} sizes="(max-width: 860px) 100vw, 60vw" priority />
                 </div>
                 {kicker(lead)}

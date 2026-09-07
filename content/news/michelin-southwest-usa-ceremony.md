@@ -3,7 +3,7 @@ title: The Inaugural Michelin Guide Ceremony: Southwest U.S.A.
 section: awards
 date: 2026-08-28
 byline: A Glass Production
-image: /images/threestars.png
+image: /images/IMG_5188.jpg
 dek: Arizona, Nevada, New Mexico and Utah receive their first stars, and a region long read as a detour becomes a destination.
 ---
 

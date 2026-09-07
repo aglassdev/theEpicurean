@@ -150,7 +150,7 @@ const Article = () => {
                 e.currentTarget.srcset = '';
                 e.currentTarget.src = article.image;
               }}
-              style={{ width: '100%', height: '100%', objectFit: 'contain', display: 'block' }}
+              style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
             />
           </div>
         </section>

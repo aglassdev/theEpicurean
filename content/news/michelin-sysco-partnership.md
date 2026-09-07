@@ -3,7 +3,7 @@ title: Is Michelin Selling Out? Why the Sysco Partnership is a Worrying Sign for
 section: opinion
 date: 2026-08-21
 byline: A Glass Production
-image: /images/michelin.png
+image: /images/rendition.jpeg
 dek: The guide has spent a century insisting its inspectors owe nothing to anyone. A distribution deal puts that century to the test.
 ---
 
