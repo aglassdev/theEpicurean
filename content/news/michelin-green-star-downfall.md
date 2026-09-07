@@ -2,7 +2,7 @@
 title: The Bittersweet Downfall of the Michelin Green Star
 section: opinion
 date: 2026-09-02
-byline: A Glass Production
+byline: aglassdev
 image: /images/GettyImages-2219938422.webp
 dek: Six years on from its founding, the award for "sustainability" has highlighted more issues than solutions.
 ---

@@ -76,9 +76,21 @@ const geo = JSON.parse(fs.readFileSync(GEO_PATH, 'utf8'));
 const list = geo.restaurants || [];
 
 const findRoute = (name, city) => {
-  // Sources disagree about the leading article ("The Inn at Little Washington"
-  // vs InnAtLittleWashington.json), so try the name both ways.
-  const variants = [name, String(name || '').replace(/^the\s+/i, ''), `The ${name}`];
+  // Sources spell the same restaurant several ways: with or without a leading
+  // article, "&" or "and", and sometimes with the city tacked on the end
+  // ("Sushi Nakazawa Washington DC"). Try each shape before giving up.
+  const raw = String(name || '');
+  const cityWords = String(city || '').replace(/[^a-zA-Z ]/g, ' ').trim();
+  const trimmed = cityWords
+    ? raw.replace(new RegExp(`[\\s,-]+${cityWords.replace(/\s+/g, '\\s+')}(\\s+d\\.?c\\.?)?$`, 'i'), '').trim()
+    : raw;
+  const base = [raw, trimmed, raw.replace(/[\s,-]+d\.?c\.?$/i, '').trim()];
+  const variants = [];
+  for (const b of base) {
+    if (!b) continue;
+    variants.push(b, b.replace(/^the\s+/i, ''), `The ${b}`,
+      b.replace(/\s*&\s*/g, ' and '), b.replace(/\s+and\s+/gi, ' & '));
+  }
   const keys = [];
   for (const v of variants) {
     keys.push(compName(v).toLowerCase(), (compName(v) + cityAcr(city)).toLowerCase());
