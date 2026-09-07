@@ -8,13 +8,31 @@
   "citySlug": "bellagio",
   "path": "/italy/bellagio/bellagio/restaurants",
   "canonicalPath": "/italy/bellagio/bellagio/restaurants",
-  "count": 1,
+  "count": 4,
   "restaurants": [
+    {
+      "name": "Aperitivo Et Al",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/bellagio/bellagio/aperitivo-et-al"
+    },
     {
       "name": "Mistral",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/italy/bellagio/bellagio/mistral"
+    },
+    {
+      "name": "Ristorante Bilacus",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/bellagio/bellagio/ristorante-bilacus"
+    },
+    {
+      "name": "Ristorante Salice Blu",
+      "cuisine": "",
+      "price": "",
+      "path": "/italy/bellagio/bellagio/ristorante-salice-blu"
     }
   ]
 }

@@ -8,13 +8,19 @@
   "citySlug": "monterey",
   "path": "/usa/california/monterey/restaurants",
   "canonicalPath": "/usa/california/monterey/restaurants",
-  "count": 5,
+  "count": 11,
   "restaurants": [
     {
       "name": "Coastal Kitchen",
       "cuisine": "Contemporary",
       "price": "$$$$",
       "path": "/usa/california/monterey/coastal-kitchen"
+    },
+    {
+      "name": "Fandango Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/monterey/fandango-restaurant"
     },
     {
       "name": "Montrio Bistro",
@@ -29,16 +35,46 @@
       "path": "/usa/california/monterey/paprika-caf"
     },
     {
+      "name": "Pèppoli at Pebble Beach",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/monterey/pppoli-at-pebble-beach"
+    },
+    {
+      "name": "Roy's at Pebble Beach",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/monterey/roys-at-pebble-beach"
+    },
+    {
+      "name": "Stillwater Bar & Grill",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/monterey/stillwater-bar-grill"
+    },
+    {
       "name": "Stokes Adobe",
       "cuisine": "Contemporary",
       "price": "$$$",
       "path": "/usa/california/monterey/stokes-adobe"
     },
     {
+      "name": "The Bench",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/monterey/the-bench"
+    },
+    {
       "name": "The Sardine Factory",
       "cuisine": "Seafood, American",
       "price": "$$$$",
       "path": "/usa/california/monterey/the-sardine-factory"
+    },
+    {
+      "name": "The Tap Room",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/monterey/the-tap-room"
     }
   ]
 }

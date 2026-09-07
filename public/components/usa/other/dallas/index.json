@@ -7,8 +7,8 @@
   "city": "Dallas",
   "citySlug": "dallas",
   "path": "/usa/other/dallas/restaurants",
-  "canonicalPath": "/usa/other/dallas/restaurants",
-  "count": 25,
+  "canonicalPath": "/usa/texas/dallas/restaurants",
+  "count": 58,
   "restaurants": [
     {
       "name": "Mamani",
@@ -23,6 +23,30 @@
       "price": "$$$$",
       "path": "/usa/other/dallas/tatsu-dallas",
       "award": "★"
+    },
+    {
+      "name": "Al Biernat's North",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/al-biernats-north"
+    },
+    {
+      "name": "Al Biernat's Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/al-biernats-restaurant"
+    },
+    {
+      "name": "Bacchus Kitchen + Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/bacchus-kitchen-bar"
+    },
+    {
+      "name": "Bar Colette",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/bar-colette"
     },
     {
       "name": "Barsotti's",
@@ -43,6 +67,24 @@
       "path": "/usa/other/dallas/crown-block"
     },
     {
+      "name": "CRÚ Food & Wine Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/cr-food-wine-bar"
+    },
+    {
+      "name": "Dakota's Steakhouse",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/dakotas-steakhouse"
+    },
+    {
+      "name": "Dolce Riviera",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/dolce-riviera"
+    },
+    {
       "name": "El Carlos Elegante",
       "cuisine": "Mexican, Contemporary",
       "price": "$$$$",
@@ -53,6 +95,12 @@
       "cuisine": "American, Regional Cuisine",
       "price": "$$$$",
       "path": "/usa/other/dallas/fearings"
+    },
+    {
+      "name": "Fearing's Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/fearings-restaurant"
     },
     {
       "name": "Gemma",
@@ -67,10 +115,52 @@
       "path": "/usa/other/dallas/georgie"
     },
     {
+      "name": "Haywire - Dallas",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/haywire-dallas"
+    },
+    {
+      "name": "Knife — Dallas",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/knife-dallas"
+    },
+    {
+      "name": "Knife Italian Steak",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/knife-italian-steak"
+    },
+    {
       "name": "Knox Bistro",
       "cuisine": "French",
       "price": "$$$",
       "path": "/usa/other/dallas/knox-bistro"
+    },
+    {
+      "name": "Kuluntu Bakery",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/kuluntu-bakery"
+    },
+    {
+      "name": "La Casita Bakeshop",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/la-casita-bakeshop"
+    },
+    {
+      "name": "Las Almas Rotas",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/las-almas-rotas"
+    },
+    {
+      "name": "Little Blue Bistro",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/little-blue-bistro"
     },
     {
       "name": "Lucia",
@@ -79,10 +169,28 @@
       "path": "/usa/other/dallas/lucia"
     },
     {
+      "name": "MĀBO",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/mbo"
+    },
+    {
       "name": "Mercat Bistro",
       "cuisine": "French, American",
       "price": "$$$",
       "path": "/usa/other/dallas/mercat-bistro"
+    },
+    {
+      "name": "Meridian",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/meridian"
+    },
+    {
+      "name": "Midnight Rambler (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/midnight-rambler-bar"
     },
     {
       "name": "Mister Charles",
@@ -91,10 +199,22 @@
       "path": "/usa/other/dallas/mister-charles"
     },
     {
+      "name": "Molino Olōyō",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/other/dallas/molino-oly"
+    },
+    {
       "name": "Monarch",
       "cuisine": "Italian-American",
       "price": "$$$$",
       "path": "/usa/other/dallas/monarch"
+    },
+    {
+      "name": "Monarch Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/monarch-restaurant"
     },
     {
       "name": "Một Hai Ba",
@@ -115,10 +235,46 @@
       "path": "/usa/other/dallas/nonna"
     },
     {
+      "name": "Nuri Steakhouse",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/nuri-steakhouse"
+    },
+    {
+      "name": "Petra and the Beast",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/petra-and-the-beast"
+    },
+    {
+      "name": "Purépecha",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/purpecha"
+    },
+    {
       "name": "Quarter Acre",
       "cuisine": "Contemporary",
       "price": "$$$",
       "path": "/usa/other/dallas/quarter-acre"
+    },
+    {
+      "name": "Restaurant Beatrice",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/restaurant-beatrice"
+    },
+    {
+      "name": "Revolver Taco Lounge",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/revolver-taco-lounge"
+    },
+    {
+      "name": "Roots Southern Table",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/roots-southern-table"
     },
     {
       "name": "Rye",
@@ -131,6 +287,36 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
       "path": "/usa/other/dallas/sachet"
+    },
+    {
+      "name": "Sandwich Hag",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/sandwich-hag"
+    },
+    {
+      "name": "SĒR Steak + Spirits",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/sr-steak-spirits"
+    },
+    {
+      "name": "Shoyo",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/shoyo"
+    },
+    {
+      "name": "Simply South",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/simply-south"
+    },
+    {
+      "name": "Starship Bagel — Dallas",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/starship-bagel-dallas"
     },
     {
       "name": "Stillwell's",
@@ -155,6 +341,18 @@
       "cuisine": "Japanese, Soba",
       "price": "$$$$",
       "path": "/usa/other/dallas/teian"
+    },
+    {
+      "name": "The French Room",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/the-french-room"
+    },
+    {
+      "name": "The Mansion Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/dallas/the-mansion-restaurant"
     },
     {
       "name": "Written By The Seasons",

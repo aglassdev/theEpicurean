@@ -8,8 +8,20 @@
   "citySlug": "anaheim",
   "path": "/usa/other/anaheim/restaurants",
   "canonicalPath": "/usa/california/anaheim/restaurants",
-  "count": 2,
+  "count": 8,
   "restaurants": [
+    {
+      "name": "Al Baraka Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/anaheim/al-baraka-restaurant"
+    },
+    {
+      "name": "Napa Rose",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/anaheim/napa-rose"
+    },
     {
       "name": "Poppy & Seed",
       "cuisine": "Southern, American",
@@ -17,10 +29,34 @@
       "path": "/usa/california/anaheim/poppy-seed"
     },
     {
+      "name": "Roy's Restaurant — Anaheim",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/anaheim/roys-restaurant-anaheim"
+    },
+    {
+      "name": "Strong Water Anaheim",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/anaheim/strong-water-anaheim"
+    },
+    {
+      "name": "The Hobbit",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/anaheim/the-hobbit"
+    },
+    {
       "name": "The Ranch",
       "cuisine": "Steakhouse, Regional Cuisine",
       "price": "$$$",
       "path": "/usa/california/anaheim/the-ranch"
+    },
+    {
+      "name": "THE RANCH Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/anaheim/the-ranch-restaurant"
     }
   ]
 }

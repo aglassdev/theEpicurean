@@ -8,7 +8,7 @@
   "citySlug": "kyoto",
   "path": "/japan/kyoto/kyoto/restaurants",
   "canonicalPath": "/japan/kyoto/kyoto/restaurants",
-  "count": 269,
+  "count": 286,
   "restaurants": [
     {
       "name": "Gion Sasaki",
@@ -708,6 +708,12 @@
       "path": "/japan/kyoto/kyoto/akihana"
     },
     {
+      "name": "Ankyu",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/ankyu"
+    },
+    {
       "name": "Aoike",
       "cuisine": "French",
       "price": "¥¥¥",
@@ -730,6 +736,18 @@
       "cuisine": "Italian",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/ava"
+    },
+    {
+      "name": "Bar Rocking Chair",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/bar-rocking-chair"
+    },
+    {
+      "name": "Bee's Knees (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/bees-knees-bar"
     },
     {
       "name": "Benoit",
@@ -796,6 +814,12 @@
       "cuisine": "French",
       "price": "¥¥",
       "path": "/japan/kyoto/kyoto/deux-filles"
+    },
+    {
+      "name": "Doujin",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/doujin"
     },
     {
       "name": "Eitaroya",
@@ -936,6 +960,12 @@
       "path": "/japan/kyoto/kyoto/ichihana"
     },
     {
+      "name": "Iida",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/iida"
+    },
+    {
       "name": "Ikkon Uehara",
       "cuisine": "Japanese",
       "price": "¥¥",
@@ -1068,6 +1098,12 @@
       "path": "/japan/kyoto/kyoto/kikunoi-mugesambo"
     },
     {
+      "name": "Kitcho Arashiyama Honten",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/kitcho-arashiyama-honten"
+    },
+    {
       "name": "Kiyamachi Ran",
       "cuisine": "Sushi",
       "price": "¥¥¥",
@@ -1158,6 +1194,12 @@
       "path": "/japan/kyoto/kyoto/lapart-k-y-o"
     },
     {
+      "name": "La Locanda",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/la-locanda"
+    },
+    {
       "name": "Lapintaika",
       "cuisine": "Italian",
       "price": "¥¥",
@@ -1180,6 +1222,12 @@
       "cuisine": "French",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/luca"
+    },
+    {
+      "name": "Maeda",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/maeda"
     },
     {
       "name": "måne",
@@ -1266,16 +1314,34 @@
       "path": "/japan/kyoto/kyoto/muromachi-kaji"
     },
     {
+      "name": "NAKATSUKA",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/nakatsuka"
+    },
+    {
       "name": "Nijo Aritsune",
       "cuisine": "Izakaya",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/nijo-aritsune"
     },
     {
+      "name": "Nikunotakumi Miyoshi",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/nikunotakumi-miyoshi"
+    },
+    {
       "name": "Nikuryori Shibuya",
       "cuisine": "Beef",
       "price": "¥¥¥",
       "path": "/japan/kyoto/kyoto/nikuryori-shibuya"
+    },
+    {
+      "name": "Ninshurou",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/ninshurou"
     },
     {
       "name": "Niomon MUI",
@@ -1324,6 +1390,12 @@
       "cuisine": "Italian",
       "price": "¥¥",
       "path": "/japan/kyoto/kyoto/ortensia"
+    },
+    {
+      "name": "Oryori Hayashi",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/oryori-hayashi"
     },
     {
       "name": "Oryori Maeshiro",
@@ -1488,6 +1560,12 @@
       "path": "/japan/kyoto/kyoto/shuhaku"
     },
     {
+      "name": "Shunseki Suzue",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/shunseki-suzue"
+    },
+    {
       "name": "Soba Rojina",
       "cuisine": "Soba",
       "price": "¥",
@@ -1504,6 +1582,18 @@
       "cuisine": "Soba",
       "price": "¥",
       "path": "/japan/kyoto/kyoto/sonoba"
+    },
+    {
+      "name": "SoNoMa by SingleThread",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/sonoma-by-singlethread"
+    },
+    {
+      "name": "Sottaku Tsukamoto",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/sottaku-tsukamoto"
     },
     {
       "name": "Sumi Ryori Hiyori",
@@ -1554,6 +1644,12 @@
       "path": "/japan/kyoto/kyoto/taketoko"
     },
     {
+      "name": "Takeyamachi Mita",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/takeyamachi-mita"
+    },
+    {
       "name": "Takezaki",
       "cuisine": "Japanese",
       "price": "¥¥¥",
@@ -1582,6 +1678,12 @@
       "cuisine": "Tempura",
       "price": "$$",
       "path": "/japan/kyoto/kyoto/tempura-hashimoto"
+    },
+    {
+      "name": "Tempura Matsu",
+      "cuisine": "",
+      "price": "",
+      "path": "/japan/kyoto/kyoto/tempura-matsu"
     },
     {
       "name": "Tempura Mizuki",

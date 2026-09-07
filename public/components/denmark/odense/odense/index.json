@@ -8,7 +8,7 @@
   "citySlug": "odense",
   "path": "/denmark/odense/odense/restaurants",
   "canonicalPath": "/denmark/odense/odense/restaurants",
-  "count": 2,
+  "count": 4,
   "restaurants": [
     {
       "name": "ARO",
@@ -18,10 +18,22 @@
       "award": "★"
     },
     {
+      "name": "Kok & Vin",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/odense/odense/kok-vin"
+    },
+    {
       "name": "Madeleine",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
       "path": "/denmark/odense/odense/madeleine"
+    },
+    {
+      "name": "Restaurant HOS",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/odense/odense/restaurant-hos"
     }
   ]
 }

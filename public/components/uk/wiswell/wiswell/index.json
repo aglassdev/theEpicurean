@@ -8,13 +8,19 @@
   "citySlug": "wiswell",
   "path": "/uk/wiswell/wiswell/restaurants",
   "canonicalPath": "/uk/wiswell/wiswell/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "Freemasons",
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/wiswell/wiswell/freemasons"
+    },
+    {
+      "name": "Freemasons at Wiswell",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/wiswell/wiswell/freemasons-at-wiswell"
     }
   ]
 }

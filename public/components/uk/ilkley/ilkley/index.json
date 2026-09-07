@@ -8,13 +8,19 @@
   "citySlug": "ilkley",
   "path": "/uk/ilkley/ilkley/restaurants",
   "canonicalPath": "/uk/ilkley/ilkley/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "Box Tree",
       "cuisine": "Modern British",
       "price": "££££",
       "path": "/uk/ilkley/ilkley/box-tree"
+    },
+    {
+      "name": "The Box Tree Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/ilkley/ilkley/the-box-tree-restaurant"
     }
   ]
 }

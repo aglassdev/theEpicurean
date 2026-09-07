@@ -8,7 +8,7 @@
   "citySlug": "sonoma",
   "path": "/usa/other/sonoma/restaurants",
   "canonicalPath": "/usa/california/sonoma/restaurants",
-  "count": 4,
+  "count": 6,
   "restaurants": [
     {
       "name": "Enclos",
@@ -30,10 +30,22 @@
       "path": "/usa/california/sonoma/el-molino-central"
     },
     {
+      "name": "Layla at MacArthur Place",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/sonoma/layla-at-macarthur-place"
+    },
+    {
       "name": "Valley",
       "cuisine": "Californian",
       "price": "$$",
       "path": "/usa/california/sonoma/valley"
+    },
+    {
+      "name": "Wit & Wisdom",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/sonoma/wit-wisdom"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "citySlug": "maidenhead",
   "path": "/uk/maidenhead/maidenhead/restaurants",
   "canonicalPath": "/uk/maidenhead/maidenhead/restaurants",
-  "count": 2,
+  "count": 5,
   "restaurants": [
     {
       "name": "Seasonality",
@@ -17,10 +17,28 @@
       "path": "/uk/maidenhead/maidenhead/seasonality"
     },
     {
+      "name": "The Beehive Restaurant & Pub",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/maidenhead/maidenhead/the-beehive-restaurant-pub"
+    },
+    {
+      "name": "The Belgian Arms",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/maidenhead/maidenhead/the-belgian-arms"
+    },
+    {
       "name": "The Crown at Burchetts Green",
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/maidenhead/maidenhead/the-crown-at-burchetts-green"
+    },
+    {
+      "name": "The Crown Burchetts Green",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/maidenhead/maidenhead/the-crown-burchetts-green"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "citySlug": "washington",
   "path": "/usa/virginia/washington/restaurants",
   "canonicalPath": "/usa/virginia/washington/restaurants",
-  "count": 2,
+  "count": 3,
   "hero": "/images/washingtonva.png",
   "restaurants": [
     {
@@ -25,6 +25,12 @@
       "price": "$$$ · À La Carte",
       "path": "/usa/virginia/washington/patty-os-cafe",
       "image": "/images/pattyoscafe1.png"
+    },
+    {
+      "name": "The Restaurant at Blue Rock",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/virginia/washington/the-restaurant-at-blue-rock"
     }
   ]
 }

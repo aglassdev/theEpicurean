@@ -8,7 +8,7 @@
   "citySlug": "athens",
   "path": "/greece/athens/athens/restaurants",
   "canonicalPath": "/greece/athens/athens/restaurants",
-  "count": 35,
+  "count": 47,
   "restaurants": [
     {
       "name": "Delta",
@@ -107,6 +107,12 @@
       "path": "/greece/athens/athens/aleria"
     },
     {
+      "name": "Aleria Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/aleria-restaurant"
+    },
+    {
       "name": "Aneton",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
@@ -119,10 +125,46 @@
       "path": "/greece/athens/athens/annie-fine-cooking"
     },
     {
+      "name": "Argoura",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/argoura"
+    },
+    {
+      "name": "Baba au Rum (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/baba-au-rum-bar"
+    },
+    {
+      "name": "Barro Negro (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/barro-negro-bar"
+    },
+    {
+      "name": "Brutus Tavern",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/brutus-tavern"
+    },
+    {
+      "name": "Cerdo Negro",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/cerdo-negro"
+    },
+    {
       "name": "Cerdo Negro 1985",
       "cuisine": "Mediterranean Cuisine, Fusion",
       "price": "€€",
       "path": "/greece/athens/athens/cerdo-negro1985"
+    },
+    {
+      "name": "Delta Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/delta-restaurant"
     },
     {
       "name": "Dolli's",
@@ -155,10 +197,22 @@
       "path": "/greece/athens/athens/gb-roof-garden"
     },
     {
+      "name": "GB Roof Garden Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/gb-roof-garden-restaurant"
+    },
+    {
       "name": "Jerár",
       "cuisine": "International",
       "price": "€€",
       "path": "/greece/athens/athens/jerr"
+    },
+    {
+      "name": "Line Athens (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/line-athens-bar"
     },
     {
       "name": "Linou Soumpasis & Co.",
@@ -215,6 +269,18 @@
       "path": "/greece/athens/athens/simul"
     },
     {
+      "name": "The Bar in Front of the Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/the-bar-in-front-of-the-bar"
+    },
+    {
+      "name": "The Clumsies (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/the-clumsies-bar"
+    },
+    {
       "name": "Varoulko Seaside",
       "cuisine": "Seafood",
       "price": "€€€",
@@ -231,6 +297,12 @@
       "cuisine": "Grills",
       "price": "€€€",
       "path": "/greece/athens/athens/vezen"
+    },
+    {
+      "name": "WeSud",
+      "cuisine": "",
+      "price": "",
+      "path": "/greece/athens/athens/wesud"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "citySlug": "ludlow",
   "path": "/uk/ludlow/ludlow/restaurants",
   "canonicalPath": "/uk/ludlow/ludlow/restaurants",
-  "count": 3,
+  "count": 5,
   "restaurants": [
     {
       "name": "Charlton Arms",
@@ -23,10 +23,22 @@
       "path": "/uk/ludlow/ludlow/forelles"
     },
     {
+      "name": "Forelles Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/ludlow/ludlow/forelles-restaurant"
+    },
+    {
       "name": "Mortimers",
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/ludlow/ludlow/mortimers"
+    },
+    {
+      "name": "Old Downton Lodge",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/ludlow/ludlow/old-downton-lodge"
     }
   ]
 }

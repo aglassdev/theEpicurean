@@ -8,13 +8,37 @@
   "citySlug": "jackson",
   "path": "/usa/other/jackson/restaurants",
   "canonicalPath": "/usa/mississippi/jackson/restaurants",
-  "count": 3,
+  "count": 10,
   "restaurants": [
+    {
+      "name": "CAET [seafood + oysterette]",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/mississippi/jackson/caet-seafood-oysterette"
+    },
     {
       "name": "Elvie's",
       "cuisine": "French, American",
       "price": "$$$",
       "path": "/usa/mississippi/jackson/elvies"
+    },
+    {
+      "name": "Koestler Prime",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/mississippi/jackson/koestler-prime"
+    },
+    {
+      "name": "Mayflower Cafe",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/mississippi/jackson/mayflower-cafe"
+    },
+    {
+      "name": "Nissan Cafe By Nick Wallace",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/mississippi/jackson/nissan-cafe-by-nick-wallace"
     },
     {
       "name": "Pulito Osteria",
@@ -27,6 +51,24 @@
       "cuisine": "Barbecue, American",
       "price": "$$",
       "path": "/usa/mississippi/jackson/sacred-ground-barbecue"
+    },
+    {
+      "name": "Sambou’s African Kitchen",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/mississippi/jackson/sambous-african-kitchen"
+    },
+    {
+      "name": "The Manship Wood Fired Kitchen",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/mississippi/jackson/the-manship-wood-fired-kitchen"
+    },
+    {
+      "name": "Walker's Drive In",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/mississippi/jackson/walkers-drive-in"
     }
   ]
 }

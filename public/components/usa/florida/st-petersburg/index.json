@@ -8,8 +8,14 @@
   "citySlug": "st-petersburg",
   "path": "/usa/florida/st-petersburg/restaurants",
   "canonicalPath": "/usa/florida/st-petersburg/restaurants",
-  "count": 5,
+  "count": 11,
   "restaurants": [
+    {
+      "name": "Birch & Vine",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/st-petersburg/birch-vine"
+    },
     {
       "name": "Elliott Aster",
       "cuisine": "Italian Contemporary",
@@ -35,10 +41,40 @@
       "path": "/usa/florida/st-petersburg/in-between-days"
     },
     {
+      "name": "Juno & The Peacock",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/st-petersburg/juno-the-peacock"
+    },
+    {
+      "name": "Maritana Grille",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/st-petersburg/maritana-grille"
+    },
+    {
+      "name": "Rococo Steak",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/st-petersburg/rococo-steak"
+    },
+    {
+      "name": "Sea Salt — St. Pete",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/st-petersburg/sea-salt-st-pete"
+    },
+    {
       "name": "Sushi Sho Rexley",
       "cuisine": "Sushi",
       "price": "$$$$",
       "path": "/usa/florida/st-petersburg/sushi-sho-rexley"
+    },
+    {
+      "name": "Taverna Costale",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/st-petersburg/taverna-costale"
     }
   ]
 }

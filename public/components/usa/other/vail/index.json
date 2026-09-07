@@ -8,8 +8,20 @@
   "citySlug": "vail",
   "path": "/usa/other/vail/restaurants",
   "canonicalPath": "/usa/colorado/vail/restaurants",
-  "count": 2,
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Game Creek Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/colorado/vail/game-creek-restaurant"
+    },
+    {
+      "name": "La Tour Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/colorado/vail/la-tour-restaurant"
+    },
     {
       "name": "Osaki's",
       "cuisine": "Japanese, Sushi",
@@ -21,6 +33,12 @@
       "cuisine": "Fusion",
       "price": "$$$$",
       "path": "/usa/colorado/vail/sweet-basil"
+    },
+    {
+      "name": "Swiss Chalet Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/colorado/vail/swiss-chalet-restaurant"
     }
   ]
 }

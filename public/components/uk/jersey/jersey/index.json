@@ -1,0 +1,44 @@
+{
+  "title": "Jersey",
+  "country": "United Kingdom",
+  "countrySlug": "uk",
+  "region": "Channel Islands",
+  "regionSlug": "jersey",
+  "city": "Jersey",
+  "citySlug": "jersey",
+  "path": "/uk/jersey/jersey/restaurants",
+  "canonicalPath": "/uk/channel-islands/jersey/restaurants",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "Bohemia Bar & Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/jersey/jersey/bohemia-bar-restaurant"
+    },
+    {
+      "name": "Chateau La Chaire",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/channel-islands/jersey/chateau-la-chaire"
+    },
+    {
+      "name": "Grand Jersey Hotel & Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/channel-islands/jersey/grand-jersey-hotel-spa"
+    },
+    {
+      "name": "L’Horizon Beach Hotel & Spa",
+      "cuisine": "Afternoon Tea",
+      "price": "28.00",
+      "path": "/uk/channel-islands/jersey/lhorizon-beach-hotel-spa"
+    },
+    {
+      "name": "Ocean Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/jersey/jersey/ocean-restaurant"
+    }
+  ]
+}

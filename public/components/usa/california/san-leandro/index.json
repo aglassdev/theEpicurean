@@ -8,13 +8,25 @@
   "citySlug": "san-leandro",
   "path": "/usa/california/san-leandro/restaurants",
   "canonicalPath": "/usa/california/san-leandro/restaurants",
-  "count": 1,
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Paradiso Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-leandro/paradiso-restaurant"
+    },
     {
       "name": "Top Hatters Kitchen",
       "cuisine": "Contemporary, Vietnamese",
       "price": "$$",
       "path": "/usa/california/san-leandro/top-hatters-kitchen"
+    },
+    {
+      "name": "Top Hatters Kitchen and Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-leandro/top-hatters-kitchen-and-bar"
     }
   ]
 }

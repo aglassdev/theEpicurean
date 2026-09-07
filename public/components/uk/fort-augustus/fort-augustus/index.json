@@ -8,13 +8,19 @@
   "citySlug": "fort-augustus",
   "path": "/uk/fort-augustus/fort-augustus/restaurants",
   "canonicalPath": "/uk/fort-augustus/fort-augustus/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "Station Road",
       "cuisine": "Modern British",
       "price": "££££",
       "path": "/uk/fort-augustus/fort-augustus/station-road"
+    },
+    {
+      "name": "Station Road Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/fort-augustus/fort-augustus/station-road-restaurant"
     }
   ]
 }

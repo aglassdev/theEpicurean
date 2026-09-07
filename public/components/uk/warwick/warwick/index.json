@@ -8,13 +8,19 @@
   "citySlug": "warwick",
   "path": "/uk/warwick/warwick/restaurants",
   "canonicalPath": "/uk/warwick/warwick/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "Hem",
       "cuisine": "Modern Cuisine",
       "price": "£££",
       "path": "/uk/warwick/warwick/hem"
+    },
+    {
+      "name": "The Four Penny",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/warwick/warwick/the-four-penny"
     }
   ]
 }

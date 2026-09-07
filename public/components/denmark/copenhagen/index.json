@@ -8,7 +8,7 @@
   "citySlug": "copenhagen",
   "path": "/denmark/copenhagen/restaurants",
   "canonicalPath": "/denmark/copenhagen/copenhagen/restaurants",
-  "count": 78,
+  "count": 90,
   "hero": "/images/kopenhagenheader.png",
   "restaurants": [
     {
@@ -210,6 +210,12 @@
       "path": "/denmark/copenhagen/copenhagen/amalie"
     },
     {
+      "name": "Amass Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/amass-restaurant"
+    },
+    {
       "name": "Anarki",
       "cuisine": "Modern Cuisine",
       "price": "€",
@@ -228,10 +234,22 @@
       "path": "/denmark/copenhagen/copenhagen/ark"
     },
     {
+      "name": "Bæst",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/bst"
+    },
+    {
       "name": "Barr",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/denmark/copenhagen/copenhagen/barr"
+    },
+    {
+      "name": "BIRD (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/bird-bar"
     },
     {
       "name": "Bistro Lupa",
@@ -252,10 +270,22 @@
       "path": "/denmark/copenhagen/copenhagen/bobe"
     },
     {
+      "name": "Brace",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/brace"
+    },
+    {
       "name": "Calma",
       "cuisine": "Modern Cuisine",
       "price": "€",
       "path": "/denmark/copenhagen/copenhagen/calma"
+    },
+    {
+      "name": "Connection by Alan Bates",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/connection-by-alan-bates"
     },
     {
       "name": "démodé",
@@ -280,6 +310,12 @@
       "cuisine": "French",
       "price": "€",
       "path": "/denmark/copenhagen/copenhagen/gabrielle"
+    },
+    {
+      "name": "Grimal",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/grimal"
     },
     {
       "name": "Høst",
@@ -328,6 +364,12 @@
       "cuisine": "Seafood",
       "price": "$$$",
       "path": "/denmark/copenhagen/copenhagen/krogs-fiskerestaurant"
+    },
+    {
+      "name": "La Buca Degli Artisti",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/la-buca-degli-artisti"
     },
     {
       "name": "Levi",
@@ -414,6 +456,18 @@
       "path": "/denmark/copenhagen/copenhagen/restaurant-anton"
     },
     {
+      "name": "Restaurant Aure",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-aure"
+    },
+    {
+      "name": "Restaurant Barr",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-barr"
+    },
+    {
       "name": "Restaurant Frank",
       "cuisine": "Modern Cuisine, Contemporary",
       "price": "€€",
@@ -424,6 +478,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/denmark/copenhagen/copenhagen/restaurant-glassalen"
+    },
+    {
+      "name": "Restaurant Juju",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/restaurant-juju"
     },
     {
       "name": "Restaurant Kanalen",
@@ -442,6 +502,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/denmark/copenhagen/copenhagen/restaurant-vie"
+    },
+    {
+      "name": "Ruby (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/ruby-bar"
     },
     {
       "name": "Sanchez",
@@ -466,6 +532,12 @@
       "cuisine": "French",
       "price": "€",
       "path": "/denmark/copenhagen/copenhagen/rsilberbauersbistro"
+    },
+    {
+      "name": "Studio at The Standard (Standart)",
+      "cuisine": "",
+      "price": "",
+      "path": "/denmark/copenhagen/copenhagen/studio-at-the-standard-standart"
     },
     {
       "name": "Tèrra",

@@ -8,7 +8,7 @@
   "citySlug": "bray",
   "path": "/uk/england/south-east/bray/restaurants",
   "canonicalPath": "/uk/england/south-east/bray/restaurants",
-  "count": 5,
+  "count": 6,
   "hero": "/images/brayheader.png",
   "restaurants": [
     {
@@ -43,6 +43,12 @@
       "cuisine": "Modern British",
       "price": "££££",
       "path": "/uk/bray/bray/the-braywood"
+    },
+    {
+      "name": "The Crown at Bray",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/bray/bray/the-crown-at-bray"
     }
   ]
 }

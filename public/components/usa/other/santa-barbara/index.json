@@ -8,7 +8,7 @@
   "citySlug": "santa-barbara",
   "path": "/usa/other/santa-barbara/restaurants",
   "canonicalPath": "/usa/california/santa-barbara/restaurants",
-  "count": 14,
+  "count": 19,
   "restaurants": [
     {
       "name": "Silvers Omakase",
@@ -23,6 +23,12 @@
       "price": "$$$",
       "path": "/usa/california/santa-barbara/montes",
       "award": "Green Star"
+    },
+    {
+      "name": "Angel Oak",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/santa-barbara/angel-oak"
     },
     {
       "name": "Barbareño",
@@ -67,6 +73,12 @@
       "path": "/usa/california/santa-barbara/los-agaves"
     },
     {
+      "name": "Lucky's Steakhouse",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/santa-barbara/luckys-steakhouse"
+    },
+    {
       "name": "Sama Sama Kitchen",
       "cuisine": "Asian",
       "price": "$$",
@@ -79,6 +91,12 @@
       "path": "/usa/california/santa-barbara/sushi-by-scratch-restaurants-montecito"
     },
     {
+      "name": "Sushi by Scratch: Montecito",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/other/santa-barbara/sushi-by-scratch-montecito"
+    },
+    {
       "name": "The Lark",
       "cuisine": "Californian",
       "price": "$$$",
@@ -89,6 +107,18 @@
       "cuisine": "American",
       "price": "$$$$",
       "path": "/usa/california/santa-barbara/the-stonehouse"
+    },
+    {
+      "name": "The Stonehouse Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/santa-barbara/the-stonehouse-restaurant"
+    },
+    {
+      "name": "Wine Cask",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/santa-barbara/wine-cask"
     },
     {
       "name": "Yoichi’s",

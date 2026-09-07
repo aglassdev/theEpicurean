@@ -1,0 +1,51 @@
+{
+  "title": "Greenville",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "South Carolina",
+  "regionSlug": "south-carolina",
+  "city": "Greenville",
+  "citySlug": "greenville",
+  "path": "/usa/south-carolina/greenville/restaurants",
+  "canonicalPath": "/usa/other/greenville/restaurants",
+  "count": 6,
+  "restaurants": [
+    {
+      "name": "Scoundrel",
+      "cuisine": "French",
+      "price": "$$$",
+      "path": "/usa/other/greenville/scoundrel",
+      "award": "★"
+    },
+    {
+      "name": "Comal 864",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/south-carolina/greenville/comal864"
+    },
+    {
+      "name": "Jianna",
+      "cuisine": "Italian",
+      "price": "$$$",
+      "path": "/usa/other/greenville/jianna"
+    },
+    {
+      "name": "Rick Erwin's West End Grille",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/south-carolina/greenville/rick-erwins-west-end-grille"
+    },
+    {
+      "name": "Soby's",
+      "cuisine": "American",
+      "price": "$$",
+      "path": "/usa/other/greenville/sobys"
+    },
+    {
+      "name": "The Anchorage",
+      "cuisine": "American Contemporary",
+      "price": "$$$",
+      "path": "/usa/other/greenville/the-anchorage"
+    }
+  ]
+}

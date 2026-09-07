@@ -321,7 +321,18 @@ for (const dir of findCityDirs()) {
     else {
       // Not a US address at all (a handful of European towns landed here), or no
       // address to go on. Either way "Other" is not a place — drop the region.
-      const foreign = addressCountries.find((c) => c && !/^USA$/i.test(c));
+      //
+      // The tail is only a country if it reads like one. Some addresses end in a
+      // bare postcode ("163 Chico Road Pray, Montana, 59065") which would
+      // otherwise become a country called 59065.
+      // A country name carries no digits, which rules out both a bare postcode
+      // ("59065") and a state carrying one ("Arizona 86336"), and it is not itself
+      // a US state: one address ends ", RI, United States, Rhode Island".
+      const STATE_SET = new Set(Object.values(USPS).map((n) => n.toLowerCase()));
+      const looksLikeCountry = (c) =>
+        c && /^\p{L}/u.test(c.trim()) && c.trim().length > 3 && !/\d/.test(c)
+        && !STATE_SET.has(c.trim().toLowerCase());
+      const foreign = addressCountries.find((c) => !/^USA$/i.test(c) && looksLikeCountry(c));
       if (foreign) country = foreign;
       region = null;
       regionIsReal = false;

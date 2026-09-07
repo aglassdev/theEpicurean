@@ -8,13 +8,25 @@
   "citySlug": "mobile",
   "path": "/usa/other/mobile/restaurants",
   "canonicalPath": "/usa/alabama/mobile/restaurants",
-  "count": 1,
+  "count": 3,
   "restaurants": [
+    {
+      "name": "The Hummingbird Way",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/alabama/mobile/the-hummingbird-way"
+    },
     {
       "name": "The Noble South",
       "cuisine": "American",
       "price": "$$",
       "path": "/usa/alabama/mobile/the-noble-south"
+    },
+    {
+      "name": "The Trellis Room",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/alabama/mobile/the-trellis-room"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "citySlug": "miami",
   "path": "/usa/florida/miami/restaurants",
   "canonicalPath": "/usa/florida/miami/restaurants",
-  "count": 49,
+  "count": 115,
   "restaurants": [
     {
       "name": "L'Atelier de Joël Robuchon Miami",
@@ -102,10 +102,46 @@
       "award": "Bib Gourmand"
     },
     {
+      "name": "'O Munaciello",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/o-munaciello"
+    },
+    {
+      "name": "Amara at Paraiso",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/amara-at-paraiso"
+    },
+    {
+      "name": "Area 31",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/area31"
+    },
+    {
       "name": "Bachour",
       "cuisine": "Contemporary, Bakery",
       "price": "$$",
       "path": "/usa/florida/miami/bachour"
+    },
+    {
+      "name": "Bachour Restaurant & Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/bachour-restaurant-bar"
+    },
+    {
+      "name": "Bar Kaiju",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/bar-kaiju"
+    },
+    {
+      "name": "Barton G. The Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/barton-g-the-restaurant"
     },
     {
       "name": "Bistro Ocho",
@@ -114,10 +150,34 @@
       "path": "/usa/florida/miami/bistro-ocho"
     },
     {
+      "name": "Bouchon Bistro Coral Gables",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/bouchon-bistro-coral-gables"
+    },
+    {
+      "name": "Boulud Sud Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/boulud-sud-miami"
+    },
+    {
+      "name": "Bourbon Steak Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/bourbon-steak-miami"
+    },
+    {
       "name": "Brasserie Laurel",
       "cuisine": "French",
       "price": "$$$$",
       "path": "/usa/florida/miami/brasserie-laurel"
+    },
+    {
+      "name": "Broken Shaker (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/broken-shaker-bar"
     },
     {
       "name": "Cafe La Trova",
@@ -126,10 +186,76 @@
       "path": "/usa/florida/miami/cafe-la-trova"
     },
     {
+      "name": "Café La Trova (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/caf-la-trova-bar"
+    },
+    {
+      "name": "Caracas Bakery",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/caracas-bakery"
+    },
+    {
+      "name": "Carbone Vino",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/carbone-vino"
+    },
+    {
+      "name": "Casa D'Angelo - Aventura",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/casa-dangelo-aventura"
+    },
+    {
+      "name": "Casa Juancho",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/casa-juancho"
+    },
+    {
+      "name": "Casa Madera",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/casa-madera"
+    },
+    {
+      "name": "Casa Tua Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/casa-tua-miami"
+    },
+    {
+      "name": "Cecconi's Miami Beach",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/cecconis-miami-beach"
+    },
+    {
+      "name": "Champagne Bar at The Surf Club",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/champagne-bar-at-the-surf-club"
+    },
+    {
+      "name": "Chica — Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/chica-miami"
+    },
+    {
       "name": "Chug's Diner",
       "cuisine": "Cuban",
       "price": "$$",
       "path": "/usa/florida/miami/chugs-diner"
+    },
+    {
+      "name": "Contessa Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/contessa-miami"
     },
     {
       "name": "Cotoa",
@@ -138,10 +264,40 @@
       "path": "/usa/florida/miami/cotoa"
     },
     {
+      "name": "Council Oak Steaks & Seafood — Hollywood",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/council-oak-steaks-seafood-hollywood"
+    },
+    {
+      "name": "Delilah Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/delilah-miami"
+    },
+    {
+      "name": "Diplomat Prime",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/diplomat-prime"
+    },
+    {
+      "name": "Dirty French Steakhouse",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/dirty-french-steakhouse"
+    },
+    {
       "name": "Doce Provisions",
       "cuisine": "Cuban",
       "price": "$$",
       "path": "/usa/florida/miami/doce-provisions"
+    },
+    {
+      "name": "dōma",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/dma"
     },
     {
       "name": "El Turco",
@@ -150,16 +306,58 @@
       "path": "/usa/florida/miami/el-turco"
     },
     {
+      "name": "ERBA",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/erba"
+    },
+    {
+      "name": "Estiatorio Milos by Costas Spiliadis",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/estiatorio-milos-by-costas-spiliadis"
+    },
+    {
+      "name": "Ferraro's Kitchen Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/ferraros-kitchen-miami"
+    },
+    {
+      "name": "Forte dei Marmi",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/forte-dei-marmi"
+    },
+    {
       "name": "Ghee Indian Kitchen",
       "cuisine": "Indian",
       "price": "$$",
       "path": "/usa/florida/miami/ghee-indian-kitchen"
     },
     {
+      "name": "Gold Standard Omakase",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/gold-standard-omakase"
+    },
+    {
       "name": "Grand Central",
       "cuisine": "Contemporary",
       "price": "$$$",
       "path": "/usa/florida/miami/grand-central"
+    },
+    {
+      "name": "Haiku Wynwood",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/haiku-wynwood"
+    },
+    {
+      "name": "HaSalon Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/hasalon-miami"
     },
     {
       "name": "Hiyakawa Miami",
@@ -174,10 +372,34 @@
       "path": "/usa/florida/miami/hometown-barbecue-miami"
     },
     {
+      "name": "Il Mulino New York",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/il-mulino-new-york"
+    },
+    {
+      "name": "JAYA",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/jaya"
+    },
+    {
       "name": "Kaori",
       "cuisine": "Asian, Japanese",
       "price": "$$$",
       "path": "/usa/florida/miami/kaori"
+    },
+    {
+      "name": "Kiki On The River",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/kiki-on-the-river"
+    },
+    {
+      "name": "Klaw",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/klaw"
     },
     {
       "name": "Krüs Kitchen",
@@ -186,16 +408,52 @@
       "path": "/usa/florida/miami/krs-kitchen"
     },
     {
+      "name": "La Camaronera",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/la-camaronera"
+    },
+    {
+      "name": "La Leggenda",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/la-leggenda"
+    },
+    {
       "name": "La Natural",
       "cuisine": "Pizza",
       "price": "$$",
       "path": "/usa/florida/miami/la-natural"
     },
     {
+      "name": "Las' Lap Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/las-lap-miami"
+    },
+    {
+      "name": "Lido at The Surf Club",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/lido-at-the-surf-club"
+    },
+    {
+      "name": "LPM Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/lpm-miami"
+    },
+    {
       "name": "Lung Yai Thai Tapas",
       "cuisine": "Thai",
       "price": "$$",
       "path": "/usa/florida/miami/lung-yai-thai-tapas"
+    },
+    {
+      "name": "Makoto",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/makoto"
     },
     {
       "name": "Mandolin Aegean Bistro",
@@ -210,10 +468,28 @@
       "path": "/usa/florida/miami/mano-libera"
     },
     {
+      "name": "MaryGold's Florida Brasserie",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/marygolds-florida-brasserie"
+    },
+    {
+      "name": "Matador Room",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/matador-room"
+    },
+    {
       "name": "Maty's",
       "cuisine": "Peruvian, Seafood",
       "price": "$$$",
       "path": "/usa/florida/miami/matys"
+    },
+    {
+      "name": "Mi'talia Kitchen & Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/mitalia-kitchen-bar"
     },
     {
       "name": "Michael's Genuine",
@@ -222,10 +498,28 @@
       "path": "/usa/florida/miami/michaels-genuine"
     },
     {
+      "name": "Michael's Genuine Food & Drink",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/michaels-genuine-food-drink"
+    },
+    {
       "name": "Mignonette",
       "cuisine": "Seafood",
       "price": "$$$",
       "path": "/usa/florida/miami/mignonette"
+    },
+    {
+      "name": "Mirabella",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/mirabella"
+    },
+    {
+      "name": "NAOE",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/naoe"
     },
     {
       "name": "Niu Kitchen",
@@ -252,16 +546,64 @@
       "path": "/usa/florida/miami/phuc-yea"
     },
     {
+      "name": "Prime 112",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/prime112"
+    },
+    {
+      "name": "Prime 54",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/prime54"
+    },
+    {
+      "name": "Queen Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/queen-miami"
+    },
+    {
       "name": "Recoveco",
       "cuisine": "Contemporary",
       "price": "$$$$",
       "path": "/usa/florida/miami/recoveco"
     },
     {
+      "name": "Red Rooster — Overtown",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/red-rooster-overtown"
+    },
+    {
+      "name": "Rosie's",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/rosies"
+    },
+    {
       "name": "Sanguich De Miami",
       "cuisine": "Cuban",
       "price": "$$",
       "path": "/usa/florida/miami/sanguich-de-miami"
+    },
+    {
+      "name": "Smoke & Dough",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/smoke-dough"
+    },
+    {
+      "name": "Sparrow Italia",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/sparrow-italia"
+    },
+    {
+      "name": "SUGARCANE Raw Bar Grill",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/sugarcane-raw-bar-grill"
     },
     {
       "name": "Sunny’s Steakhouse",
@@ -276,16 +618,46 @@
       "path": "/usa/florida/miami/sushi-yasu-tanaka"
     },
     {
+      "name": "Sweet Liberty (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/sweet-liberty-bar"
+    },
+    {
+      "name": "Swizzle Rum Bar & Drinkery",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/swizzle-rum-bar-drinkery"
+    },
+    {
       "name": "Tam Tam",
       "cuisine": "Vietnamese",
       "price": "$$",
       "path": "/usa/florida/miami/tam-tam"
     },
     {
+      "name": "Tâm Tâm",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/tm-tm"
+    },
+    {
+      "name": "The Bazaar by Jose Andres",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/the-bazaar-by-jose-andres"
+    },
+    {
       "name": "The Gibson Room",
       "cuisine": "American",
       "price": "$$$",
       "path": "/usa/florida/miami/the-gibson-room"
+    },
+    {
+      "name": "The Surf Club Restaurant by Chef Thomas Keller",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/the-surf-club-restaurant-by-chef-thomas-keller"
     },
     {
       "name": "Torno Subito",
@@ -300,6 +672,18 @@
       "path": "/usa/florida/miami/torno-subito-miami"
     },
     {
+      "name": "Toro Toro — Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/toro-toro-miami"
+    },
+    {
+      "name": "Tur Kitchen",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/tur-kitchen"
+    },
+    {
       "name": "ViceVersa",
       "cuisine": "Pizza",
       "price": "$$$",
@@ -312,10 +696,22 @@
       "path": "/usa/florida/miami/walrus-rodeo"
     },
     {
+      "name": "Yamashiro Miami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/yamashiro-miami"
+    },
+    {
       "name": "Zak The Baker",
       "cuisine": "Bakery, American",
       "price": "$",
       "path": "/usa/florida/miami/zak-the-baker"
+    },
+    {
+      "name": "Zucca",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/florida/miami/zucca"
     }
   ]
 }

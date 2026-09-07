@@ -8,13 +8,25 @@
   "citySlug": "st-mawes",
   "path": "/uk/st-mawes/st-mawes/restaurants",
   "canonicalPath": "/uk/st-mawes/st-mawes/restaurants",
-  "count": 1,
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Hotel Tresanton",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/st-mawes/st-mawes/hotel-tresanton"
+    },
     {
       "name": "Reef Knot",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
       "path": "/uk/st-mawes/st-mawes/reef-knot"
+    },
+    {
+      "name": "The Idle Rocks",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/st-mawes/st-mawes/the-idle-rocks"
     }
   ]
 }

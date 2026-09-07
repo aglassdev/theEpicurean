@@ -8,13 +8,19 @@
   "citySlug": "truro",
   "path": "/uk/truro/truro/restaurants",
   "canonicalPath": "/uk/truro/truro/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "Petty Fours",
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/truro/truro/petty-fours"
+    },
+    {
+      "name": "The Rising Sun",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/truro/truro/the-rising-sun"
     }
   ]
 }

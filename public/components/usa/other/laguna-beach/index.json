@@ -8,7 +8,7 @@
   "citySlug": "laguna-beach",
   "path": "/usa/other/laguna-beach/restaurants",
   "canonicalPath": "/usa/california/laguna-beach/restaurants",
-  "count": 3,
+  "count": 6,
   "restaurants": [
     {
       "name": "R|O-Rebel Omakase",
@@ -16,6 +16,18 @@
       "price": "$$$$",
       "path": "/usa/california/laguna-beach/rorebel-omakase",
       "award": "★"
+    },
+    {
+      "name": "Broadway by Amar Santana",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/laguna-beach/broadway-by-amar-santana"
+    },
+    {
+      "name": "Harvest Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/laguna-beach/harvest-restaurant"
     },
     {
       "name": "Oliver's Osteria",
@@ -28,6 +40,12 @@
       "cuisine": "Steakhouse, American Contemporary",
       "price": "$$$$",
       "path": "/usa/california/laguna-beach/selanne-steak-tavern"
+    },
+    {
+      "name": "Splashes Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/laguna-beach/splashes-restaurant"
     }
   ]
 }

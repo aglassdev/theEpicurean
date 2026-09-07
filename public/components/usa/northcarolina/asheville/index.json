@@ -7,8 +7,8 @@
   "city": "Asheville",
   "citySlug": "asheville",
   "path": "/usa/northcarolina/asheville/restaurants",
-  "canonicalPath": "/usa/northcarolina/asheville/restaurants",
-  "count": 16,
+  "canonicalPath": "/usa/other/asheville/restaurants",
+  "count": 25,
   "restaurants": [
     {
       "name": "Addissae Ethiopian Restaurant",
@@ -21,6 +21,24 @@
       "cuisine": "American",
       "price": "$",
       "path": "/usa/northcarolina/asheville/all-day-darling"
+    },
+    {
+      "name": "Biltmore Estate Dining Room",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/other/asheville/biltmore-estate-dining-room"
+    },
+    {
+      "name": "Buxton Hall Barbecue",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/north-carolina/asheville/buxton-hall-barbecue"
+    },
+    {
+      "name": "Cúrate",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/north-carolina/asheville/crate"
     },
     {
       "name": "Cúrate Bar de Tapas",
@@ -65,6 +83,30 @@
       "path": "/usa/northcarolina/asheville/mother"
     },
     {
+      "name": "Nani's Piri Piri Chicken",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/north-carolina/asheville/nanis-piri-piri-chicken"
+    },
+    {
+      "name": "Neng Jr.'s",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/north-carolina/asheville/neng-jrs"
+    },
+    {
+      "name": "Old World Levain (OWL) Bakery",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/north-carolina/asheville/old-world-levain-owl-bakery"
+    },
+    {
+      "name": "Posana Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/north-carolina/asheville/posana-restaurant"
+    },
+    {
       "name": "Soprana Rooftop Cucina",
       "cuisine": "Pizza, Italian",
       "price": "$$",
@@ -105,6 +147,18 @@
       "cuisine": "Japanese, Barbecue",
       "price": "$$$",
       "path": "/usa/northcarolina/asheville/ukiah-japanese-smokehouse"
+    },
+    {
+      "name": "Vivian",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/north-carolina/asheville/vivian"
+    },
+    {
+      "name": "Vue 1913",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/north-carolina/asheville/vue1913"
     }
   ]
 }

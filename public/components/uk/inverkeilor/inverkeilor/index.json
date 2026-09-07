@@ -8,13 +8,19 @@
   "citySlug": "inverkeilor",
   "path": "/uk/inverkeilor/inverkeilor/restaurants",
   "canonicalPath": "/uk/inverkeilor/inverkeilor/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "Gordon's",
       "cuisine": "Modern Cuisine",
       "price": "££££",
       "path": "/uk/inverkeilor/inverkeilor/gordons"
+    },
+    {
+      "name": "Gordon's Restaurant with Rooms",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/inverkeilor/inverkeilor/gordons-restaurant-with-rooms"
     }
   ]
 }

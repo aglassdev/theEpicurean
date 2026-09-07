@@ -7,8 +7,8 @@
   "city": "Houston",
   "citySlug": "houston",
   "path": "/usa/other/houston/restaurants",
-  "canonicalPath": "/usa/other/houston/restaurants",
-  "count": 37,
+  "canonicalPath": "/usa/texas/houston/restaurants",
+  "count": 75,
   "restaurants": [
     {
       "name": "BCN Taste & Tradition",
@@ -52,10 +52,28 @@
       "path": "/usa/other/houston/agnes-and-sherman"
     },
     {
+      "name": "Amrina",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/amrina"
+    },
+    {
+      "name": "Andiron",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/andiron"
+    },
+    {
       "name": "Annam",
       "cuisine": "Vietnamese Contemporary",
       "price": "$$$",
       "path": "/usa/other/houston/annam"
+    },
+    {
+      "name": "Bandista Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/bandista-bar"
     },
     {
       "name": "Bar Bludorn",
@@ -70,16 +88,46 @@
       "path": "/usa/other/houston/baso"
     },
     {
+      "name": "Bayou & Bottle",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/bayou-bottle"
+    },
+    {
+      "name": "Better Luck Tomorrow",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/better-luck-tomorrow"
+    },
+    {
+      "name": "Bloom & Bee",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/bloom-bee"
+    },
+    {
       "name": "Bludorn",
       "cuisine": "American, Contemporary",
       "price": "$$$",
       "path": "/usa/other/houston/bludorn"
     },
     {
+      "name": "Brennan’s of Houston",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/brennans-of-houston"
+    },
+    {
       "name": "Brisket & Rice",
       "cuisine": "Barbecue, Asian",
       "price": "$$",
       "path": "/usa/other/houston/brisket-rice"
+    },
+    {
+      "name": "Brix Wine Cellars",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/brix-wine-cellars"
     },
     {
       "name": "Candente",
@@ -100,6 +148,12 @@
       "path": "/usa/other/houston/chpnblk"
     },
     {
+      "name": "Cochinita & Co.",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/cochinita-co"
+    },
+    {
       "name": "Credence",
       "cuisine": "American Contemporary, Steakhouse",
       "price": "$$$$",
@@ -112,16 +166,76 @@
       "path": "/usa/other/houston/da-gama-canteen"
     },
     {
+      "name": "Da Marco",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/da-marco"
+    },
+    {
+      "name": "Degust",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/degust"
+    },
+    {
+      "name": "Doris Metropolitan Houston",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/doris-metropolitan-houston"
+    },
+    {
+      "name": "East Side King — Houston",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/east-side-king-houston"
+    },
+    {
+      "name": "El Hidalguense",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/el-hidalguense"
+    },
+    {
+      "name": "El Meson",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/el-meson"
+    },
+    {
       "name": "Ema",
       "cuisine": "Mexican",
       "price": "$$",
       "path": "/usa/other/houston/ema"
     },
     {
+      "name": "Gatlin’s BBQ",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/gatlins-bbq"
+    },
+    {
+      "name": "Gatlin’s Fins & Feathers",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/gatlins-fins-feathers"
+    },
+    {
+      "name": "Georgia James",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/georgia-james"
+    },
+    {
       "name": "Hidden Omakase",
       "cuisine": "Sushi, Contemporary",
       "price": "$$$$",
       "path": "/usa/other/houston/hidden-omakase"
+    },
+    {
+      "name": "Himalaya Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/himalaya-restaurant"
     },
     {
       "name": "J-Bar-M Barbecue",
@@ -136,16 +250,52 @@
       "path": "/usa/other/houston/josephines"
     },
     {
+      "name": "Julep",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/julep"
+    },
+    {
+      "name": "JŪN",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/jn"
+    },
+    {
+      "name": "Katami",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/katami"
+    },
+    {
       "name": "Killen's",
       "cuisine": "American, Southern",
       "price": "$$",
       "path": "/usa/other/houston/killens"
     },
     {
+      "name": "Kiran's",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/kirans"
+    },
+    {
       "name": "Late August",
       "cuisine": "Southern, International",
       "price": "$$$",
       "path": "/usa/other/houston/late-august"
+    },
+    {
+      "name": "Lee's Lounge",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/lees-lounge"
+    },
+    {
+      "name": "Little’s Oyster Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/littles-oyster-bar"
     },
     {
       "name": "Mala Sichuan Bistro",
@@ -202,16 +352,58 @@
       "path": "/usa/other/houston/pinkertons-barbecue"
     },
     {
+      "name": "Quattro",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/quattro"
+    },
+    {
+      "name": "Rainbow Lodge",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/rainbow-lodge"
+    },
+    {
+      "name": "Rosalie Italian Soul",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/rosalie-italian-soul"
+    },
+    {
       "name": "Rosie Cannonball",
       "cuisine": "Contemporary, Italian",
       "price": "$$",
       "path": "/usa/other/houston/rosie-cannonball"
     },
     {
+      "name": "Soy Pinoy — Houston",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/soy-pinoy-houston"
+    },
+    {
       "name": "Street to Kitchen",
       "cuisine": "Thai",
       "price": "$$",
       "path": "/usa/other/houston/street-to-kitchen"
+    },
+    {
+      "name": "Sylvia's Enchilada Kitchen",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/sylvias-enchilada-kitchen"
+    },
+    {
+      "name": "Thai Kun —  Houston",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/thai-kun-houston"
+    },
+    {
+      "name": "The Library",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/the-library"
     },
     {
       "name": "The Marigold Club",
@@ -232,10 +424,46 @@
       "path": "/usa/other/houston/theodore-rex"
     },
     {
+      "name": "Toca Madera",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/toca-madera"
+    },
+    {
+      "name": "Tony's",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/tonys"
+    },
+    {
+      "name": "Toro Toro — Houston",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/toro-toro-houston"
+    },
+    {
       "name": "Truth BBQ",
       "cuisine": "Barbecue",
       "price": "$$",
       "path": "/usa/other/houston/truth-bbq"
+    },
+    {
+      "name": "Uchi Houston",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/uchi-houston"
+    },
+    {
+      "name": "Xochi",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/xochi"
+    },
+    {
+      "name": "Zanti Cucina Italiana",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/houston/zanti-cucina-italiana"
     }
   ]
 }

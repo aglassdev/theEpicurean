@@ -8,13 +8,19 @@
   "citySlug": "st-davids",
   "path": "/uk/st-davids/st-davids/restaurants",
   "canonicalPath": "/uk/st-davids/st-davids/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "Blas",
       "cuisine": "Modern Cuisine",
       "price": "££",
       "path": "/uk/st-davids/st-davids/blas"
+    },
+    {
+      "name": "Blas Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/st-davids/st-davids/blas-restaurant"
     }
   ]
 }

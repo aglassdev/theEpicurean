@@ -8,7 +8,7 @@
   "citySlug": "oslo",
   "path": "/norway/oslo/oslo/restaurants",
   "canonicalPath": "/norway/oslo/oslo/restaurants",
-  "count": 33,
+  "count": 50,
   "restaurants": [
     {
       "name": "Maaemo",
@@ -95,6 +95,12 @@
       "award": "★"
     },
     {
+      "name": "Ambassaden",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/ambassaden"
+    },
+    {
       "name": "Arakataka",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -123,6 +129,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/norway/oslo/oslo/brasserie-hansken"
+    },
+    {
+      "name": "Bristol Grill",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/bristol-grill"
     },
     {
       "name": "Cru",
@@ -155,16 +167,40 @@
       "path": "/norway/oslo/oslo/frances-vinbar"
     },
     {
+      "name": "Frognerseteren",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/frognerseteren"
+    },
+    {
       "name": "FYR Bistronomi & Bar",
       "cuisine": "Modern Cuisine",
       "price": "€",
       "path": "/norway/oslo/oslo/fyr-bistronomi-bar"
     },
     {
+      "name": "Himkok (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/himkok-bar"
+    },
+    {
       "name": "Izakaya by Vladimir Pak",
       "cuisine": "Japanese",
       "price": "$$",
       "path": "/norway/oslo/oslo/izakaya-by-vladimir-pak"
+    },
+    {
+      "name": "J2 Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/j2-restaurant"
+    },
+    {
+      "name": "Kastellet",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/kastellet"
     },
     {
       "name": "Kolonialen Bislett",
@@ -179,10 +215,34 @@
       "path": "/norway/oslo/oslo/madonna"
     },
     {
+      "name": "Norda — Oslo",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/norda-oslo"
+    },
+    {
       "name": "Plah",
       "cuisine": "Thai",
       "price": "€€€€",
       "path": "/norway/oslo/oslo/plah"
+    },
+    {
+      "name": "Plah Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/plah-restaurant"
+    },
+    {
+      "name": "Restaurant Eik",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/restaurant-eik"
+    },
+    {
+      "name": "Restaurant Eik Annen Etage",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/restaurant-eik-annen-etage"
     },
     {
       "name": "Sjømagasinet",
@@ -203,6 +263,24 @@
       "path": "/norway/oslo/oslo/statholderens-mat-og-vinkjeller"
     },
     {
+      "name": "SVANEN (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/svanen-bar"
+    },
+    {
+      "name": "Teatro",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/teatro"
+    },
+    {
+      "name": "Territoriet",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/territoriet"
+    },
+    {
       "name": "The Little Pickle",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
@@ -219,6 +297,30 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
       "path": "/norway/oslo/oslo/varemottaket"
+    },
+    {
+      "name": "VIN Bjørvika",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/vin-bjrvika"
+    },
+    {
+      "name": "VIN Tjuvholmen",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/vin-tjuvholmen"
+    },
+    {
+      "name": "Vinland Brasserie",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/vinland-brasserie"
+    },
+    {
+      "name": "Vintage Kitchen",
+      "cuisine": "",
+      "price": "",
+      "path": "/norway/oslo/oslo/vintage-kitchen"
     }
   ]
 }

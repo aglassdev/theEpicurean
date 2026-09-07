@@ -8,8 +8,14 @@
   "citySlug": "jersey",
   "path": "/uk/channel-islands/jersey/restaurants",
   "canonicalPath": "/uk/channel-islands/jersey/restaurants",
-  "count": 3,
+  "count": 5,
   "restaurants": [
+    {
+      "name": "Bohemia Bar & Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/jersey/jersey/bohemia-bar-restaurant"
+    },
     {
       "name": "Chateau La Chaire",
       "cuisine": "Afternoon Tea",
@@ -27,6 +33,12 @@
       "cuisine": "Afternoon Tea",
       "price": "28.00",
       "path": "/uk/channel-islands/jersey/lhorizon-beach-hotel-spa"
+    },
+    {
+      "name": "Ocean Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/jersey/jersey/ocean-restaurant"
     }
   ]
 }

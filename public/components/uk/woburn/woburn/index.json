@@ -8,13 +8,19 @@
   "citySlug": "woburn",
   "path": "/uk/woburn/woburn/restaurants",
   "canonicalPath": "/uk/woburn/woburn/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "Paris House",
       "cuisine": "Modern Cuisine",
       "price": "££££",
       "path": "/uk/woburn/woburn/paris-house"
+    },
+    {
+      "name": "Paris House Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/woburn/woburn/paris-house-restaurant"
     }
   ]
 }

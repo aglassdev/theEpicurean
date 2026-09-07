@@ -1,0 +1,32 @@
+{
+  "title": "Rye",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "New York",
+  "regionSlug": "new-york",
+  "city": "Rye",
+  "citySlug": "rye",
+  "path": "/usa/new-york/rye/restaurants",
+  "canonicalPath": "/usa/newyork/rye/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Ocean Blue Prime",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/new-york/rye/ocean-blue-prime"
+    },
+    {
+      "name": "OKO Rye",
+      "cuisine": "Asian, Japanese",
+      "price": "$$$",
+      "path": "/usa/newyork/rye/oko-rye"
+    },
+    {
+      "name": "Rafele Rye",
+      "cuisine": "Italian, Italian-American",
+      "price": "$$",
+      "path": "/usa/newyork/rye/rafele-rye"
+    }
+  ]
+}

@@ -8,13 +8,19 @@
   "citySlug": "taunton",
   "path": "/uk/taunton/taunton/restaurants",
   "canonicalPath": "/uk/taunton/taunton/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "Augustus",
       "cuisine": "Modern British",
       "price": "££",
       "path": "/uk/taunton/taunton/augustus"
+    },
+    {
+      "name": "The Bittescombe Inn",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/taunton/taunton/the-bittescombe-inn"
     }
   ]
 }

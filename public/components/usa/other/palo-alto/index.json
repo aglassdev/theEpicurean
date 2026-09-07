@@ -8,7 +8,7 @@
   "citySlug": "palo-alto",
   "path": "/usa/other/palo-alto/restaurants",
   "canonicalPath": "/usa/california/palo-alto/restaurants",
-  "count": 8,
+  "count": 12,
   "restaurants": [
     {
       "name": "Protégé",
@@ -16,6 +16,12 @@
       "price": "$$$$",
       "path": "/usa/california/palo-alto/protg",
       "award": "★"
+    },
+    {
+      "name": "Bird Dog",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/palo-alto/bird-dog"
     },
     {
       "name": "Ethel's Fancy",
@@ -42,10 +48,28 @@
       "path": "/usa/california/palo-alto/italico"
     },
     {
+      "name": "Quattro Restaurant & Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/palo-alto/quattro-restaurant-bar"
+    },
+    {
+      "name": "Sundance The Steakhouse",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/palo-alto/sundance-the-steakhouse"
+    },
+    {
       "name": "Tamarine",
       "cuisine": "Vietnamese, Contemporary",
       "price": "$$$",
       "path": "/usa/california/palo-alto/tamarine"
+    },
+    {
+      "name": "The Sea by Alexander's Steakhouse",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/palo-alto/the-sea-by-alexanders-steakhouse"
     },
     {
       "name": "Vina Enoteca",

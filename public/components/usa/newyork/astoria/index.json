@@ -7,9 +7,15 @@
   "city": "Astoria",
   "citySlug": "astoria",
   "path": "/usa/newyork/astoria/restaurants",
-  "canonicalPath": "/usa/newyork/astoria/restaurants",
-  "count": 1,
+  "canonicalPath": "/usa/new-york/astoria/restaurants",
+  "count": 2,
   "restaurants": [
+    {
+      "name": "SANFORD'S",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/new-york/astoria/sanfords"
+    },
     {
       "name": "Taverna Kyclades",
       "cuisine": "Greek",

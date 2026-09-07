@@ -7,14 +7,20 @@
   "city": "Katy",
   "citySlug": "katy",
   "path": "/usa/other/katy/restaurants",
-  "canonicalPath": "/usa/other/katy/restaurants",
-  "count": 1,
+  "canonicalPath": "/usa/texas/katy/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Hong Kong Food Street",
       "cuisine": "Chinese",
       "price": "$$",
       "path": "/usa/other/katy/hong-kong-food-street"
+    },
+    {
+      "name": "Phat Eatery",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/texas/katy/phat-eatery"
     }
   ]
 }

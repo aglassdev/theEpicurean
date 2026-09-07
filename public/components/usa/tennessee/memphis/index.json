@@ -7,14 +7,20 @@
   "city": "Memphis",
   "citySlug": "memphis",
   "path": "/usa/tennessee/memphis/restaurants",
-  "canonicalPath": "/usa/other/memphis/restaurants",
-  "count": 4,
+  "canonicalPath": "/usa/tennessee/memphis/restaurants",
+  "count": 7,
   "restaurants": [
     {
       "name": "Andrew Michael Italian Kitchen",
       "cuisine": "Italian-American",
       "price": "$$$",
       "path": "/usa/other/memphis/andrew-michael-italian-kitchen"
+    },
+    {
+      "name": "Curfew",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/tennessee/memphis/curfew"
     },
     {
       "name": "Felicia Suzanne's",
@@ -29,10 +35,22 @@
       "path": "/usa/other/memphis/hog-hominy"
     },
     {
+      "name": "Phillip Ashley Chocolates",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/tennessee/memphis/phillip-ashley-chocolates"
+    },
+    {
       "name": "The Lobbyist",
       "cuisine": "Fusion",
       "price": "$$$",
       "path": "/usa/other/memphis/the-lobbyist"
+    },
+    {
+      "name": "Tiger & Peacock (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/tennessee/memphis/tiger-peacock-bar"
     }
   ]
 }

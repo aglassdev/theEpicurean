@@ -8,7 +8,7 @@
   "citySlug": "san-diego",
   "path": "/usa/other/san-diego/restaurants",
   "canonicalPath": "/usa/california/san-diego/restaurants",
-  "count": 30,
+  "count": 64,
   "restaurants": [
     {
       "name": "Addison",
@@ -31,10 +31,22 @@
       "path": "/usa/california/san-diego/animae"
     },
     {
+      "name": "Argyle Steakhouse",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/argyle-steakhouse"
+    },
+    {
       "name": "Artifact at Mingei",
       "cuisine": "International, Contemporary",
       "price": "$$",
       "path": "/usa/california/san-diego/artifact-at-mingei"
+    },
+    {
+      "name": "Beginner’s Diner",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/beginners-diner"
     },
     {
       "name": "Born & Raised",
@@ -47,6 +59,12 @@
       "cuisine": "Mediterranean Cuisine, Middle Eastern",
       "price": "$$",
       "path": "/usa/california/san-diego/callie"
+    },
+    {
+      "name": "Cellar Hand",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/cellar-hand"
     },
     {
       "name": "Cesarina",
@@ -73,6 +91,18 @@
       "path": "/usa/california/san-diego/coasterra"
     },
     {
+      "name": "Communion Mission Hills",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/communion-mission-hills"
+    },
+    {
+      "name": "Cowboy Star Restaurant and Butcher Shop",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/cowboy-star-restaurant-and-butcher-shop"
+    },
+    {
       "name": "Craft & Commerce",
       "cuisine": "American",
       "price": "$$",
@@ -85,16 +115,46 @@
       "path": "/usa/california/san-diego/cucina-urbana"
     },
     {
+      "name": "Dora Ristorante",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/dora-ristorante"
+    },
+    {
+      "name": "Ember & Rye",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/ember-rye"
+    },
+    {
+      "name": "Fleurette",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/fleurette"
+    },
+    {
       "name": "Fort Oak",
       "cuisine": "Steakhouse, American",
       "price": "$$$$",
       "path": "/usa/california/san-diego/fort-oak"
     },
     {
+      "name": "George's at the Cove",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/georges-at-the-cove"
+    },
+    {
       "name": "Great Maple",
       "cuisine": "American",
       "price": "$",
       "path": "/usa/california/san-diego/great-maple"
+    },
+    {
+      "name": "Herb & Sea",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/herb-sea"
     },
     {
       "name": "Herb & Wood",
@@ -107,6 +167,18 @@
       "cuisine": "Japanese, Sushi",
       "price": "$$$",
       "path": "/usa/california/san-diego/hidden-fish"
+    },
+    {
+      "name": "Island Prime",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/island-prime"
+    },
+    {
+      "name": "Juan Jasper Kitchen + Wine",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/juan-jasper-kitchen-wine"
     },
     {
       "name": "Juniper & Ivy",
@@ -127,6 +199,12 @@
       "path": "/usa/california/san-diego/kingfisher"
     },
     {
+      "name": "Leu Leu",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/leu-leu"
+    },
+    {
       "name": "LOLA 55",
       "cuisine": "Mexican",
       "price": "$",
@@ -139,10 +217,28 @@
       "path": "/usa/california/san-diego/mabels-gone-fishing"
     },
     {
+      "name": "Matsu",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/matsu"
+    },
+    {
       "name": "Menya Ultra",
       "cuisine": "Japanese, Ramen",
       "price": "$$",
       "path": "/usa/california/san-diego/menya-ultra"
+    },
+    {
+      "name": "Mille Fleurs",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/mille-fleurs"
+    },
+    {
+      "name": "Mister A's",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/mister-as"
     },
     {
       "name": "Morning Glory",
@@ -151,10 +247,58 @@
       "path": "/usa/california/san-diego/morning-glory"
     },
     {
+      "name": "NINE-TEN Restaurant & Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/nineten-restaurant-bar"
+    },
+    {
+      "name": "Paon Restaurant & Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/paon-restaurant-bar"
+    },
+    {
       "name": "Paradisaea",
       "cuisine": "Californian, Contemporary",
       "price": "$$$$",
       "path": "/usa/california/san-diego/paradisaea"
+    },
+    {
+      "name": "Polo Steakhouse",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/polo-steakhouse"
+    },
+    {
+      "name": "Ponto Lago",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/ponto-lago"
+    },
+    {
+      "name": "Raised by Wolves (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/raised-by-wolves-bar"
+    },
+    {
+      "name": "Realm of the 52 Remedies",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/realm-of-the52-remedies"
+    },
+    {
+      "name": "ROSEACRE",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/roseacre"
+    },
+    {
+      "name": "Roy's Restaurant — San Diego",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/roys-restaurant-san-diego"
     },
     {
       "name": "Siamo Napoli",
@@ -169,10 +313,22 @@
       "path": "/usa/california/san-diego/solare"
     },
     {
+      "name": "Solare Ristorante",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/solare-ristorante"
+    },
+    {
       "name": "Sovereign",
       "cuisine": "Thai, Lao",
       "price": "$",
       "path": "/usa/california/san-diego/sovereign"
+    },
+    {
+      "name": "Stake Chophouse & Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/stake-chophouse-bar"
     },
     {
       "name": "Sushi Tadokoro",
@@ -187,10 +343,58 @@
       "path": "/usa/california/san-diego/the-fishery"
     },
     {
+      "name": "The Grant Grill",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/the-grant-grill"
+    },
+    {
+      "name": "The Marine Room",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/the-marine-room"
+    },
+    {
+      "name": "The Pony Room",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/the-pony-room"
+    },
+    {
+      "name": "The WineSellar & Brasserie",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/the-winesellar-brasserie"
+    },
+    {
       "name": "Trust",
       "cuisine": "American, International",
       "price": "$$$",
       "path": "/usa/california/san-diego/trust"
+    },
+    {
+      "name": "VAGA",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/vaga"
+    },
+    {
+      "name": "Veladora Coastal Ranch",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/veladora-coastal-ranch"
+    },
+    {
+      "name": "Warung RieRie",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/warung-rierie"
+    },
+    {
+      "name": "Young Blood (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/california/san-diego/young-blood-bar"
     }
   ]
 }

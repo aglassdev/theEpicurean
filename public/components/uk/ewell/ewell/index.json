@@ -8,13 +8,19 @@
   "citySlug": "ewell",
   "path": "/uk/ewell/ewell/restaurants",
   "canonicalPath": "/uk/ewell/ewell/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "Dastaan",
       "cuisine": "Indian",
       "price": "££",
       "path": "/uk/ewell/ewell/dastaan"
+    },
+    {
+      "name": "The Rambling Pig",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/ewell/ewell/the-rambling-pig"
     }
   ]
 }

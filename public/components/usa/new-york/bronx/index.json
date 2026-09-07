@@ -1,0 +1,56 @@
+{
+  "title": "Bronx",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": "New York",
+  "regionSlug": "new-york",
+  "city": "Bronx",
+  "citySlug": "bronx",
+  "path": "/usa/new-york/bronx/restaurants",
+  "canonicalPath": "/usa/newyork/bronx/restaurants",
+  "count": 7,
+  "restaurants": [
+    {
+      "name": "Archie's Tap & Table",
+      "cuisine": "American, Contemporary",
+      "price": "$$",
+      "path": "/usa/newyork/bronx/archies-tap-table"
+    },
+    {
+      "name": "Çka Ka Qëllu",
+      "cuisine": "Balkan, Country cooking",
+      "price": "$$",
+      "path": "/usa/newyork/bronx/ka-ka-qllu"
+    },
+    {
+      "name": "La Morada",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/new-york/bronx/la-morada"
+    },
+    {
+      "name": "Patricia’s",
+      "cuisine": "Italian-American, Italian",
+      "price": "$$$",
+      "path": "/usa/newyork/bronx/patricias"
+    },
+    {
+      "name": "Seis Vecinos",
+      "cuisine": "Latin American, Regional Cuisine",
+      "price": "$$",
+      "path": "/usa/newyork/bronx/seis-vecinos"
+    },
+    {
+      "name": "Tobalá",
+      "cuisine": "Mexican, Regional Cuisine",
+      "price": "$$$",
+      "path": "/usa/newyork/bronx/tobal"
+    },
+    {
+      "name": "Tra Di Noi",
+      "cuisine": "Italian, Italian-American",
+      "price": "$$",
+      "path": "/usa/newyork/bronx/tra-di-noi"
+    }
+  ]
+}

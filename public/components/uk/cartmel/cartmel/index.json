@@ -8,7 +8,7 @@
   "citySlug": "cartmel",
   "path": "/uk/cartmel/cartmel/restaurants",
   "canonicalPath": "/uk/cartmel/cartmel/restaurants",
-  "count": 2,
+  "count": 3,
   "restaurants": [
     {
       "name": "L'Enclume",
@@ -23,6 +23,12 @@
       "price": "££££",
       "path": "/uk/cartmel/cartmel/rogan-co",
       "award": "★"
+    },
+    {
+      "name": "Aulis at L'Enclume",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/cartmel/cartmel/aulis-at-lenclume"
     }
   ]
 }
