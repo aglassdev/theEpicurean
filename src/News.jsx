@@ -1,7 +1,7 @@
-import React, { useEffect, useMemo } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { EpiPage, EpiPageHeader, Rule, tokens } from './EpiChrome';
-import { frontPage, sectionName } from './articles';
+import { loadDesk, frontPage, sectionName } from './articles';
 
 const { ink, inkSoft, inkMute, paperDeep, rule, goldDeep, serif, body, sans } = tokens;
 
@@ -31,16 +31,27 @@ const Art = ({ src, alt = '', sizes, priority = false }) => (
 
 const News = () => {
   const navigate = useNavigate();
-  const { lead, columns, rest } = useMemo(frontPage, []);
+  const [desk, setDesk] = useState(null);
 
   useEffect(() => { document.title = 'News · The Epicurean'; }, []);
+
+  useEffect(() => {
+    let live = true;
+    loadDesk().then((d) => { if (live) setDesk(d); });
+    return () => { live = false; };
+  }, []);
+
+  const { lead, columns, rest } = useMemo(
+    () => (desk ? frontPage(desk) : { lead: null, columns: [], rest: [] }),
+    [desk]
+  );
 
   const goTo = (p) => (e) => { e.preventDefault(); navigate(p); };
   const href = (a) => `/news/${a.slug}`;
 
   const kicker = (a) => (
     <span style={{ fontFamily: sans, fontSize: '10px', letterSpacing: '.28em', textTransform: 'uppercase', color: goldDeep }}>
-      {sectionName(a.section)}
+      {sectionName(desk?.sections || [], a.section)}
       <span style={{ color: rule, margin: '0 .6em' }}>·</span>
       <span style={{ color: inkMute }}>{longDate(a.date)}</span>
     </span>
@@ -125,7 +136,7 @@ const News = () => {
                       {a.title}
                     </span>
                     <span style={{ fontFamily: sans, fontSize: '10px', letterSpacing: '.26em', textTransform: 'uppercase', color: inkMute, whiteSpace: 'nowrap' }}>
-                      {sectionName(a.section)}
+                      {sectionName(desk?.sections || [], a.section)}
                       <span style={{ color: rule, margin: '0 .6em' }}>·</span>
                       {longDate(a.date)}
                     </span>
@@ -137,7 +148,7 @@ const News = () => {
                   borderBottom: `1px solid ${rule}`, color: ink,
                 };
                 // Only the pieces that have been written link anywhere.
-                return a.body ? (
+                return a.html ? (
                   <a key={a.slug} href={href(a)} onClick={goTo(href(a))}
                     style={{ ...style, textDecoration: 'none', transition: 'color .25s ease' }}
                     onMouseEnter={(e) => { e.currentTarget.style.color = tokens.gold; }}

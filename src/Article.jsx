@@ -1,7 +1,7 @@
-import React, { useEffect, useMemo } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { EpiPage, Rule, SmallCaps, tokens } from './EpiChrome';
-import { findArticle, byDate, ARTICLES, sectionName } from './articles';
+import { loadDesk, sectionName } from './articles';
 
 const { ink, inkSoft, inkMute, paper, paperDeep, rule, gold, goldDeep, serif, body, sans } = tokens;
 
@@ -12,37 +12,90 @@ const longDate = (iso) =>
     day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC',
   });
 
+/**
+ * Styling for the Markdown a writer produces. Kept here so content/news/*.md can
+ * use ordinary headings, quotes, lists and links without knowing anything about
+ * the design system.
+ */
+const injectProseStyles = () => {
+  if (document.getElementById('epi-prose-styles')) return;
+  const s = document.createElement('style');
+  s.id = 'epi-prose-styles';
+  s.innerHTML = `
+    .epi-prose { font-family: ${body}; font-size: clamp(1.12rem, 1.5vw, 1.24rem); line-height: 1.78; color: ${inkSoft}; }
+    .epi-prose > p:first-of-type::first-letter {
+      font-family: ${serif}; font-size: 4.2rem; float: left; line-height: .72;
+      padding-right: .5rem; padding-top: .4rem; color: ${ink}; font-weight: 500;
+    }
+    .epi-prose p { margin: 0 0 1.5rem; }
+    .epi-prose h2 { font-family: ${serif}; font-weight: 500; font-size: clamp(1.5rem, 2.4vw, 2rem);
+      line-height: 1.14; letter-spacing: -.01em; color: ${ink}; margin: 2.6rem 0 1rem; }
+    .epi-prose h3 { font-family: ${serif}; font-weight: 500; font-size: clamp(1.25rem, 1.8vw, 1.5rem);
+      color: ${ink}; margin: 2.1rem 0 .8rem; }
+    .epi-prose a { color: ${goldDeep}; text-decoration: none; border-bottom: 1px solid ${rule}; }
+    .epi-prose a:hover { border-bottom-color: ${gold}; }
+    .epi-prose strong { font-weight: 600; color: ${ink}; }
+    .epi-prose blockquote { margin: 2rem 0; padding: 0 0 0 1.6rem; border-left: 2px solid ${gold};
+      font-family: ${serif}; font-size: clamp(1.3rem, 2vw, 1.65rem); line-height: 1.35; color: ${ink}; }
+    .epi-prose blockquote p { margin: 0; }
+    .epi-prose ul, .epi-prose ol { margin: 0 0 1.5rem; padding-left: 1.3rem; }
+    .epi-prose li { margin: .4rem 0; }
+    .epi-prose img { width: 100%; height: auto; display: block; margin: 2rem 0; }
+    .epi-prose hr { border: none; border-top: 1px solid ${rule}; margin: 2.6rem 0; }
+  `;
+  document.head.appendChild(s);
+};
+
 const Article = () => {
   const { slug } = useParams();
   const navigate = useNavigate();
-  const article = findArticle(slug);
+  const [desk, setDesk] = useState(null);
 
+  useEffect(() => { injectProseStyles(); }, []);
   useEffect(() => {
-    document.title = article ? `${article.title} · The Epicurean` : 'News · The Epicurean';
-  }, [article]);
-
+    let live = true;
+    loadDesk().then((d) => { if (live) setDesk(d); });
+    return () => { live = false; };
+  }, []);
   useEffect(() => { window.scrollTo(0, 0); }, [slug]);
 
-  // More from the same desk, newest first.
+  const article = useMemo(
+    () => desk?.written.find((a) => a.slug === slug) || null,
+    [desk, slug]
+  );
+
+  useEffect(() => {
+    if (desk) document.title = article ? `${article.title} · The Epicurean` : 'News · The Epicurean';
+  }, [desk, article]);
+
   const related = useMemo(() => {
-    if (!article) return [];
-    return byDate(ARTICLES)
-      .filter((a) => a.section === article.section && a.slug !== article.slug && a.body)
+    if (!desk || !article) return [];
+    return desk.written
+      .filter((a) => a.section === article.section && a.slug !== article.slug)
       .slice(0, 3);
-  }, [article]);
+  }, [desk, article]);
 
   const goTo = (p) => (e) => { e.preventDefault(); navigate(p); };
 
-  if (!article || !article.body) {
+  if (!desk) {
+    return (
+      <EpiPage active="news">
+        <div style={{ minHeight: '52vh', display: 'flex', alignItems: 'center', justifyContent: 'center',
+          fontFamily: serif, fontSize: '1.3rem', color: gold }}>Setting the table…</div>
+      </EpiPage>
+    );
+  }
+
+  if (!article) {
     const link = { fontFamily: sans, fontSize: '11px', letterSpacing: '.28em', textTransform: 'uppercase', textDecoration: 'none', padding: '13px 22px' };
     return (
       <EpiPage active="news">
         <section style={{ minHeight: '52vh', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', textAlign: 'center', padding: 'clamp(4rem, 10vw, 8rem) 2.5rem' }}>
           <h1 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(1.8rem, 3.5vw, 2.8rem)', letterSpacing: '-.015em', color: ink, margin: '0 0 .75rem' }}>
-            {article ? 'This piece hasn’t been filed yet.' : 'We couldn’t find that dispatch.'}
+            We couldn’t find that dispatch.
           </h1>
           <p style={{ fontFamily: body, fontSize: '1.1rem', color: inkSoft, maxWidth: '520px', lineHeight: 1.6, margin: '0 0 2.25rem' }}>
-            {article ? article.title : 'It may have moved, or never existed.'}
+            It may not have been written yet.
           </p>
           <a href="/news" onClick={goTo('/news')} style={{ ...link, color: paper, background: ink }}>All news</a>
         </section>
@@ -52,7 +105,6 @@ const Article = () => {
 
   return (
     <EpiPage active="news">
-      {/* Masthead */}
       <section style={{ maxWidth: '820px', margin: '0 auto', padding: 'clamp(3rem, 6vw, 5rem) 2.5rem 0' }}>
         <nav aria-label="Breadcrumb" style={{ marginBottom: '1.6rem' }}>
           <a href="/news" onClick={goTo('/news')} className="epi-city-link"
@@ -61,7 +113,7 @@ const Article = () => {
           </a>
           <span aria-hidden style={{ color: rule, margin: '0 .6em', fontSize: '10px' }}>/</span>
           <span style={{ fontFamily: sans, fontSize: '10px', letterSpacing: '.28em', textTransform: 'uppercase', color: inkMute }}>
-            {sectionName(article.section)}
+            {sectionName(desk.sections, article.section)}
           </span>
         </nav>
 
@@ -84,7 +136,6 @@ const Article = () => {
         <Rule />
       </section>
 
-      {/* Artwork */}
       {article.image && (
         <section style={{ maxWidth: '1080px', margin: '0 auto', padding: 'clamp(2rem, 4vw, 3rem) 2.5rem 0' }}>
           <div style={{ aspectRatio: '16 / 9', overflow: 'hidden', background: paperDeep }}>
@@ -105,31 +156,16 @@ const Article = () => {
         </section>
       )}
 
-      {/* Body */}
+      {/* Body, compiled from content/news/{slug}.md at build time. */}
       <section style={{ maxWidth: '720px', margin: '0 auto', padding: 'clamp(2.5rem, 5vw, 4rem) 2.5rem clamp(3rem, 6vw, 5rem)' }}>
-        {article.body.map((para, i) => (
-          <p key={i} style={{
-            fontFamily: body, fontSize: 'clamp(1.12rem, 1.5vw, 1.24rem)',
-            lineHeight: 1.78, color: inkSoft, margin: i === 0 ? 0 : '1.5rem 0 0',
-          }}>
-            {i === 0 ? (
-              <>
-                <span style={{ fontFamily: serif, fontSize: '4.2rem', float: 'left', lineHeight: .72, paddingRight: '.5rem', paddingTop: '.4rem', color: ink, fontWeight: 500 }}>
-                  {para.charAt(0)}
-                </span>
-                {para.slice(1)}
-              </>
-            ) : para}
-          </p>
-        ))}
+        <div className="epi-prose" dangerouslySetInnerHTML={{ __html: article.html }} />
       </section>
 
-      {/* More from the same desk */}
       {related.length > 0 && (
         <section style={{ background: paperDeep, borderTop: `1px solid ${rule}`, borderBottom: `1px solid ${rule}`, padding: 'clamp(3.5rem, 6vw, 5rem) 2.5rem' }}>
           <div style={{ maxWidth: '1000px', margin: '0 auto' }}>
             <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(1.6rem, 2.6vw, 2.2rem)', margin: '0 0 1.75rem', letterSpacing: '-.015em', color: ink }}>
-              More from {sectionName(article.section)}
+              More from {sectionName(desk.sections, article.section)}
             </h2>
             <div style={{ borderTop: `1px solid ${rule}` }}>
               {related.map((a) => (

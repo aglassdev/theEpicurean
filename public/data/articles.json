@@ -1,0 +1,62 @@
+{
+  "sections": [
+    {
+      "key": "opinion",
+      "name": "Opinion"
+    },
+    {
+      "key": "awards",
+      "name": "Awards"
+    },
+    {
+      "key": "restaurants",
+      "name": "Restaurants"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "michelin-green-star-downfall",
+      "title": "The Bittersweet Downfall of the Michelin Green Star",
+      "section": "opinion",
+      "date": "2026-09-02",
+      "byline": "A Glass Production",
+      "image": "/images/greenstar.png",
+      "dek": "A decade on, the sustainability distinction that was meant to change how the world cooks has quietly become the one nobody chases.",
+      "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a\nante venenatis dapibus posuere velit aliquet. Cras mattis consectetur purus sit\namet fermentum. Vestibulum id ligula porta felis euismod semper.</p>\n<h2>A quieter kind of prize</h2>\n<p>Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum\nnulla sed consectetur. Donec sed odio dui, and <strong>nulla vitae elit libero</strong>, a\npharetra augue.</p>\n<blockquote>\n<p>Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac\ncursus commodo, tortor mauris condimentum nibh.</p>\n</blockquote>\n<p>Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus,\nnisi erat porttitor ligula, eget lacinia odio sem nec elit. Read more in our\n<a href=\"/methodology\">methodology</a>.</p>\n<ul>\n<li>Vivamus sagittis lacus vel augue laoreet rutrum</li>\n<li>Maecenas faucibus mollis interdum</li>\n<li>Praesent commodo cursus magna</li>\n</ul>\n",
+      "words": 130
+    },
+    {
+      "slug": "new-restaurants-dc-area",
+      "title": "New Restaurants Coming to the D.C. Area",
+      "section": "restaurants",
+      "date": "2026-08-30",
+      "byline": "A Glass Production",
+      "image": "/images/washingtondcheader.png",
+      "dek": "From the Wharf to Union Market, the openings shaping the capital's next season at the table.",
+      "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante\nvenenatis dapibus posuere velit aliquet. Cras mattis consectetur purus sit amet fermentum.</p>\n<p>Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum nulla sed\nconsectetur. Donec sed odio dui, a pharetra augue et cras justo odio dapibus.</p>\n<h2>A second thought</h2>\n<p>Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo,\ntortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>\n<p>Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus, nisi erat\nporttitor ligula, eget lacinia odio sem nec elit.</p>\n",
+      "words": 103
+    },
+    {
+      "slug": "michelin-southwest-usa-ceremony",
+      "title": "The Inaugural Michelin Guide Ceremony: Southwest U.S.A.",
+      "section": "awards",
+      "date": "2026-08-28",
+      "byline": "A Glass Production",
+      "image": "/images/threestars.png",
+      "dek": "Arizona, Nevada, New Mexico and Utah receive their first stars, and a region long read as a detour becomes a destination.",
+      "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante\nvenenatis dapibus posuere velit aliquet. Cras mattis consectetur purus sit amet fermentum.</p>\n<p>Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum nulla sed\nconsectetur. Donec sed odio dui, a pharetra augue et cras justo odio dapibus.</p>\n<h2>A second thought</h2>\n<p>Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo,\ntortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>\n<p>Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus, nisi erat\nporttitor ligula, eget lacinia odio sem nec elit.</p>\n",
+      "words": 103
+    },
+    {
+      "slug": "michelin-sysco-partnership",
+      "title": "Is Michelin Selling Out? Why the Sysco Partnership is a Worrying Sign for the Future of U.S. Gastronomy",
+      "section": "opinion",
+      "date": "2026-08-21",
+      "byline": "A Glass Production",
+      "image": "/images/michelin.png",
+      "dek": "The guide has spent a century insisting its inspectors owe nothing to anyone. A distribution deal puts that century to the test.",
+      "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante\nvenenatis dapibus posuere velit aliquet. Cras mattis consectetur purus sit amet fermentum.</p>\n<p>Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum nulla sed\nconsectetur. Donec sed odio dui, a pharetra augue et cras justo odio dapibus.</p>\n<h2>A second thought</h2>\n<p>Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo,\ntortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>\n<p>Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus, nisi erat\nporttitor ligula, eget lacinia odio sem nec elit.</p>\n",
+      "words": 103
+    }
+  ]
+}

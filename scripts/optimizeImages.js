@@ -22,7 +22,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { CAROUSEL } from '../src/carousel.js';
 import { LOGOS } from '../src/logos.js';
-import { ARTICLES } from '../src/articles.js';
+
 
 // sharp is a devDependency and the derivatives are committed, so a build
 // environment that skips devDependencies should carry on with what is on disk
@@ -73,9 +73,17 @@ function headerSources() {
 
 // Carousel slides and detail-page headers get the same treatment: both are
 // full-bleed photography shown at up to half or all of the viewport width.
+// Article artwork is named in content/news front matter, compiled into this file.
+const articleImages = (() => {
+  const f = path.join(__dirname, '../public/data/articles.json');
+  if (!fs.existsSync(f)) return [];
+  try { return (JSON.parse(fs.readFileSync(f, 'utf8')).articles || []).map((a) => a.image).filter(Boolean); }
+  catch { return []; }
+})();
+
 const sources = [...new Set([
   ...CAROUSEL.map((s) => s.image),
-  ...ARTICLES.map((a) => a.image).filter(Boolean),
+  ...articleImages,
   ...headerSources(),
 ])];
 let srcBytes = 0;
