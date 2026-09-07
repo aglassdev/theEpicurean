@@ -381,10 +381,14 @@ for (const place of places.values()) {
   union.sort((a, b) => (b._rank - a._rank) || a.name.localeCompare(b.name, 'en'));
   const restaurants = union.map(({ _rank, _score, ...r }) => r);
 
-  // The canonical URL is the variant holding the most pages.
-  const canonical = [...place.variants].sort(
-    (a, b) => b.restaurants.length - a.restaurants.length
-  )[0];
+  // The canonical URL prefers the variant whose directory names a real region over
+  // one that just repeats the city: /spain/catalonia/barcelona reads as an address,
+  // /spain/barcelona/barcelona does not. Page count only breaks the tie.
+  const canonical = [...place.variants].sort((a, b) => {
+    const realA = a.regionSlug !== a.citySlug ? 1 : 0;
+    const realB = b.regionSlug !== b.citySlug ? 1 : 0;
+    return realB - realA || b.restaurants.length - a.restaurants.length;
+  })[0];
   const canonicalPath = `/${canonical.rel.join('/')}/restaurants`;
 
   // One banner for the place, taken from whichever variant has artwork.
