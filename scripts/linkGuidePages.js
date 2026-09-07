@@ -67,6 +67,9 @@ for (const rel of files) {
     const d = JSON.parse(fs.readFileSync(path.join(COMPONENTS, rel), 'utf8'));
     const declared = compName(d.restaurantName || d.pageTitle).toLowerCase();
     if (declared && declared !== base.toLowerCase()) add(declared, entry);
+    // A page may list other names its sources use, e.g. a merged record that used
+    // to be two entries. Those spellings should reach it too.
+    for (const alias of d.aliases || []) add(compName(alias).toLowerCase(), entry);
   } catch { /* unreadable page — the filename key still stands */ }
 }
 console.log(`  ${files.length} detail pages · ${index.size} unique names\n`);
