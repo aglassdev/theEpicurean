@@ -179,6 +179,19 @@ function cityHero(regionSlug, citySlug) {
   return null;
 }
 
+// Two directories can hold the same city under different slugs, usually because
+// one spelling lost its accents and the other did not, or one carries a second
+// local name. Giving both the same display name merges them into one place, with
+// the union of their tables, while both URLs keep working.
+//
+// Keyed by "countrySlug/citySlug".
+const CITY_ALIASES = {
+  'spain/san-sebastin': 'Donostia / San Sebastián',
+  'spain/donostia-san-sebastin': 'Donostia / San Sebastián',
+  'brazil/sao-paulo': 'São Paulo',
+  'brazil/so-paulo': 'São Paulo',
+};
+
 // Directory slugs lost their accents ("san-sebastin", "so-paulo"), but the
 // addresses on the pages inside kept them. If a comma-field of an address slugs
 // back to this directory's name, it is the city's real spelling.
@@ -369,9 +382,10 @@ for (const dir of findCityDirs()) {
     regionIsReal = true;
   }
   const city =
-    countrySlug === 'usa' && regionSlug === 'dc' && citySlug === 'dc'
+    CITY_ALIASES[`${countrySlug}/${citySlug}`]
+    || (countrySlug === 'usa' && regionSlug === 'dc' && citySlug === 'dc'
       ? 'Washington'
-      : cityNameFromAddresses(citySlug, addresses) || titleCase(citySlug);
+      : cityNameFromAddresses(citySlug, addresses) || titleCase(citySlug));
 
   const meaningfulRegion = regionIsReal ? region : null;
 
