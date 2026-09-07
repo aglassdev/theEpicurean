@@ -31,7 +31,7 @@ let sources = 0;
 if (fs.existsSync(GEO)) {
   const geo = JSON.parse(fs.readFileSync(GEO, 'utf8'));
   const before = geo.restaurants.length;
-  geo.restaurants = geo.restaurants.filter((r) => !isExcludedChain(r.n));
+  geo.restaurants = geo.restaurants.filter((r) => !isExcludedChain(r.n, r.w));
   pins = before - geo.restaurants.length;
   if (pins) {
     geo.count = geo.restaurants.length;
@@ -53,7 +53,7 @@ if (fs.existsSync(COMPONENTS)) {
     if (!name.endsWith('.json') || name === 'index.json') return;
     let d;
     try { d = JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return; }
-    if (!isExcludedChain(d.restaurantName || d.pageTitle)) return;
+    if (!isExcludedChain(d.restaurantName || d.pageTitle, d.website)) return;
     fs.rmSync(p);
     pages++;
     const jsx = path.join(SRC, path.relative(COMPONENTS, p).replace(/\.json$/, '.jsx'));
@@ -63,7 +63,7 @@ if (fs.existsSync(COMPONENTS)) {
 
 if (!quiet || pins || pages) {
   console.log(
-    `  chains pruned  ${EXCLUDED_CHAINS.length} brands: ` +
+    `  chains pruned  ${EXCLUDED_CHAINS.length} rules: ` +
     `${pins} atlas pins, ${pages} pages, ${sources} source files`
   );
 }
