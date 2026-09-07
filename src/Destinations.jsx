@@ -5,14 +5,15 @@ import { EpiPage, EpiPageHeader, SmallCaps, Rule, tokens } from './EpiChrome';
 const { ink, inkSoft, inkMute, paper, rule, gold, goldDeep, goldSoft, serif, body, sans } = tokens;
 
 // Curated openers. Paths are resolved against the live manifest so a rename in the
-// data can never leave a dead link here.
+// data can never leave a dead link here. `label` overrides the card's title where
+// the guide's own name for a place is longer than the one a reader looks for.
 const FEATURED = [
-  { city: 'Copenhagen', country: 'Denmark' },
-  { city: 'Modena', country: 'Italy' },
-  { city: 'Napa Valley', country: 'United States' },
-  { city: 'Menton', country: 'France' },
-  { city: 'London', country: 'United Kingdom' },
-  { city: 'Barcelona', country: 'Spain' },
+  { city: 'Donostia / San Sebastián', country: 'Spain', label: 'San Sebastián' },
+  { city: 'Lima', country: 'Peru' },
+  { city: 'Florence', country: 'Italy' },
+  { city: 'Hong Kong', country: 'Hong Kong' },
+  { city: 'New Delhi', country: 'India' },
+  { city: 'Istanbul', country: 'Türkiye' },
 ];
 
 const Destinations = () => {
@@ -98,7 +99,7 @@ const Destinations = () => {
     return FEATURED
       .map((f) => {
         const hit = index.get(`${f.country}|${f.city}`.toLowerCase());
-        return hit && { name: f.city, country: hit.region || hit.country, path: hit.path };
+        return hit && { name: f.label || f.city, country: hit.region || hit.country, path: hit.path };
       })
       .filter(Boolean);
   }, [manifest]);

@@ -1,6 +1,6 @@
 {
   "title": "Hong Kong",
-  "country": "China",
+  "country": "Hong Kong",
   "countrySlug": "china",
   "region": null,
   "regionSlug": "hong-kong",
@@ -8,7 +8,7 @@
   "citySlug": "hong-kong",
   "path": "/china/hong-kong/hong-kong/restaurants",
   "canonicalPath": "/china/hong-kong/hong-kong/restaurants",
-  "count": 223,
+  "count": 273,
   "restaurants": [
     {
       "name": "8 1/2 Otto e Mezzo - Bombana",
@@ -176,6 +176,13 @@
       "cuisine": "Indian",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/chaat",
+      "award": "★"
+    },
+    {
+      "name": "China Tang",
+      "cuisine": "Cantonese",
+      "price": "$$$",
+      "path": "/hong-kong/hong-kong/hong-kong/china-tang",
       "award": "★"
     },
     {
@@ -543,6 +550,27 @@
       "award": "★"
     },
     {
+      "name": "Ju Xing Home",
+      "cuisine": "Cantonese",
+      "price": "$$",
+      "path": "/hong-kong/hong-kong/hong-kong/ju-xing-home",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Prof Chan's (Western District)",
+      "cuisine": "Hunanese",
+      "price": "$$",
+      "path": "/hong-kong/hong-kong/hong-kong/prof-chans-western-district",
+      "award": "Bib Gourmand"
+    },
+    {
+      "name": "Tak Kee Chiu Chou Restaurant",
+      "cuisine": "Chiu Chow",
+      "price": "$$",
+      "path": "/hong-kong/hong-kong/hong-kong/tak-kee-chiu-chou-restaurant",
+      "award": "Bib Gourmand"
+    },
+    {
       "name": "Above & Beyond",
       "cuisine": "Cantonese",
       "price": "$$$",
@@ -579,16 +607,34 @@
       "path": "/china/hong-kong/hong-kong/ankma"
     },
     {
+      "name": "ARGO (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/argo-bar"
+    },
+    {
       "name": "Art & Taste",
       "cuisine": "Taiwanese",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/art-taste"
     },
     {
+      "name": "ARTIFACT (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/artifact-bar"
+    },
+    {
       "name": "Ba Yi",
       "cuisine": "Xinjiang",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/ba-yi"
+    },
+    {
+      "name": "Bakery By The Grand",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/bakery-by-the-grand"
     },
     {
       "name": "Banana Boy",
@@ -603,10 +649,28 @@
       "path": "/china/hong-kong/hong-kong/bnh-m-nm-wan-chai"
     },
     {
+      "name": "Bar Leone",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/bar-leone"
+    },
+    {
+      "name": "Bâtard",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/btard"
+    },
+    {
       "name": "Beanmountain",
       "cuisine": "Street Food",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/beanmountain"
+    },
+    {
+      "name": "Big JJ Seafood Hotpot",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/big-jj-seafood-hotpot"
     },
     {
       "name": "Cafe Bau",
@@ -631,6 +695,12 @@
       "cuisine": "Steakhouse",
       "price": "$$$",
       "path": "/china/hong-kong/hong-kong/carna-by-dario-cecchini"
+    },
+    {
+      "name": "Castellana",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/castellana"
     },
     {
       "name": "Celestial Court",
@@ -675,10 +745,22 @@
       "path": "/china/hong-kong/hong-kong/citrino-da-yoshinaga-jinbo"
     },
     {
+      "name": "COA (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/coa-bar"
+    },
+    {
       "name": "Cuisine Cuisine at The Mira",
       "cuisine": "Cantonese",
       "price": "$$$",
       "path": "/china/hong-kong/hong-kong/cuisine-cuisine-at-the-mira"
+    },
+    {
+      "name": "DarkSide (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/darkside-bar"
     },
     {
       "name": "Din Tai Fung (Causeway Bay)",
@@ -691,6 +773,12 @@
       "cuisine": "Shanghainese",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/din-tai-fung-tsim-sha-tsui"
+    },
+    {
+      "name": "Dong Lai Shun",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/dong-lai-shun"
     },
     {
       "name": "Dragon Inn",
@@ -735,6 +823,12 @@
       "path": "/china/hong-kong/hong-kong/fiata"
     },
     {
+      "name": "Fiata by Salvatore Fiata",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/fiata-by-salvatore-fiata"
+    },
+    {
       "name": "Fishball Man (To Kwa Wan)",
       "cuisine": "Street Food",
       "price": "$",
@@ -747,16 +841,40 @@
       "path": "/china/hong-kong/hong-kong/fisholic-north-point"
     },
     {
+      "name": "Fu Ho (Tsim Sha Tsui)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/fu-ho-tsim-sha-tsui"
+    },
+    {
       "name": "Fung Shing (North Point)",
       "cuisine": "Shun Tak",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/fung-shing-north-point"
     },
     {
+      "name": "Giando Italian Restaurant & Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/giando-italian-restaurant-bar"
+    },
+    {
       "name": "Glorious Cuisine",
       "cuisine": "Cantonese",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/glorious-cuisine"
+    },
+    {
+      "name": "GOKAN",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/gokan"
+    },
+    {
+      "name": "Golden Leaf",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/golden-leaf"
     },
     {
       "name": "Hao Tang Hao Mian (Tai Wai)",
@@ -819,10 +937,22 @@
       "path": "/china/hong-kong/hong-kong/hong-kong-cuisine"
     },
     {
+      "name": "Honky Tonks Tavern",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/honky-tonks-tavern"
+    },
+    {
       "name": "Hop Yik Tai",
       "cuisine": "Street Food",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/hop-yik-tai"
+    },
+    {
+      "name": "Howard's Gourmet",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/howards-gourmet"
     },
     {
       "name": "Hung Hom Pancake",
@@ -883,6 +1013,12 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/juno"
+    },
+    {
+      "name": "Junon",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/junon"
     },
     {
       "name": "Kai Kai (Jordan)",
@@ -955,6 +1091,12 @@
       "cuisine": "Noodles",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/lau-sum-kee-fuk-wing-street"
+    },
+    {
+      "name": "Le Salon De Thé de Joël Robuchon",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/le-salon-de-th-de-jol-robuchon"
     },
     {
       "name": "Leela",
@@ -1059,6 +1201,12 @@
       "path": "/china/hong-kong/hong-kong/ming-court-mong-kok"
     },
     {
+      "name": "Mizunara: The Library (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/mizunara-the-library-bar"
+    },
+    {
       "name": "Mosu",
       "cuisine": "Innovative",
       "price": "$$$$",
@@ -1071,6 +1219,12 @@
       "path": "/china/hong-kong/hong-kong/mrs-fong-chinese-desserts"
     },
     {
+      "name": "Nicholini's",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/nicholinis"
+    },
+    {
       "name": "One Harbour Road",
       "cuisine": "Cantonese",
       "price": "$$$",
@@ -1081,6 +1235,18 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/owls"
+    },
+    {
+      "name": "Oyster & Wine Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/oyster-wine-bar"
+    },
+    {
+      "name": "Penicillin (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/penicillin-bar"
     },
     {
       "name": "Po Kee",
@@ -1101,6 +1267,18 @@
       "path": "/china/hong-kong/hong-kong/putien-causeway-bay"
     },
     {
+      "name": "Quinary (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/quinary-bar"
+    },
+    {
+      "name": "Ripples (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/ripples-bar"
+    },
+    {
       "name": "Roucou",
       "cuisine": "Innovative",
       "price": "$$$",
@@ -1111,6 +1289,12 @@
       "cuisine": "Malaysian",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/sabah"
+    },
+    {
+      "name": "Sabatini Ristorante Italiano",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/sabatini-ristorante-italiano"
     },
     {
       "name": "Samsen (Wan Chai)",
@@ -1161,6 +1345,18 @@
       "path": "/china/hong-kong/hong-kong/shek-kee-kitchen"
     },
     {
+      "name": "Shikigiku — IFC",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/shikigiku-ifc"
+    },
+    {
+      "name": "Shikigiku — Kowloon",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/shikigiku-kowloon"
+    },
+    {
       "name": "Ship Kee",
       "cuisine": "Cantonese",
       "price": "$$",
@@ -1197,6 +1393,12 @@
       "path": "/china/hong-kong/hong-kong/sister-wah"
     },
     {
+      "name": "SKYE",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/skye"
+    },
+    {
       "name": "Snack Baby",
       "cuisine": "Street Food",
       "price": "$",
@@ -1219,6 +1421,18 @@
       "cuisine": "Korean Contemporary",
       "price": "$$$",
       "path": "/china/hong-kong/hong-kong/sol"
+    },
+    {
+      "name": "Sushi Haré",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/sushi-har"
+    },
+    {
+      "name": "Sushi Shikon by Yoshitake",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/sushi-shikon-by-yoshitake"
     },
     {
       "name": "Sushi Takeshi",
@@ -1275,10 +1489,22 @@
       "path": "/china/hong-kong/hong-kong/t-bo"
     },
     {
+      "name": "Tell Camellia (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/tell-camellia-bar"
+    },
+    {
       "name": "Temple Street Beef Offal",
       "cuisine": "Street Food",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/temple-street-beef-offal"
+    },
+    {
+      "name": "Tempura Uchitsu",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/tempura-uchitsu"
     },
     {
       "name": "Teppanyaki Mihara Goten",
@@ -1299,16 +1525,70 @@
       "path": "/china/hong-kong/hong-kong/thai-pai-dong-jordan"
     },
     {
+      "name": "The Aubrey",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/the-aubrey"
+    },
+    {
+      "name": "The Grand Buffet — Hong Kong",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/the-grand-buffet-hong-kong"
+    },
+    {
+      "name": "The Krug Room",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/the-krug-room"
+    },
+    {
+      "name": "The Lounge",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/the-lounge"
+    },
+    {
       "name": "The Merchants",
       "cuisine": "Shanghainese",
       "price": "$$$",
       "path": "/china/hong-kong/hong-kong/the-merchants"
     },
     {
+      "name": "The Old Man (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/the-old-man-bar"
+    },
+    {
+      "name": "The Opposites (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/the-opposites-bar"
+    },
+    {
+      "name": "The Pontiac (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/the-pontiac-bar"
+    },
+    {
+      "name": "The Savory Project (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/the-savory-project-bar"
+    },
+    {
       "name": "The Steak House",
       "cuisine": "Steakhouse",
       "price": "$$$$",
       "path": "/china/hong-kong/hong-kong/the-steak-house"
+    },
+    {
+      "name": "The Wise King (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/the-wise-king-bar"
     },
     {
       "name": "Tim Ho Wan (Sham Shui Po)",
@@ -1371,10 +1651,22 @@
       "path": "/china/hong-kong/hong-kong/uncle-quek"
     },
     {
+      "name": "Voynich",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/voynich"
+    },
+    {
       "name": "Wang Fu",
       "cuisine": "Dumplings",
       "price": "$",
       "path": "/china/hong-kong/hong-kong/wang-fu"
+    },
+    {
+      "name": "Whisk",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/whisk"
     },
     {
       "name": "Wing",
@@ -1387,6 +1679,18 @@
       "cuisine": "Shanghainese, Sichuan",
       "price": "$$",
       "path": "/china/hong-kong/hong-kong/wing-lai-yuen"
+    },
+    {
+      "name": "WING Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/wing-restaurant"
+    },
+    {
+      "name": "Yat Tung Heen (Jordan)",
+      "cuisine": "",
+      "price": "",
+      "path": "/hong-kong/hong-kong/hong-kong/yat-tung-heen-jordan"
     },
     {
       "name": "Yi Jia",

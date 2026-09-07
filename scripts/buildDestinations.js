@@ -179,6 +179,22 @@ function cityHero(regionSlug, citySlug) {
   return null;
 }
 
+// Directory slugs lost their accents ("san-sebastin", "so-paulo"), but the
+// addresses on the pages inside kept them. If a comma-field of an address slugs
+// back to this directory's name, it is the city's real spelling.
+const slugifyLoose = (t) => (t || '').toLowerCase()
+  .replace(/[^\w\s-]/g, '').replace(/\s+/g, '-').replace(/-+/g, '-').replace(/^-+|-+$/g, '');
+
+function cityNameFromAddresses(citySlug, addresses) {
+  for (const a of addresses) {
+    for (const field of String(a).split(',')) {
+      const t = field.trim();
+      if (t && slugifyLoose(t) === citySlug && t !== titleCase(citySlug)) return t;
+    }
+  }
+  return null;
+}
+
 const countryName = (slug) => COUNTRY_NAMES[slug] || titleCase(slug);
 const regionName = (countrySlug, slug) =>
   countrySlug === 'usa' ? STATE_NAMES[slug] || titleCase(slug) : titleCase(slug);
@@ -267,6 +283,7 @@ for (const dir of findCityDirs()) {
   // Read the pages, keeping only URLs that actually resolve.
   const restaurants = [];
   const zips = [];
+  const addresses = [];
   const addressCountries = [];
   for (const f of fs.readdirSync(dir).sort()) {
     if (!f.endsWith('.json') || f === 'index.json') continue;
@@ -277,6 +294,7 @@ for (const dir of findCityDirs()) {
     const name = d.restaurantName || d.pageTitle || titleCase(compToSlug(comp));
 
     const address = String(d.address || '');
+    if (address) addresses.push(address);
     const tail = address.split(',').map((s) => s.trim()).filter(Boolean).pop();
     if (tail) addressCountries.push(tail);
     // Only US addresses get a ZIP vote — an Italian CAP (20090) looks exactly like
@@ -338,6 +356,13 @@ for (const dir of findCityDirs()) {
       regionIsReal = false;
     }
   }
+  // The tree files these both as their own country and under China; they are one
+  // place, so the Chinese copy adopts the same country and the two merge.
+  if (countrySlug === 'china' && (regionSlug === 'hong-kong' || regionSlug === 'macau')) {
+    country = regionSlug === 'macau' ? 'Macau' : 'Hong Kong';
+    regionIsReal = false;
+  }
+
   // usa/dc holds Washington pages both directly and under /washington.
   if (countrySlug === 'usa' && regionSlug === 'dc') {
     region = 'District of Columbia';
@@ -346,7 +371,7 @@ for (const dir of findCityDirs()) {
   const city =
     countrySlug === 'usa' && regionSlug === 'dc' && citySlug === 'dc'
       ? 'Washington'
-      : titleCase(citySlug);
+      : cityNameFromAddresses(citySlug, addresses) || titleCase(citySlug);
 
   const meaningfulRegion = regionIsReal ? region : null;
 

@@ -1,14 +1,14 @@
 {
-  "title": "Washington Dc",
+  "title": "Washington D.C",
   "country": "United States",
   "countrySlug": "usa",
-  "region": "Maryland",
+  "region": null,
   "regionSlug": "other",
-  "city": "Washington Dc",
+  "city": "Washington D.C",
   "citySlug": "washington-dc",
   "path": "/usa/other/washington-dc/restaurants",
-  "canonicalPath": "/usa/maryland/washington-dc/restaurants",
-  "count": 2,
+  "canonicalPath": "/usa/other/washington-dc/restaurants",
+  "count": 1,
   "hero": "/images/washingtondcheader.png",
   "restaurants": [
     {
@@ -16,12 +16,6 @@
       "cuisine": "",
       "price": "",
       "path": "/usa/other/washington-dc/service-bar-dc"
-    },
-    {
-      "name": "Voltaggio Brothers Steakhouse",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/maryland/washington-dc/voltaggio-brothers-steakhouse"
     }
   ]
 }
