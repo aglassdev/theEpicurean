@@ -167,11 +167,16 @@ const HERO_OVERRIDES_BY_REGION = {
   'virginia/washington': 'washingtonva.png',
 };
 
+// Banner artwork arrives in whatever format the photograph came in; the optimizer
+// turns them all into WebP anyway, so the convention is on the name, not the type.
+const HERO_EXTS = ['png', 'jpg', 'jpeg', 'webp'];
+
 function cityHero(regionSlug, citySlug) {
+  const stem = citySlug.replace(/[^a-z0-9]/g, '');
   const candidates = [
     HERO_OVERRIDES_BY_REGION[`${regionSlug}/${citySlug}`],
     HERO_OVERRIDES[citySlug],
-    `${citySlug.replace(/[^a-z0-9]/g, '')}header.png`,
+    ...HERO_EXTS.map((e) => `${stem}header.${e}`),
   ].filter(Boolean);
   for (const file of candidates) {
     if (fs.existsSync(path.join(__dirname, '../public/images', file))) return `/images/${file}`;
