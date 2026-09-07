@@ -138,9 +138,10 @@ const CityPage = ({ data }) => {
 
   return (
     <EpiPage active="destinations">
-      {/* City banner, where we have one */}
+      {/* City banner, where we have one. Half again as tall as the 400px band the
+          old city pages used. */}
       {hero && (
-        <div style={{ width: '100%', height: 'clamp(220px, 38vh, 420px)', overflow: 'hidden', background: paperDeep }}>
+        <div style={{ width: '100%', height: 'clamp(330px, 57vh, 630px)', overflow: 'hidden', background: paperDeep }}>
           <img
             src={`/images/opt/${stem(hero)}-1600.webp`}
             srcSet={`/images/opt/${stem(hero)}-1600.webp 1600w, /images/opt/${stem(hero)}-3200.webp 3200w`}
