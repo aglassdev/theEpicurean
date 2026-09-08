@@ -160,6 +160,11 @@ const HERO_OVERRIDES = {
   copenhagen: 'kopenhagenheader.png',
   'new-york': 'newyorkcityheader.png',
   newyorkcity: 'newyorkcityheader.png',
+  // São Paulo is filed under both spellings and Tokyo picked up a second
+  // directory from a record whose city field read "Tokyo Japan"; each is the
+  // same place as the slug the photograph is named for.
+  'so-paulo': 'saopauloheader.png',
+  'tokyo-japan': 'tokyoheader.png',
 };
 // Keyed by "regionSlug/citySlug" where the city name alone is ambiguous.
 const HERO_OVERRIDES_BY_REGION = {
