@@ -166,25 +166,31 @@ const HERO_OVERRIDES = {
   'so-paulo': 'saopauloheader.png',
   'tokyo-japan': 'tokyoheader.png',
 };
-// Keyed by "regionSlug/citySlug" where the city name alone is ambiguous. A null
-// means the city shares its name with somewhere we have a photograph of and has
-// none of its own, so it goes without rather than borrowing.
-const HERO_OVERRIDES_BY_REGION = {
-  'dc/washington': 'washingtondcheader.png',
-  'virginia/washington': 'washingtonva.png',
-  'alabama/florence': null,
+// Keyed by "countrySlug/regionSlug/citySlug", for the cities whose name alone is
+// ambiguous. A null means the city shares its name with somewhere we have a
+// photograph of and has none of its own, so it goes without rather than
+// borrowing: there are two Cordobas, two La Paces and several Washingtons, and
+// the guide only has a picture of one of each.
+const HERO_OVERRIDES_BY_PLACE = {
+  'usa/dc/washington': 'washingtondcheader.png',
+  'usa/virginia/washington': 'washingtonva.png',
+  'usa/alabama/florence': null,
+  'argentina/crdoba/crdoba': 'crdobaheader.png',
+  'spain/crdoba/crdoba': null,
+  'bolivia/la-paz/la-paz': 'lapazheader.png',
+  'mexico/la-paz/la-paz': null,
 };
 
 // Banner artwork arrives in whatever format the photograph came in; the optimizer
 // turns them all into WebP anyway, so the convention is on the name, not the type.
 const HERO_EXTS = ['png', 'jpg', 'jpeg', 'webp'];
 
-function cityHero(regionSlug, citySlug) {
-  const byRegion = `${regionSlug}/${citySlug}`;
-  if (HERO_OVERRIDES_BY_REGION[byRegion] === null) return null;
+function cityHero(countrySlug, regionSlug, citySlug) {
+  const place = `${countrySlug}/${regionSlug}/${citySlug}`;
+  if (HERO_OVERRIDES_BY_PLACE[place] === null) return null;
   const stem = citySlug.replace(/[^a-z0-9]/g, '');
   const candidates = [
-    HERO_OVERRIDES_BY_REGION[byRegion],
+    HERO_OVERRIDES_BY_PLACE[place],
     HERO_OVERRIDES[citySlug],
     ...HERO_EXTS.map((e) => `${stem}header.${e}`),
   ].filter(Boolean);
@@ -502,7 +508,7 @@ for (const place of places.values()) {
   const canonicalPath = `/${canonical.rel.join('/')}/restaurants`;
 
   // One banner for the place, taken from whichever variant has artwork.
-  const hero = place.variants.map((v) => cityHero(v.regionSlug, v.citySlug)).find(Boolean) || null;
+  const hero = place.variants.map((v) => cityHero(v.countrySlug, v.regionSlug, v.citySlug)).find(Boolean) || null;
 
   for (const v of place.variants) {
     const listing = {
