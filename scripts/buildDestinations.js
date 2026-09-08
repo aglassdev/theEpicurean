@@ -166,10 +166,13 @@ const HERO_OVERRIDES = {
   'so-paulo': 'saopauloheader.png',
   'tokyo-japan': 'tokyoheader.png',
 };
-// Keyed by "regionSlug/citySlug" where the city name alone is ambiguous.
+// Keyed by "regionSlug/citySlug" where the city name alone is ambiguous. A null
+// means the city shares its name with somewhere we have a photograph of and has
+// none of its own, so it goes without rather than borrowing.
 const HERO_OVERRIDES_BY_REGION = {
   'dc/washington': 'washingtondcheader.png',
   'virginia/washington': 'washingtonva.png',
+  'alabama/florence': null,
 };
 
 // Banner artwork arrives in whatever format the photograph came in; the optimizer
@@ -177,9 +180,11 @@ const HERO_OVERRIDES_BY_REGION = {
 const HERO_EXTS = ['png', 'jpg', 'jpeg', 'webp'];
 
 function cityHero(regionSlug, citySlug) {
+  const byRegion = `${regionSlug}/${citySlug}`;
+  if (HERO_OVERRIDES_BY_REGION[byRegion] === null) return null;
   const stem = citySlug.replace(/[^a-z0-9]/g, '');
   const candidates = [
-    HERO_OVERRIDES_BY_REGION[`${regionSlug}/${citySlug}`],
+    HERO_OVERRIDES_BY_REGION[byRegion],
     HERO_OVERRIDES[citySlug],
     ...HERO_EXTS.map((e) => `${stem}header.${e}`),
   ].filter(Boolean);
