@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-08T06:03:34.297Z",
+  "generatedAt": "2026-09-08T20:58:08.680Z",
   "totals": {
     "countries": 108,
-    "cities": 7752,
+    "cities": 7751,
     "restaurants": 29056,
     "atlas": {
       "restaurants": 28795
@@ -90,25 +90,20 @@
               "count": 79
             },
             {
-              "name": "Crdoba",
+              "name": "Córdoba",
               "path": "/argentina/crdoba/crdoba/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Godoy Cruz",
-              "path": "/argentina/godoy-cruz/godoy-cruz/restaurants",
               "count": 1
             },
             {
               "name": "Mendoza",
               "path": "/argentina/mendoza/mendoza/restaurants",
-              "count": 34
+              "count": 35
             }
           ],
           "count": 115
         }
       ],
-      "cityCount": 4,
+      "cityCount": 3,
       "count": 115
     },
     {
@@ -3218,7 +3213,7 @@
               "count": 11
             },
             {
-              "name": "Knokke Heist",
+              "name": "Knokke-Heist",
               "path": "/belgium/knokke-heist/knokke-heist/restaurants",
               "count": 1
             },
@@ -5806,7 +5801,7 @@
               "count": 2
             },
             {
-              "name": "Sosa",
+              "name": "Sosúa",
               "path": "/dominican-republic/sosa/sosa/restaurants",
               "count": 1
             }
@@ -6844,7 +6839,7 @@
               "count": 1
             },
             {
-              "name": "Bligny sur Ouche",
+              "name": "Bligny-sur-Ouche",
               "path": "/france/bligny-sur-ouche/bligny-sur-ouche/restaurants",
               "count": 1
             },
@@ -9704,7 +9699,7 @@
               "count": 1
             },
             {
-              "name": "Lendou En Quercy",
+              "name": "Lendou-en-Quercy",
               "path": "/france/lendou-en-quercy/lendou-en-quercy/restaurants",
               "count": 1
             },
@@ -11764,11 +11759,6 @@
               "count": 1
             },
             {
-              "name": "Saint Jean aux Bois",
-              "path": "/france/saint-jean-aux-bois/saint-jean-aux-bois/restaurants",
-              "count": 1
-            },
-            {
               "name": "Saint-Affrique",
               "path": "/france/saint-affrique/saint-affrique/restaurants",
               "count": 1
@@ -12056,6 +12046,11 @@
             {
               "name": "Saint-Hilaire-de-Brethmas",
               "path": "/france/saint-hilaire-de-brethmas/saint-hilaire-de-brethmas/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Saint-Jean-aux-Bois",
+              "path": "/france/saint-jean-aux-bois/saint-jean-aux-bois/restaurants",
               "count": 1
             },
             {
@@ -13519,7 +13514,7 @@
               "count": 2
             },
             {
-              "name": "Vosne Romane",
+              "name": "Vosne-Romanée",
               "path": "/france/vosne-romane/vosne-romane/restaurants",
               "count": 1
             },
@@ -15496,11 +15491,6 @@
               "count": 1
             },
             {
-              "name": "Mnden",
-              "path": "/germany/mnden/mnden/restaurants",
-              "count": 1
-            },
-            {
               "name": "Moers",
               "path": "/germany/moers/moers/restaurants",
               "count": 1
@@ -15529,6 +15519,11 @@
               "name": "Müllheim",
               "path": "/germany/mllheim/mllheim/restaurants",
               "count": 2
+            },
+            {
+              "name": "Münden",
+              "path": "/germany/mnden/mnden/restaurants",
+              "count": 1
             },
             {
               "name": "Munich",
@@ -24810,7 +24805,7 @@
               "count": 5
             },
             {
-              "name": "Quertaro",
+              "name": "Querétaro",
               "path": "/mexico/quertaro/quertaro/restaurants",
               "count": 1
             },
@@ -24840,7 +24835,7 @@
               "count": 4
             },
             {
-              "name": "Santiago de Quertaro",
+              "name": "Santiago de Querétaro",
               "path": "/mexico/santiago-de-quertaro/santiago-de-quertaro/restaurants",
               "count": 1
             },
@@ -26465,6 +26460,11 @@
           "name": null,
           "cities": [
             {
+              "name": "Ålesund",
+              "path": "/norway/lesund/lesund/restaurants",
+              "count": 3
+            },
+            {
               "name": "Ballstad",
               "path": "/norway/ballstad/ballstad/restaurants",
               "count": 1
@@ -26490,7 +26490,7 @@
               "count": 1
             },
             {
-              "name": "Krager",
+              "name": "Kragerø",
               "path": "/norway/krager/krager/restaurants",
               "count": 1
             },
@@ -26508,11 +26508,6 @@
               "name": "Larvik",
               "path": "/norway/larvik/larvik/restaurants",
               "count": 1
-            },
-            {
-              "name": "Lesund",
-              "path": "/norway/lesund/lesund/restaurants",
-              "count": 3
             },
             {
               "name": "Lindesnes",
@@ -26545,7 +26540,7 @@
               "count": 1
             },
             {
-              "name": "Tnsberg",
+              "name": "Tønsberg",
               "path": "/norway/tnsberg/tnsberg/restaurants",
               "count": 2
             },
@@ -27255,7 +27250,7 @@
               "count": 1
             },
             {
-              "name": "Samodes",
+              "name": "Samodães",
               "path": "/portugal/samodes/samodes/restaurants",
               "count": 1
             },
@@ -27577,7 +27572,7 @@
               "count": 5
             },
             {
-              "name": "Devn",
+              "name": "Devín",
               "path": "/slovakia/devn/devn/restaurants",
               "count": 1
             }
@@ -29444,7 +29439,7 @@
               "count": 1
             },
             {
-              "name": "Medelln",
+              "name": "Medellín",
               "path": "/spain/medelln/medelln/restaurants",
               "count": 1
             },
@@ -31001,14 +30996,14 @@
               "count": 1
             },
             {
+              "name": "Göteborg",
+              "path": "/sweden/gteborg/gteborg/restaurants",
+              "count": 1
+            },
+            {
               "name": "Gothenburg",
               "path": "/sweden/gothenburg/gothenburg/restaurants",
               "count": 17
-            },
-            {
-              "name": "Gteborg",
-              "path": "/sweden/gteborg/gteborg/restaurants",
-              "count": 1
             },
             {
               "name": "Halmstad",
@@ -31021,13 +31016,13 @@
               "count": 1
             },
             {
-              "name": "Linkoping",
-              "path": "/sweden/linkoping/linkoping/restaurants",
+              "name": "Långås",
+              "path": "/sweden/lngs/lngs/restaurants",
               "count": 1
             },
             {
-              "name": "Lngs",
-              "path": "/sweden/lngs/lngs/restaurants",
+              "name": "Linkoping",
+              "path": "/sweden/linkoping/linkoping/restaurants",
               "count": 1
             },
             {
@@ -31046,14 +31041,14 @@
               "count": 1
             },
             {
-              "name": "Sderkra",
-              "path": "/sweden/sderkra/sderkra/restaurants",
-              "count": 1
-            },
-            {
               "name": "Simrishamn",
               "path": "/sweden/simrishamn/simrishamn/restaurants",
               "count": 2
+            },
+            {
+              "name": "Söderåkra",
+              "path": "/sweden/sderkra/sderkra/restaurants",
+              "count": 1
             },
             {
               "name": "Stockholm",
@@ -32424,7 +32419,7 @@
               "count": 4
             },
             {
-              "name": "Vufflens le Chteau",
+              "name": "Vufflens-le-Château",
               "path": "/switzerland/vufflens-le-chteau/vufflens-le-chteau/restaurants",
               "count": 1
             },
@@ -32524,11 +32519,6 @@
               "count": 1
             },
             {
-              "name": "Zrich",
-              "path": "/switzerland/zrich/zrich/restaurants",
-              "count": 5
-            },
-            {
               "name": "Zug",
               "path": "/switzerland/zug/zug/restaurants",
               "count": 2
@@ -32537,6 +32527,11 @@
               "name": "Zurich",
               "path": "/switzerland/zurich/zurich/restaurants",
               "count": 68
+            },
+            {
+              "name": "Zürich",
+              "path": "/switzerland/zrich/zrich/restaurants",
+              "count": 5
             }
           ],
           "count": 643
@@ -40521,13 +40516,13 @@
           "name": null,
           "cities": [
             {
-              "name": "Jos Ignacio",
-              "path": "/uruguay/jos-ignacio/jos-ignacio/restaurants",
+              "name": "Jose Ignacio",
+              "path": "/uruguay/jose-ignacio/jose-ignacio/restaurants",
               "count": 1
             },
             {
-              "name": "Jose Ignacio",
-              "path": "/uruguay/jose-ignacio/jose-ignacio/restaurants",
+              "name": "José Ignacio",
+              "path": "/uruguay/jos-ignacio/jos-ignacio/restaurants",
               "count": 1
             },
             {

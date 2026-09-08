@@ -213,6 +213,9 @@ const derivativeExists = (file) =>
 const CITY_ALIASES = {
   'spain/san-sebastin': 'Donostia / San Sebastián',
   'spain/donostia-san-sebastin': 'Donostia / San Sebastián',
+  // Godoy Cruz is a department of Greater Mendoza, a few minutes from the centre,
+  // and reads to a traveller as the same city.
+  'argentina/godoy-cruz': 'Mendoza',
   'brazil/sao-paulo': 'São Paulo',
   'brazil/so-paulo': 'São Paulo',
 };
@@ -224,14 +227,46 @@ const slugifyLoose = (t) => (t || '').toLowerCase()
   .replace(/[^\w\s-]/g, '').replace(/\s+/g, '-').replace(/-+/g, '-').replace(/^-+|-+$/g, '');
 
 function cityNameFromAddresses(citySlug, addresses) {
+  const fields = [];
   for (const a of addresses) {
-    for (const field of String(a).split(',')) {
-      const t = field.trim();
-      if (t && slugifyLoose(t) === citySlug && t !== titleCase(citySlug)) return t;
+    for (const f of String(a).split(',')) if (f.trim()) fields.push(f.trim());
+  }
+  const spellsTheCity = (t) => slugifyLoose(t) === citySlug && t !== titleCase(citySlug);
+
+  // A whole field spelling the city is the name, and is preferred over anything
+  // the pass below can find. Cities that already resolved this way keep exactly
+  // the name they had, particles and all: Forte dei Marmi, la Nucía, McLaren Vale.
+  const whole = fields.find(spellsTheCity);
+  if (whole) return whole;
+
+  // Only then, for the cities that fell back to the slug: a field may run
+  // something into the city, as Argentina does with the postcode in
+  // "X5000KLB Córdoba". Take a run of words that ends a field, which finds the
+  // name there and leaves a street called after a city ("Av. Córdoba 1234") a
+  // street.
+  const generated = titleCase(citySlug);
+  for (const f of fields) {
+    const words = f.split(/\s+/);
+    for (let i = 1; i < words.length; i++) {
+      const t = words.slice(i).join(' ');
+      // Worth taking only for the letters the slug lost. A tail differing by case
+      // alone is the address being careless, not the city: Mexico writes both
+      // "Playa del Carmen" and "Playa Del Carmen", and the first is the name.
+      if (readsLikeAName(t) && spellsTheCity(t) && t.toLowerCase() !== generated.toLowerCase()) {
+        return t;
+      }
     }
   }
   return null;
 }
+
+// The tail of an address field is weaker evidence than a whole one, so it has to
+// read like a name to be taken: opening on a capital, not shouted, and not
+// trailing a bracket it never opened. Otherwise the guide picks up KOLKATA, and
+// a Rungis addressed "(Marché International de Rungis)" becomes "Rungis)".
+// A leading apostrophe passes, because 's-Hertogenbosch opens on one.
+const readsLikeAName = (t) =>
+  /^['‘’\p{Lu}]/u.test(t) && t !== t.toUpperCase() && !/^[^(]*\)/.test(t);
 
 const countryName = (slug) => COUNTRY_NAMES[slug] || titleCase(slug);
 const regionName = (countrySlug, slug) =>
