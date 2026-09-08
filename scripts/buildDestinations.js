@@ -188,21 +188,21 @@ function cityHero(regionSlug, citySlug) {
     HERO_OVERRIDES[citySlug],
     ...HERO_EXTS.map((e) => `${stem}header.${e}`),
   ].filter(Boolean);
-  for (const file of candidates) {
-    if (heroExists(file)) return `/images/${file}`;
-  }
-  return null;
+  // Name the photograph itself when we have it, so the recorded path stays a real
+  // file. Failing that, in a checkout without the masters, the built WebP is proof
+  // enough that the city has artwork; CityPage only ever takes the stem from this.
+  // The derivatives are keyed on the stem alone, so that second pass cannot tell
+  // .jpg from .png and settles on the first extension the convention lists.
+  return candidates.find(masterExists) ? `/images/${candidates.find(masterExists)}`
+    : candidates.find(derivativeExists) ? `/images/${candidates.find(derivativeExists)}`
+    : null;
 }
 
-// A banner counts as present if its master is here or, in a checkout without the
-// masters, if the WebP the page actually loads has been built. CityPage only ever
-// uses this path for its stem, so either is enough to know the city has artwork.
-function heroExists(file) {
-  const root = path.join(__dirname, '..');
-  const stem = file.replace(/\.[^.]+$/, '');
-  return ['masters', 'public/images'].some((d) => fs.existsSync(path.join(root, d, file)))
-    || fs.existsSync(path.join(root, 'public/images/opt', `${stem}-1600.webp`));
-}
+const IMAGE_DIRS = ['masters', 'public/images'];
+const masterExists = (file) =>
+  IMAGE_DIRS.some((d) => fs.existsSync(path.join(__dirname, '..', d, file)));
+const derivativeExists = (file) =>
+  fs.existsSync(path.join(__dirname, '../public/images/opt', `${file.replace(/\.[^.]+$/, '')}-1600.webp`));
 
 // Two directories can hold the same city under different slugs, usually because
 // one spelling lost its accents and the other did not, or one carries a second
