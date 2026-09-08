@@ -189,9 +189,19 @@ function cityHero(regionSlug, citySlug) {
     ...HERO_EXTS.map((e) => `${stem}header.${e}`),
   ].filter(Boolean);
   for (const file of candidates) {
-    if (fs.existsSync(path.join(__dirname, '../public/images', file))) return `/images/${file}`;
+    if (heroExists(file)) return `/images/${file}`;
   }
   return null;
+}
+
+// A banner counts as present if its master is here or, in a checkout without the
+// masters, if the WebP the page actually loads has been built. CityPage only ever
+// uses this path for its stem, so either is enough to know the city has artwork.
+function heroExists(file) {
+  const root = path.join(__dirname, '..');
+  const stem = file.replace(/\.[^.]+$/, '');
+  return ['masters', 'public/images'].some((d) => fs.existsSync(path.join(root, d, file)))
+    || fs.existsSync(path.join(root, 'public/images/opt', `${stem}-1600.webp`));
 }
 
 // Two directories can hold the same city under different slugs, usually because

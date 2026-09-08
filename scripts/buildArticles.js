@@ -43,6 +43,17 @@ export const SECTIONS = [
 ];
 const SECTION_KEYS = new Set(SECTIONS.map((s) => s.key));
 
+// Artwork counts as present if the master is on disk, or, in a checkout without
+// the masters, if the WebP that Article actually loads has been built. See
+// masters/README for why the originals live outside the repository.
+function artworkExists(rel) {
+  const name = path.basename(rel);
+  const stem = name.replace(/\.[^.]+$/, '');
+  return fs.existsSync(path.join(ROOT, 'masters', name))
+    || fs.existsSync(path.join(ROOT, 'public/images', name))
+    || fs.existsSync(path.join(ROOT, 'public/images/opt', `${stem}-1600.webp`));
+}
+
 /**
  * Front matter is a handful of `key: value` lines, so it is read directly rather
  * than pulling in a YAML parser. Values may be quoted; a colon in the text is
@@ -96,7 +107,7 @@ for (const file of fs.readdirSync(CONTENT).sort()) {
     problems.push(`${file}: section "${section}" is not one of ${[...SECTION_KEYS].join(', ')}`);
     continue;
   }
-  if (data.image && !fs.existsSync(path.join(ROOT, 'public', data.image.replace(/^\//, '')))) {
+  if (data.image && !artworkExists(data.image)) {
     problems.push(`${file}: image ${data.image} does not exist`);
   }
 

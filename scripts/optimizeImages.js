@@ -12,7 +12,9 @@
  *
  * Quality 90 measured at 42.9–49.6 dB PSNR against a lossless downscale of the same
  * source, i.e. visually lossless for photography (>40 dB is the usual threshold).
- * Originals are never modified; they stay as the runtime fallback.
+ *
+ * Sources are read from masters/ if it is there and public/images otherwise, and
+ * are never modified. Only the derivatives are committed and deployed.
  *
  * Usage: node scripts/optimizeImages.js [--force] [--quiet]
  */
@@ -39,6 +41,21 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const IMAGES = path.join(__dirname, '../public/images');
 const COMPONENTS = path.join(__dirname, '../public/components');
 const OUT = path.join(IMAGES, 'opt');
+
+// Masters are the multi-megabyte originals. Only the derivatives below are ever
+// served, so the originals live outside public and outside the repository; see
+// masters/README. A checkout without them still builds, because the derivatives
+// are committed and a source that is absent simply has nothing to redo.
+const MASTERS = path.join(__dirname, '../masters');
+const findSource = (rel) => {
+  for (const dir of [MASTERS, IMAGES]) {
+    const p = path.join(dir, path.basename(rel));
+    if (fs.existsSync(p)) return p;
+  }
+  return null;
+};
+const hasDerivatives = (base, widths) =>
+  widths.every((w) => fs.existsSync(path.join(OUT, `${base}-${w}.webp`)));
 
 const WIDTHS = [1600, 3200];
 const QUALITY = 90;
@@ -91,11 +108,16 @@ let outBytes = 0;
 let written = 0;
 let skipped = 0;
 const missing = [];
+// Sources whose masters live outside the checkout; their derivatives are already here.
+let absent = 0;
 
 for (const rel of sources) {
   const base = path.basename(rel, path.extname(rel));
-  const src = path.join(IMAGES, path.basename(rel));
-  if (!fs.existsSync(src)) { missing.push(rel); continue; }
+  const src = findSource(rel);
+  if (!src) {
+    if (hasDerivatives(base, WIDTHS)) absent++; else missing.push(rel);
+    continue;
+  }
 
   const srcStat = fs.statSync(src);
   srcBytes += srcStat.size;
@@ -141,8 +163,11 @@ let logoWritten = 0;
 
 for (const rel of [...new Set(LOGOS.map((l) => l.icon))]) {
   const base = path.basename(rel, path.extname(rel));
-  const src = path.join(IMAGES, path.basename(rel));
-  if (!fs.existsSync(src)) { missing.push(rel); continue; }
+  const src = findSource(rel);
+  if (!src) {
+    if (hasDerivatives(base, ['mark'])) absent++; else missing.push(rel);
+    continue;
+  }
 
   const srcStat = fs.statSync(src);
   logoSrcBytes += srcStat.size;
@@ -166,8 +191,10 @@ for (const rel of [...new Set(LOGOS.map((l) => l.icon))]) {
   logoWritten++;
 }
 
+// A source with no master and no derivative is a genuine break. A source with no
+// master but a derivative on disk is the normal state of a fresh checkout.
 if (missing.length) {
-  console.error(`\n✗ missing source images:\n   ${missing.join('\n   ')}`);
+  console.error(`\n✗ no master and no derivative for:\n   ${missing.join('\n   ')}`);
   process.exitCode = 1;
 }
 
@@ -175,7 +202,7 @@ if (!quiet) {
   console.log(`
   source marks   ${mb(logoSrcBytes)} MB  ->  ${mb(logoOutBytes)} MB  (${logoWritten} written)
 
-  ${written + logoWritten} written, ${skipped} already current
+  ${written + logoWritten} written, ${skipped} already current${absent ? `, ${absent} kept as built (master outside the checkout)` : ''}
   photography    ${mb(srcBytes)} MB  ->  ${mb(outBytes)} MB across both widths
   a 2x viewer loads the 3200px set; a 1x viewer the 1600px set
 `);

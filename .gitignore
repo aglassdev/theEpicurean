@@ -24,6 +24,11 @@ dist-ssr
 # Geocoding resume state
 .geocode_progress.json
 
+# Original photography — the derivatives in public/images/opt are what ships, so
+# the masters stay out of the repository and out of the deploy. See masters/README.
+/masters/*
+!/masters/README.md
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
