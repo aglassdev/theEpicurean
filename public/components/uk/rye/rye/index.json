@@ -8,13 +8,19 @@
   "citySlug": "rye",
   "path": "/uk/rye/rye/restaurants",
   "canonicalPath": "/uk/rye/rye/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "The Union Rye",
       "cuisine": "Modern Cuisine",
       "price": "££",
       "path": "/uk/rye/rye/the-union-rye"
+    },
+    {
+      "name": "Tillingham",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/rye/rye/tillingham"
     }
   ]
 }

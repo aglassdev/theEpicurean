@@ -8,7 +8,7 @@
   "citySlug": "london",
   "path": "/uk/london/london/restaurants",
   "canonicalPath": "/uk/england/london/restaurants",
-  "count": 584,
+  "count": 586,
   "hero": "/images/londonheader.png",
   "restaurants": [
     {
@@ -923,6 +923,12 @@
       "cuisine": "Italian",
       "price": "££",
       "path": "/uk/london/london/artusi"
+    },
+    {
+      "name": "Aulis London",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/london/london/aulis-london"
     },
     {
       "name": "Bala Baya",
@@ -3359,6 +3365,12 @@
       "cuisine": "",
       "price": "",
       "path": "/uk/london/london/the-red-lion-sun"
+    },
+    {
+      "name": "The River Café",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/london/london/the-river-caf"
     },
     {
       "name": "The River Restaurant by Gordon Ramsay",

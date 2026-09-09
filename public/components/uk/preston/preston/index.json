@@ -8,13 +8,19 @@
   "citySlug": "preston",
   "path": "/uk/preston/preston/restaurants",
   "canonicalPath": "/uk/preston/preston/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
     {
       "name": "Aven",
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/preston/preston/aven"
+    },
+    {
+      "name": "The Cartford Inn",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/preston/preston/the-cartford-inn"
     }
   ]
 }

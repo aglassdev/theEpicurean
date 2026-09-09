@@ -229,6 +229,10 @@ const CITY_ALIASES = {
   // Pehebiya Beach is the stretch of sand Dikwella sits on, and the one table
   // filed there is in the town.
   'sri-lanka/pehebiya': 'Dikwella',
+  // The import read the province off the end of La Grotta's address rather than
+  // the city: "Gwangju-Si, Gyeonggi-Do, South Korea". Gyeonggi-do is the province
+  // Gwangju-si sits in.
+  'south-korea/gyeonggi-do': 'Gwangju-si',
 };
 
 // Directory slugs lost their accents ("san-sebastin", "so-paulo"), but the

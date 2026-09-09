@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-09T16:40:17.351Z",
+  "generatedAt": "2026-09-09T19:00:44.522Z",
   "totals": {
     "countries": 123,
-    "cities": 7817,
-    "restaurants": 29716,
+    "cities": 7826,
+    "restaurants": 29781,
     "atlas": {
-      "restaurants": 28795
+      "restaurants": 28712
     }
   },
   "countries": [
@@ -5167,7 +5167,7 @@
             {
               "name": "Beijing",
               "path": "/china/beijing/beijing/restaurants",
-              "count": 122
+              "count": 125
             },
             {
               "name": "Beijing China",
@@ -5187,7 +5187,7 @@
             {
               "name": "Chengdu",
               "path": "/china/chengdu/chengdu/restaurants",
-              "count": 89
+              "count": 90
             },
             {
               "name": "Fuzhou",
@@ -5202,7 +5202,7 @@
             {
               "name": "Hangzhou",
               "path": "/china/hangzhou/hangzhou/restaurants",
-              "count": 102
+              "count": 103
             },
             {
               "name": "Nanjing",
@@ -5232,7 +5232,7 @@
             {
               "name": "Shanghai",
               "path": "/china/shanghai/shanghai/restaurants",
-              "count": 190
+              "count": 193
             },
             {
               "name": "Shantou",
@@ -5280,11 +5280,11 @@
               "count": 1
             }
           ],
-          "count": 918
+          "count": 926
         }
       ],
       "cityCount": 23,
-      "count": 918
+      "count": 926
     },
     {
       "name": "Colombia",
@@ -5876,6 +5876,11 @@
               "count": 1
             },
             {
+              "name": "Leynavatn",
+              "path": "/denmark/leynavatn/leynavatn/restaurants",
+              "count": 1
+            },
+            {
               "name": "Lønstrup",
               "path": "/denmark/lnstrup/lnstrup/restaurants",
               "count": 1
@@ -5946,11 +5951,11 @@
               "count": 2
             }
           ],
-          "count": 144
+          "count": 145
         }
       ],
-      "cityCount": 31,
-      "count": 144
+      "cityCount": 32,
+      "count": 145
     },
     {
       "name": "Dominican Republic",
@@ -17798,14 +17803,14 @@
             {
               "name": "Dublin",
               "path": "/ireland/ireland/dublin/restaurants",
-              "count": 14
+              "count": 16
             }
           ],
-          "count": 23
+          "count": 25
         }
       ],
       "cityCount": 60,
-      "count": 148
+      "count": 150
     },
     {
       "name": "Israel",
@@ -21274,7 +21279,7 @@
             {
               "name": "Nerano",
               "path": "/italy/nerano/nerano/restaurants",
-              "count": 1
+              "count": 2
             },
             {
               "name": "Nerviano",
@@ -22289,7 +22294,7 @@
             {
               "name": "Riposto",
               "path": "/italy/riposto/riposto/restaurants",
-              "count": 2
+              "count": 3
             },
             {
               "name": "Riva del Garda",
@@ -23957,7 +23962,7 @@
               "count": 1
             }
           ],
-          "count": 2355
+          "count": 2357
         },
         {
           "name": "Emilia Romagna",
@@ -23972,7 +23977,7 @@
         }
       ],
       "cityCount": 1223,
-      "count": 2364
+      "count": 2366
     },
     {
       "name": "Jamaica",
@@ -24156,7 +24161,7 @@
             {
               "name": "Tokyo",
               "path": "/japan/tokyo/tokyo/restaurants",
-              "count": 690
+              "count": 692
             },
             {
               "name": "Tokyo Japan",
@@ -24184,11 +24189,11 @@
               "count": 2
             }
           ],
-          "count": 1399
+          "count": 1401
         }
       ],
       "cityCount": 36,
-      "count": 1399
+      "count": 1401
     },
     {
       "name": "Jordan",
@@ -24597,14 +24602,14 @@
             {
               "name": "Macau",
               "path": "/macau/macau/macau/restaurants",
-              "count": 94
+              "count": 95
             }
           ],
-          "count": 94
+          "count": 95
         }
       ],
       "cityCount": 1,
-      "count": 94
+      "count": 95
     },
     {
       "name": "Madagascar",
@@ -24885,7 +24890,7 @@
             {
               "name": "Cancún",
               "path": "/mexico/cancn/cancn/restaurants",
-              "count": 10
+              "count": 11
             },
             {
               "name": "Chocholá",
@@ -24935,7 +24940,7 @@
             {
               "name": "Ensenada",
               "path": "/mexico/ensenada/ensenada/restaurants",
-              "count": 17
+              "count": 19
             },
             {
               "name": "Guadalajara",
@@ -24985,7 +24990,7 @@
             {
               "name": "Mexico City",
               "path": "/mexico/mexico-city/mexico-city/restaurants",
-              "count": 47
+              "count": 51
             },
             {
               "name": "Miguel Hildalgo",
@@ -25055,7 +25060,7 @@
             {
               "name": "San José del Cabo",
               "path": "/mexico/san-jos-del-cabo/san-jos-del-cabo/restaurants",
-              "count": 16
+              "count": 17
             },
             {
               "name": "San Juan Teotihuacan",
@@ -25115,7 +25120,7 @@
             {
               "name": "Valle de Guadalupe",
               "path": "/mexico/valle-de-guadalupe/valle-de-guadalupe/restaurants",
-              "count": 7
+              "count": 8
             },
             {
               "name": "Villa de Juárez",
@@ -25123,11 +25128,11 @@
               "count": 1
             }
           ],
-          "count": 381
+          "count": 390
         }
       ],
       "cityCount": 57,
-      "count": 381
+      "count": 390
     },
     {
       "name": "Moldova",
@@ -26904,7 +26909,7 @@
             {
               "name": "Manila",
               "path": "/philippines/manila/manila/restaurants",
-              "count": 11
+              "count": 13
             },
             {
               "name": "Manila - Metro Manila",
@@ -26942,11 +26947,11 @@
               "count": 17
             }
           ],
-          "count": 119
+          "count": 121
         }
       ],
       "cityCount": 12,
-      "count": 119
+      "count": 121
     },
     {
       "name": "Poland",
@@ -28292,7 +28297,7 @@
               "count": 64
             },
             {
-              "name": "Gyeonggi-Do",
+              "name": "Gwangju-si",
               "path": "/south-korea/gyeonggi-do/gyeonggi-do/restaurants",
               "count": 1
             },
@@ -28407,6 +28412,16 @@
             {
               "name": "Alfaro",
               "path": "/spain/alfaro/alfaro/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Alicante",
+              "path": "/spain/alicante/alicante/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Alicante (Alacant)",
+              "path": "/spain/alicante-alacant/alicante-alacant/restaurants",
               "count": 1
             },
             {
@@ -29815,6 +29830,11 @@
               "count": 4
             },
             {
+              "name": "Mallorca",
+              "path": "/spain/mallorca/mallorca/restaurants",
+              "count": 1
+            },
+            {
               "name": "Malpica de Bergantiños",
               "path": "/spain/malpica-de-bergantios/malpica-de-bergantios/restaurants",
               "count": 1
@@ -30292,7 +30312,7 @@
             {
               "name": "Pontevedra",
               "path": "/spain/pontevedra/pontevedra/restaurants",
-              "count": 5
+              "count": 6
             },
             {
               "name": "Ponts",
@@ -31335,7 +31355,7 @@
               "count": 1
             }
           ],
-          "count": 1439
+          "count": 1443
         },
         {
           "name": "Catalonia",
@@ -31354,8 +31374,8 @@
           "count": 131
         }
       ],
-      "cityCount": 605,
-      "count": 1570
+      "cityCount": 608,
+      "count": 1574
     },
     {
       "name": "Sri Lanka",
@@ -32970,7 +32990,7 @@
             {
               "name": "Kaohsiung City",
               "path": "/taiwan/kaohsiung-city/kaohsiung-city/restaurants",
-              "count": 1
+              "count": 2
             },
             {
               "name": "New Taipei",
@@ -32998,11 +33018,11 @@
               "count": 182
             }
           ],
-          "count": 469
+          "count": 470
         }
       ],
       "cityCount": 9,
-      "count": 469
+      "count": 470
     },
     {
       "name": "Thailand",
@@ -33013,7 +33033,7 @@
             {
               "name": "Bangkok",
               "path": "/thailand/bangkok/bangkok/restaurants",
-              "count": 266
+              "count": 268
             },
             {
               "name": "Chiang Mai",
@@ -33111,11 +33131,11 @@
               "count": 13
             }
           ],
-          "count": 624
+          "count": 626
         }
       ],
       "cityCount": 20,
-      "count": 624
+      "count": 626
     },
     {
       "name": "Tunisia",
@@ -33184,7 +33204,7 @@
             {
               "name": "Istanbul",
               "path": "/trkiye/istanbul/istanbul/restaurants",
-              "count": 94
+              "count": 95
             },
             {
               "name": "Izmir",
@@ -33212,11 +33232,11 @@
               "count": 6
             }
           ],
-          "count": 174
+          "count": 175
         }
       ],
       "cityCount": 14,
-      "count": 174
+      "count": 175
     },
     {
       "name": "Turks and Caicos",
@@ -33288,19 +33308,19 @@
             {
               "name": "Abu Dhabi",
               "path": "/uae/abu-dhabi/abu-dhabi/restaurants",
-              "count": 53
+              "count": 54
             },
             {
               "name": "Dubai",
               "path": "/uae/dubai/dubai/restaurants",
-              "count": 162
+              "count": 167
             }
           ],
-          "count": 215
+          "count": 221
         }
       ],
       "cityCount": 2,
-      "count": 215
+      "count": 221
     },
     {
       "name": "United Kingdom",
@@ -33326,6 +33346,11 @@
             {
               "name": "Aberthin",
               "path": "/uk/aberthin/aberthin/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Abingdon",
+              "path": "/uk/abingdon/abingdon/restaurants",
               "count": 1
             },
             {
@@ -33361,7 +33386,7 @@
             {
               "name": "Ambleside",
               "path": "/uk/ambleside/ambleside/restaurants",
-              "count": 7
+              "count": 8
             },
             {
               "name": "Amersham",
@@ -33651,7 +33676,7 @@
             {
               "name": "Brampton",
               "path": "/uk/brampton/brampton/restaurants",
-              "count": 2
+              "count": 3
             },
             {
               "name": "Brancaster",
@@ -33816,7 +33841,7 @@
             {
               "name": "Chagford",
               "path": "/uk/chagford/chagford/restaurants",
-              "count": 2
+              "count": 3
             },
             {
               "name": "Chapel-en-le-Frith",
@@ -33826,7 +33851,7 @@
             {
               "name": "Charlbury",
               "path": "/uk/charlbury/charlbury/restaurants",
-              "count": 2
+              "count": 3
             },
             {
               "name": "Cheddleton",
@@ -33956,6 +33981,11 @@
             {
               "name": "Crail",
               "path": "/uk/crail/crail/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Cranbrook",
+              "path": "/uk/cranbrook/cranbrook/restaurants",
               "count": 1
             },
             {
@@ -34556,7 +34586,7 @@
             {
               "name": "Horsham",
               "path": "/uk/horsham/horsham/restaurants",
-              "count": 3
+              "count": 4
             },
             {
               "name": "Hoveringham",
@@ -34731,6 +34761,11 @@
             {
               "name": "Kirkmichael",
               "path": "/uk/kirkmichael/kirkmichael/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Knaresborough",
+              "path": "/uk/knaresborough/knaresborough/restaurants",
               "count": 1
             },
             {
@@ -35181,7 +35216,7 @@
             {
               "name": "Norwich",
               "path": "/uk/norwich/norwich/restaurants",
-              "count": 5
+              "count": 6
             },
             {
               "name": "Nottingham",
@@ -35196,7 +35231,7 @@
             {
               "name": "Oakham",
               "path": "/uk/oakham/oakham/restaurants",
-              "count": 2
+              "count": 3
             },
             {
               "name": "Old Windsor",
@@ -35389,6 +35424,11 @@
               "count": 1
             },
             {
+              "name": "Powys",
+              "path": "/uk/powys/powys/restaurants",
+              "count": 1
+            },
+            {
               "name": "Prestatyn",
               "path": "/uk/prestatyn/prestatyn/restaurants",
               "count": 1
@@ -35396,7 +35436,7 @@
             {
               "name": "Preston",
               "path": "/uk/preston/preston/restaurants",
-              "count": 1
+              "count": 2
             },
             {
               "name": "Pulborough",
@@ -35406,6 +35446,11 @@
             {
               "name": "Ramsbury",
               "path": "/uk/ramsbury/ramsbury/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Ramsden",
+              "path": "/uk/ramsden/ramsden/restaurants",
               "count": 1
             },
             {
@@ -35486,7 +35531,7 @@
             {
               "name": "Rye",
               "path": "/uk/rye/rye/restaurants",
-              "count": 1
+              "count": 2
             },
             {
               "name": "Saint Brelade",
@@ -35561,7 +35606,7 @@
             {
               "name": "Sevenoaks",
               "path": "/uk/sevenoaks/sevenoaks/restaurants",
-              "count": 1
+              "count": 2
             },
             {
               "name": "Sheffield",
@@ -36166,7 +36211,7 @@
             {
               "name": "Windermere",
               "path": "/uk/windermere/windermere/restaurants",
-              "count": 1
+              "count": 2
             },
             {
               "name": "Windsor",
@@ -36254,7 +36299,7 @@
               "count": 1
             }
           ],
-          "count": 944
+          "count": 960
         },
         {
           "name": "Channel Islands",
@@ -36267,10 +36312,10 @@
             {
               "name": "Jersey",
               "path": "/uk/channel-islands/jersey/restaurants",
-              "count": 5
+              "count": 6
             }
           ],
-          "count": 9
+          "count": 10
         },
         {
           "name": "East Midlands",
@@ -36350,10 +36395,10 @@
             {
               "name": "London",
               "path": "/uk/england/london/restaurants",
-              "count": 584
+              "count": 586
             }
           ],
-          "count": 590
+          "count": 592
         },
         {
           "name": "London",
@@ -36494,12 +36539,12 @@
             {
               "name": "Edinburgh",
               "path": "/uk/scotland/edinburgh/restaurants",
-              "count": 63
+              "count": 64
             },
             {
               "name": "Glasgow",
               "path": "/uk/scotland/glasgow/restaurants",
-              "count": 15
+              "count": 16
             },
             {
               "name": "Rest of Scotland",
@@ -36507,7 +36552,7 @@
               "count": 20
             }
           ],
-          "count": 98
+          "count": 100
         },
         {
           "name": "South East",
@@ -36669,14 +36714,14 @@
             {
               "name": "York",
               "path": "/uk/yorkshire-the-humber/york/restaurants",
-              "count": 24
+              "count": 25
             }
           ],
-          "count": 45
+          "count": 46
         }
       ],
-      "cityCount": 657,
-      "count": 2377
+      "cityCount": 662,
+      "count": 2399
     },
     {
       "name": "United States",
@@ -40136,7 +40181,7 @@
             {
               "name": "Philadelphia",
               "path": "/usa/pennsylvania/philadelphia/restaurants",
-              "count": 87
+              "count": 88
             },
             {
               "name": "Pittsburgh",
@@ -40164,7 +40209,7 @@
               "count": 1
             }
           ],
-          "count": 116
+          "count": 117
         },
         {
           "name": "Rhode Island",
@@ -40754,7 +40799,7 @@
             {
               "name": "Tysons",
               "path": "/usa/virginia/tysons/restaurants",
-              "count": 2
+              "count": 3
             },
             {
               "name": "Virginia Beach",
@@ -40777,7 +40822,7 @@
               "count": 2
             }
           ],
-          "count": 61
+          "count": 62
         },
         {
           "name": "Washington",
@@ -41025,7 +41070,7 @@
         }
       ],
       "cityCount": 806,
-      "count": 4905
+      "count": 4907
     },
     {
       "name": "Uruguay",

@@ -8,7 +8,7 @@
   "citySlug": "dubai",
   "path": "/uae/dubai/dubai/restaurants",
   "canonicalPath": "/uae/dubai/dubai/restaurants",
-  "count": 162,
+  "count": 167,
   "restaurants": [
     {
       "name": "FZN by Björn Frantzén",
@@ -375,10 +375,22 @@
       "path": "/uae/other/dubai/clap"
     },
     {
+      "name": "Clap Dubai",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/clap-dubai"
+    },
+    {
       "name": "Coya",
       "cuisine": "Peruvian",
       "price": "$$$$",
       "path": "/uae/other/dubai/coya"
+    },
+    {
+      "name": "COYA Dubai",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/coya-dubai"
     },
     {
       "name": "Demon Duck by Alvin Leung",
@@ -499,6 +511,12 @@
       "cuisine": "Italian",
       "price": "$$",
       "path": "/uae/other/dubai/il-borro-tuscan-bistro-dubai"
+    },
+    {
+      "name": "Il Ristorante Niko Romito — Dubai",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/il-ristorante-niko-romito-dubai"
     },
     {
       "name": "Indego by Vineet",
@@ -873,6 +891,12 @@
       "path": "/uae/other/dubai/siraj"
     },
     {
+      "name": "Smoked Room Dubai",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/smoked-room-dubai"
+    },
+    {
       "name": "StreetXO",
       "cuisine": "Contemporary",
       "price": "$$$",
@@ -1003,6 +1027,12 @@
       "cuisine": "Japanese Contemporary",
       "price": "$$$",
       "path": "/uae/other/dubai/zuma"
+    },
+    {
+      "name": "Zuma Dubai",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/zuma-dubai"
     }
   ]
 }
