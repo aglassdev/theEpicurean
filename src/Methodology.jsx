@@ -257,8 +257,7 @@ const Methodology = () => {
   return (
     <EpiPage active="methodology">
       <EpiPageHeader
-        title="On the"
-        italicWord="method."
+        title="Methodology"
         lede="How The Epicurean is built, from the philosophy of selection to the hundred-plus journals, guides, and awards that inform every entry."
       />
 
