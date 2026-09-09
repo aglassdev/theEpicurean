@@ -22,20 +22,22 @@ const cuisinesOf = (r) =>
     .map((c) => c.trim())
     .filter(Boolean);
 
-/** Photography for a card, from the WebP derivatives with the source as fallback. */
+/**
+ * Photography for a card, from the WebP derivatives with the source as fallback.
+ *
+ * An entry with no photograph of its own gets the house one. It is a single
+ * fixed width because the card is never larger than a phone's screen, and
+ * because every card without artwork is showing the same file: one request,
+ * cached once, whatever the size of the city.
+ */
 const CardArt = ({ src, name }) => {
   if (!src) {
     return (
-      <div aria-hidden style={{
-        position: 'absolute', inset: 0, background: paperDeep,
-        display: 'flex', alignItems: 'center', justifyContent: 'center',
-        padding: '1rem', textAlign: 'center',
-      }}>
-        <span style={{
-          fontFamily: serif, fontSize: '2.6rem', lineHeight: 1,
-          color: rule, letterSpacing: '.04em',
-        }}>{name.charAt(0)}</span>
-      </div>
+      <img
+        src="/images/opt/cardfallback-1600.webp"
+        alt="" aria-hidden loading="lazy" decoding="async"
+        style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }}
+      />
     );
   }
   return (

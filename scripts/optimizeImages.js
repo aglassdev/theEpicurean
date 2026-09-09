@@ -98,10 +98,16 @@ const articleImages = (() => {
   catch { return []; }
 })();
 
+// The photograph a restaurant card falls back to when the entry carries none of
+// its own, which is nearly all of them. It belongs to no page, so it is named
+// here rather than found by walking the tree. CityPage reads the same stem.
+const CARD_FALLBACK = '/images/cardfallback.png';
+
 const sources = [...new Set([
   ...CAROUSEL.map((s) => s.image),
   ...articleImages,
   ...headerSources(),
+  CARD_FALLBACK,
 ])];
 let srcBytes = 0;
 let outBytes = 0;
