@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { EpiPage, Rule, tokens, useMediaQuery } from './EpiChrome';
 import Globe from './Globe';
@@ -26,7 +26,6 @@ const HomePage = () => {
   const [slide, setSlide] = useState(0);
   const [counters, setCounters] = useState({ restaurants: 0, cities: 0, countries: 0 });
   const countersRef = useRef(null);
-  const touch = useRef({ x: 0, active: false });
   const n = CAROUSEL.length;
 
   useEffect(() => {
@@ -36,8 +35,6 @@ const HomePage = () => {
     favicon.href = '/images/E.png';
   }, []);
 
-  const go = useCallback((d) => setSlide((s) => (s + d + n) % n), [n]);
-  const goto = useCallback((i) => setSlide(((i % n) + n) % n), [n]);
 
   // Every slide sits in the viewport at opacity 0, so loading="lazy" would still
   // fetch all ten. Mount the image only for the slide on screen and its immediate
@@ -103,22 +100,6 @@ const HomePage = () => {
     return () => { obs.disconnect(); clearInterval(timer); };
   }, [reduceMotion, targets]);
 
-  const onTouchStart = (e) => { touch.current = { x: e.touches[0].clientX, active: true }; };
-  const onTouchEnd = (e) => {
-    if (!touch.current.active) return;
-    const dx = e.changedTouches[0].clientX - touch.current.x;
-    if (Math.abs(dx) > 44) go(dx < 0 ? 1 : -1);
-    touch.current.active = false;
-  };
-
-  const arrowBtn = {
-    position: 'absolute', top: '50%', transform: 'translateY(-50%)', zIndex: 3,
-    width: 48, height: 48, borderRadius: '50%', border: `1px solid rgba(250,247,240,.55)`,
-    background: 'rgba(31,26,20,.28)', color: paper, cursor: 'pointer',
-    display: 'flex', alignItems: 'center', justifyContent: 'center',
-    backdropFilter: 'blur(3px)', transition: 'background .3s ease, border-color .3s ease',
-  };
-
   return (
     <EpiPage active="home">
       {/* The page opens on the photography, so the document heading is carried for
@@ -130,12 +111,13 @@ const HomePage = () => {
         The Epicurean: every great table in the world, reconciled into one atlas.
       </h1>
 
-      {/* Featured carousel: full-bleed, keyboard and swipe navigable, always looping */}
+      {/* Featured carousel: full-bleed, and on rails. It advances on its own and
+          offers no arrows, no dots to press and no swipe, so the only thing to do
+          with a slide is follow it into the guide. */}
       <section aria-roledescription="carousel" aria-label="Featured restaurants" style={{ width: '100%' }}>
         <div
           className="epi-hero"
           style={{ position: 'relative', width: '100%', overflow: 'hidden', background: paperDeep }}
-          onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}
         >
           {CAROUSEL.map((s, i) => {
             const on = i === slide;
@@ -183,26 +165,16 @@ const HomePage = () => {
             );
           })}
 
-          {/* Prev / next */}
-          <button aria-label="Previous restaurant" onClick={() => go(-1)} style={{ ...arrowBtn, left: 'clamp(.75rem, 2vw, 1.5rem)' }}
-            onMouseEnter={(e) => { e.currentTarget.style.background = 'rgba(31,26,20,.6)'; }} onMouseLeave={(e) => { e.currentTarget.style.background = 'rgba(31,26,20,.28)'; }}>
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M15 18l-6-6 6-6" /></svg>
-          </button>
-          <button aria-label="Next restaurant" onClick={() => go(1)} style={{ ...arrowBtn, right: 'clamp(.75rem, 2vw, 1.5rem)' }}
-            onMouseEnter={(e) => { e.currentTarget.style.background = 'rgba(31,26,20,.6)'; }} onMouseLeave={(e) => { e.currentTarget.style.background = 'rgba(31,26,20,.28)'; }}>
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M9 18l6-6-6-6" /></svg>
-          </button>
-
-          {/* Indicators */}
-          <div style={{ position: 'absolute', bottom: '22px', right: 'clamp(1rem, 3vw, 2rem)', display: 'flex', gap: '10px', alignItems: 'center', zIndex: 3 }}>
-            <div role="tablist" aria-label="Choose restaurant" style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
-              {CAROUSEL.map((s, i) => (
-                <button key={i} role="tab" aria-selected={i === slide} aria-label={`${s.title}`} onClick={() => goto(i)}
-                  style={{ width: i === slide ? 26 : 12, height: 3, padding: 0, border: 'none', borderRadius: 2, cursor: 'pointer',
-                    background: i === slide ? paper : 'rgba(250,247,240,.5)', boxShadow: '0 0 4px rgba(0,0,0,.35)',
-                    transition: 'width .5s cubic-bezier(.2,.7,.2,1), background .4s ease' }} />
-              ))}
-            </div>
+          {/* Position, not navigation. The marks say how far along the loop is and
+              are not reachable or clickable, in keeping with there being no way to
+              work the carousel by hand. */}
+          <div aria-hidden style={{ position: 'absolute', bottom: '22px', right: 'clamp(1rem, 3vw, 2rem)', display: 'flex', gap: '8px', alignItems: 'center', zIndex: 3 }}>
+            {CAROUSEL.map((s, i) => (
+              <span key={i}
+                style={{ width: i === slide ? 26 : 12, height: 3, borderRadius: 2,
+                  background: i === slide ? paper : 'rgba(250,247,240,.5)', boxShadow: '0 0 4px rgba(0,0,0,.35)',
+                  transition: 'width .5s cubic-bezier(.2,.7,.2,1), background .4s ease' }} />
+            ))}
           </div>
         </div>
       </section>
