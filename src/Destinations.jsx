@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useMemo, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { EpiPage, EpiPageHeader, SmallCaps, Rule, tokens } from './EpiChrome';
+import { EpiPage, EpiPageHeader, routeClick, Rule, SmallCaps, tokens } from './EpiChrome';
 
 const { ink, inkSoft, inkMute, paper, rule, gold, goldDeep, goldSoft, serif, body, sans } = tokens;
 
@@ -34,7 +34,7 @@ const Destinations = () => {
     return () => { live = false; };
   }, []);
 
-  const goTo = useCallback((p) => (e) => { e.preventDefault(); navigate(p); }, [navigate]);
+  const goTo = useCallback((p) => routeClick(navigate, p), [navigate]);
 
   // ── Search ────────────────────────────────────────────────────────────────
   // A country match keeps the whole country; otherwise only the matching cities

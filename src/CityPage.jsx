@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { EpiPage, SmallCaps, tokens, useMediaQuery } from './EpiChrome';
+import { EpiPage, routeClick, SmallCaps, tokens, useMediaQuery } from './EpiChrome';
 
 const { ink, inkSoft, inkMute, paper, paperDeep, rule, gold, goldDeep, serif, body, sans } = tokens;
 
@@ -72,7 +72,7 @@ const CityPage = ({ data }) => {
 
   useEffect(() => { document.title = `${name} · The Epicurean`; }, [name]);
 
-  const goTo = (p) => (e) => { e.preventDefault(); navigate(p); };
+  const goTo = (p) => routeClick(navigate, p);
 
   // The symbol most of this city's tables are priced in.
   const symbol = useMemo(() => {

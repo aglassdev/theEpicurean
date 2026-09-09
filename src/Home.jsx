@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { EpiPage, Rule, tokens, useMediaQuery } from './EpiChrome';
+import { EpiPage, routeClick, Rule, tokens, useMediaQuery } from './EpiChrome';
 import Globe from './Globe';
 import { CAROUSEL } from './carousel';
 import { LOGOS } from './logos';
@@ -123,7 +123,7 @@ const HomePage = () => {
             const on = i === slide;
             return (
               <a key={i} href={s.route}
-                onClick={(e) => { e.preventDefault(); navigate(s.route); }}
+                onClick={routeClick(navigate, s.route)}
                 aria-hidden={!on} tabIndex={on ? 0 : -1}
                 aria-label={`${s.title}, ${s.location}. View in the guide.`}
                 style={{
@@ -190,7 +190,7 @@ const HomePage = () => {
               <span style={{ fontFamily: serif, fontSize: '4.6rem', float: 'left', lineHeight: .72, paddingRight: '.55rem', paddingTop: '.4rem', color: ink, fontWeight: 500 }}>W</span>
               elcome to The Epicurean, a guide for seeking the finest dining on earth, curated from over a hundred authoritative sources and reconciled into a single hierarchy. Our mission is to connect the discerning with the exceptional: the temples, the secrets, and every remarkable table in between.
             </p>
-            <a href="/methodology" onClick={(e) => { e.preventDefault(); navigate('/methodology'); }} className="epi-cta-underline"
+            <a href="/methodology" onClick={routeClick(navigate, '/methodology')} className="epi-cta-underline"
               style={{ display: 'inline-block', marginTop: '1.9rem', fontFamily: sans, fontSize: '11px', letterSpacing: '.3em', textTransform: 'uppercase', color: ink, textDecoration: 'none' }}>
               Our methodology →
             </a>
@@ -227,7 +227,7 @@ const HomePage = () => {
             <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', color: '#CFC9BD', maxWidth: '560px', lineHeight: 1.6, margin: '.4rem 0 1rem' }}>
               All {targets.restaurants.toLocaleString()} tables in the guide, plotted and explorable, from Tokyo to Tasmania, Lima to Ljubljana.
             </p>
-            <a href="/map" onClick={(e) => { e.preventDefault(); navigate('/map'); }} className="epi-cta-underline"
+            <a href="/map" onClick={routeClick(navigate, '/map')} className="epi-cta-underline"
               style={{ fontFamily: sans, fontSize: '12px', letterSpacing: '.32em', textTransform: 'uppercase', color: paper, textDecoration: 'none', width: 'fit-content' }}>
               Open the Atlas →
             </a>
@@ -242,14 +242,14 @@ const HomePage = () => {
           <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2rem, 4vw, 3.3rem)', letterSpacing: '-.015em', margin: 0, color: ink }}>
             Dispatches &amp; distinctions
           </h2>
-          <a href="/news" onClick={(e) => { e.preventDefault(); navigate('/news'); }} className="epi-cta-underline"
+          <a href="/news" onClick={routeClick(navigate, '/news')} className="epi-cta-underline"
             style={{ fontFamily: sans, fontSize: '11px', letterSpacing: '.3em', textTransform: 'uppercase', color: ink, textDecoration: 'none' }}>
             All journals →
           </a>
         </div>
 
         <div className="epi-news-grid" style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr', gap: 'clamp(2rem, 4vw, 3.5rem)', alignItems: 'start' }}>
-          <a className="epi-feature" href="/news" onClick={(e) => { e.preventDefault(); navigate('/news'); }} style={{ textDecoration: 'none', color: 'inherit', display: 'block', cursor: 'pointer' }}>
+          <a className="epi-feature" href="/news" onClick={routeClick(navigate, '/news')} style={{ textDecoration: 'none', color: 'inherit', display: 'block', cursor: 'pointer' }}>
             <div className="epi-news-lead" style={{ aspectRatio: '3/2', overflow: 'hidden', background: paperDeep, marginBottom: '1.5rem' }}>
               <div className="epi-feature-img" style={{ width: '100%', height: '100%', backgroundImage: `url(${DISPATCHES[0].image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
             </div>
@@ -261,7 +261,7 @@ const HomePage = () => {
             {DISPATCHES.slice(1).map((a, idx) => (
               <React.Fragment key={a.title}>
                 {idx > 0 && <Rule mt={0} mb={0} />}
-                <a className="epi-feature" href="/news" onClick={(e) => { e.preventDefault(); navigate('/news'); }}
+                <a className="epi-feature" href="/news" onClick={routeClick(navigate, '/news')}
                   style={{ textDecoration: 'none', color: 'inherit', cursor: 'pointer', display: 'grid', gridTemplateColumns: '132px 1fr', gap: '1.4rem', alignItems: 'center', padding: '1.6rem 0' }}>
                   <div style={{ aspectRatio: '1', overflow: 'hidden', background: paperDeep }}>
                     <div className="epi-feature-img" style={{ width: '100%', height: '100%', backgroundImage: `url(${a.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />

@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState, useCallback } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useNavigationType } from 'react-router-dom';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { tokens } from './EpiChrome';
@@ -151,8 +151,46 @@ function searchPlaces(places, raw, limit = 8) {
   return [...starts, ...contains].slice(0, limit);
 }
 
+// ── Holding your place ───────────────────────────────────────────────────────
+// Reading the atlas is a sequence: zoom into Atlanta, open a table, come back
+// for the next one. The component unmounts on the way out and the map is built
+// again on the way in, so without this the reader is returned to the whole globe
+// and has to find Atlanta a second time.
+//
+// The camera is kept for the tab and put back when the browser goes back or
+// forward, and on a reload of the same tab. Following a link to the atlas is a
+// fresh visit and still opens on the globe, as does a new tab.
+const CAMERA_KEY = 'epi:atlas:camera';
+
+const saveCamera = (map) => {
+  try {
+    const c = map.getCenter();
+    sessionStorage.setItem(CAMERA_KEY, JSON.stringify({
+      center: [c.lng, c.lat],
+      zoom: map.getZoom(),
+      bearing: map.getBearing(),
+      pitch: map.getPitch(),
+    }));
+  } catch { /* private browsing or a full quota: the globe is a fine fallback */ }
+};
+
+/** Never hand MapLibre a camera it cannot fly to; a bad value would blank the map. */
+const readCamera = () => {
+  try {
+    const v = JSON.parse(sessionStorage.getItem(CAMERA_KEY) || 'null');
+    const sane =
+      v && Array.isArray(v.center) && v.center.length === 2 && v.center.every(Number.isFinite)
+      && Math.abs(v.center[0]) <= 180 && Math.abs(v.center[1]) <= 90
+      && Number.isFinite(v.zoom) && v.zoom >= 0 && v.zoom <= 18;
+    return sane ? v : null;
+  } catch { return null; }
+};
+
 const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', projection = 'mercator' }) => {
   const navigate = useNavigate();
+  // POP is the browser's own back and forward, and the first render after a
+  // reload. A PUSH means the reader followed a link here and wants the globe.
+  const arrivedByHistory = useNavigationType() === 'POP';
   const nodeRef = useRef(null);
   const mapRef = useRef(null);
   const dataRef = useRef([]);
@@ -186,16 +224,22 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
       placesRef.current = buildGazetteer(recs);
       if (cancelled) return;
 
+      const held = arrivedByHistory ? readCamera() : null;
       map = new maplibregl.Map({
         container: nodeRef.current,
         style: STYLE_URL,
-        center: homeRef.current.center,
-        zoom: homeRef.current.zoom,
+        center: held ? held.center : homeRef.current.center,
+        zoom: held ? held.zoom : homeRef.current.zoom,
+        bearing: held?.bearing || 0,
+        pitch: held?.pitch || 0,
         cooperativeGestures: !fullPage,
         maxZoom: 18,
         attributionControl: { compact: true },
       });
       mapRef.current = map;
+      // Every pan, zoom, search and pin click ends in a moveend, so this covers
+      // all of them without each having to remember to record anything.
+      map.on('moveend', () => saveCamera(map));
       map.addControl(new maplibregl.NavigationControl({ showCompass: true }), 'top-right');
 
       map.on('load', () => {
@@ -270,6 +314,9 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
           // In-guide links navigate via the router (no full reload).
           const guide = popup.getElement()?.querySelector('[data-guide]');
           if (guide) guide.addEventListener('click', (ev) => {
+            // Only a plain left click routes in place; cmd, ctrl, shift and the
+            // middle button belong to the browser and open a tab or a window.
+            if (ev.button !== 0 || ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.altKey) return;
             ev.preventDefault();
             popup.remove();
             navigate(guide.getAttribute('href'));

@@ -8,7 +8,7 @@ import News from './News';
 import Article from './Article';
 import CityPage from './CityPage';
 import RestaurantTemplate from './RestaurantTemplate';
-import { EpiPage, tokens } from './EpiChrome';
+import { EpiPage, routeClick, tokens } from './EpiChrome';
 
 // Every city — domestic or not — is served the same way: a listing at
 // /components/{country}/{region}/{city}/index.json, fetched at runtime and
@@ -135,8 +135,8 @@ const DynamicPage = () => {
             We couldn't find that page in the guide.
           </p>
           <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', justifyContent: 'center' }}>
-            <a href="/" onClick={(e) => { e.preventDefault(); navigate('/'); }} style={{ ...link, color: tokens.paper, background: tokens.ink }}>Return home</a>
-            <a href="/destinations" onClick={(e) => { e.preventDefault(); navigate('/destinations'); }} style={{ ...link, color: tokens.ink, border: `1px solid ${tokens.ink}` }}>Browse destinations</a>
+            <a href="/" onClick={routeClick(navigate, '/')} style={{ ...link, color: tokens.paper, background: tokens.ink }}>Return home</a>
+            <a href="/destinations" onClick={routeClick(navigate, '/destinations')} style={{ ...link, color: tokens.ink, border: `1px solid ${tokens.ink}` }}>Browse destinations</a>
           </div>
         </section>
       </EpiPage>

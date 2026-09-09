@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { EpiPage, EpiPageHeader, Rule, tokens } from './EpiChrome';
+import { EpiPage, EpiPageHeader, routeClick, Rule, tokens } from './EpiChrome';
 import { loadDesk, frontPage, sectionName } from './articles';
 
 const { ink, inkSoft, inkMute, paperDeep, rule, goldDeep, serif, body, sans } = tokens;
@@ -46,7 +46,7 @@ const News = () => {
     [desk]
   );
 
-  const goTo = (p) => (e) => { e.preventDefault(); navigate(p); };
+  const goTo = (p) => routeClick(navigate, p);
   const href = (a) => `/news/${a.slug}`;
 
   const kicker = (a) => (

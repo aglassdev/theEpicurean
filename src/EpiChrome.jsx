@@ -107,6 +107,24 @@ export const useEpiStyles = () => {
   }, []);
 };
 
+// ── Routing a link without taking the browser's gestures away ─────
+/**
+ * onClick for an anchor that routes in place. A plain left click is handled by
+ * the router; anything that means "open this somewhere else" is left to the
+ * browser, so cmd or ctrl click opens a new tab, shift a new window, alt saves,
+ * and a middle click opens a background tab.
+ *
+ * Right click never reaches here, so Open Link in New Tab works on its own, but
+ * only if the element is a real anchor with a real href. Nothing that navigates
+ * should be a bare div or an SVG group.
+ */
+export const routeClick = (navigate, to) => (e) => {
+  if (e.defaultPrevented) return;
+  if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+  e.preventDefault();
+  navigate(to);
+};
+
 // ── Small-caps label (functional labels only — never as a heading eyebrow) ──
 export const SmallCaps = ({ children, style = {} }) => (
   <span style={{
@@ -130,10 +148,10 @@ const NAV_LINKS = [
 ];
 
 const navBtn = {
-  background: 'none', border: 'none',
   fontFamily: tokens.sans, fontSize: '11px', fontWeight: 400,
   letterSpacing: '.3em', textTransform: 'uppercase',
   cursor: 'pointer', color: tokens.ink, padding: '4px 0',
+  textDecoration: 'none', whiteSpace: 'nowrap',
 };
 
 const Wordmark = ({ scrolled, onClick, size }) => (
@@ -162,7 +180,7 @@ export const EpiNav = ({ active }) => {
   }, []);
   useEffect(() => { if (!mobile) setOpen(false); }, [mobile]);
 
-  const go = (path) => (e) => { if (e) e.preventDefault(); setOpen(false); navigate(path); };
+  const go = (path) => (e) => { setOpen(false); routeClick(navigate, path)(e); };
   const cls = (key) => `epi-nav-link ${active === key ? 'active' : ''}`;
 
   if (mobile) {
@@ -184,12 +202,12 @@ export const EpiNav = ({ active }) => {
         {open && (
           <div style={{ borderTop: `1px solid ${tokens.rule}`, background: tokens.paper, padding: '.5rem 1.25rem 1.25rem', display: 'flex', flexDirection: 'column' }}>
             {NAV_LINKS.map(([key, label, path]) => (
-              <button key={key} className="epi-menu-item" onClick={go(path)} style={{
-                background: 'none', border: 'none', textAlign: 'left', cursor: 'pointer',
+              <a key={key} className="epi-menu-item" href={path} onClick={go(path)} style={{
+                textAlign: 'left', cursor: 'pointer', textDecoration: 'none',
                 fontFamily: tokens.serif, fontSize: '1.5rem', letterSpacing: '.01em',
                 color: active === key ? tokens.gold : tokens.ink,
                 padding: '.7rem 0', borderBottom: `1px solid ${tokens.rule}`,
-              }}>{label}</button>
+              }}>{label}</a>
             ))}
           </div>
         )}
@@ -201,13 +219,13 @@ export const EpiNav = ({ active }) => {
     <nav style={{ position: 'sticky', top: 0, zIndex: 1000, background: tokens.paper, borderBottom: `1px solid ${tokens.rule}` }}>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: scrolled ? '.65rem 2.25rem' : '1.35rem 2.25rem' }}>
         <div style={{ display: 'flex', gap: '2.25rem', flex: 1 }}>
-          <button className={cls('news')} onClick={go('/news')} style={navBtn}>News</button>
-          <button className={cls('methodology')} onClick={go('/methodology')} style={navBtn}>Methodology</button>
+          <a className={cls('news')} href="/news" onClick={go('/news')} style={navBtn}>News</a>
+          <a className={cls('methodology')} href="/methodology" onClick={go('/methodology')} style={navBtn}>Methodology</a>
         </div>
         <Wordmark scrolled={scrolled} onClick={go('/')} />
         <div style={{ display: 'flex', gap: '2.25rem', flex: 1, justifyContent: 'flex-end', alignItems: 'center' }}>
-          <button className={cls('atlas')} onClick={go('/map')} style={navBtn}>Atlas</button>
-          <button className={cls('destinations')} onClick={go('/destinations')} style={navBtn}>Destinations</button>
+          <a className={cls('atlas')} href="/map" onClick={go('/map')} style={navBtn}>Atlas</a>
+          <a className={cls('destinations')} href="/destinations" onClick={go('/destinations')} style={navBtn}>Destinations</a>
         </div>
       </div>
     </nav>
@@ -217,7 +235,7 @@ export const EpiNav = ({ active }) => {
 // ── Footer ────────────────────────────────────────────────────────
 export const EpiFooter = () => {
   const navigate = useNavigate();
-  const go = (href) => (e) => { e.preventDefault(); if (href !== '#') navigate(href); };
+  const go = (href) => (e) => { if (href !== '#') routeClick(navigate, href)(e); };
   return (
     <footer style={{ background: tokens.ink, color: tokens.paper, padding: '4.5rem 2.5rem 2rem' }}>
       <div className="epi-two-col" style={{

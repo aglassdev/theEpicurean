@@ -3,6 +3,7 @@ import React, {
   useCallback, useRef,
 } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { routeClick } from './EpiChrome';
 
 // ─── Canvas ───────────────────────────────────────────────────────────────────
 const W = 960, H = 500;
@@ -453,10 +454,15 @@ const InteractiveMap = () => {
             {isInState && cityMarkers.map((city) => {
               const hov = hovCity === city.name;
               return (
-                <g key={city.name} data-mk style={{ cursor:'pointer' }}
-                   onClick={() => navigate(city.path)}
-                   onMouseEnter={() => { setHovCity(city.name); showTip(`${city.name} · ${city.count} restaurants`); }}
-                   onMouseLeave={() => { setHovCity(null); hideTip(); }}>
+                // The pin is an anchor rather than a group with a handler, so the
+                // browser has a link to offer: right click gets a context menu and
+                // cmd click opens the city in a new tab. data-mk stays on the group
+                // the transform is written to.
+                <g key={city.name} data-mk>
+                  <a href={city.path} style={{ cursor:'pointer' }}
+                     onClick={routeClick(navigate, city.path)}
+                     onMouseEnter={() => { setHovCity(city.name); showTip(`${city.name} · ${city.count} restaurants`); }}
+                     onMouseLeave={() => { setHovCity(null); hideTip(); }}>
                   {/* Drop shadow */}
                   <ellipse cx="0" cy="3" rx={PR*0.75} ry={PR*0.32} fill="rgba(0,0,0,0.16)" />
                   {/* Teardrop body */}
@@ -483,6 +489,7 @@ const InteractiveMap = () => {
                       {city.count} restaurants
                     </text>
                   )}
+                  </a>
                 </g>
               );
             })}

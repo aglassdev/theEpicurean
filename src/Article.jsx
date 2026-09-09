@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
-import { EpiPage, Rule, SmallCaps, tokens } from './EpiChrome';
+import { EpiPage, routeClick, Rule, SmallCaps, tokens } from './EpiChrome';
 import { loadDesk, sectionName } from './articles';
 
 const { ink, inkSoft, inkMute, paper, paperDeep, rule, gold, goldDeep, serif, body, sans } = tokens;
@@ -75,7 +75,7 @@ const Article = () => {
       .slice(0, 3);
   }, [desk, article]);
 
-  const goTo = (p) => (e) => { e.preventDefault(); navigate(p); };
+  const goTo = (p) => routeClick(navigate, p);
 
   if (!desk) {
     return (
