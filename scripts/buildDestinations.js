@@ -224,6 +224,11 @@ const CITY_ALIASES = {
   'argentina/godoy-cruz': 'Mendoza',
   'brazil/sao-paulo': 'São Paulo',
   'brazil/so-paulo': 'São Paulo',
+  'uruguay/jose-ignacio': 'José Ignacio',
+  'uruguay/jos-ignacio': 'José Ignacio',
+  // Pehebiya Beach is the stretch of sand Dikwella sits on, and the one table
+  // filed there is in the town.
+  'sri-lanka/pehebiya': 'Dikwella',
 };
 
 // Directory slugs lost their accents ("san-sebastin", "so-paulo"), but the
@@ -406,7 +411,11 @@ for (const dir of findCityDirs()) {
   let region = regionName(countrySlug, regionSlug);
   // Outside the USA the region level is almost always a copy of the city; a region
   // recovered below (or a real US state) is genuine and should group the tree.
-  let regionIsReal = regionSlug !== citySlug;
+  // "Other" is the bucket an import falls into when it carries no region, so it
+  // is never a place. The USA branch below can often recover a real state from
+  // the postcodes; everywhere else the city simply sits directly under its
+  // country, which is how Dubai and Singapore read.
+  let regionIsReal = regionSlug !== citySlug && regionSlug !== 'other';
   if (countrySlug === 'usa' && regionSlug === 'other') {
     const votes = {};
     for (const z of zips) {
@@ -501,9 +510,16 @@ for (const place of places.values()) {
   // one that just repeats the city: /spain/catalonia/barcelona reads as an address,
   // /spain/barcelona/barcelona does not. Page count only breaks the tie.
   const canonical = [...place.variants].sort((a, b) => {
-    const realA = a.regionSlug !== a.citySlug ? 1 : 0;
-    const realB = b.regionSlug !== b.citySlug ? 1 : 0;
-    return realB - realA || b.restaurants.length - a.restaurants.length;
+    // A real region first. Then, between variants that have none, the one not
+    // parked in the "other" bucket, so Singapore is reached at
+    // /singapore/singapore/singapore rather than /singapore/other/singapore even
+    // though the bucket holds more of its pages. Both URLs still work, and both
+    // are written the same union listing. Size only settles what is left.
+    const real = (v) => (v.regionSlug !== v.citySlug && v.regionSlug !== 'other' ? 1 : 0);
+    const bucketed = (v) => (v.regionSlug === 'other' ? 1 : 0);
+    return real(b) - real(a)
+      || bucketed(a) - bucketed(b)
+      || b.restaurants.length - a.restaurants.length;
   })[0];
   const canonicalPath = `/${canonical.rel.join('/')}/restaurants`;
 

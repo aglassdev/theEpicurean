@@ -2,13 +2,13 @@
   "title": "Singapore",
   "country": "Singapore",
   "countrySlug": "singapore",
-  "region": "Other",
+  "region": null,
   "regionSlug": "other",
   "city": "Singapore",
   "citySlug": "singapore",
   "path": "/singapore/other/singapore/restaurants",
-  "canonicalPath": "/singapore/other/singapore/restaurants",
-  "count": 377,
+  "canonicalPath": "/singapore/singapore/singapore/restaurants",
+  "count": 385,
   "hero": "/images/singaporeheader.png",
   "restaurants": [
     {
@@ -416,6 +416,12 @@
       "path": "/singapore/other/singapore/ann-chin-handmade-popiah"
     },
     {
+      "name": "ANTO",
+      "cuisine": "",
+      "price": "",
+      "path": "/singapore/singapore/singapore/anto"
+    },
+    {
       "name": "Ar Er Soup",
       "cuisine": "Street Food",
       "price": "$",
@@ -644,6 +650,12 @@
       "path": "/singapore/other/singapore/come-daily-fried-hokkien-prawn-mee"
     },
     {
+      "name": "COTE Singapore",
+      "cuisine": "",
+      "price": "",
+      "path": "/singapore/singapore/singapore/cote-singapore"
+    },
+    {
       "name": "Crystal Jade Golden Palace",
       "cuisine": "Cantonese",
       "price": "$$",
@@ -690,6 +702,12 @@
       "cuisine": "Scandinavian",
       "price": "$$",
       "path": "/singapore/other/singapore/dill-s-i-n"
+    },
+    {
+      "name": "Dolce Vita",
+      "cuisine": "",
+      "price": "",
+      "path": "/singapore/singapore/singapore/dolce-vita"
     },
     {
       "name": "Dudu Cooked Food",
@@ -1236,6 +1254,12 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/koka-wanton-noodles"
+    },
+    {
+      "name": "KOMA Singapore",
+      "cuisine": "",
+      "price": "",
+      "path": "/singapore/singapore/singapore/koma-singapore"
     },
     {
       "name": "Kotuwa",
@@ -1916,6 +1940,12 @@
       "path": "/singapore/other/singapore/spago-dining-room"
     },
     {
+      "name": "Spago Singapore",
+      "cuisine": "",
+      "price": "",
+      "path": "/singapore/singapore/singapore/spago-singapore"
+    },
+    {
       "name": "Spinach Soup",
       "cuisine": "Street Food",
       "price": "$",
@@ -1994,6 +2024,12 @@
       "path": "/singapore/other/singapore/sushi-yuki"
     },
     {
+      "name": "Sushi Zen",
+      "cuisine": "",
+      "price": "",
+      "path": "/singapore/singapore/singapore/sushi-zen"
+    },
+    {
       "name": "Tai Seng Fish Soup",
       "cuisine": "Street Food",
       "price": "$",
@@ -2040,6 +2076,12 @@
       "cuisine": "",
       "price": "",
       "path": "/singapore/singapore/singapore/the-elephant-room-bar"
+    },
+    {
+      "name": "The Lobby Lounge",
+      "cuisine": "",
+      "price": "",
+      "path": "/singapore/singapore/singapore/the-lobby-lounge"
     },
     {
       "name": "The Prince",
@@ -2280,6 +2322,12 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/yummy-sarawak-kolo-mee"
+    },
+    {
+      "name": "Zafferano",
+      "cuisine": "",
+      "price": "",
+      "path": "/singapore/singapore/singapore/zafferano"
     },
     {
       "name": "Zai Shun Curry Fish Head",

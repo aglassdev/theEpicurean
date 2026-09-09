@@ -2,13 +2,13 @@
   "title": "Luxembourg",
   "country": "Luxembourg",
   "countrySlug": "luxembourg",
-  "region": "Other",
+  "region": null,
   "regionSlug": "other",
   "city": "Luxembourg",
   "citySlug": "luxembourg",
   "path": "/luxembourg/other/luxembourg/restaurants",
-  "canonicalPath": "/luxembourg/other/luxembourg/restaurants",
-  "count": 22,
+  "canonicalPath": "/luxembourg/luxembourg/luxembourg/restaurants",
+  "count": 23,
   "restaurants": [
     {
       "name": "Grünewald Chef’s Table",
@@ -97,6 +97,12 @@
       "cuisine": "Modern French",
       "price": "$$$$",
       "path": "/luxembourg/luxembourg/luxembourg/la-cristallerie"
+    },
+    {
+      "name": "Le Lys",
+      "cuisine": "",
+      "price": "",
+      "path": "/luxembourg/luxembourg/luxembourg/le-lys"
     },
     {
       "name": "Le Plëss",

@@ -2,13 +2,13 @@
   "title": "Dubai",
   "country": "United Arab Emirates",
   "countrySlug": "uae",
-  "region": "Other",
+  "region": null,
   "regionSlug": "dubai",
   "city": "Dubai",
   "citySlug": "dubai",
   "path": "/uae/dubai/dubai/restaurants",
-  "canonicalPath": "/uae/other/dubai/restaurants",
-  "count": 159,
+  "canonicalPath": "/uae/dubai/dubai/restaurants",
+  "count": 162,
   "restaurants": [
     {
       "name": "FZN by Björn Frantzén",
@@ -205,6 +205,12 @@
       "cuisine": "Emirati Cuisine",
       "price": "$",
       "path": "/uae/other/dubai/alfanar"
+    },
+    {
+      "name": "Alba Restaurant Dubai",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/alba-restaurant-dubai"
     },
     {
       "name": "Amazónico",
@@ -507,6 +513,12 @@
       "path": "/uae/other/dubai/indikaya"
     },
     {
+      "name": "Indochine Dubai",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/indochine-dubai"
+    },
+    {
       "name": "Indya by Vineet",
       "cuisine": "Indian",
       "price": "$$",
@@ -655,6 +667,12 @@
       "cuisine": "",
       "price": "",
       "path": "/uae/dubai/dubai/mausam"
+    },
+    {
+      "name": "Maya — Dubai",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/maya-dubai"
     },
     {
       "name": "MayaBay",

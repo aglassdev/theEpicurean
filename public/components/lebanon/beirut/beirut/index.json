@@ -8,8 +8,14 @@
   "citySlug": "beirut",
   "path": "/lebanon/beirut/beirut/restaurants",
   "canonicalPath": "/lebanon/beirut/beirut/restaurants",
-  "count": 6,
+  "count": 10,
   "restaurants": [
+    {
+      "name": "BARON",
+      "cuisine": "",
+      "price": "",
+      "path": "/lebanon/beirut/beirut/baron"
+    },
     {
       "name": "Beihouse",
       "cuisine": "",
@@ -21,6 +27,12 @@
       "cuisine": "",
       "price": "",
       "path": "/lebanon/beirut/beirut/buco"
+    },
+    {
+      "name": "Clap Beirut",
+      "cuisine": "",
+      "price": "",
+      "path": "/lebanon/beirut/beirut/clap-beirut"
     },
     {
       "name": "Dead End Paradise (Bar)",
@@ -39,6 +51,18 @@
       "cuisine": "",
       "price": "",
       "path": "/lebanon/beirut/beirut/electric-bing-sutt-bar"
+    },
+    {
+      "name": "Em Sherif",
+      "cuisine": "",
+      "price": "",
+      "path": "/lebanon/beirut/beirut/em-sherif"
+    },
+    {
+      "name": "Liza Beirut",
+      "cuisine": "",
+      "price": "",
+      "path": "/lebanon/beirut/beirut/liza-beirut"
     },
     {
       "name": "Tawlet Mar Mikhael",

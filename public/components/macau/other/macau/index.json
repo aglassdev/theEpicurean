@@ -2,13 +2,13 @@
   "title": "Macau",
   "country": "Macau",
   "countrySlug": "macau",
-  "region": "Other",
+  "region": null,
   "regionSlug": "other",
   "city": "Macau",
   "citySlug": "macau",
   "path": "/macau/other/macau/restaurants",
-  "canonicalPath": "/macau/other/macau/restaurants",
-  "count": 89,
+  "canonicalPath": "/macau/macau/macau/restaurants",
+  "count": 94,
   "restaurants": [
     {
       "name": "Jade Dragon",
@@ -151,6 +151,12 @@
       "award": "Bib Gourmand"
     },
     {
+      "name": "8½ Otto e Mezzo - Bombana",
+      "cuisine": "",
+      "price": "",
+      "path": "/macau/macau/macau/8-otto-e-mezzo-bombana"
+    },
+    {
       "name": "A Lorcha",
       "cuisine": "Portuguese",
       "price": "$$",
@@ -161,6 +167,12 @@
       "cuisine": "Portuguese",
       "price": "$$",
       "path": "/macau/other/macau/albergue1601"
+    },
+    {
+      "name": "Aurora",
+      "cuisine": "",
+      "price": "",
+      "path": "/macau/macau/macau/aurora"
     },
     {
       "name": "Aux Beaux Arts",
@@ -239,6 +251,12 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/macau/other/macau/fong-kei"
+    },
+    {
+      "name": "Fontana",
+      "cuisine": "",
+      "price": "",
+      "path": "/macau/macau/macau/fontana"
     },
     {
       "name": "Golden Flower",
@@ -463,6 +481,12 @@
       "path": "/macau/other/macau/sw-steakhouse"
     },
     {
+      "name": "Tenmasa",
+      "cuisine": "",
+      "price": "",
+      "path": "/macau/macau/macau/tenmasa"
+    },
+    {
       "name": "Teppanyaki Shou",
       "cuisine": "",
       "price": "",
@@ -545,6 +569,12 @@
       "cuisine": "",
       "price": "",
       "path": "/macau/macau/macau/wing-lei-wynn-macau"
+    },
+    {
+      "name": "Yamazato Macau",
+      "cuisine": "",
+      "price": "",
+      "path": "/macau/macau/macau/yamazato-macau"
     },
     {
       "name": "Yi",

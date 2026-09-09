@@ -20,6 +20,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { countrySlugFrom } from './countrySlug.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -59,7 +60,7 @@ for (const rel of files) {
   const base = parts[parts.length - 1].replace(/\.json$/, '');
   const cslug = (parts[parts.length - 2] || '').toLowerCase().replace(/[^a-z0-9]/g, '');
   const route = '/' + parts.join('/').replace(/\.json$/, '');
-  const entry = { route, citySlug: cslug };
+  const entry = { route, citySlug: cslug, country: countrySlugFrom(parts[0]) };
   add(base.toLowerCase(), entry);
   // Filenames get shortened by hand (PattyOsCafe.json holds "Patty O's Cafe &
   // Bakery"), so index the name the page actually declares as well.
@@ -74,11 +75,20 @@ for (const rel of files) {
 }
 console.log(`  ${files.length} detail pages · ${index.size} unique names\n`);
 
+// Countries the tree files pages under. A record whose country field holds a city
+// ("Canberra", "San Francisco") will not be in here, and is left to match on name
+// as before rather than being refused a page it may well belong to.
+const KNOWN_COUNTRIES = new Set(
+  fs.readdirSync(COMPONENTS, { withFileTypes: true })
+    .filter((e) => e.isDirectory())
+    .map((e) => countrySlugFrom(e.name))
+);
+
 // ── Enrich ──────────────────────────────────────────────────────────────────
 const geo = JSON.parse(fs.readFileSync(GEO_PATH, 'utf8'));
 const list = geo.restaurants || [];
 
-const findRoute = (name, city) => {
+const findRoute = (name, city, country) => {
   // Sources spell the same restaurant several ways: with or without a leading
   // article, "&" or "and", and sometimes with the city tacked on the end
   // ("Sushi Nakazawa Washington DC"). Try each shape before giving up.
@@ -108,15 +118,31 @@ const findRoute = (name, city) => {
     }
   }
   if (!cand.length) return null;
-  if (cand.length === 1) return cand[0].route;
+
+  // A name on its own is not an identity. Tri is a dining room on Koggala Lake in
+  // Sri Lanka and also a restaurant in Agger, Denmark; Acanto is in Milan and in
+  // Chicago; Ad Hoc is in Napa and in Osaka. Matching on the name alone handed
+  // every one of them the first page found, so the others lost the page they
+  // should have had and their cities never reached Destinations.
+  //
+  // A page in another country is therefore never the same restaurant. Where the
+  // record's country field is unreadable or holds a city, there is nothing to
+  // check against and the old behaviour stands.
+  const rc = countrySlugFrom(country);
+  const inSameCountry = cand.filter((c) => c.country === rc);
+  const usable = inSameCountry.length ? inSameCountry
+    : (rc && KNOWN_COUNTRIES.has(rc) ? [] : cand);
+  if (!usable.length) return null;
+  if (usable.length === 1) return usable[0].route;
+
   const cs = citySlug(city);
-  return (cand.find((c) => c.citySlug === cs) || cand[0]).route;
+  return (usable.find((c) => c.citySlug === cs) || usable[0]).route;
 };
 
 let linked = 0;
 for (const r of list) {
   if (r.lng == null) { if (r.p) delete r.p; continue; }
-  const route = findRoute(r.n, r.c);
+  const route = findRoute(r.n, r.c, r.co);
   if (route) { r.p = route; linked++; }
   else if (r.p) delete r.p; // clear any stale link
 }

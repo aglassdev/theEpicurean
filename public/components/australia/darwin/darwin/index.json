@@ -8,7 +8,7 @@
   "citySlug": "darwin",
   "path": "/australia/darwin/darwin/restaurants",
   "canonicalPath": "/australia/darwin/darwin/restaurants",
-  "count": 5,
+  "count": 7,
   "restaurants": [
     {
       "name": "Charlie's of Darwin",
@@ -29,6 +29,12 @@
       "path": "/australia/darwin/darwin/hanuman"
     },
     {
+      "name": "Junoon",
+      "cuisine": "",
+      "price": "",
+      "path": "/australia/darwin/darwin/junoon"
+    },
+    {
       "name": "Pee Wee's at the Point",
       "cuisine": "",
       "price": "",
@@ -39,6 +45,12 @@
       "cuisine": "",
       "price": "",
       "path": "/australia/darwin/darwin/pepperberry"
+    },
+    {
+      "name": "Stone House",
+      "cuisine": "",
+      "price": "",
+      "path": "/australia/darwin/darwin/stone-house"
     }
   ]
 }
