@@ -123,8 +123,7 @@ const Destinations = () => {
   return (
     <EpiPage active="destinations">
       <EpiPageHeader
-        title="Every destination,"
-        italicWord="indexed."
+        title="Destinations"
         lede="Browse the guide by country and city, every corner of the world where a remarkable table awaits. For the interactive map, visit the Atlas."
       />
 
