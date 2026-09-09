@@ -28,11 +28,16 @@ const GEO_PATH = path.join(ROOT, 'public', 'data', 'restaurants-geo.json');
 const COMPONENTS = path.join(ROOT, 'public', 'components');
 
 // ── Name transforms (exact replica of generateRestaurants.js) ─────────────────
-const compName = (s) => (s || '')
+const pascal = (s) => (s || '')
   .replace(/[^a-zA-Z0-9\s]/g, '')
   .split(/\s+/).filter(Boolean)
   .map((w) => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase())
   .join('');
+// A name made only of marks strips to nothing: Ñ, the bar in Osaka, and KŌEN in
+// the Maldives. Folding the accents away gives N and KOEN, which is what the
+// page generator names their files. Same fallback, same order, both sides.
+const compName = (s) =>
+  pascal(s) || pascal(String(s || '').normalize('NFD').replace(/\p{M}+/gu, ''));
 const cityAcr = (c) => (c || '').replace(/[^a-zA-Z]/g, '').substring(0, 3).toUpperCase();
 const citySlug = (s) => compName(s).toLowerCase().replace(/[^a-z0-9]/g, '');
 

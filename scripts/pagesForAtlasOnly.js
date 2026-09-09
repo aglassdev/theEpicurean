@@ -24,6 +24,8 @@ import { fileURLToPath } from 'url';
 import { createRequire } from 'module';
 import { feature } from 'topojson-client';
 import { isExcludedChain } from './excludedChains.js';
+import { countrySlugFrom } from './countrySlug.js';
+import { USPS, uspsFromZip } from './usZips.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -36,8 +38,12 @@ const quiet = process.argv.includes('--quiet');
 //    directories that already exist rather than beside them ──────────────────
 const slugify = (t) => (t || '').toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-')
   .replace(/-+/g, '-').replace(/^-+|-+$/g, '').trim();
-const componentName = (n) => (n || '').replace(/[^a-zA-Z0-9\s]/g, '').split(/\s+/).filter(Boolean)
+const pascal = (n) => (n || '').replace(/[^a-zA-Z0-9\s]/g, '').split(/\s+/).filter(Boolean)
   .map((w) => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('');
+// Ñ, the Osaka bar, is one character and it is not in a-z, so the plain transform
+// leaves nothing to name a file after. Folding the accent away gives N.
+const componentName = (n) =>
+  pascal(n) || pascal(String(n || '').normalize('NFD').replace(/\p{M}+/gu, ''));
 
 const STATES = {
   AL: 'alabama', AK: 'alaska', AZ: 'arizona', AR: 'arkansas', CA: 'california', CO: 'colorado',
@@ -58,21 +64,24 @@ const STATE_SLUG = Object.fromEntries(
 );
 const STATE_NAMES = new Set(Object.keys(STATE_SLUG));
 
-function countrySlugFrom(text) {
-  const s = (text || '').toLowerCase();
-  if (/\busa\b|united states/.test(s)) return 'usa';
-  if (/hong kong/.test(s)) return 'hong-kong';
-  if (/macau/.test(s)) return 'macau';
-  if (/united kingdom|england|scotland|wales|northern ireland|\buk\b/.test(s)) return 'uk';
-  if (/south korea|korea/.test(s)) return 'south-korea';
-  if (/czech/.test(s)) return 'czechia';
-  if (/united arab emirates|dubai|abu dhabi/.test(s)) return 'uae';
-  if (/ireland/.test(s)) return 'ireland';
-  // Natural Earth abbreviates a few names; use the spelling the tree already has.
-  if (/dominican/.test(s)) return 'dominican-republic';
-  if (/bosnia/.test(s)) return 'bosnia-and-herzegovina';
-  return slugify((text || '').split(',').pop().trim()) || '';
+/**
+ * A country field holding a city ("Palm Beach") tells us nothing on its own, but
+ * an address ending in a state code and a ZIP that agree with each other does.
+ * Both have to agree: an Italian province code looks the same ("Milan, MI 20121")
+ * and its postcode will not fall in Michigan's range.
+ */
+function usaFromAddress(address) {
+  const m = String(address || '').match(/,\s*([A-Z]{2})[,\s]+(\d{5})\b/);
+  if (!m) return false;
+  const [, code, zip] = m;
+  return !!USPS[code] && uspsFromZip(zip) === code;
 }
+
+/** A country name carries letters, no digits, and is not a US state. */
+const readsLikeACountry = (v) => {
+  const t = String(v || '').trim();
+  return t.length > 3 && /\p{L}/u.test(t) && !/\d/.test(t) && !STATE_NAMES.has(t.toLowerCase());
+};
 
 /** A country value has to look like a place, not a postcode or a city. */
 const plausibleCountry = (v) =>
@@ -147,9 +156,14 @@ function locate(rec) {
   const cs = STATE_NAMES.has(text.toLowerCase()) ? 'usa'
     // Otherwise trust the text when it names a country we recognise, else the map.
     : KNOWN.has(fromText) ? fromText
-    : countrySlugFrom(countryAt(rec.lng, rec.lat) || text);
+    : usaFromAddress(rec.a) ? 'usa'
+    : countrySlugFrom(countryAt(rec.lng, rec.lat) || text) || fromText;
   const city = (rec.c || '').trim();
-  if (!cs || !KNOWN.has(cs) || !city) return null;
+  // KNOWN is the tree plus Natural Earth at 110m, which drops the small islands:
+  // the Maldives, the Caymans, Bermuda, Anguilla, Saint Barthélemy, Réunion. They
+  // are countries with restaurants in them, so a value that reads like a country
+  // is enough even when nothing recognises it yet.
+  if (!cs || !city || !(KNOWN.has(cs) || readsLikeACountry(text))) return null;
 
   if (cs === 'usa') {
     const m = (rec.a || '').match(/,\s*([A-Z]{2})[,\s]+\d{5}/);

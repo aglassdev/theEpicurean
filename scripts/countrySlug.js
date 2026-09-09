@@ -32,6 +32,19 @@ export const countrySlugFrom = (text) => {
   if (/bosnia/.test(s)) return 'bosnia-and-herzegovina';
   if (/philippines/.test(s)) return 'philippines';
   if (/monaco/.test(s)) return 'monaco';
+
+  // Small states and overseas territories arrive spelt several ways, and a couple
+  // of records put a village in the country field. Left alone these become three
+  // Reunions and two Turks and Caicoses.
+  if (/r(é|e|)union/.test(s)) return 'reunion';
+  if (/turks/.test(s)) return 'turks-and-caicos';
+  if (/kitts/.test(s)) return 'saint-kitts-and-nevis';
+  if (/\bst\.?\s*lucia|saint lucia/.test(s)) return 'saint-lucia';
+  if (/barth(é|e)lemy|barthelemy|\bst\.?\s*barth/.test(s)) return 'saint-barthelemy';
+  if (/anguilla/.test(s)) return 'anguilla';
+  if (/\bst\.?\s*vincent/.test(s)) return 'saint-vincent-and-the-grenadines';
+  if (/caribbean netherlands|bonaire/.test(s)) return 'caribbean-netherlands';
+
   // Otherwise the last comma-separated part, which is where a country sits in an
   // address and is the whole string when the field is already just a country.
   return slugify(s.split(',').pop().trim());

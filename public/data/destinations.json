@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T07:22:12.847Z",
+  "generatedAt": "2026-09-09T16:40:17.351Z",
   "totals": {
-    "countries": 108,
-    "cities": 7794,
-    "restaurants": 29641,
+    "countries": 123,
+    "cities": 7817,
+    "restaurants": 29716,
     "atlas": {
       "restaurants": 28795
     }
@@ -79,6 +79,29 @@
       "count": 1
     },
     {
+      "name": "Anguilla",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Long Bay Village Anguilla",
+              "path": "/anguilla/long-bay-village-anguilla/long-bay-village-anguilla/restaurants",
+              "count": 1
+            },
+            {
+              "name": "The Valley",
+              "path": "/anguilla/the-valley/the-valley/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 2
+        }
+      ],
+      "cityCount": 2,
+      "count": 2
+    },
+    {
       "name": "Argentina",
       "regions": [
         {
@@ -128,6 +151,24 @@
       ],
       "cityCount": 2,
       "count": 2
+    },
+    {
+      "name": "Aruba",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Noord",
+              "path": "/aruba/noord/noord/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "cityCount": 1,
+      "count": 1
     },
     {
       "name": "Australia",
@@ -2319,6 +2360,24 @@
       "count": 7
     },
     {
+      "name": "Bahrain",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Manama",
+              "path": "/bahrain/manama/manama/restaurants",
+              "count": 8
+            }
+          ],
+          "count": 8
+        }
+      ],
+      "cityCount": 1,
+      "count": 8
+    },
+    {
       "name": "Barbados",
       "regions": [
         {
@@ -4375,6 +4434,24 @@
       "count": 837
     },
     {
+      "name": "Bermuda",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Bermuda",
+              "path": "/bermuda/bermuda/bermuda/restaurants",
+              "count": 4
+            }
+          ],
+          "count": 4
+        }
+      ],
+      "cityCount": 1,
+      "count": 4
+    },
+    {
       "name": "Bolivia",
       "regions": [
         {
@@ -5026,6 +5103,42 @@
       ],
       "cityCount": 98,
       "count": 621
+    },
+    {
+      "name": "Caribbean Netherlands",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Bonaire",
+              "path": "/caribbean-netherlands/bonaire/bonaire/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "cityCount": 1,
+      "count": 1
+    },
+    {
+      "name": "Cayman Islands",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Grand Cayman",
+              "path": "/cayman-islands/grand-cayman/grand-cayman/restaurants",
+              "count": 15
+            }
+          ],
+          "count": 15
+        }
+      ],
+      "cityCount": 1,
+      "count": 15
     },
     {
       "name": "Chile",
@@ -6013,6 +6126,24 @@
       ],
       "cityCount": 11,
       "count": 50
+    },
+    {
+      "name": "Fiji",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Turtle Island",
+              "path": "/fiji/turtle-island/turtle-island/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "cityCount": 1,
+      "count": 1
     },
     {
       "name": "Finland",
@@ -23990,7 +24121,7 @@
             {
               "name": "Osaka",
               "path": "/japan/osaka/osaka/restaurants",
-              "count": 275
+              "count": 276
             },
             {
               "name": "Osawa",
@@ -24053,11 +24184,11 @@
               "count": 2
             }
           ],
-          "count": 1398
+          "count": 1399
         }
       ],
       "cityCount": 36,
-      "count": 1398
+      "count": 1399
     },
     {
       "name": "Jordan",
@@ -24535,6 +24666,29 @@
       ],
       "cityCount": 6,
       "count": 165
+    },
+    {
+      "name": "Maldives",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Hulu Walu",
+              "path": "/maldives/hulu-walu/hulu-walu/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Maldives",
+              "path": "/maldives/maldives/maldives/restaurants",
+              "count": 24
+            }
+          ],
+          "count": 25
+        }
+      ],
+      "cityCount": 2,
+      "count": 25
     },
     {
       "name": "Malta",
@@ -27502,6 +27656,39 @@
       "count": 54
     },
     {
+      "name": "Reunion",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Le Tampon",
+              "path": "/reunion/le-tampon/le-tampon/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Saint Denis",
+              "path": "/reunion/saint-denis/saint-denis/restaurants",
+              "count": 2
+            },
+            {
+              "name": "Saint Leu",
+              "path": "/reunion/saint-leu/saint-leu/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Saint Louis",
+              "path": "/reunion/saint-louis/saint-louis/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 5
+        }
+      ],
+      "cityCount": 4,
+      "count": 5
+    },
+    {
       "name": "Romania",
       "regions": [
         {
@@ -27596,6 +27783,88 @@
       "count": 1
     },
     {
+      "name": "Saint Barthelemy",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Saint Barthlemy",
+              "path": "/saint-barthelemy/saint-barthlemy/saint-barthlemy/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "cityCount": 1,
+      "count": 1
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "St. Kitts & Nevis",
+              "path": "/saint-kitts-and-nevis/st-kitts-nevis/st-kitts-nevis/restaurants",
+              "count": 3
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "cityCount": 1,
+      "count": 3
+    },
+    {
+      "name": "Saint Lucia",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Cochon",
+              "path": "/saint-lucia/cochon/cochon/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Gros Islet",
+              "path": "/saint-lucia/gros-islet/gros-islet/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Soufriere",
+              "path": "/saint-lucia/soufriere/soufriere/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "cityCount": 3,
+      "count": 3
+    },
+    {
+      "name": "Samoa",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Apia",
+              "path": "/samoa/apia/apia/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "cityCount": 1,
+      "count": 1
+    },
+    {
       "name": "Saudi Arabia",
       "regions": [
         {
@@ -27645,6 +27914,24 @@
       ],
       "cityCount": 2,
       "count": 29
+    },
+    {
+      "name": "Seychelles",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Victoria",
+              "path": "/seychelles/victoria/victoria/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "cityCount": 1,
+      "count": 1
     },
     {
       "name": "Singapore",
@@ -32932,6 +33219,29 @@
       "count": 174
     },
     {
+      "name": "Turks and Caicos",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Turks & Caicos Islands",
+              "path": "/turks-and-caicos/turks-caicos-islands/turks-caicos-islands/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Turks and Caicos Islands",
+              "path": "/turks-and-caicos/turks-and-caicos-islands/turks-and-caicos-islands/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 2
+        }
+      ],
+      "cityCount": 2,
+      "count": 2
+    },
+    {
       "name": "Ukraine",
       "regions": [
         {
@@ -37842,7 +38152,7 @@
             {
               "name": "Palm Beach",
               "path": "/usa/florida/palm-beach/restaurants",
-              "count": 21
+              "count": 22
             },
             {
               "name": "Palm Beach Gardens",
@@ -37935,7 +38245,7 @@
               "count": 7
             }
           ],
-          "count": 418
+          "count": 419
         },
         {
           "name": "Georgia",
@@ -40715,7 +41025,7 @@
         }
       ],
       "cityCount": 806,
-      "count": 4904
+      "count": 4905
     },
     {
       "name": "Uruguay",

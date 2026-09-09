@@ -515,6 +515,17 @@ const WorldMap = ({ fullPage = false, showSearch = false, height = '70vh', proje
             }} />
             Restaurant
           </span>
+          {/* A pale pin is one the geocoder could only place at the centre of its
+              town, not at its door. It says nothing about the guide: every pin on
+              this map opens a page. Without this line a reader can only guess. */}
+          <span style={{ display: 'flex', alignItems: 'center', gap: '.5rem' }}>
+            <span style={{
+              width: 11, height: 11, background: GOLD, border: `1px solid ${INK}`,
+              borderRadius: '50% 50% 50% 0', transform: 'rotate(45deg)',
+              display: 'inline-block', opacity: 0.55,
+            }} />
+            Approximate location
+          </span>
         </div>
       )}
     </div>
