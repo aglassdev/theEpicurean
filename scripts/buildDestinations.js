@@ -233,6 +233,8 @@ const CITY_ALIASES = {
   // the city: "Gwangju-Si, Gyeonggi-Do, South Korea". Gyeonggi-do is the province
   // Gwangju-si sits in.
   'south-korea/gyeonggi-do': 'Gwangju-si',
+  // Every address there writes it AlUla, so that is what the guide recovered.
+  'saudi-arabia/alula': 'al-Ula',
 };
 
 // Directory slugs lost their accents ("san-sebastin", "so-paulo"), but the

@@ -20,7 +20,8 @@
     "link-pages": "node scripts/linkGuidePages.js",
     "import-datasets": "node scripts/importDatasets.js",
     "cleanup": "node scripts/cleanup.js",
-    "fix-places": "node scripts/fixPlaces.js"
+    "fix-places": "node scripts/fixPlaces.js",
+    "address-report": "node scripts/addressReport.js"
   },
   "dependencies": {
     "@visx/geo": "^3.12.0",
