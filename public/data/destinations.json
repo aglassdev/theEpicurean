@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-09T19:24:08.018Z",
+  "generatedAt": "2026-09-09T21:51:36.137Z",
   "totals": {
     "countries": 123,
     "cities": 7826,
-    "restaurants": 29781,
+    "restaurants": 29780,
     "atlas": {
-      "restaurants": 28712
+      "restaurants": 28711
     }
   },
   "countries": [
@@ -28256,7 +28256,7 @@
             {
               "name": "Johannesburg",
               "path": "/south-africa/johannesburg/johannesburg/restaurants",
-              "count": 5
+              "count": 4
             },
             {
               "name": "Paternoster",
@@ -28279,11 +28279,11 @@
               "count": 1
             }
           ],
-          "count": 38
+          "count": 37
         }
       ],
       "cityCount": 7,
-      "count": 38
+      "count": 37
     },
     {
       "name": "South Korea",
@@ -33245,13 +33245,13 @@
           "name": null,
           "cities": [
             {
-              "name": "Turks & Caicos Islands",
-              "path": "/turks-and-caicos/turks-caicos-islands/turks-caicos-islands/restaurants",
+              "name": "Providenciales",
+              "path": "/turks-and-caicos/providenciales/providenciales/restaurants",
               "count": 1
             },
             {
-              "name": "Turks and Caicos Islands",
-              "path": "/turks-and-caicos/turks-and-caicos-islands/turks-and-caicos-islands/restaurants",
+              "name": "South Caicos",
+              "path": "/turks-and-caicos/south-caicos/south-caicos/restaurants",
               "count": 1
             }
           ],

@@ -1,8 +1,10 @@
 /**
- * Brands the guide does not carry.
+ * Names the guide does not carry.
  *
- * These are multi-location chains that arrived with the geocoded set as one entry
- * per branch ("The Capital Grille — Atlanta").
+ * Mostly multi-location chains that arrived with the geocoded set as one entry
+ * per branch ("The Capital Grille — Atlanta"), and a few entries that are not
+ * restaurants at all: a safari operator's sales office reached the set as a
+ * table in Johannesburg.
  *
  * A rule matches on `brand` (the part of the name before a dash, so every branch
  * goes with the brand while an unrelated restaurant sharing a first word does
@@ -51,6 +53,10 @@ export const EXCLUDED_CHAINS = [
   // Volume chains.
   { prefix: 'Sweetfin' },
   { prefix: 'Big Bad Breakfast' },
+
+  // Not a restaurant. Sabi Sabi is a private game reserve by the Kruger, and the
+  // address that reached the guide is its sales office on Jameson Avenue.
+  { brand: 'Sabi Sabi Private Game Reserve' },
 ];
 
 const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();

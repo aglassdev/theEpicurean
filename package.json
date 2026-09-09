@@ -10,7 +10,7 @@
     "destinations": "node scripts/buildDestinations.js",
     "images": "node scripts/optimizeImages.js",
     "prune-chains": "node scripts/pruneChains.js",
-    "build": "node scripts/convertToJSON.js && node scripts/pruneChains.js --quiet && node scripts/buildArticles.js --quiet && node scripts/buildDestinations.js --quiet && node scripts/optimizeImages.js --quiet && vite build",
+    "build": "node scripts/convertToJSON.js && node scripts/fixPlaces.js --quiet && node scripts/pruneChains.js --quiet && node scripts/buildArticles.js --quiet && node scripts/buildDestinations.js --quiet && node scripts/optimizeImages.js --quiet && vite build",
     "build-fast": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
@@ -19,7 +19,8 @@
     "geocode": "node scripts/geocodeRestaurants.js",
     "link-pages": "node scripts/linkGuidePages.js",
     "import-datasets": "node scripts/importDatasets.js",
-    "cleanup": "node scripts/cleanup.js"
+    "cleanup": "node scripts/cleanup.js",
+    "fix-places": "node scripts/fixPlaces.js"
   },
   "dependencies": {
     "@visx/geo": "^3.12.0",
