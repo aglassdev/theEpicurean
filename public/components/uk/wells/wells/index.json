@@ -8,8 +8,14 @@
   "citySlug": "wells",
   "path": "/uk/wells/wells/restaurants",
   "canonicalPath": "/uk/wells/wells/restaurants",
-  "count": 1,
+  "count": 2,
   "restaurants": [
+    {
+      "name": "Root",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/wells/wells/root"
+    },
     {
       "name": "Root Wells",
       "cuisine": "Vegetarian, Modern Cuisine",

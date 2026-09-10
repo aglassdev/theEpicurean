@@ -140,8 +140,13 @@ const findRoute = (name, city, country) => {
   if (!usable.length) return null;
   if (usable.length === 1) return usable[0].route;
 
+  // "Washington D.C" and a page filed under washington are the same place, so
+  // the city test allows one to be a prefix of the other rather than demanding
+  // they be written identically.
   const cs = citySlug(city);
-  return (usable.find((c) => c.citySlug === cs) || usable[0]).route;
+  const sameCity = (c) => c.citySlug === cs
+    || (cs && c.citySlug && (cs.startsWith(c.citySlug) || c.citySlug.startsWith(cs)));
+  return (usable.find(sameCity) || usable[0]).route;
 };
 
 let linked = 0;

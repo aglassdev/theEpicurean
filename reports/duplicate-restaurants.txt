@@ -1,0 +1,25 @@
+THE EPICUREAN · DUPLICATE CHECK
+Generated 2026-09-10 from public/data/restaurants-geo.json
+
+  28,031 atlas pins across 28,031 pages
+
+  0 pages hold the same restaurant more than once  (0 surplus pins)
+  0 pages are shared by restaurants that are not the same  (0 without a page of their own)
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+ONE RESTAURANT, SEVERAL RECORDS  (0)
+The pins sit within a kilometre of each other, so this is one place whose
+address was written two ways. Safe to merge; --fix does it.
+────────────────────────────────────────────────────────────────────────────────────────────────────
+RESTAURANT                        APART   THE ADDRESSES IT IS FILED UNDER
+
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+SEVERAL RESTAURANTS, ONE PAGE  (0)
+These are different places sharing a name inside one country, so the linker
+gave them all the first page it found. Each needs its own; --fix leaves them.
+────────────────────────────────────────────────────────────────────────────────────────────────────
+PAGE                                                APART    THE RESTAURANTS ON IT
+

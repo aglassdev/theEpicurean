@@ -8,8 +8,14 @@
   "citySlug": "koksijde",
   "path": "/belgium/koksijde/koksijde/restaurants",
   "canonicalPath": "/belgium/koksijde/koksijde/restaurants",
-  "count": 4,
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Carcasse",
+      "cuisine": "",
+      "price": "",
+      "path": "/belgium/koksijde/koksijde/carcasse"
+    },
     {
       "name": "De Huifkar",
       "cuisine": "Traditional Cuisine",
@@ -33,6 +39,12 @@
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€€",
       "path": "/belgium/koksijde/koksijde/nils"
+    },
+    {
+      "name": "Willem Hiele",
+      "cuisine": "",
+      "price": "",
+      "path": "/belgium/koksijde/koksijde/willem-hiele"
     }
   ]
 }

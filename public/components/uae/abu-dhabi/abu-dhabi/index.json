@@ -8,7 +8,7 @@
   "citySlug": "abu-dhabi",
   "path": "/uae/abu-dhabi/abu-dhabi/restaurants",
   "canonicalPath": "/uae/abu-dhabi/abu-dhabi/restaurants",
-  "count": 54,
+  "count": 59,
   "hero": "/images/abudhabiheader.png",
   "restaurants": [
     {
@@ -142,6 +142,18 @@
       "path": "/uae/abu-dhabi/abu-dhabi/cipriani-dolci"
     },
     {
+      "name": "Coya",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/abu-dhabi/abu-dhabi/coya"
+    },
+    {
+      "name": "COYA Abu Dhabi",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/abu-dhabi/abu-dhabi/coya-abu-dhabi"
+    },
+    {
       "name": "Dai Pai Dong",
       "cuisine": "Chinese",
       "price": "$$$",
@@ -188,6 +200,12 @@
       "cuisine": "Malaysian",
       "price": "$",
       "path": "/uae/abu-dhabi/abu-dhabi/kopitiam-by-chandys"
+    },
+    {
+      "name": "La Petite Maison (LPM)",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/abu-dhabi/abu-dhabi/la-petite-maison-lpm"
     },
     {
       "name": "Li Beirut",
@@ -344,6 +362,18 @@
       "cuisine": "Italian",
       "price": "$$$$",
       "path": "/uae/abu-dhabi/abu-dhabi/villa-toscana"
+    },
+    {
+      "name": "Zuma",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/abu-dhabi/abu-dhabi/zuma"
+    },
+    {
+      "name": "Zuma Abu Dhabi",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/abu-dhabi/abu-dhabi/zuma-abu-dhabi"
     }
   ]
 }

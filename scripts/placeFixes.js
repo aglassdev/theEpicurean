@@ -37,6 +37,18 @@ export const PLACE_FIXES = [
     lng: -71.497465,
   },
   {
+    // The country field holds a postcode, "236022", so nothing could tell this
+    // apart from Seasons in Riga and it was given the Latvian page.
+    name: 'SEASONS',
+    country: /^236022$/,
+    city: 'Kaliningrad',
+    countryName: 'Russia',
+    address: 'Prospekt Mira 74, Kaliningrad, 236022, Russia',
+    // OpenStreetMap has the restaurant on that address by name.
+    lat: 54.720722,
+    lng: 20.479907,
+  },
+  {
     name: 'Le Golfe',
     country: /tunisia/i,
     city: 'Tunis',
@@ -70,7 +82,7 @@ export const applyPlaceFix = (rec) => {
   const fix = placeFixFor(rec);
   if (!fix) return false;
   let changed = false;
-  for (const key of [['city', 'c'], ['address', 'a'], ['lat', 'lat'], ['lng', 'lng']]) {
+  for (const key of [['city', 'c'], ['countryName', 'co'], ['address', 'a'], ['lat', 'lat'], ['lng', 'lng']]) {
     const [from, to] = key;
     if (fix[from] !== undefined && rec[to] !== fix[from]) { rec[to] = fix[from]; changed = true; }
   }

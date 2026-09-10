@@ -1,21 +1,20 @@
 THE EPICUREAN · RESTAURANTS WITHOUT A USABLE ADDRESS
-Generated 2026-09-09 from public/data/restaurants-geo.json
+Generated 2026-09-10 from public/data/restaurants-geo.json
 
 No geocoder can place these at a door, because the record does not say where
 the door is. They are pinned at the centre of their town instead, which is why
 they show as pale pins on the Atlas.
 
-  128 carry no address at all
-  1539 carry an address that names a town but no street
-  1667 in total, of 28710 restaurants
+  123 carry no address at all
+  1500 carry an address that names a town but no street
+  1623 in total, of 28031 restaurants
 
 
 ────────────────────────────────────────────────────────────────────────────────────────────────────
-NO ADDRESS AT ALL  (128)
+NO ADDRESS AT ALL  (123)
 ────────────────────────────────────────────────────────────────────────────────────────────────────
 RESTAURANT                                    CITY                    COUNTRY
 
-KARRisma                                                              
 Tegui                                         Buenos Aires            Argentina
 1884                                          Godoy Cruz              Argentina
 Quay                                          Sydney                  Australia
@@ -112,7 +111,6 @@ The Spa                                       Lamai Beach             Thailand
 Changa                                        Istanbul                Türkiye
 Al Mahara                                     Dubai                   United Arab Emirates
 Orfali Bros Bistro                            Dubai                   United Arab Emirates
-Gidleigh Park                                 Changford               United Kingdom
 The Three Chimneys                            Isle of Skye            United Kingdom
 Hakkasan                                      London                  United Kingdom
 Hibiscus                                      London                  United Kingdom
@@ -127,13 +125,10 @@ The Merchant House                            London                  United Kin
 The Square                                    London                  United Kingdom
 The Waterside Inn                             London                  United Kingdom
 Tom Aikens                                    London                  United Kingdom
-The Fat Duck                                  Maidenhead              United Kingdom
 Le Manoir aux Quat'Saison                     Oxford                  United Kingdom
-Le Manoir aux Quat'Saisons                    Oxford                  United Kingdom
 Ginza Sushiko                                 Beverly Hills           United States
 Spago                                         Beverly Hills           United States
 Nepenthe                                      Big Sur                 United States
-Charlie Trotter's                             Chicago                 United States
 Manresa                                       Los Gatos               United States
 Momofuku Ssäm Bar                             New York                United States
 Spice Market                                  New York                United States
@@ -146,11 +141,10 @@ Coi                                           San Francisco           United Sta
 
 
 ────────────────────────────────────────────────────────────────────────────────────────────────────
-AN ADDRESS, BUT NO STREET IN IT  (1539)
+AN ADDRESS, BUT NO STREET IN IT  (1500)
 ────────────────────────────────────────────────────────────────────────────────────────────────────
 RESTAURANT                            CITY                COUNTRY           WHAT THE RECORD SAYS
 
-3Fils Abu Dhabi                       Abu Dhabi           Abu Dhabi         The Abu Dhabi EDITION, Al Bateen, Abu Dhabi
 Almayass                              Abu Dhabi           Abu Dhabi         The Galleria Mall Al Maryah Island, Level 1, Abu Dhabi
 Cafe Milano                           Abu Dhabi           Abu Dhabi         Four Seasons Hotel, The Galleria Level 1, Al Maryah Island, Abu Dhabi
 Coya                                  Abu Dhabi           Abu Dhabi         The Galleria, Four Seasons Al Maryah Island Hotel, Abu Dhabi
@@ -265,14 +259,12 @@ HimmerRiget                           Farsø               Denmark           Him
 Dragsholm Slot Gourmet                Hørve               Denmark           Dragsholm Alle, 4534 Hørve, Denmark
 Okê                                   Skagen              Denmark           Ruths Hotel, Hans Ruths Vej 1, Skagen, 9990, Denmark
 Bamboo at Tortuga Bay                 Punta Cana          Dominican RepublicPunta Cana Motorway, Punta Cana 23000 Dominican Republic 1 (809) 959-2222 Visit hotel website
-Amazónico                             Dubai               Dubai             DIFC Pavilion, Dubai
 Demon Duck by Alvin Leung             Dubai               Dubai             Banyan Tree Dubai, Bluewaters Island, Dubai
 DUO Gastrobar-Creek Harbour           Dubai               Dubai             Grand Creek Harbour Residence, Tower 2, Dubai Creek Harbour, Dubai
 Ibn Albahr                            Dubai               Dubai             Club Vista Mare, Palm Jumeirah, Dubai
 Il Ristorante-Niko Romito             Dubai               Dubai             Bulgari Resort Dubai Hotel, Jumeirah Bay Island, Jumeirah 2, Dubai
 Jamavar                               Dubai               Dubai             Address Residences, Opera District, Downtown Dubai, Dubai
 Little Miss India                     Dubai               Dubai             Fairmont The Palm, Palm Jumeirah, Dubai
-LOWE                                  Dubai               Dubai             KOA Canvas, Wadi Al Safa 3, Dubai
 Masti                                 Dubai               Dubai             The Dubai Edition Hotel, Floor 1, Downtown, Dubai
 Mimi Mei Fair                         Dubai               Dubai             Address Residences, Opera District, Downtown Dubai, Dubai
 Sexy Fish                             Dubai               Dubai             Innovation One, 11th floor, DIFC, Dubai
@@ -313,7 +305,6 @@ Le Beau Rivage                        Caurel              France            Lac 
 Auberge de Montpoupon                 Céré-la-Ronde       France            Le Moulin Bailly, Céré-la-Ronde, 37460, France
 Le Vieux Moulin                       Chabanais           France            Étang du Bouchaud, Chabanais, 16150, France
 Le Matafan                            Chamonix Mont-Blanc France            Hôtel Mont-Blanc, 62 allée du Majestic, Chamonix Mont-Blanc, 74400, France
-La Table de la Bergerie               Champ-sur-Layon     France            Lieu dit La Bergerie, 49380 Champ-sur-Layon, France
 Erre                                  Chassy              France            Domaine du Roncemay, Chassy, 89110, France
 Auberge La Gaillotière                Château-Thébaud     France            Lieu-dit La Gaillotière, Château-Thébaud, 44690, France
 Serge Vieira                          Chaudes-Aigues      France            Le Couffour, 15110 Chaudes-Aigues, France
@@ -353,7 +344,6 @@ La Cabro d'Or                         Les Baux-de-ProvenceFrance            Mas 
 René et Maxime Meilleur La Bouitte    Les Belleville      France            Saint-Martin-de-Belleville, 73440 Les Belleville, France
 Brasserie Constance - Abbaye de VillenLes Sorinières      France            Lieu-dit Villeneuve, Les Sorinières, 44840, France
 Le 1201 - Abbaye de Villeneuve        Les Sorinières      France            Lieu-dit Villeneuve, Les Sorinières, 44840, France
-La Chapelle Saint-Martin              Limoges             France            Saint-Martin-du-Fault, 87510, France
 Augustine - La Table du Château       Maffliers           France            Allée des Marronniers, Maffliers, 95560, France
 Le Petit Nice                         Marseille           France            Anse de Maldorme, 13007 Marseille, France
 Dyades au Domaine des Étangs          Massignac           France            Les Étangs, 16310 Massignac, France
@@ -394,7 +384,6 @@ Le Cèdre de Montcaud                  Sabran              France            Ham
 Restaurant Marcon                     Saint-Bonnet-le-FroiFrance            Larsiallas, Saint-Bonnet-le-Froid, 43290, France
 La Baratte                            Saint-Denis-le-Vêtu France            Le Bourg, Saint-Denis-le-Vêtu, 50210, France
 Les Belles Perdrix de Troplong Mondot Saint-Emilion       France            Lieu-dit Troplong-Mondot, Saint-Emilion, 33330, France
-Les Trois Soleils de Montal           Saint-Jean-LespinassFrance            Les Prés-de, Montal, 46400 Saint-Jean-Lespinasse, France
 L'Orangerie - Château de la BarbinièreSaint-Laurent-sur-SèFrance            La Barbinière, Saint-Laurent-sur-Sèvre, 85290, France
 Le Petit Léon                         Saint-Léon-sur-VézèrFrance            Le Bourg, 24290 Saint-Léon-sur-Vézère, France
 René et Maxime Meilleur               Saint-Martin-de-BellFrance            Hameau de Saint-Marcel, Saint-Martin-de-Belleville, 73440, France
@@ -558,7 +547,6 @@ Alto                                  Fiorano Modenese    Italy             Circ
 Borgo San Jacopo                      Florence            Italy             Borgo S. Jacopo, 62r, 50125 Firenze FI, Italy
 Gucci Giardino                        Florence            Italy             P.za della Signoria, 37r, 50122 Firenze FI, Italy
 Il Palagio                            Florence            Italy             Borgo Pinti, 99, 50121 Firenze FI, Italy
-L'Agave                               Framura             Italy             Località Chiama, Framura, 19014, Italy
 L’Agave Framura                       Framura             Italy             Località Chiama, 1, 19014 Framura SP, Italy
 Locanda La Raia                       Gavi                Italy             Località Lomellina, 26, 15066 Gavi AL, Italy
 Hostaria Ducale                       Genoa               Italy             Salita di S. Matteo, 29/R, 16123 Genova GE, Italy
@@ -606,7 +594,6 @@ Locanda Cacciatori                    Ponte dell'Olio     Italy             Loca
 Il Pellicano                          Porto Ercole        Italy             Località Sbarcatello, 58019 Porto Ercole GR, Italy
 Cracco Portofino                      Portofino           Italy             Molo Umberto I, 9, 16034 Portofino GE, Italy
 Clandestino Susci Bar                 Portonovo           Italy             Baia di Portonovo, Portonovo, 60020, Italy
-La Sala dei Grappoli                  Province of Siena   Italy             Poggio alle Mura, 53024, Italy
 Fradis Minoris                        Pula                Italy             Laguna di Nora, Pula, 09010, Italy
 L'Ambasciata                          Quistello           Italy             Piazzetta Ambasciatori del Gusto, 1, 46026 Quistello MN, Italy
 Fattoria Borrello                     Raccuja             Italy             Contrada Bosco, 98067 Raccuja ME, Italy
@@ -737,7 +724,6 @@ Lakeside Trattoria                    Macau               Macau             Wynn
 Mizumi | Wynn Macau                   Macau               Macau             Wynn Macau, R. Cidade de Sintra, Macao
 Palace Garden                         Macau               Macau             Grand Lisboa Palace, Level 3, R. do Tiro, Macao
 Pin Yue Xuan                          Macau               Macau             s/n Estrada da Baia de Nossa Senhora da Esperanca, Macao
-Sushi Kissho by Miyakawa              Macau               Macau             Raffles at Galaxy, Galaxy Macau™ Integrated Resort, Cotai, Macau 2F, Macao
 SW Steakhouse                         Macau               Macau             MacaoAv. da Nave Desportiva, Wynn Palace, Cotai, Macau
 Teppanyaki Shou                       Macau               Macau             Raffles at Galaxy, Galaxy Macau™ Integrated Resort, Cotai, Macau 2F, Macao
 Terrazza                              Macau               Macau             Galaxy Macau, Cotai, Macau
@@ -755,7 +741,6 @@ Il Bacaro                             George Town         Malaysia          Camp
 Lum Lai Duck Meat Koay Teow Th'ng     George Town         Malaysia          Pasar Lebuh Cecil, 24 Lebuh Cecil, George Town, 10300, Malaysia
 The Longhouse                         Kota Kinabalu       Malaysia          Polish Bay, Gaya Island Sabah Borneo Kota Kinabalu, Sabah, Malaysia
 LAVO                                  Kuala Lumpur        Malaysia          Golf & Country Resort, Menara Lien Hoe, 8, Persiaran Tropicana, Tropicana, 47410 Petaling Jaya, Selangor, Malaysia
-Marini’s on 57                        Kuala Lumpur        Malaysia          Petronas, Level 57, Menara 3, Persiaran KLCC, 50088 Kuala Lumpur, Malaysia
 The Dining Room at The Datai          Langkawi            Malaysia          Jln Teluk Datai, 07000 Pulau Langkawi, Kedah, Malaysia
 Gēn                                   Penang              Malaysia          Gēn 根, 8, Gat Lebuh Gereja, 10300 George Town, Penang, Malaysia
 Edge                                  Hulu Walu           Maldives          Olhuveli, Kudahuvadhoo Dhaalu Atoll, 13080, Maldives
@@ -795,7 +780,6 @@ Le Chique                             Cancún              Mexico            Azu
 Ramona                                Cancún              Mexico            Punta Nizuc, Hotel Zone, 77500 Cancún, Quintana Roo, Mexico
 Ixi'im                                Chocholá            Mexico            Chablé Yucatán, Tablaje #642, San Antonio Chablé, Chocholá, 97816, Mexico
 Restaurante Legazpi                   Colima              Mexico            Las Hadas, Península de Santiago, 28867 Manzanillo, Colima, Mexico
-Esquina Común                         Cuauhtémoc          Mexico            Fernando Montes De Oca, 86, Condesa, Cuauhtémoc, 06140, Mexico
 Galea                                 Cuauhtémoc          Mexico            Sinaloa, 67, Roma Norte, Cuauhtémoc, 06700, Mexico
 Lorea                                 Cuauhtémoc          Mexico            Sinaloa, 141, Roma Norte, Cuauhtémoc, 06700, Mexico
 Máximo                                Cuauhtémoc          Mexico            Álvaro Obregón, 65 Bis, Roma Norte, Cuauhtémoc, 06700, Mexico
@@ -900,7 +884,6 @@ Porto Santa Maria                     Cascais             Portugal          Prai
 Refeitrº                              Coimbra             Portugal          Quintal do Prior - Terreiro Erva, 2 a 4, Coimbra, 3000-339, Portugal
 A Cozinha do Paço                     Évora               Portugal          Paço do Morgado de Oliveira, Estrada M527 - Km10, Évora, 7000-016, Portugal
 Avista Ásia                           Funchal             Portugal          Estrada Monumental,145, Funchal, 9004-532, Portugal
-Bon Bon                               Lagoa               Portugal          Estrada de Sesmarias, Lagoa, 8400-010, Portugal
 Al Sud                                Lagos               Portugal          Resort Clubhouse, Lagos, 8500-250, Portugal
 Cozinha do Douro                      Lamego              Portugal          Quinta Vale de Abraão-Samodães, Lamego, 5100-758, Portugal
 Mesa15                                Leiria              Portugal          Estrada da Estação, 12, Leiria, 2415-408, Portugal
@@ -916,7 +899,6 @@ Pátio 44                              Porto               Portugal          Pas
 Herdade do Esporão                    Reguengos de MonsaraPortugal          Herdade do Esporão, Reguengos de Monsaraz, 7200-999, Portugal
 Vale Abraão                           Samodães            Portugal          Quinta Vale de Abrão, 5100-758 Samodães, Portugal
 Mesa de Lemos                         Silgueiros          Portugal          Quinta de Lemos - Passos de Silgueiros, Silgueiros, 3500-541, Portugal
-LAB by Sergi Arola                    Sintra              Portugal          Estrada da Lagoa Azul, Sintra, 2714-511, Portugal
 Midori                                Sintra              Portugal          Quinta da Lagoa Azul, 2714-511 Sintra, Portugal
 Seixo by Vasco Coelho Santos          Tabuaço             Portugal          Quinta do Seixo, Tabuaço, 5120-495, Portugal
 Salão Nobre                           Vidago              Portugal          Parque de Vidago, Vidago, 5425-307, Portugal
@@ -965,7 +947,6 @@ Killiecrankie House                   Killiecrankie       Scotland          Kill
 Airds Hotel and Restaurant            Port Appin          Scotland          Port Appin, Appin PA38 4DF, Scotland
 Knockinaam Lodge                      Portpatrick         Scotland          Portpatrick, Stranraer DG9 9AD, Scotland
 The Library at Douneside House        Tarland             Scotland          Tarland, Aboyne AB34 4UL, Scotland
-Seasgair by Michel Roux Jr            Torlundy            Scotland          Torlundy, Fort William PH33 6SN, Scotland
 1887                                  Torridon            Scotland          Torridon Hotel, Annat, By Achnasheen, Torridon, IV22 2EY, United Kingdom
 Fleur de Sel                          Novi Slankamen      Serbia            Počenta bb, Novi Slankamen 22323, Serbia
 Fiamma                                Singapore           Singapore         Capella Hotel, 1 The Knolls, Sentosa Island, 098297, Singapore
@@ -1060,7 +1041,6 @@ El Pescador                           Cudillero           Spain             Tolo
 Casa de La Sirena                     Cuenca              Spain             Canónigos, Cuenca, 16001, Spain
 Casas Colgadas Restaurante            Cuenca              Spain             C. Canónigos, 16001 Cuenca, Spain
 Divino Steak House                    Culleredo           Spain             Ramón Cabanillas, Culleredo, 15670, Spain
-El Olivo                              Deià                Spain             Finca Son Canals, Deià, 07179, Spain
 L'Antic Molí                          El Castell          Spain             El Castell, Tarragona, Spain
 Cabaña Buenavista                     El Palmar           Spain             Urbanizacion Buenavista, 30120, Murcia, Spain
 Sa Clastra                            Es Capdellà         Spain             Carretera Es Capdellà, Km 1.7, Es Capdellà, 07196, Spain
@@ -1150,7 +1130,6 @@ Asador O'Pazo                         Padrón              Spain             Paz
 O'Pazo                                Padrón              Spain             Lugar de Pazos, Padrón, 15917, Spain
 El Puntido                            Páganos             Spain             Carretera de Navaridas, Páganos, 01309, Spain
 Casa Mané                             Palmones            Spain             Almadraba, Palmones, 11379, Spain
-El Retiro                             Panca               Spain             Ctra. Pancar, Pancar, Asturias, Spain
 La Aquarela                           Patalavaca          Spain             Barranco de la Verga, Patalavaca, 35129, Spain
 El Palancar                           Pedroso de Acim     Spain             Lugar Convento de El Palancar, Pedroso de Acim, 10829, Spain
 Castell Perelada                      Peralada            Spain             Sant Joan, Peralada, 17491, Spain
@@ -1161,11 +1140,9 @@ D'Berto                               Pontevedra          Spain             Rúa
 Eirado                                Pontevedra          Spain             Praza da Leña, 3, 36002 Pontevedra, Spain
 Silabario                             Pontevedra          Spain             Rúa do Príncipe, 44, 36202 Vigo, Pontevedra, Spain
 Jondal                                Porroig             Spain             Cala Jondal, Porroig, 07830, Spain
-Maca de Castro                        Port d'Alcúdia      Spain             Juno s/n, Port d'Alcúdia, 07410, Spain
 Es Fanals                             Port de Sóller      Spain             Bèlgica, Port de Sóller, 07108, Spain
 As Garzas                             Porto do Fondo      Spain             Porto de Barizo, 40, 15113 Porto do Fondo, A Coruña, Spain
 Restaurant Tossal Gros                Prenafeta           Spain             Carretera de Prenafeta a L'illa, Prenafeta, 43400, Spain
-Pepe Vieira                           Raxó                Spain             Camiño da Serpe, Raxó, 36992, Spain
 La Posada de Águeda                   Requena             Spain             Carretera N-III, Requena, 46340, Spain
 La Huertona                           Ribadesella         Spain             Carretera de Junco, Ribadesella, 33560, Spain
 El Remedio                            Ruiloba             Spain             Barrio de Liandres, Ruiloba, 39527, Spain
@@ -1177,7 +1154,6 @@ Dalmar                                San Roque           Spain             Faro
 iBAi by Paulo Airaudo                 San Sebastian       Spain             Getaria Kalea, 15, 20005 Donostia, Gipuzkoa, Spain
 Laia Erretegia                        San Sebastian       Spain             Arkolla Auzoa Auzoa, 33, 20280 Hondarribia, Gipuzkoa, Spain
 Akelaŕe                               San Sebastián       Spain             Padre Orkolaga Ibilbidea, 56, 20008 Donostia, Gipuzkoa, Spain
-Amelia by Paulo Airaudo               San Sebastián       Spain             Zubieta Kalea, 26, 20007 Donostia, Gipuzkoa, Spain
 Ganbara                               San Sebastián       Spain             San Jeronimo Kalea, 21, 20003 Donostia, Gipuzkoa, Spain
 Restaurante Rekondo                   San Sebastián       Spain             Igeldo Pasealekua, 57, 20008 Donostia, Gipuzkoa, Spain
 L'Ó                                   Sant Fruitós de BageSpain             Camí de Sant Benet de Bages, Sant Fruitós de Bages, 08272, Spain
@@ -1256,7 +1232,6 @@ Chez Vrony                            Zermatt             Switzerland       Find
 Madre Nostra                          Zermatt             Switzerland       Riedweg, Zermatt, 3920, Switzerland
 The Omnia                             Zermatt             Switzerland       Auf dem Fels, Zermatt, 3920, Switzerland
 AKKEE                                 Bangkok             Thailand          Pak Kret, Pak Kret District, Nonthaburi 11120, Thailand
-Chef’s Table                          Bangkok             Thailand          State Tower, 61st Floor, 1055 Si Lom, Silom, Bang Rak, Bangkok 10500, Thailand
 Fish Club                             Chon Buri           Thailand          Andaz Pattaya Jomtien Beach, 345 Mu 3, Na Chom Thian, Sattahip, Chon Buri, 20250, Thailand
 FishHouse                             Ko Samui            Thailand          Kimpton Kitalay Samui, 10/79 Mu 5, Bo Phut, Ko Samui, 84320, Thailand
 Koh Thai Kitchen                      Ko Samui            Thailand          Four Seasons Resort Koh Samui, 219 Mu 5, Ang Thong, Ko Samui, 84140, Thailand
@@ -1293,7 +1268,6 @@ The Lobby                             Istanbul            Turkey            Kema
 Toro Latin Gastro Bar                 Istanbul            Turkey            Merkez, Meserburnu Cd. No:5, 34450 Sarıyer, Istanbul, Turkey
 Alancha                               İstanbul            Turkey            Vişnezade, Şht. Mehmet Sk. No:9, 34357 Beşiktaş/İstanbul, Turkey
 Aman da Bravo                         İstanbul            Turkey            Bebek, Bebeköy, Bebeköy Sok No.5, 34342 Beşiktaş/İstanbul, Turkey
-Asma Yaprağı                          İzmir               Turkey            Ovacık, 7152. Sk., 35930 Çeşme/İzmir, Türkiye
 Agora Pansiyon                        Milas               Turkey            Kapıkırı, 48230 Milas/Muğla, Türkiye
 Yakamengen III                        Datça               Türkiye           Yaka Mahallesi, Yaka Küme Evleri No:70, Datça, 48900, Türkiye
 ONNO Grill & Bar                      Fethiye             Türkiye           Göcek Adası, Göcek, Fethiye, 48310, Türkiye
@@ -1327,8 +1301,6 @@ TimeSpirit                            Aberlour            United Kingdom    The 
 Chartwell                             Alne                United Kingdom    Aldwark Manor, Aldwark, Alne, YO61 1UF, United Kingdom
 Drunken Duck Inn                      Ambleside           United Kingdom    Barngates, Ambleside, LA22 0NG, United Kingdom
 The Drunken Duck Inn                  Ambleside           United Kingdom    Barngates, Ambleside LA22 0NG, UK
-Allium at Askham Hall                 Askham              United Kingdom    Askham, CA10 2PF, United Kingdom
-Yorebridge House                      Askrigg             United Kingdom    Bainbridge, Askrigg, DL8 3EE, United Kingdom
 The Traddock                          Austwick            United Kingdom    Austwick, Settle LA2 8BY, United Kingdom
 The Bryntirion Inn                    Bala                United Kingdom    Llandderfel, Bala, LL23 7RA, United Kingdom
 The Free Company                      Balerno             United Kingdom    Cockdurno Farmhouse, Balerno, EH14 7HZ, United Kingdom
@@ -1342,7 +1314,6 @@ The Gunroom Restaurant                Bontnewydd          United Kingdom    Plas
 The Rocket Store                      Boscastle           United Kingdom    The Harbour, Boscastle, PL35 0HD, United Kingdom
 The Cottage in the Wood               Braithwaite         United Kingdom    Braithwaite, Keswick CA12 5TW, United Kingdom
 Cedar Tree by Hrishikesh Desai        Brampton            United Kingdom    Farlam Hall Hotel, Hallbankgate, Brampton, CA8 2NG, United Kingdom
-The Cedar Tree by Hrishikesh Desai    Brampton            United Kingdom    Hallbankgate, Brampton CA8 2NG, United Kingdom
 The Kirkstyle Inn & Sportsmans Rest   Brampton            United Kingdom    Slaggyford, Brampton CA8 7PB, UK
 The Kirkstyle Inn and Sportsman’s RestBrampton            United Kingdom    Slaggyford, Brampton, CA8 7PB, United Kingdom
 Felin Fach Griffin                    Brecon              United Kingdom    Felin Fach, Brecon, LD3 0UB, United Kingdom
@@ -1352,7 +1323,6 @@ Chapter One Restaurant                Bromley             United Kingdom    Farn
 The Botanical Rooms                   Bruton              United Kingdom    The Newt in Somerset, Bruton, BA7 7NG, United Kingdom
 Crazy Bear Beaconsfield               Buckinghamshire     United Kingdom    Crazy Bear Hotel, 73-75 Wycombe End, Beaconsfield,HP9 1LX
 The Blind Bull                        Buxton              United Kingdom    The Blind Bull, Little Hucklow, Buxton SK17 8RT, United Kingdom
-The Abbey Inn                         Byland              United Kingdom    Byland, YO61 4BD, United Kingdom
 Midsummer House                       Cambridge           United Kingdom    Midsummer Common, Cambridge CB5 8DJ, UK
 Sunborn London                        Canary Wharf        United Kingdom    Royal Victoria Dock, London,E16 1AA
 Y Polyn                               Capel Dewi          United Kingdom    Capel Dewi, SA32 7LH, United Kingdom
@@ -1374,7 +1344,6 @@ The Clermont Charing Cross            Covent Garden       United Kingdom    The 
 The Savoy                             Covent Garden       United Kingdom    Strand, London,WC2R 0EU
 Cowley Manor                          Cowley              United Kingdom    Cowley, GL53 9NL, United Kingdom
 The Bull's Head                       Craswall            United Kingdom    Craswall, HR2 0PN, United Kingdom
-The Bull’s Head Craswall              Craswall            United Kingdom    Craswall, Hereford HR2 0PN, UK
 Durham Ox                             Crayke              United Kingdom    Westway, Crayke, YO61 4TE, United Kingdom
 Punch Bowl Inn                        Crosthwaite         United Kingdom    Crosthwaite, LA8 8HR, United Kingdom
 The Five Bells Inn                    Cullompton          United Kingdom    Clyst Hydon, Cullompton EX15 2NT, United Kingdom
@@ -1416,7 +1385,6 @@ Wivenhoe House                        Essex               United Kingdom    Harw
 The Beckford Arms                     Fonthill Gifford    United Kingdom    Fonthill Gifford, Tisbury, Salisbury SP3 6PX, UK
 Station Road                          Fort Augustus       United Kingdom    The Lovat Hotel, Fort Augustus, PH32 4DU, United Kingdom
 'Seasgair' by Michel Roux Jr          Fort William        United Kingdom    Inverlochy Castle, Torlundy, Fort William, PH33 6SN, United Kingdom
-Alford Arms                           Frithsden           United Kingdom    Frithsden, HP1 3DD, United Kingdom
 The Alford Arms                       Frithsden           United Kingdom    Frithsden, Hemel Hempstead HP1 3DD, United Kingdom
 Vintage Red Bistro Bus Glasgow        Glasgow             United Kingdom    Glasgow Central, Lanarkshire,G1 1QX
 Buckland Manor                        Gloucestershire     United Kingdom    Near Broadway, Buckland,WR12 7LY
@@ -1454,7 +1422,6 @@ Bath Arms                             Horningsham         United Kingdom    Horn
 Hide & Fox                            Hythe               United Kingdom    The Green, Hythe CT21 4PS, United Kingdom
 The Seacliff Restaurant               Ilfracombe          United Kingdom    Berrynarbor, Ilfracombe EX34 9SR, United Kingdom
 The Howard Arms                       Ilmington           United Kingdom    Lower Green, Ilmington, CV36 4LT, United Kingdom
-The Barrington Boar                   Ilminster           United Kingdom    Barrington, Ilminster TA19 0JB, United Kingdom
 The Three Chimneys at Talisker        Isle of Skye        United Kingdom    Carbost, Isle of Skye, IV47 8SR, United Kingdom
 Chateau La Chaire                     Jersey              United Kingdom    La Vallee de Rozel, Rozel Bay, Jersey,JE3 6AJ
 Royal Albert Hall                     Kensington & ChelseaUnited Kingdom    Kensington Gore, London ,SW7 2AP
@@ -1480,8 +1447,6 @@ Coombeshead Farm                      Launceston          United Kingdom    Lewa
 Ox Club                               Leeds               United Kingdom    Bramleys Yard, The Headrow, Leeds, LS1 6PU, United Kingdom
 Barnsdale Gardens                     Leicestershire      United Kingdom    Rutland and Melton, Leicestershire,LE15 8AH
 Normanton Park Hotel                  Leicestershire      United Kingdom    Rutland and Melton, Leicestershire,LE15 8RP
-Coombeshead Farm                      Lewannick           United Kingdom    Lewannick, PL15 7QQ, United Kingdom
-The Blind Bull                        Little Hucklow      United Kingdom    Little Hucklow, SK17 8RT, United Kingdom
 The Windmill                          Little Waltham      United Kingdom    Chatham Green, Little Waltham, CM3 3LE, United Kingdom
 Henry Robertson                       Llandderfel         United Kingdom    Palé Estate, Llandderfel, LL23 7PS, United Kingdom
 Walnut Tree                           Llanddewi Skirrid   United Kingdom    Llanddewi Skirrid, NP7 8AW, United Kingdom
@@ -1539,12 +1504,10 @@ Alnwick Castle & Garden               Northumberland      United Kingdom    Berw
 Matfen Hall                           Northumberland      United Kingdom    Matfen, Northumberland,NE20 0RH
 Slaley Hall                           Northumberland      United Kingdom    Slaley, Hexham, Northumberland,NE47 0BX
 The White Swan                        Northumberland      United Kingdom    Bondgate Within, Alnwick, Northumberland,NE66 1TD
-The Gunton Arms                       Norwich             United Kingdom    The Gunton Arms, Norwich NR11 8TZ, United Kingdom
 Ibérico World Tapas                   Nottingham          United Kingdom    The Shire Hall, High Pavement, Nottingham, NG1 1HN, United Kingdom
 Alice Hawthorn Inn                    Nun Monkton         United Kingdom    The Green, Nun Monkton, YO26 8EW, United Kingdom
 The Black Swan at Oldstead            Oldstead            United Kingdom    Oldstead, York YO61 4BL, UK
 DoubleTree by Hilton Oxford Belfry    Oxford & OxfordshireUnited Kingdom    Milton Common, Thame, Oxfordshire,OX9 2JW
-Minster Mill                          Oxford & OxfordshireUnited Kingdom    Minster Lovell, Oxfordshire, Cotswolds, Bath,OX29 0RN
 The Orangery at Blenheim Palace       Oxford & OxfordshireUnited Kingdom    Blenheim Palace, Woodstock, Oxfordshire,OX20 1UL
 Colonel Saab                          Oxford Street       United Kingdom    Holborn Town Hall, 193-197 High Holborn, London,WC1V 7BD
 The Seafood Restaurant                Padstow             United Kingdom    Riverside, Padstow, PL28 8BY, United Kingdom
@@ -1571,7 +1534,6 @@ FOUR BOYS                             Rock                United Kingdom    Ferr
 The Mariners                          Rock                United Kingdom    Slipway, Rock, PL27 6LD, United Kingdom
 enotèca                               Saint Aubin         United Kingdom    Charing Cross, Saint Aubin, JE3 8AA, United Kingdom
 The Gurnard’s Head                    Saint Ives          United Kingdom    Zennor, Saint Ives TR26 3DE, United Kingdom
-hide and fox                          Saltwood            United Kingdom    The Green, Saltwood, CT21 4PS, United Kingdom
 Lan y Môr                             Saundersfoot        United Kingdom    Coppet Hall Beach, Saundersfoot, SA66 9AJ, United Kingdom
 Pignut & The Hare                     Scawton             United Kingdom    Hare inn, Scawton, YO7 2HG, United Kingdom
 Best Western Valley Hotel             Shropshire          United Kingdom    Telford, Shropshire,TF8 7DW
@@ -1624,7 +1586,6 @@ The Kentish Hare                      Tunbridge Wells     United Kingdom    Hare
 The Refectory                         Ugborough           United Kingdom    Fowlescombe Farm, Ugborough, PL21 0HW, United Kingdom
 The Horse & Groom Inn                 Upper Oddington     United Kingdom    Upper Oddington, Moreton-in-Marsh GL56 0XH, UK
 The Baiting House                     Upper Sapey         United Kingdom    Upper Sapey, WR6 6XT, United Kingdom
-Atrium                                Upper Slaughter     United Kingdom    Upper Slaughter, GL54 2JD, United Kingdom
 Cellarium Café and Terrace at WestminsVictoria & WestminstUnited Kingdom    Dean's Yard, Westminster Abbey, London,,SW1P 3PA
 The Cotley Inn                        Wambrook            United Kingdom    Wambrook, TA20 3EN, United Kingdom
 Billesley Manor Hotel & Spa Stratford Warwickshire        United Kingdom    Billesley, Nr Stratford upon Avon,B49 6NF
@@ -1657,7 +1618,6 @@ The Abbey Inn                         York                United Kingdom    The 
 The Alice Hawthorn                    York                United Kingdom    The Green, Nun Monkton, York YO26 8EW, United Kingdom
 The Dawnay Arms                       York                United Kingdom    Newton-on-Ouse, York YO30 2BR, UK
 The Grand                             York                United Kingdom    Station Rise, York, Yorkshire,YO1 6GD
-The Gurnard's Head                    Zennor              United Kingdom    Treen, Zennor, TR26 3DE, United Kingdom
 Salt                                  Amelia Island       United States     The Ritz-Carlton, Amelia Island, 4750 Amelia Island Pkwy., Amelia Island, FL, 32034, USA
 Beano's Cabin                         Beaver Creek        United States     Beaver Creek Resort, Avon, CO 81620
 SEKALI                                Boston              United States     Boston, United States
@@ -1678,13 +1638,9 @@ Tarts de Feybesse                     Vallejo             United States     Vall
 1921 Restaurant                       Montevideo          Uruguay           Hotel Casino Carrasco, Rambla República de México 6451, 11500 Montevideo, Departamento de Montevideo, Uruguay
 Lo de Tere                            Punta del Este      Uruguay           Rambla General Jose Artigas casi, 20100 Punta del Este, Departamento de Maldonado, Uruguay
 Cordero                               Caracas             Venezuela         C. París, Caracas 1080, Miranda, Venezuela
-La Maison 1888                        Da Nang             Vietnam           InterContinental Danang Sun Peninsula Resort, Son Tra Ward, Da Nang, 550000, Vietnam
 La Maison 1888                        Đà Nẵng             Vietnam           InterContinental Danang Sun Peninsula Resort, Bãi Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam
 The Walnut Tree Inn                   Abergavenny         Wales             Llanddewi Skirrid, NP7 8AW, United Kingdom
 Palé Hall                             Bala                Wales             Pale, Estate, Bala LL23 7PS, United Kingdom
-The Felin Fach Griffin                Brecon              Wales             Felinfach, Brecon LD3 0UB, United Kingdom
-The Gunroom Restaurant                Caernarfon          Wales             Bontnewydd, Caernarfon LL54 7YF, UK
-Allt Yr Afon                          Haverfordwest       Wales             Wolf's Castle, Haverfordwest SA62 5LZ, UK
 Llangoed Hall                         Llyswen             Wales             Llyswen, Brecon LD3 0YP, United Kingdom
 Fernery Restaurant                    Narberth            Wales             The Grove, Molleston, Narberth SA67 8BX, United Kingdom
 Beach House                           Oxwich              Wales             Oxwich, Swansea SA3 1LS, UK

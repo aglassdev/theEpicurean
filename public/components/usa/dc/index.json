@@ -8,7 +8,7 @@
   "citySlug": "dc",
   "path": "/usa/dc/restaurants",
   "canonicalPath": "/usa/dc/washington/restaurants",
-  "count": 161,
+  "count": 163,
   "hero": "/images/washingtondcheader.png",
   "restaurants": [
     {
@@ -658,6 +658,12 @@
       "path": "/usa/dc/washington/mandu"
     },
     {
+      "name": "Marcus DC",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/dc/washington/marcus-dc"
+    },
+    {
       "name": "Maydān",
       "cuisine": "Middle Eastern, Grills",
       "price": "$$$",
@@ -710,6 +716,12 @@
       "cuisine": "American",
       "price": "$$$",
       "path": "/usa/dc/washington/opal"
+    },
+    {
+      "name": "Osteria Mozza DC",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/dc/washington/osteria-mozza-dc"
     },
     {
       "name": "Ottoman Taverna",
