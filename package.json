@@ -21,7 +21,8 @@
     "import-datasets": "node scripts/importDatasets.js",
     "cleanup": "node scripts/cleanup.js",
     "fix-places": "node scripts/fixPlaces.js",
-    "address-report": "node scripts/addressReport.js"
+    "address-report": "node scripts/addressReport.js",
+    "master-csv": "node scripts/buildMasterCsv.js"
   },
   "dependencies": {
     "@visx/geo": "^3.12.0",
