@@ -56,6 +56,8 @@ const COUNTRY_NAMES = {
   'sri-lanka': 'Sri Lanka',
   czechia: 'Czechia',
   macau: 'Macau',
+  // Filed under an abbreviation before the country reader spelled saint out.
+  'st-martin': 'Saint Martin',
 };
 
 // USA state directory slugs → proper names (covers the un-hyphenated legacy slugs).
@@ -470,14 +472,16 @@ for (const dir of findCityDirs()) {
     regionIsReal = false;
   }
 
-  // usa/dc holds Washington pages both directly and under /washington.
-  if (countrySlug === 'usa' && regionSlug === 'dc') {
+  // usa/dc holds Washington pages both directly and under /washington. A city
+  // slugged washington-dc is the District of Columbia whatever directory it
+  // landed in: some reached usa/other, and one is filed under Maryland.
+  if (countrySlug === 'usa' && (regionSlug === 'dc' || citySlug === 'washington-dc')) {
     region = 'District of Columbia';
     regionIsReal = true;
   }
   const city =
     CITY_ALIASES[`${countrySlug}/${citySlug}`]
-    || (countrySlug === 'usa' && regionSlug === 'dc' && citySlug === 'dc'
+    || (countrySlug === 'usa' && (citySlug === 'dc' || citySlug === 'washington-dc')
       ? 'Washington'
       : cityNameFromAddresses(citySlug, addresses) || titleCase(citySlug));
 

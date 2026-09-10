@@ -8,7 +8,7 @@
   "citySlug": "montecito",
   "path": "/usa/other/montecito/restaurants",
   "canonicalPath": "/usa/california/montecito/restaurants",
-  "count": 3,
+  "count": 4,
   "restaurants": [
     {
       "name": "Caruso's",
@@ -28,6 +28,12 @@
       "cuisine": "Californian",
       "price": "$$$",
       "path": "/usa/california/montecito/little-mountain"
+    },
+    {
+      "name": "The Manor Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $30",
+      "path": "/usa/california/montecito/the-manor-bar"
     }
   ]
 }

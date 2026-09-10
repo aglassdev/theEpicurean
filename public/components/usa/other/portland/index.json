@@ -1,0 +1,38 @@
+{
+  "title": "Portland",
+  "country": "United States",
+  "countrySlug": "usa",
+  "region": null,
+  "regionSlug": "other",
+  "city": "Portland",
+  "citySlug": "portland",
+  "path": "/usa/other/portland/restaurants",
+  "canonicalPath": "/usa/other/portland/restaurants",
+  "count": 4,
+  "restaurants": [
+    {
+      "name": "Pacific Standard",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/usa/other/portland/pacific-standard"
+    },
+    {
+      "name": "Palomar",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/usa/other/portland/palomar"
+    },
+    {
+      "name": "Room For Improvement",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/other/portland/room-for-improvement"
+    },
+    {
+      "name": "Too Soon",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/usa/other/portland/too-soon"
+    }
+  ]
+}

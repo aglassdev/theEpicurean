@@ -8,9 +8,15 @@
   "citySlug": "nassau",
   "path": "/bahamas/nassau/nassau/restaurants",
   "canonicalPath": "/bahamas/nassau/nassau/restaurants",
-  "count": 6,
+  "count": 7,
   "hero": "/images/nassauheader.png",
   "restaurants": [
+    {
+      "name": "Bon Vivants",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/bahamas/nassau/nassau/bon-vivants"
+    },
     {
       "name": "Café Boulud - The Bahamas",
       "cuisine": "",

@@ -15,10 +15,18 @@ export const slugify = (t) => (t || '').toLowerCase()
   .replace(/-+/g, '-').replace(/^-+|-+$/g, '').trim();
 
 /** Free text or a directory slug → the slug the component tree files it under. */
-export const countrySlugFrom = (text) => {
-  const s = String(text || '').toLowerCase();
-  if (!s.trim()) return '';
-  if (/\busa\b|united[\s-]states/.test(s)) return 'usa';
+export const countrySlugFrom = (raw) => {
+  // A country field arrives as "The Bahamas", "Myanmar (Burma)", "St Martin" and
+  // plain "US". Strip the article and the parenthetical, and spell out saint,
+  // before any of the tests below look at it.
+  const s = String(raw || '').toLowerCase()
+    .replace(/\([^)]*\)/g, ' ')
+    .replace(/^\s*the\s+/, '')
+    .replace(/\bst\.?\s+/g, 'saint ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  if (!s) return '';
+  if (/^us$|\busa\b|united[\s-]states/.test(s)) return 'usa';
   if (/hong[\s-]kong/.test(s)) return 'hong-kong';
   if (/macau|macao/.test(s)) return 'macau';
   if (/united[\s-]kingdom|england|scotland|wales|northern[\s-]ireland|\buk\b/.test(s)) return 'uk';

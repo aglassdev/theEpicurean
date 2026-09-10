@@ -8,7 +8,7 @@
   "citySlug": "new-york",
   "path": "/usa/newyork/new-york/restaurants",
   "canonicalPath": "/usa/newyork/new-york/restaurants",
-  "count": 523,
+  "count": 547,
   "hero": "/images/newyorkcityheader.png",
   "restaurants": [
     {
@@ -587,6 +587,12 @@
       "path": "/usa/new-york/new-york/abajo"
     },
     {
+      "name": "ABC Kitchen",
+      "cuisine": "",
+      "price": "Average price per person $40",
+      "path": "/usa/new-york/new-york/abc-kitchen"
+    },
+    {
       "name": "abcV",
       "cuisine": "Vegetarian, Contemporary",
       "price": "$$$",
@@ -749,6 +755,12 @@
       "path": "/usa/newyork/new-york/bnh-anh-em"
     },
     {
+      "name": "Bar Belly",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/usa/new-york/new-york/bar-belly"
+    },
+    {
       "name": "Bar Boulud",
       "cuisine": "",
       "price": "",
@@ -771,6 +783,18 @@
       "cuisine": "",
       "price": "",
       "path": "/usa/new-york/new-york/bar-goto"
+    },
+    {
+      "name": "Bar Madonna",
+      "cuisine": "",
+      "price": "Average price per cocktail $19",
+      "path": "/usa/new-york/new-york/bar-madonna"
+    },
+    {
+      "name": "Bar Snack",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/usa/new-york/new-york/bar-snack"
     },
     {
       "name": "Barawine",
@@ -819,6 +843,12 @@
       "cuisine": "",
       "price": "",
       "path": "/usa/new-york/new-york/bella-blu"
+    },
+    {
+      "name": "Bemelmens Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $23",
+      "path": "/usa/new-york/new-york/bemelmens-bar"
     },
     {
       "name": "Ben & Jack's Steakhouse",
@@ -927,6 +957,12 @@
       "cuisine": "Vegan, Southern",
       "price": "$$$",
       "path": "/usa/newyork/new-york/cadence"
+    },
+    {
+      "name": "Café Altro Paradiso",
+      "cuisine": "",
+      "price": "Average price per person $90",
+      "path": "/usa/new-york/new-york/caf-altro-paradiso"
     },
     {
       "name": "Café Carlyle",
@@ -1121,6 +1157,12 @@
       "path": "/usa/new-york/new-york/clemente-bar"
     },
     {
+      "name": "Clover Hill",
+      "cuisine": "",
+      "price": "Tasting menu from $245",
+      "path": "/usa/new-york/new-york/clover-hill"
+    },
+    {
       "name": "Comal",
       "cuisine": "Mexican",
       "price": "$$$",
@@ -1253,6 +1295,12 @@
       "path": "/usa/new-york/new-york/dear-irving-bar"
     },
     {
+      "name": "Death & Co",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/usa/new-york/new-york/death-co"
+    },
+    {
       "name": "Death & Company NYC (Bar)",
       "cuisine": "",
       "price": "",
@@ -1323,6 +1371,12 @@
       "cuisine": "",
       "price": "",
       "path": "/usa/new-york/new-york/dowlings"
+    },
+    {
+      "name": "Dutch Kills",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/usa/new-york/new-york/dutch-kills"
     },
     {
       "name": "El Fish Marisqueria",
@@ -1631,6 +1685,12 @@
       "path": "/usa/newyork/new-york/il-fiorista"
     },
     {
+      "name": "Ilili",
+      "cuisine": "",
+      "price": "Average price per person $67",
+      "path": "/usa/new-york/new-york/ilili"
+    },
+    {
       "name": "Ilili NYC",
       "cuisine": "",
       "price": "",
@@ -1709,6 +1769,12 @@
       "path": "/usa/newyork/new-york/joomak"
     },
     {
+      "name": "Jungsik",
+      "cuisine": "",
+      "price": "Tasting menu from $295",
+      "path": "/usa/new-york/new-york/jungsik"
+    },
+    {
       "name": "Junoon",
       "cuisine": "Indian, Contemporary",
       "price": "$$$",
@@ -1767,6 +1833,12 @@
       "cuisine": "Deli",
       "price": "$",
       "path": "/usa/newyork/new-york/katzs"
+    },
+    {
+      "name": "Katz’s Delicatessen",
+      "cuisine": "",
+      "price": "Average price per person $47",
+      "path": "/usa/new-york/new-york/katzs-delicatessen"
     },
     {
       "name": "Kebab aur Sharab",
@@ -2255,6 +2327,12 @@
       "path": "/usa/newyork/new-york/mission-ceviche"
     },
     {
+      "name": "Mister Paradise",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/usa/new-york/new-york/mister-paradise"
+    },
+    {
       "name": "Mokyo",
       "cuisine": "",
       "price": "",
@@ -2363,6 +2441,12 @@
       "path": "/usa/newyork/new-york/novit"
     },
     {
+      "name": "Nubeluz",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/new-york/new-york/nubeluz"
+    },
+    {
       "name": "Nudibranch",
       "cuisine": "Contemporary, Asian",
       "price": "$$",
@@ -2465,6 +2549,12 @@
       "path": "/usa/newyork/new-york/pastis"
     },
     {
+      "name": "PDT (Please Don't Tell)",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/usa/new-york/new-york/pdt-please-dont-tell"
+    },
+    {
       "name": "Peak",
       "cuisine": "Contemporary",
       "price": "$$$$",
@@ -2499,6 +2589,12 @@
       "cuisine": "Persian",
       "price": "$$",
       "path": "/usa/newyork/new-york/persepolis"
+    },
+    {
+      "name": "Peter Luger Steak House",
+      "cuisine": "",
+      "price": "Average price per person $115",
+      "path": "/usa/new-york/new-york/peter-luger-steak-house"
     },
     {
       "name": "Piccola Cucina Estiatorio",
@@ -2741,6 +2837,12 @@
       "path": "/usa/new-york/new-york/shukette"
     },
     {
+      "name": "Shuko",
+      "cuisine": "",
+      "price": "Tasting menu from $180",
+      "path": "/usa/new-york/new-york/shuko"
+    },
+    {
       "name": "Sinsa",
       "cuisine": "Korean",
       "price": "$$$",
@@ -2801,6 +2903,12 @@
       "path": "/usa/newyork/new-york/soothr"
     },
     {
+      "name": "Sugar Monk",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/new-york/new-york/sugar-monk"
+    },
+    {
       "name": "Sullivan Street Bakery",
       "cuisine": "",
       "price": "",
@@ -2831,6 +2939,12 @@
       "path": "/usa/newyork/new-york/sushi-ikumi"
     },
     {
+      "name": "Sushi Sho NYC",
+      "cuisine": "",
+      "price": "Tasting menu from $450",
+      "path": "/usa/new-york/new-york/sushi-sho-nyc"
+    },
+    {
       "name": "Sushi Yasuda",
       "cuisine": "Japanese, Sushi",
       "price": "$$$$",
@@ -2841,6 +2955,12 @@
       "cuisine": "",
       "price": "",
       "path": "/usa/new-york/new-york/sweetbriar"
+    },
+    {
+      "name": "Swift Hibernian Lounge",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/new-york/new-york/swift-hibernian-lounge"
     },
     {
       "name": "Sylvia's",
@@ -2895,6 +3015,12 @@
       "cuisine": "",
       "price": "",
       "path": "/usa/new-york/new-york/tatiana-by-kwame-onwuachi"
+    },
+    {
+      "name": "Temple Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $21",
+      "path": "/usa/new-york/new-york/temple-bar"
     },
     {
       "name": "Temple Court",
@@ -2975,6 +3101,12 @@
       "path": "/usa/newyork/new-york/the-leopard-at-des-artistes"
     },
     {
+      "name": "The Lobby Bar at The Hotel Chelsea",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/new-york/new-york/the-lobby-bar-at-the-hotel-chelsea"
+    },
+    {
       "name": "The Lobster Club",
       "cuisine": "Japanese",
       "price": "$$$",
@@ -3053,6 +3185,12 @@
       "path": "/usa/new-york/new-york/the-wesley"
     },
     {
+      "name": "Thyme Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $23",
+      "path": "/usa/new-york/new-york/thyme-bar"
+    },
+    {
       "name": "Time & Tide",
       "cuisine": "",
       "price": "",
@@ -3099,6 +3237,12 @@
       "cuisine": "Pizza",
       "price": "$$",
       "path": "/usa/newyork/new-york/una-pizza-napoletana"
+    },
+    {
+      "name": "Undercote",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/new-york/new-york/undercote"
     },
     {
       "name": "Universal Taco & Wings",

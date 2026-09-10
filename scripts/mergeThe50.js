@@ -23,6 +23,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { countrySlugFrom, slugify } from './countrySlug.js';
 import { isExcludedChain } from './excludedChains.js';
+import { USPS, uspsFromZip } from './usZips.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -163,10 +164,30 @@ for (const r of fifty) {
 // ── Where each new one is filed ─────────────────────────────────────────────
 // The tree repeats the city at the region level outside the USA, which is the
 // shape pagesForAtlasOnly uses, so new pages land beside the existing ones.
+const STATE_DIR = Object.fromEntries(
+  Object.entries(USPS).map(([code, name]) => [code, name.toLowerCase().replace(/\s+/g, '-')])
+);
+
 function place(rec) {
   const country = countrySlugFrom(rec.country);
   const city = slugify(rec.city);
   if (!country || !city) return null;
+  // The USA is filed by state, everywhere else repeats the city at the region
+  // level. Take the state from a code and a ZIP that agree with each other; an
+  // Italian province code is written the same way and will not agree.
+  if (country === 'usa') {
+    const a = String(rec.address || '');
+    // Two forms reach us: the postal "Houston, TX 77006" and the50's spelt-out
+    // "Emeryville, California, 94608". Take whichever is there, and only when a
+    // ZIP in the same address agrees with it — an Italian province code is
+    // written like the first and will not agree.
+    const zip = (a.match(/\b(\d{5})(?:-\d{4})?\b/) || [])[1];
+    const code = (a.match(/,\s*([A-Z]{2})[,\s]+\d{5}\b/) || [])[1]
+      || Object.keys(USPS).find((c) => new RegExp(`,\\s*${USPS[c]}\\s*,`, 'i').test(a));
+    const state = code && USPS[code] && zip && uspsFromZip(zip) === code ? STATE_DIR[code] : 'other';
+    const dirCity = state === 'district-of-columbia' ? 'washington' : city;
+    return { country, region: state, city: dirCity, dir: `usa/${state}/${dirCity}` };
+  }
   return { country, region: city, city, dir: `${country}/${city}/${city}` };
 }
 

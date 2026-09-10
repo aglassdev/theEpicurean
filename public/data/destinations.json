@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-10T19:39:17.555Z",
+  "generatedAt": "2026-09-10T21:37:43.304Z",
   "totals": {
-    "countries": 133,
-    "cities": 8002,
-    "restaurants": 31061,
+    "countries": 131,
+    "cities": 7971,
+    "restaurants": 31056,
     "atlas": {
-      "restaurants": 29147
+      "restaurants": 29144
     }
   },
   "countries": [
@@ -2375,14 +2375,14 @@
             {
               "name": "Nassau",
               "path": "/bahamas/nassau/nassau/restaurants",
-              "count": 6
+              "count": 7
             }
           ],
-          "count": 7
+          "count": 8
         }
       ],
       "cityCount": 2,
-      "count": 7
+      "count": 8
     },
     {
       "name": "Bahrain",
@@ -25706,14 +25706,14 @@
       "count": 30
     },
     {
-      "name": "Myanmar Burma",
+      "name": "Myanmar",
       "regions": [
         {
           "name": null,
           "cities": [
             {
               "name": "Yangon",
-              "path": "/myanmar-burma/yangon/yangon/restaurants",
+              "path": "/myanmar/yangon/yangon/restaurants",
               "count": 1
             }
           ],
@@ -28471,6 +28471,24 @@
       ],
       "cityCount": 3,
       "count": 3
+    },
+    {
+      "name": "Saint Martin",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Saint Martin",
+              "path": "/st-martin/saint-martin/saint-martin/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "cityCount": 1,
+      "count": 1
     },
     {
       "name": "Samoa",
@@ -32112,24 +32130,6 @@
       "count": 13
     },
     {
-      "name": "St. Martin",
-      "regions": [
-        {
-          "name": null,
-          "cities": [
-            {
-              "name": "Saint Martin",
-              "path": "/st-martin/saint-martin/saint-martin/restaurants",
-              "count": 1
-            }
-          ],
-          "count": 1
-        }
-      ],
-      "cityCount": 1,
-      "count": 1
-    },
-    {
       "name": "Sweden",
       "regions": [
         {
@@ -33885,24 +33885,6 @@
       ],
       "cityCount": 20,
       "count": 658
-    },
-    {
-      "name": "The Bahamas",
-      "regions": [
-        {
-          "name": null,
-          "cities": [
-            {
-              "name": "Nassau",
-              "path": "/the-bahamas/nassau/nassau/restaurants",
-              "count": 1
-            }
-          ],
-          "count": 1
-        }
-      ],
-      "cityCount": 1,
-      "count": 1
     },
     {
       "name": "Tunisia",
@@ -37577,6 +37559,11 @@
               "count": 1
             },
             {
+              "name": "Shawnee",
+              "path": "/usa/other/shawnee/restaurants",
+              "count": 1
+            },
+            {
               "name": "Sundance",
               "path": "/usa/other/sundance/restaurants",
               "count": 1
@@ -37585,14 +37572,9 @@
               "name": "Verona",
               "path": "/usa/other/verona/restaurants",
               "count": 2
-            },
-            {
-              "name": "Washington D.C",
-              "path": "/usa/other/washington-dc/restaurants",
-              "count": 2
             }
           ],
-          "count": 11
+          "count": 10
         },
         {
           "name": "Alabama",
@@ -37687,7 +37669,7 @@
             {
               "name": "Phoenix",
               "path": "/usa/arizona/phoenix/restaurants",
-              "count": 50
+              "count": 54
             },
             {
               "name": "Sedona",
@@ -37705,7 +37687,7 @@
               "count": 1
             }
           ],
-          "count": 70
+          "count": 74
         },
         {
           "name": "Arkansas",
@@ -37942,6 +37924,11 @@
               "count": 2
             },
             {
+              "name": "Emeryville",
+              "path": "/usa/california/emeryville/restaurants",
+              "count": 1
+            },
+            {
               "name": "Encinitas",
               "path": "/usa/california/encinitas/restaurants",
               "count": 1
@@ -38109,7 +38096,7 @@
             {
               "name": "Los Angeles",
               "path": "/usa/california/los-angeles/restaurants",
-              "count": 327
+              "count": 334
             },
             {
               "name": "Los Gatos",
@@ -38164,7 +38151,7 @@
             {
               "name": "Montecito",
               "path": "/usa/california/montecito/restaurants",
-              "count": 3
+              "count": 4
             },
             {
               "name": "Monterey",
@@ -38339,7 +38326,7 @@
             {
               "name": "Sacramento",
               "path": "/usa/california/sacramento/restaurants",
-              "count": 22
+              "count": 23
             },
             {
               "name": "Saint Helena",
@@ -38369,12 +38356,12 @@
             {
               "name": "San Diego",
               "path": "/usa/california/san-diego/restaurants",
-              "count": 66
+              "count": 68
             },
             {
               "name": "San Francisco",
               "path": "/usa/california/san-francisco/restaurants",
-              "count": 171
+              "count": 176
             },
             {
               "name": "San Gabriel",
@@ -38572,7 +38559,7 @@
               "count": 5
             }
           ],
-          "count": 1088
+          "count": 1105
         },
         {
           "name": "Colorado",
@@ -38635,7 +38622,7 @@
             {
               "name": "Denver",
               "path": "/usa/colorado/denver/restaurants",
-              "count": 70
+              "count": 73
             },
             {
               "name": "Dillon",
@@ -38713,7 +38700,7 @@
               "count": 1
             }
           ],
-          "count": 158
+          "count": 161
         },
         {
           "name": "Connecticut",
@@ -38848,10 +38835,10 @@
             {
               "name": "Washington",
               "path": "/usa/dc/washington/restaurants",
-              "count": 163
+              "count": 170
             }
           ],
-          "count": 163
+          "count": 170
         },
         {
           "name": "Florida",
@@ -38979,7 +38966,7 @@
             {
               "name": "Miami",
               "path": "/usa/florida/miami/restaurants",
-              "count": 125
+              "count": 126
             },
             {
               "name": "Miami Beach",
@@ -39117,7 +39104,7 @@
               "count": 7
             }
           ],
-          "count": 426
+          "count": 427
         },
         {
           "name": "Georgia",
@@ -39231,7 +39218,7 @@
             {
               "name": "Honolulu",
               "path": "/usa/hawaii/honolulu/restaurants",
-              "count": 36
+              "count": 37
             },
             {
               "name": "Kailua-Kona",
@@ -39274,7 +39261,7 @@
               "count": 3
             }
           ],
-          "count": 65
+          "count": 66
         },
         {
           "name": "Idaho",
@@ -39318,7 +39305,7 @@
             {
               "name": "Chicago",
               "path": "/usa/illinois/chicago/restaurants",
-              "count": 224
+              "count": 235
             },
             {
               "name": "Evanston",
@@ -39331,7 +39318,7 @@
               "count": 1
             }
           ],
-          "count": 227
+          "count": 238
         },
         {
           "name": "Indiana",
@@ -39442,7 +39429,7 @@
             {
               "name": "Louisville",
               "path": "/usa/kentucky/louisville/restaurants",
-              "count": 9
+              "count": 10
             },
             {
               "name": "Paducah",
@@ -39455,7 +39442,7 @@
               "count": 1
             }
           ],
-          "count": 13
+          "count": 14
         },
         {
           "name": "Louisiana",
@@ -39478,7 +39465,7 @@
             {
               "name": "New Orleans",
               "path": "/usa/louisiana/new-orleans/restaurants",
-              "count": 80
+              "count": 87
             },
             {
               "name": "Shreveport",
@@ -39491,7 +39478,7 @@
               "count": 1
             }
           ],
-          "count": 89
+          "count": 96
         },
         {
           "name": "Maine",
@@ -39569,7 +39556,7 @@
             {
               "name": "Portland",
               "path": "/usa/maine/portland/restaurants",
-              "count": 1
+              "count": 2
             },
             {
               "name": "Portland Maine",
@@ -39592,7 +39579,7 @@
               "count": 1
             }
           ],
-          "count": 34
+          "count": 35
         },
         {
           "name": "Maryland",
@@ -39621,14 +39608,9 @@
               "name": "Taneytown",
               "path": "/usa/maryland/taneytown/restaurants",
               "count": 1
-            },
-            {
-              "name": "Washington Dc",
-              "path": "/usa/maryland/washington-dc/restaurants",
-              "count": 1
             }
           ],
-          "count": 22
+          "count": 21
         },
         {
           "name": "Massachusetts",
@@ -39641,12 +39623,12 @@
             {
               "name": "Boston",
               "path": "/usa/massachusetts/boston/restaurants",
-              "count": 84
+              "count": 87
             },
             {
               "name": "Brookline",
               "path": "/usa/massachusetts/brookline/restaurants",
-              "count": 1
+              "count": 2
             },
             {
               "name": "Cambridge",
@@ -39724,7 +39706,7 @@
               "count": 1
             }
           ],
-          "count": 117
+          "count": 121
         },
         {
           "name": "Michigan",
@@ -39742,7 +39724,7 @@
             {
               "name": "Detroit",
               "path": "/usa/michigan/detroit/restaurants",
-              "count": 32
+              "count": 36
             },
             {
               "name": "Frankenmuth",
@@ -39790,7 +39772,7 @@
               "count": 2
             }
           ],
-          "count": 54
+          "count": 58
         },
         {
           "name": "Minnesota",
@@ -39803,7 +39785,7 @@
             {
               "name": "Minneapolis",
               "path": "/usa/minnesota/minneapolis/restaurants",
-              "count": 29
+              "count": 30
             },
             {
               "name": "Minneapolissaint Paul",
@@ -39816,7 +39798,7 @@
               "count": 1
             }
           ],
-          "count": 35
+          "count": 36
         },
         {
           "name": "Mississippi",
@@ -40013,7 +39995,7 @@
             {
               "name": "Las Vegas",
               "path": "/usa/nevada/las-vegas/restaurants",
-              "count": 91
+              "count": 96
             },
             {
               "name": "Reno",
@@ -40026,7 +40008,7 @@
               "count": 1
             }
           ],
-          "count": 103
+          "count": 108
         },
         {
           "name": "New Hampshire",
@@ -40311,7 +40293,7 @@
             {
               "name": "Albuquerque",
               "path": "/usa/new-mexico/albuquerque/restaurants",
-              "count": 8
+              "count": 9
             },
             {
               "name": "Navajo Nation",
@@ -40334,7 +40316,7 @@
               "count": 1
             }
           ],
-          "count": 27
+          "count": 28
         },
         {
           "name": "New York",
@@ -40382,7 +40364,7 @@
             {
               "name": "Brooklyn",
               "path": "/usa/newyork/brooklyn/restaurants",
-              "count": 117
+              "count": 119
             },
             {
               "name": "Buffalo",
@@ -40527,7 +40509,7 @@
             {
               "name": "New York",
               "path": "/usa/newyork/new-york/restaurants",
-              "count": 523
+              "count": 547
             },
             {
               "name": "New York City",
@@ -40650,7 +40632,7 @@
               "count": 1
             }
           ],
-          "count": 767
+          "count": 793
         },
         {
           "name": "North Carolina",
@@ -40922,7 +40904,7 @@
             {
               "name": "Portland",
               "path": "/usa/oregon/portland/restaurants",
-              "count": 40
+              "count": 45
             },
             {
               "name": "Redmond",
@@ -40935,7 +40917,7 @@
               "count": 8
             }
           ],
-          "count": 58
+          "count": 63
         },
         {
           "name": "Pennsylvania",
@@ -41008,7 +40990,7 @@
             {
               "name": "Philadelphia",
               "path": "/usa/pennsylvania/philadelphia/restaurants",
-              "count": 90
+              "count": 91
             },
             {
               "name": "Pittsburgh",
@@ -41036,7 +41018,7 @@
               "count": 1
             }
           ],
-          "count": 119
+          "count": 120
         },
         {
           "name": "Rhode Island",
@@ -41202,7 +41184,7 @@
             {
               "name": "Nashville",
               "path": "/usa/tennessee/nashville/restaurants",
-              "count": 54
+              "count": 56
             },
             {
               "name": "Sewanee",
@@ -41215,7 +41197,7 @@
               "count": 3
             }
           ],
-          "count": 86
+          "count": 88
         },
         {
           "name": "Texas",
@@ -41238,7 +41220,7 @@
             {
               "name": "Austin",
               "path": "/usa/texas/austin/restaurants",
-              "count": 82
+              "count": 85
             },
             {
               "name": "Bellaire",
@@ -41298,7 +41280,7 @@
             {
               "name": "Houston",
               "path": "/usa/texas/houston/restaurants",
-              "count": 77
+              "count": 80
             },
             {
               "name": "Katy",
@@ -41411,7 +41393,7 @@
               "count": 1
             }
           ],
-          "count": 325
+          "count": 331
         },
         {
           "name": "Utah",
@@ -41717,7 +41699,7 @@
             {
               "name": "Seattle",
               "path": "/usa/washington/seattle/restaurants",
-              "count": 46
+              "count": 50
             },
             {
               "name": "Snoqualmie",
@@ -41760,7 +41742,7 @@
               "count": 1
             }
           ],
-          "count": 71
+          "count": 75
         },
         {
           "name": "West Virginia",
@@ -41834,7 +41816,7 @@
             {
               "name": "Milwaukee",
               "path": "/usa/wisconsin/milwaukee/restaurants",
-              "count": 18
+              "count": 19
             },
             {
               "name": "Neenah",
@@ -41857,7 +41839,7 @@
               "count": 1
             }
           ],
-          "count": 35
+          "count": 36
         },
         {
           "name": "Wyoming",
@@ -41897,7 +41879,7 @@
         }
       ],
       "cityCount": 808,
-      "count": 4965
+      "count": 5076
     },
     {
       "name": "Uruguay",
@@ -41936,169 +41918,6 @@
       ],
       "cityCount": 5,
       "count": 14
-    },
-    {
-      "name": "Us",
-      "regions": [
-        {
-          "name": null,
-          "cities": [
-            {
-              "name": "Albuquerque",
-              "path": "/us/albuquerque/albuquerque/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Austin",
-              "path": "/us/austin/austin/restaurants",
-              "count": 3
-            },
-            {
-              "name": "Boston",
-              "path": "/us/boston/boston/restaurants",
-              "count": 3
-            },
-            {
-              "name": "Brookline",
-              "path": "/us/brookline/brookline/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Brooklyn",
-              "path": "/us/brooklyn/brooklyn/restaurants",
-              "count": 2
-            },
-            {
-              "name": "Chicago",
-              "path": "/us/chicago/chicago/restaurants",
-              "count": 11
-            },
-            {
-              "name": "Denver",
-              "path": "/us/denver/denver/restaurants",
-              "count": 3
-            },
-            {
-              "name": "Detroit",
-              "path": "/us/detroit/detroit/restaurants",
-              "count": 4
-            },
-            {
-              "name": "Emeryville",
-              "path": "/us/emeryville/emeryville/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Honolulu",
-              "path": "/us/honolulu/honolulu/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Houston",
-              "path": "/us/houston/houston/restaurants",
-              "count": 3
-            },
-            {
-              "name": "Las Vegas",
-              "path": "/us/las-vegas/las-vegas/restaurants",
-              "count": 5
-            },
-            {
-              "name": "Los Angeles",
-              "path": "/us/los-angeles/los-angeles/restaurants",
-              "count": 7
-            },
-            {
-              "name": "Louisville",
-              "path": "/us/louisville/louisville/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Miami",
-              "path": "/us/miami/miami/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Milwaukee",
-              "path": "/us/milwaukee/milwaukee/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Minneapolis",
-              "path": "/us/minneapolis/minneapolis/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Montecito",
-              "path": "/us/montecito/montecito/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Nashville",
-              "path": "/us/nashville/nashville/restaurants",
-              "count": 2
-            },
-            {
-              "name": "New Orleans",
-              "path": "/us/new-orleans/new-orleans/restaurants",
-              "count": 7
-            },
-            {
-              "name": "New York",
-              "path": "/us/new-york/new-york/restaurants",
-              "count": 28
-            },
-            {
-              "name": "Philadelphia",
-              "path": "/us/philadelphia/philadelphia/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Phoenix",
-              "path": "/us/phoenix/phoenix/restaurants",
-              "count": 4
-            },
-            {
-              "name": "Portland",
-              "path": "/us/portland/portland/restaurants",
-              "count": 6
-            },
-            {
-              "name": "Sacramento",
-              "path": "/us/sacramento/sacramento/restaurants",
-              "count": 1
-            },
-            {
-              "name": "San Diego",
-              "path": "/us/san-diego/san-diego/restaurants",
-              "count": 2
-            },
-            {
-              "name": "San Francisco",
-              "path": "/us/san-francisco/san-francisco/restaurants",
-              "count": 5
-            },
-            {
-              "name": "Seattle",
-              "path": "/us/seattle/seattle/restaurants",
-              "count": 4
-            },
-            {
-              "name": "Shawnee",
-              "path": "/us/shawnee/shawnee/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Washington DC",
-              "path": "/us/washington-dc/washington-dc/restaurants",
-              "count": 5
-            }
-          ],
-          "count": 116
-        }
-      ],
-      "cityCount": 30,
-      "count": 116
     },
     {
       "name": "Venezuela",

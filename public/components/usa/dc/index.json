@@ -8,7 +8,7 @@
   "citySlug": "dc",
   "path": "/usa/dc/restaurants",
   "canonicalPath": "/usa/dc/washington/restaurants",
-  "count": 163,
+  "count": 170,
   "hero": "/images/washingtondcheader.png",
   "restaurants": [
     {
@@ -370,6 +370,12 @@
       "path": "/usa/dc/washington/cane"
     },
     {
+      "name": "Causa/Amazonia",
+      "cuisine": "",
+      "price": "Tasting menu from $175",
+      "path": "/usa/other/washington-dc/causaamazonia"
+    },
+    {
       "name": "Centrolina",
       "cuisine": "",
       "price": "",
@@ -428,6 +434,12 @@
       "cuisine": "Sushi, Japanese Contemporary",
       "price": "$$$",
       "path": "/usa/dc/washington/dear-sushi-at-love-makoto"
+    },
+    {
+      "name": "Death & Co DC",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/other/washington-dc/death-co-dc"
     },
     {
       "name": "Del Mar",
@@ -778,6 +790,12 @@
       "path": "/usa/dc/washington/phoxotic"
     },
     {
+      "name": "Press Club",
+      "cuisine": "",
+      "price": "Average price per cocktail $21",
+      "path": "/usa/other/washington-dc/press-club"
+    },
+    {
       "name": "Providencia",
       "cuisine": "Contemporary",
       "price": "$$",
@@ -848,6 +866,18 @@
       "cuisine": "Italian",
       "price": "$$$",
       "path": "/usa/dc/washington/san-lorenzo"
+    },
+    {
+      "name": "Service Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/usa/other/washington-dc/service-bar"
+    },
+    {
+      "name": "Service Bar D.C",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/other/washington-dc/service-bar-dc"
     },
     {
       "name": "Seven Reasons",
@@ -940,6 +970,12 @@
       "path": "/usa/dc/washington/the-duck-the-peach"
     },
     {
+      "name": "The Green Zone",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/usa/other/washington-dc/the-green-zone"
+    },
+    {
       "name": "The Imperial",
       "cuisine": "American",
       "price": "$$$",
@@ -1004,6 +1040,12 @@
       "cuisine": "American",
       "price": "$$",
       "path": "/usa/dc/washington/unconventional-diner"
+    },
+    {
+      "name": "Voltaggio Brothers Steakhouse",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/maryland/washington-dc/voltaggio-brothers-steakhouse"
     },
     {
       "name": "We, The Pizza - D.C",
