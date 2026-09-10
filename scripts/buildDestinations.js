@@ -179,6 +179,10 @@ const HERO_OVERRIDES_BY_PLACE = {
   'spain/crdoba/crdoba': null,
   'bolivia/la-paz/la-paz': 'lapazheader.png',
   'mexico/la-paz/la-paz': null,
+  // The Victoria we have a photograph of is Eden Island, in the Seychelles, not
+  // the one on Vancouver Island.
+  'seychelles/victoria/victoria': 'victoriaheader.png',
+  'canada/victoria/victoria': null,
 };
 
 // Banner artwork arrives in whatever format the photograph came in; the optimizer
