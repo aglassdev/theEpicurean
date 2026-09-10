@@ -8,7 +8,7 @@
   "citySlug": "caracas",
   "path": "/venezuela/caracas/caracas/restaurants",
   "canonicalPath": "/venezuela/caracas/caracas/restaurants",
-  "count": 3,
+  "count": 6,
   "hero": "/images/caracasheader.png",
   "restaurants": [
     {
@@ -24,10 +24,28 @@
       "path": "/venezuela/caracas/caracas/cordero"
     },
     {
+      "name": "El Bosque Bistró",
+      "cuisine": "",
+      "price": "Average price per person $55",
+      "path": "/venezuela/caracas/caracas/el-bosque-bistr"
+    },
+    {
       "name": "La Casa Bistró",
       "cuisine": "",
       "price": "",
       "path": "/venezuela/caracas/caracas/la-casa-bistr"
+    },
+    {
+      "name": "La Posada De Cervantes",
+      "cuisine": "",
+      "price": "Average price per person $50",
+      "path": "/venezuela/caracas/caracas/la-posada-de-cervantes"
+    },
+    {
+      "name": "Robusto",
+      "cuisine": "",
+      "price": "",
+      "path": "/venezuela/caracas/caracas/robusto"
     }
   ]
 }

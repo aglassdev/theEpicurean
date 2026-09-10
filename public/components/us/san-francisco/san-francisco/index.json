@@ -1,0 +1,44 @@
+{
+  "title": "San Francisco",
+  "country": "Us",
+  "countrySlug": "us",
+  "region": null,
+  "regionSlug": "san-francisco",
+  "city": "San Francisco",
+  "citySlug": "san-francisco",
+  "path": "/us/san-francisco/san-francisco/restaurants",
+  "canonicalPath": "/us/san-francisco/san-francisco/restaurants",
+  "count": 5,
+  "restaurants": [
+    {
+      "name": "Angler",
+      "cuisine": "",
+      "price": "Average price per person $120",
+      "path": "/us/san-francisco/san-francisco/angler"
+    },
+    {
+      "name": "Restaurant Nisei",
+      "cuisine": "",
+      "price": "Tasting menu from $317",
+      "path": "/us/san-francisco/san-francisco/restaurant-nisei"
+    },
+    {
+      "name": "Smuggler's Cove",
+      "cuisine": "",
+      "price": "Average price per cocktail $13",
+      "path": "/us/san-francisco/san-francisco/smugglers-cove"
+    },
+    {
+      "name": "Tartine Manufactory",
+      "cuisine": "",
+      "price": "Average price per person $57",
+      "path": "/us/san-francisco/san-francisco/tartine-manufactory"
+    },
+    {
+      "name": "Tommy's",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/us/san-francisco/san-francisco/tommys"
+    }
+  ]
+}

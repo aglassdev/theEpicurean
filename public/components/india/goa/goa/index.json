@@ -8,7 +8,7 @@
   "citySlug": "goa",
   "path": "/india/goa/goa/restaurants",
   "canonicalPath": "/india/goa/goa/restaurants",
-  "count": 4,
+  "count": 7,
   "restaurants": [
     {
       "name": "Bar Outrigger",
@@ -29,10 +29,28 @@
       "path": "/india/goa/goa/hideaway-bar"
     },
     {
+      "name": "Hideaway Café and Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/india/goa/goa/hideaway-caf-and-bar"
+    },
+    {
+      "name": "Hosa",
+      "cuisine": "",
+      "price": "Average price per person $25",
+      "path": "/india/goa/goa/hosa"
+    },
+    {
       "name": "Tesouro by Firefly (Bar)",
       "cuisine": "",
       "price": "",
       "path": "/india/goa/goa/tesouro-by-firefly-bar"
+    },
+    {
+      "name": "The Second House",
+      "cuisine": "",
+      "price": "Average price per person $20",
+      "path": "/india/goa/goa/the-second-house"
     }
   ]
 }

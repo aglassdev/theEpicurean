@@ -8,7 +8,7 @@
   "citySlug": "tallinn",
   "path": "/estonia/tallinn/tallinn/restaurants",
   "canonicalPath": "/estonia/tallinn/tallinn/restaurants",
-  "count": 38,
+  "count": 40,
   "restaurants": [
     {
       "name": "180° by Matthias Diether",
@@ -44,6 +44,12 @@
       "price": "$$",
       "path": "/estonia/tallinn/tallinn/vesta",
       "award": "Bib Gourmand"
+    },
+    {
+      "name": "180 Degrees",
+      "cuisine": "",
+      "price": "Tasting menu from $135",
+      "path": "/estonia/tallinn/tallinn/180-degrees"
     },
     {
       "name": "ÂME",
@@ -242,6 +248,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/estonia/tallinn/tallinn/vivi"
+    },
+    {
+      "name": "Whisper Sister",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/estonia/tallinn/tallinn/whisper-sister"
     }
   ]
 }

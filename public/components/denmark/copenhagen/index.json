@@ -8,7 +8,7 @@
   "citySlug": "copenhagen",
   "path": "/denmark/copenhagen/restaurants",
   "canonicalPath": "/denmark/copenhagen/copenhagen/restaurants",
-  "count": 91,
+  "count": 99,
   "hero": "/images/kopenhagenheader.png",
   "restaurants": [
     {
@@ -240,6 +240,18 @@
       "path": "/denmark/copenhagen/copenhagen/bst"
     },
     {
+      "name": "Balderdash",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/denmark/copenhagen/copenhagen/balderdash"
+    },
+    {
+      "name": "Barabba",
+      "cuisine": "",
+      "price": "Tasting menu from $80",
+      "path": "/denmark/copenhagen/copenhagen/barabba"
+    },
+    {
       "name": "Barr",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -300,6 +312,12 @@
       "path": "/denmark/copenhagen/copenhagen/dmod"
     },
     {
+      "name": "Duck & Cover",
+      "cuisine": "",
+      "price": "Average price per cocktail $19",
+      "path": "/denmark/copenhagen/copenhagen/duck-cover"
+    },
+    {
       "name": "Enomania",
       "cuisine": "Italian",
       "price": "€€",
@@ -328,6 +346,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€",
       "path": "/denmark/copenhagen/copenhagen/hst"
+    },
+    {
+      "name": "Kadeau",
+      "cuisine": "",
+      "price": "Tasting menu from $574",
+      "path": "/denmark/copenhagen/copenhagen/kadeau"
     },
     {
       "name": "Kanalen",
@@ -382,6 +406,12 @@
       "cuisine": "Italian and Japanese",
       "price": "€€€",
       "path": "/denmark/copenhagen/copenhagen/levi"
+    },
+    {
+      "name": "Lidkoeb",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/denmark/copenhagen/copenhagen/lidkoeb"
     },
     {
       "name": "Magny",
@@ -516,6 +546,12 @@
       "path": "/denmark/copenhagen/copenhagen/ruby-bar"
     },
     {
+      "name": "Salon",
+      "cuisine": "",
+      "price": "Average price per person $129",
+      "path": "/denmark/copenhagen/copenhagen/salon"
+    },
+    {
       "name": "Sanchez",
       "cuisine": "Mexican",
       "price": "€€",
@@ -544,6 +580,12 @@
       "cuisine": "",
       "price": "",
       "path": "/denmark/copenhagen/copenhagen/studio-at-the-standard-standart"
+    },
+    {
+      "name": "Tata",
+      "cuisine": "",
+      "price": "Average price per cocktail $22",
+      "path": "/denmark/copenhagen/copenhagen/tata"
     },
     {
       "name": "Tèrra",
@@ -580,6 +622,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€",
       "path": "/denmark/copenhagen/copenhagen/rvkst"
+    },
+    {
+      "name": "Victory",
+      "cuisine": "",
+      "price": "Average price per cocktail $20",
+      "path": "/denmark/copenhagen/copenhagen/victory"
     }
   ]
 }

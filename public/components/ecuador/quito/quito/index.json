@@ -8,8 +8,26 @@
   "citySlug": "quito",
   "path": "/ecuador/quito/quito/restaurants",
   "canonicalPath": "/ecuador/quito/quito/restaurants",
-  "count": 4,
+  "count": 15,
   "restaurants": [
+    {
+      "name": "Casa Gangotena Restaurant",
+      "cuisine": "",
+      "price": "Average price per person $62",
+      "path": "/ecuador/quito/quito/casa-gangotena-restaurant"
+    },
+    {
+      "name": "Chez Jérôme",
+      "cuisine": "",
+      "price": "Average price per person $38",
+      "path": "/ecuador/quito/quito/chez-jrme"
+    },
+    {
+      "name": "Ciré",
+      "cuisine": "",
+      "price": "Average price per person $56",
+      "path": "/ecuador/quito/quito/cir"
+    },
     {
       "name": "CLARA",
       "cuisine": "",
@@ -23,16 +41,64 @@
       "path": "/ecuador/quito/quito/nuema"
     },
     {
+      "name": "Nuum",
+      "cuisine": "",
+      "price": "Average price per person $70",
+      "path": "/ecuador/quito/quito/nuum"
+    },
+    {
+      "name": "Pez Bela",
+      "cuisine": "",
+      "price": "Average price per person $35",
+      "path": "/ecuador/quito/quito/pez-bela"
+    },
+    {
       "name": "Quitu",
       "cuisine": "",
       "price": "",
       "path": "/ecuador/quito/quito/quitu"
     },
     {
+      "name": "Rincón de Francia",
+      "cuisine": "",
+      "price": "Average price per person $50",
+      "path": "/ecuador/quito/quito/rincn-de-francia"
+    },
+    {
+      "name": "Shibumi",
+      "cuisine": "",
+      "price": "Average price per person $35",
+      "path": "/ecuador/quito/quito/shibumi"
+    },
+    {
+      "name": "Somos",
+      "cuisine": "",
+      "price": "Average price per person $35",
+      "path": "/ecuador/quito/quito/somos"
+    },
+    {
+      "name": "Tributo",
+      "cuisine": "",
+      "price": "Average price per person $65",
+      "path": "/ecuador/quito/quito/tributo"
+    },
+    {
       "name": "Tributo Restaurante",
       "cuisine": "",
       "price": "",
       "path": "/ecuador/quito/quito/tributo-restaurante"
+    },
+    {
+      "name": "Urko",
+      "cuisine": "",
+      "price": "Tasting menu from $90",
+      "path": "/ecuador/quito/quito/urko"
+    },
+    {
+      "name": "Z-Food",
+      "cuisine": "",
+      "price": "Average price per person $47",
+      "path": "/ecuador/quito/quito/zfood"
     }
   ]
 }

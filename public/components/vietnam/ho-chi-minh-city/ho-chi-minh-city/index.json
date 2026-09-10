@@ -8,7 +8,7 @@
   "citySlug": "ho-chi-minh-city",
   "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/restaurants",
   "canonicalPath": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/restaurants",
-  "count": 102,
+  "count": 109,
   "hero": "/images/hochiminhcityheader.png",
   "restaurants": [
     {
@@ -342,6 +342,18 @@
       "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/lai"
     },
     {
+      "name": "Layla - Eatery & Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $4",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/layla-eatery-bar"
+    },
+    {
+      "name": "Le Corto",
+      "cuisine": "",
+      "price": "Average price per person $25",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/le-corto"
+    },
+    {
       "name": "Little Bear",
       "cuisine": "Vietnamese Contemporary",
       "price": "₫₫",
@@ -400,6 +412,12 @@
       "cuisine": "Vietnamese",
       "price": "₫",
       "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/nh-t"
+    },
+    {
+      "name": "Nhau Nhau",
+      "cuisine": "",
+      "price": "Average price per cocktail $5",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/nhau-nhau"
     },
     {
       "name": "NÔM",
@@ -576,6 +594,12 @@
       "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/stir-bar"
     },
     {
+      "name": "Stir Modern Classic Cocktail Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $12",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/stir-modern-classic-cocktail-bar"
+    },
+    {
       "name": "Stoker (District 1)",
       "cuisine": "Steakhouse",
       "price": "₫₫₫",
@@ -588,10 +612,22 @@
       "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/stoker-saigon"
     },
     {
+      "name": "Summer Experiment",
+      "cuisine": "",
+      "price": "Average price per cocktail $4",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/summer-experiment"
+    },
+    {
       "name": "The Albion by Kirk Westaway",
       "cuisine": "British Contemporary",
       "price": "₫₫₫",
       "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/the-albion-by-kirk-westaway"
+    },
+    {
+      "name": "The Alley Cocktail Bar & Kitchen",
+      "cuisine": "",
+      "price": "Average price per cocktail $6",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/the-alley-cocktail-bar-kitchen"
     },
     {
       "name": "The Enigma Mansion",
@@ -640,6 +676,12 @@
       "cuisine": "Street Food",
       "price": "₫",
       "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/xi-g-number-one"
+    },
+    {
+      "name": "Yakiniku Yazawa Saigon",
+      "cuisine": "",
+      "price": "Average price per person $150",
+      "path": "/vietnam/ho-chi-minh-city/ho-chi-minh-city/yakiniku-yazawa-saigon"
     }
   ]
 }

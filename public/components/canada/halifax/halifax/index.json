@@ -8,7 +8,7 @@
   "citySlug": "halifax",
   "path": "/canada/halifax/halifax/restaurants",
   "canonicalPath": "/canada/halifax/halifax/restaurants",
-  "count": 10,
+  "count": 12,
   "restaurants": [
     {
       "name": "Bar Kismet",
@@ -47,6 +47,12 @@
       "path": "/canada/halifax/halifax/gio"
     },
     {
+      "name": "Highwayman",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/canada/halifax/halifax/highwayman"
+    },
+    {
       "name": "Little Oak Bar",
       "cuisine": "",
       "price": "",
@@ -69,6 +75,12 @@
       "cuisine": "",
       "price": "",
       "path": "/canada/halifax/halifax/the-bicycle-thief"
+    },
+    {
+      "name": "The Narrows",
+      "cuisine": "",
+      "price": "",
+      "path": "/canada/halifax/halifax/the-narrows"
     }
   ]
 }

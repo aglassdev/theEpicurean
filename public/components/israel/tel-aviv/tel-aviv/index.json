@@ -8,8 +8,14 @@
   "citySlug": "tel-aviv",
   "path": "/israel/tel-aviv/tel-aviv/restaurants",
   "canonicalPath": "/israel/tel-aviv/tel-aviv/restaurants",
-  "count": 16,
+  "count": 30,
   "restaurants": [
+    {
+      "name": "7to1 Lab",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/israel/tel-aviv/tel-aviv/7to1-lab"
+    },
     {
       "name": "A by Yuval Ben Neriah",
       "cuisine": "",
@@ -29,6 +35,12 @@
       "path": "/israel/tel-aviv/tel-aviv/animar"
     },
     {
+      "name": "Bar 51",
+      "cuisine": "",
+      "price": "Average price per person $34",
+      "path": "/israel/tel-aviv/tel-aviv/bar51"
+    },
+    {
       "name": "Blue Sky by Meir Adoni",
       "cuisine": "",
       "price": "",
@@ -39,6 +51,18 @@
       "cuisine": "",
       "price": "",
       "path": "/israel/tel-aviv/tel-aviv/claro"
+    },
+    {
+      "name": "Dok",
+      "cuisine": "",
+      "price": "Average price per person $87",
+      "path": "/israel/tel-aviv/tel-aviv/dok"
+    },
+    {
+      "name": "George & John",
+      "cuisine": "",
+      "price": "Average price per person $85",
+      "path": "/israel/tel-aviv/tel-aviv/george-john"
     },
     {
       "name": "George and John Restaurant",
@@ -59,10 +83,28 @@
       "path": "/israel/tel-aviv/tel-aviv/hasalon"
     },
     {
+      "name": "Hiba",
+      "cuisine": "",
+      "price": "Tasting menu from $115",
+      "path": "/israel/tel-aviv/tel-aviv/hiba"
+    },
+    {
+      "name": "Kab Kem",
+      "cuisine": "",
+      "price": "Average price per person $74",
+      "path": "/israel/tel-aviv/tel-aviv/kab-kem"
+    },
+    {
       "name": "L’Epoque by Robuchon",
       "cuisine": "",
       "price": "",
       "path": "/israel/tel-aviv/tel-aviv/lepoque-by-robuchon"
+    },
+    {
+      "name": "M25",
+      "cuisine": "",
+      "price": "Average price per person $54",
+      "path": "/israel/tel-aviv/tel-aviv/m25"
     },
     {
       "name": "Manta Ray",
@@ -105,6 +147,48 @@
       "cuisine": "",
       "price": "",
       "path": "/israel/tel-aviv/tel-aviv/popina"
+    },
+    {
+      "name": "Pronto",
+      "cuisine": "",
+      "price": "Average price per person $53",
+      "path": "/israel/tel-aviv/tel-aviv/pronto"
+    },
+    {
+      "name": "Santi",
+      "cuisine": "",
+      "price": "",
+      "path": "/israel/tel-aviv/tel-aviv/santi"
+    },
+    {
+      "name": "Shila",
+      "cuisine": "",
+      "price": "Average price per person $78",
+      "path": "/israel/tel-aviv/tel-aviv/shila"
+    },
+    {
+      "name": "Taizu",
+      "cuisine": "",
+      "price": "Average price per person $70",
+      "path": "/israel/tel-aviv/tel-aviv/taizu"
+    },
+    {
+      "name": "Thai House",
+      "cuisine": "",
+      "price": "Average price per person $53",
+      "path": "/israel/tel-aviv/tel-aviv/thai-house"
+    },
+    {
+      "name": "Treysar",
+      "cuisine": "",
+      "price": "Average price per person $78",
+      "path": "/israel/tel-aviv/tel-aviv/treysar"
+    },
+    {
+      "name": "Yaffo-Tel Aviv",
+      "cuisine": "",
+      "price": "Average price per person $63",
+      "path": "/israel/tel-aviv/tel-aviv/yaffotel-aviv"
     }
   ]
 }

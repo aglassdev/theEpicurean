@@ -8,9 +8,15 @@
   "citySlug": "manama",
   "path": "/bahrain/manama/manama/restaurants",
   "canonicalPath": "/bahrain/manama/manama/restaurants",
-  "count": 8,
+  "count": 13,
   "hero": "/images/manamaheader.png",
   "restaurants": [
+    {
+      "name": "Clay",
+      "cuisine": "",
+      "price": "Average price per person $130",
+      "path": "/bahrain/manama/manama/clay"
+    },
     {
       "name": "Fusions by Tala",
       "cuisine": "",
@@ -22,6 +28,12 @@
       "cuisine": "",
       "price": "",
       "path": "/bahrain/manama/manama/la-table-krug"
+    },
+    {
+      "name": "Lumee",
+      "cuisine": "",
+      "price": "",
+      "path": "/bahrain/manama/manama/lumee"
     },
     {
       "name": "Lyra Restaurant",
@@ -58,6 +70,24 @@
       "cuisine": "",
       "price": "",
       "path": "/bahrain/manama/manama/rasoi-by-vineet"
+    },
+    {
+      "name": "re/Asian Cuisine",
+      "cuisine": "",
+      "price": "Average price per person $150",
+      "path": "/bahrain/manama/manama/reasian-cuisine"
+    },
+    {
+      "name": "Sushisamba",
+      "cuisine": "",
+      "price": "Average price per person $137",
+      "path": "/bahrain/manama/manama/sushisamba"
+    },
+    {
+      "name": "The Meat Company",
+      "cuisine": "",
+      "price": "Average price per person $100",
+      "path": "/bahrain/manama/manama/the-meat-company"
     }
   ]
 }

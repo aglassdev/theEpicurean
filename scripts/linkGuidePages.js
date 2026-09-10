@@ -65,13 +65,14 @@ for (const rel of files) {
   const base = parts[parts.length - 1].replace(/\.json$/, '');
   const cslug = (parts[parts.length - 2] || '').toLowerCase().replace(/[^a-z0-9]/g, '');
   const route = '/' + parts.join('/').replace(/\.json$/, '');
-  const entry = { route, citySlug: cslug, country: countrySlugFrom(parts[0]) };
+  const entry = { route, citySlug: cslug, country: countrySlugFrom(parts[0]), name: '' };
   add(base.toLowerCase(), entry);
   // Filenames get shortened by hand (PattyOsCafe.json holds "Patty O's Cafe &
   // Bakery"), so index the name the page actually declares as well.
   try {
     const d = JSON.parse(fs.readFileSync(path.join(COMPONENTS, rel), 'utf8'));
-    const declared = compName(d.restaurantName || d.pageTitle).toLowerCase();
+    entry.name = String(d.restaurantName || d.pageTitle || '').trim();
+    const declared = compName(entry.name).toLowerCase();
     if (declared && declared !== base.toLowerCase()) add(declared, entry);
     // A page may list other names its sources use, e.g. a merged record that used
     // to be two entries. Those spellings should reach it too.
@@ -146,7 +147,13 @@ const findRoute = (name, city, country) => {
   const cs = citySlug(city);
   const sameCity = (c) => c.citySlug === cs
     || (cs && c.citySlug && (cs.startsWith(c.citySlug) || c.citySlug.startsWith(cs)));
-  return (usable.find(sameCity) || usable[0]).route;
+  const inCity = usable.filter(sameCity);
+  const pool = inCity.length ? inCity : usable;
+  // "À Table" and "Table" are two Paris restaurants whose filenames both come
+  // out as Table, because the accent is stripped before the name is PascalCased.
+  // The page still says which one it is, so an exact name beats a shaped one.
+  const exact = pool.find((c) => c.name && c.name.toLowerCase() === String(name || '').trim().toLowerCase());
+  return (exact || pool[0]).route;
 };
 
 let linked = 0;

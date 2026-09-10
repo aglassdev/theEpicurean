@@ -8,7 +8,7 @@
   "citySlug": "singapore",
   "path": "/singapore/other/singapore/restaurants",
   "canonicalPath": "/singapore/singapore/singapore/restaurants",
-  "count": 385,
+  "count": 400,
   "hero": "/images/singaporeheader.png",
   "restaurants": [
     {
@@ -416,6 +416,12 @@
       "path": "/singapore/other/singapore/ann-chin-handmade-popiah"
     },
     {
+      "name": "Anti:dote",
+      "cuisine": "",
+      "price": "Average price per cocktail $20",
+      "path": "/singapore/singapore/singapore/antidote"
+    },
+    {
       "name": "ANTO",
       "cuisine": "",
       "price": "",
@@ -650,6 +656,12 @@
       "path": "/singapore/other/singapore/come-daily-fried-hokkien-prawn-mee"
     },
     {
+      "name": "Cote Korean Steakhouse",
+      "cuisine": "",
+      "price": "Average price per person $140",
+      "path": "/singapore/singapore/singapore/cote-korean-steakhouse"
+    },
+    {
       "name": "COTE Singapore",
       "cuisine": "",
       "price": "",
@@ -840,6 +852,12 @@
       "cuisine": "Street Food",
       "price": "$",
       "path": "/singapore/other/singapore/ghim-moh-chwee-kueh"
+    },
+    {
+      "name": "Gibson",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/singapore/singapore/singapore/gibson"
     },
     {
       "name": "Gordon Grill",
@@ -1100,6 +1118,12 @@
       "path": "/singapore/other/singapore/jade-palace"
     },
     {
+      "name": "Jade Palace Seafood",
+      "cuisine": "",
+      "price": "Average price per person $80",
+      "path": "/singapore/singapore/singapore/jade-palace-seafood"
+    },
+    {
       "name": "Jalan Sultan Prawn Mee",
       "cuisine": "Street Food",
       "price": "$",
@@ -1212,6 +1236,12 @@
       "cuisine": "Singaporean",
       "price": "$",
       "path": "/singapore/other/singapore/keng-eng-kee-bukit-merah"
+    },
+    {
+      "name": "Keng Eng Kee Seafood",
+      "cuisine": "",
+      "price": "Average price per person $42",
+      "path": "/singapore/singapore/singapore/keng-eng-kee-seafood"
     },
     {
       "name": "Khiri",
@@ -1340,6 +1370,12 @@
       "path": "/singapore/other/singapore/latido"
     },
     {
+      "name": "Le Bon Funk",
+      "cuisine": "",
+      "price": "Average price per person $70",
+      "path": "/singapore/singapore/singapore/le-bon-funk"
+    },
+    {
       "name": "Lei Garden (Singapore)",
       "cuisine": "",
       "price": "",
@@ -1392,6 +1428,12 @@
       "cuisine": "European Contemporary",
       "price": "$$$",
       "path": "/singapore/other/singapore/lolla"
+    },
+    {
+      "name": "Long Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $20",
+      "path": "/singapore/singapore/singapore/long-bar"
     },
     {
       "name": "Long Kee Wanton Noodle",
@@ -1544,6 +1586,12 @@
       "path": "/singapore/singapore/singapore/native-bar"
     },
     {
+      "name": "Neon Pigeon",
+      "cuisine": "",
+      "price": "Average price per cocktail $24",
+      "path": "/singapore/singapore/singapore/neon-pigeon"
+    },
+    {
       "name": "New Lucky Claypot Rice",
       "cuisine": "Street Food",
       "price": "$",
@@ -1616,10 +1664,22 @@
       "path": "/singapore/other/singapore/olivia-s-i-n"
     },
     {
+      "name": "One Ninety",
+      "cuisine": "",
+      "price": "Average price per cocktail $21",
+      "path": "/singapore/singapore/singapore/one-ninety"
+    },
+    {
       "name": "Open Farm Community",
       "cuisine": "International",
       "price": "$$",
       "path": "/singapore/other/singapore/open-farm-community"
+    },
+    {
+      "name": "Origin Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/singapore/singapore/singapore/origin-bar"
     },
     {
       "name": "Origin Bar & Grill",
@@ -1748,6 +1808,12 @@
       "path": "/singapore/other/singapore/ron-sheng-fish-head-bee-hoon"
     },
     {
+      "name": "RPM by D.Bespoke",
+      "cuisine": "",
+      "price": "",
+      "path": "/singapore/singapore/singapore/rpm-by-dbespoke"
+    },
+    {
       "name": "Ru Ji Kitchen",
       "cuisine": "Street Food",
       "price": "$",
@@ -1824,6 +1890,12 @@
       "cuisine": "",
       "price": "",
       "path": "/singapore/singapore/singapore/shin-gi-tai-bar"
+    },
+    {
+      "name": "Shinji by Kanesaka",
+      "cuisine": "",
+      "price": "Tasting menu from $55",
+      "path": "/singapore/singapore/singapore/shinji-by-kanesaka"
     },
     {
       "name": "Shunsui",
@@ -1932,6 +2004,12 @@
       "cuisine": "Italian",
       "price": "$$",
       "path": "/singapore/other/singapore/sospiri"
+    },
+    {
+      "name": "Spago Bar & Lounge",
+      "cuisine": "",
+      "price": "Average price per cocktail $19",
+      "path": "/singapore/singapore/singapore/spago-bar-lounge"
     },
     {
       "name": "Spago Dining Room",
@@ -2060,6 +2138,12 @@
       "path": "/singapore/other/singapore/the1950s-coffee"
     },
     {
+      "name": "The Bar Kakure",
+      "cuisine": "",
+      "price": "Average price per cocktail $20",
+      "path": "/singapore/singapore/singapore/the-bar-kakure"
+    },
+    {
       "name": "The Blue Ginger",
       "cuisine": "Peranakan",
       "price": "$$",
@@ -2082,6 +2166,12 @@
       "cuisine": "",
       "price": "",
       "path": "/singapore/singapore/singapore/the-lobby-lounge"
+    },
+    {
+      "name": "The Other Room",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/singapore/singapore/singapore/the-other-room"
     },
     {
       "name": "The Prince",

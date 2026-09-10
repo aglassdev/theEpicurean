@@ -8,7 +8,7 @@
   "citySlug": "santiago",
   "path": "/chile/santiago/santiago/restaurants",
   "canonicalPath": "/chile/santiago/santiago/restaurants",
-  "count": 19,
+  "count": 26,
   "hero": "/images/santiagoheader.png",
   "restaurants": [
     {
@@ -35,6 +35,18 @@
       "cuisine": "",
       "price": "",
       "path": "/chile/santiago/santiago/ambrosa-bistro"
+    },
+    {
+      "name": "Bar La Providencia",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/chile/santiago/santiago/bar-la-providencia"
+    },
+    {
+      "name": "Buriana",
+      "cuisine": "",
+      "price": "Average price per person $65",
+      "path": "/chile/santiago/santiago/buriana"
     },
     {
       "name": "Casa Las Cujas",
@@ -85,6 +97,24 @@
       "path": "/chile/santiago/santiago/la-calma-by-fredes"
     },
     {
+      "name": "La Mesa",
+      "cuisine": "",
+      "price": "Average price per person $60",
+      "path": "/chile/santiago/santiago/la-mesa"
+    },
+    {
+      "name": "Lolita Jones",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/chile/santiago/santiago/lolita-jones"
+    },
+    {
+      "name": "Mestizo",
+      "cuisine": "",
+      "price": "Average price per person $44",
+      "path": "/chile/santiago/santiago/mestizo"
+    },
+    {
       "name": "Naoki",
       "cuisine": "",
       "price": "",
@@ -109,10 +139,22 @@
       "path": "/chile/santiago/santiago/pizzeria-allera"
     },
     {
+      "name": "Prima Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/chile/santiago/santiago/prima-bar"
+    },
+    {
       "name": "Pulpería Santa Elvira",
       "cuisine": "",
       "price": "",
       "path": "/chile/santiago/santiago/pulpera-santa-elvira"
+    },
+    {
+      "name": "Siam Thai",
+      "cuisine": "",
+      "price": "Average price per cocktail $9",
+      "path": "/chile/santiago/santiago/siam-thai"
     },
     {
       "name": "The Singular Restaurant",

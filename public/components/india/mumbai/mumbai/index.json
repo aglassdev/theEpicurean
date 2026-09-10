@@ -8,13 +8,25 @@
   "citySlug": "mumbai",
   "path": "/india/mumbai/mumbai/restaurants",
   "canonicalPath": "/india/mumbai/mumbai/restaurants",
-  "count": 14,
+  "count": 25,
   "restaurants": [
+    {
+      "name": "Aer",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/india/mumbai/mumbai/aer"
+    },
     {
       "name": "Americano",
       "cuisine": "",
       "price": "",
       "path": "/india/mumbai/mumbai/americano"
+    },
+    {
+      "name": "Bastian",
+      "cuisine": "",
+      "price": "Average price per person $40",
+      "path": "/india/mumbai/mumbai/bastian"
     },
     {
       "name": "EKAA",
@@ -23,16 +35,52 @@
       "path": "/india/mumbai/mumbai/ekaa"
     },
     {
+      "name": "Ekaa Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/india/mumbai/mumbai/ekaa-bar"
+    },
+    {
+      "name": "Indian Accent",
+      "cuisine": "",
+      "price": "Average price per person $42",
+      "path": "/india/mumbai/mumbai/indian-accent"
+    },
+    {
+      "name": "Izumi",
+      "cuisine": "",
+      "price": "Average price per person $25",
+      "path": "/india/mumbai/mumbai/izumi"
+    },
+    {
       "name": "Izumi Bandra",
       "cuisine": "",
       "price": "",
       "path": "/india/mumbai/mumbai/izumi-bandra"
     },
     {
+      "name": "La Loca Maria",
+      "cuisine": "",
+      "price": "Average price per person $30",
+      "path": "/india/mumbai/mumbai/la-loca-maria"
+    },
+    {
       "name": "Masque",
       "cuisine": "",
       "price": "",
       "path": "/india/mumbai/mumbai/masque"
+    },
+    {
+      "name": "O Pedro Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $9",
+      "path": "/india/mumbai/mumbai/o-pedro-bar"
+    },
+    {
+      "name": "O Pedro Restaurant",
+      "cuisine": "",
+      "price": "Average price per person $25",
+      "path": "/india/mumbai/mumbai/o-pedro-restaurant"
     },
     {
       "name": "Papa's",
@@ -51,6 +99,12 @@
       "cuisine": "",
       "price": "",
       "path": "/india/mumbai/mumbai/shree-thaker-bhojanalay"
+    },
+    {
+      "name": "Slink & Bardot",
+      "cuisine": "",
+      "price": "Average price per cocktail $9",
+      "path": "/india/mumbai/mumbai/slink-bardot"
     },
     {
       "name": "SodaBottleOpenerWala",
@@ -77,10 +131,22 @@
       "path": "/india/mumbai/mumbai/the-table"
     },
     {
+      "name": "Trishna",
+      "cuisine": "",
+      "price": "Average price per person $35",
+      "path": "/india/mumbai/mumbai/trishna"
+    },
+    {
       "name": "Wasabi By Morimoto",
       "cuisine": "",
       "price": "",
       "path": "/india/mumbai/mumbai/wasabi-by-morimoto"
+    },
+    {
+      "name": "Yauatcha",
+      "cuisine": "",
+      "price": "Average price per person $34",
+      "path": "/india/mumbai/mumbai/yauatcha"
     },
     {
       "name": "Yauatcha Mumbai",

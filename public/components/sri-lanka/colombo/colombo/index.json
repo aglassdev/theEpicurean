@@ -8,14 +8,44 @@
   "citySlug": "colombo",
   "path": "/sri-lanka/colombo/colombo/restaurants",
   "canonicalPath": "/sri-lanka/colombo/colombo/restaurants",
-  "count": 1,
+  "count": 6,
   "hero": "/images/colomboheader.png",
   "restaurants": [
+    {
+      "name": "Capital Bar & Grill",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/sri-lanka/colombo/colombo/capital-bar-grill"
+    },
+    {
+      "name": "Gini",
+      "cuisine": "",
+      "price": "Average price per cocktail $11",
+      "path": "/sri-lanka/colombo/colombo/gini"
+    },
     {
       "name": "Ministry of Crab",
       "cuisine": "",
       "price": "",
       "path": "/sri-lanka/colombo/colombo/ministry-of-crab"
+    },
+    {
+      "name": "Nihonbashi",
+      "cuisine": "",
+      "price": "Average price per person $40",
+      "path": "/sri-lanka/colombo/colombo/nihonbashi"
+    },
+    {
+      "name": "Paradise Road The Gallery Cafe",
+      "cuisine": "",
+      "price": "Average price per person $14",
+      "path": "/sri-lanka/colombo/colombo/paradise-road-the-gallery-cafe"
+    },
+    {
+      "name": "Uncle's",
+      "cuisine": "",
+      "price": "Average price per cocktail $7",
+      "path": "/sri-lanka/colombo/colombo/uncles"
     }
   ]
 }

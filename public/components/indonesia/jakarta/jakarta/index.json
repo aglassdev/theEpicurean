@@ -8,7 +8,7 @@
   "citySlug": "jakarta",
   "path": "/indonesia/jakarta/jakarta/restaurants",
   "canonicalPath": "/indonesia/jakarta/jakarta/restaurants",
-  "count": 15,
+  "count": 21,
   "restaurants": [
     {
       "name": "August",
@@ -21,6 +21,12 @@
       "cuisine": "",
       "price": "",
       "path": "/indonesia/jakarta/jakarta/bel-tage"
+    },
+    {
+      "name": "Between the Sips",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/indonesia/jakarta/jakarta/between-the-sips"
     },
     {
       "name": "Carrots Bar",
@@ -47,6 +53,18 @@
       "path": "/indonesia/jakarta/jakarta/cosmo-pony"
     },
     {
+      "name": "Duck Down Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/indonesia/jakarta/jakarta/duck-down-bar"
+    },
+    {
+      "name": "Esa",
+      "cuisine": "",
+      "price": "Tasting menu from $102",
+      "path": "/indonesia/jakarta/jakarta/esa"
+    },
+    {
       "name": "J.J.A.",
       "cuisine": "",
       "price": "",
@@ -65,10 +83,22 @@
       "path": "/indonesia/jakarta/jakarta/kilo-kitchen"
     },
     {
+      "name": "Koda",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/indonesia/jakarta/jakarta/koda"
+    },
+    {
       "name": "Meatguy Steakhouse",
       "cuisine": "",
       "price": "",
       "path": "/indonesia/jakarta/jakarta/meatguy-steakhouse"
+    },
+    {
+      "name": "Modernhaus",
+      "cuisine": "",
+      "price": "Average price per cocktail $12",
+      "path": "/indonesia/jakarta/jakarta/modernhaus"
     },
     {
       "name": "Modernhaus (Bar)",
@@ -89,16 +119,22 @@
       "path": "/indonesia/jakarta/jakarta/the-cocktail-club"
     },
     {
+      "name": "The Golden Tooth",
+      "cuisine": "",
+      "price": "Average price per cocktail $12",
+      "path": "/indonesia/jakarta/jakarta/the-golden-tooth"
+    },
+    {
       "name": "The Golden Tooth (Bar)",
       "cuisine": "",
       "price": "",
       "path": "/indonesia/jakarta/jakarta/the-golden-tooth-bar"
     },
     {
-      "name": "The St. Regis Bar (Jakarta)",
+      "name": "The St. Regis Bar Jakarta",
       "cuisine": "",
-      "price": "",
-      "path": "/indonesia/jakarta/jakarta/the-st-regis-bar-jakarta"
+      "price": "Average price per cocktail $13",
+      "path": "/indonesia/jakarta/jakarta/the-st-regis-bar-jakarta2"
     }
   ]
 }

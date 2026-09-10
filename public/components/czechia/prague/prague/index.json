@@ -8,7 +8,7 @@
   "citySlug": "prague",
   "path": "/czechia/prague/prague/restaurants",
   "canonicalPath": "/czechia/prague/prague/restaurants",
-  "count": 46,
+  "count": 51,
   "restaurants": [
     {
       "name": "Field",
@@ -51,6 +51,12 @@
       "path": "/czechia/prague/prague/alma-p-r-a"
     },
     {
+      "name": "Alma Prague",
+      "cuisine": "",
+      "price": "Average price per cocktail $13",
+      "path": "/czechia/prague/prague/alma-prague"
+    },
+    {
       "name": "Amano",
       "cuisine": "Italian Contemporary",
       "price": "€€€",
@@ -79,6 +85,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/czechia/prague/prague/benjamin"
+    },
+    {
+      "name": "Black Angel's Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/czechia/prague/prague/black-angels-bar"
     },
     {
       "name": "Bockem",
@@ -135,16 +147,34 @@
       "path": "/czechia/prague/prague/divinis"
     },
     {
+      "name": "Forbína",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/czechia/prague/prague/forbna"
+    },
+    {
       "name": "Grand Cru",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/czechia/prague/prague/grand-cru"
     },
     {
+      "name": "Hemingway Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/czechia/prague/prague/hemingway-bar"
+    },
+    {
       "name": "Kampa Park",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/czechia/prague/prague/kampa-park"
+    },
+    {
+      "name": "L'Fleur",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/czechia/prague/prague/lfleur"
     },
     {
       "name": "La Finestra in Cucina",

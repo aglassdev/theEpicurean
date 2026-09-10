@@ -8,9 +8,21 @@
   "citySlug": "tirana",
   "path": "/albania/tirana/tirana/restaurants",
   "canonicalPath": "/albania/tirana/tirana/restaurants",
-  "count": 1,
+  "count": 3,
   "hero": "/images/tiranaheader.png",
   "restaurants": [
+    {
+      "name": "Mullixhiu",
+      "cuisine": "",
+      "price": "Average price per person $10",
+      "path": "/albania/tirana/tirana/mullixhiu"
+    },
+    {
+      "name": "Nouvelle Vague",
+      "cuisine": "",
+      "price": "",
+      "path": "/albania/tirana/tirana/nouvelle-vague"
+    },
     {
       "name": "Nouvelle Vague (Bar)",
       "cuisine": "",

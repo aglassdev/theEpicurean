@@ -8,7 +8,7 @@
   "citySlug": "osaka",
   "path": "/japan/osaka/osaka/restaurants",
   "canonicalPath": "/japan/osaka/osaka/restaurants",
-  "count": 276,
+  "count": 282,
   "hero": "/images/osakaheader.png",
   "restaurants": [
     {
@@ -639,16 +639,46 @@
       "path": "/japan/osaka/osaka/az"
     },
     {
+      "name": "Bar Hiramatsu",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/japan/osaka/osaka/bar-hiramatsu"
+    },
+    {
+      "name": "Bar Juniper",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/japan/osaka/osaka/bar-juniper"
+    },
+    {
+      "name": "Bar K",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/japan/osaka/osaka/bar-k"
+    },
+    {
       "name": "Bar Nayuta",
       "cuisine": "",
       "price": "",
       "path": "/japan/osaka/osaka/bar-nayuta"
     },
     {
+      "name": "Bar Shiki",
+      "cuisine": "",
+      "price": "Average price per cocktail $12",
+      "path": "/japan/osaka/osaka/bar-shiki"
+    },
+    {
       "name": "Benikurage",
       "cuisine": "Izakaya",
       "price": "¥¥",
       "path": "/japan/osaka/osaka/benikurage"
+    },
+    {
+      "name": "Bible Club Osaka",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/japan/osaka/osaka/bible-club-osaka"
     },
     {
       "name": "Bistro des Chenapans",
@@ -895,6 +925,12 @@
       "cuisine": "Izakaya",
       "price": "¥¥",
       "path": "/japan/osaka/osaka/kannomiho"
+    },
+    {
+      "name": "Kashiwaya",
+      "cuisine": "",
+      "price": "Tasting menu from $110",
+      "path": "/japan/osaka/osaka/kashiwaya"
     },
     {
       "name": "Kassen Iritani",

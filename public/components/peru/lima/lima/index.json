@@ -8,7 +8,7 @@
   "citySlug": "lima",
   "path": "/peru/lima/lima/restaurants",
   "canonicalPath": "/peru/lima/lima/restaurants",
-  "count": 22,
+  "count": 31,
   "hero": "/images/limaheader.png",
   "restaurants": [
     {
@@ -45,6 +45,12 @@
       "price": "",
       "path": "/peru/lima/lima/mayta",
       "award": "World's 50 Best"
+    },
+    {
+      "name": "Bijou Lima",
+      "cuisine": "",
+      "price": "Average price per cocktail $11",
+      "path": "/peru/lima/lima/bijou-lima"
     },
     {
       "name": "Carnaval (Bar)",
@@ -95,6 +101,12 @@
       "path": "/peru/lima/lima/isolina"
     },
     {
+      "name": "La Gloria",
+      "cuisine": "",
+      "price": "Average price per person $30",
+      "path": "/peru/lima/lima/la-gloria"
+    },
+    {
       "name": "La Mar",
       "cuisine": "",
       "price": "",
@@ -113,10 +125,22 @@
       "path": "/peru/lima/lima/lady-bee-bar"
     },
     {
+      "name": "Limaq Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/peru/lima/lima/limaq-bar"
+    },
+    {
       "name": "Mérito",
       "cuisine": "",
       "price": "",
       "path": "/peru/lima/lima/mrito"
+    },
+    {
+      "name": "Ole Bar Restaurante",
+      "cuisine": "",
+      "price": "",
+      "path": "/peru/lima/lima/ole-bar-restaurante"
     },
     {
       "name": "Osaka Pardo y Aliaga",
@@ -137,6 +161,12 @@
       "path": "/peru/lima/lima/rafael"
     },
     {
+      "name": "Sapiens",
+      "cuisine": "",
+      "price": "Average price per person $40",
+      "path": "/peru/lima/lima/sapiens"
+    },
+    {
       "name": "Sastrería Martinez",
       "cuisine": "",
       "price": "",
@@ -147,6 +177,30 @@
       "cuisine": "",
       "price": "",
       "path": "/peru/lima/lima/shizen-restaurante-nikkei"
+    },
+    {
+      "name": "Siete",
+      "cuisine": "",
+      "price": "Average price per person $70",
+      "path": "/peru/lima/lima/siete"
+    },
+    {
+      "name": "The Parrot Shadow",
+      "cuisine": "",
+      "price": "Average price per cocktail $7",
+      "path": "/peru/lima/lima/the-parrot-shadow"
+    },
+    {
+      "name": "Tomo Cocina Nikkei",
+      "cuisine": "",
+      "price": "Tasting menu from $70",
+      "path": "/peru/lima/lima/tomo-cocina-nikkei"
+    },
+    {
+      "name": "Verbena",
+      "cuisine": "",
+      "price": "Average price per person $50",
+      "path": "/peru/lima/lima/verbena"
     }
   ]
 }

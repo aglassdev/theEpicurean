@@ -8,7 +8,7 @@
   "citySlug": "beijing",
   "path": "/chinese-mainland/beijing/beijing/restaurants",
   "canonicalPath": "/china/beijing/beijing/restaurants",
-  "count": 125,
+  "count": 127,
   "restaurants": [
     {
       "name": "Chao Shang Chao (Chaoyang)",
@@ -303,6 +303,12 @@
       "path": "/china/beijing/beijing/bao-yuan"
     },
     {
+      "name": "Bar Long Fong",
+      "cuisine": "",
+      "price": "Average price per cocktail $12",
+      "path": "/china/beijing/beijing/bar-long-fong"
+    },
+    {
       "name": "Beef & Dumplings (Chaoyang)",
       "cuisine": "Dumplings",
       "price": "¥",
@@ -367,6 +373,12 @@
       "cuisine": "Beijing Cuisine",
       "price": "¥¥¥",
       "path": "/china/beijing/beijing/country-kitchen"
+    },
+    {
+      "name": "Da Dong (Beijing)",
+      "cuisine": "",
+      "price": "",
+      "path": "/china/beijing/beijing/da-dong-beijing"
     },
     {
       "name": "Da Dong Roast Duck (Gongti)",

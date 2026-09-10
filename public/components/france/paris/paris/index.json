@@ -8,7 +8,7 @@
   "citySlug": "paris",
   "path": "/france/paris/paris/restaurants",
   "canonicalPath": "/france/paris/paris/restaurants",
-  "count": 575,
+  "count": 610,
   "restaurants": [
     {
       "name": "Alléno Paris au Pavillon Ledoyen",
@@ -1241,6 +1241,12 @@
       "path": "/france/paris/paris/benoit"
     },
     {
+      "name": "Benoit Paris",
+      "cuisine": "",
+      "price": "Average price per person $107",
+      "path": "/france/paris/paris/benoit-paris"
+    },
+    {
       "name": "Bếp Việt",
       "cuisine": "Vietnamese",
       "price": "$$",
@@ -1493,6 +1499,12 @@
       "path": "/france/paris/paris/chez-fernand"
     },
     {
+      "name": "Chez L'Ami Jean",
+      "cuisine": "",
+      "price": "Average price per person $60",
+      "path": "/france/paris/paris/chez-lami-jean"
+    },
+    {
       "name": "Chez Michel",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
@@ -1523,6 +1535,12 @@
       "path": "/france/paris/paris/clamato"
     },
     {
+      "name": "Classique",
+      "cuisine": "",
+      "price": "Average price per cocktail $13",
+      "path": "/france/paris/paris/classique"
+    },
+    {
       "name": "Clos d'Astorg",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
@@ -1533,6 +1551,12 @@
       "cuisine": "Grills",
       "price": "€€€",
       "path": "/france/paris/paris/clover-grill"
+    },
+    {
+      "name": "Clown Bar",
+      "cuisine": "",
+      "price": "Average price per person $72",
+      "path": "/france/paris/paris/clown-bar"
     },
     {
       "name": "Clutch",
@@ -1553,16 +1577,34 @@
       "path": "/france/paris/paris/colvert"
     },
     {
+      "name": "Combat",
+      "cuisine": "",
+      "price": "Average price per cocktail $11",
+      "path": "/france/paris/paris/combat"
+    },
+    {
       "name": "Comme Chez Maman",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/comme-chez-maman"
     },
     {
+      "name": "CopperBay",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/france/paris/paris/copperbay"
+    },
+    {
       "name": "Coretta",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/coretta"
+    },
+    {
+      "name": "Cravan",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/france/paris/paris/cravan"
     },
     {
       "name": "Cucina Mutualité",
@@ -1599,6 +1641,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/dante-p-a-r"
+    },
+    {
+      "name": "De Vie",
+      "cuisine": "",
+      "price": "Average price per cocktail $19",
+      "path": "/france/paris/paris/de-vie"
     },
     {
       "name": "Délicatisserie",
@@ -1641,6 +1689,12 @@
       "cuisine": "Creative",
       "price": "€€€",
       "path": "/france/paris/paris/dilia"
+    },
+    {
+      "name": "Dirty Dick",
+      "cuisine": "",
+      "price": "Average price per cocktail $13",
+      "path": "/france/paris/paris/dirty-dick"
     },
     {
       "name": "Disciples",
@@ -1727,6 +1781,12 @@
       "path": "/france/paris/paris/emporio-armani-caff"
     },
     {
+      "name": "Epicure at Le Bristol Paris",
+      "cuisine": "",
+      "price": "Average price per person $350",
+      "path": "/france/paris/paris/epicure-at-le-bristol-paris"
+    },
+    {
       "name": "Épopée",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -1775,6 +1835,12 @@
       "path": "/france/paris/paris/euno"
     },
     {
+      "name": "Experimental Cocktail Club",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/france/paris/paris/experimental-cocktail-club"
+    },
+    {
       "name": "Fana",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -1799,6 +1865,12 @@
       "path": "/france/paris/paris/felini"
     },
     {
+      "name": "Ferdi",
+      "cuisine": "",
+      "price": "Average price per person $45",
+      "path": "/france/paris/paris/ferdi"
+    },
+    {
       "name": "Flocon",
       "cuisine": "Farm to table",
       "price": "€€",
@@ -1815,6 +1887,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/frenchie-pigalle"
+    },
+    {
+      "name": "Fréquence",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/france/paris/paris/frquence"
     },
     {
       "name": "Fugue",
@@ -1881,6 +1959,12 @@
       "cuisine": "Japanese",
       "price": "€€€€",
       "path": "/france/paris/paris/hanada"
+    },
+    {
+      "name": "Harry’s Bar Paris",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/france/paris/paris/harrys-bar-paris"
     },
     {
       "name": "Hestia",
@@ -2057,6 +2141,12 @@
       "path": "/france/paris/paris/kwon"
     },
     {
+      "name": "L'Abysse",
+      "cuisine": "",
+      "price": "Average price per person $134",
+      "path": "/france/paris/paris/labysse"
+    },
+    {
       "name": "L'Accolade",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -2117,6 +2207,12 @@
       "path": "/france/paris/paris/lassiette"
     },
     {
+      "name": "L'Atelier de Joël Robuchon",
+      "cuisine": "",
+      "price": "Average price per person $135",
+      "path": "/france/paris/paris/latelier-de-jol-robuchon"
+    },
+    {
       "name": "L'Atelier de Joël Robuchon - St-Germain",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
@@ -2133,6 +2229,12 @@
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/lauberge-des-crus"
+    },
+    {
+      "name": "L'Avant Comptoir",
+      "cuisine": "",
+      "price": "Average price per person $55",
+      "path": "/france/paris/paris/lavant-comptoir"
     },
     {
       "name": "L'Escudella",
@@ -2345,6 +2447,12 @@
       "path": "/france/paris/paris/lazu"
     },
     {
+      "name": "Le 1802",
+      "cuisine": "",
+      "price": "Average price per cocktail $21",
+      "path": "/france/paris/paris/le1802"
+    },
+    {
       "name": "Le 39V",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -2429,6 +2537,12 @@
       "path": "/france/paris/paris/le-caf-de-lusine"
     },
     {
+      "name": "Le Calbar",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/france/paris/paris/le-calbar"
+    },
+    {
       "name": "Le CasseNoix",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
@@ -2457,6 +2571,18 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/le-christine"
+    },
+    {
+      "name": "Le Cinq at Four Seasons Hotel George V",
+      "cuisine": "",
+      "price": "Average price per person $610",
+      "path": "/france/paris/paris/le-cinq-at-four-seasons-hotel-george-v"
+    },
+    {
+      "name": "Le Comptoir",
+      "cuisine": "",
+      "price": "Average price per person $50",
+      "path": "/france/paris/paris/le-comptoir"
     },
     {
       "name": "Le Comptoir Boutary",
@@ -2513,6 +2639,12 @@
       "path": "/france/paris/paris/le-florimond"
     },
     {
+      "name": "Le Gabriel",
+      "cuisine": "",
+      "price": "Average price per person $297",
+      "path": "/france/paris/paris/le-gabriel"
+    },
+    {
       "name": "Le Gentil",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -2523,6 +2655,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/le-grand-bain"
+    },
+    {
+      "name": "Le Grand Restaurant by Jean-François Piège",
+      "cuisine": "",
+      "price": "Average price per person $332",
+      "path": "/france/paris/paris/le-grand-restaurant-by-jeanfranois-pige"
     },
     {
       "name": "Le Grand Véfour",
@@ -2541,6 +2679,12 @@
       "cuisine": "Modern Cuisine, Farm to table",
       "price": "€€",
       "path": "/france/paris/paris/le-maquis"
+    },
+    {
+      "name": "Le Mary Celeste",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/france/paris/paris/le-mary-celeste"
     },
     {
       "name": "Le Matré",
@@ -2603,6 +2747,12 @@
       "path": "/france/paris/paris/le-richer"
     },
     {
+      "name": "Le Rigmarole",
+      "cuisine": "",
+      "price": "Average price per person $93",
+      "path": "/france/paris/paris/le-rigmarole"
+    },
+    {
       "name": "Le Savarin",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -2639,6 +2789,12 @@
       "path": "/france/paris/paris/le-villaret"
     },
     {
+      "name": "Le Voltaire",
+      "cuisine": "",
+      "price": "",
+      "path": "/france/paris/paris/le-voltaire"
+    },
+    {
       "name": "Les 110 de Taillevent",
       "cuisine": "Traditional Cuisine, Modern Cuisine",
       "price": "€€€",
@@ -2667,6 +2823,12 @@
       "cuisine": "Greek",
       "price": "€€",
       "path": "/france/paris/paris/les-dlices-daphrodite"
+    },
+    {
+      "name": "Les Enfants du Marché",
+      "cuisine": "",
+      "price": "Average price per person $83",
+      "path": "/france/paris/paris/les-enfants-du-march"
     },
     {
       "name": "Les Enfants Rouges",
@@ -2801,10 +2963,22 @@
       "path": "/france/paris/paris/maison-brut"
     },
     {
+      "name": "Maison by Sota Atsumi",
+      "cuisine": "",
+      "price": "Tasting menu from $99",
+      "path": "/france/paris/paris/maison-by-sota-atsumi"
+    },
+    {
       "name": "Maison Cluny",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/maison-cluny"
+    },
+    {
+      "name": "Maison Ruggieri",
+      "cuisine": "",
+      "price": "Average price per person $180",
+      "path": "/france/paris/paris/maison-ruggieri"
     },
     {
       "name": "Maison Ruggieri Palais Royal",
@@ -2885,6 +3059,12 @@
       "path": "/france/paris/paris/mensae"
     },
     {
+      "name": "Mesures",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/france/paris/paris/mesures"
+    },
+    {
       "name": "Mieux",
       "cuisine": "Modern Cuisine",
       "price": "€€",
@@ -2913,6 +3093,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/mokko"
+    },
+    {
+      "name": "Mokonuts",
+      "cuisine": "",
+      "price": "Average price per person $64",
+      "path": "/france/paris/paris/mokonuts"
     },
     {
       "name": "Monsieur Bleu",
@@ -3269,10 +3455,28 @@
       "path": "/france/paris/paris/ralphs-restaurant"
     },
     {
+      "name": "Restaurant Akrame",
+      "cuisine": "",
+      "price": "Tasting menu from $255",
+      "path": "/france/paris/paris/restaurant-akrame"
+    },
+    {
+      "name": "Restaurant David Toutain",
+      "cuisine": "",
+      "price": "Tasting menu from $300",
+      "path": "/france/paris/paris/restaurant-david-toutain"
+    },
+    {
       "name": "Restaurant des Grands Boulevards",
       "cuisine": "Italian, Modern Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/restaurant-des-grands-boulevards"
+    },
+    {
+      "name": "Restaurant ES",
+      "cuisine": "",
+      "price": "Tasting menu from $290",
+      "path": "/france/paris/paris/restaurant-es"
     },
     {
       "name": "Restaurant F",
@@ -3411,6 +3615,12 @@
       "cuisine": "Farm to table, Seasonal Cuisine",
       "price": "€€",
       "path": "/france/paris/paris/simone-le-resto"
+    },
+    {
+      "name": "Sister Midnight",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/france/paris/paris/sister-midnight"
     },
     {
       "name": "Soces",

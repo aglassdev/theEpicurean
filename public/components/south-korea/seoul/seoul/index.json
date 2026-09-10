@@ -8,7 +8,7 @@
   "citySlug": "seoul",
   "path": "/south-korea/seoul/seoul/restaurants",
   "canonicalPath": "/south-korea/seoul/seoul/restaurants",
-  "count": 246,
+  "count": 257,
   "hero": "/images/seoulheader.png",
   "restaurants": [
     {
@@ -349,6 +349,12 @@
       "path": "/south-korea/seoul/seoul/bar-cham"
     },
     {
+      "name": "Bar Tea Scent",
+      "cuisine": "",
+      "price": "Average price per cocktail $22",
+      "path": "/south-korea/seoul/seoul/bar-tea-scent"
+    },
+    {
       "name": "Base is nice",
       "cuisine": "Vegetarian",
       "price": "₩",
@@ -463,6 +469,12 @@
       "path": "/south-korea/seoul/seoul/chez-simon"
     },
     {
+      "name": "Choi Dot",
+      "cuisine": "",
+      "price": "Tasting menu from $129",
+      "path": "/south-korea/seoul/seoul/choi-dot"
+    },
+    {
       "name": "CHOI.",
       "cuisine": "",
       "price": "",
@@ -527,6 +539,12 @@
       "cuisine": "Italian",
       "price": "₩₩",
       "path": "/south-korea/seoul/seoul/doughroom"
+    },
+    {
+      "name": "Eatanic Garden at Josun Palace",
+      "cuisine": "",
+      "price": "Tasting menu from $130",
+      "path": "/south-korea/seoul/seoul/eatanic-garden-at-josun-palace"
     },
     {
       "name": "Egg & Flour",
@@ -817,10 +835,28 @@
       "path": "/south-korea/seoul/seoul/jungin-myeonok"
     },
     {
+      "name": "Kang Minchul",
+      "cuisine": "",
+      "price": "Tasting menu from $252",
+      "path": "/south-korea/seoul/seoul/kang-minchul"
+    },
+    {
+      "name": "Kiez",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/south-korea/seoul/seoul/kiez"
+    },
+    {
       "name": "Kirameki",
       "cuisine": "Japanese",
       "price": "₩₩₩₩",
       "path": "/south-korea/seoul/seoul/kirameki"
+    },
+    {
+      "name": "Kissk",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/south-korea/seoul/seoul/kissk"
     },
     {
       "name": "Kojacha",
@@ -971,6 +1007,12 @@
       "cuisine": "Mandu",
       "price": "₩",
       "path": "/south-korea/seoul/seoul/mipildam"
+    },
+    {
+      "name": "Miro Sikdang",
+      "cuisine": "",
+      "price": "",
+      "path": "/south-korea/seoul/seoul/miro-sikdang"
     },
     {
       "name": "Mixology (Bar)",
@@ -1169,6 +1211,18 @@
       "cuisine": "",
       "price": "",
       "path": "/south-korea/seoul/seoul/pine-co-bar"
+    },
+    {
+      "name": "Polestar",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/south-korea/seoul/seoul/polestar"
+    },
+    {
+      "name": "Pussyfoot Saloon",
+      "cuisine": "",
+      "price": "Average price per cocktail $23",
+      "path": "/south-korea/seoul/seoul/pussyfoot-saloon"
     },
     {
       "name": "Pyeongyang Myeonok",
@@ -1387,6 +1441,12 @@
       "path": "/south-korea/seoul/seoul/the-margaux-grill"
     },
     {
+      "name": "The Mix Lab",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/south-korea/seoul/seoul/the-mix-lab"
+    },
+    {
       "name": "The Ninth Gate",
       "cuisine": "French",
       "price": "₩₩₩",
@@ -1445,6 +1505,12 @@
       "cuisine": "Steakhouse",
       "price": "₩₩₩₩",
       "path": "/south-korea/seoul/seoul/vault-steakhouse"
+    },
+    {
+      "name": "Villa Records",
+      "cuisine": "",
+      "price": "",
+      "path": "/south-korea/seoul/seoul/villa-records"
     },
     {
       "name": "Walking on the Cloud",

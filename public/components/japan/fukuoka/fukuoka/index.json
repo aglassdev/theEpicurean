@@ -8,8 +8,26 @@
   "citySlug": "fukuoka",
   "path": "/japan/fukuoka/fukuoka/restaurants",
   "canonicalPath": "/japan/fukuoka/fukuoka/restaurants",
-  "count": 6,
+  "count": 10,
   "restaurants": [
+    {
+      "name": "Bar Cherokee",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/japan/fukuoka/fukuoka/bar-cherokee"
+    },
+    {
+      "name": "Bar Kitchen",
+      "cuisine": "",
+      "price": "Average price per cocktail $12",
+      "path": "/japan/fukuoka/fukuoka/bar-kitchen"
+    },
+    {
+      "name": "Bar Oscar",
+      "cuisine": "",
+      "price": "Average price per cocktail $20",
+      "path": "/japan/fukuoka/fukuoka/bar-oscar"
+    },
     {
       "name": "Chikamatsu",
       "cuisine": "",
@@ -21,6 +39,12 @@
       "cuisine": "",
       "price": "",
       "path": "/japan/fukuoka/fukuoka/goh"
+    },
+    {
+      "name": "GohGan",
+      "cuisine": "",
+      "price": "Average price per person $55",
+      "path": "/japan/fukuoka/fukuoka/gohgan"
     },
     {
       "name": "Imoto",

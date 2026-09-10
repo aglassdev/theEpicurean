@@ -8,7 +8,7 @@
   "citySlug": "dublin",
   "path": "/ireland/dublin/dublin/restaurants",
   "canonicalPath": "/ireland/ireland/dublin/restaurants",
-  "count": 17,
+  "count": 21,
   "restaurants": [
     {
       "name": "Thorton's",
@@ -28,6 +28,18 @@
       "cuisine": "",
       "price": "",
       "path": "/ireland/dublin/dublin/64-wine"
+    },
+    {
+      "name": "Bar 1661",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/ireland/dublin/dublin/bar1661"
+    },
+    {
+      "name": "Chapter One",
+      "cuisine": "",
+      "price": "Average price per person $110",
+      "path": "/ireland/dublin/dublin/chapter-one"
     },
     {
       "name": "Conrad Dublin",
@@ -64,6 +76,12 @@
       "cuisine": "Afternoon Tea",
       "price": "25.00",
       "path": "/ireland/ireland/dublin/peperina-garden-bistro"
+    },
+    {
+      "name": "Restaurant Patrick Guibaud",
+      "cuisine": "",
+      "price": "Average price per person $200",
+      "path": "/ireland/dublin/dublin/restaurant-patrick-guibaud"
     },
     {
       "name": "Rosa Madre",
@@ -112,6 +130,12 @@
       "cuisine": "",
       "price": "",
       "path": "/ireland/dublin/dublin/variety-jones"
+    },
+    {
+      "name": "Vintage Cocktail Club",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/ireland/dublin/dublin/vintage-cocktail-club"
     }
   ]
 }

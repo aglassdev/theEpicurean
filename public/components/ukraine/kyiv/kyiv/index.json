@@ -8,7 +8,7 @@
   "citySlug": "kyiv",
   "path": "/ukraine/kyiv/kyiv/restaurants",
   "canonicalPath": "/ukraine/kyiv/kyiv/restaurants",
-  "count": 13,
+  "count": 16,
   "hero": "/images/kyivheader.png",
   "restaurants": [
     {
@@ -42,6 +42,12 @@
       "path": "/ukraine/kyiv/kyiv/catch"
     },
     {
+      "name": "Chef's Table",
+      "cuisine": "",
+      "price": "Average price per person $16",
+      "path": "/ukraine/kyiv/kyiv/chefs-table"
+    },
+    {
       "name": "Dom No. 10",
       "cuisine": "",
       "price": "",
@@ -60,10 +66,22 @@
       "path": "/ukraine/kyiv/kyiv/la-maison"
     },
     {
+      "name": "Loggerhead",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/ukraine/kyiv/kyiv/loggerhead"
+    },
+    {
       "name": "Lucky Restaurant Vinotheque",
       "cuisine": "",
       "price": "",
       "path": "/ukraine/kyiv/kyiv/lucky-restaurant-vinotheque"
+    },
+    {
+      "name": "Parovoz Speakeasy",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/ukraine/kyiv/kyiv/parovoz-speakeasy"
     },
     {
       "name": "Piccolino",

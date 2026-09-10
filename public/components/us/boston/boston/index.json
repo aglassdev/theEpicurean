@@ -1,0 +1,32 @@
+{
+  "title": "Boston",
+  "country": "Us",
+  "countrySlug": "us",
+  "region": null,
+  "regionSlug": "boston",
+  "city": "Boston",
+  "citySlug": "boston",
+  "path": "/us/boston/boston/restaurants",
+  "canonicalPath": "/us/boston/boston/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Eastern Standard Kitchen and Drinks",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/us/boston/boston/eastern-standard-kitchen-and-drinks"
+    },
+    {
+      "name": "Equal Measure",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/us/boston/boston/equal-measure"
+    },
+    {
+      "name": "Hecate",
+      "cuisine": "",
+      "price": "Average price per cocktail $20",
+      "path": "/us/boston/boston/hecate"
+    }
+  ]
+}

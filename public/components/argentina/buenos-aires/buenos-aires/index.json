@@ -8,7 +8,7 @@
   "citySlug": "buenos-aires",
   "path": "/argentina/buenos-aires/buenos-aires/restaurants",
   "canonicalPath": "/argentina/buenos-aires/buenos-aires/restaurants",
-  "count": 80,
+  "count": 99,
   "hero": "/images/buenosairesheader.png",
   "restaurants": [
     {
@@ -85,6 +85,12 @@
       "path": "/argentina/buenos-aires/buenos-aires/ajo-negro-mar-de-tapas"
     },
     {
+      "name": "Al Fondo",
+      "cuisine": "",
+      "price": "",
+      "path": "/argentina/buenos-aires/buenos-aires/al-fondo"
+    },
+    {
       "name": "Alcanfor",
       "cuisine": "Contemporary, Farm to table",
       "price": "$$",
@@ -115,10 +121,22 @@
       "path": "/argentina/buenos-aires/buenos-aires/anchota"
     },
     {
+      "name": "Bar 878",
+      "cuisine": "",
+      "price": "Average price per cocktail $5",
+      "path": "/argentina/buenos-aires/buenos-aires/bar878"
+    },
+    {
       "name": "Bis Bistró",
       "cuisine": "Contemporary",
       "price": "$$",
       "path": "/argentina/buenos-aires/buenos-aires/bis-bistr"
+    },
+    {
+      "name": "Boticario",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/argentina/buenos-aires/buenos-aires/boticario"
     },
     {
       "name": "Buri Omakase",
@@ -131,6 +149,12 @@
       "cuisine": "Meats and Grills, Barbecue",
       "price": "$$$",
       "path": "/argentina/buenos-aires/buenos-aires/cabaa-las-lilas"
+    },
+    {
+      "name": "Café San Juan",
+      "cuisine": "",
+      "price": "Average price per person $30",
+      "path": "/argentina/buenos-aires/buenos-aires/caf-san-juan"
     },
     {
       "name": "Casa Cavia",
@@ -157,6 +181,12 @@
       "path": "/argentina/buenos-aires/buenos-aires/caseros"
     },
     {
+      "name": "Chintonería",
+      "cuisine": "",
+      "price": "Average price per cocktail $6",
+      "path": "/argentina/buenos-aires/buenos-aires/chintonera"
+    },
+    {
       "name": "Chuí",
       "cuisine": "Vegetarian, Vegan",
       "price": "$$",
@@ -175,6 +205,12 @@
       "path": "/argentina/buenos-aires/buenos-aires/corte-comedor"
     },
     {
+      "name": "Doppelgänger",
+      "cuisine": "",
+      "price": "Average price per cocktail $7",
+      "path": "/argentina/buenos-aires/buenos-aires/doppelgnger"
+    },
+    {
       "name": "Duhau Restaurant & Vinoteca",
       "cuisine": "Grills",
       "price": "$$$$",
@@ -191,6 +227,12 @@
       "cuisine": "",
       "price": "",
       "path": "/argentina/buenos-aires/buenos-aires/el-baqueano"
+    },
+    {
+      "name": "El Limon",
+      "cuisine": "",
+      "price": "Average price per cocktail $6",
+      "path": "/argentina/buenos-aires/buenos-aires/el-limon"
     },
     {
       "name": "El Mercado",
@@ -241,10 +283,22 @@
       "path": "/argentina/buenos-aires/buenos-aires/fogn-asado"
     },
     {
+      "name": "Frank's",
+      "cuisine": "",
+      "price": "Average price per cocktail $7",
+      "path": "/argentina/buenos-aires/buenos-aires/franks"
+    },
+    {
       "name": "Gioia Cocina Botánica",
       "cuisine": "Vegan",
       "price": "$$",
       "path": "/argentina/buenos-aires/buenos-aires/gioia-cocina-botnica"
+    },
+    {
+      "name": "Gran Bar Danzon",
+      "cuisine": "",
+      "price": "Average price per cocktail $7",
+      "path": "/argentina/buenos-aires/buenos-aires/gran-bar-danzon"
     },
     {
       "name": "Gran Dabbang",
@@ -307,6 +361,18 @@
       "path": "/argentina/buenos-aires/buenos-aires/la-cabrera"
     },
     {
+      "name": "La Carnicería",
+      "cuisine": "",
+      "price": "Average price per person $30",
+      "path": "/argentina/buenos-aires/buenos-aires/la-carnicera"
+    },
+    {
+      "name": "La Uat",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/argentina/buenos-aires/buenos-aires/la-uat"
+    },
+    {
       "name": "Marti",
       "cuisine": "Vegetarian, Contemporary",
       "price": "$$",
@@ -355,6 +421,12 @@
       "path": "/argentina/buenos-aires/buenos-aires/ness"
     },
     {
+      "name": "Nicky Harrison",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/argentina/buenos-aires/buenos-aires/nicky-harrison"
+    },
+    {
       "name": "Nika Club Omakase",
       "cuisine": "Japanese",
       "price": "$$$",
@@ -391,6 +463,12 @@
       "path": "/argentina/buenos-aires/buenos-aires/picarn"
     },
     {
+      "name": "Piedra Pasillo",
+      "cuisine": "",
+      "price": "",
+      "path": "/argentina/buenos-aires/buenos-aires/piedra-pasillo"
+    },
+    {
       "name": "Piedra Pasillo Al Fondo",
       "cuisine": "Contemporary",
       "price": "$$",
@@ -409,10 +487,22 @@
       "path": "/argentina/buenos-aires/buenos-aires/presencia"
     },
     {
+      "name": "Presidente",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/argentina/buenos-aires/buenos-aires/presidente"
+    },
+    {
       "name": "Presidente (Bar)",
       "cuisine": "",
       "price": "",
       "path": "/argentina/buenos-aires/buenos-aires/presidente-bar"
+    },
+    {
+      "name": "Punto Mona",
+      "cuisine": "",
+      "price": "",
+      "path": "/argentina/buenos-aires/buenos-aires/punto-mona"
     },
     {
       "name": "Raggio Osteria",
@@ -469,10 +559,22 @@
       "path": "/argentina/buenos-aires/buenos-aires/sucre-b-u-e"
     },
     {
+      "name": "Sudestada",
+      "cuisine": "",
+      "price": "Average price per person $43",
+      "path": "/argentina/buenos-aires/buenos-aires/sudestada"
+    },
+    {
       "name": "Ti Amo",
       "cuisine": "",
       "price": "",
       "path": "/argentina/buenos-aires/buenos-aires/ti-amo"
+    },
+    {
+      "name": "Trade Sky Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $6",
+      "path": "/argentina/buenos-aires/buenos-aires/trade-sky-bar"
     },
     {
       "name": "Tres Monos (Bar)",
@@ -491,6 +593,18 @@
       "cuisine": "Japanese",
       "price": "$$$$",
       "path": "/argentina/buenos-aires/buenos-aires/uni-omakase"
+    },
+    {
+      "name": "Uptown",
+      "cuisine": "",
+      "price": "Average price per cocktail $9",
+      "path": "/argentina/buenos-aires/buenos-aires/uptown"
+    },
+    {
+      "name": "Verne Club",
+      "cuisine": "",
+      "price": "Average price per cocktail $5",
+      "path": "/argentina/buenos-aires/buenos-aires/verne-club"
     },
     {
       "name": "Victor Audio Bar",

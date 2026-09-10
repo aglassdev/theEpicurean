@@ -8,8 +8,14 @@
   "citySlug": "beirut",
   "path": "/lebanon/beirut/beirut/restaurants",
   "canonicalPath": "/lebanon/beirut/beirut/restaurants",
-  "count": 10,
+  "count": 25,
   "restaurants": [
+    {
+      "name": "Al Halabi Restaurant",
+      "cuisine": "",
+      "price": "Average price per person $35",
+      "path": "/lebanon/beirut/beirut/al-halabi-restaurant"
+    },
     {
       "name": "BARON",
       "cuisine": "",
@@ -23,10 +29,28 @@
       "path": "/lebanon/beirut/beirut/beihouse"
     },
     {
+      "name": "Beit Kanz",
+      "cuisine": "",
+      "price": "Average price per person $44",
+      "path": "/lebanon/beirut/beirut/beit-kanz"
+    },
+    {
       "name": "Buco",
       "cuisine": "",
       "price": "",
       "path": "/lebanon/beirut/beirut/buco"
+    },
+    {
+      "name": "Burgundy",
+      "cuisine": "",
+      "price": "Average price per person $120",
+      "path": "/lebanon/beirut/beirut/burgundy"
+    },
+    {
+      "name": "Casablanca",
+      "cuisine": "",
+      "price": "Average price per person $35",
+      "path": "/lebanon/beirut/beirut/casablanca"
     },
     {
       "name": "Clap Beirut",
@@ -59,16 +83,82 @@
       "path": "/lebanon/beirut/beirut/em-sherif"
     },
     {
+      "name": "Fadel",
+      "cuisine": "",
+      "price": "Tasting menu from $50",
+      "path": "/lebanon/beirut/beirut/fadel"
+    },
+    {
+      "name": "Ferdinand",
+      "cuisine": "",
+      "price": "Average price per cocktail $12",
+      "path": "/lebanon/beirut/beirut/ferdinand"
+    },
+    {
+      "name": "Hotel Albergo Restaurant",
+      "cuisine": "",
+      "price": "Average price per person $90",
+      "path": "/lebanon/beirut/beirut/hotel-albergo-restaurant"
+    },
+    {
+      "name": "House of Butlers",
+      "cuisine": "",
+      "price": "Average price per cocktail $12",
+      "path": "/lebanon/beirut/beirut/house-of-butlers"
+    },
+    {
       "name": "Liza Beirut",
       "cuisine": "",
       "price": "",
       "path": "/lebanon/beirut/beirut/liza-beirut"
     },
     {
+      "name": "Marinella",
+      "cuisine": "",
+      "price": "Average price per person $50",
+      "path": "/lebanon/beirut/beirut/marinella"
+    },
+    {
+      "name": "Maryool",
+      "cuisine": "",
+      "price": "Average price per person $45",
+      "path": "/lebanon/beirut/beirut/maryool"
+    },
+    {
+      "name": "Mayrig",
+      "cuisine": "",
+      "price": "Average price per person $45",
+      "path": "/lebanon/beirut/beirut/mayrig"
+    },
+    {
+      "name": "Meat the Fish",
+      "cuisine": "",
+      "price": "Average price per person $25",
+      "path": "/lebanon/beirut/beirut/meat-the-fish"
+    },
+    {
+      "name": "Miiyao",
+      "cuisine": "",
+      "price": "Average price per cocktail $11",
+      "path": "/lebanon/beirut/beirut/miiyao"
+    },
+    {
       "name": "Tawlet Mar Mikhael",
       "cuisine": "",
       "price": "",
       "path": "/lebanon/beirut/beirut/tawlet-mar-mikhael"
+    },
+    {
+      "name": "Terre",
+      "cuisine": "",
+      "price": "Average price per person $45",
+      "path": "/lebanon/beirut/beirut/terre"
+    },
+    {
+      "name": "The Terrible Prince",
+      "cuisine": "",
+      "price": "Average price per person $45",
+      "path": "/lebanon/beirut/beirut/the-terrible-prince"
     }
   ]
 }

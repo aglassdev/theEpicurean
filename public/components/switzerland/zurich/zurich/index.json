@@ -8,7 +8,7 @@
   "citySlug": "zurich",
   "path": "/switzerland/zurich/zurich/restaurants",
   "canonicalPath": "/switzerland/zurich/zurich/restaurants",
-  "count": 69,
+  "count": 76,
   "restaurants": [
     {
       "name": "IGNIV Zürich by Andreas Caminada",
@@ -150,6 +150,12 @@
       "cuisine": "Meats and Grills, Grills",
       "price": "€€€",
       "path": "/switzerland/zurich/zurich/aura"
+    },
+    {
+      "name": "Bar am Wasser",
+      "cuisine": "",
+      "price": "Average price per cocktail $19",
+      "path": "/switzerland/zurich/zurich/bar-am-wasser"
     },
     {
       "name": "Barranco",
@@ -296,6 +302,12 @@
       "path": "/switzerland/zurich/zurich/la-soupire"
     },
     {
+      "name": "Late Bloomers",
+      "cuisine": "",
+      "price": "Average price per cocktail $24",
+      "path": "/switzerland/zurich/zurich/late-bloomers"
+    },
+    {
       "name": "Lindenhofkeller",
       "cuisine": "Seasonal Cuisine, Creative",
       "price": "€€€€",
@@ -306,6 +318,12 @@
       "cuisine": "Contemporary, International",
       "price": "€€€",
       "path": "/switzerland/zurich/zurich/loft-five"
+    },
+    {
+      "name": "Lupo",
+      "cuisine": "",
+      "price": "Average price per cocktail $19",
+      "path": "/switzerland/zurich/zurich/lupo"
     },
     {
       "name": "Marguita",
@@ -330,6 +348,12 @@
       "cuisine": "Japanese Contemporary",
       "price": "€€€€",
       "path": "/switzerland/zurich/zurich/mura"
+    },
+    {
+      "name": "Old Crow",
+      "cuisine": "",
+      "price": "Average price per cocktail $22",
+      "path": "/switzerland/zurich/zurich/old-crow"
     },
     {
       "name": "Ornellaia",
@@ -404,10 +428,22 @@
       "path": "/switzerland/zurich/zurich/stapferstube-da-rizzo"
     },
     {
+      "name": "Tales Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $22",
+      "path": "/switzerland/zurich/zurich/tales-bar"
+    },
+    {
       "name": "Tao's",
       "cuisine": "Fusion, International",
       "price": "€€€",
       "path": "/switzerland/zurich/zurich/taos"
+    },
+    {
+      "name": "The Dolder Grand",
+      "cuisine": "",
+      "price": "Average price per person $130",
+      "path": "/switzerland/zurich/zurich/the-dolder-grand"
     },
     {
       "name": "tsuru tsuru noodlebar",
@@ -426,6 +462,12 @@
       "cuisine": "Thai",
       "price": "€€",
       "path": "/switzerland/zurich/zurich/white-elephant"
+    },
+    {
+      "name": "Widder Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $27",
+      "path": "/switzerland/zurich/zurich/widder-bar"
     },
     {
       "name": "Williams ButchersTable am Bellevue",

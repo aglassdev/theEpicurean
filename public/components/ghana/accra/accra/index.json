@@ -8,14 +8,50 @@
   "citySlug": "accra",
   "path": "/ghana/accra/accra/restaurants",
   "canonicalPath": "/ghana/accra/accra/restaurants",
-  "count": 1,
+  "count": 7,
   "hero": "/images/accraheader.png",
   "restaurants": [
+    {
+      "name": "Front/Back",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/ghana/accra/accra/frontback"
+    },
+    {
+      "name": "La Borracha",
+      "cuisine": "",
+      "price": "Average price per cocktail $5",
+      "path": "/ghana/accra/accra/la-borracha"
+    },
     {
       "name": "MIDUNU",
       "cuisine": "",
       "price": "",
       "path": "/ghana/accra/accra/midunu"
+    },
+    {
+      "name": "Santoku",
+      "cuisine": "",
+      "price": "Average price per cocktail $9",
+      "path": "/ghana/accra/accra/santoku"
+    },
+    {
+      "name": "Sol Lounge Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/ghana/accra/accra/sol-lounge-bar"
+    },
+    {
+      "name": "The Alley Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $11",
+      "path": "/ghana/accra/accra/the-alley-bar"
+    },
+    {
+      "name": "The Republic Bar & Grill",
+      "cuisine": "",
+      "price": "Average price per cocktail $7",
+      "path": "/ghana/accra/accra/the-republic-bar-grill"
     }
   ]
 }

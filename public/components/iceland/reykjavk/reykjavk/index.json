@@ -8,7 +8,7 @@
   "citySlug": "reykjavk",
   "path": "/iceland/reykjavk/reykjavk/restaurants",
   "canonicalPath": "/iceland/reykjavk/reykjavk/restaurants",
-  "count": 10,
+  "count": 13,
   "hero": "/images/reykjavkheader.png",
   "restaurants": [
     {
@@ -17,6 +17,12 @@
       "price": "$$$$",
       "path": "/iceland/reykjavk/reykjavk/x",
       "award": "★"
+    },
+    {
+      "name": "Amma Don",
+      "cuisine": "",
+      "price": "Average price per cocktail $29",
+      "path": "/iceland/reykjavk/reykjavk/amma-don"
     },
     {
       "name": "Brút",
@@ -31,10 +37,22 @@
       "path": "/iceland/reykjavk/reykjavk/dill"
     },
     {
+      "name": "Dill Restaurant",
+      "cuisine": "",
+      "price": "Tasting menu from $329",
+      "path": "/iceland/reykjavk/reykjavk/dill-restaurant"
+    },
+    {
       "name": "Hosiló",
       "cuisine": "Modern Cuisine",
       "price": "$$$",
       "path": "/iceland/reykjavk/reykjavk/hosil"
+    },
+    {
+      "name": "Jungle Cocktail Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $21",
+      "path": "/iceland/reykjavk/reykjavk/jungle-cocktail-bar"
     },
     {
       "name": "Lóla",

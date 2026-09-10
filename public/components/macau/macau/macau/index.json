@@ -8,7 +8,7 @@
   "citySlug": "macau",
   "path": "/macau/macau/macau/restaurants",
   "canonicalPath": "/macau/macau/macau/restaurants",
-  "count": 95,
+  "count": 99,
   "restaurants": [
     {
       "name": "Jade Dragon",
@@ -391,6 +391,12 @@
       "path": "/macau/other/macau/mesa-m-a-c"
     },
     {
+      "name": "Mesa Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $19",
+      "path": "/china/macau/macau/mesa-bar"
+    },
+    {
       "name": "Mesa by José Avillez",
       "cuisine": "",
       "price": "",
@@ -523,22 +529,34 @@
       "path": "/macau/other/macau/the-mews"
     },
     {
+      "name": "The Ritz-Carlton Bar & Lounge",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/china/macau/macau/the-ritzcarlton-bar-lounge"
+    },
+    {
       "name": "The Ritz-Carlton Café",
       "cuisine": "French",
       "price": "$$",
       "path": "/macau/other/macau/the-ritzcarlton-caf"
     },
     {
-      "name": "The St. Regis Bar (Macau)",
+      "name": "The St. Regis Bar Macau",
       "cuisine": "",
-      "price": "",
-      "path": "/macau/macau/macau/the-st-regis-bar-macau"
+      "price": "Average price per cocktail $22",
+      "path": "/china/macau/macau/the-st-regis-bar-macau"
     },
     {
       "name": "Twelve25",
       "cuisine": "French Contemporary",
       "price": "$$$",
       "path": "/macau/other/macau/twelve25"
+    },
+    {
+      "name": "Two Moons",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/china/macau/macau/two-moons"
     },
     {
       "name": "Unique",
@@ -557,6 +575,12 @@
       "cuisine": "Macanese",
       "price": "$$",
       "path": "/macau/other/macau/utm-educational-restaurant"
+    },
+    {
+      "name": "Vida Rica",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/china/macau/macau/vida-rica"
     },
     {
       "name": "Vida Rica Restaurant",

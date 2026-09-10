@@ -8,7 +8,7 @@
   "citySlug": "basel",
   "path": "/switzerland/basel/basel/restaurants",
   "canonicalPath": "/switzerland/basel/basel/restaurants",
-  "count": 12,
+  "count": 15,
   "restaurants": [
     {
       "name": "Cheval Blanc by Peter Knogl",
@@ -63,10 +63,22 @@
       "path": "/switzerland/basel/basel/brasserie-les-trois-rois"
     },
     {
+      "name": "Cheval Blanc",
+      "cuisine": "",
+      "price": "Average price per person $253",
+      "path": "/switzerland/basel/basel/cheval-blanc"
+    },
+    {
       "name": "Concordia",
       "cuisine": "Vegetarian, Creative",
       "price": "€€€",
       "path": "/switzerland/basel/basel/concordia"
+    },
+    {
+      "name": "Herz",
+      "cuisine": "",
+      "price": "Average price per cocktail $21",
+      "path": "/switzerland/basel/basel/herz"
     },
     {
       "name": "PURO",
@@ -85,6 +97,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/switzerland/basel/basel/roter-bren"
+    },
+    {
+      "name": "Stucki",
+      "cuisine": "",
+      "price": "Tasting menu from $364",
+      "path": "/switzerland/basel/basel/stucki"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "citySlug": "montevideo",
   "path": "/uruguay/montevideo/montevideo/restaurants",
   "canonicalPath": "/uruguay/montevideo/montevideo/restaurants",
-  "count": 4,
+  "count": 8,
   "hero": "/images/montevideoheader.png",
   "restaurants": [
     {
@@ -16,6 +16,12 @@
       "cuisine": "",
       "price": "",
       "path": "/uruguay/montevideo/montevideo/1921-restaurant"
+    },
+    {
+      "name": "Baker's Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $11",
+      "path": "/uruguay/montevideo/montevideo/bakers-bar"
     },
     {
       "name": "Café Misterio",
@@ -34,6 +40,24 @@
       "cuisine": "",
       "price": "",
       "path": "/uruguay/montevideo/montevideo/manzanar"
+    },
+    {
+      "name": "Rio Cafe Restaurant",
+      "cuisine": "",
+      "price": "Average price per person $25",
+      "path": "/uruguay/montevideo/montevideo/rio-cafe-restaurant"
+    },
+    {
+      "name": "Savarin",
+      "cuisine": "",
+      "price": "Average price per person $32",
+      "path": "/uruguay/montevideo/montevideo/savarin"
+    },
+    {
+      "name": "Toledo Bar de Tapas",
+      "cuisine": "",
+      "price": "",
+      "path": "/uruguay/montevideo/montevideo/toledo-bar-de-tapas"
     }
   ]
 }

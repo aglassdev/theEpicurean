@@ -8,7 +8,7 @@
   "citySlug": "dubai",
   "path": "/uae/dubai/dubai/restaurants",
   "canonicalPath": "/uae/dubai/dubai/restaurants",
-  "count": 167,
+  "count": 211,
   "hero": "/images/dubaiheader.png",
   "restaurants": [
     {
@@ -202,6 +202,12 @@
       "path": "/uae/dubai/dubai/al-nafoorah"
     },
     {
+      "name": "Al Ustad Special Kabab",
+      "cuisine": "",
+      "price": "Average price per person $13",
+      "path": "/uae/dubai/dubai/al-ustad-special-kabab"
+    },
+    {
       "name": "Al-Fanar",
       "cuisine": "Emirati Cuisine",
       "price": "$",
@@ -214,10 +220,22 @@
       "path": "/uae/dubai/dubai/alba-restaurant-dubai"
     },
     {
+      "name": "Alici",
+      "cuisine": "",
+      "price": "Average price per person $106",
+      "path": "/uae/dubai/dubai/alici"
+    },
+    {
       "name": "Amazónico",
       "cuisine": "Latin American",
       "price": "$$$",
       "path": "/uae/other/dubai/amaznico"
+    },
+    {
+      "name": "Amelia",
+      "cuisine": "",
+      "price": "Average price per cocktail $27",
+      "path": "/uae/dubai/dubai/amelia"
     },
     {
       "name": "Ariana's Persian Kitchen",
@@ -292,6 +310,12 @@
       "path": "/uae/other/dubai/berenjak"
     },
     {
+      "name": "Blind Tiger",
+      "cuisine": "",
+      "price": "Average price per cocktail $23",
+      "path": "/uae/dubai/dubai/blind-tiger"
+    },
+    {
       "name": "Boca",
       "cuisine": "Mediterranean Cuisine",
       "price": "$$$",
@@ -310,6 +334,12 @@
       "path": "/uae/other/dubai/bordo-mavi"
     },
     {
+      "name": "BordoMavi Seafood",
+      "cuisine": "",
+      "price": "Average price per person $59",
+      "path": "/uae/dubai/dubai/bordomavi-seafood"
+    },
+    {
       "name": "Brasserie Boulud",
       "cuisine": "French, Classic Cuisine",
       "price": "$$",
@@ -322,10 +352,28 @@
       "path": "/uae/other/dubai/brasserie-frantzn"
     },
     {
+      "name": "Buddha-Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/uae/dubai/dubai/buddhabar"
+    },
+    {
       "name": "Bulgari (Bar)",
       "cuisine": "",
       "price": "",
       "path": "/uae/dubai/dubai/bulgari-bar"
+    },
+    {
+      "name": "Bulgari Bar Dubai",
+      "cuisine": "",
+      "price": "Average price per cocktail $28",
+      "path": "/uae/dubai/dubai/bulgari-bar-dubai"
+    },
+    {
+      "name": "Carine",
+      "cuisine": "",
+      "price": "Average price per person $147",
+      "path": "/uae/dubai/dubai/carine"
     },
     {
       "name": "Carnival by Trèsind",
@@ -364,6 +412,12 @@
       "path": "/uae/other/dubai/cinque"
     },
     {
+      "name": "Cipriani",
+      "cuisine": "",
+      "price": "Average price per person $158",
+      "path": "/uae/dubai/dubai/cipriani"
+    },
+    {
       "name": "City Social",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
@@ -400,6 +454,12 @@
       "path": "/uae/other/dubai/demon-duck-by-alvin-leung"
     },
     {
+      "name": "Din Tai Fung",
+      "cuisine": "",
+      "price": "Average price per person $40",
+      "path": "/uae/dubai/dubai/din-tai-fung"
+    },
+    {
       "name": "Dragonfly",
       "cuisine": "Japanese Contemporary",
       "price": "$$$$",
@@ -418,6 +478,24 @@
       "path": "/uae/other/dubai/duo-gastrobardubai-hills"
     },
     {
+      "name": "Electric Pawn Shop",
+      "cuisine": "",
+      "price": "Average price per cocktail $19",
+      "path": "/uae/dubai/dubai/electric-pawn-shop"
+    },
+    {
+      "name": "Eleven Green",
+      "cuisine": "",
+      "price": "Average price per person $30",
+      "path": "/uae/dubai/dubai/eleven-green"
+    },
+    {
+      "name": "Em Sherif Café",
+      "cuisine": "",
+      "price": "Tasting menu from $90",
+      "path": "/uae/dubai/dubai/em-sherif-caf"
+    },
+    {
       "name": "estiatorio Milos",
       "cuisine": "Greek",
       "price": "$$$$",
@@ -428,6 +506,12 @@
       "cuisine": "Italian, Classic Cuisine",
       "price": "$$",
       "path": "/uae/other/dubai/filia"
+    },
+    {
+      "name": "Flamingo Room by tashas",
+      "cuisine": "",
+      "price": "Average price per person $74",
+      "path": "/uae/dubai/dubai/flamingo-room-by-tashas"
     },
     {
       "name": "Fouquet's",
@@ -442,16 +526,34 @@
       "path": "/uae/other/dubai/french-riviera-beach"
     },
     {
+      "name": "Fusion Ceviche",
+      "cuisine": "",
+      "price": "Average price per person $64",
+      "path": "/uae/dubai/dubai/fusion-ceviche"
+    },
+    {
+      "name": "FZN",
+      "cuisine": "",
+      "price": "Tasting menu from $545",
+      "path": "/uae/dubai/dubai/fzn"
+    },
+    {
+      "name": "Gaia",
+      "cuisine": "",
+      "price": "Average price per person $50",
+      "path": "/uae/dubai/dubai/gaia"
+    },
+    {
       "name": "Gaia Dubai",
       "cuisine": "",
       "price": "",
       "path": "/uae/dubai/dubai/gaia-dubai"
     },
     {
-      "name": "Galaxy (Bar)",
+      "name": "Galaxy Bar",
       "cuisine": "",
-      "price": "",
-      "path": "/uae/dubai/dubai/galaxy-bar"
+      "price": "Average price per cocktail $22",
+      "path": "/uae/dubai/dubai/galaxy-bar2"
     },
     {
       "name": "Gerbou",
@@ -488,6 +590,12 @@
       "cuisine": "Asian Contemporary",
       "price": "$$",
       "path": "/uae/other/dubai/hoe-lee-kow"
+    },
+    {
+      "name": "Honeycomb Hi-Fi",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/honeycomb-hifi"
     },
     {
       "name": "Hutong",
@@ -544,6 +652,12 @@
       "path": "/uae/other/dubai/indya-by-vineet"
     },
     {
+      "name": "Itadaku",
+      "cuisine": "",
+      "price": "Average price per person $62",
+      "path": "/uae/dubai/dubai/itadaku"
+    },
+    {
       "name": "Jaleo Dubai By José Andrés",
       "cuisine": "",
       "price": "",
@@ -598,6 +712,12 @@
       "path": "/uae/other/dubai/konjiki-hototogisu"
     },
     {
+      "name": "Krasota",
+      "cuisine": "",
+      "price": "Tasting menu from $408",
+      "path": "/uae/dubai/dubai/krasota"
+    },
+    {
       "name": "KRASOTA Dubai",
       "cuisine": "",
       "price": "",
@@ -628,6 +748,12 @@
       "path": "/uae/dubai/dubai/la-mar-dubai-by-gastn-acurio"
     },
     {
+      "name": "La Niña",
+      "cuisine": "",
+      "price": "Average price per person $87",
+      "path": "/uae/dubai/dubai/la-nia"
+    },
+    {
       "name": "La Petite Maison (LPM)",
       "cuisine": "Mediterranean Cuisine, French",
       "price": "$$$",
@@ -644,6 +770,12 @@
       "cuisine": "Meats and Grills",
       "price": "$$$$",
       "path": "/uae/other/dubai/lea-dubai"
+    },
+    {
+      "name": "Lila Taqueria",
+      "cuisine": "",
+      "price": "Average price per person $40",
+      "path": "/uae/dubai/dubai/lila-taqueria"
     },
     {
       "name": "Ling Ling",
@@ -674,6 +806,24 @@
       "cuisine": "",
       "price": "",
       "path": "/uae/dubai/dubai/lpm-dubai"
+    },
+    {
+      "name": "LPM Restaurant & Bar",
+      "cuisine": "",
+      "price": "Average price per person $70",
+      "path": "/uae/dubai/dubai/lpm-restaurant-bar"
+    },
+    {
+      "name": "Maisan15",
+      "cuisine": "",
+      "price": "Average price per person $40",
+      "path": "/uae/dubai/dubai/maisan15"
+    },
+    {
+      "name": "Mama'esh (Business Bay Branch)",
+      "cuisine": "",
+      "price": "Average price per person $20",
+      "path": "/uae/dubai/dubai/mamaesh-business-bay-branch"
     },
     {
       "name": "Masti",
@@ -724,10 +874,28 @@
       "path": "/uae/other/dubai/mina-brasserie"
     },
     {
+      "name": "Moon Slice Pizza",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/moon-slice-pizza"
+    },
+    {
       "name": "Mott 32",
       "cuisine": "Cantonese",
       "price": "$$$$",
       "path": "/uae/other/dubai/mott32"
+    },
+    {
+      "name": "Mythos Kouzina & Grill",
+      "cuisine": "",
+      "price": "Average price per person $50",
+      "path": "/uae/dubai/dubai/mythos-kouzina-grill"
+    },
+    {
+      "name": "Nammos",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/nammos"
     },
     {
       "name": "Netsu by Ross Shonhan",
@@ -742,6 +910,12 @@
       "path": "/uae/other/dubai/ninive"
     },
     {
+      "name": "Nobu",
+      "cuisine": "",
+      "price": "Average price per person $108",
+      "path": "/uae/dubai/dubai/nobu"
+    },
+    {
       "name": "Nobu by the Beach",
       "cuisine": "",
       "price": "",
@@ -754,10 +928,22 @@
       "path": "/uae/other/dubai/nobu-dubai"
     },
     {
+      "name": "Nusr-Et Steakhouse Dubai",
+      "cuisine": "",
+      "price": "Average price per person $212",
+      "path": "/uae/dubai/dubai/nusret-steakhouse-dubai"
+    },
+    {
       "name": "Osteria Funkcoolio",
       "cuisine": "Italian",
       "price": "$$$",
       "path": "/uae/other/dubai/osteria-funkcoolio"
+    },
+    {
+      "name": "Paradiso Dubai",
+      "cuisine": "",
+      "price": "Average price per cocktail $25",
+      "path": "/uae/dubai/dubai/paradiso-dubai"
     },
     {
       "name": "Pierchic",
@@ -776,6 +962,12 @@
       "cuisine": "",
       "price": "",
       "path": "/uae/dubai/dubai/qabu-by-paco-morales"
+    },
+    {
+      "name": "Reif Japanese Kushiyaki",
+      "cuisine": "",
+      "price": "Average price per person $62",
+      "path": "/uae/dubai/dubai/reif-japanese-kushiyaki"
     },
     {
       "name": "REIF Japanese Kushiyaki - Dar Wasl",
@@ -832,6 +1024,18 @@
       "path": "/uae/other/dubai/rockfish"
     },
     {
+      "name": "Rōhen at The Arts Club",
+      "cuisine": "",
+      "price": "Average price per person $90",
+      "path": "/uae/dubai/dubai/rhen-at-the-arts-club"
+    },
+    {
+      "name": "Roka Dubai",
+      "cuisine": "",
+      "price": "Average price per cocktail $19",
+      "path": "/uae/dubai/dubai/roka-dubai"
+    },
+    {
       "name": "Ronin",
       "cuisine": "Japanese Contemporary",
       "price": "$$$$",
@@ -850,10 +1054,22 @@
       "path": "/uae/other/dubai/rya"
     },
     {
+      "name": "Sagra Italian Pastificio",
+      "cuisine": "",
+      "price": "Average price per person $44",
+      "path": "/uae/dubai/dubai/sagra-italian-pastificio"
+    },
+    {
       "name": "SAL",
       "cuisine": "",
       "price": "",
       "path": "/uae/dubai/dubai/sal"
+    },
+    {
+      "name": "Scalini",
+      "cuisine": "",
+      "price": "Average price per person $80",
+      "path": "/uae/dubai/dubai/scalini"
     },
     {
       "name": "Sea Fu",
@@ -886,16 +1102,34 @@
       "path": "/uae/other/dubai/shang-palace-d-u-b"
     },
     {
+      "name": "Shanghai Me",
+      "cuisine": "",
+      "price": "Average price per person $110",
+      "path": "/uae/dubai/dubai/shanghai-me"
+    },
+    {
       "name": "Siraj",
       "cuisine": "Middle Eastern",
       "price": "$$",
       "path": "/uae/other/dubai/siraj"
     },
     {
+      "name": "SLAB",
+      "cuisine": "",
+      "price": "Average price per person $40",
+      "path": "/uae/dubai/dubai/slab"
+    },
+    {
       "name": "Smoked Room Dubai",
       "cuisine": "",
       "price": "",
       "path": "/uae/dubai/dubai/smoked-room-dubai"
+    },
+    {
+      "name": "Somewhere",
+      "cuisine": "",
+      "price": "",
+      "path": "/uae/dubai/dubai/somewhere"
     },
     {
       "name": "StreetXO",
@@ -922,6 +1156,18 @@
       "path": "/uae/other/dubai/sufret-maryam"
     },
     {
+      "name": "Sushisamba",
+      "cuisine": "",
+      "price": "Average price per person $180",
+      "path": "/uae/dubai/dubai/sushisamba"
+    },
+    {
+      "name": "Tahini",
+      "cuisine": "",
+      "price": "Average price per person $60",
+      "path": "/uae/dubai/dubai/tahini"
+    },
+    {
       "name": "TakaHisa",
       "cuisine": "Japanese",
       "price": "$$$$",
@@ -932,6 +1178,12 @@
       "cuisine": "Chinese",
       "price": "$$$",
       "path": "/uae/other/dubai/tang-town"
+    },
+    {
+      "name": "Tasca",
+      "cuisine": "",
+      "price": "Average price per person $118",
+      "path": "/uae/dubai/dubai/tasca"
     },
     {
       "name": "Teible",
@@ -976,6 +1228,12 @@
       "path": "/uae/other/dubai/the-guild"
     },
     {
+      "name": "The Maine Land Brasserie",
+      "cuisine": "",
+      "price": "Average price per person $58",
+      "path": "/uae/dubai/dubai/the-maine-land-brasserie"
+    },
+    {
       "name": "The Meat Co.",
       "cuisine": "",
       "price": "",
@@ -992,6 +1250,12 @@
       "cuisine": "",
       "price": "",
       "path": "/uae/dubai/dubai/three-bros"
+    },
+    {
+      "name": "Three by Eva",
+      "cuisine": "",
+      "price": "Average price per person $39",
+      "path": "/uae/dubai/dubai/three-by-eva"
     },
     {
       "name": "Toro Toro — Dubai",

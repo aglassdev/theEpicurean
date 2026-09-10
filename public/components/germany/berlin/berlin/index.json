@@ -8,7 +8,7 @@
   "citySlug": "berlin",
   "path": "/germany/berlin/berlin/restaurants",
   "canonicalPath": "/germany/berlin/berlin/restaurants",
-  "count": 97,
+  "count": 108,
   "restaurants": [
     {
       "name": "Rutz",
@@ -216,6 +216,12 @@
       "path": "/germany/berlin/berlin/barra"
     },
     {
+      "name": "Becketts Kopf",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/germany/berlin/berlin/becketts-kopf"
+    },
+    {
       "name": "Berta",
       "cuisine": "Israeli, Contemporary",
       "price": "€€",
@@ -256,6 +262,12 @@
       "cuisine": "",
       "price": "",
       "path": "/germany/berlin/berlin/buck-breck-bar"
+    },
+    {
+      "name": "Café Frieda",
+      "cuisine": "",
+      "price": "Average price per person $77",
+      "path": "/germany/berlin/berlin/caf-frieda"
     },
     {
       "name": "CARTE BLANCHE",
@@ -360,10 +372,28 @@
       "path": "/germany/berlin/berlin/grace"
     },
     {
+      "name": "Green Door Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/germany/berlin/berlin/green-door-bar"
+    },
+    {
       "name": "Grill Royal",
       "cuisine": "",
       "price": "",
       "path": "/germany/berlin/berlin/grill-royal"
+    },
+    {
+      "name": "Hallmann und Klee",
+      "cuisine": "",
+      "price": "Average price per person $45",
+      "path": "/germany/berlin/berlin/hallmann-und-klee"
+    },
+    {
+      "name": "Hildegard Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/germany/berlin/berlin/hildegard-bar"
     },
     {
       "name": "INDIA CLUB",
@@ -394,6 +424,12 @@
       "cuisine": "Creative",
       "price": "$$$",
       "path": "/germany/berlin/berlin/julius-ernst"
+    },
+    {
+      "name": "Kink",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/germany/berlin/berlin/kink"
     },
     {
       "name": "KINK Bar & Restaurant",
@@ -438,6 +474,12 @@
       "path": "/germany/berlin/berlin/lovis"
     },
     {
+      "name": "Lovis Restaurant Berlin",
+      "cuisine": "",
+      "price": "Tasting menu from $95",
+      "path": "/germany/berlin/berlin/lovis-restaurant-berlin"
+    },
+    {
       "name": "Lucky Leek",
       "cuisine": "Vegan",
       "price": "€€",
@@ -478,6 +520,12 @@
       "cuisine": "Italian, Contemporary",
       "price": "€€€",
       "path": "/germany/berlin/berlin/mine"
+    },
+    {
+      "name": "Mr. Susan",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/germany/berlin/berlin/mr-susan"
     },
     {
       "name": "NaNum",
@@ -588,10 +636,22 @@
       "path": "/germany/berlin/berlin/the-cord"
     },
     {
+      "name": "The Curtain Club",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/germany/berlin/berlin/the-curtain-club"
+    },
+    {
       "name": "TISK",
       "cuisine": "Seasonal Cuisine, Modern Cuisine",
       "price": "€€",
       "path": "/germany/berlin/berlin/tisk"
+    },
+    {
+      "name": "Truffle Pig Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/germany/berlin/berlin/truffle-pig-bar"
     },
     {
       "name": "Velvet (Bar)",
@@ -610,6 +670,12 @@
       "cuisine": "Modern Cuisine, Sushi",
       "price": "€€€€",
       "path": "/germany/berlin/berlin/vox-restaurant"
+    },
+    {
+      "name": "Wax On",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/germany/berlin/berlin/wax-on"
     },
     {
       "name": "Wax On Bar",

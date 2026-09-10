@@ -8,8 +8,14 @@
   "citySlug": "guayaquil",
   "path": "/ecuador/guayaquil/guayaquil/restaurants",
   "canonicalPath": "/ecuador/guayaquil/guayaquil/restaurants",
-  "count": 3,
+  "count": 6,
   "restaurants": [
+    {
+      "name": "Acorde",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/ecuador/guayaquil/guayaquil/acorde"
+    },
     {
       "name": "Casa Julian",
       "cuisine": "",
@@ -23,10 +29,22 @@
       "path": "/ecuador/guayaquil/guayaquil/juliana-bar"
     },
     {
+      "name": "Marrecife",
+      "cuisine": "",
+      "price": "Average price per person $42",
+      "path": "/ecuador/guayaquil/guayaquil/marrecife"
+    },
+    {
       "name": "Mikka",
       "cuisine": "",
       "price": "",
       "path": "/ecuador/guayaquil/guayaquil/mikka"
+    },
+    {
+      "name": "Nicanor",
+      "cuisine": "",
+      "price": "Average price per cocktail $11",
+      "path": "/ecuador/guayaquil/guayaquil/nicanor"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "citySlug": "sao-paulo",
   "path": "/brazil/sao-paulo/sao-paulo/restaurants",
   "canonicalPath": "/brazil/so-paulo/so-paulo/restaurants",
-  "count": 127,
+  "count": 137,
   "hero": "/images/saopauloheader.png",
   "restaurants": [
     {
@@ -249,6 +249,18 @@
       "path": "/brazil/so-paulo/so-paulo/bar-da-dona-ona"
     },
     {
+      "name": "Bar do Biu",
+      "cuisine": "",
+      "price": "Average price per person $20",
+      "path": "/brazil/so-paulo/so-paulo/bar-do-biu"
+    },
+    {
+      "name": "Bar dos Arcos",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/brazil/so-paulo/so-paulo/bar-dos-arcos"
+    },
+    {
       "name": "Barú Marisquería",
       "cuisine": "Seafood",
       "price": "$$",
@@ -295,6 +307,12 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "$$",
       "path": "/brazil/so-paulo/so-paulo/cala-del-tanit"
+    },
+    {
+      "name": "Caledonia",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/brazil/so-paulo/so-paulo/caledonia"
     },
     {
       "name": "Cantaloup",
@@ -459,10 +477,10 @@
       "path": "/brazil/so-paulo/so-paulo/grotta-cucina"
     },
     {
-      "name": "Guilhotina (Bar)",
+      "name": "Guilhotina Bar",
       "cuisine": "",
-      "price": "",
-      "path": "/brazil/so-paulo/so-paulo/guilhotina-bar"
+      "price": "Average price per cocktail $8",
+      "path": "/brazil/so-paulo/so-paulo/guilhotina-bar2"
     },
     {
       "name": "Jacó",
@@ -513,6 +531,12 @@
       "path": "/brazil/so-paulo/so-paulo/kureiji"
     },
     {
+      "name": "Kuro Restaurante",
+      "cuisine": "",
+      "price": "Tasting menu from $77",
+      "path": "/brazil/so-paulo/so-paulo/kuro-restaurante"
+    },
+    {
       "name": "Lassù",
       "cuisine": "Italian Contemporary",
       "price": "$$$",
@@ -543,10 +567,22 @@
       "path": "/brazil/so-paulo/so-paulo/les-prsidents"
     },
     {
+      "name": "Locale Caffè",
+      "cuisine": "",
+      "price": "Average price per cocktail $7",
+      "path": "/brazil/so-paulo/so-paulo/locale-caffe"
+    },
+    {
       "name": "Loup",
       "cuisine": "International",
       "price": "$$$",
       "path": "/brazil/so-paulo/so-paulo/loup"
+    },
+    {
+      "name": "Madê",
+      "cuisine": "",
+      "price": "Average price per person $40",
+      "path": "/brazil/so-paulo/so-paulo/made"
     },
     {
       "name": "Makoto San",
@@ -651,6 +687,12 @@
       "path": "/brazil/so-paulo/so-paulo/pet-gastronomia"
     },
     {
+      "name": "Picco",
+      "cuisine": "",
+      "price": "Average price per cocktail $7",
+      "path": "/brazil/so-paulo/so-paulo/picco"
+    },
+    {
       "name": "Piselli",
       "cuisine": "Italian",
       "price": "$$",
@@ -681,6 +723,12 @@
       "path": "/brazil/so-paulo/so-paulo/qt-pizza-bar"
     },
     {
+      "name": "Restaurante Aizomê at Japan House",
+      "cuisine": "",
+      "price": "Average price per person $30",
+      "path": "/brazil/so-paulo/so-paulo/restaurante-aizom-at-japan-house"
+    },
+    {
       "name": "Restaurante Cepa",
       "cuisine": "",
       "price": "",
@@ -697,6 +745,12 @@
       "cuisine": "Contemporary, Brazilian",
       "price": "$$$",
       "path": "/brazil/so-paulo/so-paulo/sal-gastronomia"
+    },
+    {
+      "name": "Santana Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/brazil/so-paulo/so-paulo/santana-bar"
     },
     {
       "name": "Shihoma Pasta Fresca",
@@ -757,6 +811,12 @@
       "cuisine": "Brazilian",
       "price": "$",
       "path": "/brazil/so-paulo/so-paulo/the-kith"
+    },
+    {
+      "name": "The Liquor Store",
+      "cuisine": "",
+      "price": "",
+      "path": "/brazil/so-paulo/so-paulo/the-liquor-store"
     },
     {
       "name": "Tordesilhas",

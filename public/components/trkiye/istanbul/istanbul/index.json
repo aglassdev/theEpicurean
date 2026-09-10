@@ -8,7 +8,7 @@
   "citySlug": "istanbul",
   "path": "/trkiye/istanbul/istanbul/restaurants",
   "canonicalPath": "/trkiye/istanbul/istanbul/restaurants",
-  "count": 95,
+  "count": 99,
   "hero": "/images/istanbulheader.jpg",
   "restaurants": [
     {
@@ -250,6 +250,12 @@
       "path": "/trkiye/istanbul/istanbul/alaf"
     },
     {
+      "name": "Alaf Kuruçeşme Restaurant",
+      "cuisine": "",
+      "price": "Average price per person $35",
+      "path": "/turkey/istanbul/istanbul/alaf-kurueme-restaurant"
+    },
+    {
       "name": "Alancha",
       "cuisine": "",
       "price": "",
@@ -346,6 +352,12 @@
       "path": "/trkiye/istanbul/istanbul/calipso-fish"
     },
     {
+      "name": "Çiya Sofrası",
+      "cuisine": "",
+      "price": "Average price per person $10",
+      "path": "/turkey/istanbul/istanbul/iya-sofras"
+    },
+    {
       "name": "Deraliye",
       "cuisine": "Turkish",
       "price": "$$$",
@@ -400,10 +412,22 @@
       "path": "/trkiye/istanbul/istanbul/itsumi"
     },
     {
+      "name": "Karaköy Lokantasi",
+      "cuisine": "",
+      "price": "Average price per person $15",
+      "path": "/turkey/istanbul/istanbul/karaky-lokantasi"
+    },
+    {
       "name": "Khorasani",
       "cuisine": "Traditional Cuisine",
       "price": "$$",
       "path": "/trkiye/istanbul/istanbul/khorasani"
+    },
+    {
+      "name": "Kiyi Restaurant",
+      "cuisine": "",
+      "price": "Average price per person $25",
+      "path": "/turkey/istanbul/istanbul/kiyi-restaurant"
     },
     {
       "name": "Kıyı Restaurant",

@@ -1,0 +1,32 @@
+{
+  "title": "Denver",
+  "country": "Us",
+  "countrySlug": "us",
+  "region": null,
+  "regionSlug": "denver",
+  "city": "Denver",
+  "citySlug": "denver",
+  "path": "/us/denver/denver/restaurants",
+  "canonicalPath": "/us/denver/denver/restaurants",
+  "count": 3,
+  "restaurants": [
+    {
+      "name": "Death & Co (Denver)",
+      "cuisine": "",
+      "price": "Average price per cocktail $20",
+      "path": "/us/denver/denver/death-co-denver"
+    },
+    {
+      "name": "Run for the Roses",
+      "cuisine": "",
+      "price": "Average price per cocktail $13",
+      "path": "/us/denver/denver/run-for-the-roses"
+    },
+    {
+      "name": "Williams & Graham",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/us/denver/denver/williams-graham"
+    }
+  ]
+}

@@ -8,14 +8,14 @@
   "citySlug": "bratislava",
   "path": "/slovakia/bratislava/bratislava/restaurants",
   "canonicalPath": "/slovakia/bratislava/bratislava/restaurants",
-  "count": 6,
+  "count": 9,
   "hero": "/images/bratislavaheader.png",
   "restaurants": [
     {
-      "name": "Antique American (Bar)",
+      "name": "Antique American Bar",
       "cuisine": "",
-      "price": "",
-      "path": "/slovakia/bratislava/bratislava/antique-american-bar"
+      "price": "Average price per cocktail $12",
+      "path": "/slovakia/bratislava/bratislava/antique-american-bar2"
     },
     {
       "name": "Da Andrea",
@@ -36,10 +36,28 @@
       "path": "/slovakia/bratislava/bratislava/irin"
     },
     {
+      "name": "Michalska Cocktail Room",
+      "cuisine": "",
+      "price": "Average price per cocktail $10",
+      "path": "/slovakia/bratislava/bratislava/michalska-cocktail-room"
+    },
+    {
       "name": "Mirror Bar",
       "cuisine": "",
       "price": "",
       "path": "/slovakia/bratislava/bratislava/mirror-bar"
+    },
+    {
+      "name": "Old Fashioned Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $21",
+      "path": "/slovakia/bratislava/bratislava/old-fashioned-bar"
+    },
+    {
+      "name": "Sky Bar & Restaurant",
+      "cuisine": "",
+      "price": "Average price per cocktail $12",
+      "path": "/slovakia/bratislava/bratislava/sky-bar-restaurant"
     },
     {
       "name": "UFO Reštaurácia",

@@ -8,7 +8,7 @@
   "citySlug": "bogot",
   "path": "/colombia/bogot/bogot/restaurants",
   "canonicalPath": "/colombia/bogot/bogot/restaurants",
-  "count": 14,
+  "count": 21,
   "hero": "/images/bogotheader.png",
   "restaurants": [
     {
@@ -32,16 +32,40 @@
       "path": "/colombia/bogot/bogot/afluente"
     },
     {
+      "name": "Cacio & Pepe",
+      "cuisine": "",
+      "price": "Average price per person $20",
+      "path": "/colombia/bogot/bogot/cacio-pepe"
+    },
+    {
+      "name": "Café Bar Universal",
+      "cuisine": "",
+      "price": "Average price per person $30",
+      "path": "/colombia/bogot/bogot/caf-bar-universal"
+    },
+    {
       "name": "Criterión",
       "cuisine": "",
       "price": "",
       "path": "/colombia/bogot/bogot/criterin"
     },
     {
+      "name": "Debora",
+      "cuisine": "",
+      "price": "Tasting menu from $50",
+      "path": "/colombia/bogot/bogot/debora"
+    },
+    {
       "name": "Debora Restaurante",
       "cuisine": "",
       "price": "",
       "path": "/colombia/bogot/bogot/debora-restaurante"
+    },
+    {
+      "name": "El Cielo",
+      "cuisine": "",
+      "price": "Tasting menu from $110",
+      "path": "/colombia/bogot/bogot/el-cielo"
     },
     {
       "name": "Gamberro",
@@ -62,6 +86,12 @@
       "path": "/colombia/bogot/bogot/humo-negro"
     },
     {
+      "name": "Jardín Tragos y Pasteles",
+      "cuisine": "",
+      "price": "Average price per cocktail $11",
+      "path": "/colombia/bogot/bogot/jardn-tragos-y-pasteles"
+    },
+    {
       "name": "La Sala de Laura (Bar)",
       "cuisine": "",
       "price": "",
@@ -74,10 +104,22 @@
       "path": "/colombia/bogot/bogot/mesa-franca"
     },
     {
+      "name": "Nueve",
+      "cuisine": "",
+      "price": "Average price per person $36",
+      "path": "/colombia/bogot/bogot/nueve"
+    },
+    {
       "name": "Oda",
       "cuisine": "",
       "price": "",
       "path": "/colombia/bogot/bogot/oda"
+    },
+    {
+      "name": "Pajares Salinas",
+      "cuisine": "",
+      "price": "Average price per person $38",
+      "path": "/colombia/bogot/bogot/pajares-salinas"
     },
     {
       "name": "Prudencia",

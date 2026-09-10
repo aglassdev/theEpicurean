@@ -8,13 +8,25 @@
   "citySlug": "frankfurt",
   "path": "/germany/frankfurt/frankfurt/restaurants",
   "canonicalPath": "/germany/frankfurt/frankfurt/restaurants",
-  "count": 1,
+  "count": 3,
   "restaurants": [
     {
       "name": "Français",
       "cuisine": "",
       "price": "",
       "path": "/germany/frankfurt/frankfurt/franais"
+    },
+    {
+      "name": "Hunky Dory Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/germany/frankfurt/frankfurt/hunky-dory-bar"
+    },
+    {
+      "name": "The Tiny Cup",
+      "cuisine": "",
+      "price": "Average price per cocktail $12",
+      "path": "/germany/frankfurt/frankfurt/the-tiny-cup"
     }
   ]
 }

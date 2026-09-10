@@ -8,7 +8,7 @@
   "citySlug": "vienna",
   "path": "/austria/vienna/vienna/restaurants",
   "canonicalPath": "/austria/vienna/vienna/restaurants",
-  "count": 86,
+  "count": 91,
   "restaurants": [
     {
       "name": "Amador",
@@ -278,10 +278,22 @@
       "path": "/austria/vienna/vienna/jola"
     },
     {
+      "name": "Josef Cocktail Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/austria/vienna/vienna/josef-cocktail-bar"
+    },
+    {
       "name": "KIAS Restaurant",
       "cuisine": "Brazilian",
       "price": "$$$",
       "path": "/austria/vienna/vienna/kias-restaurant"
+    },
+    {
+      "name": "Kleinod Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/austria/vienna/vienna/kleinod-bar"
     },
     {
       "name": "Kommod",
@@ -464,6 +476,12 @@
       "path": "/austria/vienna/vienna/shiki-omakase"
     },
     {
+      "name": "Silvio Nickol",
+      "cuisine": "",
+      "price": "Tasting menu from $306",
+      "path": "/austria/vienna/vienna/silvio-nickol"
+    },
+    {
       "name": "Skopik & Lohn",
       "cuisine": "Austrian, International",
       "price": "€€",
@@ -486,6 +504,18 @@
       "cuisine": "Mediterranean Cuisine, Italian",
       "price": "€€",
       "path": "/austria/vienna/vienna/trattoria-martinelli"
+    },
+    {
+      "name": "Truth & Dare",
+      "cuisine": "",
+      "price": "",
+      "path": "/austria/vienna/vienna/truth-dare"
+    },
+    {
+      "name": "Tür 7",
+      "cuisine": "",
+      "price": "Average price per cocktail $20",
+      "path": "/austria/vienna/vienna/tr7"
     },
     {
       "name": "Umar Fisch",

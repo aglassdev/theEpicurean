@@ -8,7 +8,7 @@
   "citySlug": "london",
   "path": "/uk/england/london/restaurants",
   "canonicalPath": "/uk/england/london/restaurants",
-  "count": 587,
+  "count": 619,
   "hero": "/images/londonheader.png",
   "restaurants": [
     {
@@ -829,6 +829,12 @@
       "path": "/uk/london/london/alta"
     },
     {
+      "name": "Amaro",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/uk/london/london/amaro"
+    },
+    {
       "name": "AMARO BAR",
       "cuisine": "",
       "price": "",
@@ -839,6 +845,12 @@
       "cuisine": "South American",
       "price": "£££",
       "path": "/uk/london/london/amaznico-l-o-n"
+    },
+    {
+      "name": "Amazonico London",
+      "cuisine": "",
+      "price": "Average price per person $115",
+      "path": "/uk/london/london/amazonico-london"
     },
     {
       "name": "Ambassadors Clubhouse",
@@ -853,10 +865,10 @@
       "path": "/uk/london/london/amlie-restaurant"
     },
     {
-      "name": "American (Bar)",
+      "name": "American Bar",
       "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/american-bar"
+      "price": "Average price per cocktail $25",
+      "path": "/uk/london/london/american-bar2"
     },
     {
       "name": "Anchor & Hope",
@@ -1057,6 +1069,12 @@
       "path": "/uk/london/london/blandford-comptoir"
     },
     {
+      "name": "Bob Bob Ricard",
+      "cuisine": "",
+      "price": "Average price per person $75",
+      "path": "/uk/london/london/bob-bob-ricard"
+    },
+    {
       "name": "Bob Bob Ricard City",
       "cuisine": "French",
       "price": "£££",
@@ -1153,6 +1171,12 @@
       "path": "/uk/london/london/burro"
     },
     {
+      "name": "C London",
+      "cuisine": "",
+      "price": "Average price per person $95",
+      "path": "/uk/london/london/c-london"
+    },
+    {
       "name": "Cabotte",
       "cuisine": "French",
       "price": "£££",
@@ -1187,6 +1211,12 @@
       "cuisine": "Indian",
       "price": "£",
       "path": "/uk/london/london/caf-spice-namast"
+    },
+    {
+      "name": "Cahoots",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/uk/london/london/cahoots"
     },
     {
       "name": "Caia",
@@ -1267,6 +1297,12 @@
       "path": "/uk/london/london/chez-roux-london"
     },
     {
+      "name": "China Tang",
+      "cuisine": "",
+      "price": "Average price per person $130",
+      "path": "/uk/london/london/china-tang"
+    },
+    {
       "name": "Chutney Mary",
       "cuisine": "Indian",
       "price": "£££",
@@ -1283,6 +1319,12 @@
       "cuisine": "Modern Cuisine, Classic Cuisine",
       "price": "£££",
       "path": "/uk/london/london/city-social-l-o-n"
+    },
+    {
+      "name": "Claridge's Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $23",
+      "path": "/uk/london/london/claridges-bar"
     },
     {
       "name": "Claridge's Restaurant",
@@ -1345,10 +1387,10 @@
       "path": "/uk/london/london/cometa"
     },
     {
-      "name": "Connaught (Bar)",
+      "name": "Connaught Bar",
       "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/connaught-bar"
+      "price": "Average price per cocktail $38",
+      "path": "/uk/london/london/connaught-bar2"
     },
     {
       "name": "Coq d'Argent",
@@ -1417,6 +1459,12 @@
       "path": "/uk/london/london/dim-sum-duck"
     },
     {
+      "name": "Dishoom",
+      "cuisine": "",
+      "price": "Average price per person $30",
+      "path": "/uk/london/london/dishoom"
+    },
+    {
       "name": "Don't Tell Dad",
       "cuisine": "British Contemporary",
       "price": "££",
@@ -1465,6 +1513,12 @@
       "path": "/uk/london/london/duchy"
     },
     {
+      "name": "Dukes Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $20",
+      "path": "/uk/london/london/dukes-bar"
+    },
+    {
       "name": "Eel Sushi",
       "cuisine": "Japanese",
       "price": "£££",
@@ -1499,6 +1553,12 @@
       "cuisine": "Indian",
       "price": "££",
       "path": "/uk/london/london/empire-empire"
+    },
+    {
+      "name": "Equal Parts",
+      "cuisine": "",
+      "price": "Average price per cocktail $19",
+      "path": "/uk/london/london/equal-parts"
     },
     {
       "name": "Estiatorio Milos — London",
@@ -1619,6 +1679,12 @@
       "cuisine": "Indian",
       "price": "££",
       "path": "/uk/london/london/gunpowder-spitalfields"
+    },
+    {
+      "name": "Hacha Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/uk/london/london/hacha-bar"
     },
     {
       "name": "Hakkasan",
@@ -1843,6 +1909,12 @@
       "path": "/uk/london/london/kioku-by-endo"
     },
     {
+      "name": "Kitty Fisher's",
+      "cuisine": "",
+      "price": "Average price per person $80",
+      "path": "/uk/london/london/kitty-fishers"
+    },
+    {
       "name": "Kolae",
       "cuisine": "Thai",
       "price": "££",
@@ -1987,6 +2059,18 @@
       "path": "/uk/london/london/lisboeta"
     },
     {
+      "name": "Lita Marylebone",
+      "cuisine": "",
+      "price": "Average price per person $162",
+      "path": "/uk/london/london/lita-marylebone"
+    },
+    {
+      "name": "Little Mercies",
+      "cuisine": "",
+      "price": "Average price per cocktail $13",
+      "path": "/uk/london/london/little-mercies"
+    },
+    {
       "name": "Little Social",
       "cuisine": "Modern British",
       "price": "££",
@@ -2101,6 +2185,12 @@
       "path": "/uk/london/london/mambow"
     },
     {
+      "name": "Mangal 2",
+      "cuisine": "",
+      "price": "Average price per person $70",
+      "path": "/uk/london/london/mangal2"
+    },
+    {
       "name": "Mangal II",
       "cuisine": "",
       "price": "",
@@ -2147,6 +2237,12 @@
       "cuisine": "",
       "price": "",
       "path": "/uk/london/london/mauro-colagreco"
+    },
+    {
+      "name": "Mauro Colagreco at Raffles London",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/london/london/mauro-colagreco-at-raffles-london"
     },
     {
       "name": "Mayha",
@@ -2239,6 +2335,12 @@
       "path": "/uk/london/london/mount-st"
     },
     {
+      "name": "Murder Inc",
+      "cuisine": "",
+      "price": "Average price per cocktail $18",
+      "path": "/uk/london/london/murder-inc"
+    },
+    {
       "name": "Myrtle Restaurant",
       "cuisine": "",
       "price": "",
@@ -2279,6 +2381,12 @@
       "cuisine": "Japanese",
       "price": "£££",
       "path": "/uk/london/london/nij"
+    },
+    {
+      "name": "Nipperkin",
+      "cuisine": "",
+      "price": "Average price per cocktail $23",
+      "path": "/uk/london/london/nipperkin"
     },
     {
       "name": "No. Fifty Cheyne",
@@ -2351,6 +2459,12 @@
       "cuisine": "Italian, Sicilian",
       "price": "£££",
       "path": "/uk/london/london/norma-l-o-n"
+    },
+    {
+      "name": "Novikov Restaurant & Bar",
+      "cuisine": "",
+      "price": "Average price per person $100",
+      "path": "/uk/london/london/novikov-restaurant-bar"
     },
     {
       "name": "Ochre",
@@ -2611,6 +2725,12 @@
       "path": "/uk/london/london/provender"
     },
     {
+      "name": "Punch Room",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/uk/london/london/punch-room"
+    },
+    {
       "name": "Quaglino's",
       "cuisine": "Modern Cuisine",
       "price": "£££",
@@ -2803,6 +2923,12 @@
       "path": "/uk/london/london/scully-st-jamess"
     },
     {
+      "name": "Seed Library",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/uk/london/london/seed-library"
+    },
+    {
       "name": "Sessions Arts Club",
       "cuisine": "",
       "price": "",
@@ -2899,6 +3025,12 @@
       "path": "/uk/london/london/sola-soho"
     },
     {
+      "name": "Soma",
+      "cuisine": "",
+      "price": "Average price per cocktail $15",
+      "path": "/uk/london/london/soma"
+    },
+    {
       "name": "Sorella",
       "cuisine": "Italian",
       "price": "££",
@@ -2915,6 +3047,12 @@
       "cuisine": "Italian",
       "price": "£££",
       "path": "/uk/london/london/spring-l-o-n"
+    },
+    {
+      "name": "Spy Bar",
+      "cuisine": "",
+      "price": "Average price per cocktail $33",
+      "path": "/uk/london/london/spy-bar"
     },
     {
       "name": "ssam ssam",
@@ -3061,6 +3199,12 @@
       "path": "/uk/london/london/tendril"
     },
     {
+      "name": "The American Bar at The Stafford",
+      "cuisine": "",
+      "price": "Average price per cocktail $24",
+      "path": "/uk/london/london/the-american-bar-at-the-stafford"
+    },
+    {
       "name": "The Araki",
       "cuisine": "",
       "price": "",
@@ -3115,6 +3259,12 @@
       "path": "/uk/london/london/the-clarence-tavern"
     },
     {
+      "name": "The Cocktail Trading Company",
+      "cuisine": "",
+      "price": "Average price per cocktail $13",
+      "path": "/uk/london/london/the-cocktail-trading-company"
+    },
+    {
       "name": "The Cocochine",
       "cuisine": "Modern French",
       "price": "££££",
@@ -3145,10 +3295,10 @@
       "path": "/uk/london/london/the-devonshire"
     },
     {
-      "name": "The Donovan (Bar)",
+      "name": "The Donovan Bar",
       "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/the-donovan-bar"
+      "price": "Average price per cocktail $18",
+      "path": "/uk/london/london/the-donovan-bar2"
     },
     {
       "name": "The Dover",
@@ -3391,6 +3541,12 @@
       "path": "/uk/london/london/the-square"
     },
     {
+      "name": "The Sun Tavern",
+      "cuisine": "",
+      "price": "Average price per cocktail $13",
+      "path": "/uk/london/london/the-sun-tavern"
+    },
+    {
       "name": "The Tamil Crown",
       "cuisine": "",
       "price": "",
@@ -3457,6 +3613,12 @@
       "path": "/uk/london/london/three-sheets-bar"
     },
     {
+      "name": "Three Sheets Dalston",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/uk/london/london/three-sheets-dalston"
+    },
+    {
       "name": "Through the Woods",
       "cuisine": "Modern British",
       "price": "£££",
@@ -3479,6 +3641,12 @@
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/london/london/town"
+    },
+    {
+      "name": "Trailer Happiness",
+      "cuisine": "",
+      "price": "Average price per cocktail $13",
+      "path": "/uk/london/london/trailer-happiness"
     },
     {
       "name": "Trattoria Brutto",
@@ -3511,10 +3679,28 @@
       "path": "/uk/london/london/upstairs-at-trinity"
     },
     {
+      "name": "Velvet by Salvatore Calabrese",
+      "cuisine": "",
+      "price": "Average price per cocktail $30",
+      "path": "/uk/london/london/velvet-by-salvatore-calabrese"
+    },
+    {
+      "name": "Vesper",
+      "cuisine": "",
+      "price": "Average price per cocktail $30",
+      "path": "/uk/london/london/vesper"
+    },
+    {
       "name": "Vesper Bar",
       "cuisine": "",
       "price": "",
       "path": "/uk/london/london/vesper-bar"
+    },
+    {
+      "name": "Viajante87",
+      "cuisine": "",
+      "price": "Average price per cocktail $22",
+      "path": "/uk/london/london/viajante87"
     },
     {
       "name": "Viajante87 Bar",
@@ -3533,6 +3719,12 @@
       "cuisine": "Portuguese, Classic Cuisine",
       "price": "££",
       "path": "/uk/london/london/volta-do-mar"
+    },
+    {
+      "name": "Waltz",
+      "cuisine": "",
+      "price": "Average price per cocktail $24",
+      "path": "/uk/london/london/waltz"
     },
     {
       "name": "WANDER",
