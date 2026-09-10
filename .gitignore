@@ -23,6 +23,8 @@ dist-ssr
 # The master record is the exception: it is meant to be curated by hand and grown,
 # so losing it to a fresh clone would lose the curation with it.
 !/masterrestaurants.csv
+# Same for the scrape: it is slow to gather and the site may change under it.
+!/the50establishments.csv
 
 # Geocoding resume state
 .geocode_progress.json

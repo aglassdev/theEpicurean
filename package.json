@@ -22,7 +22,8 @@
     "cleanup": "node scripts/cleanup.js",
     "fix-places": "node scripts/fixPlaces.js",
     "address-report": "node scripts/addressReport.js",
-    "master-csv": "node scripts/buildMasterCsv.js"
+    "master-csv": "node scripts/buildMasterCsv.js",
+    "scrape-the50": "node scripts/scrapeThe50.js"
   },
   "dependencies": {
     "@visx/geo": "^3.12.0",

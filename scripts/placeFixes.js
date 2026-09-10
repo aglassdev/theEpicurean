@@ -36,6 +36,25 @@ export const PLACE_FIXES = [
     lat: 21.535387,
     lng: -71.497465,
   },
+  {
+    name: 'Le Golfe',
+    country: /tunisia/i,
+    city: 'Tunis',
+    // Its own site calls it an "institution marsoise depuis 1955" and gives the
+    // address as "La Marsa - 5 Rue Larbi Zarrouk". The record said only Tunis,
+    // so the geocoder put the pin 120km down the coast, near Monastir.
+    address: '5 Rue Larbi Zarrouk, La Marsa, Tunis, Tunisia',
+    // the50.com puts it at the top of Rue Larbi Zarrouk, which agrees with the
+    // address the restaurant publishes and with the house numbers on that
+    // street: the mapped ones run 13 to 35 and fall as they go north-west, so 5
+    // lands within 100m of where the50 has it.
+    //
+    // OpenStreetMap has a node named "Restaurant Le Golfe" a kilometre south on
+    // Rue Abdelaziz Chtioui. Two sources agreeing on the street beat one that
+    // disagrees with it.
+    lat: 36.890785,
+    lng: 10.323801,
+  },
 ];
 
 const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
