@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T04:20:39.921Z",
+  "generatedAt": "2026-09-10T04:44:37.077Z",
   "totals": {
     "countries": 125,
-    "cities": 7888,
+    "cities": 7887,
     "restaurants": 29965,
     "atlas": {
       "restaurants": 28032
@@ -17441,14 +17441,9 @@
           "name": null,
           "cities": [
             {
-              "name": "Grindavik",
-              "path": "/iceland/grindavik/grindavik/restaurants",
-              "count": 1
-            },
-            {
               "name": "Grindavík",
-              "path": "/iceland/grindavk/grindavk/restaurants",
-              "count": 1
+              "path": "/iceland/grindavik/grindavik/restaurants",
+              "count": 2
             },
             {
               "name": "Reykjavík",
@@ -17459,7 +17454,7 @@
           "count": 12
         }
       ],
-      "cityCount": 3,
+      "cityCount": 2,
       "count": 12
     },
     {

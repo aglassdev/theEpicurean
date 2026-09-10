@@ -183,6 +183,12 @@ const HERO_OVERRIDES_BY_PLACE = {
   // the one on Vancouver Island.
   'seychelles/victoria/victoria': 'victoriaheader.png',
   'canada/victoria/victoria': null,
+  // The Lagos we have is Nigeria's market, not the Algarve's. The Nicosia is
+  // Cyprus's capital, not the hill town in Sicily.
+  'nigeria/lagos/lagos': 'lagosheader.png',
+  'portugal/lagos/lagos': null,
+  'cyprus/nicosia/nicosia': 'nicosiaheader.png',
+  'italy/nicosia/nicosia': null,
 };
 
 // Banner artwork arrives in whatever format the photograph came in; the optimizer
@@ -239,6 +245,9 @@ const CITY_ALIASES = {
   'south-korea/gyeonggi-do': 'Gwangju-si',
   // Every address there writes it AlUla, so that is what the guide recovered.
   'saudi-arabia/alula': 'al-Ula',
+  // One town, two spellings. Both its tables are at the Blue Lagoon.
+  'iceland/grindavik': 'Grindavík',
+  'iceland/grindavk': 'Grindavík',
 };
 
 // Directory slugs lost their accents ("san-sebastin", "so-paulo"), but the

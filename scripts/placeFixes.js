@@ -49,6 +49,18 @@ export const PLACE_FIXES = [
     lng: 20.479907,
   },
   {
+    // "Gorriti 3780, C1172 Cdad. Autónoma de Buenos Aires" defeated the primary
+    // geocoder, so the chain fell through to Photon, which answered with a spot
+    // in Patagonia 1,685km away. OpenStreetMap has the restaurant by name at the
+    // address as written.
+    name: 'Fogón Asado',
+    country: /argentina/i,
+    city: 'Buenos Aires',
+    address: 'Gorriti 3780, Palermo, Buenos Aires, Argentina',
+    lat: -34.595542,
+    lng: -58.418348,
+  },
+  {
     name: 'Le Golfe',
     country: /tunisia/i,
     city: 'Tunis',

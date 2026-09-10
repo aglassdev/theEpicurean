@@ -7,9 +7,17 @@
   "city": "Grindavík",
   "citySlug": "grindavk",
   "path": "/iceland/grindavk/grindavk/restaurants",
-  "canonicalPath": "/iceland/grindavk/grindavk/restaurants",
-  "count": 1,
+  "canonicalPath": "/iceland/grindavik/grindavik/restaurants",
+  "count": 2,
+  "hero": "/images/grindavikheader.png",
   "restaurants": [
+    {
+      "name": "Blue Lagoon",
+      "cuisine": "",
+      "price": "",
+      "path": "/iceland/grindavik/grindavik/blue-lagoon",
+      "award": "World's 50 Best"
+    },
     {
       "name": "Moss",
       "cuisine": "",
