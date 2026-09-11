@@ -1,14 +1,14 @@
 {
-  "title": "Dublin City",
+  "title": "Dublin",
   "country": "Ireland",
   "countrySlug": "ireland",
   "region": null,
   "regionSlug": "dublin-city",
-  "city": "Dublin City",
+  "city": "Dublin",
   "citySlug": "dublin-city",
   "path": "/ireland/dublin-city/dublin-city/restaurants",
-  "canonicalPath": "/ireland/dublin-city/dublin-city/restaurants",
-  "count": 46,
+  "canonicalPath": "/ireland/ireland/dublin/restaurants",
+  "count": 65,
   "restaurants": [
     {
       "name": "Chapter One by Mickael Viljanen",
@@ -53,6 +53,25 @@
       "award": "★"
     },
     {
+      "name": "Thorton's",
+      "cuisine": "",
+      "price": "",
+      "path": "/ireland/dublin/dublin/thortons",
+      "award": "World's 50 Best"
+    },
+    {
+      "name": "1824 Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/ireland/dublin/dublin/1824-bar"
+    },
+    {
+      "name": "64 Wine",
+      "cuisine": "",
+      "price": "",
+      "path": "/ireland/dublin/dublin/64-wine"
+    },
+    {
       "name": "allta",
       "cuisine": "Modern Cuisine, Seafood",
       "price": "€€€€",
@@ -77,6 +96,12 @@
       "path": "/ireland/dublin-city/dublin-city/ananda"
     },
     {
+      "name": "Bar 1661",
+      "cuisine": "",
+      "price": "Average price per cocktail $14",
+      "path": "/ireland/dublin/dublin/bar1661"
+    },
+    {
       "name": "BIGFAN",
       "cuisine": "Asian, Chinese",
       "price": "€€",
@@ -89,10 +114,22 @@
       "path": "/ireland/dublin-city/dublin-city/borgo"
     },
     {
+      "name": "Chapter One",
+      "cuisine": "",
+      "price": "Average price per person $110",
+      "path": "/ireland/dublin/dublin/chapter-one"
+    },
+    {
       "name": "Comet",
       "cuisine": "Modern Cuisine, Mediterranean Cuisine",
       "price": "€€€",
       "path": "/ireland/dublin-city/dublin-city/comet"
+    },
+    {
+      "name": "Conrad Dublin",
+      "cuisine": "Afternoon Tea",
+      "price": "31.00",
+      "path": "/ireland/ireland/dublin/conrad-dublin"
     },
     {
       "name": "Dax",
@@ -113,6 +150,12 @@
       "path": "/ireland/dublin-city/dublin-city/etto-d-u-b"
     },
     {
+      "name": "F.X. Buckley Steakhouse",
+      "cuisine": "",
+      "price": "",
+      "path": "/ireland/dublin/dublin/fx-buckley-steakhouse"
+    },
+    {
       "name": "Forest Avenue",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -129,6 +172,12 @@
       "cuisine": "Italian",
       "price": "€€",
       "path": "/ireland/dublin-city/dublin-city/grano"
+    },
+    {
+      "name": "Hawksmoor Dublin",
+      "cuisine": "",
+      "price": "",
+      "path": "/ireland/dublin/dublin/hawksmoor-dublin"
     },
     {
       "name": "HERA",
@@ -203,6 +252,12 @@
       "path": "/ireland/dublin-city/dublin-city/mister-s"
     },
     {
+      "name": "Montys Of Kathmandu",
+      "cuisine": "",
+      "price": "",
+      "path": "/ireland/dublin/dublin/montys-of-kathmandu"
+    },
+    {
       "name": "Mr Fox",
       "cuisine": "Modern Cuisine",
       "price": "€€€€",
@@ -239,6 +294,12 @@
       "path": "/ireland/dublin-city/dublin-city/parrilla"
     },
     {
+      "name": "Peperina Garden Bistro",
+      "cuisine": "Afternoon Tea",
+      "price": "25.00",
+      "path": "/ireland/ireland/dublin/peperina-garden-bistro"
+    },
+    {
       "name": "Peploe's",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€",
@@ -257,16 +318,46 @@
       "path": "/ireland/dublin-city/dublin-city/pickle"
     },
     {
+      "name": "Restaurant Patrick Guibaud",
+      "cuisine": "",
+      "price": "Average price per person $200",
+      "path": "/ireland/dublin/dublin/restaurant-patrick-guibaud"
+    },
+    {
       "name": "Richmond",
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/ireland/dublin-city/dublin-city/richmond"
     },
     {
+      "name": "Rosa Madre",
+      "cuisine": "",
+      "price": "",
+      "path": "/ireland/dublin/dublin/rosa-madre"
+    },
+    {
       "name": "Spitalfields",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
       "path": "/ireland/dublin-city/dublin-city/spitalfields"
+    },
+    {
+      "name": "The Iveagh Garden Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "42.00",
+      "path": "/ireland/ireland/dublin/the-iveagh-garden-hotel"
+    },
+    {
+      "name": "The Lobby Lounge",
+      "cuisine": "Afternoon Tea",
+      "price": "65.00",
+      "path": "/ireland/ireland/dublin/the-lobby-lounge"
+    },
+    {
+      "name": "The Morrison Room",
+      "cuisine": "",
+      "price": "",
+      "path": "/ireland/dublin/dublin/the-morrison-room"
     },
     {
       "name": "The Old Spot",
@@ -281,6 +372,24 @@
       "path": "/ireland/dublin-city/dublin-city/the-pigs-ear"
     },
     {
+      "name": "The Saddle Room",
+      "cuisine": "",
+      "price": "",
+      "path": "/ireland/dublin/dublin/the-saddle-room"
+    },
+    {
+      "name": "The Shelbourne Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "68.00",
+      "path": "/ireland/ireland/dublin/the-shelbourne-hotel"
+    },
+    {
+      "name": "The Whiskey Library",
+      "cuisine": "",
+      "price": "",
+      "path": "/ireland/dublin/dublin/the-whiskey-library"
+    },
+    {
       "name": "Uno Mas",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€",
@@ -291,6 +400,12 @@
       "cuisine": "Modern Cuisine",
       "price": "€€",
       "path": "/ireland/dublin-city/dublin-city/vada"
+    },
+    {
+      "name": "Vintage Cocktail Club",
+      "cuisine": "",
+      "price": "Average price per cocktail $17",
+      "path": "/ireland/dublin/dublin/vintage-cocktail-club"
     }
   ]
 }

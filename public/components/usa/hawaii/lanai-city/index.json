@@ -1,20 +1,32 @@
 {
-  "title": "Lanai City",
+  "title": "Lanai",
   "country": "United States",
   "countrySlug": "usa",
   "region": "Hawaii",
   "regionSlug": "hawaii",
-  "city": "Lanai City",
+  "city": "Lanai",
   "citySlug": "lanai-city",
   "path": "/usa/hawaii/lanai-city/restaurants",
-  "canonicalPath": "/usa/hawaii/lanai-city/restaurants",
-  "count": 1,
+  "canonicalPath": "/usa/hawaii/lanai/restaurants",
+  "count": 3,
   "restaurants": [
+    {
+      "name": "Nobu Lana'i",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/hawaii/lanai/nobu-lanai"
+    },
     {
       "name": "ONE FORTY",
       "cuisine": "",
       "price": "",
       "path": "/usa/hawaii/lanai-city/one-forty"
+    },
+    {
+      "name": "Osteria Mozza Lanai",
+      "cuisine": "",
+      "price": "",
+      "path": "/usa/hawaii/lanai/osteria-mozza-lanai"
     }
   ]
 }

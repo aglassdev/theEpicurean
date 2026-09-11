@@ -8,8 +8,14 @@
   "citySlug": "panama-city",
   "path": "/panama/panama-city/panama-city/restaurants",
   "canonicalPath": "/panama/panama-city/panama-city/restaurants",
-  "count": 8,
+  "count": 10,
   "restaurants": [
+    {
+      "name": "Amano",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/panama/panama/panama/amano"
+    },
     {
       "name": "CALETA",
       "cuisine": "",
@@ -53,10 +59,16 @@
       "path": "/panama/panama-city/panama-city/maito"
     },
     {
+      "name": "Makoto",
+      "cuisine": "",
+      "price": "Average price per person $80",
+      "path": "/panama/panama/panama/makoto"
+    },
+    {
       "name": "Umi",
       "cuisine": "",
-      "price": "",
-      "path": "/panama/panama-city/panama-city/umi"
+      "price": "Average price per person $36",
+      "path": "/panama/panama/panama/umi"
     }
   ]
 }

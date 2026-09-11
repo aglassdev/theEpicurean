@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T21:37:43.304Z",
+  "generatedAt": "2026-09-11T01:06:32.892Z",
   "totals": {
     "countries": 131,
-    "cities": 7971,
-    "restaurants": 31056,
+    "cities": 7962,
+    "restaurants": 31050,
     "atlas": {
       "restaurants": 29144
     }
@@ -5031,12 +5031,7 @@
             {
               "name": "Québec",
               "path": "/canada/qubec/qubec/restaurants",
-              "count": 35
-            },
-            {
-              "name": "Quebec City",
-              "path": "/canada/quebec-city/quebec-city/restaurants",
-              "count": 1
+              "count": 36
             },
             {
               "name": "Regina",
@@ -5237,7 +5232,7 @@
           "count": 657
         }
       ],
-      "cityCount": 102,
+      "cityCount": 101,
       "count": 657
     },
     {
@@ -17851,6 +17846,11 @@
               "count": 1
             },
             {
+              "name": "Belfast",
+              "path": "/ireland/ireland/belfast/restaurants",
+              "count": 4
+            },
+            {
               "name": "Blacklion",
               "path": "/ireland/blacklion/blacklion/restaurants",
               "count": 1
@@ -17911,8 +17911,28 @@
               "count": 5
             },
             {
+              "name": "Country Tyrone",
+              "path": "/ireland/ireland/country-tyrone/restaurants",
+              "count": 1
+            },
+            {
+              "name": "County Antrim",
+              "path": "/ireland/ireland/county-antrim/restaurants",
+              "count": 1
+            },
+            {
+              "name": "County Down",
+              "path": "/ireland/ireland/county-down/restaurants",
+              "count": 2
+            },
+            {
               "name": "County Laois",
               "path": "/ireland/county-laois/county-laois/restaurants",
+              "count": 1
+            },
+            {
+              "name": "County Mayo",
+              "path": "/ireland/ireland/county-mayo/restaurants",
               "count": 1
             },
             {
@@ -17926,9 +17946,9 @@
               "count": 2
             },
             {
-              "name": "Dublin City",
-              "path": "/ireland/dublin-city/dublin-city/restaurants",
-              "count": 46
+              "name": "Dublin",
+              "path": "/ireland/ireland/dublin/restaurants",
+              "count": 65
             },
             {
               "name": "Dun Laoghaire",
@@ -18071,47 +18091,11 @@
               "count": 1
             }
           ],
-          "count": 126
-        },
-        {
-          "name": "Ireland",
-          "cities": [
-            {
-              "name": "Belfast",
-              "path": "/ireland/ireland/belfast/restaurants",
-              "count": 4
-            },
-            {
-              "name": "Country Tyrone",
-              "path": "/ireland/ireland/country-tyrone/restaurants",
-              "count": 1
-            },
-            {
-              "name": "County Antrim",
-              "path": "/ireland/ireland/county-antrim/restaurants",
-              "count": 1
-            },
-            {
-              "name": "County Down",
-              "path": "/ireland/ireland/county-down/restaurants",
-              "count": 2
-            },
-            {
-              "name": "County Mayo",
-              "path": "/ireland/ireland/county-mayo/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Dublin",
-              "path": "/ireland/ireland/dublin/restaurants",
-              "count": 21
-            }
-          ],
-          "count": 30
+          "count": 154
         }
       ],
-      "cityCount": 60,
-      "count": 156
+      "cityCount": 59,
+      "count": 154
     },
     {
       "name": "Israel",
@@ -27384,21 +27368,16 @@
               "count": 2
             },
             {
-              "name": "Panama",
-              "path": "/panama/panama/panama/restaurants",
-              "count": 3
-            },
-            {
               "name": "Panama City",
               "path": "/panama/panama-city/panama-city/restaurants",
-              "count": 8
+              "count": 10
             }
           ],
-          "count": 13
+          "count": 12
         }
       ],
-      "cityCount": 3,
-      "count": 13
+      "cityCount": 2,
+      "count": 12
     },
     {
       "name": "Paraguay",
@@ -33734,12 +33713,7 @@
             {
               "name": "Kaohsiung",
               "path": "/taiwan/kaohsiung/kaohsiung/restaurants",
-              "count": 59
-            },
-            {
-              "name": "Kaohsiung City",
-              "path": "/taiwan/kaohsiung-city/kaohsiung-city/restaurants",
-              "count": 2
+              "count": 60
             },
             {
               "name": "New Taipei",
@@ -33754,12 +33728,7 @@
             {
               "name": "Tainan",
               "path": "/taiwan/tainan/tainan/restaurants",
-              "count": 63
-            },
-            {
-              "name": "Tainan City",
-              "path": "/taiwan/tainan-city/tainan-city/restaurants",
-              "count": 2
+              "count": 65
             },
             {
               "name": "Taipei",
@@ -33767,11 +33736,11 @@
               "count": 190
             }
           ],
-          "count": 483
+          "count": 482
         }
       ],
-      "cityCount": 9,
-      "count": 483
+      "cityCount": 7,
+      "count": 482
     },
     {
       "name": "Thailand",
@@ -35106,11 +35075,6 @@
               "name": "Gillingham",
               "path": "/uk/gillingham/gillingham/restaurants",
               "count": 1
-            },
-            {
-              "name": "Glasgow City",
-              "path": "/uk/glasgow-city/glasgow-city/restaurants",
-              "count": 16
             },
             {
               "name": "Glastonbury",
@@ -37098,7 +37062,7 @@
               "count": 1
             }
           ],
-          "count": 980
+          "count": 964
         },
         {
           "name": "Channel Islands",
@@ -37343,7 +37307,7 @@
             {
               "name": "Glasgow",
               "path": "/uk/scotland/glasgow/restaurants",
-              "count": 17
+              "count": 32
             },
             {
               "name": "Rest of Scotland",
@@ -37351,7 +37315,7 @@
               "count": 20
             }
           ],
-          "count": 106
+          "count": 121
         },
         {
           "name": "South East",
@@ -37519,8 +37483,8 @@
           "count": 47
         }
       ],
-      "cityCount": 672,
-      "count": 2462
+      "cityCount": 671,
+      "count": 2461
     },
     {
       "name": "United States",
@@ -39243,12 +39207,7 @@
             {
               "name": "Lanai",
               "path": "/usa/hawaii/lanai/restaurants",
-              "count": 2
-            },
-            {
-              "name": "Lanai City",
-              "path": "/usa/hawaii/lanai-city/restaurants",
-              "count": 1
+              "count": 3
             },
             {
               "name": "Maui",
@@ -40509,21 +40468,11 @@
             {
               "name": "New York",
               "path": "/usa/newyork/new-york/restaurants",
-              "count": 547
-            },
-            {
-              "name": "New York City",
-              "path": "/usa/new-york/new-york-city/restaurants",
-              "count": 1
+              "count": 548
             },
             {
               "name": "Newburgh",
               "path": "/usa/new-york/newburgh/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Newyorkcity",
-              "path": "/usa/newyork/newyorkcity/restaurants",
               "count": 1
             },
             {
@@ -40632,7 +40581,7 @@
               "count": 1
             }
           ],
-          "count": 793
+          "count": 792
         },
         {
           "name": "North Carolina",
@@ -41878,8 +41827,8 @@
           "count": 10
         }
       ],
-      "cityCount": 808,
-      "count": 5076
+      "cityCount": 805,
+      "count": 5075
     },
     {
       "name": "Uruguay",

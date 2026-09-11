@@ -193,6 +193,13 @@ const HERO_OVERRIDES_BY_PLACE = {
   'italy/nicosia/nicosia': null,
 };
 
+// A city whose directory names no region, where the guide knows one. Without
+// this Glasgow City cannot merge with the Glasgow filed under Scotland, because
+// places are keyed on country, region and city together.
+const REGION_FIXES = {
+  'uk/glasgow-city': 'Scotland',
+};
+
 // Banner artwork arrives in whatever format the photograph came in; the optimizer
 // turns them all into WebP anyway, so the convention is on the name, not the type.
 const HERO_EXTS = ['png', 'jpg', 'jpeg', 'webp'];
@@ -250,6 +257,20 @@ const CITY_ALIASES = {
   // One town, two spellings. Both its tables are at the Blue Lagoon.
   'iceland/grindavik': 'Grindavík',
   'iceland/grindavk': 'Grindavík',
+  // A city and the municipality named after it are one place. Tainan City is
+  // Tainan; Hsinchu County is not Hsinchu City, and New Taipei is not Taipei,
+  // so those stay apart.
+  'taiwan/tainan-city': 'Tainan',
+  'taiwan/kaohsiung-city': 'Kaohsiung',
+  'canada/quebec-city': 'Québec',
+  'ireland/dublin-city': 'Dublin',
+  'uk/glasgow-city': 'Glasgow',
+  'usa/new-york-city': 'New York',
+  'usa/newyorkcity': 'New York',
+  'usa/lanai-city': 'Lanai',
+  // Panama City is the capital's name; the bare form is the country leaking in.
+  'panama/panama': 'Panama City',
+  'panama/panama-city': 'Panama City',
 };
 
 // Directory slugs lost their accents ("san-sebastin", "so-paulo"), but the
@@ -436,7 +457,10 @@ for (const dir of findCityDirs()) {
   // is never a place. The USA branch below can often recover a real state from
   // the postcodes; everywhere else the city simply sits directly under its
   // country, which is how Dubai and Singapore read.
-  let regionIsReal = regionSlug !== citySlug && regionSlug !== 'other';
+  let regionIsReal = regionSlug !== citySlug && regionSlug !== 'other'
+    // Ireland files Dublin under a region called Ireland, which is the country
+    // again rather than a place inside it.
+    && regionSlug !== countrySlug;
   if (countrySlug === 'usa' && regionSlug === 'other') {
     const votes = {};
     for (const z of zips) {
@@ -471,6 +495,9 @@ for (const dir of findCityDirs()) {
     country = regionSlug === 'macau' ? 'Macau' : 'Hong Kong';
     regionIsReal = false;
   }
+
+  const regionFix = REGION_FIXES[`${countrySlug}/${regionSlug}`];
+  if (regionFix) { region = regionFix; regionIsReal = true; }
 
   // usa/dc holds Washington pages both directly and under /washington. A city
   // slugged washington-dc is the District of Columbia whatever directory it

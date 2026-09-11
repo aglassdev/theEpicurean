@@ -1,14 +1,14 @@
 {
-  "title": "Glasgow City",
+  "title": "Glasgow",
   "country": "United Kingdom",
   "countrySlug": "uk",
-  "region": null,
+  "region": "Scotland",
   "regionSlug": "glasgow-city",
-  "city": "Glasgow City",
+  "city": "Glasgow",
   "citySlug": "glasgow-city",
   "path": "/uk/glasgow-city/glasgow-city/restaurants",
-  "canonicalPath": "/uk/glasgow-city/glasgow-city/restaurants",
-  "count": 16,
+  "canonicalPath": "/uk/scotland/glasgow/restaurants",
+  "count": 32,
   "restaurants": [
     {
       "name": "Cail Bruich",
@@ -31,10 +31,28 @@
       "path": "/uk/glasgow-city/glasgow-city/brett"
     },
     {
+      "name": "Carlton George Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "19.95",
+      "path": "/uk/scotland/glasgow/carlton-george-hotel"
+    },
+    {
       "name": "Celentano's",
       "cuisine": "Italian",
       "price": "££",
       "path": "/uk/glasgow-city/glasgow-city/celentanos"
+    },
+    {
+      "name": "Cup Tea Lounge - Glasgow Merchant City",
+      "cuisine": "Afternoon Tea",
+      "price": "26.00",
+      "path": "/uk/scotland/glasgow/cup-tea-lounge-glasgow-merchant-city"
+    },
+    {
+      "name": "Cup Tea Lounge - Renfield St",
+      "cuisine": "Afternoon Tea",
+      "price": "26.00",
+      "path": "/uk/scotland/glasgow/cup-tea-lounge-renfield-st"
     },
     {
       "name": "Elements",
@@ -61,16 +79,52 @@
       "path": "/uk/glasgow-city/glasgow-city/gaga"
     },
     {
+      "name": "Glasgow Marriott Hotel",
+      "cuisine": "Afternoon Tea",
+      "price": "22.00",
+      "path": "/uk/scotland/glasgow/glasgow-marriott-hotel"
+    },
+    {
+      "name": "Hotel du Vin Glasgow",
+      "cuisine": "Afternoon Tea",
+      "price": "35.00",
+      "path": "/uk/scotland/glasgow/hotel-du-vin-glasgow"
+    },
+    {
       "name": "Ka Pao",
       "cuisine": "Asian",
       "price": "££",
       "path": "/uk/glasgow-city/glasgow-city/ka-pao"
     },
     {
+      "name": "Mackintosh at the Willow",
+      "cuisine": "Afternoon Tea",
+      "price": "29.95",
+      "path": "/uk/scotland/glasgow/mackintosh-at-the-willow"
+    },
+    {
+      "name": "Malmaison Glasgow",
+      "cuisine": "Afternoon Tea",
+      "price": "29.50",
+      "path": "/uk/scotland/glasgow/malmaison-glasgow"
+    },
+    {
+      "name": "Mar Hall Golf & Spa Resort",
+      "cuisine": "Afternoon Tea",
+      "price": "29.00",
+      "path": "/uk/scotland/glasgow/mar-hall-golf-spa-resort"
+    },
+    {
       "name": "Margo",
       "cuisine": "Mediterranean Cuisine",
       "price": "££",
       "path": "/uk/glasgow-city/glasgow-city/margo"
+    },
+    {
+      "name": "Michel Roux Jnr",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/glasgow/glasgow/michel-roux-jnr"
     },
     {
       "name": "Number 16",
@@ -85,10 +139,28 @@
       "path": "/uk/glasgow-city/glasgow-city/ox-and-finch"
     },
     {
+      "name": "Porter & Rye",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/glasgow/glasgow/porter-rye"
+    },
+    {
       "name": "Sebb's",
       "cuisine": "World Cuisine",
       "price": "££",
       "path": "/uk/glasgow-city/glasgow-city/sebbs"
+    },
+    {
+      "name": "Sherbrooke Castle",
+      "cuisine": "Afternoon Tea",
+      "price": "22.95",
+      "path": "/uk/scotland/glasgow/sherbrooke-castle"
+    },
+    {
+      "name": "Shucks Glasgow",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/glasgow/glasgow/shucks-glasgow"
     },
     {
       "name": "Stravaigin",
@@ -107,6 +179,30 @@
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/glasgow-city/glasgow-city/the-gannet"
+    },
+    {
+      "name": "The Pot Still",
+      "cuisine": "",
+      "price": "Average price per cocktail $8",
+      "path": "/uk/glasgow/glasgow/the-pot-still"
+    },
+    {
+      "name": "The Restaurant",
+      "cuisine": "",
+      "price": "",
+      "path": "/uk/glasgow/glasgow/the-restaurant"
+    },
+    {
+      "name": "The Westerwood Hotel & Golf Resort",
+      "cuisine": "Afternoon Tea",
+      "price": "21.00",
+      "path": "/uk/scotland/glasgow/the-westerwood-hotel-golf-resort"
+    },
+    {
+      "name": "Vintage Red Bistro Bus Glasgow",
+      "cuisine": "Afternoon Tea",
+      "price": "78.00",
+      "path": "/uk/scotland/glasgow/vintage-red-bistro-bus-glasgow"
     }
   ]
 }
