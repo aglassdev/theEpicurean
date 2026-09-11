@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T01:06:32.892Z",
+  "generatedAt": "2026-09-11T05:26:53.617Z",
   "totals": {
     "countries": 131,
-    "cities": 7962,
-    "restaurants": 31050,
+    "cities": 7957,
+    "restaurants": 31035,
     "atlas": {
       "restaurants": 29144
     }
@@ -10731,11 +10731,6 @@
               "count": 1
             },
             {
-              "name": "Monaco",
-              "path": "/france/monaco/monaco/restaurants",
-              "count": 16
-            },
-            {
               "name": "Monbazillac",
               "path": "/france/monbazillac/monbazillac/restaurants",
               "count": 1
@@ -14061,7 +14056,7 @@
               "count": 1
             }
           ],
-          "count": 3584
+          "count": 3568
         },
         {
           "name": "Provence Alpes Cote Dazur",
@@ -14075,8 +14070,8 @@
           "count": 4
         }
       ],
-      "cityCount": 1541,
-      "count": 3588
+      "cityCount": 1540,
+      "count": 3572
     },
     {
       "name": "Georgia",
@@ -17372,20 +17367,15 @@
               "count": 2
             },
             {
-              "name": "Cdad. de Guatemala",
-              "path": "/guatemala/cdad-de-guatemala/cdad-de-guatemala/restaurants",
-              "count": 1
-            },
-            {
               "name": "Guatemala City",
               "path": "/guatemala/guatemala-city/guatemala-city/restaurants",
-              "count": 8
+              "count": 9
             }
           ],
           "count": 11
         }
       ],
-      "cityCount": 3,
+      "cityCount": 2,
       "count": 11
     },
     {
@@ -24707,18 +24697,13 @@
             {
               "name": "Vientiane",
               "path": "/laos/vientiane/vientiane/restaurants",
-              "count": 2
-            },
-            {
-              "name": "Vientienne",
-              "path": "/laos/vientienne/vientienne/restaurants",
-              "count": 1
+              "count": 3
             }
           ],
           "count": 3
         }
       ],
-      "cityCount": 2,
+      "cityCount": 1,
       "count": 3
     },
     {
@@ -25619,19 +25604,14 @@
             {
               "name": "Monaco",
               "path": "/monaco/monaco/monaco/restaurants",
-              "count": 20
-            },
-            {
-              "name": "Monte Carlo",
-              "path": "/monaco/monte-carlo/monte-carlo/restaurants",
-              "count": 1
+              "count": 22
             }
           ],
-          "count": 21
+          "count": 22
         }
       ],
-      "cityCount": 2,
-      "count": 21
+      "cityCount": 1,
+      "count": 22
     },
     {
       "name": "Montenegro",
@@ -26978,11 +26958,6 @@
               "count": 1
             },
             {
-              "name": "Akura",
-              "path": "/new-zealand/akura/akura/restaurants",
-              "count": 1
-            },
-            {
               "name": "Arrowtown",
               "path": "/new-zealand/arrowtown/arrowtown/restaurants",
               "count": 5
@@ -27083,6 +27058,11 @@
               "count": 1
             },
             {
+              "name": "Ōakura",
+              "path": "/new-zealand/akura/akura/restaurants",
+              "count": 1
+            },
+            {
               "name": "Oamaru",
               "path": "/new-zealand/oamaru/oamaru/restaurants",
               "count": 2
@@ -27113,7 +27093,7 @@
               "count": 1
             },
             {
-              "name": "Taup",
+              "name": "Taupō",
               "path": "/new-zealand/taup/taup/restaurants",
               "count": 2
             },
@@ -27123,7 +27103,7 @@
               "count": 4
             },
             {
-              "name": "Twharanui Peninsula",
+              "name": "Tāwharanui Peninsula",
               "path": "/new-zealand/twharanui-peninsula/twharanui-peninsula/restaurants",
               "count": 1
             },
@@ -27342,18 +27322,13 @@
             {
               "name": "Muscat",
               "path": "/oman/muscat/muscat/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Shatti Al Qurum",
-              "path": "/oman/shatti-al-qurum/shatti-al-qurum/restaurants",
-              "count": 1
+              "count": 2
             }
           ],
           "count": 2
         }
       ],
-      "cityCount": 2,
+      "cityCount": 1,
       "count": 2
     },
     {
@@ -28267,11 +28242,6 @@
               "count": 1
             },
             {
-              "name": "Saint Denis",
-              "path": "/reunion/saint-denis/saint-denis/restaurants",
-              "count": 2
-            },
-            {
               "name": "Saint Leu",
               "path": "/reunion/saint-leu/saint-leu/restaurants",
               "count": 1
@@ -28280,6 +28250,11 @@
               "name": "Saint Louis",
               "path": "/reunion/saint-louis/saint-louis/restaurants",
               "count": 1
+            },
+            {
+              "name": "Saint-Denis",
+              "path": "/reunion/saint-denis/saint-denis/restaurants",
+              "count": 2
             }
           ],
           "count": 5
@@ -28300,12 +28275,12 @@
               "count": 7
             },
             {
-              "name": "Cluj Napoca",
+              "name": "Cluj-Napoca",
               "path": "/romania/cluj-napoca/cluj-napoca/restaurants",
               "count": 1
             },
             {
-              "name": "Trgu Mure",
+              "name": "Târgu Mureș",
               "path": "/romania/trgu-mure/trgu-mure/restaurants",
               "count": 1
             }
@@ -28794,7 +28769,7 @@
               "count": 2
             },
             {
-              "name": "Retee",
+              "name": "Reteče",
               "path": "/slovenia/retee/retee/restaurants",
               "count": 1
             },

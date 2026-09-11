@@ -191,6 +191,9 @@ const HERO_OVERRIDES_BY_PLACE = {
   'portugal/lagos/lagos': null,
   'cyprus/nicosia/nicosia': 'nicosiaheader.png',
   'italy/nicosia/nicosia': null,
+  // The Valencia we have is the Arco de Carabobo, in Venezuela. Spain's is left
+  // free to take the plain name when it gets a photograph of its own.
+  'venezuela/valencia/valencia': 'valenciavenezuelaheader.png',
 };
 
 // A city whose directory names no region, where the guide knows one. Without
@@ -271,6 +274,13 @@ const CITY_ALIASES = {
   // Panama City is the capital's name; the bare form is the country leaking in.
   'panama/panama': 'Panama City',
   'panama/panama-city': 'Panama City',
+  // A district and the city around it. Shatti Al Qurum is a seafront quarter of
+  // Muscat, Monte Carlo a ward of Monaco.
+  'oman/shatti-al-qurum': 'Muscat',
+  'monaco/monte-carlo': 'Monaco',
+  // Spellings the sources disagreed on.
+  'laos/vientienne': 'Vientiane',
+  'guatemala/cdad-de-guatemala': 'Guatemala City',
 };
 
 // Directory slugs lost their accents ("san-sebastin", "so-paulo"), but the
@@ -291,6 +301,9 @@ function cityNameFromAddresses(citySlug, addresses) {
   // the name they had, particles and all: Forte dei Marmi, la Nucía, McLaren Vale.
   const whole = fields.find(spellsTheCity);
   if (whole) return whole;
+  const trimmed = fields.map((f) => f.replace(/\s+[A-Z]{0,2}[\d][\w-]*$/i, '').trim())
+    .find((f) => f && readsLikeAName(f) && spellsTheCity(f));
+  if (trimmed) return trimmed;
 
   // Only then, for the cities that fell back to the slug: a field may run
   // something into the city, as Argentina does with the postcode in
@@ -299,7 +312,10 @@ function cityNameFromAddresses(citySlug, addresses) {
   // street.
   const generated = titleCase(citySlug);
   for (const f of fields) {
-    const words = f.split(/\s+/);
+    // Some addresses run the postcode onto the city rather than giving it a
+    // field of its own: "Târgu Mureș 540354". Drop a trailing code so the run
+    // below can reach the name in front of it.
+    const words = f.replace(/\s+[A-Z]{0,2}[\d][\w-]*$/i, '').split(/\s+/);
     for (let i = 1; i < words.length; i++) {
       const t = words.slice(i).join(' ');
       // Worth taking only for the letters the slug lost. A tail differing by case
@@ -489,6 +505,14 @@ for (const dir of findCityDirs()) {
       regionIsReal = false;
     }
   }
+  // Sixteen tables reached france/monaco with Monaco addresses. Monaco is not in
+  // France, so they take the country they are in and join the twenty-one already
+  // filed under it.
+  if (countrySlug === 'france' && regionSlug === 'monaco') {
+    country = 'Monaco';
+    regionIsReal = false;
+  }
+
   // The tree files these both as their own country and under China; they are one
   // place, so the Chinese copy adopts the same country and the two merge.
   if (countrySlug === 'china' && (regionSlug === 'hong-kong' || regionSlug === 'macau')) {

@@ -8,8 +8,15 @@
   "citySlug": "guatemala-city",
   "path": "/guatemala/guatemala-city/guatemala-city/restaurants",
   "canonicalPath": "/guatemala/guatemala-city/guatemala-city/restaurants",
-  "count": 8,
+  "count": 9,
+  "hero": "/images/guatemalacityheader.png",
   "restaurants": [
+    {
+      "name": "Ana",
+      "cuisine": "",
+      "price": "Average price per person $56",
+      "path": "/guatemala/cdad-de-guatemala/cdad-de-guatemala/ana"
+    },
     {
       "name": "Ana Cocina Local",
       "cuisine": "",

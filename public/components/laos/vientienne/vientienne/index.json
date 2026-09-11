@@ -1,20 +1,33 @@
 {
-  "title": "Vientienne",
+  "title": "Vientiane",
   "country": "Laos",
   "countrySlug": "laos",
   "region": null,
   "regionSlug": "vientienne",
-  "city": "Vientienne",
+  "city": "Vientiane",
   "citySlug": "vientienne",
   "path": "/laos/vientienne/vientienne/restaurants",
-  "canonicalPath": "/laos/vientienne/vientienne/restaurants",
-  "count": 1,
+  "canonicalPath": "/laos/vientiane/vientiane/restaurants",
+  "count": 3,
+  "hero": "/images/vientianeheader.png",
   "restaurants": [
+    {
+      "name": "Doi Ka Noi",
+      "cuisine": "",
+      "price": "",
+      "path": "/laos/vientiane/vientiane/doi-ka-noi"
+    },
     {
       "name": "Kualao",
       "cuisine": "",
       "price": "Average price per person $20",
       "path": "/laos/vientienne/vientienne/kualao"
+    },
+    {
+      "name": "Le Padaek",
+      "cuisine": "",
+      "price": "Average price per person $14",
+      "path": "/laos/vientiane/vientiane/le-padaek"
     }
   ]
 }

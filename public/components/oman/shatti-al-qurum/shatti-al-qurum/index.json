@@ -1,15 +1,22 @@
 {
-  "title": "Shatti Al Qurum",
+  "title": "Muscat",
   "country": "Oman",
   "countrySlug": "oman",
   "region": null,
   "regionSlug": "shatti-al-qurum",
-  "city": "Shatti Al Qurum",
+  "city": "Muscat",
   "citySlug": "shatti-al-qurum",
   "path": "/oman/shatti-al-qurum/shatti-al-qurum/restaurants",
-  "canonicalPath": "/oman/shatti-al-qurum/shatti-al-qurum/restaurants",
-  "count": 1,
+  "canonicalPath": "/oman/muscat/muscat/restaurants",
+  "count": 2,
+  "hero": "/images/muscatheader.png",
   "restaurants": [
+    {
+      "name": "Ba Ban",
+      "cuisine": "",
+      "price": "Tasting menu from $95",
+      "path": "/oman/muscat/muscat/ba-ban"
+    },
     {
       "name": "Char Muscat",
       "cuisine": "",

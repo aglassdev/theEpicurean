@@ -1,20 +1,69 @@
 {
-  "title": "Cdad. de Guatemala",
+  "title": "Guatemala City",
   "country": "Guatemala",
   "countrySlug": "guatemala",
   "region": null,
   "regionSlug": "cdad-de-guatemala",
-  "city": "Cdad. de Guatemala",
+  "city": "Guatemala City",
   "citySlug": "cdad-de-guatemala",
   "path": "/guatemala/cdad-de-guatemala/cdad-de-guatemala/restaurants",
-  "canonicalPath": "/guatemala/cdad-de-guatemala/cdad-de-guatemala/restaurants",
-  "count": 1,
+  "canonicalPath": "/guatemala/guatemala-city/guatemala-city/restaurants",
+  "count": 9,
+  "hero": "/images/guatemalacityheader.png",
   "restaurants": [
     {
       "name": "Ana",
       "cuisine": "",
       "price": "Average price per person $56",
       "path": "/guatemala/cdad-de-guatemala/cdad-de-guatemala/ana"
+    },
+    {
+      "name": "Ana Cocina Local",
+      "cuisine": "",
+      "price": "",
+      "path": "/guatemala/guatemala-city/guatemala-city/ana-cocina-local"
+    },
+    {
+      "name": "Casa De Cocteles Minerva",
+      "cuisine": "",
+      "price": "Average price per cocktail $9",
+      "path": "/guatemala/guatemala-city/guatemala-city/casa-de-cocteles-minerva"
+    },
+    {
+      "name": "Cocktail Lobby",
+      "cuisine": "",
+      "price": "Average price per cocktail $9",
+      "path": "/guatemala/guatemala-city/guatemala-city/cocktail-lobby"
+    },
+    {
+      "name": "Diacá",
+      "cuisine": "",
+      "price": "",
+      "path": "/guatemala/guatemala-city/guatemala-city/diac"
+    },
+    {
+      "name": "Flor De Lis",
+      "cuisine": "",
+      "price": "",
+      "path": "/guatemala/guatemala-city/guatemala-city/flor-de-lis"
+    },
+    {
+      "name": "Mercado 24",
+      "cuisine": "",
+      "price": "",
+      "path": "/guatemala/guatemala-city/guatemala-city/mercado24"
+    },
+    {
+      "name": "Snack Bar",
+      "cuisine": "",
+      "price": "Average price per person $26",
+      "path": "/guatemala/guatemala-city/guatemala-city/snack-bar"
+    },
+    {
+      "name": "Sublime",
+      "cuisine": "",
+      "price": "",
+      "path": "/guatemala/guatemala-city/guatemala-city/sublime"
     }
   ]
 }

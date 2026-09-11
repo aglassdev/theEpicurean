@@ -8,13 +8,20 @@
   "citySlug": "muscat",
   "path": "/oman/muscat/muscat/restaurants",
   "canonicalPath": "/oman/muscat/muscat/restaurants",
-  "count": 1,
+  "count": 2,
+  "hero": "/images/muscatheader.png",
   "restaurants": [
     {
       "name": "Ba Ban",
       "cuisine": "",
       "price": "Tasting menu from $95",
       "path": "/oman/muscat/muscat/ba-ban"
+    },
+    {
+      "name": "Char Muscat",
+      "cuisine": "",
+      "price": "Average price per person $100",
+      "path": "/oman/shatti-al-qurum/shatti-al-qurum/char-muscat"
     }
   ]
 }
