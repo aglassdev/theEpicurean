@@ -9,12 +9,10 @@ import { LOGOS } from './logos';
 // derivatives under as {stem}-1600.webp, {stem}-3200.webp and {stem}-mark.webp.
 const stem = (src) => src.replace(/^.*\//, '').replace(/\.[^.]+$/, '');
 
-const DISPATCHES = [
-  { kicker: "Dispatch · New York", title: "The Times' Best NYC Restaurants of 2025", image: "/images/nyt2025.png",
-    dek: "A new vanguard of dining rooms, from a Tribeca townhouse to a quiet Brooklyn bistro. The year's most consequential openings." },
-  { kicker: "Awards · Washington", title: "Inside the 2025 RAMMY Awards", image: "/images/rammys2025.png" },
-  { kicker: "Awards · America", title: "The 2025 James Beard Foundation Honours", image: "/images/jb2025.png" },
-];
+// Dispatches used to be three headlines written into this file, which went stale
+// the moment anything was published. They come off the same manifest the News
+// page reads now, newest first, so writing an article puts it here.
+const DISPATCH_FALLBACK = [];
 
 // Recognizable source marks, shown statically (no marquee). A fuller sweep of the
 // hundred-plus journals behind the guide lives on the Methodology page.
@@ -61,6 +59,16 @@ const HomePage = () => {
   // Figures come from the generated manifest so they can't go stale. Everything on
   // this page quotes the browsable guide — the same basis Destinations counts on —
   // so a reader never meets two different totals for the same thing.
+  const [dispatches, setDispatches] = useState(DISPATCH_FALLBACK);
+  useEffect(() => {
+    let live = true;
+    fetch('/data/articles.json')
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (live && d?.articles?.length) setDispatches(d.articles.slice(0, 3)); })
+      .catch(() => {});
+    return () => { live = false; };
+  }, []);
+
   const [targets, setTargets] = useState({ restaurants: 22363, cities: 6568, countries: 62 });
   useEffect(() => {
     let live = true;
@@ -222,10 +230,10 @@ const HomePage = () => {
         }}>
           <div style={{ display: 'grid', gap: '1.5rem' }}>
             <h2 style={{ fontFamily: serif, fontWeight: 400, fontSize: 'clamp(2.4rem, 5.2vw, 4.4rem)', lineHeight: .98, letterSpacing: '-.02em', margin: 0, maxWidth: '16ch', color: paper }}>
-              Traverse the globe by plate, not by passport.
+              Traverse the globe by passport, and by plate.
             </h2>
             <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: 'clamp(1.1rem, 1.6vw, 1.3rem)', color: '#CFC9BD', maxWidth: '560px', lineHeight: 1.6, margin: '.4rem 0 1rem' }}>
-              All {targets.restaurants.toLocaleString()} tables in the guide, plotted and explorable, from Tokyo to Tasmania, Lima to Ljubljana.
+              All {targets.restaurants.toLocaleString()} tables in the guide, on a single map, from Amman to Auckland, Lima to Ljubljana, Zurich to Zhangzha.
             </p>
             <a href="/map" onClick={routeClick(navigate, '/map')} className="epi-cta-underline"
               style={{ fontFamily: sans, fontSize: '12px', letterSpacing: '.32em', textTransform: 'uppercase', color: paper, textDecoration: 'none', width: 'fit-content' }}>
@@ -249,22 +257,24 @@ const HomePage = () => {
         </div>
 
         <div className="epi-news-grid" style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr', gap: 'clamp(2rem, 4vw, 3.5rem)', alignItems: 'start' }}>
-          <a className="epi-feature" href="/news" onClick={routeClick(navigate, '/news')} style={{ textDecoration: 'none', color: 'inherit', display: 'block', cursor: 'pointer' }}>
-            <div className="epi-news-lead" style={{ aspectRatio: '3/2', overflow: 'hidden', background: paperDeep, marginBottom: '1.5rem' }}>
-              <div className="epi-feature-img" style={{ width: '100%', height: '100%', backgroundImage: `url(${DISPATCHES[0].image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
-            </div>
-            <h3 className="epi-feature-title" style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.9rem, 3vw, 2.7rem)', lineHeight: 1.08, letterSpacing: '-.01em', margin: '0 0 .7rem', color: ink }}>{DISPATCHES[0].title}</h3>
-            <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: '1.1rem', color: inkSoft, lineHeight: 1.55, margin: 0, maxWidth: '540px' }}>{DISPATCHES[0].dek}</p>
-          </a>
+          {dispatches[0] && (
+            <a className="epi-feature" href={`/news/${dispatches[0].slug}`} onClick={routeClick(navigate, `/news/${dispatches[0].slug}`)} style={{ textDecoration: 'none', color: 'inherit', display: 'block', cursor: 'pointer' }}>
+              <div className="epi-news-lead" style={{ aspectRatio: '3/2', overflow: 'hidden', background: paperDeep, marginBottom: '1.5rem' }}>
+                <div className="epi-feature-img" style={{ width: '100%', height: '100%', backgroundImage: `url(/images/opt/${stem(dispatches[0].image)}-1600.webp), url(${dispatches[0].image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
+              </div>
+              <h3 className="epi-feature-title" style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.9rem, 3vw, 2.7rem)', lineHeight: 1.08, letterSpacing: '-.01em', margin: '0 0 .7rem', color: ink }}>{dispatches[0].title}</h3>
+              <p style={{ fontFamily: body, fontStyle: 'normal', fontSize: '1.1rem', color: inkSoft, lineHeight: 1.55, margin: 0, maxWidth: '540px' }}>{dispatches[0].dek}</p>
+            </a>
+          )}
 
           <div style={{ display: 'flex', flexDirection: 'column' }}>
-            {DISPATCHES.slice(1).map((a, idx) => (
-              <React.Fragment key={a.title}>
+            {dispatches.slice(1).map((a, idx) => (
+              <React.Fragment key={a.slug || a.title}>
                 {idx > 0 && <Rule mt={0} mb={0} />}
-                <a className="epi-feature" href="/news" onClick={routeClick(navigate, '/news')}
+                <a className="epi-feature" href={`/news/${a.slug}`} onClick={routeClick(navigate, `/news/${a.slug}`)}
                   style={{ textDecoration: 'none', color: 'inherit', cursor: 'pointer', display: 'grid', gridTemplateColumns: '132px 1fr', gap: '1.4rem', alignItems: 'center', padding: '1.6rem 0' }}>
                   <div style={{ aspectRatio: '1', overflow: 'hidden', background: paperDeep }}>
-                    <div className="epi-feature-img" style={{ width: '100%', height: '100%', backgroundImage: `url(${a.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
+                    <div className="epi-feature-img" style={{ width: '100%', height: '100%', backgroundImage: `url(/images/opt/${stem(a.image)}-1600.webp), url(${a.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} />
                   </div>
                   <div>
                     <h4 className="epi-feature-title" style={{ fontFamily: serif, fontWeight: 500, fontSize: 'clamp(1.25rem, 1.7vw, 1.6rem)', lineHeight: 1.15, letterSpacing: '-.005em', margin: 0, color: ink }}>{a.title}</h4>

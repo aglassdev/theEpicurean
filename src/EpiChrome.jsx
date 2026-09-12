@@ -242,18 +242,35 @@ export const EpiFooter = () => {
         maxWidth: '1280px', margin: '0 auto',
         display: 'grid', gridTemplateColumns: '1.4fr 1fr', gap: '3rem', alignItems: 'flex-start',
       }}>
-        <div>
-          <div style={{
-            fontFamily: tokens.serif, fontSize: '28px', fontWeight: 500,
-            letterSpacing: '.14em', textTransform: 'uppercase', color: tokens.paper, marginBottom: '1.25rem',
-          }}>The Epicurean</div>
-          <p style={{
-            fontFamily: tokens.body, fontStyle: 'normal', fontSize: '1.05rem',
-            color: '#C9C3B5', lineHeight: 1.6, maxWidth: '340px', margin: 0,
-          }}>
-            A compendium of the world's finest tables, refined from a hundred sources into one definitive guide.
-          </p>
-        </div>
+          {/* The monogram stands to the left of the whole block, name and
+              paragraph together, and takes its height from them: stretch on both
+              sides, so the E is exactly as tall as the text beside it however
+              that text wraps. It carries no alt — the name is written out. */}
+          <div style={{ display: 'flex', alignItems: 'stretch', gap: '1.5rem' }}>
+            {/* Absolutely placed inside a stretched box so the mark contributes
+                no height of its own. The text beside it sets how tall the block
+                is and the E fills that, rather than a 398px image forcing the
+                footer open. */}
+            <div style={{ position: 'relative', alignSelf: 'stretch', width: 'clamp(76px, 8vw, 108px)', flex: '0 0 auto' }}>
+              <img
+                src="/images/E.png" alt="" aria-hidden
+                style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'contain', objectPosition: 'left center' }}
+              />
+            </div>
+            <div>
+              <div style={{
+                fontFamily: tokens.serif, fontSize: '28px', fontWeight: 500,
+                letterSpacing: '.14em', textTransform: 'uppercase', color: tokens.paper,
+                marginBottom: '1.25rem',
+              }}>The Epicurean</div>
+              <p style={{
+                fontFamily: tokens.body, fontStyle: 'normal', fontSize: '1.05rem',
+                color: '#C9C3B5', lineHeight: 1.6, maxWidth: '340px', margin: 0,
+              }}>
+                A compendium of the world's finest tables, refined from a hundred sources into one definitive guide.
+              </p>
+            </div>
+          </div>
         <div>
           <div style={{
             fontFamily: tokens.sans, fontSize: '10px', letterSpacing: '.34em',
