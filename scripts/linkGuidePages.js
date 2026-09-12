@@ -219,7 +219,7 @@ const findRoute = (name, city, country, address) => {
  * mistake and is left exactly as it is.
  */
 const FILED_INSIDE = {
-  uk: ['scotland', 'wales', 'england', 'northern-ireland'],
+  uk: ['scotland', 'wales', 'england'],
   china: ['hong-kong', 'macau', 'macao'],
 };
 

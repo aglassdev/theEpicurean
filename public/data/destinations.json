@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-12T19:16:27.753Z",
+  "generatedAt": "2026-09-12T21:42:54.076Z",
   "totals": {
-    "countries": 131,
+    "countries": 132,
     "cities": 7996,
-    "restaurants": 31084,
+    "restaurants": 31082,
     "atlas": {
-      "restaurants": 31029
+      "restaurants": 31028
     }
   },
   "countries": [
@@ -17921,11 +17921,6 @@
               "count": 1
             },
             {
-              "name": "Belfast",
-              "path": "/ireland/ireland/belfast/restaurants",
-              "count": 4
-            },
-            {
               "name": "Blacklion",
               "path": "/ireland/blacklion/blacklion/restaurants",
               "count": 1
@@ -17984,21 +17979,6 @@
               "name": "Cork",
               "path": "/ireland/cork/cork/restaurants",
               "count": 5
-            },
-            {
-              "name": "Country Tyrone",
-              "path": "/ireland/ireland/country-tyrone/restaurants",
-              "count": 1
-            },
-            {
-              "name": "County Antrim",
-              "path": "/ireland/ireland/county-antrim/restaurants",
-              "count": 1
-            },
-            {
-              "name": "County Down",
-              "path": "/ireland/ireland/county-down/restaurants",
-              "count": 2
             },
             {
               "name": "County Laois",
@@ -18166,11 +18146,11 @@
               "count": 1
             }
           ],
-          "count": 154
+          "count": 146
         }
       ],
-      "cityCount": 59,
-      "count": 154
+      "cityCount": 55,
+      "count": 146
     },
     {
       "name": "Israel",
@@ -27296,6 +27276,69 @@
       "count": 3
     },
     {
+      "name": "Northern Ireland",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Ballymena",
+              "path": "/northern-ireland/ballymena/ballymena/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Belfast",
+              "path": "/northern-ireland/belfast/belfast/restaurants",
+              "count": 18
+            },
+            {
+              "name": "Clogher",
+              "path": "/northern-ireland/clogher/clogher/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Crawfordsburn",
+              "path": "/northern-ireland/crawfordsburn/crawfordsburn/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Dundrum",
+              "path": "/northern-ireland/dundrum/dundrum/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Enniskillen",
+              "path": "/northern-ireland/enniskillen/enniskillen/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Hillsborough",
+              "path": "/northern-ireland/hillsborough/hillsborough/restaurants",
+              "count": 1
+            },
+            {
+              "name": "Holywood",
+              "path": "/northern-ireland/holywood/holywood/restaurants",
+              "count": 2
+            },
+            {
+              "name": "Londonderry",
+              "path": "/northern-ireland/londonderry/londonderry/restaurants",
+              "count": 2
+            },
+            {
+              "name": "Moira",
+              "path": "/northern-ireland/moira/moira/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 29
+        }
+      ],
+      "cityCount": 10,
+      "count": 29
+    },
+    {
       "name": "Norway",
       "regions": [
         {
@@ -34412,11 +34455,6 @@
               "count": 1
             },
             {
-              "name": "Belfast",
-              "path": "/uk/belfast/belfast/restaurants",
-              "count": 15
-            },
-            {
               "name": "Berrynarbor",
               "path": "/uk/berrynarbor/berrynarbor/restaurants",
               "count": 1
@@ -34972,11 +35010,6 @@
               "count": 2
             },
             {
-              "name": "Dundrum",
-              "path": "/uk/dundrum/dundrum/restaurants",
-              "count": 2
-            },
-            {
               "name": "Dunmow",
               "path": "/uk/dunmow/dunmow/restaurants",
               "count": 1
@@ -35044,11 +35077,6 @@
             {
               "name": "Emsworth",
               "path": "/uk/emsworth/emsworth/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Enniskillen",
-              "path": "/uk/enniskillen/enniskillen/restaurants",
               "count": 1
             },
             {
@@ -35432,11 +35460,6 @@
               "count": 1
             },
             {
-              "name": "Holywood",
-              "path": "/uk/holywood/holywood/restaurants",
-              "count": 2
-            },
-            {
               "name": "Horley",
               "path": "/uk/horley/horley/restaurants",
               "count": 1
@@ -35777,11 +35800,6 @@
               "count": 1
             },
             {
-              "name": "Londonderry",
-              "path": "/uk/londonderry/londonderry/restaurants",
-              "count": 2
-            },
-            {
               "name": "Looe",
               "path": "/uk/looe/looe/restaurants",
               "count": 2
@@ -35934,11 +35952,6 @@
             {
               "name": "Mitton",
               "path": "/uk/mitton/mitton/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Moira",
-              "path": "/uk/moira/moira/restaurants",
               "count": 1
             },
             {
@@ -37182,7 +37195,7 @@
               "count": 1
             }
           ],
-          "count": 960
+          "count": 937
         },
         {
           "name": "Channel Islands",
@@ -37603,8 +37616,8 @@
           "count": 46
         }
       ],
-      "cityCount": 669,
-      "count": 2455
+      "cityCount": 663,
+      "count": 2432
     },
     {
       "name": "United States",

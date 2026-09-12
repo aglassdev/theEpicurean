@@ -192,6 +192,30 @@ export const PLACE_FIXES = [
     lat: 37.380143,
     lng: -122.115692,
   },
+  {
+    // The city fallback asked for "Playa del Carmen" and answered near Mexicali
+    // on the California line, three thousand kilometres up the wrong coast. The
+    // restaurant is inside Chable Maroma, at Km 51 of the Cancun-Tulum highway,
+    // which is Punta Maroma.
+    name: 'Bu\u2019ul',
+    country: /mexico|united states|usa/i,
+    city: 'Playa del Carmen',
+    countryName: 'Mexico',
+    address: 'Carretera Federal Cancun - Tulum Km. 51, Punta Maroma, Playa del Carmen, 77710, Mexico',
+    lat: 20.737543,
+    lng: -86.967237,
+  },
+  {
+    // the50 had the latitude right and the longitude as -1.69 instead of 2.79,
+    // which put a restaurant in the Aude on the Spanish side of the Basque
+    // coast. OpenStreetMap has it by name at the address it publishes.
+    name: "L'Auberge du Vieux Puits",
+    country: /france/i,
+    city: 'Fontjoncouse',
+    address: '5 Avenue de Saint-Victor, Fontjoncouse, 11360, France',
+    lat: 43.04859,
+    lng: 2.788613,
+  },
 ];
 
 const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();

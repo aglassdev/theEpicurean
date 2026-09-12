@@ -29,7 +29,10 @@ export const countrySlugFrom = (raw) => {
   if (/^us$|\busa\b|united[\s-]states/.test(s)) return 'usa';
   if (/hong[\s-]kong/.test(s)) return 'hong-kong';
   if (/macau|macao/.test(s)) return 'macau';
-  if (/united[\s-]kingdom|england|scotland|wales|northern[\s-]ireland|\buk\b/.test(s)) return 'uk';
+  // Northern Ireland is its own country in the guide, with its own tree, so it
+  // has to be tested before the United Kingdom rule swallows it.
+  if (/northern[\s-]ireland|\bulster\b/.test(s)) return 'northern-ireland';
+  if (/united[\s-]kingdom|england|scotland|wales|\buk\b/.test(s)) return 'uk';
   if (/republic[\s-]of[\s-]ireland|^ireland$/.test(s)) return 'ireland';
   if (/south[\s-]korea|\bkorea\b/.test(s)) return 'south-korea';
   if (/czech/.test(s)) return 'czechia';
