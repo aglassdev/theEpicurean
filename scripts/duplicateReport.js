@@ -26,6 +26,7 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const GEO = path.join(ROOT, 'public', 'data', 'restaurants-geo.json');
+const COMPONENTS = path.join(ROOT, 'public', 'components');
 const OUT = path.join(ROOT, 'reports', 'duplicate-restaurants.txt');
 const FIX = process.argv.includes('--fix');
 const quiet = process.argv.includes('--quiet');
@@ -65,8 +66,17 @@ for (const r of placed) {
   byPage.get(r.p).push(r);
 }
 
+/**
+ * A trailing parenthetical is sometimes the kind of place and sometimes which
+ * branch of it. "Lost & Found (Bar)" is the same bar as "Lost & Found"; "Xin
+ * Rong Ji (Jinrong Street)" is not the same restaurant as "(Jianguomenwai
+ * Street)". Only the first sort comes off.
+ */
+const TYPE_SUFFIX = /\((bar|bars|restaurant|restaurants|cafe|café|pub|bistro|hotel|inn|tavern|bakery|winery|vineyard)\)\s*$/i;
+
 /** Fold case, accents and punctuation away: "Park’s BBQ" and "Parks BBQ" match. */
-const fold = (s) => String(s || '').normalize('NFD').replace(/\p{M}+/gu, '')
+const fold = (s) => String(s || '').replace(TYPE_SUFFIX, '')
+  .normalize('NFD').replace(/\p{M}+/gu, '')
   .toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 
 /**
@@ -109,6 +119,43 @@ for (const [page, group] of byPage) {
 const surplus = sameThing.reduce((t, d) => t + d.group.length - 1, 0);
 const stranded = differentThings.reduce((t, d) => t + d.group.length - 1, 0);
 
+// ── One restaurant, two pages ───────────────────────────────────────────────
+// The other shape. Everything above looks for several pins on one page; this
+// looks for one restaurant written onto two, which happens when the name is
+// filed once with its accents stripped and once transliterated: Café Cecilia is
+// CafCecilia and CafeCecilia, Mýse is Mse and Myse.
+//
+// Bucketed on a coarse grid, so this is not every pin against every other.
+const NEAR_KM = 0.5;
+const cellOf = (r) => `${Math.round(r.lat * 200)}:${Math.round(r.lng * 200)}`;
+const grid = new Map();
+for (const r of placed) {
+  const c = cellOf(r);
+  if (!grid.has(c)) grid.set(c, []);
+  grid.get(c).push(r);
+}
+const twoPages = [];
+const pairSeen = new Set();
+for (const r of placed) {
+  if (!r.p) continue;
+  const [ca, cb] = cellOf(r).split(':').map(Number);
+  for (let da = -1; da <= 1; da++) {
+    for (let db = -1; db <= 1; db++) {
+      for (const o of grid.get(`${ca + da}:${cb + db}`) || []) {
+        if (o === r || !o.p || o.p === r.p) continue;
+        const key = [r.p, o.p].sort().join('|');
+        if (pairSeen.has(key)) continue;
+        if (!fold(r.n) || fold(r.n) !== fold(o.n)) continue;
+        const d = km(r.lat, r.lng, o.lat, o.lng);
+        if (d > NEAR_KM) continue;
+        pairSeen.add(key);
+        twoPages.push({ a: r, b: o, apart: d });
+      }
+    }
+  }
+}
+twoPages.sort((x, y) => x.apart - y.apart);
+
 // ── Report ──────────────────────────────────────────────────────────────────
 const pad = (s, n) => String(s ?? '').padEnd(n).slice(0, n);
 const rule = '─'.repeat(100);
@@ -143,6 +190,17 @@ for (const d of differentThings.sort((a, b) => b.spread - a.spread)) {
   L.push(pad(d.page, 52) + pad(`${Math.round(d.spread)} km`, 9)
     + d.group.map((r) => `${r.n} (${r.c || '?'})`).join('  ·  '));
 }
+L.push('', '', rule);
+L.push(`ONE RESTAURANT, TWO PAGES  (${twoPages.length})`);
+L.push('Same name, pins within half a kilometre, filed twice. Nearly always one');
+L.push('spelling that kept its accents and one that did not.');
+L.push(rule);
+L.push(pad('NAME', 34) + pad('CITY', 18) + pad('APART', 8) + 'THE TWO PAGES');
+L.push('');
+for (const t of twoPages) {
+  L.push(pad(t.a.n, 34) + pad(t.a.c, 18) + pad(`${Math.round(t.apart * 1000)}m`, 8)
+    + `${t.a.p}  ·  ${t.b.p}`);
+}
 L.push('');
 
 fs.mkdirSync(path.dirname(OUT), { recursive: true });
@@ -173,15 +231,58 @@ if (FIX) {
     for (const r of d.group) if (r !== keep) { delete r.p; unlinked++; }
   }
 
+  // One restaurant on two pages: keep the fuller page and let the other go.
+  let folded = 0;
+  for (const { a, b } of twoPages) {
+    if (drop.has(a) || drop.has(b)) continue;
+    const weigh = (r) => {
+      try {
+        const d = JSON.parse(fs.readFileSync(path.join(COMPONENTS, `${r.p}.json`.slice(1)), 'utf8'));
+        // A page that says more about the restaurant is the one worth keeping,
+        // and a name that kept its accents is the better spelling of it.
+        return Object.values(d).filter((v) => (Array.isArray(v) ? v.length : String(v || '').trim())).length
+          + (/[^\x00-\x7F]/.test(d.restaurantName || '') ? 2 : 0);
+      } catch { return -1; }
+    };
+    const keep = weigh(a) >= weigh(b) ? a : b;
+    const lose = keep === a ? b : a;
+
+    // The fuller page is the one to keep, but the better spelling of the name is
+    // not always on it: Café Cecilia arrived twice, and the page that said more
+    // about the restaurant was the one that had lost its accent.
+    const accented = (x) => /[^\x00-\x7F]/.test(x || '');
+    if (accented(lose.n) && !accented(keep.n)) {
+      keep.n = lose.n;
+      const kf = path.join(COMPONENTS, `${keep.p}.json`.slice(1));
+      try {
+        const d = JSON.parse(fs.readFileSync(kf, 'utf8'));
+        if (!accented(d.restaurantName)) {
+          d.restaurantName = lose.n;
+          if (d.pageTitle && !accented(d.pageTitle)) d.pageTitle = lose.n;
+          fs.writeFileSync(kf, JSON.stringify(d, null, 2));
+        }
+      } catch { /* the page is gone; the record still carries the name */ }
+    }
+
+    const file = path.join(COMPONENTS, `${lose.p}.json`.slice(1));
+    if (fs.existsSync(file)) fs.unlinkSync(file);
+    drop.add(lose);
+    folded++;
+  }
+
   geo.restaurants = geo.restaurants.filter((r) => !drop.has(r));
   geo.count = geo.restaurants.filter((r) => r.lng != null).length;
   fs.writeFileSync(GEO, JSON.stringify(geo));
-  if (!quiet) console.log(`  unlinked from a page that was not theirs: ${unlinked}`);
+  if (!quiet) {
+    console.log(`  unlinked from a page that was not theirs: ${unlinked}`);
+    console.log(`  one restaurant on two pages, folded into one: ${folded}`);
+  }
 }
 
 if (!quiet) {
   console.log(`\n  ${sameThing.length} pages hold one restaurant twice or more  (${surplus} surplus pins)`);
   console.log(`  ${differentThings.length} pages are shared by restaurants that are not the same  (${stranded} stranded)`);
+  console.log(`  ${twoPages.length} restaurants are written onto two pages`);
   if (FIX) console.log(`  merged: ${surplus} records removed, ${geo.count.toLocaleString()} pins left`);
   console.log(`  → ${path.relative(ROOT, OUT)}\n`);
 }

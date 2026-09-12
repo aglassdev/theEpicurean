@@ -1,21 +1,19 @@
 THE EPICUREAN · DUPLICATE CHECK
-Generated 2026-09-10 from public/data/restaurants-geo.json
+Generated 2026-09-12 from public/data/restaurants-geo.json
 
-  29,145 atlas pins across 29,143 pages
+  29,108 atlas pins across 29,108 pages
 
-  2 pages hold the same restaurant more than once  (2 surplus pins)
+  0 pages hold the same restaurant more than once  (0 surplus pins)
   0 pages are shared by restaurants that are not the same  (0 without a page of their own)
 
 
 ────────────────────────────────────────────────────────────────────────────────────────────────────
-ONE RESTAURANT, SEVERAL RECORDS  (2)
+ONE RESTAURANT, SEVERAL RECORDS  (0)
 The pins sit within a kilometre of each other, so this is one place whose
 address was written two ways. Safe to merge; --fix does it.
 ────────────────────────────────────────────────────────────────────────────────────────────────────
 RESTAURANT                        APART   THE ADDRESSES IT IS FILED UNDER
 
-Alma Toronto                      25m     1194 Bloor St W, Toronto, ON M6H 1N2, Canada  ·  1194 Bloor St West, Toronto, Toronto,
-LOWE Dubai                        205m    KOA Canvas - Legends - Dubai - United Arab Emirates  ·  KOA Canvas, Legends, Dubai,
 
 
 ────────────────────────────────────────────────────────────────────────────────────────────────────
@@ -24,4 +22,13 @@ These are different places sharing a name inside one country, so the linker
 gave them all the first page it found. Each needs its own; --fix leaves them.
 ────────────────────────────────────────────────────────────────────────────────────────────────────
 PAGE                                                APART    THE RESTAURANTS ON IT
+
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+ONE RESTAURANT, TWO PAGES  (0)
+Same name, pins within half a kilometre, filed twice. Nearly always one
+spelling that kept its accents and one that did not.
+────────────────────────────────────────────────────────────────────────────────────────────────────
+NAME                              CITY              APART   THE TWO PAGES
 
