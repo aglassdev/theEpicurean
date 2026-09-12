@@ -105,9 +105,21 @@ const sameCity = (a, b) => {
  * Betsy is the counter-example the test has to survive. Washington and Los
  * Angeles are not the same town, so those stay two restaurants.
  */
+/** A record with no city of its own: does the other's town appear in its address? */
+const townInAddress = (a, b) => {
+  const town = fold(b.c).replace(/\s+/g, '');
+  return !!town && fold(a.a).replace(/\s+/g, '').includes(town);
+};
+
 const oneRestaurant = (group) =>
   spread(group) < SAME_PLACE_KM
-  || group.every((r) => bareName(r) === bareName(group[0]) && sameCity(r, group[0]));
+  || group.every((r) => bareName(r) === bareName(group[0])
+    // A few records carry no city at all. Amazónico is filed twice in Dubai,
+    // once with the city named and once with it only in the address, and the
+    // two coordinates are thirty kilometres apart. 99 Sushi Bar looks the same
+    // until you read the addresses: one is on Al Maryah Island in Abu Dhabi and
+    // the other on Sheikh Mohammed bin Rashid Boulevard, and they are two bars.
+    && (sameCity(r, group[0]) || townInAddress(r, group[0]) || townInAddress(group[0], r)));
 
 const sameThing = [];   // one restaurant, several records
 const differentThings = []; // several restaurants, one page
