@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T21:42:54.076Z",
+  "generatedAt": "2026-09-12T22:10:49.388Z",
   "totals": {
     "countries": 132,
-    "cities": 7996,
-    "restaurants": 31082,
+    "cities": 7992,
+    "restaurants": 31081,
     "atlas": {
       "restaurants": 31028
     }
@@ -2381,30 +2381,15 @@
           "name": null,
           "cities": [
             {
-              "name": "Adliya",
-              "path": "/bahrain/adliya/adliya/restaurants",
-              "count": 3
-            },
-            {
-              "name": "Al Markh",
-              "path": "/bahrain/al-markh/al-markh/restaurants",
-              "count": 1
-            },
-            {
               "name": "Manama",
               "path": "/bahrain/manama/manama/restaurants",
-              "count": 13
-            },
-            {
-              "name": "Seef",
-              "path": "/bahrain/seef/seef/restaurants",
-              "count": 3
+              "count": 20
             }
           ],
           "count": 20
         }
       ],
-      "cityCount": 4,
+      "cityCount": 1,
       "count": 20
     },
     {
@@ -5019,14 +5004,9 @@
               "count": 1
             },
             {
-              "name": "Qubec City",
-              "path": "/canada/qubec-city/qubec-city/restaurants",
-              "count": 10
-            },
-            {
               "name": "Québec",
               "path": "/canada/qubec/qubec/restaurants",
-              "count": 36
+              "count": 45
             },
             {
               "name": "Regina",
@@ -5224,11 +5204,11 @@
               "count": 6
             }
           ],
-          "count": 657
+          "count": 656
         }
       ],
-      "cityCount": 102,
-      "count": 657
+      "cityCount": 101,
+      "count": 656
     },
     {
       "name": "Caribbean Netherlands",
@@ -37315,7 +37295,7 @@
               "count": 36
             },
             {
-              "name": "Kensington Chelsea",
+              "name": "Kensington & Chelsea",
               "path": "/uk/london/kensington-chelsea/restaurants",
               "count": 29
             },
@@ -37325,7 +37305,7 @@
               "count": 21
             },
             {
-              "name": "Marylebone Paddington",
+              "name": "Marylebone & Paddington",
               "path": "/uk/london/marylebone-paddington/restaurants",
               "count": 11
             },
@@ -37365,7 +37345,7 @@
               "count": 19
             },
             {
-              "name": "Victoria Westminster",
+              "name": "Victoria & Westminster",
               "path": "/uk/london/victoria-westminster/restaurants",
               "count": 10
             },
@@ -37479,12 +37459,12 @@
               "count": 20
             },
             {
-              "name": "Oxford Oxfordshire",
+              "name": "Oxford & Oxfordshire",
               "path": "/uk/south-east/oxford-oxfordshire/restaurants",
               "count": 11
             },
             {
-              "name": "Surrey​",
+              "name": "Surrey",
               "path": "/uk/south-east/surrey/restaurants",
               "count": 30
             },

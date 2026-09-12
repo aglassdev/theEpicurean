@@ -257,6 +257,14 @@ const CITY_ALIASES = {
   // the city: "Gwangju-Si, Gyeonggi-Do, South Korea". Gyeonggi-do is the province
   // Gwangju-si sits in.
   'south-korea/gyeonggi-do': 'Gwangju-si',
+  // Three districts of Manama filed as towns. The addresses give them away:
+  // Adliya and Seef both end "…, Manama", and Manama's own list already holds
+  // tables on Block 338 in Adliya and Block 428 in Seef. Al Markh is over the
+  // causeway in the Northern Governorate, close enough that a traveller reads
+  // the whole of it as Manama.
+  'bahrain/adliya': 'Manama',
+  'bahrain/seef': 'Manama',
+  'bahrain/al-markh': 'Manama',
   // Every address there writes it AlUla, so that is what the guide recovered.
   'saudi-arabia/alula': 'al-Ula',
   // One town, two spellings. Both its tables are at the Blue Lagoon.
@@ -268,6 +276,16 @@ const CITY_ALIASES = {
   'taiwan/tainan-city': 'Tainan',
   'taiwan/kaohsiung-city': 'Kaohsiung',
   'canada/quebec-city': 'Québec',
+  // The accent was already gone from the directory, so the alias above never
+  // reached it and Canada listed a Québec and a "Qubec City".
+  'canada/qubec-city': 'Québec',
+  'canada/qubec': 'Québec',
+  // An ampersand cannot survive a slug, and titleCase cannot put it back, so
+  // these four read as two place names run together.
+  'uk/kensington-chelsea': 'Kensington & Chelsea',
+  'uk/marylebone-paddington': 'Marylebone & Paddington',
+  'uk/victoria-westminster': 'Victoria & Westminster',
+  'uk/oxford-oxfordshire': 'Oxford & Oxfordshire',
   'ireland/dublin-city': 'Dublin',
   'uk/glasgow-city': 'Glasgow',
   'usa/new-york-city': 'New York',
@@ -294,7 +312,9 @@ const slugifyLoose = (t) => (t || '').toLowerCase()
 function cityNameFromAddresses(citySlug, addresses) {
   const fields = [];
   for (const a of addresses) {
-    for (const f of String(a).split(',')) if (f.trim()) fields.push(f.trim());
+    // Two Surrey addresses carry a zero-width space, which survives every visible
+    // test and put a city called "Surrey\u200B" on the destinations page.
+    for (const f of String(a).replace(/[\u200B-\u200D\uFEFF]/g, '').split(',')) if (f.trim()) fields.push(f.trim());
   }
   const spellsTheCity = (t) => slugifyLoose(t) === citySlug && t !== titleCase(citySlug);
 

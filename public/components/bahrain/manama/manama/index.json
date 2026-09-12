@@ -8,9 +8,21 @@
   "citySlug": "manama",
   "path": "/bahrain/manama/manama/restaurants",
   "canonicalPath": "/bahrain/manama/manama/restaurants",
-  "count": 13,
+  "count": 20,
   "hero": "/images/manamaheader.png",
   "restaurants": [
+    {
+      "name": "Café Lilou",
+      "cuisine": "",
+      "price": "Average price per person $80",
+      "path": "/bahrain/seef/seef/caf-lilou"
+    },
+    {
+      "name": "Cantina Kahlo",
+      "cuisine": "",
+      "price": "Average price per person $90",
+      "path": "/bahrain/seef/seef/cantina-kahlo"
+    },
     {
       "name": "Clay",
       "cuisine": "",
@@ -18,10 +30,22 @@
       "path": "/bahrain/manama/manama/clay"
     },
     {
+      "name": "Fatto",
+      "cuisine": "",
+      "price": "Average price per person $60",
+      "path": "/bahrain/seef/seef/fatto"
+    },
+    {
       "name": "Fusions by Tala",
       "cuisine": "",
       "price": "",
       "path": "/bahrain/manama/manama/fusions-by-tala"
+    },
+    {
+      "name": "L'Orto",
+      "cuisine": "",
+      "price": "Average price per person $77",
+      "path": "/bahrain/adliya/adliya/lorto"
     },
     {
       "name": "La Table Krug",
@@ -60,6 +84,18 @@
       "path": "/bahrain/manama/manama/mirai"
     },
     {
+      "name": "Monsoon",
+      "cuisine": "",
+      "price": "",
+      "path": "/bahrain/adliya/adliya/monsoon"
+    },
+    {
+      "name": "My Cafe",
+      "cuisine": "",
+      "price": "Average price per person $70",
+      "path": "/bahrain/adliya/adliya/my-cafe"
+    },
+    {
       "name": "PLUMS",
       "cuisine": "",
       "price": "",
@@ -88,6 +124,12 @@
       "cuisine": "",
       "price": "Average price per person $100",
       "path": "/bahrain/manama/manama/the-meat-company"
+    },
+    {
+      "name": "Villas Mamas",
+      "cuisine": "",
+      "price": "Average price per person $52",
+      "path": "/bahrain/al-markh/al-markh/villas-mamas"
     }
   ]
 }
