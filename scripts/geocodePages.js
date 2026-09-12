@@ -75,10 +75,20 @@ async function viaCensus(q) {
   return { lat: +m.coordinates.y.toFixed(6), lng: +m.coordinates.x.toFixed(6), acc: 'census' };
 }
 
-async function viaPhoton(q) {
-  const p = new URLSearchParams({ q, limit: '1', lang: 'en' });
+/**
+ * Photon takes no country filter, so it will answer "Kalkara" with a hamlet in
+ * upstate New York and "Lampedusa" with a road in Texas, and the fallback took
+ * those because they were the only answer left. It does return a countrycode
+ * with every feature, so ask for several and keep the first one that is in the
+ * country we already know the restaurant is in.
+ */
+async function viaPhoton(q, iso) {
+  const p = new URLSearchParams({ q, limit: iso ? '8' : '1', lang: 'en' });
   const d = await paced(`https://photon.komoot.io/api/?${p}`, JSON_HEADERS);
-  const f = d && d.features && d.features[0];
+  const feats = (d && d.features) || [];
+  const f = iso
+    ? feats.find((x) => String(x.properties?.countrycode || '').toLowerCase() === iso.toLowerCase())
+    : feats[0];
   if (!f) return null;
   const [lng, lat] = f.geometry.coordinates;
   return { lat: +lat.toFixed(6), lng: +lng.toFixed(6), acc: 'photon' };
@@ -179,14 +189,14 @@ for (const [i, t] of work.entries()) {
   let hit = await viaNominatim(t.address, t.iso);
   if (!hit && t.isUS) hit = await viaCensus(t.address);
   if (!hit) hit = await viaNominatim(simplify(t.address, t.city, t.country), t.iso);
-  if (!hit) hit = await viaPhoton(t.address);
+  if (!hit) hit = await viaPhoton(t.address, t.iso);
 
   let ap = false;
   if (!hit) {
     // Last resort: the town. Marked approximate, the way the atlas already
     // marks the 1,079 others it could only place at a city centre.
     const t2 = tail(t.address);
-    hit = t2 ? await viaNominatim(t2, t.iso) || await viaPhoton(t2) : null;
+    hit = t2 ? await viaNominatim(t2, t.iso) || await viaPhoton(t2, t.iso) : null;
     if (hit) { hit.acc = 'city'; ap = true; }
   }
 

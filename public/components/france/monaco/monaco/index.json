@@ -8,63 +8,56 @@
   "citySlug": "monaco",
   "path": "/france/monaco/monaco/restaurants",
   "canonicalPath": "/monaco/monaco/monaco/restaurants",
-  "count": 22,
+  "count": 18,
   "hero": "/images/monacoheader.png",
   "restaurants": [
     {
       "name": "Le Louis XV - Alain Ducasse à l'Hôtel de Paris",
       "cuisine": "Mediterranean Cuisine, Modern Cuisine",
       "price": "€€€€",
-      "path": "/france/monaco/monaco/le-louis-xv-alain-ducasse-lhtel-de-paris",
+      "path": "/monaco/monaco/monaco/le-louis-xv-alain-ducasse-lhtel-de-paris",
       "award": "★★★"
     },
     {
       "name": "Blue Bay Marcel Ravin",
       "cuisine": "Creative",
       "price": "€€€€",
-      "path": "/france/monaco/monaco/blue-bay-marcel-ravin",
+      "path": "/monaco/monaco/monaco/blue-bay-marcel-ravin",
       "award": "★★"
     },
     {
       "name": "L'Abysse Monte-Carlo",
       "cuisine": "Japanese",
       "price": "€€€€",
-      "path": "/france/monaco/monaco/labysse-montecarlo",
+      "path": "/monaco/monaco/monaco/labysse-montecarlo",
       "award": "★★"
     },
     {
       "name": "Les Ambassadeurs by Christophe Cussac",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/france/monaco/monaco/les-ambassadeurs-by-christophe-cussac",
+      "path": "/monaco/monaco/monaco/les-ambassadeurs-by-christophe-cussac",
       "award": "★★"
     },
     {
       "name": "Elsa",
       "cuisine": "Mediterranean Cuisine",
       "price": "€€€€",
-      "path": "/france/monaco/monaco/elsa",
-      "award": "★"
-    },
-    {
-      "name": "Elsa Marcel Ravin",
-      "cuisine": "Mediterranean Cuisine",
-      "price": "€€€€",
-      "path": "/monaco/monaco/monaco/elsa-marcel-ravin",
+      "path": "/monaco/monaco/monaco/elsa",
       "award": "★"
     },
     {
       "name": "La Table d'Antonio Salvatore au Rampoldi",
       "cuisine": "Italian, Creative",
       "price": "€€€€",
-      "path": "/france/monaco/monaco/la-table-dantonio-salvatore-au-rampoldi",
+      "path": "/monaco/monaco/monaco/la-table-dantonio-salvatore-au-rampoldi",
       "award": "★"
     },
     {
       "name": "Le Grill",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
-      "path": "/france/monaco/monaco/le-grill",
+      "path": "/monaco/monaco/monaco/le-grill",
       "award": "★"
     },
     {
@@ -75,17 +68,10 @@
       "award": "★"
     },
     {
-      "name": "Pavyllon, un restaurant de Yannick Alléno, Monte-Carlo",
-      "cuisine": "Modern Cuisine, Creative",
-      "price": "€€€€",
-      "path": "/france/monaco/monaco/pavyllon-un-restaurant-de-yannick-allno-montecarlo",
-      "award": "★"
-    },
-    {
       "name": "Robuchon Monaco",
       "cuisine": "Modern Cuisine",
       "price": "$$$$",
-      "path": "/principality-of-monaco/monaco/monaco/robuchon-monaco",
+      "path": "/monaco/monaco/monaco/robuchon-monaco",
       "award": "★"
     },
     {
@@ -96,65 +82,52 @@
       "award": "World's 50 Best"
     },
     {
-      "name": "Le Louis XV",
-      "cuisine": "",
-      "price": "",
-      "path": "/monaco/monaco/monaco/le-louis-xv",
-      "award": "World's 50 Best"
-    },
-    {
       "name": "Beefbar",
       "cuisine": "Meats and Grills",
       "price": "€€€",
-      "path": "/france/monaco/monaco/beefbar-m-o-n"
+      "path": "/monaco/monaco/monaco/beefbar-m-o-n"
     },
     {
       "name": "Café de Paris",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
-      "path": "/france/monaco/monaco/caf-de-paris"
+      "path": "/monaco/monaco/monaco/caf-de-paris"
     },
     {
       "name": "Em Sherif",
       "cuisine": "Lebanese",
       "price": "€€€€",
-      "path": "/france/monaco/monaco/em-sherif"
+      "path": "/monaco/monaco/monaco/em-sherif"
     },
     {
       "name": "La Table d'Élise",
-      "cuisine": "Provençal",
+      "cuisine": "Traditional Cuisine, Mediterranean Cuisine",
       "price": "€€€",
-      "path": "/france/monaco/monaco/la-table-dlise"
+      "path": "/monaco/monaco/monaco/la-table-dlise"
     },
     {
       "name": "Marius",
       "cuisine": "Provençal",
       "price": "€€€",
-      "path": "/france/monaco/monaco/marius"
-    },
-    {
-      "name": "Pavyllon",
-      "cuisine": "",
-      "price": "Average price per person $156",
-      "path": "/monaco/monte-carlo/monte-carlo/pavyllon"
+      "path": "/monaco/monaco/monaco/marius"
     },
     {
       "name": "Song Qi",
       "cuisine": "Asian, Chinese",
       "price": "€€€",
-      "path": "/france/monaco/monaco/song-qi"
+      "path": "/monaco/monaco/monaco/song-qi"
     },
     {
       "name": "Yoshi",
       "cuisine": "Japanese",
       "price": "€€€€",
-      "path": "/france/monaco/monaco/yoshi"
+      "path": "/monaco/monaco/monaco/yoshi"
     },
     {
       "name": "Zeffirino",
       "cuisine": "Italian",
       "price": "€€€",
-      "path": "/france/monaco/monaco/zeffirino-m-o-n"
+      "path": "/monaco/monaco/monaco/zeffirino-m-o-n"
     }
   ]
 }

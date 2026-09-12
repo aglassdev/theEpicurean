@@ -78,9 +78,19 @@ async function geocode(q) {
 const geo = JSON.parse(fs.readFileSync(GEO, 'utf8'));
 const placed = (geo.restaurants || []).filter((r) => r.lng != null);
 
+/**
+ * Grouped by the page the restaurant sits on, not by the words in its city
+ * field. There are two Portlands, two Lancasters and three Jacksons in the
+ * guide, and lumping them together put the median in the middle of the country:
+ * every Portland, Maine pin then read as four thousand kilometres from
+ * "Portland" and eighty perfectly good pins looked broken. The page path is the
+ * guide's own answer to which Portland this is, and it is already normalised.
+ */
+const cityKey = (r) => (r.p ? r.p.slice(0, r.p.lastIndexOf('/')) : `${r.c || ''}||${r.co || ''}`);
+
 const byCity = new Map();
 for (const r of placed) {
-  const k = `${r.c || ''}||${r.co || ''}`;
+  const k = cityKey(r);
   if (!byCity.has(k)) byCity.set(k, []);
   byCity.get(k).push(r);
 }
@@ -105,8 +115,16 @@ if (FIX) {
     const q = simplify(s.r);
     const hit = q ? await geocode(q) : null;
     const after = hit ? km(hit.lat, hit.lng, s.cLat, s.cLng) : Infinity;
-    // Only take an answer that is nearer the city than what we already had.
-    if (hit && after < s.away) {
+    /*
+     * Nearer is not the same as right. Aurum in Los Altos, California had been
+     * linked to a namesake's page in Gmunden, so its city was read as Gmunden
+     * and a new answer in Buffalo, New York counted as an improvement: six
+     * thousand kilometres out instead of nine. It has to actually land near the
+     * city to be taken, which also means a record attached to the wrong city
+     * gets left alone and shows up in the report rather than being dragged
+     * halfway towards a place it was never in.
+     */
+    if (hit && after < s.away && after <= LIMIT_KM) {
       Object.assign(s.r, { lat: hit.lat, lng: hit.lng, acc: hit.acc });
       delete s.r.ap;
       moved++;

@@ -259,22 +259,22 @@ const RestaurantPage = ({
   );
 };
 
-const LeLouisXvAlainDucasseLhtelDeParis = () => (
+const Elsa = () => (
   <RestaurantPage
-    restaurantName="Le Louis XV - Alain Ducasse à l'Hôtel de Paris"
-    address="Place du Casino, Monaco, 98000, France"
-    cuisine="Mediterranean Cuisine, Modern Cuisine"
+    restaurantName="Elsa"
+    address="Monte-Carlo Beach, avenue Princesse-Grace, Roquebrune-Cap-Martin, Monaco, 98000, Principality of Monaco"
+    cuisine="Mediterranean Cuisine"
     priceRange="€€€€"
-    phoneNumber="+37798068864"
-    website="https://www.ducasse-paris.com/"
+    phoneNumber="+37798065005"
+    website="https://www.montecarlosbm.com/fr/restaurant-monaco/elsa"
     tags={[]}
     awards={[
-      { name: "Michelin Stars", count: 3, year: "2025", organization: "Guide Michelin" }
+      { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }
     ].filter(Boolean)}
-    bio="It is difficult to present the Louis XV without mentioning Alain Ducasse. You need a raft of superlatives to describe his impact. This native of Orthez (in southwest France) with an enduring love for the Mediterranean is a brilliant chef and businessman. Now a citizen of Monaco, he also heads up an empire of over 30 establishments with a presence on every continent. He was just 33 years old when he was awarded three stars at the Louis XV after reaching an astonishing standard. His famous vegetable-based Jardins de Provence set menu, which launched here in Monaco on 27 May 1987, has been one of the touchstones of French gastronomy for the last 30 years. Here, Alain Ducasse's signature style is brought to life by his loyal right-hand man, Emmanuel Pilon, in cuisine that masterfully celebrate..."
-    googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Place%20du%20Casino%2C%20Monaco%2C%2098000%2C%20France"
-    pageTitle="Le Louis XV - Alain Ducasse à l'Hôtel de Paris"
+    bio="Established in the Monte Carlo Beach, a magnificent 1930s luxury hotel, revamped by designer India Mahdavi in a subtle Riviera vein, the culinary lineup is the work of executive chef Marcel Ravin (two stars at the Blue Bay Marcel Ravin). Talented, Italian-born chef Domenico D’Antonio sets the seafood score to music, calling upon first-class produce from the Mediterranean along the way: spider crab, white asparagus, yuzu, kiwi and fennel; John Dory, sorrel sabayon, ravioli stuffed with leeks and shellfish. Everything serves a purpose in this repertory which aims to highlight each ingredient courtesy of intelligent, high-impact seasonings. The quintessence of fine dining on a terrace facing the sea...."
+    googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Monte-Carlo%20Beach%2C%20avenue%20Princesse-Grace%2C%20Roquebrune-Cap-Martin%2C%20Monaco%2C%2098000%2C%20Principality%20of%20Monaco"
+    pageTitle="Elsa Marcel Ravin"
   />
 );
 
-export default LeLouisXvAlainDucasseLhtelDeParis;
+export default Elsa;

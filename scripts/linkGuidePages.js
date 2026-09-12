@@ -54,6 +54,44 @@ const files = fs.readdirSync(COMPONENTS, { recursive: true })
   .filter((f) => f.endsWith('.json') && !/index\.json$/.test(f) && !/(^|[\\/])Restaurants\.json$/i.test(f));
 
 const index = new Map();
+const displayNameForSlug = () => {
+  const file = path.join(ROOT, 'public/data/destinations.json');
+  const names = new Map();
+  if (!fs.existsSync(file)) return names;
+  const { countries = [] } = JSON.parse(fs.readFileSync(file, 'utf8'));
+  // Every slug the country's cities actually sit under, not just the first one:
+  // Türkiye's are split across turkey/ and trkiye/, and taking one of those left
+  // the other unmapped.
+  //
+  // The slug goes to whichever country holds most of the cities under it. One
+  // Austrian village is filed in the usa/other bucket, and on a first-one-wins
+  // rule that single page made "usa" mean Austria and relabelled five thousand
+  // American restaurants.
+  const tally = new Map();
+  for (const c of countries)
+    for (const city of c.regions?.flatMap((rg) => rg.cities || []) || []) {
+      const slug = city.path ? city.path.split('/')[1] : null;
+      if (!slug) continue;
+      if (!tally.has(slug)) tally.set(slug, new Map());
+      const m = tally.get(slug);
+      m.set(c.name, (m.get(c.name) || 0) + 1);
+    }
+  for (const [slug, m] of tally)
+    names.set(slug, [...m].sort((a, b) => b[1] - a[1])[0][0]);
+  return names;
+};
+const nameForSlug = displayNameForSlug();
+
+/**
+ * The country two things belong to, comparable across both spellings the tree
+ * uses. Directories are slugs the sources happened to write (chinese-mainland,
+ * trkiye, turkey, usa) while records carry a country name, and once a record's
+ * label has been corrected to the name the site displays, the two no longer
+ * look alike. Both sides go through the display name first, so China matches
+ * chinese-mainland and Turkiye matches both of its directories.
+ */
+const countryKey = (x) => countrySlugFrom(nameForSlug.get(String(x).toLowerCase()) || x);
+
 const add = (key, entry) => {
   if (!key) return;
   if (!index.has(key)) index.set(key, []);
@@ -65,7 +103,7 @@ for (const rel of files) {
   const base = parts[parts.length - 1].replace(/\.json$/, '');
   const cslug = (parts[parts.length - 2] || '').toLowerCase().replace(/[^a-z0-9]/g, '');
   const route = '/' + parts.join('/').replace(/\.json$/, '');
-  const entry = { route, citySlug: cslug, country: countrySlugFrom(parts[0]), name: '' };
+  const entry = { route, citySlug: cslug, country: countryKey(parts[0]), name: '' };
   add(base.toLowerCase(), entry);
   // Filenames get shortened by hand (PattyOsCafe.json holds "Patty O's Cafe &
   // Bakery"), so index the name the page actually declares as well.
@@ -87,14 +125,14 @@ console.log(`  ${files.length} detail pages · ${index.size} unique names\n`);
 const KNOWN_COUNTRIES = new Set(
   fs.readdirSync(COMPONENTS, { withFileTypes: true })
     .filter((e) => e.isDirectory())
-    .map((e) => countrySlugFrom(e.name))
+    .map((e) => countryKey(e.name))
 );
 
 // ── Enrich ──────────────────────────────────────────────────────────────────
 const geo = JSON.parse(fs.readFileSync(GEO_PATH, 'utf8'));
 const list = geo.restaurants || [];
 
-const findRoute = (name, city, country) => {
+const findRoute = (name, city, country, address) => {
   // Sources spell the same restaurant several ways: with or without a leading
   // article, "&" or "and", and sometimes with the city tacked on the end
   // ("Sushi Nakazawa Washington DC"). Try each shape before giving up.
@@ -134,8 +172,17 @@ const findRoute = (name, city, country) => {
   // A page in another country is therefore never the same restaurant. Where the
   // record's country field is unreadable or holds a city, there is nothing to
   // check against and the old behaviour stands.
-  const rc = countrySlugFrom(country);
-  const inSameCountry = cand.filter((c) => c.country === rc);
+  const rc = countryKey(country);
+  let inSameCountry = cand.filter((c) => c.country === rc);
+  // The country field is the least reliable thing on a record: it holds cities,
+  // postcodes and, where a page has been refiled, the country the restaurant
+  // used to be in. When it rules out every candidate, the tail of the address
+  // gets a say before the record is left unlinked.
+  if (!inSameCountry.length && address) {
+    const tail = String(address).split(',').map((x) => x.trim()).filter(Boolean).pop();
+    const ac = tail && countryKey(tail);
+    if (ac && ac !== rc) inSameCountry = cand.filter((c) => c.country === ac);
+  }
   const usable = inSameCountry.length ? inSameCountry
     : (rc && KNOWN_COUNTRIES.has(rc) ? [] : cand);
   if (!usable.length) return null;
@@ -156,12 +203,48 @@ const findRoute = (name, city, country) => {
   return (exact || pool[0]).route;
 };
 
+/**
+ * Sources put all sorts of things in the country field: a city (Canberra,
+ * Toronto, Bangkok), a state (Hawaii, California), a postcode (9620), a
+ * misspelling (Austraila, Greence). The Atlas prints that field under the
+ * restaurant's name, so "Honolulu · Hawaii" and "Tokyo · Tokyo Japan" are both
+ * visible mistakes.
+ *
+ * Once a record is linked, its page path says where the guide has decided the
+ * restaurant is, and that decision is what every listing, hero and breadcrumb
+ * on the site is built from. So the page wins and the label follows it.
+ *
+ * The exceptions are the places that are deliberately filed inside a larger
+ * country: Scotland under uk/, Hong Kong under china/. There the label is not a
+ * mistake and is left exactly as it is.
+ */
+const FILED_INSIDE = {
+  uk: ['scotland', 'wales', 'england', 'northern-ireland'],
+  china: ['hong-kong', 'macau', 'macao'],
+};
+
 let linked = 0;
+let relabelled = 0;
 for (const r of list) {
   if (r.lng == null) { if (r.p) delete r.p; continue; }
-  const route = findRoute(r.n, r.c, r.co);
-  if (route) { r.p = route; linked++; }
-  else if (r.p) delete r.p; // clear any stale link
+  const route = findRoute(r.n, r.c, r.co, r.a);
+  if (route) {
+    r.p = route;
+    linked++;
+    const slug = route.split('/')[1];
+    const proper = nameForSlug.get(slug);
+    // Compared on the raw label, not the slug: countrySlugFrom already folds
+    // Scotland into uk, which is right for matching and useless for this test.
+    const plain = String(r.co || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+    const fold = (x) => String(x || '').normalize('NFD').replace(/\p{M}+/gu, '').toLowerCase();
+    const allowed = (FILED_INSIDE[slug] || []).includes(plain)
+      // Never trade an accented spelling for its own plain fold.
+      || (fold(r.co) === fold(proper) && r.co !== fold(r.co));
+    if (proper && !allowed && r.co !== proper) {
+      r.co = proper;
+      relabelled++;
+    }
+  } else if (r.p) delete r.p; // clear any stale link
 }
 
 geo.linked = linked;
@@ -170,4 +253,5 @@ fs.writeFileSync(GEO_PATH, JSON.stringify(geo));
 const placed = list.filter((r) => r.lng != null).length;
 console.log(`✓ Linked ${linked} of ${placed} placed restaurants to in-guide pages (${(100 * linked / placed).toFixed(1)}%).`);
 console.log(`  The rest keep their website link — they have no detail page in the guide.`);
+if (relabelled) console.log(`  ${relabelled} country labels disagreed with their page and took the page's country.`);
 console.log(`  → ${path.relative(ROOT, GEO_PATH)}`);

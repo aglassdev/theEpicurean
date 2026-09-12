@@ -42,6 +42,8 @@ const COUNTRY_NAMES = {
   'principality-of-monaco': 'Monaco',
   'the-philippines': 'Philippines',
   trkiye: 'Türkiye',
+  reunion: 'Réunion',
+  'saint-barthelemy': 'Saint Barthélemy',
   turkey: 'Türkiye',
   'south-korea': 'South Korea',
   'new-zealand': 'New Zealand',

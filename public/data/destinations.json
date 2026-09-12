@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-12T07:42:57.355Z",
+  "generatedAt": "2026-09-12T19:16:27.753Z",
   "totals": {
     "countries": 131,
-    "cities": 7997,
-    "restaurants": 31088,
+    "cities": 7996,
+    "restaurants": 31084,
     "atlas": {
-      "restaurants": 31035
+      "restaurants": 31029
     }
   },
   "countries": [
@@ -1127,11 +1127,6 @@
               "count": 1
             },
             {
-              "name": "White River Junction",
-              "path": "/australia/white-river-junction/white-river-junction/restaurants",
-              "count": 1
-            },
-            {
               "name": "Whitsunday Islands",
               "path": "/australia/whitsunday-islands/whitsunday-islands/restaurants",
               "count": 2
@@ -1177,11 +1172,11 @@
               "count": 12
             }
           ],
-          "count": 1659
+          "count": 1658
         }
       ],
-      "cityCount": 197,
-      "count": 1659
+      "cityCount": 196,
+      "count": 1658
     },
     {
       "name": "Austria",
@@ -1955,11 +1950,6 @@
               "count": 18
             },
             {
-              "name": "Sankt Andrä im Sausal",
-              "path": "/usa/other/sankt-andr-im-sausal/restaurants",
-              "count": 1
-            },
-            {
               "name": "Sankt Anton am Arlberg",
               "path": "/austria/sankt-anton-am-arlberg/sankt-anton-am-arlberg/restaurants",
               "count": 6
@@ -2355,11 +2345,11 @@
               "count": 1
             }
           ],
-          "count": 490
+          "count": 489
         }
       ],
-      "cityCount": 233,
-      "count": 490
+      "cityCount": 232,
+      "count": 489
     },
     {
       "name": "Bahamas",
@@ -25518,7 +25508,7 @@
             {
               "name": "Los Cabos",
               "path": "/mexico/los-cabos/los-cabos/restaurants",
-              "count": 2
+              "count": 1
             },
             {
               "name": "Merida",
@@ -25608,7 +25598,7 @@
             {
               "name": "San José del Cabo",
               "path": "/mexico/san-jos-del-cabo/san-jos-del-cabo/restaurants",
-              "count": 17
+              "count": 18
             },
             {
               "name": "San Juan Teotihuacan",
@@ -25709,14 +25699,14 @@
             {
               "name": "Monaco",
               "path": "/monaco/monaco/monaco/restaurants",
-              "count": 22
+              "count": 18
             }
           ],
-          "count": 22
+          "count": 18
         }
       ],
       "cityCount": 1,
-      "count": 22
+      "count": 18
     },
     {
       "name": "Montenegro",
@@ -28336,7 +28326,7 @@
       "count": 58
     },
     {
-      "name": "Reunion",
+      "name": "Réunion",
       "regions": [
         {
           "name": null,
@@ -28468,7 +28458,7 @@
       "count": 1
     },
     {
-      "name": "Saint Barthelemy",
+      "name": "Saint Barthélemy",
       "regions": [
         {
           "name": null,
@@ -37925,7 +37915,7 @@
             {
               "name": "CA",
               "path": "/usa/california/ca/restaurants",
-              "count": 2
+              "count": 1
             },
             {
               "name": "Cabazon",
@@ -38663,7 +38653,7 @@
               "count": 5
             }
           ],
-          "count": 1109
+          "count": 1108
         },
         {
           "name": "Colorado",
@@ -39075,7 +39065,7 @@
             {
               "name": "Miami",
               "path": "/usa/florida/miami/restaurants",
-              "count": 126
+              "count": 127
             },
             {
               "name": "Miami Beach",
@@ -39213,7 +39203,7 @@
               "count": 7
             }
           ],
-          "count": 427
+          "count": 428
         },
         {
           "name": "Georgia",
@@ -40668,7 +40658,7 @@
             {
               "name": "Queens",
               "path": "/usa/newyork/queens/restaurants",
-              "count": 19
+              "count": 20
             },
             {
               "name": "Ridgewood",
@@ -40736,7 +40726,7 @@
               "count": 1
             }
           ],
-          "count": 792
+          "count": 793
         },
         {
           "name": "North Carolina",
@@ -41619,12 +41609,17 @@
               "count": 1
             },
             {
+              "name": "White River Junction",
+              "path": "/usa/vermont/white-river-junction/restaurants",
+              "count": 1
+            },
+            {
               "name": "Woodstock",
               "path": "/usa/vermont/woodstock/restaurants",
               "count": 1
             }
           ],
-          "count": 20
+          "count": 21
         },
         {
           "name": "Virginia",
@@ -42002,8 +41997,8 @@
           "count": 10
         }
       ],
-      "cityCount": 814,
-      "count": 5092
+      "cityCount": 815,
+      "count": 5094
     },
     {
       "name": "Uruguay",

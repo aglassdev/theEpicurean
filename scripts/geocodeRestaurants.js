@@ -213,10 +213,16 @@ const viaPrimary = (q, iso) => (PROVIDER === 'locationiq' ? viaLocationIQ(q, iso
 
 // Photon (Komoot) — keyless, OSM-based, forgiving fuzzy matching. Catches many
 // messy addresses that Nominatim returns nothing for.
-async function viaPhoton(q) {
-  const p = new URLSearchParams({ q, limit: '1', lang: 'en' });
+// It takes no country filter, so ask for several and keep the first that is in
+// the country the record already names. Left unfiltered it answers "Kalkara"
+// with a hamlet in upstate New York.
+async function viaPhoton(q, iso) {
+  const p = new URLSearchParams({ q, limit: iso ? '8' : '1', lang: 'en' });
   const d = await fetchJSON(`https://photon.komoot.io/api/?${p}`, { Accept: 'application/json' });
-  const f = d && d.features && d.features[0];
+  const feats = (d && d.features) || [];
+  const f = iso
+    ? feats.find((x) => String(x.properties?.countrycode || '').toLowerCase() === iso.toLowerCase())
+    : feats[0];
   if (!f || !f.geometry) return null;
   const [lng, lat] = f.geometry.coordinates;
   if (Number.isNaN(lng) || Number.isNaN(lat)) return null;
@@ -270,9 +276,9 @@ async function geocodeOne(rec) {
     r = await viaPrimary(cleaned, iso); if (r) return { ...rec, ...r };
     if (isUS) { r = await viaCensus(cleaned); if (r) return { ...rec, ...r }; }
   }
-  r = await viaPhoton(full); if (r) return { ...rec, ...r };
+  r = await viaPhoton(full, iso); if (r) return { ...rec, ...r };
   if (cityQ) {
-    r = (await viaPrimary(cityQ, iso)) || (await viaPhoton(cityQ));
+    r = (await viaPrimary(cityQ, iso)) || (await viaPhoton(cityQ, iso));
     if (r) return { ...rec, ...r, acc: 'city', ap: 1 }; // approximate — city centre
   }
   return null;

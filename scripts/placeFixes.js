@@ -79,6 +79,119 @@ export const PLACE_FIXES = [
     lat: 36.890785,
     lng: 10.323801,
   },
+  {
+    // "Monaco" with no house number fell through to the city-centre fallback,
+    // which searched without a country and answered with Noumea, New Caledonia,
+    // 16,000km away and French enough to look plausible to a machine.
+    name: 'Elsa',
+    country: /france|monaco/i,
+    city: 'Monaco',
+    countryName: 'Monaco',
+    address: 'Monte-Carlo Beach, avenue Princesse-Grace, Roquebrune-Cap-Martin, 98000 Monaco',
+    // The Monte-Carlo Beach hotel, which the restaurant is inside. The building
+    // stands just over the French line at Roquebrune-Cap-Martin even though it
+    // carries a Monegasque address, so the pin is where the dining room is
+    // rather than where the postcode says.
+    lat: 43.750957,
+    lng: 7.444215,
+  },
+  {
+    // The same city-centre fallback, this time asked for "Kalkara" with nothing
+    // to say which Kalkara, and answered with a spot in upstate New York.
+    // OpenStreetMap has the restaurant by name on the Kalkara waterfront.
+    name: 'Marea',
+    country: /malta/i,
+    city: 'Kalkara',
+    address: 'Dawret Fra Giovanni Bichi, Kalkara KKR 1320, Malta',
+    lat: 35.891641,
+    lng: 14.523872,
+  },
+  {
+    // "Lampedusa" landed in Texas. The island is real and so is the street:
+    // Via Giulio Bonfiglio, up at Cala Creta on the east side.
+    name: 'Lipadusa',
+    country: /italy/i,
+    city: 'Lampedusa',
+    address: 'via Giulio Bonfiglio 16, Lampedusa, 92031, Italy',
+    lat: 35.50281,
+    lng: 12.61254,
+  },
+  {
+    // the50 published Seoul coordinates for a Taipei bar, 1,455km out. Nothing
+    // in the guide carries the bar by name, so the pin sits on Lane 83 itself,
+    // which is about a hundred metres end to end.
+    name: 'Bar Otani',
+    country: /taiwan/i,
+    city: 'Taipei',
+    address: 'No. 5-1, Lane 83, Section 1, Zhongshan N Road, Zhongshan District, Taipei, 10491',
+    lat: 25.050343,
+    lng: 121.523303,
+  },
+  {
+    // the50 published Delhi coordinates for a Mexico City taqueria. Avenida
+    // Yucatan 84 in Roma Norte is a single address shared by several kitchens,
+    // and OpenStreetMap has all of them on the same corner.
+    name: 'Expendio de Maiz Sin Nombre',
+    country: /mexico/i,
+    city: 'Mexico City',
+    address: 'Av. Yucatan 84, Roma Norte, Cuauhtemoc, Mexico City, 06700',
+    lat: 19.414185,
+    lng: -99.162631,
+  },
+  {
+    // White River Junction is in Vermont. The record said Australia, so a page
+    // was built for it under australia/ and the pin, which was always correct,
+    // read as fifteen thousand kilometres outside its own country.
+    name: 'Wolf Tree (Bar)',
+    country: /australia/i,
+    city: 'White River Junction',
+    countryName: 'United States',
+    address: '40 Currier St, White River Junction, VT 05001, USA',
+    lat: 43.64839,
+    lng: -72.319482,
+  },
+  {
+    // Another unconstrained Photon answer: asked for the Banyan Tree it returned
+    // a spot in Puerto Rico, 9,400km from Maui. The restaurant is the dining
+    // room at the Ritz-Carlton Maui, up the coast from Lahaina at Kapalua,
+    // which is why the address reads Lahaina and the pin does not.
+    name: 'The Banyan Tree',
+    country: /united states|usa/i,
+    city: 'Lahaina',
+    address: '1 Ritz Carlton Dr, Kapalua, HI 96761',
+    lat: 21.00001,
+    lng: -156.65427,
+  },
+  {
+    // The record had it on the Transpeninsular at El Maneadero, which is south
+    // of Ensenada in Baja California, eleven hundred kilometres up the peninsula
+    // from the Los Cabos in its own name, and the pin dutifully followed. Its
+    // own site gives the address as Palmilla Dunes, San José del Cabo, in Baja
+    // California Sur, so the pin sits in Palmilla.
+    name: 'Il Splendido Los Cabos',
+    country: /mexico|united states|usa/i,
+    city: 'San José del Cabo',
+    countryName: 'Mexico',
+    address: 'Carretera Transpeninsular km 27.5, Local 8, Palmilla Dunes, San José del Cabo, B.C.S., Mexico',
+    lat: 23.014455,
+    lng: -109.720556,
+  },
+  {
+    // Two restaurants are called Aurum: one in Gmunden and one in Los Altos.
+    // This record is the Californian, filed with "Austria" in the country field
+    // and the state abbreviation in the city field, which was enough to attach
+    // it to the Austrian one's page. OpenStreetMap has it by name at its own
+    // address on State Street.
+    name: 'Aurum',
+    // Both records say Austria, so the country cannot tell them apart and the
+    // site address does.
+    web: /aurumca\.com/i,
+    city: 'Los Altos',
+    countryName: 'United States',
+    address: '132 State St, Los Altos, CA 94022, USA',
+    lat: 37.380143,
+    lng: -122.115692,
+  },
 ];
 
 const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
@@ -86,7 +199,9 @@ const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').tr
 /** The correction for a geo record, or null. */
 export const placeFixFor = (rec) =>
   PLACE_FIXES.find(
-    (f) => norm(f.name) === norm(rec.n) && (!f.country || f.country.test(String(rec.co || '')))
+    (f) => norm(f.name) === norm(rec.n)
+      && (!f.country || f.country.test(String(rec.co || '')))
+      && (!f.web || f.web.test(String(rec.w || '')))
   ) || null;
 
 /** Apply in place; returns true when something changed. */
@@ -98,8 +213,9 @@ export const applyPlaceFix = (rec) => {
     const [from, to] = key;
     if (fix[from] !== undefined && rec[to] !== fix[from]) { rec[to] = fix[from]; changed = true; }
   }
-  // A corrected coordinate is a stated one, so it is no longer a guess.
-  if (fix.lat !== undefined && (rec.ap || rec.acc === 'photon')) {
+  // A corrected coordinate is a stated one, so it is no longer a guess, whatever
+  // the geocoder that got it wrong had called its own confidence.
+  if (fix.lat !== undefined && (rec.ap || rec.acc !== 'stated')) {
     delete rec.ap;
     rec.acc = 'stated';
     changed = true;
