@@ -1,15 +1,20 @@
 {
   "restaurantName": "Esora",
-  "pageTitle": "Esora",
   "address": "15 Mohamed Sultan Road, Singapore River, Singapore, 238964",
-  "cuisine": "",
-  "priceRange": "Tasting menu from $100",
+  "cuisine": "Innovative",
+  "priceRange": "Tasting menu from \n    00",
   "phoneNumber": "+65 6365 1266",
   "website": "https://www.restaurant-esora.com/",
-  "openingNote": "Lunch: Wed – Sat Dinner: Tues – Sat",
   "tags": [],
-  "awards": [],
-  "bio": "Chef Shigeru Koizumi, who cut his teeth at Nihonryori RyuGin and Odette, showcases modern Japanese cuisine in this 26-seater Kappo-style restaurant, focusing on",
-  "source": "the50.com",
-  "sourceId": "1555065"
+  "awards": [
+    {
+      "name": "Michelin Stars",
+      "count": 1,
+      "year": "2025",
+      "organization": "Guide Michelin"
+    }
+  ],
+  "bio": "Esora means painting in the sky in Japanese. With an omakase menu that changes daily to make use of the best ingredients imported from Japan, Esora – like the ever-changing sky – presents a new experience each time. The Japanese head chef excels at melding Japanese details with French techniques, with elaborate plating and floral arrangements to boot. The tea pairing, with perfectly brewed Taiwanese and Japanese teas, is a real triumph....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=15%20Mohamed%20Sultan%20Road%2C%20238964%2C%20Singapore",
+  "pageTitle": "Esora"
 }

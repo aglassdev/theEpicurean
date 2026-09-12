@@ -1,11 +1,17 @@
 {
-  "restaurantName": "BOCA",
-  "pageTitle": "BOCA",
+  "restaurantName": "Boca",
   "address": "Gate Village 6, DIFC Near - towards DIFC Parking - Dubai - United Arab Emirates",
-  "cuisine": "",
-  "priceRange": "",
-  "website": "https://boca.ae",
-  "tags": [],
+  "cuisine": "Mediterranean Cuisine",
+  "priceRange": "$$$",
+  "phoneNumber": "+97143231833",
+  "website": "https://boca.ae/",
+  "tags": [
+    {
+      "name": "Green Star"
+    }
+  ],
   "awards": [],
-  "bio": ""
+  "bio": "The bright, sunny look of the room is reflected in the extensive menu which careers joyfully around the Mediterranean, offering something for everyone – be sure to bring some friends so you can order with abandon. The Spanish dishes particularly stand out, such as the good-looking green herb gazpacho – the perfect refresher on a hot day....",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Gate%20Village%20Building%206%2C%20DIFC%2C%20Dubai",
+  "pageTitle": "Boca"
 }

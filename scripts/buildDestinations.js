@@ -41,6 +41,9 @@ const COUNTRY_NAMES = {
   'chinese-mainland': 'China',
   'principality-of-monaco': 'Monaco',
   'the-philippines': 'Philippines',
+  // The territory is three islands and the guide only has Bonaire, so the name
+  // on the page is the island the restaurant is on.
+  'caribbean-netherlands': 'Bonaire',
   trkiye: 'Türkiye',
   reunion: 'Réunion',
   'saint-barthelemy': 'Saint Barthélemy',
@@ -257,6 +260,10 @@ const CITY_ALIASES = {
   // the city: "Gwangju-Si, Gyeonggi-Do, South Korea". Gyeonggi-do is the province
   // Gwangju-si sits in.
   'south-korea/gyeonggi-do': 'Gwangju-si',
+  // The country was already in the breadcrumb above it.
+  'anguilla/long-bay-village-anguilla': 'Long Bay Village',
+  // The only table there is in Kralendijk, which is the town on Bonaire.
+  'caribbean-netherlands/bonaire': 'Kralendijk',
   // Three districts of Manama filed as towns. The addresses give them away:
   // Adliya and Seef both end "…, Manama", and Manama's own list already holds
   // tables on Block 338 in Adliya and Block 428 in Seef. Al Markh is over the

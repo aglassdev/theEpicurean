@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-12T22:10:49.388Z",
+  "generatedAt": "2026-09-12T22:49:43.977Z",
   "totals": {
     "countries": 132,
-    "cities": 7992,
-    "restaurants": 31081,
+    "cities": 7978,
+    "restaurants": 31061,
     "atlas": {
-      "restaurants": 31028
+      "restaurants": 31010
     }
   },
   "countries": [
@@ -85,7 +85,7 @@
           "name": null,
           "cities": [
             {
-              "name": "Long Bay Village Anguilla",
+              "name": "Long Bay Village",
               "path": "/anguilla/long-bay-village-anguilla/long-bay-village-anguilla/restaurants",
               "count": 1
             },
@@ -4541,6 +4541,24 @@
       "count": 13
     },
     {
+      "name": "Bonaire",
+      "regions": [
+        {
+          "name": null,
+          "cities": [
+            {
+              "name": "Kralendijk",
+              "path": "/caribbean-netherlands/bonaire/bonaire/restaurants",
+              "count": 1
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "cityCount": 1,
+      "count": 1
+    },
+    {
       "name": "Bosnia and Herzegovina",
       "regions": [
         {
@@ -5209,24 +5227,6 @@
       ],
       "cityCount": 101,
       "count": 656
-    },
-    {
-      "name": "Caribbean Netherlands",
-      "regions": [
-        {
-          "name": null,
-          "cities": [
-            {
-              "name": "Bonaire",
-              "path": "/caribbean-netherlands/bonaire/bonaire/restaurants",
-              "count": 1
-            }
-          ],
-          "count": 1
-        }
-      ],
-      "cityCount": 1,
-      "count": 1
     },
     {
       "name": "Cayman Islands",
@@ -25063,31 +25063,16 @@
           "name": null,
           "cities": [
             {
-              "name": "Estrada da Baía de Nossa Senhora da Esperança",
-              "path": "/macau/estrada-da-baa-de-nossa-senhora-da-esperana/estrada-da-baa-de-nossa-senhora-da-esperana/restaurants",
-              "count": 2
-            },
-            {
-              "name": "Estrada do Istmo",
-              "path": "/macau/estrada-do-istmo/estrada-do-istmo/restaurants",
-              "count": 4
-            },
-            {
               "name": "Macau",
               "path": "/macau/macau/macau/restaurants",
-              "count": 99
-            },
-            {
-              "name": "NAPE",
-              "path": "/macau/nape/nape/restaurants",
-              "count": 1
+              "count": 98
             }
           ],
-          "count": 106
+          "count": 98
         }
       ],
-      "cityCount": 4,
-      "count": 106
+      "cityCount": 1,
+      "count": 98
     },
     {
       "name": "Madagascar",
@@ -28661,21 +28646,16 @@
           "name": null,
           "cities": [
             {
-              "name": "26 Dempsey Road",
-              "path": "/singapore/26-dempsey-road/26-dempsey-road/restaurants",
-              "count": 1
-            },
-            {
               "name": "Singapore",
               "path": "/singapore/singapore/singapore/restaurants",
               "count": 400
             }
           ],
-          "count": 401
+          "count": 400
         }
       ],
-      "cityCount": 2,
-      "count": 401
+      "cityCount": 1,
+      "count": 400
     },
     {
       "name": "Slovakia",
@@ -34132,66 +34112,16 @@
               "count": 61
             },
             {
-              "name": "Arabian Court",
-              "path": "/uae/arabian-court/arabian-court/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Banyan Tree Dubai",
-              "path": "/uae/banyan-tree-dubai/banyan-tree-dubai/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Crescent Road",
-              "path": "/uae/crescent-road/crescent-road/restaurants",
-              "count": 2
-            },
-            {
               "name": "Dubai",
               "path": "/uae/dubai/dubai/restaurants",
               "count": 211
-            },
-            {
-              "name": "Four Seasons",
-              "path": "/uae/four-seasons/four-seasons/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Gate Village Building 6",
-              "path": "/uae/gate-village-building-6/gate-village-building-6/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Jameel Arts Centre",
-              "path": "/uae/jameel-arts-centre/jameel-arts-centre/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Jumeirah Beach Road",
-              "path": "/uae/jumeirah-beach-road/jumeirah-beach-road/restaurants",
-              "count": 1
-            },
-            {
-              "name": "One&Only One Za’abeel",
-              "path": "/uae/oneonly-one-zaabeel/oneonly-one-zaabeel/restaurants",
-              "count": 1
-            },
-            {
-              "name": "St. Regis Gardens",
-              "path": "/uae/st-regis-gardens/st-regis-gardens/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Wasl Vita Mall",
-              "path": "/uae/wasl-vita-mall/wasl-vita-mall/restaurants",
-              "count": 1
             }
           ],
-          "count": 283
+          "count": 272
         }
       ],
-      "cityCount": 12,
-      "count": 283
+      "cityCount": 2,
+      "count": 272
     },
     {
       "name": "United Kingdom",
