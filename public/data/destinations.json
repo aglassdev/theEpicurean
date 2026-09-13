@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-12T22:49:43.977Z",
+  "generatedAt": "2026-09-13T01:06:50.347Z",
   "totals": {
     "countries": 132,
-    "cities": 7978,
+    "cities": 7977,
     "restaurants": 31061,
     "atlas": {
       "restaurants": 31010
@@ -28401,6 +28401,11 @@
           "name": null,
           "cities": [
             {
+              "name": "Balakovo",
+              "path": "/russia/saratov-oblast/saratov-oblast/restaurants",
+              "count": 1
+            },
+            {
               "name": "Kaliningrad",
               "path": "/russia/kaliningrad/kaliningrad/restaurants",
               "count": 1
@@ -28416,19 +28421,9 @@
               "count": 41
             },
             {
-              "name": "Rostov",
-              "path": "/russia/rostov/rostov/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Rostov Oblast",
+              "name": "Rostov-on-Don",
               "path": "/russia/rostov-oblast/rostov-oblast/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Saratov Oblast",
-              "path": "/russia/saratov-oblast/saratov-oblast/restaurants",
-              "count": 1
+              "count": 2
             },
             {
               "name": "Sochi",
@@ -28444,7 +28439,7 @@
           "count": 65
         }
       ],
-      "cityCount": 8,
+      "cityCount": 7,
       "count": 65
     },
     {

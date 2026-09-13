@@ -260,6 +260,14 @@ const CITY_ALIASES = {
   // the city: "Gwangju-Si, Gyeonggi-Do, South Korea". Gyeonggi-do is the province
   // Gwangju-si sits in.
   'south-korea/gyeonggi-do': 'Gwangju-si',
+  // Two oblasts filed as though they were towns, and a third city that is the
+  // same place under a shorter name: Leo Wine & Kitchen reads "Rostov" but its
+  // postcode, 344000, is Rostov-on-Don, which is where Onegin Dacha is too.
+  'russia/rostov-oblast': 'Rostov-on-Don',
+  'russia/rostov': 'Rostov-on-Don',
+  // The one table in Saratov Oblast is in Balakovo, a hundred and fifty
+  // kilometres up the Volga from Saratov itself.
+  'russia/saratov-oblast': 'Balakovo',
   // The country was already in the breadcrumb above it.
   'anguilla/long-bay-village-anguilla': 'Long Bay Village',
   // The only table there is in Kralendijk, which is the town on Bonaire.

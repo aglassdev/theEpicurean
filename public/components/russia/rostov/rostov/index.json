@@ -1,20 +1,26 @@
 {
-  "title": "Rostov",
+  "title": "Rostov-on-Don",
   "country": "Russia",
   "countrySlug": "russia",
   "region": null,
   "regionSlug": "rostov",
-  "city": "Rostov",
+  "city": "Rostov-on-Don",
   "citySlug": "rostov",
   "path": "/russia/rostov/rostov/restaurants",
-  "canonicalPath": "/russia/rostov/rostov/restaurants",
-  "count": 1,
+  "canonicalPath": "/russia/rostov-oblast/rostov-oblast/restaurants",
+  "count": 2,
   "restaurants": [
     {
       "name": "Leo Wine & Kitchen",
       "cuisine": "",
       "price": "",
       "path": "/russia/rostov/rostov/leo-wine-kitchen"
+    },
+    {
+      "name": "Onegin Dacha",
+      "cuisine": "",
+      "price": "",
+      "path": "/russia/rostov-oblast/rostov-oblast/onegin-dacha"
     }
   ]
 }
