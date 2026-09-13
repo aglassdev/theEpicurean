@@ -172,6 +172,13 @@ const HERO_OVERRIDES = {
   // same place as the slug the photograph is named for.
   'so-paulo': 'saopauloheader.png',
   'tokyo-japan': 'tokyoheader.png',
+  // Two Russian cities are still filed under the oblast they are in, and the one
+  // table on Aruba is at Noord. The photographs are named for the place a reader
+  // would recognise.
+  'saratov-oblast': 'balakovoheader.png',
+  'rostov-oblast': 'rostovondonheader.png',
+  rostov: 'rostovondonheader.png',
+  noord: 'arubaheader.png',
 };
 // Keyed by "countrySlug/regionSlug/citySlug", for the cities whose name alone is
 // ambiguous. A null means the city shares its name with somewhere we have a
