@@ -1,15 +1,33 @@
 {
-  "title": "Calcutta",
+  "title": "Kolkata",
   "country": "India",
   "countrySlug": "india",
   "region": null,
   "regionSlug": "calcutta",
-  "city": "Calcutta",
+  "city": "Kolkata",
   "citySlug": "calcutta",
   "path": "/india/calcutta/calcutta/restaurants",
-  "canonicalPath": "/india/calcutta/calcutta/restaurants",
-  "count": 1,
+  "canonicalPath": "/india/kolkata/kolkata/restaurants",
+  "count": 4,
   "restaurants": [
+    {
+      "name": "6 Ballygunge Place",
+      "cuisine": "",
+      "price": "Average price per person $17",
+      "path": "/india/kolkata/kolkata/6-ballygunge-place"
+    },
+    {
+      "name": "AMPM",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/kolkata/kolkata/ampm"
+    },
+    {
+      "name": "Baan Thai",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/kolkata/kolkata/baan-thai"
+    },
     {
       "name": "Mocambo Restaurant and Bar",
       "cuisine": "",

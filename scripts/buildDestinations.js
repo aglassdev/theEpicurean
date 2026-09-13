@@ -267,6 +267,22 @@ const CITY_ALIASES = {
   // the city: "Gwangju-Si, Gyeonggi-Do, South Korea". Gyeonggi-do is the province
   // Gwangju-si sits in.
   'south-korea/gyeonggi-do': 'Gwangju-si',
+  // Islands filed under their own name, where the guide's tables are all in one
+  // town on them. The addresses say which: Baie Longue Terres Basses, Baie de
+  // St Jean, Anse Cochon, and Pinney's Beach Charlestown on Nevis.
+  'st-martin/saint-martin': 'Les Terres Basses',
+  'saint-barthelemy/saint-barthlemy': 'Saint-Jean',
+  'saint-lucia/cochon': 'Anse Cochon',
+  'saint-kitts-and-nevis/st-kitts-nevis': 'Charlestown',
+  // Two spellings of Marrakech, the French spelling of Fes, and a mountain range
+  // standing in for the village of Asni at the foot of it.
+  'morocco/marrakesh': 'Marrakech',
+  'morocco/fez': 'Fes',
+  'morocco/atlas-mountains': 'Asni',
+  // Three Indian cities under both the name they had and the name they have.
+  'india/bangalore': 'Bengaluru',
+  'india/calcutta': 'Kolkata',
+  'india/delhi': 'New Delhi',
   // Two oblasts filed as though they were towns, and a third city that is the
   // same place under a shorter name: Leo Wine & Kitchen reads "Rostov" but its
   // postcode, 344000, is Rostov-on-Don, which is where Onegin Dacha is too.

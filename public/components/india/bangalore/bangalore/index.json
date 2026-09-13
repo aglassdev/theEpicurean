@@ -1,20 +1,98 @@
 {
-  "title": "Bangalore",
+  "title": "Bengaluru",
   "country": "India",
   "countrySlug": "india",
   "region": null,
   "regionSlug": "bangalore",
-  "city": "Bangalore",
+  "city": "Bengaluru",
   "citySlug": "bangalore",
   "path": "/india/bangalore/bangalore/restaurants",
-  "canonicalPath": "/india/bangalore/bangalore/restaurants",
-  "count": 1,
+  "canonicalPath": "/india/bengaluru/bengaluru/restaurants",
+  "count": 14,
   "restaurants": [
+    {
+      "name": "Bar Spirit Forward",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/bengaluru/bengaluru/bar-spirit-forward"
+    },
+    {
+      "name": "Bengaluru Oota Company",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/bengaluru/bengaluru/bengaluru-oota-company"
+    },
+    {
+      "name": "Copitas (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/bengaluru/bengaluru/copitas-bar"
+    },
+    {
+      "name": "Falak",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/bengaluru/bengaluru/falak"
+    },
+    {
+      "name": "Farmlore",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/bengaluru/bengaluru/farmlore"
+    },
+    {
+      "name": "Jamavar — Bengaluru",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/bengaluru/bengaluru/jamavar-bengaluru"
+    },
+    {
+      "name": "Jamavar at The Leela Palace",
+      "cuisine": "",
+      "price": "Average price per person $52",
+      "path": "/india/bengaluru/bengaluru/jamavar-at-the-leela-palace"
+    },
+    {
+      "name": "Karavalli",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/bengaluru/bengaluru/karavalli"
+    },
+    {
+      "name": "Le Cirque Signature",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/bengaluru/bengaluru/le-cirque-signature"
+    },
+    {
+      "name": "LUPA",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/bengaluru/bengaluru/lupa"
+    },
     {
       "name": "Soka",
       "cuisine": "",
       "price": "Average price per cocktail $11",
       "path": "/india/bangalore/bangalore/soka"
+    },
+    {
+      "name": "SOKA Cocktail Bar",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/bengaluru/bengaluru/soka-cocktail-bar"
+    },
+    {
+      "name": "ZLB23",
+      "cuisine": "",
+      "price": "Average price per cocktail $16",
+      "path": "/india/bengaluru/bengaluru/zlb23"
+    },
+    {
+      "name": "ZLB23 (Bar)",
+      "cuisine": "",
+      "price": "",
+      "path": "/india/bengaluru/bengaluru/zlb23-bar"
     }
   ]
 }

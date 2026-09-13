@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T01:25:09.102Z",
+  "generatedAt": "2026-09-13T05:00:58.506Z",
   "totals": {
     "countries": 132,
-    "cities": 7977,
-    "restaurants": 31061,
+    "cities": 7973,
+    "restaurants": 31060,
     "atlas": {
       "restaurants": 31010
     }
@@ -17707,11 +17707,6 @@
               "count": 1
             },
             {
-              "name": "Bangalore",
-              "path": "/india/bangalore/bangalore/restaurants",
-              "count": 1
-            },
-            {
               "name": "Benaulim",
               "path": "/india/benaulim/benaulim/restaurants",
               "count": 1
@@ -17719,16 +17714,11 @@
             {
               "name": "Bengaluru",
               "path": "/india/bengaluru/bengaluru/restaurants",
-              "count": 13
+              "count": 14
             },
             {
               "name": "Calangute",
               "path": "/india/calangute/calangute/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Calcutta",
-              "path": "/india/calcutta/calcutta/restaurants",
               "count": 1
             },
             {
@@ -17737,14 +17727,9 @@
               "count": 6
             },
             {
-              "name": "Delhi",
-              "path": "/india/delhi/delhi/restaurants",
-              "count": 1
-            },
-            {
               "name": "Goa",
               "path": "/india/goa/goa/restaurants",
-              "count": 7
+              "count": 6
             },
             {
               "name": "Gurugram",
@@ -17764,7 +17749,7 @@
             {
               "name": "Kolkata",
               "path": "/india/kolkata/kolkata/restaurants",
-              "count": 3
+              "count": 4
             },
             {
               "name": "Mumbai",
@@ -17774,7 +17759,7 @@
             {
               "name": "New Delhi",
               "path": "/india/new-delhi/new-delhi/restaurants",
-              "count": 20
+              "count": 21
             },
             {
               "name": "Pune",
@@ -17787,11 +17772,11 @@
               "count": 1
             }
           ],
-          "count": 90
+          "count": 89
         }
       ],
-      "cityCount": 18,
-      "count": 90
+      "cityCount": 15,
+      "count": 89
     },
     {
       "name": "Indonesia",
@@ -25678,7 +25663,7 @@
           "name": null,
           "cities": [
             {
-              "name": "Atlas Mountains",
+              "name": "Asni",
               "path": "/morocco/atlas-mountains/atlas-mountains/restaurants",
               "count": 1
             },
@@ -25688,25 +25673,20 @@
               "count": 8
             },
             {
-              "name": "Fez",
+              "name": "Fes",
               "path": "/morocco/fez/fez/restaurants",
               "count": 2
             },
             {
               "name": "Marrakech",
               "path": "/morocco/marrakech/marrakech/restaurants",
-              "count": 17
-            },
-            {
-              "name": "Marrakesh",
-              "path": "/morocco/marrakesh/marrakesh/restaurants",
-              "count": 2
+              "count": 19
             }
           ],
           "count": 30
         }
       ],
-      "cityCount": 5,
+      "cityCount": 4,
       "count": 30
     },
     {
@@ -28467,7 +28447,7 @@
           "name": null,
           "cities": [
             {
-              "name": "Saint Barthlemy",
+              "name": "Saint-Jean",
               "path": "/saint-barthelemy/saint-barthlemy/saint-barthlemy/restaurants",
               "count": 1
             }
@@ -28485,7 +28465,7 @@
           "name": null,
           "cities": [
             {
-              "name": "St. Kitts & Nevis",
+              "name": "Charlestown",
               "path": "/saint-kitts-and-nevis/st-kitts-nevis/st-kitts-nevis/restaurants",
               "count": 3
             }
@@ -28503,7 +28483,7 @@
           "name": null,
           "cities": [
             {
-              "name": "Cochon",
+              "name": "Anse Cochon",
               "path": "/saint-lucia/cochon/cochon/restaurants",
               "count": 1
             },
@@ -28531,7 +28511,7 @@
           "name": null,
           "cities": [
             {
-              "name": "Saint Martin",
+              "name": "Les Terres Basses",
               "path": "/st-martin/saint-martin/saint-martin/restaurants",
               "count": 1
             }
