@@ -179,6 +179,16 @@ const HERO_OVERRIDES = {
   'rostov-oblast': 'rostovondonheader.png',
   rostov: 'rostovondonheader.png',
   noord: 'arubaheader.png',
+  // Eight more where the directory slug lost an accent, kept an old name, or
+  // names the island rather than the town the photograph is of.
+  lesund: 'alesundheader.png',
+  tnsberg: 'tonsbergheader.png',
+  cochon: 'ansecochonheader.png',
+  'atlas-mountains': 'asniheader.png',
+  fez: 'fesheader.png',
+  'st-kitts-nevis': 'charlestownheader.png',
+  'saint-martin': 'lesterresbassesheader.png',
+  'saint-barthlemy': 'saintjeanheader.png',
 };
 // Keyed by "countrySlug/regionSlug/citySlug", for the cities whose name alone is
 // ambiguous. A null means the city shares its name with somewhere we have a
@@ -267,6 +277,9 @@ const CITY_ALIASES = {
   // the city: "Gwangju-Si, Gyeonggi-Do, South Korea". Gyeonggi-do is the province
   // Gwangju-si sits in.
   'south-korea/gyeonggi-do': 'Gwangju-si',
+  // Under is at Spangereid, the village on the sound; Lindesnes is the
+  // municipality and the lighthouse at the end of it.
+  'norway/lindesnes': 'Spangereid',
   // Islands filed under their own name, where the guide's tables are all in one
   // town on them. The addresses say which: Baie Longue Terres Basses, Baie de
   // St Jean, Anse Cochon, and Pinney's Beach Charlestown on Nevis.
