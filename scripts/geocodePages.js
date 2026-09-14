@@ -26,6 +26,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { countrySlugFrom } from './countrySlug.js';
 import { USPS, uspsFromZip } from './usZips.js';
+import { ISO } from './countryIso.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -151,14 +152,6 @@ const seenKey = new Set();
 
 // The country and city come off the end of the address, which is where the tree
 // puts them, and the directory says which country when the address does not.
-const ISO = { usa: 'us', uk: 'gb', france: 'fr', italy: 'it', spain: 'es', germany: 'de',
-  japan: 'jp', china: 'cn', 'hong-kong': 'hk', macau: 'mo', taiwan: 'tw', 'south-korea': 'kr',
-  singapore: 'sg', thailand: 'th', vietnam: 'vn', india: 'in', australia: 'au',
-  'new-zealand': 'nz', canada: 'ca', mexico: 'mx', brazil: 'br', argentina: 'ar',
-  netherlands: 'nl', belgium: 'be', switzerland: 'ch', austria: 'at', denmark: 'dk',
-  sweden: 'se', norway: 'no', finland: 'fi', portugal: 'pt', greece: 'gr', poland: 'pl',
-  ireland: 'ie', turkey: 'tr', trkiye: 'tr', uae: 'ae', 'saudi-arabia': 'sa', israel: 'il',
-  peru: 'pe', chile: 'cl', colombia: 'co', 'south-africa': 'za', morocco: 'ma' };
 
 for (const t of todo) {
   const dirCountry = t.route.split('/')[1];
