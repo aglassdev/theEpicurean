@@ -277,6 +277,19 @@ const CITY_ALIASES = {
   // the city: "Gwangju-Si, Gyeonggi-Do, South Korea". Gyeonggi-do is the province
   // Gwangju-si sits in.
   'south-korea/gyeonggi-do': 'Gwangju-si',
+  // Metro Manila is sixteen cities and a municipality, and the guide had nine of
+  // them plus Manila itself and Marikina under a second country slug. A reader
+  // planning dinner does not care which of them Makati is: it is Manila.
+  'the-philippines/makati-metro-manila': 'Manila',
+  'the-philippines/mandaluyong-metro-manila': 'Manila',
+  'the-philippines/manila-metro-manila': 'Manila',
+  'the-philippines/marikina-metro-manila': 'Manila',
+  'the-philippines/paraaque-metro-manila': 'Manila',
+  'the-philippines/pasay-metro-manila': 'Manila',
+  'the-philippines/quezon-metro-manila': 'Manila',
+  'the-philippines/san-juan-metro-manila': 'Manila',
+  'the-philippines/taguig-metro-manila': 'Manila',
+  'philippines/marikina-city': 'Manila',
   // Under is at Spangereid, the village on the sound; Lindesnes is the
   // municipality and the lighthouse at the end of it.
   'norway/lindesnes': 'Spangereid',
