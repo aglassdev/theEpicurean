@@ -138,7 +138,10 @@ const Article = () => {
 
       {article.image && (
         <section style={{ maxWidth: '1080px', margin: '0 auto', padding: 'clamp(2rem, 4vw, 3rem) 2.5rem 0' }}>
-          <div style={{ aspectRatio: '16 / 9', overflow: 'hidden', background: paperDeep }}>
+          {/* No fixed ratio: the photograph keeps its own proportions, so a tall
+              one stays tall and a panorama stays a panorama, and nothing is cut
+              off to make every article's header the same height. */}
+          <div style={{ background: paperDeep }}>
             <img
               src={`/images/opt/${stem(article.image)}-1600.webp`}
               srcSet={`/images/opt/${stem(article.image)}-1600.webp 1600w, /images/opt/${stem(article.image)}-3200.webp 3200w`}
@@ -150,7 +153,7 @@ const Article = () => {
                 e.currentTarget.srcset = '';
                 e.currentTarget.src = article.image;
               }}
-              style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
+              style={{ width: '100%', height: 'auto', display: 'block' }}
             />
           </div>
         </section>
