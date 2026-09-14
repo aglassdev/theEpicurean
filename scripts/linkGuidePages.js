@@ -141,7 +141,12 @@ const findRoute = (name, city, country, address) => {
   const trimmed = cityWords
     ? raw.replace(new RegExp(`[\\s,-]+${cityWords.replace(/\s+/g, '\\s+')}(\\s+d\\.?c\\.?)?$`, 'i'), '').trim()
     : raw;
-  const base = [raw, trimmed, raw.replace(/[\s,-]+d\.?c\.?$/i, '').trim()];
+  // An accent that PascalCase drops takes the letter with it: "Yí" shapes to
+  // "Y", which matches nothing, and compName only reaches for the folded
+  // spelling when the first attempt comes back empty. Fold it here too, so the
+  // page filed as Yi is still found.
+  const fold = (x) => String(x).normalize('NFD').replace(/\p{M}+/gu, '');
+  const base = [raw, trimmed, raw.replace(/[\s,-]+d\.?c\.?$/i, '').trim(), fold(raw), fold(trimmed)];
   const variants = [];
   for (const b of base) {
     if (!b) continue;

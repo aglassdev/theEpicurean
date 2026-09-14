@@ -1,10 +1,10 @@
 ---
-title: Is Michelin Selling Out? Why the Sysco Partnership is a Worrying Sign for the Future of U.S. Gastronomy
+title: Why You Should be Worried About the Michelin Sysco Deal
 section: opinion
-date: 2026-08-21
-byline: A Glass Production
+date: 2026-09-01
+byline: aglassdev
 image: /images/rendition.jpeg
-dek: The guide has spent a century insisting its inspectors owe nothing to anyone. A distribution deal puts that century to the test.
+dek: A corporate sponsership that undermines one of the five pillars of food critiquing is a worrying sign for the future of U.S. gastronomy.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante
