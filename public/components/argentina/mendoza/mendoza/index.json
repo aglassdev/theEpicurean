@@ -8,7 +8,7 @@
   "citySlug": "mendoza",
   "path": "/argentina/mendoza/mendoza/restaurants",
   "canonicalPath": "/argentina/mendoza/mendoza/restaurants",
-  "count": 36,
+  "count": 35,
   "hero": "/images/mendozaheader.png",
   "restaurants": [
     {
@@ -61,23 +61,11 @@
       "award": "★"
     },
     {
-      "name": "1884",
-      "cuisine": "",
-      "price": "",
-      "path": "/argentina/godoy-cruz/godoy-cruz/1884",
-      "award": "World's 50 Best"
-    },
-    {
       "name": "1884 Francis Mallmann",
       "cuisine": "Traditional Cuisine, Argentinian",
       "price": "$$$$",
-      "path": "/argentina/mendoza/mendoza/1884-francis-mallmann"
-    },
-    {
-      "name": "1884 Restaurante",
-      "cuisine": "",
-      "price": "",
-      "path": "/argentina/mendoza/mendoza/1884-restaurante"
+      "path": "/argentina/mendoza/mendoza/1884-francis-mallmann",
+      "award": "World's 50 Best"
     },
     {
       "name": "5 Suelos - Cocina de Finca",
@@ -126,6 +114,12 @@
       "cuisine": "Creative",
       "price": "$$$",
       "path": "/argentina/mendoza/mendoza/brutal"
+    },
+    {
+      "name": "Casa El Enemigo",
+      "cuisine": "",
+      "price": "Tasting menu from $50",
+      "path": "/argentina/maip/maip/casa-el-enemigo"
     },
     {
       "name": "Centauro",

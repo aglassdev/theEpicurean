@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-14T23:54:54.630Z",
+  "generatedAt": "2026-09-15T23:44:41.520Z",
   "totals": {
     "countries": 132,
-    "cities": 7962,
-    "restaurants": 31045,
+    "cities": 7960,
+    "restaurants": 31042,
     "atlas": {
-      "restaurants": 30990
+      "restaurants": 30987
     }
   },
   "countries": [
@@ -118,16 +118,6 @@
               "count": 1
             },
             {
-              "name": "Luján de Cuyo",
-              "path": "/argentina/lujn-de-cuyo/lujn-de-cuyo/restaurants",
-              "count": 1
-            },
-            {
-              "name": "Maipú",
-              "path": "/argentina/maip/maip/restaurants",
-              "count": 1
-            },
-            {
               "name": "Mar del Plata",
               "path": "/argentina/mar-del-plata/mar-del-plata/restaurants",
               "count": 2
@@ -135,14 +125,14 @@
             {
               "name": "Mendoza",
               "path": "/argentina/mendoza/mendoza/restaurants",
-              "count": 36
+              "count": 35
             }
           ],
-          "count": 140
+          "count": 137
         }
       ],
-      "cityCount": 6,
-      "count": 140
+      "cityCount": 4,
+      "count": 137
     },
     {
       "name": "Armenia",

@@ -264,8 +264,11 @@ const CITY_ALIASES = {
   'spain/san-sebastin': 'Donostia / San Sebastián',
   'spain/donostia-san-sebastin': 'Donostia / San Sebastián',
   // Godoy Cruz is a department of Greater Mendoza, a few minutes from the centre,
-  // and reads to a traveller as the same city.
+  // and reads to a traveller as the same city. Lujan de Cuyo and Maipu are two
+  // more of them, out in the vineyards, and both addresses end "Mendoza".
   'argentina/godoy-cruz': 'Mendoza',
+  'argentina/lujn-de-cuyo': 'Mendoza',
+  'argentina/maip': 'Mendoza',
   'brazil/sao-paulo': 'São Paulo',
   'brazil/so-paulo': 'São Paulo',
   'uruguay/jose-ignacio': 'José Ignacio',
