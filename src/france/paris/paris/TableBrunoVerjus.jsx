@@ -261,7 +261,7 @@ const RestaurantPage = ({
 
 const TableBrunoVerjus = () => (
   <RestaurantPage
-    restaurantName="Table - Bruno Verjus"
+    restaurantName="Table"
     address="3 rue de Prague, Paris, 75012, France"
     cuisine="Modern Cuisine"
     priceRange="€€€€"
@@ -269,11 +269,12 @@ const TableBrunoVerjus = () => (
     website="https://table.paris/"
     tags={[{ name: "Green Star" }]}
     awards={[
-      { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" }
+      { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" },
+      {"name":"World's 50 Best · No. 10","organization":"The World's 50 Best Restaurants","year":"2023","image":"/images/worlds50best.png"}
     ].filter(Boolean)}
     bio="Bruno Verjus's approach is to select the finest ingredients and cook them with humility and the utmost respect. This remarkable character was previously an entrepreneur, blogger and food critic. Behind the counter (where diners are seated on comfortable bar stools), he waxes lyrical about his suppliers and the desire to take a back seat to the artisans who produce what he then cooks – on that note, when it comes to either the recipes or the ingredients, the chef considers himself to be a middle man. Everything is made to order, with garnishes and sauces designed with just one thing in mind: to elevate produce without distorting it. Let yourself be transported by the wide-ranging set menu (poetically named Colour of the Day) and devised daily according to available ingredients: Utah Beach n..."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=3%20rue%20de%20Prague%2C%20Paris%2C%2075012%2C%20France"
-    pageTitle="Table - Bruno Verjus"
+    pageTitle="Table"
   />
 );
 
