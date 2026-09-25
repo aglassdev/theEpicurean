@@ -8,7 +8,7 @@
   "citySlug": "san-francisco",
   "path": "/usa/other/san-francisco/restaurants",
   "canonicalPath": "/usa/california/san-francisco/restaurants",
-  "count": 176,
+  "count": 175,
   "restaurants": [
     {
       "name": "Atelier Crenn",
@@ -561,7 +561,7 @@
       "name": "Izakaya Rintaro",
       "cuisine": "Japanese, Izakaya",
       "price": "$$",
-      "path": "/usa/california/san-francisco/izakaya-rintaro"
+      "path": "/usa/other/san-francisco/izakaya-rintaro"
     },
     {
       "name": "Izzy's Steakhouse",
@@ -841,9 +841,9 @@
     },
     {
       "name": "Rintaro",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/california/san-francisco/rintaro"
+      "cuisine": "Japanese, Izakaya",
+      "price": "$$",
+      "path": "/usa/california/san-francisco/izakaya-rintaro"
     },
     {
       "name": "Robin",
@@ -883,12 +883,6 @@
     },
     {
       "name": "Saru",
-      "cuisine": "Japanese, Sushi",
-      "price": "$$$",
-      "path": "/usa/california/san-francisco/saru"
-    },
-    {
-      "name": "Saru Sushi Bar",
       "cuisine": "Japanese, Sushi",
       "price": "$$$",
       "path": "/usa/california/san-francisco/saru-sushi-bar"

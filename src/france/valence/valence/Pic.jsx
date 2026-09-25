@@ -267,6 +267,7 @@ const Pic = () => (
     priceRange="€€€€"
     phoneNumber="+33475441532"
     website="https://www.anne-sophie-pic.com"
+    aliases={["Maison Pic"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 3, year: "2025", organization: "Guide Michelin" }

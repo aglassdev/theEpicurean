@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const San = () => (
   <RestaurantPage
     restaurantName="SAN"
-    address="B1, 6 Eonju-ro 168-gil, Gangnam-gu, Seoul, 06020, South Korea"
+    address="b1f, 6-9 Eonju-ro 168-gil, Gangnam District, Seoul, South Korea"
     cuisine="Innovative"
     priceRange="₩₩₩₩"
     phoneNumber="+8225401729"
-    website="https://restaurantsan.com"
+    website="https://www.restaurantsan.com/en"
+    aliases={["Restaurant SAN"]}
     tags={[]}
     awards={[
       

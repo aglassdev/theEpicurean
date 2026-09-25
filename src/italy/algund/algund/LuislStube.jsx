@@ -267,6 +267,7 @@ const LuislStube = () => (
     priceRange="€€€€"
     phoneNumber="+390473260350"
     website="https://www.schlosswirt-forst.it/it/ristorante-gourmet/ristorante-gourmet/"
+    aliases={["Luisl Stube Schlosswirt Forst"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

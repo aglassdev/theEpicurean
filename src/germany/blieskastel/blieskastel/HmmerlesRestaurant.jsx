@@ -267,6 +267,7 @@ const HmmerlesRestaurant = () => (
     priceRange="€€€€"
     phoneNumber="+49684252142"
     website="https://haemmerles.de/"
+    aliases={["Hämmerle's Restaurant - Barrique"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

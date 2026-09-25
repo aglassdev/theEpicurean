@@ -8,7 +8,7 @@
   "citySlug": "dole",
   "path": "/france/dole/dole/restaurants",
   "canonicalPath": "/france/dole/dole/restaurants",
-  "count": 5,
+  "count": 4,
   "restaurants": [
     {
       "name": "La Chaumière",
@@ -19,9 +19,9 @@
     },
     {
       "name": "Bagatelle",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/dole/dole/bagatelle"
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "path": "/france/dole/dole/la-bagatelle-d-o-l"
     },
     {
       "name": "Grain de Sel",
@@ -34,12 +34,6 @@
       "cuisine": "Japanese",
       "price": "€€",
       "path": "/france/dole/dole/iidaya"
-    },
-    {
-      "name": "La Bagatelle",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/dole/dole/la-bagatelle-d-o-l"
     }
   ]
 }

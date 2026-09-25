@@ -267,6 +267,7 @@ const Nm = () => (
     priceRange="€€€€"
     phoneNumber="+34699455193"
     website="https://nmrestaurante.es/"
+    aliases={["NM by Nacho Manzano"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

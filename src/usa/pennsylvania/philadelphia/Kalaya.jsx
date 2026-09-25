@@ -267,6 +267,7 @@ const Kalaya = () => (
     priceRange="$$$"
     phoneNumber="+12155452535"
     website="https://kalayaphilly.com/"
+    aliases={["Kalaya Thai Kitchen"]}
     tags={[]}
     awards={[
       

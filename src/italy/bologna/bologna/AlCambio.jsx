@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const AlCambio = () => (
   <RestaurantPage
     restaurantName="Al Cambio"
-    address="via Stalingrado 150, Bologna, 40128, Italy"
+    address="Via Stalingrado, 150, 40128 Bologna BO, Italy"
     cuisine="Emilian, Traditional Cuisine"
     priceRange="€€"
     phoneNumber="+39051328118"
     website="https://www.ristorantealcambio.it/"
+    aliases={["Ristorante Al Cambio"]}
     tags={[]}
     awards={[
       

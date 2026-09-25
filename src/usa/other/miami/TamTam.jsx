@@ -267,6 +267,7 @@ const TamTam = () => (
     priceRange="$$"
     phoneNumber="+17863594647"
     website="https://www.tam-tam-mia.com/"
+    aliases={["Tâm Tâm"]}
     tags={[]}
     awards={[
       

@@ -267,6 +267,7 @@ const BurntBeanCo = () => (
     priceRange="$$"
     phoneNumber=""
     website="https://www.burntbeanco.com/"
+    aliases={["Burnt Bean Company"]}
     tags={[]}
     awards={[
       

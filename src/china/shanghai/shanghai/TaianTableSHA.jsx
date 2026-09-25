@@ -267,6 +267,7 @@ const TaianTableSHA = () => (
     priceRange="¥¥¥¥"
     phoneNumber="+8617301605350"
     website="https://sh.taian-table.cn"
+    aliases={["Taian Table — Shanghai"]}
     tags={[{ name: "Green Star" }]}
     awards={[
       { name: "Michelin Stars", count: 3, year: "2025", organization: "Guide Michelin" }

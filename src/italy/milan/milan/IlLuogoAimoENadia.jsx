@@ -267,6 +267,7 @@ const IlLuogoAimoENadia = () => (
     priceRange="€€€€"
     phoneNumber="+3902416886"
     website="https://www.aimoenadia.com/il-luogo-aimo-e-nadia"
+    aliases={["Il Luogo di Aimo e Nadia"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

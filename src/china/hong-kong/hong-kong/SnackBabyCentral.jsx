@@ -261,19 +261,20 @@ const RestaurantPage = ({
 
 const SnackBabyCentral = () => (
   <RestaurantPage
-    restaurantName="Snack Baby (Central)"
+    restaurantName="Snack Baby"
     address="93-95 Hollywood Road, Central, Hong Kong, Hong Kong SAR China"
     cuisine="Street Food"
     priceRange="$"
     phoneNumber=""
     website="https://snack-baby.com"
+    aliases={["Snack Baby (Central)"]}
     tags={[]}
     awards={[
       
     ].filter(Boolean)}
     bio="Strict vegans and anyone who is lactose intolerant will adore this gelato store with 10-plus animal-free and lactose-free options. The pistachio crunch flavour made with cashew milk boasts a silky texture and crunchy bits...."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=93-95%20Hollywood%20Road%2C%20Central%2C%20Hong%20Kong%2C%20Hong%20Kong%20SAR%20China"
-    pageTitle="Snack Baby (Central)"
+    pageTitle="Snack Baby"
   />
 );
 

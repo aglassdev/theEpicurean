@@ -8,7 +8,7 @@
   "citySlug": "santa-barbara",
   "path": "/usa/california/santa-barbara/restaurants",
   "canonicalPath": "/usa/california/santa-barbara/restaurants",
-  "count": 20,
+  "count": 19,
   "restaurants": [
     {
       "name": "Silvers Omakase",
@@ -98,9 +98,9 @@
     },
     {
       "name": "Sushi by Scratch: Montecito",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/other/santa-barbara/sushi-by-scratch-montecito"
+      "cuisine": "Japanese, Sushi",
+      "price": "$$$$",
+      "path": "/usa/other/santa-barbara/sushi-by-scratch-restaurants-montecito"
     },
     {
       "name": "The Lark",
@@ -113,12 +113,6 @@
       "cuisine": "American",
       "price": "$$$$",
       "path": "/usa/california/santa-barbara/the-stonehouse"
-    },
-    {
-      "name": "The Stonehouse Restaurant",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/california/santa-barbara/the-stonehouse-restaurant"
     },
     {
       "name": "Wine Cask",

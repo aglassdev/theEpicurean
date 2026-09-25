@@ -267,6 +267,7 @@ const Five = () => (
     priceRange="€€€€"
     phoneNumber="+4971165557011"
     website="https://www.5.fo/"
+    aliases={["5 Gourmetrestaurant Stuttgart"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

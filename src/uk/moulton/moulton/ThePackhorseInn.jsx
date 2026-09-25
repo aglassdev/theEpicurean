@@ -261,19 +261,20 @@ const RestaurantPage = ({
 
 const ThePackhorseInn = () => (
   <RestaurantPage
-    restaurantName="The Packhorse Inn"
+    restaurantName="Packhorse Inn"
     address="Bridge Street, Moulton, CB8 8SP, United Kingdom"
     cuisine="Modern Cuisine"
     priceRange="££"
     phoneNumber="+441638751818"
     website="https://www.thepackhorseinn.com"
+    aliases={["The Packhorse Inn"]}
     tags={[]}
     awards={[
       
     ].filter(Boolean)}
     bio="Set near the green in a pretty village, is this smart modern pub named after the 15C flint bridge which spans the river. Understated modern dishes have subtle yet effective flavour combinations and use the best local ingredients. Ultra-stylish bedrooms have plush furnishings and roll-top baths...."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Bridge%20Street%2C%20Moulton%2C%20CB8%208SP%2C%20United%20Kingdom"
-    pageTitle="The Packhorse Inn"
+    pageTitle="Packhorse Inn"
   />
 );
 

@@ -267,6 +267,7 @@ const OneSevenEightNine = () => (
     priceRange="€€€€"
     phoneNumber="+497442492665"
     website="https://www.traube-tonbach.de/restaurants-bar/1789-1/"
+    aliases={["1789 — temporaire - Köhlerstube"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

@@ -261,19 +261,20 @@ const RestaurantPage = ({
 
 const BrasserieLesTroisRois = () => (
   <RestaurantPage
-    restaurantName="Brasserie Les Trois Rois"
+    restaurantName="Bar Les Trois Rois"
     address="Blumenrain 8, Basel, 4001, Switzerland"
     cuisine="Classic French, International"
     priceRange="€€€"
     phoneNumber="+41612605002"
     website="https://www.lestroisrois.com/de"
+    aliases={["Brasserie Les Trois Rois"]}
     tags={[]}
     awards={[
       
     ].filter(Boolean)}
     bio="This attractive brasserie with its classic, elegant design and a fantastic view of the Rhine is located in the left wing of the hotel Les Trois Rois. The French-Swiss cuisine also has international influences: The menu includes a good selection of classic and seasonal dishes, which are presented at your table by the attentive waitstaff. Brunch is served on Sundays. Tip: You can look into the kitchen through a window in the passageway leading to reception...."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Blumenrain%208%2C%20Basel%2C%204001%2C%20Switzerland"
-    pageTitle="Brasserie Les Trois Rois"
+    pageTitle="Bar Les Trois Rois"
   />
 );
 

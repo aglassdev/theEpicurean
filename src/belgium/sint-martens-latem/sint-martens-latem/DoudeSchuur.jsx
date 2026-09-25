@@ -267,6 +267,7 @@ const DoudeSchuur = () => (
     priceRange="€€€"
     phoneNumber="+3292823365"
     website="https://www.oudeschuur.be/"
+    aliases={["Restaurant D'Oude Schuur"]}
     tags={[]}
     awards={[
       

@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Antler = () => (
   <RestaurantPage
     restaurantName="Antler"
-    address="1454 Dundas St. W., Toronto, M6J 1Y6, Canada"
+    address="1454 Dundas St W, Toronto, ON M6J 1Y6, Canada"
     cuisine="Contemporary"
     priceRange="$$$"
     phoneNumber="+16473458300"
     website="https://www.antlerkitchenbar.com/"
+    aliases={["Antler Kitchen & Bar"]}
     tags={[]}
     awards={[
       

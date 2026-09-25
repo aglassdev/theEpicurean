@@ -267,6 +267,7 @@ const Scully = () => (
     priceRange="££££"
     phoneNumber="+442039116840"
     website="https://www.scullyrestaurant.com"
+    aliases={["Scully St James's"]}
     tags={[]}
     awards={[
       

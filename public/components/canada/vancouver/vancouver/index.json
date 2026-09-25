@@ -8,7 +8,7 @@
   "citySlug": "vancouver",
   "path": "/canada/vancouver/vancouver/restaurants",
   "canonicalPath": "/canada/vancouver/vancouver/restaurants",
-  "count": 117,
+  "count": 110,
   "restaurants": [
     {
       "name": "AnnaLena",
@@ -146,13 +146,7 @@
       "name": "Bacchus",
       "cuisine": "Contemporary, French",
       "price": "$$$",
-      "path": "/canada/vancouver/vancouver/bacchus-v-a-n"
-    },
-    {
-      "name": "Bacchus Restaurant & Lounge",
-      "cuisine": "",
-      "price": "",
-      "path": "/canada/vancouver/vancouver/bacchus-restaurant-lounge"
+      "path": "/canada/vancouver/vancouver/bacchus"
     },
     {
       "name": "Bagheera",
@@ -222,12 +216,6 @@
     },
     {
       "name": "Boulevard",
-      "cuisine": "",
-      "price": "",
-      "path": "/canada/vancouver/vancouver/boulevard"
-    },
-    {
-      "name": "Boulevard Kitchen & Oyster Bar",
       "cuisine": "Seafood, Contemporary",
       "price": "$$$$",
       "path": "/canada/vancouver/vancouver/boulevard-kitchen-oyster-bar"
@@ -384,12 +372,6 @@
     },
     {
       "name": "Hawksworth",
-      "cuisine": "",
-      "price": "",
-      "path": "/canada/vancouver/vancouver/hawksworth"
-    },
-    {
-      "name": "Hawksworth Restaurant",
       "cuisine": "Contemporary, Regional Cuisine",
       "price": "$$$$",
       "path": "/canada/vancouver/vancouver/hawksworth-restaurant"
@@ -545,12 +527,6 @@
       "path": "/canada/vancouver/vancouver/ophela"
     },
     {
-      "name": "Osteria Savio Volpe",
-      "cuisine": "Italian, Regional Cuisine",
-      "price": "$$$",
-      "path": "/canada/vancouver/vancouver/osteria-savio-volpe"
-    },
-    {
       "name": "per se Social Corner",
       "cuisine": "Italian, Spanish Contemporary",
       "price": "$$$",
@@ -575,12 +551,6 @@
       "path": "/canada/vancouver/vancouver/prophecy"
     },
     {
-      "name": "Prophecy Bar",
-      "cuisine": "",
-      "price": "",
-      "path": "/canada/vancouver/vancouver/prophecy-bar"
-    },
-    {
       "name": "Riley's Fish & Steak",
       "cuisine": "Steakhouse, Seafood",
       "price": "$$$$",
@@ -588,9 +558,9 @@
     },
     {
       "name": "Savio Volpe",
-      "cuisine": "",
-      "price": "",
-      "path": "/canada/vancouver/vancouver/savio-volpe"
+      "cuisine": "Italian, Regional Cuisine",
+      "price": "$$$",
+      "path": "/canada/vancouver/vancouver/osteria-savio-volpe"
     },
     {
       "name": "Say Mercy!",
@@ -635,19 +605,7 @@
       "path": "/canada/vancouver/vancouver/rsuyo"
     },
     {
-      "name": "SUYO Modern Peruvian",
-      "cuisine": "",
-      "price": "",
-      "path": "/canada/vancouver/vancouver/suyo-modern-peruvian"
-    },
-    {
       "name": "Tetsu Sushi",
-      "cuisine": "",
-      "price": "",
-      "path": "/canada/vancouver/vancouver/tetsu-sushi"
-    },
-    {
-      "name": "Tetsu Sushi Bar",
       "cuisine": "Japanese, Sushi",
       "price": "$$$$",
       "path": "/canada/vancouver/vancouver/rtetsusushibar"

@@ -8,7 +8,7 @@
   "citySlug": "dartmouth",
   "path": "/uk/dartmouth/dartmouth/restaurants",
   "canonicalPath": "/uk/dartmouth/dartmouth/restaurants",
-  "count": 5,
+  "count": 3,
   "restaurants": [
     {
       "name": "Andria",
@@ -20,25 +20,13 @@
       "name": "Seahorse",
       "cuisine": "Seafood",
       "price": "£££",
-      "path": "/uk/dartmouth/dartmouth/seahorse"
+      "path": "/uk/dartmouth/dartmouth/the-seahorse"
     },
     {
       "name": "The Angel",
       "cuisine": "Modern British",
       "price": "£££",
       "path": "/uk/dartmouth/dartmouth/the-angel-d-a-r"
-    },
-    {
-      "name": "The Seahorse",
-      "cuisine": "Seafood",
-      "price": "£££",
-      "path": "/uk/dartmouth/dartmouth/the-seahorse"
-    },
-    {
-      "name": "The Seahorse Restaurant",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/dartmouth/dartmouth/the-seahorse-restaurant"
     }
   ]
 }

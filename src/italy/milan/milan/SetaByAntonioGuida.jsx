@@ -261,19 +261,20 @@ const RestaurantPage = ({
 
 const SetaByAntonioGuida = () => (
   <RestaurantPage
-    restaurantName="Seta by Antonio Guida"
-    address="via Monte di Pietà 18, Milan, 20121, Italy"
+    restaurantName="Seta"
+    address="Via Monte di Pietà, 18, 20121 Milano MI, Italy"
     cuisine="International, Contemporary"
     priceRange="€€€€"
     phoneNumber="+390287318897"
-    website="https://www.mandarinoriental.com/it/milan/la-scala/dine/seta"
+    website="https://www.mandarinoriental.com/milan/la-scala/fine-dining/restaurants/italian-cuisine/seta"
+    aliases={["Seta by Antonio Guida"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" }
     ].filter(Boolean)}
     bio="Situated within the Mandarin Oriental hotel, a popular choice for international travellers, this restaurant serves cuisine that reflects the cosmopolitan flavours of Milan. Three tasting menus are available: the first showcases chef Antonio Guida’s classic specialities, the second has a seasonal focus, and the third chooses one particular ingredient as its theme. In winter, for example, pride of place might be given to game dishes, delicacies such as cinnamon-flavoured veal sweetbreads with carrots and a passion-fruit sauce, and risotto with raspberries and herb cream, while desserts include contemporary options such as millefeuille with pumpkin cream, coffee and caper leaf. The extensive wine selection features an exciting choice by the glass, as well as some excellent magnum options for ..."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=via%20Monte%20di%20Piet%C3%A0%2018%2C%20Milan%2C%2020121%2C%20Italy"
-    pageTitle="Seta by Antonio Guida"
+    pageTitle="Seta"
   />
 );
 

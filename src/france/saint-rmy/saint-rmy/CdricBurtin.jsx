@@ -267,6 +267,7 @@ const CdricBurtin = () => (
     priceRange="€€€€"
     phoneNumber="+33385481298"
     website="https://cedricburtin.com/fr/"
+    aliases={["Cédric Burtin (L'Amaryllis)"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" }

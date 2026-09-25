@@ -267,6 +267,7 @@ const Arriaga = () => (
     priceRange="€€€"
     phoneNumber="+34958132619"
     website="https://www.restaurantearriaga.com/"
+    aliases={["Restaurante Arriaga"]}
     tags={[]}
     awards={[
       

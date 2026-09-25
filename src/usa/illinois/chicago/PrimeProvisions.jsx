@@ -267,6 +267,7 @@ const PrimeProvisions = () => (
     priceRange="$$$"
     phoneNumber="+13127267777"
     website="https://www.primeandprovisions.com/"
+    aliases={["Prime & Provisions Steakhouse"]}
     tags={[]}
     awards={[
       

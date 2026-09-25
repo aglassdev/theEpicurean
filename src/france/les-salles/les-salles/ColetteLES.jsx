@@ -267,6 +267,7 @@ const ColetteLES = () => (
     priceRange="€€"
     phoneNumber="+33477977410"
     website="https://www.restaurantcolette.fr/"
+    aliases={["Colette - Domaine de la Plagnette"]}
     tags={[]}
     awards={[
       

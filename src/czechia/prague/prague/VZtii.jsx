@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const VZtii = () => (
   <RestaurantPage
     restaurantName="V Zátiši"
-    address="Liliová 1, Betlémské Nám., Prague, 110 00, Czechia"
+    address="Liliová 1, Betlémské Nám., Prague, 110 00, Czech Republic"
     cuisine="Modern Cuisine"
     priceRange="€€€"
     phoneNumber="+420222221155"
     website="https://www.vzatisi.cz/en/"
+    aliases={["V Zátiší"]}
     tags={[]}
     awards={[
       

@@ -267,6 +267,7 @@ const Oyamel = () => (
     priceRange="$$"
     phoneNumber="+12026281005"
     website="https://www.oyamel.com/"
+    aliases={["Oyamel Cocina Mexicana"]}
     tags={[]}
     awards={[
       

@@ -267,6 +267,7 @@ const TopHattersKitchen = () => (
     priceRange="$$"
     phoneNumber="+15107779777"
     website="https://tophatterskitchen.com/"
+    aliases={["Top Hatters Kitchen and Bar"]}
     tags={[]}
     awards={[
       

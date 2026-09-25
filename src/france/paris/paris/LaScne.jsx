@@ -267,6 +267,7 @@ const LaScne = () => (
     priceRange="€€€€"
     phoneNumber="+33142650561"
     website="https://www.la-scene.paris/"
+    aliases={["La Scène - Stéphanie Le Quellec"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" }

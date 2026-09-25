@@ -267,6 +267,7 @@ const MaisonRuffetVillaNavarre = () => (
     priceRange="€€€"
     phoneNumber="+33559146565"
     website="https://www.maisonruffet.fr"
+    aliases={["Bistrot Ruffet - Villa Navarre"]}
     tags={[]}
     awards={[
       

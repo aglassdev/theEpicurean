@@ -267,6 +267,7 @@ const Johannas = () => (
     priceRange="€€€"
     phoneNumber="+49897411440"
     website="https://www.restaurant-johannas.de/"
+    aliases={["Restaurant Johannas"]}
     tags={[]}
     awards={[
       

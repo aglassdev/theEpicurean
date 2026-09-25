@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Buca = () => (
   <RestaurantPage
     restaurantName="Buca"
-    address="604 King St. W., Toronto, M5V 1M6, Canada"
+    address="604 King St W, Toronto, ON M5V 1M6, Canada"
     cuisine="Italian"
     priceRange="$$$"
     phoneNumber="+14168651600"
     website="https://www.buca.ca"
+    aliases={["Buca Osteria & Enoteca"]}
     tags={[]}
     awards={[
       

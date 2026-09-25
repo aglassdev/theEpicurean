@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Solare = () => (
   <RestaurantPage
     restaurantName="Solare"
-    address="2820 Roosevelt Rd., San Diego, 92106, USA"
+    address="2820 Roosevelt Rd, San Diego, CA 92106, USA"
     cuisine="Italian, Tuscan"
     priceRange="$$"
     phoneNumber="+16192709670"
     website="https://solarelounge.com/"
+    aliases={["Solare Ristorante"]}
     tags={[]}
     awards={[
       

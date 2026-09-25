@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const RestaurantDeLhtelDeVilleOLL = () => (
   <RestaurantPage
     restaurantName="Restaurant de l'Hôtel de Ville"
-    address="Place de l'Hôtel-de-Ville 3, Ollon, 1867, Switzerland"
+    address="Place de l, Pl. Hôtel de Ville 3, 1867 Ollon, Switzerland"
     cuisine="French Contemporary, Seasonal Cuisine"
     priceRange="€€€€"
     phoneNumber="+41244991922"
     website="https://www.hotel-restaurant-ollon.ch/"
+    aliases={["Restaurant de l'Hôtel de Ville d'Ollon"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

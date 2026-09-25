@@ -266,7 +266,8 @@ const OliveTree = () => (
     cuisine="Modern Cuisine"
     priceRange="££££"
     phoneNumber="+441225447928"
-    website="https://olivetreebath.co.uk"
+    website="http://www.olivetreebath.co.uk"
+    aliases={["Olive Tree Restaurant"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

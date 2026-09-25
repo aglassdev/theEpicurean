@@ -261,19 +261,20 @@ const RestaurantPage = ({
 
 const HlneDarrozeAtTheConnaught = () => (
   <RestaurantPage
-    restaurantName="Hélène Darroze at The Connaught"
-    address="Carlos Place, Mayfair, London, W1K 2AL, United Kingdom"
-    cuisine="Modern Cuisine"
-    priceRange="££££"
-    phoneNumber="+442031477200"
+    restaurantName="Connaught Bar"
+    address="The Connaught Hotel, Carlos Place, Mayfair, London, W1K 2AL"
+    cuisine="Meats and Grills"
+    priceRange="Average price per cocktail $38"
+    phoneNumber="+44 207 314 3419"
     website="https://www.the-connaught.co.uk/restaurants-bars/helene-darroze-at-the-connaught/"
+    aliases={["Hélène Darroze at The Connaught","The Connaught Grill","Connaught (Bar)"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 3, year: "2025", organization: "Guide Michelin" }
     ].filter(Boolean)}
     bio="A wood-panelled dining room within the historic Connaught Hotel might suggest an overly formal environment for Hélène Darroze’s London restaurant, but its soft furnishings and pastel colours give it a wonderfully cosy feel which helps put you at ease. The talented kitchen team bring outstanding technical mastery and attention to detail to the very best seasonal produce, while some of the accompanying flavours are informed by Hélène’s international travels, like the Isle of Mull lobster with tandoori spices. For dessert, the signature 'Baba' with a choice of Armagnacs from Hélène's brother Marc is a must...."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Carlos%20Place%2C%20Mayfair%2C%20London%2C%20W1K%202AL%2C%20United%20Kingdom"
-    pageTitle="Hélène Darroze at The Connaught"
+    pageTitle="Connaught Bar"
   />
 );
 

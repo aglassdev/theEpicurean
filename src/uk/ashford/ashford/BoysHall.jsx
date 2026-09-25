@@ -267,6 +267,7 @@ const BoysHall = () => (
     priceRange="£££"
     phoneNumber="+441233427727"
     website="https://www.boys-hall.com"
+    aliases={["The Restaurant at Boys Hall"]}
     tags={[]}
     awards={[
       

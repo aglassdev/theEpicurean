@@ -267,6 +267,7 @@ const Barr = () => (
     priceRange="€€"
     phoneNumber="+4532963293"
     website="https://restaurantbarr.com"
+    aliases={["Restaurant Barr"]}
     tags={[]}
     awards={[
       

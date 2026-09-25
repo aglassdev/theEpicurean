@@ -266,7 +266,8 @@ const RedLionEastChisenbury = () => (
     cuisine="Classic Cuisine"
     priceRange="£££"
     phoneNumber="+441980671124"
-    website="https://eastchisenbury.com/"
+    website="https://eastchisenbury.com/country-pub-restaurant"
+    aliases={["Red Lion at East Chisenbury"]}
     tags={[]}
     awards={[
       

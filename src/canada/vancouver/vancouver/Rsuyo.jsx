@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Rsuyo = () => (
   <RestaurantPage
     restaurantName="Suyo"
-    address="3475 Main St., Vancouver, V5V 3M9, Canada"
+    address="3475 Main St, Vancouver, BC V5V 3M9, Canada"
     cuisine="Peruvian, Regional Cuisine"
     priceRange="$$$$"
     phoneNumber="+16043221588"
     website="https://www.suyo.ca/"
+    aliases={["SUYO Modern Peruvian"]}
     tags={[]}
     awards={[
       

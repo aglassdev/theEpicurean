@@ -266,7 +266,8 @@ const LeiGarden = () => (
     cuisine="Cantonese"
     priceRange="$$"
     phoneNumber="+6563393822"
-    website="https://leigarden.hk"
+    website="http://www.leigarden.hk"
+    aliases={["Lei Garden (Singapore)"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

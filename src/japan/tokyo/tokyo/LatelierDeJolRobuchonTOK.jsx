@@ -267,6 +267,7 @@ const LatelierDeJolRobuchonTOK = () => (
     priceRange="¥¥¥"
     phoneNumber="+81357727500"
     website="https://www.robuchon.jp/shop-list/latelier"
+    aliases={["L'Atelier de Joël Robuchon — Tokyo"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

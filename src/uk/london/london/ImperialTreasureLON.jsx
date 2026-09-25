@@ -267,6 +267,7 @@ const ImperialTreasureLON = () => (
     priceRange="££££"
     phoneNumber="+442030111328"
     website="https://www.imperialtreasure.com/uk/"
+    aliases={["Imperial Treasure Fine Chinese Cuisine (London)"]}
     tags={[]}
     awards={[
       

@@ -267,6 +267,7 @@ const Acqua = () => (
     priceRange="฿฿฿฿"
     phoneNumber="+6676618127"
     website="https://www.acquarestaurantphuket.com"
+    aliases={["Acqua Restaurant"]}
     tags={[]}
     awards={[
       

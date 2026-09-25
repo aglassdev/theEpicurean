@@ -266,7 +266,8 @@ const Tantris = () => (
     cuisine="French Contemporary, Classic Cuisine"
     priceRange="€€€€"
     phoneNumber="+49893619590"
-    website="https://tantris.de/"
+    website="http://www.tantris.de"
+    aliases={["Tantris DNA","Tantris Restaurant"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" }

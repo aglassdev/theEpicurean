@@ -267,6 +267,7 @@ const MreBrazier = () => (
     priceRange="€€€€"
     phoneNumber="+33478231720"
     website="https://www.lamerebrazier.fr"
+    aliases={["La Mère Brazier"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" }

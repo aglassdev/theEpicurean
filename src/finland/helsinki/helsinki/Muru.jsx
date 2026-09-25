@@ -267,6 +267,7 @@ const Muru = () => (
     priceRange="€€"
     phoneNumber="+358300472335"
     website="https://www.murudining.fi"
+    aliases={["Restaurant Muru"]}
     tags={[]}
     awards={[
       

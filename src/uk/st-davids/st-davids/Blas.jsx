@@ -266,7 +266,8 @@ const Blas = () => (
     cuisine="Modern Cuisine"
     priceRange="££"
     phoneNumber="+441437725555"
-    website="https://blasrestaurant.com/"
+    website="http://www.blasrestaurant.com"
+    aliases={["Blas Restaurant"]}
     tags={[]}
     awards={[
       

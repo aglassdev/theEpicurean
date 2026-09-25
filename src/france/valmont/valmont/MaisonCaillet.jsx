@@ -267,6 +267,7 @@ const MaisonCaillet = () => (
     priceRange="€€€€"
     phoneNumber="+33235297756"
     website="https://www.maisoncaillet.com/"
+    aliases={["La Maison Caillet — Le Bec au Cauchois"]}
     tags={[{ name: "Green Star" }]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

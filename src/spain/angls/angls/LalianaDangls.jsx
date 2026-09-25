@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const LalianaDangls = () => (
   <RestaurantPage
     restaurantName="L'Aliança d'Anglès"
-    address="Jacint Verdaguer 3, Anglès, 17160, Spain"
+    address="Carrer Jacint Verdaguer, 3, 17160 Anglès, Girona, Spain"
     cuisine="Modern Cuisine, Catalan"
     priceRange="€€€€"
     phoneNumber="+34972420156"
     website="https://www.alianca1919.com/"
+    aliases={["L'Aliança 1919 d'Anglès"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

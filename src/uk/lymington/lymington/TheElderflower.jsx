@@ -267,6 +267,7 @@ const TheElderflower = () => (
     priceRange="££££"
     phoneNumber="+441590676908"
     website="https://elderflowerrestaurant.co.uk"
+    aliases={["The Elderflower Restaurant"]}
     tags={[]}
     awards={[
       

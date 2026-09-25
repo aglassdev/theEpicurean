@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const TheLochTheTyne = () => (
   <RestaurantPage
     restaurantName="The Loch & The Tyne"
-    address="10 Crimp Hill, Old Windsor, SL4 2QY, United Kingdom"
+    address="10 Crimp Hill, Old Windsor, Windsor SL4 2QY, United Kingdom"
     cuisine="British Contemporary"
     priceRange="££"
     phoneNumber="+441753851470"
     website="https://www.lochandtyne.com/"
+    aliases={["The Loch & The Tyne by Adam Handling"]}
     tags={[]}
     awards={[
       

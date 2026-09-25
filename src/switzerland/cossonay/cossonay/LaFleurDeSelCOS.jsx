@@ -267,6 +267,7 @@ const LaFleurDeSelCOS = () => (
     priceRange="€€"
     phoneNumber="+41218612608"
     website="https://www.lafleurdesel.ch/"
+    aliases={["La Fleur de Sel by Carlo Crisci"]}
     tags={[]}
     awards={[
       

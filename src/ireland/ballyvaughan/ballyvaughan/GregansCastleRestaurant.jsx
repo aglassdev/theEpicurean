@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const GregansCastleRestaurant = () => (
   <RestaurantPage
     restaurantName="Gregans Castle Restaurant"
-    address="Gregans Castle Hotel, Ballyvaughan, H91 CF60, Ireland"
+    address="Corkscrew Hill, Gragan East, Ballyvaughan, Co. Clare, H91 CF60, Ireland"
     cuisine="Modern Cuisine"
     priceRange="€€€€"
     phoneNumber="+353657077005"
     website="https://www.gregans.ie"
+    aliases={["The Dining Room at Gregans Castle"]}
     tags={[]}
     awards={[
       

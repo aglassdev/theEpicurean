@@ -267,6 +267,7 @@ const Gagini = () => (
     priceRange="€€€"
     phoneNumber="+39091589918"
     website="https://www.gaginirestaurant.com/"
+    aliases={["Gagini Restaurant"]}
     tags={[]}
     awards={[
       

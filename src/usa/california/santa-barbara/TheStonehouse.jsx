@@ -267,6 +267,7 @@ const TheStonehouse = () => (
     priceRange="$$$$"
     phoneNumber="+18055651720"
     website="https://www.stonehouserestaurant.com/"
+    aliases={["The Stonehouse Restaurant"]}
     tags={[]}
     awards={[
       

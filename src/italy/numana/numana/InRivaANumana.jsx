@@ -261,19 +261,20 @@ const RestaurantPage = ({
 
 const InRivaANumana = () => (
   <RestaurantPage
-    restaurantName="In Riva a Numana"
+    restaurantName="Riva"
     address="Via Flaminia 109, Numana, 60026, Italy"
     cuisine="Mediterranean Cuisine, Contemporary"
     priceRange="€€€"
     phoneNumber="+390719720971"
     website="https://www.rivanumana.it"
+    aliases={["In Riva a Numana"]}
     tags={[]}
     awards={[
       
     ].filter(Boolean)}
     bio="Riva is the Hotel Vista’s fine-dining restaurant, situated just behind Numana’s beach with fine panoramic views. The restaurant serves top-quality ingredients from the Adriatic and surrounding countryside in creative dishes full of flavour which are showcased on tasting menus and an à la carte...."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Via%20Flaminia%20109%2C%20Numana%2C%2060026%2C%20Italy"
-    pageTitle="In Riva a Numana"
+    pageTitle="Riva"
   />
 );
 

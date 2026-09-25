@@ -267,6 +267,7 @@ const Au14FvrierSAI = () => (
     priceRange="€€€€"
     phoneNumber="+33254030496"
     website="https://www.sv-au14fevrier.com/"
+    aliases={["Au 14 Février  -  St-Valentine"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

@@ -266,7 +266,8 @@ const Clarkes = () => (
     cuisine="Modern Cuisine"
     priceRange="£££"
     phoneNumber="+442072219225"
-    website="https://www.sallyclarke.com"
+    website="https://www.sallyclarke.com/restaurant"
+    aliases={["Clarke's Restaurant"]}
     tags={[]}
     awards={[
       

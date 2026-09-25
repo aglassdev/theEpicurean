@@ -267,6 +267,7 @@ const Goldees = () => (
     priceRange="$$"
     phoneNumber="+18174804131"
     website="https://goldeesbbq.com/"
+    aliases={["Goldee’s Barbecue"]}
     tags={[]}
     awards={[
       

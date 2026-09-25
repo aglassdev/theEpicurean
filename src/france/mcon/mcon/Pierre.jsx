@@ -267,6 +267,7 @@ const Pierre = () => (
     priceRange="€€€"
     phoneNumber="+33385381423"
     website="https://www.restaurant-pierre.com"
+    aliases={["Pierre - Mâcon"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

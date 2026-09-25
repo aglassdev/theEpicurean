@@ -267,6 +267,7 @@ const LochBay = () => (
     priceRange="££££"
     phoneNumber="+441470592235"
     website="https://www.lochbay-restaurant.co.uk/"
+    aliases={["Loch Bay Restaurant"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

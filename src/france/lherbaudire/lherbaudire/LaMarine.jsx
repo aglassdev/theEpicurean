@@ -267,6 +267,7 @@ const LaMarine = () => (
     priceRange="€€€€"
     phoneNumber="+33251392309"
     website="https://www.alexandrecouillon.com/fr/"
+    aliases={["La Marine by Alexandre Couillon"]}
     tags={[{ name: "Green Star" }]}
     awards={[
       { name: "Michelin Stars", count: 3, year: "2025", organization: "Guide Michelin" }

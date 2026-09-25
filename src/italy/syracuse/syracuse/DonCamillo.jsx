@@ -267,6 +267,7 @@ const DonCamillo = () => (
     priceRange="€€€"
     phoneNumber="+39093167133"
     website="https://www.ristorantedoncamillosiracusa.it/"
+    aliases={["Ristorante Don Camillo"]}
     tags={[]}
     awards={[
       

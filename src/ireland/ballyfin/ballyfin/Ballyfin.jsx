@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Ballyfin = () => (
   <RestaurantPage
     restaurantName="Ballyfin"
-    address="Ballyfin Demesne, Ballyfin, R32 X5X8, Ireland"
+    address="Ballyfin Demesne, Ballyfin, Co. Laois, Ireland"
     cuisine="Modern Cuisine"
     priceRange="€€€€"
     phoneNumber="+353578755866"
-    website="https://www.ballyfin.com/"
+    website="https://www.ballyfin.com/en/restaurant.html"
+    aliases={["Ballyfin Restaurant"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

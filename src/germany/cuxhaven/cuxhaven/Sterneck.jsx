@@ -266,7 +266,8 @@ const Sterneck = () => (
     cuisine="Creative"
     priceRange="€€€€"
     phoneNumber="+4947214340"
-    website="https://www.badhotel-sternhagen.de/"
+    website="https://www.badhotel-sternhagen.de/restaurants/sterneck.html"
+    aliases={["Panorama Gourmet Restaurant Sterneck"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

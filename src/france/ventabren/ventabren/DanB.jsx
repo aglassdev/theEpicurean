@@ -267,6 +267,7 @@ const DanB = () => (
     priceRange="€€€€"
     phoneNumber="+33442287933"
     website="https://www.danb.fr/"
+    aliases={["Dan B. - La Table de Ventabren"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

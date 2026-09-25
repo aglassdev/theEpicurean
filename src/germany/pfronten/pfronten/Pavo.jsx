@@ -266,7 +266,8 @@ const Pavo = () => (
     cuisine="Modern Cuisine, Classic Cuisine"
     priceRange="€€€€"
     phoneNumber="+498363914540"
-    website="https://www.blaueburg.com"
+    website="https://www.burghotel-falkenstein.de/de-DE/essen-trinken/restaurantpavo"
+    aliases={["PAVO im Burghotel Falkenstein"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

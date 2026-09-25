@@ -266,7 +266,8 @@ const JolRobuchon = () => (
     cuisine="French, Contemporary"
     priceRange="¥¥¥¥"
     phoneNumber="+81354241347"
-    website="https://www.robuchon.jp/"
+    website="https://www.robuchon.jp/en/shop-list/joelrobuchon"
+    aliases={["Joël Robuchon Restaurant"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 3, year: "2025", organization: "Guide Michelin" }

@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const GbRoofGarden = () => (
   <RestaurantPage
     restaurantName="GB Roof Garden"
-    address="1A Vasileos Georgiou A street, Athens, 105 64, Greece"
+    address="1 Vasileos Georgiou A’ Str. Syntagma Square, Athens 105 64 Greece"
     cuisine="Mediterranean Cuisine"
     priceRange="€€€"
     phoneNumber="+302103330766"
     website="https://www.gbroofgarden.gr"
+    aliases={["GB Roof Garden Restaurant"]}
     tags={[]}
     awards={[
       

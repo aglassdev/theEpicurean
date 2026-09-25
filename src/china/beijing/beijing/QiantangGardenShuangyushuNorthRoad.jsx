@@ -261,19 +261,20 @@ const RestaurantPage = ({
 
 const QiantangGardenShuangyushuNorthRoad = () => (
   <RestaurantPage
-    restaurantName="Qiantang Garden (Shuangyushu North Road)"
+    restaurantName="Qiantang Garden"
     address="59 Shuangyushu North Road, Haidian, Beijing, China Mainland"
     cuisine="Ningbo"
     priceRange="¥¥"
     phoneNumber="+861062550308"
     website="https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/qiantang-garden"
+    aliases={["Qiantang Garden (Shuangyushu North Road)"]}
     tags={[]}
     awards={[
       
     ].filter(Boolean)}
     bio="The owner opened this joint in early 2000s to serve signature dishes from his hometown of Ningbo, especially seafood – his close connections with fishermen back home mean he gets the freshest catch shipped to him daily. Pick from the fish tank, or try specialities such as oil-blanched river shrimps seasoned with a dash of vinegar and grated ginger. Hairtail cooked in myriad ways is also popular, perfect with house-made waxberry juice...."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=59%20Shuangyushu%20North%20Road%2C%20Haidian%2C%20Beijing%2C%20China%20Mainland"
-    pageTitle="Qiantang Garden (Shuangyushu North Road)"
+    pageTitle="Qiantang Garden"
   />
 );
 

@@ -267,6 +267,7 @@ const Passerini = () => (
     priceRange="€€"
     phoneNumber="+33143422756"
     website="https://www.passerini.paris/"
+    aliases={["Restaurant Passerini"]}
     tags={[]}
     awards={[
       

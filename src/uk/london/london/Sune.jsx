@@ -267,6 +267,7 @@ const Sune = () => (
     priceRange="£££"
     phoneNumber="+442045686675"
     website="https://www.sune.restaurant"
+    aliases={["Sune Restaurant"]}
     tags={[]}
     awards={[
       

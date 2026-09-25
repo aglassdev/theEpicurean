@@ -267,6 +267,7 @@ const Virtue = () => (
     priceRange="$$"
     phoneNumber="+17739478831"
     website="https://www.virtuerestaurant.com/"
+    aliases={["Virtue Restaurant"]}
     tags={[]}
     awards={[
       

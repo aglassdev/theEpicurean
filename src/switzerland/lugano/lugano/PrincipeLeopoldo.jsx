@@ -267,6 +267,7 @@ const PrincipeLeopoldo = () => (
     priceRange="€€€€"
     phoneNumber="+41919858855"
     website="https://leopoldohotel.com/en/"
+    aliases={["Ristorante Principe Leopoldo"]}
     tags={[]}
     awards={[
       

@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Freemasons = () => (
   <RestaurantPage
     restaurantName="Freemasons"
-    address="8 Vicarage Fold, Wiswell, BB7 9DF, United Kingdom"
+    address="Freemasons Arms, 8 Vicarage Fold, Wiswell, Clitheroe BB7 9DF, United Kingdom"
     cuisine="Modern British"
     priceRange="£££"
     phoneNumber="+441254822218"
     website="https://www.freemasonsatwiswell.com"
+    aliases={["Freemasons at Wiswell"]}
     tags={[]}
     awards={[
       

@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Roscioli = () => (
   <RestaurantPage
     restaurantName="Roscioli"
-    address="via dei Giubbonari 21, Rome, 00186, Italy"
+    address="Via dei Giubbonari, 21, Rione I Monti, Rome, 00186 Roma RM"
     cuisine="Roman, Italian"
-    priceRange="€€"
-    phoneNumber="+39066875287"
+    priceRange="Average price per person $65"
+    phoneNumber="+39 06 687 5287"
     website="https://www.salumeriaroscioli.com/"
+    aliases={["Ristorante Roscioli","Roscioli Salumeria con Cucina"]}
     tags={[]}
     awards={[
       

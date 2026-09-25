@@ -267,6 +267,7 @@ const Mizumi = () => (
     priceRange="$$$$"
     phoneNumber="+85388893688"
     website="https://www.wynnresortsmacau.com/en/wynn-palace/dining/mizumi-wp"
+    aliases={["Sushi Mizumi"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

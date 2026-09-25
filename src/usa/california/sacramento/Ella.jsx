@@ -267,6 +267,7 @@ const Ella = () => (
     priceRange="$$$"
     phoneNumber="+19164433772"
     website="https://elladiningroomandbar.com"
+    aliases={["Ella Dining Room & Bar"]}
     tags={[]}
     awards={[
       

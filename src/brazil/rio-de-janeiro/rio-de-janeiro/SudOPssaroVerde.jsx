@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const SudOPssaroVerde = () => (
   <RestaurantPage
     restaurantName="Sud, O Pássaro Verde"
-    address="Rua Visconde de Carandaí 35, Rio de Janeiro, 22460-020, Brazil"
+    address="R. Visc. de Carandaí, 35 - Jardim Botânico, Rio de Janeiro - RJ, 22460-020, Brazil"
     cuisine="Brazilian"
     priceRange="$$$"
     phoneNumber="+552131140464"
     website="https://www.robertasudbrack.com.br/"
+    aliases={["Sud, o pássaro verde Café"]}
     tags={[]}
     awards={[
       

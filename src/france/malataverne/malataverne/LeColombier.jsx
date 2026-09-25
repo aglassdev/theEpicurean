@@ -267,6 +267,7 @@ const LeColombier = () => (
     priceRange="€€€€"
     phoneNumber="+33475908686"
     website="https://www.domaine-colombier.com/"
+    aliases={["Domaine du Colombier"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

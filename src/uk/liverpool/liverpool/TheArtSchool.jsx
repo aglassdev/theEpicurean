@@ -267,6 +267,7 @@ const TheArtSchool = () => (
     priceRange="££££"
     phoneNumber="+441512308600"
     website="https://theartschoolrestaurant.co.uk"
+    aliases={["The Art School Restaurant"]}
     tags={[]}
     awards={[
       

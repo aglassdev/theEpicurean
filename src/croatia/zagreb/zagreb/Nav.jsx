@@ -267,6 +267,7 @@ const Nav = () => (
     priceRange="€€€€"
     phoneNumber="+38512029961"
     website="https://www.nav-restaurant.com"
+    aliases={["Restaurant Nav"]}
     tags={[]}
     awards={[
       

@@ -8,7 +8,7 @@
   "citySlug": "chicago",
   "path": "/usa/illinois/chicago/restaurants",
   "canonicalPath": "/usa/illinois/chicago/restaurants",
-  "count": 234,
+  "count": 229,
   "restaurants": [
     {
       "name": "Alinea",
@@ -445,12 +445,6 @@
       "path": "/usa/illinois/chicago/chefs-special-cocktail-bar"
     },
     {
-      "name": "Chef's Table at Astor Club",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/illinois/chicago/chefs-table-at-astor-club"
-    },
-    {
       "name": "Cherry Circle Room",
       "cuisine": "",
       "price": "",
@@ -488,9 +482,9 @@
     },
     {
       "name": "Coach House",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/illinois/chicago/coach-house"
+      "cuisine": "South East Asian, Indian",
+      "price": "$$$$",
+      "path": "/usa/illinois/chicago/the-coach-house-by-wazwan"
     },
     {
       "name": "Coalfire",
@@ -592,7 +586,7 @@
       "name": "Gaijin",
       "cuisine": "Japanese, Okonomiyaki",
       "price": "$$",
-      "path": "/usa/illinois/chicago/gaijin"
+      "path": "/usa/illinois/chicago/gaijin-c-h-i"
     },
     {
       "name": "GG's Chicken Shop",
@@ -847,12 +841,6 @@
       "path": "/usa/illinois/chicago/mi-tocaya"
     },
     {
-      "name": "Mi Tocaya Antojería",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/illinois/chicago/mi-tocaya-antojera"
-    },
-    {
       "name": "Milk Room (Bar)",
       "cuisine": "",
       "price": "",
@@ -1027,12 +1015,6 @@
       "path": "/usa/illinois/chicago/prime-provisions"
     },
     {
-      "name": "Prime & Provisions Steakhouse",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/illinois/chicago/prime-provisions-steakhouse"
-    },
-    {
       "name": "Provaré",
       "cuisine": "Fusion, Creole",
       "price": "$$$",
@@ -1052,12 +1034,6 @@
     },
     {
       "name": "Queen Mary",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/illinois/chicago/queen-mary"
-    },
-    {
-      "name": "Queen Mary Tavern",
       "cuisine": "",
       "price": "",
       "path": "/usa/illinois/chicago/queen-mary-tavern"
@@ -1258,7 +1234,7 @@
       "name": "The Coach House by Wazwan",
       "cuisine": "South East Asian, Indian",
       "price": "$$$$",
-      "path": "/usa/illinois/chicago/the-coach-house-by-wazwan"
+      "path": "/usa/other/chicago/the-coach-house-by-wazwan"
     },
     {
       "name": "The Duck Inn",
@@ -1378,7 +1354,7 @@
       "name": "Union",
       "cuisine": "American, Gastropub",
       "price": "$$",
-      "path": "/usa/illinois/chicago/union"
+      "path": "/usa/illinois/chicago/union-c-h-i"
     },
     {
       "name": "Valhalla",
@@ -1391,12 +1367,6 @@
       "cuisine": "Southern, Regional Cuisine",
       "price": "$$",
       "path": "/usa/illinois/chicago/virtue"
-    },
-    {
-      "name": "Virtue Restaurant",
-      "cuisine": "",
-      "price": "",
-      "path": "/usa/illinois/chicago/virtue-restaurant"
     },
     {
       "name": "Vivere",

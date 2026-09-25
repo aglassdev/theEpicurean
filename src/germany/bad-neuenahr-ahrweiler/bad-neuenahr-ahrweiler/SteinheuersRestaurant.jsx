@@ -267,6 +267,7 @@ const SteinheuersRestaurant = () => (
     priceRange="€€€€"
     phoneNumber="+49264194860"
     website="https://www.steinheuers.de/steinheuers-restaurant/"
+    aliases={["Steinheuers Restaurant Zur Alten Post"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" }

@@ -267,6 +267,7 @@ const TheBull = () => (
     priceRange="££"
     phoneNumber="+441608656957"
     website="https://thebullcharlbury.com"
+    aliases={["The Bull Charlbury"]}
     tags={[]}
     awards={[
       

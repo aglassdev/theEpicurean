@@ -267,6 +267,7 @@ const DrunkenDuckInn = () => (
     priceRange="££"
     phoneNumber="+441539436347"
     website="https://drunkenduckinn.co.uk"
+    aliases={["The Drunken Duck Inn"]}
     tags={[]}
     awards={[
       

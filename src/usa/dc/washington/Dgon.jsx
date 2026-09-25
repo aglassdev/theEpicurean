@@ -267,6 +267,7 @@ const Dgon = () => (
     priceRange="$$$$"
     phoneNumber="+12027876032"
     website="https://www.salamanderdc.com/dining/dogon/"
+    aliases={["Dōgon by Kwame Onwuachi"]}
     tags={[]}
     awards={[
       

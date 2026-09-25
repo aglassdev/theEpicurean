@@ -267,6 +267,7 @@ const Gaston = () => (
     priceRange="$$"
     phoneNumber="+6569098120"
     website="https://www.bistrogaston.sg"
+    aliases={["Bistro Gaston"]}
     tags={[]}
     awards={[
       

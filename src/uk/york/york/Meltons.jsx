@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Meltons = () => (
   <RestaurantPage
     restaurantName="Melton's"
-    address="7 Scarcroft Road, York, YO23 1ND, United Kingdom"
+    address="Meltons Restaurant, 7 Scarcroft Rd, York YO23 1ND, UK"
     cuisine="Modern British"
     priceRange="£££"
     phoneNumber="+441904634341"
     website="https://meltonsrestaurant.co.uk/"
+    aliases={["Melton's Restaurant"]}
     tags={[]}
     awards={[
       

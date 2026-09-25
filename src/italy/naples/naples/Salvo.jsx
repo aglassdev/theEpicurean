@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Salvo = () => (
   <RestaurantPage
     restaurantName="Salvo"
-    address="Riviera di Chiaia 271, Naples, 80121, Italy"
+    address="Riviera di Chiaia, 271, 80121 Napoli NA, Italy"
     cuisine="Pizza"
     priceRange="€"
     phoneNumber="+390813599926"
     website="https://www.pizzeriasalvo.it/"
+    aliases={["Pizzeria Salvo"]}
     tags={[]}
     awards={[
       

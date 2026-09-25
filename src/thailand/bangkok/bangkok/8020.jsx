@@ -267,6 +267,7 @@ const EightZeroTwoZero = () => (
     priceRange="฿฿฿฿"
     phoneNumber="+66991182200"
     website="https://www.8020bkk.com"
+    aliases={["80/20 Eighty Twenty"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

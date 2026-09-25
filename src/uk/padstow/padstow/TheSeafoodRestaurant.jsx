@@ -266,7 +266,8 @@ const TheSeafoodRestaurant = () => (
     cuisine="Seafood"
     priceRange="£££"
     phoneNumber="+441841532700"
-    website="https://www.rickstein.com/"
+    website="https://rickstein.com/restaurants/the-seafood-restaurant"
+    aliases={["The Seafood Restaurant by Rick Stein"]}
     tags={[]}
     awards={[
       

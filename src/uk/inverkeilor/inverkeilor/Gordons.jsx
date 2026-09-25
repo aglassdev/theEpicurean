@@ -267,6 +267,7 @@ const Gordons = () => (
     priceRange="££££"
     phoneNumber="+441241830364"
     website="https://www.gordonsrestaurant.co.uk/"
+    aliases={["Gordon's Restaurant with Rooms"]}
     tags={[]}
     awards={[
       

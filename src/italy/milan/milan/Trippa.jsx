@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Trippa = () => (
   <RestaurantPage
     restaurantName="Trippa"
-    address="via Giorgio Vasari 1, Milan, 20135, Italy"
+    address="Via Giorgio Vasari, 1, 20135 Milano MI, Italy"
     cuisine="Italian, Seasonal Cuisine"
     priceRange="€€"
     phoneNumber="+393276687908"
     website="https://www.trippamilano.it/"
+    aliases={["Trattoria Trippa"]}
     tags={[]}
     awards={[
       

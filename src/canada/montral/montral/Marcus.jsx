@@ -267,6 +267,7 @@ const Marcus = () => (
     priceRange="$$$$"
     phoneNumber="+15148432525"
     website="https://www.fourseasons.com/montreal/dining/restaurants/marcus-restaurant-and-terrace/"
+    aliases={["MARCUS Restaurant + Lounge"]}
     tags={[]}
     awards={[
       

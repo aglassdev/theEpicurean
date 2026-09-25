@@ -267,6 +267,7 @@ const Briketenia = () => (
     priceRange="€€€"
     phoneNumber="+33559265134"
     website="https://www.briketenia.com/fr/"
+    aliases={["Brikéténia"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

@@ -267,6 +267,7 @@ const Gwen = () => (
     priceRange="££££"
     phoneNumber="+441654701100"
     website="https://www.gwenrestaurant.co.uk"
+    aliases={["Gwen Restaurant & Wine Bar"]}
     tags={[]}
     awards={[
       

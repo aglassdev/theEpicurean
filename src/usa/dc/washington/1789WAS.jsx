@@ -267,6 +267,7 @@ const OneSevenEightNineWAS = () => (
     priceRange="$$$$"
     phoneNumber="+12029651789"
     website="https://www.1789restaurant.com/"
+    aliases={["1789 Restaurant & Bar"]}
     tags={[]}
     awards={[
       

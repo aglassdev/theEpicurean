@@ -267,6 +267,7 @@ const LePatio = () => (
     priceRange="€€€"
     phoneNumber="+33556830272"
     website="https://www.lepatio-thierryrenou.com/"
+    aliases={["Le Patio Thierry Renou"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

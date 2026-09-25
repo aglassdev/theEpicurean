@@ -261,19 +261,20 @@ const RestaurantPage = ({
 
 const CerdoNegro1985 = () => (
   <RestaurantPage
-    restaurantName="Cerdo Negro 1985"
+    restaurantName="Cerdo Negro"
     address="5 Vitonos Street, Athens, 11854, Greece"
     cuisine="Mediterranean Cuisine, Fusion"
     priceRange="€€"
     phoneNumber="+302103470628"
     website="https://www.cerdonegro1985.com"
+    aliases={["Cerdo Negro 1985"]}
     tags={[]}
     awards={[
       
     ].filter(Boolean)}
     bio="This restaurant has reinvented itself over the years and what started out as a small tavern is now a vibrant multi-cultural dining space. Occupying an old Greek house with a charming covered patio near the Kerameikos archaeological site, it provides the perfect setting in which to sample contemporary international cuisine. Run in relaxed fashion by the Alexopoulos brothers, the restaurant serves dishes that combine Greek heritage with the brothers’ passion for Spanish cuisine, with fire and smoke adding the finishing touch to the flavours on offer. Choose between à la carte options and a six-course tasting menu entitled Taste of Cerdo Negro. We can highly recommend the homemade bread as well as the “Welcome to Cerdo Negro” starter...."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=5%20Vitonos%20Street%2C%20Athens%2C%2011854%2C%20Greece"
-    pageTitle="Cerdo Negro 1985"
+    pageTitle="Cerdo Negro"
   />
 );
 

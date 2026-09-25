@@ -267,6 +267,7 @@ const Dama = () => (
     priceRange="$$$"
     phoneNumber="+12137410612"
     website="https://damafashiondistrict.com/"
+    aliases={["DAMA Fashion District Restaurant & Bar"]}
     tags={[]}
     awards={[
       

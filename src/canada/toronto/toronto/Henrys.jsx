@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Henrys = () => (
   <RestaurantPage
     restaurantName="Henry's"
-    address="922 Queen St. W., Toronto, M6J 1G6, Canada"
+    address="922 Queen St W, Toronto, ON M6J 1G6, Canada"
     cuisine="Contemporary"
     priceRange="$$$"
     phoneNumber="+14163865352"
     website="https://www.henrystoronto.ca/"
+    aliases={["Henry's Restaurant"]}
     tags={[]}
     awards={[
       

@@ -267,6 +267,7 @@ const LeFahamPAR = () => (
     priceRange="€€€"
     phoneNumber="+33153814818"
     website="https://www.lefaham.com"
+    aliases={["Le Faham by Kelly Rangama"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

@@ -267,6 +267,7 @@ const MichelTrama = () => (
     priceRange="€€€€"
     phoneNumber="+33553953146"
     website="https://www.aubergade.com"
+    aliases={["Michel Trama - L'Aubergade"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

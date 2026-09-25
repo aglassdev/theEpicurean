@@ -267,6 +267,7 @@ const LaoZhengXing = () => (
     priceRange="¥¥"
     phoneNumber="+862163222624"
     website="https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lao-zheng-xing-huangpu"
+    aliases={["Lao Zheng Xing (Huangpu)"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

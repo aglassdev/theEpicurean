@@ -267,6 +267,7 @@ const Assonica = () => (
     priceRange="€€€"
     phoneNumber="+390354128398"
     website="https://osteriadegliassonica.it/"
+    aliases={["Osteria degli Assonica"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

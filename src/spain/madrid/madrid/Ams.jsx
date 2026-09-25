@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Ams = () => (
   <RestaurantPage
     restaurantName="Amós"
-    address="Paseo de la Castellana 22, Madrid, 28046, Spain"
+    address="C. de José Ortega y Gasset, 2, 28006 Madrid, Spain"
     cuisine="Modern Cuisine, Contemporary"
     priceRange="€€€"
     phoneNumber="+34915871991"
-    website="https://www.rosewoodhotels.com"
+    website="https://www.rosewoodhotels.com/es/villa-magna/dining/amos"
+    aliases={["AMÓS Restaurante"]}
     tags={[]}
     awards={[
       

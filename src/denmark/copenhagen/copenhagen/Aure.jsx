@@ -267,6 +267,7 @@ const Aure = () => (
     priceRange="€€€€"
     phoneNumber="+4531686568"
     website="https://www.restaurantaure.dk"
+    aliases={["Restaurant Aure"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

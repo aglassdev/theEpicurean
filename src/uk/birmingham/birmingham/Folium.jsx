@@ -267,6 +267,7 @@ const Folium = () => (
     priceRange="££££"
     phoneNumber="+441216380100"
     website="https://www.restaurantfolium.com"
+    aliases={["Restaurant Folium"]}
     tags={[]}
     awards={[
       

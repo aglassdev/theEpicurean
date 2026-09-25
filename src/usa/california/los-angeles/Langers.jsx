@@ -267,6 +267,7 @@ const Langers = () => (
     priceRange="$$"
     phoneNumber="+12134838050"
     website="https://www.langersdeli.com/"
+    aliases={["Langer's Delicatessen"]}
     tags={[]}
     awards={[
       

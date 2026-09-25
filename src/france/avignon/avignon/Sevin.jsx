@@ -267,6 +267,7 @@ const Sevin = () => (
     priceRange="€€€"
     phoneNumber="+33490861650"
     website="https://www.restaurantsevin.fr/"
+    aliases={["Restaurant Sevin"]}
     tags={[]}
     awards={[
       

@@ -267,6 +267,7 @@ const DucasseBaccarat = () => (
     priceRange="€€€€"
     phoneNumber="+33184751315"
     website="https://www.ducasse-baccarat-paris.com/"
+    aliases={["Alain Ducasse Baccarat"]}
     tags={[]}
     awards={[
       

@@ -267,6 +267,7 @@ const SolaLON = () => (
     priceRange="££££"
     phoneNumber="+442037307883"
     website="https://www.solasoho.com/"
+    aliases={["SOLA Soho"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

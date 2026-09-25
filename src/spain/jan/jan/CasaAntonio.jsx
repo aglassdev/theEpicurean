@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const CasaAntonio = () => (
   <RestaurantPage
     restaurantName="Casa Antonio"
-    address="Fermín Palma 3, Jaén, 23008, Spain"
+    address="C. Fermín Palma, 3, 23008 Jaén, Spain"
     cuisine="Contemporary"
     priceRange="€€€"
     phoneNumber="+34953270262"
     website="https://www.casantonio.es"
+    aliases={["Restaurante Casa Antonio"]}
     tags={[]}
     awards={[
       

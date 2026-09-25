@@ -267,6 +267,7 @@ const RumourByJenRcz = () => (
     priceRange="€€€€"
     phoneNumber="+36209267837"
     website="https://rumour.restaurant/"
+    aliases={["Rumour by Rácz Jenő"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

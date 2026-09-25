@@ -267,6 +267,7 @@ const Pche = () => (
     priceRange="$$$"
     phoneNumber="+15045221744"
     website="https://www.pecherestaurant.com"
+    aliases={["Pêche Seafood Grill"]}
     tags={[]}
     awards={[
       

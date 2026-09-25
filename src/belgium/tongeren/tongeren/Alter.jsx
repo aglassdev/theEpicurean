@@ -267,6 +267,7 @@ const Alter = () => (
     priceRange="€€€€"
     phoneNumber="+3212741674"
     website="https://www.restaurant-alter.be/"
+    aliases={["Altermezzo"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

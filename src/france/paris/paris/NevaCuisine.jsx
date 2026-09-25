@@ -267,6 +267,7 @@ const NevaCuisine = () => (
     priceRange="€€€"
     phoneNumber="+33145221891"
     website="https://www.nevacuisineparis.com/"
+    aliases={["Néva Cuisine"]}
     tags={[]}
     awards={[
       

@@ -267,6 +267,7 @@ const Magellan = () => (
     priceRange="€€"
     phoneNumber="+381691519000"
     website="https://www.magellan.rs/"
+    aliases={["Restoran Magellan"]}
     tags={[]}
     awards={[
       

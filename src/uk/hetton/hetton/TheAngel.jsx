@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const TheAngel = () => (
   <RestaurantPage
     restaurantName="The Angel"
-    address="Hetton, BD23 6LT, United Kingdom"
+    address="Back Ln, Hetton, Skipton BD23 6LT, UK"
     cuisine="Modern Cuisine"
     priceRange="££££"
     phoneNumber="+441756730263"
     website="https://angelhetton.co.uk/"
+    aliases={["The Angel at Hetton"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

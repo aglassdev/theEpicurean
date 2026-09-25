@@ -267,6 +267,7 @@ const Oxte = () => (
     priceRange="€€€€"
     phoneNumber="+33145751515"
     website="https://www.restaurant-oxte.com"
+    aliases={["Restaurant Oxte"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

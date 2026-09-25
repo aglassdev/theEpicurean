@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Larcangelo = () => (
   <RestaurantPage
     restaurantName="L'Arcangelo"
-    address="via Giuseppe Gioacchino Belli 59, Rome, 00193, Italy"
+    address="Via Giuseppe Gioachino Belli, 59, 00193 Roma RM, Italy"
     cuisine="Roman, Farm to table"
     priceRange="€€"
     phoneNumber="+39063210992"
     website="https://www.larcangelo.com"
+    aliases={["L'Arcangelo Vino e Cucina"]}
     tags={[]}
     awards={[
       

@@ -267,6 +267,7 @@ const LucasCarton = () => (
     priceRange="€€€€"
     phoneNumber="+33142652290"
     website="https://www.lucascarton.com/"
+    aliases={["Lucas Carton - La Table"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

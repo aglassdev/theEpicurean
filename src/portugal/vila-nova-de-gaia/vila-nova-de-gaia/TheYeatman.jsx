@@ -267,6 +267,7 @@ const TheYeatman = () => (
     priceRange="€€€€"
     phoneNumber="+351220133100"
     website="https://guide.michelin.com/en/porto-region/vila-nova-de-gaia/restaurant/the-yeatman"
+    aliases={["The Yeatman Gastronomic R."]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" }

@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const George = () => (
   <RestaurantPage
     restaurantName="George"
-    address="111C Queen St. E., Toronto, M5C 1S2, Canada"
+    address="111C Queen St E, Toronto, ON M5C 1S2, Canada"
     cuisine="Contemporary"
     priceRange="$$$$"
     phoneNumber="+14168636006"
     website="https://georgeonqueen.com/"
+    aliases={["George Restaurant"]}
     tags={[]}
     awards={[
       

@@ -267,6 +267,7 @@ const Plah = () => (
     priceRange="€€€€"
     phoneNumber="+4722564300"
     website="https://plah.no"
+    aliases={["Plah Restaurant"]}
     tags={[]}
     awards={[
       

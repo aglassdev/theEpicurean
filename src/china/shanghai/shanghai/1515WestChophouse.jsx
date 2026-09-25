@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const OneFiveOneFiveWestChophouse = () => (
   <RestaurantPage
     restaurantName="1515 West Chophouse"
-    address="4F, Jing An Shangri-La Hotel, 1218 Middle Yan'an Road, Jingan, Shanghai, China Mainland"
+    address="Level 4,1218 Middle Yan'an Road, Jing An Kerry Centre, West Nanjing Road, Shanghai, China"
     cuisine="Steakhouse"
     priceRange="¥¥¥"
     phoneNumber="+862122038889"
     website="https://www.shangri-la.com/shanghai/jinganshangrila/dining/restaurants/the-1515-west-chophouse-and-bar/"
+    aliases={["1515 West Chophouse & Bar"]}
     tags={[]}
     awards={[
       

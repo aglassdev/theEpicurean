@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const TheCross = () => (
   <RestaurantPage
     restaurantName="The Cross"
-    address="16 New Street, Kenilworth, CV8 2EZ, United Kingdom"
+    address="The Cross at Kenilworth Limited, 16 New St, Kenilworth CV8 2EZ, UK"
     cuisine="British Contemporary"
     priceRange="£££"
     phoneNumber="+441926853840"
     website="https://www.thecrosskenilworth.co.uk/"
+    aliases={["The Cross at Kenilworth"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

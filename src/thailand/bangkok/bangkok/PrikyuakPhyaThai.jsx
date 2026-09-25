@@ -261,19 +261,20 @@ const RestaurantPage = ({
 
 const PrikyuakPhyaThai = () => (
   <RestaurantPage
-    restaurantName="Prik-Yuak (Phya Thai)"
+    restaurantName="Prik-Yuak"
     address="108 Pradiphat Road, Phaya Thai, Bangkok, 10400, Thailand"
     cuisine="Thai"
     priceRange="฿฿"
     phoneNumber="+66816482282"
     website="https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/prik-yuak"
+    aliases={["Prik-Yuak (Phya Thai)"]}
     tags={[]}
     awards={[
       
     ].filter(Boolean)}
     bio="Prik-Yuak has flourished for 30 years, starting in the bustling Chatuchak markets and now stationed in a spacious, inviting location. The restaurant maintains its beloved approach to home-style Thai cooking. Signature dishes like the Southern Thai pork belly and egg stew showcase tender meat, boiled eggs, and tofu. The venue charms with light, earth-toned decor, a serene garden, and includes a café and boutique shop to enhance the dining experience...."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=108%20Pradiphat%20Road%2C%20Phaya%20Thai%2C%20Bangkok%2C%2010400%2C%20Thailand"
-    pageTitle="Prik-Yuak (Phya Thai)"
+    pageTitle="Prik-Yuak"
   />
 );
 

@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Kota = () => (
   <RestaurantPage
     restaurantName="Kota"
-    address="Harbour Head, Porthleven, TR13 9JA, United Kingdom"
+    address="Porthleven, Harbour Head, Helston, Porthleven TR13 9JA, UK"
     cuisine="Asian Influences"
     priceRange="££"
     phoneNumber="+441326562407"
     website="https://kotarestaurant.co.uk"
+    aliases={["Kota Restaurant with Rooms"]}
     tags={[]}
     awards={[
       

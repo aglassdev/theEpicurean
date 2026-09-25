@@ -266,7 +266,8 @@ const MichaelsGenuine = () => (
     cuisine="Contemporary, American"
     priceRange="$$$"
     phoneNumber="+13056760894"
-    website="https://michaelsgenuine.com/"
+    website="https://www.michaelsgenuine.com"
+    aliases={["Michael's Genuine Food & Drink"]}
     tags={[]}
     awards={[
       

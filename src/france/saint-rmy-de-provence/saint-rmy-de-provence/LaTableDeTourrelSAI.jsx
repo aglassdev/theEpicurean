@@ -267,6 +267,7 @@ const LaTableDeTourrelSAI = () => (
     priceRange="€€€€"
     phoneNumber="+33484350720"
     website="https://www.detourrel.com/"
+    aliases={["Restaurant de Tourrel"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

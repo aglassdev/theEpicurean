@@ -267,6 +267,7 @@ const Fiorella = () => (
     priceRange="$$"
     phoneNumber="+12153059222"
     website="https://fiorellaphilly.com/"
+    aliases={["Fiorella Pasta"]}
     tags={[]}
     awards={[
       

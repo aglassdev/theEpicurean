@@ -267,6 +267,7 @@ const CasaEnrique = () => (
     priceRange="$$"
     phoneNumber="+13474486040"
     website="https://casaenriquelic.com/"
+    aliases={["Casa Enríque"]}
     tags={[]}
     awards={[
       

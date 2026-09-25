@@ -1,5 +1,5 @@
 {
-  "restaurantName": "Thomas, the brasserie",
+  "restaurantName": "Thomas",
   "address": "3-5 Pontcanna Street, Cardiff, CF11 9HQ, United Kingdom",
   "cuisine": "Modern British",
   "priceRange": "$$$",
@@ -23,6 +23,11 @@
       "image": "/images/michelin.png"
     }
   ],
-  "bio": "Hidden away in the leafy suburbs of Cardiff, this is a true neighbourhood restaurant which continues to develop and evolve. Begin with a cocktail in the spacious, formal bar, before taking a seat in the cosy downstairs or moody first-floor dining room. Proud Welshman Tom Simmons is at the helm, bringing his love of local produce to bear in technically impressive, full-flavoured dishes built on the likes of Pembrokeshire oysters and saddle of Welsh lamb. Whatever you order, be sure to start with some superb sourdough from their own bakery, Ground.",
-  "pageTitle": "Thomas, the brasserie"
+  "bio": "Hidden away in the leafy suburbs of Cardiff, this is a true neighbourhood restaurant which continues to develop and evolve. Begin with a cocktail in the spacious, formal bar, before taking a seat in the cosy downstairs or moody first-floor dining room. Proud Welshman Tom Simmons is at the helm, bringing his love of local produce to bear in technically impressive, full-flavoured dishes built on the likes of Pembrokeshire oysters and saddle of Welsh lamb. Whatever you order, be sure to start with some superb sourdough from their own bakery, Ground....",
+  "pageTitle": "Thomas",
+  "googleMapsEmbed": "https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=3-5%20Pontcanna%20Street%2C%20Cardiff%2C%20CF11%209HQ%2C%20United%20Kingdom",
+  "aliases": [
+    "Thomas, the brasserie",
+    "Thomas by Tom Simmons"
+  ]
 }

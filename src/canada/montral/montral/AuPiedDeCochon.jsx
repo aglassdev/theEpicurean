@@ -266,7 +266,8 @@ const AuPiedDeCochon = () => (
     cuisine="Regional Cuisine"
     priceRange="$$$"
     phoneNumber=""
-    website="https://www.aupieddecochon.ca/us/"
+    website="https://www.aupieddecochon.ca/fc/nos-restaurants/restaurant-au-pied-de-cochon"
+    aliases={["Restaurant Au Pied de Cochon"]}
     tags={[]}
     awards={[
       

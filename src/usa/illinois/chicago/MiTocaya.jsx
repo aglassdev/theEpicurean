@@ -267,6 +267,7 @@ const MiTocaya = () => (
     priceRange="$$"
     phoneNumber="+18723153947"
     website="https://www.mitocaya.com/"
+    aliases={["Mi Tocaya Antojería"]}
     tags={[]}
     awards={[
       

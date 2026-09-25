@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const GinoSorbillo = () => (
   <RestaurantPage
     restaurantName="Gino Sorbillo"
-    address="via dei Tribunali 32, Naples, 80138, Italy"
+    address="Via dei Tribunali, 32, 80138 Napoli NA, Italy"
     cuisine="Pizza"
     priceRange="€"
     phoneNumber="+39081446643"
     website="https://www.sorbillo.it/"
+    aliases={["Gino e Toto Sorbillo"]}
     tags={[]}
     awards={[
       

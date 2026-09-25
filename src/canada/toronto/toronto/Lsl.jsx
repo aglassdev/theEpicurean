@@ -267,6 +267,7 @@ const Lsl = () => (
     priceRange="$$$$"
     phoneNumber="+16479382066"
     website="https://lslrestaurant.ca/"
+    aliases={["LSL Restaurant"]}
     tags={[]}
     awards={[
       

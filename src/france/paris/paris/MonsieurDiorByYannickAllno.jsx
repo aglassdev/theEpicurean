@@ -267,6 +267,7 @@ const MonsieurDiorByYannickAllno = () => (
     priceRange="€€€€"
     phoneNumber="+33140735363"
     website="http://www.dior.com/fr_fr/fashion/30-montaigne/le-restaurant-monsieur-dior"
+    aliases={["Monsieur Dior by Yannick Alléno — DIOR Paris 30 Montaigne"]}
     tags={[]}
     awards={[
       

@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const CafeLaTrova = () => (
   <RestaurantPage
     restaurantName="Cafe La Trova"
-    address="971 S.W. 8th St., Miami, 33130, USA"
+    address="971 S.W. 8th St., Miami, FL, 33130, USA"
     cuisine="Cuban, Latin American"
     priceRange="$$$"
     phoneNumber="+17866154379"
     website="https://www.cafelatrova.com/"
+    aliases={["Café La Trova (Bar)"]}
     tags={[]}
     awards={[
       

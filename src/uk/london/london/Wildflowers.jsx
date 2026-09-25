@@ -267,6 +267,7 @@ const Wildflowers = () => (
     priceRange="£££"
     phoneNumber="+442046160181"
     website="https://www.wildflowersrestaurant.co.uk"
+    aliases={["Wildflowers Restaurant"]}
     tags={[]}
     awards={[
       

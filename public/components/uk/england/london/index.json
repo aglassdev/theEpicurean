@@ -8,7 +8,7 @@
   "citySlug": "london",
   "path": "/uk/england/london/restaurants",
   "canonicalPath": "/uk/england/london/restaurants",
-  "count": 618,
+  "count": 597,
   "hero": "/images/londonheader.png",
   "restaurants": [
     {
@@ -19,17 +19,17 @@
       "award": "★★★"
     },
     {
+      "name": "Connaught Bar",
+      "cuisine": "Meats and Grills",
+      "price": "Average price per cocktail $38",
+      "path": "/uk/london/london/hlne-darroze-at-the-connaught",
+      "award": "★★★"
+    },
+    {
       "name": "CORE by Clare Smyth",
       "cuisine": "Modern British",
       "price": "££££",
       "path": "/uk/london/london/core-by-clare-smyth",
-      "award": "★★★"
-    },
-    {
-      "name": "Hélène Darroze at The Connaught",
-      "cuisine": "Modern Cuisine",
-      "price": "££££",
-      "path": "/uk/london/london/hlne-darroze-at-the-connaught",
       "award": "★★★"
     },
     {
@@ -421,12 +421,12 @@
     {
       "name": "Luca",
       "cuisine": "Italian",
-      "price": "£££",
-      "path": "/uk/london/london/luca",
+      "price": "££££",
+      "path": "/uk/london/london/luca-l-o-n",
       "award": "★"
     },
     {
-      "name": "Mauro Colagreco at Raffles London at The OWO",
+      "name": "Mauro Colagreco",
       "cuisine": "Modern Cuisine",
       "price": "££££",
       "path": "/uk/london/london/mauro-colagreco-at-raffles-london-at-the-owo",
@@ -829,12 +829,6 @@
       "path": "/uk/london/london/amaro"
     },
     {
-      "name": "AMARO BAR",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/amaro-bar"
-    },
-    {
       "name": "Amazónico",
       "cuisine": "South American",
       "price": "£££",
@@ -956,12 +950,6 @@
     },
     {
       "name": "Bar des Prés",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/bar-des-prs"
-    },
-    {
-      "name": "Bar des Prés - Mayfair",
       "cuisine": "Asian",
       "price": "££££",
       "path": "/uk/london/london/bar-des-prs-mayfair"
@@ -1333,12 +1321,6 @@
       "path": "/uk/london/london/clarkes"
     },
     {
-      "name": "Clarke's Restaurant",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/clarkes-restaurant"
-    },
-    {
       "name": "Claro",
       "cuisine": "Mediterranean Cuisine",
       "price": "£££",
@@ -1379,12 +1361,6 @@
       "cuisine": "Mexican",
       "price": "$$$",
       "path": "/uk/london/london/cometa"
-    },
-    {
-      "name": "Connaught Bar",
-      "cuisine": "",
-      "price": "Average price per cocktail $38",
-      "path": "/uk/london/london/connaught-bar2"
     },
     {
       "name": "Coq d'Argent",
@@ -1793,12 +1769,6 @@
       "cuisine": "Chinese",
       "price": "££££",
       "path": "/uk/london/london/imperial-treasure-l-o-n"
-    },
-    {
-      "name": "Imperial Treasure Fine Chinese Cuisine (London)",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/imperial-treasure-fine-chinese-cuisine-london"
     },
     {
       "name": "Island",
@@ -2211,32 +2181,14 @@
     {
       "name": "Marksman",
       "cuisine": "Traditional British",
-      "price": "££",
-      "path": "/uk/london/london/marksman"
-    },
-    {
-      "name": "Marksman Public House",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/marksman-public-house"
+      "price": "$$",
+      "path": "/uk/london/london/the-marksman"
     },
     {
       "name": "Maru",
       "cuisine": "Japanese, Sushi",
       "price": "££££",
       "path": "/uk/london/london/maru-l-o-n"
-    },
-    {
-      "name": "Mauro Colagreco",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/mauro-colagreco"
-    },
-    {
-      "name": "Mauro Colagreco at Raffles London",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/mauro-colagreco-at-raffles-london"
     },
     {
       "name": "Mayha",
@@ -2408,12 +2360,6 @@
     },
     {
       "name": "Nobu London",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/nobu-london"
-    },
-    {
-      "name": "Nobu London Old Park Lane",
       "cuisine": "Japanese",
       "price": "£££",
       "path": "/uk/london/london/nobu-london-old-park-lane"
@@ -2497,12 +2443,6 @@
       "path": "/uk/london/london/oren"
     },
     {
-      "name": "Ormer Mayfair by Sofian",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/ormer-mayfair-by-sofian"
-    },
-    {
       "name": "Orrery",
       "cuisine": "",
       "price": "",
@@ -2555,12 +2495,6 @@
       "cuisine": "Sri Lankan, Contemporary",
       "price": "£££",
       "path": "/uk/london/london/paradise"
-    },
-    {
-      "name": "Paradise Soho",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/paradise-soho"
     },
     {
       "name": "Park Chinois",
@@ -2755,12 +2689,6 @@
       "path": "/uk/london/london/rambutan"
     },
     {
-      "name": "Restaurant 1890 by Gordon Ramsay",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/restaurant1890-by-gordon-ramsay"
-    },
-    {
       "name": "Restaurant Francatelli",
       "cuisine": "",
       "price": "",
@@ -2911,12 +2839,6 @@
       "path": "/uk/london/london/scully"
     },
     {
-      "name": "Scully St James's",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/scully-st-jamess"
-    },
-    {
       "name": "Seed Library",
       "cuisine": "",
       "price": "Average price per cocktail $15",
@@ -3013,12 +2935,6 @@
       "path": "/uk/london/london/soif"
     },
     {
-      "name": "SOLA Soho",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/sola-soho"
-    },
-    {
       "name": "Soma",
       "cuisine": "",
       "price": "Average price per cocktail $15",
@@ -3107,12 +3023,6 @@
       "cuisine": "European Contemporary",
       "price": "£££",
       "path": "/uk/london/london/sune"
-    },
-    {
-      "name": "Sune Restaurant",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/sune-restaurant"
     },
     {
       "name": "Supawan",
@@ -3271,12 +3181,6 @@
       "path": "/uk/london/london/the-compton-arms"
     },
     {
-      "name": "The Connaught Grill",
-      "cuisine": "Meats and Grills",
-      "price": "££££",
-      "path": "/uk/london/london/the-connaught-grill"
-    },
-    {
       "name": "The Cross Keys",
       "cuisine": "",
       "price": "",
@@ -3308,12 +3212,6 @@
     },
     {
       "name": "The Eagle",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/the-eagle"
-    },
-    {
-      "name": "The Eagle Farringdon",
       "cuisine": "",
       "price": "",
       "path": "/uk/london/london/the-eagle-farringdon"
@@ -3437,12 +3335,6 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "£££",
       "path": "/uk/london/london/the-lavery"
-    },
-    {
-      "name": "The Marksman",
-      "cuisine": "Traditional British",
-      "price": "$$",
-      "path": "/uk/london/london/the-marksman"
     },
     {
       "name": "The Midland Grand Dining Room",
@@ -3643,12 +3535,6 @@
       "path": "/uk/london/london/trailer-happiness"
     },
     {
-      "name": "Trattoria Brutto",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/trattoria-brutto"
-    },
-    {
       "name": "Trullo",
       "cuisine": "Italian",
       "price": "££",
@@ -3695,12 +3581,6 @@
       "cuisine": "",
       "price": "Average price per cocktail $22",
       "path": "/uk/london/london/viajante87"
-    },
-    {
-      "name": "Viajante87 Bar",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/viajante87-bar"
     },
     {
       "name": "Victoria",
@@ -3755,12 +3635,6 @@
       "cuisine": "Mediterranean Cuisine",
       "price": "£££",
       "path": "/uk/london/london/wildflowers"
-    },
-    {
-      "name": "Wildflowers Restaurant",
-      "cuisine": "",
-      "price": "",
-      "path": "/uk/london/london/wildflowers-restaurant"
     },
     {
       "name": "Willett's",

@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Lana = () => (
   <RestaurantPage
     restaurantName="Lana"
-    address="Ponzano 59, Madrid, 28003, Spain"
+    address="C/ de Ponzano, 59, Chamberí, 28003 Madrid, Spain"
     cuisine="Argentinian, Meats and Grills"
     priceRange="€€€"
     phoneNumber="+34626869855"
     website="https://www.restaurantelana.com"
+    aliases={["Restaurante Lana"]}
     tags={[]}
     awards={[
       

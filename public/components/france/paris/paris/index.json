@@ -8,7 +8,7 @@
   "citySlug": "paris",
   "path": "/france/paris/paris/restaurants",
   "canonicalPath": "/france/paris/paris/restaurants",
-  "count": 608,
+  "count": 593,
   "restaurants": [
     {
       "name": "Alléno Paris au Pavillon Ledoyen",
@@ -502,7 +502,7 @@
       "award": "★"
     },
     {
-      "name": "Jean Imbert au Plaza Athénée",
+      "name": "Jean Imbert",
       "cuisine": "Classic Cuisine",
       "price": "€€€€",
       "path": "/france/paris/paris/jean-imbert-au-plaza-athne",
@@ -1048,12 +1048,6 @@
       "path": "/france/paris/paris/akira-back-paris"
     },
     {
-      "name": "Alain Ducasse Baccarat",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/alain-ducasse-baccarat"
-    },
-    {
       "name": "Allard",
       "cuisine": "Traditional Cuisine",
       "price": "€€€",
@@ -1139,9 +1133,9 @@
     },
     {
       "name": "Augustin",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/augustin"
+      "cuisine": "Traditional Cuisine",
+      "price": "€€",
+      "path": "/france/paris/paris/bistrot-augustin"
     },
     {
       "name": "Aura Dessert Dining",
@@ -1262,12 +1256,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/bistro-s"
-    },
-    {
-      "name": "Bistrot Augustin",
-      "cuisine": "Traditional Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/bistrot-augustin"
     },
     {
       "name": "Bistrot des Fables",
@@ -1399,7 +1387,7 @@
       "name": "Caffè Stern",
       "cuisine": "Italian",
       "price": "€€€€",
-      "path": "/france/paris/paris/caff-stern"
+      "path": "/france/paris/paris/stern-ristorante"
     },
     {
       "name": "Caillebotte",
@@ -2014,12 +2002,6 @@
       "path": "/france/paris/paris/irwin"
     },
     {
-      "name": "Jean Imbert",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/jean-imbert"
-    },
-    {
       "name": "Jeanne-Aimée",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -2362,12 +2344,6 @@
       "path": "/france/paris/paris/la-rgalade-sainthonor"
     },
     {
-      "name": "La Scène - Stéphanie Le Quellec",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/la-scne-stphanie-le-quellec"
-    },
-    {
       "name": "La Table Cachée par Michel Roth",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -2411,12 +2387,6 @@
     },
     {
       "name": "LAVA",
-      "cuisine": "Modern Cuisine",
-      "price": "€€€",
-      "path": "/france/paris/paris/lava"
-    },
-    {
-      "name": "LAVA - Cuisine & Vin",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/lava-cuisine-vin"
@@ -2614,12 +2584,6 @@
       "path": "/france/paris/paris/le-duc"
     },
     {
-      "name": "Le Faham by Kelly Rangama",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/le-faham-by-kelly-rangama"
-    },
-    {
       "name": "Le Florimond",
       "cuisine": "Traditional Cuisine",
       "price": "€€",
@@ -2738,12 +2702,6 @@
       "cuisine": "",
       "price": "Average price per person $93",
       "path": "/france/paris/paris/le-rigmarole"
-    },
-    {
-      "name": "Le Savarin",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/le-savarin"
     },
     {
       "name": "Le Servan",
@@ -2908,12 +2866,6 @@
       "path": "/france/paris/paris/loulou"
     },
     {
-      "name": "Lucas Carton - La Table",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/lucas-carton-la-table"
-    },
-    {
       "name": "Mâche",
       "cuisine": "Creative",
       "price": "€€€",
@@ -2929,7 +2881,7 @@
       "name": "Magma",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
-      "path": "/france/paris/paris/magma"
+      "path": "/france/paris/paris/magma-p-a-r"
     },
     {
       "name": "Magnolia",
@@ -3100,12 +3052,6 @@
       "path": "/france/paris/paris/monsieur-dior-by-yannick-allno"
     },
     {
-      "name": "Monsieur Dior by Yannick Alléno — DIOR Paris 30 Montaigne",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/monsieur-dior-by-yannick-allno-dior-paris30-montaigne"
-    },
-    {
       "name": "Montée",
       "cuisine": "Modern Cuisine",
       "price": "€€€",
@@ -3128,12 +3074,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/neva-cuisine"
-    },
-    {
-      "name": "Néva Cuisine",
-      "cuisine": "Modern Cuisine",
-      "price": "€€",
-      "path": "/france/paris/paris/nva-cuisine"
     },
     {
       "name": "Nodaïwa",
@@ -3414,12 +3354,6 @@
     {
       "name": "Quelque Part",
       "cuisine": "Creative",
-      "price": "€€€",
-      "path": "/france/paris/paris/quelque-part"
-    },
-    {
-      "name": "Quelque part... Les Abysses",
-      "cuisine": "Creative",
       "price": "€€€€",
       "path": "/france/paris/paris/quelque-part-les-abysses"
     },
@@ -3478,24 +3412,6 @@
       "path": "/france/paris/paris/restaurant-grands-boulevards-experimental"
     },
     {
-      "name": "Restaurant Oxte",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/restaurant-oxte"
-    },
-    {
-      "name": "Restaurant Passerini",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/restaurant-passerini"
-    },
-    {
-      "name": "Ristorante Tosca",
-      "cuisine": "",
-      "price": "",
-      "path": "/france/paris/paris/ristorante-tosca"
-    },
-    {
       "name": "Ritz Paris Le Comptoir",
       "cuisine": "",
       "price": "",
@@ -3535,7 +3451,7 @@
       "name": "Savarin",
       "cuisine": "Modern Cuisine",
       "price": "€€",
-      "path": "/france/paris/paris/savarin"
+      "path": "/france/paris/paris/le-savarin"
     },
     {
       "name": "Sellae",
@@ -3632,12 +3548,6 @@
       "cuisine": "Modern Cuisine",
       "price": "€€€",
       "path": "/france/paris/paris/sourire-le-restaurant"
-    },
-    {
-      "name": "Stern Ristorante",
-      "cuisine": "Italian",
-      "price": "€€€€",
-      "path": "/france/paris/paris/stern-ristorante"
     },
     {
       "name": "Super Huit",

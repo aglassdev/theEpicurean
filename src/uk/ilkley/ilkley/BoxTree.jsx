@@ -267,6 +267,7 @@ const BoxTree = () => (
     priceRange="££££"
     phoneNumber="+441943608484"
     website="https://www.theboxtree.co.uk/"
+    aliases={["The Box Tree Restaurant"]}
     tags={[]}
     awards={[
       

@@ -8,25 +8,19 @@
   "citySlug": "coloreto",
   "path": "/italy/coloreto/coloreto/restaurants",
   "canonicalPath": "/italy/coloreto/coloreto/restaurants",
-  "count": 3,
+  "count": 2,
   "restaurants": [
     {
       "name": "Ai Due Platani",
-      "cuisine": "",
-      "price": "",
-      "path": "/italy/coloreto/coloreto/ai-due-platani"
+      "cuisine": "Emilian, Traditional Cuisine",
+      "price": "€",
+      "path": "/italy/coloreto/coloreto/trattoria-ai-due-platani"
     },
     {
       "name": "La Maison du Gourmet",
       "cuisine": "Contemporary, Modern Cuisine",
       "price": "€€€",
       "path": "/italy/coloreto/coloreto/la-maison-du-gourmet"
-    },
-    {
-      "name": "Trattoria Ai Due Platani",
-      "cuisine": "Emilian, Traditional Cuisine",
-      "price": "€",
-      "path": "/italy/coloreto/coloreto/trattoria-ai-due-platani"
     }
   ]
 }

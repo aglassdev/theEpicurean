@@ -267,6 +267,7 @@ const MartinGschel = () => (
     priceRange="€€€€"
     phoneNumber="+41338889866"
     website="https://www.thealpinagstaad.ch/"
+    aliases={["Sommet by Martin Göschel"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

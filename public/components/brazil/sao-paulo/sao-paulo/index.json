@@ -8,7 +8,7 @@
   "citySlug": "sao-paulo",
   "path": "/brazil/sao-paulo/sao-paulo/restaurants",
   "canonicalPath": "/brazil/so-paulo/so-paulo/restaurants",
-  "count": 137,
+  "count": 135,
   "hero": "/images/saopauloheader.png",
   "restaurants": [
     {
@@ -622,21 +622,15 @@
     },
     {
       "name": "Mocotó",
-      "cuisine": "",
-      "price": "",
-      "path": "/brazil/so-paulo/so-paulo/mocot"
+      "cuisine": "Brazilian",
+      "price": "$",
+      "path": "/brazil/so-paulo/so-paulo/mocot-vila-medeiros"
     },
     {
       "name": "Mocotó Vila Leopoldina",
       "cuisine": "Brazilian",
       "price": "$$",
       "path": "/brazil/so-paulo/so-paulo/mocot-vila-leopoldina"
-    },
-    {
-      "name": "Mocotó Vila Medeiros",
-      "cuisine": "Brazilian",
-      "price": "$",
-      "path": "/brazil/so-paulo/so-paulo/mocot-vila-medeiros"
     },
     {
       "name": "Mondo",
@@ -666,7 +660,7 @@
       "name": "NOTIÊ",
       "cuisine": "Brazilian, Modern Cuisine",
       "price": "$$$",
-      "path": "/brazil/so-paulo/so-paulo/noti"
+      "path": "/brazil/so-paulo/so-paulo/terrao-noti"
     },
     {
       "name": "Osso",
@@ -799,12 +793,6 @@
       "cuisine": "South American",
       "price": "$$$",
       "path": "/brazil/so-paulo/so-paulo/taraz"
-    },
-    {
-      "name": "Terraço NOTIÊ",
-      "cuisine": "Brazilian, Modern Cuisine",
-      "price": "$$$",
-      "path": "/brazil/so-paulo/so-paulo/terrao-noti"
     },
     {
       "name": "The Kith",

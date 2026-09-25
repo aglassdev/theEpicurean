@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const TheFoxLOW = () => (
   <RestaurantPage
     restaurantName="The Fox"
-    address="High Street, Lower Oddington, GL56 0UR, United Kingdom"
+    address="High St, Lower Oddington, Moreton-in-Marsh GL56 0UR, UK"
     cuisine="Modern British"
     priceRange="££"
     phoneNumber="+441451767000"
     website="https://thefoxatoddington.com"
+    aliases={["The Fox at Oddington"]}
     tags={[]}
     awards={[
       

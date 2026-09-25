@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const OneEightNineZeroByGordonRamsay = () => (
   <RestaurantPage
     restaurantName="1890 by Gordon Ramsay"
-    address="Strand, London, WC2R 0EU, United Kingdom"
+    address="Savoy Hotel, Strand, London WC2R 0EU, United Kingdom"
     cuisine="French Contemporary"
     priceRange="££££"
     phoneNumber="+442074990124"
     website="https://www.gordonramsayrestaurants.com/restaurant-1890"
+    aliases={["Restaurant 1890 by Gordon Ramsay"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

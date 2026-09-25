@@ -266,7 +266,8 @@ const Atelier = () => (
     cuisine="Creative French, Seasonal Cuisine"
     priceRange="€€€€"
     phoneNumber="+498921200"
-    website="https://www.bayerischerhof.de/de/"
+    website="https://www.bayerischerhof.de/de/erleben-geniessen/restaurants-bars/restaurants/atelier.html"
+    aliases={["Atelier im Bayerischen Hof"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" }

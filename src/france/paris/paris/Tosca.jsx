@@ -267,6 +267,7 @@ const Tosca = () => (
     priceRange="€€€"
     phoneNumber="+33142681000"
     website="https://www.robertonaldicollection.com/fr/splendide-royal-paris/restaurant-romantique-paris"
+    aliases={["Ristorante Tosca"]}
     tags={[]}
     awards={[
       

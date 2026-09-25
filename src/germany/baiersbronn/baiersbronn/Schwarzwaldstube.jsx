@@ -267,6 +267,7 @@ const Schwarzwaldstube = () => (
     priceRange="€€€€"
     phoneNumber="+497442492665"
     website="https://www.traube-tonbach.de/restaurants-bar/schwarzwaldstube/"
+    aliases={["temporaire - Schwarzwaldstube"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 3, year: "2025", organization: "Guide Michelin" }

@@ -267,6 +267,7 @@ const PetitTrois = () => (
     priceRange="$$$"
     phoneNumber="+13234688916"
     website="https://petittrois.com/"
+    aliases={["Petit Trois L'Original"]}
     tags={[]}
     awards={[
       

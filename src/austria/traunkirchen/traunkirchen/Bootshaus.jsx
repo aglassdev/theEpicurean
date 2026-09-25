@@ -267,6 +267,7 @@ const Bootshaus = () => (
     priceRange="€€€€"
     phoneNumber="+4376172216"
     website="https://www.dastraunsee.at/restaurant-bootshaus"
+    aliases={["Restaurant Bootshaus"]}
     tags={[{ name: "Green Star" }]}
     awards={[
       { name: "Michelin Stars", count: 1, year: "2025", organization: "Guide Michelin" }

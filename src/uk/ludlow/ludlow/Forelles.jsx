@@ -267,6 +267,7 @@ const Forelles = () => (
     priceRange="£££"
     phoneNumber="+441584875148"
     website="https://www.fishmorehall.co.uk"
+    aliases={["Forelles Restaurant"]}
     tags={[]}
     awards={[
       

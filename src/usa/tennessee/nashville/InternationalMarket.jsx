@@ -267,6 +267,7 @@ const InternationalMarket = () => (
     priceRange="$"
     phoneNumber="+16152974453"
     website="https://www.im2nashville.com/"
+    aliases={["International Market and Restaurant"]}
     tags={[]}
     awards={[
       

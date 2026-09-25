@@ -266,7 +266,8 @@ const Paradise = () => (
     cuisine="Sri Lankan, Contemporary"
     priceRange="£££"
     phoneNumber=""
-    website="https://paradisesoho.com/"
+    website="https://www.paradisesoho.com"
+    aliases={["Paradise Soho"]}
     tags={[]}
     awards={[
       

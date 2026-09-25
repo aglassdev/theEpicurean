@@ -267,6 +267,7 @@ const Brutto = () => (
     priceRange="££"
     phoneNumber="+442045370928"
     website="https://brutto.co.uk"
+    aliases={["Trattoria Brutto"]}
     tags={[]}
     awards={[
       

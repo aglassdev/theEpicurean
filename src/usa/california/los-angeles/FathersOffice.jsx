@@ -267,6 +267,7 @@ const FathersOffice = () => (
     priceRange="$$"
     phoneNumber="+13107362224"
     website="https://fathersoffice.com/"
+    aliases={["Father's Office — Culver City"]}
     tags={[]}
     awards={[
       

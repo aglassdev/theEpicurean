@@ -261,19 +261,20 @@ const RestaurantPage = ({
 
 const StokeMillRestaurant = () => (
   <RestaurantPage
-    restaurantName="Stoke Mill Restaurant"
+    restaurantName="Stoke Mill"
     address="Mill Road, Stoke Holy Cross, NR14 8PA, United Kingdom"
     cuisine="Traditional Cuisine"
     priceRange="£££"
     phoneNumber="+441508493337"
     website="https://www.stokemill.co.uk"
+    aliases={["Stoke Mill Restaurant"]}
     tags={[]}
     awards={[
       
     ].filter(Boolean)}
     bio="A 700-year-old mill makes a terrific setting for this characterful restaurant spanning the River Tas. You can feel a palpable sense of history not only in the mill itself, but in the knowledge that the adjoining building is where the Colman family started making their famous mustard back in 1814. The cooking, for its part, consists of technically adept versions of straightforward, classically based dishes where the ingredients are strong and the flavours are distinct...."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=Mill%20Road%2C%20Stoke%20Holy%20Cross%2C%20NR14%208PA%2C%20United%20Kingdom"
-    pageTitle="Stoke Mill Restaurant"
+    pageTitle="Stoke Mill"
   />
 );
 

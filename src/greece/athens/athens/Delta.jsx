@@ -267,6 +267,7 @@ const Delta = () => (
     priceRange="€€€€"
     phoneNumber="+306986657553"
     website="https://www.deltarestaurant.gr"
+    aliases={["Delta Restaurant"]}
     tags={[{ name: "Green Star" }]}
     awards={[
       { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" }

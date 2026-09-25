@@ -267,6 +267,7 @@ const AranyKavir = () => (
     priceRange="€€€€"
     phoneNumber="+36306856000"
     website="https://aranykaviar.hu/"
+    aliases={["Arany Kaviár Étterem"]}
     tags={[]}
     awards={[
       

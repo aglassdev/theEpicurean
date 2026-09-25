@@ -262,11 +262,12 @@ const RestaurantPage = ({
 const Fernery = () => (
   <RestaurantPage
     restaurantName="Fernery"
-    address="Molleston, Narberth, SA67 8BX, United Kingdom"
+    address="The Grove, Molleston, Narberth SA67 8BX, United Kingdom"
     cuisine="Modern Cuisine"
     priceRange="££££"
     phoneNumber="+441834860915"
     website="https://ferneryrestaurant.co.uk"
+    aliases={["Fernery Restaurant"]}
     tags={[]}
     awards={[
       

@@ -267,6 +267,7 @@ const AstorClubChefsTable = () => (
     priceRange="$$$$"
     phoneNumber="+13129000024"
     website="https://astorclub.com"
+    aliases={["Chef's Table at Astor Club"]}
     tags={[]}
     awards={[
       

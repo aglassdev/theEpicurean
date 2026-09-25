@@ -8,7 +8,7 @@
   "citySlug": "rome",
   "path": "/italy/rome/rome/restaurants",
   "canonicalPath": "/italy/rome/rome/restaurants",
-  "count": 103,
+  "count": 99,
   "restaurants": [
     {
       "name": "La Pergola",
@@ -169,12 +169,6 @@
     },
     {
       "name": "Aede",
-      "cuisine": "",
-      "price": "",
-      "path": "/italy/rome/rome/aede"
-    },
-    {
-      "name": "aede dining & wines",
       "cuisine": "European Contemporary",
       "price": "€€",
       "path": "/italy/rome/rome/aede-dining-wines"
@@ -404,20 +398,14 @@
     {
       "name": "Kohaku",
       "cuisine": "Japanese Contemporary, Japanese",
-      "price": "€€",
-      "path": "/italy/rome/rome/kohaku"
+      "price": "€€€",
+      "path": "/italy/rome/rome/kohaku-r-o-m"
     },
     {
       "name": "L'Arcangelo",
       "cuisine": "Roman, Farm to table",
       "price": "€€",
       "path": "/italy/rome/rome/larcangelo"
-    },
-    {
-      "name": "L'Arcangelo Vino e Cucina",
-      "cuisine": "",
-      "price": "",
-      "path": "/italy/rome/rome/larcangelo-vino-e-cucina"
     },
     {
       "name": "L'Osteria della Trippa",
@@ -546,12 +534,6 @@
       "path": "/italy/rome/rome/rinaldi-al-quirinale"
     },
     {
-      "name": "Ristorante Roscioli",
-      "cuisine": "",
-      "price": "Average price per person $65",
-      "path": "/italy/rome/rome/ristorante-roscioli"
-    },
-    {
       "name": "Romanè",
       "cuisine": "Roman, Cuisine from Lazio",
       "price": "€",
@@ -560,14 +542,8 @@
     {
       "name": "Roscioli",
       "cuisine": "Roman, Italian",
-      "price": "€€",
+      "price": "Average price per person $65",
       "path": "/italy/rome/rome/roscioli"
-    },
-    {
-      "name": "Roscioli Salumeria con Cucina",
-      "cuisine": "",
-      "price": "",
-      "path": "/italy/rome/rome/roscioli-salumeria-con-cucina"
     },
     {
       "name": "San Baylon",

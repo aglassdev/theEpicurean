@@ -267,6 +267,7 @@ const Assemblage = () => (
     priceRange="$$$$"
     phoneNumber="+5492615688716"
     website="https://guide.michelin.com/en/provincia-mendoza/mendoza_777010/restaurant/assemblage"
+    aliases={["Assemblage Maison Alta Vista"]}
     tags={[]}
     awards={[
       

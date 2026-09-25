@@ -267,6 +267,7 @@ const Nolita = () => (
     priceRange="€€€€"
     phoneNumber="+48222920424"
     website="https://www.nolita.pl/"
+    aliases={["Restaurant Nolita"]}
     tags={[]}
     awards={[
       

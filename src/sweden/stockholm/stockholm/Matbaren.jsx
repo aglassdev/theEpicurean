@@ -266,7 +266,8 @@ const Matbaren = () => (
     cuisine="Modern Cuisine"
     priceRange="€€"
     phoneNumber="+4686793584"
-    website="https://mdghs.se"
+    website="https://mdghs.se/en/matbaren"
+    aliases={["Mathias Dahlgren – Matbaren"]}
     tags={[]}
     awards={[
       

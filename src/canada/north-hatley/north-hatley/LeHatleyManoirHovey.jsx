@@ -261,19 +261,20 @@ const RestaurantPage = ({
 
 const LeHatleyManoirHovey = () => (
   <RestaurantPage
-    restaurantName="Le Hatley - Manoir Hovey"
-    address="575 rue Hovey, North Hatley, J0B 2C0, Canada"
+    restaurantName="Le Hatley"
+    address="575 Rue Hovey, North Hatley, QC J0B 2C0, Canada"
     cuisine="Modern Cuisine"
     priceRange="$$$$"
     phoneNumber="+18198422421"
     website="https://manoirhovey.com/fr/restauration/restaurant-le-hatley"
+    aliases={["Le Hatley - Manoir Hovey"]}
     tags={[]}
     awards={[
       
     ].filter(Boolean)}
     bio="Located on a magnificent estate overlooking Lake Massawippi, this establishment has a fine dining restaurant. Chef Alexandre Vachon cooks up modern cuisine based on classic foundations, often showcasing ingredients from the Québec terroir. Precise cooking, variations on a single ingredient, and bold combinations characterize his dishes: think scallops and sea urchin, Sterling beef, and onion condiment. Two tasting menus are available, one of which is vegetarian, in addition to an à la carte menu. Wine lovers will want to peruse the digital wine list boasting most of wonderful references. Gentle service...."
     googleMapsEmbed="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=575%20rue%20Hovey%2C%20North%20Hatley%2C%20J0B%202C0%2C%20Canada"
-    pageTitle="Le Hatley - Manoir Hovey"
+    pageTitle="Le Hatley"
   />
 );
 

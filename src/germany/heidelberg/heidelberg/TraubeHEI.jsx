@@ -267,6 +267,7 @@ const TraubeHEI = () => (
     priceRange="€€€€"
     phoneNumber="+4962216737222"
     website="https://www.traube-heidelberg.de/"
+    aliases={["Traube Rohrbach"]}
     tags={[{ name: "Green Star" }]}
     awards={[
       

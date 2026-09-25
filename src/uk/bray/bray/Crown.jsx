@@ -267,6 +267,7 @@ const Crown = () => (
     priceRange="££"
     phoneNumber="+441628621936"
     website="https://www.thecrownatbray.com/"
+    aliases={["The Crown at Bray"]}
     tags={[]}
     awards={[
       

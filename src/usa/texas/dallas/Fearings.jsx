@@ -266,7 +266,8 @@ const Fearings = () => (
     cuisine="American, Regional Cuisine"
     priceRange="$$$$"
     phoneNumber="+12149224848"
-    website="https://fearingsrestaurant.com/"
+    website="https://www.fearingsrestaurant.com"
+    aliases={["Fearing's Restaurant"]}
     tags={[]}
     awards={[
       
