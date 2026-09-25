@@ -267,6 +267,8 @@ const Vyn = () => (
     priceRange="€€€€"
     phoneNumber="+4641420400"
     website="https://www.vynrestaurant.se"
+    openingNote="Lunch Sat Dinner: Tues – Fri"
+    aliases={["Vyn Restaurant – Daniel Berlin"]}
     tags={[]}
     awards={[
       { name: "Michelin Stars", count: 2, year: "2025", organization: "Guide Michelin" }
